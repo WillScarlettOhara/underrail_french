@@ -1,0 +1,817 @@
+::LeatherArmor_Name
+Leather Armor
+
+::LeatherArmor
+Though they offer only light protection against mechanical attacks, leather armors often have other benefits based on the type of skin used in their crafting.
+
+::PsiBooster_Name
+Psi Booster
+
+::PsiBooster
+This concoction contains moderate levels of psycho-catalytic substances that enhance psionic regeneration with no known side effects. It requires the extract from Lacesso Gigantus mushroom, commonly known as 'Mindshroom'.
+
+::PsiInhalant_Name
+Psi Inhalant
+
+::PsiInhalant
+A disposable psi inhalant is the safest and most common way of replenishing psi reserves. It requires unsaturated psionic catalyst, pure oxygen and some sort of a filter.
+
+::MindDarts_Name
+Mind Darts
+
+::MindDarts
+'Mind Dart' is a variation of psi booster with addition of toxic and hallucinogenic substances extracted from the Red Dream mushroom. This mixture is highly dangerous to the consumer and should be taken in multiple smaller doses (if at all). It provides an instant surge of psionic activity as well as increases psi regeneration greatly for a short period of time, but is inevitably followed by a long period of psionic withdrawal.
+
+::ShieldRecharger_Name
+Shield Recharger
+
+::ShieldRecharger
+While activate shield emitters cannot recharge their batteries by siphoning from their energy core, but they can however be recharged directly with adequate electromagnetic waves.
+
+Shield recharger is a portable device that can emit these waves. It consists of two major parts: its own energy core and electromagnetic emitter.
+
+This device also supports modulation.
+
+::tntc_Name
+T.N.T Charge
+
+::tntc
+Timer triggered TNT charges are often used to clear up passages and bust open sealed doors of abandoned (or not so abandoned) stations to make way for scavengers.
+
+It is easy to build and relatively inexpensive compared to its more powerful C-4 counterpart.
+
+::gr_Name
+Hand Grenade
+
+::gr
+There are two types of conventional explosive hand grenades: 
+
+- Fragmentation (frag) grenade which is used as an anti-personnel weapon
+
+- High-explosive grenade which is primarily used against heavily armored targets.
+
+The type of the grenade created is dictated by its case, while its power depends on the combination of explosive fillings used.
+
+::xbow_Name
+Crossbow
+
+::xbow
+Although not as devastating as firearms or energy weapons, crossbow is still a dangerous device. The bolts it fires can be rigged with explosives or coated with poison, but are otherwise generally less efficient against heavily armored targets. On the other hand, since bolts fly at a relatively low speed they penetrate energy shields more easily.
+
+::pistol_Name
+Pistol
+
+::pistol
+Pistols can be created from frame and barrel parts. The type and quality of the frame will determine the pistol's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::sniper_Name
+Sniper Rifle
+
+::sniper
+Sniper rifles can be created from frame, barrel and scope parts. The type and quality of the frame will determine the rifle's overall damage potential, while the barrel will dictate the payload. Scope will influence the rifle's precision, critical hit chance and other qualities.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::tacticalVest_Name
+Tactical Vest
+
+::tacticalVest
+Tactical vest is a type of ballistic vest intended to be used as personal armor when engaging in firearm combat. 
+
+It consists of ballistic panel placed inside a carrier vest and optionally reinforced with heavy metal or ceramic plates.
+
+::riotGear_Name
+Riot Gear
+
+::riotGear
+Riot armor is a special type of tactical armor that is efficient against both firearms and melee attacks.
+
+It consists of ballistic panel placed inside a carrier vest. It may also include a shield for added protection against melee attacks and/or a coat.
+
+::MetalArmor_Name
+Metal Armor
+
+::MetalArmor
+Metal armors provide excellent protection against mechanical attacks of all kinds and good protection against high energy attacks.
+
+With right enhancements they can also be used offensively in melee combat.
+
+::smg_Name
+SMG
+
+::smg
+Submachine gun, sometimes called personal defense weapon (PDW), is a compact automatic weapon.
+
+It can be created from frame and barrel parts. The type and quality of the frame will determine the weapon's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::sledgehammer_Name
+Sledgehammer
+
+::sledgehammer
+Sledgehammer can be a powerful melee weapon in the hands of strong wielder.
+
+A powerful sledgehammer strike can send damaging mechanical waves even through the thickest of armors.
+
+It can even carry some manner of power module for when the cold steel isn't enough.
+
+::combatKnife_Name
+Combat Knife
+
+::combatKnife
+Combat knives can be crafted out of any metal and come in number of different shapes depending on the mold used.
+
+They are quick and deadly close quarters weapons against unarmored or unsuspecting targets.
+
+::assaultRifle_Name
+Assault Rifle
+
+::assaultRifle
+Assault rifle is a light automatic rifle designed for mobile individual use.
+
+It can be created from frame and barrel parts. The type and quality of the frame will determine the weapon's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::energyPistol_Name
+Energy Pistol
+
+::energyPistol
+Energy weapons are generally less devastating than firearms, but they are more precise and can easily pierce most armor types.
+
+Energy pistol can be constructed from an energy projector, such as laser emitter or plasma discharger, and energy core. The quality of the former affects the output power, while the latter determines battery capacity.
+
+::chemicalPistol_Name
+Chemical Pistol
+
+::chemicalPistol
+Chemical pistol can be crafted by mounting a chemical collector and a dispenser onto a special pistol frame. 
+
+Type of collector will determine the substance the pistol can fire, while dispenser will determine in what form the substance is fired.
+
+::extractToxin_Name
+Извлачење Течности
+
+::extractToxin
+Можете извући телесне течности из органа разни створења.
+
+::processPlant_Name
+Process Plant or Fungus
+
+::processPlant
+Various useful chemicals can be extracted from plants and mushrooms.
+
+::chemicalBolt_Name
+Chemical Bolt
+
+::chemicalBolt
+Crossbow bolts can carry various substances that they inject upon impact, such as poisons and tranquilizers.
+
+::mechanicalBolt_Name
+Serrated Bolt
+
+::mechanicalBolt
+You can create serrated bolts by adding serrated blades to the bolt's head.
+
+::broadheadBolt_Name
+Broadhead Bolt
+
+::broadheadBolt
+You can create broadhead bolts if you have appropriate bolt tip.
+
+::shockBolt_Name
+Shock Bolt
+
+::shockBolt
+A shock bolt is created by attaching a number of micro electroshock dischargers to a regular bolt. The number of dischargers determines the power of the shock bolt, but also the crafting difficulty. 
+
+A sufficiently powerful energy battery is required to charge up the bolt.
+
+::incendiaryBolt_Name
+Incendiary Bolt
+
+::incendiaryBolt
+An incendiary bolt is created by attaching a vial of any highly incendiary substance to the tip of a regular bolt.
+
+::empGrenade_Name
+EMP Grenade
+
+::empGrenade
+EMP grenades are created by combining electromagnetic dischargers with any high energy battery (such as plasma or fusion cell) inside a thin grenade case.
+
+::cloakingDevice_Name
+Cloaking Device
+
+::cloakingDevice
+A visible light deflection field generator, commonly known as stealth generator or cloaking device, is created by attaching electromagnetic deflector to a high energy core. The quality of the former determines the cloaking potential. Finally, electromagnetic field stabilizer is added to improve efficiency.
+
+::MetalHelmet_Name
+Metal Helmet
+
+::MetalHelmet
+Metal helmets provide decent protection against mechanical and energy attacks and also reduce the chance for the wearer to be critically hit.
+
+::Goggles_Name
+Goggles
+
+::Goggles
+Goggles have two main components: the pair of lenses that provide various advantages (sometimes coupled with disadvantages) to the wearer at all times; and an optional vision processing module that also requires a power core to be installed in order to work.
+
+::Boots_Name
+Boots
+
+::Boots
+Boots can be made out of leather or metal and padded with a number of different materials.
+
+::Greaves_Name
+Greaves
+
+::Greaves
+Greaves can be made out of metal and padded with a number of different materials.
+
+::mine_Name
+Mine
+
+::mine
+There are two types of conventional explosive land mines: 
+
+- Fragmentation (frag) mine which is used as an anti-personnel weapon
+
+- High-explosive mine which is primarily used against heavily armored targets.
+
+The type of the land mine created is dictated by its case, while its power depends on the combination of explosive fillings used.
+
+::empMine_Name
+EMP Mine
+
+::empMine
+An EMP mine can be created by combining electromagnetic dischargers with any high energy battery (such as plasma or fusion cell) inside a special EMP mine case.
+
+::chemicalAmmo_Name
+Chemical Ammo
+
+::chemicalAmmo
+Ammunition for chemical weapons can be created by mixing the targeted chemical with bonding agent and storing it inside a vial that can later be loaded into a weapon.
+
+::chemicalBlobTrap_Name
+Chemical Blob Trap
+
+::chemicalBlobTrap
+Chemical blob traps can entangle their victims in deadly sludge formed out of various substances. 
+
+They are created by combining blob dispenser, special chemical trap case and the desired substance mixed with a bonding agent.
+
+Different substances have different side effects, while the quality of the blob dispenser determines the overall lethality of the trap.
+
+::healthHypo_Name
+Health Hypo
+
+::healthHypo
+Health hypo can be created by mixing healthy animal blood with insectoid saliva and preserving the mixture with anticoagulant.
+
+::advancedHealthHypo_Name
+Advanced Health Hypo
+
+::advancedHealthHypo
+Advanced health hypo can be created by mixing healthy animal blood with gel electrolyte and taurine.
+
+::adrenalineShot_Name
+Adrenaline Shot
+
+::adrenalineShot
+Adrenaline shot can easily be created by a skilled biologist from raw adrenaline.
+
+::morphineShot_Name
+Morphine Shot
+
+::morphineShot
+Morphine shot can easily be created by a skilled biologist from raw morphine.
+
+::nervosomnifer_Name
+Nervosomnifer
+
+::nervosomnifer
+Nervosomnifer is an experimental pain reducing drug that requires rare exotic ingredients.
+
+::caltrops_Name
+Caltrops
+
+::caltrops
+Caltrops can be crafted out of any metal. The quality of the metal does not influence the end product.
+
+Optionally the caltrops can be tipped with poison.
+
+::bearTrap_Name
+Bear Trap
+
+::bearTrap
+A simple mechanical trap designed to wound and ensnare the victim.
+
+Optionally, the metal jaws of a bear trap can be tipped with poison in order to inflict even more harm to the unsuspecting victim.
+
+::repairKit_Name
+Repair Kit
+
+::repairKit
+You can create repair kits from pieces of scrap. The type of scrap you use (metal, electronic, fabric) will determine the type of repair kit. Using additional scraps during construction will allow you to create more advanced repair kits.
+
+You cannot mix different types of scrap.
+
+::vehicleRepairKit_Name
+Vehicle Repair Kit
+
+::vehicleRepairKit
+You can create vehicle repair kit from pieces of mechanical and electronic scrap, providing you are skilled enough.
+
+::recycleItem_Name
+Recycle Item
+
+::recycleItem
+You can recycle repairable items to gain scraps that you can later use in crafting. 
+
+The type of scrap gained depends on the item's durability type and the amount depends on the item's current durability.
+
+::psionicHeadband_Name
+Psionic Headband
+
+::psionicHeadband
+Psionic headband augments, and sometimes inhibits, various aspects of psionic invocation, depending on parts used in constructing it.
+
+The basic psionic headband consists of the frame and a modulator. The latter determines which areas of psionic potential (psi schools) the headband focuses on.
+
+Headband can also sport various enhancements.
+
+::combatGloves_Name
+Combat Gloves
+
+::combatGloves
+Combat gloves can be created from leather or metal. They can be reinforced with additional metal plating or sport enhancements such as spikes and blades.
+
+They can even carry some manner of power module for that extra punch.
+
+::energyShieldEmitter_Name
+Energy Shield Emitter
+
+::energyShieldEmitter
+Energy shield emitters are used to absorb all or part of the damage directed at the user by expending electrical energy. The amount absorbed varies depending on the quality of the components used and the impact speed of an attack.
+
+They can be crafted from a base, one or two modulators, energy core and optional enchancement.
+
+The type modulator will determine how the absorbing capabilities are spread across the impact speed spectrum, though all shields generally perform better against higher impact speeds (high speed ballistic projectiles, energy weapons, explosions).
+
+Quality of the energy core will determine the capacity of the shield.
+
+::Balaclava_Name
+Balaclava
+
+::Balaclava
+A balaclava is a form of cloth headwear that covers the whole head, exposing only part of the face.
+
+It can be created out of any type of cloth.
+
+::TabiBoots_Name
+Tabi Boots
+
+::TabiBoots
+Tabi Boots are light form of footwear that offer little to no mechanical protection from attacks, but allow for agile movement.
+
+They can be crafted from either cloth or leather.
+
+::Taser_Name
+Taser
+
+::Taser
+Taser can be used to harm and stun living creatures and machines.
+
+It can be crafted from an electroshock generator and an energy core.
+
+::throwingKnives_Name
+Throwing Knives
+
+::throwingKnives
+Throwing knives can be crafted out of any metal. The quality of the metal does not influence the end product.
+
+Optionally throwing knives can be tipped with poison.
+
+::shockShurikens_Name
+Shock Shurikens
+
+::shockShurikens
+Shock shurikens can be crafted out of any metal and a number of micro electroshock dischargers.
+
+Any battery can be used to charge up the shurikens.
+
+::irongut_Name
+Irongut
+
+::irongut
+Irongut protects you from biological hazards. It can be created from taurine and gizzard enzymes.
+
+::trance_Name
+Trance
+
+::trance
+Trance used to be a popular drug among psi users, but fell out of use due to rarity of its ingredients. You can bring it back though if you manage to extract black vitreous and mix it with psi catalyst.
+
+::aegis_Name
+Aegis
+
+::aegis
+Aegis is a combat drug developed by the Biocorp for the Protectorate army. It can be created by combining morphine, adrenaline, and gizzard enzymes.
+
+::focusStim_Name
+Focus Stim
+
+::focusStim
+Focus stim is a combat drug that can be created by mixing adrenaline, taurine, and fresh blood.
+
+::jumpingBean_Name
+Jumping Bean
+
+::jumpingBean
+Agility booster pill, popularly known as "Jumping Bean", can be created by mixing organic gel electrolyte with insectoid saliva. May cause hiccups.
+
+::incendiaryGrenade_Name
+Incendiary Grenade
+
+::incendiaryGrenade
+A makeshift incendiary grenade can be crafted from an empty bottle, a rag and any kind of incendiary substance.
+
+::gasGrenade_Name
+Gas Grenade
+
+::gasGrenade
+You can create a gas grenade by combining a substance with a starter mixture inside a thin grenade case.
+
+::shockBullets_Name
+Shock Bullets
+
+::shockBullets
+You can create 5mm shock bullets using bullet cases, any metal plate, and a number of micro electroshock dischargers.
+
+::incendiaryBullets_Name
+Incendiary Bullets
+
+::incendiaryBullets
+You can create 8.6mm incendiary bullets using bullet cases, any metal plate, and a high level incendiary substance.
+
+::microShrapnelBullets_Name
+Micro-Shrapnel Bullets
+
+::microShrapnelBullets
+You can create 7.62mm micro-shrapnel bullets using bullet cases, any metal plate, and large quantities of metal scraps.
+
+::acidBullets_Name
+Acid Bullets
+
+::acidBullets
+You can create 9mm acid bullets using bullet cases, any metal plate, and a vial of regular acid.
+
+::explosiveBullets_Name
+Explosive Bullets
+
+::explosiveBullets
+You can create .44 explosive bullets using bullet cases, any metal plate, and a certain amount of hexogen.
+
+::contaminatedBullets_Name
+Contaminated Bullets
+
+::contaminatedBullets
+You can create 12.7mm contaminated bullets using bullet cases, any metal plate, and a canister of toxic sludge.
+
+::disassembleItem_Name
+Disassemble Item
+
+::disassembleItem
+Enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed but with reduced quality.
+
+::infusedLeather_Name
+Infused Leather
+
+::infusedLeather
+Infusing leather with fiber can enhance its properties.
+
+::flashbang_Name
+Flashbang
+
+::flashbang
+You can create a flashbang grenade by filling a thin grenade case with magnesium powder.
+
+::bullhead_Name
+Bullhead
+
+::bullhead
+Bullhead pill is a preventive medicament that stabilizes neural pathways and improves concentration, allowing you to handle physical and psychological stress better. It can be created by combining morphine, nidamental gel, and gizzard enzymes.
+
+::superHealthHypo_Name
+Super Health Hypo
+
+::superHealthHypo
+Super health hypo can be created by mixing healthy animal blood, fusing enzyme, gyromitrin and, curiously, crawler poison.
+
+::regenerativeMixture_Name
+Regenerative Mixture
+
+::regenerativeMixture
+You can create a highly potent regenerative by mixing correct amounts of biofusive scoby, animal blood, and macrophage fluid. A clean blastema should then be soaked in this mixture before consuming the liquid.
+
+::PsiReinvigorator_Name
+Psi Reinvigorator
+
+::PsiReinvigorator
+This pill should only be consumed to combat psi inhibiting conditions and disorders. It can be created by combining unsaturated psionic catalyst with adrenaline and statolith.
+
+::supersoldierDrug_Name
+Supersoldier Drug
+
+::supersoldierDrug
+According to this blueprint you can create some sort of a "Supersoldier Drug" by combining the right amounts of muscarine, adrenaline, kynurenic acid, and prednisone solution. Considering the nature of these substances, this could be dangerous...
+
+::theJuice_Name
+The Juice
+
+::theJuice
+According to Dude and this blueprint, you should be able to concoct the mythical serum known only as "The Juice".
+
+You'll need some mushroom brew, unsaturated psionic catalyst, morphine and gyromitrin.
+
+::stingballGrenade_Name
+Stingball Grenade
+
+::stingballGrenade
+You can create a stingball grenade by filling a thin grenade case with hard rubber balls and adding some starter mixture.
+
+::spyingEndoscope_Name
+Spying Endoscope
+
+::spyingEndoscope
+You can create a spying endoscope by combining adaptive lens, optical fiber and endoscope eyepiece.
+
+::bullets_Name
+Bullets
+
+::bullets
+This blueprint describes how to reload a standard bullet of any caliber.
+
+::w2cBullets_Name
+W2C Bullets
+
+::w2cBullets
+This blueprint describes how to reload a tungsten carbide armor piercing bullet of any caliber.
+
+::jhpBullets_Name
+JHP Bullets
+
+::jhpBullets
+This blueprint describes how to reload a jacketed hollow point bullet of any caliber.
+
+::plasmaGrenade_Name
+Plasma Grenade
+
+::plasmaGrenade
+Plasma grenades are created by combining plasma micro-dischargers with any high energy battery (such as plasma or fusion cell) inside a thin grenade case.
+
+::plasmaMine_Name
+Plasma Mine
+
+::plasmaMine
+Plasma mines are created by combining plasma micro-dischargers with a pair of any high energy battery (such as plasma or fusion cell) inside a special plasma mine case.
+
+::psionicAccelerator_Name
+Psionic Accelerator
+
+::psionicAccelerator
+You can create Psionic Accelerator by combining unsaturated psionic catalyst, gyromitrin and psi-somatic agent.
+
+::hypercerebrix_Name
+Hypercerebrix
+
+::hypercerebrix
+You can create Hypercerebrix pill by combining cave ear poison, gyromitrin and phototannin.
+
+::coagulationShot_Name
+Coagulation Shot
+
+::coagulationShot
+You can create a coagulation shot by combining blood, some type of organic gel electrolyte and black collagen.
+
+::twitch_Name
+Twitch
+
+::twitch
+You can create reflex boosting concoction, popularly known as Twitch, by combining adrenaline, dexytol and retrolytic enzyme.
+
+::thirdEye_Name
+Third Eye
+
+::thirdEye
+You can create the so-called "Third Eye" pill by combining salivinine, black vitreous and lophimidrine.
+
+::spear_Name
+Spear
+
+::spear
+Spear is a primitive but versatile weapon that can be used for both offense and defense.
+
+Precise spear strikes can bypass some of the living target's defense.
+
+It can even carry some manner of power module for when the cold steel isn't enough.
+
+::machete_Name
+Machetes
+
+::machete
+Machetes can be crafted out of any metal and come in number of two variants depending on the mold used.
+
+It's a deadly close quarters weapon that can deliver devastating wounds if used correctly, especially against an unarmored target.
+
+::shotgunShells_Name
+Shotgun Shells
+
+::shotgunShells
+This blueprint describes how to reload a shotgun shell with pellets of various sizes.
+
+::shotgun_Name
+Shotgun
+
+::shotgun
+Shotguns can be created from frame and barrel parts. The type and quality of the frame will determine the shotgun's overall damage potential, while the barrel will dictate the spread and will also modify damage.
+
+An optional component can also be added to further enhance the weapon.
+
+::throwingNet_Name
+Throwing Net
+
+::throwingNet
+You can create throwing nets from fabric scraps.
+
+::thinGrenadeCase_Name
+Thin Grenade Case
+
+::thinGrenadeCase
+You can create thin grenade cases (that are used in making certain grenades) from any type of metal plate.
+
+::fragGrenadeCase_Name
+Frag Grenade Case
+
+::fragGrenadeCase
+You can create frag grenade cases from any type of metal plate.
+
+::thinMineCase_Name
+Thin Mine Case
+
+::thinMineCase
+You can create thin mine cases (that are used in making certain mines) from any type of metal plate.
+
+::fragMineCase_Name
+Frag Mine Case
+
+::fragMineCase
+You can create frag mine cases from any type of metal plate.
+
+::lockpicks_Name
+Lockpicks
+
+::lockpicks
+You can create a set mechanical lockpicks from any type of metal plate. The quality of the plate will determine the lockpick quality. You'll also be able to create extra lockpicks when using metal of very best quality.
+
+::shiv_Name
+Shiv
+
+::shiv
+With enough skill and effort you might be able to craft an actual shiv from a metal spike by adding a dirty rag to it.
+
+::motion_Name
+Motion
+
+::motion
+This strange unconventional blueprint instructs you how to concoct the notorious Motion drug by combining psionic catalyst, gyromitrin, and psychodelic spores inside an inhalant container.
+
+::grenadeLauncher_Name
+Grenade Launcher
+
+::grenadeLauncher
+Grenade launchers can shoot special grenades that damage all targets in the blast radius. The radius itself depends on the type of grenade used.
+
+It can be created from frame and barrel parts. The caliber of the grenades is determined by the frame and the barrel, and can be either 25mm or 40mm.
+
+Grenade launcher will also require either a box magazine (25mm frames) or revolver-style magazine (40mm frames). Heavier magazines will make the weapon require more strength from the user.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::rocketLauncher_Name
+Rocket Launcher
+
+::rocketLauncher
+Rocket launchers are powerful heavy weapons that shoot special rockets that damage all targets in the blast radius. The radius itself, the power of the blast, as well as secondary effects, vary depending on the rocket used.
+
+A number of optional components can be added to further enhance the rocket launcher.
+
+::highExplosiveLauncherGrenade_Name
+High-explosive Launcher Grenade
+
+::highExplosiveLauncherGrenade
+You can create high explosive launcher grenades using appropriate grenade cases (25mm or 40mm), hexogen, and TNT.
+
+::fragLauncherGrenade_Name
+Frag Launcher Grenade
+
+::fragLauncherGrenade
+You can create fragmentation launcher grenades using appropriate grenade cases (25mm or 40mm), TNT, and metal scraps.
+
+::thermobaricLauncherGrenade_Name
+Thermobaric Launcher Grenade
+
+::thermobaricLauncherGrenade
+You can create the feared thermobaric launcher grenades using 40mm grenade cases, hexogen, and magnesium.
+
+::clusterLauncherGrenade_Name
+Cluster Launcher Grenade
+
+::clusterLauncherGrenade
+You can create cluster launcher grenades using 40mm grenade cases, TNT, metal plates, and starter mixture.
+
+::concussiveLauncherGrenade_Name
+Concussive Launcher Grenade
+
+::concussiveLauncherGrenade
+You can create concussive launcher grenades using 25mm grenade cases, TNT, magnesium, and small oxygen tanks.
+
+::incendiaryLauncherGrenade_Name
+Incendiary Launcher Grenade
+
+::incendiaryLauncherGrenade
+You can create incendiary launcher grenades using 25mm grenade cases, TNT, and napalm C.
+
+::rocket_84_highExplosive_Name
+84mm High-explosive Rocket
+
+::rocket_84_highExplosive
+You can create a high-explosive rocket by fashioning it from steel and filling it with an appropriate amount of TNT and hexogen, along with rocket propellant.
+
+::rocket_84_kinetic_Name
+84mm Kinetic Energy Penetrator Rocket
+
+::rocket_84_kinetic
+You can create a special kinetic rocket by fashioning it from tungsten steel and filling it with enough rocket propellant to carry it.
+
+::rocket_84_caveShaker_Name
+84mm Cave Shaker Rocket
+
+::rocket_84_caveShaker
+You can create the mighty cave-shaker rocket by fashioning it from steel and filling it with a plentiful amount of TNT and hexogen, alongside rocket propellant.
+
+::rocket_84_whitePhosphorus_Name
+84mm White Phosphorus Rocket
+
+::rocket_84_whitePhosphorus
+You can create the infamous white phosphorus rocket by fashioning it from steel and filling it with the said chemical. Of course, a certain amount of TNT is required to be added in order to spread the payload. Rocket propellant is also required for obvious reasons.
+
+::rocket_66_incendiary_Name
+66mm Incendiary Rocket
+
+::rocket_66_incendiary
+You can create a special 66mm incendiary rocket by fashioning it from steel and filling it with napalm C. Of course, a certain amount of TNT is required to be added in order to spread the payload. Rocket propellant is also required for obvious reasons.
+
+::rocket_40_tandemCharge_Name
+40mm Tandem-charge Rocket
+
+::rocket_40_tandemCharge
+You can create a special 40mm high-explosive tandem-charge rocket by fashioning it from steel and filling it with an appropriate amount of TNT and hexogen, along with rocket propellant. You'll also need some mechanism to trigger the secondary fuse. Crossbow bolt triggers are commonly are used for this purpose as they are cheap and plentiful.
+
+::lightMachineGun_Name
+Light Machine Gun
+
+::lightMachineGun
+Light machine gun (LMG) is a powerful automatic high-caliber weapon that has a high rate of fire, but also higher bullet spread and lower accuracy at long range.
+
+It can be created from frame and barrel parts. The caliber is determined by the barrel, and can be either 9mm or .44.
+
+LMG will also require either a box magazine or ammo belt. Heavier magazines will make the weapon require more strength from the user.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::minigun_Name
+Minigun
+
+::minigun
+Minigun is a powerful automatic-fire high-caliber weapon that has an incredible rate of fire once it reaches its full rotating speed. However, this comes at the cost of wide bullet spread and lower accuracy at long range.
+
+It requires a lot of strength to operate properly.
+
+It can be created from frame, barrel, and motor parts. The caliber is determined by the barrel, and can be either .44 or 12.7mm.
+
+The type of motor used will determine the dynamics of the weapon's barrel rotation and hence the firing rate.
+
+It will also require an ammo belt. Heavier ammo belts will make the weapon require more strength from the user. A secondary ammo belt can be attached as an extension, but the additional weight can potentially make the weapon even harder to wield.
+
+A number of optional components can also be added to further enhance the weapon.
+
+::parafibroticRegenerationCatalyst_Name
+Parafibrotic Regeneration Catalyst
+
+::parafibroticRegenerationCatalyst
+You can create ampules of special regenerative concoction known as Parafibrotic Regeneration Catalyst, which can be used with the Technomedic exoskeleton suit. All you need is ampules, blood, organic gel electrolyte, morphine, and macrophage fluid.

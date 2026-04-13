@@ -1,0 +1,1460 @@
+::Nothing
+Rien
+
+::NothingL
+rien
+
+::Shield_Capacity
+Capacité
+
+::Shield_ConversionRate
+Taux de conversion
+
+::Shield_DissipationRate
+Taux de dissipation
+
+::Shield_Shielding
+Bouclier
+
+::Requires
+Requiert
+
+::HoursLetter
+h
+
+::MinutesLetter
+m
+
+::SecondsLetter
+s
+
+::TurnsLetter
+t
+
+::Turn
+Tour
+
+::TurnL
+tour
+
+::Turns4
+Tours
+
+::Turns4L
+tours
+
+::Turns
+Tours
+
+::TurnsL
+tours
+
+::Cooldown
+Recharge
+
+::RemainingCooldown
+Recharge restante
+
+::RemainingCooldownL
+Recharge restante
+
+::Range
+Portée
+
+::Range_Optimal
+optimale
+
+::Radius
+Rayon
+
+::Melee
+Corps à corps
+
+::ExtendedMelee
+Corps à corps étendu
+
+::Damage
+Dégâts
+
+::Resistances
+Résistances
+
+::Detection
+Détection
+
+::TrapDetection
+Détection des pièges
+
+::TrapDetectionShort
+Détection pièges
+
+::Fortitude
+Fortitude
+
+::Resolve
+Détermination
+
+::MinimalStrength
+Force minimale
+
+::MinimalStrengthL
+Force minimale
+
+::ArmorPenalty
+Pénalité d'armure
+
+::ArmorPenaltyL
+Pénalité d'armure
+
+::Initiative
+Initiative
+
+::NotInvervated
+Pas innervé.
+
+::CombatStatsWindow_WindowName
+Stats de combat
+
+::CombatStatsWindow_Tab_Base
+Base
+
+::CombatStatsWindow_Tab_Offense
+Attaque
+
+::CombatStatsWindow_Tab_Defense
+Défense
+
+::CombatStatsWindow_Caption_State
+État
+
+::CombatStatsWindow_Caption_Weapon
+Arme
+
+::CombatStatsWindow_Caption_Shielding
+Bouclier
+
+::CombatStatsWindow_Caption_Subterfuge
+Subterfuge
+
+::CombatStatsWindow_Caption_BaseAbilities
+Caractéristiques de base
+
+::CombatStatsWindow_Caption_Resistances
+Résistances
+
+::CombatStatsWindow_Psi_Skill
+Compétence
+
+::CombatStatsWindow_Psi_CriticalHitChance
+Chances de coup critique
+
+::CombatStatsWindow_Psi_CriticalHitDamageBonus
+Bonus de dégâts critiques
+
+::CombatStatsWindow_Psi_BasePsiCostModifier
+Modificateur de coût psi de base
+
+::CombatStatsWindow_WeaponDamage
+Dégâts de l'arme
+
+::CombatStatsWindow_ActionPointCost
+Coût en points d'action
+
+::CombatStatsWindow_ImpactSpeed
+Vitesse d'impact
+
+::CombatStatsWindow_CriticalHitChance
+Chances de coup critique
+
+::CombatStatsWindow_CriticalHitDamageBonus
+Bonus de dégâts critiques
+
+::CombatStatsWindow_SpecialAttackBonusDamage
+Bonus de dégâts d'attaque spéciale
+
+::CombatStatsWindow_MaximumWeaponRange
+Portée maximale de l'arme
+
+::CombatStatsWindow_OptimalWeaponRange
+Portée optimale de l'arme
+
+::CombatStatsWindow_ShieldCapacity
+Capacité du bouclier
+
+::CombatStatsWindow_ShieldCapacityShort
+Capacité
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryLow
+Bouclier très faible
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Low
+Bouclier faible
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Medium
+Bouclier moyen
+
+::CombatStatsWindow_ShieldCapacity_Shielding_High
+Bouclier élevé
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryHigh
+Bouclier très élevé
+
+::CombatStatsWindow_WeaponCrit
+Modificateur de chances de coup critique de l'arme
+
+::CombatStatsWindow_PsiCrit
+Modificateur de chances de coup critique psi
+
+::CombatStatsWindow_MechanicalResistance
+Résistance mécanique
+
+::CombatStatsWindow_HeatResistance
+Résistance thermique
+
+::CombatStatsWindow_ColdResistance
+Résistance au froid
+
+::CombatStatsWindow_ElectricalResistance
+Résistance électrique
+
+::CombatStatsWindow_AcidResistance
+Résistance à l'acide
+
+::CombatStatsWindow_EnergyResistance
+Résistance à l'énergie
+
+::CombatStatsWindow_BioResistance
+Résistance biologique
+
+::CombatStatsWindow_Label_Actionpoints
+Points d'action
+
+::CombatStatsWindow_Label_Impactspeed
+Vitesse d'impact
+
+::CombatStatsWindow_Label_Criticalchance
+Chances de critique
+
+::CombatStatsWindow_Label_Criticalbonus
+Bonus de critique
+
+::CombatStatsWindow_Label_Criticaldamagebonus
+Bonus de dégâts critiques
+
+::CombatStatsWindow_Label_Specialattackbonus
+Bonus d'attaque spéciale
+
+::CombatStatsWindow_Label_Maxrange
+Portée max.
+
+::CombatStatsWindow_Label_Optimalrange
+Portée optimale
+
+::CombatStatsWindow_Label_Psi_Skill
+Compétence
+
+::CombatStatsWindow_Label_Psi_Criticalchance
+Chances de critique
+
+::CombatStatsWindow_Label_Psi_Criticalbonus
+Bonus de critique
+
+::CombatStatsWindow_Label_Psi_Basepsicost
+Coût psi de base
+
+::CombatStatsWindow_Label_Defense_Weaponcrit.chance
+Chances de coup critique de l'arme
+
+::CombatStatsWindow_Label_Defense_Psicrit.chance
+Chances de coup critique psi
+
+::CombatStatsWindow_Label_Defense_Armorpenalty
+Pénalité d'armure
+
+::InvocationTime
+Temps d'invocation
+
+::UsageTime
+Temps d'utilisation
+
+::UsageTimeL
+Temps d'utilisation
+
+::ActionPoints
+Points d'action
+
+::AP
+PA
+
+::MovementPoints
+Points de mouvement
+
+::MP
+PM
+
+::Health
+Santé
+
+::HealingEffectiveness
+Efficacité des soins
+
+::HealingEffectivenessShort
+Effic. soins
+
+::Shield
+Bouclier
+
+::Delete_Button
+Supprimer
+
+::Accept
+Accepter
+
+::Cancel
+Annuler
+
+::Close
+Fermer
+
+::Import
+Importer
+
+::Yes
+Oui
+
+::YesAndStopAsking
+Oui, ne plus demander
+
+::No
+Non
+
+::OK
+OK
+
+::Error
+Erreur
+
+::or
+ou
+
+::and
+et
+
+::MainMenu_NewGame
+Nouvelle partie
+
+::MainMenu_ResumeLastSaved
+Reprendre la dernière sauvegarde
+
+::MainMenu_LoadGame
+Charger une partie
+
+::MainMenu_Options
+Options
+
+::MainMenu_Credits
+Crédits
+
+::MainMenu_Exit
+Quitter
+
+::Version
+Version
+
+::MainMenu_Version
+Version
+
+::Options_Language
+Langue
+
+::Options_Tab_General
+Général
+
+::Options_Tab_Video
+Vidéo
+
+::Options_Tab_Audio
+Audio
+
+::Options_Tab_Interface
+Interface
+
+::Options_Tab_Controls
+Contrôles
+
+::Options_Tab_Gameplay
+Gameplay
+
+::Options_AutosaveOnTransitions
+Sauvegarde auto. lors des transitions
+
+::Options_RetainSaves
+Conserver la sauvegarde rapide et auto. précédente
+
+::Options_AutoOverwriteSaves
+Écraser automatiquement les sauvegardes
+
+::Options_SaveCompatibilityWarning
+Avertissement lors du chargement d'une sauvegarde partiellement compatible
+
+::Options_Resolution
+Résolution
+
+::Options_DisplayMode
+Mode d'affichage
+
+::Options_AllowZoom
+Autoriser le zoom (avec SHIFT+molette de la souris)
+
+::Options_VSync
+Synchronisation verticale
+
+::Options_SpriteTargetMask
+Masque de cible des sprites
+
+::Options_SpriteComposition
+Composition des sprites
+
+::Options_Shader
+Shader
+
+::Options_MasterVolume
+Volume principal
+
+::Options_EffectsVolume
+Volume des effets
+
+::Options_AmbientalVolume
+Volume ambiant
+
+::Options_MusicVolume
+Volume de la musique
+
+::Options_InterfaceVolume
+Volume de l'interface
+
+::Options_MainMenuTheme
+Thème du menu principal
+
+::Options_InterfaceSize
+Taille de l'interface
+
+::Options_CursorSize
+Taille du curseur
+
+::Options_OnScreenKeyboard
+Clavier virtuel
+
+::Options_PortraitLighting
+Éclairage des portraits
+
+::Options_DialogPortraits
+Portraits de dialogue
+
+::Options_DialogFont
+Police de dialogue
+
+::Options_TooltipFont
+Police des infobulles
+
+::Options_LabelFont
+Police des étiquettes
+
+::Options_DialogBackgroundAlpha
+Transparence de l'arrière-plan des dialogues
+
+::Options_LogFont
+Police du journal
+
+::Options_LogWidth
+Largeur du journal
+
+::Options_AutoselectTarget
+Sélection auto. de la cible
+
+::Options_CharacterOutlines
+Contours des personnages
+
+::Options_UnobscurationAlpha
+Transparence de désobstruction
+
+::Options_TransitionAlpha
+Transparence de transition
+
+::Options_ScrollingCombatText
+Texte de combat défilant
+
+::Options_SCT_Player
+Joueur
+
+::Options_SCT_Selected
+Sélectionné
+
+::Options_SCT_Others
+Autres
+
+::Options_SCT_Duration
+Durée du TCD
+
+::Option_SCT_TimeBetween
+Intervalle entre
+
+::Options_SCT_AggregateByDamageTypes
+Agréger par types de dégâts
+
+::Options_KeyBindings
+Touches de raccourci
+
+::Options_FullscreenMouseLock
+Verrouiller la souris en plein écran
+
+::Options_RightClickScrolling
+Défilement par clic droit
+
+::Options_ScreenEdgeScrolling
+Défilement en bord d'écran
+
+::Options_AutomaticallyOpenDoors
+Ouvrir automatiquement les portes
+
+::Options_AutomaticallyEndTurn
+Finir le tour automatiquement
+
+::Options_CombatTaunts
+Provocations en combat
+
+::Options_CombatMovementSpeed
+Vitesse de déplacement en combat
+
+::Options_CombatActionSpeed
+Vitesse d'action en combat
+
+::Options_Tooltip_SpriteMask
+Si vous jouez sur WINE / Proton / Steam Deck, cette option devrait être activée, car elle améliore considérablement les performances. Sinon, elle devrait être désactivée.
+
+::Options_Tooltip_SpriteComposition
+Permet d'afficher certains équipements uniques sur certains personnages (y compris le joueur).
+
+::NewGame_Tab_Rules
+Règles
+
+::Difficulty
+Difficulté
+
+::NewGame_GameDifficulty
+Difficulté du jeu
+
+::NewGame_GameDifficulty_Easy
+Facile
+
+::NewGame_GameDifficulty_Normal
+Normal
+
+::NewGame_GameDifficulty_Hard
+Difficile
+
+::NewGame_GameDifficulty_DOMINATING
+DOMINANT
+
+::NewGame_ExperienceSystem
+Système d'expérience
+
+::NewGame_ExperienceSystem_Oddity
+Curiosités
+
+::NewGame_ExperienceSystem_Classic
+Classique
+
+::CharScreen_CancelNewCharGen
+Annuler la création du personnage et revenir au menu principal ?
+
+::CharScreen_CancelLevelUp
+Annuler la montée de niveau ?
+
+::CharScreen_Veteran
+Vétéran
+
+::CharScreen_Tab_Base
+Base
+
+::CharScreen_Tab_Skills
+Compétences
+
+::CharScreen_Tab_Feats
+Talents
+
+::CharScreen_Tab_Specialization
+Spécialisation
+
+::CharScreen_MustEnterName
+Vous devez entrer le nom du personnage.
+
+::CharScreen_MustSpendAllBaseAbilities
+Vous devez dépenser tous les points de caractéristiques avant de continuer.
+
+::CharScreen_MustSpendAllSkills
+Vous devez dépenser tous les points de compétence avant de continuer.
+
+::CharScreen_InsufficientSkills
+Vous avez dépensé plus de points de compétence que ce que vous pouvez vous permettre.
+
+::CharScreen_MustSpendAllFeats
+Vous devez assigner tous les talents avant de continuer.
+
+::CharScreen_MustSpendAllSpecs
+Vous devez assigner tous les points de spécialisation avant de continuer.
+
+::CharScreen_InsufficientSpecs
+Vous avez dépensé plus de points de spécialisation que ce que vous pouvez vous permettre.
+
+::CharScreen_NamePlaceholder
+<Entrer le nom>
+
+::Level
+Niveau
+
+::CharScreen_Level
+Niveau
+
+::CharScreen_RemainingPoints
+Points restants
+
+::CharScreen_RelatedBaseAbility
+Caractéristique liée
+
+::CharScreen_Synergies
+Synergies
+
+::CharScreen_Requirements
+Prérequis
+
+::OptionBox_Code_Y
+O
+
+::OptionBox_Code_N
+N
+
+::Psi
+Psi
+
+::PsiReserves
+Réserves psi
+
+::PsiAbility
+Capacité psi
+
+::Feat
+Talent
+
+::RestrictedFeat
+Talent restreint
+
+::RestrictedFeats
+Talents restreints
+
+::BeInMotion
+ être en mouvement
+
+::SaveLoad_<New>
+<Nouveau>
+
+::SaveLoad_PlayTime
+Temps de jeu
+
+::SaveLoad_SaveInNewSlot
+Sauvegarder la partie actuelle dans un nouvel emplacement.
+
+::SaveLoad_LoadCaption
+Charger
+
+::SaveLoad_SaveCaption
+Sauvegarder
+
+::SaveLoad_OverwriteCaption
+Écraser
+
+::SaveLoad_ImportCaption
+Importer
+
+::SaveLoad_DeleteCaption
+Supprimer
+
+::SaveLoad_Command_Overwrite
+Écraser
+
+::SaveLoad_Command_AutoOverwrite
+Écraser automatiquement
+
+::SaveLoad_IncompatibleSave
+Cette sauvegarde n'est pas compatible avec la version actuelle du jeu et ne peut pas être chargée.
+
+::SaveLoad_PartiallyCompatibleSave
+Cette sauvegarde n'est pas entièrement compatible avec la version actuelle du jeu. Charger quand même ?
+
+::SaveLoad_Overwrite
+Êtes-vous sûr de vouloir écraser cette sauvegarde ?
+
+::SaveLoad_Delete
+Êtes-vous sûr de vouloir supprimer cette sauvegarde ?
+
+::SaveLoad_FailedToDeletSave
+Échec de la suppression de la sauvegarde.
+
+::SaveLoad_Button_Load
+Charger
+
+::SaveLoad_Button_Save
+Sauvegarder
+
+::SaveLoad_Button_Export
+Exporter
+
+::SaveLoad_ExportedOn
+Exporté le
+
+::SaveLoad_GameVersion
+Version du jeu
+
+::SaveLoad_CharNotCompatible
+Ce personnage n'est pas compatible avec la version actuelle du jeu et ne peut pas être importé.
+
+::SaveLoad_DeleteCharacter
+Êtes-vous sûr de vouloir supprimer ce personnage ?
+
+::SaveLoad_FailedToDeleteCharacter
+Échec de la suppression du personnage exporté.
+
+::GameMenu_Resume
+Reprendre
+
+::GameMenu_Save
+Sauvegarder
+
+::GameMenu_Load
+Charger
+
+::GameMenu_ExportChar
+Exporter le personnage
+
+::GameMenu_Options
+Options
+
+::GameMenu_Quit
+Quitter
+
+::Msg_Exporting
+Exportation...
+
+::Msg_Saving
+Sauvegarde...
+
+::SystemBar_CharacterSheet
+Fiche de personnage
+
+::SystemBar_CharacterSheet_Tooltip
+Consultez les caractéristiques, compétences et talents de votre personnage.
+
+::SystemBar_CombatStats
+Stats de combat
+
+::SystemBar_CombatStats_Tooltip
+Aperçu des statistiques de combat de votre personnage.
+
+::SystemBar_Inventory
+Inventaire
+
+::SystemBar_Inventory_Tooltip
+Gérez l'inventaire et l'équipement de votre personnage.
+
+::SystemBar_Psi
+Psi
+
+::SystemBar_Psi_Tooltip
+Avant de pouvoir utiliser vos capacités psi, votre cerveau doit être innervé avec celles-ci.
+
+::SystemBar_Crafting
+Fabrication
+
+::SystemBar_Crafting_Tooltip
+Consultez les plans obtenus et fabriquez des objets à partir de ceux-ci.
+
+::SystemBar_Notes
+Notes
+
+::SystemBar_Notes_Tooltip
+Consultez vos notes.
+
+::SystemBar_Oddities
+Curiosités
+
+::SystemBar_Oddities_Tooltip
+Consultez les curiosités que vous avez étudiées.
+
+::SystemBar_GlobalMap
+Carte globale
+
+::SystemBar_GlobalMap_Tooltip
+Consultez les cartes globales.
+
+::SystemBar_Help
+Aide
+
+::SystemBar_Help_Tooltip
+Afficher l'aide de l'interface.
+
+::SystemBar_Menu
+Menu
+
+::SystemBar_Menu_Tooltip
+Ouvrir le menu principal.
+
+::CharInventory_Button_Sort
+Trier
+
+::CharInventory_Button_TransferAll
+Tout transférer
+
+::CharInventory_Notification_EquippingApCost
+Équiper des armes et objets utilitaires depuis l'inventaire en combat coûte {0} points d'action.
+
+::CharInventory_Notification_CannotEquipCurrently
+Votre personnage n'est actuellement pas en mesure d'équiper ou de déséquiper des objets.
+
+::CharInventory_Notification_CannotEquipStealth
+Votre personnage ne peut pas équiper ou déséquiper une armure en mode furtif ou si le mode furtif est en recharge.
+
+::CharInventory_GearSlot_Headgear
+Couvre-chef
+
+::CharInventory_GearSlot_EnergyShieldEmitter
+Émetteur de bouclier énergétique
+
+::CharInventory_GearSlot_Armor
+Armure
+
+::CharInventory_GearSlot_Belt
+Ceinture
+
+::CharInventory_GearSlot_Footwear
+Chaussures
+
+::CharInventory_GearSlot_PrimaryWeapon
+Arme principale
+
+::CharInventory_GearSlot_SecondaryWeapon
+Arme secondaire
+
+::CharInventory_GearSlot_CombatUtility
+Utilitaire de combat
+
+::CharInventory_Filter_All
+Tout
+
+::CharInventory_Filter_Gear
+Équipement
+
+::CharInventory_Filter_Combat Utilities
+Utilitaires de combat
+
+::CharInventory_Filter_Ammo
+Munitions
+
+::CharInventory_Filter_Consumables
+Consommables
+
+::CharInventory_Filter_Crafting
+Fabrication
+
+::CharInventory_Filter_Tools
+Outils
+
+::CharInventory_Filter_Plot
+Quête
+
+::CharInventory_Filter_Non-plot
+Hors quête
+
+::Item_TypeName_Armor Suit
+Armure
+
+::Item_TypeName_Belt
+Ceinture
+
+::Item_TypeName_Footwear
+Chaussures
+
+::Item_TypeName_Headwear
+Couvre-chef
+
+::Item_TypeName_Shield Emitter
+Émetteur de bouclier
+
+::Item_TypeName_Assault Rifle
+Fusil d'assaut
+
+::Item_TypeName_Crossbow
+Arbalète
+
+::Item_TypeName_Melee Weapon
+Arme de mêlée
+
+::Item_TypeName_Pistol
+Pistolet
+
+::Item_TypeName_SMG
+Pistolet mitrailleur
+
+::Item_TypeName_Sniper Rifle
+Fusil de sniper
+
+::Item_TypeName_Grenade Launcher
+Lance-grenades
+
+::Item_TypeName_Fusion Cannon
+Canon à fusion
+
+::Item_TypeName_LMG
+Mitrailleuse légère
+
+::Item_TypeName_Minigun
+Minigun
+
+::Item_TypeName_Rocket Launcher
+Lance-roquettes
+
+::Item_TypeName_Shotgun
+Fusil à pompe
+
+::Item_TypeName_Combat Shotgun
+Fusil de combat
+
+::Item_TypeName_Weapon
+Arme
+
+::Item_TypeName_Ammo
+Munitions
+
+::Item_TypeName_Blueprint
+Plan
+
+::Item_TypeName_Component
+Composant
+
+::Item_TypeName_Consumable
+Consommable
+
+::Item_TypeName_Food
+Nourriture
+
+::Item_TypeName_Medicine
+Médicament
+
+::Item_TypeName_Currency
+Monnaie
+
+::Item_TypeName_Document
+Document
+
+::Item_TypeName_Energy Source
+Source d'énergie
+
+::Item_TypeName_Explosive
+Explosif
+
+::Item_TypeName_Enhancement
+Amélioration
+
+::Item_TypeName_Key
+Clé
+
+::Item_TypeName_Log Entry
+Entrée de journal
+
+::Item_TypeName_Oddity
+Curiosité
+
+::Item_TypeName_Mentor
+Mentor
+
+::Item_TypeName_Tool
+Outil
+
+::Item_TypeName_Trap
+Piège
+
+::Item_TypeName_Vehicle Part
+Pièce de véhicule
+
+::Item_TypeName_Grenade
+Grenade
+
+::Item_TypeName_Combat Utility
+Utilitaire de combat
+
+::Item_TypeSuffix_TwoHanded
+(à deux mains)
+
+::Item_Notification_CannotBeUsedInCombat
+Ne peut pas être utilisé en combat
+
+::Item_Notification_CannotBeRechargedInCombat
+Ne peut pas être rechargé en combat
+
+::Item_Notification_CannotBeUsedOrRechargedInCombat
+Ne peut pas être utilisé ou rechargé en combat
+
+::Item_Equip
+Équiper
+
+::Item_Use
+Utiliser
+
+::Item_OnHit
+Au toucher
+
+::Item_TemporaryEffects
+Effets temporaires
+
+::Item_Requirements
+Prérequis
+
+::Item_BatteryEnergy
+Énergie
+
+::Item_Durability
+Durabilité
+
+::Item_CanBeDisassembled
+Peut être démonté.
+
+::Item_Weight
+Poids
+
+::Item_Value
+Valeur
+
+::Item_MerchantWontBuy
+Ce marchand ne veut pas acheter cet objet.
+
+::Item_CannotBeSold
+Ne peut pas être vendu.
+
+::Item_SpecialMerchandise
+Marchandise spéciale.
+
+::Item_Level
+Niveau de l'objet
+
+::Item_SpecialAbilities
+Capacités spéciales
+
+::Item_BlueprintAlreadyKnown
+Déjà connu.
+
+::Item_MentorAlreadyKnown
+Déjà connu.
+
+::Item_Trap_RequiredSkill
+Compétence requise
+
+::Item_Trap_DetectionDifficulty
+Difficulté de détection
+
+::Item_Oddity_PickUp
+Ramasser : Étudiez cet objet pour gagner {0} point d'expérience. Vous pouvez étudier ce type d'objet jusqu'à {1} fois.
+
+::Item_Oddity_PickUpM
+Ramasser : Étudiez cet objet pour gagner {0} points d'expérience. Vous pouvez étudier ce type d'objet jusqu'à {1} fois.
+
+::Item_Oddity_PickUpM4
+Ramasser : Étudiez cet objet pour gagner {0} points d'expérience. Vous pouvez étudier ce type d'objet jusqu'à {1} fois.
+
+::Item_Oddity_Studied
+Étudié {0} / {1} fois.
+
+::Item_Oddity_StudiedM
+Étudié {0} / {1} fois.
+
+::Item_Oddity_StudiedM4
+Étudié {0} / {1} fois.
+
+::Item_Weapon_ImpactSpeed
+Vitesse d'impact
+
+::Item_Weapon_BaseActionPoints
+Points d'action de base
+
+::Item_Weapon_SpreadAngle
+Angle de dispersion
+
+::Item_Weapon_Precision
+Précision
+
+::Item_Weapon_CloseQuartersPrecision
+Précision à courte portée
+
+::Item_Weapon_MoveAndShootPrecision
+Précision en mouvement
+
+::Item_Weapon_BurstPrecision
+Précision en rafale
+
+::Item_Weapon_BurstShots
+Tirs en rafale
+
+::Item_Weapon_MinimalWeaponSkill
+Compétence d'arme minimale
+
+::Item_Weapon_ShieldBypass
+Contourne {0}% du bouclier énergétique de la cible.
+
+::Item_Weapon_RequiresBothHands
+Requiert les deux mains pour être manié.
+
+::Item_Weapon_OnAttack
+À l'attaque
+
+::Item_Weapon_OnShoot
+Au tir
+
+::Item_Weapon_OnHit
+Au toucher
+
+::Item_Weapon_EnergyUsagePerShot
+Énergie utilisée par tir
+
+::Item_Weapon_EnergyUsagePerShot_None
+Aucune
+
+::Item_Weapon_AmmoType
+Type de munitions
+
+::Item_Weapon_MagazineCapacity
+Capacité du chargeur
+
+::Item_Weapon_ReloadingCost
+Coût de rechargement
+
+::Item_Weapon_Loaded
+Chargé
+
+::Item_Weapon_Disposable
+Ne peut pas être réparé, déchargé ou rechargé.
+
+::Item_Weapon_StrengthScaling
+Dégâts augmentés de {0}% par point de force.
+
+::Item_Weapon_StrengthScaling1
+Dégâts augmentés de {0}% par point de force au-dessus de {1}.
+
+::Item_Weapon_EvasionIgnore
+Ignore jusqu'à {0}% de l'esquive de la cible à courte portée.
+
+::Item_Component_Quality
+Qualité
+
+::Item_Component_RequiredCraftingSkills
+Compétences de fabrication requises
+
+::Item_BlackSea_CurrentGridSquare
+Case de grille actuelle
+
+::Item_BlackSea_CurrentGridSquare_Unknown
+Inconnue
+
+::Crafting_Slot_Optional
+Optionnel
+
+::Crafting_Composition_Diff0
+Difficulté de composition. Utiliser cet emplacement augmentera également les prérequis de compétence totaux de
+
+::Crafting_Composition_Diff1
+supplémentaires par rapport aux prérequis de l'objet occupant.
+
+::Vehicle_Slot_MaxSize
+Taille max.
+
+::Vehicle_Slot_Optional
+Optionnel
+
+::Vehicle_Part_PartSize
+Taille de la pièce
+
+::Vehicle_Part_Power
+Puissance
+
+::Vehicle_Part_ConsumptionRatio
+Taux de consommation
+
+::Vehicle_Part_Stability
+Stabilité
+
+::Vehicle_Part_SpecialAbilities
+Capacités spéciales
+
+::Vehicle_Part_Broken
+Cette pièce est cassée au-delà de toute réparation.
+
+::InventoryNotes_ShiftClickToSplit
+Maj. + Clic gauche pour diviser.
+
+::InventoryNotes_AltClickToTransfer
+Alt + Clic gauche pour transférer.
+
+::InventoryNotes_DoubleClickBlueprint
+Double-cliquez pour utiliser dans un plan.
+
+::InventoryNotes_DoubleClickToEquip
+Double-cliquez pour équiper.
+
+::ItemArmorBonuses_BlockChance
+A {0}% de chances de bloquer jusqu'à {1} points de dégâts mécaniques de mêlée.
+
+::ItemArmorBonuses_CannotWieldTwoHanded
+Ne peut pas manier d'armes à deux mains
+
+::PsiWindow_Caption
+Capacités psi
+
+::PsiWindow_Button_Innervate
+Innervar
+
+::PsiWindow_CannotInnervateInCombat
+Impossible d'innervar en mode combat.
+
+::PsiWindow_BasePsiCostModifier
+Modificateur de coût psi de base
+
+::PsiWindow_PsionicCircuit
+Circuit psionique
+
+::PsiWindow_PsionicCircuit_Desc
+Sélectionnez une capacité psi dans la liste ci-dessous et procédez à l'innervation pour qu'elle devienne disponible à l'invocation.
+
+::PsiWindow_LockedPsionicCircuit
+Circuit psionique verrouillé
+
+::PsiWindow_LockedPsionicCircuit_Desc
+Votre personnage ne remplit pas les conditions pour déverrouiller ce circuit psionique.
+
+::Blueprint_AlreadyObtained
+(déjà obtenu)
+
+::Blueprint_Downloaded
+Vous avez téléchargé un nouveau plan
+
+::CharacterImmunities_DisplayText_None
+Rien
+
+::CharacterImmunities_DisplayText_MindAffecting
+Attaques affectant l'esprit
+
+::CharacterImmunities_DisplayText_Placeholder
+Inconnu
+
+::CharacterImmunities_DisplayText_Stun
+Étourdissement et demi-étourdissement
+
+::CharacterImmunities_DisplayText_Incapacitation
+Incapacitation
+
+::CharacterImmunities_DisplayText_Blind
+Cécité
+
+::CharacterImmunities_DisplayText_MindControl
+Contrôle mental
+
+::CharacterImmunities_DisplayText_Chill
+Froid
+
+::CharacterImmunities_DisplayText_Freeze
+Gel
+
+::CharacterImmunities_DisplayText_Slow
+Ralentissements
+
+::CharacterImmunities_DisplayText_Root
+Immobilisation
+
+::CharacterImmunities_DisplayText_CriticalHits
+Coups critiques
+
+::CharacterImmunities_DisplayText_Bleeding
+Saignements
+
+::CharacterImmunities_DisplayText_Fear
+Terreur
+
+::CharacterImmunities_DisplayText_Burning
+Brûlures
+
+::CharacterImmunities_DisplayText_Poison
+Empoisonnement
+
+::CharacterImmunities_DisplayText_ShortCircuiting
+Court-circuit
+
+::CharacterImmunities_DisplayText_Dismantle
+Démantèlement
+
+::CharacterImmunities_DisplayText_Caltrops
+Caltrops
+
+::CharacterImmunities_DisplayText_AcidPuddles
+Flaques d'acide
+
+::CharacterImmunities_DisplayText_Unbalancing
+Déséquilibre
+
+::CharacterImmunities_DisplayText_Decapitation
+Décapitation
+
+::CharacterImmunities_DisplayText_Bilocation
+Bilocation
+
+::CharacterImmunities_DisplayText_AiScrambling
+Brouillage d'IA
+
+::CharacterImmunities_DisplayText_DirtyKickExtraStun
+Durée d'étourdissement supplémentaire du Coup bas
+
+::CharacterImmunities_DisplayText_KneecapShot
+Tir dans la rotule
+
+::WeaponAggregateSubtype_DisplayName_Unknown
+Arme inconnue
+
+::WeaponAggregateSubtype_DisplayName_Unknown_Plural
+Armes inconnues
+
+::WeaponAggregateSubtype_DisplayName_FirearmPistol
+Pistolet à feu
+
+::WeaponAggregateSubtype_DisplayName_FirearmPistol_Plural
+Pistolets à feu
+
+::WeaponAggregateSubtype_DisplayName_EnergyPistol
+Pistolet à énergie
+
+::WeaponAggregateSubtype_DisplayName_EnergyPistol_Plural
+Pistolets à énergie
+
+::WeaponAggregateSubtype_DisplayName_Crossbow
+Arbalète
+
+::WeaponAggregateSubtype_DisplayName_Crossbow_Plural
+Arbalètes
+
+::WeaponAggregateSubtype_DisplayName_Sniper
+Sniper
+
+::WeaponAggregateSubtype_DisplayName_Sniper_Plural
+Snipers
+
+::WeaponAggregateSubtype_DisplayName_SMG
+Pistolet mitrailleur
+
+::WeaponAggregateSubtype_DisplayName_SMG_Plural
+Pistolets mitrailleurs
+
+::WeaponAggregateSubtype_DisplayName_AssaultRifle
+Fusil d'assaut
+
+::WeaponAggregateSubtype_DisplayName_AssaultRifle_Plural
+Fusils d'assaut
+
+::WeaponAggregateSubtype_DisplayName_ChemicalPistol
+Pistolet chimique
+
+::WeaponAggregateSubtype_DisplayName_ChemicalPistol_Plural
+Pistolets chimiques
+
+::WeaponAggregateSubtype_DisplayName_Shotgun
+Fusil à pompe
+
+::WeaponAggregateSubtype_DisplayName_Shotgun_Plural
+Fusils à pompe
+
+::WeaponAggregateSubtype_DisplayName_GrenadeLauncher
+Lance-grenades
+
+::WeaponAggregateSubtype_DisplayName_GrenadeLauncher_Plural
+Lance-grenades
+
+::WeaponAggregateSubtype_DisplayName_RocketLauncher
+Lance-roquettes
+
+::WeaponAggregateSubtype_DisplayName_RocketLauncher_Plural
+Lance-roquettes
+
+::WeaponAggregateSubtype_DisplayName_EnergyWeapon
+Arme à énergie
+
+::WeaponAggregateSubtype_DisplayName_EnergyWeapon_Plural
+Armes à énergie
+
+::WeaponAggregateSubtype_DisplayName_Crowbar
+Pied-de-biche
+
+::WeaponAggregateSubtype_DisplayName_Crowbar_Plural
+Pieds-de-biche
+
+::WeaponAggregateSubtype_DisplayName_BluntMelee
+Arme de mêlée contondante
+
+::WeaponAggregateSubtype_DisplayName_BluntMelee_Plural
+Armes de mêlée contondantes
+
+::WeaponAggregateSubtype_DisplayName_BladedMelee
+Arme de mêlée tranchante
+
+::WeaponAggregateSubtype_DisplayName_BladedMelee_Plural
+Armes de mêlée tranchantes
+
+::WeaponAggregateSubtype_DisplayName_Gloves
+Arme de poing
+
+::WeaponAggregateSubtype_DisplayName_Gloves_Plural
+Armes de poing
+
+::WeaponAggregateSubtype_DisplayName_Spears
+Lance
+
+::WeaponAggregateSubtype_DisplayName_Spears_Plural
+Lances
+
+::WeaponAggregateSubtype_DisplayName_Sword
+Épée
+
+::WeaponAggregateSubtype_DisplayName_Sword_Plural
+Épées
+
+::WeaponAggregateSubtype_DisplayName_Unarmed
+Attaques à mains nues
+
+::WeaponAggregateSubtype_DisplayName_Unarmed_Plural
+Attaques à mains nues
+
+::CooldownCategory_DisplayText_None
+rien
+
+::CooldownCategory_DisplayText_Sprint
+Sprint
+
+::CooldownCategory_DisplayText_EvasiveManeuvers
+Manœuvres d'esquive
+
+::CooldownCategory_DisplayText_Stealth
+Furtivité
+
+::CooldownCategory_DisplayText_DirtyKick
+Coup bas
+
+::CooldownCategory_DisplayText_TrapArming
+armement des pièges
+
+::CooldownCategory_DisplayText_Bilocation
+Bilocation
+
+::CooldownCategory_DisplayText_PseudoSpatialProjection
+Projection pseudo-spatiale

@@ -1,0 +1,458 @@
+::MainMenuTheme.Default
+Par défaut
+
+::MainMenuTheme.Original
+Original
+
+::MainMenuTheme.Expedition
+Expédition
+
+::MainMenuTheme.HeavyDuty
+Heavy Duty
+
+::UiSize.Auto
+Auto
+
+::UiSize.Classic
+Classique
+
+::UiSize.Small
+Petit
+
+::UiSize.Large
+Grand
+
+::UiSize.Huge
+Très grand
+
+::InterfaceElementSize2.Auto
+Auto
+
+::InterfaceElementSize2.Small
+Petit
+
+::InterfaceElementSize2.Large
+Grand
+
+::InterfaceElementSize2.ExtraLarge
+Très grand
+
+::InterfaceElementSize2.Huge
+Énorme
+
+::AutoSelectOption.Never
+Jamais
+
+::AutoSelectOption.NoneSelected
+Aucune sélection
+
+::AutoSelectOption.Always
+Toujours
+
+::OutlinesOption.Never
+Jamais
+
+::OutlinesOption.HighlightsOnly
+Surlignages uniquement
+
+::OutlinesOption.AlwaysInCombat
+Toujours en combat
+
+::ScrollingCombatTextOptions.Mandatory
+Obligatoire
+
+::ScrollingCombatTextOptions.Damage
+Dégâts
+
+::ScrollingCombatTextOptions.PeriodicDamage
+Dégâts périodiques
+
+::ScrollingCombatTextOptions.Healing
+Soin
+
+::ScrollingCombatTextOptions.ShieldGain
+Gain de bouclier
+
+::ScrollingCombatTextOptions.ShieldLoss
+Perte de bouclier
+
+::ScrollingCombatTextOptions.PsiGain
+Gain psi
+
+::ScrollingCombatTextOptions.PsiLoss
+Perte psi
+
+::ScrollingCombatTextOptions.Buffs
+Bonus
+
+::ScrollingCombatTextOptions.Debuffs
+Malus
+
+::ScrollingCombatTextOptions.ResistsSImmunities
+Résistances/Immunités
+
+::ScrollingCombatTextOptions.ApCarryover
+Report de PA
+
+::ScrollingCombatTextOptions.SpecialActions
+Actions spéciales
+
+::ScrollingCombatTextOptions.Initiative
+Initiative
+
+::ScrollingCombatTextOptions.All
+Tout
+
+::Hotkey.HelpScreen
+Écran d'aide
+
+::Hotkey.QuickSave
+Sauvegarde rapide
+
+::Hotkey.QuickLoad
+Chargement rapide
+
+::Hotkey.ToggleHUD
+Afficher/Masquer l'interface
+
+::Hotkey.ActionButton1
+Bouton d'action 1
+
+::Hotkey.ActionButton2
+Bouton d'action 2
+
+::Hotkey.ActionButton3
+Bouton d'action 3
+
+::Hotkey.ActionButton4
+Bouton d'action 4
+
+::Hotkey.ActionButton5
+Bouton d'action 5
+
+::Hotkey.ActionButton6
+Bouton d'action 6
+
+::Hotkey.ActionButton7
+Bouton d'action 7
+
+::Hotkey.ActionButton8
+Bouton d'action 8
+
+::Hotkey.ActionButton9
+Bouton d'action 9
+
+::Hotkey.QuickButton1
+Bouton rapide 1
+
+::Hotkey.QuickButton2
+Bouton rapide 2
+
+::Hotkey.QuickButton3
+Bouton rapide 3
+
+::Hotkey.QuickButton4
+Bouton rapide 4
+
+::Hotkey.QuickButton5
+Bouton rapide 5
+
+::Hotkey.QuickButton6
+Bouton rapide 6
+
+::Hotkey.SwapWeapon
+Changer d'arme
+
+::Hotkey.ReloadCurrentWeapon
+Recharger l'arme actuelle
+
+::Hotkey.ToggleShield
+Activer/Désactiver le bouclier
+
+::Hotkey.RechargeShield
+Recharger le bouclier
+
+::Hotkey.EndTurn
+Fin du tour
+
+::Hotkey.EndCombat
+Fin du combat
+
+::Hotkey.SpeedUp
+Accélérer
+
+::Hotkey.SlowDown
+Ralentir
+
+::Hotkey.Highlight
+Surligner
+
+::Hotkey.ReverseHighlight
+Surlignage inversé
+
+::Hotkey.ToggleFollowPlayer
+Suivre le joueur
+
+::Hotkey.QuickInvoker
+Invokeur rapide
+
+::Hotkey.CombatStatsOverview
+Aperçu des stats de combat
+
+::Hotkey.CharacterSheet
+Fiche de personnage
+
+::Hotkey.CraftingWindow
+Fenêtre de fabrication
+
+::Hotkey.Inventory
+Inventaire
+
+::Hotkey.Notes
+Notes
+
+::Hotkey.OdditiesWindow
+Fenêtre des curiosités
+
+::Hotkey.VehicleWindow
+Fenêtre du véhicule
+
+::Hotkey.GlobalMapWindow
+Fenêtre de la carte globale
+
+::Hotkey.Psi
+Psi
+
+::Hotkey.TakeAll
+Tout prendre
+
+::Hotkey.ScrollUp
+Défiler vers le haut
+
+::Hotkey.ScrollDown
+Défiler vers le bas
+
+::Hotkey.ScrollLeft
+Défiler vers la gauche
+
+::Hotkey.ScrollRight
+Défiler vers la droite
+
+::BaseAbilityEnum.Strength
+Force
+
+::BaseAbilityEnum.Dexterity
+Dextérité
+
+::BaseAbilityEnum.Agility
+Agilité
+
+::BaseAbilityEnum.Constitution
+Constitution
+
+::BaseAbilityEnum.Perception
+Perception
+
+::BaseAbilityEnum.Will
+Volonté
+
+::BaseAbilityEnum.Intelligence
+Intelligence
+
+::SkillEnum.Guns
+Armes à feu
+
+::SkillEnum.Throwing
+Lancer
+
+::SkillEnum.Crossbows
+Arbalètes
+
+::SkillEnum.Melee
+Mêlée
+
+::SkillEnum.HeavyGuns
+Armes lourdes
+
+::SkillEnum.Heavy Guns
+Armes lourdes
+
+::SkillEnum.Dodge
+Esquive
+
+::SkillEnum.Evasion
+Évasion
+
+::SkillEnum.Stealth
+Furtivité
+
+::SkillEnum.Hacking
+Piratage
+
+::SkillEnum.Lockpicking
+Crochetage
+
+::SkillEnum.Pickpocketing
+Pickpocket
+
+::SkillEnum.Traps
+Pièges
+
+::SkillEnum.Mechanics
+Mécanique
+
+::SkillEnum.Electronics
+Électronique
+
+::SkillEnum.Chemistry
+Chimie
+
+::SkillEnum.Biology
+Biologie
+
+::SkillEnum.Tailoring
+Couture
+
+::SkillEnum.ThoughtControl
+Contrôle mental
+
+::SkillEnum.Thought Control
+Contrôle mental
+
+::SkillEnum.Psychokinesis
+Psychokinésie
+
+::SkillEnum.Metathermics
+Métathermique
+
+::SkillEnum.TemporalManipulation
+Manipulation temporelle
+
+::SkillEnum.Temporal Manipulation
+Manipulation temporelle
+
+::SkillEnum.Persuasion
+Persuasion
+
+::SkillEnum.Intimidation
+Intimidation
+
+::SkillEnum.Mercantile
+Marchandage
+
+::SkillCategory.Offense
+Attaque
+
+::SkillCategory.Defense
+Défense
+
+::SkillCategory.Subterfuge
+Subterfuge
+
+::SkillCategory.Technology
+Technologie
+
+::SkillCategory.Psi
+Psi
+
+::SkillCategory.Social
+Social
+
+::TimelapseShader.Legacy
+Classique
+
+::TimelapseShader.Advanced
+Avancé
+
+::OuroborosDisplayMode.Windowed
+Fenêtré
+
+::OuroborosDisplayMode.BorderlessWindowed
+Fenêtré sans bordure
+
+::OuroborosDisplayMode.Fullscreen
+Plein écran
+
+::GameDifficulty.Easy
+Débutant
+
+::GameDifficulty.Normal
+Vétéran
+
+::GameDifficulty.Hard
+Expert
+
+::GameDifficulty.Dominating
+Dominant
+
+::GameDifficulty.Custom
+Personnalisé
+
+::DamageType.Mechanical
+Mécanique
+
+::DamageType.Heat
+Thermique
+
+::DamageType.Cold
+Froid
+
+::DamageType.Electricity
+Électricité
+
+::DamageType.Acid
+Acide
+
+::DamageType.Energy
+Énergie
+
+::DamageType.Bio
+Biologique
+
+::ImpactSpeed.VeryLow
+Très basse
+
+::ImpactSpeed.Low
+Basse
+
+::ImpactSpeed.Medium
+Moyenne
+
+::ImpactSpeed.High
+Haute
+
+::ImpactSpeed.VeryHigh
+Très haute
+
+::PsiSchool.PsiAbility
+Capacité psi
+
+::PsiSchool.Psionic
+Psionique
+
+::PsiSchool.ThoughtControl
+Contrôle mental
+
+::PsiSchool.Thought Control
+Contrôle mental
+
+::PsiSchool.Psychokinesis
+Psychokinésie
+
+::PsiSchool.Metathermics
+Métathermique
+
+::PsiSchool.TemporalManipulation
+Manipulation temporelle
+
+::PsiSchool.Temporal Manipulation
+Manipulation temporelle
+
+::ItemRepairCategory.Mechanical
+Mécanique
+
+::ItemRepairCategory.Fabric
+Tissu
+
+::ItemRepairCategory.Electronic
+Électronique

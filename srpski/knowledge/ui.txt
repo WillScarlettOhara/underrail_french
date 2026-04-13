@@ -1,0 +1,1232 @@
+::Shield_Capacity
+Капацитет
+
+::Shield_ConversionRate
+Конверзија
+
+::Shield_DissipationRate
+Дисипација
+
+::Shield_Shielding
+Штит
+
+::Requires
+Захтева
+
+::HoursLetter
+ч
+
+::MinutesLetter
+м
+
+::SecondsLetter
+с
+
+::TurnsLetter
+т
+
+::Turn
+Турн
+
+::TurnL
+турн
+
+::Turns4
+Турна
+
+::Turns4L
+турна
+
+::Turns
+Турнова
+
+::TurnsL
+турнова
+
+::Cooldown
+Тајмер
+
+::RemainingCooldown
+Остало на Тајмеру
+
+::Range
+Домет
+
+::Range_Optimal
+оптимални
+
+::Radius
+Радијус
+
+::Melee
+Меле
+
+::ExtendedMelee
+Продужени Меле
+
+::Damage
+Штета
+
+::Resistances
+Отпорности
+
+::Detection
+Детекција
+
+::TrapDetection
+Детекција Замки
+
+::TrapDetectionShort
+Детек. Замки
+
+::Fortitude
+Стаменост
+
+::Resolve
+Одлучност
+
+::MinimalStrength
+Минимална Снага
+
+::MinimalStrengthL
+Минимална снага
+
+::ArmorPenalty
+Оклопљеност
+
+::ArmorPenaltyL
+Оклопљеност
+
+::Initiative
+Иницијатива
+
+::NotInvervated
+Није инервенисано.
+
+::CombatStatsWindow_WindowName
+Борбени Параметри
+
+::CombatStatsWindow_Tab_Base
+Основа
+
+::CombatStatsWindow_Tab_Offense
+Напад
+
+::CombatStatsWindow_Tab_Defense
+Одбрана
+
+::CombatStatsWindow_Caption_State
+Стање
+
+::CombatStatsWindow_Caption_Weapon
+Оружије
+
+::CombatStatsWindow_Caption_Shielding
+Штит
+
+::CombatStatsWindow_Caption_Subterfuge
+Лукавство
+
+::CombatStatsWindow_Caption_BaseAbilities
+Основне Вредности
+
+::CombatStatsWindow_Caption_Resistances
+Отпорности
+
+::CombatStatsWindow_Psi_Skill
+- Вештина
+
+::CombatStatsWindow_Psi_CriticalHitChance
+- Шанса за Критични Погодак
+
+::CombatStatsWindow_Psi_CriticalHitDamageBonus
+- Додатна Штета Критичног Поготка
+
+::CombatStatsWindow_Psi_BasePsiCostModifier
+- Основни Проценат Пси Цене
+
+::CombatStatsWindow_WeaponDamage
+Штета Оружија
+
+::CombatStatsWindow_ActionPointCost
+Цена у Акционим Поенима
+
+::CombatStatsWindow_ImpactSpeed
+Брзина Удара Оружија
+
+::CombatStatsWindow_CriticalHitChance
+Шанса за Критични Погодак
+
+::CombatStatsWindow_CriticalHitDamageBonus
+Додатна Штета Критичног Поготка
+
+::CombatStatsWindow_SpecialAttackBonusDamage
+Додатна Штета Специјалних Напада
+
+::CombatStatsWindow_MaximumWeaponRange
+Домет Оружија
+
+::CombatStatsWindow_OptimalWeaponRange
+Оптимални Домет Оружија
+
+::CombatStatsWindow_ShieldCapacity
+Капацитет штита
+
+::CombatStatsWindow_ShieldCapacityShort
+Капацитет
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryLow
+Веома Спор Штит
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Low
+Спор Штит
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Medium
+Средњи Штит
+
+::CombatStatsWindow_ShieldCapacity_Shielding_High
+Брзи Штит
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryHigh
+Веома Брзи Штит
+
+::CombatStatsWindow_WeaponCrit
+Шанса за крит. удар оружјем
+
+::CombatStatsWindow_PsiCrit
+Шанса за крит. удар за пси
+
+::CombatStatsWindow_MechanicalResistance
+Механичка Отпорност
+
+::CombatStatsWindow_HeatResistance
+Топлотна Отпорност
+
+::CombatStatsWindow_ColdResistance
+Хладна Отпорност
+
+::CombatStatsWindow_ElectricalResistance
+Електрична Отпорност
+
+::CombatStatsWindow_AcidResistance
+Киселинска Отпорност
+
+::CombatStatsWindow_EnergyResistance
+Енергетска Отпорност
+
+::CombatStatsWindow_BioResistance
+Биолошка Отпорност
+
+::CombatStatsWindow_Label_Actionpoints
+Акциони поени
+
+::CombatStatsWindow_Label_Impactspeed
+Брзина удара
+
+::CombatStatsWindow_Label_Criticalchance
+Критична шанса
+
+::CombatStatsWindow_Label_Criticalbonus
+Критични бонус
+
+::CombatStatsWindow_Label_Criticaldamagebonus
+Критични бонус
+
+::CombatStatsWindow_Label_Specialattackbonus
+Бонус спец. напада
+
+::CombatStatsWindow_Label_Maxrange
+Домет
+
+::CombatStatsWindow_Label_Optimalrange
+Оптимални домет
+
+::CombatStatsWindow_Label_Psi_Skill
+Вештина
+
+::CombatStatsWindow_Label_Psi_Criticalchance
+Критична шанса
+
+::CombatStatsWindow_Label_Psi_Criticalbonus
+Критични бонус
+
+::CombatStatsWindow_Label_Psi_Basepsicost
+Основна пси цена
+
+::CombatStatsWindow_Label_Defense_Weaponcrit.chance
+Крит. шанса оружијa
+
+::CombatStatsWindow_Label_Defense_Psicrit.chance
+Крит. шанса пси
+
+::CombatStatsWindow_Label_Defense_Armorpenalty
+Оклопљеност
+
+::InvocationTime
+Време Извршавања
+
+::UsageTime
+Време Коришћења
+
+::UsageTimeL
+Време коришћења
+
+::ActionPoints
+Акциони Поени
+
+::AP
+АП
+
+::MovementPoints
+Поени за кретање
+
+::MP
+ПК
+
+::Health
+Живот
+
+::HealingEffectiveness
+Ефективност Лечења
+
+::HealingEffectivenessShort
+Еф. Лечења
+
+::Shield
+Штит
+
+::Delete_Button
+Обриши
+
+::Accept
+Прихвати
+
+::Cancel
+Откажи
+
+::Close
+Затвори
+
+::Import
+Увези
+
+::Yes
+Да
+
+::YesAndStopAsking
+Да, не питај више
+
+::No
+Не
+
+::OK
+Добро
+
+::Error
+Грешка
+
+::or
+или
+
+::and
+и
+
+::MainMenu_NewGame
+Нова Игра
+
+::MainMenu_ResumeLastSaved
+Настави
+
+::Load
+Учитај
+
+::MainMenu_LoadGame
+Учитај Игру
+
+::MainMenu_Options
+Подешавања
+
+::MainMenu_Credits
+Аутори
+
+::MainMenu_Exit
+Излаз
+
+::Version
+Верзија
+
+::MainMenu_Version
+Верзија
+
+::Options_Language
+Превод
+
+::Options_Tab_General
+Општа
+
+::Options_Tab_Video
+Видео
+
+::Options_Tab_Audio
+Звук
+
+::Options_Tab_Interface
+Интерфејс
+
+::Options_Tab_Controls
+Контроле
+
+::Options_Tab_Gameplay
+Игра
+
+::Options_AutosaveOnTransitions
+Аутоматски сними игру у транзицијама
+
+::Options_RetainSaves
+Сачувај претхнодне брзе и аутоматске снимњене игре
+
+::Options_AutoOverwriteSaves
+Аутоматски пресними игру
+
+::Options_SaveCompatibilityWarning
+Упозорење при учитавању делимично компатибилне игре
+
+::Options_Resolution
+Резолуција
+
+::Options_DisplayMode
+Режим Екрана
+
+::Options_AllowZoom
+Дозволи подешавање увећања (користећи SHIFT+точак миша)
+
+::Options_VSync
+VSync
+
+::Options_SpriteTargetMask
+Селекциона маска за спрајтове
+
+::Options_SpriteComposition
+Композитни спрајтови
+
+::Options_Shader
+Шејдер
+
+::Options_MasterVolume
+Главна јачина звука
+
+::Options_EffectsVolume
+Ефекти
+
+::Options_AmbientalVolume
+Амбијент
+
+::Options_MusicVolume
+Музика
+
+::Options_InterfaceVolume
+Интерфејс
+
+::Options_MainMenuTheme
+Тема Главног Менија
+
+::Options_InterfaceSize
+Интерфејс
+
+::Options_CursorSize
+Курсора
+
+::Options_OnScreenKeyboard
+Виртуелна Тастатура
+
+::Options_PortraitLighting
+Осветљени Портрети
+
+::Options_DialogPortraits
+Портрети у Дијалогу
+
+::Options_DialogFont
+Фонт у Дијалогу
+
+::Options_TooltipFont
+Фонт Тултипа
+
+::Options_LabelFont
+Фонт Назива
+
+::Options_DialogBackgroundAlpha
+Видљивост Позадине Дијалога
+
+::Options_LogFont
+Фонт Дневника
+
+::Options_LogWidth
+Ширина Дневника
+
+::Options_AutoselectTarget
+Аутоматско Селектовање Мете
+
+::Options_CharacterOutlines
+Оивичење Ликова
+
+::Options_UnobscurationAlpha
+Видљивост Разоткривања
+
+::Options_TransitionAlpha
+Видљивост Транзиција
+
+::Options_ScrollingCombatText
+Лебдеће Информације Борбе
+
+::Options_SCT_Player
+За Играча
+
+::Options_SCT_Selected
+За Селекцију
+
+::Options_SCT_Others
+За Остало
+
+::Options_SCT_Duration
+Трајање Информације
+
+::Option_SCT_TimeBetween
+Време Између Информација
+
+::Options_SCT_AggregateByDamageTypes
+Агрегација по Врсти Штете
+
+::Options_KeyBindings
+Командни Тастери
+
+::Options_FullscreenMouseLock
+Закључавање Миша 
+
+::Options_RightClickScrolling
+Померање Камере на Десни Клик
+
+::Options_ScreenEdgeScrolling
+Померање Камере на Ивици Екрана
+
+::Options_AutomaticallyOpenDoors
+Аутоматско Отварање Врата
+
+::Options_AutomaticallyEndTurn
+Аутоматско Завршавање Кругова
+
+::Options_CombatTaunts
+Борбене Вербалне Размене
+
+::Options_CombatMovementSpeed
+Брзина Кретања у Борби
+
+::Options_CombatActionSpeed
+Брзина Акција у Борби
+
+::Options_Tooltip_SpriteMask
+Ако играте на WINE / Proton / Steam Deck, укључите ову опцију како би повећали перформансе драстично. У супротном, ово треба да буде искључено.
+
+::Options_Tooltip_SpriteComposition
+Омогућава приказивање неке уникатне опремене на ликовима (укључујући и на игачу).
+
+::NewGame_Tab_Rules
+Правила
+
+::Difficulty
+Тежина
+
+::NewGame_GameDifficulty
+Тежина
+
+::NewGame_GameDifficulty_Easy
+Лака
+
+::NewGame_GameDifficulty_Normal
+Нормална
+
+::NewGame_GameDifficulty_Hard
+Тешка
+
+::NewGame_GameDifficulty_DOMINATING
+ДОМИНАЦИЈА
+
+::NewGame_ExperienceSystem
+Систем Прогресије
+
+::NewGame_ExperienceSystem_Oddity
+Дрангулије
+
+::NewGame_ExperienceSystem_Classic
+Класика
+
+::CharScreen_CancelNewCharGen
+Откажи креирање новог лика и врати се у главни мени?
+
+::CharScreen_CancelLevelUp
+Откажи подизање нивоа?
+
+::CharScreen_Veteran
+Ветеран
+
+::CharScreen_Tab_Base
+Основно
+
+::CharScreen_Tab_Skills
+Вештине
+
+::CharScreen_Tab_Feats
+Фитови
+
+::CharScreen_Tab_Specialization
+Специјализација
+
+::CharScreen_MustEnterName
+Морате унети име лика.
+
+::CharScreen_MustSpendAllBaseAbilities
+Морате прво распоредити све основне поене.
+
+::CharScreen_MustSpendAllSkills
+Морате прво распоредити све вештине.
+
+::CharScreen_InsufficientSkills
+Потрошили сте више поена за вештине него што имате на располагању.
+
+::CharScreen_MustSpendAllFeats
+Морате прво изабрати све фитове.
+
+::CharScreen_MustSpendAllSpecs
+Морате прво распоредити све специјализације.
+
+::CharScreen_InsufficientSpecs
+Потрошили сте више специјалистичких поена него што имате на располагању.
+
+::CharScreen_NamePlaceholder
+<Унесите име>
+
+::Level
+Ниво
+
+::CharScreen_Level
+Ниво
+
+::CharScreen_RemainingPoints
+Остали поени
+
+::CharScreen_RelatedBaseAbility
+Основна Карактеристика
+
+::CharScreen_Synergies
+Синергије
+
+::CharScreen_Requirements
+Предуслови
+
+::OptionBox_Code_Y
+D
+
+::OptionBox_Code_N
+N
+
+::Psi
+Пси
+
+::PsiReserves
+Пси Резерве
+
+::PsiAbility
+Пси Моћ
+
+::Feat
+Фит
+
+::RestrictedFeat
+Забрањени фит
+
+::RestrictedFeats
+Забрањени фитови
+
+::BeInMotion
+Буди Размрдан
+
+::SaveLoad_<New>
+<Нова>
+
+::SaveLoad_PlayTime
+Трајање
+
+::SaveLoad_SaveInNewSlot
+Сними игру на ново место.
+
+::SaveLoad_LoadCaption
+Учитавање
+
+::SaveLoad_SaveCaption
+Снимање
+
+::SaveLoad_DeleteCaption
+Обрисати
+
+::SaveLoad_OverwriteCaption
+Прегазити
+
+::SaveLoad_ImportCaption
+Увоз
+
+::SaveLoad_Command_Overwrite
+Прегази
+
+::SaveLoad_Command_AutoOverwrite
+Увек прегази
+
+::SaveLoad_IncompatibleSave
+Ова снимњена позиција није компатибилна са тренутном верзијом игре и не може се учитати
+
+::SaveLoad_PartiallyCompatibleSave
+Ова снимњена позиција није у потпуности компатибилна са тренутном верзијом игре. Учитати свеједно?
+
+::SaveLoad_Overwrite
+Јесте сигурни да желите да прегазите ову снимњену позицију?
+
+::SaveLoad_Delete
+Јесте сигурни да желите да обришете ову снимњену позицију?
+
+::SaveLoad_FailedToDeletSave
+Неуспешно брисање снимњене позиције.
+
+::SaveLoad_Button_Load
+Учитај
+
+::SaveLoad_Button_Save
+Сними
+
+::SaveLoad_Button_Export
+Извези
+
+::SaveLoad_ExportedOn
+Извезено
+
+::SaveLoad_GameVersion
+Верзије игре
+
+::SaveLoad_CharNotCompatible
+Овај карактер није компатибилан са тренутном верзијом игре и не може бити увезен.
+
+::SaveLoad_DeleteCharacter
+Јесте сигурни да желите да обришете овог карактера?
+
+::SaveLoad_FailedToDeleteCharacter
+Неуспешно брисање карактера.
+
+::GameMenu_Resume
+Настави
+
+::GameMenu_Save
+Сними Игру
+
+::GameMenu_Load
+Учитај Игру
+
+::GameMenu_ExportChar
+Извези карактера
+
+::GameMenu_Options
+Подешавања
+
+::GameMenu_Quit
+Излаз
+
+::Msg_Exporting
+Извожење...
+
+::Msg_Saving
+Снимање...
+
+::SystemBar_CharacterSheet
+Преглед Карактера
+
+::SystemBar_CharacterSheet_Tooltip
+тодо View your character's base abilities, skills and feats.
+
+::SystemBar_CombatStats
+Борбени Параметри
+
+::SystemBar_CombatStats_Tooltip
+тодо An overview of you character's combat stats.
+
+::SystemBar_Inventory
+Инвентар
+
+::SystemBar_Inventory_Tooltip
+тодо Manage your character's inventory and gear.
+
+::SystemBar_Psi
+Псионика
+
+::SystemBar_Psi_Tooltip
+тодо Before your psi abilities can be used, your brain needs to be innervated with them.
+
+::SystemBar_Crafting
+Конструкција
+
+::SystemBar_Crafting_Tooltip
+тодо View blueprints you obtained and craft items based on them.
+
+::SystemBar_Notes
+Белешке
+
+::SystemBar_Notes_Tooltip
+тодо View your notes.
+
+::SystemBar_Oddities
+Дрангулије
+
+::SystemBar_Oddities_Tooltip
+Прегледај дрангулије које си учио.
+
+::SystemBar_GlobalMap
+Мапа
+
+::SystemBar_GlobalMap_Tooltip
+тодо View global maps.
+
+::SystemBar_Help
+Помоћ
+
+::SystemBar_Help_Tooltip
+тодо Show interface help.
+
+::SystemBar_Menu
+Мени
+
+::SystemBar_Menu_Tooltip
+тодо Open the main menu.
+
+::CharInventory_Button_Sort
+Сортирај
+
+::CharInventory_Button_TransferAll
+Пребаци Све
+
+::CharInventory_Notification_EquippingApCost
+Опремање оружијем и борбеним алатима из инвентара у току борбе кошта {0} акционих поена.
+
+::CharInventory_Notification_CannotEquipCurrently
+Не можете се опремати из инентара у тренутном стању.
+
+::CharInventory_Notification_CannotEquipStealth
+Не можете мењати оклоп док сте скривени или док је мод скривања на тајмеру.
+
+::CharInventory_GearSlot_Headgear
+Шлем
+
+::CharInventory_GearSlot_EnergyShieldEmitter
+Енергетски Штит
+
+::CharInventory_GearSlot_Armor
+Оклоп
+
+::CharInventory_GearSlot_Belt
+Каиш
+
+::CharInventory_GearSlot_Footwear
+Обућа
+
+::CharInventory_GearSlot_PrimaryWeapon
+Примарно Оружије
+
+::CharInventory_GearSlot_SecondaryWeapon
+Секундарно Оружије
+
+::CharInventory_GearSlot_CombatUtility
+Борбени Алат
+
+::CharInventory_Filter_All
+Све
+
+::CharInventory_Filter_Gear
+Опрема
+
+::CharInventory_Filter_Combat Utilities
+Борбени Предмети
+
+::CharInventory_Filter_Ammo
+Муниција
+
+::CharInventory_Filter_Consumables
+Лекови/Храна
+
+::CharInventory_Filter_Crafting
+Конструкција
+
+::CharInventory_Filter_Tools
+Алати
+
+::CharInventory_Filter_Plot
+Мисије
+
+::CharInventory_Filter_Non-plot
+Невезано за Мисије
+
+::Item_TypeName_Armor Suit
+Оклоп
+
+::Item_TypeName_Belt
+Каиш
+
+::Item_TypeName_Footwear
+Обућа
+
+::Item_TypeName_Headwear
+Шлем
+
+::Item_TypeName_Shield Emitter
+Енергетски Штит
+
+::Item_TypeName_Assault Rifle
+Јуришна Пушка
+
+::Item_TypeName_Crossbow
+Самострел
+
+::Item_TypeName_Melee Weapon
+Меле Оружије
+
+::Item_TypeName_Pistol
+Пиштољ
+
+::Item_TypeName_SMG
+Пушкомитраљез
+
+::Item_TypeName_Sniper Rifle
+Снајпер
+
+::Item_TypeName_Grenade Launcher
+Бацач Граната
+
+::Item_TypeName_Fusion Cannon
+Фузијски Топ
+
+::Item_TypeName_LMG
+Лаки Митраљез
+
+::Item_TypeName_Minigun
+Минигaн
+
+::Item_TypeName_Rocket Launcher
+Лансер Ракета
+
+::Item_TypeName_Shotgun
+Сачмара
+
+::Item_TypeName_Combat Shotgun
+Аутоматска Сачмара
+
+::Item_TypeName_Weapon
+Оружије
+
+::Item_TypeName_Ammo
+Муниција
+
+::Item_TypeName_Blueprint
+Рецепт
+
+::Item_TypeName_Component
+Компонента
+
+::Item_TypeName_Consumable
+За Конзумирање
+
+::Item_TypeName_Food
+Храна
+
+::Item_TypeName_Medicine
+Лек
+
+::Item_TypeName_Currency
+Валута
+
+::Item_TypeName_Document
+Документ
+
+::Item_TypeName_Energy Source
+Извор Енергије
+
+::Item_TypeName_Explosive
+Експлозив
+
+::Item_TypeName_Enhancement
+Појачање
+
+::Item_TypeName_Key
+Кључ
+
+::Item_TypeName_Log Entry
+Белешке
+
+::Item_TypeName_Oddity
+Дрангулија
+
+::Item_TypeName_Mentor
+Ментор
+
+::Item_TypeName_Tool
+Алат
+
+::Item_TypeName_Trap
+Замка
+
+::Item_TypeName_Vehicle Part
+Део за Возила
+
+::Item_TypeName_Grenade
+Граната
+
+::Item_TypeName_Combat Utility
+Борбени Предмет
+
+::Item_TypeSuffix_TwoHanded
+(дворучни)
+
+::Item_Notification_CannotBeUsedInCombat
+Не може се користити у борби
+
+::Item_Notification_CannotBeRechargedInCombat
+Не може се пунити у борби
+
+::Item_Notification_CannotBeUsedOrRechargedInCombat
+Не може се користити или пунити у борби
+
+::Item_Equip
+Опремњен
+
+::Item_Use
+Искористи
+
+::Item_OnHit
+При удару
+
+::Item_TemporaryEffects
+Привремени ефекти
+
+::Item_Requirements
+Потребно
+
+::Item_BatteryEnergy
+Батерија
+
+::Item_Durability
+Стање
+
+::Item_CanBeDisassembled
+Може се раставити.
+
+::Item_Weight
+Тежина
+
+::Item_Value
+Вредност
+
+::Item_MerchantWontBuy
+Трговац не жели да купи овај предмет.
+
+::Item_CannotBeSold
+Не може се продати.
+
+::Item_SpecialMerchandise
+Специјална роба.
+
+::Item_Level
+Ниво
+
+::Item_SpecialAbilities
+Специјалне могућности
+
+::Item_BlueprintAlreadyKnown
+Већ познат.
+
+::Item_MentorAlreadyKnown
+Већ познат.
+
+::Item_Trap_RequiredSkill
+Потребна вештина
+
+::Item_Trap_DetectionDifficulty
+Тежина откривања
+
+::Item_Oddity_PickUp
+При узимању: Проучићете овај предмет и добити {0} искуствени поен. Можете проучити овај предмет {1} пута.
+
+::Item_Oddity_PickUpМ
+При узимању: Проучићете овај предмет и добити {0} искуствених поена. Можете проучити овај предмет {1} пута.
+
+::Item_Oddity_PickUpМ4
+При узимању: Проучићете овај предмет и добити {0} искуственa поена. Можете проучити овај предмет {1} пута.
+
+::Item_Oddity_Studied
+Проучено {0} / {1} путa.
+
+::Item_Oddity_StudiedM
+Проучено {0} / {1} пута.
+
+::Item_Oddity_StudiedM4
+Проучено {0} / {1} пута.
+
+::Item_Weapon_ImpactSpeed
+Брзина удара
+
+::Item_Weapon_BaseActionPoints
+Базни акциони поени
+
+::Item_Weapon_SpreadAngle
+Угао ширења
+
+::Item_Weapon_Precision
+Прецизност
+
+::Item_Weapon_CloseQuartersPrecision
+Прецизност из близине
+
+::Item_Weapon_MoveAndShootPrecision
+Прецизност при кретању
+
+::Item_Weapon_BurstPrecision
+Прецизност при решетању
+
+::Item_Weapon_BurstShots
+Меци при решетању
+
+::Item_Weapon_MinimalWeaponSkill
+Минимална потребна вештина
+
+::Item_Weapon_ShieldBypass
+Игнорише {0}% непријатељовог енергетског штита.
+
+::Item_Weapon_RequiresBothHands
+Држи се са обе руке.
+
+::Item_Weapon_OnAttack
+При нападу
+
+::Item_Weapon_OnShoot
+При нападу
+
+::Item_Weapon_OnHit
+При поготку
+
+::Item_Weapon_EnergyUsagePerShot
+Енергетска цена по нападу
+
+::Item_Weapon_EnergyUsagePerShot_None
+0
+
+::Item_Weapon_AmmoType
+Врста муниције
+
+::Item_Weapon_MagazineCapacity
+Капацитет шаржера
+
+::Item_Weapon_ReloadingCost
+Цена пуњења
+
+::Item_Weapon_Loaded
+Пуњење
+
+::Item_Weapon_Disposable
+Не може се поправити, испразнити, нити поново напунити.
+
+::Item_Weapon_StrengthScaling
+Штета је повећана за {0}% са сваким поеном снаге.
+
+::Item_Weapon_StrengthScaling1
+Штета је повећана за {0}% са сваким пеоном снаге изнад {1}.
+
+::Item_Weapon_EvasionIgnore
+Игнорише до {0}% метине ескивације на близину.
+
+::Item_Component_Quality
+Квалитет
+
+::Item_Component_RequiredCraftingSkills
+Потребне вештине
+
+::Crafting_Slot_Optional
+Опционо
+
+::Crafting_Composition_Diff0
+Композиционе тешкоће. Коришћење овог слота ће увећати тоталне предуслове конструкције за 
+
+::Crafting_Composition_Diff1
+вредности предослова овог предмета.
+
+::Vehicle_Slot_MaxSize
+Максимална Величина
+
+::Vehicle_Slot_Optional
+Опционо
+
+::Vehicle_Part_PartSize
+Величина Дела
+
+::Vehicle_Part_Power
+Снага
+
+::Vehicle_Part_ConsumptionRatio
+Потрошња
+
+::Vehicle_Part_Stability
+Стабилност
+
+::Vehicle_Part_SpecialAbilities
+Специјалне Могућности
+
+::Vehicle_Part_Broken
+Овај део је потпуно уништен.
+
+::InventoryNotes_ShiftClickToSplit
+Шифт + Леви Клик да бисте развдојили.
+
+::InventoryNotes_AltClickToTransfer
+Алт + Леви Клик да бисте пребацили.
+
+::InventoryNotes_DoubleClickBlueprint
+Дупли клик да бисте искористили рецепт.
+
+::InventoryNotes_DoubleClickToEquip
+Дупли клик да бисте опремили.
+
+::ItemArmorBonuses_BlockChance
+Has {0}% chance to block up to {1} points of mechanical melee damage.
+
+::ItemArmorBonuses_CannotWieldTwoHanded
+Не можете користити дворучно оружије.
+
+::PsiWindow_Caption
+Псионичке Моћи
+
+::PsiWindow_Button_Innervate
+Инервиши
+
+::PsiWindow_CannotInnervateInCombat
+Не можете инервисати током борбе.
+
+::PsiWindow_BasePsiCostModifier
+Базна цена псионике
+
+::PsiWindow_PsionicCircuit
+Псионичко Коло
+
+::PsiWindow_PsionicCircuit_Desc
+Изабери псионичку моћ из листе доле и изврши инервацију како би могао да је користиш.
+
+::PsiWindow_LockedPsionicCircuit
+Закључано Псионичко Коло
+
+::PsiWindow_LockedPsionicCircuit_Desc
+Твој карактер није још увек у могућности да користи ово коло.
+
+::Blueprint_AlreadyObtained
+(већ познат)
+
+::Blueprint_Downloaded
+Преузели сте нови рецепт

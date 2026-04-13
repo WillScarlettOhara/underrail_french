@@ -1,0 +1,110 @@
+::Skills
+Вештине
+
+::AnyPsi
+Било која пси вештина
+
+::GeneralInfo
+Како ваш лик напредује, на сваком нивоу добијаће одређену количину поена за вештине. Можете распоредити ове поене како год желите, али не више од 5 поена по нивоу у свакој вештини (први ниво је изузетак јер тада можете уложити 15).
+
+На сваку вештину утиче једна од основних карактеристика, мењајући њен ефективни ниво.
+
+Неке вештине могу бити повећане кроз синергију са другим вештинама.
+
+Број у загради представља ефективни ниво вештине са свим урачунатим факторима.
+
+::Guns
+Повећава прецизност и штету са било којим типом пиштоља, СМГ-а или пушке. Ово укључује и ватрено и енергетско оружије.
+
+Такође, већи ниво вештине дозваљава ефикасније коришћење напреднијих оружија.
+
+::Guns_xpbl
+Increases your precision and damage with any type of pistol, SMG, shotgun, or rifle. This includes both firearms and energy weapons.
+
+Also, the higher your skill level the more advanced weapons you can wield effectively.
+
+::Guns_xphw
+Increases your precision and damage with any type of pistol, SMG, rifle, or grenade launcher. This includes both firearms and energy weapons.
+
+Also, the higher your skill level the more advanced weapons you can wield effectively.
+
+::Guns_full
+Повећава прецизност и штету са било којим типом пиштоља, СМГ-а, сачмаре, пушке или бацача граната. Ово укључује и ватрено и енергетско оружије.
+
+Такође, већи ниво вештине дозваљава ефикасније коришћење напреднијих оружија.
+
+::Heavy Guns
+Increases your precision and damage with machine guns and handheld miniguns.
+
+Also, the higher your skill level the more advanced weapons you can wield effectively.
+
+::Crossbows
+Increases your precision and damage with crossbows. 
+
+::Grenades-Old
+Allows you to throw grenades more quickly, more often and across greater distance.
+
+::Throwing
+Increases your precision with all thrown weapons and utilities, including grenades.
+
+::Melee
+Increases mechanical damage with melee weapons and unarmed attacks and helps you overcome your target's dodge rating.
+
+::Dodge
+Increases your chance to avoid melee attacks.
+
+::Evasion
+Increases your chance to avoid a ranged attack. Reduces damage you receive from area of effect attacks.
+
+::Stealth
+Decreases the chance that you'll be spotted while in stealth mode. Also affects numerous aspects of stealth combat.
+
+::Hacking
+Allows you to hack all kinds of computer devices, such as electronic locks, cameras, sentry turrets, etc.
+
+::Lockpicking
+Allows you to pick mechanical locks and dismantle other mechanical barriers such as ventilation shafts.
+
+::Pickpocketing
+Allows you to steal items from other characters.
+
+::Mechanics
+Represents your knowledge of mechanics. This skill is primarily used in crafting various items, such as weapons, armors and traps.
+
+::Electronics
+Represents your knowledge of electronics. This skill is primarily used in crafting various items, such as various electronic utilities and energy weapons.
+
+::Chemistry
+Represents your knowledge of chemistry. This skill is primarily used in crafting various items, such as explosives.
+
+::Biology
+Represents your knowledge of biology. This skill is primarily used in crafting various items, such as healing and psi restoring concoctions. It also enables you to extract useful substances from plants and animals.
+
+::Tailoring
+Represents your skill in tailoring leather and cloth materials into pieces of armor.
+
+::Thought Control
+Ability to influence the minds of other living creatures through mental suggestion and domination. Also the ability to focus and enhance your own mental processes and to take greater control of your body.
+
+::Psychokinesis
+Ability of the mind to exert mechanical force, as well as to emit electric currents and project electromagnetic fields.
+
+::Metathermics
+Ability of mind to initiate and control rapid temperature changes and harness exothermic and endothermic energies.
+
+::Temporal Manipulation
+Ability of mind to manipulate time or time perception on very local level, including partial time suspension, reversal and recurrence.
+
+::Persuasion
+Your ability to convince the other party to see things your way through non-violent means.
+
+::Intimidation
+Your ability to make someone act out of fear.
+
+::Mercantile
+Your ability to work out favorable prices in a business transaction.
+
+::Traps
+Allows you to plant and disarm increasingly more powerful traps. The higher your skill is the harder your traps are to spot and disarm.
+
+Also increases your chance of spotting traps.

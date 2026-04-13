@@ -1,0 +1,1288 @@
+=>q1_original
+::He frowns:: I've got nothin' to say to you. Nothin'.<end>
+
+=>q1
+::He frowns:: I've got nothin' to say to you. Nothin'.<end>
+
+=>q2_original
+::Jonas seems to be deep in disturbing thoughts. As you address him, he seems to snap out of it and quickly get back to his usual mirthful self.:: Still runnin' about, I see? Ah, you youngsters are full of energy.<end>
+
+=>q2
+::Jonas seems to be deep in disturbing thoughts. As you address him, he seems to snap out of it and quickly get back to his usual mirthful self.:: Still runnin' about, I see? Ah, you youngsters are full of energy.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I think I found your watch. ::Show him the old watch you found.::<end>
+
+=>a4
+I think I found your watch. ::Show him the old watch you found.::<end>
+
+=>q5_original
+Yes, that's the one! <end>
+
+=>q5
+Yes, that's the one! <end>
+
+=>q6_original
+Where'd you find it?<end>
+
+=>q6
+Where'd you find it?<end>
+
+=>a7_original
+You really don't want to know.<end>
+
+=>a7
+You really don't want to know.<end>
+
+=>q8_original
+It's covered with... ugh, you're right - best that I don't know.<end>
+
+=>q8
+It's covered with... ugh, you're right - best that I don't know.<end>
+
+=>q9_original
+So... can I have it now? <end>
+
+=>q9
+So... can I have it now? <end>
+
+=>q10_original
+There're a few special items I can offer you for it. ::He rummages through his backpack:: I've got this here powerful submachine gun; perfect working condition... I've got a set of healin' hypos... these are good for ya; and I've got these here fine lookin' boots. Look at 'em. They are fine.
+
+So what's it gonna be?<end>
+
+=>q10
+There're a few special items I can offer you for it. ::He rummages through his backpack:: I've got this here powerful submachine gun; perfect working condition... I've got a set of healin' hypos... these are good for ya; and I've got these here fine lookin' boots. Look at 'em. They are fine.
+
+So what's it gonna be?<end>
+
+=>a11_original
+That's alright, Jonas. You can just have it.<end>
+
+=>a11
+That's alright, Jonas. You can just have it.<end>
+
+=>q12_original
+::He smiles.:: Thank you, youngster. That watch has sentimental value you know.
+
+From now on you're gettin' only the best deals for whatever item I scavenge.<end>
+
+=>q12
+::He smiles.:: Thank you, youngster. That watch has sentimental value you know.
+
+From now on you're gettin' only the best deals for whatever item I scavenge.<end>
+
+=>a13_original
+Now, there was something I wanted to ask you.<end>
+
+=>a13
+Now, there was something I wanted to ask you.<end>
+
+=>q14_original
+Sure, youngster.<end>
+
+=>q14
+Sure, youngster.<end>
+
+=>a15_original
+See you later, old geezer.<end>
+
+=>a15
+Видимо се, матори.<end>
+
+=>a16_original
+I'll have the submachine gun.<end>
+
+=>a16
+I'll have the submachine gun.<end>
+
+=>q17_original
+Here you go. May it serve you well.<end>
+
+=>q17
+Here you go. May it serve you well.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+Give me those hypos; can never have too many of those.<end>
+
+=>a19
+Give me those hypos; can never have too many of those.<end>
+
+=>q20_original
+A wise decision. Here you go.<end>
+
+=>q20
+A wise decision. Here you go.<end>
+
+=>a21_original
+I needed a new pair of boots anyway.<end>
+
+=>a21
+I needed a new pair of boots anyway.<end>
+
+=>q22_original
+You're in luck then. May they serve you for many miles.<end>
+
+=>q22
+You're in luck then. May they serve you for many miles.<end>
+
+=>a23_original
+I'll trade it for all of it.<end>
+
+=>a23
+I'll trade it for all of it.<end>
+
+=>q24_original
+What now!?<end>
+
+=>q24
+What now!?<end>
+
+=>a25_original
+You heard me. It's all or nothing.<end>
+
+=>a25
+You heard me. It's all or nothing.<end>
+
+=>q26_original
+::His face darkens.:: Then it's gonna be nothin'! Get out of my sight.<end>
+
+=>q26
+::His face darkens.:: Then it's gonna be nothin'! Get out of my sight.<end>
+
+=>a27_original
+See you around, old man.<end>
+
+=>a27
+See you around, old man.<end>
+
+=>a28_original
+::Leave without saying a word.::<end>
+
+=>a28
+::Leave without saying a word.::<end>
+
+=>a29_original
+::[Mercantile]:: Well it's only fair. This is a pretty good watch and what things do you offer me in return: an old rusty submachine gun, pair of worn out boots or health hypos - which I have plenty of anyways.<end>
+
+=>a29
+::[Mercantile]:: Well it's only fair. This is a pretty good watch and what things do you offer me in return: an old rusty submachine gun, pair of worn out boots or health hypos - which I have plenty of anyways.<end>
+
+=>q30_original
+You drive a hard bargain, $(context.player.Name). ::He sighs.:: Well, alright, I guess I don't have much of a choice. Here you go.<end>
+
+=>q30
+You drive a hard bargain, $(context.player.Name). ::He sighs.:: Well, alright, I guess I don't have much of a choice. Here you go.<end>
+
+=>a31_original
+Just kidding. What were my choices again?<end>
+
+=>a31
+Just kidding. What were my choices again?<end>
+
+=>a32_original
+You know, this is a nice looking watch. I think I'll keep it for myself.<end>
+
+=>a32
+You know, this is a nice looking watch. I think I'll keep it for myself.<end>
+
+=>q33_original
+::His face darkens.:: Get out of my sight!<end>
+
+=>q33
+::His face darkens.:: Get out of my sight!<end>
+
+=>a34_original
+In the belly of a rathound.<end>
+
+=>a34
+In the belly of a rathound.<end>
+
+=>q35_original
+::He quirks an eyebrow.:: I knew those things would devour anythin', but a metal watch...<end>
+
+=>q35
+::He quirks an eyebrow.:: I knew those things would devour anythin', but a metal watch...<end>
+
+=>a36_original
+I think your watch has been given a second chance, old man. ::Show him the old watch you found.::<end>
+
+=>a36
+I think your watch has been given a second chance, old man. ::Show him the old watch you found.::<end>
+
+=>q37_original
+Ha-ha! Good one - good one!<end>
+
+=>q37
+Ha-ha! Good one - good one!<end>
+
+=>q38_original
+That's the watch alright. <end>
+
+=>q38
+That's the watch alright. <end>
+
+=>a39_original
+Remember that watch you mentioned earlier. I think I found it.<end>
+
+=>a39
+Remember that watch you mentioned earlier. I think I found it.<end>
+
+=>a40_original
+What is this place?<end>
+
+=>a40
+Какво је ово место?<end>
+
+=>q41_original
+This is the Crossroad Watch. The only way to get into our station from the tunnels is through here.<end>
+
+=>q41
+This is the Crossroad Watch. The only way to get into our station from the tunnels is through here.<end>
+
+=>a42_original
+What are you doing here?<end>
+
+=>a42
+Шта ти радиш овде?<end>
+
+=>q43_original
+Just sortin' through some goods I scavenged today. Wanna take a look, see if there's somethin' you like, before I take it back to the station? I offer a fair bargain.<end>
+
+=>q43
+Just sortin' through some goods I scavenged today. Wanna take a look, see if there's somethin' you like, before I take it back to the station? I offer a fair bargain.<end>
+
+=>a44_original
+Sure. Let me see what you have. ::Barter.::<end>
+
+=>a44
+Sure. Let me see what you have. ::Barter.::<end>
+
+=>a45_original
+Perhaps later.<end>
+
+=>a45
+Perhaps later.<end>
+
+=>q46_original
+Suit yourself.<end>
+
+=>q46
+Suit yourself.<end>
+
+=>a47_original
+I hear you are very knowledgeable of the tunnels and I could use some advice.<end>
+
+=>a47
+I hear you are very knowledgeable of the tunnels and I could use some advice.<end>
+
+=>q48_original
+Been crawlin' through them tunnels all my life. What do you want to know?<end>
+
+=>q48
+Been crawlin' through them tunnels all my life. What do you want to know?<end>
+
+=>q49_original
+<end>
+
+=>q49
+<end>
+
+=>a50_original
+Do you know how I can get to that Junkyard place?<end>
+
+=>a50
+Do you know how I can get to that Junkyard place?<end>
+
+=>q51_original
+Off to do some junk diggin', eh? Just go to the far side of Mushroom Cove and take the tunnels north. If you don't get mauled by rathounds or mind-blown by psi beetles, eventually you'll reach Junkyard. Takin' the ferry across the Chancer's Bay is a safer bet, though. You'll find one at the SGS docks.<end>
+
+=>q51
+Off to do some junk diggin', eh? Just go to the far side of Mushroom Cove and take the tunnels north. If you don't get mauled by rathounds or mind-blown by psi beetles, eventually you'll reach Junkyard. Takin' the ferry across the Chancer's Bay is a safer bet, though. You'll find one at the SGS docks.<end>
+
+=>a52_original
+Why's the Chancer's Bay called like that?<end>
+
+=>a52
+Why's the Chancer's Bay called like that?<end>
+
+=>q53_original
+'Cause of second chance goods.<end>
+
+=>q53
+'Cause of second chance goods.<end>
+
+=>a54_original
+Which are?<end>
+
+=>a54
+Which are?<end>
+
+=>q55_original
+Oh, you know what second chance goods are, even if you don't know them by that name. Take this example: Some guy goes out and buys a pair of boots from a merchant. Nice, comfy leather boots. He goes out spelunkin' to test them out and gets attacked by some thugs - either whacked and looted, or robbed. The thugs - preferably workin' for the merchant who originally sold them to that poor sod - bring it to the merchant so that they can be resold. 
+
+Thus they've been given a "second chance."<end>
+
+=>q55
+Oh, you know what second chance goods are, even if you don't know them by that name. Take this example: Some guy goes out and buys a pair of boots from a merchant. Nice, comfy leather boots. He goes out spelunkin' to test them out and gets attacked by some thugs - either whacked and looted, or robbed. The thugs - preferably workin' for the merchant who originally sold them to that poor sod - bring it to the merchant so that they can be resold. 
+
+Thus they've been given a "second chance."<end>
+
+=>q56_original
+Heh. Pretty common stuff in Junkyard, as you'd expect. Hence the bay's name - the Chancer's Bay.<end>
+
+=>q56
+Heh. Pretty common stuff in Junkyard, as you'd expect. Hence the bay's name - the Chancer's Bay.<end>
+
+=>a57_original
+Are there third chance goods?<end>
+
+=>a57
+Are there third chance goods?<end>
+
+=>q58_original
+Now you're overthinkin' it. They're second chance goods no matter how many chances they get. Dig?<end>
+
+=>q58
+Now you're overthinkin' it. They're second chance goods no matter how many chances they get. Dig?<end>
+
+=>a59_original
+::Nod.:: Let me ask you something else now.<end>
+
+=>a59
+::Nod.:: Let me ask you something else now.<end>
+
+=>q60_original
+Yup.<end>
+
+=>q60
+Yup.<end>
+
+=>a61_original
+What are second chance goods again?<end>
+
+=>a61
+What are second chance goods again?<end>
+
+=>a62_original
+What can you tell me about the abandoned outposts nearby?<end>
+
+=>a62
+What can you tell me about the abandoned outposts nearby?<end>
+
+=>q63_original
+The nearest one is just north of the Crossroad Watch. They stretch to the east and to the west from there. They were built by Omega station but are somewhat in ruins since we put them out of business. Plenty of rathounds there now.<end>
+
+=>q63
+The nearest one is just north of the Crossroad Watch. They stretch to the east and to the west from there. They were built by Omega station but are somewhat in ruins since we put them out of business. Plenty of rathounds there now.<end>
+
+=>q64_original
+Oh, if you are heading there, could you do me a favor? I was scavengin' near those outposts a while back and I think I lost my old digital watch there. It was about this big and made of metal. It doesn't have a strap so I keep it in my pocket.<end>
+
+=>q64
+Oh, if you are heading there, could you do me a favor? I was scavengin' near those outposts a while back and I think I lost my old digital watch there. It was about this big and made of metal. It doesn't have a strap so I keep it in my pocket.<end>
+
+=>q65_original
+It must have fallen out somewhere. Could you keep an eye out for it? If you bring it back I'll make you a good bargain for it.<end>
+
+=>q65
+It must have fallen out somewhere. Could you keep an eye out for it? If you bring it back I'll make you a good bargain for it.<end>
+
+=>a66_original
+You mean like this one?<end>
+
+=>a66
+You mean like this one?<end>
+
+=>a67_original
+Metal detectors on! I'll have your watch back in no time.<end>
+
+=>a67
+Metal detectors on! I'll have your watch back in no time.<end>
+
+=>q68_original
+I'm not gettin' my hopes up, but good huntin'.<end>
+
+=>q68
+I'm not gettin' my hopes up, but good huntin'.<end>
+
+=>a69_original
+I'll keep a look out, but I can't promise anything.<end>
+
+=>a69
+I'll keep a look out, but I can't promise anything.<end>
+
+=>q70_original
+That's all I ask.<end>
+
+=>q70
+That's all I ask.<end>
+
+=>a71_original
+Sorry but I've got more important things to do than look for your watch.<end>
+
+=>a71
+Sorry but I've got more important things to do than look for your watch.<end>
+
+=>q72_original
+::Sighs a bit.:: I suppose you do.<end>
+
+=>q72
+::Sighs a bit.:: I suppose you do.<end>
+
+=>q73_original
+Anything else?<end>
+
+=>q73
+Anything else?<end>
+
+=>q74_original
+The nearest one is just north of here and then they stretch to the east and to the west. They were built by Omega station but are somewhat in ruins now since we put them out of business. Plenty of Rathounds there now.<end>
+
+=>q74
+The nearest one is just north of here and then they stretch to the east and to the west. They were built by Omega station but are somewhat in ruins now since we put them out of business. Plenty of Rathounds there now.<end>
+
+=>a75_original
+Is it really true that you descended to the bottom of Deep Caverns?<end>
+
+=>a75
+Is it really true that you descended to the bottom of Deep Caverns?<end>
+
+=>q76_original
+::He laughs.:: Listen, youngster, there's not a place in this accursed underworld these old legs haven't visited. I've descended as low as one can go and I even took a peek into the dreaded mutagen tanks and...<end>
+
+=>q76
+::He laughs.:: Listen, youngster, there's not a place in this accursed underworld these old legs haven't visited. I've descended as low as one can go and I even took a peek into the dreaded mutagen tanks and...<end>
+
+=>q77_original
+Well, it's somewhat of a long story. You sure you wanna hear it?<end>
+
+=>q77
+Well, it's somewhat of a long story. You sure you wanna hear it?<end>
+
+=>a78_original
+Heck yes.<end>
+
+=>a78
+Heck yes.<end>
+
+=>q79_original
+It happened a long time ago, and my memory's a bit... fuzzy, but here goes: I was young, strong and handsome - a strappin' young lad, hehe. I was a scavenger at heart, still am, a spelunker that explored nearly all caves in South Underrail. One day I got the opportunity to go deeper - into Deep Caverns.<end>
+
+=>q79
+It happened a long time ago, and my memory's a bit... fuzzy, but here goes: I was young, strong and handsome - a strappin' young lad, hehe. I was a scavenger at heart, still am, a spelunker that explored nearly all caves in South Underrail. One day I got the opportunity to go deeper - into Deep Caverns.<end>
+
+=>q80_original
+There used to be a workin' elevator that would take you down there. It's still there next to the Hangin' Rat, down in the caves, but it ain't workin' anymore.<end>
+
+=>q80
+There used to be a workin' elevator that would take you down there. It's still there next to the Hangin' Rat, down in the caves, but it ain't workin' anymore.<end>
+
+=>q81_original
+Anyway, I took a ride down and soon enough I arrived to an old ruined Biocorp compound that was built inside a series of large caverns.<end>
+
+=>q81
+Anyway, I took a ride down and soon enough I arrived to an old ruined Biocorp compound that was built inside a series of large caverns.<end>
+
+=>q82_original
+For days I explored it, avoidin' burrowers, slimes, and other mutated monsters too horrible to describe. Grabbing all the valuable doohickeys that I could fit in my backpack.<end>
+
+=>q82
+For days I explored it, avoidin' burrowers, slimes, and other mutated monsters too horrible to describe. Grabbing all the valuable doohickeys that I could fit in my backpack.<end>
+
+=>q83_original
+Should've seen me back in those days. I was at the top of my game.<end>
+
+=>q83
+Should've seen me back in those days. I was at the top of my game.<end>
+
+=>q84_original
+One day I went very far into the facility, farther than I've ever been before. And, as I mentioned, I got to the mutagen tanks. The *real* ones.<end>
+
+=>q84
+One day I went very far into the facility, farther than I've ever been before. And, as I mentioned, I got to the mutagen tanks. The *real* ones.<end>
+
+=>q85_original
+And they are not just a myth as some say, they are *very* real. Bunch of big silos connected all about the place with large pipes. They were empty though. You could even walk inside some of them on account of them being broken open.<end>
+
+=>q85
+And they are not just a myth as some say, they are *very* real. Bunch of big silos connected all about the place with large pipes. They were empty though. You could even walk inside some of them on account of them being broken open.<end>
+
+=>q86_original
+I was lookin' around the place when I noticed this hatch with a big ol' biohazard sign on it. Now, I've seen these before down there so I didn' think much about it before I opened it and got down the ladder.<end>
+
+=>q86
+I was lookin' around the place when I noticed this hatch with a big ol' biohazard sign on it. Now, I've seen these before down there so I didn' think much about it before I opened it and got down the ladder.<end>
+
+=>q87_original
+They usually led down to small rooms with nothin' special in them. This time, however, it led me to somethin' that scared the living bejesus out of me.<end>
+
+=>q87
+They usually led down to small rooms with nothin' special in them. This time, however, it led me to somethin' that scared the living bejesus out of me.<end>
+
+=>a88_original
+What was it?!<end>
+
+=>a88
+What was it?!<end>
+
+=>q89_original
+I...<end>
+
+=>q89
+I...<end>
+
+=>q90_original
+I have no idea.<end>
+
+=>q90
+I have no idea.<end>
+
+=>a91_original
+::[Intelligence]:: The trauma made you forget?<end>
+
+=>a91
+::[Intelligence]:: The trauma made you forget?<end>
+
+=>q92_original
+I guess so, and I'm glad for it.<end>
+
+=>q92
+I guess so, and I'm glad for it.<end>
+
+=>q93_original
+The next thing I knew I was runnin' back to the elevator. I never went back down there again.<end>
+
+=>q93
+The next thing I knew I was runnin' back to the elevator. I never went back down there again.<end>
+
+=>q94_original
+<end>
+
+=>q94
+<end>
+
+=>a95_original
+The thing you saw was probably Tchort, a mutated giant pile of flesh with one big eyeball and tentacles, claiming to be a god.<end>
+
+=>a95
+The thing you saw was probably Tchort, a mutated giant pile of flesh with one big eyeball and tentacles, claiming to be a god.<end>
+
+=>q96_original
+::You can see Jonas going through a whole array of expressions, from dismissiveness, through surprise, fear, and confusion, and finally settling on something that can only be interpreted as "deeply disturbed."::<end>
+
+=>q96
+::You can see Jonas going through a whole array of expressions, from dismissiveness, through surprise, fear, and confusion, and finally settling on something that can only be interpreted as "deeply disturbed."::<end>
+
+=>q97_original
+I think I need another drink.<end>
+
+=>q97
+I think I need another drink.<end>
+
+=>a98_original
+That's one crazy story, old geezer.<end>
+
+=>a98
+That's one crazy story, old geezer.<end>
+
+=>q99_original
+But it's all true.<end>
+
+=>q99
+But it's all true.<end>
+
+=>a100_original
+An interesting story, though I expected more.<end>
+
+=>a100
+An interesting story, though I expected more.<end>
+
+=>q101_original
+::He shrugs.::<end>
+
+=>q101
+::He shrugs.::<end>
+
+=>a102_original
+That's one lame story, old geezer.<end>
+
+=>a102
+That's one lame story, old geezer.<end>
+
+=>q103_original
+Meh, you wouldn't be sayin' that if it happened to you.<end>
+
+=>q103
+Meh, you wouldn't be sayin' that if it happened to you.<end>
+
+=>a104_original
+...What?<end>
+
+=>a104
+...What?<end>
+
+=>q105_original
+I don't remember what I saw there.<end>
+
+=>q105
+I don't remember what I saw there.<end>
+
+=>a106_original
+::Listen intently.::<end>
+
+=>a106
+::Listen intently.::<end>
+
+=>q107_original
+I don't actually remember what I saw there, though.<end>
+
+=>q107
+I don't actually remember what I saw there, though.<end>
+
+=>a108_original
+Not right now, no.<end>
+
+=>a108
+Not right now, no.<end>
+
+=>q109_original
+Suit yourself.<end>
+
+=>q109
+Suit yourself.<end>
+
+=>q110_original
+Well, maybe I'll tell you more over a drink sometime.<end>
+
+=>q110
+Well, maybe I'll tell you more over a drink sometime.<end>
+
+=>a111_original
+You promised to tell me about your descent into the Deep Caverns.<end>
+
+=>a111
+You promised to tell me about your descent into the Deep Caverns.<end>
+
+=>q112_original
+Look, youngster, I don't want to know anythin' about any giant mutated eldritch piles of flesh. If that's what I saw down there as well, I'm glad I can't remember it.<end>
+
+=>q112
+Look, youngster, I don't want to know anythin' about any giant mutated eldritch piles of flesh. If that's what I saw down there as well, I'm glad I can't remember it.<end>
+
+=>a113_original
+You can't remember it?<end>
+
+=>a113
+You can't remember it?<end>
+
+=>q114_original
+I don't want to talk about it.<end>
+
+=>q114
+I don't want to talk about it.<end>
+
+=>a115_original
+I understand.<end>
+
+=>a115
+I understand.<end>
+
+=>q116_original
+Thank you.<end>
+
+=>q116
+Thank you.<end>
+
+=>q117_original
+Eh, what do you need to hear my story for? You got one of your own now.<end>
+
+=>q117
+Eh, what do you need to hear my story for? You got one of your own now.<end>
+
+=>a118_original
+Maybe we can compare experiences.<end>
+
+=>a118
+Maybe we can compare experiences.<end>
+
+=>q119_original
+I'd rather not. You know, there are some parts of my "experience," as you say, that I don't remember and probably for the best. I don't want your own story to help me remember.
+<end>
+
+=>q119
+I'd rather not. You know, there are some parts of my "experience," as you say, that I don't remember and probably for the best. I don't want your own story to help me remember.
+<end>
+
+=>a120_original
+I guess you're right.<end>
+
+=>a120
+I guess you're right.<end>
+
+=>q121_original
+::He nods.::<end>
+
+=>q121
+::He nods.::<end>
+
+=>a122_original
+How much damage did the earthquake do to the surrounding cave tunnels?<end>
+
+=>a122
+How much damage did the earthquake do to the surrounding cave tunnels?<end>
+
+=>q123_original
+Well, a lot of the passageways have caved in. I'd use dynamite to clear them up, but Tanner confiscated all of it to make it available for clearin' up the South Tunnel. Can't say I blame him, the metro's more important.<end>
+
+=>q123
+Well, a lot of the passageways have caved in. I'd use dynamite to clear them up, but Tanner confiscated all of it to make it available for clearin' up the South Tunnel. Can't say I blame him, the metro's more important.<end>
+
+=>q124_original
+The passage to the lake is clear, though, if you're up for some fishin' or somethin'.<end>
+
+=>q124
+The passage to the lake is clear, though, if you're up for some fishin' or somethin'.<end>
+
+=>a125_original
+Can you tell me a bit about creatures that inhabit these tunnels?<end>
+
+=>a125
+Can you tell me a bit about creatures that inhabit these tunnels?<end>
+
+=>q126_original
+Well, there's cave hoppers, mole crickets, rathounds, psi beetles... and rarely shadow crawlers. What critter are you interested in?<end>
+
+=>q126
+Well, there's cave hoppers, mole crickets, rathounds, psi beetles... and rarely shadow crawlers. What critter are you interested in?<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>a128_original
+Tell me about cave hoppers.<end>
+
+=>a128
+Tell me about cave hoppers.<end>
+
+=>q129_original
+They are harmless little critters; quite tasty if cooked properly too. You'll generally find them near lakes and other wet caves 'cause that's where their favorite food, lake mushroom, grows.<end>
+
+=>q129
+They are harmless little critters; quite tasty if cooked properly too. You'll generally find them near lakes and other wet caves 'cause that's where their favorite food, lake mushroom, grows.<end>
+
+=>q130_original
+They can be hard to hunt down sometimes because they are fast little buggers and can crawl through small crevices you wouldn't think they would ever fit in.<end>
+
+=>q130
+They can be hard to hunt down sometimes because they are fast little buggers and can crawl through small crevices you wouldn't think they would ever fit in.<end>
+
+=>q131_original
+If you're looking to catch or kill one, best tactic is to hide near a patch of lake mushrooms and ambush them when they come to feed.<end>
+
+=>q131
+If you're looking to catch or kill one, best tactic is to hide near a patch of lake mushrooms and ambush them when they come to feed.<end>
+
+=>a132_original
+What do you know about mole crickets?<end>
+
+=>a132
+What do you know about mole crickets?<end>
+
+=>q133_original
+They're probably the smallest of the big insects. They are aggressive and will attack you if you come close, but they are not that dangerous. Usually you can just stomp them out or smash them with a crowbar or something.<end>
+
+=>q133
+They're probably the smallest of the big insects. They are aggressive and will attack you if you come close, but they are not that dangerous. Usually you can just stomp them out or smash them with a crowbar or something.<end>
+
+=>q134_original
+Their bites are weak and you should be fine as long as you have *some* armor on you, but they are also acidic so don't let them nibble away on you too long or you will feel the burn.<end>
+
+=>q134
+Their bites are weak and you should be fine as long as you have *some* armor on you, but they are also acidic so don't let them nibble away on you too long or you will feel the burn.<end>
+
+=>a135_original
+What are rathounds?<end>
+
+=>a135
+What are rathounds?<end>
+
+=>q136_original
+Rathounds are ugly, smelly, mangy, disease ridden dog-sized rats. You can find them anywhere and if you can't find them somewhere, know that they'll get there too eventually. <end>
+
+=>q136
+Rathounds are ugly, smelly, mangy, disease ridden dog-sized rats. You can find them anywhere and if you can't find them somewhere, know that they'll get there too eventually. <end>
+
+=>q137_original
+Individually they are not so tough, but they usually move around in packs, sometimes hordes. They are very good pack hunters, so don't let them surround you.<end>
+
+=>q137
+Individually they are not so tough, but they usually move around in packs, sometimes hordes. They are very good pack hunters, so don't let them surround you.<end>
+
+=>q138_original
+If you are in a pinch, throw flares, they are deathly afraid of fire.<end>
+
+=>q138
+If you are in a pinch, throw flares, they are deathly afraid of fire.<end>
+
+=>a139_original
+Psi beetles.<end>
+
+=>a139
+Psi beetles.<end>
+
+=>q140_original
+Now that's a critter you just want to steer clear of.<end>
+
+=>q140
+Now that's a critter you just want to steer clear of.<end>
+
+=>q141_original
+Scientists call them azure-something, because of their blue stripes, but the rest of us just call them psi beetles or psi bugs for obvious reasons: They are bugs that can sling all kinds of psionics at you.<end>
+
+=>q141
+Scientists call them azure-something, because of their blue stripes, but the rest of us just call them psi beetles or psi bugs for obvious reasons: They are bugs that can sling all kinds of psionics at you.<end>
+
+=>q142_original
+If you bump into one, you might be able to take it, but it'll literally give you a headache.<end>
+
+=>q142
+If you bump into one, you might be able to take it, but it'll literally give you a headache.<end>
+
+=>q143_original
+If you run into two of them, you better start retreatin' while you can. At least they are not that fast, so you should be able to evade them.<end>
+
+=>q143
+If you run into two of them, you better start retreatin' while you can. At least they are not that fast, so you should be able to evade them.<end>
+
+=>q144_original
+If you run into three, it's probably already too late.<end>
+
+=>q144
+If you run into three, it's probably already too late.<end>
+
+=>q145_original
+You see, the weird thing is, not only do they hit you harder when they are in a group, they also start throwin' crazier and crazier stuff your way the more of them join the fight. And if there's also a goliath around, then you're in psionic hell.<end>
+
+=>q145
+You see, the weird thing is, not only do they hit you harder when they are in a group, they also start throwin' crazier and crazier stuff your way the more of them join the fight. And if there's also a goliath around, then you're in psionic hell.<end>
+
+=>q146_original
+If you absolutely must fight them, try to get close and personal. They are not comfortable with exposing their massive brains to sling psionics while people are near them - not even the goliaths. Instead, they will either try to gain some distance or will just bite you; and their bite is far less dangerous than their psionics. Goliaths have big horns, however, and those can easily go through a man.<end>
+
+=>q146
+If you absolutely must fight them, try to get close and personal. They are not comfortable with exposing their massive brains to sling psionics while people are near them - not even the goliaths. Instead, they will either try to gain some distance or will just bite you; and their bite is far less dangerous than their psionics. Goliaths have big horns, however, and those can easily go through a man.<end>
+
+=>q147_original
+The psi beetles usually hang around mindshrooms, so if you're in an area where those're plentiful, be on your guard.<end>
+
+=>q147
+The psi beetles usually hang around mindshrooms, so if you're in an area where those're plentiful, be on your guard.<end>
+
+=>a148_original
+What are these shadow crawlers?<end>
+
+=>a148
+What are these shadow crawlers?<end>
+
+=>q149_original
+Vile, awful insects that crawl around them cave walls, all quiet and sneaky. They surprise their victims by injectin' them with a good, healthy dose of paralyzin' venom, then retreat to the shadows until the poison makes you stiff as a rail. And then they eat you!<end>
+
+=>q149
+Vile, awful insects that crawl around them cave walls, all quiet and sneaky. They surprise their victims by injectin' them with a good, healthy dose of paralyzin' venom, then retreat to the shadows until the poison makes you stiff as a rail. And then they eat you!<end>
+
+=>q150_original
+::He chuckles.:: Don't start quakin' yet, 'cause they are rarely seen in close vicinity to SGS, but out there...
+
+In case you notice things are gettin' a bit too quiet - be on the lookout.<end>
+
+=>q150
+::He chuckles.:: Don't start quakin' yet, 'cause they are rarely seen in close vicinity to SGS, but out there...
+
+In case you notice things are gettin' a bit too quiet - be on the lookout.<end>
+
+=>a151_original
+Never mind. Let me ask you something else.<end>
+
+=>a151
+Never mind. Let me ask you something else.<end>
+
+=>q152_original
+Yeah?<end>
+
+=>q152
+Yeah?<end>
+
+=>a153_original
+What are these Tunnelers I've heard people mention?<end>
+
+=>a153
+What are these Tunnelers I've heard people mention?<end>
+
+=>q154_original
+The thing is no one really knows for sure who they are. They are nomadic people of the Deeps. People around these parts call them "Tunnelers" because they are known to dig wide sprawlin' tunnels throughout the underground, connecting remote places of the Underrail. But, again, no one knows why they do that.<end>
+
+=>q154
+The thing is no one really knows for sure who they are. They are nomadic people of the Deeps. People around these parts call them "Tunnelers" because they are known to dig wide sprawlin' tunnels throughout the underground, connecting remote places of the Underrail. But, again, no one knows why they do that.<end>
+
+=>q155_original
+Some say that they have a huge city in the middle of the Deep Caverns that you can reach if you follow the longest of their tunnels.<end>
+
+=>q155
+Some say that they have a huge city in the middle of the Deep Caverns that you can reach if you follow the longest of their tunnels.<end>
+
+=>q156_original
+Some also call them "the Faceless" because they believe that under their huge masks they have no face. Superstitious folk don't like people sayin' that word though; they say it can draw their attention to you.<end>
+
+=>q156
+Some also call them "the Faceless" because they believe that under their huge masks they have no face. Superstitious folk don't like people sayin' that word though; they say it can draw their attention to you.<end>
+
+=>a157_original
+Are they dangerous?<end>
+
+=>a157
+Are they dangerous?<end>
+
+=>q158_original
+Very, but they are not always hostile.<end>
+
+=>q158
+Very, but they are not always hostile.<end>
+
+=>q159_original
+From my experience it's the smaller groups or individual Tunnelers that you should be most wary of. Larger groups generally leave other Underrail folks alone as long as they ain't botherin' them.<end>
+
+=>q159
+From my experience it's the smaller groups or individual Tunnelers that you should be most wary of. Larger groups generally leave other Underrail folks alone as long as they ain't botherin' them.<end>
+
+=>a160_original
+So you've met some personally?<end>
+
+=>a160
+So you've met some personally?<end>
+
+=>q161_original
+Don't think there's much to this underground world I haven't seen yet, but that's a story for another time.<end>
+
+=>q161
+Don't think there's much to this underground world I haven't seen yet, but that's a story for another time.<end>
+
+=>a162_original
+Dang it, old man, you always hold back on the important parts.<end>
+
+=>a162
+Dang it, old man, you always hold back on the important parts.<end>
+
+=>q163_original
+Haha, a good storyteller always leaves his public wantin' for more.<end>
+
+=>q163
+Haha, a good storyteller always leaves his public wantin' for more.<end>
+
+=>a164_original
+Ok, thanks for the info.<end>
+
+=>a164
+Ok, thanks for the info.<end>
+
+=>q165_original
+No problem, but you owe me a drink.<end>
+
+=>q165
+No problem, but you owe me a drink.<end>
+
+=>a166_original
+Ok, thanks for the info.<end>
+
+=>a166
+Ok, thanks for the info.<end>
+
+=>a167_original
+You mean like: Faceless, Faceless, Faceless...?<end>
+
+=>a167
+You mean like: Faceless, Faceless, Faceless...?<end>
+
+=>q168_original
+Haha, yes, but I think that's just silly.<end>
+
+=>q168
+Haha, yes, but I think that's just silly.<end>
+
+=>a169_original
+Are they dangerous?<end>
+
+=>a169
+Are they dangerous?<end>
+
+=>a170_original
+Ok, thanks for the info.<end>
+
+=>a170
+Ok, thanks for the info.<end>
+
+=>a171_original
+Ok, thanks for the info.<end>
+
+=>a171
+Ok, thanks for the info.<end>
+
+=>a172_original
+Never mind. Let's talk about something else.<end>
+
+=>a172
+Never mind. Let's talk about something else.<end>
+
+=>q173_original
+Alright, youngster.<end>
+
+=>q173
+Alright, youngster.<end>
+
+=>a174_original
+I got more questions about the tunnels for you.<end>
+
+=>a174
+Хтео бих да те питам још нешто о тунелима.<end>
+
+=>q175_original
+Shoot.<end>
+
+=>q175
+Shoot.<end>
+
+=>a176_original
+You said the outposts are to the north, right? How exactly do I get my bearings down here in the tunnels? Where is north?<end>
+
+=>a176
+You said the outposts are to the north, right? How exactly do I get my bearings down here in the tunnels? Where is north?<end>
+
+=>q177_original
+I think I got one of them, eh, compasses somewhere 'round here if you're interestin' in bartering.<end>
+
+=>q177
+I think I got one of them, eh, compasses somewhere 'round here if you're interestin' in bartering.<end>
+
+=>a178_original
+That'd be useful. What do you want for it?<end>
+
+=>a178
+That'd be useful. What do you want for it?<end>
+
+=>a179_original
+I'll find my way around somehow.<end>
+
+=>a179
+I'll find my way around somehow.<end>
+
+=>q180_original
+::He chuckles.:: Suit yourself.<end>
+
+=>q180
+::He chuckles.:: Suit yourself.<end>
+
+=>a181_original
+I'm looking for an old friend of yours, Blaine. You got any idea where he might be?<end>
+
+=>a181
+I'm looking for an old friend of yours, Blaine. You got any idea where he might be?<end>
+
+=>q182_original
+::He looks at you suspiciously.:: Why would you be looking for Blaine?<end>
+
+=>q182
+::He looks at you suspiciously.:: Why would you be looking for Blaine?<end>
+
+=>a183_original
+I've got some questions for him.<end>
+
+=>a183
+I've got some questions for him.<end>
+
+=>q184_original
+Well I don't know where he is. I haven't seen him for quite some time actually.<end>
+
+=>q184
+Well I don't know where he is. I haven't seen him for quite some time actually.<end>
+
+=>q185_original
+<end>
+
+=>q185
+<end>
+
+=>a186_original
+Do you at least have any hints as to where I should look for him?<end>
+
+=>a186
+Do you at least have any hints as to where I should look for him?<end>
+
+=>q187_original
+Nope. None.<end>
+
+=>q187
+Nope. None.<end>
+
+=>q188_original
+Why don't you try the Junkyard slums? He used to hang out there often, yeah.<end>
+
+=>q188
+Why don't you try the Junkyard slums? He used to hang out there often, yeah.<end>
+
+=>a189_original
+::[Persuade]:: Look, I don't mean him any harm. I'm planning a scavenging run and I just want to ask him a few questions about the Old Junkyard. That's all.<end>
+
+=>a189
+::[Persuade]:: Look, I don't mean him any harm. I'm planning a scavenging run and I just want to ask him a few questions about the Old Junkyard. That's all.<end>
+
+=>q190_original
+::He's silent for a few seconds, studying you.:: Alright, but I'll hold you to your word.<end>
+
+=>q190
+::He's silent for a few seconds, studying you.:: Alright, but I'll hold you to your word.<end>
+
+=>q191_original
+You can find him in the under-passages not too far from SGS. Just head out north past our station and take one of the stairs down. Look for his shop down there. The only way to get inside is to beep the intercom twice short, once long, and then twice short again. Ya dig? Twice short, once long, twice short again.<end>
+
+=>q191
+You can find him in the under-passages not too far from SGS. Just head out north past our station and take one of the stairs down. Look for his shop down there. The only way to get inside is to beep the intercom twice short, once long, and then twice short again. Ya dig? Twice short, once long, twice short again.<end>
+
+=>a192_original
+Thanks, old man.<end>
+
+=>a192
+Thanks, old man.<end>
+
+=>q193_original
+Look, look, I told you already - I don't know where he is.<end>
+
+=>q193
+Look, look, I told you already - I don't know where he is.<end>
+
+=>a194_original
+Never mind.<end>
+
+=>a194
+Never mind.<end>
+
+=>a195_original
+Too bad.<end>
+
+=>a195
+Too bad.<end>
+
+=>a196_original
+I'm looking for some advice on Old Junkyard.<end>
+
+=>a196
+I'm looking for some advice on Old Junkyard.<end>
+
+=>a197_original
+That's none of your business.<end>
+
+=>a197
+That's none of your business.<end>
+
+=>a198_original
+About your friend Blaine...<end>
+
+=>a198
+About your friend Blaine...<end>
+
+=>q199_original
+What about him?<end>
+
+=>q199
+What about him?<end>
+
+=>a200_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a200
+What do you know about Patrick Pierce's death?<end>
+
+=>q201_original
+Patrick... Yeah, I knew Patrick. The kid died in his sleep one day, and Doc - Pasquale - couldn't figure out what signed his death sentence. Patrick's brother threw a tantrum, demanded that Doc perform the autopsy again. So he did.<end>
+
+=>q201
+Patrick... Yeah, I knew Patrick. The kid died in his sleep one day, and Doc - Pasquale - couldn't figure out what signed his death sentence. Patrick's brother threw a tantrum, demanded that Doc perform the autopsy again. So he did.<end>
+
+=>q202_original
+Nothin'. Still couldn't figure it out. Now, Doc's far too busy saving people's lives to be spendin' too much time on the dead, ya dig. There's so much stuff medicine as a science hasn't even scratched yet, so I can see why sometimes you gotta pull the line. Sad, but we can't have *all* the answers. It wasn't a contagious disease or some other devil, and that's the most important thing.<end>
+
+=>q202
+Nothin'. Still couldn't figure it out. Now, Doc's far too busy saving people's lives to be spendin' too much time on the dead, ya dig. There's so much stuff medicine as a science hasn't even scratched yet, so I can see why sometimes you gotta pull the line. Sad, but we can't have *all* the answers. It wasn't a contagious disease or some other devil, and that's the most important thing.<end>
+
+=>a203_original
+Can you tell me what he was like as a person?<end>
+
+=>a203
+Can you tell me what he was like as a person?<end>
+
+=>q204_original
+Eh? Doc or...? Oh, yeah, yeah, the kid was good. I remember him talkin' about his life, his little brother. Both of them were dealt some really bad cards right from the start o' their lives, but the kid was a survivor, he was tough, that's what he was. Shame.<end>
+
+=>q204
+Eh? Doc or...? Oh, yeah, yeah, the kid was good. I remember him talkin' about his life, his little brother. Both of them were dealt some really bad cards right from the start o' their lives, but the kid was a survivor, he was tough, that's what he was. Shame.<end>
+
+=>a205_original
+I see.<end>
+
+=>a205
+I see.<end>
+
+=>q206_original
+Damn shame, though. Damn shame.<end>
+
+=>q206
+Damn shame, though. Damn shame.<end>
+
+=>a207_original
+Let's barter. ::Barter.::<end>
+
+=>a207
+Хајде да тргујемо. ::Тргуј.::<end>
+
+=>q208_original
+What is it?<end>
+
+=>q208
+What is it?<end>
+
+=>q209_original
+Take a seat, youngster, have yourself a drink. You don't need to be rushin' about all the time.<end>
+
+=>q209
+Take a seat, youngster, have yourself a drink. You don't need to be rushin' about all the time.<end>
+
+=>q210_original
+Back again? What can Old Jonas do for you, youngster?<end>
+
+=>q210
+Већ се врн'о? Шта може стари Јона да учини за тебе данас, дете?<end>
+
+=>q211_original
+::An old man wearing an old coat, old pants and old boots introduces himself with an amiable smile.::
+
+Oh, it's the young $(context.player.Name). Off to do some huntin'?<end>
+
+=>q211
+::An old man wearing an old coat, old pants and old boots introduces himself with an amiable smile.::
+
+Oh, it's the young $(context.player.Name). Off to do some huntin'?<end>
+

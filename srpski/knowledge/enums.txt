@@ -1,8 +1,8 @@
 ::MainMenuTheme.Default
-Default
+Подразумевана
 
 ::MainMenuTheme.Original
-Original
+Оргинална
 
 ::MainMenuTheme.Expedition
 Expedition
@@ -11,448 +11,439 @@ Expedition
 Heavy Duty
 
 ::UiSize.Auto
-Auto
+Аутоматска
 
 ::UiSize.Classic
-Classic
+Класична
 
 ::UiSize.Small
-Small
+Мала
 
 ::UiSize.Large
-Large
+Велика
 
 ::UiSize.Huge
-Huge
+Огромна
 
 ::InterfaceElementSize2.Auto
-Auto
+Аутоматска
 
 ::InterfaceElementSize2.Small
-Small
+Мала
 
 ::InterfaceElementSize2.Large
-Large
+Велика
 
 ::InterfaceElementSize2.ExtraLarge
-Extra Large
+Веома Велика
 
 ::InterfaceElementSize2.Huge
-Huge
+Огромна
 
 ::AutoSelectOption.Never
-Never
+Никад
 
 ::AutoSelectOption.NoneSelected
-None Selected
+Кад Ништа Није Селектовано
 
 ::AutoSelectOption.Always
-Always
+Увек
 
 ::OutlinesOption.Never
-Never
+Никад
 
 ::OutlinesOption.HighlightsOnly
-Highlights Only
+Само Кад Је Означено
 
 ::OutlinesOption.AlwaysInCombat
-Always In Combat
+Увек у Борби
 
 ::ScrollingCombatTextOptions.Mandatory
-Mandatory
+Обавезан
 
 ::ScrollingCombatTextOptions.Damage
-Damage
+Штета
 
 ::ScrollingCombatTextOptions.PeriodicDamage
-Periodic Damage
+Периодична Штета
 
 ::ScrollingCombatTextOptions.Healing
-Healing
+Лечење
 
 ::ScrollingCombatTextOptions.ShieldGain
-Shield Gain
+Добитак Штита
 
 ::ScrollingCombatTextOptions.ShieldLoss
-Shield Loss
+Губитак Штита
 
 ::ScrollingCombatTextOptions.PsiGain
-Psi Gain
+Добитак Псиа
 
 ::ScrollingCombatTextOptions.PsiLoss
-Psi Loss
+Губитак Псиа
 
 ::ScrollingCombatTextOptions.Buffs
-Buffs
+Појачања
 
 ::ScrollingCombatTextOptions.Debuffs
-Debuffs
+Ослабљења
 
 ::ScrollingCombatTextOptions.ResistsSImmunities
-Resists/Immunities
+Одупирања и Имуности
 
 ::ScrollingCombatTextOptions.ApCarryover
-Ap Carryover
+Преношење АП
 
 ::ScrollingCombatTextOptions.SpecialActions
-Special Actions
+Специјалне Акције
 
 ::ScrollingCombatTextOptions.Initiative
-Initiative
+Иницијатива
 
 ::ScrollingCombatTextOptions.All
-All
+Све
 
 ::Hotkey.HelpScreen
-Help Screen
+Помоћни Екран
 
 ::Hotkey.QuickSave
-Quick Save
+Брзо Снимање
 
 ::Hotkey.QuickLoad
-Quick Load
+Брзо Учитавање
 
 ::Hotkey.ToggleHUD
-Toggle HUD
+Искључи/укључи Интерфејса
 
 ::Hotkey.ActionButton1
-Action Button 1
+Акционо Дугме 1
 
 ::Hotkey.ActionButton2
-Action Button 2
+Акционо Дугме 2
 
 ::Hotkey.ActionButton3
-Action Button 3
+Акционо Дугме 3
 
 ::Hotkey.ActionButton4
-Action Button 4
+Акционо Дугме 4
 
 ::Hotkey.ActionButton5
-Action Button 5
+Акционо Дугме 5
 
 ::Hotkey.ActionButton6
-Action Button 6
+Акционо Дугме 6
 
 ::Hotkey.ActionButton7
-Action Button 7
+Акционо Дугме 7
 
 ::Hotkey.ActionButton8
-Action Button 8
+Акционо Дугме 8
 
 ::Hotkey.ActionButton9
-Action Button 9
+Акционо Дугме 9
 
 ::Hotkey.QuickButton1
-Quick Button 1
+Брзо Дугме 1
 
 ::Hotkey.QuickButton2
-Quick Button 2
+Брзо Дугме 2
 
 ::Hotkey.QuickButton3
-Quick Button 3
+Брзо Дугме 3
 
 ::Hotkey.QuickButton4
-Quick Button 4
+Брзо Дугме 4
 
 ::Hotkey.QuickButton5
-Quick Button 5
+Брзо Дугме 5
 
 ::Hotkey.QuickButton6
-Quick Button 6
+Брзо Дугме 6
 
 ::Hotkey.SwapWeapon
-Swap Weapon
+Замени Оружије
 
 ::Hotkey.ReloadCurrentWeapon
-Reload Current Weapon
+Напуни Тренутно Оружије
 
 ::Hotkey.ToggleShield
-Toggle Shield
+Искључи/укључи Штит
 
 ::Hotkey.RechargeShield
-Recharge Shield
+Напуни Штит
 
 ::Hotkey.EndTurn
-End Turn
+Заврши Круг
 
 ::Hotkey.EndCombat
-End Combat
+Заврши Битку
 
 ::Hotkey.SpeedUp
-Speed Up
+Убрзај Игру
 
 ::Hotkey.SlowDown
-Slow Down
+Успори Игру
 
 ::Hotkey.Highlight
-Highlight
+Означи
 
 ::Hotkey.ReverseHighlight
-Reverse Highlight
+Означи (реверзно)
 
 ::Hotkey.ToggleFollowPlayer
-Toggle Follow Player
+Камера Прати Играча
 
 ::Hotkey.QuickInvoker
-Quick Invoker
+Брзе Акције
 
 ::Hotkey.CombatStatsOverview
-Combat Stats Overview
+Борбене Вредности
 
 ::Hotkey.CharacterSheet
-Character Sheet
+Преглед Лика
 
 ::Hotkey.CraftingWindow
-Crafting Window
+Израда Предмета
 
 ::Hotkey.Inventory
-Inventory
+Инвентар
 
 ::Hotkey.Notes
-Notes
+Белешке
 
 ::Hotkey.OdditiesWindow
-Oddities Window
+Дрангулије
 
 ::Hotkey.VehicleWindow
-Vehicle Window
+Возило
 
 ::Hotkey.GlobalMapWindow
-Global Map Window
+Мапа
 
 ::Hotkey.Psi
-Psi
+Псионика
 
 ::Hotkey.TakeAll
-Take All
+Узми Све
 
 ::Hotkey.ScrollUp
-Scroll Up
+Камера Горе
 
 ::Hotkey.ScrollDown
-Scroll Down
+Камера Доле
 
 ::Hotkey.ScrollLeft
-Scroll Left
+Камера Лево
 
 ::Hotkey.ScrollRight
-Scroll Right
+Камера Десно
 
 ::BaseAbilityEnum.Strength
-Strength
+Снага
 
 ::BaseAbilityEnum.Dexterity
-Dexterity
+Спретност
 
 ::BaseAbilityEnum.Agility
-Agility
+Агилност
 
 ::BaseAbilityEnum.Constitution
-Constitution
+Конституција
 
 ::BaseAbilityEnum.Perception
-Perception
+Перцепција
 
 ::BaseAbilityEnum.Will
-Will
+Воља
 
 ::BaseAbilityEnum.Intelligence
-Intelligence
+Интелигенција
 
 ::SkillEnum.Guns
-Guns
+Ватрено Оружије
 
 ::SkillEnum.Throwing
-Throwing
+Бацање
 
 ::SkillEnum.Crossbows
-Crossbows
+Самострели
 
 ::SkillEnum.Melee
-Melee
+Меле
 
 ::SkillEnum.HeavyGuns
-HeavyGuns
+Тешко Наоружање
 
 ::SkillEnum.Heavy Guns
-Heavy Guns
+Тешко Наоружање
 
 ::SkillEnum.Dodge
-Dodge
+Избегавање
 
 ::SkillEnum.Evasion
-Evasion
+Ескивација
 
 ::SkillEnum.Stealth
-Stealth
+Шуњање
 
 ::SkillEnum.Hacking
-Hacking
+Хаковање
 
 ::SkillEnum.Lockpicking
-Lockpicking
+Обијање
 
 ::SkillEnum.Pickpocketing
-Pickpocketing
+Џепарење
 
 ::SkillEnum.Traps
-Traps
+Замке
 
 ::SkillEnum.Mechanics
-Mechanics
+Механика
 
 ::SkillEnum.Electronics
-Electronics
+Електроника
 
 ::SkillEnum.Chemistry
-Chemistry
+Хемија
 
 ::SkillEnum.Biology
-Biology
+Биологија
 
 ::SkillEnum.Tailoring
-Tailoring
+Шивење
 
 ::SkillEnum.ThoughtControl
-Thought Control
+Контрола Ума
 
 ::SkillEnum.Thought Control
-Thought Control
+Контрола Ума
 
 ::SkillEnum.Psychokinesis
-Psychokinesis
+Психокинеза
 
 ::SkillEnum.Metathermics
-Metathermics
+Метатермика
 
 ::SkillEnum.TemporalManipulation
-Temporal Manipulation
+Темпорална Манипулација
 
 ::SkillEnum.Temporal Manipulation
-Temporal Manipulation
+Темпорална Манипулација
 
 ::SkillEnum.Persuasion
-Persuasion
+Убеђивање
 
 ::SkillEnum.Intimidation
-Intimidation
+Застрашивање
 
 ::SkillEnum.Mercantile
-Mercantile
+Трговина
 
 ::SkillCategory.Offense
-Offense
+Напад
 
 ::SkillCategory.Defense
-Defense
+Одбрана
 
 ::SkillCategory.Subterfuge
-Subterfuge
+Лукавство
 
 ::SkillCategory.Technology
-Technology
+Технологија
 
 ::SkillCategory.Psi
-Psi
+Псионика
 
 ::SkillCategory.Social
-Social
+Друштвене
 
 ::TimelapseShader.Legacy
-Legacy
+Стари
 
 ::TimelapseShader.Advanced
-Advanced
+Напредни
 
 ::OuroborosDisplayMode.Windowed
-Windowed
+Прозор
 
 ::OuroborosDisplayMode.BorderlessWindowed
-Borderless Windowed
+Прозор без оквира
 
 ::OuroborosDisplayMode.Fullscreen
-Fullscreen
+Цео екран
 
 ::GameDifficulty.Easy
-Beginner
+Лака
 
 ::GameDifficulty.Normal
-Veteran
+Нормална
 
 ::GameDifficulty.Hard
-Expert
+Тешка
 
 ::GameDifficulty.Dominating
-Dominating
-
-::GameDifficulty.Custom
-Custom
+ДОМИНАЦИЈА
 
 ::DamageType.Mechanical
-Mechanical
+Механички
 
 ::DamageType.Heat
-Heat
+Топлотни
 
 ::DamageType.Cold
-Cold
+Хладни
 
 ::DamageType.Electricity
-Electricity
+Електрични
 
 ::DamageType.Acid
-Acid
+Киселински
 
 ::DamageType.Energy
-Energy
+Енергетски
 
 ::DamageType.Bio
-Bio
+Биолошки
 
 ::ImpactSpeed.VeryLow
-Very Low
+Веома Спорa
 
 ::ImpactSpeed.Low
-Low
+Спорa
 
 ::ImpactSpeed.Medium
-Medium
+Средњa
 
 ::ImpactSpeed.High
-High
+Брзa
 
 ::ImpactSpeed.VeryHigh
-Very High
-
-::PsiSchool.PsiAbility
-Psi ability
-
-::PsiSchool.Psionic
-Psionic
+Веома Брзa
 
 ::PsiSchool.ThoughtControl
-Thought Control
+Контрола Ума
 
 ::PsiSchool.Thought Control
-Thought Control
+Контрола Ума
 
 ::PsiSchool.Psychokinesis
-Psychokinesis
+Психокинеза
 
 ::PsiSchool.Metathermics
-Metathermics
+Метатермика
 
 ::PsiSchool.TemporalManipulation
-Temporal Manipulation
+Темпорална Манипулација
 
 ::PsiSchool.Temporal Manipulation
-Temporal Manipulation
+Темпорална Манипулација
 
 ::ItemRepairCategory.Mechanical
-Mechanical
+Механички
 
 ::ItemRepairCategory.Fabric
-Fabric
+Тканина
 
 ::ItemRepairCategory.Electronic
-Electronic
+Електронски
