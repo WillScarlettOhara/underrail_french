@@ -1,0 +1,42 @@
+=>q1_original
+::The console is completely broken now.::<end>
+
+=>q1
+::The console is completely broken now.::<end>
+
+=>q2_original
+::You approach the console carefully so as not to set it off.::<end>
+
+=>q2
+::You approach the console carefully so as not to set it off.::<end>
+
+=>a3_original
+::Leave it be.::<end>
+
+=>a3
+::Leave it be.::<end>
+
+=>q4_original
+::You assume this console is used to control the furnace but you have no idea how to operate it.::<end>
+
+=>q4
+::You assume this console is used to control the furnace but you have no idea how to operate it.::<end>
+
+=>a5_original
+::[Electronics] Sabotage the console to short circuit the next time someone operates it.::<end>
+
+=>a5
+::[Electronics] Sabotage the console to short circuit the next time someone operates it.::<end>
+
+=>q6_original
+::You cross-wire the electronics. The next person that uses this console will probably get electrocuted.::<end>
+
+=>q6
+::You cross-wire the electronics. The next person that uses this console will probably get electrocuted.::<end>
+
+=>a7_original
+::Leave it be.::<end>
+
+=>a7
+::Leave it be.::<end>
+

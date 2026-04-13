@@ -1,0 +1,172 @@
+::Health
+Shows current and maximum health points. When your current health points reach zero, you die.
+
+::HealingEffectiveness
+Shows the number by which any incoming healing will be modified.
+
+::Shield
+Shows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on.
+
+::Psi
+Shows current and maximum psi points, as well as psi regeneration per turn. Psi is used to invoke psionic abilities.
+
+::PsiReserve
+Shows current and maximum psi point reserves. These points are used to naturally regenerate regular psi points over time.
+
+::Dodge
+Increases your chance to avoid melee attacks.
+
+::Evasion
+Increases your chance to avoid ranged weapon attacks and also decreases the damage taken from area of effect attacks.
+
+::Fortitude
+Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by direct physical trauma. Also increases poison resistance.
+
+::Resolve
+Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by mental stress and also reduces damage or duration of certain psionic attacks that target the mind directly.
+
+::ToGetWeaponCritChanceMod
+Modifies the chance you'll get critically hit with weapons and unarmed attacks.
+
+::ToGetPsiCritChanceMod
+Modifies the chance you'll get critically hit with psi abilities.
+
+::ArmorPenalty
+Reduces dodge, evasion, stealth and movement points.
+
+::ShieldCapacity
+The total amount of damage the shield can absorb when fully charged.
+
+::ShieldingDescription
+Keep in mind that certain attacks can ignore a percentage of the shielding amount, or even ignore the shielding altogether.
+
+::ShieldingVeryLow
+Maximum amount of damage that the shield can absorb per attack from very low impact speed attacks (such as melee weapon attacks).
+
+::ShieldingLow
+Maximum amount of damage that the shield can absorb per attack from low impact speed attacks (such as crossbow bolts).
+
+::ShieldingMedium
+Maximum amount of damage that the shield can absorb per attack from medium impact speed attacks (such as regular firearms).
+
+::ShieldingHigh
+Maximum amount of damage that the shield can absorb per attack from high impact speed attacks (such as sniper rifles).
+
+::ShieldingVeryHigh
+Maximum amount of damage that the shield can absorb per attack from very high impact speed attacks (such as energy weapons).
+
+::ResistanceDescription
+The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. Keep in mind that certain damages (such as poison or direct mind damage, completely ignore armor).
+
+The number in the brackets is the percentage by which the damage that goes through the shield and the resistance is modified.
+
+::ResistanceMechanical
+The amount of mechanical damage your armor can absorb.
+
+::ResistanceHeat
+The amount of heat damage your armor can absorb.
+
+::ResistanceCold
+The amount of cold damage your armor can absorb.
+
+::ResistanceElectricity
+The amount of electrical damage your armor can absorb.
+
+::ResistanceAcid
+The amount of acid damage your armor can absorb.
+
+::ResistanceEnergy
+The amount of energy damage your armor can absorb.
+
+::ResistanceBio
+The amount of bio damage your armor can absorb.
+
+::Stealth
+Indicates how well you can move undetected. The higher your stealth rating is in comparison to enemy's the longer it will take for you to be discovered. If your stealth is much too lower than the detection rating, you will be discovered instantly at maximum range.
+
+::Detection
+Indicates how quickly you discover hidden characters.
+
+::TrapDetection
+Indicates how well you discover traps. It's derived from your detection rating and traps skill.
+
+::WeaponDamage
+Current weapon normal attack damage range. Only includes bonuses from skill level and strength (for melee weapons).
+
+::WeaponActionPointCost
+Action points required to perform a normal attack with the current weapon.
+
+::WeaponImpactSpeed
+Impact speed of the weapon attack.
+
+::WeaponCritChance
+Chance to score a critical hit with a normal attack of the current weapon.
+
+::WeaponCritBonus
+Damage bonus applied when the current weapon scores a critical hit.
+
+::Initiative
+Influences how quickly you'll get your turn when the combat starts.
+
+::WeaponMaxRange
+Maximum range of the current weapon.
+
+::WeaponOptimalRange
+Optimal range of the current weapon. Beyond this point the precision starts dropping more quickly.
+
+::MetathermicsSkill
+Effective skill level when invoking metathermic psionic abilities.
+
+::MetathermicsCritChance
+Chance to score a critical hit when invoking metathermic psionic abilities.
+
+::MetathermicsCritBonus
+Damage bonus applied when you score a critical hit with a metathermic psionic ability.
+
+::MetathermicsPsiCost
+Base psi point cost modifier for metathermic psi abilities.
+
+::PsychokinesisSkill
+Effective skill level when invoking psychokinetic psionic abilities.
+
+::PsychokinesisCritChance
+Chance to score a critical hit when invoking psychokinetic psionic abilities.
+
+::PsychokinesisCritBonus
+Damage bonus applied when you score a critical hit with a psychokinetic psionic ability.
+
+::PsychokinesisPsiCost
+Base psi point cost modifier for psychokinetic psi abilities.
+
+::ThoughtControlSkill
+Effective skill level when invoking thought control psionic abilities.
+
+::ThoughtControlCritChance
+Chance to score a critical hit when invoking thought control psionic abilities.
+
+::ThoughtControlCritBonus
+Damage bonus applied when you score a critical hit with a thought control psionic ability.
+
+::ThoughtControlPsiCost
+Base psi point cost modifier for thought control psi abilities.
+
+::TemporalManipulationSkill
+Effective skill level when invoking temporal manipulation psionic abilities.
+
+::TemporalManipulationCritChance
+Chance to score a critical hit when invoking temporal manipulation psionic abilities.
+
+::TemporalManipulationCritBonus
+Damage bonus applied when you score a critical hit with a temporal manipulation psionic ability.
+
+::TemporalManipulationPsiCost
+Base psi point cost modifier for temporal manipulation psi abilities.
+
+::SpecialAttackBonusDamage
+Increases the damage done by special weapon or unarmed attacks. This does not affect unconditional special attacks.
+
+::ActionPoints
+Number of action points the character has at the beginning of their turn. These points can be used for performing any kind of action, including movement.
+
+::MovementPoints
+Number of movement points the character has at the beginning of their turn. These points can only be used for movement.

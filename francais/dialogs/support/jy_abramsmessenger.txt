@@ -1,0 +1,132 @@
+=>q1_original
+Psst. Hey. Hey, $(#jack/sister), I hear there's someone at the bar wantin' to talk with you.<end>
+
+=>q1
+Psst. Hey. Hey, $(#jack/sister), I hear there's someone at the bar wantin' to talk with you.<end>
+
+=>a2_original
+Where did you hear this? How do you know who I am?<end>
+
+=>a2
+Where did you hear this? How do you know who I am?<end>
+
+=>q3_original
+Just sayin' what I heard, is all. You wanna know more, you gotta go and speak with this guy.<end>
+
+=>q3
+Just sayin' what I heard, is all. You wanna know more, you gotta go and speak with this guy.<end>
+
+=>a4_original
+Would a few charons make you more talkative?<end>
+
+=>a4
+Would a few charons make you more talkative?<end>
+
+=>q5_original
+::He calmly replies.:: I told you everythin' I know, $(#jack/sister).<end>
+
+=>q5
+::He calmly replies.:: I told you everythin' I know, $(#jack/sister).<end>
+
+=>a6_original
+::[Intimidate]:: How about you spill your guts so that I don't have to do it for you?<end>
+
+=>a6
+::[Intimidate]:: How about you spill your guts so that I don't have to do it for you?<end>
+
+=>q7_original
+::Visibly frightened, he replies.:: Okay, calm down. Look... Listen, I can't tell you much, 'cause I *really* don't know. I'm just the messenger, okay. He pays me, tells me what to say and who say it to. That's it, I swear!<end>
+
+=>q7
+::Visibly frightened, he replies.:: Okay, calm down. Look... Listen, I can't tell you much, 'cause I *really* don't know. I'm just the messenger, okay. He pays me, tells me what to say and who say it to. That's it, I swear!<end>
+
+=>a8_original
+Who is "he"? Did the man who wants to speak to me send you himself, or was someone else in charge of that?<end>
+
+=>a8
+Who is "he"? Did the man who wants to speak to me send you himself, or was someone else in charge of that?<end>
+
+=>q9_original
+No, it's... someone else. I... I already told you too much. Too much. These people have eyes everywhere. Just... ::He nervously looks around.:: Goodbye.<end>
+
+=>q9
+No, it's... someone else. I... I already told you too much. Too much. These people have eyes everywhere. Just... ::He nervously looks around.:: Goodbye.<end>
+
+=>a10_original
+Right... See you around, *jack*.<end>
+
+=>a10
+Right... See you around, *jack*.<end>
+
+=>q11_original
+::He remains silent.::<end>
+
+=>q11
+::He remains silent.::<end>
+
+=>a12_original
+::Leave without saying anything.::<end>
+
+=>a12
+::Leave without saying anything.::<end>
+
+=>a13_original
+I guess I'll have to go and talk to this person.<end>
+
+=>a13
+I guess I'll have to go and talk to this person.<end>
+
+=>q14_original
+No prob, $(#jack/sister).<end>
+
+=>q14
+No prob, $(#jack/sister).<end>
+
+=>a15_original
+Thanks, I guess.<end>
+
+=>a15
+Thanks, I guess.<end>
+
+=>a16_original
+Thanks for the heads up.<end>
+
+=>a16
+Thanks for the heads up.<end>
+
+=>q17_original
+::He remains silent.::<end>
+
+=>q17
+::He remains silent.::<end>
+
+=>q18_original
+No offense, but you and I got nothin' more to talk about. Dig?<end>
+
+=>q18
+No offense, but you and I got nothin' more to talk about. Dig?<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+You ain't from around here, are you?<end>
+
+=>q20
+You ain't from around here, are you?<end>
+
+=>q21_original
+Welcome to the bottom.<end>
+
+=>q21
+Welcome to the bottom.<end>
+
+=>q22_original
+You'll get used to the smell eventually.<end>
+
+=>q22
+You'll get used to the smell eventually.<end>
+

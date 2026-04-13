@@ -1,0 +1,186 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Why did that psionic attack you?<end>
+
+=>q3
+Why did that psionic attack you?<end>
+
+=>q4_original
+Someone mentioned Ironheads have grown more fierce lately.<end>
+
+=>q4
+Someone mentioned Ironheads have grown more fierce lately.<end>
+
+=>q5_original
+How's Lora?<end>
+
+=>q5
+How's Lora?<end>
+
+=>q6_original
+Any news on the Bakers?<end>
+
+=>q6
+Any news on the Bakers?<end>
+
+=>q7_original
+Cheers for fixing the drill, $(context.player.Name). I was so tired from hammering the rocks.<end>
+
+=>q7
+Cheers for fixing the drill, $(context.player.Name). I was so tired from hammering the rocks.<end>
+
+=>q8_original
+I hear there's trouble at Rail Crossing now.<end>
+
+=>q8
+I hear there's trouble at Rail Crossing now.<end>
+
+=>q9_original
+Gorsky died the way he lived - violently.<end>
+
+=>q9
+Gorsky died the way he lived - violently.<end>
+
+=>q10_original
+I say we leave those Junkyard gangsters alone and mind our own business.<end>
+
+=>q10
+I say we leave those Junkyard gangsters alone and mind our own business.<end>
+
+=>q11_original
+Why did Tanner leave?<end>
+
+=>q11
+Why did Tanner leave?<end>
+
+=>q12_original
+Whatcha find in GMS?<end>
+
+=>q12
+Whatcha find in GMS?<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+A scavenger was found in the Mushroom Cove. <end>
+
+=>q15
+A scavenger was found in the Mushroom Cove. <end>
+
+=>q16_original
+Had these green growths all over the body <end>
+
+=>q16
+Had these green growths all over the body <end>
+
+=>q17_original
+and was somehow still alive but died on the way here.<end>
+
+=>q17
+and was somehow still alive but died on the way here.<end>
+
+=>q18_original
+Was burned to a crisp <end>
+
+=>q18
+Was burned to a crisp <end>
+
+=>q19_original
+Was electrocuted <end>
+
+=>q19
+Was electrocuted <end>
+
+=>q20_original
+Was shot to shreds <end>
+
+=>q20
+Was shot to shreds <end>
+
+=>q21_original
+Was torn apart by a pack of wild beast <end>
+
+=>q21
+Was torn apart by a pack of wild beast <end>
+
+=>q22_original
+Had most of <end>
+
+=>q22
+Had most of <end>
+
+=>q23_original
+his hair ripped out <end>
+
+=>q23
+his hair ripped out <end>
+
+=>q24_original
+her hair ripped out <end>
+
+=>q24
+her hair ripped out <end>
+
+=>q25_original
+SGS's starting to turn into a real freak show...<end>
+
+=>q25
+SGS's starting to turn into a real freak show...<end>
+
+=>q26_original
+Did you sleep through the earthquake?<end>
+
+=>q26
+Did you sleep through the earthquake?<end>
+
+=>q27_original
+I'm so tired from digging.<end>
+
+=>q27
+I'm so tired from digging.<end>
+
+=>q28_original
+You couldn't have helped Newton. He was careless.<end>
+
+=>q28
+You couldn't have helped Newton. He was careless.<end>
+
+=>q29_original
+You saved Newton's ass. Good work.<end>
+
+=>q29
+You saved Newton's ass. Good work.<end>
+
+=>q30_original
+It might be a few weeks before we can clear up the South Tunnel.<end>
+
+=>q30
+It might be a few weeks before we can clear up the South Tunnel.<end>
+
+=>q31_original
+Whatcha find in GMS?<end>
+
+=>q31
+Whatcha find in GMS?<end>
+

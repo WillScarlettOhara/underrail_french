@@ -1,0 +1,308 @@
+=>q1_original
+Cull the Faceless!<end>
+
+=>q1
+Cull the Faceless!<end>
+
+=>q2_original
+::The rassophore duo seems to be guarding the entrance to this gloomy corridor. The smell of mold and staleness emanates from afar; the few lit flares thrown around do nothing to erase the feeling of consuming darkness dwelling at the end of the hallway. You are stopped by the female rassophore and the conversation begins with an already anticipated warning.::
+
+Stop, $(#brother/sister). This is the Institute's West Wing. I would highly recommend turning around and going back unless, of course, you have a death wish.<end>
+
+=>q2
+::The rassophore duo seems to be guarding the entrance to this gloomy corridor. The smell of mold and staleness emanates from afar; the few lit flares thrown around do nothing to erase the feeling of consuming darkness dwelling at the end of the hallway. You are stopped by the female rassophore and the conversation begins with an already anticipated warning.::
+
+Stop, $(#brother/sister). This is the Institute's West Wing. I would highly recommend turning around and going back unless, of course, you have a death wish.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+What is so dangerous about the West Wing?<end>
+
+=>a4
+What is so dangerous about the West Wing?<end>
+
+=>q5_original
+What isn't? <end>
+
+=>q5
+What isn't? <end>
+
+=>q6_original
+One moment you could have a piece of ceiling drop right on your head and smash your skull, the second a deadly creep might jump straight from the shadow and cull you on the spot. We don't go there, $(#brother/sister), well, except for Efreitor Mateo and a rassophore unit that went with him. But they still haven't returned.<end>
+
+=>q6
+One moment you could have a piece of ceiling drop right on your head and smash your skull, the second a deadly creep might jump straight from the shadow and cull you on the spot. We don't go there, $(#brother/sister), well, except for Efreitor Mateo and a rassophore unit that went with him. But they still haven't returned.<end>
+
+=>q7_original
+Look, I can't stop you from going there, but I can warn you. The rest is up to you.<end>
+
+=>q7
+Look, I can't stop you from going there, but I can warn you. The rest is up to you.<end>
+
+=>q8_original
+I already told you... <end>
+
+=>q8
+I already told you... <end>
+
+=>a9_original
+Why don't you just bar the doors and leave this place be? Doesn't that make more sense than having guards here?<end>
+
+=>a9
+Why don't you just bar the doors and leave this place be? Doesn't that make more sense than having guards here?<end>
+
+=>q10_original
+Well, they were barred before, $(#brother/sister). Efreitor Mateo and his rassophores were the reason we opened the cursed doors. Now we have to stand guard in case they come back, but that's very unlikely by now.<end>
+
+=>q10
+Well, they were barred before, $(#brother/sister). Efreitor Mateo and his rassophores were the reason we opened the cursed doors. Now we have to stand guard in case they come back, but that's very unlikely by now.<end>
+
+=>q11_original
+Still, orders are orders.<end>
+
+=>q11
+Still, orders are orders.<end>
+
+=>q12_original
+Truth be told, with all the strange things happening... I mean - stranger than usual, I personally think it's better to have rassophores here until the situation is cleared, plus I'm sure Eidein and His Excellency, Harmost Stavros know best.<end>
+
+=>q12
+Truth be told, with all the strange things happening... I mean - stranger than usual, I personally think it's better to have rassophores here until the situation is cleared, plus I'm sure Eidein and His Excellency, Harmost Stavros know best.<end>
+
+=>q13_original
+You like being here, is that what you're trying to say?<end>
+
+=>q13
+You like being here, is that what you're trying to say?<end>
+
+=>q14_original
+Um, I meant rassophores that *aren't* us; you and me. Sorry for the confusion.<end>
+
+=>q14
+Um, I meant rassophores that *aren't* us; you and me. Sorry for the confusion.<end>
+
+=>q15_original
+Oh, brother...<end>
+
+=>q15
+Oh, brother...<end>
+
+=>a16_original
+What can you tell me about Efreitor Mateo?<end>
+
+=>a16
+What can you tell me about Efreitor Mateo?<end>
+
+=>q17_original
+::The two rassophores glance at each other.:: He and a unit of rassophores were dispatched to the West Wing to investigate a strange electromagnetic disturbance detected by the Department of Physics, which made them turn to Preservation. They claimed that there is something in the West Wing emitting these waves, something important enough to warrant sending a unit there.<end>
+
+=>q17
+::The two rassophores glance at each other.:: He and a unit of rassophores were dispatched to the West Wing to investigate a strange electromagnetic disturbance detected by the Department of Physics, which made them turn to Preservation. They claimed that there is something in the West Wing emitting these waves, something important enough to warrant sending a unit there.<end>
+
+=>q18_original
+Before them, I think the last time someone went there was the year Monsignor Peter died, year sixty-seven. I remember my mother telling me about that particular entry to the West Wing when I was very young... but it's a pretty grim story; I think it's best if I skip telling it.<end>
+
+=>q18
+Before them, I think the last time someone went there was the year Monsignor Peter died, year sixty-seven. I remember my mother telling me about that particular entry to the West Wing when I was very young... but it's a pretty grim story; I think it's best if I skip telling it.<end>
+
+=>a19_original
+When was Efreitor's unit sent there?<end>
+
+=>a19
+When was Efreitor's unit sent there?<end>
+
+=>q20_original
+Five days ago I believe, $(#brother/sister). Interestingly, shortly after that Pavel, a rassophore, volunteered to go there; something for the Department of Physics, and he too never returned. So I hope you understand, $(context.player.Name), that this "beautiful" West Wing is a dangerous place.<end>
+
+=>q20
+Five days ago I believe, $(#brother/sister). Interestingly, shortly after that Pavel, a rassophore, volunteered to go there; something for the Department of Physics, and he too never returned. So I hope you understand, $(context.player.Name), that this "beautiful" West Wing is a dangerous place.<end>
+
+=>q21_original
+Proven.<end>
+
+=>q21
+Proven.<end>
+
+=>a22_original
+Interesting... I had other question, though.<end>
+
+=>a22
+Interesting... I had other question, though.<end>
+
+=>q23_original
+I'm not going anywhere. Ask if you wish.<end>
+
+=>q23
+I'm not going anywhere. Ask if you wish.<end>
+
+=>a24_original
+You mentioned someone named Pavel going into the West Wing?<end>
+
+=>a24
+You mentioned someone named Pavel going into the West Wing?<end>
+
+=>q25_original
+Yes... he was one of us rassophores. "Was." He was crazy enough to accept a task from PI Schteff from the Department of Physics. It was something about some... terahertz device, was it?<end>
+
+=>q25
+Yes... he was one of us rassophores. "Was." He was crazy enough to accept a task from PI Schteff from the Department of Physics. It was something about some... terahertz device, was it?<end>
+
+=>q26_original
+Yeah, T-ray generator tech that allows for through-wall imaging. At least, that is what the investigators of physics claim. Pretty apex stuff... if what they say is true.<end>
+
+=>q26
+Yeah, T-ray generator tech that allows for through-wall imaging. At least, that is what the investigators of physics claim. Pretty apex stuff... if what they say is true.<end>
+
+=>q27_original
+Yes, well that apex stuff got him culled. Just the thought of being swarmed by those vile West Wing creeps sends shivers down my spine. Poor Pavel... <end>
+
+=>q27
+Yes, well that apex stuff got him culled. Just the thought of being swarmed by those vile West Wing creeps sends shivers down my spine. Poor Pavel... <end>
+
+=>a28_original
+I'm looking for Rassophore Nevil; seen him lately?<end>
+
+=>a28
+I'm looking for Rassophore Nevil; seen him lately?<end>
+
+=>q29_original
+No, he didn't come anywhere near here.<end>
+
+=>q29
+No, he didn't come anywhere near here.<end>
+
+=>q30_original
+No one comes here, to tell you the truth. Well, except for you, $(#brother/sister).<end>
+
+=>q30
+No one comes here, to tell you the truth. Well, except for you, $(#brother/sister).<end>
+
+=>a31_original
+What can you tell me about the West Wing?<end>
+
+=>a31
+What can you tell me about the West Wing?<end>
+
+=>q32_original
+Well, it is the West Wing of the Institute building, and it's been in ruins long before most of us were even born. We guard the entrance to it so that no creeps can sneak in and... well, cull anyone.<end>
+
+=>q32
+Well, it is the West Wing of the Institute building, and it's been in ruins long before most of us were even born. We guard the entrance to it so that no creeps can sneak in and... well, cull anyone.<end>
+
+=>a33_original
+Why don't you just clear it out?<end>
+
+=>a33
+Why don't you just clear it out?<end>
+
+=>q34_original
+It is in very, very bad condition. Everything is in ruins and there is always the chance that something might come crashing down on you, and that's as unwanted as triploidy. Also, there is just no use going there, the other parts of the Institute offer enough space as it is. Those few who dared go there haven't returned.<end>
+
+=>q34
+It is in very, very bad condition. Everything is in ruins and there is always the chance that something might come crashing down on you, and that's as unwanted as triploidy. Also, there is just no use going there, the other parts of the Institute offer enough space as it is. Those few who dared go there haven't returned.<end>
+
+=>q35_original
+Truthfully, we don't even know what resides there anymore, and I hope we never have to.<end>
+
+=>q35
+Truthfully, we don't even know what resides there anymore, and I hope we never have to.<end>
+
+=>a36_original
+Can you at least tell me what to expect... Erm, I'm just curious if you have any clues as to what creatures there are in the West Wing.<end>
+
+=>a36
+Can you at least tell me what to expect... Erm, I'm just curious if you have any clues as to what creatures there are in the West Wing.<end>
+
+=>q37_original
+So far the only creeps we've seen are coil spiders and shadow crawlers, but who knows what else is there. They would sometimes sneak around, usually alone, but we cull them quickly.
+
+Still, we never had any major issues or breaches at this check point, which is apex. <end>
+
+=>q37
+So far the only creeps we've seen are coil spiders and shadow crawlers, but who knows what else is there. They would sometimes sneak around, usually alone, but we cull them quickly.
+
+Still, we never had any major issues or breaches at this check point, which is apex. <end>
+
+=>q38_original
+You know, I just remembered one more thing: Sometimes we hear very strange sounds coming from the darkness. It's... strange, like nothing I've heard before. It doesn't sound like an animal or anything similar, I don't know.<end>
+
+=>q38
+You know, I just remembered one more thing: Sometimes we hear very strange sounds coming from the darkness. It's... strange, like nothing I've heard before. It doesn't sound like an animal or anything similar, I don't know.<end>
+
+=>a39_original
+Can you describe it?<end>
+
+=>a39
+Can you describe it?<end>
+
+=>q40_original
+I don't know... um...<end>
+
+=>q40
+I don't know... um...<end>
+
+=>q41_original
+I would describe it as electrical-sounding, $(#brother/sister). Something like an electrical discharge of sort, unlike, as sister said, anything we ever heard before.<end>
+
+=>q41
+I would describe it as electrical-sounding, $(#brother/sister). Something like an electrical discharge of sort, unlike, as sister said, anything we ever heard before.<end>
+
+=>a42_original
+Electrical?<end>
+
+=>a42
+Electrical?<end>
+
+=>q43_original
+Yeah, I too think that is the best description. Electrical.<end>
+
+=>q43
+Yeah, I too think that is the best description. Electrical.<end>
+
+=>q44_original
+Magnificent Tchort, the more I think about it the scarier it gets, so let's stop here. Guarding this hallway is already spooky enough.<end>
+
+=>q44
+Magnificent Tchort, the more I think about it the scarier it gets, so let's stop here. Guarding this hallway is already spooky enough.<end>
+
+=>a45_original
+I see... Let me ask you something else.<end>
+
+=>a45
+I see... Let me ask you something else.<end>
+
+=>a46_original
+Duty calls me from the darker end of the hallway, sister.<end>
+
+=>a46
+Duty calls me from the darker end of the hallway, sister.<end>
+
+=>q47_original
+Then may Tchort guide you back to us.<end>
+
+=>q47
+Then may Tchort guide you back to us.<end>
+
+=>a48_original
+I'll go where it's safe. Goodbye, sister.<end>
+
+=>a48
+I'll go where it's safe. Goodbye, sister.<end>
+
+=>q49_original
+Tchort guide you.<end>
+
+=>q49
+Tchort guide you.<end>
+
+=>q50_original
+Why are you still here, $(#brother/sister)?<end>
+
+=>q50
+Why are you still here, $(#brother/sister)?<end>
+

@@ -1,0 +1,124 @@
+=>q1_original
+::Mutagen Combinator Log Terminal::<end>
+
+=>q1
+::Mutagen Combinator Log Terminal::<end>
+
+=>a2_original
+::Reagent List::<end>
+
+=>a2
+::Reagent List::<end>
+
+=>q3_original
+::Reagent List (C-7)
+
+Echo-1
+Echo-2
+Echo-3
+Echo-4
+Helicon-1
+Helicon-2
+Helicon-3
+Io-1
+Io-2
+Io-3::<end>
+
+=>q3
+::Reagent List (C-7)
+
+Echo-1
+Echo-2
+Echo-3
+Echo-4
+Helicon-1
+Helicon-2
+Helicon-3
+Io-1
+Io-2
+Io-3::<end>
+
+=>q4_original
+::Ovid-1
+Ovid-2
+Ovid-3
+Solis-1
+Solis-2::<end>
+
+=>q4
+::Ovid-1
+Ovid-2
+Ovid-3
+Solis-1
+Solis-2::<end>
+
+=>a5_original
+::Back to main::<end>
+
+=>a5
+::Back to main::<end>
+
+=>a6_original
+::Logs::<end>
+
+=>a6
+::Logs::<end>
+
+=>q7_original
+::Recent logs::<end>
+
+=>q7
+::Recent logs::<end>
+
+=>a8_original
+::Access HECDB::<end>
+
+=>a8
+::Access HECDB::<end>
+
+=>q9_original
+::Connecting to HECDB...::<end>
+
+=>q9
+::Connecting to HECDB...::<end>
+
+=>q10_original
+::Error 010 - Connection failed!::<end>
+
+=>q10
+::Error 010 - Connection failed!::<end>
+
+=>a11_original
+::Notes::<end>
+
+=>a11
+::Notes::<end>
+
+=>q12_original
+::Notes::<end>
+
+=>q12
+::Notes::<end>
+
+=>a13_original
+::Exitus 1 and 2 - Dr. David Gerhoff::<end>
+
+=>a13
+::Exitus 1 and 2 - Dr. David Gerhoff::<end>
+
+=>q14_original
+::Our team recently came across two reagents which have proven extremely toxic to all organisms which underwent artificial mutations. Preliminary results suggest that injecting any of these two reagents - which I have designated as Exitus-1 and Exitus-2 - into the Crucible - or using them on mutated organisms in any other way - will cause immediate and most likely fatal effects on exposed organisms. I have deleted the atomic sequences of both of these two reagents, deleted their entries from the current reagent cycle and stored them in a safe place. One container of each of these two reagents will be used to map and possibly predict future reagent sequences which could have negative effects.
+
+Dr. David Gerhoff - Mutagen Tanks B, Log 473#HJ::<end>
+
+=>q14
+::Our team recently came across two reagents which have proven extremely toxic to all organisms which underwent artificial mutations. Preliminary results suggest that injecting any of these two reagents - which I have designated as Exitus-1 and Exitus-2 - into the Crucible - or using them on mutated organisms in any other way - will cause immediate and most likely fatal effects on exposed organisms. I have deleted the atomic sequences of both of these two reagents, deleted their entries from the current reagent cycle and stored them in a safe place. One container of each of these two reagents will be used to map and possibly predict future reagent sequences which could have negative effects.
+
+Dr. David Gerhoff - Mutagen Tanks B, Log 473#HJ::<end>
+
+=>a15_original
+::Exit::<end>
+
+=>a15
+::Exit::<end>
+

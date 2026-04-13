@@ -1,0 +1,30 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Watch your step. Rocks are slippery near the wharf.<end>
+
+=>q2
+Watch your step. Rocks are slippery near the wharf.<end>
+
+=>q3_original
+Yes?<end>
+
+=>q3
+Yes?<end>
+
+=>q4_original
+If Gorsky catches me chatting instead of watching the water, he'll throw me in.<end>
+
+=>q4
+If Gorsky catches me chatting instead of watching the water, he'll throw me in.<end>
+
+=>q5_original
+Stay sharp.<end>
+
+=>q5
+Stay sharp.<end>
+

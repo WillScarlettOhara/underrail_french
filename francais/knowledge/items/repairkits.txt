@@ -1,0 +1,11 @@
+::Mechanical
+Restores up to {0} mechanical durability to an item.
+
+::Fabric
+Restores up to {0} fabric durability to an item.
+
+::Electronic
+Restores up to {0} electronic durability to an item.
+
+::Vehicle
+Restores up to {0} durability to a vehicle.

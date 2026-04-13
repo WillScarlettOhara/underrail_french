@@ -1,0 +1,48 @@
+=>q1_original
+We are doomed...<end>
+
+=>q1
+We are doomed...<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Magnificent Tchort! Who let *you* through the decon chamber, $(#brother/sister)?<end>
+
+=>q3
+Magnificent Tchort! Who let *you* through the decon chamber, $(#brother/sister)?<end>
+
+=>q4_original
+You really shouldn't be here!<end>
+
+=>q4
+You really shouldn't be here!<end>
+
+=>q5_original
+You must be one of the new assistants, right? By the Tchort, they get worse and worse every year...<end>
+
+=>q5
+You must be one of the new assistants, right? By the Tchort, they get worse and worse every year...<end>
+
+=>q6_original
+You know, we don't wear these suits just because we look good in them...<end>
+
+=>q6
+You know, we don't wear these suits just because we look good in them...<end>
+
+=>q7_original
+What...? Get out, you shouldn't be here!<end>
+
+=>q7
+What...? Get out, you shouldn't be here!<end>
+
+=>q8_original
+Oh $(#brother/sister)...<end>
+
+=>q8
+Oh $(#brother/sister)...<end>
+

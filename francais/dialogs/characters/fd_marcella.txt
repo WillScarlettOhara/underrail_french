@@ -1,0 +1,640 @@
+=>q1_original
+Trenton, no... Damn it, this is a living nightmare...<end>
+
+=>q1
+Trenton, no... Damn it, this is a living nightmare...<end>
+
+=>q2_original
+Please... I can't talk right now... my head is all messed up.<end>
+
+=>q2
+Please... I can't talk right now... my head is all messed up.<end>
+
+=>q3_original
+I'm so glad this is finally over...<end>
+
+=>q3
+I'm so glad this is finally over...<end>
+
+=>a4_original
+Bate deserved to die.<end>
+
+=>a4
+Bate deserved to die.<end>
+
+=>q5_original
+He did, but not yet. He died without telling us anything, how long he was working against us, how much the Protectorate knows and... he could have told us a lot.<end>
+
+=>q5
+He did, but not yet. He died without telling us anything, how long he was working against us, how much the Protectorate knows and... he could have told us a lot.<end>
+
+=>q6_original
+Damn it... I need rest...<end>
+
+=>q6
+Damn it... I need rest...<end>
+
+=>q7_original
+I've known Bate for years, I never, ever had a reason to suspect him... I'm speechless. He played us all.<end>
+
+=>q7
+I've known Bate for years, I never, ever had a reason to suspect him... I'm speechless. He played us all.<end>
+
+=>q8_original
+Tell me about it... Ugh, I feel dizzy... and my head, it hurts so much.<end>
+
+=>q8
+Tell me about it... Ugh, I feel dizzy... and my head, it hurts so much.<end>
+
+=>a9_original
+We needed answers, yet the bastard played us one last time by dying.<end>
+
+=>a9
+We needed answers, yet the bastard played us one last time by dying.<end>
+
+=>q10_original
+You are right... The quaker chose the easy way out, he fought knowing he would die and evade capture. He died without telling us anything, how long he was working against us, how much the Protectorate knows and... he could have told us a lot.<end>
+
+=>q10
+You are right... The quaker chose the easy way out, he fought knowing he would die and evade capture. He died without telling us anything, how long he was working against us, how much the Protectorate knows and... he could have told us a lot.<end>
+
+=>q11_original
+Thought I was gone for good, you slimeball?<end>
+
+=>q11
+Thought I was gone for good, you slimeball?<end>
+
+=>q12_original
+Marcella? I... I...<end>
+
+=>q12
+Marcella? I... I...<end>
+
+=>q13_original
+Marcella? What is the meaning of this - where have you been?<end>
+
+=>q13
+Marcella? What is the meaning of this - where have you been?<end>
+
+=>q14_original
+Where have I been? I have nearly been killed by this treacherous *rat* here! I--<end>
+
+=>q14
+Where have I been? I have nearly been killed by this treacherous *rat* here! I--<end>
+
+=>q15_original
+Corben, don't listen to her. She must have betrayed us! She disappeared without a trace for two months, for crying out loud! Two months! She's trying to turn you against me! She fooled kiddo, I see, but don't let her fool you!<end>
+
+=>q15
+Corben, don't listen to her. She must have betrayed us! She disappeared without a trace for two months, for crying out loud! Two months! She's trying to turn you against me! She fooled kiddo, I see, but don't let her fool you!<end>
+
+=>q16_original
+Listen to me, Corben, please: This man is a Protectorate spy, he's the one who revealed all our plans and is thus responsible for the deaths of many of our brothers and sisters! I don't know when he turned against us, but you have to believe me! He nearly killed me! If $(context.player.Name) hadn't found me, I wouldn't even be here now!<end>
+
+=>q16
+Listen to me, Corben, please: This man is a Protectorate spy, he's the one who revealed all our plans and is thus responsible for the deaths of many of our brothers and sisters! I don't know when he turned against us, but you have to believe me! He nearly killed me! If $(context.player.Name) hadn't found me, I wouldn't even be here now!<end>
+
+=>q17_original
+Muffin... what is the matter with you? I love you, why would I want to kill you? You know that, don't you? You are breaking my heart by siding with those filthy Protectorate--<end>
+
+=>q17
+Muffin... what is the matter with you? I love you, why would I want to kill you? You know that, don't you? You are breaking my heart by siding with those filthy Protectorate--<end>
+
+=>q18_original
+Not a single word, Bate. You disgust me. A bloody traitor you are. Surrender all your weapons and come with the guards peacefully. I hope you still have some dignity left in you.<end>
+
+=>q18
+Not a single word, Bate. You disgust me. A bloody traitor you are. Surrender all your weapons and come with the guards peacefully. I hope you still have some dignity left in you.<end>
+
+=>q19_original
+::Bate's stare slowly pans over each and every person in the room. His foreboding stare becomes desaturated, and he takes a deep breath before he unleashes his words in a trembling voice.::
+
+Go to hell, all of you! I... I did it because I had to... I had to... Damn it! I'm sorry, but I'm not going anywhere...<end>
+
+=>q19
+::Bate's stare slowly pans over each and every person in the room. His foreboding stare becomes desaturated, and he takes a deep breath before he unleashes his words in a trembling voice.::
+
+Go to hell, all of you! I... I did it because I had to... I had to... Damn it! I'm sorry, but I'm not going anywhere...<end>
+
+=>a20_original
+::Fight!::<end>
+
+=>a20
+::Fight!::<end>
+
+=>q21_original
+::This untidy woman quietly observes you as you come closer to her. Her eyes are big and vividly blue, with a hint of orange-gold around the pupil. A very rare sight. Even though she doesn't utter a single word, her sad and lost look speaks for her, telling you that she needs help.::<end>
+
+=>q21
+::This untidy woman quietly observes you as you come closer to her. Her eyes are big and vividly blue, with a hint of orange-gold around the pupil. A very rare sight. Even though she doesn't utter a single word, her sad and lost look speaks for her, telling you that she needs help.::<end>
+
+=>a22_original
+Excuse me, are you okay?<end>
+
+=>a22
+Excuse me, are you okay?<end>
+
+=>q23_original
+::She frowns.::
+
+Do I look okay to you?<end>
+
+=>q23
+::She frowns.::
+
+Do I look okay to you?<end>
+
+=>a24_original
+Not really.<end>
+
+=>a24
+Not really.<end>
+
+=>q25_original
+::She puts on a small noticeable frown and watches you without blinking.::
+
+Why are you bothering me? What do you want?<end>
+
+=>q25
+::She puts on a small noticeable frown and watches you without blinking.::
+
+Why are you bothering me? What do you want?<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+How about I introduce myself first. I'm $(context.player.Name). Who are you?<end>
+
+=>a27
+How about I introduce myself first. I'm $(context.player.Name). Who are you?<end>
+
+=>q28_original
+::Her pupils dilate and wander off to the right. It's apparent that she is trying really hard to remember but cannot. Frustrated, she replies.::
+
+I don't know... I can't seem to remember.<end>
+
+=>q28
+::Her pupils dilate and wander off to the right. It's apparent that she is trying really hard to remember but cannot. Frustrated, she replies.::
+
+I don't know... I can't seem to remember.<end>
+
+=>q29_original
+I try and I try... but nothing comes up. It's been a month... two... three? I just don't know. I don't know anything...<end>
+
+=>q29
+I try and I try... but nothing comes up. It's been a month... two... three? I just don't know. I don't know anything...<end>
+
+=>a30_original
+Can I help you somehow?<end>
+
+=>a30
+Can I help you somehow?<end>
+
+=>q31_original
+::Information gained from her eyes and her words are in conflict.::
+
+I don't need your help. Leave me alone.<end>
+
+=>q31
+::Information gained from her eyes and her words are in conflict.::
+
+I don't need your help. Leave me alone.<end>
+
+=>q32_original
+You can't possibly help me.<end>
+
+=>q32
+You can't possibly help me.<end>
+
+=>a33_original
+::[Persuade]:: I know I'm a stranger to you, but you are also a stranger to yourself. Allow me to help you.<end>
+
+=>a33
+::[Persuade]:: I know I'm a stranger to you, but you are also a stranger to yourself. Allow me to help you.<end>
+
+=>q34_original
+::Her eyes start watering, but with a quick stroke of her hand, she wipes them clean.::
+
+<end>
+
+=>q34
+::Her eyes start watering, but with a quick stroke of her hand, she wipes them clean.::
+
+<end>
+
+=>q35_original
+I remember... I remember waking up in the caves nearby. I felt pain, intense pain... The back of my head was bleeding... I got up and ran, just ran. Hid in a nearby crevice. I slept, slept for so long. Hunger awoke me... I got up and, um, chased one of those small creatures. Best meal of my life.
+
+The creature's meat satisfied my hunger, but not my shaken mind. It was blank, all blank.<end>
+
+=>q35
+I remember... I remember waking up in the caves nearby. I felt pain, intense pain... The back of my head was bleeding... I got up and ran, just ran. Hid in a nearby crevice. I slept, slept for so long. Hunger awoke me... I got up and, um, chased one of those small creatures. Best meal of my life.
+
+The creature's meat satisfied my hunger, but not my shaken mind. It was blank, all blank.<end>
+
+=>q36_original
+I wandered, for so long. I found this place, this... Hanging Rat. The more I talked to... Rob, I believe, the more I realized how little I know about this... world I'm in.<end>
+
+=>q36
+I wandered, for so long. I found this place, this... Hanging Rat. The more I talked to... Rob, I believe, the more I realized how little I know about this... world I'm in.<end>
+
+=>a37_original
+How would you like to come with me? I know doctors that can help you.<end>
+
+=>a37
+How would you like to come with me? I know doctors that can help you.<end>
+
+=>q38_original
+::Her fearful eyes answered you before she spoke.::
+
+No! I don't want to go anywhere! I'm safe here.<end>
+
+=>q38
+::Her fearful eyes answered you before she spoke.::
+
+No! I don't want to go anywhere! I'm safe here.<end>
+
+=>a39_original
+But, it can help you remember.<end>
+
+=>a39
+But, it can help you remember.<end>
+
+=>q40_original
+::Several seconds passed, yet it seemed a little longer that that.::
+
+No...<end>
+
+=>q40
+::Several seconds passed, yet it seemed a little longer that that.::
+
+No...<end>
+
+=>q41_original
+I'm sorry, I can't...<end>
+
+=>q41
+I'm sorry, I can't...<end>
+
+=>a42_original
+As you wish. Tell me, did you have any possessions with you when you woke up?<end>
+
+=>a42
+As you wish. Tell me, did you have any possessions with you when you woke up?<end>
+
+=>q43_original
+::She answers immediately, while looking right into your eyes.::
+
+Just a weapon... a crossbow and some bolts.<end>
+
+=>q43
+::She answers immediately, while looking right into your eyes.::
+
+Just a weapon... a crossbow and some bolts.<end>
+
+=>q44_original
+ I knew how to use it...use it well when I shot the... the hopping creature. What does it mean? Who am I? What am I?<end>
+
+=>q44
+ I knew how to use it...use it well when I shot the... the hopping creature. What does it mean? Who am I? What am I?<end>
+
+=>q45_original
+::Her eyes start darting left and right.::
+
+I can't do this. Leave me, please...<end>
+
+=>q45
+::Her eyes start darting left and right.::
+
+I can't do this. Leave me, please...<end>
+
+=>a46_original
+Did you have any possessions with you when you woke up?<end>
+
+=>a46
+Did you have any possessions with you when you woke up?<end>
+
+=>q47_original
+::She gives you a hard look.::
+
+You are right, you are a stranger.<end>
+
+=>q47
+::She gives you a hard look.::
+
+You are right, you are a stranger.<end>
+
+=>q48_original
+And strangers can't be trusted...<end>
+
+=>q48
+And strangers can't be trusted...<end>
+
+=>a49_original
+::[Intimidate]:: You've been giving me that sad stare since I came here and now you pretend you don't need any help?<end>
+
+=>a49
+::[Intimidate]:: You've been giving me that sad stare since I came here and now you pretend you don't need any help?<end>
+
+=>q50_original
+::Her eyes become wide open and her pupil starts wavering. After a brief moment, she responds.::<end>
+
+=>q50
+::Her eyes become wide open and her pupil starts wavering. After a brief moment, she responds.::<end>
+
+=>q51_original
+::Her eyes become wide open, as if she seems surprised by what you said.::
+
+You...<end>
+
+=>q51
+::Her eyes become wide open, as if she seems surprised by what you said.::
+
+You...<end>
+
+=>q52_original
+Leave me alone. Just leave me alone!<end>
+
+=>q52
+Leave me alone. Just leave me alone!<end>
+
+=>a53_original
+Marcella?<end>
+
+=>a53
+Marcella?<end>
+
+=>q54_original
+::She stops to think, but in the end, a blank stare precedes her answer.::
+
+Why would you say that?<end>
+
+=>q54
+::She stops to think, but in the end, a blank stare precedes her answer.::
+
+Why would you say that?<end>
+
+=>a55_original
+Because I think that's your name.<end>
+
+=>a55
+Because I think that's your name.<end>
+
+=>q56_original
+::She slowly lowers her eyes, but looks back at you after a short pause.::
+
+Why? Tell me more...<end>
+
+=>q56
+::She slowly lowers her eyes, but looks back at you after a short pause.::
+
+Why? Tell me more...<end>
+
+=>q57_original
+Um, if you know something... tell me.<end>
+
+=>q57
+Um, if you know something... tell me.<end>
+
+=>a58_original
+::Tell her about the Free Drones.::<end>
+
+=>a58
+::Tell her about the Free Drones.::<end>
+
+=>q59_original
+::She carefully listens to you as you tell her about the Free Drones, the Protectorate, the people from the under-passages base. During the entire conversation, it seemed to you like she reacted to some of the things you mentioned, but most of the time, her gradually sadder and sadder look revealed disappointment. Like she wanted to instantly unlock the inaccessible memories in her brain. She expected a clear picture, yet received a hazy and confusing mess.::<end>
+
+=>q59
+::She carefully listens to you as you tell her about the Free Drones, the Protectorate, the people from the under-passages base. During the entire conversation, it seemed to you like she reacted to some of the things you mentioned, but most of the time, her gradually sadder and sadder look revealed disappointment. Like she wanted to instantly unlock the inaccessible memories in her brain. She expected a clear picture, yet received a hazy and confusing mess.::<end>
+
+=>q60_original
+I don't know... I don't know if what you're telling is true. Some of the things you said... they sound familiar, but... but... ::She starts crying.::
+
+I cant' remember anything! Anything!<end>
+
+=>q60
+I don't know... I don't know if what you're telling is true. Some of the things you said... they sound familiar, but... but... ::She starts crying.::
+
+I cant' remember anything! Anything!<end>
+
+=>a61_original
+Sorry, my mistake.<end>
+
+=>a61
+Sorry, my mistake.<end>
+
+=>q62_original
+::Her eyes glinted.::
+
+Wait! Tell me why you thought I was called Marcella?<end>
+
+=>q62
+::Her eyes glinted.::
+
+Wait! Tell me why you thought I was called Marcella?<end>
+
+=>a63_original
+If Marcella means nothing to you, how about Muffin?<end>
+
+=>a63
+If Marcella means nothing to you, how about Muffin?<end>
+
+=>q64_original
+::Before you finished the word "Muffin," the windows to her soul, the ones you've been carefully observing since you met her, gave you the answer once more. Words would have been reduntant, for her terrified stare into emptiness spoke for itself.::
+
+No! No! You bastard, get away from me!<end>
+
+=>q64
+::Before you finished the word "Muffin," the windows to her soul, the ones you've been carefully observing since you met her, gave you the answer once more. Words would have been reduntant, for her terrified stare into emptiness spoke for itself.::
+
+No! No! You bastard, get away from me!<end>
+
+=>a65_original
+Take it easy, I meant no harm.<end>
+
+=>a65
+Take it easy, I meant no harm.<end>
+
+=>q66_original
+::But, she wasn't talking to you at all. Her eyes are not fixed on you, and their twitching remind you of a key that slowly pushes the pins into position, and unlocking a forgotten memory.::
+
+I trusted you, Bate! You betrayed everyone! You betrayed the Free Drones, you betrayed the people, and now you betrayed me! You betrayed me, you bastard!<end>
+
+=>q66
+::But, she wasn't talking to you at all. Her eyes are not fixed on you, and their twitching remind you of a key that slowly pushes the pins into position, and unlocking a forgotten memory.::
+
+I trusted you, Bate! You betrayed everyone! You betrayed the Free Drones, you betrayed the people, and now you betrayed me! You betrayed me, you bastard!<end>
+
+=>q67_original
+::As tears flow down her cheeks, the terrified look she once possessed now returns to normal. She remembers.::
+
+I am Marcella Green, leader of the Free Drones. We fight against Protector... Protectorate oppressors. I command the South Underrail cell with Corben Trenton and Alvin...<end>
+
+=>q67
+::As tears flow down her cheeks, the terrified look she once possessed now returns to normal. She remembers.::
+
+I am Marcella Green, leader of the Free Drones. We fight against Protector... Protectorate oppressors. I command the South Underrail cell with Corben Trenton and Alvin...<end>
+
+=>q68_original
+Alvin Bate! Alvin Bate! He is the one! ::She grabs the back of her head.::<end>
+
+=>q68
+Alvin Bate! Alvin Bate! He is the one! ::She grabs the back of her head.::<end>
+
+=>a69_original
+He is what?<end>
+
+=>a69
+He is what?<end>
+
+=>q70_original
+He betrayed us, he is a Protectorate spy! I don't know for how long, but... but I have to warn the rest.<end>
+
+=>q70
+He betrayed us, he is a Protectorate spy! I don't know for how long, but... but I have to warn the rest.<end>
+
+=>a71_original
+Did he do this to you?<end>
+
+=>a71
+Did he do this to you?<end>
+
+=>q72_original
+Yes, we were, um, lovers... I had suspicions about him, I noticed things... but I was blinded by my feelings for him. I... thought it couldn't be, I hesitated. He didn't! The bastard lured me away to... to kill me. Like I meant nothing to him. 
+
+Oh, son of a...<end>
+
+=>q72
+Yes, we were, um, lovers... I had suspicions about him, I noticed things... but I was blinded by my feelings for him. I... thought it couldn't be, I hesitated. He didn't! The bastard lured me away to... to kill me. Like I meant nothing to him. 
+
+Oh, son of a...<end>
+
+=>q73_original
+We struggled and I fell down a cliff. ::She holds the back of her head again.:: I lived in the caves like an animal, ate nothing but bugs and mushrooms because of him. Pig! I'll rip his throat out and shove it back in when I get back.<end>
+
+=>q73
+We struggled and I fell down a cliff. ::She holds the back of her head again.:: I lived in the caves like an animal, ate nothing but bugs and mushrooms because of him. Pig! I'll rip his throat out and shove it back in when I get back.<end>
+
+=>a74_original
+Then let's get back to base and expose that snake for what he truly is.<end>
+
+=>a74
+Then let's get back to base and expose that snake for what he truly is.<end>
+
+=>q75_original
+I'm sure he's dying to see me... 
+
+Let's go.<end>
+
+=>q75
+I'm sure he's dying to see me... 
+
+Let's go.<end>
+
+=>a76_original
+::Follow her.::<end>
+
+=>a76
+::Follow her.::<end>
+
+=>a77_original
+Can you return on your own? I've got some urgent business.<end>
+
+=>a77
+Can you return on your own? I've got some urgent business.<end>
+
+=>q78_original
+Whatever, I'm going back this instant. I don't want to stay in this dump for a second longer.<end>
+
+=>q78
+Whatever, I'm going back this instant. I don't want to stay in this dump for a second longer.<end>
+
+=>q79_original
+Whatcha talkin' about, this ain't a dump! Yer both ugly... and stupid!<end>
+
+=>q79
+Whatcha talkin' about, this ain't a dump! Yer both ugly... and stupid!<end>
+
+=>a80_original
+::Wait for her to leave.::<end>
+
+=>a80
+::Wait for her to leave.::<end>
+
+=>a81_original
+What do you mean?<end>
+
+=>a81
+What do you mean?<end>
+
+=>a82_original
+Whoa, calm down woman!<end>
+
+=>a82
+Whoa, calm down woman!<end>
+
+=>a83_original
+Goodbye.<end>
+
+=>a83
+Goodbye.<end>
+
+=>a84_original
+I've seen worse.<end>
+
+=>a84
+I've seen worse.<end>
+
+=>q85_original
+::Her left eyebrow raises ever so slightly.::
+
+Worse than this? I'm not so sure... What do you want from me, exactly?<end>
+
+=>q85
+::Her left eyebrow raises ever so slightly.::
+
+Worse than this? I'm not so sure... What do you want from me, exactly?<end>
+
+=>a86_original
+You look okay to me.<end>
+
+=>a86
+You look okay to me.<end>
+
+=>q87_original
+::She replies without changing her expression.::
+
+That made my day. Really. What do you want from me?<end>
+
+=>q87
+::She replies without changing her expression.::
+
+That made my day. Really. What do you want from me?<end>
+
+=>a88_original
+Hello, I'm $(context.player.Name). Who are you?<end>
+
+=>a88
+Hello, I'm $(context.player.Name). Who are you?<end>
+
+=>a89_original
+::Leave.::<end>
+
+=>a89
+::Leave.::<end>
+
+=>q90_original
+::Her troubled look is still present.::
+
+It's you...<end>
+
+=>q90
+::Her troubled look is still present.::
+
+It's you...<end>
+

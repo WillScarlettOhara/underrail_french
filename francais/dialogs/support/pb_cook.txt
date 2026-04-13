@@ -1,0 +1,66 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Whatcha lookin' at?<end>
+
+=>q2
+Whatcha lookin' at?<end>
+
+=>q3_original
+Talk to Case if you want food.<end>
+
+=>q3
+Talk to Case if you want food.<end>
+
+=>q4_original
+Mmmm, this smells great.<end>
+
+=>q4
+Mmmm, this smells great.<end>
+
+=>q5_original
+Just a bit more salt... aaaand we're done with this portion.<end>
+
+=>q5
+Just a bit more salt... aaaand we're done with this portion.<end>
+
+=>q6_original
+Preparing food for the whole base is quite a lot of work, you know.<end>
+
+=>q6
+Preparing food for the whole base is quite a lot of work, you know.<end>
+
+=>q7_original
+::Tastes the food.:: Oukh, that fas hoth. But vevy tasty. Mmmphh-mmmph!<end>
+
+=>q7
+::Tastes the food.:: Oukh, that fas hoth. But vevy tasty. Mmmphh-mmmph!<end>
+
+=>q8_original
+Kiss the chef?<end>
+
+=>q8
+Kiss the chef?<end>
+
+=>q9_original
+I've been making food for these soldiers ever since Fort Apogee had been built.<end>
+
+=>q9
+I've been making food for these soldiers ever since Fort Apogee had been built.<end>
+
+=>q10_original
+Hey, I've got this crazy recipe for eels stuffed with 'shrooms. Un-believable!<end>
+
+=>q10
+Hey, I've got this crazy recipe for eels stuffed with 'shrooms. Un-believable!<end>
+
+=>q11_original
+Where'd I put my spatula?<end>
+
+=>q11
+Where'd I put my spatula?<end>
+

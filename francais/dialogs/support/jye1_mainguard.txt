@@ -1,0 +1,28 @@
+=>q1_original
+Halt! Before you can meet the ambassador you must unready your weapon, grenades and other dangerous devices and put them in your backpack. If you reach for any of these during your stay on the embassy grounds you will be neutralized.<end>
+
+=>q1
+Halt! Before you can meet the ambassador you must unready your weapon, grenades and other dangerous devices and put them in your backpack. If you reach for any of these during your stay on the embassy grounds you will be neutralized.<end>
+
+=>q2_original
+When you enter the courtyard behind me, take the first double door to the right. The ambassador is expecting you.
+
+Do not interfere with any operations inside the base.<end>
+
+=>q2
+When you enter the courtyard behind me, take the first double door to the right. The ambassador is expecting you.
+
+Do not interfere with any operations inside the base.<end>
+
+=>q3_original
+Now, move along.<end>
+
+=>q3
+Now, move along.<end>
+
+=>q4_original
+Make sure you unready your weapon, grenades and other dangerous devices and put them in your backpack. If you reach for any of these during your stay on the embassy grounds you will be neutralized.<end>
+
+=>q4
+Make sure you unready your weapon, grenades and other dangerous devices and put them in your backpack. If you reach for any of these during your stay on the embassy grounds you will be neutralized.<end>
+

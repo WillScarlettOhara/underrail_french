@@ -1,0 +1,1380 @@
+=>q1_original
+Indeed... the Faceless... ::Sighs.::<end>
+
+=>q1
+Indeed... the Faceless... ::Sighs.::<end>
+
+=>q2_original
+Out you inbred! You ruined years and years of work! Magnificent Tchort!<end>
+
+=>q2
+Out you inbred! You ruined years and years of work! Magnificent Tchort!<end>
+
+=>q3_original
+What is going on, $(#bro/sis)? Everybody is in some sort of a hurry...<end>
+
+=>q3
+What is going on, $(#bro/sis)? Everybody is in some sort of a hurry...<end>
+
+=>q4_original
+Is it done?<end>
+
+=>q4
+Is it done?<end>
+
+=>a5_original
+I'm afraid that Psycho is dead.<end>
+
+=>a5
+I'm afraid that Psycho is dead.<end>
+
+=>q6_original
+What?<end>
+
+=>q6
+What?<end>
+
+=>a7_original
+It's... dead.<end>
+
+=>a7
+It's... dead.<end>
+
+=>q8_original
+Um... it sounded like you said Psycho is dead?<end>
+
+=>q8
+Um... it sounded like you said Psycho is dead?<end>
+
+=>a9_original
+Yes. That's what I have just said.<end>
+
+=>a9
+Yes. That's what I have just said.<end>
+
+=>q10_original
+Out.<end>
+
+=>q10
+Out.<end>
+
+=>a11_original
+What?<end>
+
+=>a11
+What?<end>
+
+=>q12_original
+I said out!<end>
+
+=>q12
+I said out!<end>
+
+=>a13_original
+Um... It sounded like you told me to get out?<end>
+
+=>a13
+Um... It sounded like you told me to get out?<end>
+
+=>q14_original
+Yes. That's what I have just said! OUT!<end>
+
+=>q14
+Yes. That's what I have just said! OUT!<end>
+
+=>a15_original
+As you wish... Goodbye.<end>
+
+=>a15
+As you wish... Goodbye.<end>
+
+=>a16_original
+Okay... Bye.<end>
+
+=>a16
+Okay... Bye.<end>
+
+=>a17_original
+I'm afraid I couldn't avoid killing it.<end>
+
+=>a17
+I'm afraid I couldn't avoid killing it.<end>
+
+=>a18_original
+It is done. I planted the neural pacifier on the creature's head and it is now, well, pacified.<end>
+
+=>a18
+It is done. I planted the neural pacifier on the creature's head and it is now, well, pacified.<end>
+
+=>q19_original
+Very good! Very good! I am pleased! I will send someone to take care of that and you... um... your name was...?<end>
+
+=>q19
+Very good! Very good! I am pleased! I will send someone to take care of that and you... um... your name was...?<end>
+
+=>a20_original
+$(context.player.Name).<end>
+
+=>a20
+$(context.player.Name).<end>
+
+=>q21_original
+$(context.player.Name)? I heard that just recently, um... Figurine? Did...? You...? Yes, oh, yes... Now I understand everything!<end>
+
+=>q21
+$(context.player.Name)? I heard that just recently, um... Figurine? Did...? You...? Yes, oh, yes... Now I understand everything!<end>
+
+=>q22_original
+I... I would like to apologize for my earlier behavior. Magnificent Tchort, it's always just... I have a lot of work here - an incredible amount of work, and every time someone enters my office something goes horribly awry! It directly translates to more trouble. And all that before I'd even get the chance to drink my first cup of mushroom tea of the day...<end>
+
+=>q22
+I... I would like to apologize for my earlier behavior. Magnificent Tchort, it's always just... I have a lot of work here - an incredible amount of work, and every time someone enters my office something goes horribly awry! It directly translates to more trouble. And all that before I'd even get the chance to drink my first cup of mushroom tea of the day...<end>
+
+=>q23_original
+::He sighs.:: Well, you did good! Indeed! And for that - here is something for you. ::He hands you 400 stygian coins.::
+
+If you seek more work, why not drop by my office sometime, $(#bro/sis). I think I've got some stuff for a $(#man/woman) like yourself.<end>
+
+=>q23
+::He sighs.:: Well, you did good! Indeed! And for that - here is something for you. ::He hands you 400 stygian coins.::
+
+If you seek more work, why not drop by my office sometime, $(#bro/sis). I think I've got some stuff for a $(#man/woman) like yourself.<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+Do you have any more work for me?<end>
+
+=>a25
+Do you have any more work for me?<end>
+
+=>q26_original
+Indeed I do. I have two jobs for you as a matter of fact, $(#bro/sis). The first requires you to take a ferry ride to a pretty remote place in Lower Underrail... and the second one is about a genetics disease resistance project.<end>
+
+=>q26
+Indeed I do. I have two jobs for you as a matter of fact, $(#bro/sis). The first requires you to take a ferry ride to a pretty remote place in Lower Underrail... and the second one is about a genetics disease resistance project.<end>
+
+=>q27_original
+Interested in any one of the two? Or both perhaps?<end>
+
+=>q27
+Interested in any one of the two? Or both perhaps?<end>
+
+=>a28_original
+I have a skull of a giant beast from Foundry. I think you might find it interesting.<end>
+
+=>a28
+I have a skull of a giant beast from Foundry. I think you might find it interesting.<end>
+
+=>q29_original
+Sounds good so far. Indeed. Show it to me.<end>
+
+=>q29
+Sounds good so far. Indeed. Show it to me.<end>
+
+=>a30_original
+Ehm... the skull of creature related to those you didn't want to help me with when I asked you. Remember?<end>
+
+=>a30
+Ehm... the skull of creature related to those you didn't want to help me with when I asked you. Remember?<end>
+
+=>q31_original
+::Rista is quick to answer.::
+
+My department is busy. *I* am busy. I have nothing to add to that.<end>
+
+=>q31
+::Rista is quick to answer.::
+
+My department is busy. *I* am busy. I have nothing to add to that.<end>
+
+=>a32_original
+I changed my mind. I'll be keeping this.<end>
+
+=>a32
+I changed my mind. I'll be keeping this.<end>
+
+=>q33_original
+::Somewhat agitated, he responds with relative calmness.:: Fine. I don't entirely understand what you're doing right now, but fine. Do as you wish.<end>
+
+=>q33
+::Somewhat agitated, he responds with relative calmness.:: Fine. I don't entirely understand what you're doing right now, but fine. Do as you wish.<end>
+
+=>a34_original
+::Show him the Beast's head.::<end>
+
+=>a34
+::Show him the Beast's head.::<end>
+
+=>q35_original
+::Bringing out the charred skull of the once mighty Beast causes a satisfied grin to take shape on Rista's face. The foul smell of fusion between molten metal and bone fills the room instantly, putting a frown on his face but leaves the grin unchanged.::
+
+I like it. Not the smell, but other than that - I like it!<end>
+
+=>q35
+::Bringing out the charred skull of the once mighty Beast causes a satisfied grin to take shape on Rista's face. The foul smell of fusion between molten metal and bone fills the room instantly, putting a frown on his face but leaves the grin unchanged.::
+
+I like it. Not the smell, but other than that - I like it!<end>
+
+=>q36_original
+::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Now I remember what you were talking about; honestly, I wasn't paying all that much attention to what you were saying. Eh, sorry. How-ever, I do like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
+
+=>q36
+::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Now I remember what you were talking about; honestly, I wasn't paying all that much attention to what you were saying. Eh, sorry. How-ever, I do like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>a38_original
+Here you go. Just remember to mention who gave you this when you write the paper on it. ::Give him the Head of the Beast.::<end>
+
+=>a38
+Here you go. Just remember to mention who gave you this when you write the paper on it. ::Give him the Head of the Beast.::<end>
+
+=>q39_original
+I will! In the name of our whole department I thank you for this apex donation. ::He grins.:: Indeed!<end>
+
+=>q39
+I will! In the name of our whole department I thank you for this apex donation. ::He grins.:: Indeed!<end>
+
+=>q40_original
+I will hand this over to our investigators at once.<end>
+
+=>q40
+I will hand this over to our investigators at once.<end>
+
+=>a41_original
+If you could give me, say, three hundred charons, then I'd hand it over. It's a small price for something this important.<end>
+
+=>a41
+If you could give me, say, three hundred charons, then I'd hand it over. It's a small price for something this important.<end>
+
+=>q42_original
+No problem. That won't affect our budget at all. Here you go. ::He gives you 300 stygian coins.::<end>
+
+=>q42
+No problem. That won't affect our budget at all. Here you go. ::He gives you 300 stygian coins.::<end>
+
+=>a43_original
+::[Mercantile]:: I need five hundred charons to cover some costs. I think that's fair.<end>
+
+=>a43
+::[Mercantile]:: I need five hundred charons to cover some costs. I think that's fair.<end>
+
+=>q44_original
+That's a small price to pay for something so apex. Here you go. ::He gives you 500 stygian coins.::<end>
+
+=>q44
+That's a small price to pay for something so apex. Here you go. ::He gives you 500 stygian coins.::<end>
+
+=>q45_original
+I'm sorry, $(#bro/sis), but I don't think I'm willing to spend that much funds if I don't have to. Is there any other way we can negotiate this?<end>
+
+=>q45
+I'm sorry, $(#bro/sis), but I don't think I'm willing to spend that much funds if I don't have to. Is there any other way we can negotiate this?<end>
+
+=>a46_original
+::[Mercantile]:: Sure, I'll hand it over for eight hundred charons. I had to get through a lot to get this thing.<end>
+
+=>a46
+::[Mercantile]:: Sure, I'll hand it over for eight hundred charons. I had to get through a lot to get this thing.<end>
+
+=>q47_original
+Understandable. That is a lot of charons, but... . Here you go. ::He gives you 800 stygian coins.::<end>
+
+=>q47
+Understandable. That is a lot of charons, but... . Here you go. ::He gives you 800 stygian coins.::<end>
+
+=>a48_original
+::[Mercantile]:: I risked a lot for this, so I'd have to ask for a lot of money for it. One thousand five hundred, to be exact.<end>
+
+=>a48
+::[Mercantile]:: I risked a lot for this, so I'd have to ask for a lot of money for it. One thousand five hundred, to be exact.<end>
+
+=>q49_original
+One thou-- ::He scratches his head.:: That would be a big hit on the department's budget... But I am certain *our* department cannot run out of funds. Here you go. ::He gives you 1500 stygian coins.::<end>
+
+=>q49
+One thou-- ::He scratches his head.:: That would be a big hit on the department's budget... But I am certain *our* department cannot run out of funds. Here you go. ::He gives you 1500 stygian coins.::<end>
+
+=>a50_original
+I changed my mind. I'll keep it for now.<end>
+
+=>a50
+I changed my mind. I'll keep it for now.<end>
+
+=>q51_original
+Okay. I don't entirely understand why, but okay. Should you change your mind again, however, you know where to find me.<end>
+
+=>q51
+Okay. I don't entirely understand why, but okay. Should you change your mind again, however, you know where to find me.<end>
+
+=>q52_original
+::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Foundry, you said... Hmmm, I like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
+
+=>q52
+::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Foundry, you said... Hmmm, I like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
+
+=>a53_original
+I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
+
+=>a53
+I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
+
+=>q54_original
+I doubt it. What do they look like?<end>
+
+=>q54
+I doubt it. What do they look like?<end>
+
+=>a55_original
+They're quadrupedal creatures, highly aggressive, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>a55
+They're quadrupedal creatures, highly aggressive, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>q56_original
+The creature you describe is unfamiliar to me, $(#bro/sis).<end>
+
+=>q56
+The creature you describe is unfamiliar to me, $(#bro/sis).<end>
+
+=>a57_original
+If I bring you a sample or a live specimen, will you take a look at it for me? Or someone from your department?<end>
+
+=>a57
+If I bring you a sample or a live specimen, will you take a look at it for me? Or someone from your department?<end>
+
+=>q58_original
+Did... Lydia send you here? ::He leans a bit forward, anticipating your answer.::<end>
+
+=>q58
+Did... Lydia send you here? ::He leans a bit forward, anticipating your answer.::<end>
+
+=>a59_original
+Yes.<end>
+
+=>a59
+Yes.<end>
+
+=>q60_original
+::He leans even more toward you, peering into your honesty.:: Then I'd like to see that in writing. You don't have it, do you? Indeed you don't... <end>
+
+=>q60
+::He leans even more toward you, peering into your honesty.:: Then I'd like to see that in writing. You don't have it, do you? Indeed you don't... <end>
+
+=>q61_original
+This department is far too busy, $(#bro/sis), and I am not encumbering myself or my investigators with anything unless I have been directly ordered to do so or if it's something of some unwitnessed magnificence. I am sorry.<end>
+
+=>q61
+This department is far too busy, $(#bro/sis), and I am not encumbering myself or my investigators with anything unless I have been directly ordered to do so or if it's something of some unwitnessed magnificence. I am sorry.<end>
+
+=>a62_original
+I'm only asking for one investigator to take a look at it, man, not for a team to study it for the years to come.<end>
+
+=>a62
+I'm only asking for one investigator to take a look at it, man, not for a team to study it for the years to come.<end>
+
+=>q63_original
+::He frowns.:: Magnificent Tchort, didn't you hear the word of what I said? My investigators are busy. They've got work to do. Science. And if they're late with their projects, Eidein pardon them, then my ass is on the line. And Lydia's the one with the barbed whip. And - she doesn't have the whip literally - and what you wish from us is... if nothing else it is going to have to wait a while, $(#bro/sis).
+
+I'll let you know.<end>
+
+=>q63
+::He frowns.:: Magnificent Tchort, didn't you hear the word of what I said? My investigators are busy. They've got work to do. Science. And if they're late with their projects, Eidein pardon them, then my ass is on the line. And Lydia's the one with the barbed whip. And - she doesn't have the whip literally - and what you wish from us is... if nothing else it is going to have to wait a while, $(#bro/sis).
+
+I'll let you know.<end>
+
+=>a64_original
+I wanted to ask you something else, seeing that we're done with this.<end>
+
+=>a64
+I wanted to ask you something else, seeing that we're done with this.<end>
+
+=>q65_original
+Just be quick about it, please.<end>
+
+=>q65
+Just be quick about it, please.<end>
+
+=>a66_original
+Why did I expect anything else? Fine. Goodbye.<end>
+
+=>a66
+Why did I expect anything else? Fine. Goodbye.<end>
+
+=>q67_original
+::He nods.::<end>
+
+=>q67
+::He nods.::<end>
+
+=>a68_original
+I understand. Tchort guide you, Rista. I have to be on my way.<end>
+
+=>a68
+I understand. Tchort guide you, Rista. I have to be on my way.<end>
+
+=>a69_original
+No.<end>
+
+=>a69
+No.<end>
+
+=>q70_original
+::He nods with a smile.:: Yes. Then I won't be able to help you. <end>
+
+=>q70
+::He nods with a smile.:: Yes. Then I won't be able to help you. <end>
+
+=>a71_original
+They look like worms, with weird heads shaped like small drills.<end>
+
+=>a71
+They look like worms, with weird heads shaped like small drills.<end>
+
+=>a72_original
+About Beast's skull...<end>
+
+=>a72
+About Beast's skull...<end>
+
+=>q73_original
+Yes?<end>
+
+=>q73
+Yes?<end>
+
+=>a74_original
+What was that about genetic disease resistance?<end>
+
+=>a74
+What was that about genetic disease resistance?<end>
+
+=>q75_original
+Well, it's something I got from the top; you know what I mean, someone comes into my office and drops some stuff on my desk whether I like it or not. I am the PI of the busiest department in Institute of Tchort so things like that are unavoidable, I guess. Magnificent Tchort...<end>
+
+=>q75
+Well, it's something I got from the top; you know what I mean, someone comes into my office and drops some stuff on my desk whether I like it or not. I am the PI of the busiest department in Institute of Tchort so things like that are unavoidable, I guess. Magnificent Tchort...<end>
+
+=>q76_original
+So, what I got was about a project on genetic disease resistance: I have to find some subjects who have shown great resilience to deadly disease. Yeah, that's what I was told! What that means is - I, ::He points to himself.:: *I,* the principal investigator have to worry about subjects when I have the pacification project on my hands, Tchortist recombination paperwork to finish, Georgis' protein design data to review... even study some devolved psimorphs from Deep Caverns that were recently brought in.<end>
+
+=>q76
+So, what I got was about a project on genetic disease resistance: I have to find some subjects who have shown great resilience to deadly disease. Yeah, that's what I was told! What that means is - I, ::He points to himself.:: *I,* the principal investigator have to worry about subjects when I have the pacification project on my hands, Tchortist recombination paperwork to finish, Georgis' protein design data to review... even study some devolved psimorphs from Deep Caverns that were recently brought in.<end>
+
+=>q77_original
+What I need of you is the following: Walk outside the Institute - there is a bunch of people there - and ask around if anyone exhibits what we require. If not, well, we did our best - let someone else deal with it. If you do find someone - even better; since they are already here, they would be easy to convince to come here and do some simple tests, nothing painful.<end>
+
+=>q77
+What I need of you is the following: Walk outside the Institute - there is a bunch of people there - and ask around if anyone exhibits what we require. If not, well, we did our best - let someone else deal with it. If you do find someone - even better; since they are already here, they would be easy to convince to come here and do some simple tests, nothing painful.<end>
+
+=>q78_original
+That is all regarding the matter. Indeed.<end>
+
+=>q78
+That is all regarding the matter. Indeed.<end>
+
+=>a79_original
+I'll see what I can do.<end>
+
+=>a79
+I'll see what I can do.<end>
+
+=>a80_original
+I am on it, brother! Tchort guide you.<end>
+
+=>a80
+I am on it, brother! Tchort guide you.<end>
+
+=>a81_original
+I had other questions.<end>
+
+=>a81
+I had other questions.<end>
+
+=>q82_original
+::He nods.::<end>
+
+=>q82
+::He nods.::<end>
+
+=>a83_original
+I talked to a man called Detritus who had survived a plague that hit Core City's Drop Zone several years ago. He said he is willing to become a subject.<end>
+
+=>a83
+I talked to a man called Detritus who had survived a plague that hit Core City's Drop Zone several years ago. He said he is willing to become a subject.<end>
+
+=>q84_original
+Detritus, eh? Tell me more of this man, $(#bro/sis).<end>
+
+=>q84
+Detritus, eh? Tell me more of this man, $(#bro/sis).<end>
+
+=>a85_original
+Well, he is a zoner whom I found right in front of the Institute; his whole family died from the plague yet he survived. He also told me he was rarely if ever ill in his life.<end>
+
+=>a85
+Well, he is a zoner whom I found right in front of the Institute; his whole family died from the plague yet he survived. He also told me he was rarely if ever ill in his life.<end>
+
+=>q86_original
+Never ill? And you said his whole family died? Fair enough, I think we are onto something here. ::He makes a brief pause.:: By the Tchort, I think he is who we are looking for! If what you say is true we might not even need other subjects at all.<end>
+
+=>q86
+Never ill? And you said his whole family died? Fair enough, I think we are onto something here. ::He makes a brief pause.:: By the Tchort, I think he is who we are looking for! If what you say is true we might not even need other subjects at all.<end>
+
+=>q87_original
+Couldn't be better! I don't think anyone will bug me for a while regarding that project. Apex! I just need to contact someone to bring him in and... job is done! ::He laughs.::<end>
+
+=>q87
+Couldn't be better! I don't think anyone will bug me for a while regarding that project. Apex! I just need to contact someone to bring him in and... job is done! ::He laughs.::<end>
+
+=>a88_original
+It's an honor to serve Institute of Tchort, Principal Investigator.<end>
+
+=>a88
+It's an honor to serve Institute of Tchort, Principal Investigator.<end>
+
+=>q89_original
+Indubitably! You have earned yourself some good coin for this - and you didn't even have to walk too far!<end>
+
+=>q89
+Indubitably! You have earned yourself some good coin for this - and you didn't even have to walk too far!<end>
+
+=>q90_original
+Here are two hundred charons. ::He gives you 200 stygian coins.:: And that is all regarding the matter. Thank you very much!<end>
+
+=>q90
+Here are two hundred charons. ::He gives you 200 stygian coins.:: And that is all regarding the matter. Thank you very much!<end>
+
+=>a91_original
+Everything for science.<end>
+
+=>a91
+Everything for science.<end>
+
+=>a92_original
+I'm really glad for you, but I'll be even gladder once I have my money.<end>
+
+=>a92
+I'm really glad for you, but I'll be even gladder once I have my money.<end>
+
+=>q93_original
+Fair enough, $(#bro/sis)! <end>
+
+=>q93
+Fair enough, $(#bro/sis)! <end>
+
+=>a94_original
+I'm interested in what you described as a "ferry trip."<end>
+
+=>a94
+I'm interested in what you described as a "ferry trip."<end>
+
+=>q95_original
+Alright, $(#bro/sis). Let me ask you a question: Have you ever heard of Forsaken Island?<end>
+
+=>q95
+Alright, $(#bro/sis). Let me ask you a question: Have you ever heard of Forsaken Island?<end>
+
+=>a96_original
+Yes, I am familiar with it.<end>
+
+=>a96
+Yes, I am familiar with it.<end>
+
+=>q97_original
+Apex, so you already know all about it and the Behemoth; which is good because I don't have to explain it.<end>
+
+=>q97
+Apex, so you already know all about it and the Behemoth; which is good because I don't have to explain it.<end>
+
+=>q98_original
+So what I wish you to do is basically this: Go to the island, find someone who is crazy enough to take you there; see if the creature exists and bring me a sample of it. There is a possiblity it is the only of its kind so try not to cull it, for we might return later and try and capture it. Simple, $(#bro/sis), really simple. The pay is good; six hundred and fifty charons is, in my opinion very good and you'll receive it once you come back from the island. What do you say?<end>
+
+=>q98
+So what I wish you to do is basically this: Go to the island, find someone who is crazy enough to take you there; see if the creature exists and bring me a sample of it. There is a possiblity it is the only of its kind so try not to cull it, for we might return later and try and capture it. Simple, $(#bro/sis), really simple. The pay is good; six hundred and fifty charons is, in my opinion very good and you'll receive it once you come back from the island. What do you say?<end>
+
+=>a99_original
+Actually, I have already been on that island, now I remember!<end>
+
+=>a99
+Actually, I have already been on that island, now I remember!<end>
+
+=>q100_original
+Really now? And what did you find there?<end>
+
+=>q100
+Really now? And what did you find there?<end>
+
+=>a101_original
+The island is completely deserted. I found no traces of Behemoth, only several wrecked boats and some cave hoppers. I guess Behemoth is just a made-up story.<end>
+
+=>a101
+The island is completely deserted. I found no traces of Behemoth, only several wrecked boats and some cave hoppers. I guess Behemoth is just a made-up story.<end>
+
+=>q102_original
+Mhm, so it was a waste of time basically. Well, that was slightly disappointing... It would have been apex to find a very rare creature there; it would be an amazing find.<end>
+
+=>q102
+Mhm, so it was a waste of time basically. Well, that was slightly disappointing... It would have been apex to find a very rare creature there; it would be an amazing find.<end>
+
+=>q103_original
+However, I'm not paying you from my own pocket so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation. That is all regarding the matter.<end>
+
+=>q103
+However, I'm not paying you from my own pocket so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation. That is all regarding the matter.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+There were two women living on the island which, as you can already guess, means that there is no Behemoth there or anything similar. Just some hoppers and some derelict ferries.<end>
+
+=>a105
+There were two women living on the island which, as you can already guess, means that there is no Behemoth there or anything similar. Just some hoppers and some derelict ferries.<end>
+
+=>q106_original
+Two women? Magnificent Tchort, what are they doin— actually I don't care. What I care about is that there isn't a very rare creature there, as I had hoped; it would be an apex find.<end>
+
+=>q106
+Two women? Magnificent Tchort, what are they doin— actually I don't care. What I care about is that there isn't a very rare creature there, as I had hoped; it would be an apex find.<end>
+
+=>a107_original
+I found two psionic women living on the island. They were driven out of their community when they were young which made them abandon society and set off to live on the Forsaken Island. They use their psionic abilities to create roars and effects to further scare away potential visitors.<end>
+
+=>a107
+I found two psionic women living on the island. They were driven out of their community when they were young which made them abandon society and set off to live on the Forsaken Island. They use their psionic abilities to create roars and effects to further scare away potential visitors.<end>
+
+=>q108_original
+So that's what's been going on! Indubitably this fire display made those who saw it imagine a dragon-like being. Interesting, it really is, but that right there is the evidence that Behemoth is basically just an effect - a deterrent, not an actual living creature.<end>
+
+=>q108
+So that's what's been going on! Indubitably this fire display made those who saw it imagine a dragon-like being. Interesting, it really is, but that right there is the evidence that Behemoth is basically just an effect - a deterrent, not an actual living creature.<end>
+
+=>q109_original
+::He sighs.:: Well, as disappointing as it is - it's the truth. Luckily, I'm not paying you from my own pocket, so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation and the like. That's all regarding this matter.<end>
+
+=>q109
+::He sighs.:: Well, as disappointing as it is - it's the truth. Luckily, I'm not paying you from my own pocket, so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation and the like. That's all regarding this matter.<end>
+
+=>a110_original
+I found two women living alone on the island and, while there is no living monster, found something almost as good - a skeleton of a giant lizard-like creature.<end>
+
+=>a110
+I found two women living alone on the island and, while there is no living monster, found something almost as good - a skeleton of a giant lizard-like creature.<end>
+
+=>q111_original
+Apex, so there is a truth to the Behemoth tale after all! I was beginning to worry that I was wasting Institute money but... this is good! Did you bring a bone sample or something I can take a look at, $(#bro/sis)?<end>
+
+=>q111
+Apex, so there is a truth to the Behemoth tale after all! I was beginning to worry that I was wasting Institute money but... this is good! Did you bring a bone sample or something I can take a look at, $(#bro/sis)?<end>
+
+=>a112_original
+Unfortunately, it was in a difficult to reach place; I could only see it from a distance.<end>
+
+=>a112
+Unfortunately, it was in a difficult to reach place; I could only see it from a distance.<end>
+
+=>q113_original
+Hmmm, I was hoping for a sample but, hmmm.... I guess I'll bring this to Lydia; perhaps I can convince her to send an expedition there to dig up that fossil. Yes, indubitably... As for the women, they are easy to deal with.<end>
+
+=>q113
+Hmmm, I was hoping for a sample but, hmmm.... I guess I'll bring this to Lydia; perhaps I can convince her to send an expedition there to dig up that fossil. Yes, indubitably... As for the women, they are easy to deal with.<end>
+
+=>a114_original
+I'm glad to be have been of use, brother.<end>
+
+=>a114
+I'm glad to be have been of use, brother.<end>
+
+=>q115_original
+I'm happy. ::He laughs.:: And that is rare...<end>
+
+=>q115
+I'm happy. ::He laughs.:: And that is rare...<end>
+
+=>q116_original
+::He hands you 650 stygian coins.:: This is yours, and as far as I'm concerned you're done with this. I'll relay your findings to Lydia, as I've said.<end>
+
+=>q116
+::He hands you 650 stygian coins.:: This is yours, and as far as I'm concerned you're done with this. I'll relay your findings to Lydia, as I've said.<end>
+
+=>a117_original
+Do as you please, I just want my charons.<end>
+
+=>a117
+Do as you please, I just want my charons.<end>
+
+=>q118_original
+Indeed you do! Why else would you go there but for the charons. No, I'm not being sarcastic - it's what you do, right? Anyway, here. ::He hands you 650 stygian coins.:: As I promised. And that is all regarding this matter as far as I'm concerned. <end>
+
+=>q118
+Indeed you do! Why else would you go there but for the charons. No, I'm not being sarcastic - it's what you do, right? Anyway, here. ::He hands you 650 stygian coins.:: As I promised. And that is all regarding this matter as far as I'm concerned. <end>
+
+=>a119_original
+I already visited that island.<end>
+
+=>a119
+I already visited that island.<end>
+
+=>a120_original
+A dangerous journey to hunt a giant monster!? Count me in!<end>
+
+=>a120
+A dangerous journey to hunt a giant monster!? Count me in!<end>
+
+=>q121_original
+ Very good! That's all... yup, that is all.<end>
+
+=>q121
+ Very good! That's all... yup, that is all.<end>
+
+=>q122_original
+Good luck and Tchort guide you, $(#bro/sis).<end>
+
+=>q122
+Good luck and Tchort guide you, $(#bro/sis).<end>
+
+=>a123_original
+Tchort guide you, brother.<end>
+
+=>a123
+Tchort guide you, brother.<end>
+
+=>a124_original
+Goodbye, Rista.<end>
+
+=>a124
+Goodbye, Rista.<end>
+
+=>a125_original
+A dangerous journey to hunt a giant monster!? I'm not so sure about it...<end>
+
+=>a125
+A dangerous journey to hunt a giant monster!? I'm not so sure about it...<end>
+
+=>q126_original
+You think about that... You know what I need should you decide to go to the island.<end>
+
+=>q126
+You think about that... You know what I need should you decide to go to the island.<end>
+
+=>a127_original
+I have never heard of it.<end>
+
+=>a127
+I have never heard of it.<end>
+
+=>q128_original
+Okay, there is no shame in that. Allow me to explain what it is...<end>
+
+=>q128
+Okay, there is no shame in that. Allow me to explain what it is...<end>
+
+=>q129_original
+The Forsaken Island is a remote island situated somewhere between Core City, approximately south-east of it, and the more southern parts of Lower Underrail. It is, people say, surrounded by violent currents which makes it an unpopular place for tourism. ::He laughs.:: However, there is something else there, $(#bro/sis) - The Forsaken Behemoth!<end>
+
+=>q129
+The Forsaken Island is a remote island situated somewhere between Core City, approximately south-east of it, and the more southern parts of Lower Underrail. It is, people say, surrounded by violent currents which makes it an unpopular place for tourism. ::He laughs.:: However, there is something else there, $(#bro/sis) - The Forsaken Behemoth!<end>
+
+=>q130_original
+Now, I've heard some exaggerated stories about it's appearance and behavior; it breathes fire, it shoots lasers from its eyes; it has seven heads; various nonsense. I mean, the creature - if real - might have some psionic abilities - I don't deny that - it's just that some of the things I've heard take it too far. However, what is consistent in all those stories can be summarized like this: It is a big lizard. A very, very big lizard. And if it really exists, I want a piece of it... erm - not *fight* it - but rather a sample of its skin or whatever else you can find.<end>
+
+=>q130
+Now, I've heard some exaggerated stories about it's appearance and behavior; it breathes fire, it shoots lasers from its eyes; it has seven heads; various nonsense. I mean, the creature - if real - might have some psionic abilities - I don't deny that - it's just that some of the things I've heard take it too far. However, what is consistent in all those stories can be summarized like this: It is a big lizard. A very, very big lizard. And if it really exists, I want a piece of it... erm - not *fight* it - but rather a sample of its skin or whatever else you can find.<end>
+
+=>a131_original
+I might have heard about it... somewhere... at some point.<end>
+
+=>a131
+I might have heard about it... somewhere... at some point.<end>
+
+=>q132_original
+"Might have heard about it"? You know, I'll assume you haven't heard anything and tell you what you need to know.<end>
+
+=>q132
+"Might have heard about it"? You know, I'll assume you haven't heard anything and tell you what you need to know.<end>
+
+=>a133_original
+I have been to Forsaken Island.<end>
+
+=>a133
+I have been to Forsaken Island.<end>
+
+=>a134_original
+How do I get to Forsaken Island?<end>
+
+=>a134
+How do I get to Forsaken Island?<end>
+
+=>q135_original
+Take a ferry... or a swim. But I think ferry is a healthier, if a bit lazier option.<end>
+
+=>q135
+Take a ferry... or a swim. But I think ferry is a healthier, if a bit lazier option.<end>
+
+=>a136_original
+Um... thanks. I would have never guessed that.<end>
+
+=>a136
+Um... thanks. I would have never guessed that.<end>
+
+=>q137_original
+Indeed. Anything else?<end>
+
+=>q137
+Indeed. Anything else?<end>
+
+=>a138_original
+What can you tell me about this neural pacification?<end>
+
+=>a138
+What can you tell me about this neural pacification?<end>
+
+=>q139_original
+I am going to be very concise, $(#bro/sis): Neural Pacification project is our most recent achievement in the field of neural manipulation, and only this year have we performed our first successful pacification procedure on an actual living subject. It was one of the coil spiders you have probably seen by now.<end>
+
+=>q139
+I am going to be very concise, $(#bro/sis): Neural Pacification project is our most recent achievement in the field of neural manipulation, and only this year have we performed our first successful pacification procedure on an actual living subject. It was one of the coil spiders you have probably seen by now.<end>
+
+=>q140_original
+Now, the basic idea behind the project is to find a way to influence the behavior of anything with a brain. Indeed. There are two ways to perform the procedure: The safer way is to get it done on the operating table, but if that's not possible, as in the case of Psycho, a portable neural pacifier is necessary. No matter the option, the end result is one docile - or pacified - creature that you can - as you can see for yourself - safely keep close to humans without the risk of injury or death. I really don't wish to go into details of the procedure, partially because it is confidential, but mostly because I don't feel like talking that much.<end>
+
+=>q140
+Now, the basic idea behind the project is to find a way to influence the behavior of anything with a brain. Indeed. There are two ways to perform the procedure: The safer way is to get it done on the operating table, but if that's not possible, as in the case of Psycho, a portable neural pacifier is necessary. No matter the option, the end result is one docile - or pacified - creature that you can - as you can see for yourself - safely keep close to humans without the risk of injury or death. I really don't wish to go into details of the procedure, partially because it is confidential, but mostly because I don't feel like talking that much.<end>
+
+=>q141_original
+Yes... that is all regarding that matter, $(#bro/sis).<end>
+
+=>q141
+Yes... that is all regarding that matter, $(#bro/sis).<end>
+
+=>a142_original
+What can you tell me about Psycho?<end>
+
+=>a142
+What can you tell me about Psycho?<end>
+
+=>q143_original
+That is confidential, $(#bro/sis), and you've already seen too much. Different question.<end>
+
+=>q143
+That is confidential, $(#bro/sis), and you've already seen too much. Different question.<end>
+
+=>a144_original
+Interesting. Can we move on to a different subject?<end>
+
+=>a144
+Interesting. Can we move on to a different subject?<end>
+
+=>q145_original
+Okay.<end>
+
+=>q145
+Okay.<end>
+
+=>a146_original
+Why did you join the Institute of Tchort?<end>
+
+=>a146
+Why did you join the Institute of Tchort?<end>
+
+=>q147_original
+$(#Bro/Sis), don't take this the wrong way, but I am currently not in the mood to discuss my personal history and motives.<end>
+
+=>q147
+$(#Bro/Sis), don't take this the wrong way, but I am currently not in the mood to discuss my personal history and motives.<end>
+
+=>q148_original
+Perhaps once I get to know you better and actually get the time to sit down and talk... then maybe. *Maybe.*<end>
+
+=>q148
+Perhaps once I get to know you better and actually get the time to sit down and talk... then maybe. *Maybe.*<end>
+
+=>a149_original
+What can you tell me about these tremors?<end>
+
+=>a149
+What can you tell me about these tremors?<end>
+
+=>q150_original
+It is making my job more difficult than it should be - and it's already difficult enough. Indeed! With that said, I get this somewhat odd feeling about it all. There is... there is something foreboding about it. I don't know, I can't explain it.<end>
+
+=>q150
+It is making my job more difficult than it should be - and it's already difficult enough. Indeed! With that said, I get this somewhat odd feeling about it all. There is... there is something foreboding about it. I don't know, I can't explain it.<end>
+
+=>q151_original
+::He sighs.:: I just hope it ends soon.<end>
+
+=>q151
+::He sighs.:: I just hope it ends soon.<end>
+
+=>a152_original
+Investigator Vuk told me to see you about permission to purchase something from him.<end>
+
+=>a152
+Investigator Vuk told me to see you about permission to purchase something from him.<end>
+
+=>q153_original
+What do you need from him?<end>
+
+=>q153
+What do you need from him?<end>
+
+=>a154_original
+Organs, tissue and stuff like that.<end>
+
+=>a154
+Organs, tissue and stuff like that.<end>
+
+=>q155_original
+I don't see why not. Rip it from his body any time you like. ::He laughs.:: Anyway, we have those in large quantities. You have my permission.<end>
+
+=>q155
+I don't see why not. Rip it from his body any time you like. ::He laughs.:: Anyway, we have those in large quantities. You have my permission.<end>
+
+=>a156_original
+Thank you, I'll go see him now.<end>
+
+=>a156
+Thank you, I'll go see him now.<end>
+
+=>a157_original
+Thank you, but I had other questions before I go.<end>
+
+=>a157
+Thank you, but I had other questions before I go.<end>
+
+=>q158_original
+Indubitably...<end>
+
+=>q158
+Indubitably...<end>
+
+=>a159_original
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>a159
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>q160_original
+::After a moment of processing he bursts out in laughter, throwing his head back in the process. After ten-fifteen seconds, he looks back at you again.::
+
+Great! Apex! Did you come up with it on your own or...? I never heard that one before.<end>
+
+=>q160
+::After a moment of processing he bursts out in laughter, throwing his head back in the process. After ten-fifteen seconds, he looks back at you again.::
+
+Great! Apex! Did you come up with it on your own or...? I never heard that one before.<end>
+
+=>a161_original
+Yeah, it was me.<end>
+
+=>a161
+Yeah, it was me.<end>
+
+=>q162_original
+Apex! You have a well-developed sense of humor. Indeed!<end>
+
+=>q162
+Apex! You have a well-developed sense of humor. Indeed!<end>
+
+=>a163_original
+Actually, I heard it from one of the genetics investigators.<end>
+
+=>a163
+Actually, I heard it from one of the genetics investigators.<end>
+
+=>q164_original
+Eh? Strange that no one told the joke to me... hmmm... Never mind. It's... never mind. Um, where were we?<end>
+
+=>q164
+Eh? Strange that no one told the joke to me... hmmm... Never mind. It's... never mind. Um, where were we?<end>
+
+=>a165_original
+I actually never had the chance to introduce myself. $(context.player.Name) is the name.<end>
+
+=>a165
+I actually never had the chance to introduce myself. $(context.player.Name) is the name.<end>
+
+=>a166_original
+What do I need to do again?<end>
+
+=>a166
+What do I need to do again?<end>
+
+=>q167_original
+Pay attention this time! *Weaken* the creature first and incapacitate it, then place the neural pacifier I gave you on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Then - once lined up - press the only button on the device and stand back. That is all.<end>
+
+=>q167
+Pay attention this time! *Weaken* the creature first and incapacitate it, then place the neural pacifier I gave you on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Then - once lined up - press the only button on the device and stand back. That is all.<end>
+
+=>q168_original
+Now go!<end>
+
+=>q168
+Now go!<end>
+
+=>a169_original
+I'm on it.<end>
+
+=>a169
+I'm on it.<end>
+
+=>a170_original
+Not yet, I'm on it.<end>
+
+=>a170
+Not yet, I'm on it.<end>
+
+=>q171_original
+Indubitably...<end>
+
+=>q171
+Indubitably...<end>
+
+=>q172_original
+Oh. it's you. I was expecting the rassophores to show up and help us catch Psycho. What do you need?<end>
+
+=>q172
+Oh. it's you. I was expecting the rassophores to show up and help us catch Psycho. What do you need?<end>
+
+=>a173_original
+I've decided that I do want to help you.<end>
+
+=>a173
+I've decided that I do want to help you.<end>
+
+=>q174_original
+Finally you come to your senses. <end>
+
+=>q174
+Finally you come to your senses. <end>
+
+=>q175_original
+Very good! Here is the device. ::He gives you a portable neural pacifier.:: As soon as you get the chance to use the device, place it on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Once lined up, press the only button on the device and stand back. Everything else is automatic, just step away and you will be fine. 
+
+<end>
+
+=>q175
+Very good! Here is the device. ::He gives you a portable neural pacifier.:: As soon as you get the chance to use the device, place it on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Once lined up, press the only button on the device and stand back. Everything else is automatic, just step away and you will be fine. 
+
+<end>
+
+=>q176_original
+Follow the corridor past the holding pens and go down the stairs. Ironically, the lower level is full of dark passages which will, no doubt, make the job a tad more difficult. Tchort guide you! Oh, and do not try to open any cells there unless you wish to be culled on the spot.<end>
+
+=>q176
+Follow the corridor past the holding pens and go down the stairs. Ironically, the lower level is full of dark passages which will, no doubt, make the job a tad more difficult. Tchort guide you! Oh, and do not try to open any cells there unless you wish to be culled on the spot.<end>
+
+=>a177_original
+Nothing, just checking on you. Goodbye.<end>
+
+=>a177
+Nothing, just checking on you. Goodbye.<end>
+
+=>q178_original
+Magnificent Tchort!<end>
+
+=>q178
+Magnificent Tchort!<end>
+
+=>q179_original
+::The man finally comes to a still after storming into the office. You can tell he wants to expel something important as soon as possible, but severe shortness of breath prevents him from doing so. After a few moments he regains himself and is finally able to explain what urged him to come in such haste.::
+
+Uh... whoooh... I'm so sorry to bother you, Investigator... whooh, I know you had said you don't wish to be disturbed, but we have a major, whoooh, major problem!<end>
+
+=>q179
+::The man finally comes to a still after storming into the office. You can tell he wants to expel something important as soon as possible, but severe shortness of breath prevents him from doing so. After a few moments he regains himself and is finally able to explain what urged him to come in such haste.::
+
+Uh... whoooh... I'm so sorry to bother you, Investigator... whooh, I know you had said you don't wish to be disturbed, but we have a major, whoooh, major problem!<end>
+
+=>q180_original
+Oh really... Oh really? Well thank this $(#mister/miss) here for stepping into my office and causing all this chaos. ::He shrugs.:: It's $(#his/her) fault!<end>
+
+=>q180
+Oh really... Oh really? Well thank this $(#mister/miss) here for stepping into my office and causing all this chaos. ::He shrugs.:: It's $(#his/her) fault!<end>
+
+=>q181_original
+::He turns toward you.:: See? This is what I have been talking about: Every time someone walks into my office - problem! Why can't people let me work in peace? Why, Tchort, why!?
+
+And then people complain when I lock the door...<end>
+
+=>q181
+::He turns toward you.:: See? This is what I have been talking about: Every time someone walks into my office - problem! Why can't people let me work in peace? Why, Tchort, why!?
+
+And then people complain when I lock the door...<end>
+
+=>a182_original
+Oh, now it's my fault!?<end>
+
+=>a182
+Oh, now it's my fault!?<end>
+
+=>q183_original
+Please listen to me!<end>
+
+=>q183
+Please listen to me!<end>
+
+=>q184_original
+One of the NPS specimens has escaped its holding cell and is running rampant! I don't know how it happened, but, but, but I was by the stairs doing my work when I suddenly heard strange and loud sounds coming from down there. I took a peek and...and I saw it!<end>
+
+=>q184
+One of the NPS specimens has escaped its holding cell and is running rampant! I don't know how it happened, but, but, but I was by the stairs doing my work when I suddenly heard strange and loud sounds coming from down there. I took a peek and...and I saw it!<end>
+
+=>q185_original
+Which one? Oh, don't tell me...<end>
+
+=>q185
+Which one? Oh, don't tell me...<end>
+
+=>q186_original
+Psycho!<end>
+
+=>q186
+Psycho!<end>
+
+=>q187_original
+Indubitably... Well, since this is all your fault... whoever you are, *you* are the one who is going to catch it!<end>
+
+=>q187
+Indubitably... Well, since this is all your fault... whoever you are, *you* are the one who is going to catch it!<end>
+
+=>q188_original
+<end>
+
+=>q188
+<end>
+
+=>a189_original
+I will - if, and only if you promise to treat me better from now on. I'm not the cause of your problems!<end>
+
+=>a189
+I will - if, and only if you promise to treat me better from now on. I'm not the cause of your problems!<end>
+
+=>q190_original
+Fair enough! Now listen carefully...<end>
+
+=>q190
+Fair enough! Now listen carefully...<end>
+
+=>q191_original
+Psycho is one of our NPS specimens that, as you've just heard, escaped its enclosure and is making a home in the type 2 specimen section. What it is - is a genetically engineered azuridae with a deadly arsenal of psi-abilities at its disposal. I reckon it's a bit too frightened to climb the stairs, or else it'd already be causing havoc in the lab. But that could change at any moment!<end>
+
+=>q191
+Psycho is one of our NPS specimens that, as you've just heard, escaped its enclosure and is making a home in the type 2 specimen section. What it is - is a genetically engineered azuridae with a deadly arsenal of psi-abilities at its disposal. I reckon it's a bit too frightened to climb the stairs, or else it'd already be causing havoc in the lab. But that could change at any moment!<end>
+
+=>a192_original
+And how am I supposed to capture it?<end>
+
+=>a192
+And how am I supposed to capture it?<end>
+
+=>q193_original
+Well, we have a portable neural pacifier that should calm the creature down. Should. In case you haven't heard it... *should* calm it down. Just so you know. Indubitably, it is not an easy task - since you have to somehow incapacitate the creature, and then put the device on its head and THEN activate it. Psycho is very tough, so your best bet is to tire out or weaken the creature first *before* trying to incapacitate it. Just be careful not to hurt it too much.<end>
+
+=>q193
+Well, we have a portable neural pacifier that should calm the creature down. Should. In case you haven't heard it... *should* calm it down. Just so you know. Indubitably, it is not an easy task - since you have to somehow incapacitate the creature, and then put the device on its head and THEN activate it. Psycho is very tough, so your best bet is to tire out or weaken the creature first *before* trying to incapacitate it. Just be careful not to hurt it too much.<end>
+
+=>a194_original
+That seems very complicated.<end>
+
+=>a194
+That seems very complicated.<end>
+
+=>q195_original
+I know. It is. But I'm sure you'll be able to do it. The better question is: Will you?<end>
+
+=>q195
+I know. It is. But I'm sure you'll be able to do it. The better question is: Will you?<end>
+
+=>a196_original
+I'll do it. Let me have the neural pacifier.<end>
+
+=>a196
+I'll do it. Let me have the neural pacifier.<end>
+
+=>a197_original
+I'll have to think about it.<end>
+
+=>a197
+I'll have to think about it.<end>
+
+=>q198_original
+What!? Are you joking? This is an emergency!<end>
+
+=>q198
+What!? Are you joking? This is an emergency!<end>
+
+=>a199_original
+Sorry, you are right. I'll do it.<end>
+
+=>a199
+Sorry, you are right. I'll do it.<end>
+
+=>a200_original
+Nope. Bye.<end>
+
+=>a200
+Nope. Bye.<end>
+
+=>a201_original
+Nah. Maybe I'll change my mind later but... nah. Tchort guide you.<end>
+
+=>a201
+Nah. Maybe I'll change my mind later but... nah. Tchort guide you.<end>
+
+=>a202_original
+How about just killing it?<end>
+
+=>a202
+How about just killing it?<end>
+
+=>q203_original
+Cull it? Are you... are you out of your mind!? That is the oldest and rarest creature we've got. It is unique! Culling it would ruin so much work... I don't even wish to think about it - I refuse to think about it!<end>
+
+=>q203
+Cull it? Are you... are you out of your mind!? That is the oldest and rarest creature we've got. It is unique! Culling it would ruin so much work... I don't even wish to think about it - I refuse to think about it!<end>
+
+=>q204_original
+I know this is all complicated and everything but you will be able to do it. The better questions is: Will you?<end>
+
+=>q204
+I know this is all complicated and everything but you will be able to do it. The better questions is: Will you?<end>
+
+=>a205_original
+::Sigh.:: Okay, tell me what I need to do and what this Psycho is...<end>
+
+=>a205
+::Sigh.:: Okay, tell me what I need to do and what this Psycho is...<end>
+
+=>a206_original
+Maybe... Tell me what I'm dealing with.<end>
+
+=>a206
+Maybe... Tell me what I'm dealing with.<end>
+
+=>a207_original
+Tell me what Psycho is and then I'll decide.<end>
+
+=>a207
+Tell me what Psycho is and then I'll decide.<end>
+
+=>a208_original
+What? I can't possibly be blamed for what happens in your lab!<end>
+
+=>a208
+What? I can't possibly be blamed for what happens in your lab!<end>
+
+=>a209_original
+Let's hear what this is all about first and discuss who's responsible for it later.<end>
+
+=>a209
+Let's hear what this is all about first and discuss who's responsible for it later.<end>
+
+=>q210_original
+::You come up to a man who seems to be studying some papers. As he raises his head to look at you, you immediately feel he doesn't approve of you being in his office. Is it the long and overemphasized sigh that gave you that impression? Maybe... Is it the tired and unwelcoming stare that you feel could push you outside with enough force to also knock you off your feet? Perhaps... Or is it his clenching fist that could, if someone is not careful, end up causing serious pain? Who knows... In any case, while you ponder all this the man decides to speak first and does so in a deep and gravely voice.::
+
+::He sighs.:: Tchort is evolution. I'm Principal Investigator Rista and I *sincerely* hope you weren't sent by Lydia.<end>
+
+=>q210
+::You come up to a man who seems to be studying some papers. As he raises his head to look at you, you immediately feel he doesn't approve of you being in his office. Is it the long and overemphasized sigh that gave you that impression? Maybe... Is it the tired and unwelcoming stare that you feel could push you outside with enough force to also knock you off your feet? Perhaps... Or is it his clenching fist that could, if someone is not careful, end up causing serious pain? Who knows... In any case, while you ponder all this the man decides to speak first and does so in a deep and gravely voice.::
+
+::He sighs.:: Tchort is evolution. I'm Principal Investigator Rista and I *sincerely* hope you weren't sent by Lydia.<end>
+
+=>a211_original
+I wasn't, don't worry.<end>
+
+=>a211
+I wasn't, don't worry.<end>
+
+=>q212_original
+But I have to worry! Every time someone enters my office it equals either more work or more problems! It is how the universe works. Proven - over and over again!<end>
+
+=>q212
+But I have to worry! Every time someone enters my office it equals either more work or more problems! It is how the universe works. Proven - over and over again!<end>
+
+=>q213_original
+Magnificent Tchort! It's either a sudden symposium I have to prepare for in a hurry, or some new project with an unrealistic deadline. Or some other problem... or a DISASTER in the lab!<end>
+
+=>q213
+Magnificent Tchort! It's either a sudden symposium I have to prepare for in a hurry, or some new project with an unrealistic deadline. Or some other problem... or a DISASTER in the lab!<end>
+
+=>a214_original
+I am not here to give you work, so you can relax. In fact, I was hoping for the opposite - I'm the one looking for work.<end>
+
+=>a214
+I am not here to give you work, so you can relax. In fact, I was hoping for the opposite - I'm the one looking for work.<end>
+
+=>q215_original
+::You hear rushed footsteps behind you. Slowly, they become closer and closer...::<end>
+
+=>q215
+::You hear rushed footsteps behind you. Slowly, they become closer and closer...::<end>
+
+=>a216_original
+::Wait and see what happens.::<end>
+
+=>a216
+::Wait and see what happens.::<end>
+
+=>a217_original
+Oh come on, quit whining! It can't be like that.<end>
+
+=>a217
+Oh come on, quit whining! It can't be like that.<end>
+
+=>a218_original
+I feel for you man... I know *exactly* how it's like! "Do this! Do that!" - I hear it all the time! When will it end!?<end>
+
+=>a218
+I feel for you man... I know *exactly* how it's like! "Do this! Do that!" - I hear it all the time! When will it end!?<end>
+
+=>a219_original
+No, I just go around and meet various people of the Institute.<end>
+
+=>a219
+No, I just go around and meet various people of the Institute.<end>
+
+=>q220_original
+That is good news INDEED! But still, every time someone enters my office it equals either more work or more problems.<end>
+
+=>q220
+That is good news INDEED! But still, every time someone enters my office it equals either more work or more problems.<end>
+
+=>a221_original
+Lydia? Who is that?<end>
+
+=>a221
+Lydia? Who is that?<end>
+
+=>q222_original
+She's our Chief Investigator but... wait... you're that new $(#bro/sis)? The one who got the figurine, yes. Still... every time someone enters my office it equals either more work or more problems! It is how the universe works. Proven - over and over again!<end>
+
+=>q222
+She's our Chief Investigator but... wait... you're that new $(#bro/sis)? The one who got the figurine, yes. Still... every time someone enters my office it equals either more work or more problems! It is how the universe works. Proven - over and over again!<end>
+
+=>q223_original
+Did something in my head become loose or is there an earthquake every minute or so?<end>
+
+=>q223
+Did something in my head become loose or is there an earthquake every minute or so?<end>
+
+=>q224_original
+Yes?<end>
+
+=>q224
+Yes?<end>
+

@@ -1,0 +1,286 @@
+=>q1_original
+::The sinister-looking man seems none too pleased to see you.::
+
+Mm. Another mutant.<end>
+
+=>q1
+::The sinister-looking man seems none too pleased to see you.::
+
+Mm. Another mutant.<end>
+
+=>q2_original
+You things are just... inedible.
+
+::He touches the screen behind him and walks away.::<end>
+
+=>q2
+You things are just... inedible.
+
+::He touches the screen behind him and walks away.::<end>
+
+=>a3_original
+::You hear a gate opening...::<end>
+
+=>a3
+::You hear a gate opening...::<end>
+
+=>q4_original
+::Even in the faint light you are able to clearly make out the grimace of the person standing on the other side of the glass window. Despite being separated by a physical barrier, you feel devoured by his baleful eyes, strangled by his clenching hands and can almost hear the cracking of your bones between his grinding teeth. His silent, malevolent scrutiny makes you feel more and more uneasy about this predicament.
+
+This foul, repulsive creature has you trapped, as you see no obvious way to escape. Luckily, before your mind can conjure up any horrifying ways for the dreadful event you find yourself in to unfold, the man speaks...::<end>
+
+=>q4
+::Even in the faint light you are able to clearly make out the grimace of the person standing on the other side of the glass window. Despite being separated by a physical barrier, you feel devoured by his baleful eyes, strangled by his clenching hands and can almost hear the cracking of your bones between his grinding teeth. His silent, malevolent scrutiny makes you feel more and more uneasy about this predicament.
+
+This foul, repulsive creature has you trapped, as you see no obvious way to escape. Luckily, before your mind can conjure up any horrifying ways for the dreadful event you find yourself in to unfold, the man speaks...::<end>
+
+=>q5_original
+Yes, oh, yes! I caught a woman, yes! Sweetheart! Sugar! Darling! You have no idea how much I've waited for a girl to fall in my trap again, mhm! You... you're a pretty one, I must add. ::He lets out a sinister laugh.::<end>
+
+=>q5
+Yes, oh, yes! I caught a woman, yes! Sweetheart! Sugar! Darling! You have no idea how much I've waited for a girl to fall in my trap again, mhm! You... you're a pretty one, I must add. ::He lets out a sinister laugh.::<end>
+
+=>a6_original
+You caught no one, so don't flatter yourself. Release me - or I'll make sure you suffer.<end>
+
+=>a6
+You caught no one, so don't flatter yourself. Release me - or I'll make sure you suffer.<end>
+
+=>q7_original
+Mhm, this is going to be good. I like them when they fight back. ::He laughs.:: But you won't be able to resist for much longer, you know? No, no! I'll grab you, I'll sink my teeth into that pretty belly of yours, I'll chew through your soft skin and gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you! :: He laughs.::<end>
+
+=>q7
+Mhm, this is going to be good. I like them when they fight back. ::He laughs.:: But you won't be able to resist for much longer, you know? No, no! I'll grab you, I'll sink my teeth into that pretty belly of yours, I'll chew through your soft skin and gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you! :: He laughs.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Come and get me if you can, you rat!<end>
+
+=>a9
+Come and get me if you can, you rat!<end>
+
+=>q10_original
+I will, but first I must give myself a slight edge, sweetie. Mhm! 
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>q10
+I will, but first I must give myself a slight edge, sweetie. Mhm! 
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>a11_original
+::End Dialog.::<end>
+
+=>a11
+::End Dialog.::<end>
+
+=>a12_original
+If you don't release me this instant, you'll regret it!<end>
+
+=>a12
+If you don't release me this instant, you'll regret it!<end>
+
+=>q13_original
+I don't think so, darling. 
+
+Prepare for a tiny jolt. ::He laughs.::<end>
+
+=>q13
+I don't think so, darling. 
+
+Prepare for a tiny jolt. ::He laughs.::<end>
+
+=>a14_original
+The only thing you're about to eat is dirt from my boots!<end>
+
+=>a14
+The only thing you're about to eat is dirt from my boots!<end>
+
+=>q15_original
+Something will satisfy my hunger, I'm sure. It won't be dirt, no, no.
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>q15
+Something will satisfy my hunger, I'm sure. It won't be dirt, no, no.
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>a16_original
+Let me go. I mean you no harm.<end>
+
+=>a16
+Let me go. I mean you no harm.<end>
+
+=>q17_original
+Let you go, honey? But the party's about to get STARTED!
+
+You know what? Let's make that body dance. ::He laughs.::<end>
+
+=>q17
+Let you go, honey? But the party's about to get STARTED!
+
+You know what? Let's make that body dance. ::He laughs.::<end>
+
+=>a18_original
+What do you *think* you're going to do with me?<end>
+
+=>a18
+What do you *think* you're going to do with me?<end>
+
+=>q19_original
+I'm not quite sur- Oh wait! Now I remember! First I'm going to grab you, darling, then I'll sink my teeth into that pretty belly of yours, I'll chew through your soft skin and then I'll gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>q19
+I'm not quite sur- Oh wait! Now I remember! First I'm going to grab you, darling, then I'll sink my teeth into that pretty belly of yours, I'll chew through your soft skin and then I'll gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>a20_original
+You're derailed! Let me out of here!<end>
+
+=>a20
+You're derailed! Let me out of here!<end>
+
+=>q21_original
+Sorry sweetie, not gonna happen. I have plans for you, mhm. First I'm going to grab you, then I'll sink my teeth into that pretty belly of yours, then I'll chew through your soft skin and then I'll gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>q21
+Sorry sweetie, not gonna happen. I have plans for you, mhm. First I'm going to grab you, then I'll sink my teeth into that pretty belly of yours, then I'll chew through your soft skin and then I'll gorge on your warm, succulent organs! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>a22_original
+Can we talk about this? I didn't mean to disturb you in any way.<end>
+
+=>a22
+Can we talk about this? I didn't mean to disturb you in any way.<end>
+
+=>q23_original
+Sound fine to me, I'll talk. Mhm. I'll talk about what I'm gonna do to you! First I'm going to grab you, then I'll sink my teeth into that pretty belly of yours, then I'll chew through your soft skin and then I'll gorge on your warm, bloody succulent! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>q23
+Sound fine to me, I'll talk. Mhm. I'll talk about what I'm gonna do to you! First I'm going to grab you, then I'll sink my teeth into that pretty belly of yours, then I'll chew through your soft skin and then I'll gorge on your warm, bloody succulent! I'll eat you alive! Mhm! And you'll be screaming the whole time - just like everyone before you!<end>
+
+=>q24_original
+Isn't it my lucky week - you people just keep coming, yes. Guess it's going to be quite a feast, mhm. You'll do just fine. ::He lets out a sinister laugh.::<end>
+
+=>q24
+Isn't it my lucky week - you people just keep coming, yes. Guess it's going to be quite a feast, mhm. You'll do just fine. ::He lets out a sinister laugh.::<end>
+
+=>a25_original
+What is all this nonsense!? Who are you?<end>
+
+=>a25
+What is all this nonsense!? Who are you?<end>
+
+=>q26_original
+"What is all this nonsense, look at me! I'm tough, no one can hurt me, blah blah!" You all pretend to be tough, but in the end, you all scream when I rip your chest open and take a bite of your warm heart! Mhm!<end>
+
+=>q26
+"What is all this nonsense, look at me! I'm tough, no one can hurt me, blah blah!" You all pretend to be tough, but in the end, you all scream when I rip your chest open and take a bite of your warm heart! Mhm!<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+Come and get me if you can, you rat!<end>
+
+=>a28
+Come and get me if you can, you rat!<end>
+
+=>q29_original
+You think I won't? But first, to give myself a slight edge!
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>q29
+You think I won't? But first, to give myself a slight edge!
+
+You'll feel a tiny jolt. ::He laughs.::<end>
+
+=>a30_original
+If you don't release me this instant, you'll regret it!<end>
+
+=>a30
+If you don't release me this instant, you'll regret it!<end>
+
+=>q31_original
+I will, mhm. I will release - some electricity through your body! ::He laughs.::<end>
+
+=>q31
+I will, mhm. I will release - some electricity through your body! ::He laughs.::<end>
+
+=>a32_original
+You'll eat the dirt off my boot!<end>
+
+=>a32
+You'll eat the dirt off my boot!<end>
+
+=>q33_original
+I'll eat your flesh, you be sure of that. Mhm!
+
+But first, a tiny jolt! ::He laughs.::<end>
+
+=>q33
+I'll eat your flesh, you be sure of that. Mhm!
+
+But first, a tiny jolt! ::He laughs.::<end>
+
+=>a34_original
+Just let me go. I mean no harm.<end>
+
+=>a34
+Just let me go. I mean no harm.<end>
+
+=>q35_original
+Some man you are!
+
+Get ready for a tiny jolt. ::He laughs.::<end>
+
+=>q35
+Some man you are!
+
+Get ready for a tiny jolt. ::He laughs.::<end>
+
+=>a36_original
+::Yawn.:: Boring! Just let me go, unless you want to die!<end>
+
+=>a36
+::Yawn.:: Boring! Just let me go, unless you want to die!<end>
+
+=>q37_original
+You all pretend you're tough, but in the end, you all scream when I cut your stomach open and eat your guts! Mhm!<end>
+
+=>q37
+You all pretend you're tough, but in the end, you all scream when I cut your stomach open and eat your guts! Mhm!<end>
+
+=>a38_original
+Feast? What are we having?<end>
+
+=>a38
+Feast? What are we having?<end>
+
+=>q39_original
+::He laughs.:: You're not the sharpest tool in the box, no, no. It doesn't matter. I need you for food anyway, I don't care about the rest. I think I'll start with your eyeballs, mhm. ::He laughs.::<end>
+
+=>q39
+::He laughs.:: You're not the sharpest tool in the box, no, no. It doesn't matter. I need you for food anyway, I don't care about the rest. I think I'll start with your eyeballs, mhm. ::He laughs.::<end>
+
+=>a40_original
+Can we talk about all this? I didn't mean to disturb you in any way.<end>
+
+=>a40
+Can we talk about all this? I didn't mean to disturb you in any way.<end>
+
+=>q41_original
+Mhm, we can talk, but only about the way I'm going to eat you. Listen to this: If you know any good recipes for preparing human meat, I won't eat you alive! We got a deal? I think we have a deal. I'd accept that, mhm!<end>
+
+=>q41
+Mhm, we can talk, but only about the way I'm going to eat you. Listen to this: If you know any good recipes for preparing human meat, I won't eat you alive! We got a deal? I think we have a deal. I'd accept that, mhm!<end>
+

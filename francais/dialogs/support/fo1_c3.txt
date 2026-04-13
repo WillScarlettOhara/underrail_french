@@ -1,0 +1,84 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I haven't seen you before. ::Coughs.::<end>
+
+=>q2
+I haven't seen you before. ::Coughs.::<end>
+
+=>q3_original
+You know, we have a very rich mine here.<end>
+
+=>q3
+You know, we have a very rich mine here.<end>
+
+=>q4_original
+Someone whacked Balor, the Ironhead leader. ::Coughs.::<end>
+
+=>q4
+Someone whacked Balor, the Ironhead leader. ::Coughs.::<end>
+
+=>q5_original
+::Yawns.::<end>
+
+=>q5
+::Yawns.::<end>
+
+=>q6_original
+My hands are covered in calluses.<end>
+
+=>q6
+My hands are covered in calluses.<end>
+
+=>q7_original
+You look familiar... like I've seen you on a screen somewhere...<end>
+
+=>q7
+You look familiar... like I've seen you on a screen somewhere...<end>
+
+=>q8_original
+Do you smell something?<end>
+
+=>q8
+Do you smell something?<end>
+
+=>q9_original
+::Coughs.::<end>
+
+=>q9
+::Coughs.::<end>
+
+=>q10_original
+Statistically speaking, Foundry has the highest mortality rate in the whole Lower Underrail. That makes me really worried.<end>
+
+=>q10
+Statistically speaking, Foundry has the highest mortality rate in the whole Lower Underrail. That makes me really worried.<end>
+
+=>q11_original
+Some folks say Old Mike was killed and eaten by some people from the slums. Nasty!<end>
+
+=>q11
+Some folks say Old Mike was killed and eaten by some people from the slums. Nasty!<end>
+
+=>q12_original
+I heard some $(#guy/chick) from the outside helped the Foundry Guard fight the rock creatures. Boss. ::Coughs.::<end>
+
+=>q12
+I heard some $(#guy/chick) from the outside helped the Foundry Guard fight the rock creatures. Boss. ::Coughs.::<end>
+
+=>q13_original
+Why would the Faceless attack us? I don't understand... ::Coughs.::<end>
+
+=>q13
+Why would the Faceless attack us? I don't understand... ::Coughs.::<end>
+
+=>q14_original
+How could the Foundry Guard have allowed that sniper attack?<end>
+
+=>q14
+How could the Foundry Guard have allowed that sniper attack?<end>
+

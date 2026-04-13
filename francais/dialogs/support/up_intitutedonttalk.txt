@@ -1,0 +1,36 @@
+=>q1_original
+Look, $(#lad/lass), there's no need for fighting, okay?<end>
+
+=>q1
+Look, $(#lad/lass), there's no need for fighting, okay?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Get lost, $(#lad/lass).<end>
+
+=>q3
+Get lost, $(#lad/lass).<end>
+
+=>q4_original
+I'm not interested in talking to you.<end>
+
+=>q4
+I'm not interested in talking to you.<end>
+
+=>q5_original
+Goodbye.<end>
+
+=>q5
+Goodbye.<end>
+
+=>q6_original
+Leave me alone.<end>
+
+=>q6
+Leave me alone.<end>
+

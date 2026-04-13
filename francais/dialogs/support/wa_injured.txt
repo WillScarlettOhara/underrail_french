@@ -1,0 +1,84 @@
+=>q1_original
+It won't help my broken arm heal any faster... but thanks, $(#man/sis)! Thanks for the aid.<end>
+
+=>q1
+It won't help my broken arm heal any faster... but thanks, $(#man/sis)! Thanks for the aid.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+I'm doing alright.<end>
+
+=>q3
+I'm doing alright.<end>
+
+=>q4_original
+I broke my arm. Yes.<end>
+
+=>q4
+I broke my arm. Yes.<end>
+
+=>q5_original
+Ow. Don't touch it, $(#man/sis).<end>
+
+=>q5
+Ow. Don't touch it, $(#man/sis).<end>
+
+=>q6_original
+I tripped and fell while carrying some ammo boxes. Stupid fall, really.<end>
+
+=>q6
+I tripped and fell while carrying some ammo boxes. Stupid fall, really.<end>
+
+=>q7_original
+Landed right on my arm - and the thinner of the two bones cracked like an undercane!<end>
+
+=>q7
+Landed right on my arm - and the thinner of the two bones cracked like an undercane!<end>
+
+=>q8_original
+It hurts occasionally, but not too much. It's getting better.<end>
+
+=>q8
+It hurts occasionally, but not too much. It's getting better.<end>
+
+=>q9_original
+Ouch.<end>
+
+=>q9
+Ouch.<end>
+
+=>q10_original
+It's gonna take a while before I'll be able to use the arm properly again.<end>
+
+=>q10
+It's gonna take a while before I'll be able to use the arm properly again.<end>
+
+=>q11_original
+It could've been much worse: I could've fallen off the platform and died.<end>
+
+=>q11
+It could've been much worse: I could've fallen off the platform and died.<end>
+
+=>q12_original
+This is the second time I'm breaking a bone. I broke my ankle a few years ago.<end>
+
+=>q12
+This is the second time I'm breaking a bone. I broke my ankle a few years ago.<end>
+
+=>q13_original
+Thanks for the aid, $(#man/sis).<end>
+
+=>q13
+Thanks for the aid, $(#man/sis).<end>
+
+=>q14_original
+So, what's up with you?<end>
+
+=>q14
+So, what's up with you?<end>
+

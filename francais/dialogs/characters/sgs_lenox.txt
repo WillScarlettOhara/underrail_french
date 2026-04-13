@@ -1,0 +1,1556 @@
+=>q1_original
+::He completely ignores you.::<end>
+
+=>q1
+::He completely ignores you.::<end>
+
+=>q2_original
+Pat... Everyone will know what happened, brother. I swear.<end>
+
+=>q2
+Pat... Everyone will know what happened, brother. I swear.<end>
+
+=>q3_original
+::The man stares at his nearly empty glass in silence, his mind clearly elsewhere.::<end>
+
+=>q3
+::The man stares at his nearly empty glass in silence, his mind clearly elsewhere.::<end>
+
+=>a4_original
+Lenox Pierce?<end>
+
+=>a4
+Lenox Pierce?<end>
+
+=>q5_original
+::He snaps out, raising his head to reveal a deathly pale visage. His sluggish eyes soon focus on you, and soon begins mumbling, communicating both with his speech and his alcohol breath.:: Um... What...?
+
+::A pause ensues.:: Yes! ::He lowers his voice.:: I mean yes, I am Lenox Pierce. Are you...?<end>
+
+=>q5
+::He snaps out, raising his head to reveal a deathly pale visage. His sluggish eyes soon focus on you, and soon begins mumbling, communicating both with his speech and his alcohol breath.:: Um... What...?
+
+::A pause ensues.:: Yes! ::He lowers his voice.:: I mean yes, I am Lenox Pierce. Are you...?<end>
+
+=>a6_original
+Yes, Jack sent me to talk to you. You can call me $(context.player.Name).<end>
+
+=>a6
+Yes, Jack sent me to talk to you. You can call me $(context.player.Name).<end>
+
+=>q7_original
+Nice to meet you, um, $(context.player.Name). How are you, um, doing?<end>
+
+=>q7
+Nice to meet you, um, $(context.player.Name). How are you, um, doing?<end>
+
+=>a8_original
+I'm doing well, thank you for asking.<end>
+
+=>a8
+I'm doing well, thank you for asking.<end>
+
+=>q9_original
+Good... um... That is good...<end>
+
+=>q9
+Good... um... That is good...<end>
+
+=>a10_original
+Jack told me you need some help?<end>
+
+=>a10
+Jack told me you need some help?<end>
+
+=>q11_original
+That is correct... unfortunately...<end>
+
+=>q11
+That is correct... unfortunately...<end>
+
+=>q12_original
+Look, $(context.player.Name), I need you to help me find out how my brother died. Pat... um, Patrick Pierce, my brother, came to South Gate Station over a year ago. He was a good man, he was good with, um, electronics. That's what he did here. My dear Pat... ::His voice begins to shake, but he composes himself.::<end>
+
+=>q12
+Look, $(context.player.Name), I need you to help me find out how my brother died. Pat... um, Patrick Pierce, my brother, came to South Gate Station over a year ago. He was a good man, he was good with, um, electronics. That's what he did here. My dear Pat... ::His voice begins to shake, but he composes himself.::<end>
+
+=>q13_original
+Something like a month... um, yeah, a month and a half ago, he was found dead in his room. Lying in bed, dead. I... I came here to see what happened, and I was told he died in his sleep. Tanner, the councilor, he told me Doctor Pasquale checked his... Pat's body but doesn't know the exact cause of death. Doesn't bleeding know the cause of death!?<end>
+
+=>q13
+Something like a month... um, yeah, a month and a half ago, he was found dead in his room. Lying in bed, dead. I... I came here to see what happened, and I was told he died in his sleep. Tanner, the councilor, he told me Doctor Pasquale checked his... Pat's body but doesn't know the exact cause of death. Doesn't bleeding know the cause of death!?<end>
+
+=>a14_original
+Okay, calm down, Lenox, calm down. What can I do to help you?<end>
+
+=>a14
+Okay, calm down, Lenox, calm down. What can I do to help you?<end>
+
+=>q15_original
+Damn it all... Just damn it. Look, something's wrong! My brother was a healthy man; had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? It's tearing me apart. Tanner won't help me anymore, as far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>q15
+Damn it all... Just damn it. Look, something's wrong! My brother was a healthy man; had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? It's tearing me apart. Tanner won't help me anymore, as far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>q16_original
+Um... I'm not... Cause of death unknown. Yeah, right.<end>
+
+=>q16
+Um... I'm not... Cause of death unknown. Yeah, right.<end>
+
+=>a17_original
+I'll help you. We'll find out what really happened to your brother.<end>
+
+=>a17
+I'll help you. We'll find out what really happened to your brother.<end>
+
+=>q18_original
+Please forgive me, I get emotional and um... This is really painful to me. He was my older brother... I have no one else. Look, I'm not sure I was understandable enough earlier. I'm, um, I'm very tired; I don't sleep well. If you need to ask me something, I'll be here.<end>
+
+=>q18
+Please forgive me, I get emotional and um... This is really painful to me. He was my older brother... I have no one else. Look, I'm not sure I was understandable enough earlier. I'm, um, I'm very tired; I don't sleep well. If you need to ask me something, I'll be here.<end>
+
+=>q19_original
+Oh! Almost forgot this. ::He hands you a keycard.:: This is my brother's room keycard, in case you need to... um... need to check his room. Take it.<end>
+
+=>q19
+Oh! Almost forgot this. ::He hands you a keycard.:: This is my brother's room keycard, in case you need to... um... need to check his room. Take it.<end>
+
+=>a20_original
+I'd like to talk to you first.<end>
+
+=>a20
+I'd like to talk to you first.<end>
+
+=>q21_original
+Ask me anything you need.<end>
+
+=>q21
+Ask me anything you need.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+What can you tell me about Patrick?<end>
+
+=>a23
+What can you tell me about Patrick?<end>
+
+=>q24_original
+Pat was a good man; um, hard working, dedicated. He was the best brother a man can hope for.<end>
+
+=>q24
+Pat was a good man; um, hard working, dedicated. He was the best brother a man can hope for.<end>
+
+=>q25_original
+I... I just can't let this all go, you dig... I have had this terrible feeling about his death, and these jerks won't let me know the truth. I know it. I know it, damn it.
+
+Whatever happened to him, he didn't, um... he didn't deserve it. That I can swear!<end>
+
+=>q25
+I... I just can't let this all go, you dig... I have had this terrible feeling about his death, and these jerks won't let me know the truth. I know it. I know it, damn it.
+
+Whatever happened to him, he didn't, um... he didn't deserve it. That I can swear!<end>
+
+=>a26_original
+Did your brother ever mention anything to you about Spectres or Operation Banishment?<end>
+
+=>a26
+Did your brother ever mention anything to you about Spectres or Operation Banishment?<end>
+
+=>q27_original
+Um...  No, he never did. Not as far as I can remember it, no... Why?<end>
+
+=>q27
+Um...  No, he never did. Not as far as I can remember it, no... Why?<end>
+
+=>a28_original
+I asked around and found out Pat was a part of that operation while he was working for Praetorian Security.<end>
+
+=>a28
+I asked around and found out Pat was a part of that operation while he was working for Praetorian Security.<end>
+
+=>q29_original
+He never told me about it. I, um, I can't help you. I'm sorry.<end>
+
+=>q29
+He never told me about it. I, um, I can't help you. I'm sorry.<end>
+
+=>a30_original
+Never mind, let me ask you something else.<end>
+
+=>a30
+Never mind, let me ask you something else.<end>
+
+=>q31_original
+Okay...<end>
+
+=>q31
+Okay...<end>
+
+=>a32_original
+What did Patrick do in Core City?<end>
+
+=>a32
+What did Patrick do in Core City?<end>
+
+=>q33_original
+Didn't I tell you about that, um, already?<end>
+
+=>q33
+Didn't I tell you about that, um, already?<end>
+
+=>a34_original
+Nope.<end>
+
+=>a34
+Nope.<end>
+
+=>q35_original
+Strange... I could have sworn I mentioned it...<end>
+
+=>q35
+Strange... I could have sworn I mentioned it...<end>
+
+=>q36_original
+Pat and I, we were orphans; our mother, um, died when we were young, and dad... we never, um... never met him. So, we had to take care of ourselves, um, or, um, more precisely - Pat had to take care of us both.<end>
+
+=>q36
+Pat and I, we were orphans; our mother, um, died when we were young, and dad... we never, um... never met him. So, we had to take care of ourselves, um, or, um, more precisely - Pat had to take care of us both.<end>
+
+=>q37_original
+After years of doing whatever earns coin - scavenging and the like, you dig - Pat and I came to Core City. It was just after Biocorp fell apart. Um, maybe some time after. Riots and chaos filled the streets. Praetorian Security, newly formed at the time, needed men to help them fight the, um, rioters and... all that bunch.<end>
+
+=>q37
+After years of doing whatever earns coin - scavenging and the like, you dig - Pat and I came to Core City. It was just after Biocorp fell apart. Um, maybe some time after. Riots and chaos filled the streets. Praetorian Security, newly formed at the time, needed men to help them fight the, um, rioters and... all that bunch.<end>
+
+=>q38_original
+The pay was good, so he, um, Pat joined. He was young and, you dig... burly, so he became an enforcer.<end>
+
+=>q38
+The pay was good, so he, um, Pat joined. He was young and, you dig... burly, so he became an enforcer.<end>
+
+=>a39_original
+What can you tell me about Praetorian Security?<end>
+
+=>a39
+What can you tell me about Praetorian Security?<end>
+
+=>q40_original
+They were trying to take control over the city... and um, they eventually did. They are one of the major factions in Core City now. But they were a marble back then compared to the boulder they, um, are now.<end>
+
+=>q40
+They were trying to take control over the city... and um, they eventually did. They are one of the major factions in Core City now. But they were a marble back then compared to the boulder they, um, are now.<end>
+
+=>a41_original
+Please, continue.<end>
+
+=>a41
+Please, continue.<end>
+
+=>q42_original
+Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. <end>
+
+=>q42
+Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. <end>
+
+=>q43_original
+We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...<end>
+
+=>q43
+We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...<end>
+
+=>a44_original
+What about you? What did you do after you split?<end>
+
+=>a44
+What about you? What did you do after you split?<end>
+
+=>q45_original
+::He wipes his eyes.:: I had to learn to take care of myself. I, um... went to work in Foundry for a while, as a miner. But since I valued my life somewhat, I left that place. The pay was good, you dig, um, but that place is a deathtrap. Then I worked at Junkyard docks... I did all sorts of things, um... it would take time to mention them all.<end>
+
+=>q45
+::He wipes his eyes.:: I had to learn to take care of myself. I, um... went to work in Foundry for a while, as a miner. But since I valued my life somewhat, I left that place. The pay was good, you dig, um, but that place is a deathtrap. Then I worked at Junkyard docks... I did all sorts of things, um... it would take time to mention them all.<end>
+
+=>a46_original
+Let's change the subject.<end>
+
+=>a46
+Let's change the subject.<end>
+
+=>q47_original
+::He nods.::<end>
+
+=>q47
+::He nods.::<end>
+
+=>a48_original
+You did, but remind me again.<end>
+
+=>a48
+You did, but remind me again.<end>
+
+=>q49_original
+Um, fine. Here we go again.<end>
+
+=>q49
+Um, fine. Here we go again.<end>
+
+=>a50_original
+No, because you're a wreck and you forget to tell me important things.<end>
+
+=>a50
+No, because you're a wreck and you forget to tell me important things.<end>
+
+=>q51_original
+Why is it so important? It happened a long time ago.<end>
+
+=>q51
+Why is it so important? It happened a long time ago.<end>
+
+=>a52_original
+You just answer the question and I'll decide if it's important.<end>
+
+=>a52
+You just answer the question and I'll decide if it's important.<end>
+
+=>q53_original
+Um, okay... no need to get all pissy.<end>
+
+=>q53
+Um, okay... no need to get all pissy.<end>
+
+=>a54_original
+Just spill it.<end>
+
+=>a54
+Just spill it.<end>
+
+=>a55_original
+I have reasons to believe that your brother was murdered.<end>
+
+=>a55
+I have reasons to believe that your brother was murdered.<end>
+
+=>q56_original
+::Lenox's eyes enlarge, revealing fully how bloodshot they actually are.:: Re-Really? My... I... Do you know who did it?<end>
+
+=>q56
+::Lenox's eyes enlarge, revealing fully how bloodshot they actually are.:: Re-Really? My... I... Do you know who did it?<end>
+
+=>q57_original
+<end>
+
+=>q57
+<end>
+
+=>a58_original
+Pasquale.<end>
+
+=>a58
+Pasquale.<end>
+
+=>q59_original
+Why would he do something like that?<end>
+
+=>q59
+Why would he do something like that?<end>
+
+=>a60_original
+I'm not sure exactly, but I think I have some promising leads.<end>
+
+=>a60
+I'm not sure exactly, but I think I have some promising leads.<end>
+
+=>q61_original
+Let's hear it then.<end>
+
+=>q61
+Let's hear it then.<end>
+
+=>q62_original
+::[You need to present clues that made you suspect Pasquale was the killer.]::<end>
+
+=>q62
+::[You need to present clues that made you suspect Pasquale was the killer.]::<end>
+
+=>a63_original
+::General clues.::<end>
+
+=>a63
+::General clues.::<end>
+
+=>q64_original
+I'm listening...<end>
+
+=>q64
+I'm listening...<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a66
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>q67_original
+Go on...<end>
+
+=>q67
+Go on...<end>
+
+=>a68_original
+Pasquale claims he can't determine Patrick's cause of death and was the only one to examine the body.<end>
+
+=>a68
+Pasquale claims he can't determine Patrick's cause of death and was the only one to examine the body.<end>
+
+=>a69_original
+Pasquale has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a69
+Pasquale has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a70_original
+He refuses to examine the body again.<end>
+
+=>a70
+He refuses to examine the body again.<end>
+
+=>a71_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a71
+Patrick was blamed for many problems in SGS.<end>
+
+=>a72_original
+::Back.::<end>
+
+=>a72
+::Back.::<end>
+
+=>a73_original
+::Murder weapon clues.::<end>
+
+=>a73
+::Murder weapon clues.::<end>
+
+=>q74_original
+I'm listening...<end>
+
+=>q74
+I'm listening...<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+Patrick was killed with a pistol.<end>
+
+=>a76
+Patrick was killed with a pistol.<end>
+
+=>q77_original
+I see...<end>
+
+=>q77
+I see...<end>
+
+=>a78_original
+Patrick was killed with a bone chisel.<end>
+
+=>a78
+Patrick was killed with a bone chisel.<end>
+
+=>a79_original
+Patrick was killed with a bone drill.<end>
+
+=>a79
+Patrick was killed with a bone drill.<end>
+
+=>a80_original
+Patrick was killed with a scalpel.<end>
+
+=>a80
+Patrick was killed with a scalpel.<end>
+
+=>a81_original
+Patrick was killed with a knife.<end>
+
+=>a81
+Patrick was killed with a knife.<end>
+
+=>a82_original
+Patrick was killed with a hammer.<end>
+
+=>a82
+Patrick was killed with a hammer.<end>
+
+=>a83_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a83
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a84_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a84
+Patrick was killed with a large surgical needle.<end>
+
+=>a85_original
+::Back.::<end>
+
+=>a85
+::Back.::<end>
+
+=>a86_original
+::Finish presenting the clues.::<end>
+
+=>a86
+::Finish presenting the clues.::<end>
+
+=>q87_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q87
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q88_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q88
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q89_original
+Um... I'm not convinced Pasquale did it... I don't know, I'm gonna need more evidence than that.<end>
+
+=>q89
+Um... I'm not convinced Pasquale did it... I don't know, I'm gonna need more evidence than that.<end>
+
+=>a90_original
+I don't know.<end>
+
+=>a90
+I don't know.<end>
+
+=>q91_original
+::He sighs.:: Well, that wasn't helpful.<end>
+
+=>q91
+::He sighs.:: Well, that wasn't helpful.<end>
+
+=>a92_original
+Big Bret.<end>
+
+=>a92
+Big Bret.<end>
+
+=>q93_original
+Why would he do something like that?<end>
+
+=>q93
+Why would he do something like that?<end>
+
+=>a94_original
+Bret and Patrick had some conflicts over some heaters installed in the hopper pens.<end>
+
+=>a94
+Bret and Patrick had some conflicts over some heaters installed in the hopper pens.<end>
+
+=>q95_original
+What? Big Bret... I don't know... Um, what evidence do you have?<end>
+
+=>q95
+What? Big Bret... I don't know... Um, what evidence do you have?<end>
+
+=>q96_original
+::[You need to present clues that made you suspect Bret was the killer.]::<end>
+
+=>q96
+::[You need to present clues that made you suspect Bret was the killer.]::<end>
+
+=>a97_original
+::General clues::<end>
+
+=>a97
+::General clues::<end>
+
+=>q98_original
+I'm listening...<end>
+
+=>q98
+I'm listening...<end>
+
+=>q99_original
+<end>
+
+=>q99
+<end>
+
+=>a100_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a100
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>q101_original
+Go on...<end>
+
+=>q101
+Go on...<end>
+
+=>a102_original
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a102
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a103_original
+Bret came angry to Patrick's room and they had a verbal argument.<end>
+
+=>a103
+Bret came angry to Patrick's room and they had a verbal argument.<end>
+
+=>a104_original
+Big Bret had a cut on his forehead he claims was from falling.<end>
+
+=>a104
+Big Bret had a cut on his forehead he claims was from falling.<end>
+
+=>a105_original
+Pasquale doesn't want to reveal that Bret was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a105
+Pasquale doesn't want to reveal that Bret was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a106_original
+Bret smashed the thermostat Patrick installed earlier in the pens.<end>
+
+=>a106
+Bret smashed the thermostat Patrick installed earlier in the pens.<end>
+
+=>a107_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a107
+Patrick was blamed for many problems in SGS.<end>
+
+=>a108_original
+::Back.::<end>
+
+=>a108
+::Back.::<end>
+
+=>a109_original
+::Murder weapon clues.::<end>
+
+=>a109
+::Murder weapon clues.::<end>
+
+=>q110_original
+I'm listening...<end>
+
+=>q110
+I'm listening...<end>
+
+=>q111_original
+<end>
+
+=>q111
+<end>
+
+=>a112_original
+Patrick was killed with a pistol.<end>
+
+=>a112
+Patrick was killed with a pistol.<end>
+
+=>q113_original
+I see...<end>
+
+=>q113
+I see...<end>
+
+=>a114_original
+Patrick was killed with a bone chisel.<end>
+
+=>a114
+Patrick was killed with a bone chisel.<end>
+
+=>a115_original
+Patrick was killed with a bone drill.<end>
+
+=>a115
+Patrick was killed with a bone drill.<end>
+
+=>a116_original
+Patrick was killed with a scalpel.<end>
+
+=>a116
+Patrick was killed with a scalpel.<end>
+
+=>a117_original
+Patrick was killed with a knife.<end>
+
+=>a117
+Patrick was killed with a knife.<end>
+
+=>a118_original
+Patrick was killed with a hammer.<end>
+
+=>a118
+Patrick was killed with a hammer.<end>
+
+=>a119_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a119
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a120_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a120
+Patrick was killed with a large surgical needle.<end>
+
+=>a121_original
+::Finish presenting the clues.::<end>
+
+=>a121
+::Finish presenting the clues.::<end>
+
+=>q122_original
+That makes perfect sense. Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>q122
+That makes perfect sense. Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>a123_original
+What will you do now?<end>
+
+=>a123
+What will you do now?<end>
+
+=>q124_original
+::He pauses.:: Um, I'll talk to... <end>
+
+=>q124
+::He pauses.:: Um, I'll talk to... <end>
+
+=>q125_original
+one of the councilors <end>
+
+=>q125
+one of the councilors <end>
+
+=>q126_original
+about this. I'll take care of, of everything.<end>
+
+=>q126
+about this. I'll take care of, of everything.<end>
+
+=>a127_original
+So long, Lenox. Rest well, now that you know the truth.<end>
+
+=>a127
+So long, Lenox. Rest well, now that you know the truth.<end>
+
+=>q128_original
+I will.<end>
+
+=>q128
+I will.<end>
+
+=>q129_original
+Tanner <end>
+
+=>q129
+Tanner <end>
+
+=>q130_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q130
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q131_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q131
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q132_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q132
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>a133_original
+Quinton.<end>
+
+=>a133
+Quinton.<end>
+
+=>q134_original
+Why would he do something like that?<end>
+
+=>q134
+Why would he do something like that?<end>
+
+=>a135_original
+Quinton thought Patrick was deliberately hurting the hoppers that are used to feed the station.<end>
+
+=>a135
+Quinton thought Patrick was deliberately hurting the hoppers that are used to feed the station.<end>
+
+=>q136_original
+Huh... Maybe you're onto something. What clues do you have?<end>
+
+=>q136
+Huh... Maybe you're onto something. What clues do you have?<end>
+
+=>q137_original
+::[You need to present clues that made you suspect Quinton was the killer.]::<end>
+
+=>q137
+::[You need to present clues that made you suspect Quinton was the killer.]::<end>
+
+=>a138_original
+::General clues.::<end>
+
+=>a138
+::General clues.::<end>
+
+=>q139_original
+I'm listening...<end>
+
+=>q139
+I'm listening...<end>
+
+=>q140_original
+<end>
+
+=>q140
+<end>
+
+=>a141_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a141
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>q142_original
+Go on...<end>
+
+=>q142
+Go on...<end>
+
+=>a143_original
+Quinton retreived a deadly toxin from the medical storage.<end>
+
+=>a143
+Quinton retreived a deadly toxin from the medical storage.<end>
+
+=>a144_original
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a144
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a145_original
+Quinton supported Bret in the heater scandal.<end>
+
+=>a145
+Quinton supported Bret in the heater scandal.<end>
+
+=>a146_original
+Quinton came to Patrick's room and warned him that he's endangering the station by messing up the heaters in hopper pens.<end>
+
+=>a146
+Quinton came to Patrick's room and warned him that he's endangering the station by messing up the heaters in hopper pens.<end>
+
+=>a147_original
+Pasquale doesn't want to reveal that Quinton was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a147
+Pasquale doesn't want to reveal that Quinton was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a148_original
+Quinton has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a148
+Quinton has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a149_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a149
+Patrick was blamed for many problems in SGS.<end>
+
+=>a150_original
+::Back.::<end>
+
+=>a150
+::Back.::<end>
+
+=>a151_original
+::Murder weapon clues.::<end>
+
+=>a151
+::Murder weapon clues.::<end>
+
+=>q152_original
+I'm listening...<end>
+
+=>q152
+I'm listening...<end>
+
+=>q153_original
+<end>
+
+=>q153
+<end>
+
+=>a154_original
+Patrick was killed with a pistol.<end>
+
+=>a154
+Patrick was killed with a pistol.<end>
+
+=>q155_original
+Hmmm...<end>
+
+=>q155
+Hmmm...<end>
+
+=>a156_original
+Patrick was killed with a bone chisel.<end>
+
+=>a156
+Patrick was killed with a bone chisel.<end>
+
+=>a157_original
+Patrick was killed with a bone drill.<end>
+
+=>a157
+Patrick was killed with a bone drill.<end>
+
+=>a158_original
+Patrick was killed with a scalpel.<end>
+
+=>a158
+Patrick was killed with a scalpel.<end>
+
+=>a159_original
+Patrick was killed with a knife.<end>
+
+=>a159
+Patrick was killed with a knife.<end>
+
+=>a160_original
+Patrick was injected with burrower poison and killed.<end>
+
+=>a160
+Patrick was injected with burrower poison and killed.<end>
+
+=>a161_original
+Patrick was injected with dimethylmercury and killed.<end>
+
+=>a161
+Patrick was injected with dimethylmercury and killed.<end>
+
+=>a162_original
+Patrick was killed with a hammer.<end>
+
+=>a162
+Patrick was killed with a hammer.<end>
+
+=>a163_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a163
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a164_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a164
+Patrick was killed with a large surgical needle.<end>
+
+=>a165_original
+::Back.::<end>
+
+=>a165
+::Back.::<end>
+
+=>a166_original
+::Finish presenting the clues.::<end>
+
+=>a166
+::Finish presenting the clues.::<end>
+
+=>q167_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q167
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q168_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q168
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q169_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q169
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>a170_original
+Arlene.<end>
+
+=>a170
+Arlene.<end>
+
+=>q171_original
+Why would she do something like that?<end>
+
+=>q171
+Why would she do something like that?<end>
+
+=>a172_original
+Old Jonas.<end>
+
+=>a172
+Old Jonas.<end>
+
+=>q173_original
+Why would he do something like that?<end>
+
+=>q173
+Why would he do something like that?<end>
+
+=>a174_original
+Mordre.<end>
+
+=>a174
+Mordre.<end>
+
+=>q175_original
+Why would he do something like that?<end>
+
+=>q175
+Why would he do something like that?<end>
+
+=>a176_original
+He had reasons for revenge.<end>
+
+=>a176
+He had reasons for revenge.<end>
+
+=>q177_original
+Um, revenge? Tell me what you know.<end>
+
+=>q177
+Um, revenge? Tell me what you know.<end>
+
+=>q178_original
+::[You need to tell Lenox the clues that made you suspect Mordre was the killer.]::<end>
+
+=>q178
+::[You need to tell Lenox the clues that made you suspect Mordre was the killer.]::<end>
+
+=>a179_original
+::General clues.::<end>
+
+=>a179
+::General clues.::<end>
+
+=>q180_original
+I'm listening...<end>
+
+=>q180
+I'm listening...<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a182
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>q183_original
+Yeah, keep going...<end>
+
+=>q183
+Yeah, keep going...<end>
+
+=>a184_original
+Spectres are elite assassins who are famous for killing their targets by stabbing them through the nose, killing them and leaving a wound that is difficult to find.<end>
+
+=>a184
+Spectres are elite assassins who are famous for killing their targets by stabbing them through the nose, killing them and leaving a wound that is difficult to find.<end>
+
+=>a185_original
+During his Praetorian Security days, Patrick was a part of the operation that hunted down and killed the remaining Spectres, Biocorp's elite special forces unit.<end>
+
+=>a185
+During his Praetorian Security days, Patrick was a part of the operation that hunted down and killed the remaining Spectres, Biocorp's elite special forces unit.<end>
+
+=>a186_original
+Mordre's real name is Michael Mordington.<end>
+
+=>a186
+Mordre's real name is Michael Mordington.<end>
+
+=>a187_original
+Mordre had a Spectre insignia that confirms that he was one of their members.<end>
+
+=>a187
+Mordre had a Spectre insignia that confirms that he was one of their members.<end>
+
+=>a188_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a188
+Patrick was blamed for many problems in SGS.<end>
+
+=>a189_original
+Michael Mordington was a member of the Spectre unit.<end>
+
+=>a189
+Michael Mordington was a member of the Spectre unit.<end>
+
+=>a190_original
+Mordre confessed the murder. He was a Spectre, an elite Biocorp special forces unit that was cleaned up by Praetorian Security. Your brother was a part of the operation, and Mordre found out.<end>
+
+=>a190
+Mordre confessed the murder. He was a Spectre, an elite Biocorp special forces unit that was cleaned up by Praetorian Security. Your brother was a part of the operation, and Mordre found out.<end>
+
+=>q191_original
+I... can't believe it! Um, that... that bastard! Thank you, thank you! You finally discovered who killed Pat! ::His face visibly brightens up.:: You can return to Jack for your payment. I... I finally know what happened to Pat. ::He begins laughing.::<end>
+
+=>q191
+I... can't believe it! Um, that... that bastard! Thank you, thank you! You finally discovered who killed Pat! ::His face visibly brightens up.:: You can return to Jack for your payment. I... I finally know what happened to Pat. ::He begins laughing.::<end>
+
+=>q192_original
+<end>
+
+=>q192
+<end>
+
+=>a193_original
+::Back.::<end>
+
+=>a193
+::Back.::<end>
+
+=>a194_original
+::Murder weapon clues.::<end>
+
+=>a194
+::Murder weapon clues.::<end>
+
+=>q195_original
+I'm listening...<end>
+
+=>q195
+I'm listening...<end>
+
+=>q196_original
+<end>
+
+=>q196
+<end>
+
+=>a197_original
+Patrick was killed with a pistol.<end>
+
+=>a197
+Patrick was killed with a pistol.<end>
+
+=>q198_original
+Go on...<end>
+
+=>q198
+Go on...<end>
+
+=>a199_original
+Patrick was killed with a bone chisel.<end>
+
+=>a199
+Patrick was killed with a bone chisel.<end>
+
+=>a200_original
+Patrick was killed with a bone drill.<end>
+
+=>a200
+Patrick was killed with a bone drill.<end>
+
+=>a201_original
+Patrick was killed with a scalpel.<end>
+
+=>a201
+Patrick was killed with a scalpel.<end>
+
+=>a202_original
+Patrick was killed with a knife.<end>
+
+=>a202
+Patrick was killed with a knife.<end>
+
+=>a203_original
+Patrick was killed with a hammer.<end>
+
+=>a203
+Patrick was killed with a hammer.<end>
+
+=>a204_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a204
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a205_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a205
+Patrick was killed with a large surgical needle.<end>
+
+=>a206_original
+::Back.::<end>
+
+=>a206
+::Back.::<end>
+
+=>a207_original
+::Finish presenting the clues.::<end>
+
+=>a207
+::Finish presenting the clues.::<end>
+
+=>q208_original
+Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>q208
+Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>q209_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q209
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q210_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q210
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q211_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q211
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>a212_original
+Ezra.<end>
+
+=>a212
+Ezra.<end>
+
+=>a213_original
+Essie.<end>
+
+=>a213
+Essie.<end>
+
+=>a214_original
+Lucas.<end>
+
+=>a214
+Lucas.<end>
+
+=>a215_original
+Gorsky.<end>
+
+=>a215
+Gorsky.<end>
+
+=>a216_original
+Harold.<end>
+
+=>a216
+Harold.<end>
+
+=>a217_original
+Harland.<end>
+
+=>a217
+Harland.<end>
+
+=>a218_original
+Bisson.<end>
+
+=>a218
+Bisson.<end>
+
+=>a219_original
+Vera.<end>
+
+=>a219
+Vera.<end>
+
+=>a220_original
+Roman.<end>
+
+=>a220
+Roman.<end>
+
+=>a221_original
+Tanner.<end>
+
+=>a221
+Tanner.<end>
+
+=>a222_original
+I don't know yet, but I'll find out.<end>
+
+=>a222
+I don't know yet, but I'll find out.<end>
+
+=>q223_original
+Oh, man. I'm gonna need another drink...<end>
+
+=>q223
+Oh, man. I'm gonna need another drink...<end>
+
+=>a224_original
+Tell me about your brother's past again.<end>
+
+=>a224
+Tell me about your brother's past again.<end>
+
+=>a225_original
+What do you think caused Patrick's death?<end>
+
+=>a225
+What do you think caused Patrick's death?<end>
+
+=>q226_original
+Well, you said he was murdered, so I think you know more about it than me.<end>
+
+=>q226
+Well, you said he was murdered, so I think you know more about it than me.<end>
+
+=>q227_original
+Please hurry up with the frickin' investigation. You have gotten me all nervous and... look my hands are shaking! Hurry, damn it.<end>
+
+=>q227
+Please hurry up with the frickin' investigation. You have gotten me all nervous and... look my hands are shaking! Hurry, damn it.<end>
+
+=>q228_original
+Something's wrong, just wrong! A healthy man died in his sleep without a known cause? And they, um, told me there is no point in investigating any further? There is no evidence of "foul play" or... or whatever they said. Natural death?<end>
+
+=>q228
+Something's wrong, just wrong! A healthy man died in his sleep without a known cause? And they, um, told me there is no point in investigating any further? There is no evidence of "foul play" or... or whatever they said. Natural death?<end>
+
+=>q229_original
+That is why *you* are here! I want... I need the truth!<end>
+
+=>q229
+That is why *you* are here! I want... I need the truth!<end>
+
+=>a230_original
+I need the password for Patrick's laptop.<end>
+
+=>a230
+I need the password for Patrick's laptop.<end>
+
+=>q231_original
+Um... let me think...<end>
+
+=>q231
+Um... let me think...<end>
+
+=>q232_original
+Try "Sec-1456." Or was it, um... "Sec-1465." It was his old password. If he hadn't... um, changed it. But I doubt it, he's been using that one for years.<end>
+
+=>q232
+Try "Sec-1456." Or was it, um... "Sec-1465." It was his old password. If he hadn't... um, changed it. But I doubt it, he's been using that one for years.<end>
+
+=>a233_original
+One more thing...<end>
+
+=>a233
+One more thing...<end>
+
+=>q234_original
+Hmm?<end>
+
+=>q234
+Hmm?<end>
+
+=>a235_original
+Thanks for the passwords. I'll go try them out.<end>
+
+=>a235
+Thanks for the passwords. I'll go try them out.<end>
+
+=>a236_original
+I did my best, but I can't find out how your brother died. I am stopping the investigation.<end>
+
+=>a236
+I did my best, but I can't find out how your brother died. I am stopping the investigation.<end>
+
+=>q237_original
+::Lenox's face reddens with anger, yet, his eyes start watering, eventually leading to tears. He bows his head and starts weeping. Moments later, he raises his head, as if he wanted to say something, yet he decides to just wave you away.::<end>
+
+=>q237
+::Lenox's face reddens with anger, yet, his eyes start watering, eventually leading to tears. He bows his head and starts weeping. Moments later, he raises his head, as if he wanted to say something, yet he decides to just wave you away.::<end>
+
+=>a238_original
+::Leave.::<end>
+
+=>a238
+::Leave.::<end>
+
+=>a239_original
+Bye.<end>
+
+=>a239
+Bye.<end>
+
+=>a240_original
+I'll go check his room first, then we'll talk.<end>
+
+=>a240
+I'll go check his room first, then we'll talk.<end>
+
+=>a241_original
+It's gonna be tough, I can't make any promises. But I'm on the job.<end>
+
+=>a241
+It's gonna be tough, I can't make any promises. But I'm on the job.<end>
+
+=>a242_original
+No more drinks for you! Control yourself, man.<end>
+
+=>a242
+No more drinks for you! Control yourself, man.<end>
+
+=>q243_original
+Shut up! I'm not drunk - I'm devastated! Look, something's wrong! My brother was a healthy man; he had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? 
+
+It's tearing me apart. Tanner won't help me anymore. As far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>q243
+Shut up! I'm not drunk - I'm devastated! Look, something's wrong! My brother was a healthy man; he had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? 
+
+It's tearing me apart. Tanner won't help me anymore. As far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>a244_original
+Can we begin already?<end>
+
+=>a244
+Can we begin already?<end>
+
+=>q245_original
+Yes... yes we can. I didn't mean to, um, drag on. I'm sorry.<end>
+
+=>q245
+Yes... yes we can. I didn't mean to, um, drag on. I'm sorry.<end>
+
+=>a246_original
+You wouldn't mind if we skip the friendly chat? <end>
+
+=>a246
+You wouldn't mind if we skip the friendly chat? <end>
+
+=>q247_original
+Not at all. As you can see, I'm very bad at these things... ::He smiles.:: Plus I, um, have some things on my mind further... um, distracting me. That's why we're here.<end>
+
+=>q247
+Not at all. As you can see, I'm very bad at these things... ::He smiles.:: Plus I, um, have some things on my mind further... um, distracting me. That's why we're here.<end>
+
+=>a248_original
+I got my toe bitten off by a rathound. Other than that, I'm fine.<end>
+
+=>a248
+I got my toe bitten off by a rathound. Other than that, I'm fine.<end>
+
+=>q249_original
+Oh, I am very sorry to hear that. It must've been painful.<end>
+
+=>q249
+Oh, I am very sorry to hear that. It must've been painful.<end>
+
+=>a250_original
+Sort of, but I've been through worse.<end>
+
+=>a250
+Sort of, but I've been through worse.<end>
+
+=>q251_original
+Again, I'm, um, sorry to hear that. Um, how about we finally begin?<end>
+
+=>q251
+Again, I'm, um, sorry to hear that. Um, how about we finally begin?<end>
+
+=>a252_original
+It was. I don't want to talk about it.<end>
+
+=>a252
+It was. I don't want to talk about it.<end>
+
+=>q253_original
+I'm sorry. Um, how about we finally begin?<end>
+
+=>q253
+I'm sorry. Um, how about we finally begin?<end>
+
+=>a254_original
+Just traveling around, nothing really important. Boring stuff. As usual.<end>
+
+=>a254
+Just traveling around, nothing really important. Boring stuff. As usual.<end>
+
+=>a255_original
+::Leave.::<end>
+
+=>a255
+::Leave.::<end>
+
+=>q256_original
+Hmm? Oh, $(context.player.Name).<end>
+
+=>q256
+Hmm? Oh, $(context.player.Name).<end>
+

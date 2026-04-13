@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You don't seem to be bothered by the nauseating stench, huh? ::Coughs.::<end>
+
+=>q2
+You don't seem to be bothered by the nauseating stench, huh? ::Coughs.::<end>
+
+=>q3_original
+What a bloody, bloody mess!<end>
+
+=>q3
+What a bloody, bloody mess!<end>
+
+=>q4_original
+I've seen many horrors during my lifetime, but nothing like this...<end>
+
+=>q4
+I've seen many horrors during my lifetime, but nothing like this...<end>
+
+=>q5_original
+Such... unadulterated savagery.<end>
+
+=>q5
+Such... unadulterated savagery.<end>
+
+=>q6_original
+Wh-- Why are you here, actually?<end>
+
+=>q6
+Wh-- Why are you here, actually?<end>
+
+=>q7_original
+Now, where did I put my gloves? ::Coughs.::<end>
+
+=>q7
+Now, where did I put my gloves? ::Coughs.::<end>
+
+=>q8_original
+Seduced and brutally murdered. Can't blame them for falling for it.<end>
+
+=>q8
+Seduced and brutally murdered. Can't blame them for falling for it.<end>
+
+=>q9_original
+Just take care not to step into anything. *Everything* is evidence. ::Coughs.::<end>
+
+=>q9
+Just take care not to step into anything. *Everything* is evidence. ::Coughs.::<end>
+

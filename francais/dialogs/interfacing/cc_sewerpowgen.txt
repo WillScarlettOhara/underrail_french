@@ -1,0 +1,68 @@
+=>q1_original
+::Status: On::
+<end>
+
+=>q1
+::Status: On::
+<end>
+
+=>q2_original
+::Flux controller: Biocorp-Seddar FC-11z::
+<end>
+
+=>q2
+::Flux controller: Biocorp-Seddar FC-11z::
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Insert flux controller.::<end>
+
+=>a4
+::Insert flux controller.::<end>
+
+=>q5_original
+::Flux controller inserted successfully.::<end>
+
+=>q5
+::Flux controller inserted successfully.::<end>
+
+=>a6_original
+::Turn on.::<end>
+
+=>a6
+::Turn on.::<end>
+
+=>q7_original
+::Power generator is operational.::<end>
+
+=>q7
+::Power generator is operational.::<end>
+
+=>a8_original
+::Leave.::<end>
+
+=>a8
+::Leave.::<end>
+
+=>q9_original
+::Flux controller: Missing::
+<end>
+
+=>q9
+::Flux controller: Missing::
+<end>
+
+=>q10_original
+::Status: Off::
+<end>
+
+=>q10
+::Status: Off::
+<end>
+

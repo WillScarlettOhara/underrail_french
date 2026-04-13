@@ -1,0 +1,650 @@
+=>q1_original
+::The woman seems highly apprehensive of you. She takes a few steps back, and you notice her stare is alternating between your face and your hands.::<end>
+
+=>q1
+::The woman seems highly apprehensive of you. She takes a few steps back, and you notice her stare is alternating between your face and your hands.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Who are you and why are you held here?<end>
+
+=>a3
+Who are you and why are you held here?<end>
+
+=>q4_original
+Is this some kind of a trick?<end>
+
+=>q4
+Is this some kind of a trick?<end>
+
+=>q5_original
+You already know who I am.<end>
+
+=>q5
+You already know who I am.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Actually, I do not. I'm not allied with your jailors. I broke into this place.<end>
+
+=>a7
+Actually, I do not. I'm not allied with your jailors. I broke into this place.<end>
+
+=>q8_original
+Yes, I am Maura.<end>
+
+=>q8
+Yes, I am Maura.<end>
+
+=>q9_original
+I'm Maura. As to why I'm held here, you better ask them Protectorate cans that.<end>
+
+=>q9
+I'm Maura. As to why I'm held here, you better ask them Protectorate cans that.<end>
+
+=>a10_original
+Just answer the damn question, woman.<end>
+
+=>a10
+Just answer the damn question, woman.<end>
+
+=>a11_original
+Are you Maura?<end>
+
+=>a11
+Are you Maura?<end>
+
+=>a12_original
+I'm here to bust you out.<end>
+
+=>a12
+I'm here to bust you out.<end>
+
+=>q13_original
+Why... Who *are* you?<end>
+
+=>q13
+Why... Who *are* you?<end>
+
+=>a14_original
+I've been hired to get you out of here and that's all you need to know. You want out or not?<end>
+
+=>a14
+I've been hired to get you out of here and that's all you need to know. You want out or not?<end>
+
+=>q15_original
+Yes... of course I do. How do we get out of here...?<end>
+
+=>q15
+Yes... of course I do. How do we get out of here...?<end>
+
+=>q16_original
+Don't tell me you expect us to... just walk outta the front gate?<end>
+
+=>q16
+Don't tell me you expect us to... just walk outta the front gate?<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+I've unlocked your cell and opened the ventilation shaft. In the vents you'll find a crack that leads up into the caves.<end>
+
+=>a18
+I've unlocked your cell and opened the ventilation shaft. In the vents you'll find a crack that leads up into the caves.<end>
+
+=>q19_original
+I like the sound of that. Should work.<end>
+
+=>q19
+I like the sound of that. Should work.<end>
+
+=>a20_original
+::Wait for her to leave.::<end>
+
+=>a20
+::Wait for her to leave.::<end>
+
+=>a21_original
+::Unzip a body bag.:: Get in. I need to get you to the vent that'll take you outside. Your captors seem to be moving a lot of dead bodies around, so we might just be able to slip by without drawing attention.<end>
+
+=>a21
+::Unzip a body bag.:: Get in. I need to get you to the vent that'll take you outside. Your captors seem to be moving a lot of dead bodies around, so we might just be able to slip by without drawing attention.<end>
+
+=>q22_original
+::She stares at you in horror, but then she sighs.:: 
+
+Guess beggars can't be choosers. Let's get this over with...<end>
+
+=>q22
+::She stares at you in horror, but then she sighs.:: 
+
+Guess beggars can't be choosers. Let's get this over with...<end>
+
+=>a23_original
+::Carry her to the vent.::<end>
+
+=>a23
+::Carry her to the vent.::<end>
+
+=>a24_original
+::[Stealth]:: I've unlocked your cell and the door to this room. I'll take you to the vent that leads outside, so stay close and follow my lead.<end>
+
+=>a24
+::[Stealth]:: I've unlocked your cell and the door to this room. I'll take you to the vent that leads outside, so stay close and follow my lead.<end>
+
+=>q25_original
+Got it. I'm right behind you.<end>
+
+=>q25
+Got it. I'm right behind you.<end>
+
+=>a26_original
+::Take her to the vent.::<end>
+
+=>a26
+::Take her to the vent.::<end>
+
+=>a27_original
+I've unlocked your cell and the door to this room. You'll have to make a run to the vents in a room down the hall. In the vents you'll find a crack that leads up into the caves.<end>
+
+=>a27
+I've unlocked your cell and the door to this room. You'll have to make a run to the vents in a room down the hall. In the vents you'll find a crack that leads up into the caves.<end>
+
+=>q28_original
+Pfff! Sounds risky... but I guess I'll take my chances. Better than rottin' in this place.<end>
+
+=>q28
+Pfff! Sounds risky... but I guess I'll take my chances. Better than rottin' in this place.<end>
+
+=>a29_original
+::Wait for her to leave.::<end>
+
+=>a29
+::Wait for her to leave.::<end>
+
+=>a30_original
+::Look at the body bag you've found.:: Hmmm. Won't work without some appropriate apparel. You sit tight for just a bit longer.<end>
+
+=>a30
+::Look at the body bag you've found.:: Hmmm. Won't work without some appropriate apparel. You sit tight for just a bit longer.<end>
+
+=>a31_original
+Actually I'm still working on it. Sit tight.<end>
+
+=>a31
+Actually I'm still working on it. Sit tight.<end>
+
+=>a32_original
+I am $(context.player.Name).<end>
+
+=>a32
+I am $(context.player.Name).<end>
+
+=>q33_original
+How do we get out of here, $(context.player.Name)?<end>
+
+=>q33
+How do we get out of here, $(context.player.Name)?<end>
+
+=>a34_original
+Time to go, Maura.<end>
+
+=>a34
+Time to go, Maura.<end>
+
+=>q35_original
+What do you have in mind?<end>
+
+=>q35
+What do you have in mind?<end>
+
+=>a36_original
+::Leave her be.::<end>
+
+=>a36
+::Leave her be.::<end>
+
+=>a37_original
+Sit tight.<end>
+
+=>a37
+Sit tight.<end>
+
+=>q38_original
+Is the coast clear?<end>
+
+=>q38
+Is the coast clear?<end>
+
+=>q39_original
+::The woman seems highly apprehensive of you. She takes a few steps back, and you notice her stare is alternating between your face and your hands.::<end>
+
+=>q39
+::The woman seems highly apprehensive of you. She takes a few steps back, and you notice her stare is alternating between your face and your hands.::<end>
+
+=>q40_original
+What do we do now?<end>
+
+=>q40
+What do we do now?<end>
+
+=>q41_original
+::It takes only a second for Maura to recognize you.:: It's... It's you! The hell...?<end>
+
+=>q41
+::It takes only a second for Maura to recognize you.:: It's... It's you! The hell...?<end>
+
+=>a42_original
+Yup.<end>
+
+=>a42
+Yup.<end>
+
+=>q43_original
+Thank you so much for gettin' me outta can. Cans' can. ::She laughs.:: I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>q43
+Thank you so much for gettin' me outta can. Cans' can. ::She laughs.:: I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>a44_original
+I understand. It's $(context.player.Name).<end>
+
+=>a44
+I understand. It's $(context.player.Name).<end>
+
+=>q45_original
+Now I know my savior's name. $(context.player.Name). Got it.
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>q45
+Now I know my savior's name. $(context.player.Name). Got it.
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>q46_original
+<end>
+
+=>q46
+<end>
+
+=>a47_original
+Why did you join the Free Drones?<end>
+
+=>a47
+Why did you join the Free Drones?<end>
+
+=>q48_original
+::She stops to think.:: I guess because I'm simply that type of person. Man, I despise the United Stations, the Protectorate and all that... shenanigans. I remember the news - I was kinda young back then - about Protectorate forces takin' over, um, takin' over Biocorp's main headquarters in North Underrail. <end>
+
+=>q48
+::She stops to think.:: I guess because I'm simply that type of person. Man, I despise the United Stations, the Protectorate and all that... shenanigans. I remember the news - I was kinda young back then - about Protectorate forces takin' over, um, takin' over Biocorp's main headquarters in North Underrail. <end>
+
+=>q49_original
+Back then, yeah, it seemed so far away... so distant... but as you grow older, you realize how small Underrail really is. I was afraid they were gonna come here and enslave us. In a way, they ain't doin' bad so far. But, man, when they started building Fort Apogee in Upper Underrail, it sent shivers down my spine.<end>
+
+=>q49
+Back then, yeah, it seemed so far away... so distant... but as you grow older, you realize how small Underrail really is. I was afraid they were gonna come here and enslave us. In a way, they ain't doin' bad so far. But, man, when they started building Fort Apogee in Upper Underrail, it sent shivers down my spine.<end>
+
+=>q50_original
+Not all was lost, 'cause the Cans were followed by the Free Drones. I said to myself, to hell with it, I'm joinin' this crowd. Many of my friends followed, and, unfortunately, yeah, most of them are gone. Out of those old friends, only Becket still breathes.
+
+And there you go, $(#jack/sis). That's my story.<end>
+
+=>q50
+Not all was lost, 'cause the Cans were followed by the Free Drones. I said to myself, to hell with it, I'm joinin' this crowd. Many of my friends followed, and, unfortunately, yeah, most of them are gone. Out of those old friends, only Becket still breathes.
+
+And there you go, $(#jack/sis). That's my story.<end>
+
+=>a51_original
+What can you tell me about Lurkers?<end>
+
+=>a51
+What can you tell me about Lurkers?<end>
+
+=>q52_original
+Yeah, it's best you avoid those savages and don't think about them bein' cannibals, at all.<end>
+
+=>q52
+Yeah, it's best you avoid those savages and don't think about them bein' cannibals, at all.<end>
+
+=>q53_original
+The more you know, man, the more disgustin' and, and... revoltin' they seem. Damned savages.<end>
+
+=>q53
+The more you know, man, the more disgustin' and, and... revoltin' they seem. Damned savages.<end>
+
+=>a54_original
+So, why were you captured by the Protectorate?<end>
+
+=>a54
+So, why were you captured by the Protectorate?<end>
+
+=>q55_original
+In short - I was an idiot. I wasn't careful and that's why I got busted.<end>
+
+=>q55
+In short - I was an idiot. I wasn't careful and that's why I got busted.<end>
+
+=>a56_original
+What do you mean?<end>
+
+=>a56
+What do you mean?<end>
+
+=>q57_original
+Man, I was supposed to get some stuff from our Junkyard hideout. It's somethin' I do all the time, but this time I had some... hackin' equipment and stuff with me. Which was used to mess with the embassy's network. *Which* forced the Cans to keep their eyes peeled and on their toes. So I came along, and a handsome brainwashed Protectorate piece of trash caught me red-handed. <end>
+
+=>q57
+Man, I was supposed to get some stuff from our Junkyard hideout. It's somethin' I do all the time, but this time I had some... hackin' equipment and stuff with me. Which was used to mess with the embassy's network. *Which* forced the Cans to keep their eyes peeled and on their toes. So I came along, and a handsome brainwashed Protectorate piece of trash caught me red-handed. <end>
+
+=>q58_original
+I told them nuthin', just for the record. ::She laughs.:: You know the rest.<end>
+
+=>q58
+I told them nuthin', just for the record. ::She laughs.:: You know the rest.<end>
+
+=>a59_original
+What can you tell me about Hutch?<end>
+
+=>a59
+What can you tell me about Hutch?<end>
+
+=>q60_original
+He was a good kid. It's very sad he went down like that, man, it's like a family member dyin'. On the other hand, dyin' with the woman he loved is... better than bein' eaten by rathounds or somethin' even worse.<end>
+
+=>q60
+He was a good kid. It's very sad he went down like that, man, it's like a family member dyin'. On the other hand, dyin' with the woman he loved is... better than bein' eaten by rathounds or somethin' even worse.<end>
+
+=>q61_original
+It doesn't help much, I know, but still...<end>
+
+=>q61
+It doesn't help much, I know, but still...<end>
+
+=>a62_original
+What can you tell me about Kokoschka?<end>
+
+=>a62
+What can you tell me about Kokoschka?<end>
+
+=>q63_original
+Man, don't bring that up. I really miss that man...<end>
+
+=>q63
+Man, don't bring that up. I really miss that man...<end>
+
+=>q64_original
+He was so innocent and naive. He didn't even know why we fight or who we fight, he just wanted to fight for what he thought was right. In his mind, everything is simple, while I've lost so much sleep over the years, as most of us have. I have never seen him miss his "to get much rest" ten-hour sleep.
+
+::She laughs.:: As soon as his head touched the pillow, he's was in dream land. Legend.<end>
+
+=>q64
+He was so innocent and naive. He didn't even know why we fight or who we fight, he just wanted to fight for what he thought was right. In his mind, everything is simple, while I've lost so much sleep over the years, as most of us have. I have never seen him miss his "to get much rest" ten-hour sleep.
+
+::She laughs.:: As soon as his head touched the pillow, he's was in dream land. Legend.<end>
+
+=>q65_original
+"He very fine man." ::She laughs.::<end>
+
+=>q65
+"He very fine man." ::She laughs.::<end>
+
+=>q66_original
+I envy him, I really do. He's so innocent and naive! He doesn't know why we fight or who we fight, he just wants to fight for what he thinks is right. In his mind, everything is simple, while I've lost so much sleep over the years, as most of us have. I have yet to see him miss his "to get much rest" ten-hour sleep.
+
+::She laughs.:: As soon as his head touches the pillow, he's in dream land. Legend.<end>
+
+=>q66
+I envy him, I really do. He's so innocent and naive! He doesn't know why we fight or who we fight, he just wants to fight for what he thinks is right. In his mind, everything is simple, while I've lost so much sleep over the years, as most of us have. I have yet to see him miss his "to get much rest" ten-hour sleep.
+
+::She laughs.:: As soon as his head touches the pillow, he's in dream land. Legend.<end>
+
+=>a67_original
+What can you tell me about Darling?<end>
+
+=>a67
+What can you tell me about Darling?<end>
+
+=>q68_original
+You got your eyes on Darling? Don't try to fool me, man. I can tell.<end>
+
+=>q68
+You got your eyes on Darling? Don't try to fool me, man. I can tell.<end>
+
+=>q69_original
+::She smiles.:: You're not the only one, though. She caught Kokoschka's eyes as soon as he arrived, for example. You better make your moves... and fast!<end>
+
+=>q69
+::She smiles.:: You're not the only one, though. She caught Kokoschka's eyes as soon as he arrived, for example. You better make your moves... and fast!<end>
+
+=>q70_original
+Julia is a wonderful woman. She's someone who... listens. I personally can yap all day long and she'll listen to everything I have to say. Man, she's like a therapist.<end>
+
+=>q70
+Julia is a wonderful woman. She's someone who... listens. I personally can yap all day long and she'll listen to everything I have to say. Man, she's like a therapist.<end>
+
+=>q71_original
+Yeah, that's the word. Therapist. She also cooks like an angel. Man!<end>
+
+=>q71
+Yeah, that's the word. Therapist. She also cooks like an angel. Man!<end>
+
+=>a72_original
+What can you tell me about Becket?<end>
+
+=>a72
+What can you tell me about Becket?<end>
+
+=>q73_original
+He was an old friend of mine, and a business partner. I joined the Free Drones some time before him, as he's a little slow to notice what's going on in the world. ::She laughs.::<end>
+
+=>q73
+He was an old friend of mine, and a business partner. I joined the Free Drones some time before him, as he's a little slow to notice what's going on in the world. ::She laughs.::<end>
+
+=>q74_original
+We're good friends, even though he takes all the glory. He's *the* supplier. Becket... Eh...
+
+Even though he would never admit it, I know he was worried to death when the Cans got me. Just... don't tell him I said that.<end>
+
+=>q74
+We're good friends, even though he takes all the glory. He's *the* supplier. Becket... Eh...
+
+Even though he would never admit it, I know he was worried to death when the Cans got me. Just... don't tell him I said that.<end>
+
+=>a75_original
+What can you tell me about Trenton?<end>
+
+=>a75
+What can you tell me about Trenton?<end>
+
+=>q76_original
+Full respect for the man, he knows his stuff. Man, I don't want to be in his skin right now, it's damn stressful. You can tell, even though he doesn't like to talk about it, but the Free Drones in North Underrail are not pleased with some of the things happenin' here. He's been here since the cell was formed, and that's why he was always the one to answer directly to command.<end>
+
+=>q76
+Full respect for the man, he knows his stuff. Man, I don't want to be in his skin right now, it's damn stressful. You can tell, even though he doesn't like to talk about it, but the Free Drones in North Underrail are not pleased with some of the things happenin' here. He's been here since the cell was formed, and that's why he was always the one to answer directly to command.<end>
+
+=>q77_original
+But, if the takin' over of South Railroad Outpost doesn't please them, then I don't know what will. We'll have to wait for their answer.<end>
+
+=>q77
+But, if the takin' over of South Railroad Outpost doesn't please them, then I don't know what will. We'll have to wait for their answer.<end>
+
+=>q78_original
+We'll see how the situation develops.<end>
+
+=>q78
+We'll see how the situation develops.<end>
+
+=>a79_original
+What can you tell me about Bate?<end>
+
+=>a79
+What can you tell me about Bate?<end>
+
+=>q80_original
+I guess the treacherous rat got what he deserved. Pig!<end>
+
+=>q80
+I guess the treacherous rat got what he deserved. Pig!<end>
+
+=>q81_original
+We trusted him and he betrayed us to the Cans! I'd tied him to the tracks myself if he hadn't pulled a piece and spilled his blood here. Rat.<end>
+
+=>q81
+We trusted him and he betrayed us to the Cans! I'd tied him to the tracks myself if he hadn't pulled a piece and spilled his blood here. Rat.<end>
+
+=>q82_original
+Well, Bate. He's one of our leaders, really intelligent, witty, knows how to make the right calls and complements Trenton well, despite their different personalities. They work well as a team and we have faith in the decisions they make. <end>
+
+=>q82
+Well, Bate. He's one of our leaders, really intelligent, witty, knows how to make the right calls and complements Trenton well, despite their different personalities. They work well as a team and we have faith in the decisions they make. <end>
+
+=>q83_original
+Life of a Free Drone is difficult, and we need good leaders to take us to victory against the Protectorate rats.<end>
+
+=>q83
+Life of a Free Drone is difficult, and we need good leaders to take us to victory against the Protectorate rats.<end>
+
+=>a84_original
+What can you tell me about Marcella?<end>
+
+=>a84
+What can you tell me about Marcella?<end>
+
+=>q85_original
+She was inspirational, at least she was to me. You're a man, you might not understand it, but having such a strong female leader is... really motivatin' and inspirin'. While our comrades here, excluding Kokoschka, bless him, don't have a medieval view of women, you can't deny that this is a man's world. We, somehow, always have to show that we are equal to men, not the other way around.
+
+That's one of the reasons Marcella was, to me personally, such an important person.<end>
+
+=>q85
+She was inspirational, at least she was to me. You're a man, you might not understand it, but having such a strong female leader is... really motivatin' and inspirin'. While our comrades here, excluding Kokoschka, bless him, don't have a medieval view of women, you can't deny that this is a man's world. We, somehow, always have to show that we are equal to men, not the other way around.
+
+That's one of the reasons Marcella was, to me personally, such an important person.<end>
+
+=>q86_original
+And now she's gone, go figure. I wonder what happened to her.<end>
+
+=>q86
+And now she's gone, go figure. I wonder what happened to her.<end>
+
+=>q87_original
+She was inspirational, at least she was to me. I'm sure you understand it, having such a strong female leader is really motivatin' and inspirin' to us girls. While our comrades here, excluding Kokoschka, bless him, don't have a medieval view of women, you can't deny that this is a man's world. We, somehow, always have to show that we are equal to men, not the other way around.
+
+That's one of the reasons Marcella was, to me personally, such an important person.<end>
+
+=>q87
+She was inspirational, at least she was to me. I'm sure you understand it, having such a strong female leader is really motivatin' and inspirin' to us girls. While our comrades here, excluding Kokoschka, bless him, don't have a medieval view of women, you can't deny that this is a man's world. We, somehow, always have to show that we are equal to men, not the other way around.
+
+That's one of the reasons Marcella was, to me personally, such an important person.<end>
+
+=>a88_original
+Bye, Maura.<end>
+
+=>a88
+Bye, Maura.<end>
+
+=>a89_original
+$(context.player.Name), and try to remember it this time. I saved your life, it's the least you could do.<end>
+
+=>a89
+$(context.player.Name), and try to remember it this time. I saved your life, it's the least you could do.<end>
+
+=>q90_original
+Yeah, okay. I will, $(#jack/sis).
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>q90
+Yeah, okay. I will, $(#jack/sis).
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>a91_original
+Some people call me $(context.player.Name), but other call me - Invictus! ::Raise your fist in the air.::<end>
+
+=>a91
+Some people call me $(context.player.Name), but other call me - Invictus! ::Raise your fist in the air.::<end>
+
+=>q92_original
+::She pauses as she observes you. A second later, she points her finger at you.:: I dig. Yeah, I dig! You do look like the Invictus! The resemblance is... yeah, $(#jack/sis).<end>
+
+=>q92
+::She pauses as she observes you. A second later, she points her finger at you.:: I dig. Yeah, I dig! You do look like the Invictus! The resemblance is... yeah, $(#jack/sis).<end>
+
+=>a93_original
+No, I am *the* Invictus!<end>
+
+=>a93
+No, I am *the* Invictus!<end>
+
+=>q94_original
+Now that I think about it some more, you even sound like the Invictus! That's some good impersonation.
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>q94
+Now that I think about it some more, you even sound like the Invictus! That's some good impersonation.
+
+Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>a95_original
+Yes, I look like... $(#him/her).<end>
+
+=>a95
+Yes, I look like... $(#him/her).<end>
+
+=>q96_original
+Why the sad look? Oh, I think I get it: People don't see the resemblance. I know all about that! Listen, $(#jack/sis), my sister looked just like another glad...
+
+Anyhow... as a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>q96
+Why the sad look? Oh, I think I get it: People don't see the resemblance. I know all about that! Listen, $(#jack/sis), my sister looked just like another glad...
+
+Anyhow... as a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
+
+=>a97_original
+Nice to see you're alive and well.<end>
+
+=>a97
+Nice to see you're alive and well.<end>
+
+=>q98_original
+Thanks. Nice to see you too. I finally have a chance to thank you for helpin' me, and yeah... I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>q98
+Thanks. Nice to see you too. I finally have a chance to thank you for helpin' me, and yeah... I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>a99_original
+So what?<end>
+
+=>a99
+So what?<end>
+
+=>q100_original
+Hmpf. Nuthin', I guess. I just wanna thank you for helpin' me get outta there. I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>q100
+Hmpf. Nuthin', I guess. I just wanna thank you for helpin' me get outta there. I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
+
+=>q101_original
+Hey, $(#jack/sis).<end>
+
+=>q101
+Hey, $(#jack/sis).<end>
+

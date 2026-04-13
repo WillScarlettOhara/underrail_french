@@ -1,0 +1,90 @@
+=>q1_original
+::Most of the commands on this console are written in a language unknown to you. There's two you manage to make out, however.::<end>
+
+=>q1
+::Most of the commands on this console are written in a language unknown to you. There's two you manage to make out, however.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Enable ladder electric field.::<end>
+
+=>a3
+::Enable ladder electric field.::<end>
+
+=>q4_original
+::Electric field enabled.::<end>
+
+=>q4
+::Electric field enabled.::<end>
+
+=>a5_original
+::Disable ladder electric field.::<end>
+
+=>a5
+::Disable ladder electric field.::<end>
+
+=>q6_original
+::Electric field disabled.::<end>
+
+=>q6
+::Electric field disabled.::<end>
+
+=>a7_original
+::Enable secondary elevator power.::<end>
+
+=>a7
+::Enable secondary elevator power.::<end>
+
+=>q8_original
+::Secondary elevator power enabled.::<end>
+
+=>q8
+::Secondary elevator power enabled.::<end>
+
+=>a9_original
+::Disable secondary elevator power.::<end>
+
+=>a9
+::Disable secondary elevator power.::<end>
+
+=>q10_original
+::Secondary elevator power disabled.::<end>
+
+=>q10
+::Secondary elevator power disabled.::<end>
+
+=>a11_original
+::Randomly invoke commands.::<end>
+
+=>a11
+::Randomly invoke commands.::<end>
+
+=>q12_original
+::The console starts buzzing...::<end>
+
+=>q12
+::The console starts buzzing...::<end>
+
+=>a13_original
+::End Dialog.::<end>
+
+=>a13
+::End Dialog.::<end>
+
+=>q14_original
+::Nothing happens.::<end>
+
+=>q14
+::Nothing happens.::<end>
+
+=>a15_original
+::Leave.::<end>
+
+=>a15
+::Leave.::<end>
+

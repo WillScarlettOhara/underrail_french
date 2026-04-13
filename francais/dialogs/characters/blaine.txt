@@ -1,0 +1,648 @@
+=>q1_original
+I told you to get the hell out. I ain't doin' business with rats.<end>
+
+=>q1
+I told you to get the hell out. I ain't doin' business with rats.<end>
+
+=>q2_original
+::An unsmiling face hiding behind dark shades welcomes your arrival. Motionless at first, the man soon opens his mouth to speak, doing so with as little jaw movement as possible, shaping the sound with nothing but the most minute motions of his lips. The product - a clear and solid low-pitched voice.::
+
+I see you found the way to my little shop. Name's Blaine. Is there any particular reason you are here?<end>
+
+=>q2
+::An unsmiling face hiding behind dark shades welcomes your arrival. Motionless at first, the man soon opens his mouth to speak, doing so with as little jaw movement as possible, shaping the sound with nothing but the most minute motions of his lips. The product - a clear and solid low-pitched voice.::
+
+I see you found the way to my little shop. Name's Blaine. Is there any particular reason you are here?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Let me see what you got for sale. ::Barter.::<end>
+
+=>a4
+Let me see what you got for sale. ::Barter.::<end>
+
+=>q5_original
+One thing first: <end>
+
+=>q5
+One thing first: <end>
+
+=>q6_original
+The next time you come to my shop, ring twice short, once long, and twice short again. Dig?<end>
+
+=>q6
+The next time you come to my shop, ring twice short, once long, and twice short again. Dig?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+I dig. ::Barter.::<end>
+
+=>a8
+I dig. ::Barter.::<end>
+
+=>a9_original
+::Nod and barter.::<end>
+
+=>a9
+::Nod and barter.::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+I dig.<end>
+
+=>a11
+I dig.<end>
+
+=>a12_original
+::Nod and leave.::<end>
+
+=>a12
+::Nod and leave.::<end>
+
+=>a13_original
+Let me see what you got for sale. ::Barter.::<end>
+
+=>a13
+Let me see what you got for sale. ::Barter.::<end>
+
+=>a14_original
+Why do you keep a shop down here? Do you even get any customers?<end>
+
+=>a14
+Why do you keep a shop down here? Do you even get any customers?<end>
+
+=>q15_original
+My customers know how to find me. A lot of them also prefer the privacy these tunnels offer when they come to collect their... "special orders."<end>
+
+=>q15
+My customers know how to find me. A lot of them also prefer the privacy these tunnels offer when they come to collect their... "special orders."<end>
+
+=>a16_original
+What kind of "special orders" do you deal in?<end>
+
+=>a16
+What kind of "special orders" do you deal in?<end>
+
+=>q17_original
+All sort of... stuff that might be hard to acquire for one reason or the other. Why do you ask?<end>
+
+=>q17
+All sort of... stuff that might be hard to acquire for one reason or the other. Why do you ask?<end>
+
+=>a18_original
+::[Mercantile]:: I bet a lot of that *stuff* ends up uncollected. We live in Underrail, after all.<end>
+
+=>a18
+::[Mercantile]:: I bet a lot of that *stuff* ends up uncollected. We live in Underrail, after all.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+::He observes you quietly.:: You ain't wrong, $(#jack/sister), you ain't wrong at all. ::He pauses once again, but the pause is brief.:: I suppose I got a few orders that've collected enough dust for me to safely trade them.<end>
+
+=>q20
+::He observes you quietly.:: You ain't wrong, $(#jack/sister), you ain't wrong at all. ::He pauses once again, but the pause is brief.:: I suppose I got a few orders that've collected enough dust for me to safely trade them.<end>
+
+=>a21_original
+Then show me what you've got. ::Barter.::<end>
+
+=>a21
+Then show me what you've got. ::Barter.::<end>
+
+=>q22_original
+That's not for your eyes, $(#jack/sister).<end>
+
+=>q22
+That's not for your eyes, $(#jack/sister).<end>
+
+=>a23_original
+No reason.<end>
+
+=>a23
+No reason.<end>
+
+=>q24_original
+No reason...<end>
+
+=>q24
+No reason...<end>
+
+=>a25_original
+Actually, I came here to ask you a question about the Old Junkyard.<end>
+
+=>a25
+Actually, I came here to ask you a question about the Old Junkyard.<end>
+
+=>q26_original
+Is that so? I don't deal in information usually. That business is messy. Besides, there are others who do that kind of thing much better.<end>
+
+=>q26
+Is that so? I don't deal in information usually. That business is messy. Besides, there are others who do that kind of thing much better.<end>
+
+=>q27_original
+But I'm curious... why'd you come to me with this?<end>
+
+=>q27
+But I'm curious... why'd you come to me with this?<end>
+
+=>a28_original
+Silas told me to find you. He figures you're the most qualified person to help us figure our little problem out.<end>
+
+=>a28
+Silas told me to find you. He figures you're the most qualified person to help us figure our little problem out.<end>
+
+=>q29_original
+::For a moment you thought you noticed a smile on his face, but it could've been simply due to the lighting.:: 
+
+That's very amusin'. Silas askin' for my help.<end>
+
+=>q29
+::For a moment you thought you noticed a smile on his face, but it could've been simply due to the lighting.:: 
+
+That's very amusin'. Silas askin' for my help.<end>
+
+=>q30_original
+Funny, some years back I wouldn't even have considered talkin' to you Eels with nothin' but bullets... but a lot has changed since. Very well, ask your question.<end>
+
+=>q30
+Funny, some years back I wouldn't even have considered talkin' to you Eels with nothin' but bullets... but a lot has changed since. Very well, ask your question.<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Is there a way into the Scrappers HQ from the Old Junkyard other than the main gate?<end>
+
+=>a32
+Is there a way into the Scrappers HQ from the Old Junkyard other than the main gate?<end>
+
+=>q33_original
+I'll be damned. Did the old dirty eel finally muster up courage to go after the Scrappers?<end>
+
+=>q33
+I'll be damned. Did the old dirty eel finally muster up courage to go after the Scrappers?<end>
+
+=>a34_original
+Something like that, yeah.<end>
+
+=>a34
+Something like that, yeah.<end>
+
+=>q35_original
+Well in that case, I'll give you this one for free. Figure if you guys can pull it off, that will rid me of my problem with Eddy.<end>
+
+=>q35
+Well in that case, I'll give you this one for free. Figure if you guys can pull it off, that will rid me of my problem with Eddy.<end>
+
+=>q36_original
+There ain't any other ways to get in there right now, but if being stealthy about it is *not* what you're lookin' for here, then I think I know a way for you to clear the existin' entrance.<end>
+
+=>q36
+There ain't any other ways to get in there right now, but if being stealthy about it is *not* what you're lookin' for here, then I think I know a way for you to clear the existin' entrance.<end>
+
+=>q37_original
+You see, $(#jack/girl), back in the days when Depot A, as the Old Junkyard was called back then, was the main thing, Depot B, which is now the Scrappers HQ, was just a little forward outpost. It wasn't connected to the Underrail's ventilation system directly, but rather through Depot A.<end>
+
+=>q37
+You see, $(#jack/girl), back in the days when Depot A, as the Old Junkyard was called back then, was the main thing, Depot B, which is now the Scrappers HQ, was just a little forward outpost. It wasn't connected to the Underrail's ventilation system directly, but rather through Depot A.<end>
+
+=>q38_original
+So when the ceilin' started to crumble - figuratively - with the mutagen and whatnot, the survivors from Depot B set up explosives and collapsed all the vents because they feared the mutagen might've been airborne in nature.<end>
+
+=>q38
+So when the ceilin' started to crumble - figuratively - with the mutagen and whatnot, the survivors from Depot B set up explosives and collapsed all the vents because they feared the mutagen might've been airborne in nature.<end>
+
+=>q39_original
+So you see if you were to plant enough explosives there in the southernmost part of that cavern, it could collapse the gate above and all the defenses the Scrappers might have stacked up there. And there you go - a brand new entrance.<end>
+
+=>q39
+So you see if you were to plant enough explosives there in the southernmost part of that cavern, it could collapse the gate above and all the defenses the Scrappers might have stacked up there. And there you go - a brand new entrance.<end>
+
+=>q40_original
+Now - out of my shop.<end>
+
+=>q40
+Now - out of my shop.<end>
+
+=>q41_original
+So you see if you were to plant enough explosives there in the southernmost part of that cavern, it could collapse the gate above and all the defenses the Scrappers might have stacked up there. And there you go - a brand new entrance.<end>
+
+=>q41
+So you see if you were to plant enough explosives there in the southernmost part of that cavern, it could collapse the gate above and all the defenses the Scrappers might have stacked up there. And there you go - a brand new entrance.<end>
+
+=>a42_original
+It's so crazy it just might work.<end>
+
+=>a42
+It's so crazy it just might work.<end>
+
+=>q43_original
+Whatever the case may be, that's all I got for you. Take it or leave it.<end>
+
+=>q43
+Whatever the case may be, that's all I got for you. Take it or leave it.<end>
+
+=>a44_original
+Wouldn't that also open the passage for mutants as well?<end>
+
+=>a44
+Wouldn't that also open the passage for mutants as well?<end>
+
+=>q45_original
+I guess it would. It is possible. But you could use that to your advantage as well. Let them deal with the muties while you also attack them from the front.<end>
+
+=>q45
+I guess it would. It is possible. But you could use that to your advantage as well. Let them deal with the muties while you also attack them from the front.<end>
+
+=>a46_original
+::Say nothing.::<end>
+
+=>a46
+::Say nothing.::<end>
+
+=>q47_original
+Don't worry, I don't give a handful of rathound's excrement for them Scrappers anymore. Anyone worth his weight in scrap has long left that dump. All that's left are Eddy's lapdogs.<end>
+
+=>q47
+Don't worry, I don't give a handful of rathound's excrement for them Scrappers anymore. Anyone worth his weight in scrap has long left that dump. All that's left are Eddy's lapdogs.<end>
+
+=>q48_original
+That's a dangerous question. What's your game, $(#jack/girl)?<end>
+
+=>q48
+That's a dangerous question. What's your game, $(#jack/girl)?<end>
+
+=>a49_original
+I can't tell you that.<end>
+
+=>a49
+I can't tell you that.<end>
+
+=>q50_original
+Well, give me a good reason why I should be tellin' you anythin' then?<end>
+
+=>q50
+Well, give me a good reason why I should be tellin' you anythin' then?<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+I'll pay you.<end>
+
+=>a52
+I'll pay you.<end>
+
+=>q53_original
+I told you already - I don't deal in information. It's dirty business. Now you either give me a good reason why I should help you or move on.<end>
+
+=>q53
+I told you already - I don't deal in information. It's dirty business. Now you either give me a good reason why I should help you or move on.<end>
+
+=>a54_original
+::[Intimidate]:: Your shop is awfully close to SGS. I'm assuming you cleared this with Tanner and Gorsky?<end>
+
+=>a54
+::[Intimidate]:: Your shop is awfully close to SGS. I'm assuming you cleared this with Tanner and Gorsky?<end>
+
+=>q55_original
+You got some nerve comin' here and threatenin' me, $(#jack/girl). I collected boots from thugs like you before you were even born.<end>
+
+=>q55
+You got some nerve comin' here and threatenin' me, $(#jack/girl). I collected boots from thugs like you before you were even born.<end>
+
+=>q56_original
+::Silence ensues, seemingly lasting longer than it actually is. But an answer you soon get.:: Listen up: I'm only goin' to explain this once and then you get the hell out of my shop.<end>
+
+=>q56
+::Silence ensues, seemingly lasting longer than it actually is. But an answer you soon get.:: Listen up: I'm only goin' to explain this once and then you get the hell out of my shop.<end>
+
+=>q57_original
+Let's see what price I get for your boots. ::He nods to his guards.::<end>
+
+=>q57
+Let's see what price I get for your boots. ::He nods to his guards.::<end>
+
+=>a58_original
+::Fight!::<end>
+
+=>a58
+::Fight!::<end>
+
+=>a59_original
+::[Intimidate]:: Your shop is awfully close to SGS. I'm assuming you cleared this with the council?<end>
+
+=>a59
+::[Intimidate]:: Your shop is awfully close to SGS. I'm assuming you cleared this with the council?<end>
+
+=>a60_original
+::[Persuade]:: Let's just say that I'm planning to do something that will get you rid of your problems with Eddy once and for all.<end>
+
+=>a60
+::[Persuade]:: Let's just say that I'm planning to do something that will get you rid of your problems with Eddy once and for all.<end>
+
+=>q61_original
+I see what you're gettin' at and I like the sound of it. 
+
+Listen up.<end>
+
+=>q61
+I see what you're gettin' at and I like the sound of it. 
+
+Listen up.<end>
+
+=>q62_original
+I can take care of my problems on my own just fine.<end>
+
+=>q62
+I can take care of my problems on my own just fine.<end>
+
+=>a63_original
+Alright, the thing is - Eels are moving in against the Scrappers and we're looking for a way to get the jump on them.<end>
+
+=>a63
+Alright, the thing is - Eels are moving in against the Scrappers and we're looking for a way to get the jump on them.<end>
+
+=>q64_original
+I'll be damned. So the old dirty eel Silas finally mustered up courage to go after the Scrappers.<end>
+
+=>q64
+I'll be damned. So the old dirty eel Silas finally mustered up courage to go after the Scrappers.<end>
+
+=>a65_original
+Alright, let me think of a good reason. I'll get back to you.<end>
+
+=>a65
+Alright, let me think of a good reason. I'll get back to you.<end>
+
+=>q66_original
+You do that.<end>
+
+=>q66
+You do that.<end>
+
+=>a67_original
+That's none of your concern.<end>
+
+=>a67
+That's none of your concern.<end>
+
+=>a68_original
+The Eels are moving in against the Scrappers.<end>
+
+=>a68
+The Eels are moving in against the Scrappers.<end>
+
+=>a69_original
+I heard you used to do scavenging runs there all the time so I reckon you'd be the best person to ask.<end>
+
+=>a69
+I heard you used to do scavenging runs there all the time so I reckon you'd be the best person to ask.<end>
+
+=>q70_original
+And what's your question?<end>
+
+=>q70
+And what's your question?<end>
+
+=>a71_original
+About my question regarding Old Junkyard.<end>
+
+=>a71
+About my question regarding Old Junkyard.<end>
+
+=>q72_original
+So, you ready to tell me what you're actually up to?<end>
+
+=>q72
+So, you ready to tell me what you're actually up to?<end>
+
+=>a73_original
+I heard your old Scrapper buddy Eddy wants you dead. Why is that?<end>
+
+=>a73
+I heard your old Scrapper buddy Eddy wants you dead. Why is that?<end>
+
+=>q74_original
+Because he's a greedy little rat, that's why. Thinks everythin' in Old Junkyard belongs to him.<end>
+
+=>q74
+Because he's a greedy little rat, that's why. Thinks everythin' in Old Junkyard belongs to him.<end>
+
+=>q75_original
+Don't tell me you're here to collect on some sort of bounty, $(#boy/girl)?<end>
+
+=>q75
+Don't tell me you're here to collect on some sort of bounty, $(#boy/girl)?<end>
+
+=>a76_original
+Yeah, someone's actually willing to pay for your ugly head. Go figure. ::Attack!::<end>
+
+=>a76
+Yeah, someone's actually willing to pay for your ugly head. Go figure. ::Attack!::<end>
+
+=>a77_original
+No, I was just curious.<end>
+
+=>a77
+No, I was just curious.<end>
+
+=>q78_original
+Good.<end>
+
+=>q78
+Good.<end>
+
+=>a79_original
+Eddy is dead.<end>
+
+=>a79
+Eddy is dead.<end>
+
+=>q80_original
+Hm... ::He raises his eyebrow slightly.:: Who did it?<end>
+
+=>q80
+Hm... ::He raises his eyebrow slightly.:: Who did it?<end>
+
+=>a81_original
+I did it. You're welcome.<end>
+
+=>a81
+I did it. You're welcome.<end>
+
+=>q82_original
+::He calmly shakes your hand.:: Well done. <end>
+
+=>q82
+::He calmly shakes your hand.:: Well done. <end>
+
+=>q83_original
+This is good news. Eddy's death solves a fair number of my problems - both business and personal. Thank you for bringin' it up. <end>
+
+=>q83
+This is good news. Eddy's death solves a fair number of my problems - both business and personal. Thank you for bringin' it up. <end>
+
+=>a84_original
+No problem. However, I wanted to talk about something else now.<end>
+
+=>a84
+No problem. However, I wanted to talk about something else now.<end>
+
+=>q85_original
+Yes?<end>
+
+=>q85
+Yes?<end>
+
+=>a86_original
+Now that we're done with that - I have to get going. See you some other time, Blaine.<end>
+
+=>a86
+Now that we're done with that - I have to get going. See you some other time, Blaine.<end>
+
+=>q87_original
+Farewell.<end>
+
+=>q87
+Farewell.<end>
+
+=>a88_original
+The Eels. It was bound to happen at some point.<end>
+
+=>a88
+The Eels. It was bound to happen at some point.<end>
+
+=>q89_original
+I suppose so. Took 'em long enough, though. <end>
+
+=>q89
+I suppose so. Took 'em long enough, though. <end>
+
+=>a90_original
+A large group of mutants managed to break through the gate. Tore him to pieces.<end>
+
+=>a90
+A large group of mutants managed to break through the gate. Tore him to pieces.<end>
+
+=>q91_original
+It must've been an excrutiatin' death. Good. But if the Scrappers are unable to contain the mutants... that sounds like bad news. <end>
+
+=>q91
+It must've been an excrutiatin' death. Good. But if the Scrappers are unable to contain the mutants... that sounds like bad news. <end>
+
+=>a92_original
+No one knows. The assassin killed him without anyone noticing. His guards found him lying in his own blood a few hours later.<end>
+
+=>a92
+No one knows. The assassin killed him without anyone noticing. His guards found him lying in his own blood a few hours later.<end>
+
+=>q93_original
+Sounds like a pro. Eddy must've stepped on some really important toes. <end>
+
+=>q93
+Sounds like a pro. Eddy must've stepped on some really important toes. <end>
+
+=>a94_original
+Actually, he got a heart attack.<end>
+
+=>a94
+Actually, he got a heart attack.<end>
+
+=>q95_original
+So even his heart betrayed him. Oddly fittin'. <end>
+
+=>q95
+So even his heart betrayed him. Oddly fittin'. <end>
+
+=>a96_original
+He tripped and fell into a scrap compactor. It turned itself on due to faulty wiring.<end>
+
+=>a96
+He tripped and fell into a scrap compactor. It turned itself on due to faulty wiring.<end>
+
+=>q97_original
+I'm sure of it. I'm surprised it was capable of crushin' his massive ego, but it's still a perfectly ironic death for a Scrapper. <end>
+
+=>q97
+I'm sure of it. I'm surprised it was capable of crushin' his massive ego, but it's still a perfectly ironic death for a Scrapper. <end>
+
+=>a98_original
+Would you happen to have an Armadillo class drill rotor circuit board by any chance?<end>
+
+=>a98
+Would you happen to have an Armadillo class drill rotor circuit board by any chance?<end>
+
+=>q99_original
+No.<end>
+
+=>q99
+No.<end>
+
+=>q100_original
+I'd advise you to ask around Junkyard, but I assume you've already done that. Can't help you.<end>
+
+=>q100
+I'd advise you to ask around Junkyard, but I assume you've already done that. Can't help you.<end>
+
+=>a101_original
+I've got to get going.<end>
+
+=>a101
+I've got to get going.<end>
+
+=>q102_original
+Got some new stuff you might find interestin', $(#jack/sister).<end>
+
+=>q102
+Got some new stuff you might find interestin', $(#jack/sister).<end>
+
+=>a103_original
+Interesting. Let's see what you got. ::Barter.::<end>
+
+=>a103
+Interesting. Let's see what you got. ::Barter.::<end>
+
+=>a104_original
+I came here to ask you a few questions, actually.<end>
+
+=>a104
+I came here to ask you a few questions, actually.<end>
+
+=>q105_original
+Ask.<end>
+
+=>q105
+Ask.<end>
+
+=>q106_original
+Lookin' for somethin' specific?<end>
+
+=>q106
+Lookin' for somethin' specific?<end>
+

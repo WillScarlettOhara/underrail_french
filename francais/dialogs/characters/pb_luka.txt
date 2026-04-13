@@ -1,0 +1,494 @@
+=>q1_original
+::This rather portly man appears to be working on some complicated-looking mechanical part. All his mental capacity seems to be focused on it, as to him you aren't there. Granted, there is a lot of noise in the room, which makes it difficult to hear someone approach. And yours has been, so far, met only with the backside of a worn shirt marked with burn marks, oil splotches and a few torn spots.::<end>
+
+=>q1
+::This rather portly man appears to be working on some complicated-looking mechanical part. All his mental capacity seems to be focused on it, as to him you aren't there. Granted, there is a lot of noise in the room, which makes it difficult to hear someone approach. And yours has been, so far, met only with the backside of a worn shirt marked with burn marks, oil splotches and a few torn spots.::<end>
+
+=>a2_original
+Excuse me?<end>
+
+=>a2
+Excuse me?<end>
+
+=>q3_original
+::He twitches for an instant, dropping his screwdriver. He turns around, his face morphing from confusion into a smile.::
+
+Gee, you startled me, $(#sir/ma'am). Oh, oh... I'm sorry, I was focused on repairing the right leg stabilizers that I wasn't even aware someone was there. :: He laughs.:: Gee...<end>
+
+=>q3
+::He twitches for an instant, dropping his screwdriver. He turns around, his face morphing from confusion into a smile.::
+
+Gee, you startled me, $(#sir/ma'am). Oh, oh... I'm sorry, I was focused on repairing the right leg stabilizers that I wasn't even aware someone was there. :: He laughs.:: Gee...<end>
+
+=>a4_original
+I'm sorry, I didn't mean to startle you.<end>
+
+=>a4
+I'm sorry, I didn't mean to startle you.<end>
+
+=>q5_original
+No need to apologize, $(#sir/ma'am)! It's my fault, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>q5
+No need to apologize, $(#sir/ma'am)! It's my fault, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Let me see what you have. ::Barter.::<end>
+
+=>a7
+Let me see what you have. ::Barter.::<end>
+
+=>a8_original
+I need these mutagen cans rigged in a specific way. Can you help me?<end>
+
+=>a8
+I need these mutagen cans rigged in a specific way. Can you help me?<end>
+
+=>q9_original
+Gee, Corporal, I'd love to help you, but I'm too...
+
+Did you say mutagen?<end>
+
+=>q9
+Gee, Corporal, I'd love to help you, but I'm too...
+
+Did you say mutagen?<end>
+
+=>a10_original
+Yes, any problems with that?<end>
+
+=>a10
+Yes, any problems with that?<end>
+
+=>q11_original
+No... not at all, $(#sir/ma'am). But, I'm just too busy with what I have here.
+
+Maybe Will can help you with that; he's right over there. ::He points to a man in coveralls working on a console nearby.::<end>
+
+=>q11
+No... not at all, $(#sir/ma'am). But, I'm just too busy with what I have here.
+
+Maybe Will can help you with that; he's right over there. ::He points to a man in coveralls working on a console nearby.::<end>
+
+=>a12_original
+Fine, I'll talk to him.<end>
+
+=>a12
+Fine, I'll talk to him.<end>
+
+=>q13_original
+::He nods.::<end>
+
+=>q13
+::He nods.::<end>
+
+=>a14_original
+No, you misheard me. I asked you a completely different question.<end>
+
+=>a14
+No, you misheard me. I asked you a completely different question.<end>
+
+=>q15_original
+Oh... Oh! ::He laughs.:: It must have been because of the noise. Could you repeat the question, perhaps?<end>
+
+=>q15
+Oh... Oh! ::He laughs.:: It must have been because of the noise. Could you repeat the question, perhaps?<end>
+
+=>a16_original
+What can you tell me about Dreadnoughts?<end>
+
+=>a16
+What can you tell me about Dreadnoughts?<end>
+
+=>q17_original
+Gee, if you give me a couple of days I could type you an encyclopedia, $(#sir/ma'am). ::He laughs.:: 
+
+But, just look at one of them: So imposing, so... powerful. Hardcore! Just hardcore. The "official" name is APF-99 Dreadnought, where APF stands for "Armored Powered Frame."
+
+These beasts are packing powerful 1000 kW WPE turbine engines, and their fusion cores can last for years without needing replacement.<end>
+
+=>q17
+Gee, if you give me a couple of days I could type you an encyclopedia, $(#sir/ma'am). ::He laughs.:: 
+
+But, just look at one of them: So imposing, so... powerful. Hardcore! Just hardcore. The "official" name is APF-99 Dreadnought, where APF stands for "Armored Powered Frame."
+
+These beasts are packing powerful 1000 kW WPE turbine engines, and their fusion cores can last for years without needing replacement.<end>
+
+=>q18_original
+Of course, the most dominating part about them is their weaponry! They pack an SBA-75 chaingun, attached to one arm; a powerful 80 series drill on the other; and a 30mm rocket launcher sitting on their shoulder. Gee, some models even had a system installed that allowed them to use smart rockets, but that's been out of use for several years.<end>
+
+=>q18
+Of course, the most dominating part about them is their weaponry! They pack an SBA-75 chaingun, attached to one arm; a powerful 80 series drill on the other; and a 30mm rocket launcher sitting on their shoulder. Gee, some models even had a system installed that allowed them to use smart rockets, but that's been out of use for several years.<end>
+
+=>a19_original
+Can I pilot one by any chance?<end>
+
+=>a19
+Can I pilot one by any chance?<end>
+
+=>q20_original
+::He raises his eyebrows.:: No! No, no, no! Only trained pilots can use Dreadnoughts. If I let you use one, I'd be back on the rails. Or worse. Gee...<end>
+
+=>q20
+::He raises his eyebrows.:: No! No, no, no! Only trained pilots can use Dreadnoughts. If I let you use one, I'd be back on the rails. Or worse. Gee...<end>
+
+=>a21_original
+That's truly interesting. But before this gets out of hand, we better move on to something else.<end>
+
+=>a21
+That's truly interesting. But before this gets out of hand, we better move on to something else.<end>
+
+=>q22_original
+::He laughs.:: Go ahead, $(#sir/ma'am).<end>
+
+=>q22
+::He laughs.:: Go ahead, $(#sir/ma'am).<end>
+
+=>a23_original
+Why did you join the Protectorate?<end>
+
+=>a23
+Why did you join the Protectorate?<end>
+
+=>q24_original
+I haven't been asked that question in a long time. I don't know if you're familiar with the history of Core City, but, I was living there when all the... riots and death were at their peak. Gee, $(#sir/ma'am), those were some rough times. It was like a war on the streets, everyone was dying as gangs ran amok. I had to get out of there. <end>
+
+=>q24
+I haven't been asked that question in a long time. I don't know if you're familiar with the history of Core City, but, I was living there when all the... riots and death were at their peak. Gee, $(#sir/ma'am), those were some rough times. It was like a war on the streets, everyone was dying as gangs ran amok. I had to get out of there. <end>
+
+=>q25_original
+It got a bit better over the years, but some parts are still just falling apart. You've heard of Drop Zone? No? I lived there. Worst part of the city barring the sewers, I'd say.
+
+Then... pfft, five years ago, Protectorate moved in. I told myself, nothing keeps me in Core City, I can get protection and food here, and Protectorate seemed like, like the good guys. Let's give it a shot, I thought! I enlisted as a private, and soon enough, I saw those machines...<end>
+
+=>q25
+It got a bit better over the years, but some parts are still just falling apart. You've heard of Drop Zone? No? I lived there. Worst part of the city barring the sewers, I'd say.
+
+Then... pfft, five years ago, Protectorate moved in. I told myself, nothing keeps me in Core City, I can get protection and food here, and Protectorate seemed like, like the good guys. Let's give it a shot, I thought! I enlisted as a private, and soon enough, I saw those machines...<end>
+
+=>q26_original
+I was dominated. ::He laughs.:: They wouldn't let me train to be a pilot, sadly, maybe because I was a Southerner, I don't know. But, I was good at fixin' stuff. You can guess what happens next. ::He laughs.::
+
+There. That's my story.<end>
+
+=>q26
+I was dominated. ::He laughs.:: They wouldn't let me train to be a pilot, sadly, maybe because I was a Southerner, I don't know. But, I was good at fixin' stuff. You can guess what happens next. ::He laughs.::
+
+There. That's my story.<end>
+
+=>a27_original
+What can you tell me about the Free Drones?<end>
+
+=>a27
+What can you tell me about the Free Drones?<end>
+
+=>q28_original
+Drones? I spit on those bloody pipeworkers. They can zone out of Underrail and into the very bowels of the earth... Bastards.<end>
+
+=>q28
+Drones? I spit on those bloody pipeworkers. They can zone out of Underrail and into the very bowels of the earth... Bastards.<end>
+
+=>a29_original
+You really hate them, I see.<end>
+
+=>a29
+You really hate them, I see.<end>
+
+=>q30_original
+Do you think I shouldn't? Gee, $(#sir/ma'am), they are like the plague. They oppose the unification, they cause chaos and take more lives than the bandits. No one talks about that, but our sources have confirmed that Drones perform purges in small stations that won't join them. It's like, if you're not with us, you're against us.<end>
+
+=>q30
+Do you think I shouldn't? Gee, $(#sir/ma'am), they are like the plague. They oppose the unification, they cause chaos and take more lives than the bandits. No one talks about that, but our sources have confirmed that Drones perform purges in small stations that won't join them. It's like, if you're not with us, you're against us.<end>
+
+=>q31_original
+I heard the CAU gassed their main hideout in the passages. Serves the bastards right. <end>
+
+=>q31
+I heard the CAU gassed their main hideout in the passages. Serves the bastards right. <end>
+
+=>q32_original
+I heard you met them before, I hope you got to kill some of those bastards.<end>
+
+=>q32
+I heard you met them before, I hope you got to kill some of those bastards.<end>
+
+=>a33_original
+Yeah, to hell with those stinking anarchists.<end>
+
+=>a33
+Yeah, to hell with those stinking anarchists.<end>
+
+=>q34_original
+That's what I'm talking about, $(#sir/ma'am). I've lost friends to those zon--... those bastards. And just look at what they did to our doctor. To me, they are just like regular bandits and raiders, with a bit more propaganda involved. They go from station to station and drag what we stand for through mud, how we are conquerors and what not. Gee... what a load of pipeworks.<end>
+
+=>q34
+That's what I'm talking about, $(#sir/ma'am). I've lost friends to those zon--... those bastards. And just look at what they did to our doctor. To me, they are just like regular bandits and raiders, with a bit more propaganda involved. They go from station to station and drag what we stand for through mud, how we are conquerors and what not. Gee... what a load of pipeworks.<end>
+
+=>a35_original
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>a35
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>q36_original
+Oh, yeah, you should see Staff Sergeant Fraser about that.<end>
+
+=>q36
+Oh, yeah, you should see Staff Sergeant Fraser about that.<end>
+
+=>q37_original
+You can find him near the base entrance, $(#sir/ma'am).<end>
+
+=>q37
+You can find him near the base entrance, $(#sir/ma'am).<end>
+
+=>a38_original
+What can you tell me about Consul Oliver?<end>
+
+=>a38
+What can you tell me about Consul Oliver?<end>
+
+=>q39_original
+Meh...<end>
+
+=>q39
+Meh...<end>
+
+=>a40_original
+Meh? What is that supposed to mean?<end>
+
+=>a40
+Meh? What is that supposed to mean?<end>
+
+=>q41_original
+Meh... like meh... In a sense that... meh.<end>
+
+=>q41
+Meh... like meh... In a sense that... meh.<end>
+
+=>q42_original
+I mean, gee, all those diplomats are the same to me. I can't explain it. I mean, I support the unification, and understand what it brings. United Stations; all good. But diplomats in general? Too much talking, too little action. I don't know...<end>
+
+=>q42
+I mean, gee, all those diplomats are the same to me. I can't explain it. I mean, I support the unification, and understand what it brings. United Stations; all good. But diplomats in general? Too much talking, too little action. I don't know...<end>
+
+=>a43_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a43
+What can you tell me about Colonel Cathcart?<end>
+
+=>q44_original
+He can get things done. I'm serious, hardcore style. He sees things the way they are, and not all officers are like that, Corporal. A lot of them just sit in the office and just, just give orders from the safety of their nice chairs. ::He laughs.:: From comfy chairs.<end>
+
+=>q44
+He can get things done. I'm serious, hardcore style. He sees things the way they are, and not all officers are like that, Corporal. A lot of them just sit in the office and just, just give orders from the safety of their nice chairs. ::He laughs.:: From comfy chairs.<end>
+
+=>q45_original
+The colonel is different. He knows you have to be prepared to do anything it takes to make it through and live to see another day. Dominating words, I have to admit. And he does all that without meaningless sacrifice and death.<end>
+
+=>q45
+The colonel is different. He knows you have to be prepared to do anything it takes to make it through and live to see another day. Dominating words, I have to admit. And he does all that without meaningless sacrifice and death.<end>
+
+=>q46_original
+Perhaps he's the reason the Protectorate is still in South Underrail. With how much we are loved here, maybe another commander wouldn't have been able to cement our position like Colonel Cathcart did.<end>
+
+=>q46
+Perhaps he's the reason the Protectorate is still in South Underrail. With how much we are loved here, maybe another commander wouldn't have been able to cement our position like Colonel Cathcart did.<end>
+
+=>a47_original
+What can you tell me about Fraser?<end>
+
+=>a47
+What can you tell me about Fraser?<end>
+
+=>q48_original
+::His face turns slightly sour.:: Please, $(#sir/ma'am), don't get me started on that big-nosed rathound-siphoner offspring. He's a hardcore pain in the rear, like accidentally sitting on a stalagmite coated in crawler venom. He hates us Southerners with burning passion, people like me, Case and point, if he hasn't treated you like an inferior - he will. Just give him time.<end>
+
+=>q48
+::His face turns slightly sour.:: Please, $(#sir/ma'am), don't get me started on that big-nosed rathound-siphoner offspring. He's a hardcore pain in the rear, like accidentally sitting on a stalagmite coated in crawler venom. He hates us Southerners with burning passion, people like me, Case and point, if he hasn't treated you like an inferior - he will. Just give him time.<end>
+
+=>q49_original
+Gee, everyone hates him, $(#sir/ma'am), Northerners or not, because he's so stuck up and retarded. And more stupid than a slackjaw. I wish I could tell him to zone out, at least once...<end>
+
+=>q49
+Gee, everyone hates him, $(#sir/ma'am), Northerners or not, because he's so stuck up and retarded. And more stupid than a slackjaw. I wish I could tell him to zone out, at least once...<end>
+
+=>a50_original
+Yes, Luka. I had other questions.<end>
+
+=>a50
+Yes, Luka. I had other questions.<end>
+
+=>q51_original
+::He ignores you and continues.:: I wish I could, but he's an officer; I'd be in trouble. But only once, for calling me a ratter all these years...<end>
+
+=>q51
+::He ignores you and continues.:: I wish I could, but he's an officer; I'd be in trouble. But only once, for calling me a ratter all these years...<end>
+
+=>a52_original
+Luka...<end>
+
+=>a52
+Luka...<end>
+
+=>q53_original
+And that girly voice of his, he sounds like he was born without any...<end>
+
+=>q53
+And that girly voice of his, he sounds like he was born without any...<end>
+
+=>a54_original
+Luka.<end>
+
+=>a54
+Luka.<end>
+
+=>q55_original
+::He snaps out of it.:: Oh, gee, Corporal. I got carried away. You, um, wanted to ask me something else, right?<end>
+
+=>q55
+::He snaps out of it.:: Oh, gee, Corporal. I got carried away. You, um, wanted to ask me something else, right?<end>
+
+=>a56_original
+What can you tell me about Case?<end>
+
+=>a56
+What can you tell me about Case?<end>
+
+=>q57_original
+It's not because he's a Southerner like me, no, $(#sir/ma'am). And it's not because I wouldn't get my meal if it wasn't for him, no. I love that man because he is - a hardcore person. Because, you see, $(#sir/ma'am), we shared a common problem when we first came to Fort Apogee...<end>
+
+=>q57
+It's not because he's a Southerner like me, no, $(#sir/ma'am). And it's not because I wouldn't get my meal if it wasn't for him, no. I love that man because he is - a hardcore person. Because, you see, $(#sir/ma'am), we shared a common problem when we first came to Fort Apogee...<end>
+
+=>q58_original
+We were Southerners, and we're always under a microscope. We have to prove that we're worth a damn. And we stick together; we're stronger that way. So, we gradually built a friendship, a good friendship. A dominating friendship! ::He laughs.::<end>
+
+=>q58
+We were Southerners, and we're always under a microscope. We have to prove that we're worth a damn. And we stick together; we're stronger that way. So, we gradually built a friendship, a good friendship. A dominating friendship! ::He laughs.::<end>
+
+=>q59_original
+I just want to clarify one thing, $(#sir/ma'am): A large number of Northerners don't care where you're from; your personality and what you are able to do is what's important to them, just like any sane person. But some derailed idiots here *still* consider us inferior. You'll meet some soon enough, if you haven't already...<end>
+
+=>q59
+I just want to clarify one thing, $(#sir/ma'am): A large number of Northerners don't care where you're from; your personality and what you are able to do is what's important to them, just like any sane person. But some derailed idiots here *still* consider us inferior. You'll meet some soon enough, if you haven't already...<end>
+
+=>a60_original
+What can you tell me about Anastasia?<end>
+
+=>a60
+What can you tell me about Anastasia?<end>
+
+=>q61_original
+Gee, $(#sir/ma'am), she's great. I know her well; we like talking to each other and hanging out at the mess, during meal time. She's very intelligent but... she's been through a lot.<end>
+
+=>q61
+Gee, $(#sir/ma'am), she's great. I know her well; we like talking to each other and hanging out at the mess, during meal time. She's very intelligent but... she's been through a lot.<end>
+
+=>q62_original
+Her train was attacked several years ago by Free Drones. The bastards used chemical weapons-- Oh, and it was a civilian train, mind you. Hardcore bastards. Doc survived, obviously, but she was hurt real bad. But if you think that'd stop her - you were wrong!<end>
+
+=>q62
+Her train was attacked several years ago by Free Drones. The bastards used chemical weapons-- Oh, and it was a civilian train, mind you. Hardcore bastards. Doc survived, obviously, but she was hurt real bad. But if you think that'd stop her - you were wrong!<end>
+
+=>q63_original
+She knew what she had to do, and here she is now, saving lives. Gee, $(#sir/ma'am), I once heard one crippled soldier say that he thought his life was over; he lost a leg, it's all over! He was zoned to the bone! But after he saw how Anastasia moved forward despite what happened to her, he realized a limb is just a limb, and that things that matter to you in life don't get blown away with it.
+
+Zone out, man, you only get one life, that's what he said. Paraphrased.<end>
+
+=>q63
+She knew what she had to do, and here she is now, saving lives. Gee, $(#sir/ma'am), I once heard one crippled soldier say that he thought his life was over; he lost a leg, it's all over! He was zoned to the bone! But after he saw how Anastasia moved forward despite what happened to her, he realized a limb is just a limb, and that things that matter to you in life don't get blown away with it.
+
+Zone out, man, you only get one life, that's what he said. Paraphrased.<end>
+
+=>a64_original
+What can you tell me about CAU?<end>
+
+=>a64
+What can you tell me about CAU?<end>
+
+=>q65_original
+You don't want to know what I think about them... and I'm lucky I don't have to deal with them. They ain't right in the head. Hardcore derailed lunatics. They are cruel: I've heard how they used corrosive chemicals to torture their prisoners, how they enjoy killing people in some of the most violent ways. Corporal, I know they are efficient soldiers, but they make my stomach turn.<end>
+
+=>q65
+You don't want to know what I think about them... and I'm lucky I don't have to deal with them. They ain't right in the head. Hardcore derailed lunatics. They are cruel: I've heard how they used corrosive chemicals to torture their prisoners, how they enjoy killing people in some of the most violent ways. Corporal, I know they are efficient soldiers, but they make my stomach turn.<end>
+
+=>q66_original
+Luckily, they aren't here anymore, so that I don't have to see their scary masks.<end>
+
+=>q66
+Luckily, they aren't here anymore, so that I don't have to see their scary masks.<end>
+
+=>q67_original
+I hope they get out of here. The sooner the better. Gee...<end>
+
+=>q67
+I hope they get out of here. The sooner the better. Gee...<end>
+
+=>a68_original
+What can you tell me about the Faceless?<end>
+
+=>a68
+What can you tell me about the Faceless?<end>
+
+=>q69_original
+I'd like to mess around with their gear. ::He laughs.:: I know, they dwell in Deep Caverns, as far as I've heard, and they're the bad guys... but I'm interested in what they have. Their weapons, shields, vehicles.<end>
+
+=>q69
+I'd like to mess around with their gear. ::He laughs.:: I know, they dwell in Deep Caverns, as far as I've heard, and they're the bad guys... but I'm interested in what they have. Their weapons, shields, vehicles.<end>
+
+=>q70_original
+Some told me how they saw the giant tunneling machines, and immediately I thought of a cross between that, and a Dreadnought. Imagine that...
+
+::He drifts off, probably constructing it in his mind and marveling at its dominating appearance.::<end>
+
+=>q70
+Some told me how they saw the giant tunneling machines, and immediately I thought of a cross between that, and a Dreadnought. Imagine that...
+
+::He drifts off, probably constructing it in his mind and marveling at its dominating appearance.::<end>
+
+=>a71_original
+See you some other time, Luka.<end>
+
+=>a71
+See you some other time, Luka.<end>
+
+=>a72_original
+I startled you good, didn't I?<end>
+
+=>a72
+I startled you good, didn't I?<end>
+
+=>q73_original
+Oh, you did. You... you did. Hardcore. ::He smiles.:: But, serves me right, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>q73
+Oh, you did. You... you did. Hardcore. ::He smiles.:: But, serves me right, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>a74_original
+::Leave.::<end>
+
+=>a74
+::Leave.::<end>
+
+=>q75_original
+::He salutes you.:: What can I do for you, Corporal?<end>
+
+=>q75
+::He salutes you.:: What can I do for you, Corporal?<end>
+

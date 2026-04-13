@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Huh? You said something, $(#son/honey)?<end>
+
+=>q2
+Huh? You said something, $(#son/honey)?<end>
+
+=>q3_original
+Whaaa'? Can't hear you!<end>
+
+=>q3
+Whaaa'? Can't hear you!<end>
+
+=>q4_original
+Being institute-born is a blessing, you don't get the chance to catch some horrible diseases... like I did.<end>
+
+=>q4
+Being institute-born is a blessing, you don't get the chance to catch some horrible diseases... like I did.<end>
+
+=>q5_original
+My whole life I've been fighting this... illness... but I'm sure one day Tchort will send me the cure!<end>
+
+=>q5
+My whole life I've been fighting this... illness... but I'm sure one day Tchort will send me the cure!<end>
+
+=>q6_original
+Tchort is evolution... ::She tries to raise her arm, but it just drops back down.::<end>
+
+=>q6
+Tchort is evolution... ::She tries to raise her arm, but it just drops back down.::<end>
+
+=>q7_original
+SPEAK LOUDER!<end>
+
+=>q7
+SPEAK LOUDER!<end>
+
+=>q8_original
+I feel so... dystrophic.<end>
+
+=>q8
+I feel so... dystrophic.<end>
+
+=>q9_original
+Tchort guide you, $(#son/honey).<end>
+
+=>q9
+Tchort guide you, $(#son/honey).<end>
+
+=>q10_original
+Ugh... yes... Tchort will help me...<end>
+
+=>q10
+Ugh... yes... Tchort will help me...<end>
+

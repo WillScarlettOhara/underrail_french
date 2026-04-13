@@ -1,0 +1,72 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+It's so hot in here.<end>
+
+=>q2
+It's so hot in here.<end>
+
+=>q3_original
+::Sighs.::<end>
+
+=>q3
+::Sighs.::<end>
+
+=>q4_original
+I thought you were my supervisor for a second there. Phew!<end>
+
+=>q4
+I thought you were my supervisor for a second there. Phew!<end>
+
+=>q5_original
+That slimeball Nicolas wanted to have his wife killed!<end>
+
+=>q5
+That slimeball Nicolas wanted to have his wife killed!<end>
+
+=>q6_original
+Why are you even here?<end>
+
+=>q6
+Why are you even here?<end>
+
+=>q7_original
+Hearing what Evelyn did to those men turns my stomach. Sick!<end>
+
+=>q7
+Hearing what Evelyn did to those men turns my stomach. Sick!<end>
+
+=>q8_original
+I need some rest. I feel like I need to punch someone.<end>
+
+=>q8
+I need some rest. I feel like I need to punch someone.<end>
+
+=>q9_original
+It's very difficult to work in these conditions.<end>
+
+=>q9
+It's very difficult to work in these conditions.<end>
+
+=>q10_original
+I'm gonna need some water.<end>
+
+=>q10
+I'm gonna need some water.<end>
+
+=>q11_original
+Nicolas... Another one bites the dust...<end>
+
+=>q11
+Nicolas... Another one bites the dust...<end>
+
+=>q12_original
+Did you hear? Faceless lifted the blockade in Core City.<end>
+
+=>q12
+Did you hear? Faceless lifted the blockade in Core City.<end>
+

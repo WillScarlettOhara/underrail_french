@@ -1,0 +1,36 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'm gonna tell my grandchildren about how I survived this.<end>
+
+=>q2
+I'm gonna tell my grandchildren about how I survived this.<end>
+
+=>q3_original
+Thanks for the help, $(context.player.Name).<end>
+
+=>q3
+Thanks for the help, $(context.player.Name).<end>
+
+=>q4_original
+No one messes with us and lives to tell the tale! Right, Agent?<end>
+
+=>q4
+No one messes with us and lives to tell the tale! Right, Agent?<end>
+
+=>q5_original
+We dominated those dirtbags!<end>
+
+=>q5
+We dominated those dirtbags!<end>
+
+=>q6_original
+Get in position!<end>
+
+=>q6
+Get in position!<end>
+

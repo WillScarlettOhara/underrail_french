@@ -1,0 +1,490 @@
+=>q1_original
+I asked you to leave me be...<end>
+
+=>q1
+I asked you to leave me be...<end>
+
+=>q2_original
+::A casual glance could easily fool one into thinking that this stock-still rassophore is actually a mind-bogglingly realistic statue. His gaze is fixated at the enormous glowing crystal and the only motion you are able to notice him making can be attributed to his unhurried, shallow breathing. His masked face gives away as much as his first words uttered after he finally acknowledges of your existence.::
+
+The truth...<end>
+
+=>q2
+::A casual glance could easily fool one into thinking that this stock-still rassophore is actually a mind-bogglingly realistic statue. His gaze is fixated at the enormous glowing crystal and the only motion you are able to notice him making can be attributed to his unhurried, shallow breathing. His masked face gives away as much as his first words uttered after he finally acknowledges of your existence.::
+
+The truth...<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Are you alright, brother? Tell me your name?<end>
+
+=>a4
+Are you alright, brother? Tell me your name?<end>
+
+=>q5_original
+::His answer comes with a delay.:: Mateo... Efreitor... Preservation... Tchort... Or, that is what I used to be at least... My old self... but no more...<end>
+
+=>q5
+::His answer comes with a delay.:: Mateo... Efreitor... Preservation... Tchort... Or, that is what I used to be at least... My old self... but no more...<end>
+
+=>q6_original
+But no more...<end>
+
+=>q6
+But no more...<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Mediant Samuel told me you and your rassophores never returned and sent me to find you.<end>
+
+=>a8
+Mediant Samuel told me you and your rassophores never returned and sent me to find you.<end>
+
+=>q9_original
+Mediant? Yes... he sent us here to see what was happening... Thank him when you talk to him again... Without him... I would not know the truth... thank him...<end>
+
+=>q9
+Mediant? Yes... he sent us here to see what was happening... Thank him when you talk to him again... Without him... I would not know the truth... thank him...<end>
+
+=>a10_original
+What happened to the rest of your unit? Where are they?<end>
+
+=>a10
+What happened to the rest of your unit? Where are they?<end>
+
+=>q11_original
+::His gives you an answer after a long pause.:: Consumed... they were consumed...<end>
+
+=>q11
+::His gives you an answer after a long pause.:: Consumed... they were consumed...<end>
+
+=>a12_original
+You ate them!?<end>
+
+=>a12
+You ate them!?<end>
+
+=>q13_original
+Not I... but minions...<end>
+
+=>q13
+Not I... but minions...<end>
+
+=>a14_original
+But why?<end>
+
+=>a14
+But why?<end>
+
+=>q15_original
+The rassophores thought they knew what was best for me... They thought that the Monolith was destroying my mind... distorting it into madness. But... if they returned me back as they had intended... even by force... *that* would have truly destroyed me...<end>
+
+=>q15
+The rassophores thought they knew what was best for me... They thought that the Monolith was destroying my mind... distorting it into madness. But... if they returned me back as they had intended... even by force... *that* would have truly destroyed me...<end>
+
+=>q16_original
+I cannot blame them... they were ignorant... of the truth. I had to protect myself... minions had to protect me. I felt terrible for the rassophores... it was difficult to ignore the cries of those that once meant something to me... but that was what I had to do. In the long run, it was for the best. Now everything is quiet.<end>
+
+=>q16
+I cannot blame them... they were ignorant... of the truth. I had to protect myself... minions had to protect me. I felt terrible for the rassophores... it was difficult to ignore the cries of those that once meant something to me... but that was what I had to do. In the long run, it was for the best. Now everything is quiet.<end>
+
+=>q17_original
+It was... for the best...<end>
+
+=>q17
+It was... for the best...<end>
+
+=>a18_original
+Minions?<end>
+
+=>a18
+Minions?<end>
+
+=>q19_original
+They are around me... protecting me... while I absorb the truth.<end>
+
+=>q19
+They are around me... protecting me... while I absorb the truth.<end>
+
+=>a20_original
+Why did the minions consume those rassophores?<end>
+
+=>a20
+Why did the minions consume those rassophores?<end>
+
+=>a21_original
+You allowed some monsters to eat them!? I cannot tolerate this anymore - prepare to die! ::Attack!::<end>
+
+=>a21
+You allowed some monsters to eat them!? I cannot tolerate this anymore - prepare to die! ::Attack!::<end>
+
+=>a22_original
+Consumed? Who or what consumed them?<end>
+
+=>a22
+Consumed? Who or what consumed them?<end>
+
+=>q23_original
+Minions...<end>
+
+=>q23
+Minions...<end>
+
+=>a24_original
+How long have you been here?<end>
+
+=>a24
+How long have you been here?<end>
+
+=>q25_original
+Not long enough...<end>
+
+=>q25
+Not long enough...<end>
+
+=>a26_original
+Can I get a more specific answer?<end>
+
+=>a26
+Can I get a more specific answer?<end>
+
+=>q27_original
+I... I do not know... The human mind doesn't do well with time - it is not interested in it - only events, experiences...<end>
+
+=>q27
+I... I do not know... The human mind doesn't do well with time - it is not interested in it - only events, experiences...<end>
+
+=>q28_original
+Besides, I was... am so invested in absorbing the truth that I... I... pay no attention to such... irrelevant things...<end>
+
+=>q28
+Besides, I was... am so invested in absorbing the truth that I... I... pay no attention to such... irrelevant things...<end>
+
+=>a29_original
+I see... I had other questions though.<end>
+
+=>a29
+I see... I had other questions though.<end>
+
+=>q30_original
+Questions...<end>
+
+=>q30
+Questions...<end>
+
+=>a31_original
+Can I help you somehow or bring someone to help you perhaps?<end>
+
+=>a31
+Can I help you somehow or bring someone to help you perhaps?<end>
+
+=>q32_original
+Alone... I must be left alone... that is the only thing you can do...<end>
+
+=>q32
+Alone... I must be left alone... that is the only thing you can do...<end>
+
+=>q33_original
+The Monolith... holds the truth...<end>
+
+=>q33
+The Monolith... holds the truth...<end>
+
+=>a34_original
+What is this crystal you are looking at?<end>
+
+=>a34
+What is this crystal you are looking at?<end>
+
+=>q35_original
+The Monolith... it holds the truth... it told me the truth... it holds power... it gave me power.<end>
+
+=>q35
+The Monolith... it holds the truth... it told me the truth... it holds power... it gave me power.<end>
+
+=>a36_original
+What truth? What power?<end>
+
+=>a36
+What truth? What power?<end>
+
+=>q37_original
+The truth about everything... My whole life I was taught Tchortism... I was taught that Tchort is the key... but it is not... I was taught that we will reach the Surface... but now I don't wish to... I believed that we can become a better race... but now I know the truth...<end>
+
+=>q37
+The truth about everything... My whole life I was taught Tchortism... I was taught that Tchort is the key... but it is not... I was taught that we will reach the Surface... but now I don't wish to... I believed that we can become a better race... but now I know the truth...<end>
+
+=>q38_original
+How do I know that it is the real truth...? The Monolith closed my eyes and opened my mind... my experience was twisted and falsified by others, as well as myself and my own beliefs... I wished for something to be true - so my mind made it true... But the Monolith showed me the past, the present, the future...  and beyond. It showed me... the truth...<end>
+
+=>q38
+How do I know that it is the real truth...? The Monolith closed my eyes and opened my mind... my experience was twisted and falsified by others, as well as myself and my own beliefs... I wished for something to be true - so my mind made it true... But the Monolith showed me the past, the present, the future...  and beyond. It showed me... the truth...<end>
+
+=>a39_original
+But what about the power? You mentioned power?<end>
+
+=>a39
+But what about the power? You mentioned power?<end>
+
+=>q40_original
+The power of sight and foresight is now in my possession... I close my eyes and look through someone else's... My minions... they are everywhere... But when I don't wish to see as they do... I can close those eyes... and open others.<end>
+
+=>q40
+The power of sight and foresight is now in my possession... I close my eyes and look through someone else's... My minions... they are everywhere... But when I don't wish to see as they do... I can close those eyes... and open others.<end>
+
+=>q41_original
+Like... right now... $(context.player.Name)... I see... events from different eras happening at the same time... in my mind... it... is all...<end>
+
+=>q41
+Like... right now... $(context.player.Name)... I see... events from different eras happening at the same time... in my mind... it... is all...<end>
+
+=>q42_original
+::He becomes silent.::<end>
+
+=>q42
+::He becomes silent.::<end>
+
+=>a43_original
+Yeah...right. Let me ask you something else.<end>
+
+=>a43
+Yeah...right. Let me ask you something else.<end>
+
+=>a44_original
+Tell me again about the Monolith...<end>
+
+=>a44
+Tell me again about the Monolith...<end>
+
+=>a45_original
+Where did the Monolith come from?<end>
+
+=>a45
+Where did the Monolith come from?<end>
+
+=>q46_original
+I cannot describe it... it is difficult to comprehend... and our language cannot describe it. Only those who... who learn the truth from the Monolith learn that fact too...<end>
+
+=>q46
+I cannot describe it... it is difficult to comprehend... and our language cannot describe it. Only those who... who learn the truth from the Monolith learn that fact too...<end>
+
+=>a47_original
+Can I also learn the truth?<end>
+
+=>a47
+Can I also learn the truth?<end>
+
+=>q48_original
+You may not...<end>
+
+=>q48
+You may not...<end>
+
+=>a49_original
+But why?<end>
+
+=>a49
+But why?<end>
+
+=>q50_original
+Two people cannot absorb... from the Monolith at once... and it is currently my turn... my need... Do not touch it...<end>
+
+=>q50
+Two people cannot absorb... from the Monolith at once... and it is currently my turn... my need... Do not touch it...<end>
+
+=>q51_original
+Do not... touch the Monolith...<end>
+
+=>q51
+Do not... touch the Monolith...<end>
+
+=>a52_original
+Why aren't the creatures around here attacking you?<end>
+
+=>a52
+Why aren't the creatures around here attacking you?<end>
+
+=>q53_original
+My minions... they are my minions now... in my power... protecting me... while I absorb the truth...<end>
+
+=>q53
+My minions... they are my minions now... in my power... protecting me... while I absorb the truth...<end>
+
+=>q54_original
+::He faintly repeats the last word before becoming silent.::<end>
+
+=>q54
+::He faintly repeats the last word before becoming silent.::<end>
+
+=>a55_original
+You have lost your mind! But, there is a cure - death! ::Attack!::<end>
+
+=>a55
+You have lost your mind! But, there is a cure - death! ::Attack!::<end>
+
+=>a56_original
+I will leave you to whatever you are doing...<end>
+
+=>a56
+I will leave you to whatever you are doing...<end>
+
+=>q57_original
+Absorbing the truth...<end>
+
+=>q57
+Absorbing the truth...<end>
+
+=>a58_original
+Tchort guide you, brother, and farewell.<end>
+
+=>a58
+Tchort guide you, brother, and farewell.<end>
+
+=>q59_original
+I don't need their guidance... Leave...<end>
+
+=>q59
+I don't need their guidance... Leave...<end>
+
+=>a60_original
+I have to go now...<end>
+
+=>a60
+I have to go now...<end>
+
+=>q61_original
+Go where...? I sensed something... when I told you of my... rassophores... I sensed something... within you... Where are you going...?<end>
+
+=>q61
+Go where...? I sensed something... when I told you of my... rassophores... I sensed something... within you... Where are you going...?<end>
+
+=>a62_original
+To leave you to your destiny. I have no plans to return here.<end>
+
+=>a62
+To leave you to your destiny. I have no plans to return here.<end>
+
+=>q63_original
+Good... <end>
+
+=>q63
+Good... <end>
+
+=>q64_original
+I wish to be left alone... If you bring someone here to disturb me... know that you will be bringing them to their death... If you come back to disturb me...<end>
+
+=>q64
+I wish to be left alone... If you bring someone here to disturb me... know that you will be bringing them to their death... If you come back to disturb me...<end>
+
+=>q65_original
+::He suddenly falls silent.::<end>
+
+=>q65
+::He suddenly falls silent.::<end>
+
+=>a66_original
+Wait... I had other questions...<end>
+
+=>a66
+Wait... I had other questions...<end>
+
+=>q67_original
+I will not answer any more questions... Leave...<end>
+
+=>q67
+I will not answer any more questions... Leave...<end>
+
+=>a68_original
+Goodbye.<end>
+
+=>a68
+Goodbye.<end>
+
+=>a69_original
+Oh, don't worry about that. I just wanted to see something and then come back.<end>
+
+=>a69
+Oh, don't worry about that. I just wanted to see something and then come back.<end>
+
+=>q70_original
+Do not return... <end>
+
+=>q70
+Do not return... <end>
+
+=>a71_original
+To get someone to help you. That thing fried your brain and I hope there is some of it that we can save.<end>
+
+=>a71
+To get someone to help you. That thing fried your brain and I hope there is some of it that we can save.<end>
+
+=>q72_original
+I cannot allow more disturbance... I... cannot...<end>
+
+=>q72
+I cannot allow more disturbance... I... cannot...<end>
+
+=>a73_original
+::Fight!::<end>
+
+=>a73
+::Fight!::<end>
+
+=>a74_original
+That is none of your business!<end>
+
+=>a74
+That is none of your business!<end>
+
+=>q75_original
+None of my business...? I see it now... but I should have seen it sooner...<end>
+
+=>q75
+None of my business...? I see it now... but I should have seen it sooner...<end>
+
+=>a76_original
+Who are you?<end>
+
+=>a76
+Who are you?<end>
+
+=>a77_original
+Efreitor Mateo, is that you?<end>
+
+=>a77
+Efreitor Mateo, is that you?<end>
+
+=>q78_original
+::His answer comes with a delay.:: Mateo? Yes... I used to be him... My old self... but no more...<end>
+
+=>q78
+::His answer comes with a delay.:: Mateo? Yes... I used to be him... My old self... but no more...<end>
+
+=>a79_original
+I have to go.<end>
+
+=>a79
+I have to go.<end>
+
+=>q80_original
+Leave...<end>
+
+=>q80
+Leave...<end>
+
+=>q81_original
+::He remains silent to your approach.::<end>
+
+=>q81
+::He remains silent to your approach.::<end>
+

@@ -1,0 +1,18 @@
+=>q1_original
+::Step inside the elevator to start the Gauntlet?::<end>
+
+=>q1
+::Step inside the elevator to start the Gauntlet?::<end>
+
+=>a2_original
+::Step inside.::<end>
+
+=>a2
+::Step inside.::<end>
+
+=>a3_original
+::Wait a bit more.::<end>
+
+=>a3
+::Wait a bit more.::<end>
+

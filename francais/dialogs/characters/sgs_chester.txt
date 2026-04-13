@@ -1,0 +1,562 @@
+=>q1_original
+So long.<end>
+
+=>q1
+So long.<end>
+
+=>q2_original
+::Even though you see the reflection of the lively flame in his eyes, liveliness is one attribute which cannot be ascribed to them: They are vacant and pointed at a bottle of cold brew in front of him, untouched; his respirator is still on his face.
+
+There's a small dirty spade leaned against the shack wall.::<end>
+
+=>q2
+::Even though you see the reflection of the lively flame in his eyes, liveliness is one attribute which cannot be ascribed to them: They are vacant and pointed at a bottle of cold brew in front of him, untouched; his respirator is still on his face.
+
+There's a small dirty spade leaned against the shack wall.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Do you recognize this? ::Show him the gold ring.::<end>
+
+=>a4
+Do you recognize this? ::Show him the gold ring.::<end>
+
+=>q5_original
+::Its sparkle is mirrored in his eyes.::
+
+That ring... ::He lifts his head, and his whole figure suddenly appears larger.:: Where did you find this?<end>
+
+=>q5
+::Its sparkle is mirrored in his eyes.::
+
+That ring... ::He lifts his head, and his whole figure suddenly appears larger.:: Where did you find this?<end>
+
+=>a6_original
+In a water treatment plant south of here.<end>
+
+=>a6
+In a water treatment plant south of here.<end>
+
+=>q7_original
+It's my father's ring, but it's been worn by my-- ::He pauses.::
+
+...my dead <end>
+
+=>q7
+It's my father's ring, but it's been worn by my-- ::He pauses.::
+
+...my dead <end>
+
+=>q8_original
+brother<end>
+
+=>q8
+brother<end>
+
+=>q9_original
+. I *must* have it. ::He appears even larger now. The casted shadows must be playing tricks on your eyes.::<end>
+
+=>q9
+. I *must* have it. ::He appears even larger now. The casted shadows must be playing tricks on your eyes.::<end>
+
+=>a10_original
+I killed a madman who's done twisted things to your sibling...<end>
+
+=>a10
+I killed a madman who's done twisted things to your sibling...<end>
+
+=>q11_original
+::He remains silent.::<end>
+
+=>q11
+::He remains silent.::<end>
+
+=>a12_original
+I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
+
+=>a12
+I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
+
+=>q13_original
+::The ring rests on his palm, and he stares at it with teary eyes.:: <end>
+
+=>q13
+::The ring rests on his palm, and he stares at it with teary eyes.:: <end>
+
+=>q14_original
+::He lifts his head looks at you one last time, grabs his spade - and leaves without saying a word.::<end>
+
+=>q14
+::He lifts his head looks at you one last time, grabs his spade - and leaves without saying a word.::<end>
+
+=>a15_original
+::Grab the brew he left and walk away.::<end>
+
+=>a15
+::Grab the brew he left and walk away.::<end>
+
+=>a16_original
+::Leave.::<end>
+
+=>a16
+::Leave.::<end>
+
+=>q17_original
+Thank you for this.<end>
+
+=>q17
+Thank you for this.<end>
+
+=>a18_original
+Can I ask you a few questions about Joshua?<end>
+
+=>a18
+Can I ask you a few questions about Joshua?<end>
+
+=>q19_original
+::He removes his respirator and takes a sip of his now lukewarm brew.::
+
+Go ahead.<end>
+
+=>q19
+::He removes his respirator and takes a sip of his now lukewarm brew.::
+
+Go ahead.<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+That ring. You mentioned it was your father's, yet it bears your sibling's initials.<end>
+
+=>a21
+That ring. You mentioned it was your father's, yet it bears your sibling's initials.<end>
+
+=>q22_original
+::He takes a moment to respond.:: They are the same. Our father's name was Jasper. Jasper Royce.<end>
+
+=>q22
+::He takes a moment to respond.:: They are the same. Our father's name was Jasper. Jasper Royce.<end>
+
+=>q23_original
+He was a scavenger too... and he gave this to $(tempcontext.siblingName) on his deathbed.<end>
+
+=>q23
+He was a scavenger too... and he gave this to $(tempcontext.siblingName) on his deathbed.<end>
+
+=>a24_original
+Tell me about $(tempcontext.siblingName).<end>
+
+=>a24
+Tell me about $(tempcontext.siblingName).<end>
+
+=>q25_original
+We were all inseparable. Inseparable. Our whole lives we were on the rails. All five of us.
+
+We lost Mom first... then Karl, our brother.
+
+Dad died three years ago... and now I'm the only one left.<end>
+
+=>q25
+We were all inseparable. Inseparable. Our whole lives we were on the rails. All five of us.
+
+We lost Mom first... then Karl, our brother.
+
+Dad died three years ago... and now I'm the only one left.<end>
+
+=>q26_original
+Life of a scavenger, it is full of risk and danger every step of the way. And... hm.
+
+::He takes a sip of his brew.:: But that's all we could ever do.<end>
+
+=>q26
+Life of a scavenger, it is full of risk and danger every step of the way. And... hm.
+
+::He takes a sip of his brew.:: But that's all we could ever do.<end>
+
+=>a27_original
+Yet you got separated, it seems.<end>
+
+=>a27
+Yet you got separated, it seems.<end>
+
+=>q28_original
+::He nods. It takes him quite a while to respond.:: We wanted to explore the ruins south of here, but it was full of burrowers. On our way back some bandits have made camp nearby, and they saw us and went after us, the sons of rats. 
+
+We got separated amidst all of that, you see... and $(tempcontext.siblingName)... I don't know what happened.<end>
+
+=>q28
+::He nods. It takes him quite a while to respond.:: We wanted to explore the ruins south of here, but it was full of burrowers. On our way back some bandits have made camp nearby, and they saw us and went after us, the sons of rats. 
+
+We got separated amidst all of that, you see... and $(tempcontext.siblingName)... I don't know what happened.<end>
+
+=>q29_original
+He <end>
+
+=>q29
+He <end>
+
+=>q30_original
+had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
+
+=>q30
+had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
+
+=>a31_original
+There was this water treatment plant nearby...<end>
+
+=>a31
+There was this water treatment plant nearby...<end>
+
+=>q32_original
+::He gestures you to stop.::
+
+No. I'd seen the body. I don't want to know anything... as long as the bastard responsible is dead.<end>
+
+=>q32
+::He gestures you to stop.::
+
+No. I'd seen the body. I don't want to know anything... as long as the bastard responsible is dead.<end>
+
+=>q33_original
+She <end>
+
+=>q33
+She <end>
+
+=>a34_original
+Now what will you do?<end>
+
+=>a34
+Now what will you do?<end>
+
+=>q35_original
+::He glances at his spade.:: Well... I've buried, ah... I've buried $(tempcontext.siblingName) next to Dad.<end>
+
+=>q35
+::He glances at his spade.:: Well... I've buried, ah... I've buried $(tempcontext.siblingName) next to Dad.<end>
+
+=>q36_original
+::He shrugs.:: Now I'm off to... do what I do best. 
+
+And wait...<end>
+
+=>q36
+::He shrugs.:: Now I'm off to... do what I do best. 
+
+And wait...<end>
+
+=>a37_original
+I'll be leaving you now. Take care.<end>
+
+=>a37
+I'll be leaving you now. Take care.<end>
+
+=>q38_original
+::He nods and takes a sip of his brew, then stares at the gold ring in whose reflection you see a dancing flame - and many prying eyes around, of which he is as oblivious.
+
+Then he finishes the brew, grabs his spade - and walks away.::<end>
+
+=>q38
+::He nods and takes a sip of his brew, then stares at the gold ring in whose reflection you see a dancing flame - and many prying eyes around, of which he is as oblivious.
+
+Then he finishes the brew, grabs his spade - and walks away.::<end>
+
+=>a39_original
+Can I ask you a few questions about Jennifer?<end>
+
+=>a39
+Can I ask you a few questions about Jennifer?<end>
+
+=>a40_original
+I wish I could just give this to you for free, but getting this wasn't cheap.<end>
+
+=>a40
+I wish I could just give this to you for free, but getting this wasn't cheap.<end>
+
+=>q41_original
+::He reaches for his coin bag.::
+
+<end>
+
+=>q41
+::He reaches for his coin bag.::
+
+<end>
+
+=>q42_original
+How much do you want?<end>
+
+=>q42
+How much do you want?<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+A hundred charons will do it.<end>
+
+=>a44
+A hundred charons will do it.<end>
+
+=>q45_original
+::He counts one hundred charons.:: <end>
+
+=>q45
+::He counts one hundred charons.:: <end>
+
+=>q46_original
+Here. ::He hands you the coins.::
+
+The ring.<end>
+
+=>q46
+Here. ::He hands you the coins.::
+
+The ring.<end>
+
+=>a47_original
+::Give him the gold ring.::<end>
+
+=>a47
+::Give him the gold ring.::<end>
+
+=>a48_original
+Niiiiice. Here you go. ::Give him the gold ring.::<end>
+
+=>a48
+Niiiiice. Here you go. ::Give him the gold ring.::<end>
+
+=>a49_original
+::[Mercantile]:: Hundred fifty.<end>
+
+=>a49
+::[Mercantile]:: Hundred fifty.<end>
+
+=>q50_original
+::He counts one hundred fifty charons.:: <end>
+
+=>q50
+::He counts one hundred fifty charons.:: <end>
+
+=>q51_original
+::He stares at you for a while, then shakes his head.::<end>
+
+=>q51
+::He stares at you for a while, then shakes his head.::<end>
+
+=>a52_original
+Hundred fifty it is.<end>
+
+=>a52
+Hundred fifty it is.<end>
+
+=>q53_original
+::He counts one hundred fifty charons.:: <end>
+
+=>q53
+::He counts one hundred fifty charons.:: <end>
+
+=>a54_original
+::[Mercantile]:: Two hundred.<end>
+
+=>a54
+::[Mercantile]:: Two hundred.<end>
+
+=>q55_original
+::He counts two hundred charons.:: <end>
+
+=>q55
+::He counts two hundred charons.:: <end>
+
+=>a56_original
+::[Mercantile]:: Two fifty.<end>
+
+=>a56
+::[Mercantile]:: Two fifty.<end>
+
+=>q57_original
+::He counts two hundred fifty charons.:: <end>
+
+=>q57
+::He counts two hundred fifty charons.:: <end>
+
+=>a58_original
+It's not good enough. Guess I'll be keeping this.<end>
+
+=>a58
+It's not good enough. Guess I'll be keeping this.<end>
+
+=>q59_original
+::He steps forward, holding his crossbow tightly.::
+
+I gotta... I gotta have that ring.<end>
+
+=>q59
+::He steps forward, holding his crossbow tightly.::
+
+I gotta... I gotta have that ring.<end>
+
+=>a60_original
+The ring stays with me unless you pay up, man.<end>
+
+=>a60
+The ring stays with me unless you pay up, man.<end>
+
+=>q61_original
+::He puts the whole bag in your hand, and in that same motion grabs your arm with his other hand.::
+
+Give me the ring, you worm!<end>
+
+=>q61
+::He puts the whole bag in your hand, and in that same motion grabs your arm with his other hand.::
+
+Give me the ring, you worm!<end>
+
+=>a62_original
+Take it easy, fella. Here it is. ::Give him the gold ring.::<end>
+
+=>a62
+Take it easy, fella. Here it is. ::Give him the gold ring.::<end>
+
+=>a63_original
+Hands off! Here, take the damn thing. ::Give him the gold ring.::<end>
+
+=>a63
+Hands off! Here, take the damn thing. ::Give him the gold ring.::<end>
+
+=>a64_original
+::Look around.:: Guess I'm going on a killing spree today! ::Attack!::<end>
+
+=>a64
+::Look around.:: Guess I'm going on a killing spree today! ::Attack!::<end>
+
+=>q65_original
+Here's a hundred fifty charons. Enough?<end>
+
+=>q65
+Here's a hundred fifty charons. Enough?<end>
+
+=>a66_original
+You know what... Just take the damn ring. ::Give him the ring.::<end>
+
+=>a66
+You know what... Just take the damn ring. ::Give him the ring.::<end>
+
+=>a67_original
+And that puts an extra price on the ring.<end>
+
+=>a67
+And that puts an extra price on the ring.<end>
+
+=>a68_original
+I killed a madman who's tortured your sibling with fire...<end>
+
+=>a68
+I killed a madman who's tortured your sibling with fire...<end>
+
+=>a69_original
+I killed a madman who's unleashed terrible machines on your sibling...<end>
+
+=>a69
+I killed a madman who's unleashed terrible machines on your sibling...<end>
+
+=>a70_original
+I killed a madman who's taken the life of your sibling in a terrible way...<end>
+
+=>a70
+I killed a madman who's taken the life of your sibling in a terrible way...<end>
+
+=>a71_original
+I killed a madman who's unleashed bloodthirsty creatures upon your sibling...<end>
+
+=>a71
+I killed a madman who's unleashed bloodthirsty creatures upon your sibling...<end>
+
+=>a72_original
+I killed a madman who's ravaged your sibling's mind...<end>
+
+=>a72
+I killed a madman who's ravaged your sibling's mind...<end>
+
+=>a73_original
+And you will, for the right price.<end>
+
+=>a73
+And you will, for the right price.<end>
+
+=>q74_original
+sister<end>
+
+=>q74
+sister<end>
+
+=>a75_original
+That's not important. What is is how much are you willing to pay for it?<end>
+
+=>a75
+That's not important. What is is how much are you willing to pay for it?<end>
+
+=>q76_original
+I am willing... <end>
+
+=>q76
+I am willing... <end>
+
+=>a77_original
+Hey, man.<end>
+
+=>a77
+Hey, man.<end>
+
+=>q78_original
+::He glances at you, then looks back at his brew.::<end>
+
+=>q78
+::He glances at you, then looks back at his brew.::<end>
+
+=>q79_original
+::From his respirator seeps a cold response.::
+
+Leave me alone.<end>
+
+=>q79
+::From his respirator seeps a cold response.::
+
+Leave me alone.<end>
+
+=>a80_original
+Excuse me...<end>
+
+=>a80
+Excuse me...<end>
+
+=>a81_original
+You're in my spot, buddy.<end>
+
+=>a81
+You're in my spot, buddy.<end>
+
+=>a82_original
+::Leave him be.::<end>
+
+=>a82
+::Leave him be.::<end>
+
+=>q83_original
+<end>
+
+=>q83
+<end>
+

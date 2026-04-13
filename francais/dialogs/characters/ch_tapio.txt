@@ -1,0 +1,572 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Kicks down his jetski.::<end>
+
+=>q2
+::Kicks down his jetski.::<end>
+
+=>q3_original
+Come on, come on!<end>
+
+=>q3
+Come on, come on!<end>
+
+=>q4_original
+::Mumbles gibberish to himself in frustration.::<end>
+
+=>q4
+::Mumbles gibberish to himself in frustration.::<end>
+
+=>q5_original
+What a pile of junk!<end>
+
+=>q5
+What a pile of junk!<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+::Ignores you.::<end>
+
+=>q7
+::Ignores you.::<end>
+
+=>q8_original
+::Kneeling down is a man who seems to be struggling to get his jet ski up and running. Overburdened by his barrings, he sluggishly handles his task at hand, evident by his rookie behavior. Periodically he'd tinker with his Junk Jet, before taking some distance to kick down his machine, grunting and cursing along the way. His rage makes him blind to your presence.::<end>
+
+=>q8
+::Kneeling down is a man who seems to be struggling to get his jet ski up and running. Overburdened by his barrings, he sluggishly handles his task at hand, evident by his rookie behavior. Periodically he'd tinker with his Junk Jet, before taking some distance to kick down his machine, grunting and cursing along the way. His rage makes him blind to your presence.::<end>
+
+=>a9_original
+What seems to be the problem?<end>
+
+=>a9
+What seems to be the problem?<end>
+
+=>q10_original
+Who the... ::He looks over.:: Can't you see? ::He kicks his jetski.:: This pile of junk won't start.<end>
+
+=>q10
+Who the... ::He looks over.:: Can't you see? ::He kicks his jetski.:: This pile of junk won't start.<end>
+
+=>a11_original
+::[Mechanics]:: I'm a mechanic. Allow me to see what's wrong here.<end>
+
+=>a11
+::[Mechanics]:: I'm a mechanic. Allow me to see what's wrong here.<end>
+
+=>q12_original
+::For a moment he hesitates, before stepping out of the way.:: Go ahead, take your shot. ::He makes space for you to inspect his ride more closely.::
+
+::You don't kneel down and immediately check out the jetski's main components, most notably the engine and the power supply. Its parts are sub par, there's no suspension and the general condition of his vehicle is severely neglected - it hasn't seen maintenance in a very long time. Only a full tune-up would get this ride back on the water.::<end>
+
+=>q12
+::For a moment he hesitates, before stepping out of the way.:: Go ahead, take your shot. ::He makes space for you to inspect his ride more closely.::
+
+::You don't kneel down and immediately check out the jetski's main components, most notably the engine and the power supply. Its parts are sub par, there's no suspension and the general condition of his vehicle is severely neglected - it hasn't seen maintenance in a very long time. Only a full tune-up would get this ride back on the water.::<end>
+
+=>a13_original
+::Explain to him in full detail what's wrong with his vehicle.::<end>
+
+=>a13
+::Explain to him in full detail what's wrong with his vehicle.::<end>
+
+=>q14_original
+Oh, wow... I can't afford any of that... ::His gaze glances down at the floor.:: Look, at this point, I might just try to sell it, right? ::He makes a nervous laugh.::<end>
+
+=>q14
+Oh, wow... I can't afford any of that... ::His gaze glances down at the floor.:: Look, at this point, I might just try to sell it, right? ::He makes a nervous laugh.::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+What's it going to cost me?<end>
+
+=>a16
+What's it going to cost me?<end>
+
+=>q17_original
+It was sold to me at *nine hundred*. ::He nods to himself.:: I can do it for you for uhm... seven-six fifty-ish, maybe?
+
+Just look at it. I-I mean it's not that bad. Oh, listen to me, ::He chuckles.:: I'm bein' too harsh towards it. In fact, this jetski is uhm... amazing...<end>
+
+=>q17
+It was sold to me at *nine hundred*. ::He nods to himself.:: I can do it for you for uhm... seven-six fifty-ish, maybe?
+
+Just look at it. I-I mean it's not that bad. Oh, listen to me, ::He chuckles.:: I'm bein' too harsh towards it. In fact, this jetski is uhm... amazing...<end>
+
+=>a18_original
+You bring that price down to 600 coins and we shake hands? ::Reach out for a handshake.::<end>
+
+=>a18
+You bring that price down to 600 coins and we shake hands? ::Reach out for a handshake.::<end>
+
+=>q19_original
+::With both of his hands he goes towards you. His right hand shakes yours while his left hangs in the air, awaiting his payment. You give him the amount you've agreed to but he doesn't manage to hide his joy from this transaction, as he makes a wide grin across his jaded face.::
+
+Pleasure doin' business fellow, uhm... hunter.<end>
+
+=>q19
+::With both of his hands he goes towards you. His right hand shakes yours while his left hangs in the air, awaiting his payment. You give him the amount you've agreed to but he doesn't manage to hide his joy from this transaction, as he makes a wide grin across his jaded face.::
+
+Pleasure doin' business fellow, uhm... hunter.<end>
+
+=>q20_original
+::As he pockets his coin, he turns away but suddenly stops.:: Oh wait, I think you should know this. Not sure how familiar you are with the waters around here... But you should watch out where you're goin'.<end>
+
+=>q20
+::As he pockets his coin, he turns away but suddenly stops.:: Oh wait, I think you should know this. Not sure how familiar you are with the waters around here... But you should watch out where you're goin'.<end>
+
+=>a21_original
+What do you mean?<end>
+
+=>a21
+What do you mean?<end>
+
+=>q22_original
+The waterways are as treacherous as it gets. Everyone out there's looking to catch loose fish, if you know what I mean. Up all the way northeast is the Black Sea, also known as Hell's Gut. You can only imagine how a place could earn such a name. If you're that adventurous, you should get armed to the teeth before darin' to tangle such a challenge. 
+
+Once in a while there's some sort of... Expedition sailin' over there. I've heard they were looking for more sailors or somethin' for their journey. ::He nods at you as he points to the northwest.:: Core City is where they're recruitin' people. These fellas might be the best option, who knows? ::He shrugs.:: Perhaps that ship has long left the dock but it's still might be worth takin' a look, eh?<end>
+
+=>q22
+The waterways are as treacherous as it gets. Everyone out there's looking to catch loose fish, if you know what I mean. Up all the way northeast is the Black Sea, also known as Hell's Gut. You can only imagine how a place could earn such a name. If you're that adventurous, you should get armed to the teeth before darin' to tangle such a challenge. 
+
+Once in a while there's some sort of... Expedition sailin' over there. I've heard they were looking for more sailors or somethin' for their journey. ::He nods at you as he points to the northwest.:: Core City is where they're recruitin' people. These fellas might be the best option, who knows? ::He shrugs.:: Perhaps that ship has long left the dock but it's still might be worth takin' a look, eh?<end>
+
+=>a23_original
+Don't worry. I have everything under control.<end>
+
+=>a23
+Don't worry. I have everything under control.<end>
+
+=>q24_original
+Alright, don't forget to ask people around for directions in case you're lost. ::He waves you off and takes his leave.::<end>
+
+=>q24
+Alright, don't forget to ask people around for directions in case you're lost. ::He waves you off and takes his leave.::<end>
+
+=>a25_original
+See you around. ::Wave back at him.::<end>
+
+=>a25
+See you around. ::Wave back at him.::<end>
+
+=>a26_original
+::Watch him walk away.::<end>
+
+=>a26
+::Watch him walk away.::<end>
+
+=>a27_original
+Oh, don't you worry. I can handle anything on my own.<end>
+
+=>a27
+Oh, don't you worry. I can handle anything on my own.<end>
+
+=>q28_original
+Alright, suit yourself. ::He waves you off and takes his leave.::<end>
+
+=>q28
+Alright, suit yourself. ::He waves you off and takes his leave.::<end>
+
+=>a29_original
+::[Mercantile|:: Let's negotiate the price a little. I can pay up 500 coins without hesitation. You'll be well on your way with that much money at hand.<end>
+
+=>a29
+::[Mercantile|:: Let's negotiate the price a little. I can pay up 500 coins without hesitation. You'll be well on your way with that much money at hand.<end>
+
+=>q30_original
+You've got yourself a deal. ::He takes your money and slowly packs up to get going on his way.:: This one's a decent ride, you won't regret it...<end>
+
+=>q30
+You've got yourself a deal. ::He takes your money and slowly packs up to get going on his way.:: This one's a decent ride, you won't regret it...<end>
+
+=>a31_original
+::[Mercantile|:: That's some serious coin. Instead, imagine for a second, having 400 coins in your hands, right here, right now. Now that's a great deal if you ask me. ::Nod at him.::<end>
+
+=>a31
+::[Mercantile|:: That's some serious coin. Instead, imagine for a second, having 400 coins in your hands, right here, right now. Now that's a great deal if you ask me. ::Nod at him.::<end>
+
+=>q32_original
+Uhm... ::He pauses for a moment to think.:: I think you're right. Four hundred it is. ::He takes your money and readies up to leave.::<end>
+
+=>q32
+Uhm... ::He pauses for a moment to think.:: I think you're right. Four hundred it is. ::He takes your money and readies up to leave.::<end>
+
+=>a33_original
+::[Mechanics]:: Wait, 650 for this? No way. I'd have to invest double than that in order to bring it back into proper working condition. A fair price is 450 coins. Half a price for half the machine, hehe.<end>
+
+=>a33
+::[Mechanics]:: Wait, 650 for this? No way. I'd have to invest double than that in order to bring it back into proper working condition. A fair price is 450 coins. Half a price for half the machine, hehe.<end>
+
+=>q34_original
+I guess you're right... Okay, you can have it. ::He takes your money and readies up to leave.:: I just don't have what it takes to fix it up on my own, you know...<end>
+
+=>q34
+I guess you're right... Okay, you can have it. ::He takes your money and readies up to leave.:: I just don't have what it takes to fix it up on my own, you know...<end>
+
+=>a35_original
+::[Mechanics] and [Mercantile]:: My keen eye tells me a different story, and no way in hell you're going to make that much. You're looking at 300 coins. Take it or leave it.<end>
+
+=>a35
+::[Mechanics] and [Mercantile]:: My keen eye tells me a different story, and no way in hell you're going to make that much. You're looking at 300 coins. Take it or leave it.<end>
+
+=>q36_original
+Three hundred? Ahh... that's too low. ::He looks away.:: But it's better than nothin'. Fine, it's yours. ::He takes your money and slowly packs up to get going on his way.:: It served me well enough...<end>
+
+=>q36
+Three hundred? Ahh... that's too low. ::He looks away.:: But it's better than nothin'. Fine, it's yours. ::He takes your money and slowly packs up to get going on his way.:: It served me well enough...<end>
+
+=>a37_original
+Hmm, I'll decide later. See you soon...<end>
+
+=>a37
+Hmm, I'll decide later. See you soon...<end>
+
+=>q38_original
+Mhm. ::He looks away.:: You know where to find me...<end>
+
+=>q38
+Mhm. ::He looks away.:: You know where to find me...<end>
+
+=>a39_original
+::Leave.::<end>
+
+=>a39
+::Leave.::<end>
+
+=>a40_original
+Say the price.<end>
+
+=>a40
+Say the price.<end>
+
+=>a41_original
+You didn't even check your battery... <end>
+
+=>a41
+You didn't even check your battery... <end>
+
+=>q42_original
+Battery? Ooooh... riiight. I completely forgot, heh heh. ::He looks away, embarrassed by his lack of basic knowledge.:: Oh man, but come to think of it, I don't have much left to do on the other side of the river over there. ::He points to the southeast.::
+
+How about... how about I sell it to you? It ain't that bad, right?<end>
+
+=>q42
+Battery? Ooooh... riiight. I completely forgot, heh heh. ::He looks away, embarrassed by his lack of basic knowledge.:: Oh man, but come to think of it, I don't have much left to do on the other side of the river over there. ::He points to the southeast.::
+
+How about... how about I sell it to you? It ain't that bad, right?<end>
+
+=>a43_original
+It doesn't require much fixing, a small investment could get it going.<end>
+
+=>a43
+It doesn't require much fixing, a small investment could get it going.<end>
+
+=>q44_original
+I barely have enough for my own drapes, let alone this junk, bah! ::He looks at the jetski.:: You know, come to think of it, I should actually sell this one... yeah... 
+
+::His gaze shifts at you.:: Ay, what do you think? Wanna buy this little beast? It's pretty good, right?<end>
+
+=>q44
+I barely have enough for my own drapes, let alone this junk, bah! ::He looks at the jetski.:: You know, come to think of it, I should actually sell this one... yeah... 
+
+::His gaze shifts at you.:: Ay, what do you think? Wanna buy this little beast? It's pretty good, right?<end>
+
+=>a45_original
+There's no hope for this one. Sell its components and turn the rest into raw metal.<end>
+
+=>a45
+There's no hope for this one. Sell its components and turn the rest into raw metal.<end>
+
+=>q46_original
+Really? Aww, man... ::He looks both sad and frustrated.:: Well... would you do that for me? I could like... sell it to you and then... you do your thin', you know?<end>
+
+=>q46
+Really? Aww, man... ::He looks both sad and frustrated.:: Well... would you do that for me? I could like... sell it to you and then... you do your thin', you know?<end>
+
+=>a47_original
+Did you seek help? Someone around here has to know how to fix these?<end>
+
+=>a47
+Did you seek help? Someone around here has to know how to fix these?<end>
+
+=>q48_original
+I did, I did, yeah but... no luck. I'll be honest, I have no idea what I'm doin' with this damn ride. And to add to it, I don't really have the need to get back on the water. ::He looks around.::
+
+Say, would you be interested in buyin' it from me?<end>
+
+=>q48
+I did, I did, yeah but... no luck. I'll be honest, I have no idea what I'm doin' with this damn ride. And to add to it, I don't really have the need to get back on the water. ::He looks around.::
+
+Say, would you be interested in buyin' it from me?<end>
+
+=>a49_original
+What are you planning to do with it?<end>
+
+=>a49
+What are you planning to do with it?<end>
+
+=>q50_original
+I want to go back to the huntin' grounds and then I... I... ::He pauses to think for a moment.:: Actually... ::He inspects his gear, and realizes he's already carrying lots of stuff.:: I'm quite full, huh... ::Once again he takes some time to think about his next move.::
+
+I could cross over again but to be honest, I have my hands full already. Say, would you want to buy this jet? Might serve you much more than me... ::He nods at you.::<end>
+
+=>q50
+I want to go back to the huntin' grounds and then I... I... ::He pauses to think for a moment.:: Actually... ::He inspects his gear, and realizes he's already carrying lots of stuff.:: I'm quite full, huh... ::Once again he takes some time to think about his next move.::
+
+I could cross over again but to be honest, I have my hands full already. Say, would you want to buy this jet? Might serve you much more than me... ::He nods at you.::<end>
+
+=>a51_original
+You're not helping it at all by treating it such way.<end>
+
+=>a51
+You're not helping it at all by treating it such way.<end>
+
+=>q52_original
+Who the hell are you to tell me how am I supposed to handle my junk, eh, *eh*? ::He almost walks directly into your face before pulling away.:: Get lost, punk! Before I drown you with my bare hands.<end>
+
+=>q52
+Who the hell are you to tell me how am I supposed to handle my junk, eh, *eh*? ::He almost walks directly into your face before pulling away.:: Get lost, punk! Before I drown you with my bare hands.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>a54_original
+Fine, have it your way. I'm off.<end>
+
+=>a54
+Fine, have it your way. I'm off.<end>
+
+=>q55_original
+::He goes back to unleashing his frustration upon his vehicle.::<end>
+
+=>q55
+::He goes back to unleashing his frustration upon his vehicle.::<end>
+
+=>a56_original
+::Leave.::<end>
+
+=>a56
+::Leave.::<end>
+
+=>a57_original
+::[Persuasion]:: Calm down, we can settle this in a civilized manner.<end>
+
+=>a57
+::[Persuasion]:: Calm down, we can settle this in a civilized manner.<end>
+
+=>q58_original
+::He looks around, clearly ashamed.:: Y-you know what? Fine, we can act... normal. Sorry about that. My unprovoked reaction has granted me... clarity, mmm... yes.
+
+Look, I don't know what I'm gonna do with this junk jet. How about I just sell it to you and we call it quits?   <end>
+
+=>q58
+::He looks around, clearly ashamed.:: Y-you know what? Fine, we can act... normal. Sorry about that. My unprovoked reaction has granted me... clarity, mmm... yes.
+
+Look, I don't know what I'm gonna do with this junk jet. How about I just sell it to you and we call it quits?   <end>
+
+=>q59_original
+You know what? You're just annoyin' and, and... and... Aarrghh, get out of my sight before I put a bounty on your hide!<end>
+
+=>q59
+You know what? You're just annoyin' and, and... and... Aarrghh, get out of my sight before I put a bounty on your hide!<end>
+
+=>a60_original
+::[Strength or Dexterity] Run towards him and push him into the water.::<end>
+
+=>a60
+::[Strength or Dexterity] Run towards him and push him into the water.::<end>
+
+=>q61_original
+::Your sudden move catches him off guard, as you push him away with all force you can muster. His overburdened body flies away across the ledge, straight into the water. It produces a loud splash, as if a boulder had fallen from the top of the cave. His heavy gear acts as an anchor, pulling him down to the bottom of the river in a matter of seconds.
+
+The loud sound draws the attention of the nearby camp's residents, but none seem to know for certain what has just transpired.::<end>
+
+=>q61
+::Your sudden move catches him off guard, as you push him away with all force you can muster. His overburdened body flies away across the ledge, straight into the water. It produces a loud splash, as if a boulder had fallen from the top of the cave. His heavy gear acts as an anchor, pulling him down to the bottom of the river in a matter of seconds.
+
+The loud sound draws the attention of the nearby camp's residents, but none seem to know for certain what has just transpired.::<end>
+
+=>a62_original
+::[Persuasion] Address the others.:: He dove down to look up his ride, nothing to worry about! ::Walk away and act as if everything's normal.::<end>
+
+=>a62
+::[Persuasion] Address the others.:: He dove down to look up his ride, nothing to worry about! ::Walk away and act as if everything's normal.::<end>
+
+=>q63_original
+::Few suspicious observers look around for a bit and after a little while, they decide to go back to their business.
+
+You're free to go.::<end>
+
+=>q63
+::Few suspicious observers look around for a bit and after a little while, they decide to go back to their business.
+
+You're free to go.::<end>
+
+=>a64_original
+::Leave.::<end>
+
+=>a64
+::Leave.::<end>
+
+=>q65_original
+::The nearby crowd doesn't buy your story as they start to shout at you, calling you a murderer. Everyone's up in arms, ready to avenge the man you've just killed.::<end>
+
+=>q65
+::The nearby crowd doesn't buy your story as they start to shout at you, calling you a murderer. Everyone's up in arms, ready to avenge the man you've just killed.::<end>
+
+=>a66_original
+::Fight!::<end>
+
+=>a66
+::Fight!::<end>
+
+=>a67_original
+::Shout.:: I'll drown you all, one at a time! Who's next! ::Attack!::<end>
+
+=>a67
+::Shout.:: I'll drown you all, one at a time! Who's next! ::Attack!::<end>
+
+=>a68_original
+::Turn around and face the camp's inhabitants.:: ::Fight!::<end>
+
+=>a68
+::Turn around and face the camp's inhabitants.:: ::Fight!::<end>
+
+=>q69_original
+::You rush towards him in a blink of an eye, but as if he had anticipated your move, he pulls out his spear and blocks your way. For a second, the two of you struggle at the edge of the docks but he manages to repel you.:: HEY, HEY! Argh, this *moron's* tryin' to *drown* me! EY! HEEEY! ::He calls for aid as he swings at you with his weapon.::<end>
+
+=>q69
+::You rush towards him in a blink of an eye, but as if he had anticipated your move, he pulls out his spear and blocks your way. For a second, the two of you struggle at the edge of the docks but he manages to repel you.:: HEY, HEY! Argh, this *moron's* tryin' to *drown* me! EY! HEEEY! ::He calls for aid as he swings at you with his weapon.::<end>
+
+=>a70_original
+::Fight!::<end>
+
+=>a70
+::Fight!::<end>
+
+=>a71_original
+What did you just say? No matter, it'll be your last! ::Attack!::<end>
+
+=>a71
+What did you just say? No matter, it'll be your last! ::Attack!::<end>
+
+=>a72_original
+Are you okay?<end>
+
+=>a72
+Are you okay?<end>
+
+=>q73_original
+W-what? ::He turns to face you.:: No, I'm not. I've just crossed the river and now I'm stuck here. Aaarrrghh... I'm goin' to pull my hair out!<end>
+
+=>q73
+W-what? ::He turns to face you.:: No, I'm not. I've just crossed the river and now I'm stuck here. Aaarrrghh... I'm goin' to pull my hair out!<end>
+
+=>a74_original
+This thing isn't worth it.<end>
+
+=>a74
+This thing isn't worth it.<end>
+
+=>q75_original
+Well it has to be worth somethin', right? Right? ::He looks confused.:: I should... I think I should sell it. Yes... that's the best course for me right now. What do you say? Down to buy it?<end>
+
+=>q75
+Well it has to be worth somethin', right? Right? ::He looks confused.:: I should... I think I should sell it. Yes... that's the best course for me right now. What do you say? Down to buy it?<end>
+
+=>a76_original
+You're selling your ride?<end>
+
+=>a76
+You're selling your ride?<end>
+
+=>q77_original
+Yup. ::He looks away.::<end>
+
+=>q77
+Yup. ::He looks away.::<end>
+
+=>a78_original
+Just chill out. Everything will be okay.<end>
+
+=>a78
+Just chill out. Everything will be okay.<end>
+
+=>a79_original
+If you don't know how to maintain it, you don't deserve to keep it.<end>
+
+=>a79
+If you don't know how to maintain it, you don't deserve to keep it.<end>
+
+=>q80_original
+Huh? ::He turns around.:: The hell do you know about this piece of junk?<end>
+
+=>q80
+Huh? ::He turns around.:: The hell do you know about this piece of junk?<end>
+
+=>a81_original
+For one thing, I'd take better care of it.<end>
+
+=>a81
+For one thing, I'd take better care of it.<end>
+
+=>q82_original
+Huh? Hmm... yes, yes, you could. But only if you buy it of me first. ::He nods at you.::<end>
+
+=>q82
+Huh? Hmm... yes, yes, you could. But only if you buy it of me first. ::He nods at you.::<end>
+
+=>a83_original
+Punching things rarely solves any problems.<end>
+
+=>a83
+Punching things rarely solves any problems.<end>
+
+=>a84_original
+::Leave.::<end>
+
+=>a84
+::Leave.::<end>
+
+=>q85_original
+So, what's it gonna be? Wanna buy this one from me? ::He points at his Junk Jet.::<end>
+
+=>q85
+So, what's it gonna be? Wanna buy this one from me? ::He points at his Junk Jet.::<end>
+
+=>a86_original
+Remind me of the prices first.<end>
+
+=>a86
+Remind me of the prices first.<end>
+
+=>a87_original
+Nevermind me.<end>
+
+=>a87
+Nevermind me.<end>
+
+=>a88_original
+::Turn around and leave.::<end>
+
+=>a88
+::Turn around and leave.::<end>
+

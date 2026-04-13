@@ -1,0 +1,60 @@
+=>q1_original
+Looking for some scrap? I got you covered.<end>
+
+=>q1
+Looking for some scrap? I got you covered.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have. ::Barter.::<end>
+
+=>a3
+Show me what you have. ::Barter.::<end>
+
+=>a4_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a4
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q5_original
+You can buy charons from Colton with other currencies if that's what you're looking to do.<end>
+
+=>q5
+You can buy charons from Colton with other currencies if that's what you're looking to do.<end>
+
+=>a6_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a6
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>q7_original
+I don't know, maybe. I don't have too much electronics right now but take a look anyway, you might find it. But no refunds! It won't be my fault if you buy the wrong thing.<end>
+
+=>q7
+I don't know, maybe. I don't have too much electronics right now but take a look anyway, you might find it. But no refunds! It won't be my fault if you buy the wrong thing.<end>
+
+=>a8_original
+Alright, I'll have a look. ::Barter::<end>
+
+=>a8
+Alright, I'll have a look. ::Barter::<end>
+
+=>a9_original
+I don't have time to look through all that junk.<end>
+
+=>a9
+I don't have time to look through all that junk.<end>
+
+=>a10_original
+Catch you later.<end>
+
+=>a10
+Catch you later.<end>
+

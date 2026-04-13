@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+What? It still tastes good. ::Coughs.::<end>
+
+=>q2
+What? It still tastes good. ::Coughs.::<end>
+
+=>q3_original
+And to think someone left a bowl of something this delicious to the rockies...<end>
+
+=>q3
+And to think someone left a bowl of something this delicious to the rockies...<end>
+
+=>q4_original
+Don't you judge me.<end>
+
+=>q4
+Don't you judge me.<end>
+
+=>q5_original
+A man's gotta eat. ::Coughs.:: And cough.<end>
+
+=>q5
+A man's gotta eat. ::Coughs.:: And cough.<end>
+
+=>q6_original
+Hey, $(context.player.Name). Want som-- I mean... hey.<end>
+
+=>q6
+Hey, $(context.player.Name). Want som-- I mean... hey.<end>
+
+=>q7_original
+Mmmm, delicious. ::Coughs.::<end>
+
+=>q7
+Mmmm, delicious. ::Coughs.::<end>
+

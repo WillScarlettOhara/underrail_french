@@ -1,0 +1,76 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::The pipe seems forcefully stretched, its metal cover bent in such a way for a human to easily pass through. Looking inside, you notice that the way is blocked by a large smelly object. Next to the pipe entrance lies a red valve most likely used to operate the flow within the system.::<end>
+
+=>q2
+::The pipe seems forcefully stretched, its metal cover bent in such a way for a human to easily pass through. Looking inside, you notice that the way is blocked by a large smelly object. Next to the pipe entrance lies a red valve most likely used to operate the flow within the system.::<end>
+
+=>a3_original
+::Open the valve.::<end>
+
+=>a3
+::Open the valve.::<end>
+
+=>q4_original
+::Gruesome sounds ensue as you can hear the air flowing through, struggling to clear the obstacle. A few loud snaps away, you quickly notice that those were actually human remains blocking the path. Eventually, the air prevails, flushing the corpse down the pipes, leaving almost nothing behind. After a little while you close the valve.::
+
+<end>
+
+=>q4
+::Gruesome sounds ensue as you can hear the air flowing through, struggling to clear the obstacle. A few loud snaps away, you quickly notice that those were actually human remains blocking the path. Eventually, the air prevails, flushing the corpse down the pipes, leaving almost nothing behind. After a little while you close the valve.::
+
+<end>
+
+=>q5_original
+::The way is clear.::<end>
+
+=>q5
+::The way is clear.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Climb through.::<end>
+
+=>a7
+::Climb through.::<end>
+
+=>a8_original
+::Leave.::<end>
+
+=>a8
+::Leave.::<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+::The way is clear.::<end>
+
+=>q10
+::The way is clear.::<end>
+
+=>a11_original
+::Climb through.::<end>
+
+=>a11
+::Climb through.::<end>
+
+=>q12_original
+::Even though the pipe is large enough for you to crawl through, there's a sludge build-up on its far end, rendering it impassable. Considering the filth and fetor, that might not be such a bad thing after all.::<end>
+
+=>q12
+::Even though the pipe is large enough for you to crawl through, there's a sludge build-up on its far end, rendering it impassable. Considering the filth and fetor, that might not be such a bad thing after all.::<end>
+

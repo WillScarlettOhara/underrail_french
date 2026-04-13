@@ -1,0 +1,1862 @@
+=>q1_original
+Ring, ring? Nuuu? Uhhhhh.<end>
+
+=>q1
+Ring, ring? Nuuu? Uhhhhh.<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::It doesn't take a keen eye to notice that this emergency phone seems to be quite old, considering its technological composition as well as its current condition.::
+
+::The relative proximity of the railroads, and the phone station's overall design, undoubtedly point to its purpose; they are to be used in situations which involve undesired circumstances when it comes to the functionality of railroad traffic.:: <end>
+
+=>q3
+::It doesn't take a keen eye to notice that this emergency phone seems to be quite old, considering its technological composition as well as its current condition.::
+
+::The relative proximity of the railroads, and the phone station's overall design, undoubtedly point to its purpose; they are to be used in situations which involve undesired circumstances when it comes to the functionality of railroad traffic.:: <end>
+
+=>q4_original
+::Typically, these phones feature an interface which has six distinct buttons, each with a unique icon on them. The phone uses a coil cord, and the headphone itself has no additional features other than a speaker and a receiver. Lastly, an exposed digital display port lies right beneath a small metal door, both located under said buttons. The connector's pins are bulky but few in number. :: <end>
+
+=>q4
+::Typically, these phones feature an interface which has six distinct buttons, each with a unique icon on them. The phone uses a coil cord, and the headphone itself has no additional features other than a speaker and a receiver. Lastly, an exposed digital display port lies right beneath a small metal door, both located under said buttons. The connector's pins are bulky but few in number. :: <end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>q6
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>a7_original
+::Press the button with a red cross icon.::<end>
+
+=>a7
+::Press the button with a red cross icon.::<end>
+
+=>q8_original
+::There's no response.::<end>
+
+=>q8
+::There's no response.::<end>
+
+=>a9_original
+::Cancel the call.::<end>
+
+=>a9
+::Cancel the call.::<end>
+
+=>a10_original
+::Leave.::<end>
+
+=>a10
+::Leave.::<end>
+
+=>a11_original
+::Press the button with a red rathound icon.::<end>
+
+=>a11
+::Press the button with a red rathound icon.::<end>
+
+=>a12_original
+::Press the button with a green shield icon.::<end>
+
+=>a12
+::Press the button with a green shield icon.::<end>
+
+=>a13_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a13
+::Press the button with a yellow wrench icon.::<end>
+
+=>q14_original
+::"Bzzzt is on the zzzzttt-ay."::
+
+::The metal doors on the left side rumble as you can hear wheels turning. Something is coming outside.::<end>
+
+=>q14
+::"Bzzzt is on the zzzzttt-ay."::
+
+::The metal doors on the left side rumble as you can hear wheels turning. Something is coming outside.::<end>
+
+=>a15_original
+::Back away.::<end>
+
+=>a15
+::Back away.::<end>
+
+=>a16_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a16
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a17_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a17
+::Press the button with a blue question mark icon.::<end>
+
+=>a18_original
+::Open the metal compartment.::<end>
+
+=>a18
+::Open the metal compartment.::<end>
+
+=>q19_original
+::There's some loot inside.::<end>
+
+=>q19
+::There's some loot inside.::<end>
+
+=>a20_original
+::Take the items inside and leave.::<end>
+
+=>a20
+::Take the items inside and leave.::<end>
+
+=>q21_original
+::There's nothing inside.::<end>
+
+=>q21
+::There's nothing inside.::<end>
+
+=>a22_original
+::Make a call.::<end>
+
+=>a22
+::Make a call.::<end>
+
+=>a23_original
+::Leave.::<end>
+
+=>a23
+::Leave.::<end>
+
+=>a24_original
+::Plug in the orange box.::<end>
+
+=>a24
+::Plug in the orange box.::<end>
+
+=>q25_original
+::The orange box lights up.::
+
+<end>
+
+=>q25
+::The orange box lights up.::
+
+<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+::The buttons glow in red color. This is the initial sequence to solve.::<end>
+
+=>q27
+::The buttons glow in red color. This is the initial sequence to solve.::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutOneCurrentSequenceString). ::<end>
+
+=>q29
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutOneCurrentSequenceString). ::<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+::Play back the sequence.::<end>
+
+=>a31
+::Play back the sequence.::<end>
+
+=>a32_original
+::Press the red cross button.::<end>
+
+=>a32
+::Press the red cross button.::<end>
+
+=>a33_original
+::Press the red rathound button.::<end>
+
+=>a33
+::Press the red rathound button.::<end>
+
+=>a34_original
+::Press the green shield button.::<end>
+
+=>a34
+::Press the green shield button.::<end>
+
+=>a35_original
+::Press the yellow wrench button.::<end>
+
+=>a35
+::Press the yellow wrench button.::<end>
+
+=>a36_original
+::Press the red exclamation mark button.::<end>
+
+=>a36
+::Press the red exclamation mark button.::<end>
+
+=>a37_original
+::Press the blue question mark button.::<end>
+
+=>a37
+::Press the blue question mark button.::<end>
+
+=>a38_original
+::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>a38
+::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>q39_original
+::Select a button.::<end>
+
+=>q39
+::Select a button.::<end>
+
+=>a40_original
+::Press the button with a red cross icon.::<end>
+
+=>a40
+::Press the button with a red cross icon.::<end>
+
+=>q41_original
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>q41
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>a42_original
+::Press the button with a red cross icon.::<end>
+
+=>a42
+::Press the button with a red cross icon.::<end>
+
+=>a43_original
+::Press the button with a red rathound icon.::<end>
+
+=>a43
+::Press the button with a red rathound icon.::<end>
+
+=>a44_original
+::Press the button with a green shield icon.::<end>
+
+=>a44
+::Press the button with a green shield icon.::<end>
+
+=>a45_original
+::Press the button with a green shield icon.::<end>
+
+=>a45
+::Press the button with a green shield icon.::<end>
+
+=>a46_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a46
+::Press the button with a yellow wrench icon.::<end>
+
+=>a47_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a47
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a48_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a48
+::Press the button with a blue question mark icon.::<end>
+
+=>a49_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a49
+::Press the button with a blue question mark icon.::<end>
+
+=>a50_original
+::Go back to solving the sound sequence.::<end>
+
+=>a50
+::Go back to solving the sound sequence.::<end>
+
+=>a51_original
+::Disconnect the orange box and leave.::<end>
+
+=>a51
+::Disconnect the orange box and leave.::<end>
+
+=>q52_original
+::The buttons now glow in green color. Previously inserted sequence was successful.::<end>
+
+=>q52
+::The buttons now glow in green color. Previously inserted sequence was successful.::<end>
+
+=>q53_original
+::The buttons now glow in blue color. This must be the final sequence to solve.::<end>
+
+=>q53
+::The buttons now glow in blue color. This must be the final sequence to solve.::<end>
+
+=>q54_original
+::The lights on the orange box starts to flicker, its colors begin to rapidly shift from one to another before eventually turning off. After that, the phone begins to ring; someone's calling.::<end>
+
+=>q54
+::The lights on the orange box starts to flicker, its colors begin to rapidly shift from one to another before eventually turning off. After that, the phone begins to ring; someone's calling.::<end>
+
+=>a55_original
+::Pick up the phone.::<end>
+
+=>a55
+::Pick up the phone.::<end>
+
+=>q56_original
+::The air is silent.::<end>
+
+=>q56
+::The air is silent.::<end>
+
+=>a57_original
+Hello?<end>
+
+=>a57
+Hello?<end>
+
+=>q58_original
+::A digitalized voice speaks up: "Biocorp Metro Service offers the most reliable and safe transportation services. To learn more, press the red cross button.:: <end>
+
+=>q58
+::A digitalized voice speaks up: "Biocorp Metro Service offers the most reliable and safe transportation services. To learn more, press the red cross button.:: <end>
+
+=>a59_original
+Phreak, is that you?<end>
+
+=>a59
+Phreak, is that you?<end>
+
+=>q60_original
+::The light from all of the buttons on the phone slowly fade out, except the one with the red cross.::<end>
+
+=>q60
+::The light from all of the buttons on the phone slowly fade out, except the one with the red cross.::<end>
+
+=>a61_original
+::Press the red cross button on the phone.::<end>
+
+=>a61
+::Press the red cross button on the phone.::<end>
+
+=>q62_original
+::A robotic voice speaks up: "In Biocorp it was made, in the City, it was nearly unmade. A Second chance was given...and now, it won't be wasted... The rails don't end here, they run far and wide, with phones right by their side. Wherever he goes, in mind ,a stray roach will follow, together in both grace and woe."::
+
+::The call suddenly ends.::<end>
+
+=>q62
+::A robotic voice speaks up: "In Biocorp it was made, in the City, it was nearly unmade. A Second chance was given...and now, it won't be wasted... The rails don't end here, they run far and wide, with phones right by their side. Wherever he goes, in mind ,a stray roach will follow, together in both grace and woe."::
+
+::The call suddenly ends.::<end>
+
+=>a63_original
+Who's this?<end>
+
+=>a63
+Who's this?<end>
+
+=>q64_original
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.
+
+In the same time, on your right, in the nearby store, you can hear some noise coming out of the shelves; they're moving around.::<end>
+
+=>q64
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.
+
+In the same time, on your right, in the nearby store, you can hear some noise coming out of the shelves; they're moving around.::<end>
+
+=>a65_original
+::Disconnect the orange box and leave.::<end>
+
+=>a65
+::Disconnect the orange box and leave.::<end>
+
+=>q66_original
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.::<end>
+
+=>q66
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.::<end>
+
+=>a67_original
+::Disconnect the orange box and leave.::<end>
+
+=>a67
+::Disconnect the orange box and leave.::<end>
+
+=>q68_original
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. As soon as it does, the nearby metal doors unlock.::<end>
+
+=>q68
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. As soon as it does, the nearby metal doors unlock.::<end>
+
+=>q69_original
+::The orange box signalizes that it's working.::
+
+<end>
+
+=>q69
+::The orange box signalizes that it's working.::
+
+<end>
+
+=>q70_original
+<end>
+
+=>q70
+<end>
+
+=>q71_original
+::The buttons glow in red color.::<end>
+
+=>q71
+::The buttons glow in red color.::<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>q73_original
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
+
+=>q73
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>a75_original
+::Play back the sequence.::<end>
+
+=>a75
+::Play back the sequence.::<end>
+
+=>a76_original
+::Press the red cross button.::<end>
+
+=>a76
+::Press the red cross button.::<end>
+
+=>a77_original
+::Press the red rathound button.::<end>
+
+=>a77
+::Press the red rathound button.::<end>
+
+=>a78_original
+::Press the green shield button.::<end>
+
+=>a78
+::Press the green shield button.::<end>
+
+=>a79_original
+::Press the yellow wrench button.::<end>
+
+=>a79
+::Press the yellow wrench button.::<end>
+
+=>a80_original
+::Press the red exclamation mark button.::<end>
+
+=>a80
+::Press the red exclamation mark button.::<end>
+
+=>a81_original
+::Press the blue question mark button.::<end>
+
+=>a81
+::Press the blue question mark button.::<end>
+
+=>a82_original
+::Test out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>a82
+::Test out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>q83_original
+::Select a button.::<end>
+
+=>q83
+::Select a button.::<end>
+
+=>a84_original
+::Press the button with a red cross icon.::<end>
+
+=>a84
+::Press the button with a red cross icon.::<end>
+
+=>a85_original
+::Press the button with a red rathound icon.::<end>
+
+=>a85
+::Press the button with a red rathound icon.::<end>
+
+=>q86_original
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>q86
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>a87_original
+::Press the button with a red rathound icon.::<end>
+
+=>a87
+::Press the button with a red rathound icon.::<end>
+
+=>a88_original
+::Press the button with a green shield icon.::<end>
+
+=>a88
+::Press the button with a green shield icon.::<end>
+
+=>a89_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a89
+::Press the button with a yellow wrench icon.::<end>
+
+=>a90_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a90
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a91_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a91
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a92_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a92
+::Press the button with a blue question mark icon.::<end>
+
+=>a93_original
+::Go back to solving the sound sequence.::<end>
+
+=>a93
+::Go back to solving the sound sequence.::<end>
+
+=>q94_original
+::The buttons glow in green color.::<end>
+
+=>q94
+::The buttons glow in green color.::<end>
+
+=>q95_original
+::The buttons glow in blue color.::<end>
+
+=>q95
+::The buttons glow in blue color.::<end>
+
+=>q96_original
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. A moment later, the nearby metal doors unlock.::<end>
+
+=>q96
+::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. A moment later, the nearby metal doors unlock.::<end>
+
+=>q97_original
+::The orange box slowly powers up, indicated by ever increasing intensity of the white light coming out of its buttons. The device has been successfully connected.::
+
+<end>
+
+=>q97
+::The orange box slowly powers up, indicated by ever increasing intensity of the white light coming out of its buttons. The device has been successfully connected.::
+
+<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>q99_original
+::The buttons glow in red color.::<end>
+
+=>q99
+::The buttons glow in red color.::<end>
+
+=>q100_original
+<end>
+
+=>q100
+<end>
+
+=>q101_original
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
+
+=>q101
+
+
+::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
+
+=>q102_original
+<end>
+
+=>q102
+<end>
+
+=>a103_original
+::Play back the sequence.::<end>
+
+=>a103
+::Play back the sequence.::<end>
+
+=>a104_original
+::Press the red cross button.::<end>
+
+=>a104
+::Press the red cross button.::<end>
+
+=>a105_original
+::Press the red rathound button.::<end>
+
+=>a105
+::Press the red rathound button.::<end>
+
+=>a106_original
+::Press the green shield button.::<end>
+
+=>a106
+::Press the green shield button.::<end>
+
+=>a107_original
+::Press the yellow wrench button.::<end>
+
+=>a107
+::Press the yellow wrench button.::<end>
+
+=>a108_original
+::Press the red exclamation mark button.::<end>
+
+=>a108
+::Press the red exclamation mark button.::<end>
+
+=>a109_original
+::Press the blue question mark button.::<end>
+
+=>a109
+::Press the blue question mark button.::<end>
+
+=>a110_original
+::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>a110
+::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
+
+=>q111_original
+::Select a button.::<end>
+
+=>q111
+::Select a button.::<end>
+
+=>a112_original
+::Press the button with a red cross icon.::<end>
+
+=>a112
+::Press the button with a red cross icon.::<end>
+
+=>a113_original
+::Press the button with a red rathound icon.::<end>
+
+=>a113
+::Press the button with a red rathound icon.::<end>
+
+=>a114_original
+::Press the button with a green shield icon.::<end>
+
+=>a114
+::Press the button with a green shield icon.::<end>
+
+=>a115_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a115
+::Press the button with a yellow wrench icon.::<end>
+
+=>q116_original
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>q116
+::The button plays no sound. There must be an interference between the phone and the orange box.::
+
+<end>
+
+=>a117_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a117
+::Press the button with a yellow wrench icon.::<end>
+
+=>a118_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a118
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a119_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a119
+::Press the button with a blue question mark icon.::<end>
+
+=>a120_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a120
+::Press the button with a blue question mark icon.::<end>
+
+=>a121_original
+::Go back to solving the sound sequence.::<end>
+
+=>a121
+::Go back to solving the sound sequence.::<end>
+
+=>a122_original
+::Disconnect the orange box and leave.::<end>
+
+=>a122
+::Disconnect the orange box and leave.::<end>
+
+=>q123_original
+::The buttons glow in green color.::<end>
+
+=>q123
+::The buttons glow in green color.::<end>
+
+=>q124_original
+::The buttons glow in blue color.::<end>
+
+=>q124
+::The buttons glow in blue color.::<end>
+
+=>q125_original
+::The buttons on the orange box glow in dim white color. This lasts for a few seconds before the the device turns off.::<end>
+
+=>q125
+::The buttons on the orange box glow in dim white color. This lasts for a few seconds before the the device turns off.::<end>
+
+=>q126_original
+::The connection is not the most responsive, indicated by the slow reaction of the orange box. A minute goes by before the device eventually turns on.::
+
+<end>
+
+=>q126
+::The connection is not the most responsive, indicated by the slow reaction of the orange box. A minute goes by before the device eventually turns on.::
+
+<end>
+
+=>q127_original
+::The orange box doesn't react at all. It seems like it has no effect on this phone.::<end>
+
+=>q127
+::The orange box doesn't react at all. It seems like it has no effect on this phone.::<end>
+
+=>q128_original
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>q128
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>a129_original
+::Press the button with a red cross icon.::<end>
+
+=>a129
+::Press the button with a red cross icon.::<end>
+
+=>q130_original
+::There's no response.::<end>
+
+=>q130
+::There's no response.::<end>
+
+=>a131_original
+::Cancel the call.::<end>
+
+=>a131
+::Cancel the call.::<end>
+
+=>a132_original
+::Press the button with a red rathound icon.::<end>
+
+=>a132
+::Press the button with a red rathound icon.::<end>
+
+=>a133_original
+::Press the button with a green shield icon.::<end>
+
+=>a133
+::Press the button with a green shield icon.::<end>
+
+=>a134_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a134
+::Press the button with a yellow wrench icon.::<end>
+
+=>a135_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a135
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a136_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a136
+::Press the button with a blue question mark icon.::<end>
+
+=>q137_original
+::A robotic prerecorded voice speaks up: 
+
+"Biocorp Metro Services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every problem." ::<end>
+
+=>q137
+::A robotic prerecorded voice speaks up: 
+
+"Biocorp Metro Services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every problem." ::<end>
+
+=>a138_original
+::Keep listening.::<end>
+
+=>a138
+::Keep listening.::<end>
+
+=>q139_original
+::"Press the button with a red cross symbol to invoke a call for medical treatment of endangered passengers.
+
+Press the button with a red rathound symbol to invoke a call for situations where natural wildlife is impairing the traversability of the nearby trains.
+
+Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
+
+=>q139
+::"Press the button with a red cross symbol to invoke a call for medical treatment of endangered passengers.
+
+Press the button with a red rathound symbol to invoke a call for situations where natural wildlife is impairing the traversability of the nearby trains.
+
+Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
+
+=>a140_original
+::Keep listening.::<end>
+
+=>a140
+::Keep listening.::<end>
+
+=>q141_original
+::The call suddenly stops.::<end>
+
+=>q141
+::The call suddenly stops.::<end>
+
+=>a142_original
+::Make a new call.::<end>
+
+=>a142
+::Make a new call.::<end>
+
+=>a143_original
+::Open the metal compartment.::<end>
+
+=>a143
+::Open the metal compartment.::<end>
+
+=>q144_original
+::There's some loot inside.::<end>
+
+=>q144
+::There's some loot inside.::<end>
+
+=>a145_original
+::Take the items inside and leave.::<end>
+
+=>a145
+::Take the items inside and leave.::<end>
+
+=>q146_original
+::There's nothing inside.::<end>
+
+=>q146
+::There's nothing inside.::<end>
+
+=>a147_original
+::Make a call.::<end>
+
+=>a147
+::Make a call.::<end>
+
+=>q148_original
+::This phone has only three functional buttons remaining, the others have been damaged beyond use.::
+
+::You can make a call.::<end>
+
+=>q148
+::This phone has only three functional buttons remaining, the others have been damaged beyond use.::
+
+::You can make a call.::<end>
+
+=>a149_original
+::Press the button with a green shield icon.::<end>
+
+=>a149
+::Press the button with a green shield icon.::<end>
+
+=>q150_original
+::A robotic prerecorded voice speaks up: 
+
+"Bio--bzzt... services dedicated security unit is on the way. Estimated time of arrival - unknown." ::<end>
+
+=>q150
+::A robotic prerecorded voice speaks up: 
+
+"Bio--bzzt... services dedicated security unit is on the way. Estimated time of arrival - unknown." ::<end>
+
+=>a151_original
+::Cancel the call.::<end>
+
+=>a151
+::Cancel the call.::<end>
+
+=>a152_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a152
+::Press the button with a red exclamation mark icon.::<end>
+
+=>q153_original
+::A robotic prerecorded voice speaks up: 
+
+"No Bio--bzzt... services dedicated hazard prevention units are available. Try contacting local authorities for assistance." ::<end>
+
+=>q153
+::A robotic prerecorded voice speaks up: 
+
+"No Bio--bzzt... services dedicated hazard prevention units are available. Try contacting local authorities for assistance." ::<end>
+
+=>a154_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a154
+::Press the button with a blue question mark icon.::<end>
+
+=>q155_original
+::A robotic prerecorded voice speaks up: 
+
+"Bio--bzzt... services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every probl--bzzt." ::<end>
+
+=>q155
+::A robotic prerecorded voice speaks up: 
+
+"Bio--bzzt... services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every probl--bzzt." ::<end>
+
+=>a156_original
+::Keep listening.::<end>
+
+=>a156
+::Keep listening.::<end>
+
+=>q157_original
+::"Press the button with a red cross symbol to invoke a call for medical treatment of endangered passengers.
+
+Press the button with a red rathound symbol to invoke a call for situations where natural wildlife is impairing the traversability of the nearby trains.
+
+Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
+
+=>q157
+::"Press the button with a red cross symbol to invoke a call for medical treatment of endangered passengers.
+
+Press the button with a red rathound symbol to invoke a call for situations where natural wildlife is impairing the traversability of the nearby trains.
+
+Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
+
+=>a158_original
+::Keep listening.::<end>
+
+=>a158
+::Keep listening.::<end>
+
+=>q159_original
+::"Press the button with a yellow wrench to invoke local mechanized support team to help out with a mechanical problem on either the train or the railroad.
+
+Press the button with a red exclamation mark for situations where a hazardous event has made train traversal potentially threatening to the health of the passengers.
+
+Press the button with a blue question mark for more information."::<end>
+
+=>q159
+::"Press the button with a yellow wrench to invoke local mechanized support team to help out with a mechanical problem on either the train or the railroad.
+
+Press the button with a red exclamation mark for situations where a hazardous event has made train traversal potentially threatening to the health of the passengers.
+
+Press the button with a blue question mark for more information."::<end>
+
+=>a160_original
+::Open the metal compartment.::<end>
+
+=>a160
+::Open the metal compartment.::<end>
+
+=>q161_original
+::The doors are locked.::<end>
+
+=>q161
+::The doors are locked.::<end>
+
+=>a162_original
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>a162
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>q163_original
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>q163
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>a164_original
+::Take the items inside and leave.::<end>
+
+=>a164
+::Take the items inside and leave.::<end>
+
+=>q165_original
+::Your lockpicking skills are not up to the task.::<end>
+
+=>q165
+::Your lockpicking skills are not up to the task.::<end>
+
+=>a166_original
+::Make a call instead.::<end>
+
+=>a166
+::Make a call instead.::<end>
+
+=>q167_original
+::There's nothing inside.::<end>
+
+=>q167
+::There's nothing inside.::<end>
+
+=>a168_original
+::Make a call.::<end>
+
+=>a168
+::Make a call.::<end>
+
+=>q169_original
+::This phone was devastated by someone... or something. 
+
+No calls can be made.::<end>
+
+=>q169
+::This phone was devastated by someone... or something. 
+
+No calls can be made.::<end>
+
+=>a170_original
+::Open the metal compartment.::<end>
+
+=>a170
+::Open the metal compartment.::<end>
+
+=>q171_original
+::There's some loot inside.::<end>
+
+=>q171
+::There's some loot inside.::<end>
+
+=>a172_original
+::Take the items inside and leave.::<end>
+
+=>a172
+::Take the items inside and leave.::<end>
+
+=>q173_original
+::There's nothing inside.::<end>
+
+=>q173
+::There's nothing inside.::<end>
+
+=>a174_original
+::Leave.::<end>
+
+=>a174
+::Leave.::<end>
+
+=>q175_original
+::This phone is considerably damaged. The metal compartment door is missing and its insides are empty.::
+
+<end>
+
+=>q175
+::This phone is considerably damaged. The metal compartment door is missing and its insides are empty.::
+
+<end>
+
+=>q176_original
+::It's electronics are exposed and can be tampered with.::
+
+<end>
+
+=>q176
+::It's electronics are exposed and can be tampered with.::
+
+<end>
+
+=>q177_original
+::You can try to make a call.::<end>
+
+=>q177
+::You can try to make a call.::<end>
+
+=>a178_original
+::[Hacking or Electronics] Attempt to fix the phone.::<end>
+
+=>a178
+::[Hacking or Electronics] Attempt to fix the phone.::<end>
+
+=>q179_original
+::At first, it's quite obvious that someone has deliberately made changes to the way the this phone operates. Some curious yet strange upgrades have been made to a portion of the transistors used to handle transmission. However none of these additions seem to function as the wiring inside is in total ruin.
+
+Utilizing relatively basic knowledge of electronics, you manage to reconnect all severed wires back to normal. After that, you locate the power switch inside and, for a good measures sake, decide to restart the entire device. A few seconds go by, and now, the phone is active once more.::<end>
+
+=>q179
+::At first, it's quite obvious that someone has deliberately made changes to the way the this phone operates. Some curious yet strange upgrades have been made to a portion of the transistors used to handle transmission. However none of these additions seem to function as the wiring inside is in total ruin.
+
+Utilizing relatively basic knowledge of electronics, you manage to reconnect all severed wires back to normal. After that, you locate the power switch inside and, for a good measures sake, decide to restart the entire device. A few seconds go by, and now, the phone is active once more.::<end>
+
+=>a180_original
+::Use the phone.::<end>
+
+=>a180
+::Use the phone.::<end>
+
+=>q181_original
+::The wires inside are severed in various ways. It's crystal clear to you where the wires used to begin, but, you cannot make out where they would've ended. For now you decide to leave the phone as it is.::
+
+<end>
+
+=>q181
+::The wires inside are severed in various ways. It's crystal clear to you where the wires used to begin, but, you cannot make out where they would've ended. For now you decide to leave the phone as it is.::
+
+<end>
+
+=>a182_original
+::Press the button with a red cross icon.::<end>
+
+=>a182
+::Press the button with a red cross icon.::<end>
+
+=>q183_original
+::The call lingers for a moment before it cancels on its own.::<end>
+
+=>q183
+::The call lingers for a moment before it cancels on its own.::<end>
+
+=>a184_original
+::Call again.::<end>
+
+=>a184
+::Call again.::<end>
+
+=>q185_original
+::This time the silence lasts considerably longer. Suddenly, two distinct yet heavily muffled male voices start talking one to another, but it's impossible to discern much from their conversation. Your attempts to talk to them are futile as it seems you can only listen in on their conversation. By the tone of their voice, it's clear that one party is dissatisfied with the other. Yelling ensues and you can hear the last sentence which sounded like: "I'm done crunching for you, derailed maggots!". The other guy tries to respond: "Aww, Ph-reakyyy, don't leave us hanging. It'll just take--" the call suddenly ends.::<end>
+
+=>q185
+::This time the silence lasts considerably longer. Suddenly, two distinct yet heavily muffled male voices start talking one to another, but it's impossible to discern much from their conversation. Your attempts to talk to them are futile as it seems you can only listen in on their conversation. By the tone of their voice, it's clear that one party is dissatisfied with the other. Yelling ensues and you can hear the last sentence which sounded like: "I'm done crunching for you, derailed maggots!". The other guy tries to respond: "Aww, Ph-reakyyy, don't leave us hanging. It'll just take--" the call suddenly ends.::<end>
+
+=>a186_original
+::Make a new call.::<end>
+
+=>a186
+::Make a new call.::<end>
+
+=>q187_original
+::There's no response.::<end>
+
+=>q187
+::There's no response.::<end>
+
+=>a188_original
+::Cancel the call.::<end>
+
+=>a188
+::Cancel the call.::<end>
+
+=>a189_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a189
+::Press the button with a yellow wrench icon.::<end>
+
+=>q190_original
+::A robotic voice speaks up:
+
+"Support is on the way. Please stand by."::<end>
+
+=>q190
+::A robotic voice speaks up:
+
+"Support is on the way. Please stand by."::<end>
+
+=>q191_original
+::There's no response.::<end>
+
+=>q191
+::There's no response.::<end>
+
+=>a192_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a192
+::Press the button with a blue question mark icon.::<end>
+
+=>q193_original
+::There's no response.::<end>
+
+=>q193
+::There's no response.::<end>
+
+=>q194_original
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>q194
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>a195_original
+::Press the button with a red cross icon.::<end>
+
+=>a195
+::Press the button with a red cross icon.::<end>
+
+=>q196_original
+::There's no response.::<end>
+
+=>q196
+::There's no response.::<end>
+
+=>a197_original
+::Cancel the call.::<end>
+
+=>a197
+::Cancel the call.::<end>
+
+=>a198_original
+::Press the button with a red rathound icon.::<end>
+
+=>a198
+::Press the button with a red rathound icon.::<end>
+
+=>q199_original
+::After a short silence, somebody picks up.::<end>
+
+=>q199
+::After a short silence, somebody picks up.::<end>
+
+=>q200_original
+:: The first sound you hear is one that would leave your ears bleeding had it lasted longer than a few seconds. The noise clanks mercilessly, producing piercing sounds, some robotic and the others of raw metal, making it seem as if the headphone is being dragged along a rough surface. Suddenly a sharp - *thunk* sound, stops this madness. An old voice shouts:
+
+"There's no crunching happening, stop buzzing me!" 
+
+The call has ended.::<end>
+
+=>q200
+:: The first sound you hear is one that would leave your ears bleeding had it lasted longer than a few seconds. The noise clanks mercilessly, producing piercing sounds, some robotic and the others of raw metal, making it seem as if the headphone is being dragged along a rough surface. Suddenly a sharp - *thunk* sound, stops this madness. An old voice shouts:
+
+"There's no crunching happening, stop buzzing me!" 
+
+The call has ended.::<end>
+
+=>a201_original
+::Make a new call.::<end>
+
+=>a201
+::Make a new call.::<end>
+
+=>q202_original
+::There's no response.::<end>
+
+=>q202
+::There's no response.::<end>
+
+=>a203_original
+::Press the button with a green shield icon.::<end>
+
+=>a203
+::Press the button with a green shield icon.::<end>
+
+=>a204_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a204
+::Press the button with a yellow wrench icon.::<end>
+
+=>a205_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a205
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a206_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a206
+::Press the button with a blue question mark icon.::<end>
+
+=>a207_original
+::Open the metal compartment.::<end>
+
+=>a207
+::Open the metal compartment.::<end>
+
+=>q208_original
+::There's nothing inside.::<end>
+
+=>q208
+::There's nothing inside.::<end>
+
+=>a209_original
+::Make a call.::<end>
+
+=>a209
+::Make a call.::<end>
+
+=>q210_original
+::This phone has only two functional buttons remaining, the others have been torn out.::
+
+::You can make a call.::<end>
+
+=>q210
+::This phone has only two functional buttons remaining, the others have been torn out.::
+
+::You can make a call.::<end>
+
+=>a211_original
+::Press the button with a red rathound icon.::<end>
+
+=>a211
+::Press the button with a red rathound icon.::<end>
+
+=>q212_original
+::The absence of sound.::<end>
+
+=>q212
+::The absence of sound.::<end>
+
+=>a213_original
+::Make a call.::<end>
+
+=>a213
+::Make a call.::<end>
+
+=>a214_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a214
+::Press the button with a yellow wrench icon.::<end>
+
+=>q215_original
+::Nothing but silence.::<end>
+
+=>q215
+::Nothing but silence.::<end>
+
+=>a216_original
+::Open the metal compartment.::<end>
+
+=>a216
+::Open the metal compartment.::<end>
+
+=>q217_original
+::The doors are locked.::<end>
+
+=>q217
+::The doors are locked.::<end>
+
+=>a218_original
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>a218
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>q219_original
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>q219
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>a220_original
+::Take the items inside and leave.::<end>
+
+=>a220
+::Take the items inside and leave.::<end>
+
+=>q221_original
+::Your lockpicking skills are not up to the task.::<end>
+
+=>q221
+::Your lockpicking skills are not up to the task.::<end>
+
+=>a222_original
+::Make a call instead.::<end>
+
+=>a222
+::Make a call instead.::<end>
+
+=>q223_original
+::There's nothing inside.::<end>
+
+=>q223
+::There's nothing inside.::<end>
+
+=>q224_original
+::This phone has only three functional buttons remaining, the others have been torn out.::
+
+::You can make a call.::<end>
+
+=>q224
+::This phone has only three functional buttons remaining, the others have been torn out.::
+
+::You can make a call.::<end>
+
+=>a225_original
+::Press the button with a red cross icon.::<end>
+
+=>a225
+::Press the button with a red cross icon.::<end>
+
+=>q226_original
+::There's no response.::<end>
+
+=>q226
+::There's no response.::<end>
+
+=>a227_original
+::Cancel the call.::<end>
+
+=>a227
+::Cancel the call.::<end>
+
+=>a228_original
+::Press the button with a red rathound icon.::<end>
+
+=>a228
+::Press the button with a red rathound icon.::<end>
+
+=>a229_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a229
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a230_original
+::Open the metal compartment.::<end>
+
+=>a230
+::Open the metal compartment.::<end>
+
+=>q231_original
+::The doors are locked.::<end>
+
+=>q231
+::The doors are locked.::<end>
+
+=>a232_original
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>a232
+::[Lockpicking] Try to unlock the door.::<end>
+
+=>q233_original
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>q233
+::You have managed to unlock the doors. There are some items inside.::<end>
+
+=>a234_original
+::Take the items inside and leave.::<end>
+
+=>a234
+::Take the items inside and leave.::<end>
+
+=>q235_original
+::Your lockpicking skills are not up to the task.::<end>
+
+=>q235
+::Your lockpicking skills are not up to the task.::<end>
+
+=>a236_original
+::Make a call instead.::<end>
+
+=>a236
+::Make a call instead.::<end>
+
+=>q237_original
+::There's nothing inside.::<end>
+
+=>q237
+::There's nothing inside.::<end>
+
+=>q238_original
+::The buttons have been painted over in black.::
+
+::You can make a call.::<end>
+
+=>q238
+::The buttons have been painted over in black.::
+
+::You can make a call.::<end>
+
+=>a239_original
+::Press the first button.::<end>
+
+=>a239
+::Press the first button.::<end>
+
+=>q240_original
+::There's no response.::<end>
+
+=>q240
+::There's no response.::<end>
+
+=>a241_original
+::Cancel the call.::<end>
+
+=>a241
+::Cancel the call.::<end>
+
+=>a242_original
+::Press the second button.::<end>
+
+=>a242
+::Press the second button.::<end>
+
+=>q243_original
+::A robotic prerecorded voice speaks up: 
+
+Bzzzt - mechanical support unavailable. Contact the personnel inside the room ahead of you.::<end>
+
+=>q243
+::A robotic prerecorded voice speaks up: 
+
+Bzzzt - mechanical support unavailable. Contact the personnel inside the room ahead of you.::<end>
+
+=>a244_original
+::Make a new call.::<end>
+
+=>a244
+::Make a new call.::<end>
+
+=>a245_original
+::Press the third button.::<end>
+
+=>a245
+::Press the third button.::<end>
+
+=>a246_original
+::Press the fourth button.::<end>
+
+=>a246
+::Press the fourth button.::<end>
+
+=>q247_original
+::A robotic prerecorded voice speaks up: 
+
+Bzzz zzzt - Dispatching dedicated support unit. Please stand by.::<end>
+
+=>q247
+::A robotic prerecorded voice speaks up: 
+
+Bzzz zzzt - Dispatching dedicated support unit. Please stand by.::<end>
+
+=>a248_original
+::Press the fifth button.::<end>
+
+=>a248
+::Press the fifth button.::<end>
+
+=>a249_original
+::Press the sixth button.::<end>
+
+=>a249
+::Press the sixth button.::<end>
+
+=>q250_original
+::A robotic prerecorded voice speaks up: 
+
+Animal proximity detected, extermination unit on route.::<end>
+
+=>q250
+::A robotic prerecorded voice speaks up: 
+
+Animal proximity detected, extermination unit on route.::<end>
+
+=>a251_original
+::Open the metal compartment.::<end>
+
+=>a251
+::Open the metal compartment.::<end>
+
+=>q252_original
+::There's nothing inside.::<end>
+
+=>q252
+::There's nothing inside.::<end>
+
+=>a253_original
+::Make a call instead.::<end>
+
+=>a253
+::Make a call instead.::<end>
+
+=>q254_original
+::The box's metal cover is severely bent, most likely after being struck by a sledgehammer.::<end>
+
+=>q254
+::The box's metal cover is severely bent, most likely after being struck by a sledgehammer.::<end>
+
+=>q255_original
+ ::Although it's in terrible shape, with sufficient knowledge and the right tools, it can still be salvaged.::<end>
+
+=>q255
+ ::Although it's in terrible shape, with sufficient knowledge and the right tools, it can still be salvaged.::<end>
+
+=>a256_original
+::[Hacking or Electronics] Attempt to fix the phone.::<end>
+
+=>a256
+::[Hacking or Electronics] Attempt to fix the phone.::<end>
+
+=>q257_original
+::The problem at hand is a difficult one. Raw force has obliterated most of the components essential for all of the calls to work. There is however, a relatively intact section of the phone linked to one of the buttons. It is there where you find room for modifications and after some tinkering, you manage to make it work. The button itself is missing but a call can be made by stimulating the right electrical signal.::<end>
+
+=>q257
+::The problem at hand is a difficult one. Raw force has obliterated most of the components essential for all of the calls to work. There is however, a relatively intact section of the phone linked to one of the buttons. It is there where you find room for modifications and after some tinkering, you manage to make it work. The button itself is missing but a call can be made by stimulating the right electrical signal.::<end>
+
+=>a258_original
+::Use the phone.::<end>
+
+=>a258
+::Use the phone.::<end>
+
+=>q259_original
+::The inside of the box resemble a crime scene. Furious pummeling has left little to work with; it was shown no mercy. The knowledge and skill required to fix this device exceed your own.::<end>
+
+=>q259
+::The inside of the box resemble a crime scene. Furious pummeling has left little to work with; it was shown no mercy. The knowledge and skill required to fix this device exceed your own.::<end>
+
+=>a260_original
+::Leave.::<end>
+
+=>a260
+::Leave.::<end>
+
+=>a261_original
+::Leave.::<end>
+
+=>a261
+::Leave.::<end>
+
+=>q262_original
+ ::You can try to make a call.::<end>
+
+=>q262
+ ::You can try to make a call.::<end>
+
+=>a263_original
+::Trigger the signal for a call.::<end>
+
+=>a263
+::Trigger the signal for a call.::<end>
+
+=>q264_original
+::The metal doors behind you click. For a little while, the call hangs open before it gets canceled.::<end>
+
+=>q264
+::The metal doors behind you click. For a little while, the call hangs open before it gets canceled.::<end>
+
+=>a265_original
+::Back away.::<end>
+
+=>a265
+::Back away.::<end>
+
+=>q266_original
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>q266
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>a267_original
+::Press the button with a red cross icon.::<end>
+
+=>a267
+::Press the button with a red cross icon.::<end>
+
+=>q268_original
+::There's no response.::<end>
+
+=>q268
+::There's no response.::<end>
+
+=>a269_original
+::Cancel the call.::<end>
+
+=>a269
+::Cancel the call.::<end>
+
+=>q270_original
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>q270
+::There's nothing that indicates the current functionality of this phone.::
+
+::You can make a call.::<end>
+
+=>a271_original
+::Press the button with a red rathound icon.::<end>
+
+=>a271
+::Press the button with a red rathound icon.::<end>
+
+=>a272_original
+::Press the button with a green shield icon.::<end>
+
+=>a272
+::Press the button with a green shield icon.::<end>
+
+=>a273_original
+::Press the button with a yellow wrench icon.::<end>
+
+=>a273
+::Press the button with a yellow wrench icon.::<end>
+
+=>a274_original
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a274
+::Press the button with a red exclamation mark icon.::<end>
+
+=>a275_original
+::Press the button with a blue question mark icon.::<end>
+
+=>a275
+::Press the button with a blue question mark icon.::<end>
+
+=>a276_original
+::Open the metal compartment.::<end>
+
+=>a276
+::Open the metal compartment.::<end>
+
+=>q277_original
+::There's nothing inside.::<end>
+
+=>q277
+::There's nothing inside.::<end>
+
+=>a278_original
+::Make a call.::<end>
+
+=>a278
+::Make a call.::<end>
+
+=>a279_original
+::Leave.::<end>
+
+=>a279
+::Leave.::<end>
+
+=>q280_original
+::This phone is completely out of commission.::<end>
+
+=>q280
+::This phone is completely out of commission.::<end>
+
+=>a281_original
+::Leave.::<end>
+
+=>a281
+::Leave.::<end>
+

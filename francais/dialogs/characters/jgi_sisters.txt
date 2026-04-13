@@ -1,0 +1,756 @@
+=>q1_original
+::Two robed women stand in the middle of a small cavern, facing each other. Their gleaming eyes become focused on you the moment you reveal your presence. The darkness of the cave as well as that of their hoods make it difficult for you to discern any facial features of these two women, but the details are not your concern right now - their hostile poses are.::<end>
+
+=>q1
+::Two robed women stand in the middle of a small cavern, facing each other. Their gleaming eyes become focused on you the moment you reveal your presence. The darkness of the cave as well as that of their hoods make it difficult for you to discern any facial features of these two women, but the details are not your concern right now - their hostile poses are.::<end>
+
+=>q2_original
+::One of the two women speaks with a frigid, unwelcoming voice.::
+
+Identify yourself, visitor. Who are you and what is your purpose here?<end>
+
+=>q2
+::One of the two women speaks with a frigid, unwelcoming voice.::
+
+Identify yourself, visitor. Who are you and what is your purpose here?<end>
+
+=>a3_original
+I'm $(context.player.Name) and I mean you no harm.<end>
+
+=>a3
+I'm $(context.player.Name) and I mean you no harm.<end>
+
+=>q4_original
+::The two women exchange looks, but not words. A short glance is all it takes for them to know what the other one is thinking, it seems.::
+
+$(context.player.Name)... I am Adira, and this is my sister Beatrice.<end>
+
+=>q4
+::The two women exchange looks, but not words. A short glance is all it takes for them to know what the other one is thinking, it seems.::
+
+$(context.player.Name)... I am Adira, and this is my sister Beatrice.<end>
+
+=>q5_original
+Your purpose here, $(context.player.Name)?<end>
+
+=>q5
+Your purpose here, $(context.player.Name)?<end>
+
+=>a6_original
+I heard about the monster - Behemoth.<end>
+
+=>a6
+I heard about the monster - Behemoth.<end>
+
+=>q7_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+Many came here for this very reason. I'm sure you walked past the remains of some on your way in.<end>
+
+=>q7
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+Many came here for this very reason. I'm sure you walked past the remains of some on your way in.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+What can you tell me about the Forsaken Behemoth?<end>
+
+=>a9
+What can you tell me about the Forsaken Behemoth?<end>
+
+=>q10_original
+::She smiles.:: You've gotten this far, so I think you deserve the truth. The Forsaken Behemoth doesn't exist. All the things you've been told are, in fact, false.<end>
+
+=>q10
+::She smiles.:: You've gotten this far, so I think you deserve the truth. The Forsaken Behemoth doesn't exist. All the things you've been told are, in fact, false.<end>
+
+=>q11_original
+Everything you heard is a product of my sister's skillful manipulation. If one has the ability to control fire, moving air to create frightening sounds is not an issue. Especially when the entrance to the cave helps it resonate and reach the ears of superstitious ferrymen.<end>
+
+=>q11
+Everything you heard is a product of my sister's skillful manipulation. If one has the ability to control fire, moving air to create frightening sounds is not an issue. Especially when the entrance to the cave helps it resonate and reach the ears of superstitious ferrymen.<end>
+
+=>a12_original
+I guess your ruse worked. You convinced a lot of people that this island is the home of a terrifying monster.<end>
+
+=>a12
+I guess your ruse worked. You convinced a lot of people that this island is the home of a terrifying monster.<end>
+
+=>q13_original
+Ironically, our whole plan also attracted a fair number of crazy monster hunters - or at least what we suspect they were, since they came well armed.<end>
+
+=>q13
+Ironically, our whole plan also attracted a fair number of crazy monster hunters - or at least what we suspect they were, since they came well armed.<end>
+
+=>q14_original
+And some of them were really rude. They still haven't left the island to this day! It's impolite to overstay your welcome, I say. ::She flashes a malicious smile.::<end>
+
+=>q14
+And some of them were really rude. They still haven't left the island to this day! It's impolite to overstay your welcome, I say. ::She flashes a malicious smile.::<end>
+
+=>a15_original
+So basically, there's nothing interesting on this island.<end>
+
+=>a15
+So basically, there's nothing interesting on this island.<end>
+
+=>q16_original
+No... Unless you think hoppers and mindshrooms are interesting.<end>
+
+=>q16
+No... Unless you think hoppers and mindshrooms are interesting.<end>
+
+=>q17_original
+Nothing interesting at all?<end>
+
+=>q17
+Nothing interesting at all?<end>
+
+=>q18_original
+The visitor meant other than the two of us...<end>
+
+=>q18
+The visitor meant other than the two of us...<end>
+
+=>q19_original
+I'm sure of that...<end>
+
+=>q19
+I'm sure of that...<end>
+
+=>a20_original
+I had other questions...<end>
+
+=>a20
+I had other questions...<end>
+
+=>q21_original
+::They both nod.::<end>
+
+=>q21
+::They both nod.::<end>
+
+=>a22_original
+But why are you doing all this?<end>
+
+=>a22
+But why are you doing all this?<end>
+
+=>q23_original
+We don't like visitors. I think that's fairly obvious.<end>
+
+=>q23
+We don't like visitors. I think that's fairly obvious.<end>
+
+=>a24_original
+I see you really don't want visitors here.<end>
+
+=>a24
+I see you really don't want visitors here.<end>
+
+=>a25_original
+I heard about a creature called Forsaken Behemoth living on this island. Do you know anything about that?<end>
+
+=>a25
+I heard about a creature called Forsaken Behemoth living on this island. Do you know anything about that?<end>
+
+=>a26_original
+How did you two end up here, if I may ask?<end>
+
+=>a26
+How did you two end up here, if I may ask?<end>
+
+=>q27_original
+Allow us to tell you a story...<end>
+
+=>q27
+Allow us to tell you a story...<end>
+
+=>a28_original
+Alright. You may start.<end>
+
+=>a28
+Alright. You may start.<end>
+
+=>q29_original
+::You manage catch a little smile on Adira's face, vanishing as quickly as it appeared. Even if it was there only for a brief moment, you could tell that hiding behind that smile was not joy but, in fact, sadness.::<end>
+
+=>q29
+::You manage catch a little smile on Adira's face, vanishing as quickly as it appeared. Even if it was there only for a brief moment, you could tell that hiding behind that smile was not joy but, in fact, sadness.::<end>
+
+=>q30_original
+A young girl was born and raised in a small station far away from here. The girl had a twin sister whom she loved more than anything in this world. The two were inseparable.<end>
+
+=>q30
+A young girl was born and raised in a small station far away from here. The girl had a twin sister whom she loved more than anything in this world. The two were inseparable.<end>
+
+=>q31_original
+The sisters were inseparable - as most twins tend to be. As unfortunate as it is, several tragedies made the bond between the sisters even stronger than before. Their father, a good and caring man, died from the hands of vile raiders that had constantly circled the station like packs of hungry rathounds. Their mother, a gorgeous woman and equally - if not more - caring than the father died from a broken heart.<end>
+
+=>q31
+The sisters were inseparable - as most twins tend to be. As unfortunate as it is, several tragedies made the bond between the sisters even stronger than before. Their father, a good and caring man, died from the hands of vile raiders that had constantly circled the station like packs of hungry rathounds. Their mother, a gorgeous woman and equally - if not more - caring than the father died from a broken heart.<end>
+
+=>q32_original
+The little girl and her sister were left living with their grandmother, an old, disabled woman who could barely take care of herself, let alone feed and raise two young girls.<end>
+
+=>q32
+The little girl and her sister were left living with their grandmother, an old, disabled woman who could barely take care of herself, let alone feed and raise two young girls.<end>
+
+=>q33_original
+The sisters never loved her. She was a selfish and bitter old woman. It was a miracle how she even managed to raise such a selfless and intelligent son when she herself was quite the opposite.<end>
+
+=>q33
+The sisters never loved her. She was a selfish and bitter old woman. It was a miracle how she even managed to raise such a selfless and intelligent son when she herself was quite the opposite.<end>
+
+=>q34_original
+The next page of the story spells poverty and a life that was about to get even harder: The girl and her sister shared a gift - they were psionics. One was gifted with the ability to control fire, one the ability to control frost.<end>
+
+=>q34
+The next page of the story spells poverty and a life that was about to get even harder: The girl and her sister shared a gift - they were psionics. One was gifted with the ability to control fire, one the ability to control frost.<end>
+
+=>q35_original
+Control is the wrong word here, for they had no real control over their abilities and there was no one in that small, forgotten station that could help them embrace this ability that they possessed and teach them how to use it properly.<end>
+
+=>q35
+Control is the wrong word here, for they had no real control over their abilities and there was no one in that small, forgotten station that could help them embrace this ability that they possessed and teach them how to use it properly.<end>
+
+=>q36_original
+Accidental fires, flying ice spikes and an occasional frozen door knob quickly raised the whole station to its feet; the residents were filled with fear as well as prejudice.<end>
+
+=>q36
+Accidental fires, flying ice spikes and an occasional frozen door knob quickly raised the whole station to its feet; the residents were filled with fear as well as prejudice.<end>
+
+=>q37_original
+The sisters were scared too; they didn't want to hurt anyone, they tried not to. It was a true horror. There was no one to guide them, show them the right way to innervate and use their abilities - no one to help them! All they got were looks of fear and prejudice, and even hatred. Even their own grandmother proved even more useless and selfish than what the girls had originally thought.<end>
+
+=>q37
+The sisters were scared too; they didn't want to hurt anyone, they tried not to. It was a true horror. There was no one to guide them, show them the right way to innervate and use their abilities - no one to help them! All they got were looks of fear and prejudice, and even hatred. Even their own grandmother proved even more useless and selfish than what the girls had originally thought.<end>
+
+=>q38_original
+Fear overcame the simple-minded. The girls were forced to leave in fear of their "evil" powers hurting the community. Grandmother had a pseudo-wise explanation which, at least in her own distorted mind, justified such actions. The sisters were given some money, some clothes, some food, and were told to go to Core City. There, someone could perhaps help them.<end>
+
+=>q38
+Fear overcame the simple-minded. The girls were forced to leave in fear of their "evil" powers hurting the community. Grandmother had a pseudo-wise explanation which, at least in her own distorted mind, justified such actions. The sisters were given some money, some clothes, some food, and were told to go to Core City. There, someone could perhaps help them.<end>
+
+=>q39_original
+Nonsense...<end>
+
+=>q39
+Nonsense...<end>
+
+=>q40_original
+The capital of decadence, torn apart by rioters, was luckily not the destination of the little sisters. They were sick of people, of the whole treacherous human race! The bastards, the inconsiderate walking piles of rathound excrement threw us out - FORCED US OUT like we were... like we weren't even human beings... If we had been eaten by rabid animals right outside the station they wouldn't have cared one stinking bit! They got rid of us. We were not their problem anymore, and that's all they cared about.<end>
+
+=>q40
+The capital of decadence, torn apart by rioters, was luckily not the destination of the little sisters. They were sick of people, of the whole treacherous human race! The bastards, the inconsiderate walking piles of rathound excrement threw us out - FORCED US OUT like we were... like we weren't even human beings... If we had been eaten by rabid animals right outside the station they wouldn't have cared one stinking bit! They got rid of us. We were not their problem anymore, and that's all they cared about.<end>
+
+=>q41_original
+::She gives her sister a short glance.:: Naturally, a place - any place untainted by humans was the best place for the little sisters to settle. Not only that, but it also had to be difficult for anyone to reach this place. The little girls tried to find a ferryman to take them to Forsaken Island, an island surrounded by dangerous currents that had doomed a vast number of unfortunate boats in the past and was often avoided. As there was no one willing to take them there, they had to... *steal* their ride.<end>
+
+=>q41
+::She gives her sister a short glance.:: Naturally, a place - any place untainted by humans was the best place for the little sisters to settle. Not only that, but it also had to be difficult for anyone to reach this place. The little girls tried to find a ferryman to take them to Forsaken Island, an island surrounded by dangerous currents that had doomed a vast number of unfortunate boats in the past and was often avoided. As there was no one willing to take them there, they had to... *steal* their ride.<end>
+
+=>q42_original
+The island offered them a life of isolation and sufficient resources to survive. They grew up, and many years later they eventually mastered their "cursed" gifts. They sought and gained control over the abilities that were a burden up to that point. <end>
+
+=>q42
+The island offered them a life of isolation and sufficient resources to survive. They grew up, and many years later they eventually mastered their "cursed" gifts. They sought and gained control over the abilities that were a burden up to that point. <end>
+
+=>q43_original
+In the end, they only needed each other in life. Through joint effort they managed to survive through everything. And to this day, their bond is stronger then ever. And so are their powers.<end>
+
+=>q43
+In the end, they only needed each other in life. Through joint effort they managed to survive through everything. And to this day, their bond is stronger then ever. And so are their powers.<end>
+
+=>a44_original
+That was a really sad story. Some people are so small-minded! But as you said, who needs those bastards!<end>
+
+=>a44
+That was a really sad story. Some people are so small-minded! But as you said, who needs those bastards!<end>
+
+=>q45_original
+Well... what's done is done. It's all in the past now.<end>
+
+=>q45
+Well... what's done is done. It's all in the past now.<end>
+
+=>q46_original
+Ugh... I still hate them to this day! I wish...<end>
+
+=>q46
+Ugh... I still hate them to this day! I wish...<end>
+
+=>q47_original
+You wish nothing, Beatrice. Leave it be.<end>
+
+=>q47
+You wish nothing, Beatrice. Leave it be.<end>
+
+=>q48_original
+I... ::She sighs.:: Yes, sister. I'll leave it be.<end>
+
+=>q48
+I... ::She sighs.:: Yes, sister. I'll leave it be.<end>
+
+=>q49_original
+::Both of them fall silent. They seem to have drifted off, perhaps somewhere far back in the past.::<end>
+
+=>q49
+::Both of them fall silent. They seem to have drifted off, perhaps somewhere far back in the past.::<end>
+
+=>a50_original
+You might not agree with me, but you were a potential danger to those people. Psionics out of control don't seem safe to me.<end>
+
+=>a50
+You might not agree with me, but you were a potential danger to those people. Psionics out of control don't seem safe to me.<end>
+
+=>q51_original
+So, throwing us out was perfectly justified according to you? How can you say such a thing? All we needed was some love... some understanding, some help. Nothing else. And we got none of it, not even a little.<end>
+
+=>q51
+So, throwing us out was perfectly justified according to you? How can you say such a thing? All we needed was some love... some understanding, some help. Nothing else. And we got none of it, not even a little.<end>
+
+=>q52_original
+We never hurt anyone, and never would have - not even by accident!<end>
+
+=>q52
+We never hurt anyone, and never would have - not even by accident!<end>
+
+=>a53_original
+I'm sorry. I didn't mean to sound like I support their decision. Forget I said anything.<end>
+
+=>a53
+I'm sorry. I didn't mean to sound like I support their decision. Forget I said anything.<end>
+
+=>a54_original
+Yeah, whatever you say. I had other question.<end>
+
+=>a54
+Yeah, whatever you say. I had other question.<end>
+
+=>q55_original
+::Both of them put on a frown but say nothing.::<end>
+
+=>q55
+::Both of them put on a frown but say nothing.::<end>
+
+=>a56_original
+I don't know what to say to all this...<end>
+
+=>a56
+I don't know what to say to all this...<end>
+
+=>q57_original
+That's alright. There are times when words cannot describe something you wish to express.<end>
+
+=>q57
+That's alright. There are times when words cannot describe something you wish to express.<end>
+
+=>q58_original
+Adira and I sometimes don't utter a single word for a whole day or two. Yet, we never fail to understand each other.<end>
+
+=>q58
+Adira and I sometimes don't utter a single word for a whole day or two. Yet, we never fail to understand each other.<end>
+
+=>q59_original
+Actually, we haven't talked this much in a long, long time...<end>
+
+=>q59
+Actually, we haven't talked this much in a long, long time...<end>
+
+=>q60_original
+Well now we have a visitor. ::She smiles.::<end>
+
+=>q60
+Well now we have a visitor. ::She smiles.::<end>
+
+=>a61_original
+Now that was a long story! Hey, I grew a long gray beard!<end>
+
+=>a61
+Now that was a long story! Hey, I grew a long gray beard!<end>
+
+=>q62_original
+::Both sisters stand in disbelief. Your comment wasn't the one they expected, it seems. They look at each other for a second before Adira replies.::
+
+I am at a loss for words, visitor.<end>
+
+=>q62
+::Both sisters stand in disbelief. Your comment wasn't the one they expected, it seems. They look at each other for a second before Adira replies.::
+
+I am at a loss for words, visitor.<end>
+
+=>q63_original
+You think you're funny? You think you can come to our home and act like a jerk!? Why I'll...<end>
+
+=>q63
+You think you're funny? You think you can come to our home and act like a jerk!? Why I'll...<end>
+
+=>a64_original
+I'm sorry, okay! I didn't mean it like that. Again, I'm sorry.<end>
+
+=>a64
+I'm sorry, okay! I didn't mean it like that. Again, I'm sorry.<end>
+
+=>q65_original
+Let's all calm down. You better watch your words next time, visitor.<end>
+
+=>q65
+Let's all calm down. You better watch your words next time, visitor.<end>
+
+=>q66_original
+::Beatrice says nothing. She just stares at you.::<end>
+
+=>q66
+::Beatrice says nothing. She just stares at you.::<end>
+
+=>q67_original
+Did you have any other questions, visitor?<end>
+
+=>q67
+Did you have any other questions, visitor?<end>
+
+=>a68_original
+What? Please continue. I'm really interested in what you were going to say.<end>
+
+=>a68
+What? Please continue. I'm really interested in what you were going to say.<end>
+
+=>q69_original
+That's it! You're going down!<end>
+
+=>q69
+That's it! You're going down!<end>
+
+=>a70_original
+::Fight!::<end>
+
+=>a70
+::Fight!::<end>
+
+=>a71_original
+Wow, someone's oversensitive!<end>
+
+=>a71
+Wow, someone's oversensitive!<end>
+
+=>q72_original
+Overse--!? That's it! You're going down!<end>
+
+=>q72
+Overse--!? That's it! You're going down!<end>
+
+=>a73_original
+What a long story! If I were a man, I'd be sporting a long gray beard by now!<end>
+
+=>a73
+What a long story! If I were a man, I'd be sporting a long gray beard by now!<end>
+
+=>a74_original
+I think you misheard me. I didn't ask for a story, I asked you to tell me how you ended up here.<end>
+
+=>a74
+I think you misheard me. I didn't ask for a story, I asked you to tell me how you ended up here.<end>
+
+=>q75_original
+ALLOW us to tell you a story...<end>
+
+=>q75
+ALLOW us to tell you a story...<end>
+
+=>a76_original
+Actually, before you start, I had other questions I wanted to ask you.<end>
+
+=>a76
+Actually, before you start, I had other questions I wanted to ask you.<end>
+
+=>a77_original
+What do you do to pass the time here?<end>
+
+=>a77
+What do you do to pass the time here?<end>
+
+=>q78_original
+Besides fishing, picking mushrooms and hunting hoppers...<end>
+
+=>q78
+Besides fishing, picking mushrooms and hunting hoppers...<end>
+
+=>q79_original
+I like creating ice sculptures...<end>
+
+=>q79
+I like creating ice sculptures...<end>
+
+=>q80_original
+I enjoy creating dancing flames of various shapes and sizes...<end>
+
+=>q80
+I enjoy creating dancing flames of various shapes and sizes...<end>
+
+=>q81_original
+We come up with interesting tales...<end>
+
+=>q81
+We come up with interesting tales...<end>
+
+=>q82_original
+Or just meditate... or practice our skills.<end>
+
+=>q82
+Or just meditate... or practice our skills.<end>
+
+=>q83_original
+Life here is not as boring as one might think. Trust us.<end>
+
+=>q83
+Life here is not as boring as one might think. Trust us.<end>
+
+=>a84_original
+Have you ever left this island after you came here?<end>
+
+=>a84
+Have you ever left this island after you came here?<end>
+
+=>q85_original
+No...<end>
+
+=>q85
+No...<end>
+
+=>q86_original
+No! Why would we do that?<end>
+
+=>q86
+No! Why would we do that?<end>
+
+=>q87_original
+We don't need anything from the outside world; we have everything we need *right* here.<end>
+
+=>q87
+We don't need anything from the outside world; we have everything we need *right* here.<end>
+
+=>a88_original
+Well, I have to be leaving now. Goodbye.<end>
+
+=>a88
+Well, I have to be leaving now. Goodbye.<end>
+
+=>q89_original
+Where do you think you're going?<end>
+
+=>q89
+Where do you think you're going?<end>
+
+=>a90_original
+Home.<end>
+
+=>a90
+Home.<end>
+
+=>q91_original
+Did you really think we were gonna let you just leave this place and tell anyone about what you witnessed here?<end>
+
+=>q91
+Did you really think we were gonna let you just leave this place and tell anyone about what you witnessed here?<end>
+
+=>a92_original
+But you seemed talkative and friendly.<end>
+
+=>a92
+But you seemed talkative and friendly.<end>
+
+=>q93_original
+In all honesty, it was interesting to hear another voice. Perhaps something of the outside world, not that it matters much. In the end, we can't let you get out of here alive.<end>
+
+=>q93
+In all honesty, it was interesting to hear another voice. Perhaps something of the outside world, not that it matters much. In the end, we can't let you get out of here alive.<end>
+
+=>a94_original
+::[Persuade]:: Okay, kill me. Then my powerful friends, who know I'm here, will come looking for me - armed to the teeth. After all, they will be expecting the Behemoth to be here so they'll pack quite a bit of firepower. Can you deal with all of them?<end>
+
+=>a94
+::[Persuade]:: Okay, kill me. Then my powerful friends, who know I'm here, will come looking for me - armed to the teeth. After all, they will be expecting the Behemoth to be here so they'll pack quite a bit of firepower. Can you deal with all of them?<end>
+
+=>q95_original
+::Adira is silent, and so is her sister.::<end>
+
+=>q95
+::Adira is silent, and so is her sister.::<end>
+
+=>a96_original
+I know it's hard to trust a complete stranger, but at least give it a shot. What I saw here will remain between you and me. You have my word.<end>
+
+=>a96
+I know it's hard to trust a complete stranger, but at least give it a shot. What I saw here will remain between you and me. You have my word.<end>
+
+=>q97_original
+::Looks are exchanged between the sisters once again. Your answer came quickly, preceded only by a short sigh.::
+
+You convinced us. We won't stop you from leaving, $(context.player.Name). You are free to go.<end>
+
+=>q97
+::Looks are exchanged between the sisters once again. Your answer came quickly, preceded only by a short sigh.::
+
+You convinced us. We won't stop you from leaving, $(context.player.Name). You are free to go.<end>
+
+=>a98_original
+Well, I'm outta here. So long!<end>
+
+=>a98
+Well, I'm outta here. So long!<end>
+
+=>a99_original
+Goodbye.<end>
+
+=>a99
+Goodbye.<end>
+
+=>q100_original
+Your excuse is pathetic! Let's get this over with!<end>
+
+=>q100
+Your excuse is pathetic! Let's get this over with!<end>
+
+=>a101_original
+I promise I'll bring you a gift if you let me go! I'll get you something nice!<end>
+
+=>a101
+I promise I'll bring you a gift if you let me go! I'll get you something nice!<end>
+
+=>q102_original
+Oooh! I want a doll! ::She laughs out loud.:: Actually... no. I don't need a stinking doll!<end>
+
+=>q102
+Oooh! I want a doll! ::She laughs out loud.:: Actually... no. I don't need a stinking doll!<end>
+
+=>q103_original
+The talk is over!<end>
+
+=>q103
+The talk is over!<end>
+
+=>a104_original
+I'll give you money if you let me live!<end>
+
+=>a104
+I'll give you money if you let me live!<end>
+
+=>q105_original
+::She laughs out loud.:: Money? We have no use for that here! That was pathetic!<end>
+
+=>q105
+::She laughs out loud.:: Money? We have no use for that here! That was pathetic!<end>
+
+=>a106_original
+I'm not going down without a fight! ::Attack!::<end>
+
+=>a106
+I'm not going down without a fight! ::Attack!::<end>
+
+=>a107_original
+I just wanted to take a look around.<end>
+
+=>a107
+I just wanted to take a look around.<end>
+
+=>a108_original
+To kill all the hoppers on the island! I hate those filthy creatures!<end>
+
+=>a108
+To kill all the hoppers on the island! I hate those filthy creatures!<end>
+
+=>a109_original
+I'm going on a new adventure!<end>
+
+=>a109
+I'm going on a new adventure!<end>
+
+=>a110_original
+To grab something to eat. I'm starving.<end>
+
+=>a110
+To grab something to eat. I'm starving.<end>
+
+=>a111_original
+I gotta go.<end>
+
+=>a111
+I gotta go.<end>
+
+=>a112_original
+A strong current pulled the ferry I was on and I ended up stranded here. I originally intended to go to Core City, but I guess I will be spending some time on this cursed place.<end>
+
+=>a112
+A strong current pulled the ferry I was on and I ended up stranded here. I originally intended to go to Core City, but I guess I will be spending some time on this cursed place.<end>
+
+=>q113_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+The Forsaken Island itself is very dangerous, and so are the waters around it. You are lucky to still be breathing, visitor.<end>
+
+=>q113
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+The Forsaken Island itself is very dangerous, and so are the waters around it. You are lucky to still be breathing, visitor.<end>
+
+=>a114_original
+I wanted to explore the Forsaken Island despite the tales of a great and deadly creature inhabiting it.<end>
+
+=>a114
+I wanted to explore the Forsaken Island despite the tales of a great and deadly creature inhabiting it.<end>
+
+=>a115_original
+I'm here to kill you, steal your stuff and then try to sell it to someone. Die! ::Attack!::<end>
+
+=>a115
+I'm here to kill you, steal your stuff and then try to sell it to someone. Die! ::Attack!::<end>
+
+=>a116_original
+Who are *you* and what is going on here?<end>
+
+=>a116
+Who are *you* and what is going on here?<end>
+
+=>q117_original
+We *suggest* you answer our question first, visitor.<end>
+
+=>q117
+We *suggest* you answer our question first, visitor.<end>
+
+=>a118_original
+I don't think so, ladies.<end>
+
+=>a118
+I don't think so, ladies.<end>
+
+=>q119_original
+So rude...<end>
+
+=>q119
+So rude...<end>
+
+=>a120_original
+I guess I took a wrong turn. Sorry for the disturbance. Bye bye!<end>
+
+=>a120
+I guess I took a wrong turn. Sorry for the disturbance. Bye bye!<end>
+
+=>q121_original
+Stop right there! Take a step back and it'll be your last one. Answer our question, visitor! Who are you and what are you doing here?<end>
+
+=>q121
+Stop right there! Take a step back and it'll be your last one. Answer our question, visitor! Who are you and what are you doing here?<end>
+
+=>q122_original
+::The two sisters are silent.::<end>
+
+=>q122
+::The two sisters are silent.::<end>
+

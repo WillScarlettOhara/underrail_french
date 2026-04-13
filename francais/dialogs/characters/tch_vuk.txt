@@ -1,0 +1,440 @@
+=>q1_original
+Get outta here, $(#bro/sis)!<end>
+
+=>q1
+Get outta here, $(#bro/sis)!<end>
+
+=>q2_original
+Psycho is on the loose!<end>
+
+=>q2
+Psycho is on the loose!<end>
+
+=>q3_original
+Listen $(#bro/sis), we can't talk right now. Rista is mad, and if he sees you and me talking... Just leave.<end>
+
+=>q3
+Listen $(#bro/sis), we can't talk right now. Rista is mad, and if he sees you and me talking... Just leave.<end>
+
+=>q4_original
+::The man you just approached seems casual and relaxed. His suit is covered with dirt, blood and some green slime, and you notice what appear to be large strands of hair stuck in it. He extends his right hand to shake yours but withdraws it in the last moment after noticing that their cleanliness matches that of his suit.::
+
+Hey, $(#bro/sis). Is there something I can help you with?<end>
+
+=>q4
+::The man you just approached seems casual and relaxed. His suit is covered with dirt, blood and some green slime, and you notice what appear to be large strands of hair stuck in it. He extends his right hand to shake yours but withdraws it in the last moment after noticing that their cleanliness matches that of his suit.::
+
+Hey, $(#bro/sis). Is there something I can help you with?<end>
+
+=>a5_original
+Tchort is evolution, brother. I am $(context.player.Name) and I would like to ask you a few questions.<end>
+
+=>a5
+Tchort is evolution, brother. I am $(context.player.Name) and I would like to ask you a few questions.<end>
+
+=>q6_original
+Evolution is Tchort. I am Vuk. Well, since I'm on a break I suppose I could answer a few questions. Go ahead, $(#bro/sis). Ask.<end>
+
+=>q6
+Evolution is Tchort. I am Vuk. Well, since I'm on a break I suppose I could answer a few questions. Go ahead, $(#bro/sis). Ask.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::[Biology]:: You have plenty of interesting creatures here. Do you have any exotic samples I could use in my research?<end>
+
+=>a8
+::[Biology]:: You have plenty of interesting creatures here. Do you have any exotic samples I could use in my research?<end>
+
+=>q9_original
+Exotic? Like... from the Deep Caverns?<end>
+
+=>q9
+Exotic? Like... from the Deep Caverns?<end>
+
+=>a10_original
+Preferably.<end>
+
+=>a10
+Preferably.<end>
+
+=>q11_original
+::He shrugs.:: Sure. All in the name of Investigation, right?  <end>
+
+=>q11
+::He shrugs.:: Sure. All in the name of Investigation, right?  <end>
+
+=>q12_original
+Let me just get the squishies, $(#bro/sis).<end>
+
+=>q12
+Let me just get the squishies, $(#bro/sis).<end>
+
+=>a13_original
+::Barter.::<end>
+
+=>a13
+::Barter.::<end>
+
+=>a14_original
+Why not.<end>
+
+=>a14
+Why not.<end>
+
+=>a15_original
+::Nod.::<end>
+
+=>a15
+::Nod.::<end>
+
+=>a16_original
+I am interested in a trade.<end>
+
+=>a16
+I am interested in a trade.<end>
+
+=>a17_original
+I talked to Principal Investigator Rista and he told me we can trade.<end>
+
+=>a17
+I talked to Principal Investigator Rista and he told me we can trade.<end>
+
+=>q18_original
+If he says it's okay - it's okay! Let me just change my gloves, $(#bro/sis), and I'll show you what I've got.<end>
+
+=>q18
+If he says it's okay - it's okay! Let me just change my gloves, $(#bro/sis), and I'll show you what I've got.<end>
+
+=>a19_original
+What do you do around here?<end>
+
+=>a19
+What do you do around here?<end>
+
+=>q20_original
+Well, $(#bro/sis), I'm one of the biologists working in this department. As you can see from my general appearance this is a very, very dirty job. To give an example, this green stuff I'm covered with actually came from one of the coil spiders we have in the holding pens. I was in its enclosure and then it approached and suddenly regurgitated *this* stuff all over me. I have yet to figure out why.<end>
+
+=>q20
+Well, $(#bro/sis), I'm one of the biologists working in this department. As you can see from my general appearance this is a very, very dirty job. To give an example, this green stuff I'm covered with actually came from one of the coil spiders we have in the holding pens. I was in its enclosure and then it approached and suddenly regurgitated *this* stuff all over me. I have yet to figure out why.<end>
+
+=>a21_original
+::[Biology]:: Female spiders have a tendency to regurgitate fluids to starved individuals; maybe it's seeing you as one of her own kin.<end>
+
+=>a21
+::[Biology]:: Female spiders have a tendency to regurgitate fluids to starved individuals; maybe it's seeing you as one of her own kin.<end>
+
+=>q22_original
+Listen, I am-- ::He pauses for a second.:: You know what, $(#bro/sis)... you might have a good point there. Magnificent Tchort, yes! The pacification procedure we performed on these creatures could have caused them to view us in ways we haven't really expected. Hmmm, perhaps in her mind I'm one of her young or a distressed unit.<end>
+
+=>q22
+Listen, I am-- ::He pauses for a second.:: You know what, $(#bro/sis)... you might have a good point there. Magnificent Tchort, yes! The pacification procedure we performed on these creatures could have caused them to view us in ways we haven't really expected. Hmmm, perhaps in her mind I'm one of her young or a distressed unit.<end>
+
+=>a23_original
+Glad to be of help.<end>
+
+=>a23
+Glad to be of help.<end>
+
+=>q24_original
+It is the benefit of the outside view, $(#bro/sis). We who work on something can sometimes get so focused on it that it narrows our vision. We fail to see other things. Good work! <end>
+
+=>q24
+It is the benefit of the outside view, $(#bro/sis). We who work on something can sometimes get so focused on it that it narrows our vision. We fail to see other things. Good work! <end>
+
+=>a25_original
+I am not in the mood to talk about regurgitation. Can we discuss something else?<end>
+
+=>a25
+I am not in the mood to talk about regurgitation. Can we discuss something else?<end>
+
+=>q26_original
+This is serious stuff I'm talking about, $(#bro/sis). You have to get used to these sort of things if you wish to work in the department.<end>
+
+=>q26
+This is serious stuff I'm talking about, $(#bro/sis). You have to get used to these sort of things if you wish to work in the department.<end>
+
+=>a27_original
+I wanted to ask you if you know anything about some odd creatures that are plaguing Foundry at the moment.<end>
+
+=>a27
+I wanted to ask you if you know anything about some odd creatures that are plaguing Foundry at the moment.<end>
+
+=>q28_original
+What are the creatures in questions?<end>
+
+=>q28
+What are the creatures in questions?<end>
+
+=>a29_original
+They're quadrupedal creatures, highly aggressive, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>a29
+They're quadrupedal creatures, highly aggressive, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>q30_original
+That is odd, as you say. Can't help you, I'm afraid. I have no experience with anything resembling that description.<end>
+
+=>q30
+That is odd, as you say. Can't help you, I'm afraid. I have no experience with anything resembling that description.<end>
+
+=>a31_original
+If I bring you a sample or a live specimen, will you take a look at it for me?<end>
+
+=>a31
+If I bring you a sample or a live specimen, will you take a look at it for me?<end>
+
+=>q32_original
+I... not without PI Rista's permission I can't. You should go to him, and if he says yes - then I'd be good to help you.<end>
+
+=>q32
+I... not without PI Rista's permission I can't. You should go to him, and if he says yes - then I'd be good to help you.<end>
+
+=>a33_original
+He already said no.<end>
+
+=>a33
+He already said no.<end>
+
+=>q34_original
+::Vuk simply shrugs.::<end>
+
+=>q34
+::Vuk simply shrugs.::<end>
+
+=>a35_original
+That's that then... There was something else...<end>
+
+=>a35
+That's that then... There was something else...<end>
+
+=>q36_original
+Yes, $(#bro/sis)?<end>
+
+=>q36
+Yes, $(#bro/sis)?<end>
+
+=>a37_original
+Got it. See you later, Vuk. Gotta run.<end>
+
+=>a37
+Got it. See you later, Vuk. Gotta run.<end>
+
+=>q38_original
+Ditto, $(#bro/sis).<end>
+
+=>q38
+Ditto, $(#bro/sis).<end>
+
+=>a39_original
+Well, Tchort guide you, Vuk.<end>
+
+=>a39
+Well, Tchort guide you, Vuk.<end>
+
+=>q40_original
+Tchort guide you.<end>
+
+=>q40
+Tchort guide you.<end>
+
+=>a41_original
+Where can I find him?<end>
+
+=>a41
+Where can I find him?<end>
+
+=>q42_original
+His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
+
+=>q42
+His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
+
+=>a43_original
+At my own risk? Why?<end>
+
+=>a43
+At my own risk? Why?<end>
+
+=>q44_original
+::He simply chuckles but gives you no further explanation.::
+
+Anything else?<end>
+
+=>q44
+::He simply chuckles but gives you no further explanation.::
+
+Anything else?<end>
+
+=>a45_original
+Okay... See ya.<end>
+
+=>a45
+Okay... See ya.<end>
+
+=>a46_original
+They look like larvae, with weird heads shaped like small drills.<end>
+
+=>a46
+They look like larvae, with weird heads shaped like small drills.<end>
+
+=>a47_original
+How come these creatures you have here aren't aggressive?<end>
+
+=>a47
+How come these creatures you have here aren't aggressive?<end>
+
+=>q48_original
+It's all due to the pacification procedures we have performed on them. Only the dangerous ones like burrowers and coil spiders. They usually don't tolerate human presence and show it, um, by trying to tear you to pieces.<end>
+
+=>q48
+It's all due to the pacification procedures we have performed on them. Only the dangerous ones like burrowers and coil spiders. They usually don't tolerate human presence and show it, um, by trying to tear you to pieces.<end>
+
+=>a49_original
+Pacification? How do you do that?<end>
+
+=>a49
+Pacification? How do you do that?<end>
+
+=>q50_original
+As you probably suspect already, we have found a way to make the creatures non-aggressive to other species. Unfortunately, I can't tell you the details on how we do it. Well, at least I don't know if I'm allowed to so I better not... Seek Rista, our PI; he's in charge of the project and can tell you more.<end>
+
+=>q50
+As you probably suspect already, we have found a way to make the creatures non-aggressive to other species. Unfortunately, I can't tell you the details on how we do it. Well, at least I don't know if I'm allowed to so I better not... Seek Rista, our PI; he's in charge of the project and can tell you more.<end>
+
+=>q51_original
+::He shrugs.:: Sorry, $(#bro/sis).<end>
+
+=>q51
+::He shrugs.:: Sorry, $(#bro/sis).<end>
+
+=>a52_original
+That sounds great! But I had other questions.<end>
+
+=>a52
+That sounds great! But I had other questions.<end>
+
+=>q53_original
+Yeah?<end>
+
+=>q53
+Yeah?<end>
+
+=>a54_original
+Since you work with animals - do you have any spare organs or other parts that I can acquire?<end>
+
+=>a54
+Since you work with animals - do you have any spare organs or other parts that I can acquire?<end>
+
+=>q55_original
+I am in charge of that, but you'll get nothing for free if that's what you're implying. On the other hand, I could sell you some but... um... You know what, go talk to Principal Investigator Rista and see if you can get his permission. If he says "yes" then come back to me. I'll wait here.<end>
+
+=>q55
+I am in charge of that, but you'll get nothing for free if that's what you're implying. On the other hand, I could sell you some but... um... You know what, go talk to Principal Investigator Rista and see if you can get his permission. If he says "yes" then come back to me. I'll wait here.<end>
+
+=>a56_original
+I already talked to him and he told me it's okay.<end>
+
+=>a56
+I already talked to him and he told me it's okay.<end>
+
+=>a57_original
+Right, I'll go talk to him.<end>
+
+=>a57
+Right, I'll go talk to him.<end>
+
+=>q58_original
+Tchort guide you and good luck.<end>
+
+=>q58
+Tchort guide you and good luck.<end>
+
+=>a59_original
+Good luck? Why?<end>
+
+=>a59
+Good luck? Why?<end>
+
+=>q60_original
+::He chuckles but says nothing otherwise.::<end>
+
+=>q60
+::He chuckles but says nothing otherwise.::<end>
+
+=>a61_original
+Tchort guide you too.<end>
+
+=>a61
+Tchort guide you too.<end>
+
+=>a62_original
+I'll be back soon.<end>
+
+=>a62
+I'll be back soon.<end>
+
+=>a63_original
+What can you tell me about this pacification procedure performed on animals?<end>
+
+=>a63
+What can you tell me about this pacification procedure performed on animals?<end>
+
+=>a64_original
+Can you tell me who's in charge here?<end>
+
+=>a64
+Can you tell me who's in charge here?<end>
+
+=>q65_original
+Ah. AH! You seek Principal Investigator Rista, right? His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
+
+=>q65
+Ah. AH! You seek Principal Investigator Rista, right? His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
+
+=>a66_original
+Tchort guide you, brother.<end>
+
+=>a66
+Tchort guide you, brother.<end>
+
+=>a67_original
+See you later, Vuk.<end>
+
+=>a67
+See you later, Vuk.<end>
+
+=>a68_original
+Hi, I'm $(context.player.Name) and I had questions if I'm not bothering you.<end>
+
+=>a68
+Hi, I'm $(context.player.Name) and I had questions if I'm not bothering you.<end>
+
+=>q69_original
+Not at all; I'm taking a short break now so a chat is fine by me. I am Vuk, by the way, pleasure to meet you. What was it you wished to ask, $(#bro/sis)?<end>
+
+=>q69
+Not at all; I'm taking a short break now so a chat is fine by me. I am Vuk, by the way, pleasure to meet you. What was it you wished to ask, $(#bro/sis)?<end>
+
+=>a70_original
+'Ey. I'm $(context.player.Name). Mind answering a few questions?<end>
+
+=>a70
+'Ey. I'm $(context.player.Name). Mind answering a few questions?<end>
+
+=>q71_original
+Good work there, $(#bro/sis). Psycho is one big... psycho! ::He laughs.:: Once it gets mad it gets so scary it could even frighten Tchort! Um...forget I said that.<end>
+
+=>q71
+Good work there, $(#bro/sis). Psycho is one big... psycho! ::He laughs.:: Once it gets mad it gets so scary it could even frighten Tchort! Um...forget I said that.<end>
+
+=>q72_original
+Hey, good to see you $(context.player.Name). How can I help you?<end>
+
+=>q72
+Hey, good to see you $(context.player.Name). How can I help you?<end>
+

@@ -1,0 +1,126 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Never trusted that psiworker.<end>
+
+=>q2
+Never trusted that psiworker.<end>
+
+=>q3_original
+Did he... turn into an old man?<end>
+
+=>q3
+Did he... turn into an old man?<end>
+
+=>q4_original
+Yo.<end>
+
+=>q4
+Yo.<end>
+
+=>q5_original
+The Arena is gonna be full for the Smasher Bros fight.<end>
+
+=>q5
+The Arena is gonna be full for the Smasher Bros fight.<end>
+
+=>q6_original
+Me and my family often visit the Arena.<end>
+
+=>q6
+Me and my family often visit the Arena.<end>
+
+=>q7_original
+Foundry's mine has recently been reopened. Don't know why they even closed it in the first place.<end>
+
+=>q7
+Foundry's mine has recently been reopened. Don't know why they even closed it in the first place.<end>
+
+=>q8_original
+I hope we captured some of those Faceless. Arena meat! ::Laughs.::<end>
+
+=>q8
+I hope we captured some of those Faceless. Arena meat! ::Laughs.::<end>
+
+=>q9_original
+I knew it! $(context.playerArenaTitle) became the Invictus!<end>
+
+=>q9
+I knew it! $(context.playerArenaTitle) became the Invictus!<end>
+
+=>q10_original
+There's a guy selling...um, was it Achilles? Some strength drug or something.<end>
+
+=>q10
+There's a guy selling...um, was it Achilles? Some strength drug or something.<end>
+
+=>q11_original
+Heard about the motioner killings?<end>
+
+=>q11
+Heard about the motioner killings?<end>
+
+=>q12_original
+Heard the Free Drones really dominated Protectorate forces near Junkyard.<end>
+
+=>q12
+Heard the Free Drones really dominated Protectorate forces near Junkyard.<end>
+
+=>q13_original
+That $(context.playerArenaTitle) $(#fellow/lass) looks like one promising gladiator.<end>
+
+=>q13
+That $(context.playerArenaTitle) $(#fellow/lass) looks like one promising gladiator.<end>
+
+=>q14_original
+Heard about that midget that broke into Ray's shop?<end>
+
+=>q14
+Heard about that midget that broke into Ray's shop?<end>
+
+=>q15_original
+Core City can be a dangerous place, so take care.<end>
+
+=>q15
+Core City can be a dangerous place, so take care.<end>
+
+=>q16_original
+Some dude is painting cool graffiti around the city. Not the Free Drones' ones - actual grafitti.<end>
+
+=>q16
+Some dude is painting cool graffiti around the city. Not the Free Drones' ones - actual grafitti.<end>
+
+=>q17_original
+People come from the most remote parts of the Underrail just to visit the Arena.<end>
+
+=>q17
+People come from the most remote parts of the Underrail just to visit the Arena.<end>
+
+=>q18_original
+Hope the Faceless don't reach the Arena...<end>
+
+=>q18
+Hope the Faceless don't reach the Arena...<end>
+
+=>q19_original
+Knight's kid is dead? Wow, never saw that coming...<end>
+
+=>q19
+Knight's kid is dead? Wow, never saw that coming...<end>
+
+=>q20_original
+I wonder what happened in that warehouse everyone's been talking about...<end>
+
+=>q20
+I wonder what happened in that warehouse everyone's been talking about...<end>
+
+=>q21_original
+Whoa, what's with all the ads in the city?<end>
+
+=>q21
+Whoa, what's with all the ads in the city?<end>
+

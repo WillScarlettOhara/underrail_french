@@ -1,0 +1,182 @@
+=>q1_original
+Be on your way.<end>
+
+=>q1
+Be on your way.<end>
+
+=>q2_original
+::A young, skinny-faced man signals you to stop with one hand, while firmly holding a pistol in the other.::
+
+Hold it right there, friend. There is nothing here for you to see. Turn around and walk away - unless you're looking for trouble.<end>
+
+=>q2
+::A young, skinny-faced man signals you to stop with one hand, while firmly holding a pistol in the other.::
+
+Hold it right there, friend. There is nothing here for you to see. Turn around and walk away - unless you're looking for trouble.<end>
+
+=>a3_original
+I see you have a lovely train here. I wonder where it came from?<end>
+
+=>a3
+I see you have a lovely train here. I wonder where it came from?<end>
+
+=>q4_original
+Listen, friend, I don't know what you've heard, but pay attention to what I am about to say: We're all being manipulated by the Protectorate and their brainless puppets. You, me, our friends and family. Everyone. Please, stay out of this - don't be a fool. We are not your true enemy!<end>
+
+=>q4
+Listen, friend, I don't know what you've heard, but pay attention to what I am about to say: We're all being manipulated by the Protectorate and their brainless puppets. You, me, our friends and family. Everyone. Please, stay out of this - don't be a fool. We are not your true enemy!<end>
+
+=>a5_original
+And why should I believe you? Who are you people anyway?<end>
+
+=>a5
+And why should I believe you? Who are you people anyway?<end>
+
+=>q6_original
+We are the Free Drones, and we fight against the Protectorate oppression. Underrail Protectorate - the same faction that destroyed Biocorp, that enslaved North Underrail, that has committed so many atrocities and fed itself this fat with the corpses of those who would not conform - is now here. Well, we don't want them here, or anywhere else but Hell! We are gonna stand up to them, 'cause we ain't a bunch of quakers!<end>
+
+=>q6
+We are the Free Drones, and we fight against the Protectorate oppression. Underrail Protectorate - the same faction that destroyed Biocorp, that enslaved North Underrail, that has committed so many atrocities and fed itself this fat with the corpses of those who would not conform - is now here. Well, we don't want them here, or anywhere else but Hell! We are gonna stand up to them, 'cause we ain't a bunch of quakers!<end>
+
+=>a7_original
+::[Persuade]:: Let me get this straight: You've stolen supplies crucial to Rail Crossing's defense against raiders in order to "stand up" to the Protectorate? Do you even think about these things, or do you just know how to shoot guns and regurgitate all those stock lines about oppression and other mumbo-jumbo?<end>
+
+=>a7
+::[Persuade]:: Let me get this straight: You've stolen supplies crucial to Rail Crossing's defense against raiders in order to "stand up" to the Protectorate? Do you even think about these things, or do you just know how to shoot guns and regurgitate all those stock lines about oppression and other mumbo-jumbo?<end>
+
+=>q8_original
+::Your words freeze him momentarily, but his response comes quickly, carried by a violent tone.::
+
+We are at war with those rats! You... you don't understand anything!<end>
+
+=>q8
+::Your words freeze him momentarily, but his response comes quickly, carried by a violent tone.::
+
+We are at war with those rats! You... you don't understand anything!<end>
+
+=>a9_original
+If Rail Crossing does not receive these supplies, the raiders will run them over. That is all I need to understand. Many lives will be lost, and the whole station will be wiped out. Is that what you're fighting for?<end>
+
+=>a9
+If Rail Crossing does not receive these supplies, the raiders will run them over. That is all I need to understand. Many lives will be lost, and the whole station will be wiped out. Is that what you're fighting for?<end>
+
+=>q10_original
+::His face confirms the impact your words have had on him; it also reveals that his thought process has turned into a catastrophic train-wreck. He stares at you, infuriated, but is unable to produce a response. He just stares.
+
+Tense seconds go by, ticking away until the moment of capitulation. When it comes, the man raises his pistol, not to shoot, but to wave at his comrades to gather. They object and ask questions, directing resentful stares at you, but ultimately they come to an agreement.::<end>
+
+=>q10
+::His face confirms the impact your words have had on him; it also reveals that his thought process has turned into a catastrophic train-wreck. He stares at you, infuriated, but is unable to produce a response. He just stares.
+
+Tense seconds go by, ticking away until the moment of capitulation. When it comes, the man raises his pistol, not to shoot, but to wave at his comrades to gather. They object and ask questions, directing resentful stares at you, but ultimately they come to an agreement.::<end>
+
+=>q11_original
+::They soon leave the scene, but you still felt those stares on you as they were walking away.::<end>
+
+=>q11
+::They soon leave the scene, but you still felt those stares on you as they were walking away.::<end>
+
+=>a12_original
+::End Dialog.::<end>
+
+=>a12
+::End Dialog.::<end>
+
+=>q13_original
+::His response comes in a violent form.::
+
+No... you are nothing but a Protectorate puppet! And for that disease - there is only one cure!<end>
+
+=>q13
+::His response comes in a violent form.::
+
+No... you are nothing but a Protectorate puppet! And for that disease - there is only one cure!<end>
+
+=>a14_original
+::Fight!::<end>
+
+=>a14
+::Fight!::<end>
+
+=>a15_original
+Tell me more about the Free Drones.<end>
+
+=>a15
+Tell me more about the Free Drones.<end>
+
+=>q16_original
+We are anarchists, and our movement was formed in North Underrail as a response to a regime that tortures, kills and imprisons thousands of its people annually. This war machine, operated by General Melek himself, is now slowly driving its serrated threads over us too, us Southerners. Don't let the United Stations banners fool you - Melek's dogs are here to conquer!<end>
+
+=>q16
+We are anarchists, and our movement was formed in North Underrail as a response to a regime that tortures, kills and imprisons thousands of its people annually. This war machine, operated by General Melek himself, is now slowly driving its serrated threads over us too, us Southerners. Don't let the United Stations banners fool you - Melek's dogs are here to conquer!<end>
+
+=>q17_original
+You have no reason to trust me, and I know how everything I just said sounds and how difficult it might seem for some to believe, but that's what's happening, $(#brother/sister). That's our world.<end>
+
+=>q17
+You have no reason to trust me, and I know how everything I just said sounds and how difficult it might seem for some to believe, but that's what's happening, $(#brother/sister). That's our world.<end>
+
+=>a18_original
+I'm sorry, but the supplies on that train don't belong to you, and it's my duty to return them to their rightful owners. So, step aside!<end>
+
+=>a18
+I'm sorry, but the supplies on that train don't belong to you, and it's my duty to return them to their rightful owners. So, step aside!<end>
+
+=>q19_original
+You brainwashed Protectorate puppet! I'll put a few bullets through that rotten head of yours!<end>
+
+=>q19
+You brainwashed Protectorate puppet! I'll put a few bullets through that rotten head of yours!<end>
+
+=>a20_original
+I'll pretend nothing happened here. Fight on, brothers.<end>
+
+=>a20
+I'll pretend nothing happened here. Fight on, brothers.<end>
+
+=>q21_original
+I hear ya, $(#brother/sister). We won't let those dirty rats win. We will defeat them, and we'll even do it with their own weapons. 
+
+Stay free.<end>
+
+=>q21
+I hear ya, $(#brother/sister). We won't let those dirty rats win. We will defeat them, and we'll even do it with their own weapons. 
+
+Stay free.<end>
+
+=>a22_original
+So long.<end>
+
+=>a22
+So long.<end>
+
+=>a23_original
+Are you the Free Drones? I've heard about you before.<end>
+
+=>a23
+Are you the Free Drones? I've heard about you before.<end>
+
+=>q24_original
+Yes, and you've probably also heard that we're fighting against the Protectorate oppression. The same faction that destroyed Biocorp, that enslaved North Underrail, that has committed so many atrocities and fed itself this large with the corpses of those who would not conform and obey - is now here. Well, we don't want them here, or anywhere else but Hell! And we are standing up to them, 'cause we ain't a bunch of quakers.<end>
+
+=>q24
+Yes, and you've probably also heard that we're fighting against the Protectorate oppression. The same faction that destroyed Biocorp, that enslaved North Underrail, that has committed so many atrocities and fed itself this large with the corpses of those who would not conform and obey - is now here. Well, we don't want them here, or anywhere else but Hell! And we are standing up to them, 'cause we ain't a bunch of quakers.<end>
+
+=>a25_original
+I guess I am itching for some trouble after all. ::Attack!::<end>
+
+=>a25
+I guess I am itching for some trouble after all. ::Attack!::<end>
+
+=>a26_original
+I'll go, I don't want any trouble.<end>
+
+=>a26
+I'll go, I don't want any trouble.<end>
+
+=>q27_original
+You again? I told you to get out of here. You really want trouble, don't ya?<end>
+
+=>q27
+You again? I told you to get out of here. You really want trouble, don't ya?<end>
+

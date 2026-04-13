@@ -1,0 +1,108 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Coughs.::<end>
+
+=>q2
+::Coughs.::<end>
+
+=>q3_original
+::Coughs harder.::<end>
+
+=>q3
+::Coughs harder.::<end>
+
+=>q4_original
+::Coughs up a coin. You pick it up.::<end>
+
+=>q4
+::Coughs up a coin. You pick it up.::<end>
+
+=>q5_original
+::Licks paw.::<end>
+
+=>q5
+::Licks paw.::<end>
+
+=>q6_original
+::Scratches itself.::<end>
+
+=>q6
+::Scratches itself.::<end>
+
+=>q7_original
+::Struggles to breathe.::<end>
+
+=>q7
+::Struggles to breathe.::<end>
+
+=>q8_original
+::Coughs.::<end>
+
+=>q8
+::Coughs.::<end>
+
+=>q9_original
+::Vomits some rubber balls. You pick them up.::<end>
+
+=>q9
+::Vomits some rubber balls. You pick them up.::<end>
+
+=>q10_original
+::Breathes heavily.::<end>
+
+=>q10
+::Breathes heavily.::<end>
+
+=>q11_original
+::Tries to bite its tail.::<end>
+
+=>q11
+::Tries to bite its tail.::<end>
+
+=>q12_original
+::Shakes head.::<end>
+
+=>q12
+::Shakes head.::<end>
+
+=>q13_original
+::Vomits blood.::<end>
+
+=>q13
+::Vomits blood.::<end>
+
+=>q14_original
+::Coughs up a memory stick. You pick it up.::<end>
+
+=>q14
+::Coughs up a memory stick. You pick it up.::<end>
+
+=>q15_original
+::Nibbles on its leg.::<end>
+
+=>q15
+::Nibbles on its leg.::<end>
+
+=>q16_original
+::Pants.::<end>
+
+=>q16
+::Pants.::<end>
+
+=>q17_original
+::Coughs up green liquid. Starts shaking uncontrollably.::<end>
+
+=>q17
+::Coughs up green liquid. Starts shaking uncontrollably.::<end>
+
+=>q18_original
+::Squeals.::<end>
+
+=>q18
+::Squeals.::<end>
+

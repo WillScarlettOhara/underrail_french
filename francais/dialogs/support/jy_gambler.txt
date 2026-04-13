@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Can't chat now, bud. Gotta win back my money!<end>
+
+=>q2
+Can't chat now, bud. Gotta win back my money!<end>
+
+=>q3_original
+Come on, daddy needs a new pair of boots...<end>
+
+=>q3
+Come on, daddy needs a new pair of boots...<end>
+
+=>q4_original
+Ya here to play some dice?<end>
+
+=>q4
+Ya here to play some dice?<end>
+
+=>q5_original
+I can't believe Gunslinger Prime lost. That cost me so much money.<end>
+
+=>q5
+I can't believe Gunslinger Prime lost. That cost me so much money.<end>
+
+=>q6_original
+I always bet on the red guy in the Gauntlet. Always.<end>
+
+=>q6
+I always bet on the red guy in the Gauntlet. Always.<end>
+
+=>q7_original
+Hmm, odds are pretty good for the Smasher Bros fight. Should I...?<end>
+
+=>q7
+Hmm, odds are pretty good for the Smasher Bros fight. Should I...?<end>
+

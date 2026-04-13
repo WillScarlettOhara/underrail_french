@@ -1,0 +1,30 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Go away!<end>
+
+=>q2
+Go away!<end>
+
+=>q3_original
+Get outta here, $(#caveman/cavewoman)!<end>
+
+=>q3
+Get outta here, $(#caveman/cavewoman)!<end>
+
+=>q4_original
+Get lost!<end>
+
+=>q4
+Get lost!<end>
+
+=>q5_original
+Beat it, $(#man/woman)!<end>
+
+=>q5
+Beat it, $(#man/woman)!<end>
+

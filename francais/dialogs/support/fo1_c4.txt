@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+This place is so big!<end>
+
+=>q2
+This place is so big!<end>
+
+=>q3_original
+Hello, I'm new in this station.<end>
+
+=>q3
+Hello, I'm new in this station.<end>
+
+=>q4_original
+The air is so polluted in here.<end>
+
+=>q4
+The air is so polluted in here.<end>
+
+=>q5_original
+Just a word of warning: the food in here tastes awful! I can just taste... Foundry.<end>
+
+=>q5
+Just a word of warning: the food in here tastes awful! I can just taste... Foundry.<end>
+
+=>q6_original
+I should probably leave this place.<end>
+
+=>q6
+I should probably leave this place.<end>
+
+=>q7_original
+So many people die here, all the time. Maybe that's why a lot of people here seem so hostile.<end>
+
+=>q7
+So many people die here, all the time. Maybe that's why a lot of people here seem so hostile.<end>
+
+=>q8_original
+Rock monsters? Like, actual rocks!?<end>
+
+=>q8
+Rock monsters? Like, actual rocks!?<end>
+
+=>q9_original
+I should get some rest.<end>
+
+=>q9
+I should get some rest.<end>
+
+=>q10_original
+There ain't many Arena fans here, or am I missing something?<end>
+
+=>q10
+There ain't many Arena fans here, or am I missing something?<end>
+

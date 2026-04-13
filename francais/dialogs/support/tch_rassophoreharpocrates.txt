@@ -1,0 +1,276 @@
+=>q1_original
+DEVOLVED FACELESS!<end>
+
+=>q1
+DEVOLVED FACELESS!<end>
+
+=>q2_original
+::The rassophore guard motions you to stop.::
+
+Stop, $(#brother/sister). The area behind us is blocked off due to earthquake damage.<end>
+
+=>q2
+::The rassophore guard motions you to stop.::
+
+Stop, $(#brother/sister). The area behind us is blocked off due to earthquake damage.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+How much damage did the earthquake do?<end>
+
+=>a4
+How much damage did the earthquake do?<end>
+
+=>q5_original
+Well, before the earthquake struck there was only a small room behind the door at the end of the corridor. Now, the wall fell down and revealed an opening into an abandoned station. It is all ruined; nothing of use there.<end>
+
+=>q5
+Well, before the earthquake struck there was only a small room behind the door at the end of the corridor. Now, the wall fell down and revealed an opening into an abandoned station. It is all ruined; nothing of use there.<end>
+
+=>q6_original
+We've locked the door to keep someone from going there by accident... but it also serves as an obstacle should something try to come to us.<end>
+
+=>q6
+We've locked the door to keep someone from going there by accident... but it also serves as an obstacle should something try to come to us.<end>
+
+=>a7_original
+Do you really think that a locked door will prevent something from getting in?<end>
+
+=>a7
+Do you really think that a locked door will prevent something from getting in?<end>
+
+=>q8_original
+By the Tchort, no... But slow down enough for us to summon reinforcements? Yes.<end>
+
+=>q8
+By the Tchort, no... But slow down enough for us to summon reinforcements? Yes.<end>
+
+=>q9_original
+In any case, we are ready and alert. Also, we are in a lot better position here, I believe, than our rassophore colleagues guarding the West Wing entrance. ::He laughs.::<end>
+
+=>q9
+In any case, we are ready and alert. Also, we are in a lot better position here, I believe, than our rassophore colleagues guarding the West Wing entrance. ::He laughs.::<end>
+
+=>q10_original
+I shouldn't be laughing.<end>
+
+=>q10
+I shouldn't be laughing.<end>
+
+=>a11_original
+Thanks, that is all I needed to know. I'll be on my way then.<end>
+
+=>a11
+Thanks, that is all I needed to know. I'll be on my way then.<end>
+
+=>q12_original
+Tchort guide you.<end>
+
+=>q12
+Tchort guide you.<end>
+
+=>a13_original
+I am here on Mediant Samuel's orders to investigate Utility Station 7.<end>
+
+=>a13
+I am here on Mediant Samuel's orders to investigate Utility Station 7.<end>
+
+=>q14_original
+Mediant? Well, if Mediant Samuel ordered it then I will give you the key that will...<end>
+
+=>q14
+Mediant? Well, if Mediant Samuel ordered it then I will give you the key that will...<end>
+
+=>q15_original
+::His focus shifts from the unfinished sentence to patting all his pockets in a vain attempt to find the key he is supposed to give you. You know what happened to the key, yes you do, but you choose to remain silent. The poor man excavates his whole robe before turning to the floor, but it too doesn't provide the key. He seaches for a full minute before eventually giving up.::
+
+Magnificent Tchort! I... I am sorry, but I can't find it... somehow. I... I'm sorry. ::He shrugs.::<end>
+
+=>q15
+::His focus shifts from the unfinished sentence to patting all his pockets in a vain attempt to find the key he is supposed to give you. You know what happened to the key, yes you do, but you choose to remain silent. The poor man excavates his whole robe before turning to the floor, but it too doesn't provide the key. He seaches for a full minute before eventually giving up.::
+
+Magnificent Tchort! I... I am sorry, but I can't find it... somehow. I... I'm sorry. ::He shrugs.::<end>
+
+=>a16_original
+You are an incompetent moron. I'll find a way to get through the door. Move aside!<end>
+
+=>a16
+You are an incompetent moron. I'll find a way to get through the door. Move aside!<end>
+
+=>q17_original
+::He bows his head down and keeps silent.::<end>
+
+=>q17
+::He bows his head down and keeps silent.::<end>
+
+=>a18_original
+That's okay, brother, it could have happened to anyone. I'll get through those doors without a problem. Trust me.<end>
+
+=>a18
+That's okay, brother, it could have happened to anyone. I'll get through those doors without a problem. Trust me.<end>
+
+=>q19_original
+I am really sorry about the inconvenience... I just don't know what happened to it. I am very sorry, again. Tchort guide you.<end>
+
+=>q19
+I am really sorry about the inconvenience... I just don't know what happened to it. I am very sorry, again. Tchort guide you.<end>
+
+=>q20_original
+In that case, $(#brother/sister), take this key. ::He hands you a key.:: It unlocks the door at the end of the corridor.<end>
+
+=>q20
+In that case, $(#brother/sister), take this key. ::He hands you a key.:: It unlocks the door at the end of the corridor.<end>
+
+=>q21_original
+The utility station should be to the left from where you enter the station, in the far left corner. Good luck and Tchort guide you.<end>
+
+=>q21
+The utility station should be to the left from where you enter the station, in the far left corner. Good luck and Tchort guide you.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+Thanks, I might just need it.<end>
+
+=>a23
+Thanks, I might just need it.<end>
+
+=>a24_original
+Thank you, brother. Tchort guide you too.<end>
+
+=>a24
+Thank you, brother. Tchort guide you too.<end>
+
+=>a25_original
+I need to pass in order to perform *important* scientific work for Principal Investigator Schteff.<end>
+
+=>a25
+I need to pass in order to perform *important* scientific work for Principal Investigator Schteff.<end>
+
+=>q26_original
+Principal Investigator, you say? Hmmm... alright, $(#brother/sister), in that case I will give you...<end>
+
+=>q26
+Principal Investigator, you say? Hmmm... alright, $(#brother/sister), in that case I will give you...<end>
+
+=>a27_original
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>a27
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>q28_original
+Nevil, you say? Ouch! I heard he's in big trouble; Mediant seemed pretty mad when he heard that Nevil hasn't reported, that's for sure. 
+
+However, we saw him for a brief time right before he went missing.<end>
+
+=>q28
+Nevil, you say? Ouch! I heard he's in big trouble; Mediant seemed pretty mad when he heard that Nevil hasn't reported, that's for sure. 
+
+However, we saw him for a brief time right before he went missing.<end>
+
+=>a29_original
+Tell me all about it.<end>
+
+=>a29
+Tell me all about it.<end>
+
+=>q30_original
+He passed by, greeted us, we had a short chat, then he went back up towards the library. That's the last time we saw him, $(#brother/sister).<end>
+
+=>q30
+He passed by, greeted us, we had a short chat, then he went back up towards the library. That's the last time we saw him, $(#brother/sister).<end>
+
+=>a31_original
+You never left your post, even for a moment?<end>
+
+=>a31
+You never left your post, even for a moment?<end>
+
+=>q32_original
+No, we did n-- I mean, actually... there was an emergency down in the utility section...<end>
+
+=>q32
+No, we did n-- I mean, actually... there was an emergency down in the utility section...<end>
+
+=>a33_original
+What kind of an emergency?<end>
+
+=>a33
+What kind of an emergency?<end>
+
+=>q34_original
+One of the pipes ruptured. There was a gas leak which, in turn, caused a small fire. Both of us, Benedict and I, ran down to help put the fire out. Luckily, no one was hurt. We were there for, I'd say fifteen minutes or so, give or take.<end>
+
+=>q34
+One of the pipes ruptured. There was a gas leak which, in turn, caused a small fire. Both of us, Benedict and I, ran down to help put the fire out. Luckily, no one was hurt. We were there for, I'd say fifteen minutes or so, give or take.<end>
+
+=>a35_original
+Hmmm... I'll continue looking for him. Tchort guide you.<end>
+
+=>a35
+Hmmm... I'll continue looking for him. Tchort guide you.<end>
+
+=>a36_original
+Interesting... I'll get back to work now. So long.<end>
+
+=>a36
+Interesting... I'll get back to work now. So long.<end>
+
+=>a37_original
+I see... before I get back to my search, I had a few more questions for you.<end>
+
+=>a37
+I see... before I get back to my search, I had a few more questions for you.<end>
+
+=>q38_original
+Yes?<end>
+
+=>q38
+Yes?<end>
+
+=>a39_original
+I believe Mediant Samuel mentioned that someone saw him a few hours ago. He must have been referring to you.<end>
+
+=>a39
+I believe Mediant Samuel mentioned that someone saw him a few hours ago. He must have been referring to you.<end>
+
+=>q40_original
+Yes. <end>
+
+=>q40
+Yes. <end>
+
+=>a41_original
+See you later, brother. Tchort guide you.<end>
+
+=>a41
+See you later, brother. Tchort guide you.<end>
+
+=>a42_original
+I have to go. Goodbye.<end>
+
+=>a42
+I have to go. Goodbye.<end>
+
+=>q43_original
+These tremors just won't stop, huh, $(#brother/sister)?<end>
+
+=>q43
+These tremors just won't stop, huh, $(#brother/sister)?<end>
+
+=>q44_original
+$(#Brother/Sister)?<end>
+
+=>q44
+$(#Brother/Sister)?<end>
+

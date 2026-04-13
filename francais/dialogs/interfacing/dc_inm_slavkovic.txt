@@ -1,0 +1,310 @@
+=>q1_original
+::Welcome, D. Slavkovic
+
+Main::<end>
+
+=>q1
+::Welcome, D. Slavkovic
+
+Main::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Access INM::<end>
+
+=>a3
+::Access INM::<end>
+
+=>q4_original
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 16
+Contacts online: 0::<end>
+
+=>q4
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 16
+Contacts online: 0::<end>
+
+=>a5_original
+::Archive::<end>
+
+=>a5
+::Archive::<end>
+
+=>q6_original
+::Archive::<end>
+
+=>q6
+::Archive::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::Log: 000345 - A. Matveev::<end>
+
+=>a8
+::Log: 000345 - A. Matveev::<end>
+
+=>q9_original
+::A. Matveev: How are you feeling, Dr. Slavkovic?
+D. Slavkovic: Rotten.
+D. Slavkovic: So no different than usual.
+D. Slavkovic: Are you calling me for a reason?
+A. Matveev: Just to see how you were doing.
+D. Slavkovic: Now you know.
+A. Matveev: I have a question for you, if I may?
+D. Slavkovic: If you must.
+A. Matveev: Why did you move to that small, claustrophobic room? Caerus has some of the best apartments Biocorp has ever offered to its technocrats, yet you selected the one that deserves you the least.::<end>
+
+=>q9
+::A. Matveev: How are you feeling, Dr. Slavkovic?
+D. Slavkovic: Rotten.
+D. Slavkovic: So no different than usual.
+D. Slavkovic: Are you calling me for a reason?
+A. Matveev: Just to see how you were doing.
+D. Slavkovic: Now you know.
+A. Matveev: I have a question for you, if I may?
+D. Slavkovic: If you must.
+A. Matveev: Why did you move to that small, claustrophobic room? Caerus has some of the best apartments Biocorp has ever offered to its technocrats, yet you selected the one that deserves you the least.::<end>
+
+=>q10_original
+::A. Matveev: Was there something wrong with your apartment? I thought it had everything.
+D. Slavkovic: I began to despise it exactly because of that reason.
+A. Matveev: I see. How so?
+D. Slavkovic: Because it reminds me of everything I've created during my lifetime. My hands made human beings, everything about them was according to my will. I felt like a god. And those I haven't constructed - I enhanced. You should know.
+A. Matveev: Certainly, Dr. Slavkovic. Yet, I don't see why you shouldn't be reminded of these things? Aren't those great achievements?
+D. Slavkovic: Anton, can you not understand?
+D. Slavkovic: I am dying. Biocorp is dying. It is just a matter of time.::<end>
+
+=>q10
+::A. Matveev: Was there something wrong with your apartment? I thought it had everything.
+D. Slavkovic: I began to despise it exactly because of that reason.
+A. Matveev: I see. How so?
+D. Slavkovic: Because it reminds me of everything I've created during my lifetime. My hands made human beings, everything about them was according to my will. I felt like a god. And those I haven't constructed - I enhanced. You should know.
+A. Matveev: Certainly, Dr. Slavkovic. Yet, I don't see why you shouldn't be reminded of these things? Aren't those great achievements?
+D. Slavkovic: Anton, can you not understand?
+D. Slavkovic: I am dying. Biocorp is dying. It is just a matter of time.::<end>
+
+=>q11_original
+::D. Slavkovic: It is an end of an era. An era of greatness.
+D. Slavkovic: It will all turn into dust, my friend. Once you kill each other, and I know you will, Anton, I know you better than you know yourself.
+D. Slavkovic: Once you kill each other, once most of Underrail dies of famine it will all be dust. We will fall, while the simple will survive. Like rats. They have enough brains to maintain their existence, but that is their intellectual ceiling. Survival, nothing more, nothing less.
+A. Matveev: Your illness is fogging your judgment.
+D. Slavkovic: Perhaps. But if that's the case, then it won't last much longer.::<end>
+
+=>q11
+::D. Slavkovic: It is an end of an era. An era of greatness.
+D. Slavkovic: It will all turn into dust, my friend. Once you kill each other, and I know you will, Anton, I know you better than you know yourself.
+D. Slavkovic: Once you kill each other, once most of Underrail dies of famine it will all be dust. We will fall, while the simple will survive. Like rats. They have enough brains to maintain their existence, but that is their intellectual ceiling. Survival, nothing more, nothing less.
+A. Matveev: Your illness is fogging your judgment.
+D. Slavkovic: Perhaps. But if that's the case, then it won't last much longer.::<end>
+
+=>a12_original
+::Back to Archive.::<end>
+
+=>a12
+::Back to Archive.::<end>
+
+=>a13_original
+::Log: 000346 - A. Matveev::<end>
+
+=>a13
+::Log: 000346 - A. Matveev::<end>
+
+=>q14_original
+::A. Matveev: I apologize for leaving you in the middle of the conversation, Dr. Slavkovic. I was urgently called to Mutagen Tanks.
+D. Slavkovic: I thought we were finished. 
+A. Matveev: You never explained to me why you left the apartment?
+D. Slavkovic: If so you desire.
+D. Slavkovic: That apartment, it is a piece of greatness, Anton. Greatness.
+D. Slavkovic: That tiny space, relatively speaking, was Biocorp condensed into a form which can feed my ego the best.::<end>
+
+=>q14
+::A. Matveev: I apologize for leaving you in the middle of the conversation, Dr. Slavkovic. I was urgently called to Mutagen Tanks.
+D. Slavkovic: I thought we were finished. 
+A. Matveev: You never explained to me why you left the apartment?
+D. Slavkovic: If so you desire.
+D. Slavkovic: That apartment, it is a piece of greatness, Anton. Greatness.
+D. Slavkovic: That tiny space, relatively speaking, was Biocorp condensed into a form which can feed my ego the best.::<end>
+
+=>q15_original
+::D. Slavkovic: Yes, I love myself - I worship myself. I want to be reminded how great I am and how great the things I've made possible are. 
+D. Slavkovic: Few stand close to me. Nikolev, Frasard, obviously Clarkson. A few more. But that's it.
+D. Slavkovic: And that great man is going to perish soon. And it will all come to an end. All his achievements gone.
+A. Matveev: That is not true. You will be remembered, your work is monumental to genetic engineering. You were as close to a god as anyone could possible be.::<end>
+
+=>q15
+::D. Slavkovic: Yes, I love myself - I worship myself. I want to be reminded how great I am and how great the things I've made possible are. 
+D. Slavkovic: Few stand close to me. Nikolev, Frasard, obviously Clarkson. A few more. But that's it.
+D. Slavkovic: And that great man is going to perish soon. And it will all come to an end. All his achievements gone.
+A. Matveev: That is not true. You will be remembered, your work is monumental to genetic engineering. You were as close to a god as anyone could possible be.::<end>
+
+=>q16_original
+::D. Slavkovic: I will be remembered?
+D. Slavkovic: What do I get out of people remembering me? Reading about me in literature?
+D. Slavkovic: Nothing, that's what. Because I will be nothing. Dead.
+D. Slavkovic: And even those memories will be gone with Biocorp.
+D. Slavkovic: So if I renounce everything I have, death cannot take it from me. I live with no possessions in this cramped room. I have nothing, which is as much as I'll have in death.
+A. Matveev: It is not too late to turn to cryogenics.
+D. Slavkovic: This conversation is over. I'm tired.::<end>
+
+=>q16
+::D. Slavkovic: I will be remembered?
+D. Slavkovic: What do I get out of people remembering me? Reading about me in literature?
+D. Slavkovic: Nothing, that's what. Because I will be nothing. Dead.
+D. Slavkovic: And even those memories will be gone with Biocorp.
+D. Slavkovic: So if I renounce everything I have, death cannot take it from me. I live with no possessions in this cramped room. I have nothing, which is as much as I'll have in death.
+A. Matveev: It is not too late to turn to cryogenics.
+D. Slavkovic: This conversation is over. I'm tired.::<end>
+
+=>a17_original
+::Log: 000348 - F. Austein::<end>
+
+=>a17
+::Log: 000348 - F. Austein::<end>
+
+=>q18_original
+::D. Slavkovic: Austein, send someone to pick me up. I want to take a look at the subjects in Mutagen Tanks B.
+F. Austein: Certainly, Dr. Slavkovic.::<end>
+
+=>q18
+::D. Slavkovic: Austein, send someone to pick me up. I want to take a look at the subjects in Mutagen Tanks B.
+F. Austein: Certainly, Dr. Slavkovic.::<end>
+
+=>a19_original
+::Log: 100350 - K. Gavrilyuk::<end>
+
+=>a19
+::Log: 100350 - K. Gavrilyuk::<end>
+
+=>q20_original
+::K. Gavrilyuk: Dr. Slavkovic. I was informed that your condition has worsened.
+D. Slavkovic: Yes.
+K. Gavrilyuk: If there is anything you need, please say so.
+D. Slavkovic: I need nothing you can offer.
+K. Gavrilyuk: You might reconsider moving to medical center. You deserve better than being taken care of by a single nurse.
+D. Slavkovic: I already told you and Austein and Matveev. No.
+D. Slavkovic: Now, I do have something to ask you. What is going on with the Mutagen Tanks subjects? I talked to Austein, but he didn't give me any actual answers. I want to know the real state.::<end>
+
+=>q20
+::K. Gavrilyuk: Dr. Slavkovic. I was informed that your condition has worsened.
+D. Slavkovic: Yes.
+K. Gavrilyuk: If there is anything you need, please say so.
+D. Slavkovic: I need nothing you can offer.
+K. Gavrilyuk: You might reconsider moving to medical center. You deserve better than being taken care of by a single nurse.
+D. Slavkovic: I already told you and Austein and Matveev. No.
+D. Slavkovic: Now, I do have something to ask you. What is going on with the Mutagen Tanks subjects? I talked to Austein, but he didn't give me any actual answers. I want to know the real state.::<end>
+
+=>q21_original
+::K. Gavrilyuk: They are under control.
+D. Slavkovic: What about Austein's pet, whatever its name?
+K. Gavrilyuk: Austein considers it his right-hand and he is unwilling to listen to reason.
+D. Slavkovic: Biocorp is already close to the edge. Austein's subjects are numerous, and one of them walks around freely.
+K. Gavrilyuk: I thought you stopped caring.
+D. Slavkovic: It comes and goes. Come to think of it, I don't think I actually care. It's more of a natural and subconscious thing for me to observe the going-ons in Hollow Earth. Much like breathing. It goes on without you taking notice of it.
+K. Gavrilyuk: I know that you strongly oppose cryogenics, but are you familiar with Project Eos?::<end>
+
+=>q21
+::K. Gavrilyuk: They are under control.
+D. Slavkovic: What about Austein's pet, whatever its name?
+K. Gavrilyuk: Austein considers it his right-hand and he is unwilling to listen to reason.
+D. Slavkovic: Biocorp is already close to the edge. Austein's subjects are numerous, and one of them walks around freely.
+K. Gavrilyuk: I thought you stopped caring.
+D. Slavkovic: It comes and goes. Come to think of it, I don't think I actually care. It's more of a natural and subconscious thing for me to observe the going-ons in Hollow Earth. Much like breathing. It goes on without you taking notice of it.
+K. Gavrilyuk: I know that you strongly oppose cryogenics, but are you familiar with Project Eos?::<end>
+
+=>q22_original
+::D. Slavkovic: No.
+K. Gavrilyuk: It's a project of Dyson and Abdul, from Tithonus Lab. The expedition which went south discovered peculiar monoliths. Most likely alien in origin. One of the proposed theories is that fragments of these monoliths can be used to project someone's being into a psionic image, as Dyson defined it.
+D. Slavkovic: Is this some kind of joke?
+K. Gavrilyuk: No, Dr. Slavkovic. Matveev visited his laboratory. If you are interested, he can fill you in with the details.
+D. Slavkovic: I am not interested in witchcraft, Gavrilyuk. Now leave me alone. I am tired of this.
+K. Gavrilyuk: As you wish, Dr. Slavkovic.::<end>
+
+=>q22
+::D. Slavkovic: No.
+K. Gavrilyuk: It's a project of Dyson and Abdul, from Tithonus Lab. The expedition which went south discovered peculiar monoliths. Most likely alien in origin. One of the proposed theories is that fragments of these monoliths can be used to project someone's being into a psionic image, as Dyson defined it.
+D. Slavkovic: Is this some kind of joke?
+K. Gavrilyuk: No, Dr. Slavkovic. Matveev visited his laboratory. If you are interested, he can fill you in with the details.
+D. Slavkovic: I am not interested in witchcraft, Gavrilyuk. Now leave me alone. I am tired of this.
+K. Gavrilyuk: As you wish, Dr. Slavkovic.::<end>
+
+=>a23_original
+::Log: 000352 - A. Matveev::<end>
+
+=>a23
+::Log: 000352 - A. Matveev::<end>
+
+=>q24_original
+::D. Slavkovic: I read what you sent me. It is sound. However, I don't trust a drunkard like Dyson.
+A. Matveev: I can vouch for Dyson, Dr. Slavkovic. When it comes to psionic research, there isn't a man more capable. And his recent discoveries regarding the monoliths have already opened new horizons. I personally inspected his work, and I am pleased with my observations.
+A. Matveev: I wouldn't have brought this up to you if I wasn't sure in it.
+D. Slavkovic: You didn't. Kirill did.
+D. Slavkovic: Although, I know you used him as a proxy.::<end>
+
+=>q24
+::D. Slavkovic: I read what you sent me. It is sound. However, I don't trust a drunkard like Dyson.
+A. Matveev: I can vouch for Dyson, Dr. Slavkovic. When it comes to psionic research, there isn't a man more capable. And his recent discoveries regarding the monoliths have already opened new horizons. I personally inspected his work, and I am pleased with my observations.
+A. Matveev: I wouldn't have brought this up to you if I wasn't sure in it.
+D. Slavkovic: You didn't. Kirill did.
+D. Slavkovic: Although, I know you used him as a proxy.::<end>
+
+=>q25_original
+::A. Matveev: Guilty as charged. Despite our differences, we both want what's best for you. I made an error in mentioning cryogenics first to you, thus causing an unwanted reaction.
+D. Slavkovic: I see.
+D. Slavkovic: When will they put the first group in stasis?
+A. Matveev: Soon. I will speak to Dyson and give you a concrete date.
+D. Slavkovic: I will keep an eye on the first group, and if I'm pleased with the results, then I will try it myself.::<end>
+
+=>q25
+::A. Matveev: Guilty as charged. Despite our differences, we both want what's best for you. I made an error in mentioning cryogenics first to you, thus causing an unwanted reaction.
+D. Slavkovic: I see.
+D. Slavkovic: When will they put the first group in stasis?
+A. Matveev: Soon. I will speak to Dyson and give you a concrete date.
+D. Slavkovic: I will keep an eye on the first group, and if I'm pleased with the results, then I will try it myself.::<end>
+
+=>q26_original
+::A. Matveev: Very good, Dr. Slavkovic.
+D. Slavkovic: I don't have much time left anyway.
+A. Matveev: Would you like to return to your apartment?
+D. Slavkovic: No. Send me Dyson's contact. I would like to speak with him.
+A. Matveev: Yes, Dr. Slavkovic.::<end>
+
+=>q26
+::A. Matveev: Very good, Dr. Slavkovic.
+D. Slavkovic: I don't have much time left anyway.
+A. Matveev: Would you like to return to your apartment?
+D. Slavkovic: No. Send me Dyson's contact. I would like to speak with him.
+A. Matveev: Yes, Dr. Slavkovic.::<end>
+
+=>a27_original
+::Back::<end>
+
+=>a27
+::Back::<end>
+
+=>a28_original
+::Back to main::<end>
+
+=>a28
+::Back to main::<end>
+
+=>a29_original
+::Exit::<end>
+
+=>a29
+::Exit::<end>
+

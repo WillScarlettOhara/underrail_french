@@ -1,0 +1,652 @@
+::GeneralInfo
+You can further improve the effects of your feats by spending specialization points.
+
+The benefits of specialization are always listed in regards to the original effects of the related feat.
+
+::SprintSpeed
+Increases the movement points bonus granted by Sprint by {0} for each specialization point.
+
+::AimedShotCritDamage
+Further increases the critical damage bonus when using Aimed Shot by {0}% (additive to regular critical damage bonus) for each specialization point.
+
+::AmbushCritChance
+Further increases the critical chance bonus from Ambush by additional {0}% for each specialization point.
+
+::ArmorSloping
+Further reduces armor penalty by {0}% for each specialization point.
+
+::Ballistics
+Further increases the bonus mechanical threshold by {0} for each specialization point.
+
+::BlitzCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::BlitzMaxAp
+Increases the maximum action points that can be gained by {0} for each specialization point.
+
+::BoneBreakerDamage
+Increases bonus damage from broken ribs by additional {0}% per stack for each specialization point.
+
+::BowyerCritDamage
+Further increases bonus critical damage by {0}% for each specialization point.
+
+::BurglarSpeed
+Further reduces the time it takes to pick and hack locks by {0}% for each specialization point.
+
+::BurglarStealth
+Further increases the stealth bonus by {0} for each specialization point.
+
+::CerebralTraumaDamage
+Further increases the base damage of Neural Overload by {0}% for each specialization point.
+
+::CerebralTraumaPsiBurn
+Increases the amount of psi points reduction by additional {0}% for each specialization point.
+
+::CheapShotsIncapacitationChance
+Increases the chance to incapacitate the target by additional {0}% for each specialization point.
+
+::CheapShotsCritDamage
+Further increases critical damage bonus by {0}% for each specialization point.
+
+::Clothier
+Further increases the effective quality by {0}% for each specialization point.
+
+::ComboDamage
+Increases the bonus damage by additional {0}% for each specialization point.
+
+::ComboStunChance
+Increases the chance to stun the target by additional {0}% for each specialization point.
+
+::CommandoApGain
+Killing an opponent using assault rifle or SMG burst attack will also grant you {0} action points for each specialization point. This, also, can only happen once per turn.
+
+::ConcentratedFireDamage
+Further increases damage bonus of concentrated fire by {0}% per stack for each specialization point.
+
+::ConcussiveShotsDazeChance
+Further increases the chance to daze by {0}% for each specialization point.
+
+::Conditioning
+Further reduces damage taken by {0}% for each specialization point.
+
+::HighTechnicalitiesDamage
+Further increases bonus damage by {0}% for each point of intelligence above {1} per specialization point.
+
+::CookedShotDamage
+Increases the damage of Cooked Shot by {0}% for each specialization point.
+
+::CookedShotApCostReduction
+Reduces the action point cost modifier of the Cooked Shot by {0}% for each specialization point.
+
+::CorporealProjectionDamage
+Further increases all telekinetic damage by {0}% for each point of strength above {1} per specialization point.
+
+::CripplingStrikeDamage
+Further increases the damage modifier by {0}% for each specialization point.
+
+::CriticalPowerCritDamage
+Further increases the critical damage gain by {0}% for each specialization point (per stated condition).
+
+::CryogenicInductionThreshold
+Reduces the shattering threshold by {0}% for each specialization point.
+
+::CutthroatDamage
+Further increases the extra bleeding damage from the attack by {0}% for each specialization point.
+
+::CutthroatCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::ShootingSpreeCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::ShootingSpreeShots
+Increases the number of refunded shots by one.
+
+::DeadlySnaresCritDamage
+Critical hits caused by Deadly Snares have their critical damage bonus further increased by {0}% for each specialization point.
+
+::DeflectionDodge
+Further increases the dodge bonus originating from melee skill by {0}% for each specialization point.
+
+::DirtyKickDamage
+Increases damage by {0}% for each specialization point.
+
+::DisassembleQuality
+Increases the percentage of original quality of disassembled components by {0}% for each specialization point.
+
+::DoctorHealingBonus
+Further increases the healing bonus by {0}% for each specialization point.
+
+::ElementalBoltsDamage
+Further increases the damage bonus by {0}% for each specialization point.
+
+::EscapeBondsMpGain
+Succeeding in escaping bonds will now also grant you {0} movement points for each specialization point.
+
+::EvasiveManeuversConversion
+You gain additional {0} evasion per movement point for each specialization point.
+
+::EviscerateDamage
+Increases the bonus damage per bleeding wound by {0}% for each specialization point.
+
+::ExecuteDamage
+Further increases the damage modifier by {0}% for each specialization point.
+
+::ExecuteCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::ExpertiseMaxBonus
+Increases the maximum damage bonus by {0} for each specialization point.
+
+::ExposeWeaknessDuration
+Increases the duration by {0} for each specialization point.
+
+::ExposeWeaknessResistReduction
+Increases the amount of mechanical resistance and threshold reduction by additional {0}% for each specialization point.
+
+::FancyFootworkMovementPoints
+Increases the maximum amount of movement points you can receive per attack by {0} for each specialization point.
+
+::FastMetabolismHealing
+Further increases all healing by {0}% for each specialization point.
+
+::FastMetabolismPsi
+Psi boosters restore additional {0} psi points for each specialization point.
+
+::FatalThrowHealthThreshold
+Raises the health threshold for triggering Fatal Throw by {0}% for each specialization point.
+
+::FatalThrowActionPoints
+Further increases the amount of action points restored by {0} for each specialization point.
+
+::ForceUserDamage
+Telekinetic punch damage is increased by additional {0}% for each specialization point.
+
+::ForceUserForcefieldHealth
+Forcefield health bonus is increased by {0}% for each specialization point.
+
+::GuardBlockChance
+Increases the block chance by {0}% for each specialization point.
+
+::GuardBlockAmount
+Increases the amount blocked by additional {0} for each point in strength per specialization point.
+
+::GunNutDamage
+Further increases the upper damage range by {0}% for each specialization point.
+
+::GunslingerInitiative
+Further increases the initiative bonus by {0} for each specialization point.
+
+::HeavyPunchCritDamage
+Increases critical damage bonus of Heavy Punch by {0}% for each specialization point.
+
+::HeavyPunchDamage
+Increases damage by {0}% for each specialization point.
+
+::HeavyPunchActionPoints
+Reduces the action point cost modifier by {0}% for each specialization point.
+
+::HeavyweightCritDamage
+Provides additional {0}% critical damage bonus for each percent of total armor penalty per specialization point.
+
+::HitAndRunMaxMp
+Increases the limit of movement point reset by {0} for each specialization point. The character will still have to have sufficient maximum movement points to make use of this raised limit.
+
+::HypertoxicityDamage
+Further increases poison damage by {0}% for each specialization point.
+
+::HypothermiaMaxStacks
+Increases the maximum number of Hypothermia stacks by {0} for each specialization point.
+
+::InterloperMovement
+Each point of specialization further reduces the movement speed penalty in stealth by {0}% and allows you to retain up to {1} more movement points in combat while stealthed.
+
+::JuggernautHealth
+Further increases health bonus by {0}% for each specialization point.
+
+::KneecapShotDamage-Old
+Each point of specialization increases the base bleeding damage percentage by {0}% and bleeding damage percentage per point in perception by {1}%.
+
+::KneecapShotDamage
+Bleeding damage percentage increased by {0}% for each specialization point.
+
+::KneecapShotCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::LastStandCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::LastStandDuration
+Increases duration by {0} for each specialization point.
+
+::LocusOfControlCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::LocusOfControlDuration
+Increases duration by {0} for each specialization point.
+
+::MadChemistOnHit
+Further increases the strength of on-hit effects of chemical pistols by {0}%  for each specialization point.
+
+::MeditationPsiPoints
+Further increases maximum psi points by {0} for each specialization point.
+
+::NeuralOverclockingCritDamage
+Further increases critical damage bonus of all psi abilities by {0}%.
+
+::NeurologyPsiPoints
+Further increases maximum psi points by {0} for each specialization point.
+
+::NimbleDodgeAndEvasion
+Increases the dodge and evasion bonus by additional {0}% for each specialization point.
+
+::NinjaLooterSpeed
+Further reduces pickpocketing time by {0}% for each specialization point.
+
+::NinjaLooterSuspicion
+Further reduces suspicion raised by {0}% for each specialization point.
+
+::OpportunistDisabledTarget
+Further increases damage against rooted, stunned and incapacitated targets by {0}% for each specialization point.
+
+::OpportunistSlowedTarget
+Further increases damage against slowed targets by {0}% for each specialization point.
+
+::PackrathoundCarryCapacity
+Further increases carry capacity by {0} for each specialization point.
+
+::BeastOfBurdenCarryCapacity
+Further increases carry capacity by {0} for each specialization point.
+
+::ParanoiaDetectionBonus
+Further increases detection by {0}% for each specialization point.
+
+::ParanoiaCritChanceReduction
+Further reduces the chance to get critically hit by {0}% for each specialization point.
+
+::ParanoiaDamage
+Further increasess weapon and unarmed damage against stealthed targets by {0}% for each specialization point.
+
+::ParanoiaInitiative
+Further increases initiative by {0} for each specialization point.
+
+::PinningChance
+Increases pinning chance by {0}% for each specialization point.
+
+::PointShotApCost
+Reduces the action point cost by additional {0}% for each specialization point.
+
+::PowerManagementCapacity
+Further increases energy capacity by {0}% for each specialization point.
+
+::PracticalPhysicistCritDamage
+Further increases bonus critical damage by {0}% for each specialization point.
+
+::PremeditationPsiCostReduction
+Further reduces the psi cost by {0}% for each specialization point.
+
+::PremeditationCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::PsionicManiaHealthCostReduction
+Reduces the health cost by {0}% for each specialization point.
+
+::PsionicManiaCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::QuickTinkeringCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::QuickTinkeringAp
+Reduces action point cost of setting traps while quick tinkering by {0} for each specialization point.
+
+::PsychosisPsiCostReduction
+Reduces the psi point cost modifier by {0}% for each specialization point.
+
+::PsychosisCritChance
+Further increases critical chance bonus by {0}% for each specialization point.
+
+::PsychostaticElectricityCritChance
+Further increases the target's chance to get critically hit by {0}% per stack for each specialization point.
+
+::PsychostaticElectricityDuration
+Increases the duration by {0} for each specialization point.
+
+::PummelDamage
+Increases the damage modifier by {0}% for each specialization point.
+
+::PummelActionPoints
+Reduces the action point cost by {0} for each specialization point.
+
+::PyromaniacDamage
+Increases the burning damage by additional {0}% of the original damage for each specialization point.
+
+::QuickPocketsApCost
+Further reduces the action point cost by {0}% for each specialization point.
+
+::RapidFireApCost
+Reduces the action point cost modifier by {0}% for each specialization point.
+
+::RecklessnessCritChance
+Each specialization point further increases your chance to critically hit with all weapons by {0}%, but also further increases your chance to get critically hit by {1}%.
+
+::RipperCritDamage
+Further increases the critical damage bonus modifier by {0}% per the specified percentage of missing health for each specialization point.
+
+::Salesman
+Further increases the amount of goods merchants will buy from you by {0}% per mercantile skill for each specialization point.
+
+::SharpshooterCritDamage
+Further increases critical damage bonus by {0}% for each specialization point.
+
+::Skinner
+Further increases the effective quality by {0}% for each specialization point.
+
+::SnipeDamage
+Each specialization point further increases the additional damage per point in stealth skill by {0}%.
+
+::SpecialTacticsCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::SteadfastAimCritChance
+Further increases critical hit chance per action point by {0}% for each specialization point.
+
+::Stoicism
+Increases the damage reduction percentage per stated missing health by additional {0}% for each specialization point.
+
+::SuperSlamDamage
+Increases the amount of health added to the damage by {0}% for each specialization point.
+
+::SuppressiveFireHitChanceRed
+Further reduces target's ranged chance to hit by {0}% for each specialization point.
+
+::SuppressiveFireActionPoints
+Further reduces target's action points by {0} for each specialization point.
+
+::SuppressiveFireMovementPoints
+Further reduces target's movement points by {0} for each specialization point.
+
+::SurvivalInstinctsHealthThreshold
+Increases the health threshold by {0}% for each specialization point.
+
+::SurvivalInstinctsCritChance
+Further increases the chance to critically hit by {0}% for each specialization point.
+
+::TasteForBloodDamage
+Further increases the melee damage bonus per stack by {0}% for each specialization point.
+
+::TelekineticUndulationDazeChance
+Increases the chance to daze the target by {0}% for each specialization point.
+
+::ThermodynamicityActionPoints
+Further reduces action point cost by {0}% for each specialization point.
+
+::ThreePointerCritChance
+Each specialization point further increases critical chance by {0}% per stated amount of skill points.
+
+::Tranquility
+Further reduces the action point cost by {0} for each specialization point.
+
+::TrapExpertSpeed
+Further reduces time required to arm and disarm traps by {0}% for each specialization point.
+
+::TrapExpertDetection
+Further increases the detection difficulty of the traps you set by {0}% for each specialization point.
+
+::UncannyDodge
+Reduces the amount of skill points required for additional dodge by {0} for each specialization point.
+
+::VileWeaponryDamage
+Further increases the damage taken from all sources by {0}% per stack for each specialization point.
+
+::VileWeaponryHealingReduction
+Further reduces healing effects by {0}% per stack for each specialization point.
+
+::WeaponsmithCritChance
+Further increases critical hit chance by {0}% for each specialization point.
+
+::WrestlingApplyChance
+Increases the chance to apply the debuff by {0}% for each specialization point.
+
+::YellReduction
+Increases the skill reduction percentage by {0}% for each specialization point.
+
+::BlindsidingDamage
+Further increases damage by {0}% for each specialization point.
+
+::BrutalityFearChance
+Increases the chance to instill fear by {0}% for each specialization point.
+
+::ContinuumRippleJumpChance
+Increases the chance to reapply by {0}% for each specialization point.
+
+::HemopsychosisHealthCost
+Reduces the health cost of psi abilities by {0}% for each specialization point.
+
+::HemopsychosisCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::PsychotemporalAccelerationActionPoints
+Further increases action point modification by {0} for each specialization point.
+
+::ShieldArmBlockChance
+Further increases the block chance by {0}% for each specialization point.
+
+::ShieldArmBlockAmount
+Further increases the amount blocked by {0}% for each specialization point.
+
+::Strafe
+Further reduces move and shoot penalty by {0}% for each specialization point.
+
+::TriggerHappy
+Further increases initiative by {0} for each specialization point.
+
+::FullAutoDamage
+Increases the damage of burst attack by {0}% for each specialization point.
+
+::LightningPunchesThreshold
+Increases the armor penalty threshold by {0}% for each specialization point.
+
+::MarksmanPrecision
+Increases chance to hit with crossbows by {0}% for each specialization point.
+
+::SnoopingPerception
+Further increases perception for specified purpose by {0} for each specialization point.
+
+::SpecOpsFlashbangCooldown
+Further reduces cooldown of flashbangs and similar tactical grenades by {0} for each specialization point.
+
+::SplitSpareDamage
+When throwing knives at two targets, damage of both knives is increased by {0}% for each specialization point.
+
+::SureStepBearTrap
+Gives you {0}% chance per specialization point to dodge any bear trap.
+
+::ThickSkull
+Increases fortitude by {0} for each specialization point.
+
+::FutureOrientationAp
+Lessens the action point increase by {0} for each specialization point.
+
+::FendBlockAmount
+Increases the bonus amount of damage blocked by {0}% for each specialization point.
+
+::FendApCost
+Reduces the action point cost by {0}% for each specialization point.
+
+::SpearGuardian
+Increases the block chance bonus by {0}% for each specialization point.
+
+::ImpaleCritDamage
+Further increases the critical damage bonus of Impale by {0}% (additive to regular critical damage bonus) for each specialization point.
+
+::SpearThrowDamage
+Increases the damage multiplier by additional {0}% per unit of range for each specialization point.
+
+::SpearThrowApCost
+Reduces action point cost by {0} for each specialization point.
+
+::SpearThrowRange
+Increases range by {0} for each specialization point.
+
+::FlurryCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::FlurryApCost
+Reduces the action point cost by {0}.
+
+::OnslaughtDamage
+Increases the damage bonus per stack by {0}% for each specialization point.
+
+::DecapitateThreshold
+Reduces the decapitation threshold by {0}% for each specialization point.
+
+::DecapitateDamage
+Increases the damage by {0}% for each specialization point.
+
+::RiposteCritChance
+Increases critical chance of Riposte by {0}% for each specialization point.
+
+::LeadingShot
+Additively increases the amount of evasion ignored by additional {0}% for each specialization point.
+
+::FullAutoShotgunDamage
+Increases the damage of shotgun burst attack by {0}% for each specialization point.
+
+::BarrelStareDamage
+Further increases the damage bonus by {0}% (additive) for each specialization point.
+
+::PerfectScattering
+Increases the maximum bonus damage by {0} for each specialization point.
+
+::FragmentedChaosCritDamage
+Increases total critical damage bonus by {0}% for each specialization point.
+
+::PelletMayhemDamage
+Increases critical chance bonus per target by {0}% for each specialization point. 
+
+::ParryChance
+Increases chance to block by {0}% for each specialization point.
+
+::ParryBlockAmount
+Increases amount blocked by {0}% for each specialization point.
+
+::Versatility
+Further increases the percentage of the skill value used by {0}% for each specialization point.
+
+::ImprovedUnarmedCombatDamage
+Increases the damage bonus by {0}% for each specialization point.
+
+::ImprovedUnarmedCombatDazeChance
+Increases the chance to daze the target by {0}% for each specialization point.
+
+::ShieldBashDamage
+Increases the damage percentage by {0}% for each specialization point.
+
+::ShieldBashCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::ShieldBashApCost
+Reduces action point cost by {0} for each specialization point.
+
+::BoardingUp
+Increases the block amount by additional {0}% per stack for each specialization point.
+
+::SweepDamage
+Increases the damage modifier by {0}% for each specialization point.
+
+::SweepCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::SweepDuration
+Increases the duration of the off-balanced effect by {0} for each specialization point.
+
+::IronGrip
+Reduces the damage penalty by {0}% for each specialization point.
+
+::SixthShellDamage
+Increases the progressive bonus damage per stack by {0}% and the final bonus damage by {1}% for each specialization point.
+
+::PsychoNeuralOptimization
+Further reduces the psi cost by {0}% for each specialization point.
+
+::ExpandedPsiCapacitance
+Psi reserves bonus further increased by {0}% for each specialization point.
+
+::GunFu
+Further increases the percentage of the skill value used by {0}% for each specialization point.
+
+::BulletTime
+Further reduces action point cost by {0}% (additive) for each specialization point.
+
+::RemoteSurgeon
+Further increases the unresisted damage modifier by {0}% (additive) for each specialization point.
+
+::CryogenicInductionBarrierHealth
+Cryogenic Barrier health bonus is increased by {0}% for each specialization point.
+
+::MagDumpLmg
+Further increases the amount of extra burst rounds for LMGs by {0} for each specialization point.
+
+::MagDumpMinigun
+Further increases the amount of extra rounds you get for each wind up stack when bursting with a minigun by {0} for each specialization point.
+
+::HeavyMetalDamageBonus
+Further increases the amount of armor penalty converted to bonus damage by {0}% for each specialization point.
+
+::HeavyMetalDamageReduction
+Further reduces the mechanical damage taken by {0}% for each point of weapon's strength requirement per specialization point.
+
+::BulletTranceDuration
+Increases duration by {0} for each specialization point.
+
+::BulletTranceDamage
+Increases the damage bonus per stack by {0}% for each specialization point.
+
+::BulletTranceMaxStacks
+Increases the number of stacks by one for each specialization point.
+
+::PracticedParabola
+Increases the precision bonus by {0}% for each specialization point.
+
+::TrickyTrajectoryDamageBonus
+Increases damage bonus by {0}% for each specialization point.
+
+::TrickyTrajectoryEvasionIgnore
+Increases amount of ignored evasion by {0}% for each specialization point.
+
+::DemolitionManDamageBonus
+Increases damage bonus by {0}% for each specialization point.
+
+::DemolitionManDuration
+Increases duration by {0} turn for each specialization point.
+
+::DemolitionManMaxStacks
+Increases the number of stacks by one for each specialization point.
+
+::GunnersHighDuration
+Increases duration by one turn for each specialization point.
+
+::GunnersHighThreshold
+Raises the health threshold for by {0}% for each specialization point.
+
+::GunnersHighMaxStacks
+Increases the maximum number of stacks by one for each specialization point.
+
+::ShellShockDuration
+Increases the duration by one turn for each specialization point.
+
+::ShellShockMaxStacks
+Increases the maximum number of stacks by one for each specialization point.
+
+::ShellShockSkillReduction
+Increases skill reduction by {0} per stack for each specialization point.
+
+::SapDamage
+Further increases the bonus damage by {0}% for each specialization point.
+
+::SapCooldown
+Reduces cooldown by {0} for each specialization point.
+
+::SapDuration
+Increases maximum duration of the incapacitation by {0} for each specialization point.

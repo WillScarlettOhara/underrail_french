@@ -1,0 +1,546 @@
+=>q1_original
+You must be Sophie's friend. Poor $(#guy/girl)...<end>
+
+=>q1
+You must be Sophie's friend. Poor $(#guy/girl)...<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Hey, mushroom cake, how's it going?<end>
+
+=>q3
+Hey, mushroom cake, how's it going?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Tell me about your family members.<end>
+
+=>a5
+Tell me about your family members.<end>
+
+=>q6_original
+I'm rich and handsome, smart, have a good sense of humor...<end>
+
+=>q6
+I'm rich and handsome, smart, have a good sense of humor...<end>
+
+=>q7_original
+...successful - well educated, a *great* cook, can drink a lot of alcohol in a short span of time...<end>
+
+=>q7
+...successful - well educated, a *great* cook, can drink a lot of alcohol in a short span of time...<end>
+
+=>q8_original
+...rich... There's more, but I don't want to brag too much. As for the rest: Dad's my idol, Mom is Mom, my sister Sophia is annoying, and Grandpa is crazy. I think that sums us up pretty well.<end>
+
+=>q8
+...rich... There's more, but I don't want to brag too much. As for the rest: Dad's my idol, Mom is Mom, my sister Sophia is annoying, and Grandpa is crazy. I think that sums us up pretty well.<end>
+
+=>a9_original
+What can you tell me about your sister?<end>
+
+=>a9
+What can you tell me about your sister?<end>
+
+=>q10_original
+Who, Sophia? She's my younger sister - so go figure. Annoying little creature: she always has to have someone amuse her, all the time!<end>
+
+=>q10
+Who, Sophia? She's my younger sister - so go figure. Annoying little creature: she always has to have someone amuse her, all the time!<end>
+
+=>q11_original
+Having a younger sibling is such a pain!<end>
+
+=>q11
+Having a younger sibling is such a pain!<end>
+
+=>a12_original
+What can you tell me about your grandfather?<end>
+
+=>a12
+What can you tell me about your grandfather?<end>
+
+=>q13_original
+He's been living with the family long before I was born. Technically, he's my great-great-great... I think there's one more great... grandfather. I don't know, he's ancient. He has always been strange and... demented.<end>
+
+=>q13
+He's been living with the family long before I was born. Technically, he's my great-great-great... I think there's one more great... grandfather. I don't know, he's ancient. He has always been strange and... demented.<end>
+
+=>a14_original
+I haven't seen him yet.<end>
+
+=>a14
+I haven't seen him yet.<end>
+
+=>q15_original
+You probably won't, he rarely leaves his room, all the way upstairs. He's not right in the head, poor guy. But, you didn't come here to talk about that old geezer. Let's do something else.<end>
+
+=>q15
+You probably won't, he rarely leaves his room, all the way upstairs. He's not right in the head, poor guy. But, you didn't come here to talk about that old geezer. Let's do something else.<end>
+
+=>a16_original
+Where is he?<end>
+
+=>a16
+Where is he?<end>
+
+=>q17_original
+He's in his room, all the way upstairs. He's not right in the head, poor guy. But, you didn't come here to talk about that old geezer. Let's do something else.<end>
+
+=>q17
+He's in his room, all the way upstairs. He's not right in the head, poor guy. But, you didn't come here to talk about that old geezer. Let's do something else.<end>
+
+=>a18_original
+I have to go now, Maxim. ::Wink.:: Goodbye.<end>
+
+=>a18
+I have to go now, Maxim. ::Wink.:: Goodbye.<end>
+
+=>q19_original
+I know you'll be back to Maxim soon, mushroom cake. ::He grins and winks back..:: See ya later.<end>
+
+=>q19
+I know you'll be back to Maxim soon, mushroom cake. ::He grins and winks back..:: See ya later.<end>
+
+=>a20_original
+I'll tell you of my Arena experiences some other time. Gotta run now.<end>
+
+=>a20
+I'll tell you of my Arena experiences some other time. Gotta run now.<end>
+
+=>q21_original
+What!? That's not hardcore, $(#man/girl), not hardcore at all! I'll be waiting for you here, in the mansion.<end>
+
+=>q21
+What!? That's not hardcore, $(#man/girl), not hardcore at all! I'll be waiting for you here, in the mansion.<end>
+
+=>a22_original
+I'll be leaving now.<end>
+
+=>a22
+I'll be leaving now.<end>
+
+=>q23_original
+I know you'll be back to Maxim soon, mushroom cake. ::He grins and winks at you.::<end>
+
+=>q23
+I know you'll be back to Maxim soon, mushroom cake. ::He grins and winks at you.::<end>
+
+=>q24_original
+Don't forget: You owe me a dominating Arena story! See you soon.<end>
+
+=>q24
+Don't forget: You owe me a dominating Arena story! See you soon.<end>
+
+=>q25_original
+Hi, here to tell me a dominating story from the Arena?<end>
+
+=>q25
+Hi, here to tell me a dominating story from the Arena?<end>
+
+=>q26_original
+Where the hell is he? That's it - I'm not waiting anymore!<end>
+
+=>q26
+Where the hell is he? That's it - I'm not waiting anymore!<end>
+
+=>q27_original
+Go away. We're done talking.<end>
+
+=>q27
+Go away. We're done talking.<end>
+
+=>q28_original
+::The young man seems to be waiting for someone, as he is nervously looking around and constantly checking the time. He is expensively and neatly dressed, sporting several costly-looking rings on his fingers as well as a large golden watch that seems so heavy it would likely kill a rathound if dropped on its head. 
+
+You approach him with an obvious intention of starting a conversation, but he doesn't seem to acknowledge your existence.::<end>
+
+=>q28
+::The young man seems to be waiting for someone, as he is nervously looking around and constantly checking the time. He is expensively and neatly dressed, sporting several costly-looking rings on his fingers as well as a large golden watch that seems so heavy it would likely kill a rathound if dropped on its head. 
+
+You approach him with an obvious intention of starting a conversation, but he doesn't seem to acknowledge your existence.::<end>
+
+=>a29_original
+Greetings.<end>
+
+=>a29
+Greetings.<end>
+
+=>q30_original
+::He observes you for good three seconds before speaking, during which his eyes dart up and down, scrutinizing you with great interest.::
+
+Why, hello, darling, hm. What's your name and what can Maxim... *Talloski* do for you?<end>
+
+=>q30
+::He observes you for good three seconds before speaking, during which his eyes dart up and down, scrutinizing you with great interest.::
+
+Why, hello, darling, hm. What's your name and what can Maxim... *Talloski* do for you?<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Who are you waiting for?<end>
+
+=>a32
+Who are you waiting for?<end>
+
+=>q33_original
+I'm waiting for someone really important. Someone who is late! But important. I am a Talloski, after all, hm... 
+
+::He can't seem to hide his voracious stare.:: Let's kill some time, mushroom cake. Let's talk...<end>
+
+=>q33
+I'm waiting for someone really important. Someone who is late! But important. I am a Talloski, after all, hm... 
+
+::He can't seem to hide his voracious stare.:: Let's kill some time, mushroom cake. Let's talk...<end>
+
+=>a34_original
+Mushroom cake - I like that! How about I call you, say, sweet prince?<end>
+
+=>a34
+Mushroom cake - I like that! How about I call you, say, sweet prince?<end>
+
+=>q35_original
+Well, I am a prince, I suppose. My dad is pretty rich - so if he's the king... then I must be the prince. Eh? Hey, I have a question for you: Who is immensely rich and blinks? ::He starts blinking like a strobe light.::<end>
+
+=>q35
+Well, I am a prince, I suppose. My dad is pretty rich - so if he's the king... then I must be the prince. Eh? Hey, I have a question for you: Who is immensely rich and blinks? ::He starts blinking like a strobe light.::<end>
+
+=>a36_original
+::Giggle.:: You?<end>
+
+=>a36
+::Giggle.:: You?<end>
+
+=>q37_original
+Yeah, me... ::He laughs.:: How about this one: Blood is red, my eyes are blue, wanna come over to Talloski Manor, what say you?<end>
+
+=>q37
+Yeah, me... ::He laughs.:: How about this one: Blood is red, my eyes are blue, wanna come over to Talloski Manor, what say you?<end>
+
+=>a38_original
+Sure, I can come over to your place - you handsome devil.<end>
+
+=>a38
+Sure, I can come over to your place - you handsome devil.<end>
+
+=>q39_original
+Right on! Go to the residential area and come to *the* manor. It's right by Praetorian Security headquarters. Then we can talk about anything.<end>
+
+=>q39
+Right on! Go to the residential area and come to *the* manor. It's right by Praetorian Security headquarters. Then we can talk about anything.<end>
+
+=>a40_original
+What about that important person you're waiting for?<end>
+
+=>a40
+What about that important person you're waiting for?<end>
+
+=>q41_original
+Well, he's not showing up apparently, so who cares about him? I'm a Talloski - what can he do to me? Eh?<end>
+
+=>q41
+Well, he's not showing up apparently, so who cares about him? I'm a Talloski - what can he do to me? Eh?<end>
+
+=>a42_original
+I'll be seeing you at the manor.<end>
+
+=>a42
+I'll be seeing you at the manor.<end>
+
+=>q43_original
+::He snaps his fingers and leaves.::<end>
+
+=>q43
+::He snaps his fingers and leaves.::<end>
+
+=>a44_original
+I say you're an idiot and your pick up lines are horrible.<end>
+
+=>a44
+I say you're an idiot and your pick up lines are horrible.<end>
+
+=>q45_original
+::He seems genuinely shocked - even hurt, like this was the first time someone said something this harsh to him.::
+
+Well, go and die in a hole full of acid! You are... you are ugly anyway. I... I could find much hotter girls than you within seconds! Within seconds! Get lost, you revolting woman!<end>
+
+=>q45
+::He seems genuinely shocked - even hurt, like this was the first time someone said something this harsh to him.::
+
+Well, go and die in a hole full of acid! You are... you are ugly anyway. I... I could find much hotter girls than you within seconds! Within seconds! Get lost, you revolting woman!<end>
+
+=>a46_original
+Wow, that one sucked! You're not as smooth as you think, buddy.<end>
+
+=>a46
+Wow, that one sucked! You're not as smooth as you think, buddy.<end>
+
+=>a47_original
+Yeah... um...mushroom cake. I like that. I guess...<end>
+
+=>a47
+Yeah... um...mushroom cake. I like that. I guess...<end>
+
+=>q48_original
+Listen, pretty, I have a question for you: Who is immensely rich and blinks? ::He starts blinking like a strobe light.::<end>
+
+=>q48
+Listen, pretty, I have a question for you: Who is immensely rich and blinks? ::He starts blinking like a strobe light.::<end>
+
+=>a49_original
+Please don't call me that, I'm not interested in you.<end>
+
+=>a49
+Please don't call me that, I'm not interested in you.<end>
+
+=>q50_original
+::His "charm" quickly vanishes.::
+
+Fine. About what I'm doing here - it's none of your business! It's important, though.<end>
+
+=>q50
+::His "charm" quickly vanishes.::
+
+Fine. About what I'm doing here - it's none of your business! It's important, though.<end>
+
+=>a51_original
+Hey, jerk, I know you're trying to be smooth, but you suck. I'm not interested so cut the "smooth" talk. Idiot.<end>
+
+=>a51
+Hey, jerk, I know you're trying to be smooth, but you suck. I'm not interested so cut the "smooth" talk. Idiot.<end>
+
+=>q52_original
+That's none of your business really.<end>
+
+=>q52
+That's none of your business really.<end>
+
+=>q53_original
+It is important though, just so you know.<end>
+
+=>q53
+It is important though, just so you know.<end>
+
+=>a54_original
+What can you tell me about yourself?<end>
+
+=>a54
+What can you tell me about yourself?<end>
+
+=>q55_original
+I'm rich, handsome... and rich. And I love - adore - revere the Arena! Damn, I've been there a million times to watch live carnage, and it's also always on the screen at home.<end>
+
+=>q55
+I'm rich, handsome... and rich. And I love - adore - revere the Arena! Damn, I've been there a million times to watch live carnage, and it's also always on the screen at home.<end>
+
+=>a56_original
+As a matter of fact, I'm a gladiator.<end>
+
+=>a56
+As a matter of fact, I'm a gladiator.<end>
+
+=>q57_original
+::He observes you inquisitively.:: Gladiator? Like, a *real* gladiator?<end>
+
+=>q57
+::He observes you inquisitively.:: Gladiator? Like, a *real* gladiator?<end>
+
+=>a58_original
+Yes.<end>
+
+=>a58
+Yes.<end>
+
+=>q59_original
+Hardcore! I kept thinking how you looked familiar, but I dismissed it as you just having one of those familiar faces. Yes, yes... I saw you!<end>
+
+=>q59
+Hardcore! I kept thinking how you looked familiar, but I dismissed it as you just having one of those familiar faces. Yes, yes... I saw you!<end>
+
+=>q60_original
+You killed Pulverizer! Am I right?<end>
+
+=>q60
+You killed Pulverizer! Am I right?<end>
+
+=>a61_original
+That is correct.<end>
+
+=>a61
+That is correct.<end>
+
+=>q62_original
+Hardcore! ::He ponders for a few moments before continuing.:: I have a neat idea, hear me out: How about you come over to Talloski Manor and tell me about your experience in the Arena. I'd love to hear it, Dad would love to hear it... Sis would find it boring, but everything bores her, so who cares.<end>
+
+=>q62
+Hardcore! ::He ponders for a few moments before continuing.:: I have a neat idea, hear me out: How about you come over to Talloski Manor and tell me about your experience in the Arena. I'd love to hear it, Dad would love to hear it... Sis would find it boring, but everything bores her, so who cares.<end>
+
+=>q63_original
+What do you say?<end>
+
+=>q63
+What do you say?<end>
+
+=>a64_original
+Sure, that would be good.<end>
+
+=>a64
+Sure, that would be good.<end>
+
+=>q65_original
+Drop by whenever you feel like it. Just talk to the men at the entrance and they'll let you right in. Talloski Manor, residential area, large house west of Praetorian Security headquarters, can't miss it. ::He smiles.:: This is *so* hardcore!<end>
+
+=>q65
+Drop by whenever you feel like it. Just talk to the men at the entrance and they'll let you right in. Talloski Manor, residential area, large house west of Praetorian Security headquarters, can't miss it. ::He smiles.:: This is *so* hardcore!<end>
+
+=>a66_original
+Got it, see you later.<end>
+
+=>a66
+Got it, see you later.<end>
+
+=>a67_original
+I'll think about it.<end>
+
+=>a67
+I'll think about it.<end>
+
+=>a68_original
+Pulverizer and few more...<end>
+
+=>a68
+Pulverizer and few more...<end>
+
+=>a69_original
+Hell yeah, man.<end>
+
+=>a69
+Hell yeah, man.<end>
+
+=>a70_original
+Then it's weird you haven't recognized me yet. I am the Invictus!<end>
+
+=>a70
+Then it's weird you haven't recognized me yet. I am the Invictus!<end>
+
+=>q71_original
+No, no. $(context.playerArenaTitle), who defeated Carnifex in a glorious and bloody battle knows my dad. And my dad invited $(#him/her) to lunch just recently.<end>
+
+=>q71
+No, no. $(context.playerArenaTitle), who defeated Carnifex in a glorious and bloody battle knows my dad. And my dad invited $(#him/her) to lunch just recently.<end>
+
+=>a72_original
+Impossible, I'm $(context.playerArenaTitle)!<end>
+
+=>a72
+Impossible, I'm $(context.playerArenaTitle)!<end>
+
+=>q73_original
+::He laughs.:: I think we both know who's lying here... Right?<end>
+
+=>q73
+::He laughs.:: I think we both know who's lying here... Right?<end>
+
+=>a74_original
+Yes we *do.* But still, I am a gladiator.<end>
+
+=>a74
+Yes we *do.* But still, I am a gladiator.<end>
+
+=>a75_original
+I was messing with you. I'm a gladiator, though.<end>
+
+=>a75
+I was messing with you. I'm a gladiator, though.<end>
+
+=>a76_original
+I was just joking. Let's talk about something else.<end>
+
+=>a76
+I was just joking. Let's talk about something else.<end>
+
+=>q77_original
+Okay, why not. Ask away.<end>
+
+=>q77
+Okay, why not. Ask away.<end>
+
+=>a78_original
+That's cool. Let's talk about something else.<end>
+
+=>a78
+That's cool. Let's talk about something else.<end>
+
+=>a79_original
+What can you tell me about the Talloski family?<end>
+
+=>a79
+What can you tell me about the Talloski family?<end>
+
+=>q80_original
+The Talloski family is a trading giant here in Core City. My father, Vlatko, started the business - and I'm his heir, you know. ::He laughs.:: We are so respected in this city that Praetorian Security enforcers always make sure that we're safe whenever and wherever we move about the city.<end>
+
+=>q80
+The Talloski family is a trading giant here in Core City. My father, Vlatko, started the business - and I'm his heir, you know. ::He laughs.:: We are so respected in this city that Praetorian Security enforcers always make sure that we're safe whenever and wherever we move about the city.<end>
+
+=>q81_original
+Just hardcore, isn't it?<end>
+
+=>q81
+Just hardcore, isn't it?<end>
+
+=>a82_original
+See you some other time, Maxim.<end>
+
+=>a82
+See you some other time, Maxim.<end>
+
+=>q83_original
+Who are you and what do you want?<end>
+
+=>q83
+Who are you and what do you want?<end>
+
+=>a84_original
+My name is $(context.player.Name). Who are you?<end>
+
+=>a84
+My name is $(context.player.Name). Who are you?<end>
+
+=>q85_original
+I don't recognize the name and I don't have time to... ::He stops for a second, clearly thinking about what he was about to say.::
+
+Actually, I do have the time. Just so you know, hm, you are speaking to Maxim Talloski. Yes, *the* Maxim Talloski. What do you need?<end>
+
+=>q85
+I don't recognize the name and I don't have time to... ::He stops for a second, clearly thinking about what he was about to say.::
+
+Actually, I do have the time. Just so you know, hm, you are speaking to Maxim Talloski. Yes, *the* Maxim Talloski. What do you need?<end>
+
+=>a86_original
+::Leave him alone.::<end>
+
+=>a86
+::Leave him alone.::<end>
+
+=>q87_original
+Yeah?<end>
+
+=>q87
+Yeah?<end>
+

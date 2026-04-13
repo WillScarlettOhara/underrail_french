@@ -1,0 +1,616 @@
+=>q1_original
+::You come up to a short, stocky man looking at the table in front of him. The table is littered with numerous glasses, out of which only one is full; as he picks it up, your eyes become drawn to a sizable coal-black tattoo on his right arm. You stare at the ink: It depicts an intricate earth fissure which starts from the elbow and moves down to his hand, with tiny, angular cracks radiating from it in all directions. Upon looking more carefully, however, you realize that the center of the tattoo is actually a large scar, effectively making the tattoo its embellishment. Your curious stare provokes an indifferent one from him as well as a couple of words expressed in a mildly annoyed manner.::
+
+You need something, $(#bud/sugar)?
+<end>
+
+=>q1
+::You come up to a short, stocky man looking at the table in front of him. The table is littered with numerous glasses, out of which only one is full; as he picks it up, your eyes become drawn to a sizable coal-black tattoo on his right arm. You stare at the ink: It depicts an intricate earth fissure which starts from the elbow and moves down to his hand, with tiny, angular cracks radiating from it in all directions. Upon looking more carefully, however, you realize that the center of the tattoo is actually a large scar, effectively making the tattoo its embellishment. Your curious stare provokes an indifferent one from him as well as a couple of words expressed in a mildly annoyed manner.::
+
+You need something, $(#bud/sugar)?
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Who are you?<end>
+
+=>a3
+Who are you?<end>
+
+=>q4_original
+Who are *you*?<end>
+
+=>q4
+Who are *you*?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+My name is $(context.player.Name) and I had some questions.<end>
+
+=>a6
+My name is $(context.player.Name) and I had some questions.<end>
+
+=>q7_original
+Questions, questions... a man gets tired of those after a while, especially if they are being asked by random strangers.<end>
+
+=>q7
+Questions, questions... a man gets tired of those after a while, especially if they are being asked by random strangers.<end>
+
+=>a8_original
+Is that a yes or a no?<end>
+
+=>a8
+Is that a yes or a no?<end>
+
+=>q9_original
+::He inspects you for a few seconds too long.:: I'll bite - ask your questions. Now whether you'll get an answer, that's a whole different matter. ::He returns to his drink.::<end>
+
+=>q9
+::He inspects you for a few seconds too long.:: I'll bite - ask your questions. Now whether you'll get an answer, that's a whole different matter. ::He returns to his drink.::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Who are you anyway?<end>
+
+=>a11
+Who are you anyway?<end>
+
+=>q12_original
+Why do you ask?<end>
+
+=>q12
+Why do you ask?<end>
+
+=>a13_original
+You seem somewhat familiar.<end>
+
+=>a13
+You seem somewhat familiar.<end>
+
+=>q14_original
+::He answers without looking at you.:: From where?<end>
+
+=>q14
+::He answers without looking at you.:: From where?<end>
+
+=>a15_original
+Gene told me you are an Underrail Express train operator. Maybe I've seen you before.<end>
+
+=>a15
+Gene told me you are an Underrail Express train operator. Maybe I've seen you before.<end>
+
+=>q16_original
+::He downs the remainder of his drink in a single gulp, then follows it by contorting his face and holding the expression for a few seconds. When he opens his eyes again he raises his hand and signals the bartender to bring him another drink.::
+
+Yeah, you were told right. I operate one of the trains circling the Lower Underrail.<end>
+
+=>q16
+::He downs the remainder of his drink in a single gulp, then follows it by contorting his face and holding the expression for a few seconds. When he opens his eyes again he raises his hand and signals the bartender to bring him another drink.::
+
+Yeah, you were told right. I operate one of the trains circling the Lower Underrail.<end>
+
+=>q17_original
+What's it to ya, $(#bud/sugar)? You got a better job to offer, perhaps?<end>
+
+=>q17
+What's it to ya, $(#bud/sugar)? You got a better job to offer, perhaps?<end>
+
+=>a18_original
+You ask a lot of questions, do you know that?<end>
+
+=>a18
+You ask a lot of questions, do you know that?<end>
+
+=>q19_original
+Well, $(#bud/sugar), so do you. Now, what did you say about me being familiar?<end>
+
+=>q19
+Well, $(#bud/sugar), so do you. Now, what did you say about me being familiar?<end>
+
+=>a20_original
+Gene told me you are one of Underrail Express train operators.<end>
+
+=>a20
+Gene told me you are one of Underrail Express train operators.<end>
+
+=>a21_original
+Forget about it. I had other questions for you.<end>
+
+=>a21
+Forget about it. I had other questions for you.<end>
+
+=>q22_original
+Aight.<end>
+
+=>q22
+Aight.<end>
+
+=>a23_original
+Never mind. Let me ask you something else.<end>
+
+=>a23
+Never mind. Let me ask you something else.<end>
+
+=>a24_original
+I was wondering if you remember any merchants from SGS ever taking the train you operated. Terry and Lora Baker, husband and wife.<end>
+
+=>a24
+I was wondering if you remember any merchants from SGS ever taking the train you operated. Terry and Lora Baker, husband and wife.<end>
+
+=>q25_original
+::Your question seems to have struck a chord with him, since he puts down his drink and turns to you.::
+
+Husband and wife from SGS? South Gate Station?<end>
+
+=>q25
+::Your question seems to have struck a chord with him, since he puts down his drink and turns to you.::
+
+Husband and wife from SGS? South Gate Station?<end>
+
+=>a26_original
+*Yes*! Do you know anything about them?<end>
+
+=>a26
+*Yes*! Do you know anything about them?<end>
+
+=>q27_original
+::He makes a long pause, takes full shot of whatever he is having and contorts his face again. This time it took him a bit longer to recuperate, but when he's done he turns to you once more.::
+
+Aight, listen $(#bud/sugar) - I think I know about those people. ::He signals the bartender for another drink.::<end>
+
+=>q27
+::He makes a long pause, takes full shot of whatever he is having and contorts his face again. This time it took him a bit longer to recuperate, but when he's done he turns to you once more.::
+
+Aight, listen $(#bud/sugar) - I think I know about those people. ::He signals the bartender for another drink.::<end>
+
+=>q28_original
+Usually I don't care about people. People - they're jerks, scum. People, I meet and forget - their name, appearance, what we talked about... just like I'm going to forget you and this whole stupid conversation. But those two, I remembered those two. For a strange reason, but I did.<end>
+
+=>q28
+Usually I don't care about people. People - they're jerks, scum. People, I meet and forget - their name, appearance, what we talked about... just like I'm going to forget you and this whole stupid conversation. But those two, I remembered those two. For a strange reason, but I did.<end>
+
+=>q29_original
+::He continues after his drink arrives.:: Aight, let's get things rolling. I remember first seeing them right here in Core City. I was chillin' by my train when they approached me and asked where the train was headed. I told them to Rail Crossing, and they boarded the train. I heard them mention SGS at some point, can't be bothered to remember exactly when, but I think you and I are thinking of the same people.<end>
+
+=>q29
+::He continues after his drink arrives.:: Aight, let's get things rolling. I remember first seeing them right here in Core City. I was chillin' by my train when they approached me and asked where the train was headed. I told them to Rail Crossing, and they boarded the train. I heard them mention SGS at some point, can't be bothered to remember exactly when, but I think you and I are thinking of the same people.<end>
+
+=>a30_original
+Rail Crossing, why would they go to Rail Crossing?<end>
+
+=>a30
+Rail Crossing, why would they go to Rail Crossing?<end>
+
+=>q31_original
+How would I know that, $(#bud/sugar)? All I knew about them was that they were headed for Rail Crossing - that's it.<end>
+
+=>q31
+How would I know that, $(#bud/sugar)? All I knew about them was that they were headed for Rail Crossing - that's it.<end>
+
+=>q32_original
+So we arrived at the Rail Crossing station. I walked outside to stretch my freakin' legs when I saw those two friends of yours being harassed by some gang at the station, which was mostly empty at the time. So, these damn gangsters pulled out their weapons and forced the duo into the caves north. Dragged them, actually. That was the last I've seen of them.<end>
+
+=>q32
+So we arrived at the Rail Crossing station. I walked outside to stretch my freakin' legs when I saw those two friends of yours being harassed by some gang at the station, which was mostly empty at the time. So, these damn gangsters pulled out their weapons and forced the duo into the caves north. Dragged them, actually. That was the last I've seen of them.<end>
+
+=>a33_original
+Why didn't you do anything to help them? How could you have just stood there and watched all that?<end>
+
+=>a33
+Why didn't you do anything to help them? How could you have just stood there and watched all that?<end>
+
+=>q34_original
+::He chuckles.:: Help them? Don't be stupid, $(#bud/sister). Every day I see people getting killed like pigs, or beaten or, or pulled away somewhere into the darkness. If I tried to help every single poor soul I'd be a goner by now. Dead. Ice cold, $(#bud/sister). I mind my own business and let the world do its freakin' thing.<end>
+
+=>q34
+::He chuckles.:: Help them? Don't be stupid, $(#bud/sister). Every day I see people getting killed like pigs, or beaten or, or pulled away somewhere into the darkness. If I tried to help every single poor soul I'd be a goner by now. Dead. Ice cold, $(#bud/sister). I mind my own business and let the world do its freakin' thing.<end>
+
+=>a35_original
+Can you tell me anything about the gang that kidnapped them?<end>
+
+=>a35
+Can you tell me anything about the gang that kidnapped them?<end>
+
+=>q36_original
+Gangsters like any other gangsters - filthy, dumb and packing major firepower. ::He laughs.:: Hmmm - actually, those folks had chemical pistols as far as I can remember. That's the only thing I can tell you about them.<end>
+
+=>q36
+Gangsters like any other gangsters - filthy, dumb and packing major firepower. ::He laughs.:: Hmmm - actually, those folks had chemical pistols as far as I can remember. That's the only thing I can tell you about them.<end>
+
+=>a37_original
+You just told me you don't care about people and forget everyone, yet you remembered Terry and Lora. How come?<end>
+
+=>a37
+You just told me you don't care about people and forget everyone, yet you remembered Terry and Lora. How come?<end>
+
+=>q38_original
+::He pauses to think, then takes a solid gulp of his drink.::
+
+I don't know. I usually get sick when I see people care so much about each other, like those two did. At least from what I saw at the station. Maybe it's the negative emotion I felt that got engraved in my mind. I don't know. Don't care, though.<end>
+
+=>q38
+::He pauses to think, then takes a solid gulp of his drink.::
+
+I don't know. I usually get sick when I see people care so much about each other, like those two did. At least from what I saw at the station. Maybe it's the negative emotion I felt that got engraved in my mind. I don't know. Don't care, though.<end>
+
+=>a39_original
+Is that all you know?<end>
+
+=>a39
+Is that all you know?<end>
+
+=>q40_original
+::He finishes his drink.:: That is all. Hope that's what you wanted, $(#bud/sister), and to give you some advice while we're here: Forget about your friends - they are probably rotting somewhere in the caves right now. I've seen a lot of that stuff and... just forget about them.<end>
+
+=>q40
+::He finishes his drink.:: That is all. Hope that's what you wanted, $(#bud/sister), and to give you some advice while we're here: Forget about your friends - they are probably rotting somewhere in the caves right now. I've seen a lot of that stuff and... just forget about them.<end>
+
+=>a41_original
+Go on...<end>
+
+=>a41
+Go on...<end>
+
+=>a42_original
+They went to Core City but never made it back to SGS. I'm trying to learn what happened to them.<end>
+
+=>a42
+They went to Core City but never made it back to SGS. I'm trying to learn what happened to them.<end>
+
+=>a43_original
+::[Persuade]:: Tell me what happened to your son. Sometimes talking helps.<end>
+
+=>a43
+::[Persuade]:: Tell me what happened to your son. Sometimes talking helps.<end>
+
+=>q44_original
+It won't help. I've talked to people before. It doesn't help.<end>
+
+=>q44
+It won't help. I've talked to people before. It doesn't help.<end>
+
+=>q45_original
+::He continues after a pause.:: His name was Timothy. His mother died at birth, so I was all he had, and he was all I had. Until some... some freakin' lowlife scumbags, some dirtbags broke into our house one day, many years ago. We didn't have anything valuable, and I told them that. But they... they weren't there for valuables - but for blood. Psychos. Bastards!
+
+I tried to protect him. I failed. I squeezed the lives out of those rats as hard as I could, but for my boy... it was too late. The grin on the man's face while he was killing my... my boy still haunts me. I see it even now. It's like he...<end>
+
+=>q45
+::He continues after a pause.:: His name was Timothy. His mother died at birth, so I was all he had, and he was all I had. Until some... some freakin' lowlife scumbags, some dirtbags broke into our house one day, many years ago. We didn't have anything valuable, and I told them that. But they... they weren't there for valuables - but for blood. Psychos. Bastards!
+
+I tried to protect him. I failed. I squeezed the lives out of those rats as hard as I could, but for my boy... it was too late. The grin on the man's face while he was killing my... my boy still haunts me. I see it even now. It's like he...<end>
+
+=>q46_original
+::He makes a lenghty pause before continuing.:: This scar, one of them slashed my arm with a knife. And the tattoo... I did that myself. My life was torn apart so I... well... ::He abruptly stops talking and finishes his drink.::<end>
+
+=>q46
+::He makes a lenghty pause before continuing.:: This scar, one of them slashed my arm with a knife. And the tattoo... I did that myself. My life was torn apart so I... well... ::He abruptly stops talking and finishes his drink.::<end>
+
+=>a47_original
+I'm very sorry about your boy. Things like that shouldn't happen.<end>
+
+=>a47
+I'm very sorry about your boy. Things like that shouldn't happen.<end>
+
+=>q48_original
+::Before you even get the chance to speak your thoughts, Gorge angrily interrupts you.::
+
+Whatever you were gonna say - I don't care. It's meaningless. All this was meaningless. Now you can politely DROP OFF! And if you ask me about my son, scar, tattoo or... or anything like that again, I'm gonna smash your freakin' windpipe. You dig that, $(#bud/sugar)?<end>
+
+=>q48
+::Before you even get the chance to speak your thoughts, Gorge angrily interrupts you.::
+
+Whatever you were gonna say - I don't care. It's meaningless. All this was meaningless. Now you can politely DROP OFF! And if you ask me about my son, scar, tattoo or... or anything like that again, I'm gonna smash your freakin' windpipe. You dig that, $(#bud/sugar)?<end>
+
+=>q49_original
+::He signals the bartender for another drink, then turns to you?::
+
+Get it? Aight?<end>
+
+=>q49
+::He signals the bartender for another drink, then turns to you?::
+
+Get it? Aight?<end>
+
+=>a50_original
+I understand it is a terrible loss, and it saddens me to hear stories like this. But, you have to be strong. Help others - help yourself! Don't drown your life in liquor.<end>
+
+=>a50
+I understand it is a terrible loss, and it saddens me to hear stories like this. But, you have to be strong. Help others - help yourself! Don't drown your life in liquor.<end>
+
+=>a51_original
+So you get yourself wasted every chance you get? Is that the man your son would've wanted you to become?<end>
+
+=>a51
+So you get yourself wasted every chance you get? Is that the man your son would've wanted you to become?<end>
+
+=>a52_original
+Your son died, yet you are still alive. Maybe you were more concerned whether you were going to survive, not little Tim.<end>
+
+=>a52
+Your son died, yet you are still alive. Maybe you were more concerned whether you were going to survive, not little Tim.<end>
+
+=>a53_original
+I have no comment.<end>
+
+=>a53
+I have no comment.<end>
+
+=>q54_original
+Stop asking me about that, aight? Just... leave it.<end>
+
+=>q54
+Stop asking me about that, aight? Just... leave it.<end>
+
+=>a55_original
+What can you tell me about your tattooed scar?<end>
+
+=>a55
+What can you tell me about your tattooed scar?<end>
+
+=>q56_original
+::He takes a look at his scar, staring at it for a few moments, taking a sip of his drink in the process.::
+
+The scar is from an accident. The tattoo is from a tattoo shop.<end>
+
+=>q56
+::He takes a look at his scar, staring at it for a few moments, taking a sip of his drink in the process.::
+
+The scar is from an accident. The tattoo is from a tattoo shop.<end>
+
+=>a57_original
+Can you tell me a bit more about it?<end>
+
+=>a57
+Can you tell me a bit more about it?<end>
+
+=>q58_original
+Nope. ::He takes a sip of his drink.::<end>
+
+=>q58
+Nope. ::He takes a sip of his drink.::<end>
+
+=>a59_original
+Why not?<end>
+
+=>a59
+Why not?<end>
+
+=>q60_original
+Why should I?<end>
+
+=>q60
+Why should I?<end>
+
+=>a61_original
+Because I asked you nicely.<end>
+
+=>a61
+Because I asked you nicely.<end>
+
+=>q62_original
+Well, tough luck. Any more questions?<end>
+
+=>q62
+Well, tough luck. Any more questions?<end>
+
+=>a63_original
+Because I really want to know.<end>
+
+=>a63
+Because I really want to know.<end>
+
+=>a64_original
+Let's forget about this. I have more important things to ask you.<end>
+
+=>a64
+Let's forget about this. I have more important things to ask you.<end>
+
+=>a65_original
+That's good enough for me. I had other things to ask you.<end>
+
+=>a65
+That's good enough for me. I had other things to ask you.<end>
+
+=>a66_original
+Where were the Bakers captured, again?<end>
+
+=>a66
+Where were the Bakers captured, again?<end>
+
+=>q67_original
+Rail Crossing train station. The gangsters took them to the caves north.<end>
+
+=>q67
+Rail Crossing train station. The gangsters took them to the caves north.<end>
+
+=>q68_original
+That's all I know.<end>
+
+=>q68
+That's all I know.<end>
+
+=>a69_original
+I heard you got that tattoo while defending your brother from bandits.<end>
+
+=>a69
+I heard you got that tattoo while defending your brother from bandits.<end>
+
+=>q70_original
+::He is about to take another sip from the glass when your words strike him like one of the trains he operates. He puts the glass down and turns to you.::
+
+Who told you that?<end>
+
+=>q70
+::He is about to take another sip from the glass when your words strike him like one of the trains he operates. He puts the glass down and turns to you.::
+
+Who told you that?<end>
+
+=>a71_original
+Gene, the barkeeper.<end>
+
+=>a71
+Gene, the barkeeper.<end>
+
+=>q72_original
+Well, he was wrong...<end>
+
+=>q72
+Well, he was wrong...<end>
+
+=>q73_original
+::Gorge goes for the glass, but freezes after a second. He remains like that for a few moments, then faces you again.::
+
+He was wrong, aight. It... wasn't my brother. It was my son.<end>
+
+=>q73
+::Gorge goes for the glass, but freezes after a second. He remains like that for a few moments, then faces you again.::
+
+He was wrong, aight. It... wasn't my brother. It was my son.<end>
+
+=>a74_original
+I'm very sorry to hear that.<end>
+
+=>a74
+I'm very sorry to hear that.<end>
+
+=>q75_original
+I gain nothing out of you being sorry, so spare me.<end>
+
+=>q75
+I gain nothing out of you being sorry, so spare me.<end>
+
+=>a76_original
+Can you tell me more about what happened?<end>
+
+=>a76
+Can you tell me more about what happened?<end>
+
+=>q77_original
+Look, you ask too many questions, $(#bud/sugar). I don't know why I'm even freakin' talking to you.<end>
+
+=>q77
+Look, you ask too many questions, $(#bud/sugar). I don't know why I'm even freakin' talking to you.<end>
+
+=>a78_original
+What can you tell me about Underrail Express?<end>
+
+=>a78
+What can you tell me about Underrail Express?<end>
+
+=>q79_original
+Go bug someone else about it, aight? The reason I come to places like this is so that I don't have to think about my freakin' job, and now you're reminding me of it.<end>
+
+=>q79
+Go bug someone else about it, aight? The reason I come to places like this is so that I don't have to think about my freakin' job, and now you're reminding me of it.<end>
+
+=>q80_original
+Let me drink in freakin' peace.<end>
+
+=>q80
+Let me drink in freakin' peace.<end>
+
+=>a81_original
+Can you not call me "bud"?<end>
+
+=>a81
+Can you not call me "bud"?<end>
+
+=>q82_original
+::He gives you an indifferent look.:: Aight, bud, not a problem.<end>
+
+=>q82
+::He gives you an indifferent look.:: Aight, bud, not a problem.<end>
+
+=>q83_original
+Better?<end>
+
+=>q83
+Better?<end>
+
+=>a84_original
+Can you not call me "sugar"?<end>
+
+=>a84
+Can you not call me "sugar"?<end>
+
+=>q85_original
+::He gives you an indifferent look.:: Aight, sugar, not a problem.<end>
+
+=>q85
+::He gives you an indifferent look.:: Aight, sugar, not a problem.<end>
+
+=>a86_original
+I gotta go.<end>
+
+=>a86
+I gotta go.<end>
+
+=>a87_original
+Well, I told you my name - so I'm not a complete stranger.<end>
+
+=>a87
+Well, I told you my name - so I'm not a complete stranger.<end>
+
+=>q88_original
+::He chuckles.:: No, you said *a* name. I don't know if it's really yours, $(#bud/sugar). You could be anyone for all I know.<end>
+
+=>q88
+::He chuckles.:: No, you said *a* name. I don't know if it's really yours, $(#bud/sugar). You could be anyone for all I know.<end>
+
+=>a89_original
+Still, can I just ask you few questions?<end>
+
+=>a89
+Still, can I just ask you few questions?<end>
+
+=>a90_original
+No one. Sorry for bothering you.<end>
+
+=>a90
+No one. Sorry for bothering you.<end>
+
+=>a91_original
+Hi, my name is $(context.player.Name) and I had some questions.<end>
+
+=>a91
+Hi, my name is $(context.player.Name) and I had some questions.<end>
+
+=>a92_original
+You have an interesting tattoo there.<end>
+
+=>a92
+You have an interesting tattoo there.<end>
+
+=>q93_original
+Who the hell are you and what do you want?<end>
+
+=>q93
+Who the hell are you and what do you want?<end>
+
+=>a94_original
+No. ::Leave.::<end>
+
+=>a94
+No. ::Leave.::<end>
+
+=>q95_original
+Eh?<end>
+
+=>q95
+Eh?<end>
+

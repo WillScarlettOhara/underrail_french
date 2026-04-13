@@ -1,0 +1,60 @@
+=>q1_original
+Don't hurt me, $(#man/woman)!<end>
+
+=>q1
+Don't hurt me, $(#man/woman)!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+You wanting to join too? ::Coughs.::<end>
+
+=>q3
+You wanting to join too? ::Coughs.::<end>
+
+=>q4_original
+Tchort is evo-- Oh, it's someone irrelevant.<end>
+
+=>q4
+Tchort is evo-- Oh, it's someone irrelevant.<end>
+
+=>q5_original
+The air is a lot cleaner here than in Foundry. ::Coughs.::<end>
+
+=>q5
+The air is a lot cleaner here than in Foundry. ::Coughs.::<end>
+
+=>q6_original
+I don't even know how long I've been waiting.<end>
+
+=>q6
+I don't even know how long I've been waiting.<end>
+
+=>q7_original
+Huh? ::Coughs.::<end>
+
+=>q7
+Huh? ::Coughs.::<end>
+
+=>q8_original
+It's been a while since I've seen anyone being brought in.<end>
+
+=>q8
+It's been a while since I've seen anyone being brought in.<end>
+
+=>q9_original
+My legs hurt.<end>
+
+=>q9
+My legs hurt.<end>
+
+=>q10_original
+I don't wanna go back to Foundry. ::Coughs.::<end>
+
+=>q10
+I don't wanna go back to Foundry. ::Coughs.::<end>
+

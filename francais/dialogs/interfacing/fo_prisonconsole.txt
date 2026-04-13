@@ -1,0 +1,144 @@
+=>q1_original
+::Warning - all auto-turrets are offline!
+
+Please select one of the following options:
+::<end>
+
+=>q1
+::Warning - all auto-turrets are offline!
+
+Please select one of the following options:
+::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Toggle inner checkpoint gate::<end>
+
+=>a3
+::Toggle inner checkpoint gate::<end>
+
+=>q4_original
+::Select one of the following options: ::<end>
+
+=>q4
+::Select one of the following options: ::<end>
+
+=>a5_original
+::Toggle outer checkpoint gate::<end>
+
+=>a5
+::Toggle outer checkpoint gate::<end>
+
+=>a6_original
+::Check Auto-turret status::<end>
+
+=>a6
+::Check Auto-turret status::<end>
+
+=>q7_original
+::Warning: Unresponsive auto-turrets detected! Please contact FMR service as soon as possible.::<end>
+
+=>q7
+::Warning: Unresponsive auto-turrets detected! Please contact FMR service as soon as possible.::<end>
+
+=>q8_original
+::All auto-turrets are currently offline::<end>
+
+=>q8
+::All auto-turrets are currently offline::<end>
+
+=>q9_original
+::All auto-turrets are currently online::<end>
+
+=>q9
+::All auto-turrets are currently online::<end>
+
+=>a10_original
+::[Hacking] Disable auto-turrets::<end>
+
+=>a10
+::[Hacking] Disable auto-turrets::<end>
+
+=>q11_original
+::Auto-turrets successfuly disabled::<end>
+
+=>q11
+::Auto-turrets successfuly disabled::<end>
+
+=>q12_original
+::Error: Access denied::<end>
+
+=>q12
+::Error: Access denied::<end>
+
+=>a13_original
+::[Hacking] Disable surveillance video recording::<end>
+
+=>a13
+::[Hacking] Disable surveillance video recording::<end>
+
+=>q14_original
+::You successfully disable the recording function of the video surveillance system. Moreover, you make it so that the security monitors are still displaying the recording icon, as to maintain the impression that everything is working as intended.::<end>
+
+=>q14
+::You successfully disable the recording function of the video surveillance system. Moreover, you make it so that the security monitors are still displaying the recording icon, as to maintain the impression that everything is working as intended.::<end>
+
+=>a15_original
+::Review stored camera recordings::<end>
+
+=>a15
+::Review stored camera recordings::<end>
+
+=>q16_original
+::Upon reviewing the recordings, you discover that your illegal activities have been caught on camera.::<end>
+
+=>q16
+::Upon reviewing the recordings, you discover that your illegal activities have been caught on camera.::<end>
+
+=>a17_original
+::[Hacking] Erase all recordings containing you in them::<end>
+
+=>a17
+::[Hacking] Erase all recordings containing you in them::<end>
+
+=>q18_original
+::Recordings erased successfully::<end>
+
+=>q18
+::Recordings erased successfully::<end>
+
+=>a19_original
+::Back::<end>
+
+=>a19
+::Back::<end>
+
+=>q20_original
+::You review the recordings, and it appears that none of the cameras caught you doing anything illegal.::<end>
+
+=>q20
+::You review the recordings, and it appears that none of the cameras caught you doing anything illegal.::<end>
+
+=>a21_original
+::Exit::<end>
+
+=>a21
+::Exit::<end>
+
+=>q22_original
+::All security systems are online
+
+Please select one of the following options:
+::<end>
+
+=>q22
+::All security systems are online
+
+Please select one of the following options:
+::<end>
+

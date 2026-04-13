@@ -1,0 +1,30 @@
+=>q1_original
+::This pipe section has been fixed.::<end>
+
+=>q1
+::This pipe section has been fixed.::<end>
+
+=>a2_original
+::Leave it alone.::<end>
+
+=>a2
+::Leave it alone.::<end>
+
+=>q3_original
+::This pipe section is damaged but looks repairable.::<end>
+
+=>q3
+::This pipe section is damaged but looks repairable.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Replace with a new pipe.::<end>
+
+=>a5
+::Replace with a new pipe.::<end>
+

@@ -1,0 +1,708 @@
+=>q1_original
+::You come up to a rangy-looking ferryman loading some boxes into what is presumably his own ferry. He wipes the sweat from his forehead with the back of his hand and smiles, all the while rubbing that same sweat onto the back of his pants. He addresses you in a raspy baritone voice.::
+
+Greetings, $(#laddie/lassie), I be Cap'n Coltrane, 'n' I got lots of interestin' tales to tell to those who sail with me, aye, for I'd seen things ye wouldn't believe.<end>
+
+=>q1
+::You come up to a rangy-looking ferryman loading some boxes into what is presumably his own ferry. He wipes the sweat from his forehead with the back of his hand and smiles, all the while rubbing that same sweat onto the back of his pants. He addresses you in a raspy baritone voice.::
+
+Greetings, $(#laddie/lassie), I be Cap'n Coltrane, 'n' I got lots of interestin' tales to tell to those who sail with me, aye, for I'd seen things ye wouldn't believe.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I need to get to Junkyard.<end>
+
+=>a3
+I need to get to Junkyard.<end>
+
+=>q4_original
+Ye pullin' me leg, $(#laddie/lassie)? Looks to me ye already got a vessel, it does.<end>
+
+=>q4
+Ye pullin' me leg, $(#laddie/lassie)? Looks to me ye already got a vessel, it does.<end>
+
+=>q5_original
+Yarr, that's gunna cost ye *fourty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q5
+Yarr, that's gunna cost ye *fourty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>a6_original
+Here you go. ::Give him 40 stygian coins.::<end>
+
+=>a6
+Here you go. ::Give him 40 stygian coins.::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Now, matey, let me tell ye a story 'bout th' nastiest, foulest grog I've ever tasted in me life. Yarr. It be seventeen weeks ago, in a crummy bar in a settlement overlookin' th' dark waters o' North Underrail. It all began when a drunk Protectorate soldier approached me 'n' said "Ahoy, matey, how ye be doin'?"...<end>
+
+=>q8
+Now, matey, let me tell ye a story 'bout th' nastiest, foulest grog I've ever tasted in me life. Yarr. It be seventeen weeks ago, in a crummy bar in a settlement overlookin' th' dark waters o' North Underrail. It all began when a drunk Protectorate soldier approached me 'n' said "Ahoy, matey, how ye be doin'?"...<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+::Sail to Core City.::<end>
+
+=>a11
+::Sail to Core City.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+::Sail to Junkyard.::<end>
+
+=>a13
+::Sail to Junkyard.::<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+::Sail to SGS.::<end>
+
+=>a15
+::Sail to SGS.::<end>
+
+=>q16_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout me encounter with 'tis sea leviathan, a serpent three-- no, four boats long, thick as a sewage pipe - 'n' just as fetid. Phew! Twas near Core City, when one of me passengers, a drunken sailor from th' far west, beshouted: "Yarr, matey, a wild sea mustang be approachin' fast..."<end>
+
+=>q16
+Now, $(#laddie/lassie), let me tell ye a story 'bout me encounter with 'tis sea leviathan, a serpent three-- no, four boats long, thick as a sewage pipe - 'n' just as fetid. Phew! Twas near Core City, when one of me passengers, a drunken sailor from th' far west, beshouted: "Yarr, matey, a wild sea mustang be approachin' fast..."<end>
+
+=>q17_original
+Now, matey, let me tell ye 'tis story 'bout a water-dwelling devil that had such ghastly nail-fins, such malevolent bulging eyes, such impenetrable red scales, such uncountable serrated teeth, such thick 'n' tenticular tongues - yet such frail and puny bowels...<end>
+
+=>q17
+Now, matey, let me tell ye 'tis story 'bout a water-dwelling devil that had such ghastly nail-fins, such malevolent bulging eyes, such impenetrable red scales, such uncountable serrated teeth, such thick 'n' tenticular tongues - yet such frail and puny bowels...<end>
+
+=>q18_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout how 'tis hopper I bet me hard-earned coins on blew up into disappointin' chunkery right before th' end of th' race. Twas a few months ago, yarr, when I stopped by th' hopper racin' track northeast o' Th' Rig for some fun...<end>
+
+=>q18
+Now, $(#laddie/lassie), let me tell ye a story 'bout how 'tis hopper I bet me hard-earned coins on blew up into disappointin' chunkery right before th' end of th' race. Twas a few months ago, yarr, when I stopped by th' hopper racin' track northeast o' Th' Rig for some fun...<end>
+
+=>q19_original
+Now, $(#laddie/lassie), let me tell ye 'tis story 'bout a one-eyed, one-legged, one-armed ferryman called Half-Done Jim...<end>
+
+=>q19
+Now, $(#laddie/lassie), let me tell ye 'tis story 'bout a one-eyed, one-legged, one-armed ferryman called Half-Done Jim...<end>
+
+=>q20_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout how I fought off a dozen pirates o' th' eastern waters, th' scurvy bandits o' South Underrail rivers 'n' lakes. 'N' ponds. "Ahoy," th' passenger next to me had shouted 'n' pointed east: "Thar they be comin' from, yarr!"...<end>
+
+=>q20
+Now, $(#laddie/lassie), let me tell ye a story 'bout how I fought off a dozen pirates o' th' eastern waters, th' scurvy bandits o' South Underrail rivers 'n' lakes. 'N' ponds. "Ahoy," th' passenger next to me had shouted 'n' pointed east: "Thar they be comin' from, yarr!"...<end>
+
+=>q21_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis diver called Blubber Jack who dove too deep, too fast, 'n' with too-little oxygen in 'is tanks. 'E told me to sail to a spot 'e called, "Th' spot for deep divin', yarr," 'n' offered me such coinage I simply couldn't refuse...<end>
+
+=>q21
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis diver called Blubber Jack who dove too deep, too fast, 'n' with too-little oxygen in 'is tanks. 'E told me to sail to a spot 'e called, "Th' spot for deep divin', yarr," 'n' offered me such coinage I simply couldn't refuse...<end>
+
+=>q22_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' seventh son of a seventh son of a seventh son of a lake-dog who had thought 'e couldn't have any kids...<end>
+
+=>q22
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' seventh son of a seventh son of a seventh son of a lake-dog who had thought 'e couldn't have any kids...<end>
+
+=>q23_original
+Now, matey, let me tell ye 'tis story 'bout a throng o' obsidian ants in a ferry carryin' hopper meat from Camp Hathor to Core City. 'Tis ferry, it be mine, yarr. It started while we were passin' Drag 'n' Drop, when th' person next to me felt debilitatin' pain in 'is shin...<end>
+
+=>q23
+Now, matey, let me tell ye 'tis story 'bout a throng o' obsidian ants in a ferry carryin' hopper meat from Camp Hathor to Core City. 'Tis ferry, it be mine, yarr. It started while we were passin' Drag 'n' Drop, when th' person next to me felt debilitatin' pain in 'is shin...<end>
+
+=>q24_original
+Now, matey, let me tell ye 'tis story 'bout a cat, a dog, a handful of lice, a hobo, a dirty spade 'n' a large bag that reeked o' death 'n' mindshrooms. So, 'tis hobo walks onto me ferry, yarr...<end>
+
+=>q24
+Now, matey, let me tell ye 'tis story 'bout a cat, a dog, a handful of lice, a hobo, a dirty spade 'n' a large bag that reeked o' death 'n' mindshrooms. So, 'tis hobo walks onto me ferry, yarr...<end>
+
+=>q25_original
+Now, matey, let me tell ye 'tis story 'bout a lofty man made o' steel who could leap into nothingness, leavin' behind 'im only a bluish trail o' mystery, yarr. It all began when I was ferryin' 'tis pregnant woman to Core City...<end>
+
+=>q25
+Now, matey, let me tell ye 'tis story 'bout a lofty man made o' steel who could leap into nothingness, leavin' behind 'im only a bluish trail o' mystery, yarr. It all began when I was ferryin' 'tis pregnant woman to Core City...<end>
+
+=>q26_original
+Now, matey, let me tell ye a story 'bout 'tis scavenger who went everywhere, picked up everythin' - even if it be nailed to th' ground itself, yarr - 'n' bewailed how merchants would not buy 'is scavenge-booty. It all started when 'e tried to load a mine cart full o' blood-stained clothin' into me ferry...<end>
+
+=>q26
+Now, matey, let me tell ye a story 'bout 'tis scavenger who went everywhere, picked up everythin' - even if it be nailed to th' ground itself, yarr - 'n' bewailed how merchants would not buy 'is scavenge-booty. It all started when 'e tried to load a mine cart full o' blood-stained clothin' into me ferry...<end>
+
+=>q27_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis man who had been to all bars 'n' could drink all th' brews o' th' world, who could pour snake-venom grog into 'is belly 'n' not be battin' an eye. 'N' 'is hangovers were these hallucinations 'e thought to be visions but were really just th' effects of 'is body coping with th' strong booze. It all started many years ago, when I was sittin' in Kareem's Bar in Junkyard, waitin' for a surprise...<end>
+
+=>q27
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis man who had been to all bars 'n' could drink all th' brews o' th' world, who could pour snake-venom grog into 'is belly 'n' not be battin' an eye. 'N' 'is hangovers were these hallucinations 'e thought to be visions but were really just th' effects of 'is body coping with th' strong booze. It all started many years ago, when I was sittin' in Kareem's Bar in Junkyard, waitin' for a surprise...<end>
+
+=>q28_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' horrors of th' ol' world seas. Back in those days, as th' legends go, th' seas were vast and ye could get lost in them 'n' be alone for months. So vast they were, aye. Thar was 'tis cap'n called Blondbeard 'n 'is ship Oligarch Theodore's Death. One day, th' cap'n noticed a swarm of sea crawlers below deck. Yarr...<end>
+
+=>q28
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' horrors of th' ol' world seas. Back in those days, as th' legends go, th' seas were vast and ye could get lost in them 'n' be alone for months. So vast they were, aye. Thar was 'tis cap'n called Blondbeard 'n 'is ship Oligarch Theodore's Death. One day, th' cap'n noticed a swarm of sea crawlers below deck. Yarr...<end>
+
+=>a29_original
+I've changed my mind.<end>
+
+=>a29
+I've changed my mind.<end>
+
+=>q30_original
+Blimey! Ye be pullin' me leg $(#laddie/lassie).<end>
+
+=>q30
+Blimey! Ye be pullin' me leg $(#laddie/lassie).<end>
+
+=>q31_original
+Yarr, that's gunna cost ye twenty coins.<end>
+
+=>q31
+Yarr, that's gunna cost ye twenty coins.<end>
+
+=>a32_original
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>a32
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>a33_original
+I need to get to SGS.<end>
+
+=>a33
+I need to get to SGS.<end>
+
+=>q34_original
+Aye. That gunna be *thirty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q34
+Aye. That gunna be *thirty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>a35_original
+Here. ::Give him 30 stygian coins.::<end>
+
+=>a35
+Here. ::Give him 30 stygian coins.::<end>
+
+=>q36_original
+Aye. That gunna be fifteen coins.<end>
+
+=>q36
+Aye. That gunna be fifteen coins.<end>
+
+=>a37_original
+Here. ::Give him 15 stygian coins.::<end>
+
+=>a37
+Here. ::Give him 15 stygian coins.::<end>
+
+=>a38_original
+I need to get to Core City.<end>
+
+=>a38
+I need to get to Core City.<end>
+
+=>q39_original
+Aye! It'll cost ye *sixty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q39
+Aye! It'll cost ye *sixty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>a40_original
+Here you go. ::Give him 60 stygian coins.::<end>
+
+=>a40
+Here you go. ::Give him 60 stygian coins.::<end>
+
+=>q41_original
+Aye! It'll cost ye thirty coins.<end>
+
+=>q41
+Aye! It'll cost ye thirty coins.<end>
+
+=>a42_original
+Here you go. ::Give him 30 stygian coins.::<end>
+
+=>a42
+Here you go. ::Give him 30 stygian coins.::<end>
+
+=>a43_original
+I need to get to Forsaken Island.<end>
+
+=>a43
+I need to get to Forsaken Island.<end>
+
+=>q44_original
+Nay...<end>
+
+=>q44
+Nay...<end>
+
+=>a45_original
+Nay what?<end>
+
+=>a45
+Nay what?<end>
+
+=>q46_original
+I don't sail thar, $(#laddie/lassie), for it be too risky. Strong currents 'n' island devils make that place... very undesirable.<end>
+
+=>q46
+I don't sail thar, $(#laddie/lassie), for it be too risky. Strong currents 'n' island devils make that place... very undesirable.<end>
+
+=>a47_original
+But I really need to go there.<end>
+
+=>a47
+But I really need to go there.<end>
+
+=>q48_original
+ Ye can try swimmin'. ::He laughs.:: Thar was 'tis lad a few years back...<end>
+
+=>q48
+ Ye can try swimmin'. ::He laughs.:: Thar was 'tis lad a few years back...<end>
+
+=>a49_original
+I am not going to swim there. And I'm not interested in the story about the lad.<end>
+
+=>a49
+I am not going to swim there. And I'm not interested in the story about the lad.<end>
+
+=>q50_original
+Aye, aye... I can see with me sharp eye yer getting mighty upset. Wanna sail somewhere else, though?<end>
+
+=>q50
+Aye, aye... I can see with me sharp eye yer getting mighty upset. Wanna sail somewhere else, though?<end>
+
+=>a51_original
+What about the lad?<end>
+
+=>a51
+What about the lad?<end>
+
+=>q52_original
+'E tried swimin'.<end>
+
+=>q52
+'E tried swimin'.<end>
+
+=>a53_original
+And?<end>
+
+=>a53
+And?<end>
+
+=>q54_original
+'E got eaten by chompers, aye.<end>
+
+=>q54
+'E got eaten by chompers, aye.<end>
+
+=>a55_original
+Comforting.<end>
+
+=>a55
+Comforting.<end>
+
+=>q56_original
+Even if 'e hadn't, 'e'd never have overcome the strong currents surroundin' the island, aye. It'd have thrashed 'im around like a three-sheets-to-the-wind landlubber would thrash a cutlass while fightin' off a colony of sea bats. Aye.<end>
+
+=>q56
+Even if 'e hadn't, 'e'd never have overcome the strong currents surroundin' the island, aye. It'd have thrashed 'im around like a three-sheets-to-the-wind landlubber would thrash a cutlass while fightin' off a colony of sea bats. Aye.<end>
+
+=>a57_original
+Let us change the subject.<end>
+
+=>a57
+Let us change the subject.<end>
+
+=>q58_original
+Aye?<end>
+
+=>q58
+Aye?<end>
+
+=>a59_original
+I have something more important to do right now. See ya.<end>
+
+=>a59
+I have something more important to do right now. See ya.<end>
+
+=>q60_original
+Aye. Farewell, $(#laddie/lassie).<end>
+
+=>q60
+Aye. Farewell, $(#laddie/lassie).<end>
+
+=>a61_original
+I see. I'd like to go somewhere else, please.<end>
+
+=>a61
+I see. I'd like to go somewhere else, please.<end>
+
+=>q62_original
+Aye?<end>
+
+=>q62
+Aye?<end>
+
+=>a63_original
+Whatever. If you won't take me I'll find someone else.<end>
+
+=>a63
+Whatever. If you won't take me I'll find someone else.<end>
+
+=>q64_original
+::He laughs out loud.:: Good luck, matey.<end>
+
+=>q64
+::He laughs out loud.:: Good luck, matey.<end>
+
+=>a65_original
+Do you know anything about the Black Sea?<end>
+
+=>a65
+Do you know anything about the Black Sea?<end>
+
+=>q66_original
+Aye, th' Hell's Gut. It be north of here 'n' east of Dreadpool. It be a place of danger 'n' mystery, aye. Pirates - bloodthirsty, filthy 'n' deadly - be livin' thar. I've never sailed thar, nor have I been near it, for it's not only pirates who should be feared... but other things.<end>
+
+=>q66
+Aye, th' Hell's Gut. It be north of here 'n' east of Dreadpool. It be a place of danger 'n' mystery, aye. Pirates - bloodthirsty, filthy 'n' deadly - be livin' thar. I've never sailed thar, nor have I been near it, for it's not only pirates who should be feared... but other things.<end>
+
+=>a67_original
+What other things?<end>
+
+=>a67
+What other things?<end>
+
+=>q68_original
+Thar be creatures that rarely venture into our waters. Water serpents so large 'n' toxic they could easily capsize yer ferry, or sink it by meltin' 'er with their acid spit. It happened to old salt Cap'n Bebop, the jazz o' th' South Underrail waters, 'cause 'e got too near th' Hell's Gut. Aye. Some say it be pirate chemical weapons, but us ferrymen know better.<end>
+
+=>q68
+Thar be creatures that rarely venture into our waters. Water serpents so large 'n' toxic they could easily capsize yer ferry, or sink it by meltin' 'er with their acid spit. It happened to old salt Cap'n Bebop, the jazz o' th' South Underrail waters, 'cause 'e got too near th' Hell's Gut. Aye. Some say it be pirate chemical weapons, but us ferrymen know better.<end>
+
+=>q69_original
+Thar be other things as well: giant crabs, giant bats that suck yer blood 'n'... bright-blue spirits, like orbs o' light, that sometimes haunt those who be sailin' near th' Black Sea, aye. 'N' those who come *too* near, th' Glowing Canine can make 'em go derailed. 
+
+That's why th' pirates are hidin' thar, for no sane man would be lookin' for 'em in...<end>
+
+=>q69
+Thar be other things as well: giant crabs, giant bats that suck yer blood 'n'... bright-blue spirits, like orbs o' light, that sometimes haunt those who be sailin' near th' Black Sea, aye. 'N' those who come *too* near, th' Glowing Canine can make 'em go derailed. 
+
+That's why th' pirates are hidin' thar, for no sane man would be lookin' for 'em in...<end>
+
+=>q70_original
+The Hell's Gut. Yarr.<end>
+
+=>q70
+The Hell's Gut. Yarr.<end>
+
+=>a71_original
+How do I sail to...<end>
+
+=>a71
+How do I sail to...<end>
+
+=>q72_original
+Aye?<end>
+
+=>q72
+Aye?<end>
+
+=>q73_original
+<end>
+
+=>q73
+<end>
+
+=>a74_original
+Core City?<end>
+
+=>a74
+Core City?<end>
+
+=>q75_original
+Th' speediest way to reach it would be to sail north thru th' Dreadpool, aye, then west till th' Rig, then north from thar.<end>
+
+=>q75
+Th' speediest way to reach it would be to sail north thru th' Dreadpool, aye, then west till th' Rig, then north from thar.<end>
+
+=>q76_original
+But th' pirates be infestin' th' Dreadpool, so I'd instead suggest ye head south then west thru th' Meatway, then head north till ye smell th' nauseatin' reek of Core City's port.<end>
+
+=>q76
+But th' pirates be infestin' th' Dreadpool, so I'd instead suggest ye head south then west thru th' Meatway, then head north till ye smell th' nauseatin' reek of Core City's port.<end>
+
+=>q77_original
+south then west thru th' Meatway, then head north past SGS 'n' Junkyard until ye can smell th' nauseatin' reek of Core City's port.<end>
+
+=>q77
+south then west thru th' Meatway, then head north past SGS 'n' Junkyard until ye can smell th' nauseatin' reek of Core City's port.<end>
+
+=>q78_original
+Alternatively, ye could go <end>
+
+=>q78
+Alternatively, ye could go <end>
+
+=>a79_original
+South Gate Station?<end>
+
+=>a79
+South Gate Station?<end>
+
+=>q80_original
+Head south till ye can turn west thru th' Meatway. Follow it 'n' ye'll find yerself in th' Chancer's Bay, 'n' from there just head north.<end>
+
+=>q80
+Head south till ye can turn west thru th' Meatway. Follow it 'n' ye'll find yerself in th' Chancer's Bay, 'n' from there just head north.<end>
+
+=>q81_original
+SGS is on th' eastern side o' th' bay.<end>
+
+=>q81
+SGS is on th' eastern side o' th' bay.<end>
+
+=>q82_original
+Junkyard's on th' western side o' th' bay.<end>
+
+=>q82
+Junkyard's on th' western side o' th' bay.<end>
+
+=>a83_original
+Junkyard?<end>
+
+=>a83
+Junkyard?<end>
+
+=>a84_original
+Never mind.<end>
+
+=>a84
+Never mind.<end>
+
+=>q85_original
+I won't, yarr!<end>
+
+=>q85
+I won't, yarr!<end>
+
+=>a86_original
+I'd like to ask you something else.<end>
+
+=>a86
+I'd like to ask you something else.<end>
+
+=>q87_original
+Aye.<end>
+
+=>q87
+Aye.<end>
+
+=>a88_original
+You talk... differently.<end>
+
+=>a88
+You talk... differently.<end>
+
+=>q89_original
+Yarr, I don't dig what ye be meanin', $(#laddie/lassie)?<end>
+
+=>q89
+Yarr, I don't dig what ye be meanin', $(#laddie/lassie)?<end>
+
+=>a90_original
+That. "Yarr", "ye be" and all that. Where are you from?<end>
+
+=>a90
+That. "Yarr", "ye be" and all that. Where are you from?<end>
+
+=>q91_original
+Oh, 'tis just th' way I talk. Aye. ::He laughs.:: I be from afar, sailed 'ere from the shiverin', salty southern waters where slick iridescent eels 'n' giant black urchins be livin'. Thar, all th' folks be talkin' like 'tis. Me lake-dog of a father, rest 'is salty soul, 'e be speakin' in such thick accent not even mother or us, 'is sons, could understand a word o' what 'e was utterin'.<end>
+
+=>q91
+Oh, 'tis just th' way I talk. Aye. ::He laughs.:: I be from afar, sailed 'ere from the shiverin', salty southern waters where slick iridescent eels 'n' giant black urchins be livin'. Thar, all th' folks be talkin' like 'tis. Me lake-dog of a father, rest 'is salty soul, 'e be speakin' in such thick accent not even mother or us, 'is sons, could understand a word o' what 'e was utterin'.<end>
+
+=>a92_original
+And what is this place called?<end>
+
+=>a92
+And what is this place called?<end>
+
+=>q93_original
+Jade Harbor. It be way down south, far away from where ye 'n' I be right now. It be a place o' joy, mystery, adventure, 'n' spooky things. I could tell ye stories that'll shiver yer timbers right outta yer trousers. I could tell ye one or two - or three if th' right opportunity be, th' next time ye happen to hop into me ferry, aye.<end>
+
+=>q93
+Jade Harbor. It be way down south, far away from where ye 'n' I be right now. It be a place o' joy, mystery, adventure, 'n' spooky things. I could tell ye stories that'll shiver yer timbers right outta yer trousers. I could tell ye one or two - or three if th' right opportunity be, th' next time ye happen to hop into me ferry, aye.<end>
+
+=>a94_original
+Can you tell me one now?<end>
+
+=>a94
+Can you tell me one now?<end>
+
+=>q95_original
+No. I got things to do. Got boxes to load in. Engine to check, aye. But if ye will hop into me ferry, then that be a different story. ::He laughs.:: Then we'll have th' time.<end>
+
+=>q95
+No. I got things to do. Got boxes to load in. Engine to check, aye. But if ye will hop into me ferry, then that be a different story. ::He laughs.:: Then we'll have th' time.<end>
+
+=>a96_original
+::[Intelligence][Persuade]:: I don't think that's how you naturally speak at all. I think it's all some kind of an act to draw customers in. Am I right?<end>
+
+=>a96
+::[Intelligence][Persuade]:: I don't think that's how you naturally speak at all. I think it's all some kind of an act to draw customers in. Am I right?<end>
+
+=>q97_original
+Blimey! I already explained it to ye: I shout like 'tis 'cause that's th' way folks be talkin' in Jade Harbor. Now, if ye don't believe th' words from me mouth, well, thar's nothin' else I can do to sink yer opinion, matey. I be tellin' ye th' truth. <end>
+
+=>q97
+Blimey! I already explained it to ye: I shout like 'tis 'cause that's th' way folks be talkin' in Jade Harbor. Now, if ye don't believe th' words from me mouth, well, thar's nothin' else I can do to sink yer opinion, matey. I be tellin' ye th' truth. <end>
+
+=>q98_original
+Th' truth 'n'... 'n' nothin' but th' truth. Aye.<end>
+
+=>q98
+Th' truth 'n'... 'n' nothin' but th' truth. Aye.<end>
+
+=>a99_original
+Come on, I won't tell anyone. Besides, I could... send some people your way. Recommend you.<end>
+
+=>a99
+Come on, I won't tell anyone. Besides, I could... send some people your way. Recommend you.<end>
+
+=>q100_original
+::He remains silent.::<end>
+
+=>q100
+::He remains silent.::<end>
+
+=>a101_original
+Come on now.<end>
+
+=>a101
+Come on now.<end>
+
+=>q102_original
+::The man furtively checks whether anybody else is too close to the two of you. He leans closer and whispers in a voice that has now sunk a few semitones lower, that no longer rasps the ear or bears the weight of theatrics.::
+
+Look, $(#man/sister), you're crampin' my style. Yes, you got it, I get more customers if I do the act and tell them all the funny stories, okay? People like that kind of stuff. Do you know how hard it is to compete with the big fish like Cap'n Svana or Rastko, hmm? A man's gotta stand out somehow, especially if my ferry ain't as fast or spacious as theirs.<end>
+
+=>q102
+::The man furtively checks whether anybody else is too close to the two of you. He leans closer and whispers in a voice that has now sunk a few semitones lower, that no longer rasps the ear or bears the weight of theatrics.::
+
+Look, $(#man/sister), you're crampin' my style. Yes, you got it, I get more customers if I do the act and tell them all the funny stories, okay? People like that kind of stuff. Do you know how hard it is to compete with the big fish like Cap'n Svana or Rastko, hmm? A man's gotta stand out somehow, especially if my ferry ain't as fast or spacious as theirs.<end>
+
+=>q103_original
+I ain't doin' anything bad, okay. There's nothin' wrong with it if the people enjoy it.<end>
+
+=>q103
+I ain't doin' anything bad, okay. There's nothin' wrong with it if the people enjoy it.<end>
+
+=>a104_original
+But where did you learn to talk like that?<end>
+
+=>a104
+But where did you learn to talk like that?<end>
+
+=>q105_original
+My granddad used to tell me these old world stories about pirates. ::He nods.:: Back then, you see, the word pirate used to mean "sea merchant." Yeah. And, well, these wealthy and noble pirates would trade with various ships, or other pirates, right there on the sea, and their lives were full of adventure and drama and fightin' with sea beasts and giant pentapuses with eight tentacles. The word pirate nowadays means something completely different - ain't got a clue how that came to be - but I liked those stories. So after startin' my business and havin' people avoid me like the plague... I started doin' this thing.<end>
+
+=>q105
+My granddad used to tell me these old world stories about pirates. ::He nods.:: Back then, you see, the word pirate used to mean "sea merchant." Yeah. And, well, these wealthy and noble pirates would trade with various ships, or other pirates, right there on the sea, and their lives were full of adventure and drama and fightin' with sea beasts and giant pentapuses with eight tentacles. The word pirate nowadays means something completely different - ain't got a clue how that came to be - but I liked those stories. So after startin' my business and havin' people avoid me like the plague... I started doin' this thing.<end>
+
+=>q106_original
+The Core City tourists loved it, I remember - loved it. Then other folks started diggin' it, and yeah, I've been doin' it ever since. It secured me my fair share of customers. I make up most of the stories now, but I still use the ones I remembered. The way I speak, that's pretty much how granddad delivered it, how he impersonated those old world pirates. Hell, I don't even know what words like "timber" mean, but I suppose I don't even need to. No one asked me what it meant. Ever.<end>
+
+=>q106
+The Core City tourists loved it, I remember - loved it. Then other folks started diggin' it, and yeah, I've been doin' it ever since. It secured me my fair share of customers. I make up most of the stories now, but I still use the ones I remembered. The way I speak, that's pretty much how granddad delivered it, how he impersonated those old world pirates. Hell, I don't even know what words like "timber" mean, but I suppose I don't even need to. No one asked me what it meant. Ever.<end>
+
+=>q107_original
+Now please, I got kids to feed, so... ::He clears his throat.:: ...don't ye be crampin' me privateerin', $(#laddie/lassie), as they used to shout. Yarr, scurvy dogs o' th' sea.<end>
+
+=>q107
+Now please, I got kids to feed, so... ::He clears his throat.:: ...don't ye be crampin' me privateerin', $(#laddie/lassie), as they used to shout. Yarr, scurvy dogs o' th' sea.<end>
+
+=>a108_original
+I'm waiting.<end>
+
+=>a108
+I'm waiting.<end>
+
+=>a109_original
+So?<end>
+
+=>a109
+So?<end>
+
+=>a110_original
+::Wait.::<end>
+
+=>a110
+::Wait.::<end>
+
+=>q111_original
+<end>
+
+=>q111
+<end>
+
+=>q112_original
+So, are ye sailin' somewhere or not?<end>
+
+=>q112
+So, are ye sailin' somewhere or not?<end>
+
+=>a113_original
+Speaking of boat rides...<end>
+
+=>a113
+Speaking of boat rides...<end>
+
+=>a114_original
+I have to go. Godspeed, matey!<end>
+
+=>a114
+I have to go. Godspeed, matey!<end>
+
+=>a115_original
+Bye.<end>
+
+=>a115
+Bye.<end>
+
+=>q116_original
+Ahoy, matey!<end>
+
+=>q116
+Ahoy, matey!<end>
+

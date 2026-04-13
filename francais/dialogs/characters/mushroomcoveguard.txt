@@ -1,0 +1,334 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Huh--! ::He aims his rifle at you.::
+
+Dammit! Don't sneak up on me like that! Are you derailed?<end>
+
+=>q2
+Huh--! ::He aims his rifle at you.::
+
+Dammit! Don't sneak up on me like that! Are you derailed?<end>
+
+=>q3_original
+You're the... the new $(#guy/girl), right? Yeah... ::He lowers his rifle.::
+
+<end>
+
+=>q3
+You're the... the new $(#guy/girl), right? Yeah... ::He lowers his rifle.::
+
+<end>
+
+=>q4_original
+What are you doing out here?<end>
+
+=>q4
+What are you doing out here?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I've been instructed to round up some hoppers from the Mushroom Cove. Am I heading the right way?<end>
+
+=>a6
+I've been instructed to round up some hoppers from the Mushroom Cove. Am I heading the right way?<end>
+
+=>q7_original
+Yes, yes, you are. It's just beyond this passage. Be careful, though, as there are psi beetles in the Cove area.<end>
+
+=>q7
+Yes, yes, you are. It's just beyond this passage. Be careful, though, as there are psi beetles in the Cove area.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Did you happen to see a young man go into the Mushroom Cove? Newton's the name.<end>
+
+=>a9
+Did you happen to see a young man go into the Mushroom Cove? Newton's the name.<end>
+
+=>q10_original
+Yes, he went through here recently. I'd say... about two hours ago or so. He said he was going to catch some cave hoppers. He hasn't returned yet, though.<end>
+
+=>q10
+Yes, he went through here recently. I'd say... about two hours ago or so. He said he was going to catch some cave hoppers. He hasn't returned yet, though.<end>
+
+=>a11_original
+By the way, I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
+
+=>a11
+By the way, I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
+
+=>q12_original
+You know, lots of people have been telling me that recently. Newcomers like you. No idea why, though. It's not like the Cove has moved or anything like that. ::He shrugs his shoulders.:: Strange.<end>
+
+=>q12
+You know, lots of people have been telling me that recently. Newcomers like you. No idea why, though. It's not like the Cove has moved or anything like that. ::He shrugs his shoulders.:: Strange.<end>
+
+=>a13_original
+You mentioned psi beetles...<end>
+
+=>a13
+You mentioned psi beetles...<end>
+
+=>q14_original
+Yes, psi beetles. Nasty buggers. Especially if they are in a group, because that's when they start slinging powerful psionics at you.<end>
+
+=>q14
+Yes, psi beetles. Nasty buggers. Especially if they are in a group, because that's when they start slinging powerful psionics at you.<end>
+
+=>q15_original
+You know, if you haven't already, talk to Old Jonas at the Crossroads. He knows a lot about the creatures lurking in these caves and could give you some important tips. Who knows, it might save your life.<end>
+
+=>q15
+You know, if you haven't already, talk to Old Jonas at the Crossroads. He knows a lot about the creatures lurking in these caves and could give you some important tips. Who knows, it might save your life.<end>
+
+=>q16_original
+In any case, stick to the eastern bank and you should be safe. Nasty buggers...<end>
+
+=>q16
+In any case, stick to the eastern bank and you should be safe. Nasty buggers...<end>
+
+=>a17_original
+What do you know about that scavenger from Mushroom Cove?<end>
+
+=>a17
+What do you know about that scavenger from Mushroom Cove?<end>
+
+=>q18_original
+Not much, to tell you the truth. Gerald, guard, found <end>
+
+=>q18
+Not much, to tell you the truth. Gerald, guard, found <end>
+
+=>q19_original
+him <end>
+
+=>q19
+him <end>
+
+=>q20_original
+dying in the Cove. It all happened before my shift.<end>
+
+=>q20
+dying in the Cove. It all happened before my shift.<end>
+
+=>a21_original
+And where can I find this Gerald?<end>
+
+=>a21
+And where can I find this Gerald?<end>
+
+=>q22_original
+He's probably sleeping. Yeah, long shift. But I think Malcom was on duty at the time. ::He nods.:: Better ask him for more info on your way back.<end>
+
+=>q22
+He's probably sleeping. Yeah, long shift. But I think Malcom was on duty at the time. ::He nods.:: Better ask him for more info on your way back.<end>
+
+=>q23_original
+her <end>
+
+=>q23
+her <end>
+
+=>a24_original
+Alright. Thank you. I'm off now.<end>
+
+=>a24
+Alright. Thank you. I'm off now.<end>
+
+=>q25_original
+Take care.<end>
+
+=>q25
+Take care.<end>
+
+=>a26_original
+Psi beetles?<end>
+
+=>a26
+Psi beetles?<end>
+
+=>a27_original
+I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
+
+=>a27
+I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
+
+=>a28_original
+I will. Thanks for the warning.<end>
+
+=>a28
+I will. Thanks for the warning.<end>
+
+=>q29_original
+::He nods.:: Good hunting.<end>
+
+=>q29
+::He nods.:: Good hunting.<end>
+
+=>a30_original
+Don't worry. I can take care of myself.<end>
+
+=>a30
+Don't worry. I can take care of myself.<end>
+
+=>q31_original
+I hope so.<end>
+
+=>q31
+I hope so.<end>
+
+=>a32_original
+I've been instructed to round up some hoppers from the Mushroom Cove.<end>
+
+=>a32
+I've been instructed to round up some hoppers from the Mushroom Cove.<end>
+
+=>q33_original
+Alright. Just take care: Don't know if you've run into them yet, but there are psi beetles in the Cove area.<end>
+
+=>q33
+Alright. Just take care: Don't know if you've run into them yet, but there are psi beetles in the Cove area.<end>
+
+=>a34_original
+Just exploring a bit.<end>
+
+=>a34
+Just exploring a bit.<end>
+
+=>q35_original
+If you are headed to Mushroom Cove, be careful, as there are psi beetles in the Cove area.<end>
+
+=>q35
+If you are headed to Mushroom Cove, be careful, as there are psi beetles in the Cove area.<end>
+
+=>a36_original
+My business is my own.<end>
+
+=>a36
+My business is my own.<end>
+
+=>q37_original
+Drop the attitude. I'm here to protect nosy $(#guys/girls) like you. There are psi beetles in the Cove area.<end>
+
+=>q37
+Drop the attitude. I'm here to protect nosy $(#guys/girls) like you. There are psi beetles in the Cove area.<end>
+
+=>q38_original
+Halt! Who goes there?<end>
+
+=>q38
+Halt! Who goes there?<end>
+
+=>a39_original
+$(context.player.Name), the new $(#guy/girl).<end>
+
+=>a39
+$(context.player.Name), the new $(#guy/girl).<end>
+
+=>q40_original
+::He nods and takes his finger off the trigger.:: 
+
+Yeah, I recognize you now. <end>
+
+=>q40
+::He nods and takes his finger off the trigger.:: 
+
+Yeah, I recognize you now. <end>
+
+=>a41_original
+None of your business.<end>
+
+=>a41
+None of your business.<end>
+
+=>q42_original
+::He raises his rifle but fortunately hesitates long enough...::
+
+Wait a minute - it's you! The... the new $(#guy/girl). ::He lowers the rifle.::<end>
+
+=>q42
+::He raises his rifle but fortunately hesitates long enough...::
+
+Wait a minute - it's you! The... the new $(#guy/girl). ::He lowers the rifle.::<end>
+
+=>q43_original
+Are you derailed? I could've shot you dead right on the spot. When an SGS guard asks you to identify, you better do it. There are all kinds of people roaming these caves and a lot of them deserve a bullet between their eyes.<end>
+
+=>q43
+Are you derailed? I could've shot you dead right on the spot. When an SGS guard asks you to identify, you better do it. There are all kinds of people roaming these caves and a lot of them deserve a bullet between their eyes.<end>
+
+=>a44_original
+But I'm an SGS citizen!<end>
+
+=>a44
+But I'm an SGS citizen!<end>
+
+=>q45_original
+Well, in the dark you might not look all too different from a Lurker. Dig?<end>
+
+=>q45
+Well, in the dark you might not look all too different from a Lurker. Dig?<end>
+
+=>a46_original
+Sorry. I didn't know who you were either.<end>
+
+=>a46
+Sorry. I didn't know who you were either.<end>
+
+=>q47_original
+I'm a man with a gun, and luckily for you not the kind of person I almost mistook you for.<end>
+
+=>q47
+I'm a man with a gun, and luckily for you not the kind of person I almost mistook you for.<end>
+
+=>a48_original
+I panicked.<end>
+
+=>a48
+I panicked.<end>
+
+=>q49_original
+Oh, man. Gorsky's right: They'll accept anybody these days...<end>
+
+=>q49
+Oh, man. Gorsky's right: They'll accept anybody these days...<end>
+
+=>a50_original
+Yeah, yeah.<end>
+
+=>a50
+Yeah, yeah.<end>
+
+=>q51_original
+Don't you "yeah, yeah" me, you idiot. <end>
+
+=>q51
+Don't you "yeah, yeah" me, you idiot. <end>
+
+=>a52_original
+::Remain silent.::<end>
+
+=>a52
+::Remain silent.::<end>
+
+=>q53_original
+::He greets you with a nod.:: $(context.player.Name).<end>
+
+=>q53
+::He greets you with a nod.:: $(context.player.Name).<end>
+

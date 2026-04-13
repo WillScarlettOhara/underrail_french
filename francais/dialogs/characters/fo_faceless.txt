@@ -1,0 +1,418 @@
+=>q1_original
+::The quadrupedal Faceless steps forward. His weapon is aimed at you, yet he seems reluctant to immediately open fire, instead opting for an emotionless stare.::<end>
+
+=>q1
+::The quadrupedal Faceless steps forward. His weapon is aimed at you, yet he seems reluctant to immediately open fire, instead opting for an emotionless stare.::<end>
+
+=>a2_original
+::Give him time to see what his intentions are.::<end>
+
+=>a2
+::Give him time to see what his intentions are.::<end>
+
+=>q3_original
+::He silently holds you at gun point, and for a while nothing happens; nothing but the subtle exchange of glances between his weapons-at-the-ready companions, done in such a curiously responsive manner as if an aspect of some kind of unspoken conversation.::<end>
+
+=>q3
+::He silently holds you at gun point, and for a while nothing happens; nothing but the subtle exchange of glances between his weapons-at-the-ready companions, done in such a curiously responsive manner as if an aspect of some kind of unspoken conversation.::<end>
+
+=>q4_original
+::He then reaches for something on the inside of the chin of his mask, and soon after that you can hear a crude synthesized voice.:: 
+
+Identify yourself.<end>
+
+=>q4
+::He then reaches for something on the inside of the chin of his mask, and soon after that you can hear a crude synthesized voice.:: 
+
+Identify yourself.<end>
+
+=>a5_original
+I am $(context.player.Name) from South Gate Station.<end>
+
+=>a5
+I am $(context.player.Name) from South Gate Station.<end>
+
+=>q6_original
+What is your business here?<end>
+
+=>q6
+What is your business here?<end>
+
+=>a7_original
+The leaders of Foundry want to know why you are here.<end>
+
+=>a7
+The leaders of Foundry want to know why you are here.<end>
+
+=>q8_original
+::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to their community.<end>
+
+=>q8
+::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to their community.<end>
+
+=>q9_original
+If you can help us locate the missing item, we will be on our way.<end>
+
+=>q9
+If you can help us locate the missing item, we will be on our way.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Is this what you're after? ::Show him the Acorn.::<end>
+
+=>a11
+Is this what you're after? ::Show him the Acorn.::<end>
+
+=>q12_original
+::He looks at the sealed container.:: Open it.<end>
+
+=>q12
+::He looks at the sealed container.:: Open it.<end>
+
+=>a13_original
+Um, I still haven't found the way to do so.<end>
+
+=>a13
+Um, I still haven't found the way to do so.<end>
+
+=>q14_original
+::His raspy response comes after a tense delay.:: 
+
+This is not what we're after.<end>
+
+=>q14
+::His raspy response comes after a tense delay.:: 
+
+This is not what we're after.<end>
+
+=>a15_original
+Can you describe what was stolen, then?<end>
+
+=>a15
+Can you describe what was stolen, then?<end>
+
+=>q16_original
+We may not tell you this, but the item is very distinct. People who came in contact with it will certainly remember it.<end>
+
+=>q16
+We may not tell you this, but the item is very distinct. People who came in contact with it will certainly remember it.<end>
+
+=>q17_original
+Inquire with the local merchants; the thief who stole it might have attempted to sell it to them.<end>
+
+=>q17
+Inquire with the local merchants; the thief who stole it might have attempted to sell it to them.<end>
+
+=>a18_original
+The Tchortists recently stole a peculiar item from one of Coretech's research facilities. It looked like a bluish-gray polyhedron with unusual symbols on its faces. Is that the thing you're looking for?<end>
+
+=>a18
+The Tchortists recently stole a peculiar item from one of Coretech's research facilities. It looked like a bluish-gray polyhedron with unusual symbols on its faces. Is that the thing you're looking for?<end>
+
+=>q19_original
+::He answers after an uncomfortably long pause.:: 
+
+Providing you're telling the truth, we have no reason to remain here.<end>
+
+=>q19
+::He answers after an uncomfortably long pause.:: 
+
+Providing you're telling the truth, we have no reason to remain here.<end>
+
+=>q20_original
+Take this as a sign of our appreciation for your assistance in this matter. ::He hands you what looks to be a high quality power core.::<end>
+
+=>q20
+Take this as a sign of our appreciation for your assistance in this matter. ::He hands you what looks to be a high quality power core.::<end>
+
+=>a21_original
+What will you do now?<end>
+
+=>a21
+What will you do now?<end>
+
+=>q22_original
+The matter is very simple: We will retrieve this item. Those who would stop us from doing so will be dealt with.<end>
+
+=>q22
+The matter is very simple: We will retrieve this item. Those who would stop us from doing so will be dealt with.<end>
+
+=>q23_original
+Our business here is done.<end>
+
+=>q23
+Our business here is done.<end>
+
+=>a24_original
+Is this item the reason your people have blockaded the Core City?<end>
+
+=>a24
+Is this item the reason your people have blockaded the Core City?<end>
+
+=>q25_original
+While we appreciate your assistance, we must advise you not to investigate this matter further or interfere with our operations near Core City or elsewhere.<end>
+
+=>q25
+While we appreciate your assistance, we must advise you not to investigate this matter further or interfere with our operations near Core City or elsewhere.<end>
+
+=>a26_original
+Thanks and good luck.<end>
+
+=>a26
+Thanks and good luck.<end>
+
+=>q27_original
+Good luck to you.<end>
+
+=>q27
+Good luck to you.<end>
+
+=>a28_original
+In that case, I've learned that something rather unusual used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a28
+In that case, I've learned that something rather unusual used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a29_original
+In that case, the item you seek has to be in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a29
+In that case, the item you seek has to be in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a30_original
+I'll get back to looking, then.<end>
+
+=>a30
+I'll get back to looking, then.<end>
+
+=>a31_original
+Sorry, I cannot do this.<end>
+
+=>a31
+Sorry, I cannot do this.<end>
+
+=>q32_original
+Very well. Leave us then.<end>
+
+=>q32
+Very well. Leave us then.<end>
+
+=>a33_original
+It can't be opened.<end>
+
+=>a33
+It can't be opened.<end>
+
+=>a34_original
+Is it the thing you're after or not?<end>
+
+=>a34
+Is it the thing you're after or not?<end>
+
+=>a35_original
+If it's that Cube you're looking for, it used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a35
+If it's that Cube you're looking for, it used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a36_original
+If it's that Cube you're looking for, I can tell you now that this item is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a36
+If it's that Cube you're looking for, I can tell you now that this item is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a37_original
+Alright, I'll see what I can do. What was stolen exactly?<end>
+
+=>a37
+Alright, I'll see what I can do. What was stolen exactly?<end>
+
+=>a38_original
+Sorry, I cannot do this.<end>
+
+=>a38
+Sorry, I cannot do this.<end>
+
+=>a39_original
+I wanted to talk to you about the item you're looking for.<end>
+
+=>a39
+I wanted to talk to you about the item you're looking for.<end>
+
+=>q40_original
+::After a short pause, he responds.:: 
+
+How do you know about this?<end>
+
+=>q40
+::After a short pause, he responds.:: 
+
+How do you know about this?<end>
+
+=>a41_original
+A traveling merchant you recently interrogated - the one with the two bodyguards you killed - he wrote about what happened on his mobile computer. He too is not among the living anymore, but his logs offered enough information for me to seek you out.<end>
+
+=>a41
+A traveling merchant you recently interrogated - the one with the two bodyguards you killed - he wrote about what happened on his mobile computer. He too is not among the living anymore, but his logs offered enough information for me to seek you out.<end>
+
+=>q42_original
+What you say did occur. ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to the community nearby.<end>
+
+=>q42
+What you say did occur. ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to the community nearby.<end>
+
+=>q43_original
+If you can help us locate the missing item, we will be on our way.<end>
+
+=>q43
+If you can help us locate the missing item, we will be on our way.<end>
+
+=>a44_original
+The item you seek used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a44
+The item you seek used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
+
+=>a45_original
+The item you seek is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a45
+The item you seek is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
+
+=>a46_original
+I'll see what I can do. Can you describe the thing that was stolen from you exactly?<end>
+
+=>a46
+I'll see what I can do. Can you describe the thing that was stolen from you exactly?<end>
+
+=>a47_original
+I was merely exploring.<end>
+
+=>a47
+I was merely exploring.<end>
+
+=>q48_original
+There's nothing for you to take here. Be on your way.<end>
+
+=>q48
+There's nothing for you to take here. Be on your way.<end>
+
+=>a49_original
+My business is my own.<end>
+
+=>a49
+My business is my own.<end>
+
+=>q50_original
+Your answer is not acceptable. We will give you one more chance.<end>
+
+=>q50
+Your answer is not acceptable. We will give you one more chance.<end>
+
+=>a51_original
+And I will tell you again this is no business of yours.<end>
+
+=>a51
+And I will tell you again this is no business of yours.<end>
+
+=>a52_original
+::Attack!::<end>
+
+=>a52
+::Attack!::<end>
+
+=>a53_original
+My name is $(context.player.Name) and I'm a vagrant scavenger.<end>
+
+=>a53
+My name is $(context.player.Name) and I'm a vagrant scavenger.<end>
+
+=>a54_original
+This is no concern of yours.<end>
+
+=>a54
+This is no concern of yours.<end>
+
+=>a55_original
+::Attack!::<end>
+
+=>a55
+::Attack!::<end>
+
+=>q56_original
+::The synthesized voice greets you.:: Did you locate the item?<end>
+
+=>q56
+::The synthesized voice greets you.:: Did you locate the item?<end>
+
+=>a57_original
+Is this what you're after? ::Show him the Acorn.::<end>
+
+=>a57
+Is this what you're after? ::Show him the Acorn.::<end>
+
+=>a58_original
+Not yet, but I have a couple of questions.<end>
+
+=>a58
+Not yet, but I have a couple of questions.<end>
+
+=>q59_original
+No, we will answer no more questions.<end>
+
+=>q59
+No, we will answer no more questions.<end>
+
+=>a60_original
+I'm still looking.<end>
+
+=>a60
+I'm still looking.<end>
+
+=>q61_original
+Then we have nothing to say to you.<end>
+
+=>q61
+Then we have nothing to say to you.<end>
+
+=>q62_original
+Our business here is done.<end>
+
+=>q62
+Our business here is done.<end>
+
+=>q63_original
+We have told you already - there is nothing to be found here. Begone.<end>
+
+=>q63
+We have told you already - there is nothing to be found here. Begone.<end>
+
+=>a64_original
+I've decided to help with locating your stolen property. What was it exactly?<end>
+
+=>a64
+I've decided to help with locating your stolen property. What was it exactly?<end>
+
+=>a65_original
+Can I ask you a question?<end>
+
+=>a65
+Can I ask you a question?<end>
+
+=>q66_original
+No.<end>
+
+=>q66
+No.<end>
+
+=>a67_original
+Sorry for bothering you. I'll be on my way.<end>
+
+=>a67
+Sorry for bothering you. I'll be on my way.<end>
+

@@ -1,0 +1,330 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q2
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q3_original
+I vote for staying out of this whole situation. First of all, we don't know the Protectorate's position on all of this, and running the risk of provoking them for some... gangsters seems irresponsible to me, and will do this station no good. This way, if we do nothing, we can continue our trade and integration in the United Stations, which I believe is the more desirable option.<end>
+
+=>q3
+I vote for staying out of this whole situation. First of all, we don't know the Protectorate's position on all of this, and running the risk of provoking them for some... gangsters seems irresponsible to me, and will do this station no good. This way, if we do nothing, we can continue our trade and integration in the United Stations, which I believe is the more desirable option.<end>
+
+=>q4_original
+Vera, I understand you perfectly, but I must disagree with putting the United Stations on such a high pedestal. No matter what we do, we have no guarantee that the Protectorate won't eventually take over whole of Junkyard.<end>
+
+=>q4
+Vera, I understand you perfectly, but I must disagree with putting the United Stations on such a high pedestal. No matter what we do, we have no guarantee that the Protectorate won't eventually take over whole of Junkyard.<end>
+
+=>q5_original
+At least most of the folks there would celebrate bein' free of brutal gangs, so there's that.<end>
+
+=>q5
+At least most of the folks there would celebrate bein' free of brutal gangs, so there's that.<end>
+
+=>q6_original
+That may be true, but that still doesn't change the fact that Protectorate's ultimate intentions are unknown to us. We're dealing with speculations here, and basing important decisions on speculations is unwise.<end>
+
+=>q6
+That may be true, but that still doesn't change the fact that Protectorate's ultimate intentions are unknown to us. We're dealing with speculations here, and basing important decisions on speculations is unwise.<end>
+
+=>q7_original
+Hear me out, please: If we intervene and help some lowlifes kill each other, think of the message we could be sending to the United Stations. Just as you said right now about them conquering their way toward us, they might too feel threatened by our movements; they could see us as being conquerors. And then what?<end>
+
+=>q7
+Hear me out, please: If we intervene and help some lowlifes kill each other, think of the message we could be sending to the United Stations. Just as you said right now about them conquering their way toward us, they might too feel threatened by our movements; they could see us as being conquerors. And then what?<end>
+
+=>q8_original
+Excuse me, Vera, but I never uttered the word "conquering." I am merely expressing my concerns. You know I care only for what is best for this station and its residents. Underrail Protectorate is a powerful force and shouldn't be taken lightly.<end>
+
+=>q8
+Excuse me, Vera, but I never uttered the word "conquering." I am merely expressing my concerns. You know I care only for what is best for this station and its residents. Underrail Protectorate is a powerful force and shouldn't be taken lightly.<end>
+
+=>q9_original
+It's such a darn pity Gorsky ain't here. I'm sure the conversation would've went a whole lot different. ::He laughs.::<end>
+
+=>q9
+It's such a darn pity Gorsky ain't here. I'm sure the conversation would've went a whole lot different. ::He laughs.::<end>
+
+=>q10_original
+Gorsky's opinion would surely be valued here. What about you Ezra, what is on your mind?<end>
+
+=>q10
+Gorsky's opinion would surely be valued here. What about you Ezra, what is on your mind?<end>
+
+=>q11_original
+::Ezra calmly answers the question.:: I have nothing of significance to add to this discussion.<end>
+
+=>q11
+::Ezra calmly answers the question.:: I have nothing of significance to add to this discussion.<end>
+
+=>q12_original
+And how about you, $(context.player.Name)? What do you think?<end>
+
+=>q12
+And how about you, $(context.player.Name)? What do you think?<end>
+
+=>a13_original
+I think I'll leave the politics to you guys.<end>
+
+=>a13
+I think I'll leave the politics to you guys.<end>
+
+=>q14_original
+Very well. <end>
+
+=>q14
+Very well. <end>
+
+=>q15_original
+Go get some rest, $(context.player.Name). Come and see me later and I'll let you know what we decided.<end>
+
+=>q15
+Go get some rest, $(context.player.Name). Come and see me later and I'll let you know what we decided.<end>
+
+=>a16_original
+::Leave.::<end>
+
+=>a16
+::Leave.::<end>
+
+=>a17_original
+::[Persuade]:: I think we should help the Black Eels. I don't trust the Protectorate.<end>
+
+=>a17
+::[Persuade]:: I think we should help the Black Eels. I don't trust the Protectorate.<end>
+
+=>q18_original
+And you trust Black Eels?<end>
+
+=>q18
+And you trust Black Eels?<end>
+
+=>a19_original
+I trust them more.<end>
+
+=>a19
+I trust them more.<end>
+
+=>q20_original
+Your opinion has been noted.<end>
+
+=>q20
+Your opinion has been noted.<end>
+
+=>a21_original
+No. But them I don't fear.<end>
+
+=>a21
+No. But them I don't fear.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+::[Persuade]:: I say we side with the Black Eels... for now. If we decide to join the United Stations later, we'll do that from a more advantageous position.<end>
+
+=>a25
+::[Persuade]:: I say we side with the Black Eels... for now. If we decide to join the United Stations later, we'll do that from a more advantageous position.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+That might be the wisest course of action.<end>
+
+=>q27
+That might be the wisest course of action.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>a30
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>q31_original
+I agree with this statement. Our interference would be nothing other than detrimental for us.<end>
+
+=>q31
+I agree with this statement. Our interference would be nothing other than detrimental for us.<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+I don't know. I don't think I have enough information to make up my mind.<end>
+
+=>a35
+I don't know. I don't think I have enough information to make up my mind.<end>
+
+=>q36_original
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q36
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q37_original
+I know for one you'll be more than glad to jump at this opportunity, Gorsky.<end>
+
+=>q37
+I know for one you'll be more than glad to jump at this opportunity, Gorsky.<end>
+
+=>q38_original
+Damn straight! I've been telling you people before, and I'll say it again: We should establish a foothold in Junkyard as soon as possible. I don't buy their "diplomatic integration" nonsense for a second. It is the perfect location for their next hostile takeover, and once their supply lines are set and secure, they *will* annex Junkyard.<end>
+
+=>q38
+Damn straight! I've been telling you people before, and I'll say it again: We should establish a foothold in Junkyard as soon as possible. I don't buy their "diplomatic integration" nonsense for a second. It is the perfect location for their next hostile takeover, and once their supply lines are set and secure, they *will* annex Junkyard.<end>
+
+=>q39_original
+Well, half of Junkyard wouldn't mind bein' rid of brutal gang oppression. They'd celebrate Protectorate for it.<end>
+
+=>q39
+Well, half of Junkyard wouldn't mind bein' rid of brutal gang oppression. They'd celebrate Protectorate for it.<end>
+
+=>q40_original
+Sure, sure, good for them. Trade gang oppression for military oppression - great deal. Meanwhile, we'll have Protectorate troops staring at us from across the river.<end>
+
+=>q40
+Sure, sure, good for them. Trade gang oppression for military oppression - great deal. Meanwhile, we'll have Protectorate troops staring at us from across the river.<end>
+
+=>q41_original
+Gentlemen. Gorsky. In the event that Underrail Protectorate does take over Junkyard, we'll at least be able to trade freely with the United Stations. No more paying insane fees to the Eels, no more having to worry about the pirates.<end>
+
+=>q41
+Gentlemen. Gorsky. In the event that Underrail Protectorate does take over Junkyard, we'll at least be able to trade freely with the United Stations. No more paying insane fees to the Eels, no more having to worry about the pirates.<end>
+
+=>q42_original
+::Gorsky's frown becomes even more pronounced.:: And tomorrow when they decide that SGS too must become part of the Union and send forces to "diplomatically integrate us" - what will you do then? There won't be any forewarning and there aren't going to be any factions standing between us and them. We got literally twenty minutes between the moment they decide to attack and all hell breaking loose at our own bloody doorstep. And things will be bloody as long as I'm here...<end>
+
+=>q42
+::Gorsky's frown becomes even more pronounced.:: And tomorrow when they decide that SGS too must become part of the Union and send forces to "diplomatically integrate us" - what will you do then? There won't be any forewarning and there aren't going to be any factions standing between us and them. We got literally twenty minutes between the moment they decide to attack and all hell breaking loose at our own bloody doorstep. And things will be bloody as long as I'm here...<end>
+
+=>q43_original
+And why, why would it be so terrible to be a part of United Stations? Would you rather have us ally with thugs and raiders than be a part of the civilized world? You'd prefer... I don't know, Ironheads to Protectorate? Hm?<end>
+
+=>q43
+And why, why would it be so terrible to be a part of United Stations? Would you rather have us ally with thugs and raiders than be a part of the civilized world? You'd prefer... I don't know, Ironheads to Protectorate? Hm?<end>
+
+=>q44_original
+"Civilized *bloody* world"!? Is that some kind of diplomatic mumbo-jumbo the ambassador has been feeding you, or are you just plain stupid, woman!?<end>
+
+=>q44
+"Civilized *bloody* world"!? Is that some kind of diplomatic mumbo-jumbo the ambassador has been feeding you, or are you just plain stupid, woman!?<end>
+
+=>q45_original
+Gorsky, there's no need to get--<end>
+
+=>q45
+Gorsky, there's no need to get--<end>
+
+=>q46_original
+Some of us have seen what their version of a civilized world is like. Some of us have seen the real world instead of spending their time flirting with Union ambassadors and what not. I came to SGS to be a free man. I refuse to be one of General Melek's drones or lackeys.<end>
+
+=>q46
+Some of us have seen what their version of a civilized world is like. Some of us have seen the real world instead of spending their time flirting with Union ambassadors and what not. I came to SGS to be a free man. I refuse to be one of General Melek's drones or lackeys.<end>
+
+=>q47_original
+Not that they'd have me anyways. They'd put a bullet in my head. And Ezra's too probably.<end>
+
+=>q47
+Not that they'd have me anyways. They'd put a bullet in my head. And Ezra's too probably.<end>
+
+=>q48_original
+::Ezra stares into the wall silently.::<end>
+
+=>q48
+::Ezra stares into the wall silently.::<end>
+
+=>q49_original
+::Vera sighs in resignation, placing her hand over her temples.::<end>
+
+=>q49
+::Vera sighs in resignation, placing her hand over her temples.::<end>
+
+=>q50_original
+::Tanner holds both of his hands up to ease the tension before turning to you.:: What do you think, $(context.player.Name)?<end>
+
+=>q50
+::Tanner holds both of his hands up to ease the tension before turning to you.:: What do you think, $(context.player.Name)?<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>a52
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>q53_original
+Cowardice. You think you will stay their hand by being passive? The Protectorate does not allow strong stations like ours to exist, be it outside of their domain or within.<end>
+
+=>q53
+Cowardice. You think you will stay their hand by being passive? The Protectorate does not allow strong stations like ours to exist, be it outside of their domain or within.<end>
+
+=>q54_original
+As I said - some of us would get the bullet and some of you would be transferred to other places until what remains here would be nice and... governable.<end>
+
+=>q54
+As I said - some of us would get the bullet and some of you would be transferred to other places until what remains here would be nice and... governable.<end>
+
+=>q55_original
+Don't think for a second that SGS as we know it is a possibility in the United Stations.<end>
+
+=>q55
+Don't think for a second that SGS as we know it is a possibility in the United Stations.<end>
+

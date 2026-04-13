@@ -1,0 +1,78 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Excuse me $(#sir/ma'am), I'm busy making men out of these dirtbags.<end>
+
+=>q2
+Excuse me $(#sir/ma'am), I'm busy making men out of these dirtbags.<end>
+
+=>q3_original
+Are you all deaf? I told you to train like men - not like little girls!<end>
+
+=>q3
+Are you all deaf? I told you to train like men - not like little girls!<end>
+
+=>q4_original
+You over there! Stop standing around and do as I ordered you! Do you understand me, dirtbag!<end>
+
+=>q4
+You over there! Stop standing around and do as I ordered you! Do you understand me, dirtbag!<end>
+
+=>q5_original
+Holy mother of dirtbags, you truly are a miserable, miserable sight to behold!<end>
+
+=>q5
+Holy mother of dirtbags, you truly are a miserable, miserable sight to behold!<end>
+
+=>q6_original
+You are all a bunch of pathetic dirtbags! Even if I brought the oldest, weakest zoner in here, he'd do better than you!<end>
+
+=>q6
+You are all a bunch of pathetic dirtbags! Even if I brought the oldest, weakest zoner in here, he'd do better than you!<end>
+
+=>q7_original
+...Twenty-one, twenty-two... Wrong, bad form! Start all over! One, two, three, four...<end>
+
+=>q7
+...Twenty-one, twenty-two... Wrong, bad form! Start all over! One, two, three, four...<end>
+
+=>q8_original
+You over there! Recruit! Is my yelling distracting you!? WELL, THAT'S TOO BAD!<end>
+
+=>q8
+You over there! Recruit! Is my yelling distracting you!? WELL, THAT'S TOO BAD!<end>
+
+=>q9_original
+So you want to protect Core City civilians, right? ::Laughs.:: Right now you wouldn't even be able to protect your miserable butts from a single braindead rathound!<end>
+
+=>q9
+So you want to protect Core City civilians, right? ::Laughs.:: Right now you wouldn't even be able to protect your miserable butts from a single braindead rathound!<end>
+
+=>q10_original
+You, over there, recruit! Recruit! Why in the sweet mother of dirtbags are you caressing that punching bag!? What's next? A massage!?<end>
+
+=>q10
+You, over there, recruit! Recruit! Why in the sweet mother of dirtbags are you caressing that punching bag!? What's next? A massage!?<end>
+
+=>q11_original
+I thought I said fifty push-ups, not five and let-me-do-the-other-fourty-five-wrong! Again!<end>
+
+=>q11
+I thought I said fifty push-ups, not five and let-me-do-the-other-fourty-five-wrong! Again!<end>
+
+=>q12_original
+You all think you're "hardcore," think you're "dominating"? ::Laughs.::<end>
+
+=>q12
+You all think you're "hardcore," think you're "dominating"? ::Laughs.::<end>
+
+=>q13_original
+You're gonna train until you turn into a puddle of sweat.<end>
+
+=>q13
+You're gonna train until you turn into a puddle of sweat.<end>
+

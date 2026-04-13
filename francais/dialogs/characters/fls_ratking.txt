@@ -1,0 +1,410 @@
+=>q1_original
+These guys are *really* taking their sweet-ass time. A buncha yobs.<end>
+
+=>q1
+These guys are *really* taking their sweet-ass time. A buncha yobs.<end>
+
+=>q2_original
+Please let me have some rest.<end>
+
+=>q2
+Please let me have some rest.<end>
+
+=>q3_original
+Leave me be. I wanna get some rest.<end>
+
+=>q3
+Leave me be. I wanna get some rest.<end>
+
+=>q4_original
+::Your approach is met with a grumpy countenance.::
+
+You again? What do you want now? You ain't gonna bring more people here, right? A senior like me can't get any rest with all these inconsiderate yobs racketing about.<end>
+
+=>q4
+::Your approach is met with a grumpy countenance.::
+
+You again? What do you want now? You ain't gonna bring more people here, right? A senior like me can't get any rest with all these inconsiderate yobs racketing about.<end>
+
+=>a5_original
+If you don't like it, leave.<end>
+
+=>a5
+If you don't like it, leave.<end>
+
+=>q6_original
+::He sneers.:: This was my home before you people came here. It was mine. Mine! Damn you!<end>
+
+=>q6
+::He sneers.:: This was my home before you people came here. It was mine. Mine! Damn you!<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::[Persuade]:: Old man, I could've driven you out. I could've even killed you, and no one would care. But I let you stay here under the conditions both *you* and I agreed upon. Is this how you thank me? Really? Considering you live with a pair of rathounds, I think you've forgotten how to interact with people.<end>
+
+=>a8
+::[Persuade]:: Old man, I could've driven you out. I could've even killed you, and no one would care. But I let you stay here under the conditions both *you* and I agreed upon. Is this how you thank me? Really? Considering you live with a pair of rathounds, I think you've forgotten how to interact with people.<end>
+
+=>q9_original
+::Your words almost instantly banish his resentful grimace, turn away his splenetic stare and pacify it until it contains nothing more than wonder, and maybe even a faint trace of genuine guilt.::
+
+You... I don't know what to say to you, how to reply to this.<end>
+
+=>q9
+::Your words almost instantly banish his resentful grimace, turn away his splenetic stare and pacify it until it contains nothing more than wonder, and maybe even a faint trace of genuine guilt.::
+
+You... I don't know what to say to you, how to reply to this.<end>
+
+=>a10_original
+Then don't.<end>
+
+=>a10
+Then don't.<end>
+
+=>q11_original
+::He sighs.:: Alright... alright. I'll stop complaining. You're right.
+
+Now please leave me. I'm tired.<end>
+
+=>q11
+::He sighs.:: Alright... alright. I'll stop complaining. You're right.
+
+Now please leave me. I'm tired.<end>
+
+=>a12_original
+You get some some rest. See you around.<end>
+
+=>a12
+You get some some rest. See you around.<end>
+
+=>q13_original
+::His sneer grows, deforming his face into an infuriated grimace.::
+
+Why you, you leave my children out of this, you... you...! You know nothing about me, do you hear!? You know nothing!<end>
+
+=>q13
+::His sneer grows, deforming his face into an infuriated grimace.::
+
+Why you, you leave my children out of this, you... you...! You know nothing about me, do you hear!? You know nothing!<end>
+
+=>q14_original
+::He waves you away.:: Leave. I'm tired. I don't wanna talk anymore.<end>
+
+=>q14
+::He waves you away.:: Leave. I'm tired. I don't wanna talk anymore.<end>
+
+=>a15_original
+We had a deal, remember? You knew what you were getting yourself into.<end>
+
+=>a15
+We had a deal, remember? You knew what you were getting yourself into.<end>
+
+=>q16_original
+::His sneer grows, deforming his face into an infuriated grimace. He mutters something under his breath before elevating the volume.::
+
+I'm tired. I don't wanna talk anymore.<end>
+
+=>q16
+::His sneer grows, deforming his face into an infuriated grimace. He mutters something under his breath before elevating the volume.::
+
+I'm tired. I don't wanna talk anymore.<end>
+
+=>a17_original
+That's much better.<end>
+
+=>a17
+That's much better.<end>
+
+=>a18_original
+Then goodbye, old man.<end>
+
+=>a18
+Then goodbye, old man.<end>
+
+=>a19_original
+I won't argue with you. You are free to stay - but we make the rules. Got it?<end>
+
+=>a19
+I won't argue with you. You are free to stay - but we make the rules. Got it?<end>
+
+=>a20_original
+We'll talk when you calm down a bit. Goodbye.<end>
+
+=>a20
+We'll talk when you calm down a bit. Goodbye.<end>
+
+=>q21_original
+::His sneer grows, deforming his face into an infuriated grimace.::
+
+Bah, you!<end>
+
+=>q21
+::His sneer grows, deforming his face into an infuriated grimace.::
+
+Bah, you!<end>
+
+=>a22_original
+I have had enough of your whining. I shouldn't have allowed you to stay here, but it's not too late to fix that. ::Attack!::<end>
+
+=>a22
+I have had enough of your whining. I shouldn't have allowed you to stay here, but it's not too late to fix that. ::Attack!::<end>
+
+=>q23_original
+Attack, my children! Rip $(#him/her) to shreds!<end>
+
+=>q23
+Attack, my children! Rip $(#him/her) to shreds!<end>
+
+=>a24_original
+I understand it's uncomfortable for you right now, but you still have a home. I'm sure things will normalize a bit after the initial clean-up.<end>
+
+=>a24
+I understand it's uncomfortable for you right now, but you still have a home. I'm sure things will normalize a bit after the initial clean-up.<end>
+
+=>q25_original
+Uncomfortable? That's an understatement, young $(#man/lady), an understatement of the century!<end>
+
+=>q25
+Uncomfortable? That's an understatement, young $(#man/lady), an understatement of the century!<end>
+
+=>a26_original
+There's nothing I can do about that.<end>
+
+=>a26
+There's nothing I can do about that.<end>
+
+=>q27_original
+Oh? And is there someone who *can* do something about it?<end>
+
+=>q27
+Oh? And is there someone who *can* do something about it?<end>
+
+=>q28_original
+Hmm?<end>
+
+=>q28
+Hmm?<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+Are these two rathounds your pets?<end>
+
+=>a30
+Are these two rathounds your pets?<end>
+
+=>q31_original
+They are my children.<end>
+
+=>q31
+They are my children.<end>
+
+=>a32_original
+Got anything to trade?<end>
+
+=>a32
+Got anything to trade?<end>
+
+=>q33_original
+Wish I did.<end>
+
+=>q33
+Wish I did.<end>
+
+=>a34_original
+Never mind.<end>
+
+=>a34
+Never mind.<end>
+
+=>q35_original
+I thought I told you to get the hell out.<end>
+
+=>q35
+I thought I told you to get the hell out.<end>
+
+=>a36_original
+I'm reclaiming this outpost in the name of the South Gate Station.<end>
+
+=>a36
+I'm reclaiming this outpost in the name of the South Gate Station.<end>
+
+=>q37_original
+Haven't you vultures taken enough already? Caves belong to no station. 
+
+Now get the hell out of my home before I bolt in your ugly face.<end>
+
+=>q37
+Haven't you vultures taken enough already? Caves belong to no station. 
+
+Now get the hell out of my home before I bolt in your ugly face.<end>
+
+=>a38_original
+I guess we'll have to do this the hard way. ::Attack!::<end>
+
+=>a38
+I guess we'll have to do this the hard way. ::Attack!::<end>
+
+=>a39_original
+::[Intimidate]:: Your threats are pointless. Even if you kill me, more will come, and they will be armed to the teeth. You won't stand a chance.<end>
+
+=>a39
+::[Intimidate]:: Your threats are pointless. Even if you kill me, more will come, and they will be armed to the teeth. You won't stand a chance.<end>
+
+=>q40_original
+::He seems hesitant.:: What do you want with this place anyway? Look at it - it's ruined, it ain't got nothing.<end>
+
+=>q40
+::He seems hesitant.:: What do you want with this place anyway? Look at it - it's ruined, it ain't got nothing.<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>a42_original
+We don't plan to live here, but we need to control them anyway.<end>
+
+=>a42
+We don't plan to live here, but we need to control them anyway.<end>
+
+=>q43_original
+Well, why would I have to leave? I wouldn't get in your way.<end>
+
+=>q43
+Well, why would I have to leave? I wouldn't get in your way.<end>
+
+=>a44_original
+Hmm, okay, you can stay for now. But don't try to interfere with our operations.<end>
+
+=>a44
+Hmm, okay, you can stay for now. But don't try to interfere with our operations.<end>
+
+=>q45_original
+::He nods.::<end>
+
+=>q45
+::He nods.::<end>
+
+=>a46_original
+Forget it. Can't have some cave rats snooping around our property.<end>
+
+=>a46
+Forget it. Can't have some cave rats snooping around our property.<end>
+
+=>q47_original
+<end>
+
+=>q47
+<end>
+
+=>q48_original
+I hope it collapses and buries all you greedy bastards.
+
+Let's go, my children...<end>
+
+=>q48
+I hope it collapses and buries all you greedy bastards.
+
+Let's go, my children...<end>
+
+=>a49_original
+::Continue::<end>
+
+=>a49
+::Continue::<end>
+
+=>q50_original
+You greedy bastards...<end>
+
+=>q50
+You greedy bastards...<end>
+
+=>a51_original
+That's none of your business. Now get going.<end>
+
+=>a51
+That's none of your business. Now get going.<end>
+
+=>q52_original
+Maybe, but that won't do you any good.<end>
+
+=>q52
+Maybe, but that won't do you any good.<end>
+
+=>a53_original
+Alright, alright, I'm leaving.<end>
+
+=>a53
+Alright, alright, I'm leaving.<end>
+
+=>a54_original
+Alright, I'm leaving.<end>
+
+=>a54
+Alright, I'm leaving.<end>
+
+=>q55_original
+Hey, get outta here! This is my territory!<end>
+
+=>q55
+Hey, get outta here! This is my territory!<end>
+
+=>a56_original
+Sorry, my bad. I'll be leaving now.<end>
+
+=>a56
+Sorry, my bad. I'll be leaving now.<end>
+
+=>q57_original
+And stay out!<end>
+
+=>q57
+And stay out!<end>
+
+=>a58_original
+I'm reclaiming this outpost in the name of the South Gate Station.<end>
+
+=>a58
+I'm reclaiming this outpost in the name of the South Gate Station.<end>
+
+=>a59_original
+I just need to take a look around.<end>
+
+=>a59
+I just need to take a look around.<end>
+
+=>q60_original
+And take my stuff? ::He levels his crossbow at you.:: Get out!<end>
+
+=>q60
+And take my stuff? ::He levels his crossbow at you.:: Get out!<end>
+
+=>a61_original
+You'll need more than a crossbow to scare me off, you ugly rat.<end>
+
+=>a61
+You'll need more than a crossbow to scare me off, you ugly rat.<end>
+
+=>a62_original
+Alright, alright, I'm leaving.<end>
+
+=>a62
+Alright, alright, I'm leaving.<end>
+
+=>a63_original
+Not anymore! ::Attack!::<end>
+
+=>a63
+Not anymore! ::Attack!::<end>
+

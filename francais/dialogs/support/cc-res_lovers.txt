@@ -1,0 +1,36 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Ehm... we are busy.<end>
+
+=>q2
+Ehm... we are busy.<end>
+
+=>q3_original
+I can't talk right now.<end>
+
+=>q3
+I can't talk right now.<end>
+
+=>q4_original
+Would you please leave us alone? Thank you.<end>
+
+=>q4
+Would you please leave us alone? Thank you.<end>
+
+=>q5_original
+Not now, please.<end>
+
+=>q5
+Not now, please.<end>
+
+=>q6_original
+This spot is taken.<end>
+
+=>q6
+This spot is taken.<end>
+

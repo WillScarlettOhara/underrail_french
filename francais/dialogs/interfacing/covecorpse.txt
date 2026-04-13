@@ -1,0 +1,54 @@
+=>q1_original
+::You are pretty certain this man died recently as the corpse hasn't started decomposing yet.::<end>
+
+=>q1
+::You are pretty certain this man died recently as the corpse hasn't started decomposing yet.::<end>
+
+=>a2_original
+::Try to determine the cause of death.::<end>
+
+=>a2
+::Try to determine the cause of death.::<end>
+
+=>q3_original
+::[Biology] There is a large wound in the upper abdomen from which he bled extensively, but you are unsure what exactly inflicted it. Upon closer inspection you notice he also suffered a lot of bruising as well as a number of small cuts in various places on his body.::<end>
+
+=>q3
+::[Biology] There is a large wound in the upper abdomen from which he bled extensively, but you are unsure what exactly inflicted it. Upon closer inspection you notice he also suffered a lot of bruising as well as a number of small cuts in various places on his body.::<end>
+
+=>q4_original
+::It looks like the puddle of blood came from a large wound in the stomach area. You assume this is what ultimately killed him.::<end>
+
+=>q4
+::It looks like the puddle of blood came from a large wound in the stomach area. You assume this is what ultimately killed him.::<end>
+
+=>a5_original
+::Search the corpse.::<end>
+
+=>a5
+::Search the corpse.::<end>
+
+=>q6_original
+::You search the corpse and find a couple items in its possession.::<end>
+
+=>q6
+::You search the corpse and find a couple items in its possession.::<end>
+
+=>a7_original
+::Push it back into the lake.::<end>
+
+=>a7
+::Push it back into the lake.::<end>
+
+=>q8_original
+::The body quickly sinks into the dark waters. You know the undercurrents will take if far downstream in no time.::<end>
+
+=>q8
+::The body quickly sinks into the dark waters. You know the undercurrents will take if far downstream in no time.::<end>
+
+=>a9_original
+::Leave.::<end>
+
+=>a9
+::Leave.::<end>
+

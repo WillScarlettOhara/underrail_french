@@ -1,0 +1,152 @@
+=>q1_original
+If you try anything, you *will* bleed, zoner!<end>
+
+=>q1
+If you try anything, you *will* bleed, zoner!<end>
+
+=>q2_original
+::He angrily waves you away.::<end>
+
+=>q2
+::He angrily waves you away.::<end>
+
+=>q3_original
+::You approach this person in an attempt to start a conversation. He responds with a glance, followed by him turning his head away from you. His face seems to be stuck in a perpetual frown, making him look like he is constantly angry. Whether he is or not, you remain unsure.::<end>
+
+=>q3
+::You approach this person in an attempt to start a conversation. He responds with a glance, followed by him turning his head away from you. His face seems to be stuck in a perpetual frown, making him look like he is constantly angry. Whether he is or not, you remain unsure.::<end>
+
+=>a4_original
+Excuse me, I had some questions I'd like to ask you.<end>
+
+=>a4
+Excuse me, I had some questions I'd like to ask you.<end>
+
+=>q5_original
+::He looks at you, waits a couple of seconds, then decides to respond.::
+
+I'm not interested in answering any questions. Go bug someone else, zoner.<end>
+
+=>q5
+::He looks at you, waits a couple of seconds, then decides to respond.::
+
+I'm not interested in answering any questions. Go bug someone else, zoner.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+What can you tell me about yourself?<end>
+
+=>a7
+What can you tell me about yourself?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+::He seems irritated by your question.::
+
+Will you leave me alone already? Which part of the "go bug someone else!" line did you misunderstand?<end>
+
+=>q9
+::He seems irritated by your question.::
+
+Will you leave me alone already? Which part of the "go bug someone else!" line did you misunderstand?<end>
+
+=>q10_original
+Go - as in, get as far away from me as possible; bug - as in, annoy, rile, bother; someone else - as in, someone that is not me.<end>
+
+=>q10
+Go - as in, get as far away from me as possible; bug - as in, annoy, rile, bother; someone else - as in, someone that is not me.<end>
+
+=>q11_original
+Get it now?<end>
+
+=>q11
+Get it now?<end>
+
+=>q12_original
+::His frown becomes even more pronounced.::
+
+Deaf, stupid or both?<end>
+
+=>q12
+::His frown becomes even more pronounced.::
+
+Deaf, stupid or both?<end>
+
+=>q13_original
+I'd say both. Therefore, I'll have to *lower* myself to your intellectual level so that I may be able to convey the message that I have been trying to convey for some time now. Here it is...<end>
+
+=>q13
+I'd say both. Therefore, I'll have to *lower* myself to your intellectual level so that I may be able to convey the message that I have been trying to convey for some time now. Here it is...<end>
+
+=>q14_original
+Duh... Duh duh... Duh... Shoo! Don't speak to me... ever again... duh duh... duh!<end>
+
+=>q14
+Duh... Duh duh... Duh... Shoo! Don't speak to me... ever again... duh duh... duh!<end>
+
+=>q15_original
+::He spits his words through his teeth.::
+
+Oh, what kind of a moron are you? Leave me alone or I'll zone you out on the spot!<end>
+
+=>q15
+::He spits his words through his teeth.::
+
+Oh, what kind of a moron are you? Leave me alone or I'll zone you out on the spot!<end>
+
+=>a16_original
+Why are you here and what can you tell me about this place?<end>
+
+=>a16
+Why are you here and what can you tell me about this place?<end>
+
+=>a17_original
+What do you know about Tchortists?<end>
+
+=>a17
+What do you know about Tchortists?<end>
+
+=>a18_original
+So long.<end>
+
+=>a18
+So long.<end>
+
+=>a19_original
+I'm $(context.player.Name) and I had some questions for you.<end>
+
+=>a19
+I'm $(context.player.Name) and I had some questions for you.<end>
+
+=>q20_original
+::He looks at you, waits a couple of seconds, then decides to respond.::
+
+I don't care about your name, zoner. As far as those questions of yours are concerned... go bug someone else.<end>
+
+=>q20
+::He looks at you, waits a couple of seconds, then decides to respond.::
+
+I don't care about your name, zoner. As far as those questions of yours are concerned... go bug someone else.<end>
+
+=>a21_original
+::Leave him be.::<end>
+
+=>a21
+::Leave him be.::<end>
+
+=>q22_original
+::He faces you, but remains silent.::<end>
+
+=>q22
+::He faces you, but remains silent.::<end>
+

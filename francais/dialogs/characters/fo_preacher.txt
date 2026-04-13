@@ -1,0 +1,84 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+All shall perish in a wave of mutating death!<end>
+
+=>q2
+All shall perish in a wave of mutating death!<end>
+
+=>q3_original
+Repent now or suffer for all eternity!<end>
+
+=>q3
+Repent now or suffer for all eternity!<end>
+
+=>q4_original
+Crawlers! Up there! Look! ::He points at the ceiling.::<end>
+
+=>q4
+Crawlers! Up there! Look! ::He points at the ceiling.::<end>
+
+=>q5_original
+Listen to me, my $(#son/daughter) - ye be a sinner!<end>
+
+=>q5
+Listen to me, my $(#son/daughter) - ye be a sinner!<end>
+
+=>q6_original
+Salvation lies in the Church of Tchort!<end>
+
+=>q6
+Salvation lies in the Church of Tchort!<end>
+
+=>q7_original
+Evelyn Ingram shall dissolve eternally for her blasphemy. The magnificent eye of Tchort sees everything!<end>
+
+=>q7
+Evelyn Ingram shall dissolve eternally for her blasphemy. The magnificent eye of Tchort sees everything!<end>
+
+=>q8_original
+Tchort will once again set his minions loose upon the non-believers!<end>
+
+=>q8
+Tchort will once again set his minions loose upon the non-believers!<end>
+
+=>q9_original
+Tchort loves you all! Except maybe Bryan. No one likes Bryan.<end>
+
+=>q9
+Tchort loves you all! Except maybe Bryan. No one likes Bryan.<end>
+
+=>q10_original
+I used to be like you, Tchortless and hollow. Now, I look forward to walking the Surface and turning into a new, better man.<end>
+
+=>q10
+I used to be like you, Tchortless and hollow. Now, I look forward to walking the Surface and turning into a new, better man.<end>
+
+=>q11_original
+Bleigh!<end>
+
+=>q11
+Bleigh!<end>
+
+=>q12_original
+If you denounce Tchort... you *will* suffer!<end>
+
+=>q12
+If you denounce Tchort... you *will* suffer!<end>
+
+=>q13_original
+All blasphemers shall be sucked into the darkest caverns and absorbed, for they have denounced our one and only savior!<end>
+
+=>q13
+All blasphemers shall be sucked into the darkest caverns and absorbed, for they have denounced our one and only savior!<end>
+
+=>q14_original
+The plaguebringers may appear defeated, but they'll be back. Mark my words! They'll be *back*!<end>
+
+=>q14
+The plaguebringers may appear defeated, but they'll be back. Mark my words! They'll be *back*!<end>
+

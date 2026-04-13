@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Yeah, stew!<end>
+
+=>q2
+Yeah, stew!<end>
+
+=>q3_original
+Hopper? Next!<end>
+
+=>q3
+Hopper? Next!<end>
+
+=>q4_original
+Mushroom salad...? I don't know... Maybe... No...<end>
+
+=>q4
+Mushroom salad...? I don't know... Maybe... No...<end>
+
+=>q5_original
+How can anyone actually like burrower eggs?<end>
+
+=>q5
+How can anyone actually like burrower eggs?<end>
+
+=>q6_original
+Hell yeah! Siphoner's back on the menu!<end>
+
+=>q6
+Hell yeah! Siphoner's back on the menu!<end>
+
+=>q7_original
+Grilled eels... We meet again.<end>
+
+=>q7
+Grilled eels... We meet again.<end>
+

@@ -1,0 +1,34 @@
+=>q1_original
+::Hecate Research Outpost::<end>
+
+=>q1
+::Hecate Research Outpost::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Toggle gate.::<end>
+
+=>a3
+::Toggle gate.::<end>
+
+=>a4_original
+::Exit::<end>
+
+=>a4
+::Exit::<end>
+
+=>q5_original
+::Hecate Research Outpost
+
+WARNING: Electrical circuit damage detected in lower levels. Certain phases might be disabled. Electrical oscillations detected. Manual full reset recommended.::<end>
+
+=>q5
+::Hecate Research Outpost
+
+WARNING: Electrical circuit damage detected in lower levels. Certain phases might be disabled. Electrical oscillations detected. Manual full reset recommended.::<end>
+

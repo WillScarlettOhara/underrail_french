@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Truce with the Rathound King? No comment...<end>
+
+=>q2
+Truce with the Rathound King? No comment...<end>
+
+=>q3_original
+Hey, um, does this suit make me look fat?<end>
+
+=>q3
+Hey, um, does this suit make me look fat?<end>
+
+=>q4_original
+The King is dead! Finally.<end>
+
+=>q4
+The King is dead! Finally.<end>
+
+=>q5_original
+Thank ya very much for slaughterin' the burrowers.<end>
+
+=>q5
+Thank ya very much for slaughterin' the burrowers.<end>
+
+=>q6_original
+Sorry, no one goes through these doors. Talk to Boyd or Edgar if ya got any questions.<end>
+
+=>q6
+Sorry, no one goes through these doors. Talk to Boyd or Edgar if ya got any questions.<end>
+
+=>q7_original
+Go on through. Good luck.<end>
+
+=>q7
+Go on through. Good luck.<end>
+

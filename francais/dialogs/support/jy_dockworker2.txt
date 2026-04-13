@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Can't ya see I'm busy?<end>
+
+=>q2
+Can't ya see I'm busy?<end>
+
+=>q3_original
+We gotta move these refrigerators...<end>
+
+=>q3
+We gotta move these refrigerators...<end>
+
+=>q4_original
+Careful, $(#jack/sis), the berth's slippery.<end>
+
+=>q4
+Careful, $(#jack/sis), the berth's slippery.<end>
+
+=>q5_original
+Shipment of food from Hathor should be arrivin' soon, I think.<end>
+
+=>q5
+Shipment of food from Hathor should be arrivin' soon, I think.<end>
+
+=>q6_original
+Chancer's Bay every day...<end>
+
+=>q6
+Chancer's Bay every day...<end>
+
+=>q7_original
+Freakin' pirate sons of rats... ::grumbles on::<end>
+
+=>q7
+Freakin' pirate sons of rats... ::grumbles on::<end>
+

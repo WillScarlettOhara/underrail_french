@@ -1,0 +1,30 @@
+=>q1_original
+::As far as you can see, it's a six to seven meter drop to the level below. You doubt that you can jump down without injuring yourself, but even if you could get down safely you don't think it is wise to do so at this moment.::<end>
+
+=>q1
+::As far as you can see, it's a six to seven meter drop to the level below. You doubt that you can jump down without injuring yourself, but even if you could get down safely you don't think it is wise to do so at this moment.::<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::As far as you can see, it's a six to seven meter drop to the level below. ::<end>
+
+=>q3
+::As far as you can see, it's a six to seven meter drop to the level below. ::<end>
+
+=>q4_original
+::You doubt that you can jump down without injuring yourself.::<end>
+
+=>q4
+::You doubt that you can jump down without injuring yourself.::<end>
+
+=>a5_original
+::Jump down.::<end>
+
+=>a5
+::Jump down.::<end>
+

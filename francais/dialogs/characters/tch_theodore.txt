@@ -1,0 +1,446 @@
+=>q1_original
+The Faceless are here!<end>
+
+=>q1
+The Faceless are here!<end>
+
+=>q2_original
+Magnificent Tchort! What are you doing here, $(#brother/sister)? The kitchen is for staff ONLY!<end>
+
+=>q2
+Magnificent Tchort! What are you doing here, $(#brother/sister)? The kitchen is for staff ONLY!<end>
+
+=>q3_original
+::The man behind the counter strikes you as being calm, friendly and radiates a positive attitude. Appearance-wise, young and handsome are the words that describe him most accurate, while his confident posture is also difficult to ignore. He greets you with a familiar Tchortist salute.::
+
+Tchort is evolution, $(#brother/sister). My name is Theodore, often called Theo by... by almost everyone. ::He smiles.:: How may I help you?<end>
+
+=>q3
+::The man behind the counter strikes you as being calm, friendly and radiates a positive attitude. Appearance-wise, young and handsome are the words that describe him most accurate, while his confident posture is also difficult to ignore. He greets you with a familiar Tchortist salute.::
+
+Tchort is evolution, $(#brother/sister). My name is Theodore, often called Theo by... by almost everyone. ::He smiles.:: How may I help you?<end>
+
+=>a4_original
+Evolution is Tchort, brother. I'm $(context.player.Name).<end>
+
+=>a4
+Evolution is Tchort, brother. I'm $(context.player.Name).<end>
+
+=>q5_original
+Welcome to the Institute of Tchort, $(#brother/sister). Our institution is very different from those on the outside I'm sure, but you'll get used to it, don't worry.<end>
+
+=>q5
+Welcome to the Institute of Tchort, $(#brother/sister). Our institution is very different from those on the outside I'm sure, but you'll get used to it, don't worry.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Show me what you got. I'm starving!<end>
+
+=>a7
+Show me what you got. I'm starving!<end>
+
+=>q8_original
+Today's we have...<end>
+
+=>q8
+Today's we have...<end>
+
+=>a9_original
+::Barter.::<end>
+
+=>a9
+::Barter.::<end>
+
+=>a10_original
+Show me what you got. I'm starving! ::Barter.::<end>
+
+=>a10
+Show me what you got. I'm starving! ::Barter.::<end>
+
+=>a11_original
+How and why did you join Institute of Tchort?<end>
+
+=>a11
+How and why did you join Institute of Tchort?<end>
+
+=>q12_original
+I am institute-born, $(#brother/sister). It wasn't my decision to become a Tchortist, but with all the things I heard about the outside world, I'm better off. Life here is better without a doubt, and here people care about each other, care about progress - evolution, rather than just about their own hide, so to speak.<end>
+
+=>q12
+I am institute-born, $(#brother/sister). It wasn't my decision to become a Tchortist, but with all the things I heard about the outside world, I'm better off. Life here is better without a doubt, and here people care about each other, care about progress - evolution, rather than just about their own hide, so to speak.<end>
+
+=>a13_original
+Wait, you never left this building?<end>
+
+=>a13
+Wait, you never left this building?<end>
+
+=>q14_original
+No. Again, from what I heard in the past... I'm better off being here.<end>
+
+=>q14
+No. Again, from what I heard in the past... I'm better off being here.<end>
+
+=>a15_original
+Maybe I can share a few stories about the outside world. It's rough alright, but not everything is so grim. There is much beauty outside of the Institute.<end>
+
+=>a15
+Maybe I can share a few stories about the outside world. It's rough alright, but not everything is so grim. There is much beauty outside of the Institute.<end>
+
+=>q16_original
+Maybe some other time, $(#brother/sister); now's not the time. Anything else you needed? And please, let's make it quick, refectory is always a busy place.<end>
+
+=>q16
+Maybe some other time, $(#brother/sister); now's not the time. Anything else you needed? And please, let's make it quick, refectory is always a busy place.<end>
+
+=>a17_original
+Interesting... I had other questions though.<end>
+
+=>a17
+Interesting... I had other questions though.<end>
+
+=>q18_original
+Yes, what?<end>
+
+=>q18
+Yes, what?<end>
+
+=>a19_original
+What can you tell me about the Faceless?<end>
+
+=>a19
+What can you tell me about the Faceless?<end>
+
+=>q20_original
+Keep the Faceless out of the refectory please, people are trying to eat here.<end>
+
+=>q20
+Keep the Faceless out of the refectory please, people are trying to eat here.<end>
+
+=>q21_original
+Magnificent Tchort! Stop mentioning those... those vomit-inducing freaks here - we are trying to eat!<end>
+
+=>q21
+Magnificent Tchort! Stop mentioning those... those vomit-inducing freaks here - we are trying to eat!<end>
+
+=>q22_original
+That's what I was talking about...<end>
+
+=>q22
+That's what I was talking about...<end>
+
+=>a23_original
+What can you tell me about the West Wing?<end>
+
+=>a23
+What can you tell me about the West Wing?<end>
+
+=>q24_original
+It is dangerous, do not go there.<end>
+
+=>q24
+It is dangerous, do not go there.<end>
+
+=>q25_original
+It is that simple, $(#brother/sister).<end>
+
+=>q25
+It is that simple, $(#brother/sister).<end>
+
+=>a26_original
+But what is so dangerous about it?<end>
+
+=>a26
+But what is so dangerous about it?<end>
+
+=>q27_original
+I am sorry but I can't explain it now, $(#brother/sister) - this is neither the time nor the place for that. This is where people eat and I have got my hands a bit busy at the moment.<end>
+
+=>q27
+I am sorry but I can't explain it now, $(#brother/sister) - this is neither the time nor the place for that. This is where people eat and I have got my hands a bit busy at the moment.<end>
+
+=>q28_original
+Just trust me... it is dangerous; there is a reason no one goes there.
+
+Now, $(#brother/sister), are you ordering something or not?<end>
+
+=>q28
+Just trust me... it is dangerous; there is a reason no one goes there.
+
+Now, $(#brother/sister), are you ordering something or not?<end>
+
+=>a29_original
+Understood. Let me ask you something else.<end>
+
+=>a29
+Understood. Let me ask you something else.<end>
+
+=>a30_original
+Hey, do you want to hear a joke?<end>
+
+=>a30
+Hey, do you want to hear a joke?<end>
+
+=>q31_original
+Is it the one about a cell undergoing mitosis?<end>
+
+=>q31
+Is it the one about a cell undergoing mitosis?<end>
+
+=>a32_original
+No, it's about a rathound that walks into a bar - and the barkeeper shoots the filthy thing!<end>
+
+=>a32
+No, it's about a rathound that walks into a bar - and the barkeeper shoots the filthy thing!<end>
+
+=>q33_original
+::He laughs.:: 'Cause everyone hates rathounds! Yes, I like that one.<end>
+
+=>q33
+::He laughs.:: 'Cause everyone hates rathounds! Yes, I like that one.<end>
+
+=>q34_original
+Apex joke, $(#brother/sister).<end>
+
+=>q34
+Apex joke, $(#brother/sister).<end>
+
+=>a35_original
+Erm, yes it is...<end>
+
+=>a35
+Erm, yes it is...<end>
+
+=>q36_original
+Sorry, $(#brother/sister), already heard that one. One of the genetics investigators already told it to me.<end>
+
+=>q36
+Sorry, $(#brother/sister), already heard that one. One of the genetics investigators already told it to me.<end>
+
+=>q37_original
+Need anything else?<end>
+
+=>q37
+Need anything else?<end>
+
+=>a38_original
+I would like to ask you some questions about Tchortism.<end>
+
+=>a38
+I would like to ask you some questions about Tchortism.<end>
+
+=>q39_original
+I'm sorry, but I'm working at the moment, and a discussion about Tchortism would take too long.<end>
+
+=>q39
+I'm sorry, but I'm working at the moment, and a discussion about Tchortism would take too long.<end>
+
+=>q40_original
+Seek Praepostor Amelia, or visit Eidein's Library. Oh, and read the Original Report if you haven't already.<end>
+
+=>q40
+Seek Praepostor Amelia, or visit Eidein's Library. Oh, and read the Original Report if you haven't already.<end>
+
+=>a41_original
+Hi, I'd like one cute Theo for takeout. Hot if possible.<end>
+
+=>a41
+Hi, I'd like one cute Theo for takeout. Hot if possible.<end>
+
+=>q42_original
+Sorry, we are not serving Theo today. Are you perhaps interested in something else?<end>
+
+=>q42
+Sorry, we are not serving Theo today. Are you perhaps interested in something else?<end>
+
+=>q43_original
+Hopper stew is hot too, sister.<end>
+
+=>q43
+Hopper stew is hot too, sister.<end>
+
+=>a44_original
+Hi, I wanted to ask you something really important, but was stunned by how handsome you are. Now I can't remember.<end>
+
+=>a44
+Hi, I wanted to ask you something really important, but was stunned by how handsome you are. Now I can't remember.<end>
+
+=>q45_original
+That happens pretty often actually, so don't worry about it.<end>
+
+=>q45
+That happens pretty often actually, so don't worry about it.<end>
+
+=>q46_original
+While you're trying to remember, maybe grab something to eat, sister?<end>
+
+=>q46
+While you're trying to remember, maybe grab something to eat, sister?<end>
+
+=>a47_original
+::Wave and wink at him seductively.::<end>
+
+=>a47
+::Wave and wink at him seductively.::<end>
+
+=>q48_original
+::He waves back and leans forward slightly, as if he is going to wink. However, he stops, eyes wide open. Then, he shrugs his shoulders.::<end>
+
+=>q48
+::He waves back and leans forward slightly, as if he is going to wink. However, he stops, eyes wide open. Then, he shrugs his shoulders.::<end>
+
+=>q49_original
+Oh no, I guess we are out of winks. How about hopper stew?<end>
+
+=>q49
+Oh no, I guess we are out of winks. How about hopper stew?<end>
+
+=>a50_original
+I'm new to the Institute of Tchort. Could you give me directions to your room?<end>
+
+=>a50
+I'm new to the Institute of Tchort. Could you give me directions to your room?<end>
+
+=>q51_original
+Certainly, exit the refectory, up the stairs, then take four left turns, down the stairs and then turn right.<end>
+
+=>q51
+Certainly, exit the refectory, up the stairs, then take four left turns, down the stairs and then turn right.<end>
+
+=>q52_original
+See you soon, sister!<end>
+
+=>q52
+See you soon, sister!<end>
+
+=>a53_original
+My lips hurt! Will you kiss them and make the pain go away?<end>
+
+=>a53
+My lips hurt! Will you kiss them and make the pain go away?<end>
+
+=>q54_original
+You know, sister, maybe I can help you with that...<end>
+
+=>q54
+You know, sister, maybe I can help you with that...<end>
+
+=>a55_original
+Oh?<end>
+
+=>a55
+Oh?<end>
+
+=>q56_original
+Or, I better leave it to the professional. Jerre-Franz's medical office is right past the sleeping quarters; he'll give you something for the pain. Trust me, he is the best.<end>
+
+=>q56
+Or, I better leave it to the professional. Jerre-Franz's medical office is right past the sleeping quarters; he'll give you something for the pain. Trust me, he is the best.<end>
+
+=>a57_original
+I give up...<end>
+
+=>a57
+I give up...<end>
+
+=>q58_original
+Hungry?<end>
+
+=>q58
+Hungry?<end>
+
+=>a59_original
+::Leave without saying anything.::<end>
+
+=>a59
+::Leave without saying anything.::<end>
+
+=>a60_original
+Really?<end>
+
+=>a60
+Really?<end>
+
+=>a61_original
+::Pout your lips.::<end>
+
+=>a61
+::Pout your lips.::<end>
+
+=>a62_original
+See you next time, Theo.<end>
+
+=>a62
+See you next time, Theo.<end>
+
+=>q63_original
+Tchort guides, $(#brother/sister).<end>
+
+=>q63
+Tchort guides, $(#brother/sister).<end>
+
+=>a64_original
+I'm $(context.player.Name) and I'm very, very hungry.<end>
+
+=>a64
+I'm $(context.player.Name) and I'm very, very hungry.<end>
+
+=>q65_original
+::He laughs.:: Don't worry, $(#brother/sister), we'll fill that belly of yours in just a moment. What'll it be?<end>
+
+=>q65
+::He laughs.:: Don't worry, $(#brother/sister), we'll fill that belly of yours in just a moment. What'll it be?<end>
+
+=>a66_original
+Hi, Theo. I'm $(#brother/sister) $(context.player.Name).<end>
+
+=>a66
+Hi, Theo. I'm $(#brother/sister) $(context.player.Name).<end>
+
+=>a67_original
+Tchort is handsome... I mean you're evolution... You're handsome! That's the one! And I'm $(context.player.Name).<end>
+
+=>a67
+Tchort is handsome... I mean you're evolution... You're handsome! That's the one! And I'm $(context.player.Name).<end>
+
+=>q68_original
+Uhm... While I should thank you for the compliment, our greeting is not something that should be twisted in such a manner. Please, make sure you always say the phrase in its proper form.<end>
+
+=>q68
+Uhm... While I should thank you for the compliment, our greeting is not something that should be twisted in such a manner. Please, make sure you always say the phrase in its proper form.<end>
+
+=>a69_original
+I understand. Still, you're handsome.<end>
+
+=>a69
+I understand. Still, you're handsome.<end>
+
+=>q70_original
+That I am. ::Smiles:: What'll it be, $(context.player.Name)?<end>
+
+=>q70
+That I am. ::Smiles:: What'll it be, $(context.player.Name)?<end>
+
+=>a71_original
+I'm very sorry. Won't happen again.<end>
+
+=>a71
+I'm very sorry. Won't happen again.<end>
+
+=>q72_original
+Apology accepted. Now, what'll it be, $(context.player.Name)?<end>
+
+=>q72
+Apology accepted. Now, what'll it be, $(context.player.Name)?<end>
+
+=>q73_original
+Hungry again, $(#brother/sister)?<end>
+
+=>q73
+Hungry again, $(#brother/sister)?<end>
+

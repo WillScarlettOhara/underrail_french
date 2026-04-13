@@ -1,0 +1,366 @@
+=>q1_original
+Ouch!<end>
+
+=>q1
+Ouch!<end>
+
+=>q2_original
+Oh, the pain! THE PAIN!<end>
+
+=>q2
+Oh, the pain! THE PAIN!<end>
+
+=>q3_original
+Diplomatic immunity!<end>
+
+=>q3
+Diplomatic immunity!<end>
+
+=>q4_original
+Couldn't even feel that.<end>
+
+=>q4
+Couldn't even feel that.<end>
+
+=>q5_original
+Come at me, bro!<end>
+
+=>q5
+Come at me, bro!<end>
+
+=>q6_original
+You shot me, you zoner!<end>
+
+=>q6
+You shot me, you zoner!<end>
+
+=>q7_original
+Aaagh.. it burns!<end>
+
+=>q7
+Aaagh.. it burns!<end>
+
+=>q8_original
+That's cold.<end>
+
+=>q8
+That's cold.<end>
+
+=>q9_original
+So cold... so co-...<end>
+
+=>q9
+So cold... so co-...<end>
+
+=>q10_original
+I feel sleepy...<end>
+
+=>q10
+I feel sleepy...<end>
+
+=>q11_original
+My eyes!<end>
+
+=>q11
+My eyes!<end>
+
+=>q12_original
+Damn technology.<end>
+
+=>q12
+Damn technology.<end>
+
+=>q13_original
+Get out of my head!<end>
+
+=>q13
+Get out of my head!<end>
+
+=>q14_original
+I'm on fire! The humanity!<end>
+
+=>q14
+I'm on fire! The humanity!<end>
+
+=>q15_original
+Is it cold in here or is it just me?<end>
+
+=>q15
+Is it cold in here or is it just me?<end>
+
+=>q16_original
+Dammit, I cannot move.<end>
+
+=>q16
+Dammit, I cannot move.<end>
+
+=>q17_original
+I'll kill you all!<end>
+
+=>q17
+I'll kill you all!<end>
+
+=>q18_original
+I don't feel so good...<end>
+
+=>q18
+I don't feel so good...<end>
+
+=>q19_original
+I'm out of here...!<end>
+
+=>q19
+I'm out of here...!<end>
+
+=>q20_original
+Ugh... my ribs.<end>
+
+=>q20
+Ugh... my ribs.<end>
+
+=>q21_original
+Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
+
+=>q21
+Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
+
+=>q22_original
+I didn't know I... had so much blood...<end>
+
+=>q22
+I didn't know I... had so much blood...<end>
+
+=>q23_original
+I... I'm... dying...<end>
+
+=>q23
+I... I'm... dying...<end>
+
+=>q24_original
+::Coughs.::<end>
+
+=>q24
+::Coughs.::<end>
+
+=>q25_original
+Get ready for pain, $(#boy/girl).<end>
+
+=>q25
+Get ready for pain, $(#boy/girl).<end>
+
+=>q26_original
+You know you're going to die, right?<end>
+
+=>q26
+You know you're going to die, right?<end>
+
+=>q27_original
+You cold?<end>
+
+=>q27
+You cold?<end>
+
+=>q28_original
+Burn, baby, burn!<end>
+
+=>q28
+Burn, baby, burn!<end>
+
+=>q29_original
+You're not going anywhere.<end>
+
+=>q29
+You're not going anywhere.<end>
+
+=>q30_original
+Wake up. I'm not done with you yet.<end>
+
+=>q30
+Wake up. I'm not done with you yet.<end>
+
+=>q31_original
+You feeling sick? Good.<end>
+
+=>q31
+You feeling sick? Good.<end>
+
+=>q32_original
+I'm gonna enjoy watching you bleed.<end>
+
+=>q32
+I'm gonna enjoy watching you bleed.<end>
+
+=>q33_original
+You're terrible at this.<end>
+
+=>q33
+You're terrible at this.<end>
+
+=>q34_original
+::Gulp.:: I hope this works.<end>
+
+=>q34
+::Gulp.:: I hope this works.<end>
+
+=>q35_original
+Ahh... I needed this.<end>
+
+=>q35
+Ahh... I needed this.<end>
+
+=>q36_original
+Must stop... the paaaain.<end>
+
+=>q36
+Must stop... the paaaain.<end>
+
+=>q37_original
+Ahh... that's the stuff.<end>
+
+=>q37
+Ahh... that's the stuff.<end>
+
+=>q38_original
+Mmm... sweet mind juice.<end>
+
+=>q38
+Mmm... sweet mind juice.<end>
+
+=>q39_original
+Have at thee!<end>
+
+=>q39
+Have at thee!<end>
+
+=>q40_original
+Someone ordered a knuckle sandwich?<end>
+
+=>q40
+Someone ordered a knuckle sandwich?<end>
+
+=>q41_original
+It's hammer time!<end>
+
+=>q41
+It's hammer time!<end>
+
+=>q42_original
+I'll carve you up like a mushroom cake!<end>
+
+=>q42
+I'll carve you up like a mushroom cake!<end>
+
+=>q43_original
+Eat lead!<end>
+
+=>q43
+Eat lead!<end>
+
+=>q44_original
+Time for lesson in physics!<end>
+
+=>q44
+Time for lesson in physics!<end>
+
+=>q45_original
+I'll melt your face!<end>
+
+=>q45
+I'll melt your face!<end>
+
+=>q46_original
+Fire in the hole!<end>
+
+=>q46
+Fire in the hole!<end>
+
+=>q47_original
+Burn in hell!<end>
+
+=>q47
+Burn in hell!<end>
+
+=>q48_original
+Lights out!<end>
+
+=>q48
+Lights out!<end>
+
+=>q49_original
+Hey you! Catch!<end>
+
+=>q49
+Hey you! Catch!<end>
+
+=>q50_original
+Party time!<end>
+
+=>q50
+Party time!<end>
+
+=>q51_original
+Aaaaaaaaa!<end>
+
+=>q51
+Aaaaaaaaa!<end>
+
+=>q52_original
+Agh... dammit! Who put this here?<end>
+
+=>q52
+Agh... dammit! Who put this here?<end>
+
+=>q53_original
+Time for mindgames!<end>
+
+=>q53
+Time for mindgames!<end>
+
+=>q54_original
+Freeze zoner!<end>
+
+=>q54
+Freeze zoner!<end>
+
+=>q55_original
+Need a light?<end>
+
+=>q55
+Need a light?<end>
+
+=>q56_original
+Imma mind-slap you!<end>
+
+=>q56
+Imma mind-slap you!<end>
+
+=>q57_original
+Bzzt! Bzzt!<end>
+
+=>q57
+Bzzt! Bzzt!<end>
+
+=>q58_original
+Nighty-night!<end>
+
+=>q58
+Nighty-night!<end>
+
+=>q59_original
+Ouch!<end>
+
+=>q59
+Ouch!<end>
+
+=>q60_original
+Not... like... this...<end>
+
+=>q60
+Not... like... this...<end>
+
+=>q61_original
+It wasn't my time yet...<end>
+
+=>q61
+It wasn't my time yet...<end>
+

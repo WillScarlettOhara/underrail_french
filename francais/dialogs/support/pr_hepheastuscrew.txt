@@ -1,0 +1,78 @@
+=>q1_original
+We can't leave... if there are... burrowers around. Please... help us.<end>
+
+=>q1
+We can't leave... if there are... burrowers around. Please... help us.<end>
+
+=>a2_original
+The coast is clear. Time to go home, soldiers.<end>
+
+=>a2
+The coast is clear. Time to go home, soldiers.<end>
+
+=>q3_original
+::The men, who have dried up so much that they look as if they'd turn to dust by merely moving, now pick up their things in such a lively fashion that it makes you feel nothing short of amazement. Their freedom, now so close and so tasty, appears to have unleashed the last reserves of energy they've saved up only for this particular moment. They all nod at you as a thank you, some smiling, some even crying, as they hurriedly flee their prison.::<end>
+
+=>q3
+::The men, who have dried up so much that they look as if they'd turn to dust by merely moving, now pick up their things in such a lively fashion that it makes you feel nothing short of amazement. Their freedom, now so close and so tasty, appears to have unleashed the last reserves of energy they've saved up only for this particular moment. They all nod at you as a thank you, some smiling, some even crying, as they hurriedly flee their prison.::<end>
+
+=>a4_original
+::Wait for them to leave.::<end>
+
+=>a4
+::Wait for them to leave.::<end>
+
+=>a5_original
+The area is not yet secure. Stay strong. I'll be back soon.<end>
+
+=>a5
+The area is not yet secure. Stay strong. I'll be back soon.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+Finally, someone found us!<end>
+
+=>q7
+Finally, someone found us!<end>
+
+=>q8_original
+Those bloody... burrowers. They swarmed us... when the earthquake struck.<end>
+
+=>q8
+Those bloody... burrowers. They swarmed us... when the earthquake struck.<end>
+
+=>q9_original
+Help us get out of here.<end>
+
+=>q9
+Help us get out of here.<end>
+
+=>q10_original
+We're low on ammo and supplies...<end>
+
+=>q10
+We're low on ammo and supplies...<end>
+
+=>q11_original
+We gotta... get rid of those bloody bugs.<end>
+
+=>q11
+We gotta... get rid of those bloody bugs.<end>
+
+=>q12_original
+I'm so hungry... and thirsty. My stomach sounds like a dying rathound...<end>
+
+=>q12
+I'm so hungry... and thirsty. My stomach sounds like a dying rathound...<end>
+
+=>q13_original
+Water...<end>
+
+=>q13
+Water...<end>
+

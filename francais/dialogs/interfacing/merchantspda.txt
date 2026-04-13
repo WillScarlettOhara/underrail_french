@@ -1,0 +1,296 @@
+=>q1_original
+::This bloody device seems functional, despite having suffered some damage. The screen is scratched, but not cracked, and the left side of the mobile computer's body has been dented in such manner as to suggest that it was grazed by a passing bullet.
+
+You can use the touch-sensitive screen to select one of the displayed icons.::<end>
+
+=>q1
+::This bloody device seems functional, despite having suffered some damage. The screen is scratched, but not cracked, and the left side of the mobile computer's body has been dented in such manner as to suggest that it was grazed by a passing bullet.
+
+You can use the touch-sensitive screen to select one of the displayed icons.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Pictures::<end>
+
+=>a3
+::Pictures::<end>
+
+=>q4_original
+::You browse through several picture folders. One folder seems to contain a bunch of family photos depicting a burly bald man, a pretty blonde woman that is sadly missing her left arm, and four kids: two progressively taller boys and two progressively darker-haired girls. Other folders mostly contain pictures of various weapons, tools and other equipment, except for one which contains a few stunning photos of an impressive, yet to you unknown city.::<end>
+
+=>q4
+::You browse through several picture folders. One folder seems to contain a bunch of family photos depicting a burly bald man, a pretty blonde woman that is sadly missing her left arm, and four kids: two progressively taller boys and two progressively darker-haired girls. Other folders mostly contain pictures of various weapons, tools and other equipment, except for one which contains a few stunning photos of an impressive, yet to you unknown city.::<end>
+
+=>a5_original
+::Back::<end>
+
+=>a5
+::Back::<end>
+
+=>q6_original
+::You return to the main screen.::<end>
+
+=>q6
+::You return to the main screen.::<end>
+
+=>a7_original
+::Camera::<end>
+
+=>a7
+::Camera::<end>
+
+=>q8_original
+::Unfortunately, the camera appears to have cracked badly; using it would result in perplexing images of a shattered reality.::<end>
+
+=>q8
+::Unfortunately, the camera appears to have cracked badly; using it would result in perplexing images of a shattered reality.::<end>
+
+=>a9_original
+::Music::<end>
+
+=>a9
+::Music::<end>
+
+=>q10_original
+::You scroll through a decent selection of songs, some familiar, others not. Out of the unfamiliar ones, the ones that instantly draw your attention are "Southern love" by the Martyrs and "Stillborn" by Gronothrakht. You play them one after the other: The first is a gentle, romantic, but still somewhat deep ballad, while the other one makes your ears bleed and forces you to turn it off after five seconds.::<end>
+
+=>q10
+::You scroll through a decent selection of songs, some familiar, others not. Out of the unfamiliar ones, the ones that instantly draw your attention are "Southern love" by the Martyrs and "Stillborn" by Gronothrakht. You play them one after the other: The first is a gentle, romantic, but still somewhat deep ballad, while the other one makes your ears bleed and forces you to turn it off after five seconds.::<end>
+
+=>a11_original
+::Memos::<end>
+
+=>a11
+::Memos::<end>
+
+=>q12_original
+::Recent memos
+
+Sorted by oldest to newest: ::<end>
+
+=>q12
+::Recent memos
+
+Sorted by oldest to newest: ::<end>
+
+=>a13_original
+::Previous memos::<end>
+
+=>a13
+::Previous memos::<end>
+
+=>q14_original
+::You scroll through literally thousands and thousands of memos. It is evident that the owner of this handheld keeps notes of even the most trivial things, beside the more significant events and reminders. You doubt you'll find anything useful in this folder.::<end>
+
+=>q14
+::You scroll through literally thousands and thousands of memos. It is evident that the owner of this handheld keeps notes of even the most trivial things, beside the more significant events and reminders. You doubt you'll find anything useful in this folder.::<end>
+
+=>a15_original
+::Len::<end>
+
+=>a15
+::Len::<end>
+
+=>q16_original
+::Len's got some new shipment. Should check it out the next time I'm in Junkyard.::<end>
+
+=>q16
+::Len's got some new shipment. Should check it out the next time I'm in Junkyard.::<end>
+
+=>a17_original
+::Present for Yana::<end>
+
+=>a17
+::Present for Yana::<end>
+
+=>q18_original
+::Buy that necklace for Yana the next time you go to Dis.::<end>
+
+=>q18
+::Buy that necklace for Yana the next time you go to Dis.::<end>
+
+=>a19_original
+::Bolivar Daud::<end>
+
+=>a19
+::Bolivar Daud::<end>
+
+=>q20_original
+::Meet Bolivar Daud at the Hardcore City Bar tomorrow, after he has returned from Foundry.::<end>
+
+=>q20
+::Meet Bolivar Daud at the Hardcore City Bar tomorrow, after he has returned from Foundry.::<end>
+
+=>a21_original
+::Al Fabet::<end>
+
+=>a21
+::Al Fabet::<end>
+
+=>q22_original
+::Met the pipeworker again at the Core City metro station. He pulled out a rancid pig intestine out of a bag and wanted to sell it to me. Also had a liver on a skewer. If we hadn't been at the station, I'd have Chad and Splinter zone him out.
+
+Note to self: Have Al Fabet killed the next time he shows his face.::<end>
+
+=>q22
+::Met the pipeworker again at the Core City metro station. He pulled out a rancid pig intestine out of a bag and wanted to sell it to me. Also had a liver on a skewer. If we hadn't been at the station, I'd have Chad and Splinter zone him out.
+
+Note to self: Have Al Fabet killed the next time he shows his face.::<end>
+
+=>a23_original
+::Faceless::<end>
+
+=>a23
+::Faceless::<end>
+
+=>q24_original
+::Holy... We ran into the Faceless on our trip back from Foundry. Chad opened fire, but they shot back and zoned both him and Splinter out. They got me and led me into a stuffy cave nearby. Interrogated me about an item, and its description - it's the same thing the Acid Hunters had shown me today! We met at the Foundry exit, and Cornell had it kept in a metal box. Bluish-gray gizmo with ten-twenty sides. Had some weird socket-like openings and even weirder symbols all over it. Told me he got it from some caravan. Wanted to sell it to me, but I told him I don't deal in that. Told him I'd ask around, then we split.::<end>
+
+=>q24
+::Holy... We ran into the Faceless on our trip back from Foundry. Chad opened fire, but they shot back and zoned both him and Splinter out. They got me and led me into a stuffy cave nearby. Interrogated me about an item, and its description - it's the same thing the Acid Hunters had shown me today! We met at the Foundry exit, and Cornell had it kept in a metal box. Bluish-gray gizmo with ten-twenty sides. Had some weird socket-like openings and even weirder symbols all over it. Told me he got it from some caravan. Wanted to sell it to me, but I told him I don't deal in that. Told him I'd ask around, then we split.::<end>
+
+=>q25_original
+::As we were returning to Core City, those pipeworkers attacked us. I'm so happy now my camera had been broken when I met Cornell, cause I would've surely taken a picture of that gizmo. If the Faceless found that...
+
+They let me go after two hours or so. I'm shaking as I'm typing this. I'm on my way to Core City to warn Cornell and his crew to get rid of that thing! I hope they returned from Foundry, cause I'm not going back there.::<end>
+
+=>q25
+::As we were returning to Core City, those pipeworkers attacked us. I'm so happy now my camera had been broken when I met Cornell, cause I would've surely taken a picture of that gizmo. If the Faceless found that...
+
+They let me go after two hours or so. I'm shaking as I'm typing this. I'm on my way to Core City to warn Cornell and his crew to get rid of that thing! I hope they returned from Foundry, cause I'm not going back there.::<end>
+
+=>a26_original
+::Map::<end>
+
+=>a26
+::Map::<end>
+
+=>q27_original
+::Unknown error: Local map unavailable. 
+
+Please reinsert the memory card and try again.::<end>
+
+=>q27
+::Unknown error: Local map unavailable. 
+
+Please reinsert the memory card and try again.::<end>
+
+=>a28_original
+::Games::<end>
+
+=>a28
+::Games::<end>
+
+=>q29_original
+::There is only one game to select, and it's solitaire. Playing it might drain the battery too much.::<end>
+
+=>q29
+::There is only one game to select, and it's solitaire. Playing it might drain the battery too much.::<end>
+
+=>a30_original
+::South Underrail Station Feed::<end>
+
+=>a30
+::South Underrail Station Feed::<end>
+
+=>q31_original
+::Connection error! Only local feeds are currently available.
+
+Sorted by oldest to newest: ::<end>
+
+=>q31
+::Connection error! Only local feeds are currently available.
+
+Sorted by oldest to newest: ::<end>
+
+=>a32_original
+::To All Stations::<end>
+
+=>a32
+::To All Stations::<end>
+
+=>q33_original
+::To all stations,
+
+The feed hacker who has been sending vulgar messages under the pseudonym *Steve* has been caught at an access point near Core City. Does not appear to be the same person as the hacker identified as *Phreak*. More information to follow.::<end>
+
+=>q33
+::To all stations,
+
+The feed hacker who has been sending vulgar messages under the pseudonym *Steve* has been caught at an access point near Core City. Does not appear to be the same person as the hacker identified as *Phreak*. More information to follow.::<end>
+
+=>a34_original
+::Back::<end>
+
+=>a34
+::Back::<end>
+
+=>a35_original
+::To Rail Crossing::<end>
+
+=>a35
+::To Rail Crossing::<end>
+
+=>q36_original
+::To Rail Crossing,
+
+Several groups of heavily armed Ironheads have been spotted moving from Foundry toward Rail Crossing. Be on the lookout.::<end>
+
+=>q36
+::To Rail Crossing,
+
+Several groups of heavily armed Ironheads have been spotted moving from Foundry toward Rail Crossing. Be on the lookout.::<end>
+
+=>a37_original
+::To All Stations::<end>
+
+=>a37
+::To All Stations::<end>
+
+=>q38_original
+::To all stations,
+
+The South Tunnel has finally been cleared and secured. Underrail Express traffic has been restored in the South Gate Station area.::<end>
+
+=>q38
+::To all stations,
+
+The South Tunnel has finally been cleared and secured. Underrail Express traffic has been restored in the South Gate Station area.::<end>
+
+=>a39_original
+::To All Stations::<end>
+
+=>a39
+::To All Stations::<end>
+
+=>q40_original
+::To all stations,
+
+The Faceless have been spotted on multiple locations throughout South Underrail. They are using large tunneling machines to transport troops, and all reports suggest that they are heavily armed and large in numbers. They have already shown hostility toward Core City and Rail Crossing. 
+
+All stations are urged to mount their defenses and report any Faceless sightings as soon as possible.::<end>
+
+=>q40
+::To all stations,
+
+The Faceless have been spotted on multiple locations throughout South Underrail. They are using large tunneling machines to transport troops, and all reports suggest that they are heavily armed and large in numbers. They have already shown hostility toward Core City and Rail Crossing. 
+
+All stations are urged to mount their defenses and report any Faceless sightings as soon as possible.::<end>
+
+=>a41_original
+::Turn off::<end>
+
+=>a41
+::Turn off::<end>
+
+=>q42_original
+::The mobile computer is still functional, although you do notice it is a bit slower to boot than the first time you turned it on.::<end>
+
+=>q42
+::The mobile computer is still functional, although you do notice it is a bit slower to boot than the first time you turned it on.::<end>
+

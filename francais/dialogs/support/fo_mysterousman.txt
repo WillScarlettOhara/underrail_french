@@ -1,0 +1,76 @@
+=>q1_original
+Leave.<end>
+
+=>q1
+Leave.<end>
+
+=>q2_original
+::Nods.::<end>
+
+=>q2
+::Nods.::<end>
+
+=>q3_original
+::A slender figure stands in your way.::
+
+Who goes there?<end>
+
+=>q3
+::A slender figure stands in your way.::
+
+Who goes there?<end>
+
+=>a4_original
+The neophyte.<end>
+
+=>a4
+The neophyte.<end>
+
+=>q5_original
+Enter.<end>
+
+=>q5
+Enter.<end>
+
+=>a6_original
+No one.<end>
+
+=>a6
+No one.<end>
+
+=>q7_original
+Leave.<end>
+
+=>q7
+Leave.<end>
+
+=>a8_original
+$(context.player.Name).<end>
+
+=>a8
+$(context.player.Name).<end>
+
+=>a9_original
+Just let me through.<end>
+
+=>a9
+Just let me through.<end>
+
+=>a10_original
+Invictus!<end>
+
+=>a10
+Invictus!<end>
+
+=>a11_original
+I'm... uh... the one who wants to see what's behind the door.<end>
+
+=>a11
+I'm... uh... the one who wants to see what's behind the door.<end>
+
+=>a12_original
+I'll just go.<end>
+
+=>a12
+I'll just go.<end>
+

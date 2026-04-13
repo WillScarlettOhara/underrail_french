@@ -1,0 +1,612 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+We gotta figure out what to do next.<end>
+
+=>q2
+We gotta figure out what to do next.<end>
+
+=>q3_original
+I thought we were doomed.<end>
+
+=>q3
+I thought we were doomed.<end>
+
+=>q4_original
+The earthquake brought so much trouble for us.<end>
+
+=>q4
+The earthquake brought so much trouble for us.<end>
+
+=>q5_original
+At least we are not dead.<end>
+
+=>q5
+At least we are not dead.<end>
+
+=>q6_original
+Are they still here?<end>
+
+=>q6
+Are they still here?<end>
+
+=>a7_original
+I've dealt with all the bandits. You are safe now.<end>
+
+=>a7
+I've dealt with all the bandits. You are safe now.<end>
+
+=>q8_original
+Woah... Uhh, I got no clue what we'll do now. Either way, thank you.<end>
+
+=>q8
+Woah... Uhh, I got no clue what we'll do now. Either way, thank you.<end>
+
+=>a9_original
+You guys are now on your own. ::Leave.::<end>
+
+=>a9
+You guys are now on your own. ::Leave.::<end>
+
+=>a10_original
+::Nod and leave.::<end>
+
+=>a10
+::Nod and leave.::<end>
+
+=>a11_original
+Not yet.<end>
+
+=>a11
+Not yet.<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+I-I don't want to do anything with this.<end>
+
+=>q13
+I-I don't want to do anything with this.<end>
+
+=>q14_original
+Did you come here to finish us?<end>
+
+=>q14
+Did you come here to finish us?<end>
+
+=>q15_original
+Woah, hey. Just leave me alone.<end>
+
+=>q15
+Woah, hey. Just leave me alone.<end>
+
+=>q16_original
+I've made peace with what is to come.<end>
+
+=>q16
+I've made peace with what is to come.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+::Surprised by your arrival, this drained man before you starts looking at you from bottom to top. His clothes, still in decent shape, are in total contradiction with the condition of his skin. Dark circles under his eyes stretch far below, as if he didn't sleep for days. Accumulated green food stains around his dry mouth indicate a high degree of hygiene negligence. His facial expression shows that you were not the person he was hoping to see. Questioning your arrival, it takes him a few seconds to formulate his words.::
+
+W-woah, who are you and uhh, ::he licks his lips ::how did you get in here? ::He continues to stare at you in confusion.::<end>
+
+=>q18
+::Surprised by your arrival, this drained man before you starts looking at you from bottom to top. His clothes, still in decent shape, are in total contradiction with the condition of his skin. Dark circles under his eyes stretch far below, as if he didn't sleep for days. Accumulated green food stains around his dry mouth indicate a high degree of hygiene negligence. His facial expression shows that you were not the person he was hoping to see. Questioning your arrival, it takes him a few seconds to formulate his words.::
+
+W-woah, who are you and uhh, ::he licks his lips ::how did you get in here? ::He continues to stare at you in confusion.::<end>
+
+=>a19_original
+I'm $(context.player.Name), from South Gate Station.<end>
+
+=>a19
+I'm $(context.player.Name), from South Gate Station.<end>
+
+=>q20_original
+Oh, SGS? ::You notice the shock on his face.:: Have you uhh, have you come here to settle the debt?<end>
+
+=>q20
+Oh, SGS? ::You notice the shock on his face.:: Have you uhh, have you come here to settle the debt?<end>
+
+=>a21_original
+I don't understand.<end>
+
+=>a21
+I don't understand.<end>
+
+=>q22_original
+Uhh, considering everything that went down, it better stay that way. ::He starts looking past you, deliberately attempting to avoid any eye contact with you.::<end>
+
+=>q22
+Uhh, considering everything that went down, it better stay that way. ::He starts looking past you, deliberately attempting to avoid any eye contact with you.::<end>
+
+=>a23_original
+Go ahead you can tell me, I won't bite.<end>
+
+=>a23
+Go ahead you can tell me, I won't bite.<end>
+
+=>q24_original
+Uhh. ::He stops to think for a moment.:: you see, uhm... how should I say this... We are a bunch of *smugglers*, there I said it! ::He frantically looks around.:: And this, this hole, it's the place where we ended up in. Eventually, all the bad stuff catches up to you... And we... we're stuck, hell we even started to run out of stuff... All but food... ::A sudden pause followed up by some, quite strange mannerisms, leaves you hanging for further information.::<end>
+
+=>q24
+Uhh. ::He stops to think for a moment.:: you see, uhm... how should I say this... We are a bunch of *smugglers*, there I said it! ::He frantically looks around.:: And this, this hole, it's the place where we ended up in. Eventually, all the bad stuff catches up to you... And we... we're stuck, hell we even started to run out of stuff... All but food... ::A sudden pause followed up by some, quite strange mannerisms, leaves you hanging for further information.::<end>
+
+=>a25_original
+I have plenty of time. I assure you that it's in your interest to tell me more.<end>
+
+=>a25
+I have plenty of time. I assure you that it's in your interest to tell me more.<end>
+
+=>q26_original
+Uhh, ::he looks over his shoulder for a moment:: I don't really know how would everyone else feel about me if I were to lay it out all out, you know? ::All this talk makes him realize his mouth was covered in food stains, which he proceeds to wipe off with his skinny fingers.::<end>
+
+=>q26
+Uhh, ::he looks over his shoulder for a moment:: I don't really know how would everyone else feel about me if I were to lay it out all out, you know? ::All this talk makes him realize his mouth was covered in food stains, which he proceeds to wipe off with his skinny fingers.::<end>
+
+=>a27_original
+At this point, it seems you have nothing to lose.<end>
+
+=>a27
+At this point, it seems you have nothing to lose.<end>
+
+=>q28_original
+::He finishes cleaning up and nods slowly.:: I suppose you are right about that. They'll understand it. ::He stops for a moment to reflect upon himself, looking at his bare, weak hands. You can see that he's regretful as he proceeds to address you while looking down at his feet.:: Pretty much anything you could imagine went through here. All we cared about was to get paid, no allegiance to anyone or anything. We invited chaos and it came for us. ::He gasps.::<end>
+
+=>q28
+::He finishes cleaning up and nods slowly.:: I suppose you are right about that. They'll understand it. ::He stops for a moment to reflect upon himself, looking at his bare, weak hands. You can see that he's regretful as he proceeds to address you while looking down at his feet.:: Pretty much anything you could imagine went through here. All we cared about was to get paid, no allegiance to anyone or anything. We invited chaos and it came for us. ::He gasps.::<end>
+
+=>a29_original
+What was contained in those shipments?<end>
+
+=>a29
+What was contained in those shipments?<end>
+
+=>q30_original
+All I will tell you is that one of those shipments contained a pair of these plasma sentries that walk around here. As if it couldn't get any worse, the damn machines went berserk on us out of nowhere. You see, they'd only bother us when they start running low on batteries. We figured this out the hard way. ::He shrugs his shoulders.:: We couldn't keep providing the power they needed, hence we went out, searching for more. Some have yet to return. ::He sighs.::<end>
+
+=>q30
+All I will tell you is that one of those shipments contained a pair of these plasma sentries that walk around here. As if it couldn't get any worse, the damn machines went berserk on us out of nowhere. You see, they'd only bother us when they start running low on batteries. We figured this out the hard way. ::He shrugs his shoulders.:: We couldn't keep providing the power they needed, hence we went out, searching for more. Some have yet to return. ::He sighs.::<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Were you going to be the next one sent to scavenge?<end>
+
+=>a32
+Were you going to be the next one sent to scavenge?<end>
+
+=>q33_original
+It's going to be either Hannah or me, yes. Those ventures have always proven to be fatal. We have to figure something out to get out of here.<end>
+
+=>q33
+It's going to be either Hannah or me, yes. Those ventures have always proven to be fatal. We have to figure something out to get out of here.<end>
+
+=>a34_original
+I find it hard to believe that. They are just mindless robots.<end>
+
+=>a34
+I find it hard to believe that. They are just mindless robots.<end>
+
+=>q35_original
+I'm not kidding. ::He nods.:: Sometimes I feel that even looking at the charging station we've made for those sentries could make them go on rampage. But you know, eventually, you get used to the new rules. Keep your distance away from those batteries for your own good. ::He pulls up his sleeve to reveal a large bruise on his right shoulder. It looks painful and swollen.:: Or this'll happen.<end>
+
+=>q35
+I'm not kidding. ::He nods.:: Sometimes I feel that even looking at the charging station we've made for those sentries could make them go on rampage. But you know, eventually, you get used to the new rules. Keep your distance away from those batteries for your own good. ::He pulls up his sleeve to reveal a large bruise on his right shoulder. It looks painful and swollen.:: Or this'll happen.<end>
+
+=>a36_original
+Hmm, okay. I'll see what I can do about those robots.<end>
+
+=>a36
+Hmm, okay. I'll see what I can do about those robots.<end>
+
+=>a37_original
+I'll just mind my own business.<end>
+
+=>a37
+I'll just mind my own business.<end>
+
+=>a38_original
+What do the others say about this?<end>
+
+=>a38
+What do the others say about this?<end>
+
+=>q39_original
+We're all devastated here. Some have lost their loved ones, and the others, their so called "careers" and petty fortune. At this point, we just don't have what it takes to take them all down. There's no hope left.<end>
+
+=>q39
+We're all devastated here. Some have lost their loved ones, and the others, their so called "careers" and petty fortune. At this point, we just don't have what it takes to take them all down. There's no hope left.<end>
+
+=>a40_original
+Why don't you just leave this place?<end>
+
+=>a40
+Why don't you just leave this place?<end>
+
+=>q41_original
+We've put so much effort into making this place work out for us, you know? It's sort of... our new home. ::He pauses.:: Pretty much everyone else's still in shock from the recent events we've endured. Besides that, you've seen what's out there, and we're simply in no shape to move out just like that.<end>
+
+=>q41
+We've put so much effort into making this place work out for us, you know? It's sort of... our new home. ::He pauses.:: Pretty much everyone else's still in shock from the recent events we've endured. Besides that, you've seen what's out there, and we're simply in no shape to move out just like that.<end>
+
+=>a42_original
+So, what's causing all the trouble here?<end>
+
+=>a42
+So, what's causing all the trouble here?<end>
+
+=>a43_original
+It seems you guys have plenty of stuff here.<end>
+
+=>a43
+It seems you guys have plenty of stuff here.<end>
+
+=>q44_original
+Huh? ::He looks you in the eyes.:: W-what do you mean by that?<end>
+
+=>q44
+Huh? ::He looks you in the eyes.:: W-what do you mean by that?<end>
+
+=>a45_original
+Just an observation. Continue please, I believe there's more you can tell me about the situation here.<end>
+
+=>a45
+Just an observation. Continue please, I believe there's more you can tell me about the situation here.<end>
+
+=>a46_original
+The loot. It's all I care about and it's about to be all mine! ::Attack!::<end>
+
+=>a46
+The loot. It's all I care about and it's about to be all mine! ::Attack!::<end>
+
+=>a47_original
+A criminal? I hate the likes of you! ::Attack!::<end>
+
+=>a47
+A criminal? I hate the likes of you! ::Attack!::<end>
+
+=>a48_original
+Strange that you mention that. How bad can it be?<end>
+
+=>a48
+Strange that you mention that. How bad can it be?<end>
+
+=>a49_original
+Yeah, I don't really care.<end>
+
+=>a49
+Yeah, I don't really care.<end>
+
+=>q50_original
+Don't get me wrong. It has nothing to do with you. ::He peeks at you for a second only to turn back right after.:: Things out here were just going from bad to worse. At this point we could use any help we can get to bail out of this mess.<end>
+
+=>q50
+Don't get me wrong. It has nothing to do with you. ::He peeks at you for a second only to turn back right after.:: Things out here were just going from bad to worse. At this point we could use any help we can get to bail out of this mess.<end>
+
+=>a51_original
+Hmm, sure. I'll listen.<end>
+
+=>a51
+Hmm, sure. I'll listen.<end>
+
+=>a52_original
+::Turn around and leave.::<end>
+
+=>a52
+::Turn around and leave.::<end>
+
+=>a53_original
+Suppose I'll just rip the secrets out of your heart! ::Attack!::<end>
+
+=>a53
+Suppose I'll just rip the secrets out of your heart! ::Attack!::<end>
+
+=>a54_original
+Yes, it's the time you pay for your crimes.<end>
+
+=>a54
+Yes, it's the time you pay for your crimes.<end>
+
+=>q55_original
+Uhh, I-I don't know what to tell you. ::He steps back.:: This has nothing to do with the rest of us here. <end>
+
+=>q55
+Uhh, I-I don't know what to tell you. ::He steps back.:: This has nothing to do with the rest of us here. <end>
+
+=>a56_original
+I will reconsider my judgement if you tell me everything about this place.<end>
+
+=>a56
+I will reconsider my judgement if you tell me everything about this place.<end>
+
+=>a57_original
+What seems to be the problem here?<end>
+
+=>a57
+What seems to be the problem here?<end>
+
+=>a58_original
+All thieves deserve to die! ::Attack!::<end>
+
+=>a58
+All thieves deserve to die! ::Attack!::<end>
+
+=>a59_original
+I'm $(context.player.Name). I came from the northeast side of the cave.<end>
+
+=>a59
+I'm $(context.player.Name). I came from the northeast side of the cave.<end>
+
+=>q60_original
+Uhh, did you see someone before you got here?<end>
+
+=>q60
+Uhh, did you see someone before you got here?<end>
+
+=>a61_original
+I'm investigating something highly confidential. I did run into some muggers along the way.<end>
+
+=>a61
+I'm investigating something highly confidential. I did run into some muggers along the way.<end>
+
+=>q62_original
+Oh... ::He stops for a moment.:: Those people came from here. I'm sorry if they acted hostile towards you.
+<end>
+
+=>q62
+Oh... ::He stops for a moment.:: Those people came from here. I'm sorry if they acted hostile towards you.
+<end>
+
+=>a63_original
+No offense taken. What's going on here, though?<end>
+
+=>a63
+No offense taken. What's going on here, though?<end>
+
+=>a64_original
+I see. Bunch of troublemakers.<end>
+
+=>a64
+I see. Bunch of troublemakers.<end>
+
+=>q65_original
+Huh? Uhh, please don't take this wrong. We wouldn't have sent anyone out if we didn't got into this mess ourselves.<end>
+
+=>q65
+Huh? Uhh, please don't take this wrong. We wouldn't have sent anyone out if we didn't got into this mess ourselves.<end>
+
+=>a66_original
+What mess?<end>
+
+=>a66
+What mess?<end>
+
+=>a67_original
+So you are just one of them. Time to put you in your place! ::Attack!::<end>
+
+=>a67
+So you are just one of them. Time to put you in your place! ::Attack!::<end>
+
+=>a68_original
+None of my business.<end>
+
+=>a68
+None of my business.<end>
+
+=>a69_original
+I was just scavenging around and ended up in here. I was all alone.<end>
+
+=>a69
+I was just scavenging around and ended up in here. I was all alone.<end>
+
+=>q70_original
+All alone? ::He looks to the ground.:: It... it all went off the rails after the earthquake struck.<end>
+
+=>q70
+All alone? ::He looks to the ground.:: It... it all went off the rails after the earthquake struck.<end>
+
+=>a71_original
+Is something wrong?<end>
+
+=>a71
+Is something wrong?<end>
+
+=>a72_original
+My name is not of concern here. What is this place about?<end>
+
+=>a72
+My name is not of concern here. What is this place about?<end>
+
+=>q73_original
+Huh? Look, whatever trouble you had to go through to get here... ::he stops for a moment:: it had nothing to do with the rest of us, okay? <end>
+
+=>q73
+Huh? Look, whatever trouble you had to go through to get here... ::he stops for a moment:: it had nothing to do with the rest of us, okay? <end>
+
+=>a74_original
+We'll see about that. Tell me more.<end>
+
+=>a74
+We'll see about that. Tell me more.<end>
+
+=>q75_original
+Look, I-I don't know what your intentions are, nor how did you end up in here, okay? ::He looks over his shoulder and down the hall as if he's expecting someone.:: We are not looking for any more trouble than we already have here, alright?<end>
+
+=>q75
+Look, I-I don't know what your intentions are, nor how did you end up in here, okay? ::He looks over his shoulder and down the hall as if he's expecting someone.:: We are not looking for any more trouble than we already have here, alright?<end>
+
+=>a76_original
+And why should I care?<end>
+
+=>a76
+And why should I care?<end>
+
+=>q77_original
+At this point I-I don't know. ::He shakes his head, side to side.:: We ... ::He sighs:: we need any help we can get.<end>
+
+=>q77
+At this point I-I don't know. ::He shakes his head, side to side.:: We ... ::He sighs:: we need any help we can get.<end>
+
+=>a78_original
+Hmph, okay. Let me hear it.<end>
+
+=>a78
+Hmph, okay. Let me hear it.<end>
+
+=>a79_original
+I'll just mind my own business.<end>
+
+=>a79
+I'll just mind my own business.<end>
+
+=>a80_original
+Trouble? Oh I'll bring you some trouble! ::Attack!::<end>
+
+=>a80
+Trouble? Oh I'll bring you some trouble! ::Attack!::<end>
+
+=>a81_original
+Stay out of my way.<end>
+
+=>a81
+Stay out of my way.<end>
+
+=>a82_original
+Actually, nevermind. I don't care anymore.<end>
+
+=>a82
+Actually, nevermind. I don't care anymore.<end>
+
+=>a83_original
+Just let me do my thing.<end>
+
+=>a83
+Just let me do my thing.<end>
+
+=>q84_original
+Uhh, yeah?<end>
+
+=>q84
+Uhh, yeah?<end>
+
+=>a85_original
+The robots are no more.<end>
+
+=>a85
+The robots are no more.<end>
+
+=>q86_original
+Woah, I thought we'd never get rid of them. Crazy stuff.<end>
+
+=>q86
+Woah, I thought we'd never get rid of them. Crazy stuff.<end>
+
+=>a87_original
+Yeah, now you are on your own.<end>
+
+=>a87
+Yeah, now you are on your own.<end>
+
+=>q88_original
+I will consult with the others. We are kinda stuck in here you know.<end>
+
+=>q88
+I will consult with the others. We are kinda stuck in here you know.<end>
+
+=>a89_original
+Goodbye for now.<end>
+
+=>a89
+Goodbye for now.<end>
+
+=>a90_original
+::Nod and leave.::<end>
+
+=>a90
+::Nod and leave.::<end>
+
+=>a91_original
+Now you are free to do as you wish.<end>
+
+=>a91
+Now you are free to do as you wish.<end>
+
+=>a92_original
+Do you mind telling me more about this place?<end>
+
+=>a92
+Do you mind telling me more about this place?<end>
+
+=>a93_original
+Time to die! ::Attack!::<end>
+
+=>a93
+Time to die! ::Attack!::<end>
+
+=>a94_original
+Nothing much.<end>
+
+=>a94
+Nothing much.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>q96_original
+Weird stuff in here.<end>
+
+=>q96
+Weird stuff in here.<end>
+
+=>q97_original
+Woooah! <end>
+
+=>q97
+Woooah! <end>
+
+=>q98_original
+::Moves his head in circles.::<end>
+
+=>q98
+::Moves his head in circles.::<end>
+
+=>q99_original
+::Breathes heavily.::<end>
+
+=>q99
+::Breathes heavily.::<end>
+
+=>q100_original
+::Clears throat loudly.::<end>
+
+=>q100
+::Clears throat loudly.::<end>
+
+=>q101_original
+The walls, they are moving back and forth.<end>
+
+=>q101
+The walls, they are moving back and forth.<end>
+

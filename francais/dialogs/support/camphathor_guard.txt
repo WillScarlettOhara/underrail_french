@@ -1,0 +1,120 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I strongly oppose this truce. Nothin' good's gonna come out of it. Why would Edgar trust him?<end>
+
+=>q2
+I strongly oppose this truce. Nothin' good's gonna come out of it. Why would Edgar trust him?<end>
+
+=>q3_original
+Ah, $(context.player.Name), how's it goin'?<end>
+
+=>q3
+Ah, $(context.player.Name), how's it goin'?<end>
+
+=>q4_original
+Great job dealin' with them burrowers. They were quite a pain.<end>
+
+=>q4
+Great job dealin' with them burrowers. They were quite a pain.<end>
+
+=>q5_original
+Visit our merchants. I'm sure you can find somethin' interestin'.<end>
+
+=>q5
+Visit our merchants. I'm sure you can find somethin' interestin'.<end>
+
+=>q6_original
+I'm still bored.<end>
+
+=>q6
+I'm still bored.<end>
+
+=>q7_original
+Pity Drag 'n' Drop never gets towed to Isaac's River. Could use a good cocktail.<end>
+
+=>q7
+Pity Drag 'n' Drop never gets towed to Isaac's River. Could use a good cocktail.<end>
+
+=>q8_original
+I gotta be careful when I shoot rathounds now. I don't wanna get Rathound King mad again.<end>
+
+=>q8
+I gotta be careful when I shoot rathounds now. I don't wanna get Rathound King mad again.<end>
+
+=>q9_original
+That savage is dead, I can't believe it! But, we gotta stay alert.<end>
+
+=>q9
+That savage is dead, I can't believe it! But, we gotta stay alert.<end>
+
+=>q10_original
+I heard the Tunnelers left Core City.<end>
+
+=>q10
+I heard the Tunnelers left Core City.<end>
+
+=>q11_original
+Rest in pieces, Rathound King.<end>
+
+=>q11
+Rest in pieces, Rathound King.<end>
+
+=>q12_original
+I'm sure Edgar fought bravely. We'll miss him.<end>
+
+=>q12
+I'm sure Edgar fought bravely. We'll miss him.<end>
+
+=>q13_original
+Boyd is runnin' the camp at the moment, so if you need somethin', you'll find him in Edgar's office.<end>
+
+=>q13
+Boyd is runnin' the camp at the moment, so if you need somethin', you'll find him in Edgar's office.<end>
+
+=>q14_original
+I'm glad the burrowers are finally gone. Life's much better now.<end>
+
+=>q14
+I'm glad the burrowers are finally gone. Life's much better now.<end>
+
+=>q15_original
+So bored.<end>
+
+=>q15
+So bored.<end>
+
+=>q16_original
+Bloody burrowers!<end>
+
+=>q16
+Bloody burrowers!<end>
+
+=>q17_original
+Don't cause any trouble, stranger, and we'll get along just fine.<end>
+
+=>q17
+Don't cause any trouble, stranger, and we'll get along just fine.<end>
+
+=>q18_original
+Have you seen Sarine lately? Beck was lookin' for her just recently.<end>
+
+=>q18
+Have you seen Sarine lately? Beck was lookin' for her just recently.<end>
+
+=>q19_original
+Rathound King must be dead. I'm sure someone will find the body.<end>
+
+=>q19
+Rathound King must be dead. I'm sure someone will find the body.<end>
+
+=>q20_original
+Someone stole my boots!<end>
+
+=>q20
+Someone stole my boots!<end>
+

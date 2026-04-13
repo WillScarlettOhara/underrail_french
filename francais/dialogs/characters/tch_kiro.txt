@@ -1,0 +1,276 @@
+=>q1_original
+We are not surviving this.<end>
+
+=>q1
+We are not surviving this.<end>
+
+=>q2_original
+::This thin man seems uninterested in you at first glance, as his facial expression doesn't change at all when he notices you trying to start a conversation - and his body language doesn't differ. What you also find peculiar is the fact that he almost never breaks eye contact, but maintains it during the whole conversation. Luckily, he blinks in regular intervals, or else the mechanical stare would seem even more awkward. Also, it comes as no surprise that his tone of voice is as flat as his excitement for the conversation he is engaged in.::
+
+Tchort is evolution. I am Investigator Kiro. Who are you?<end>
+
+=>q2
+::This thin man seems uninterested in you at first glance, as his facial expression doesn't change at all when he notices you trying to start a conversation - and his body language doesn't differ. What you also find peculiar is the fact that he almost never breaks eye contact, but maintains it during the whole conversation. Luckily, he blinks in regular intervals, or else the mechanical stare would seem even more awkward. Also, it comes as no surprise that his tone of voice is as flat as his excitement for the conversation he is engaged in.::
+
+Tchort is evolution. I am Investigator Kiro. Who are you?<end>
+
+=>a3_original
+Evolution is Tchort, brother. I am $(context.player.Name) and I wanted to ask you a few questions.<end>
+
+=>a3
+Evolution is Tchort, brother. I am $(context.player.Name) and I wanted to ask you a few questions.<end>
+
+=>q4_original
+No problem at all, $(#brother/sister). What is on your mind?<end>
+
+=>q4
+No problem at all, $(#brother/sister). What is on your mind?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::[Mechanics]:: Do you happen to have any spare super steel sheets that aren't going to be used in the particle accelerator? I might need them for... constructing certain things.<end>
+
+=>a6
+::[Mechanics]:: Do you happen to have any spare super steel sheets that aren't going to be used in the particle accelerator? I might need them for... constructing certain things.<end>
+
+=>q7_original
+Super steel components for the particle accelerator are costly and take time to manufacture to our apex standards. Since the production is limited and demand great, I cannot spare a single one of those, $(#brother/sister).<end>
+
+=>q7
+Super steel components for the particle accelerator are costly and take time to manufacture to our apex standards. Since the production is limited and demand great, I cannot spare a single one of those, $(#brother/sister).<end>
+
+=>q8_original
+However, sheets are sometimes replaced after a certain number of particular experiments. They degrade in quality and are no longer suitable for testing. We either recycle them or repurpose them.
+
+These I can spare. You may take a look at them if you wish.<end>
+
+=>q8
+However, sheets are sometimes replaced after a certain number of particular experiments. They degrade in quality and are no longer suitable for testing. We either recycle them or repurpose them.
+
+These I can spare. You may take a look at them if you wish.<end>
+
+=>a9_original
+::Barter.::<end>
+
+=>a9
+::Barter.::<end>
+
+=>a10_original
+Principal Investigator Schteff told me I could purchase high-tech stuff from you.<end>
+
+=>a10
+Principal Investigator Schteff told me I could purchase high-tech stuff from you.<end>
+
+=>q11_original
+Of course, $(#brother/sister). Please wait a moment and I will show you what is available.<end>
+
+=>q11
+Of course, $(#brother/sister). Please wait a moment and I will show you what is available.<end>
+
+=>a12_original
+I would like to purchase something.<end>
+
+=>a12
+I would like to purchase something.<end>
+
+=>a13_original
+I am in need of some high-tech gadgetry and components. I guess this would be the right place to ask...<end>
+
+=>a13
+I am in need of some high-tech gadgetry and components. I guess this would be the right place to ask...<end>
+
+=>q14_original
+There are components and devices that I may be able to offer you for purchase, but I must have PI Schteff's permission before I can actually do so. You can go ask him.<end>
+
+=>q14
+There are components and devices that I may be able to offer you for purchase, but I must have PI Schteff's permission before I can actually do so. You can go ask him.<end>
+
+=>a15_original
+Okay, just tell me where can I find him?<end>
+
+=>a15
+Okay, just tell me where can I find him?<end>
+
+=>q16_original
+His office is the one with double doors, just by the resonant transformer. Hard to miss it, $(#brother/sister).<end>
+
+=>q16
+His office is the one with double doors, just by the resonant transformer. Hard to miss it, $(#brother/sister).<end>
+
+=>a17_original
+I'll ask him that, but I had other questions first.<end>
+
+=>a17
+I'll ask him that, but I had other questions first.<end>
+
+=>q18_original
+Of course, $(#brother/sister).<end>
+
+=>q18
+Of course, $(#brother/sister).<end>
+
+=>a19_original
+I'll go ask him then. Will be right back.<end>
+
+=>a19
+I'll go ask him then. Will be right back.<end>
+
+=>a20_original
+Can you tell me who's in charge here?<end>
+
+=>a20
+Can you tell me who's in charge here?<end>
+
+=>q21_original
+That would be Principal Investigator Schteff; he runs the Department of Physics. He should be in his office in case you need him.<end>
+
+=>q21
+That would be Principal Investigator Schteff; he runs the Department of Physics. He should be in his office in case you need him.<end>
+
+=>q22_original
+Anything else on your mind, $(#brother/sister)?<end>
+
+=>q22
+Anything else on your mind, $(#brother/sister)?<end>
+
+=>a23_original
+What's that machine you're working on?<end>
+
+=>a23
+What's that machine you're working on?<end>
+
+=>q24_original
+This is our particle accelerator.<end>
+
+=>q24
+This is our particle accelerator.<end>
+
+=>a25_original
+::[Electronics]:: What accelerates the particles? Electromagnetic fields?<end>
+
+=>a25
+::[Electronics]:: What accelerates the particles? Electromagnetic fields?<end>
+
+=>q26_original
+Precisely, $(#brother/sister). <end>
+
+=>q26
+Precisely, $(#brother/sister). <end>
+
+=>q27_original
+What you see before you is only one part of the machine - the rest is a five-hundred-meter-long circular *track* looping through the Institute building. This allows us to propel particles around until they reach sufficient speed, and then we steer them, guide them - like Tchort guides us - with superconducting magnets.<end>
+
+=>q27
+What you see before you is only one part of the machine - the rest is a five-hundred-meter-long circular *track* looping through the Institute building. This allows us to propel particles around until they reach sufficient speed, and then we steer them, guide them - like Tchort guides us - with superconducting magnets.<end>
+
+=>q28_original
+The particles form beams, and then we can collide them or aim them at fixed targets.<end>
+
+=>q28
+The particles form beams, and then we can collide them or aim them at fixed targets.<end>
+
+=>a29_original
+By Tchort!<end>
+
+=>a29
+By Tchort!<end>
+
+=>q30_original
+Apex, is it not?<end>
+
+=>q30
+Apex, is it not?<end>
+
+=>a31_original
+What do you learn from all of this?<end>
+
+=>a31
+What do you learn from all of this?<end>
+
+=>q32_original
+We can study how the particles react during collision, what kind of radiation gets released - we can observe the effects it has on materials and tissue. It can be used for many things. Currently we use it to simulate Surface radiation, or what we hypothesize it could be like. 
+
+Or, we will be using it after the replacement super steel sheets are installed inside the track.<end>
+
+=>q32
+We can study how the particles react during collision, what kind of radiation gets released - we can observe the effects it has on materials and tissue. It can be used for many things. Currently we use it to simulate Surface radiation, or what we hypothesize it could be like. 
+
+Or, we will be using it after the replacement super steel sheets are installed inside the track.<end>
+
+=>q33_original
+We are fortunate to have inherited it from the original engineers of this building. We can maintain it - but constructing one today would be nigh impossible.<end>
+
+=>q33
+We are fortunate to have inherited it from the original engineers of this building. We can maintain it - but constructing one today would be nigh impossible.<end>
+
+=>a34_original
+What do you use it for?<end>
+
+=>a34
+What do you use it for?<end>
+
+=>q35_original
+Experiments, $(#brother/sister). <end>
+
+=>q35
+Experiments, $(#brother/sister). <end>
+
+=>a36_original
+What's that?<end>
+
+=>a36
+What's that?<end>
+
+=>a37_original
+Tchort guide you.<end>
+
+=>a37
+Tchort guide you.<end>
+
+=>q38_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q38
+Tchort guide you, $(#brother/sister).<end>
+
+=>a39_original
+Goodbye, Kiro.<end>
+
+=>a39
+Goodbye, Kiro.<end>
+
+=>a40_original
+Hello, my name is $(context.player.Name) and I was wondering if you could answer a few questions for me.<end>
+
+=>a40
+Hello, my name is $(context.player.Name) and I was wondering if you could answer a few questions for me.<end>
+
+=>q41_original
+I do have the time, $(#brother/sister). What is on your mind?<end>
+
+=>q41
+I do have the time, $(#brother/sister). What is on your mind?<end>
+
+=>a42_original
+Hey there, Kiro. $(context.player.Name) is the name I go by, and I had a couple of questions if I that's okay with you.<end>
+
+=>a42
+Hey there, Kiro. $(context.player.Name) is the name I go by, and I had a couple of questions if I that's okay with you.<end>
+
+=>q43_original
+These constant tremors are really distracting.<end>
+
+=>q43
+These constant tremors are really distracting.<end>
+
+=>q44_original
+What is on your mind, $(#brother/sister)?<end>
+
+=>q44
+What is on your mind, $(#brother/sister)?<end>
+

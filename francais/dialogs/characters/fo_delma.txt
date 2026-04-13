@@ -1,0 +1,528 @@
+=>q1_original
+Stop bothering me, you idiot. Get out!<end>
+
+=>q1
+Stop bothering me, you idiot. Get out!<end>
+
+=>q2_original
+::A middle-aged woman wearing gleaming metal armor gets up from behind her desk and stands up to meet her guest. She looks at you, lifting her slightly wrinkly eyelids to reveal experienced eyes that haven't lost much intensity since her younger days. Her voice, on the other hand, is already one step inside the grave, for it is heavy and low-pitched, sounding as if there is some weight on her vocal folds which pushes the voice down into the low range.::
+
+<end>
+
+=>q2
+::A middle-aged woman wearing gleaming metal armor gets up from behind her desk and stands up to meet her guest. She looks at you, lifting her slightly wrinkly eyelids to reveal experienced eyes that haven't lost much intensity since her younger days. Her voice, on the other hand, is already one step inside the grave, for it is heavy and low-pitched, sounding as if there is some weight on her vocal folds which pushes the voice down into the low range.::
+
+<end>
+
+=>q3_original
+Oh, aren't you $(context.player.Name)? It is a pleasure to finally meet you. I'm Delma Ward, the WARDen of Foundry prison. I will take this opportunity to say that we are all very grateful for what you did, getting rid of those rocky creatures and all. 
+
+Whatever it is you need, I will do my best to help you.<end>
+
+=>q3
+Oh, aren't you $(context.player.Name)? It is a pleasure to finally meet you. I'm Delma Ward, the WARDen of Foundry prison. I will take this opportunity to say that we are all very grateful for what you did, getting rid of those rocky creatures and all. 
+
+Whatever it is you need, I will do my best to help you.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I need to ask you some questions about a prisoner named Todor Sallywatch.<end>
+
+=>a5
+I need to ask you some questions about a prisoner named Todor Sallywatch.<end>
+
+=>q6_original
+Yes, Todor Sallywatch. What did you want to ask me about him? <end>
+
+=>q6
+Yes, Todor Sallywatch. What did you want to ask me about him? <end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Why is he here?<end>
+
+=>a8
+Why is he here?<end>
+
+=>q9_original
+What is your relationship with him?<end>
+
+=>q9
+What is your relationship with him?<end>
+
+=>a10_original
+He's my cousin.<end>
+
+=>a10
+He's my cousin.<end>
+
+=>q11_original
+Cousin?<end>
+
+=>q11
+Cousin?<end>
+
+=>a12_original
+::[Persuade]:: Yes, my mother's uncle and his father's father are brothers.<end>
+
+=>a12
+::[Persuade]:: Yes, my mother's uncle and his father's father are brothers.<end>
+
+=>q13_original
+Huh? Well, I guess that makes some sense. Yes. Okay, all is well. What was that you asked me, again?<end>
+
+=>q13
+Huh? Well, I guess that makes some sense. Yes. Okay, all is well. What was that you asked me, again?<end>
+
+=>q14_original
+I don't fall for that. I'm sorry, but I can't give this sort of information to just about everyone.<end>
+
+=>q14
+I don't fall for that. I'm sorry, but I can't give this sort of information to just about everyone.<end>
+
+=>a15_original
+Oh, come on! After all I've done for Foundry, you distrust me? Maybe I should have stayed out of the mine business and see how you fare without my help.<end>
+
+=>a15
+Oh, come on! After all I've done for Foundry, you distrust me? Maybe I should have stayed out of the mine business and see how you fare without my help.<end>
+
+=>q16_original
+::Your response instigates a long pause.:: Um, I'm sorry. I don't know what came over me, $(#amigo/chica). It seemed...
+
+Never mind, can you repeat the question you asked me a moment ago?<end>
+
+=>q16
+::Your response instigates a long pause.:: Um, I'm sorry. I don't know what came over me, $(#amigo/chica). It seemed...
+
+Never mind, can you repeat the question you asked me a moment ago?<end>
+
+=>a17_original
+If that's the case, let's discuss something else.<end>
+
+=>a17
+If that's the case, let's discuss something else.<end>
+
+=>q18_original
+If you say so.<end>
+
+=>q18
+If you say so.<end>
+
+=>a19_original
+You don't trust me, after all I've done for Foundry?<end>
+
+=>a19
+You don't trust me, after all I've done for Foundry?<end>
+
+=>q20_original
+I'm sorry, I didn't mean it like that. Forget I said anything. What was it you asked me about him, again?<end>
+
+=>q20
+I'm sorry, I didn't mean it like that. Forget I said anything. What was it you asked me about him, again?<end>
+
+=>a21_original
+Actually, we're just friends.<end>
+
+=>a21
+Actually, we're just friends.<end>
+
+=>q22_original
+I'm sorry, that's not good enough. Rules are rules.<end>
+
+=>q22
+I'm sorry, that's not good enough. Rules are rules.<end>
+
+=>a23_original
+So, I saved Foundry from being overrun by monsters and can't even ask about or see my friend in prison. Well, thank you, Delma.<end>
+
+=>a23
+So, I saved Foundry from being overrun by monsters and can't even ask about or see my friend in prison. Well, thank you, Delma.<end>
+
+=>q24_original
+::Your response instigates a long pause.:: All right, all right. What was that you wanted to ask me about Todor Sallywatch?<end>
+
+=>q24
+::Your response instigates a long pause.:: All right, all right. What was that you wanted to ask me about Todor Sallywatch?<end>
+
+=>a25_original
+He's my husband.<end>
+
+=>a25
+He's my husband.<end>
+
+=>q26_original
+I believe I heard someone mention him having a wife, or was it... Anyway, all is well. Can you repeat the question again, please?<end>
+
+=>q26
+I believe I heard someone mention him having a wife, or was it... Anyway, all is well. Can you repeat the question again, please?<end>
+
+=>a27_original
+We're just friends.<end>
+
+=>a27
+We're just friends.<end>
+
+=>q28_original
+He is accused of murdering a traveling merchant called Bolivar Daud. His case is currently on hold due to the unfortunate death of Judge Taylor, and it will be continued after a new judge has been elected.<end>
+
+=>q28
+He is accused of murdering a traveling merchant called Bolivar Daud. His case is currently on hold due to the unfortunate death of Judge Taylor, and it will be continued after a new judge has been elected.<end>
+
+=>q29_original
+Or, if something important and urgent comes up, the current chief - Chief Banner in this case - can decide the fate of the accused. That is all according to Foundry law.<end>
+
+=>q29
+Or, if something important and urgent comes up, the current chief - Chief Banner in this case - can decide the fate of the accused. That is all according to Foundry law.<end>
+
+=>a30_original
+I'd like to see him.<end>
+
+=>a30
+I'd like to see him.<end>
+
+=>q31_original
+I'll allow it, but this one time only. I'll tell the guards to lead you to the visiting room.<end>
+
+=>q31
+I'll allow it, but this one time only. I'll tell the guards to lead you to the visiting room.<end>
+
+=>a32_original
+::Go meet Todor.::<end>
+
+=>a32
+::Go meet Todor.::<end>
+
+=>a33_original
+I changed my mind. I need to do something first.<end>
+
+=>a33
+I changed my mind. I need to do something first.<end>
+
+=>q34_original
+As you wish $(#amigo/chica).<end>
+
+=>q34
+As you wish $(#amigo/chica).<end>
+
+=>q35_original
+I'm sorry, but you've already talked to him. I can't allow more visits for the time being.<end>
+
+=>q35
+I'm sorry, but you've already talked to him. I can't allow more visits for the time being.<end>
+
+=>a36_original
+Actually, let's discuss something else.<end>
+
+=>a36
+Actually, let's discuss something else.<end>
+
+=>a37_original
+What can you tell me about this place?<end>
+
+=>a37
+What can you tell me about this place?<end>
+
+=>q38_original
+You mean Foundry? Well, I don't know, $(#amigo/chica), I'm a prison warden, and most of the time I'm making sure murderers, thieves and other criminals stay locked up or do their community service. It's always the bad side of Foundry I see and deal with on a daily basis.<end>
+
+=>q38
+You mean Foundry? Well, I don't know, $(#amigo/chica), I'm a prison warden, and most of the time I'm making sure murderers, thieves and other criminals stay locked up or do their community service. It's always the bad side of Foundry I see and deal with on a daily basis.<end>
+
+=>q39_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there, especially now with the infestation of some very, very aggressive creatures. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q39
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there, especially now with the infestation of some very, very aggressive creatures. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q40_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q40
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>a41_original
+I see you like growing flowers.<end>
+
+=>a41
+I see you like growing flowers.<end>
+
+=>q42_original
+Yes, yes I do. Say, what do you think of them?<end>
+
+=>q42
+Yes, yes I do. Say, what do you think of them?<end>
+
+=>a43_original
+They are beautiful! Flowers are rare in general, let alone as exquisite as these.<end>
+
+=>a43
+They are beautiful! Flowers are rare in general, let alone as exquisite as these.<end>
+
+=>q44_original
+Thank you very much! I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q44
+Thank you very much! I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q45_original
+And during that time, while I'm relaxing in my office, all is well! Then, someone brings in a guy who killed his brother with a jackhammer. A signal it's time to get back to work! I swear, people just get more and more violent these days.<end>
+
+=>q45
+And during that time, while I'm relaxing in my office, all is well! Then, someone brings in a guy who killed his brother with a jackhammer. A signal it's time to get back to work! I swear, people just get more and more violent these days.<end>
+
+=>a46_original
+They are okay, I suppose.<end>
+
+=>a46
+They are okay, I suppose.<end>
+
+=>q47_original
+Well, I really like them. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q47
+Well, I really like them. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>a48_original
+Nah, I hate flowers myself. Thankfully, there aren't many of those around.<end>
+
+=>a48
+Nah, I hate flowers myself. Thankfully, there aren't many of those around.<end>
+
+=>q49_original
+Ah, well, I'm very sorry to hear that. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q49
+Ah, well, I'm very sorry to hear that. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q50_original
+You should try it! Get yourself a plant if you can, water it, watch it grow and blossom. Trust me, there is something... magical about it. It's, it's hard to explain.<end>
+
+=>q50
+You should try it! Get yourself a plant if you can, water it, watch it grow and blossom. Trust me, there is something... magical about it. It's, it's hard to explain.<end>
+
+=>a51_original
+Do you know anything about those mine creatures?<end>
+
+=>a51
+Do you know anything about those mine creatures?<end>
+
+=>q52_original
+Uh, well, the Foundry Guard is on high alert right now because of those things. Apparently, miners came in contact with some unknown species of violent creatures, and for safety reasons the mine has been temporarily closed.<end>
+
+=>q52
+Uh, well, the Foundry Guard is on high alert right now because of those things. Apparently, miners came in contact with some unknown species of violent creatures, and for safety reasons the mine has been temporarily closed.<end>
+
+=>q53_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
+
+=>q53
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
+
+=>q54_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
+
+=>q54
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
+
+=>a55_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a55
+How do you feel now that the mine has been reopened?<end>
+
+=>q56_original
+Foundry is back on its feet, alive and kicking. We got rid of the Beast, with your help of course, $(#amigo/chica). ::She laughs.::<end>
+
+=>q56
+Foundry is back on its feet, alive and kicking. We got rid of the Beast, with your help of course, $(#amigo/chica). ::She laughs.::<end>
+
+=>q57_original
+We still have to deal with the pollution and an increase in violent crimes, though. It's one step at a time, I suppose.<end>
+
+=>q57
+We still have to deal with the pollution and an increase in violent crimes, though. It's one step at a time, I suppose.<end>
+
+=>a58_original
+Tell me about the prison.<end>
+
+=>a58
+Tell me about the prison.<end>
+
+=>q59_original
+This prison is so secure no one's ever managed to escape from here. No one even tried, everyone knows how any such attempts will end. Well, there was a riot several years ago, unsuccessful, of course, but other than that, nothing.<end>
+
+=>q59
+This prison is so secure no one's ever managed to escape from here. No one even tried, everyone knows how any such attempts will end. Well, there was a riot several years ago, unsuccessful, of course, but other than that, nothing.<end>
+
+=>q60_original
+Foundry prides itself with being a station of justice; all prisoners go through fair trial, something which is rarely performed nowadays, $(#amigo/chica). Usually it's "You seem guilty... BOOM! Next please." Sad but true.
+
+Those who end up here usually do community service, which includes mining and other types of work.<end>
+
+=>q60
+Foundry prides itself with being a station of justice; all prisoners go through fair trial, something which is rarely performed nowadays, $(#amigo/chica). Usually it's "You seem guilty... BOOM! Next please." Sad but true.
+
+Those who end up here usually do community service, which includes mining and other types of work.<end>
+
+=>a61_original
+Can you tell me more about the community service?<end>
+
+=>a61
+Can you tell me more about the community service?<end>
+
+=>q62_original
+Sure I can, $(#amigo/chica). All prisoners are required to perform community service jobs. Since Foundry revolves around mining, all who are physically capable of such work are sent to the mine. It's like a regular job, only you get paid less... actually you don't get paid at all. Those who are not able to work inside the mine, we find something for them. It all depends on their previous skills, physical fitness and other factors.
+
+All is well, we never have problems with prisoners outside of the prison. They know they couldn't outsmart and escape the Foundry Guard anyway, so no one even bothered trying.<end>
+
+=>q62
+Sure I can, $(#amigo/chica). All prisoners are required to perform community service jobs. Since Foundry revolves around mining, all who are physically capable of such work are sent to the mine. It's like a regular job, only you get paid less... actually you don't get paid at all. Those who are not able to work inside the mine, we find something for them. It all depends on their previous skills, physical fitness and other factors.
+
+All is well, we never have problems with prisoners outside of the prison. They know they couldn't outsmart and escape the Foundry Guard anyway, so no one even bothered trying.<end>
+
+=>a63_original
+I wanted to ask you something else.<end>
+
+=>a63
+I wanted to ask you something else.<end>
+
+=>q64_original
+You are free to ask.<end>
+
+=>q64
+You are free to ask.<end>
+
+=>a65_original
+::[Persuade]:: I need full access to your surveillance room. I was sent here by Chief Banner himself.<end>
+
+=>a65
+::[Persuade]:: I need full access to your surveillance room. I was sent here by Chief Banner himself.<end>
+
+=>q66_original
+::Her reply is preceded by a puzzled look.:: Excuse me? I was never informed of this. Care to explain?<end>
+
+=>q66
+::Her reply is preceded by a puzzled look.:: Excuse me? I was never informed of this. Care to explain?<end>
+
+=>a67_original
+I can't reveal the details, but since it came from the chief himself, do know that it is of utmost importance.<end>
+
+=>a67
+I can't reveal the details, but since it came from the chief himself, do know that it is of utmost importance.<end>
+
+=>q68_original
+Okay. I understand. For an outsider, you have performed some great work for us, so I shouldn't have any reason to doubt you. All is well - you are free to conduct your investigation. If you need access to the main console, you are only allowed to review camera recordings - you are not allowed access to any of the other options.<end>
+
+=>q68
+Okay. I understand. For an outsider, you have performed some great work for us, so I shouldn't have any reason to doubt you. All is well - you are free to conduct your investigation. If you need access to the main console, you are only allowed to review camera recordings - you are not allowed access to any of the other options.<end>
+
+=>q69_original
+I'm sorry, but I'm going to have to speak to Chief Banner as soon as I see him. I know you've already cooperated with and helped the Foundry Guard, for which we are all thankful, but I'm saying no to your request. For now - until I speak to the chief.<end>
+
+=>q69
+I'm sorry, but I'm going to have to speak to Chief Banner as soon as I see him. I know you've already cooperated with and helped the Foundry Guard, for which we are all thankful, but I'm saying no to your request. For now - until I speak to the chief.<end>
+
+=>a70_original
+Something suspicious is happening within the Foundry Guard. Chief tasked me to conduct the whole investigation in secrecy, so I can't reveal too much information.<end>
+
+=>a70
+Something suspicious is happening within the Foundry Guard. Chief tasked me to conduct the whole investigation in secrecy, so I can't reveal too much information.<end>
+
+=>a71_original
+Goodbye.<end>
+
+=>a71
+Goodbye.<end>
+
+=>q72_original
+Good day, $(#sir/ma'am). My name's Delma Ward and I'm the warden of Foundry prison. Who might you be?<end>
+
+=>q72
+Good day, $(#sir/ma'am). My name's Delma Ward and I'm the warden of Foundry prison. Who might you be?<end>
+
+=>a73_original
+I'm $(context.player.Name). It is a pleasure to meet you.<end>
+
+=>a73
+I'm $(context.player.Name). It is a pleasure to meet you.<end>
+
+=>q74_original
+Well, $(context.player.Name), what can I do to help you?<end>
+
+=>q74
+Well, $(context.player.Name), what can I do to help you?<end>
+
+=>a75_original
+That's none of your business, woman.<end>
+
+=>a75
+That's none of your business, woman.<end>
+
+=>q76_original
+::She frowns.:: You're in my prison, $(#amigo/chica). If I ask for your name, you better give me a proper answer instead of a smartass remark. Let's do this again... shall we? 
+
+Who are you?<end>
+
+=>q76
+::She frowns.:: You're in my prison, $(#amigo/chica). If I ask for your name, you better give me a proper answer instead of a smartass remark. Let's do this again... shall we? 
+
+Who are you?<end>
+
+=>a77_original
+Um, I'm very sorry for my behaviour. It's been a rough day and I don't know what came over me to reply like that. I'm $(context.player.Name).<end>
+
+=>a77
+Um, I'm very sorry for my behaviour. It's been a rough day and I don't know what came over me to reply like that. I'm $(context.player.Name).<end>
+
+=>q78_original
+All is well, the recent events have had us all on the edge. Just don't let it happen again. What can I do to help you?<end>
+
+=>q78
+All is well, the recent events have had us all on the edge. Just don't let it happen again. What can I do to help you?<end>
+
+=>a79_original
+Go to hell, woman. I'm not telling you my name!<end>
+
+=>a79
+Go to hell, woman. I'm not telling you my name!<end>
+
+=>q80_original
+You're very lucky this is a civilized station; if you had said that somewhere else, you'd probably had gotten a bullet through your barren skull. 
+
+We're done here. Get out of my office or else you'll get yourself into real trouble.<end>
+
+=>q80
+You're very lucky this is a civilized station; if you had said that somewhere else, you'd probably had gotten a bullet through your barren skull. 
+
+We're done here. Get out of my office or else you'll get yourself into real trouble.<end>
+
+=>q81_original
+$(#Amigo/Chica), good to see you.<end>
+
+=>q81
+$(#Amigo/Chica), good to see you.<end>
+
+=>q82_original
+Yes? What can I do to help you?<end>
+
+=>q82
+Yes? What can I do to help you?<end>
+

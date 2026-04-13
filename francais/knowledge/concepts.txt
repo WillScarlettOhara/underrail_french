@@ -1,0 +1,10 @@
+::MovementPoints
+These points can only be used for movement.
+
+::ActionPoints
+These points can be used for performing actions or for movement if there are no movement points left. You can carry over up to {0} unspent action points to the next turn.
+
+::Innervate
+Applies the changes made to the psi ability selection. This will instantly drain all of your psi points and reserves.
+
+This can only be done out of combat.

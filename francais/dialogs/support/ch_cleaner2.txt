@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Muffled.:: Keep the door open.<end>
+
+=>q2
+::Muffled.:: Keep the door open.<end>
+
+=>q3_original
+::Muffled.:: The stench here is horrible. I can even feel it through the gas mask.<end>
+
+=>q3
+::Muffled.:: The stench here is horrible. I can even feel it through the gas mask.<end>
+
+=>q4_original
+::Muffled.:: You did good. Now it's our turn.<end>
+
+=>q4
+::Muffled.:: You did good. Now it's our turn.<end>
+
+=>q5_original
+::Muffled.:: Is it just me or is that egg there about to hatch?<end>
+
+=>q5
+::Muffled.:: Is it just me or is that egg there about to hatch?<end>
+
+=>q6_original
+::Muffled.:: I don't think we'll ever get rid of the smell...<end>
+
+=>q6
+::Muffled.:: I don't think we'll ever get rid of the smell...<end>
+
+=>q7_original
+::Muffled.:: Came back to visit the "crime scene", heh?<end>
+
+=>q7
+::Muffled.:: Came back to visit the "crime scene", heh?<end>
+
+=>q8_original
+::Muffled.:: Thanks for slayin' the bugs.<end>
+
+=>q8
+::Muffled.:: Thanks for slayin' the bugs.<end>
+
+=>q9_original
+::Muffled.:: There are so many eggs in this place. These bugs multiply so damn fast.<end>
+
+=>q9
+::Muffled.:: There are so many eggs in this place. These bugs multiply so damn fast.<end>
+

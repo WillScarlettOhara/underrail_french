@@ -1,0 +1,682 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+...And now, this is a huntin' camp. The end. Interestin', hm? I came to Hathor some years after the mine was closed, but, you know, I feel like I was born here.<end>
+
+=>q2
+...And now, this is a huntin' camp. The end. Interestin', hm? I came to Hathor some years after the mine was closed, but, you know, I feel like I was born here.<end>
+
+=>a3_original
+Hmmm. This helmet has the initials I.H. written inside it. Could it be...<end>
+
+=>a3
+Hmmm. This helmet has the initials I.H. written inside it. Could it be...<end>
+
+=>q4_original
+::First his eyes widen, then his eyebrows raise, then his mouth drops - his face transforms into an expression of disbelief.::
+
+What? Is this... No... it couldn't be. Where did you find this?<end>
+
+=>q4
+::First his eyes widen, then his eyebrows raise, then his mouth drops - his face transforms into an expression of disbelief.::
+
+What? Is this... No... it couldn't be. Where did you find this?<end>
+
+=>a5_original
+Deep Caverns.<end>
+
+=>a5
+Deep Caverns.<end>
+
+=>q6_original
+I see. I see now. Yes. Isaac Hathor must've reached Deep Caverns through the Hathor mine. There ain't any other explanation, $(#mate/miss). I... I'm goin' to faint.<end>
+
+=>q6
+I see. I see now. Yes. Isaac Hathor must've reached Deep Caverns through the Hathor mine. There ain't any other explanation, $(#mate/miss). I... I'm goin' to faint.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Is this really so important to you?<end>
+
+=>a8
+Is this really so important to you?<end>
+
+=>q9_original
+You ain't got the idea how important that is to our camp's history. Who, I mean, who knows if many years from now, when Hathor has become a large station with its own proper railroad, children will look at this here helmet and go, "yeah." You dig?<end>
+
+=>q9
+You ain't got the idea how important that is to our camp's history. Who, I mean, who knows if many years from now, when Hathor has become a large station with its own proper railroad, children will look at this here helmet and go, "yeah." You dig?<end>
+
+=>q10_original
+We must have the helmet.<end>
+
+=>q10
+We must have the helmet.<end>
+
+=>a11_original
+Here you go. ::Give him the helmet.::<end>
+
+=>a11
+Here you go. ::Give him the helmet.::<end>
+
+=>q12_original
+::As he takes the old helmet from your hands, his expression mirrors the joy he is feeling deep down inside him. You even expect a tear to roll down his cheek, but maybe it would be too much.::
+
+We gotta build a separate shack for this one - a museum. Lights and... and all that stuff, hm.<end>
+
+=>q12
+::As he takes the old helmet from your hands, his expression mirrors the joy he is feeling deep down inside him. You even expect a tear to roll down his cheek, but maybe it would be too much.::
+
+We gotta build a separate shack for this one - a museum. Lights and... and all that stuff, hm.<end>
+
+=>a13_original
+There was a few things I wanted to ask you.<end>
+
+=>a13
+There was a few things I wanted to ask you.<end>
+
+=>q14_original
+Hm?<end>
+
+=>q14
+Hm?<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+I would like to see your wares. ::Barter.::<end>
+
+=>a16
+I would like to see your wares. ::Barter.::<end>
+
+=>a17_original
+About that helmet...<end>
+
+=>a17
+About that helmet...<end>
+
+=>a18_original
+You know, I'm really interested in purchasing that tailoring bench over there.<end>
+
+=>a18
+You know, I'm really interested in purchasing that tailoring bench over there.<end>
+
+=>q19_original
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. It ain't for sale.<end>
+
+=>q19
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. It ain't for sale.<end>
+
+=>a20_original
+Can't we make some deal? I haven't seen another one anywhere else and I need one.<end>
+
+=>a20
+Can't we make some deal? I haven't seen another one anywhere else and I need one.<end>
+
+=>q21_original
+::His stare jumps between you and the bench. Then he rubs his chin, scratches his head and rubs his ear. After this unusual ritual, he answers.::
+
+No, I'm sorry. I mean, I made this one meself and... No. No, sorry.<end>
+
+=>q21
+::His stare jumps between you and the bench. Then he rubs his chin, scratches his head and rubs his ear. After this unusual ritual, he answers.::
+
+No, I'm sorry. I mean, I made this one meself and... No. No, sorry.<end>
+
+=>a22_original
+I'm willing to pay good money.<end>
+
+=>a22
+I'm willing to pay good money.<end>
+
+=>q23_original
+::He repeats the previous ritual, but a response comes a bit more quickly.::
+
+Okay, listen here: This *cannot* go under one thousand charons. If you want it so bad, that's the price. Otherwise, it'd hurt me business, $(#mate/miss).<end>
+
+=>q23
+::He repeats the previous ritual, but a response comes a bit more quickly.::
+
+Okay, listen here: This *cannot* go under one thousand charons. If you want it so bad, that's the price. Otherwise, it'd hurt me business, $(#mate/miss).<end>
+
+=>a24_original
+About that tailoring workbench...<end>
+
+=>a24
+About that tailoring workbench...<end>
+
+=>q25_original
+Hm? Do you have the money? One thousand charons.<end>
+
+=>q25
+Hm? Do you have the money? One thousand charons.<end>
+
+=>a26_original
+Here's the money. ::Give him 1000 stygian coins.::<end>
+
+=>a26
+Here's the money. ::Give him 1000 stygian coins.::<end>
+
+=>q27_original
+Well, the bench is yours to take. I'm goin' to miss it, but... yeah. Got coins to help me replace it.<end>
+
+=>q27
+Well, the bench is yours to take. I'm goin' to miss it, but... yeah. Got coins to help me replace it.<end>
+
+=>a28_original
+I can't take it right away. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a28
+I can't take it right away. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>q29_original
+Yeah, I dig. No problems with me.<end>
+
+=>q29
+Yeah, I dig. No problems with me.<end>
+
+=>a30_original
+::[Mercantile]:: One thousand is a bit too much. I think seven hundred is a fairer price. And it's not like you're running your business in Core City where life is a lot more expensive.<end>
+
+=>a30
+::[Mercantile]:: One thousand is a bit too much. I think seven hundred is a fairer price. And it's not like you're running your business in Core City where life is a lot more expensive.<end>
+
+=>q31_original
+Well, hm, it's true that this ain't Core City, I mean, yeah, but... ::He pauses to think.:: Okay, okay, okay. It's yours for seven hundred.<end>
+
+=>q31
+Well, hm, it's true that this ain't Core City, I mean, yeah, but... ::He pauses to think.:: Okay, okay, okay. It's yours for seven hundred.<end>
+
+=>a32_original
+Here's seven hundred. ::Give him 700 stygian coins.::<end>
+
+=>a32
+Here's seven hundred. ::Give him 700 stygian coins.::<end>
+
+=>q33_original
+I'm sorry, $(#mate/miss). One thousand or the bench stays with me here.<end>
+
+=>q33
+I'm sorry, $(#mate/miss). One thousand or the bench stays with me here.<end>
+
+=>a34_original
+Actually, I need to think some more.<end>
+
+=>a34
+Actually, I need to think some more.<end>
+
+=>q35_original
+Dig. I ain't goin' anywhere.<end>
+
+=>q35
+Dig. I ain't goin' anywhere.<end>
+
+=>a36_original
+::[Tailoring]:: What kind of solution are you using to treat hopper skins?<end>
+
+=>a36
+::[Tailoring]:: What kind of solution are you using to treat hopper skins?<end>
+
+=>q37_original
+You workin' with leather yourself?<end>
+
+=>q37
+You workin' with leather yourself?<end>
+
+=>a38_original
+Sometimes.<end>
+
+=>a38
+Sometimes.<end>
+
+=>q39_original
+Oh. Well, I'm usin' a mix of ethyl alcohol and glycerin, you know, the latter of which we get from animal fat; wild boars are good for that, 'cause they got plenty. I use the same solution for all reptile skins and such, and generally avoid usin' salts. Just me preference.<end>
+
+=>q39
+Oh. Well, I'm usin' a mix of ethyl alcohol and glycerin, you know, the latter of which we get from animal fat; wild boars are good for that, 'cause they got plenty. I use the same solution for all reptile skins and such, and generally avoid usin' salts. Just me preference.<end>
+
+=>a40_original
+You avoid it altogether or just for reptile skin?<end>
+
+=>a40
+You avoid it altogether or just for reptile skin?<end>
+
+=>q41_original
+Just for reptile; it's just better for the skin. For others, I cure them the traditional way, you know.<end>
+
+=>q41
+Just for reptile; it's just better for the skin. For others, I cure them the traditional way, you know.<end>
+
+=>a42_original
+I was expecting to learn something new.<end>
+
+=>a42
+I was expecting to learn something new.<end>
+
+=>q43_original
+::He shrugs.:: There ain't nothin' fancy about the way I do it, I'm afraid. I got a couple of tricks of mine, of course, but again, nothin' much fancy.<end>
+
+=>q43
+::He shrugs.:: There ain't nothin' fancy about the way I do it, I'm afraid. I got a couple of tricks of mine, of course, but again, nothin' much fancy.<end>
+
+=>a44_original
+Good to know. I had other questions.<end>
+
+=>a44
+Good to know. I had other questions.<end>
+
+=>q45_original
+Go ahead, $(#mate/miss).<end>
+
+=>q45
+Go ahead, $(#mate/miss).<end>
+
+=>a46_original
+Pretty often.<end>
+
+=>a46
+Pretty often.<end>
+
+=>a47_original
+All the time.<end>
+
+=>a47
+All the time.<end>
+
+=>a48_original
+Can you tell me something about the Rathound King?<end>
+
+=>a48
+Can you tell me something about the Rathound King?<end>
+
+=>q49_original
+Well, I ain't got a clue how much you know so far but, in short, he's this boulder, this savage man that's got this, you know, packs of rathounds fightin' for him, you dig. The trouble with him started long ago, hm, four or maybe even five years ago and we still ain't rid of him.<end>
+
+=>q49
+Well, I ain't got a clue how much you know so far but, in short, he's this boulder, this savage man that's got this, you know, packs of rathounds fightin' for him, you dig. The trouble with him started long ago, hm, four or maybe even five years ago and we still ain't rid of him.<end>
+
+=>q50_original
+The guy ain't a push-over, so if you ever run into him, either move those legs of yours as fast as ya can or get ready to be slaughtered. I ain't, you know, makin' this up, he *is* that dangerous, and bein' a quaker in that situation is better than bein' dead. Even some of our best couldn't bring his head, so, just take care.<end>
+
+=>q50
+The guy ain't a push-over, so if you ever run into him, either move those legs of yours as fast as ya can or get ready to be slaughtered. I ain't, you know, makin' this up, he *is* that dangerous, and bein' a quaker in that situation is better than bein' dead. Even some of our best couldn't bring his head, so, just take care.<end>
+
+=>a51_original
+What can you tell me about Camp Hathor?<end>
+
+=>a51
+What can you tell me about Camp Hathor?<end>
+
+=>q52_original
+::His eyes light up like a pair of torches.:: Ah, you asked the right man, $(#mate/miss). What can't I tell you about Camp Hathor is the right question here. I've been around for a long time and I can tell you many stories about this here beautiful huntin' camp, you know. Let's begin...<end>
+
+=>q52
+::His eyes light up like a pair of torches.:: Ah, you asked the right man, $(#mate/miss). What can't I tell you about Camp Hathor is the right question here. I've been around for a long time and I can tell you many stories about this here beautiful huntin' camp, you know. Let's begin...<end>
+
+=>a53_original
+::Keep on listening.::<end>
+
+=>a53
+::Keep on listening.::<end>
+
+=>q54_original
+Ah, yes... Many, many years ago, an expedition came from the west, led by a man called Isaac Hathor. You know, later known as Hathor the Coalbringer. As they were makin' their way here, they ran into deadly beasts of different kinds: burrowers, crawlers, even Tunnelers, hm. And as they bravely fought their way through, they found this place, and with that - they discovered the richest coal deposits they'd ever seen! So, Camp Hathor was constructed, constructed by his holy hands, black from all the coal...<end>
+
+=>q54
+Ah, yes... Many, many years ago, an expedition came from the west, led by a man called Isaac Hathor. You know, later known as Hathor the Coalbringer. As they were makin' their way here, they ran into deadly beasts of different kinds: burrowers, crawlers, even Tunnelers, hm. And as they bravely fought their way through, they found this place, and with that - they discovered the richest coal deposits they'd ever seen! So, Camp Hathor was constructed, constructed by his holy hands, black from all the coal...<end>
+
+=>a55_original
+::What have I gotten myself into? He won't stop talking. I'll take a short standing nap.::<end>
+
+=>a55
+::What have I gotten myself into? He won't stop talking. I'll take a short standing nap.::<end>
+
+=>a56_original
+Damn, I forgot to feed my pet rathound, Stinksalot The Fourth. I have to go, see ya.<end>
+
+=>a56
+Damn, I forgot to feed my pet rathound, Stinksalot The Fourth. I have to go, see ya.<end>
+
+=>q57_original
+Hm. ::He shrugs.::<end>
+
+=>q57
+Hm. ::He shrugs.::<end>
+
+=>a58_original
+I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
+
+=>a58
+I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
+
+=>q59_original
+Folks often ask us that. It's just a coincidence, nothing else. It can be amusin' though at certain times. For example, Fred, who's the regular jokester, sometimes intentionally tells people that we're brothers or whatever he thinks of at that particular time. And some people believe it, so he keeps on pullin' their leg and it leads to a lot of funny situations.<end>
+
+=>q59
+Folks often ask us that. It's just a coincidence, nothing else. It can be amusin' though at certain times. For example, Fred, who's the regular jokester, sometimes intentionally tells people that we're brothers or whatever he thinks of at that particular time. And some people believe it, so he keeps on pullin' their leg and it leads to a lot of funny situations.<end>
+
+=>q60_original
+All in all, would you like to buy somethin'?<end>
+
+=>q60
+All in all, would you like to buy somethin'?<end>
+
+=>a61_original
+What's your opinion on this whole Rathound King situation?<end>
+
+=>a61
+What's your opinion on this whole Rathound King situation?<end>
+
+=>q62_original
+What? We made truce with the Rathound King? I mean, he used to be our worst enemy, and now look, a couple of words and there you go, no more fightin'. It's a trap. Hm, it's gotta be.<end>
+
+=>q62
+What? We made truce with the Rathound King? I mean, he used to be our worst enemy, and now look, a couple of words and there you go, no more fightin'. It's a trap. Hm, it's gotta be.<end>
+
+=>q63_original
+I don't dig. Why would Edgar...? It's a trap. It's fishy. Yeah.<end>
+
+=>q63
+I don't dig. Why would Edgar...? It's a trap. It's fishy. Yeah.<end>
+
+=>q64_original
+It's a one for one trade - a great man for a great beast. We'll sleep easier 'cause the Rathound King is dead, but on the other hand, we'll lose some sleep over Edgar's death.<end>
+
+=>q64
+It's a one for one trade - a great man for a great beast. We'll sleep easier 'cause the Rathound King is dead, but on the other hand, we'll lose some sleep over Edgar's death.<end>
+
+=>q65_original
+If that means this beautiful place keeps on existin', then that's our destiny, I suppose, $(#mate/miss).<end>
+
+=>q65
+If that means this beautiful place keeps on existin', then that's our destiny, I suppose, $(#mate/miss).<end>
+
+=>q66_original
+Yeah! He's gone! Yeah!<end>
+
+=>q66
+Yeah! He's gone! Yeah!<end>
+
+=>q67_original
+What? Rathound King's dead. Yeah!<end>
+
+=>q67
+What? Rathound King's dead. Yeah!<end>
+
+=>a68_original
+I gotta go.<end>
+
+=>a68
+I gotta go.<end>
+
+=>a69_original
+I'll leave you to bask in its glory. See you around.<end>
+
+=>a69
+I'll leave you to bask in its glory. See you around.<end>
+
+=>a70_original
+I went through a lot of trouble to get this. I'm going to need some compensation.<end>
+
+=>a70
+I went through a lot of trouble to get this. I'm going to need some compensation.<end>
+
+=>q71_original
+Uh... yes?<end>
+
+=>q71
+Uh... yes?<end>
+
+=>a72_original
+Two hundred charons and the helmet is yours.<end>
+
+=>a72
+Two hundred charons and the helmet is yours.<end>
+
+=>q73_original
+Two hundred... Deal. For somethin' like that, well worth it.<end>
+
+=>q73
+Two hundred... Deal. For somethin' like that, well worth it.<end>
+
+=>a74_original
+::[Mercantile]:: Five hundred charons and the helmet is yours.<end>
+
+=>a74
+::[Mercantile]:: Five hundred charons and the helmet is yours.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>q76_original
+What? What? I mean... What? Are you derailed...? I...<end>
+
+=>q76
+What? What? I mean... What? Are you derailed...? I...<end>
+
+=>q77_original
+::You notice him slowly breaking. Soon he confirms it.::
+
+It's history. ::He sighs.:: I accept. I accept. Here's the coin. It's all I've got.<end>
+
+=>q77
+::You notice him slowly breaking. Soon he confirms it.::
+
+It's history. ::He sighs.:: I accept. I accept. Here's the coin. It's all I've got.<end>
+
+=>q78_original
+I can't give you that much coin. Please, can't we make some decent deal?<end>
+
+=>q78
+I can't give you that much coin. Please, can't we make some decent deal?<end>
+
+=>a79_original
+::[Mercantile]:: One thousand charons and the helmet is yours.<end>
+
+=>a79
+::[Mercantile]:: One thousand charons and the helmet is yours.<end>
+
+=>q80_original
+<end>
+
+=>q80
+<end>
+
+=>a81_original
+::[Persuade]:: I'll trade it for your workbench.<end>
+
+=>a81
+::[Persuade]:: I'll trade it for your workbench.<end>
+
+=>q82_original
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed?<end>
+
+=>q82
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed?<end>
+
+=>a83_original
+Then you don't want the helmet that much.<end>
+
+=>a83
+Then you don't want the helmet that much.<end>
+
+=>q84_original
+I want it but... a workbench? This is valueble to me, $(#mate/miss). Come on.<end>
+
+=>q84
+I want it but... a workbench? This is valueble to me, $(#mate/miss). Come on.<end>
+
+=>a85_original
+::Remain silent.::<end>
+
+=>a85
+::Remain silent.::<end>
+
+=>q86_original
+::You notice him slowly breaking. Soon he confirms it.::
+
+It's history. ::He sighs.:: I accept. I accept. Take it. Take it. Just, take it.<end>
+
+=>q86
+::You notice him slowly breaking. Soon he confirms it.::
+
+It's history. ::He sighs.:: I accept. I accept. Take it. Take it. Just, take it.<end>
+
+=>a87_original
+I can't take it right away. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a87
+I can't take it right away. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>q88_original
+Whatever. Can I have the helmet now?<end>
+
+=>q88
+Whatever. Can I have the helmet now?<end>
+
+=>q89_original
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed? Please, can't we make some decent deal?<end>
+
+=>q89
+::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed? Please, can't we make some decent deal?<end>
+
+=>a90_original
+I changed my mind.<end>
+
+=>a90
+I changed my mind.<end>
+
+=>q91_original
+Why are you doin' this, hm? Just let me have the helmet. It's history!<end>
+
+=>q91
+Why are you doin' this, hm? Just let me have the helmet. It's history!<end>
+
+=>a92_original
+I'll keep this with me for now.<end>
+
+=>a92
+I'll keep this with me for now.<end>
+
+=>q93_original
+You don't understand! It is important that *His* helmet be returned to Hathorians. It's history!<end>
+
+=>q93
+You don't understand! It is important that *His* helmet be returned to Hathorians. It's history!<end>
+
+=>a94_original
+Don't overdramatize.<end>
+
+=>a94
+Don't overdramatize.<end>
+
+=>a95_original
+I don't remember. Just picked it up somewhere along the way.<end>
+
+=>a95
+I don't remember. Just picked it up somewhere along the way.<end>
+
+=>q96_original
+Incredible. Simply incredible. I... I'm goin' to faint.<end>
+
+=>q96
+Incredible. Simply incredible. I... I'm goin' to faint.<end>
+
+=>a97_original
+I can see that. I have something else to ask you.<end>
+
+=>a97
+I can see that. I have something else to ask you.<end>
+
+=>q98_original
+Go ahead.<end>
+
+=>q98
+Go ahead.<end>
+
+=>a99_original
+That was the best story ever. Please continue telling it to random people that just wanted to buy something and accidentally asked you a question that could have been answered in just a couple of sentences.<end>
+
+=>a99
+That was the best story ever. Please continue telling it to random people that just wanted to buy something and accidentally asked you a question that could have been answered in just a couple of sentences.<end>
+
+=>q100_original
+::He laughs.:: Thanks, I will. Hm, I need some water, me throat has gone dry, you know.<end>
+
+=>q100
+::He laughs.:: Thanks, I will. Hm, I need some water, me throat has gone dry, you know.<end>
+
+=>a101_original
+::Just walk away.::<end>
+
+=>a101
+::Just walk away.::<end>
+
+=>q102_original
+Where are goin'? $(#Mate/Miss)?<end>
+
+=>q102
+Where are goin'? $(#Mate/Miss)?<end>
+
+=>q103_original
+<end>
+
+=>q103
+<end>
+
+=>q104_original
+::You snap out of your vertical slumber to hear Fredd yelling.:: And so, Jezebel told him: "These people need you, Isaac!" But Isaac knew somethin' she ain't, I mean didn't. He knew the secret of the mine, he knew about the hidden knowledge one could unlock just by touchin' the mysterious crystals. They summoned him, and so he went into the darkness, never to be seen again...<end>
+
+=>q104
+::You snap out of your vertical slumber to hear Fredd yelling.:: And so, Jezebel told him: "These people need you, Isaac!" But Isaac knew somethin' she ain't, I mean didn't. He knew the secret of the mine, he knew about the hidden knowledge one could unlock just by touchin' the mysterious crystals. They summoned him, and so he went into the darkness, never to be seen again...<end>
+
+=>a105_original
+Is it over yet? I have to go somewhere else, and do some stuff.<end>
+
+=>a105
+Is it over yet? I have to go somewhere else, and do some stuff.<end>
+
+=>q106_original
+No, $(#mate/miss), this is just the first part of the story, yeah. You still need to hear about the closin' of the mine and how this became a huntin' camp. Now, where was I...<end>
+
+=>q106
+No, $(#mate/miss), this is just the first part of the story, yeah. You still need to hear about the closin' of the mine and how this became a huntin' camp. Now, where was I...<end>
+
+=>a107_original
+::Your eyelids feel heavy.::<end>
+
+=>a107
+::Your eyelids feel heavy.::<end>
+
+=>q108_original
+::The man before you seems to be busy working on a piece of cave hopper hide, just about finishing removing the final pieces of flesh from the skin. He notices you and gestures for you to wait for a second as he rolls the skin and places it in a container full of some liquid. After wiping his hands clean, he focuses his attention to you.::
+
+Sorry to keep you waitin', had to finish that one, $(#mate/miss). Name's Fredd. I got mostly huntin' equipment and leather, hm, but I also have a couple of interestin' things in store if you're interested in takin' a look.<end>
+
+=>q108
+::The man before you seems to be busy working on a piece of cave hopper hide, just about finishing removing the final pieces of flesh from the skin. He notices you and gestures for you to wait for a second as he rolls the skin and places it in a container full of some liquid. After wiping his hands clean, he focuses his attention to you.::
+
+Sorry to keep you waitin', had to finish that one, $(#mate/miss). Name's Fredd. I got mostly huntin' equipment and leather, hm, but I also have a couple of interestin' things in store if you're interested in takin' a look.<end>
+
+=>q109_original
+Ah, me favorite customer.<end>
+
+=>q109
+Ah, me favorite customer.<end>
+

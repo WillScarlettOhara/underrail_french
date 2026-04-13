@@ -1,0 +1,36 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Can't wait to get in!<end>
+
+=>q2
+Can't wait to get in!<end>
+
+=>q3_original
+This fight's gonna dominate!<end>
+
+=>q3
+This fight's gonna dominate!<end>
+
+=>q4_original
+Hardcore!<end>
+
+=>q4
+Hardcore!<end>
+
+=>q5_original
+Am I spending too much money on the Arena? Nah...<end>
+
+=>q5
+Am I spending too much money on the Arena? Nah...<end>
+
+=>q6_original
+Disembowelina is gonna win this fight!<end>
+
+=>q6
+Disembowelina is gonna win this fight!<end>
+

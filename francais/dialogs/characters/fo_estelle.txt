@@ -1,0 +1,124 @@
+=>q1_original
+::A young woman, unusually wrinkly for her age, nods at your approach. A kind stare and a light, toothless smile, together with her somewhat weakly stance, as though a breeze is enough to knock her down, gives you an inversed impression - that she is an old woman that looks younger, rather than the other way around. You know that it's wrong, though, and you instead shift your focus to her light, grainy voice which you hear after some coughing.::
+
+Hello. I'm Estelle Stevenson, Gabriel's wife and Foundry's only pharmacist. ::She coughs.:: What can I do for you?<end>
+
+=>q1
+::A young woman, unusually wrinkly for her age, nods at your approach. A kind stare and a light, toothless smile, together with her somewhat weakly stance, as though a breeze is enough to knock her down, gives you an inversed impression - that she is an old woman that looks younger, rather than the other way around. You know that it's wrong, though, and you instead shift your focus to her light, grainy voice which you hear after some coughing.::
+
+Hello. I'm Estelle Stevenson, Gabriel's wife and Foundry's only pharmacist. ::She coughs.:: What can I do for you?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Can I see what you have for sale? ::Barter.::<end>
+
+=>a3
+Can I see what you have for sale? ::Barter.::<end>
+
+=>a4_original
+What can you tell me about Foundry?<end>
+
+=>a4
+What can you tell me about Foundry?<end>
+
+=>q5_original
+I'm guessing you already know about the mine and hard working conditions. From a personal perspective, being a medical professional in here is... rather depressing. Death is not a stranger to Foundry, as people are mortally injured in the mine, in the metalworks... ::She shrugs.:: That's life here.<end>
+
+=>q5
+I'm guessing you already know about the mine and hard working conditions. From a personal perspective, being a medical professional in here is... rather depressing. Death is not a stranger to Foundry, as people are mortally injured in the mine, in the metalworks... ::She shrugs.:: That's life here.<end>
+
+=>q6_original
+My husband, the things he has to deal with have been affecting him over the years, wearing him down slowly, so forgive him if he says something... you know. It happens sometimes. Still, I know one day things'll get better... ::She coughs.:: We just have to persevere.<end>
+
+=>q6
+My husband, the things he has to deal with have been affecting him over the years, wearing him down slowly, so forgive him if he says something... you know. It happens sometimes. Still, I know one day things'll get better... ::She coughs.:: We just have to persevere.<end>
+
+=>a7_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a7
+How do you feel now that the mine has been reopened?<end>
+
+=>q8_original
+::She nods.:: Relieved. Everyone's relieved, trust me. I even think it affected my husband in a positive way, as he seems a bit happier than usual. A bit. All in all, the mine is reopened, and the people are working again.<end>
+
+=>q8
+::She nods.:: Relieved. Everyone's relieved, trust me. I even think it affected my husband in a positive way, as he seems a bit happier than usual. A bit. All in all, the mine is reopened, and the people are working again.<end>
+
+=>q9_original
+Our work never stopped though; the sick and wounded are always there and in need of help.<end>
+
+=>q9
+Our work never stopped though; the sick and wounded are always there and in need of help.<end>
+
+=>a10_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a10
+Can you tell me anything about the mine creatures?<end>
+
+=>q11_original
+Gabriel and I have seen a few of the wounds these creatures caused to a few miners unlucky enough to have been attacked by them, but lucky enough to make it back. ::She coughs.:: One of them even spoke of one miner having his arm bitten clean off.<end>
+
+=>q11
+Gabriel and I have seen a few of the wounds these creatures caused to a few miners unlucky enough to have been attacked by them, but lucky enough to make it back. ::She coughs.:: One of them even spoke of one miner having his arm bitten clean off.<end>
+
+=>q12_original
+Also, Bobby told me that some of the creatures have been seen in the residential area. ::She coughs.:: But I don't buy it. I'm sure the Foundry Guard's keeping a watchful eye and would never allow such a thing to happen.<end>
+
+=>q12
+Also, Bobby told me that some of the creatures have been seen in the residential area. ::She coughs.:: But I don't buy it. I'm sure the Foundry Guard's keeping a watchful eye and would never allow such a thing to happen.<end>
+
+=>a13_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a13
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>q14_original
+Nope, nothing unusual. Now, if you want to know about strange diseases or problems people have had, that I can talk about for days. I don't think you'd want to hear all that, though. ::She coughs.::<end>
+
+=>q14
+Nope, nothing unusual. Now, if you want to know about strange diseases or problems people have had, that I can talk about for days. I don't think you'd want to hear all that, though. ::She coughs.::<end>
+
+=>q15_original
+Some of the things we see here are disgusting even to us who deal with that sort of stuff on a daily basis.<end>
+
+=>q15
+Some of the things we see here are disgusting even to us who deal with that sort of stuff on a daily basis.<end>
+
+=>a16_original
+Can you tell me anything about that derailed man outside?<end>
+
+=>a16
+Can you tell me anything about that derailed man outside?<end>
+
+=>q17_original
+::She nods:: I know who you are talking about. He's been around for some time now; most of the day he just stands there, talking about some Tchort deity. Judging from that, he could be a cultist of some sort, but I'm not sure. No one really pays much attention to him.<end>
+
+=>q17
+::She nods:: I know who you are talking about. He's been around for some time now; most of the day he just stands there, talking about some Tchort deity. Judging from that, he could be a cultist of some sort, but I'm not sure. No one really pays much attention to him.<end>
+
+=>q18_original
+You shouldn't either. Nothing ever became of his, pardon the expression - muck. ::She coughs.::<end>
+
+=>q18
+You shouldn't either. Nothing ever became of his, pardon the expression - muck. ::She coughs.::<end>
+
+=>a19_original
+That is all, goodbye.<end>
+
+=>a19
+That is all, goodbye.<end>
+
+=>q20_original
+Lovely to see you again.<end>
+
+=>q20
+Lovely to see you again.<end>
+

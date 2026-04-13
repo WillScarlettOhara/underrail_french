@@ -1,0 +1,360 @@
+=>q1_original
+You, you! Come over here! ::The man raises his hand high above his head to get your attention, waving it from left to right as if you're kilometers away. He is a thin man with a hooked nose and swollen eyes, bloodshot yet glaring, and his voice is quivering with elation. His clothes - covered in green, sticky-looking liquid, some of it even smeared on his face and hair.::
+
+Come here, $(#good man/madam). I need your help. Taste this. ::He shows you a transparent flask full of what suspiciously looks like the liquid he's smudged with.:: There is nothing to fear. It's just something I've been making and I need your opinion.<end>
+
+=>q1
+You, you! Come over here! ::The man raises his hand high above his head to get your attention, waving it from left to right as if you're kilometers away. He is a thin man with a hooked nose and swollen eyes, bloodshot yet glaring, and his voice is quivering with elation. His clothes - covered in green, sticky-looking liquid, some of it even smeared on his face and hair.::
+
+Come here, $(#good man/madam). I need your help. Taste this. ::He shows you a transparent flask full of what suspiciously looks like the liquid he's smudged with.:: There is nothing to fear. It's just something I've been making and I need your opinion.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Taste the green liquid.::<end>
+
+=>a3
+::Taste the green liquid.::<end>
+
+=>a4_original
+Alright. Give it here.<end>
+
+=>a4
+Alright. Give it here.<end>
+
+=>q5_original
+::You take the flask from his hand and stare at it. The smell forces you to plug your nose before getting it anywhere near your face.::<end>
+
+=>q5
+::You take the flask from his hand and stare at it. The smell forces you to plug your nose before getting it anywhere near your face.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I can't. ::Give him back the flask.::<end>
+
+=>a7
+I can't. ::Give him back the flask.::<end>
+
+=>q8_original
+Don't be like that. Come on. It ain't gonna hurt ya. Come on. Lick it, if nothing else. Just, try it.<end>
+
+=>q8
+Don't be like that. Come on. It ain't gonna hurt ya. Come on. Lick it, if nothing else. Just, try it.<end>
+
+=>q9_original
+::You take the flask from his hand and stare at it. The smell is foul and repulsive, forcing you to plug your nose before getting the flask anywhere near your face.::<end>
+
+=>q9
+::You take the flask from his hand and stare at it. The smell is foul and repulsive, forcing you to plug your nose before getting the flask anywhere near your face.::<end>
+
+=>a10_original
+::Smell the liquid.::<end>
+
+=>a10
+::Smell the liquid.::<end>
+
+=>q11_original
+::You've barely brought your nose to the flask and already you've had enough. The smell is revolting and most certainly doesn't invite you to taste the liquid.::<end>
+
+=>q11
+::You've barely brought your nose to the flask and already you've had enough. The smell is revolting and most certainly doesn't invite you to taste the liquid.::<end>
+
+=>q12_original
+Oh, ignore the smell. I'll fix that later. Just plug your nose or whatever. Yes. Come on, just taste it already. Come *on*.<end>
+
+=>q12
+Oh, ignore the smell. I'll fix that later. Just plug your nose or whatever. Yes. Come on, just taste it already. Come *on*.<end>
+
+=>a13_original
+What is it?<end>
+
+=>a13
+What is it?<end>
+
+=>q14_original
+Don't ask no stupid questions. It'll mess everything up if I tell you. Just taste it and you'll see for yourself. Come on, come on. Do it. Nothing to fear.<end>
+
+=>q14
+Don't ask no stupid questions. It'll mess everything up if I tell you. Just taste it and you'll see for yourself. Come on, come on. Do it. Nothing to fear.<end>
+
+=>a15_original
+Who are you anyway?<end>
+
+=>a15
+Who are you anyway?<end>
+
+=>q16_original
+I'm a doctor. A *proper* doctor, not one of them loonies.<end>
+
+=>q16
+I'm a doctor. A *proper* doctor, not one of them loonies.<end>
+
+=>q17_original
+Now *taste* this stuff. Come on, come on. <end>
+
+=>q17
+Now *taste* this stuff. Come on, come on. <end>
+
+=>a18_original
+I am not tasting anything until you tell me what's in this thing.<end>
+
+=>a18
+I am not tasting anything until you tell me what's in this thing.<end>
+
+=>q19_original
+Why are you so difficult, $(#man/woman)? Just say "yes" and let this gently glide over your tongue and into your throat. If I tell you what it is, it's gonna affect your judgment. Here. Come on now - come on.<end>
+
+=>q19
+Why are you so difficult, $(#man/woman)? Just say "yes" and let this gently glide over your tongue and into your throat. If I tell you what it is, it's gonna affect your judgment. Here. Come on now - come on.<end>
+
+=>a20_original
+You taste it first. Then I'll think about it.<end>
+
+=>a20
+You taste it first. Then I'll think about it.<end>
+
+=>q21_original
+But that's so unhygienic! Plus, I just recently had some spicy hopper. Wouldn't want you to feel the aftertaste of that. It'd ruin everything!<end>
+
+=>q21
+But that's so unhygienic! Plus, I just recently had some spicy hopper. Wouldn't want you to feel the aftertaste of that. It'd ruin everything!<end>
+
+=>a22_original
+Liar!<end>
+
+=>a22
+Liar!<end>
+
+=>q23_original
+I'm not, I swear! Listen, I haven't got a lot of time. Taste this already!<end>
+
+=>q23
+I'm not, I swear! Listen, I haven't got a lot of time. Taste this already!<end>
+
+=>a24_original
+You're gonna drink this thing now, in front of me, regardless of how you feel about it.<end>
+
+=>a24
+You're gonna drink this thing now, in front of me, regardless of how you feel about it.<end>
+
+=>q25_original
+Are you... threatening me?<end>
+
+=>q25
+Are you... threatening me?<end>
+
+=>a26_original
+Hm. Forget I said anything.<end>
+
+=>a26
+Hm. Forget I said anything.<end>
+
+=>q27_original
+Yeah, yeah - done. Now taste this already.<end>
+
+=>q27
+Yeah, yeah - done. Now taste this already.<end>
+
+=>a28_original
+::[Strength]:: No, I'm taking action. Come here!<end>
+
+=>a28
+::[Strength]:: No, I'm taking action. Come here!<end>
+
+=>q29_original
+::You quickly grab the man by the collar and pull him toward you like a rag doll. All his attempts at breaking loose are met with failure.::
+
+Hey! Stop this nonsense!<end>
+
+=>q29
+::You quickly grab the man by the collar and pull him toward you like a rag doll. All his attempts at breaking loose are met with failure.::
+
+Hey! Stop this nonsense!<end>
+
+=>a30_original
+Drink this or I'll pour it down your throat.<end>
+
+=>a30
+Drink this or I'll pour it down your throat.<end>
+
+=>q31_original
+I already told you: I've had spicy hopper. It'll affect the taste! Come on, $(#man/woman), come to your senses!<end>
+
+=>q31
+I already told you: I've had spicy hopper. It'll affect the taste! Come on, $(#man/woman), come to your senses!<end>
+
+=>a32_original
+You're one dumb bastard, aren't you? Get outta here. ::Let him go.::<end>
+
+=>a32
+You're one dumb bastard, aren't you? Get outta here. ::Let him go.::<end>
+
+=>q33_original
+You derailed person. ::He fixes his clothes.:: I guess I'll find someone else - someone who's not a brutish boulder. Good day!<end>
+
+=>q33
+You derailed person. ::He fixes his clothes.:: I guess I'll find someone else - someone who's not a brutish boulder. Good day!<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+::Pour the green liquid into his mouth.::<end>
+
+=>a35
+::Pour the green liquid into his mouth.::<end>
+
+=>q36_original
+::You grab the flask from his trembling hand and dangle it in front of a pair of horrified eyes.::
+
+WAIT!
+
+::As you shove the flask into his mouth and let the liquid flow, his pupils begin to whirl like a pair of drunken flies; his arms - flailing them around helplessly. He tries to speak, but all you hear is gurgling, and by doing just that he is ejecting some of the liquid from his mouth and getting it all over himself. For the most part, though, the green juice of mystery reaches its intended destination.::<end>
+
+=>q36
+::You grab the flask from his trembling hand and dangle it in front of a pair of horrified eyes.::
+
+WAIT!
+
+::As you shove the flask into his mouth and let the liquid flow, his pupils begin to whirl like a pair of drunken flies; his arms - flailing them around helplessly. He tries to speak, but all you hear is gurgling, and by doing just that he is ejecting some of the liquid from his mouth and getting it all over himself. For the most part, though, the green juice of mystery reaches its intended destination.::<end>
+
+=>q37_original
+::The flask is now empty. You let the man go, step back and observe the effects.::<end>
+
+=>q37
+::The flask is now empty. You let the man go, step back and observe the effects.::<end>
+
+=>a38_original
+::Watch what happens.::<end>
+
+=>a38
+::Watch what happens.::<end>
+
+=>q39_original
+::You grab the man by his collar and try to pull him closer, but he breaks himself free. The flask flies out of his hands and the sound of shattering glass marks its fate.::
+
+You derailed person! What's the matter with you, huh? Huh?<end>
+
+=>q39
+::You grab the man by his collar and try to pull him closer, but he breaks himself free. The flask flies out of his hands and the sound of shattering glass marks its fate.::
+
+You derailed person! What's the matter with you, huh? Huh?<end>
+
+=>q40_original
+::He leaves, mumbling to himself.::
+
+Idiot! Derailed idiot!<end>
+
+=>q40
+::He leaves, mumbling to himself.::
+
+Idiot! Derailed idiot!<end>
+
+=>a41_original
+::[Intimidate]:: Scram!<end>
+
+=>a41
+::[Intimidate]:: Scram!<end>
+
+=>q42_original
+Well, um, okay. I guess... I'll, yes, I'll find someone else. Eh... goodbye. ::He cautiously leaves.::<end>
+
+=>q42
+Well, um, okay. I guess... I'll, yes, I'll find someone else. Eh... goodbye. ::He cautiously leaves.::<end>
+
+=>q43_original
+Ah, I see you're feeling a bit perturbed. I won't take too much of your time. Taste this - and I'm gone.<end>
+
+=>q43
+Ah, I see you're feeling a bit perturbed. I won't take too much of your time. Taste this - and I'm gone.<end>
+
+=>q44_original
+Come on.<end>
+
+=>q44
+Come on.<end>
+
+=>a45_original
+Get away from me, you lunatic. I'm not drinking that... stuff, whatever it is. I'm gone.<end>
+
+=>a45
+Get away from me, you lunatic. I'm not drinking that... stuff, whatever it is. I'm gone.<end>
+
+=>q46_original
+<end>
+
+=>q46
+<end>
+
+=>q47_original
+Hold on, why are you like this? I didn't come all the way here just for you to say no. Come on. Taste this. Come on.<end>
+
+=>q47
+Hold on, why are you like this? I didn't come all the way here just for you to say no. Come on. Taste this. Come on.<end>
+
+=>q48_original
+Listen, there's nothing to fear. It won't hurt you, I swear. Throw away your doubts into the abyss and drink this, *drink* it. Come *on*. Don't disappoint me.<end>
+
+=>q48
+Listen, there's nothing to fear. It won't hurt you, I swear. Throw away your doubts into the abyss and drink this, *drink* it. Come *on*. Don't disappoint me.<end>
+
+=>a49_original
+I'd... rather not. Goodbye.<end>
+
+=>a49
+I'd... rather not. Goodbye.<end>
+
+=>a50_original
+Didn't you hear me? Get lost, idiot. I don't want to taste this crap.<end>
+
+=>a50
+Didn't you hear me? Get lost, idiot. I don't want to taste this crap.<end>
+
+=>a51_original
+I said no already. Good-bye.<end>
+
+=>a51
+I said no already. Good-bye.<end>
+
+=>a52_original
+You really want that flask shoved where the light don't shine, don't ya?<end>
+
+=>a52
+You really want that flask shoved where the light don't shine, don't ya?<end>
+
+=>q53_original
+Well then... ::He raises his chin.:: I guess I'll find someone else. Goodbye!<end>
+
+=>q53
+Well then... ::He raises his chin.:: I guess I'll find someone else. Goodbye!<end>
+
+=>a54_original
+No!<end>
+
+=>a54
+No!<end>
+
+=>a55_original
+Me no want your drinky drinky to tasty tasty. You un-der-stand me, yes?<end>
+
+=>a55
+Me no want your drinky drinky to tasty tasty. You un-der-stand me, yes?<end>
+
+=>q56_original
+Okay, okay, I won't bother you any more. Bye now.<end>
+
+=>q56
+Okay, okay, I won't bother you any more. Bye now.<end>
+

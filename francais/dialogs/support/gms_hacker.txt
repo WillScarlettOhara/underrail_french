@@ -1,0 +1,24 @@
+=>q1_original
+Not making much progress here, I'm afraid.<end>
+
+=>q1
+Not making much progress here, I'm afraid.<end>
+
+=>q2_original
+This could take a while.<end>
+
+=>q2
+This could take a while.<end>
+
+=>q3_original
+It's always the blue wire, right?<end>
+
+=>q3
+It's always the blue wire, right?<end>
+
+=>q4_original
+Someone went to great lengths to keep this secured.<end>
+
+=>q4
+Someone went to great lengths to keep this secured.<end>
+

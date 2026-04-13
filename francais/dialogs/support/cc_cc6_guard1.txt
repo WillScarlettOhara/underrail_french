@@ -1,0 +1,178 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Take care, enforcer. There are muties across the bridge.<end>
+
+=>q2
+Take care, enforcer. There are muties across the bridge.<end>
+
+=>q3_original
+::The guard motions you to stop before speaking in a rigid, official tone of voice.::
+
+Excuse me, $(#sir/ma'am), but I must advise you to stay on this side of the bridge. It is unsafe to go across, and, as you can see, Praetorian Security enforcers have been posted here to make sure nothing unwanted gets in the city.<end>
+
+=>q3
+::The guard motions you to stop before speaking in a rigid, official tone of voice.::
+
+Excuse me, $(#sir/ma'am), but I must advise you to stay on this side of the bridge. It is unsafe to go across, and, as you can see, Praetorian Security enforcers have been posted here to make sure nothing unwanted gets in the city.<end>
+
+=>a4_original
+I'm one of you guys.<end>
+
+=>a4
+I'm one of you guys.<end>
+
+=>q5_original
+Oh, didn't recognize you. Must be new. There are muties across the bridge, so take care if you've been sent there.<end>
+
+=>q5
+Oh, didn't recognize you. Must be new. There are muties across the bridge, so take care if you've been sent there.<end>
+
+=>a6_original
+Why are you still here? The Faceless are gone. Are the muties that much of a treat to the city?<end>
+
+=>a6
+Why are you still here? The Faceless are gone. Are the muties that much of a treat to the city?<end>
+
+=>q7_original
+They aren't, it's just that we still haven't received orders to return to headquarters. Even though the Faceless have retreated, we still need to be on alert. That's my take on it.<end>
+
+=>q7
+They aren't, it's just that we still haven't received orders to return to headquarters. Even though the Faceless have retreated, we still need to be on alert. That's my take on it.<end>
+
+=>a8_original
+Maybe they forgot about you.<end>
+
+=>a8
+Maybe they forgot about you.<end>
+
+=>q9_original
+Doubt it. ::He shakes his head.:: Doubt it.<end>
+
+=>q9
+Doubt it. ::He shakes his head.:: Doubt it.<end>
+
+=>a10_original
+Well, best of luck. Goodbye.<end>
+
+=>a10
+Well, best of luck. Goodbye.<end>
+
+=>a11_original
+Will do.<end>
+
+=>a11
+Will do.<end>
+
+=>q12_original
+Oh, didn't recognize you. Must be new. There's muties across the bridge, but we're more afraid of the Faceless. Take extreme care if you've been sent there.<end>
+
+=>q12
+Oh, didn't recognize you. Must be new. There's muties across the bridge, but we're more afraid of the Faceless. Take extreme care if you've been sent there.<end>
+
+=>a13_original
+You can't stop the Invictus; no one can stop the Invictus.<end>
+
+=>a13
+You can't stop the Invictus; no one can stop the Invictus.<end>
+
+=>q14_original
+::He takes a better look at you.:: Hmmm... you do look a bit like $(#him/her). ::After a second, however, he shakes his head and continues speaking.:: In any case, I gave you a warning; do with it as you please. Have a nice day, $(#sir/ma'am). <end>
+
+=>q14
+::He takes a better look at you.:: Hmmm... you do look a bit like $(#him/her). ::After a second, however, he shakes his head and continues speaking.:: In any case, I gave you a warning; do with it as you please. Have a nice day, $(#sir/ma'am). <end>
+
+=>a15_original
+I'll think about it.<end>
+
+=>a15
+I'll think about it.<end>
+
+=>q16_original
+You do that, $(#sir/ma'am). Have a nice day.<end>
+
+=>q16
+You do that, $(#sir/ma'am). Have a nice day.<end>
+
+=>a17_original
+You can't tell me where to go.<end>
+
+=>a17
+You can't tell me where to go.<end>
+
+=>q18_original
+Technically, I can't stop you - but I can advise you. Have a nice day, $(#sir/ma'am).<end>
+
+=>q18
+Technically, I can't stop you - but I can advise you. Have a nice day, $(#sir/ma'am).<end>
+
+=>a19_original
+Thank you for the warning. I'll stay away.<end>
+
+=>a19
+Thank you for the warning. I'll stay away.<end>
+
+=>q20_original
+::He nods.:: Have a nice day, $(#sir/ma'am).<end>
+
+=>q20
+::He nods.:: Have a nice day, $(#sir/ma'am).<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+Greetings, enforcer.<end>
+
+=>q22
+Greetings, enforcer.<end>
+
+=>q23_original
+$(#Sir/Ma'am)?<end>
+
+=>q23
+$(#Sir/Ma'am)?<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+Are you here to relieve us?<end>
+
+=>q25
+Are you here to relieve us?<end>
+
+=>q26_original
+May I help you?<end>
+
+=>q26
+May I help you?<end>
+
+=>q27_original
+Order through strength.<end>
+
+=>q27
+Order through strength.<end>
+
+=>q28_original
+The Faceless will never breach our defenses.<end>
+
+=>q28
+The Faceless will never breach our defenses.<end>
+
+=>q29_original
+Yes?<end>
+
+=>q29
+Yes?<end>
+

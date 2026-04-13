@@ -1,0 +1,796 @@
+=>q1_original
+::The woman lies on the bed with her eyes firmly closed. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. Her eyes begin to open: The left eyelid lifts quickly, allowing the brown iris to focus on you; the other one lags, twitching as it slowly rises to reveal a swirled mass that used to be an eye. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while carefully being molded by her lips.::<end>
+
+=>q1
+::The woman lies on the bed with her eyes firmly closed. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. Her eyes begin to open: The left eyelid lifts quickly, allowing the brown iris to focus on you; the other one lags, twitching as it slowly rises to reveal a swirled mass that used to be an eye. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while carefully being molded by her lips.::<end>
+
+=>q2_original
+What... is happening?<end>
+
+=>q2
+What... is happening?<end>
+
+=>a3_original
+Lora, can you hear me?<end>
+
+=>a3
+Lora, can you hear me?<end>
+
+=>q4_original
+Yes. Who... are you?<end>
+
+=>q4
+Yes. Who... are you?<end>
+
+=>a5_original
+I come from South Gate Station. I arrived there after you had left, so we hadn't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a5
+I come from South Gate Station. I arrived there after you had left, so we hadn't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>q6_original
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>q6
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>a7_original
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>a7
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>q8_original
+He was shot before my eyes.<end>
+
+=>q8
+He was shot before my eyes.<end>
+
+=>a9_original
+So were you before his. Yet you are alive.<end>
+
+=>a9
+So were you before his. Yet you are alive.<end>
+
+=>q10_original
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Ha... I like you already. Now I have a good reason to... get better.<end>
+
+=>q10
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Ha... I like you already. Now I have a good reason to... get better.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+Tell me what happened to you.<end>
+
+=>a12
+Tell me what happened to you.<end>
+
+=>q13_original
+Okay. I'll start from the beginning...<end>
+
+=>q13
+Okay. I'll start from the beginning...<end>
+
+=>q14_original
+Some time before the earthquake we were... Terry and I were sent to Core City. We perform trading for the SGS, and we were tasked with obtaining several things from the local merchants, as well as to meet one... man in the residential area so he could give us a package.<end>
+
+=>q14
+Some time before the earthquake we were... Terry and I were sent to Core City. We perform trading for the SGS, and we were tasked with obtaining several things from the local merchants, as well as to meet one... man in the residential area so he could give us a package.<end>
+
+=>a15_original
+Interesting. Who was this man?<end>
+
+=>a15
+Interesting. Who was this man?<end>
+
+=>q16_original
+He had... he had some electrical equipment. Tanner never went into much details, only that the package was fragile; these devices were sensitive, I believe he said, so we were to take good care of the package. The man's name was James Steiner. James Steiner. That is all I know about him.<end>
+
+=>q16
+He had... he had some electrical equipment. Tanner never went into much details, only that the package was fragile; these devices were sensitive, I believe he said, so we were to take good care of the package. The man's name was James Steiner. James Steiner. That is all I know about him.<end>
+
+=>a17_original
+You mentioned Tanner telling you about the package. He ordered it?<end>
+
+=>a17
+You mentioned Tanner telling you about the package. He ordered it?<end>
+
+=>q18_original
+We usually get the lists from Vera, but she wasn't around at the time so Tanner... Tanner was the one who talked to us.<end>
+
+=>q18
+We usually get the lists from Vera, but she wasn't around at the time so Tanner... Tanner was the one who talked to us.<end>
+
+=>a19_original
+I see. So you went to this man, this James Steiner guy and then what?<end>
+
+=>a19
+I see. So you went to this man, this James Steiner guy and then what?<end>
+
+=>q20_original
+We met him near his home, close to the fence overlooking a part of Drop Zone; I remember seeing fire and smoke rising from one of the shacks down there. But that's... that's not important. The man had to leave for work or something, I can't remember, so he gave us the package and left us quickly.<end>
+
+=>q20
+We met him near his home, close to the fence overlooking a part of Drop Zone; I remember seeing fire and smoke rising from one of the shacks down there. But that's... that's not important. The man had to leave for work or something, I can't remember, so he gave us the package and left us quickly.<end>
+
+=>a21_original
+What did he look like?<end>
+
+=>a21
+What did he look like?<end>
+
+=>q22_original
+::She pauses briefly.:: Light-skinned. Black-haired. Average height. Brown eyes. I really can't tell you much more. There is nothing striking about him. He behaved nothing out of the... ordinary.<end>
+
+=>q22
+::She pauses briefly.:: Light-skinned. Black-haired. Average height. Brown eyes. I really can't tell you much more. There is nothing striking about him. He behaved nothing out of the... ordinary.<end>
+
+=>a23_original
+Right. You got the package and then...?<end>
+
+=>a23
+Right. You got the package and then...?<end>
+
+=>q24_original
+We went through our list and acquired everything we needed - except for a pair of power supply units Harold needed. TriEnergy... something. Can't remember now, but it's irrelevant.<end>
+
+=>q24
+We went through our list and acquired everything we needed - except for a pair of power supply units Harold needed. TriEnergy... something. Can't remember now, but it's irrelevant.<end>
+
+=>q25_original
+We contacted Tanner and told him that we got almost everything, except for those power units. He told us it wasn't as urgent as we had thought and to return to SGS. So, we went down to the station - and that's when the earthquake hit. Underrail Express stopped all the trains until they surveyed the situation, and we couldn't get the signal to call Tanner again. Ask him what to do next.<end>
+
+=>q25
+We contacted Tanner and told him that we got almost everything, except for those power units. He told us it wasn't as urgent as we had thought and to return to SGS. So, we went down to the station - and that's when the earthquake hit. Underrail Express stopped all the trains until they surveyed the situation, and we couldn't get the signal to call Tanner again. Ask him what to do next.<end>
+
+=>q26_original
+So we waited... tried to find those power units, but we were out of luck. We went to Hardcore City Bar and waited. Waited... waited. Until we heard the trains were going again.<end>
+
+=>q26
+So we waited... tried to find those power units, but we were out of luck. We went to Hardcore City Bar and waited. Waited... waited. Until we heard the trains were going again.<end>
+
+=>a27_original
+I spoke to the train operator whom you asked if he was going to Rail Crossing. He told me what happened next.<end>
+
+=>a27
+I spoke to the train operator whom you asked if he was going to Rail Crossing. He told me what happened next.<end>
+
+=>q28_original
+You... did? Yes - the tattooed man. No train could go to SGS because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>q28
+You... did? Yes - the tattooed man. No train could go to SGS because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>a29_original
+But you never made it to Buzzer.<end>
+
+=>a29
+But you never made it to Buzzer.<end>
+
+=>q30_original
+No. <end>
+
+=>q30
+No. <end>
+
+=>q31_original
+::She releases a metallic sigh before continuing.:: We were attacked at the Rail Crossing station.<end>
+
+=>q31
+::She releases a metallic sigh before continuing.:: We were attacked at the Rail Crossing station.<end>
+
+=>a32_original
+By Cornell and the Acid Hunters.<end>
+
+=>a32
+By Cornell and the Acid Hunters.<end>
+
+=>q33_original
+Acid... Hunters? I don't understand.<end>
+
+=>q33
+Acid... Hunters? I don't understand.<end>
+
+=>a34_original
+I tracked the animals down. The man, Cornell, confessed everything.<end>
+
+=>a34
+I tracked the animals down. The man, Cornell, confessed everything.<end>
+
+=>q35_original
+You... found them?<end>
+
+=>q35
+You... found them?<end>
+
+=>a36_original
+I killed him, Lora. I killed all of them.<end>
+
+=>a36
+I killed him, Lora. I killed all of them.<end>
+
+=>q37_original
+::Your words landed just as they should, you feel. Her stare reveals the rage, the fury - the wish for the worst possible fate to stomp on the Acid Hunters and turn them into a smudge on the ground. Revenge - that's the name of her hunger and you've just sated it. The tension that was building up just before you fed her the information has now vanished.::
+
+Good. Good. They deserve it. I hope it was... painful. Painful.<end>
+
+=>q37
+::Your words landed just as they should, you feel. Her stare reveals the rage, the fury - the wish for the worst possible fate to stomp on the Acid Hunters and turn them into a smudge on the ground. Revenge - that's the name of her hunger and you've just sated it. The tension that was building up just before you fed her the information has now vanished.::
+
+Good. Good. They deserve it. I hope it was... painful. Painful.<end>
+
+=>q38_original
+::She relaxes, then continues.::
+
+You haven't heard all of it yet, $(context.player.Name). I will continue.<end>
+
+=>q38
+::She relaxes, then continues.::
+
+You haven't heard all of it yet, $(context.player.Name). I will continue.<end>
+
+=>q39_original
+We had noticed them a couple of times... times in Core City. They must've followed us. To rob us. ::She pauses yet again.:: It... They threatened us with chemical weapons. They didn't even give us a chance to do anything. One of them, he hit Terry in the face and knocked him to the floor; I got a kick in the stomach. I had no air in my lungs and... as I was struggling one of them dragged me by the hair until I managed to get on my feet. It all happened... within a second.<end>
+
+=>q39
+We had noticed them a couple of times... times in Core City. They must've followed us. To rob us. ::She pauses yet again.:: It... They threatened us with chemical weapons. They didn't even give us a chance to do anything. One of them, he hit Terry in the face and knocked him to the floor; I got a kick in the stomach. I had no air in my lungs and... as I was struggling one of them dragged me by the hair until I managed to get on my feet. It all happened... within a second.<end>
+
+=>q40_original
+They forced us into a cave; they had a camp there. Tied us. Took all our things. Took the package. Opened the package.<end>
+
+=>q40
+They forced us into a cave; they had a camp there. Tied us. Took all our things. Took the package. Opened the package.<end>
+
+=>a41_original
+And found the Cube.<end>
+
+=>a41
+And found the Cube.<end>
+
+=>q42_original
+::She smiles.:: You know nearly everything already. Allow me to complete the picture with the last few details...<end>
+
+=>q42
+::She smiles.:: You know nearly everything already. Allow me to complete the picture with the last few details...<end>
+
+=>q43_original
+It was an object no one of us had ever seen. It was fascinating and frightening at the same time. We allowed this remarkable thing to steal our attentions. The strange shape, the markings. It was out of this world.<end>
+
+=>q43
+It was an object no one of us had ever seen. It was fascinating and frightening at the same time. We allowed this remarkable thing to steal our attentions. The strange shape, the markings. It was out of this world.<end>
+
+=>q44_original
+Then he closed the metal box. He... His face is now clear to me, but I don't want to describe it. Nor what happened next. The only thing you should know is that I woke up as they were dragging me away from Terry and into their... machine. Then I woke up here.<end>
+
+=>q44
+Then he closed the metal box. He... His face is now clear to me, but I don't want to describe it. Nor what happened next. The only thing you should know is that I woke up as they were dragging me away from Terry and into their... machine. Then I woke up here.<end>
+
+=>q45_original
+If Terry truly is alive, as you say, then I don't understand why they didn't take him too. But, what I do understand is that they hadn't found me by pure accident. They wanted this... Cube.<end>
+
+=>q45
+If Terry truly is alive, as you say, then I don't understand why they didn't take him too. But, what I do understand is that they hadn't found me by pure accident. They wanted this... Cube.<end>
+
+=>q46_original
+Maybe the earthquake was their deed too. I don't know. I could never speak to them. They just took care of me. ::She points to the machines next to her. There are numerous pipes and tubes that go into her arms and abdomen, and indeed it appears that what she's telling you is true.:: I would be dead without this.<end>
+
+=>q46
+Maybe the earthquake was their deed too. I don't know. I could never speak to them. They just took care of me. ::She points to the machines next to her. There are numerous pipes and tubes that go into her arms and abdomen, and indeed it appears that what she's telling you is true.:: I would be dead without this.<end>
+
+=>a47_original
+The only one who is to blame for this is Tanner. It's all his fault! Do you have any idea as to why he'd do this?<end>
+
+=>a47
+The only one who is to blame for this is Tanner. It's all his fault! Do you have any idea as to why he'd do this?<end>
+
+=>q48_original
+I don't know why he lied to us. If I knew I wouldn't have been here, I guess. There was always... a sense of mystique about him, but he was far from being the only one who made you wonder is he really the person he says he is.
+
+I can't speak anymore. I'm tired. I'm so tired.<end>
+
+=>q48
+I don't know why he lied to us. If I knew I wouldn't have been here, I guess. There was always... a sense of mystique about him, but he was far from being the only one who made you wonder is he really the person he says he is.
+
+I can't speak anymore. I'm tired. I'm so tired.<end>
+
+=>a49_original
+I will get you out of here, I promise. But first, tell me this: Do you know why Tanner lied to you about the contents of the package?<end>
+
+=>a49
+I will get you out of here, I promise. But first, tell me this: Do you know why Tanner lied to you about the contents of the package?<end>
+
+=>a50_original
+I won't jump to conclusions regarding Tanner. He too needs to be given a chance to share his side of the story.<end>
+
+=>a50
+I won't jump to conclusions regarding Tanner. He too needs to be given a chance to share his side of the story.<end>
+
+=>q51_original
+They left him because he was dead. Terry. They had no use for him. And me... they hadn't found me by accident. They wanted this... Cube. And I was the one who had it.<end>
+
+=>q51
+They left him because he was dead. Terry. They had no use for him. And me... they hadn't found me by accident. They wanted this... Cube. And I was the one who had it.<end>
+
+=>q52_original
+::She smiles.:: You know so many things already. So here are the final details to the picture...<end>
+
+=>q52
+::She smiles.:: You know so many things already. So here are the final details to the picture...<end>
+
+=>q53_original
+You know about it? Yes... inside was this *Cube*...<end>
+
+=>q53
+You know about it? Yes... inside was this *Cube*...<end>
+
+=>a54_original
+They managed to get away, sadly, but I squeezed that confession out of Cornell before they did.<end>
+
+=>a54
+They managed to get away, sadly, but I squeezed that confession out of Cornell before they did.<end>
+
+=>q55_original
+::Your response came as an disappointment to her as mirrored in her eye; there was a spark inside just as you were about to speak, but your words extinguished it completely. She evades your stare for a second or two before continuing the story.::<end>
+
+=>q55
+::Your response came as an disappointment to her as mirrored in her eye; there was a spark inside just as you were about to speak, but your words extinguished it completely. She evades your stare for a second or two before continuing the story.::<end>
+
+=>a56_original
+Yes. I let him walk away.<end>
+
+=>a56
+Yes. I let him walk away.<end>
+
+=>q57_original
+::Your words made something snap inside her, creating a painful ripple across her face, squeezing every muscle until it gets red to the point of you feeling that all the scars and blisters are going to burst. As cold as her metallic voice already was, her reply felt even colder.::
+
+I won't ask for your reasons... for why you let them go. But I hate you. I hate... you. ::Her eye tears up.:: They should not walk free, no. You knew what they did - and you let them go. I am defenseless and broken... and at your mercy. But I hate you for the error that... you have made.
+<end>
+
+=>q57
+::Your words made something snap inside her, creating a painful ripple across her face, squeezing every muscle until it gets red to the point of you feeling that all the scars and blisters are going to burst. As cold as her metallic voice already was, her reply felt even colder.::
+
+I won't ask for your reasons... for why you let them go. But I hate you. I hate... you. ::Her eye tears up.:: They should not walk free, no. You knew what they did - and you let them go. I am defenseless and broken... and at your mercy. But I hate you for the error that... you have made.
+<end>
+
+=>q58_original
+You will now hear the details.<end>
+
+=>q58
+You will now hear the details.<end>
+
+=>a59_original
+I've found clues which lead me to believe that they were the ones who attacked you.<end>
+
+=>a59
+I've found clues which lead me to believe that they were the ones who attacked you.<end>
+
+=>q60_original
+Did you find this Cornell? His gang?<end>
+
+=>q60
+Did you find this Cornell? His gang?<end>
+
+=>a61_original
+No.<end>
+
+=>a61
+No.<end>
+
+=>a62_original
+Who attacked you?<end>
+
+=>a62
+Who attacked you?<end>
+
+=>q63_original
+It was a gang of three. Two men and a woman. I can't remember the details of their faces; it was all blurry. But they were ugly, that I can remember. Ugly as pigs.<end>
+
+=>q63
+It was a gang of three. Two men and a woman. I can't remember the details of their faces; it was all blurry. But they were ugly, that I can remember. Ugly as pigs.<end>
+
+=>a64_original
+But none of those were able to get to SGS.<end>
+
+=>a64
+But none of those were able to get to SGS.<end>
+
+=>q65_original
+Yes. <end>
+
+=>q65
+Yes. <end>
+
+=>q66_original
+Because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>q66
+Because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>a67_original
+What happened after?<end>
+
+=>a67
+What happened after?<end>
+
+=>a68_original
+You never made it to Buzzer?<end>
+
+=>a68
+You never made it to Buzzer?<end>
+
+=>a69_original
+Then what happened?<end>
+
+=>a69
+Then what happened?<end>
+
+=>q70_original
+No trains could take us to SGS. <end>
+
+=>q70
+No trains could take us to SGS. <end>
+
+=>a71_original
+Tanner? I thought Vera sent you to Core City.<end>
+
+=>a71
+Tanner? I thought Vera sent you to Core City.<end>
+
+=>q72_original
+Usually it is Vera, but she wasn't around at the time so Tanner... Tanner gave us the list of the things we needed.<end>
+
+=>q72
+Usually it is Vera, but she wasn't around at the time so Tanner... Tanner gave us the list of the things we needed.<end>
+
+=>a73_original
+You're coming with me. Time to take you back to South Gate Station.<end>
+
+=>a73
+You're coming with me. Time to take you back to South Gate Station.<end>
+
+=>q74_original
+Wait. I am hooked to this machine. Look. ::She points to the machine next to her. There are numerous wires and tubes that go into her arms and abdomen.:: They keep me alive. I don't think I can make it far without it. <end>
+
+=>q74
+Wait. I am hooked to this machine. Look. ::She points to the machine next to her. There are numerous wires and tubes that go into her arms and abdomen.:: They keep me alive. I don't think I can make it far without it. <end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+We can't bring that with us. You're just going to have to be strong. Come on, I'll help you up.<end>
+
+=>a76
+We can't bring that with us. You're just going to have to be strong. Come on, I'll help you up.<end>
+
+=>q77_original
+Where will you take me?<end>
+
+=>q77
+Where will you take me?<end>
+
+=>a78_original
+I know of an elevator will get us out of Deep Caverns. I'll take you straight to SGS.<end>
+
+=>a78
+I know of an elevator will get us out of Deep Caverns. I'll take you straight to SGS.<end>
+
+=>q79_original
+::After some hesitation, she speaks. Her troubled stare still persists.:: 
+
+I am ready. I have full faith in you, $(context.player.Name).<end>
+
+=>q79
+::After some hesitation, she speaks. Her troubled stare still persists.:: 
+
+I am ready. I have full faith in you, $(context.player.Name).<end>
+
+=>a80_original
+::Help Lora get up and take her away.::<end>
+
+=>a80
+::Help Lora get up and take her away.::<end>
+
+=>a81_original
+Anywhere but here. Let's go.<end>
+
+=>a81
+Anywhere but here. Let's go.<end>
+
+=>a82_original
+There is a man called Leo who lives nearby. I'll take you to him.<end>
+
+=>a82
+There is a man called Leo who lives nearby. I'll take you to him.<end>
+
+=>a83_original
+::[Biology] You inspect the machine.:: I see no way for me to safely take you away from here. I'm going to need someone else's help. <end>
+
+=>a83
+::[Biology] You inspect the machine.:: I see no way for me to safely take you away from here. I'm going to need someone else's help. <end>
+
+=>a84_original
+Damn it! I don't want to move you until I figure something out.<end>
+
+=>a84
+Damn it! I don't want to move you until I figure something out.<end>
+
+=>q85_original
+My life is in your hands, $(context.player.Name).<end>
+
+=>q85
+My life is in your hands, $(context.player.Name).<end>
+
+=>a86_original
+I have to leave now, but I will return quickly.<end>
+
+=>a86
+I have to leave now, but I will return quickly.<end>
+
+=>q87_original
+I want to go home.<end>
+
+=>q87
+I want to go home.<end>
+
+=>a88_original
+You will. Just be patient some more.<end>
+
+=>a88
+You will. Just be patient some more.<end>
+
+=>q89_original
+No. Don't leave me here alone. I'm... please, I'm scared.<end>
+
+=>q89
+No. Don't leave me here alone. I'm... please, I'm scared.<end>
+
+=>a90_original
+Then you're coming with me.<end>
+
+=>a90
+Then you're coming with me.<end>
+
+=>a91_original
+I won't be far. Trust me - nothing is going to happen to you.<end>
+
+=>a91
+I won't be far. Trust me - nothing is going to happen to you.<end>
+
+=>a92_original
+I don't know anything about him, I'm afraid.<end>
+
+=>a92
+I don't know anything about him, I'm afraid.<end>
+
+=>q93_original
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+He is dead. I know it. I've seen it. But I had to ask... still.<end>
+
+=>q93
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+He is dead. I know it. I've seen it. But I had to ask... still.<end>
+
+=>a94_original
+He didn't make it.<end>
+
+=>a94
+He didn't make it.<end>
+
+=>q95_original
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+I know. I saw it all. But I had to ask... still.<end>
+
+=>q95
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+I know. I saw it all. But I had to ask... still.<end>
+
+=>a96_original
+Can you hear me?<end>
+
+=>a96
+Can you hear me?<end>
+
+=>q97_original
+Yes...<end>
+
+=>q97
+Yes...<end>
+
+=>a98_original
+Tell me your name.<end>
+
+=>a98
+Tell me your name.<end>
+
+=>q99_original
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>q99
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>q100_original
+::The woman lies on the bed with her eyes wide open: The left one, brown-colored, is clear and focused on you, the other a swirled lifeless mass. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while being carefully molded by her lips.::<end>
+
+=>q100
+::The woman lies on the bed with her eyes wide open: The left one, brown-colored, is clear and focused on you, the other a swirled lifeless mass. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while being carefully molded by her lips.::<end>
+
+=>q101_original
+What is... happening? Why did you... attack them?<end>
+
+=>q101
+What is... happening? Why did you... attack them?<end>
+
+=>a102_original
+To return you to South Gate Station, Lora, that's why.<end>
+
+=>a102
+To return you to South Gate Station, Lora, that's why.<end>
+
+=>q103_original
+But they... saved me.<end>
+
+=>q103
+But they... saved me.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+That I didn't know.<end>
+
+=>a105
+That I didn't know.<end>
+
+=>q106_original
+::Her stare drops for a moment, then returns to you. However, she says nothing.::<end>
+
+=>q106
+::Her stare drops for a moment, then returns to you. However, she says nothing.::<end>
+
+=>q107_original
+<end>
+
+=>q107
+<end>
+
+=>a108_original
+Who are you?<end>
+
+=>a108
+Who are you?<end>
+
+=>q109_original
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>q109
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>a110_original
+I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a110
+I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>q111_original
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>q111
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>a112_original
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>a112
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>q113_original
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Terry... I though it was all over. Now, even if I die I'll know that... he made it.<end>
+
+=>q113
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Terry... I though it was all over. Now, even if I die I'll know that... he made it.<end>
+
+=>q114_original
+<end>
+
+=>q114
+<end>
+
+=>a115_original
+Lora, I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a115
+Lora, I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a116_original
+I know. But if you knew what they'd do to you next, you'd wish they had left you for dead.<end>
+
+=>a116
+I know. But if you knew what they'd do to you next, you'd wish they had left you for dead.<end>
+
+=>a117_original
+Forget about them, now it's me who's saving you. <end>
+
+=>a117
+Forget about them, now it's me who's saving you. <end>
+
+=>a118_original
+I don't care. We are done talking about the Faceless.<end>
+
+=>a118
+I don't care. We are done talking about the Faceless.<end>
+
+=>a119_original
+To release their prisoners, and that includes you.<end>
+
+=>a119
+To release their prisoners, and that includes you.<end>
+
+=>q120_original
+Prisoners? They... saved me.<end>
+
+=>q120
+Prisoners? They... saved me.<end>
+
+=>a121_original
+Because they deserved it. Did they do this to you?<end>
+
+=>a121
+Because they deserved it. Did they do this to you?<end>
+
+=>q122_original
+They... saved me.<end>
+
+=>q122
+They... saved me.<end>
+
+=>a123_original
+It had to be done. I got nothing else to say.<end>
+
+=>a123
+It had to be done. I got nothing else to say.<end>
+
+=>q124_original
+I want to leave this place. Take me home.<end>
+
+=>q124
+I want to leave this place. Take me home.<end>
+
+=>q125_original
+$(context.player.Name)?<end>
+
+=>q125
+$(context.player.Name)?<end>
+

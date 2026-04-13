@@ -1,0 +1,174 @@
+=>q1_original
+STOP! ::Shouts at you an armed woman who is struggling to catch her breath.::<end>
+
+=>q1
+STOP! ::Shouts at you an armed woman who is struggling to catch her breath.::<end>
+
+=>q2_original
+::With her left arm placed just below her neck, she struggles to catch breath as she's clearly winded..::
+
+You... ::She coughs:: you don't belong to the group... I've been keeping an eye on, don't you?<end>
+
+=>q2
+::With her left arm placed just below her neck, she struggles to catch breath as she's clearly winded..::
+
+You... ::She coughs:: you don't belong to the group... I've been keeping an eye on, don't you?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+What group?<end>
+
+=>a4
+What group?<end>
+
+=>q5_original
+We've been scavenging these warehouses until suddenly we got cornered here by a group of maniacs trying to kill us. Since then, we've had few small skirmishes with them, but we weren't able to break out. This time though, I just saw a bunch of them on the move.<end>
+
+=>q5
+We've been scavenging these warehouses until suddenly we got cornered here by a group of maniacs trying to kill us. Since then, we've had few small skirmishes with them, but we weren't able to break out. This time though, I just saw a bunch of them on the move.<end>
+
+=>a6_original
+I could aid you.<end>
+
+=>a6
+I could aid you.<end>
+
+=>q7_original
+::Her partner adresses you.::
+
+We could use any help we can get. If what Ryl was saying is true, we are about to be attacked by a sizable group. I can promise you that if we make it out alive, I'll let you purchase some goods we have scavenged from here and I'll give you the key card for the storeroom behind us. ::He points to east.::<end>
+
+=>q7
+::Her partner adresses you.::
+
+We could use any help we can get. If what Ryl was saying is true, we are about to be attacked by a sizable group. I can promise you that if we make it out alive, I'll let you purchase some goods we have scavenged from here and I'll give you the key card for the storeroom behind us. ::He points to east.::<end>
+
+=>q8_original
+We've gathered all we can carry so the rest is all yours. ::Ryl nods.::<end>
+
+=>q8
+We've gathered all we can carry so the rest is all yours. ::Ryl nods.::<end>
+
+=>a9_original
+Sounds good, I will help you.<end>
+
+=>a9
+Sounds good, I will help you.<end>
+
+=>q10_original
+Get ready! ::Both of them move into defensive positions.::<end>
+
+=>q10
+Get ready! ::Both of them move into defensive positions.::<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+::Attack!::<end>
+
+=>a14
+::Attack!::<end>
+
+=>a15_original
+::End Dialog.::<end>
+
+=>a15
+::End Dialog.::<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+I don't care, this is your mess and you'll have to deal with it yourselves.<end>
+
+=>a18
+I don't care, this is your mess and you'll have to deal with it yourselves.<end>
+
+=>q19_original
+Damn, I had my hopes high, we needed all the help we can get. Ryl, get ready!. ::With great concern, both of them assume their defensive positions.::<end>
+
+=>q19
+Damn, I had my hopes high, we needed all the help we can get. Ryl, get ready!. ::With great concern, both of them assume their defensive positions.::<end>
+
+=>a20_original
+I'll just take it all myself! ::Attack!::<end>
+
+=>a20
+I'll just take it all myself! ::Attack!::<end>
+
+=>q21_original
+We hoped there was another way around this...<end>
+
+=>q21
+We hoped there was another way around this...<end>
+
+=>a22_original
+No, I've just climbed down here searching out the area.<end>
+
+=>a22
+No, I've just climbed down here searching out the area.<end>
+
+=>q23_original
+Oh, uhh, I see. ::She breathes a sigh of relief.::<end>
+
+=>q23
+Oh, uhh, I see. ::She breathes a sigh of relief.::<end>
+
+=>a24_original
+I don't answer to anyone! ::Attack!::<end>
+
+=>a24
+I don't answer to anyone! ::Attack!::<end>
+
+=>q25_original
+HOLD IT! ::Shouts at you a man who seems to be ready for your arrival.::<end>
+
+=>q25
+HOLD IT! ::Shouts at you a man who seems to be ready for your arrival.::<end>
+
+=>q26_original
+::His fingers are slowly twitching, eagerly awaiting for your next move.::<end>
+
+=>q26
+::His fingers are slowly twitching, eagerly awaiting for your next move.::<end>
+
+=>q27_original
+::An armed woman in the rear speaks to you. She is constantly turning her head back and forth as if she's expecting someone. ::
+
+<end>
+
+=>q27
+::An armed woman in the rear speaks to you. She is constantly turning her head back and forth as if she's expecting someone. ::
+
+<end>
+

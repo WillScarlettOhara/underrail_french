@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+How's it hanging?<end>
+
+=>q2
+How's it hanging?<end>
+
+=>q3_original
+Came for some reading?<end>
+
+=>q3
+Came for some reading?<end>
+
+=>q4_original
+Yeah?<end>
+
+=>q4
+Yeah?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+You looking for something specific?<end>
+
+=>q6
+You looking for something specific?<end>
+
+=>q7_original
+Some of the consoles are out again, but I think Ezra is working on that.<end>
+
+=>q7
+Some of the consoles are out again, but I think Ezra is working on that.<end>
+
+=>q8_original
+Glad the trains are going through the station again.<end>
+
+=>q8
+Glad the trains are going through the station again.<end>
+
+=>q9_original
+Mm-hmm.<end>
+
+=>q9
+Mm-hmm.<end>
+
+=>q10_original
+Some say the real Tanner had been killed and replaced by a robot.<end>
+
+=>q10
+Some say the real Tanner had been killed and replaced by a robot.<end>
+

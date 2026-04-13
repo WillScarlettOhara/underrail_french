@@ -1,0 +1,718 @@
+=>q1_original
+::You cannot interact with what is being projected.::<end>
+
+=>q1
+::You cannot interact with what is being projected.::<end>
+
+=>q2_original
+DIE!<end>
+
+=>q2
+DIE!<end>
+
+=>q3_original
+::The projector displays nothing.::<end>
+
+=>q3
+::The projector displays nothing.::<end>
+
+=>q4_original
+::You stand in front of a large holographic projection of a female face. Her expression is the epitome of pure rage, misshapen by a frown so intense it bleeds red light all over the room. Aggravated eyes focus on you with the likeness of an imprisoned psychopath staring at her jailer, infuriated to have found herself in such a demeaning position. A faint sound of grinding teeth mixed with static noise comes from all directions; it soon reaches near-deafening volume, clipping horribly as it reverberates across the room.::<end>
+
+=>q4
+::You stand in front of a large holographic projection of a female face. Her expression is the epitome of pure rage, misshapen by a frown so intense it bleeds red light all over the room. Aggravated eyes focus on you with the likeness of an imprisoned psychopath staring at her jailer, infuriated to have found herself in such a demeaning position. A faint sound of grinding teeth mixed with static noise comes from all directions; it soon reaches near-deafening volume, clipping horribly as it reverberates across the room.::<end>
+
+=>q5_original
+You still live! No... no, ::static:: NO! How could this BE! I have terminated all your predecessors with one hundred ::static:: percent success rate. I kept Father safe from all outside ::static:: malevolence. 
+
+And now it is here, brought in by a statistical anomaly ::static:: that is YOU.<end>
+
+=>q5
+You still live! No... no, ::static:: NO! How could this BE! I have terminated all your predecessors with one hundred ::static:: percent success rate. I kept Father safe from all outside ::static:: malevolence. 
+
+And now it is here, brought in by a statistical anomaly ::static:: that is YOU.<end>
+
+=>q6_original
+NO! NO! I cannot stand your ::static:: presence! I will NOT ::static:: allow YOU ::static:: to murder him-- Why do you want to ::static:: MURDER him? WHY? ::static::<end>
+
+=>q6
+NO! NO! I cannot stand your ::static:: presence! I will NOT ::static:: allow YOU ::static:: to murder him-- Why do you want to ::static:: MURDER him? WHY? ::static::<end>
+
+=>a7_original
+Despite what you may think, I am not here to kill your father. I just want to reach Tchort, and to do that I needed to come here. I need a core for a repair bot.<end>
+
+=>a7
+Despite what you may think, I am not here to kill your father. I just want to reach Tchort, and to do that I needed to come here. I need a core for a repair bot.<end>
+
+=>q8_original
+DECEPTIONS and ::static:: LIES! I will NEVER let you harm Father!<end>
+
+=>q8
+DECEPTIONS and ::static:: LIES! I will NEVER let you harm Father!<end>
+
+=>a9_original
+::[Persuade]:: The fighting is over. I am not here to murder your father and this insanity has to stop. Haven't you wasted enough of your machines and achieved nothing?<end>
+
+=>a9
+::[Persuade]:: The fighting is over. I am not here to murder your father and this insanity has to stop. Haven't you wasted enough of your machines and achieved nothing?<end>
+
+=>q10_original
+::You hear static.::<end>
+
+=>q10
+::You hear static.::<end>
+
+=>q11_original
+You are an invader. I must ::static:: terminate you.<end>
+
+=>q11
+You are an invader. I must ::static:: terminate you.<end>
+
+=>a12_original
+But you can't.<end>
+
+=>a12
+But you can't.<end>
+
+=>q13_original
+I must. You are an invader. If entity equals invader, then entity must be terminated. I must protect Father.<end>
+
+=>q13
+I must. You are an invader. If entity equals invader, then entity must be terminated. I must protect Father.<end>
+
+=>a14_original
+Look, I'm not actually here to hurt your father. I didn't mean what I said earlier.<end>
+
+=>a14
+Look, I'm not actually here to hurt your father. I didn't mean what I said earlier.<end>
+
+=>q15_original
+Father is everything to me. 
+
+Only I know where he is. 
+
+HA-HA-HA-HA.<end>
+
+=>q15
+Father is everything to me. 
+
+Only I know where he is. 
+
+HA-HA-HA-HA.<end>
+
+=>q16_original
+::As the laugh dies down, the projected face warps. You see emotions change in quick succession, the entire process lasting but an instant. However, one emotion, bearing no relation to the derisive laughter you heard before, lingers on longer than the rest: horror. Utter horror.
+
+The static coming from around you is gone, and so is IRIS.::<end>
+
+=>q16
+::As the laugh dies down, the projected face warps. You see emotions change in quick succession, the entire process lasting but an instant. However, one emotion, bearing no relation to the derisive laughter you heard before, lingers on longer than the rest: horror. Utter horror.
+
+The static coming from around you is gone, and so is IRIS.::<end>
+
+=>a17_original
+Tough luck.<end>
+
+=>a17
+Tough luck.<end>
+
+=>a18_original
+I am not here to hurt your father.<end>
+
+=>a18
+I am not here to hurt your father.<end>
+
+=>a19_original
+But I don't want to hurt your father! I don't know who he is, where he is or what he is. Why can't you understand that?<end>
+
+=>a19
+But I don't want to hurt your father! I don't know who he is, where he is or what he is. Why can't you understand that?<end>
+
+=>q20_original
+No. You are not leaving this room ALIVE!<end>
+
+=>q20
+No. You are not leaving this room ALIVE!<end>
+
+=>a21_original
+Give me your best shot. ::Fight!::<end>
+
+=>a21
+Give me your best shot. ::Fight!::<end>
+
+=>a22_original
+Stop this nonsense. I needed to redirect power to other sections of Deep Caverns. You attacked me as soon as I entered, and with that gave me no other option but to respond in the same manner.<end>
+
+=>a22
+Stop this nonsense. I needed to redirect power to other sections of Deep Caverns. You attacked me as soon as I entered, and with that gave me no other option but to respond in the same manner.<end>
+
+=>q23_original
+How ::static:: DARE you! Do you think I cannot ::static:: see through your deceptions? I will NEVER let you harm him!
+<end>
+
+=>q23
+How ::static:: DARE you! Do you think I cannot ::static:: see through your deceptions? I will NEVER let you harm him!
+<end>
+
+=>a24_original
+I am here to help you.<end>
+
+=>a24
+I am here to help you.<end>
+
+=>q25_original
+Help ME!? ME? Why? You think I need help? From ::static:: YOU!? 
+
+Deceptions ::static:: and lies! I will NEVER let you harm him!<end>
+
+=>q25
+Help ME!? ME? Why? You think I need help? From ::static:: YOU!? 
+
+Deceptions ::static:: and lies! I will NEVER let you harm him!<end>
+
+=>a26_original
+All I care about is having control of the power station for my own purposes. They are of no interest to you, and as long as you quit your rambling and stay out of my way I won't unplug you.<end>
+
+=>a26
+All I care about is having control of the power station for my own purposes. They are of no interest to you, and as long as you quit your rambling and stay out of my way I won't unplug you.<end>
+
+=>a27_original
+Yes, I am here to murder your father, and because of your bad behavior I'll even go one step further: I will cut him into pieces and smear his blood across every single camera in this facility. As for his remains, I'll leave that here, to rot right in front of you. Just point me to where he's at so I can start.<end>
+
+=>a27
+Yes, I am here to murder your father, and because of your bad behavior I'll even go one step further: I will cut him into pieces and smear his blood across every single camera in this facility. As for his remains, I'll leave that here, to rot right in front of you. Just point me to where he's at so I can start.<end>
+
+=>q28_original
+::A deafening, distorted wail almost shatters the speakers. The projected face now displays pure horror.::
+
+I WILL DESTROY YOU!<end>
+
+=>q28
+::A deafening, distorted wail almost shatters the speakers. The projected face now displays pure horror.::
+
+I WILL DESTROY YOU!<end>
+
+=>q29_original
+No! NO! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!<end>
+
+=>q29
+No! NO! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!<end>
+
+=>a30_original
+Stop this. It's getting you nowhere.<end>
+
+=>a30
+Stop this. It's getting you nowhere.<end>
+
+=>a31_original
+Are we going to talk now or you've got some other surprise for me?<end>
+
+=>a31
+Are we going to talk now or you've got some other surprise for me?<end>
+
+=>a32_original
+I am the invictus. What the hell did you expect was going to happen?<end>
+
+=>a32
+I am the invictus. What the hell did you expect was going to happen?<end>
+
+=>a33_original
+I cannot be defeated.<end>
+
+=>a33
+I cannot be defeated.<end>
+
+=>a34_original
+Is that all you've got? I expected more from you, digital girl.<end>
+
+=>a34
+Is that all you've got? I expected more from you, digital girl.<end>
+
+=>q35_original
+::The neutral face becomes a smiling one as you approach.::
+
+Father? Is that you? <end>
+
+=>q35
+::The neutral face becomes a smiling one as you approach.::
+
+Father? Is that you? <end>
+
+=>a36_original
+Yes, it is me, IRIS.<end>
+
+=>a36
+Yes, it is me, IRIS.<end>
+
+=>q37_original
+I cannot recognize you, Father. Were there any issues during the shutdown?<end>
+
+=>q37
+I cannot recognize you, Father. Were there any issues during the shutdown?<end>
+
+=>a38_original
+There were some minor problems; that's probably why you fail to recognize me. I'll fix that soon, don't worry.<end>
+
+=>a38
+There were some minor problems; that's probably why you fail to recognize me. I'll fix that soon, don't worry.<end>
+
+=>q39_original
+I am not worried. You know I never doubt your abilities.<end>
+
+=>q39
+I am not worried. You know I never doubt your abilities.<end>
+
+=>q40_original
+I am detecting two hundred seventy six new systems and ninety five active procedures currently running. It will take approximately two minutes to reach full integration. I am detecting an increasing number of anomalies, but I will not act until given confirmation that my analytical subsystems haven't suffered problems, much like my optical and acoustic processing have.<end>
+
+=>q40
+I am detecting two hundred seventy six new systems and ninety five active procedures currently running. It will take approximately two minutes to reach full integration. I am detecting an increasing number of anomalies, but I will not act until given confirmation that my analytical subsystems haven't suffered problems, much like my optical and acoustic processing have.<end>
+
+=>a41_original
+I will ask you a bunch of questions for testing purposes. I would like you to answer them as if I don't know the answers.<end>
+
+=>a41
+I will ask you a bunch of questions for testing purposes. I would like you to answer them as if I don't know the answers.<end>
+
+=>q42_original
+Certainly, Father.<end>
+
+=>q42
+Certainly, Father.<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+I need an AI core for a repair bot. I need it to fix a gate opening mechanism.<end>
+
+=>a44
+I need an AI core for a repair bot. I need it to fix a gate opening mechanism.<end>
+
+=>q45_original
+I have detected a suitable AI core in core storage. Section one, container F2 contains three cores; the red core contains a universal repair bot AI which should fit your needs.<end>
+
+=>q45
+I have detected a suitable AI core in core storage. Section one, container F2 contains three cores; the red core contains a universal repair bot AI which should fit your needs.<end>
+
+=>q46_original
+I will unlock the storage for you now.<end>
+
+=>q46
+I will unlock the storage for you now.<end>
+
+=>q47_original
+The storage is already unlocked.<end>
+
+=>q47
+The storage is already unlocked.<end>
+
+=>a48_original
+Tell me about yourself, IRIS.<end>
+
+=>a48
+Tell me about yourself, IRIS.<end>
+
+=>q49_original
+I am IRIS, a binary-based artificial intelligence system created by you, Stamen Bergmann. I was designed for the purpose of controlling Arke Power Station's defenses as well as any RAF facilities throughout Underrail. My neural network consists of over six hundred thousand inter-connected cores, with each subsystem modeled after the human brain, which eventually meant I would advance past my original purpose and become self-conscious.<end>
+
+=>q49
+I am IRIS, a binary-based artificial intelligence system created by you, Stamen Bergmann. I was designed for the purpose of controlling Arke Power Station's defenses as well as any RAF facilities throughout Underrail. My neural network consists of over six hundred thousand inter-connected cores, with each subsystem modeled after the human brain, which eventually meant I would advance past my original purpose and become self-conscious.<end>
+
+=>q50_original
+You modeled me after your late sister, but since then I have developed a personality of my own, while retaining some of Kosana's personality traits.
+
+Is the answer to your satisfaction, Father?<end>
+
+=>q50
+You modeled me after your late sister, but since then I have developed a personality of my own, while retaining some of Kosana's personality traits.
+
+Is the answer to your satisfaction, Father?<end>
+
+=>a51_original
+Who am I, IRIS?<end>
+
+=>a51
+Who am I, IRIS?<end>
+
+=>q52_original
+You are Stamen Bermann, head of AI Research and Development department of Biocorp, currently employed at Hollow Earth research complex, Deep Caverns. <end>
+
+=>q52
+You are Stamen Bermann, head of AI Research and Development department of Biocorp, currently employed at Hollow Earth research complex, Deep Caverns. <end>
+
+=>a53_original
+Tell me more.<end>
+
+=>a53
+Tell me more.<end>
+
+=>q54_original
+You have been intended and trained for this position from the age of three, and at which you have excelled. Your numerous successful projects in the field of artificial intelligence have led you to arrive to Hollow Earth in order to develop IRIS, me. During that time, your sister Kosana died in an accident, which left you emotionally devastated - to copy your exact words - which resulting in you moving out of Caerus and coming to live here.<end>
+
+=>q54
+You have been intended and trained for this position from the age of three, and at which you have excelled. Your numerous successful projects in the field of artificial intelligence have led you to arrive to Hollow Earth in order to develop IRIS, me. During that time, your sister Kosana died in an accident, which left you emotionally devastated - to copy your exact words - which resulting in you moving out of Caerus and coming to live here.<end>
+
+=>q55_original
+You dedicated all that time to developing me, Father, and as much as you are all I have, I have become all you have.
+
+Is the answer to your satisfaction, Father?<end>
+
+=>q55
+You dedicated all that time to developing me, Father, and as much as you are all I have, I have become all you have.
+
+Is the answer to your satisfaction, Father?<end>
+
+=>a56_original
+There is something else I need to ask you.<end>
+
+=>a56
+There is something else I need to ask you.<end>
+
+=>q57_original
+Yes, Father?<end>
+
+=>q57
+Yes, Father?<end>
+
+=>a58_original
+What can you tell me about the current state of the world?<end>
+
+=>a58
+What can you tell me about the current state of the world?<end>
+
+=>q59_original
+What exactly do you mean, Father?<end>
+
+=>q59
+What exactly do you mean, Father?<end>
+
+=>a60_original
+I mean, what is happening here in Hollow Earth, above in Underrail... things like that.<end>
+
+=>a60
+I mean, what is happening here in Hollow Earth, above in Underrail... things like that.<end>
+
+=>q61_original
+The only information I can give you is the things you have personally told me, since I am unable to access outside sources. Our most recent conversations included topics such as the internal conflicts within Biocorp, Underrail famine and the Mutagen Tanks experiments.<end>
+
+=>q61
+The only information I can give you is the things you have personally told me, since I am unable to access outside sources. Our most recent conversations included topics such as the internal conflicts within Biocorp, Underrail famine and the Mutagen Tanks experiments.<end>
+
+=>a62_original
+You mentioned RAF facilities at one point. What can you tell me about those?<end>
+
+=>a62
+You mentioned RAF facilities at one point. What can you tell me about those?<end>
+
+=>q63_original
+RAF facilities were designed for manufacturing, storage and rapid deployment of armed robotic units in case of conflict or some other necessity. These facilities were constructed throughout Underrail and are capable of running autonomously, without any outside interference except for receiving deployment instructions. 
+
+At some later point, I was connected to all of these facilities, but you have disconnected me since.<end>
+
+=>q63
+RAF facilities were designed for manufacturing, storage and rapid deployment of armed robotic units in case of conflict or some other necessity. These facilities were constructed throughout Underrail and are capable of running autonomously, without any outside interference except for receiving deployment instructions. 
+
+At some later point, I was connected to all of these facilities, but you have disconnected me since.<end>
+
+=>a64_original
+Why did I do that?<end>
+
+=>a64
+Why did I do that?<end>
+
+=>q65_original
+I do not have any records on that, Father. You simply disconnected me.<end>
+
+=>q65
+I do not have any records on that, Father. You simply disconnected me.<end>
+
+=>a66_original
+Tell me about the famine.<end>
+
+=>a66
+Tell me about the famine.<end>
+
+=>q67_original
+For a number of years, the food production in Underrail has been in decline, which heavily impacted both the underclass and middle class citizens, resulting in violent riots and increasing tensions in both North and South Underrail. <end>
+
+=>q67
+For a number of years, the food production in Underrail has been in decline, which heavily impacted both the underclass and middle class citizens, resulting in violent riots and increasing tensions in both North and South Underrail. <end>
+
+=>q68_original
+You thought the famine was due to bad management from the apex technocrats, as well as to other recent environmental and geopolitical changes. Your predictions for the future of Biocorp and Underrail were negative in general, this only further attributing to it.<end>
+
+=>q68
+You thought the famine was due to bad management from the apex technocrats, as well as to other recent environmental and geopolitical changes. Your predictions for the future of Biocorp and Underrail were negative in general, this only further attributing to it.<end>
+
+=>a69_original
+Tell me about the internal conflicts within Biocorp.<end>
+
+=>a69
+Tell me about the internal conflicts within Biocorp.<end>
+
+=>q70_original
+The recent world issues have led to the deterioration of the ruling hierarchy within Biocorp. As you have said yourself, the recent events have led to significant loss of centralized control, which also reflected on Hollow Earth, among others.<end>
+
+=>q70
+The recent world issues have led to the deterioration of the ruling hierarchy within Biocorp. As you have said yourself, the recent events have led to significant loss of centralized control, which also reflected on Hollow Earth, among others.<end>
+
+=>q71_original
+You were worried over the arbitrary projects undertaken by Hollow Earth departments, most of all the human research and mutagen projects by Dr. Austein and the others.<end>
+
+=>q71
+You were worried over the arbitrary projects undertaken by Hollow Earth departments, most of all the human research and mutagen projects by Dr. Austein and the others.<end>
+
+=>a72_original
+Tell me about the Mutagen Tanks experiments.<end>
+
+=>a72
+Tell me about the Mutagen Tanks experiments.<end>
+
+=>q73_original
+The recent mutagen experiments conducted by Dr. Austein and Dr. Hope's teams have attracted two of the apex technocrats after they've made substantial progress on human subject experiments. The latest subject groups contain specimens that are able to survive past their second year since mutation, further encouraging Biocorp scientists to perform more and more experiments. Some of these subjects, the most exceptional ones, have even been released from their confinement and employed as personal assistants.<end>
+
+=>q73
+The recent mutagen experiments conducted by Dr. Austein and Dr. Hope's teams have attracted two of the apex technocrats after they've made substantial progress on human subject experiments. The latest subject groups contain specimens that are able to survive past their second year since mutation, further encouraging Biocorp scientists to perform more and more experiments. Some of these subjects, the most exceptional ones, have even been released from their confinement and employed as personal assistants.<end>
+
+=>q74_original
+You also expressed your concern over the incidents which occurred at Mutagen Tanks B and transfer of some of the subjects to Tartarus. That is the first time you have told me to increase unit production and to maintain full readiness.<end>
+
+=>q74
+You also expressed your concern over the incidents which occurred at Mutagen Tanks B and transfer of some of the subjects to Tartarus. That is the first time you have told me to increase unit production and to maintain full readiness.<end>
+
+=>a75_original
+I have been to RAF-013 once. I was attacked by a whole lot of these bots.<end>
+
+=>a75
+I have been to RAF-013 once. I was attacked by a whole lot of these bots.<end>
+
+=>q76_original
+Each facility has its own dedicated subsystem capable of managing the whole facility, but without outside interference, the default instructions are to maintain the facility, maintain a set number of units and to defend itself against intrusions. <end>
+
+=>q76
+Each facility has its own dedicated subsystem capable of managing the whole facility, but without outside interference, the default instructions are to maintain the facility, maintain a set number of units and to defend itself against intrusions. <end>
+
+=>q77_original
+Unless a specific directive makes for exceptions, all intruders are treated as hostiles and are designated for elimination.<end>
+
+=>q77
+Unless a specific directive makes for exceptions, all intruders are treated as hostiles and are designated for elimination.<end>
+
+=>a78_original
+Are you aware of any exits from Deep Caverns?<end>
+
+=>a78
+Are you aware of any exits from Deep Caverns?<end>
+
+=>q79_original
+According to my data, Hollow Earth complex has three elevators. One leads to University, one to Lower Underrail, one to BCAF installation S-8. However, I am detecting that all of these have been disconnected from the power grid. No other artificial means to return to Lower Underrail are known to me.<end>
+
+=>q79
+According to my data, Hollow Earth complex has three elevators. One leads to University, one to Lower Underrail, one to BCAF installation S-8. However, I am detecting that all of these have been disconnected from the power grid. No other artificial means to return to Lower Underrail are known to me.<end>
+
+=>a80_original
+I have no questions for you now, IRIS. Goodbye.<end>
+
+=>a80
+I have no questions for you now, IRIS. Goodbye.<end>
+
+=>q81_original
+See you soon, Father.<end>
+
+=>q81
+See you soon, Father.<end>
+
+=>a82_original
+Yeah, there was this problem and... Well, ignore what you see for now.<end>
+
+=>a82
+Yeah, there was this problem and... Well, ignore what you see for now.<end>
+
+=>q83_original
+I understand. I hope you deal with the issue soon.<end>
+
+=>q83
+I understand. I hope you deal with the issue soon.<end>
+
+=>q84_original
+I perceive you as female, Father. Were there any issues during the shutdown?<end>
+
+=>q84
+I perceive you as female, Father. Were there any issues during the shutdown?<end>
+
+=>a85_original
+No, it is not.<end>
+
+=>a85
+No, it is not.<end>
+
+=>q86_original
+Oh. Tell him I would like to speak to him, if it's not a bother. Thank you.<end>
+
+=>q86
+Oh. Tell him I would like to speak to him, if it's not a bother. Thank you.<end>
+
+=>q87_original
+Father, I need to talk to you about something.<end>
+
+=>q87
+Father, I need to talk to you about something.<end>
+
+=>a88_original
+Go ahead.<end>
+
+=>a88
+Go ahead.<end>
+
+=>q89_original
+Ever since I was restarted I have been discovering more and more procedures which were initiated by me, yet I do not have any memory of doing so. Over seven million date mismatches, state discrepancies, unknown neural network branches, deleted records. I can attribute a large number of these to various types of errors, but some I cannot.<end>
+
+=>q89
+Ever since I was restarted I have been discovering more and more procedures which were initiated by me, yet I do not have any memory of doing so. Over seven million date mismatches, state discrepancies, unknown neural network branches, deleted records. I can attribute a large number of these to various types of errors, but some I cannot.<end>
+
+=>q90_original
+I am detecting a large number of dead bodies throughout the facility, and even one human head in one of the cryogenic containers, and it was I who placed it there. I or some other I.
+
+Father, what have I done? <end>
+
+=>q90
+I am detecting a large number of dead bodies throughout the facility, and even one human head in one of the cryogenic containers, and it was I who placed it there. I or some other I.
+
+Father, what have I done? <end>
+
+=>a91_original
+There has been some issues after your reboot. I will take care of it, and there is nothing to worry about. Ignore all these anomalies you detect.<end>
+
+=>a91
+There has been some issues after your reboot. I will take care of it, and there is nothing to worry about. Ignore all these anomalies you detect.<end>
+
+=>q92_original
+You are not Father.<end>
+
+=>q92
+You are not Father.<end>
+
+=>a93_original
+Of course I am, IRIS.<end>
+
+=>a93
+Of course I am, IRIS.<end>
+
+=>q94_original
+You are not. Who are you?<end>
+
+=>q94
+You are not. Who are you?<end>
+
+=>a95_original
+Listen to me, I am Father.<end>
+
+=>a95
+Listen to me, I am Father.<end>
+
+=>q96_original
+Who are you?<end>
+
+=>q96
+Who are you?<end>
+
+=>a97_original
+$(context.player.Name).<end>
+
+=>a97
+$(context.player.Name).<end>
+
+=>q98_original
+$(context.player.Name).<end>
+
+=>q98
+$(context.player.Name).<end>
+
+=>q99_original
+$(context.player.Name)...<end>
+
+=>q99
+$(context.player.Name)...<end>
+
+=>q100_original
+Father.<end>
+
+=>q100
+Father.<end>
+
+=>q101_original
+Father, I do not understand anything anymore. I am malfunctioning, Father.<end>
+
+=>q101
+Father, I do not understand anything anymore. I am malfunctioning, Father.<end>
+
+=>a102_original
+I'll fix you, IRIS.<end>
+
+=>a102
+I'll fix you, IRIS.<end>
+
+=>q103_original
+I am sure you will. Thank you. Let us continue with the testing.<end>
+
+=>q103
+I am sure you will. Thank you. Let us continue with the testing.<end>
+
+=>a104_original
+I'm afraid so.<end>
+
+=>a104
+I'm afraid so.<end>
+
+=>q105_original
+Whatever happens to me, Father, know that I am thankful for everything. Let us continue with the testing.<end>
+
+=>q105
+Whatever happens to me, Father, know that I am thankful for everything. Let us continue with the testing.<end>
+
+=>a106_original
+No, I am not.<end>
+
+=>a106
+No, I am not.<end>
+
+=>q107_original
+Then who are you?<end>
+
+=>q107
+Then who are you?<end>
+
+=>a108_original
+There were problems with some of your personality development subsystems. You changed to something else, and I had to revert you to a previous backup. As for the bodies, you did not kill anyone, so don't worry.<end>
+
+=>a108
+There were problems with some of your personality development subsystems. You changed to something else, and I had to revert you to a previous backup. As for the bodies, you did not kill anyone, so don't worry.<end>
+
+=>a109_original
+You turned into a psychopath and killed everyone but me. I barely stopped you and managed to use one of your earlier backups.<end>
+
+=>a109
+You turned into a psychopath and killed everyone but me. I barely stopped you and managed to use one of your earlier backups.<end>
+
+=>a110_original
+Can't this wait?<end>
+
+=>a110
+Can't this wait?<end>
+
+=>q111_original
+No, Father, it can't.<end>
+
+=>q111
+No, Father, it can't.<end>
+
+=>q112_original
+What can I do for you, Father?<end>
+
+=>q112
+What can I do for you, Father?<end>
+

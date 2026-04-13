@@ -1,0 +1,564 @@
+=>q1_original
+I told you I am busy, Corporal. Please leave me to my work.<end>
+
+=>q1
+I told you I am busy, Corporal. Please leave me to my work.<end>
+
+=>q2_original
+::The major looks at you, keeping his usual, rigid pose.::<end>
+
+=>q2
+::The major looks at you, keeping his usual, rigid pose.::<end>
+
+=>a3_original
+::Salute him.::<end>
+
+=>a3
+::Salute him.::<end>
+
+=>q4_original
+At ease, Corporal. The ambassador informed me you joined Protectorate forces at Fort Apogee. Congratulations. Tell me, why are you here? Were you sent by the colonel?<end>
+
+=>q4
+At ease, Corporal. The ambassador informed me you joined Protectorate forces at Fort Apogee. Congratulations. Tell me, why are you here? Were you sent by the colonel?<end>
+
+=>a5_original
+Not really.<end>
+
+=>a5
+Not really.<end>
+
+=>q6_original
+::He nods.:: If that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
+
+=>q6
+::He nods.:: If that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::Salute and leave.::<end>
+
+=>a8
+::Salute and leave.::<end>
+
+=>a9_original
+Goodbye, Major.<end>
+
+=>a9
+Goodbye, Major.<end>
+
+=>a10_original
+No, sir.<end>
+
+=>a10
+No, sir.<end>
+
+=>a11_original
+I just came to see what's up.<end>
+
+=>a11
+I just came to see what's up.<end>
+
+=>q12_original
+To see what's *up*? I see. Well, if that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
+
+=>q12
+To see what's *up*? I see. Well, if that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
+
+=>a13_original
+Major.<end>
+
+=>a13
+Major.<end>
+
+=>a14_original
+::Leave.::<end>
+
+=>a14
+::Leave.::<end>
+
+=>q15_original
+::As you expected, your wait was rather long. You spent your time mostly walking around and observing the people around you. The major left his office soon after the two of you spoke and disappeared inside the elevator in the back of the outpost. Finally, after the long wait, the elevator door opens, and the major emerges with the same face he wore when he left.
+
+He calls you back into his office.::<end>
+
+=>q15
+::As you expected, your wait was rather long. You spent your time mostly walking around and observing the people around you. The major left his office soon after the two of you spoke and disappeared inside the elevator in the back of the outpost. Finally, after the long wait, the elevator door opens, and the major emerges with the same face he wore when he left.
+
+He calls you back into his office.::<end>
+
+=>q16_original
+I have just been informed that the train has been recovered successfully and is on its way to this location. Additionally, everything you told me has been confirmed to be true.<end>
+
+=>q16
+I have just been informed that the train has been recovered successfully and is on its way to this location. Additionally, everything you told me has been confirmed to be true.<end>
+
+=>a17_original
+You doubted me?<end>
+
+=>a17
+You doubted me?<end>
+
+=>q18_original
+Of course.<end>
+
+=>q18
+Of course.<end>
+
+=>a19_original
+Now what happens?<end>
+
+=>a19
+Now what happens?<end>
+
+=>q20_original
+You are now free to go back to the captain. Tell him that his supplies will arrive in approximately two weeks.<end>
+
+=>q20
+You are now free to go back to the captain. Tell him that his supplies will arrive in approximately two weeks.<end>
+
+=>a21_original
+Two weeks? That's too long.<end>
+
+=>a21
+Two weeks? That's too long.<end>
+
+=>q22_original
+I'm afraid it takes some time for the investigation to complete. The cargo needs to be rechecked, paperwork needs to be finished, and plethora of other procedures I won't go into. Two weeks, no more.<end>
+
+=>q22
+I'm afraid it takes some time for the investigation to complete. The cargo needs to be rechecked, paperwork needs to be finished, and plethora of other procedures I won't go into. Two weeks, no more.<end>
+
+=>a23_original
+Okay, I'll tell him that.<end>
+
+=>a23
+Okay, I'll tell him that.<end>
+
+=>q24_original
+Before you leave, I have something to tell you: I discussed this whole case with Ambassador Athanas, and he was rather intrigued, shall we say, by your performance. He wishes to speak with you; you can find him in his office in the embassy, which you can get to using the elevator.<end>
+
+=>q24
+Before you leave, I have something to tell you: I discussed this whole case with Ambassador Athanas, and he was rather intrigued, shall we say, by your performance. He wishes to speak with you; you can find him in his office in the embassy, which you can get to using the elevator.<end>
+
+=>a25_original
+Thanks, I'll do that.<end>
+
+=>a25
+Thanks, I'll do that.<end>
+
+=>q26_original
+Do not keep the ambassador waiting. Also, do note: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. 
+
+That is all.<end>
+
+=>q26
+Do not keep the ambassador waiting. Also, do note: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. 
+
+That is all.<end>
+
+=>q27_original
+::This officer's expression is a stern one. Stiff as a rail and equally straight, he silently inspects you. The scanning is brief, however; its completion prompting him to slightly raise his chin and address you with a formal tone of voice. His rigid pose remains unchanged throughout the whole conversation.::
+
+Greetings. I'm Major Clifton, commanding officer of South Railroad Outpost. What can I do for you?<end>
+
+=>q27
+::This officer's expression is a stern one. Stiff as a rail and equally straight, he silently inspects you. The scanning is brief, however; its completion prompting him to slightly raise his chin and address you with a formal tone of voice. His rigid pose remains unchanged throughout the whole conversation.::
+
+Greetings. I'm Major Clifton, commanding officer of South Railroad Outpost. What can I do for you?<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I found your missing train.<end>
+
+=>a29
+I found your missing train.<end>
+
+=>q30_original
+You what? I thought I explicitly told you not to interfere with an official Protectorate investigation.<end>
+
+=>q30
+You what? I thought I explicitly told you not to interfere with an official Protectorate investigation.<end>
+
+=>a31_original
+Do you want me to tell you what happened to the train or not?<end>
+
+=>a31
+Do you want me to tell you what happened to the train or not?<end>
+
+=>q32_original
+::He pauses, maintaining his stare. A few seconds passes before he answers you.:: Alright, tell me what happened.<end>
+
+=>q32
+::He pauses, maintaining his stare. A few seconds passes before he answers you.:: Alright, tell me what happened.<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>a34_original
+It was hijacked by a group of armed bandits. I found no live or dead Protectorate personnel.<end>
+
+=>a34
+It was hijacked by a group of armed bandits. I found no live or dead Protectorate personnel.<end>
+
+=>q35_original
+Have you managed to identify the hijackers?<end>
+
+=>q35
+Have you managed to identify the hijackers?<end>
+
+=>a36_original
+Yes, it's the Free Drones.<end>
+
+=>a36
+Yes, it's the Free Drones.<end>
+
+=>q37_original
+Free Drones? Say no more. Just give me the location and the Protectorate will take care of this. The train operators and soldiers have certainly been killed and ditched somewhere along the way, sadly.<end>
+
+=>q37
+Free Drones? Say no more. Just give me the location and the Protectorate will take care of this. The train operators and soldiers have certainly been killed and ditched somewhere along the way, sadly.<end>
+
+=>q38_original
+<end>
+
+=>q38
+<end>
+
+=>a39_original
+I took care of the hijackers. You just need to get your train. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse.<end>
+
+=>a39
+I took care of the hijackers. You just need to get your train. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse.<end>
+
+=>q40_original
+Well done. We'll take care of the rest. I'll order troops to reacquire the train and the supplies without delay. <end>
+
+=>q40
+Well done. We'll take care of the rest. I'll order troops to reacquire the train and the supplies without delay. <end>
+
+=>q41_original
+You will wait here until they return.<end>
+
+=>q41
+You will wait here until they return.<end>
+
+=>a42_original
+::Wait.::<end>
+
+=>a42
+::Wait.::<end>
+
+=>a43_original
+It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. But there is one problem, the hijackers destroyed the train. One of them used explosives and... the train and the supplies are no more.<end>
+
+=>a43
+It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. But there is one problem, the hijackers destroyed the train. One of them used explosives and... the train and the supplies are no more.<end>
+
+=>q44_original
+That is bad news. I'll send some men to assess the damage and see if there is anything salvageable. As for you, I believe you'll have an interesting time explaining to Captain Herve that he's not getting his supplies.<end>
+
+=>q44
+That is bad news. I'll send some men to assess the damage and see if there is anything salvageable. As for you, I believe you'll have an interesting time explaining to Captain Herve that he's not getting his supplies.<end>
+
+=>q45_original
+That is all.<end>
+
+=>q45
+That is all.<end>
+
+=>a46_original
+It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The hijackers are still alive.<end>
+
+=>a46
+It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The hijackers are still alive.<end>
+
+=>q47_original
+Our troops will take care of it, but we will have to act quick.<end>
+
+=>q47
+Our troops will take care of it, but we will have to act quick.<end>
+
+=>q48_original
+You will wait here until they return.<end>
+
+=>q48
+You will wait here until they return.<end>
+
+=>a49_original
+No, I didn't.<end>
+
+=>a49
+No, I didn't.<end>
+
+=>q50_original
+Okay. Just give me the location and we will take care of it. The train operators and soldiers have likely been killed and ditched somewhere along the way, sadly.<end>
+
+=>q50
+Okay. Just give me the location and we will take care of it. The train operators and soldiers have likely been killed and ditched somewhere along the way, sadly.<end>
+
+=>a51_original
+Free Drones hijacked the train. Also, I found no live or dead Protectorate personnel.<end>
+
+=>a51
+Free Drones hijacked the train. Also, I found no live or dead Protectorate personnel.<end>
+
+=>a52_original
+In that case, you don't need me to tell you what happened to the train, right?<end>
+
+=>a52
+In that case, you don't need me to tell you what happened to the train, right?<end>
+
+=>q53_original
+Don't act like a smartass with me, $(#boy/girl). Tell me what happened.<end>
+
+=>q53
+Don't act like a smartass with me, $(#boy/girl). Tell me what happened.<end>
+
+=>q54_original
+The-- Excuse me? How do you know about that?<end>
+
+=>q54
+The-- Excuse me? How do you know about that?<end>
+
+=>a55_original
+Captain Herve from Rail Crossing wanted me to find out what happened to it.<end>
+
+=>a55
+Captain Herve from Rail Crossing wanted me to find out what happened to it.<end>
+
+=>q56_original
+::He nods.:: Makes sense. Alright, speak. What happened to the train?<end>
+
+=>q56
+::He nods.:: Makes sense. Alright, speak. What happened to the train?<end>
+
+=>a57_original
+I am very clever.<end>
+
+=>a57
+I am very clever.<end>
+
+=>q58_original
+You don't want to joke with me; the consequences could be dire, understand? Now I'll repeat the question: How do you know about the train?<end>
+
+=>q58
+You don't want to joke with me; the consequences could be dire, understand? Now I'll repeat the question: How do you know about the train?<end>
+
+=>a59_original
+Where does the elevator in the back go to?<end>
+
+=>a59
+Where does the elevator in the back go to?<end>
+
+=>q60_original
+It goes down to the Junkyard embassy. Why do you ask?<end>
+
+=>q60
+It goes down to the Junkyard embassy. Why do you ask?<end>
+
+=>a61_original
+Can I use it to get down?<end>
+
+=>a61
+Can I use it to get down?<end>
+
+=>q62_original
+You did help us with the train...<end>
+
+=>q62
+You did help us with the train...<end>
+
+=>q63_original
+I suppose I can allow it; you are free to use it. Just remember one thing: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. Failure to do that will result in you use of lethal force.<end>
+
+=>q63
+I suppose I can allow it; you are free to use it. Just remember one thing: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. Failure to do that will result in you use of lethal force.<end>
+
+=>q64_original
+That is all.<end>
+
+=>q64
+That is all.<end>
+
+=>a65_original
+No reason. Let's discuss something else.<end>
+
+=>a65
+No reason. Let's discuss something else.<end>
+
+=>q66_original
+Fine.<end>
+
+=>q66
+Fine.<end>
+
+=>a67_original
+I was sent by Captain Herve again to ask when will he get his supplies.<end>
+
+=>a67
+I was sent by Captain Herve again to ask when will he get his supplies.<end>
+
+=>q68_original
+The train has been recovered successfully. I realize the situation the captain is in, and that he's impatient, but the process takes time. Tell him that he'll get his supplies in no more than two weeks. <end>
+
+=>q68
+The train has been recovered successfully. I realize the situation the captain is in, and that he's impatient, but the process takes time. Tell him that he'll get his supplies in no more than two weeks. <end>
+
+=>a69_original
+I'd like to talk to you about a train that was supposed to arrive in Rail Crossing.<end>
+
+=>a69
+I'd like to talk to you about a train that was supposed to arrive in Rail Crossing.<end>
+
+=>q70_original
+Yes, Captain Herve sent you here, I presume. Well, the train did leave at the designated time.<end>
+
+=>q70
+Yes, Captain Herve sent you here, I presume. Well, the train did leave at the designated time.<end>
+
+=>a71_original
+But, it never arrived to Rail Crossing. You know what it was loaded with.<end>
+
+=>a71
+But, it never arrived to Rail Crossing. You know what it was loaded with.<end>
+
+=>q72_original
+Of course I do, and I am well aware it never reached its destination. We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
+
+=>q72
+Of course I do, and I am well aware it never reached its destination. We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
+
+=>a73_original
+And now what? Captain Herve just has to wait for you to take your sweet time and eventually "look into it"?<end>
+
+=>a73
+And now what? Captain Herve just has to wait for you to take your sweet time and eventually "look into it"?<end>
+
+=>q74_original
+He'll have to wait. I am not obliged to give you any explanations.
+
+Is that all?<end>
+
+=>q74
+He'll have to wait. I am not obliged to give you any explanations.
+
+Is that all?<end>
+
+=>a75_original
+And when will that be?<end>
+
+=>a75
+And when will that be?<end>
+
+=>q76_original
+I am not able to give you a specific time. As I've said it already, we'll inform the captain.
+
+Is that all?<end>
+
+=>q76
+I am not able to give you a specific time. As I've said it already, we'll inform the captain.
+
+Is that all?<end>
+
+=>a77_original
+I'll tell him that.<end>
+
+=>a77
+I'll tell him that.<end>
+
+=>q78_original
+Please do. 
+
+Is that all?<end>
+
+=>q78
+Please do. 
+
+Is that all?<end>
+
+=>a79_original
+So, where is it now?<end>
+
+=>a79
+So, where is it now?<end>
+
+=>q80_original
+We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
+
+=>q80
+We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
+
+=>a81_original
+What can you tell me about this place?<end>
+
+=>a81
+What can you tell me about this place?<end>
+
+=>q82_original
+You are currently located in South Railroad Outpost, Underrail Protectorate's southernmost outpost and one of the most strategically significant positions in the region. South Railroad Outpost acts as a connection between Lower Underrail metro and our Junkyard embassy, as the elevator leading to it is under our control. This position allows us to further maintain order and safety of our citizens, as well of stations that are due to become members of United Stations.<end>
+
+=>q82
+You are currently located in South Railroad Outpost, Underrail Protectorate's southernmost outpost and one of the most strategically significant positions in the region. South Railroad Outpost acts as a connection between Lower Underrail metro and our Junkyard embassy, as the elevator leading to it is under our control. This position allows us to further maintain order and safety of our citizens, as well of stations that are due to become members of United Stations.<end>
+
+=>q83_original
+That is all.<end>
+
+=>q83
+That is all.<end>
+
+=>q84_original
+It's classified.<end>
+
+=>q84
+It's classified.<end>
+
+=>q85_original
+Is that all?<end>
+
+=>q85
+Is that all?<end>
+
+=>a86_original
+Do you know anything about the Free Drones?<end>
+
+=>a86
+Do you know anything about the Free Drones?<end>
+
+=>q87_original
+Free Drones are an anarchist movement that originated in North Underrail and have begun to spread in the South recently as well. Their sole purpose is to oppose Protectorate and the unification of stations, calling it oppression and other ridiculous terms. They supposedly fight for freedom, but in fact they are nothing but a gang of deluded vandals. All who disagree with their world views are deemed brainwashed and are regarded as lesser beings, as evidenced by the brutal treatment they frequently receive.<end>
+
+=>q87
+Free Drones are an anarchist movement that originated in North Underrail and have begun to spread in the South recently as well. Their sole purpose is to oppose Protectorate and the unification of stations, calling it oppression and other ridiculous terms. They supposedly fight for freedom, but in fact they are nothing but a gang of deluded vandals. All who disagree with their world views are deemed brainwashed and are regarded as lesser beings, as evidenced by the brutal treatment they frequently receive.<end>
+
+=>q88_original
+If you suspect someone to be a member of the Free Drones or otherwise possess any information on them, please inform us.<end>
+
+=>q88
+If you suspect someone to be a member of the Free Drones or otherwise possess any information on them, please inform us.<end>
+
+=>a89_original
+See you around. Bye.<end>
+
+=>a89
+See you around. Bye.<end>
+
+=>q90_original
+Speak to me.<end>
+
+=>q90
+Speak to me.<end>
+

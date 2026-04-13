@@ -1,0 +1,994 @@
+=>q1_original
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q1
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q2_original
+I'm very sorry, but I've been informed you were hired by a different employer. In such cases it would be against the company regulations to offer you a position in Coretech. I hope you understand.
+
+I'm going to have to ask you to leave now, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q2
+I'm very sorry, but I've been informed you were hired by a different employer. In such cases it would be against the company regulations to offer you a position in Coretech. I hope you understand.
+
+I'm going to have to ask you to leave now, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>a3_original
+I understand completely. Goodbye and have a nice day.<end>
+
+=>a3
+I understand completely. Goodbye and have a nice day.<end>
+
+=>a4_original
+Your loss. Goodbye.<end>
+
+=>a4
+Your loss. Goodbye.<end>
+
+=>a5_original
+To hell with your regulations! ::Leave.::<end>
+
+=>a5
+To hell with your regulations! ::Leave.::<end>
+
+=>q6_original
+What are you doing here? Go to the warehouse!<end>
+
+=>q6
+What are you doing here? Go to the warehouse!<end>
+
+=>q7_original
+I thought I showed you the door already, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q7
+I thought I showed you the door already, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q8_original
+Agent $(context.player.Name), I have some good news for you. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>q8
+Agent $(context.player.Name), I have some good news for you. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>a9_original
+I'll go see him.<end>
+
+=>a9
+I'll go see him.<end>
+
+=>q10_original
+::The man behind the desk greets you with a closed-lip smile, one you'll find almost never leaves his face, while his superficially good-natured eyes are always focused on you, scrutinizing every motion you make and seem capable of picking up every single detail, no matter how minuscule it might be. It is an inescapable feeling, and it is making you suddenly become self-conscious of your appearance and behavior, and how will any of that reflect on the interview you are about to have.::
+
+Welcome, $(context.player.Name). I'm Joseph Harlan and it is a pleasure to meet you. I'd like for us to move on to the reason why you're here, if you don't mind. So, you are interested in working for Coretech?<end>
+
+=>q10
+::The man behind the desk greets you with a closed-lip smile, one you'll find almost never leaves his face, while his superficially good-natured eyes are always focused on you, scrutinizing every motion you make and seem capable of picking up every single detail, no matter how minuscule it might be. It is an inescapable feeling, and it is making you suddenly become self-conscious of your appearance and behavior, and how will any of that reflect on the interview you are about to have.::
+
+Welcome, $(context.player.Name). I'm Joseph Harlan and it is a pleasure to meet you. I'd like for us to move on to the reason why you're here, if you don't mind. So, you are interested in working for Coretech?<end>
+
+=>a11_original
+Indeed. I personally think it's an honor and a privilege to work for a company of Coretech's magnitude.<end>
+
+=>a11
+Indeed. I personally think it's an honor and a privilege to work for a company of Coretech's magnitude.<end>
+
+=>q12_original
+Well said, I already like you. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q12
+Well said, I already like you. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>a13_original
+What exactly is this job you're talking about?<end>
+
+=>a13
+What exactly is this job you're talking about?<end>
+
+=>q14_original
+I'll be honest with you, $(context.player.Name). Coretech, because of its wealth, status and importance to this city has numerous enemies trying to bring it down. It's a sad state of affairs, I know, but that's the state of the world we live in. Of course, we have our own security forces; however, their effectiveness against more surreptitious threats is quite limited.<end>
+
+=>q14
+I'll be honest with you, $(context.player.Name). Coretech, because of its wealth, status and importance to this city has numerous enemies trying to bring it down. It's a sad state of affairs, I know, but that's the state of the world we live in. Of course, we have our own security forces; however, their effectiveness against more surreptitious threats is quite limited.<end>
+
+=>q15_original
+We are in need of someone who can act as a low profile agent, is capable and willing and can accomplish given tasks effectively without ever being associated with Coretech, should $(#he/she) be compromised. Now, I must make one thing clear: We aren't talking about any illegal or immoral affairs here, or anything similar. We simply seek our safety and the prosperity of Core City, and for that it is sometimes necessary to act in the way I've described.
+ 
+Are you interested?<end>
+
+=>q15
+We are in need of someone who can act as a low profile agent, is capable and willing and can accomplish given tasks effectively without ever being associated with Coretech, should $(#he/she) be compromised. Now, I must make one thing clear: We aren't talking about any illegal or immoral affairs here, or anything similar. We simply seek our safety and the prosperity of Core City, and for that it is sometimes necessary to act in the way I've described.
+ 
+Are you interested?<end>
+
+=>a16_original
+You can count me in.<end>
+
+=>a16
+You can count me in.<end>
+
+=>q17_original
+::He smiles.:: Excellent. Those words mark the beginning of a very important chapter in your life. You are now an employee of Coretech and are free to move around most of the building; some areas are off-limits, of course. You will be paid for each individual job accomplished. Generously, rest assured. 
+
+And last, but not least, your safety is guaranteed within the Coretech building. I noticed you are quite a combat-ready sort of person, but in here you may be at ease.<end>
+
+=>q17
+::He smiles.:: Excellent. Those words mark the beginning of a very important chapter in your life. You are now an employee of Coretech and are free to move around most of the building; some areas are off-limits, of course. You will be paid for each individual job accomplished. Generously, rest assured. 
+
+And last, but not least, your safety is guaranteed within the Coretech building. I noticed you are quite a combat-ready sort of person, but in here you may be at ease.<end>
+
+=>q18_original
+::He walks to one of the wardrobes and grabs two matte black zip bags, one large and bulky, the other small.::
+
+::He puts them on his colleague's desk and unzips the large one first.:: This is your uniform - a state-of-the-art energizing vest. It provides good ballistic protection, but more importantly, it can keep your equipment powered up via wireless energy transmission.
+
+::Then he opens the smaller one.:: And this is your tactical respirator. It's lightweight and comes with dual filter canisters, smart lenses and other integrated devices.<end>
+
+=>q18
+::He walks to one of the wardrobes and grabs two matte black zip bags, one large and bulky, the other small.::
+
+::He puts them on his colleague's desk and unzips the large one first.:: This is your uniform - a state-of-the-art energizing vest. It provides good ballistic protection, but more importantly, it can keep your equipment powered up via wireless energy transmission.
+
+::Then he opens the smaller one.:: And this is your tactical respirator. It's lightweight and comes with dual filter canisters, smart lenses and other integrated devices.<end>
+
+=>q19_original
+::He puts the empty bags aside and turns to you.:: <end>
+
+=>q19
+::He puts the empty bags aside and turns to you.:: <end>
+
+=>q20_original
+There. That issue's been rectified.<end>
+
+=>q20
+There. That issue's been rectified.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+I'd like to see what you have in store. ::Barter.::<end>
+
+=>a22
+I'd like to see what you have in store. ::Barter.::<end>
+
+=>a23_original
+For some reason I still haven't gotten my uniform.<end>
+
+=>a23
+For some reason I still haven't gotten my uniform.<end>
+
+=>q24_original
+That's... that's very unusual.<end>
+
+=>q24
+That's... that's very unusual.<end>
+
+=>a25_original
+::[Mercantile]:: I am looking for high quality gear. I believe you can offer me much better equipment than what you're currently showing me.<end>
+
+=>a25
+::[Mercantile]:: I am looking for high quality gear. I believe you can offer me much better equipment than what you're currently showing me.<end>
+
+=>q26_original
+The last time I checked, that sort of equipment is quite above your pay grade, $(context.player.Name). Am I wrong?<end>
+
+=>q26
+The last time I checked, that sort of equipment is quite above your pay grade, $(context.player.Name). Am I wrong?<end>
+
+=>a27_original
+I have many sources of income.<end>
+
+=>a27
+I have many sources of income.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+::He smiles.:: Good to hear. Very well, $(context.player.Name), this is what I have.<end>
+
+=>q29
+::He smiles.:: Good to hear. Very well, $(context.player.Name), this is what I have.<end>
+
+=>a30_original
+::Barter.::<end>
+
+=>a30
+::Barter.::<end>
+
+=>q31_original
+::He smiles.:: Perhaps you should wait for a pay raise, $(context.player.Name).<end>
+
+=>q31
+::He smiles.:: Perhaps you should wait for a pay raise, $(context.player.Name).<end>
+
+=>a32_original
+Mr. Simmons told me to speak to you about something but didn't specify what it was.<end>
+
+=>a32
+Mr. Simmons told me to speak to you about something but didn't specify what it was.<end>
+
+=>q33_original
+::He nods.:: Despite the unfortunate outcome of your last mission, which I'm sure was something that couldn't have been prevented, Mr. Simmons is greatly pleased by your performance so far to the point of arranging for you to become the owner of one of the largest houses in Core City's residential district. Yes, you heard me right. ::He smiles.::<end>
+
+=>q33
+::He nods.:: Despite the unfortunate outcome of your last mission, which I'm sure was something that couldn't have been prevented, Mr. Simmons is greatly pleased by your performance so far to the point of arranging for you to become the owner of one of the largest houses in Core City's residential district. Yes, you heard me right. ::He smiles.::<end>
+
+=>q34_original
+All paperwork has already been done, I can say; you need not worry about it. You should now go and speak with a Core City Housing Corporation representative who is waiting for you in Core City's residential district. His name is Mr. Samuel Morgan, and I hope you won't keep him waiting long. ::He smiles.::<end>
+
+=>q34
+All paperwork has already been done, I can say; you need not worry about it. You should now go and speak with a Core City Housing Corporation representative who is waiting for you in Core City's residential district. His name is Mr. Samuel Morgan, and I hope you won't keep him waiting long. ::He smiles.::<end>
+
+=>a35_original
+I'm not yet so familiar with that part of Core City. How do I find this residential area?<end>
+
+=>a35
+I'm not yet so familiar with that part of Core City. How do I find this residential area?<end>
+
+=>q36_original
+It is in the easternmost section of this level, past the Praetorian Security headquarters. You will recognize the residential district easily; go to its northern part where you will meet Mr. Morgan. He will it give you the keys and answer all your further questions.<end>
+
+=>q36
+It is in the easternmost section of this level, past the Praetorian Security headquarters. You will recognize the residential district easily; go to its northern part where you will meet Mr. Morgan. He will it give you the keys and answer all your further questions.<end>
+
+=>a37_original
+I wanted to ask you something else before I leave.<end>
+
+=>a37
+I wanted to ask you something else before I leave.<end>
+
+=>q38_original
+Go ahead.<end>
+
+=>q38
+Go ahead.<end>
+
+=>a39_original
+I'll be on my way then. See you later, Harlan, and thank Mr. Simmons for me.<end>
+
+=>a39
+I'll be on my way then. See you later, Harlan, and thank Mr. Simmons for me.<end>
+
+=>q40_original
+I will. Enjoy your new home.<end>
+
+=>q40
+I will. Enjoy your new home.<end>
+
+=>a41_original
+Mr. Simmons told me to see you about a store.<end>
+
+=>a41
+Mr. Simmons told me to see you about a store.<end>
+
+=>q42_original
+::He nods.:: You have been granted access to our internal store. Whenever you need to browse it, just speak to me. ::He smiles.::<end>
+
+=>q42
+::He nods.:: You have been granted access to our internal store. Whenever you need to browse it, just speak to me. ::He smiles.::<end>
+
+=>a43_original
+I'd like to see what you have available. ::Barter.::<end>
+
+=>a43
+I'd like to see what you have available. ::Barter.::<end>
+
+=>a44_original
+The warehouse has been secured.<end>
+
+=>a44
+The warehouse has been secured.<end>
+
+=>q45_original
+Agent Henderson? She hasn't reported back yet.<end>
+
+=>q45
+Agent Henderson? She hasn't reported back yet.<end>
+
+=>a46_original
+I'm afraid Agent Henderson is dead.<end>
+
+=>a46
+I'm afraid Agent Henderson is dead.<end>
+
+=>q47_original
+Oh... ::His stare drops down for an instant, but then focuses back on you.:: That is bad news indeed. She was a fantastic person. Sadly, you two didn't get the chance to meet before this incident. It's such a shame. Shame. But, tell me, what happened down there? Faceless?<end>
+
+=>q47
+Oh... ::His stare drops down for an instant, but then focuses back on you.:: That is bad news indeed. She was a fantastic person. Sadly, you two didn't get the chance to meet before this incident. It's such a shame. Shame. But, tell me, what happened down there? Faceless?<end>
+
+=>a48_original
+Mercenaries stormed the warehouse, and there was a lot of them. They somehow managed to deactive the security systems before attacking.<end>
+
+=>a48
+Mercenaries stormed the warehouse, and there was a lot of them. They somehow managed to deactive the security systems before attacking.<end>
+
+=>q49_original
+I see. This isn't a normal raid. Those systems are not easy to access. We're dealing with serious people here, $(context.player.Name). I'll need to speak to Mr. Simmons about this.<end>
+
+=>q49
+I see. This isn't a normal raid. Those systems are not easy to access. We're dealing with serious people here, $(context.player.Name). I'll need to speak to Mr. Simmons about this.<end>
+
+=>q50_original
+As for you, you did your job as best as you could, $(context.player.Name). Take this. ::He hands you 500 charons and a tactical vest.::
+
+And... we will make a public announcement regarding Henderson's funeral. You could attend it if you want.<end>
+
+=>q50
+As for you, you did your job as best as you could, $(context.player.Name). Take this. ::He hands you 500 charons and a tactical vest.::
+
+And... we will make a public announcement regarding Henderson's funeral. You could attend it if you want.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>q52_original
+One more thing remains, Agent. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>q52
+One more thing remains, Agent. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>q53_original
+I have nothing for you at the moment, but you will be called when you're needed. ::He smiles.::<end>
+
+=>q53
+I have nothing for you at the moment, but you will be called when you're needed. ::He smiles.::<end>
+
+=>q54_original
+::Harlan smiles.:: $(context.player.Name), Agent Henderson already reported back. You did a great job there. I was really worried it was the Faceless attacking us, I can say.<end>
+
+=>q54
+::Harlan smiles.:: $(context.player.Name), Agent Henderson already reported back. You did a great job there. I was really worried it was the Faceless attacking us, I can say.<end>
+
+=>q55_original
+You delivered yet again, $(context.player.Name). You never disappoint. Take this. ::He hands you 500 charons and a tactical vest.::<end>
+
+=>q55
+You delivered yet again, $(context.player.Name). You never disappoint. Take this. ::He hands you 500 charons and a tactical vest.::<end>
+
+=>a56_original
+I'm ready for my next task.<end>
+
+=>a56
+I'm ready for my next task.<end>
+
+=>q57_original
+This one is very serious, Agent. We've discovered that our prototype ICPD has been stolen from one of our labs, and one of our employees, Luben Greenhorn, is a prime suspect in this matter, I can say. He vanished around the time the device disappeared, and he is one of the rare people who had easy access to the device.<end>
+
+=>q57
+This one is very serious, Agent. We've discovered that our prototype ICPD has been stolen from one of our labs, and one of our employees, Luben Greenhorn, is a prime suspect in this matter, I can say. He vanished around the time the device disappeared, and he is one of the rare people who had easy access to the device.<end>
+
+=>q58_original
+We're searching the company grounds as well as the whole residential district - including his home, of course - but unfortunately, we still haven't been able to track him down. We tried keeping this whole situation quiet, but I fear we now have no other options but to pull all our resources for this one. That's where you come in: I want you to join the search for the device. While the device is of the utmost priority, Luben himself should be brought in for questioning as well. However, should he resist, you are free to neutralize him.<end>
+
+=>q58
+We're searching the company grounds as well as the whole residential district - including his home, of course - but unfortunately, we still haven't been able to track him down. We tried keeping this whole situation quiet, but I fear we now have no other options but to pull all our resources for this one. That's where you come in: I want you to join the search for the device. While the device is of the utmost priority, Luben himself should be brought in for questioning as well. However, should he resist, you are free to neutralize him.<end>
+
+=>q59_original
+One more thing, $(context.player.Name): Luben, like most employees with his clearance level, has an intradermal chip planted in his arm, so take this tracker: The chip is difficult to safely remove, but desperate times call for desperate measures - so expect everything.
+
+ICPD *must* be returned to Coretech, I repeat that one final time. Otherwise it might fall into the wrong hands. <end>
+
+=>q59
+One more thing, $(context.player.Name): Luben, like most employees with his clearance level, has an intradermal chip planted in his arm, so take this tracker: The chip is difficult to safely remove, but desperate times call for desperate measures - so expect everything.
+
+ICPD *must* be returned to Coretech, I repeat that one final time. Otherwise it might fall into the wrong hands. <end>
+
+=>a60_original
+I have the ICPD. ::Show him the device.::<end>
+
+=>a60
+I have the ICPD. ::Show him the device.::<end>
+
+=>q61_original
+::Harlan smiles, this time with such delight it seems almost out of place.:: Perfect. You delivered again, I can say, and I am becoming more and more certain that we have made the right choice by accepting you as our employee. 
+
+And Luben? What of him?<end>
+
+=>q61
+::Harlan smiles, this time with such delight it seems almost out of place.:: Perfect. You delivered again, I can say, and I am becoming more and more certain that we have made the right choice by accepting you as our employee. 
+
+And Luben? What of him?<end>
+
+=>a62_original
+Dead.<end>
+
+=>a62
+Dead.<end>
+
+=>q63_original
+I see. I guess you had no choice. <end>
+
+=>q63
+I see. I guess you had no choice. <end>
+
+=>q64_original
+Here is your payment. You are shaping up to be a valuable asset, I can say. Good work, $(context.player.Name). I think the equipment provided with the payment will be satisfactory. ::Hands you 400 charons and an energy pistol.::<end>
+
+=>q64
+Here is your payment. You are shaping up to be a valuable asset, I can say. Good work, $(context.player.Name). I think the equipment provided with the payment will be satisfactory. ::Hands you 400 charons and an energy pistol.::<end>
+
+=>q65_original
+Now, I believe there is-- ::His headset starts flashing red, interrupting his sentence.:: 
+
+Hm, would you excuse me for a second? This seems important.<end>
+
+=>q65
+Now, I believe there is-- ::His headset starts flashing red, interrupting his sentence.:: 
+
+Hm, would you excuse me for a second? This seems important.<end>
+
+=>q66_original
+::He responds to the call: The more he listens the more serious his expression becomes. At the same time you hear numerous resounding footsteps as they stampede from one side of the hallway to the other. 
+
+After a minute of silence, Harlan answers with a simple "I understand." He then looks at you, his countenance unchanged.::<end>
+
+=>q66
+::He responds to the call: The more he listens the more serious his expression becomes. At the same time you hear numerous resounding footsteps as they stampede from one side of the hallway to the other. 
+
+After a minute of silence, Harlan answers with a simple "I understand." He then looks at you, his countenance unchanged.::<end>
+
+=>q67_original
+We have an emergency. One of our warehouses is under attack. We don't know who's behind it; maybe it's the Faceless, maybe... Just go there and help our forces repel the attackers! The warehouse is located in the city, just west from the main city entrance.<end>
+
+=>q67
+We have an emergency. One of our warehouses is under attack. We don't know who's behind it; maybe it's the Faceless, maybe... Just go there and help our forces repel the attackers! The warehouse is located in the city, just west from the main city entrance.<end>
+
+=>q68_original
+Expect anything, $(context.player.Name). If you need to arm yourself, do so quickly, for every second counts.<end>
+
+=>q68
+Expect anything, $(context.player.Name). If you need to arm yourself, do so quickly, for every second counts.<end>
+
+=>q69_original
+Now go, there is no time to lose! Agent Henderson and her men will meet you there.<end>
+
+=>q69
+Now go, there is no time to lose! Agent Henderson and her men will meet you there.<end>
+
+=>q70_original
+Did you at least manage to learn something from him?<end>
+
+=>q70
+Did you at least manage to learn something from him?<end>
+
+=>a71_original
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. While I haven't managed to learn the name of this group, he did mention the name of my "boss": A Mister Halidorson. That is all I know.<end>
+
+=>a71
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. While I haven't managed to learn the name of this group, he did mention the name of my "boss": A Mister Halidorson. That is all I know.<end>
+
+=>q72_original
+Halidorson? Are you sure?<end>
+
+=>q72
+Halidorson? Are you sure?<end>
+
+=>a73_original
+Pretty much.<end>
+
+=>a73
+Pretty much.<end>
+
+=>q74_original
+I do not recognize the name. I will relay this information to the intelligence department, and I hope we'll have some results soon. The name is most likely a pseudonym, though, but one never knows; we can only hope that some grunt accidentally revealed the true name of his employer to Luben. Things of this kind have happened in the past, I can say.
+
+<end>
+
+=>q74
+I do not recognize the name. I will relay this information to the intelligence department, and I hope we'll have some results soon. The name is most likely a pseudonym, though, but one never knows; we can only hope that some grunt accidentally revealed the true name of his employer to Luben. Things of this kind have happened in the past, I can say.
+
+<end>
+
+=>q75_original
+We'll look further into this. The ICPD is in our hands and safe, and *that* is our primary concern.<end>
+
+=>q75
+We'll look further into this. The ICPD is in our hands and safe, and *that* is our primary concern.<end>
+
+=>a76_original
+Yes. You know who he is?<end>
+
+=>a76
+Yes. You know who he is?<end>
+
+=>a77_original
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. However, I haven't managed to learn more than that.<end>
+
+=>a77
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. However, I haven't managed to learn more than that.<end>
+
+=>q78_original
+That is interesting. It could be one of the Core City gangs known for their brutality, perhaps used as a proxy for some larger entity; no small-time gangs would dare do anything like this on their own, unless they value their lives very little. 
+
+<end>
+
+=>q78
+That is interesting. It could be one of the Core City gangs known for their brutality, perhaps used as a proxy for some larger entity; no small-time gangs would dare do anything like this on their own, unless they value their lives very little. 
+
+<end>
+
+=>a79_original
+He was waiting for someone, probably to hand over the ICPD. But other than that I learned nothing.<end>
+
+=>a79
+He was waiting for someone, probably to hand over the ICPD. But other than that I learned nothing.<end>
+
+=>q80_original
+That we could've expected. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>q80
+That we could've expected. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>a81_original
+Nothing.<end>
+
+=>a81
+Nothing.<end>
+
+=>q82_original
+That is unfortunate. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>q82
+That is unfortunate. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>a83_original
+I found him, but he managed to escape before I got the chance to apprehend him.<end>
+
+=>a83
+I found him, but he managed to escape before I got the chance to apprehend him.<end>
+
+=>a84_original
+That mole managed to dig its way out of this one.<end>
+
+=>a84
+That mole managed to dig its way out of this one.<end>
+
+=>q85_original
+I see. We could have extracted valuable information from him, but the most important objective has been accomplished, thankfully.<end>
+
+=>q85
+I see. We could have extracted valuable information from him, but the most important objective has been accomplished, thankfully.<end>
+
+=>a86_original
+I never found him. The ICPD was in possession of some gangsters.<end>
+
+=>a86
+I never found him. The ICPD was in possession of some gangsters.<end>
+
+=>q87_original
+That is rather peculiar, I can say. Do you have any information on how they obtained it?<end>
+
+=>q87
+That is rather peculiar, I can say. Do you have any information on how they obtained it?<end>
+
+=>a88_original
+No idea.<end>
+
+=>a88
+No idea.<end>
+
+=>q89_original
+Really, strange. But the main objective is accomplished - that is what matters the most; the device is back with us again.<end>
+
+=>q89
+Really, strange. But the main objective is accomplished - that is what matters the most; the device is back with us again.<end>
+
+=>a90_original
+What is ICPD?<end>
+
+=>a90
+What is ICPD?<end>
+
+=>q91_original
+ICPD stands for Intracranial pressure destabilizer, and it is a prototype device we've been developing at the moment. It has a rounded shape with four small legs at the bottom and a protruding vertical piece at the top. I understand it is a bit difficult to describe, but you will easily recognize it when you see it.<end>
+
+=>q91
+ICPD stands for Intracranial pressure destabilizer, and it is a prototype device we've been developing at the moment. It has a rounded shape with four small legs at the bottom and a protruding vertical piece at the top. I understand it is a bit difficult to describe, but you will easily recognize it when you see it.<end>
+
+=>q92_original
+The rest is classified.<end>
+
+=>q92
+The rest is classified.<end>
+
+=>a93_original
+Who is this Luben, and why would he steal the device?<end>
+
+=>a93
+Who is this Luben, and why would he steal the device?<end>
+
+=>q94_original
+He was a member of our internal security forces, someone dependable enough to have access to even the most restricted areas of this building. Not so much anymore, I can say.<end>
+
+=>q94
+He was a member of our internal security forces, someone dependable enough to have access to even the most restricted areas of this building. Not so much anymore, I can say.<end>
+
+=>q95_original
+No one has any proof of his motives, yet. We have some suspicions, but we'll set our speculations aside.<end>
+
+=>q95
+No one has any proof of his motives, yet. We have some suspicions, but we'll set our speculations aside.<end>
+
+=>q96_original
+Retrieval of the device is our top priority, so that is where our focus should lie, $(context.player.Name).<end>
+
+=>q96
+Retrieval of the device is our top priority, so that is where our focus should lie, $(context.player.Name).<end>
+
+=>a97_original
+I'm ready for my first task.<end>
+
+=>a97
+I'm ready for my first task.<end>
+
+=>q98_original
+Good. Your first task, $(context.player.Name), is to find one of our agents who has recently disappeared. He is known under the pseudonym Raul. ::He shows you an image of a black man with dreadlocks.:: Take a look at this picture: Notice a distinctive scar on his right cheek. He should have returned from his task several days ago, yet he stopped communicating with us right about that time.<end>
+
+=>q98
+Good. Your first task, $(context.player.Name), is to find one of our agents who has recently disappeared. He is known under the pseudonym Raul. ::He shows you an image of a black man with dreadlocks.:: Take a look at this picture: Notice a distinctive scar on his right cheek. He should have returned from his task several days ago, yet he stopped communicating with us right about that time.<end>
+
+=>q99_original
+He was last seen entering the Core City sewer system. The sewers are not the most hospitable place, I can say, but the Faceless are one more reason why you must take extra care when going there. 
+
+Find out what happened to Raul, then return to me.<end>
+
+=>q99
+He was last seen entering the Core City sewer system. The sewers are not the most hospitable place, I can say, but the Faceless are one more reason why you must take extra care when going there. 
+
+Find out what happened to Raul, then return to me.<end>
+
+=>a100_original
+What was he doing in the sewers?<end>
+
+=>a100
+What was he doing in the sewers?<end>
+
+=>q101_original
+He was on a confidential mission, the details of which I can't reveal to you.<end>
+
+=>q101
+He was on a confidential mission, the details of which I can't reveal to you.<end>
+
+=>a102_original
+Actually, I recognize that man. I already saw him.<end>
+
+=>a102
+Actually, I recognize that man. I already saw him.<end>
+
+=>q103_original
+::Harlan looks at you, eyes open in surprise.::
+
+Where is he? What happened to him?<end>
+
+=>q103
+::Harlan looks at you, eyes open in surprise.::
+
+Where is he? What happened to him?<end>
+
+=>a104_original
+He was killed by some derailed guy from the sewers.<end>
+
+=>a104
+He was killed by some derailed guy from the sewers.<end>
+
+=>q105_original
+I see. That is unfortunate. Did he happen to have any documents on him?<end>
+
+=>q105
+I see. That is unfortunate. Did he happen to have any documents on him?<end>
+
+=>a106_original
+I found nothing.<end>
+
+=>a106
+I found nothing.<end>
+
+=>q107_original
+::He nods.:: No matter then. You've done what was asked of you, so it's time for you to receive your first payment. Here are some charons, and a device I think you'll find quite useful. ::Hands you 300 charons and an energy shield emitter.::<end>
+
+=>q107
+::He nods.:: No matter then. You've done what was asked of you, so it's time for you to receive your first payment. Here are some charons, and a device I think you'll find quite useful. ::Hands you 300 charons and an energy shield emitter.::<end>
+
+=>q108_original
+You deliver, I can say. ::He smiles.:: I have more work for you.<end>
+
+=>q108
+You deliver, I can say. ::He smiles.:: I have more work for you.<end>
+
+=>a109_original
+I think not.<end>
+
+=>a109
+I think not.<end>
+
+=>a110_original
+Nope.<end>
+
+=>a110
+Nope.<end>
+
+=>a111_original
+I found his corpse in a facility of sorts in the northern section of the sewers. He seems to have been killed by a cannibal who didn't get the chance to eat him yet.<end>
+
+=>a111
+I found his corpse in a facility of sorts in the northern section of the sewers. He seems to have been killed by a cannibal who didn't get the chance to eat him yet.<end>
+
+=>q112_original
+That must've been a gruesome death. Sadly, despite our best efforts, Core City still hides these demented, twisted freaks under the rug. On the other hand, if it was the Faceless that got to him, maybe his fate would've been even worse.
+
+Now, tell me, did Raul have any documents on him?<end>
+
+=>q112
+That must've been a gruesome death. Sadly, despite our best efforts, Core City still hides these demented, twisted freaks under the rug. On the other hand, if it was the Faceless that got to him, maybe his fate would've been even worse.
+
+Now, tell me, did Raul have any documents on him?<end>
+
+=>a113_original
+I'm on the job.<end>
+
+=>a113
+I'm on the job.<end>
+
+=>q114_original
+Good. I'll be waiting.<end>
+
+=>q114
+Good. I'll be waiting.<end>
+
+=>a115_original
+I found Raul.<end>
+
+=>a115
+I found Raul.<end>
+
+=>q116_original
+I see. Where is he? What happened to him?<end>
+
+=>q116
+I see. Where is he? What happened to him?<end>
+
+=>a117_original
+What can you tell me about Coretech?<end>
+
+=>a117
+What can you tell me about Coretech?<end>
+
+=>q118_original
+Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q118
+Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q119_original
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>q119
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>a120_original
+What can you tell me about JKK?<end>
+
+=>a120
+What can you tell me about JKK?<end>
+
+=>q121_original
+::He smiles.:: JKK is a large company owned by Gunnar Edstrom. He came to Core City many years ago and delivered something the other two Oligarchs needed.<end>
+
+=>q121
+::He smiles.:: JKK is a large company owned by Gunnar Edstrom. He came to Core City many years ago and delivered something the other two Oligarchs needed.<end>
+
+=>q122_original
+Back then, the Arena was pretty much a local event. But JKK made the first Arena match broadcast, and over time it became what it is now. Now they control the betting, they transport animals to the Arena and much more, I can say. Those tri-monitors on the streets - "trims," as they're called - those are being installed and maintained by JKK.<end>
+
+=>q122
+Back then, the Arena was pretty much a local event. But JKK made the first Arena match broadcast, and over time it became what it is now. Now they control the betting, they transport animals to the Arena and much more, I can say. Those tri-monitors on the streets - "trims," as they're called - those are being installed and maintained by JKK.<end>
+
+=>q123_original
+Keep one thing in mind though, Agent: There is more to JKK than what I've just told you. Their operatives are capable of doing very, very sickening things, and they have eyes and ears everywhere. Just... just keep that in mind.<end>
+
+=>q123
+Keep one thing in mind though, Agent: There is more to JKK than what I've just told you. Their operatives are capable of doing very, very sickening things, and they have eyes and ears everywhere. Just... just keep that in mind.<end>
+
+=>a124_original
+What can you tell me about Praetorian Security?<end>
+
+=>a124
+What can you tell me about Praetorian Security?<end>
+
+=>q125_original
+Praetorian Security is owned by Chief Archibald Knight, and it can be considered the dominant security force in Core City, I can say. Still, while they claim they are the best, I have to disagree. They have the numerical advantage, but Coretech's security forces have much better training and equipment.<end>
+
+=>q125
+Praetorian Security is owned by Chief Archibald Knight, and it can be considered the dominant security force in Core City, I can say. Still, while they claim they are the best, I have to disagree. They have the numerical advantage, but Coretech's security forces have much better training and equipment.<end>
+
+=>q126_original
+Praetorian Security is so... old-fashioned. But, let them have it their way. Of course, all this is between you and me, Agent. ::Smiles.::<end>
+
+=>q126
+Praetorian Security is so... old-fashioned. But, let them have it their way. Of course, all this is between you and me, Agent. ::Smiles.::<end>
+
+=>a127_original
+I have to go now. Goodbye.<end>
+
+=>a127
+I have to go now. Goodbye.<end>
+
+=>q128_original
+With that out of the way, I can say I already have a task for you.<end>
+
+=>q128
+With that out of the way, I can say I already have a task for you.<end>
+
+=>a129_original
+How do you know you can trust me?<end>
+
+=>a129
+How do you know you can trust me?<end>
+
+=>q130_original
+We know. We have our ways.<end>
+
+=>q130
+We know. We have our ways.<end>
+
+=>a131_original
+Before I accept anything, I'd like to know more about Coretech.<end>
+
+=>a131
+Before I accept anything, I'd like to know more about Coretech.<end>
+
+=>q132_original
+::He smiles.:: Of course. Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q132
+::He smiles.:: Of course. Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q133_original
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>q133
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>a134_original
+I'd like to think about this.<end>
+
+=>a134
+I'd like to think about this.<end>
+
+=>q135_original
+Please do, $(#Mister/Miss) $(context.player.Name). But don't take too long. ::He smiles.:: I will wait for you to make up your mind.<end>
+
+=>q135
+Please do, $(#Mister/Miss) $(context.player.Name). But don't take too long. ::He smiles.:: I will wait for you to make up your mind.<end>
+
+=>a136_original
+Could you just skip all this nonsense and tell me what work you've got for me.<end>
+
+=>a136
+Could you just skip all this nonsense and tell me what work you've got for me.<end>
+
+=>q137_original
+::The smile on his face slowly starts fading away.::
+
+I would like to clarify one thing before we continue, and I hope you will pay attention to my words. As the things currently stand, Coretech is willing to offer you a unique opportunity to become a member of its powerful family; you are in a position to receive hefty pay and be under the protection of one of the largest companies in Core City, yet you behave so infantile? That attitude won't get you far, I can say. Unless you want to waste this opportunity, I recommend you show some respect.<end>
+
+=>q137
+::The smile on his face slowly starts fading away.::
+
+I would like to clarify one thing before we continue, and I hope you will pay attention to my words. As the things currently stand, Coretech is willing to offer you a unique opportunity to become a member of its powerful family; you are in a position to receive hefty pay and be under the protection of one of the largest companies in Core City, yet you behave so infantile? That attitude won't get you far, I can say. Unless you want to waste this opportunity, I recommend you show some respect.<end>
+
+=>a138_original
+I'm sorry, it won't happen again.<end>
+
+=>a138
+I'm sorry, it won't happen again.<end>
+
+=>q139_original
+::He smiles again.:: Good. We will ignore what happened a moment ago. Let us continue.<end>
+
+=>q139
+::He smiles again.:: Good. We will ignore what happened a moment ago. Let us continue.<end>
+
+=>a140_original
+Go to hell, jackass, you can't tell me what to do!<end>
+
+=>a140
+Go to hell, jackass, you can't tell me what to do!<end>
+
+=>q141_original
+I see. Perhaps I was wrong about you. The door is that way. Goodbye and please - don't come back.<end>
+
+=>q141
+I see. Perhaps I was wrong about you. The door is that way. Goodbye and please - don't come back.<end>
+
+=>a142_original
+Yes, I most definitely am.<end>
+
+=>a142
+Yes, I most definitely am.<end>
+
+=>q143_original
+That's great to hear. You radiate enthusiasm, I can say. You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q143
+That's great to hear. You radiate enthusiasm, I can say. You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>a144_original
+Sure.<end>
+
+=>a144
+Sure.<end>
+
+=>q145_original
+Not generous with words, I can say. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q145
+Not generous with words, I can say. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q146_original
+What did you decide?<end>
+
+=>q146
+What did you decide?<end>
+
+=>a147_original
+I'll need to think some more. I'll be back later.<end>
+
+=>a147
+I'll need to think some more. I'll be back later.<end>
+
+=>q148_original
+$(context.player.Name), pleasure to see you. The Praetorians are surely enjoying their glory, I can say. Let them have it.<end>
+
+=>q148
+$(context.player.Name), pleasure to see you. The Praetorians are surely enjoying their glory, I can say. Let them have it.<end>
+
+=>q149_original
+$(context.player.Name), some new equipment has just arrived, and I thought you'd be interested to see what it is.<end>
+
+=>q149
+$(context.player.Name), some new equipment has just arrived, and I thought you'd be interested to see what it is.<end>
+
+=>a150_original
+I'd be more than happy. ::Barter.::<end>
+
+=>a150
+I'd be more than happy. ::Barter.::<end>
+
+=>a151_original
+It'll have to wait, because I wanted to ask you something first.<end>
+
+=>a151
+It'll have to wait, because I wanted to ask you something first.<end>
+
+=>q152_original
+Go ahead.<end>
+
+=>q152
+Go ahead.<end>
+
+=>q153_original
+$(context.player.Name), it is a pleasure to see you, as always.<end>
+
+=>q153
+$(context.player.Name), it is a pleasure to see you, as always.<end>
+

@@ -1,0 +1,334 @@
+=>q1_original
+I thought I told you to leave me alone.<end>
+
+=>q1
+I thought I told you to leave me alone.<end>
+
+=>q2_original
+::The lone man notices you approach his camp and swiftly responds - by aiming his gun at your head. It takes him but a few moments to address you, and does so with a voice that seems rather calm and relaxed considering the tense situation at hand.::
+
+Don't move, $(#buddy/girl). Don't even think about moving... or else you'll find yourself obliterated on the spot. Now, who are you and what are you doing in these caves?<end>
+
+=>q2
+::The lone man notices you approach his camp and swiftly responds - by aiming his gun at your head. It takes him but a few moments to address you, and does so with a voice that seems rather calm and relaxed considering the tense situation at hand.::
+
+Don't move, $(#buddy/girl). Don't even think about moving... or else you'll find yourself obliterated on the spot. Now, who are you and what are you doing in these caves?<end>
+
+=>a3_original
+Whoa, don't shoot, man! My name is $(context.player.Name), and I mean no harm.<end>
+
+=>a3
+Whoa, don't shoot, man! My name is $(context.player.Name), and I mean no harm.<end>
+
+=>q4_original
+$(context.player.Name). $(context.player.Name), as you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>q4
+$(context.player.Name). $(context.player.Name), as you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>q5_original
+Now tell me, what do you want?<end>
+
+=>q5
+Now tell me, what do you want?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+What are you doing here all alone?<end>
+
+=>a7
+What are you doing here all alone?<end>
+
+=>q8_original
+Well, first of all, what I'm doing here is none of your business. But, alone I am... at least for the moment.<end>
+
+=>q8
+Well, first of all, what I'm doing here is none of your business. But, alone I am... at least for the moment.<end>
+
+=>q9_original
+Yet, you are here too, somehow. ::He makes a brief pause before continuing.:: By the way, did you happen to notice anyone else in these caves?<end>
+
+=>q9
+Yet, you are here too, somehow. ::He makes a brief pause before continuing.:: By the way, did you happen to notice anyone else in these caves?<end>
+
+=>a10_original
+As a matter of fact, yes, I have. I saw two men who were killed by rathounds not too far away from here.<end>
+
+=>a10
+As a matter of fact, yes, I have. I saw two men who were killed by rathounds not too far away from here.<end>
+
+=>q11_original
+So, that explains it. Look now: One of those men had a key that is very, very important to me. If you could get it for me, I'd be willing to pay fifty charons for it. Easy money.<end>
+
+=>q11
+So, that explains it. Look now: One of those men had a key that is very, very important to me. If you could get it for me, I'd be willing to pay fifty charons for it. Easy money.<end>
+
+=>a12_original
+Is this the key?<end>
+
+=>a12
+Is this the key?<end>
+
+=>q13_original
+Let me see. ::He takes a quick look.:: Yes... *yes* it is. I'll give you fifty charons for it.<end>
+
+=>q13
+Let me see. ::He takes a quick look.:: Yes... *yes* it is. I'll give you fifty charons for it.<end>
+
+=>a14_original
+Here it is. It was nice doing business with ya.<end>
+
+=>a14
+Here it is. It was nice doing business with ya.<end>
+
+=>q15_original
+::He hands you the money and takes the key from you.:: Great, that's it. ::He pockets the key and looks at you with a satisfied smirk on his face.:: As for you, $(#buddy/girl), you better be on your way now. See you later... or not.<end>
+
+=>q15
+::He hands you the money and takes the key from you.:: Great, that's it. ::He pockets the key and looks at you with a satisfied smirk on his face.:: As for you, $(#buddy/girl), you better be on your way now. See you later... or not.<end>
+
+=>a16_original
+::[Mercantile]:: What? I had to risk my head for that key and that is all you can offer me? I want double.<end>
+
+=>a16
+::[Mercantile]:: What? I had to risk my head for that key and that is all you can offer me? I want double.<end>
+
+=>q17_original
+Fine, I'll give you a hundred charons. Usually you would get a bullet between your eyes, but today... I feel a bit more merciful.<end>
+
+=>q17
+Fine, I'll give you a hundred charons. Usually you would get a bullet between your eyes, but today... I feel a bit more merciful.<end>
+
+=>a18_original
+Here you go. It was nice doing business with ya.<end>
+
+=>a18
+Here you go. It was nice doing business with ya.<end>
+
+=>q19_original
+Are you derailed? Don't barter with me unless you desire a bullet between your eyes. Choose - fifty charons or a bullet.<end>
+
+=>q19
+Are you derailed? Don't barter with me unless you desire a bullet between your eyes. Choose - fifty charons or a bullet.<end>
+
+=>a20_original
+Okay, okay, here's the key. My fifty charons, please.<end>
+
+=>a20
+Okay, okay, here's the key. My fifty charons, please.<end>
+
+=>a21_original
+Sorry, buddy, no deal. I'll be leaving now.<end>
+
+=>a21
+Sorry, buddy, no deal. I'll be leaving now.<end>
+
+=>q22_original
+::His voice suddenly drops in pitch and becomes grittier, much tenser than it was previously.:: You've just made a big mistake, and you will pay for it. If you won't give me the key - I'll take it from you by force.<end>
+
+=>q22
+::His voice suddenly drops in pitch and becomes grittier, much tenser than it was previously.:: You've just made a big mistake, and you will pay for it. If you won't give me the key - I'll take it from you by force.<end>
+
+=>a23_original
+::Fight!::<end>
+
+=>a23
+::Fight!::<end>
+
+=>a24_original
+On a second thought, I'll keep it for myself. See you around Milton.<end>
+
+=>a24
+On a second thought, I'll keep it for myself. See you around Milton.<end>
+
+=>a25_original
+Could use some money. It's a deal.<end>
+
+=>a25
+Could use some money. It's a deal.<end>
+
+=>q26_original
+Great, I'll be here... *waiting.*<end>
+
+=>q26
+Great, I'll be here... *waiting.*<end>
+
+=>a27_original
+I'm not going back there. Go get it yourself.<end>
+
+=>a27
+I'm not going back there. Go get it yourself.<end>
+
+=>q28_original
+::He frowns, but says nothing otherwise.::<end>
+
+=>q28
+::He frowns, but says nothing otherwise.::<end>
+
+=>a29_original
+Nope. Sorry, I'm just passing by.<end>
+
+=>a29
+Nope. Sorry, I'm just passing by.<end>
+
+=>q30_original
+Curses. Listen, I'm looking for two men in these caves - don't ask why. I need something from them, a small footlocker key. So, if you meet them, find their bodies or whatever... just get me that key. I'm even willing to pay for it; fifty charons, as a matter of fact.<end>
+
+=>q30
+Curses. Listen, I'm looking for two men in these caves - don't ask why. I need something from them, a small footlocker key. So, if you meet them, find their bodies or whatever... just get me that key. I'm even willing to pay for it; fifty charons, as a matter of fact.<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Hey, I found that key you were looking for.<end>
+
+=>a32
+Hey, I found that key you were looking for.<end>
+
+=>q33_original
+Really? Give it to me; I promised charons and I have them right here. Just give me the key.<end>
+
+=>q33
+Really? Give it to me; I promised charons and I have them right here. Just give me the key.<end>
+
+=>a34_original
+Why do you need that key? Is it for that locker?<end>
+
+=>a34
+Why do you need that key? Is it for that locker?<end>
+
+=>q35_original
+None of your business, $(#buddy/girl).<end>
+
+=>q35
+None of your business, $(#buddy/girl).<end>
+
+=>a36_original
+Why are you looking for those men?<end>
+
+=>a36
+Why are you looking for those men?<end>
+
+=>q37_original
+I told you not to ask that. Are you deaf?<end>
+
+=>q37
+I told you not to ask that. Are you deaf?<end>
+
+=>a38_original
+Okay, I'll search for the key.<end>
+
+=>a38
+Okay, I'll search for the key.<end>
+
+=>a39_original
+I really don't care about your stupid key.<end>
+
+=>a39
+I really don't care about your stupid key.<end>
+
+=>q40_original
+::He frowns, but otherwise says nothing.::<end>
+
+=>q40
+::He frowns, but otherwise says nothing.::<end>
+
+=>a41_original
+About that key...<end>
+
+=>a41
+About that key...<end>
+
+=>q42_original
+Changed your mind, $(#buddy/girl)?<end>
+
+=>q42
+Changed your mind, $(#buddy/girl)?<end>
+
+=>a43_original
+I'll be going now.<end>
+
+=>a43
+I'll be going now.<end>
+
+=>a44_original
+Who I am is none of your concern. But, know that if I wanted to hurt you I would have done so already instead of participating in this staring contest.<end>
+
+=>a44
+Who I am is none of your concern. But, know that if I wanted to hurt you I would have done so already instead of participating in this staring contest.<end>
+
+=>q45_original
+That is good to know. As you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>q45
+That is good to know. As you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>a46_original
+::[Intimidate]:: It is you who will be obliterated if you don't put that gun away right now, you dirty rat! Name's $(context.player.Name). Who the hell are YOU, and what are YOU doing here?<end>
+
+=>a46
+::[Intimidate]:: It is you who will be obliterated if you don't put that gun away right now, you dirty rat! Name's $(context.player.Name). Who the hell are YOU, and what are YOU doing here?<end>
+
+=>q47_original
+::You notice his voice tenses up for a split second, but then quickly reverts to its original quality.:: Look, ::He smiles:: there is no need for us to spill each other's guts here, right? We are, after all, both civilized $(#gentlemen/human beings). <end>
+
+=>q47
+::You notice his voice tenses up for a split second, but then quickly reverts to its original quality.:: Look, ::He smiles:: there is no need for us to spill each other's guts here, right? We are, after all, both civilized $(#gentlemen/human beings). <end>
+
+=>q48_original
+::Your words are met with a chuckle.:: You sure sound tough, kid. But I want to see how tough you really are.<end>
+
+=>q48
+::Your words are met with a chuckle.:: You sure sound tough, kid. But I want to see how tough you really are.<end>
+
+=>a49_original
+::Fight!::<end>
+
+=>a49
+::Fight!::<end>
+
+=>a50_original
+I didn't know there was anyone in here. I'll just get going and leave you to whatever you were doing.<end>
+
+=>a50
+I didn't know there was anyone in here. I'll just get going and leave you to whatever you were doing.<end>
+
+=>q51_original
+That might be wise. ::He still keeps your head between crosshairs and waits for you to leave.::<end>
+
+=>q51
+That might be wise. ::He still keeps your head between crosshairs and waits for you to leave.::<end>
+
+=>a52_original
+::Leave.::<end>
+
+=>a52
+::Leave.::<end>
+
+=>a53_original
+::Attack!::<end>
+
+=>a53
+::Attack!::<end>
+
+=>a54_original
+What do I want? How about cutting your tongue out, worm! ::Fight!::<end>
+
+=>a54
+What do I want? How about cutting your tongue out, worm! ::Fight!::<end>
+
+=>q55_original
+What'll it be?<end>
+
+=>q55
+What'll it be?<end>
+

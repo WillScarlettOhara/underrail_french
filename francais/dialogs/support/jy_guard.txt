@@ -1,0 +1,24 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'm watching you.<end>
+
+=>q2
+I'm watching you.<end>
+
+=>q3_original
+Don't try anything funky.<end>
+
+=>q3
+Don't try anything funky.<end>
+
+=>q4_original
+I don't do small talk.<end>
+
+=>q4
+I don't do small talk.<end>
+

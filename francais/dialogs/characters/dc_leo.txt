@@ -1,0 +1,1916 @@
+=>q1_original
+You're done for!<end>
+
+=>q1
+You're done for!<end>
+
+=>q2_original
+GET OUT!<end>
+
+=>q2
+GET OUT!<end>
+
+=>q3_original
+::You stare at a raised crossbow.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, ONE finger and I'll launch a bolt through your hollow skull!<end>
+
+=>q3
+::You stare at a raised crossbow.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, ONE finger and I'll launch a bolt through your hollow skull!<end>
+
+=>a4_original
+Leo, it's me. Don't you remember?<end>
+
+=>a4
+Leo, it's me. Don't you remember?<end>
+
+=>q5_original
+Get outta here, intruder! Get out! I swear, I'll nail you to that wall over there if you don't get outta here!<end>
+
+=>q5
+Get outta here, intruder! Get out! I swear, I'll nail you to that wall over there if you don't get outta here!<end>
+
+=>a6_original
+Farewell then, Leo.<end>
+
+=>a6
+Farewell then, Leo.<end>
+
+=>a7_original
+::Walk away without saying a word.::<end>
+
+=>a7
+::Walk away without saying a word.::<end>
+
+=>a8_original
+As if you can hit anything, old man. Give me your best shot! ::Fight!::<end>
+
+=>a8
+As if you can hit anything, old man. Give me your best shot! ::Fight!::<end>
+
+=>a9_original
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>a9
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+::[Persuasion] ::<end>
+
+=>q11
+::[Persuasion] ::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+::You spent about an hour conversing with your echo. A long talk indeed, during which you and the Hole of Reason agreed on just about everything, making it effectively the most boring conversation you've ever had. Yet, oddly, not the most useless one, it seems: You feel as if your reasoning is somehow sharper, your memory more reliable; you feel more focused and less likely to be distracted by outside interference - you feel strange. 
+
+Or maybe you're just losing your mind due to the fact that you've spent an hour talking to a bottomless pit.::<end>
+
+=>q14
+::You spent about an hour conversing with your echo. A long talk indeed, during which you and the Hole of Reason agreed on just about everything, making it effectively the most boring conversation you've ever had. Yet, oddly, not the most useless one, it seems: You feel as if your reasoning is somehow sharper, your memory more reliable; you feel more focused and less likely to be distracted by outside interference - you feel strange. 
+
+Or maybe you're just losing your mind due to the fact that you've spent an hour talking to a bottomless pit.::<end>
+
+=>q15_original
+Feelin' good, $(context.player.Name)?<end>
+
+=>q15
+Feelin' good, $(context.player.Name)?<end>
+
+=>a16_original
+Feeling persuasive... and persuaded.<end>
+
+=>a16
+Feeling persuasive... and persuaded.<end>
+
+=>q17_original
+Eh?<end>
+
+=>q17
+Eh?<end>
+
+=>a18_original
+Never mind. I wanted to talk to you about a few things.<end>
+
+=>a18
+Never mind. I wanted to talk to you about a few things.<end>
+
+=>q19_original
+Eh?<end>
+
+=>q19
+Eh?<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a21
+Do you have anything to trade? ::Barter.::<end>
+
+=>a22_original
+I've activated one of the elevators that leads out of Deep Caverns. Would you like to come with me?<end>
+
+=>a22
+I've activated one of the elevators that leads out of Deep Caverns. Would you like to come with me?<end>
+
+=>q23_original
+::He stares blankly at you.::<end>
+
+=>q23
+::He stares blankly at you.::<end>
+
+=>a24_original
+I said, would you like to come with me? Get out of here?<end>
+
+=>a24
+I said, would you like to come with me? Get out of here?<end>
+
+=>q25_original
+::A few noiseless moments pass before he shakes his head and answers.:: 
+
+No.<end>
+
+=>q25
+::A few noiseless moments pass before he shakes his head and answers.:: 
+
+No.<end>
+
+=>a26_original
+Why not? Do you really want to stay here for the rest of your life?<end>
+
+=>a26
+Why not? Do you really want to stay here for the rest of your life?<end>
+
+=>q27_original
+I don't know.<end>
+
+=>q27
+I don't know.<end>
+
+=>a28_original
+Are you afraid of going up there?<end>
+
+=>a28
+Are you afraid of going up there?<end>
+
+=>q29_original
+I don't know.<end>
+
+=>q29
+I don't know.<end>
+
+=>a30_original
+Life is better up there. It ain't great, but it's a lot better than it is in this place.<end>
+
+=>a30
+Life is better up there. It ain't great, but it's a lot better than it is in this place.<end>
+
+=>q31_original
+I believe what you're sayin', but I'm not goin' there. I can't. I just can't. I *just* can't. I don't know. *Here* I know... and I don't. *There* I just... don't. And I don't remember.<end>
+
+=>q31
+I believe what you're sayin', but I'm not goin' there. I can't. I just can't. I *just* can't. I don't know. *Here* I know... and I don't. *There* I just... don't. And I don't remember.<end>
+
+=>q32_original
+You go. Go. Don't think of me.<end>
+
+=>q32
+You go. Go. Don't think of me.<end>
+
+=>a33_original
+If you ever change your mind, go to the elevator by the lake.<end>
+
+=>a33
+If you ever change your mind, go to the elevator by the lake.<end>
+
+=>q34_original
+::He quietly nods.::<end>
+
+=>q34
+::He quietly nods.::<end>
+
+=>a35_original
+Whatever. I'm off, old man.<end>
+
+=>a35
+Whatever. I'm off, old man.<end>
+
+=>a36_original
+Why are you here, Leo? And for how long?<end>
+
+=>a36
+Why are you here, Leo? And for how long?<end>
+
+=>q37_original
+::Your question is answered by a confused stare. A spoken reply follows.::
+
+You are askin' me questions I can't answer.<end>
+
+=>q37
+::Your question is answered by a confused stare. A spoken reply follows.::
+
+You are askin' me questions I can't answer.<end>
+
+=>a38_original
+Why not?<end>
+
+=>a38
+Why not?<end>
+
+=>q39_original
+I can't remember those things. I forgot 'em. I sometimes even... have trouble rememberin' my own name... Leo. Leo. *Leo*.<end>
+
+=>q39
+I can't remember those things. I forgot 'em. I sometimes even... have trouble rememberin' my own name... Leo. Leo. *Leo*.<end>
+
+=>a40_original
+How can one forget his very own name?<end>
+
+=>a40
+How can one forget his very own name?<end>
+
+=>q41_original
+It's the pressure. The pressure in my head makes me forget things, you know. Everytime I go near the complex, the pressure... it makes the edges of my mind fuzzy. Then, it shrinks, and I feel somethin' inside got lost. The devils, Tchortists, they live there with their demons and are resistant to it, I think, but I... I forget.<end>
+
+=>q41
+It's the pressure. The pressure in my head makes me forget things, you know. Everytime I go near the complex, the pressure... it makes the edges of my mind fuzzy. Then, it shrinks, and I feel somethin' inside got lost. The devils, Tchortists, they live there with their demons and are resistant to it, I think, but I... I forget.<end>
+
+=>a42_original
+I know what you mean. I was there too and felt a strange sensation in my head, but it gets better as soon as I leave the area.<end>
+
+=>a42
+I know what you mean. I was there too and felt a strange sensation in my head, but it gets better as soon as I leave the area.<end>
+
+=>q43_original
+Yes, the pressure lessens once you leave... but there's always somethin' missin' from your mind.<end>
+
+=>q43
+Yes, the pressure lessens once you leave... but there's always somethin' missin' from your mind.<end>
+
+=>q44_original
+I remember other things... Yes. Yes. Recent things and, and some other if I can focus hard on it, those I remember. But the past, it evaporated! Poof!<end>
+
+=>q44
+I remember other things... Yes. Yes. Recent things and, and some other if I can focus hard on it, those I remember. But the past, it evaporated! Poof!<end>
+
+=>a45_original
+Evaporated?<end>
+
+=>a45
+Evaporated?<end>
+
+=>q46_original
+It evaporated - POOF! Some things I know but can't remember... Yes - I know but can't remember. The knife, I know that it's important, but can't remember why. It's... a deep feelin'. Maybe someone gave it to me. Maybe I made it myself. I don't remember. But I feel it to be a part of me, and if I can't, can't keep my memories, then maybe I can keep things that were a part of it. Yes, yes. It's the only option I've left.<end>
+
+=>q46
+It evaporated - POOF! Some things I know but can't remember... Yes - I know but can't remember. The knife, I know that it's important, but can't remember why. It's... a deep feelin'. Maybe someone gave it to me. Maybe I made it myself. I don't remember. But I feel it to be a part of me, and if I can't, can't keep my memories, then maybe I can keep things that were a part of it. Yes, yes. It's the only option I've left.<end>
+
+=>q47_original
+Maybe my mind will become clearer one day and those items will help me remember. Yes, yes.<end>
+
+=>q47
+Maybe my mind will become clearer one day and those items will help me remember. Yes, yes.<end>
+
+=>a48_original
+Why did you go back to the complex if the pressure makes you lose your memory?<end>
+
+=>a48
+Why did you go back to the complex if the pressure makes you lose your memory?<end>
+
+=>q49_original
+I rarely go there. Right. The pressure, devils - and demons. It is not a good place to be. No. But the diggers - they emerged, so I had to.<end>
+
+=>q49
+I rarely go there. Right. The pressure, devils - and demons. It is not a good place to be. No. But the diggers - they emerged, so I had to.<end>
+
+=>a50_original
+Diggers?<end>
+
+=>a50
+Diggers?<end>
+
+=>q51_original
+Diggers, the critters you must've seen out front. They crawled out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out! Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>q51
+Diggers, the critters you must've seen out front. They crawled out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out! Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>q52_original
+But... I think I remember now. I saw 'em a long time before. Maybe. But not in such numbers, no, no, and it was far away from my home. But this, this is too many...<end>
+
+=>q52
+But... I think I remember now. I saw 'em a long time before. Maybe. But not in such numbers, no, no, and it was far away from my home. But this, this is too many...<end>
+
+=>a53_original
+You were going to tell me why did the diggers make you go back to the complex.<end>
+
+=>a53
+You were going to tell me why did the diggers make you go back to the complex.<end>
+
+=>q54_original
+Yes! I needed to find... uh, somethin' it was, somethin' - anythin' to keep 'em away from my home! The complex is rich with... things. I know it is, but I can't remember exactly what. I found things in the past there - useful things. I had to take the risk. I had to try. The diggers were closing in, and the storages, nothin' of use there against 'em.<end>
+
+=>q54
+Yes! I needed to find... uh, somethin' it was, somethin' - anythin' to keep 'em away from my home! The complex is rich with... things. I know it is, but I can't remember exactly what. I found things in the past there - useful things. I had to take the risk. I had to try. The diggers were closing in, and the storages, nothin' of use there against 'em.<end>
+
+=>a55_original
+Well, did you find anything?<end>
+
+=>a55
+Well, did you find anything?<end>
+
+=>q56_original
+::He looks around himself, his eyes scanning every corner of his home.:: It appears I haven't. No, I am sure I haven't. I found nothin' there. I found *nothin'* there.<end>
+
+=>q56
+::He looks around himself, his eyes scanning every corner of his home.:: It appears I haven't. No, I am sure I haven't. I found nothin' there. I found *nothin'* there.<end>
+
+=>q57_original
+Even though I went prepared, I found nothing. I've been training, you see, to prevent the pressure from makin' me forget. It helps. To a degree. $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>q57
+Even though I went prepared, I found nothing. I've been training, you see, to prevent the pressure from makin' me forget. It helps. To a degree. $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>a58_original
+I'd be glad to clear the burrowers for you.<end>
+
+=>a58
+I'd be glad to clear the burrowers for you.<end>
+
+=>q59_original
+Diggers - do not confuse me. You can try to slay 'em, but they'll just come back. From the ground. They always do. I know. No, I need somethin' to keep them away. Permanently. That is why I went to the complex. Yes.<end>
+
+=>q59
+Diggers - do not confuse me. You can try to slay 'em, but they'll just come back. From the ground. They always do. I know. No, I need somethin' to keep them away. Permanently. That is why I went to the complex. Yes.<end>
+
+=>q60_original
+I lost my knife there. In the complex. While running from Tchortists. Tchortists. But then you brought it back. Yes. That is what happened.<end>
+
+=>q60
+I lost my knife there. In the complex. While running from Tchortists. Tchortists. But then you brought it back. Yes. That is what happened.<end>
+
+=>a61_original
+Resist the pressure? Tell me what you mean?<end>
+
+=>a61
+Resist the pressure? Tell me what you mean?<end>
+
+=>q62_original
+The Hole of Reason.<end>
+
+=>q62
+The Hole of Reason.<end>
+
+=>a63_original
+The what now?<end>
+
+=>a63
+The what now?<end>
+
+=>q64_original
+It's in the back. Yes, yes. When my mind is fuzzy, I go to it. It helps. It clears it up, solidifies the mind.<end>
+
+=>q64
+It's in the back. Yes, yes. When my mind is fuzzy, I go to it. It helps. It clears it up, solidifies the mind.<end>
+
+=>a65_original
+May I see this Hole of Reason?<end>
+
+=>a65
+May I see this Hole of Reason?<end>
+
+=>q66_original
+::He nods with a smile.::
+
+Mhm. Follow me... um, $(context.player.Name).<end>
+
+=>q66
+::He nods with a smile.::
+
+Mhm. Follow me... um, $(context.player.Name).<end>
+
+=>a67_original
+::Follow him to the Hole of Reason.::<end>
+
+=>a67
+::Follow him to the Hole of Reason.::<end>
+
+=>a68_original
+Interesting. Maybe I'll check it out some time later.<end>
+
+=>a68
+Interesting. Maybe I'll check it out some time later.<end>
+
+=>q69_original
+When my mind is fuzzy, I go to it. Yes. I *go* to it. *I,* Leo. *Leo*.<end>
+
+=>q69
+When my mind is fuzzy, I go to it. Yes. I *go* to it. *I,* Leo. *Leo*.<end>
+
+=>a70_original
+Where is this "Hole of Reason"?<end>
+
+=>a70
+Where is this "Hole of Reason"?<end>
+
+=>a71_original
+I had other questions, if you don't mind.<end>
+
+=>a71
+I had other questions, if you don't mind.<end>
+
+=>q72_original
+No. I don't. Ask.<end>
+
+=>q72
+No. I don't. Ask.<end>
+
+=>a73_original
+You mean burrowers?<end>
+
+=>a73
+You mean burrowers?<end>
+
+=>q74_original
+Burrowers? I mean diggers. You must've seen 'em out front. They came out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out. Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>q74
+Burrowers? I mean diggers. You must've seen 'em out front. They came out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out. Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>a75_original
+So, how far back do you remember about yourself?<end>
+
+=>a75
+So, how far back do you remember about yourself?<end>
+
+=>q76_original
+I... know I've been 'ere for a long time. I don't remember how I came 'ere, but I know I came from some other place. There are clues that tell me so. Yes, yes. I had some items with me, like the bone knife, things, um... pictures of people! I feel somethin' when I look at those things, yes, yes. I know those people, but I don't remember 'em.<end>
+
+=>q76
+I... know I've been 'ere for a long time. I don't remember how I came 'ere, but I know I came from some other place. There are clues that tell me so. Yes, yes. I had some items with me, like the bone knife, things, um... pictures of people! I feel somethin' when I look at those things, yes, yes. I know those people, but I don't remember 'em.<end>
+
+=>q77_original
+I haven't seen people in... a long time. I know one was 'ere. With me. No. Yes. Yes, he was. There was another man 'ere with me. There *was* another *man* with me. Here. But I don't remember what happened to him. I know he was 'ere.<end>
+
+=>q77
+I haven't seen people in... a long time. I know one was 'ere. With me. No. Yes. Yes, he was. There was another man 'ere with me. There *was* another *man* with me. Here. But I don't remember what happened to him. I know he was 'ere.<end>
+
+=>a78_original
+Do you miss him?<end>
+
+=>a78
+Do you miss him?<end>
+
+=>q79_original
+I do. I do. I don't remember why but I do... I miss him a lot. He was my best friend. We were together until he...<end>
+
+=>q79
+I do. I do. I don't remember why but I do... I miss him a lot. He was my best friend. We were together until he...<end>
+
+=>a80_original
+What did you say?<end>
+
+=>a80
+What did you say?<end>
+
+=>q81_original
+Eh? No. He was my broth-- No, no, no, no, no. I can't remember anymore! Fuzzy, fuzzy! It...<end>
+
+=>q81
+Eh? No. He was my broth-- No, no, no, no, no. I can't remember anymore! Fuzzy, fuzzy! It...<end>
+
+=>a82_original
+Did he come here with you, perhaps? Do you remember?<end>
+
+=>a82
+Did he come here with you, perhaps? Do you remember?<end>
+
+=>q83_original
+Train.<end>
+
+=>q83
+Train.<end>
+
+=>a84_original
+You came together by a train? I haven't seen a railroad anywhere.<end>
+
+=>a84
+You came together by a train? I haven't seen a railroad anywhere.<end>
+
+=>q85_original
+I don't remember. I don't know. It hurts me... Fuzzy!<end>
+
+=>q85
+I don't remember. I don't know. It hurts me... Fuzzy!<end>
+
+=>a86_original
+Why did you come here, Leo?<end>
+
+=>a86
+Why did you come here, Leo?<end>
+
+=>q87_original
+Leo.<end>
+
+=>q87
+Leo.<end>
+
+=>a88_original
+Yes, that's your name. Now tell me why'd you come here?<end>
+
+=>a88
+Yes, that's your name. Now tell me why'd you come here?<end>
+
+=>q89_original
+*I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>q89
+*I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>q90_original
+I'll remember you, I will. By the white rat's hair, I will. Now to keep my end of the bargain. Ask me anythin' you wish to know...<end>
+
+=>q90
+I'll remember you, I will. By the white rat's hair, I will. Now to keep my end of the bargain. Ask me anythin' you wish to know...<end>
+
+=>q91_original
+...$(context.player.Name).<end>
+
+=>q91
+...$(context.player.Name).<end>
+
+=>a92_original
+Leo? Are you okay?<end>
+
+=>a92
+Leo? Are you okay?<end>
+
+=>a93_original
+We better talk about something else. I see that this is getting to you.<end>
+
+=>a93
+We better talk about something else. I see that this is getting to you.<end>
+
+=>q94_original
+Eh? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>q94
+Eh? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>a95_original
+This is pointless. Listen up, I had other questions?<end>
+
+=>a95
+This is pointless. Listen up, I had other questions?<end>
+
+=>a96_original
+I think you got that one wrong. But think, old man, you can do it.<end>
+
+=>a96
+I think you got that one wrong. But think, old man, you can do it.<end>
+
+=>a97_original
+Best friend? You remember him?<end>
+
+=>a97
+Best friend? You remember him?<end>
+
+=>a98_original
+Until he what?<end>
+
+=>a98
+Until he what?<end>
+
+=>q99_original
+Until he... no. He was not my friend, but my bro-- No, no, no, no, no. I can't remember! Fuzzy, fuzzy! It...<end>
+
+=>q99
+Until he... no. He was not my friend, but my bro-- No, no, no, no, no. I can't remember! Fuzzy, fuzzy! It...<end>
+
+=>a100_original
+I'd like to change the subject now.<end>
+
+=>a100
+I'd like to change the subject now.<end>
+
+=>q101_original
+Eh? Alright, Alright. Go ahead then. Ask.<end>
+
+=>q101
+Eh? Alright, Alright. Go ahead then. Ask.<end>
+
+=>a102_original
+You forgot your past?<end>
+
+=>a102
+You forgot your past?<end>
+
+=>a103_original
+I wouldn't want anything like that to happen to me.<end>
+
+=>a103
+I wouldn't want anything like that to happen to me.<end>
+
+=>a104_original
+That's horrible. If you're afraid about forgetting your own name, then I better not ask about other, less important things.<end>
+
+=>a104
+That's horrible. If you're afraid about forgetting your own name, then I better not ask about other, less important things.<end>
+
+=>a105_original
+Can't or won't?<end>
+
+=>a105
+Can't or won't?<end>
+
+=>q106_original
+Can't. <end>
+
+=>q106
+Can't. <end>
+
+=>a107_original
+Why do you repeat your name several times every time you say it?<end>
+
+=>a107
+Why do you repeat your name several times every time you say it?<end>
+
+=>q108_original
+So I won't forget it.<end>
+
+=>q108
+So I won't forget it.<end>
+
+=>a109_original
+Do you know of a way out of here?<end>
+
+=>a109
+Do you know of a way out of here?<end>
+
+=>q110_original
+There are elevators, yes, yes, but not a single one of them works. They lead up, I think.<end>
+
+=>q110
+There are elevators, yes, yes, but not a single one of them works. They lead up, I think.<end>
+
+=>a111_original
+Where can I find them?<end>
+
+=>a111
+Where can I find them?<end>
+
+=>q112_original
+One is in the big complex, one is, um, near the lake. There might be more, but those are the ones I know of.<end>
+
+=>q112
+One is in the big complex, one is, um, near the lake. There might be more, but those are the ones I know of.<end>
+
+=>a113_original
+Does "Underrail" mean anything to you? Core City? Do you remember metro tunnels, trains? Anything of the sort?<end>
+
+=>a113
+Does "Underrail" mean anything to you? Core City? Do you remember metro tunnels, trains? Anything of the sort?<end>
+
+=>q114_original
+Eh? No... it means nothing to me, I think. You sound like it should, you do. But... I don't remember anything like that. Is that where you're from? You think I'm from there too?<end>
+
+=>q114
+Eh? No... it means nothing to me, I think. You sound like it should, you do. But... I don't remember anything like that. Is that where you're from? You think I'm from there too?<end>
+
+=>q115_original
+::His eyes roll back as he grabs his head and lets out a painful cry. He then drops to his knees and begins weeping.::<end>
+
+=>q115
+::His eyes roll back as he grabs his head and lets out a painful cry. He then drops to his knees and begins weeping.::<end>
+
+=>a116_original
+Stand up, old man. You are stronger than that. You know it.<end>
+
+=>a116
+Stand up, old man. You are stronger than that. You know it.<end>
+
+=>q117_original
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Don't tell me about your world any more.<end>
+
+=>q117
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Don't tell me about your world any more.<end>
+
+=>a118_original
+Why not?<end>
+
+=>a118
+Why not?<end>
+
+=>q119_original
+It's only more things for me to forget.<end>
+
+=>q119
+It's only more things for me to forget.<end>
+
+=>a120_original
+Wouldn't you want to get out of here?<end>
+
+=>a120
+Wouldn't you want to get out of here?<end>
+
+=>q121_original
+I don't know. I don't know. And I don't want to speak about this anymore.<end>
+
+=>q121
+I don't know. I don't know. And I don't want to speak about this anymore.<end>
+
+=>a122_original
+Let me ask you something else.<end>
+
+=>a122
+Let me ask you something else.<end>
+
+=>q123_original
+Eh? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
+
+=>q123
+Eh? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>a125_original
+Tell me about the labyrinth.<end>
+
+=>a125
+Tell me about the labyrinth.<end>
+
+=>q126_original
+The labyrinth is swarmin' with giant death-worms. They spit acid and will devour anything they come up to - rats, froggers, diggers. Everything. But I evaded them. He-he-Ha! You just ought to carefully observe the ground and avoid them. Tread lightly. Little by little and I was through the labyrinth, I remember.<end>
+
+=>q126
+The labyrinth is swarmin' with giant death-worms. They spit acid and will devour anything they come up to - rats, froggers, diggers. Everything. But I evaded them. He-he-Ha! You just ought to carefully observe the ground and avoid them. Tread lightly. Little by little and I was through the labyrinth, I remember.<end>
+
+=>a127_original
+Why did you go there in the first place?<end>
+
+=>a127
+Why did you go there in the first place?<end>
+
+=>q128_original
+I was... lookin' for somethin'. I can't remember what, but I know it. I don't think I found it, no, no. ::He looks around the room.:: No, no, I haven't. I've found somethin' else, though...<end>
+
+=>q128
+I was... lookin' for somethin'. I can't remember what, but I know it. I don't think I found it, no, no. ::He looks around the room.:: No, no, I haven't. I've found somethin' else, though...<end>
+
+=>q129_original
+Energy rocks. Three of them, but only one was still glowing. I felt tinglin' in my skin, drawin' me to touch it. Yes, yes. I remember touchin' it and, and... it hit my mind with images. But the images hurt me. Fuzzy, fuzzy.<end>
+
+=>q129
+Energy rocks. Three of them, but only one was still glowing. I felt tinglin' in my skin, drawin' me to touch it. Yes, yes. I remember touchin' it and, and... it hit my mind with images. But the images hurt me. Fuzzy, fuzzy.<end>
+
+=>q130_original
+I also didn't have much time to look at it - the death-worms were after me! I ran my way out of the labyrinth, somehow rememberin' where I was supposed to go. I'd forgotten it since, but at the time it was clear where I needed to run. It goes without sayin' I never came back there. Ought to be mad to do that again! He-he-HA!<end>
+
+=>q130
+I also didn't have much time to look at it - the death-worms were after me! I ran my way out of the labyrinth, somehow rememberin' where I was supposed to go. I'd forgotten it since, but at the time it was clear where I needed to run. It goes without sayin' I never came back there. Ought to be mad to do that again! He-he-HA!<end>
+
+=>a131_original
+Tell me about the complex.<end>
+
+=>a131
+Tell me about the complex.<end>
+
+=>q132_original
+The complex is vast. Tchorti-- Tchortists live there with their demons. Devils! I was there many times, I know it, and I always felt the pressure inside my head. Yet, besides makin' me forget it also wakes up the demons. They come out of their holes, holes in the ground, so watch for those if you ought to go there. Not that I would recommend it. No, no.<end>
+
+=>q132
+The complex is vast. Tchorti-- Tchortists live there with their demons. Devils! I was there many times, I know it, and I always felt the pressure inside my head. Yet, besides makin' me forget it also wakes up the demons. They come out of their holes, holes in the ground, so watch for those if you ought to go there. Not that I would recommend it. No, no.<end>
+
+=>a133_original
+What else can you tell me about the complex? What's it for?<end>
+
+=>a133
+What else can you tell me about the complex? What's it for?<end>
+
+=>q134_original
+The complex was the place where people who lived in the four buildings worked. Yes, yes. They were, what's the word, scientists! I remember seein' that in their notes. They were doin' experiments on things. Maybe they created the devils, the demons. Maybe the demons killed them, there are dismembered corpses all throughout the complex. I remember seein' them.<end>
+
+=>q134
+The complex was the place where people who lived in the four buildings worked. Yes, yes. They were, what's the word, scientists! I remember seein' that in their notes. They were doin' experiments on things. Maybe they created the devils, the demons. Maybe the demons killed them, there are dismembered corpses all throughout the complex. I remember seein' them.<end>
+
+=>a135_original
+Tell me more.<end>
+
+=>a135
+Tell me more.<end>
+
+=>q136_original
+I found useful things there. It is a place of many secrets, and while I've found some of 'em, I reckon there is more to discover. Oh, like the shelters, there are shelters where the demons won't hurt you and the pressure can't reach you.<end>
+
+=>q136
+I found useful things there. It is a place of many secrets, and while I've found some of 'em, I reckon there is more to discover. Oh, like the shelters, there are shelters where the demons won't hurt you and the pressure can't reach you.<end>
+
+=>q137_original
+That bloody complex. Because of it my memories leaked out of my head. It is evil, I tell you. Why fate came over me, I don't know. And I don't remember.<end>
+
+=>q137
+That bloody complex. Because of it my memories leaked out of my head. It is evil, I tell you. Why fate came over me, I don't know. And I don't remember.<end>
+
+=>a138_original
+Tell me about the storages.<end>
+
+=>a138
+Tell me about the storages.<end>
+
+=>q139_original
+Ah, the storages. It's a place where useful things are. It is a place where *useful* things are. I know that's why I built my home close to it.<end>
+
+=>q139
+Ah, the storages. It's a place where useful things are. It is a place where *useful* things are. I know that's why I built my home close to it.<end>
+
+=>q140_original
+There are weapons there, materials and parts too, ammo. Also, also, there are two large storages that go inside the cave wall. One is open, and has dangerous gases inside and slimy slugs, while the other is sealed. I was never able to open it, but I saw through a crack in the wall that it has more shelves inside, with more useful things. Yes, I saw shelves. I remember seein' *shelves*.<end>
+
+=>q140
+There are weapons there, materials and parts too, ammo. Also, also, there are two large storages that go inside the cave wall. One is open, and has dangerous gases inside and slimy slugs, while the other is sealed. I was never able to open it, but I saw through a crack in the wall that it has more shelves inside, with more useful things. Yes, I saw shelves. I remember seein' *shelves*.<end>
+
+=>q141_original
+The storages were empty until diggers showed up, but then the Masked drove them off. I can go there, the Masked won't hurt me. They *won't* hurt me.<end>
+
+=>q141
+The storages were empty until diggers showed up, but then the Masked drove them off. I can go there, the Masked won't hurt me. They *won't* hurt me.<end>
+
+=>a142_original
+Tell me about the demon breeding grounds.<end>
+
+=>a142
+Tell me about the demon breeding grounds.<end>
+
+=>q143_original
+Demons. I was there, a long time ago. It is past the complex... I think, let me think, I think there are tanks there. Large tanks full of green-- yellow-- green liquid. Yes, tanks. Large *tanks*. I saw horrible things there, sure. But, I know I saw somethin' more there...<end>
+
+=>q143
+Demons. I was there, a long time ago. It is past the complex... I think, let me think, I think there are tanks there. Large tanks full of green-- yellow-- green liquid. Yes, tanks. Large *tanks*. I saw horrible things there, sure. But, I know I saw somethin' more there...<end>
+
+=>q144_original
+Somethin'... huge. A larger demon. I remember my head was feelin' like it was gonna turn to mush. I... it hurts my brain when I try to rem-- ::He quickly puts his palms on his temples and begins rubbing the area, clenching his eyes and grunting.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...<end>
+
+=>q144
+Somethin'... huge. A larger demon. I remember my head was feelin' like it was gonna turn to mush. I... it hurts my brain when I try to rem-- ::He quickly puts his palms on his temples and begins rubbing the area, clenching his eyes and grunting.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...<end>
+
+=>q145_original
+::The tension dissipates. His eyes remain closed, but not clenched; his breath evens out; his palms still rubbing his temples. As he calms down he slowly lifts his eyelids and tiredly looks at you.::
+
+I can't tell you more. It hurts.<end>
+
+=>q145
+::The tension dissipates. His eyes remain closed, but not clenched; his breath evens out; his palms still rubbing his temples. As he calms down he slowly lifts his eyelids and tiredly looks at you.::
+
+I can't tell you more. It hurts.<end>
+
+=>a146_original
+Tell me about the machine plant.<end>
+
+=>a146
+Tell me about the machine plant.<end>
+
+=>q147_original
+It is past the storages. At the intersection follow the road straight. Nor-- North! The diggers are there now. In the yard. I saw them, I remember it. But inside, there I've never been. No, no. But I saw lights turn on, machines come out. The plant is makin' them. It has to be. They clink-clank-clink-clank around it, protectin' whatever is inside. Yes, yes.<end>
+
+=>q147
+It is past the storages. At the intersection follow the road straight. Nor-- North! The diggers are there now. In the yard. I saw them, I remember it. But inside, there I've never been. No, no. But I saw lights turn on, machines come out. The plant is makin' them. It has to be. They clink-clank-clink-clank around it, protectin' whatever is inside. Yes, yes.<end>
+
+=>q148_original
+One attacked me once. I got too close. It spoke to me. Then I destroyed it. I... Leo, *Leo* destroyed it.<end>
+
+=>q148
+One attacked me once. I got too close. It spoke to me. Then I destroyed it. I... Leo, *Leo* destroyed it.<end>
+
+=>a149_original
+Tell me about the Masked site.<end>
+
+=>a149
+Tell me about the Masked site.<end>
+
+=>q150_original
+You go... *east* from my home, past the storages. Many Masked there. There they keep their diggin' machines, guns - machines. Machine rats. Yes, yes. And imprisoned devils too. Oh, yes, yes. My mind swirled and I remembered it.<end>
+
+=>q150
+You go... *east* from my home, past the storages. Many Masked there. There they keep their diggin' machines, guns - machines. Machine rats. Yes, yes. And imprisoned devils too. Oh, yes, yes. My mind swirled and I remembered it.<end>
+
+=>q151_original
+The buildings are surrounded by high walls. I've been there before the Masked came. I have been there *before* the Masked came. I entered some of the buildings and saw the insides were in ruin. Dead people were all over the place, and so were giant white rats.<end>
+
+=>q151
+The buildings are surrounded by high walls. I've been there before the Masked came. I have been there *before* the Masked came. I entered some of the buildings and saw the insides were in ruin. Dead people were all over the place, and so were giant white rats.<end>
+
+=>q152_original
+But there is nothin' of that inside now. The Masked cleaned it up.<end>
+
+=>q152
+But there is nothin' of that inside now. The Masked cleaned it up.<end>
+
+=>a153_original
+What do you think of the Masked? Are they good or bad?<end>
+
+=>a153
+What do you think of the Masked? Are they good or bad?<end>
+
+=>q154_original
+They are good. I know it. I remember they wouldn't hurt me. But I remembered that they killed people too...
+
+I don't know now... Fuzzy.<end>
+
+=>q154
+They are good. I know it. I remember they wouldn't hurt me. But I remembered that they killed people too...
+
+I don't know now... Fuzzy.<end>
+
+=>a155_original
+Tell me about the mushroom forest.<end>
+
+=>a155
+Tell me about the mushroom forest.<end>
+
+=>q156_original
+It is s-south. Far south. Then west. Yes, yes. The mushrooms are tall and high, but the danger lies low. The forest is filled with numerous mushroom beasts... and there is one big. Yes, yes. I never dared comin' closer to it, I don't remember, but I *know* it is dangerous.<end>
+
+=>q156
+It is s-south. Far south. Then west. Yes, yes. The mushrooms are tall and high, but the danger lies low. The forest is filled with numerous mushroom beasts... and there is one big. Yes, yes. I never dared comin' closer to it, I don't remember, but I *know* it is dangerous.<end>
+
+=>q157_original
+The little maggots, watch out for them, they grow into mushroom beasts. They *grow* into mushroom beasts.<end>
+
+=>q157
+The little maggots, watch out for them, they grow into mushroom beasts. They *grow* into mushroom beasts.<end>
+
+=>a158_original
+What do you mean by "they grow into mushroom beasts"?<end>
+
+=>a158
+What do you mean by "they grow into mushroom beasts"?<end>
+
+=>q159_original
+Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into the mushrooms and grow. If you need to go there, watch out! And watch out for the spores too, 'cause if you inhale them, it makes your head spin and spin and spin. You lose yourself for a time, and I know I once woke up in a place I'd never seen before. Don't remember how I got out. 
+
+It's dangerous. And in the mushroom forest you ought to be more alert than the beasts that live there.<end>
+
+=>q159
+Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into the mushrooms and grow. If you need to go there, watch out! And watch out for the spores too, 'cause if you inhale them, it makes your head spin and spin and spin. You lose yourself for a time, and I know I once woke up in a place I'd never seen before. Don't remember how I got out. 
+
+It's dangerous. And in the mushroom forest you ought to be more alert than the beasts that live there.<end>
+
+=>a160_original
+Spores? What more do you remember about that place you woke up in?<end>
+
+=>a160
+Spores? What more do you remember about that place you woke up in?<end>
+
+=>q161_original
+Remember? That's a tough one. I remember... as I said, I was breathin' in those spores for too long I suppose. I felt my head spin and spin - and then all went dark. Yes. Dark. I thought I was dead. Poof. Ought to be. But then, I felt myself again - my arms, legs, bowels. Heart beatin'. But I was now in a smaller cave. More like... a bunch of tunnels. I know that. Full of beasts. And a big one.<end>
+
+=>q161
+Remember? That's a tough one. I remember... as I said, I was breathin' in those spores for too long I suppose. I felt my head spin and spin - and then all went dark. Yes. Dark. I thought I was dead. Poof. Ought to be. But then, I felt myself again - my arms, legs, bowels. Heart beatin'. But I was now in a smaller cave. More like... a bunch of tunnels. I know that. Full of beasts. And a big one.<end>
+
+=>q162_original
+Heart beatin'... Yes, yes. But how I got out... don't remember. Don't remember.<end>
+
+=>q162
+Heart beatin'... Yes, yes. But how I got out... don't remember. Don't remember.<end>
+
+=>a163_original
+Tell me about the four buildings.<end>
+
+=>a163
+Tell me about the four buildings.<end>
+
+=>q164_original
+The Masked are there now, but only outside. I remember it. Meanwhile, I've been INSIDE. Yes, yes. People lived inside. Maybe I did too, I don't remember it. I don't know it either. Now only electric spiders live there, but they don't always come out. They feed on power, and when the lights are out they retreat into their lairs.<end>
+
+=>q164
+The Masked are there now, but only outside. I remember it. Meanwhile, I've been INSIDE. Yes, yes. People lived inside. Maybe I did too, I don't remember it. I don't know it either. Now only electric spiders live there, but they don't always come out. They feed on power, and when the lights are out they retreat into their lairs.<end>
+
+=>a165_original
+Is there anything of interest inside the four buildings?<end>
+
+=>a165
+Is there anything of interest inside the four buildings?<end>
+
+=>q166_original
+The people who lived there are connected to the complex. Some doors were locked, but others weren't. I know I read through those people's personal notes... I can't remember how. I didn't bring it with me because their past is not mine. It would confuse me. I know it. But I found some card thingies, keycards that I used to open some doors in the complex. I'd give them to you, but I don't remember where I put them. I don't know if I even have them 'ere anymore.<end>
+
+=>q166
+The people who lived there are connected to the complex. Some doors were locked, but others weren't. I know I read through those people's personal notes... I can't remember how. I didn't bring it with me because their past is not mine. It would confuse me. I know it. But I found some card thingies, keycards that I used to open some doors in the complex. I'd give them to you, but I don't remember where I put them. I don't know if I even have them 'ere anymore.<end>
+
+=>q167_original
+That's all I can remember right now. I know there is more, *$(context.player.Name),* and I'll think about it.<end>
+
+=>q167
+That's all I can remember right now. I know there is more, *$(context.player.Name),* and I'll think about it.<end>
+
+=>a168_original
+You mean coil spiders?<end>
+
+=>a168
+You mean coil spiders?<end>
+
+=>q169_original
+I mean electric spiders. Don't confuse me.<end>
+
+=>q169
+I mean electric spiders. Don't confuse me.<end>
+
+=>a170_original
+I'm sorry, didn't mean to confuse you. Anyway, is there anything of interest inside the four buildings?<end>
+
+=>a170
+I'm sorry, didn't mean to confuse you. Anyway, is there anything of interest inside the four buildings?<end>
+
+=>a171_original
+I need to ask you something else.<end>
+
+=>a171
+I need to ask you something else.<end>
+
+=>q172_original
+Hold up! I just remembered one more thing: The labyrinth! So-- South of the lake.<end>
+
+=>q172
+Hold up! I just remembered one more thing: The labyrinth! So-- South of the lake.<end>
+
+=>q173_original
+Yes, yes.<end>
+
+=>q173
+Yes, yes.<end>
+
+=>a174_original
+Let's change the subject.<end>
+
+=>a174
+Let's change the subject.<end>
+
+=>q175_original
+::He nods.::<end>
+
+=>q175
+::He nods.::<end>
+
+=>a176_original
+I'm sorry, Leo. Maybe I shouldn't have mentioned any of that.<end>
+
+=>a176
+I'm sorry, Leo. Maybe I shouldn't have mentioned any of that.<end>
+
+=>q177_original
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Maybe you shouldn't... $(context.player.Name).<end>
+
+=>q177
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Maybe you shouldn't... $(context.player.Name).<end>
+
+=>a178_original
+::Say nothing.::<end>
+
+=>a178
+::Say nothing.::<end>
+
+=>a179_original
+I'm trying to open the large gate in the complex, past the tanks.<end>
+
+=>a179
+I'm trying to open the large gate in the complex, past the tanks.<end>
+
+=>q180_original
+Eh? Large gate? Oh, yes, yes. And what do you need me for?<end>
+
+=>q180
+Eh? Large gate? Oh, yes, yes. And what do you need me for?<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+I need to find some mechanical parts for the gate opening mechanism. Do you know the best place to look for those?<end>
+
+=>a182
+I need to find some mechanical parts for the gate opening mechanism. Do you know the best place to look for those?<end>
+
+=>q183_original
+Storages. Yes, storages is a good place to look. It has useful things. But I know nothin' about repairin' any gate mechanisms so I can't help you with it.<end>
+
+=>q183
+Storages. Yes, storages is a good place to look. It has useful things. But I know nothin' about repairin' any gate mechanisms so I can't help you with it.<end>
+
+=>q184_original
+Well... I rem-- I think there are a few more similar gates in the complex. Maybe you can, you know, pull out a replacement part from a working mechanism. Yes, that makes sense. I think...<end>
+
+=>q184
+Well... I rem-- I think there are a few more similar gates in the complex. Maybe you can, you know, pull out a replacement part from a working mechanism. Yes, that makes sense. I think...<end>
+
+=>a185_original
+There is a large slimy mass covering the gate, preventing me from opening it. Have you ever encountered anything like that or know how to get rid of it?<end>
+
+=>a185
+There is a large slimy mass covering the gate, preventing me from opening it. Have you ever encountered anything like that or know how to get rid of it?<end>
+
+=>q186_original
+I don't know.<end>
+
+=>q186
+I don't know.<end>
+
+=>q187_original
+Actually... wait, wait. I remember a machine in the complex. Yes, yes. Near the exit to storages. It had... "organic" somethin' written on it. Slime is organic. Maybe there's somethin' to it, but I can't...<end>
+
+=>q187
+Actually... wait, wait. I remember a machine in the complex. Yes, yes. Near the exit to storages. It had... "organic" somethin' written on it. Slime is organic. Maybe there's somethin' to it, but I can't...<end>
+
+=>q188_original
+::He begins rubbing his temples. His teeth are clenched, eyes sporadically twitching during this short pause. Then, he exhales and opens his eyes.::
+
+I can't do it. It is gone. GONE! Just... find the machine. Start from there.<end>
+
+=>q188
+::He begins rubbing his temples. His teeth are clenched, eyes sporadically twitching during this short pause. Then, he exhales and opens his eyes.::
+
+I can't do it. It is gone. GONE! Just... find the machine. Start from there.<end>
+
+=>a189_original
+I need a keycard to open the gate, since I can't bypass it myself. Do you know where I can find such a card?<end>
+
+=>a189
+I need a keycard to open the gate, since I can't bypass it myself. Do you know where I can find such a card?<end>
+
+=>q190_original
+Four buildings. Yes, yes, I think that's the best place to look.<end>
+
+=>q190
+Four buildings. Yes, yes, I think that's the best place to look.<end>
+
+=>a191_original
+I know of it already. I had other questions about the gate.<end>
+
+=>a191
+I know of it already. I had other questions about the gate.<end>
+
+=>q192_original
+Eh?<end>
+
+=>q192
+Eh?<end>
+
+=>a193_original
+Actually, let's change the subject.<end>
+
+=>a193
+Actually, let's change the subject.<end>
+
+=>a194_original
+You mentioned something about resisting the pressure inside your head when you're near the complex. Tell me more about what you meant.<end>
+
+=>a194
+You mentioned something about resisting the pressure inside your head when you're near the complex. Tell me more about what you meant.<end>
+
+=>a195_original
+I changed my mind. I want to talk to this Hole of Reason.<end>
+
+=>a195
+I changed my mind. I want to talk to this Hole of Reason.<end>
+
+=>a196_original
+What can you tell me about the Tchortists?<end>
+
+=>a196
+What can you tell me about the Tchortists?<end>
+
+=>q197_original
+Devils! They roam the complex, I saw 'em before. Yes, in that I'm sure. I remember. Devils want to shoot me. Demons want to eat me. But they never came 'ere. No, no. Never. They guard somethin', somethin' big! It lies behind a large gate.<end>
+
+=>q197
+Devils! They roam the complex, I saw 'em before. Yes, in that I'm sure. I remember. Devils want to shoot me. Demons want to eat me. But they never came 'ere. No, no. Never. They guard somethin', somethin' big! It lies behind a large gate.<end>
+
+=>a198_original
+Are you talking about Tchort?<end>
+
+=>a198
+Are you talking about Tchort?<end>
+
+=>q199_original
+Somethin' big... behind the gate. I don't remember.<end>
+
+=>q199
+Somethin' big... behind the gate. I don't remember.<end>
+
+=>a200_original
+Where is that "something"?<end>
+
+=>a200
+Where is that "something"?<end>
+
+=>q201_original
+Demon breeding grounds. I know it.<end>
+
+=>q201
+Demon breeding grounds. I know it.<end>
+
+=>a202_original
+You mentioned the Masked. What can you tell me about them?<end>
+
+=>a202
+You mentioned the Masked. What can you tell me about them?<end>
+
+=>q203_original
+I don't remember seein' them before. No, no. I *know* they weren't 'ere before the big shake. Then, they started to appear. They had masks of steel and mechanical parts. Legs, arms, bodies - steel. They saw me. I think. I know they saw me, but they didn't hurt me. They let me walk freely around the storage. Yes, yes. They didn't hurt me.<end>
+
+=>q203
+I don't remember seein' them before. No, no. I *know* they weren't 'ere before the big shake. Then, they started to appear. They had masks of steel and mechanical parts. Legs, arms, bodies - steel. They saw me. I think. I know they saw me, but they didn't hurt me. They let me walk freely around the storage. Yes, yes. They didn't hurt me.<end>
+
+=>q204_original
+The Masked were fightin' with the Tcho--Tch--Tchortists. Devils! Attacked them from all sides and crushed them! Oughta kill them all, I said. He-he-HA! But, but the pressure, it hurt them too, I think. They retreated, but they're still there, holdin' almost every entrance to the complex.<end>
+
+=>q204
+The Masked were fightin' with the Tcho--Tch--Tchortists. Devils! Attacked them from all sides and crushed them! Oughta kill them all, I said. He-he-HA! But, but the pressure, it hurt them too, I think. They retreated, but they're still there, holdin' almost every entrance to the complex.<end>
+
+=>a205_original
+The Faceless are gone. The area around your home is clear of them.<end>
+
+=>a205
+The Faceless are gone. The area around your home is clear of them.<end>
+
+=>q206_original
+They didn't hurt me. It wouldn't hurt me. No, no. Legs, arms, bodies, claw - steel. I felt my mind swirlin'. They left me alone. Eh? Yes, they left me alone.<end>
+
+=>q206
+They didn't hurt me. It wouldn't hurt me. No, no. Legs, arms, bodies, claw - steel. I felt my mind swirlin'. They left me alone. Eh? Yes, they left me alone.<end>
+
+=>a207_original
+I said, the Faceless are gone. The area around your home is clear of them.<end>
+
+=>a207
+I said, the Faceless are gone. The area around your home is clear of them.<end>
+
+=>q208_original
+I don't remember. Somethin' the Tch-- Tchortists-- *Tchortists* have. Important for everyone, everyone. I don't remember.<end>
+
+=>q208
+I don't remember. Somethin' the Tch-- Tchortists-- *Tchortists* have. Important for everyone, everyone. I don't remember.<end>
+
+=>a209_original
+I said, do you know why they're still here?<end>
+
+=>a209
+I said, do you know why they're still here?<end>
+
+=>a210_original
+Do you know why they're still here?<end>
+
+=>a210
+Do you know why they're still here?<end>
+
+=>a211_original
+I'd like to know more about the surrounding areas.<end>
+
+=>a211
+I'd like to know more about the surrounding areas.<end>
+
+=>q212_original
+Oh, 'kay, 'kay. As we agreed when you brought me the knife. Bone knife. *Bone* knife. He-he-Ha! Yes.<end>
+
+=>q212
+Oh, 'kay, 'kay. As we agreed when you brought me the knife. Bone knife. *Bone* knife. He-he-Ha! Yes.<end>
+
+=>q213_original
+Where do I start? Right, there's a few areas of interest 'round 'ere: the big complex, the storages, the... the demon breeding ground, the machine plant, the Masked site, the mushroom forest and the four buildings. Yes, I think that's all. What are you interested in knowin' about?<end>
+
+=>q213
+Where do I start? Right, there's a few areas of interest 'round 'ere: the big complex, the storages, the... the demon breeding ground, the machine plant, the Masked site, the mushroom forest and the four buildings. Yes, I think that's all. What are you interested in knowin' about?<end>
+
+=>q214_original
+Eh? Which one?<end>
+
+=>q214
+Eh? Which one?<end>
+
+=>a215_original
+I gotta go now. See you some other time.<end>
+
+=>a215
+I gotta go now. See you some other time.<end>
+
+=>a216_original
+I better take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>a216
+I better take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>a217_original
+Feeling very persuasive... and persuaded.<end>
+
+=>a217
+Feeling very persuasive... and persuaded.<end>
+
+=>a218_original
+Feeling highly persuasive... and persuaded.<end>
+
+=>a218
+Feeling highly persuasive... and persuaded.<end>
+
+=>a219_original
+Feeling particularly persuasive... and persuaded.<end>
+
+=>a219
+Feeling particularly persuasive... and persuaded.<end>
+
+=>a220_original
+Feeling exceptionally persuasive... and persuaded.<end>
+
+=>a220
+Feeling exceptionally persuasive... and persuaded.<end>
+
+=>a221_original
+For now. Say, I wanted to talk to you about a few things.<end>
+
+=>a221
+For now. Say, I wanted to talk to you about a few things.<end>
+
+=>a222_original
+I hope. Time to take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>a222
+I hope. Time to take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>q223_original
+<end>
+
+=>q223
+<end>
+
+=>q224_original
+<end>
+
+=>q224
+<end>
+
+=>q225_original
+<end>
+
+=>q225
+<end>
+
+=>q226_original
+<end>
+
+=>q226
+<end>
+
+=>q227_original
+::Leo leads you to a hole in the ground. You peek into the void before glancing over to him: He's got a blissful grin on his face and is rubbing his shaking hands with enjoyment. Without a warning his expression solidifies, and he quickly reaches to support his lower back. You hear one disturbingly loud crack, and then he speaks.::
+
+I shouldn't have come out of that locker so fast. Ow... dang it.<end>
+
+=>q227
+::Leo leads you to a hole in the ground. You peek into the void before glancing over to him: He's got a blissful grin on his face and is rubbing his shaking hands with enjoyment. Without a warning his expression solidifies, and he quickly reaches to support his lower back. You hear one disturbingly loud crack, and then he speaks.::
+
+I shouldn't have come out of that locker so fast. Ow... dang it.<end>
+
+=>a228_original
+Are you okay? You want to sit down?<end>
+
+=>a228
+Are you okay? You want to sit down?<end>
+
+=>q229_original
+::Are you okay? You want to sit down?::<end>
+
+=>q229
+::Are you okay? You want to sit down?::<end>
+
+=>q230_original
+::Leo points to the hole and nods a few times. His hands still support his fragile back.::
+
+There! You're gettin' the hang of it already.<end>
+
+=>q230
+::Leo points to the hole and nods a few times. His hands still support his fragile back.::
+
+There! You're gettin' the hang of it already.<end>
+
+=>q231_original
+::There! You're gettin' the hang of it already.::<end>
+
+=>q231
+::There! You're gettin' the hang of it already.::<end>
+
+=>a232_original
+It's an echo.<end>
+
+=>a232
+It's an echo.<end>
+
+=>q233_original
+Would you listen for a moment!?<end>
+
+=>q233
+Would you listen for a moment!?<end>
+
+=>q234_original
+::Would you listen for a moment!?::<end>
+
+=>q234
+::Would you listen for a moment!?::<end>
+
+=>q235_original
+::Leo proceeds with a whisper.::
+
+Look: The Hole of Reason helps your mind work. You talk to it, and it answers. Now, the trick is to talk about all the important stuff, your past, your knowledge. What comes out of the hole will... *stick* to your memory and slow down the, uh, effects of the pressure. It helps, I swear.<end>
+
+=>q235
+::Leo proceeds with a whisper.::
+
+Look: The Hole of Reason helps your mind work. You talk to it, and it answers. Now, the trick is to talk about all the important stuff, your past, your knowledge. What comes out of the hole will... *stick* to your memory and slow down the, uh, effects of the pressure. It helps, I swear.<end>
+
+=>a236_original
+Okay, okay. Let's give it a shot. Tell me what to do? How do I start?<end>
+
+=>a236
+Okay, okay. Let's give it a shot. Tell me what to do? How do I start?<end>
+
+=>q237_original
+Say anythin' to start off the conversation. Then you ought to let it flow, but remember: Try to direct it toward things that are important to you, that you wanna hold on to. Got it?<end>
+
+=>q237
+Say anythin' to start off the conversation. Then you ought to let it flow, but remember: Try to direct it toward things that are important to you, that you wanna hold on to. Got it?<end>
+
+=>q238_original
+<end>
+
+=>q238
+<end>
+
+=>a239_original
+::Speak to the Hole of Reason.::<end>
+
+=>a239
+::Speak to the Hole of Reason.::<end>
+
+=>a240_original
+I'm not interested in this right now. No offense, but forget I even asked you about this, which shouldn't be a problem for you.<end>
+
+=>a240
+I'm not interested in this right now. No offense, but forget I even asked you about this, which shouldn't be a problem for you.<end>
+
+=>q241_original
+::Offense taken, you notice.::
+
+Well. 'Kay.<end>
+
+=>q241
+::Offense taken, you notice.::
+
+Well. 'Kay.<end>
+
+=>a242_original
+I wanted to ask you a few things.<end>
+
+=>a242
+I wanted to ask you a few things.<end>
+
+=>q243_original
+Well. 'Kay.<end>
+
+=>q243
+Well. 'Kay.<end>
+
+=>a244_original
+See you later.<end>
+
+=>a244
+See you later.<end>
+
+=>a245_original
+I knew your marbles were smashed with a hammer and then poured back into your head, but this I didn't expect.<end>
+
+=>a245
+I knew your marbles were smashed with a hammer and then poured back into your head, but this I didn't expect.<end>
+
+=>a246_original
+So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.<end>
+
+=>a246
+So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.<end>
+
+=>q247_original
+::So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.::<end>
+
+=>q247
+::So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.::<end>
+
+=>a248_original
+Oh, quit complaining and tell me what's so important about this hole.<end>
+
+=>a248
+Oh, quit complaining and tell me what's so important about this hole.<end>
+
+=>q249_original
+::Oh, quit complaining and tell me what's so important about this hole.::<end>
+
+=>q249
+::Oh, quit complaining and tell me what's so important about this hole.::<end>
+
+=>a250_original
+Why did you bring me here, old man?<end>
+
+=>a250
+Why did you bring me here, old man?<end>
+
+=>q251_original
+::Why did you bring me here, old man?::<end>
+
+=>q251
+::Why did you bring me here, old man?::<end>
+
+=>q252_original
+::A terrified man leaps out of the locker, his former sanctuary, and pushes you aside. Despite his age, his movements are swift and agile, yet, as it usually comes with old age, this fear-driven overexertion is likely to pain him once he comes to a full rest. He raises his crossbow, taking a shaky aim at your face. Words come out of his mouth as quickly as he did from the locker and are carried by a quivering, chalky voice.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, *one* finger and I'll launch a bolt through your hollow skull!<end>
+
+=>q252
+::A terrified man leaps out of the locker, his former sanctuary, and pushes you aside. Despite his age, his movements are swift and agile, yet, as it usually comes with old age, this fear-driven overexertion is likely to pain him once he comes to a full rest. He raises his crossbow, taking a shaky aim at your face. Words come out of his mouth as quickly as he did from the locker and are carried by a quivering, chalky voice.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, *one* finger and I'll launch a bolt through your hollow skull!<end>
+
+=>a253_original
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>a253
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>q254_original
+::His face turns pale after finally recognizing the robe that you are wearing.:: Wha-- You, you are one of 'em! Devil! Devil! You will not take me - YOU WILL NOT!<end>
+
+=>q254
+::His face turns pale after finally recognizing the robe that you are wearing.:: Wha-- You, you are one of 'em! Devil! Devil! You will not take me - YOU WILL NOT!<end>
+
+=>a255_original
+::Fight!::<end>
+
+=>a255
+::Fight!::<end>
+
+=>q256_original
+Not so fast, intruder, not so fast! ::He squeezes the crossbow even harder.:: First, I want you to tell me who you are and, and... and what in the echoing words of reason are you doin' in my damn house!?<end>
+
+=>q256
+Not so fast, intruder, not so fast! ::He squeezes the crossbow even harder.:: First, I want you to tell me who you are and, and... and what in the echoing words of reason are you doin' in my damn house!?<end>
+
+=>a257_original
+I am $(context.player.Name), and I am a member of the Institute of Tchort.<end>
+
+=>a257
+I am $(context.player.Name), and I am a member of the Institute of Tchort.<end>
+
+=>q258_original
+::As soon as you utter the word "Tchort," the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Tch-Tch-Tchort!? TCHORT!? Devil! You will not take me - YOU WILL NOT!<end>
+
+=>q258
+::As soon as you utter the word "Tchort," the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Tch-Tch-Tchort!? TCHORT!? Devil! You will not take me - YOU WILL NOT!<end>
+
+=>a259_original
+My name is $(context.player.Name), and I have found your, erm, shack by pure accident.<end>
+
+=>a259
+My name is $(context.player.Name), and I have found your, erm, shack by pure accident.<end>
+
+=>q260_original
+Hey, it's *not* a shack. It-- Forget about that. 
+
+Now you, ugh... you are not one of those devils... uh... Tch... Tchortists, by any chance?<end>
+
+=>q260
+Hey, it's *not* a shack. It-- Forget about that. 
+
+Now you, ugh... you are not one of those devils... uh... Tch... Tchortists, by any chance?<end>
+
+=>a261_original
+Actually, I am. Why?<end>
+
+=>a261
+Actually, I am. Why?<end>
+
+=>q262_original
+::As soon as you utter those words, the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Devil! You will not take me - YOU WILL NOT!
+<end>
+
+=>q262
+::As soon as you utter those words, the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Devil! You will not take me - YOU WILL NOT!
+<end>
+
+=>a263_original
+No.<end>
+
+=>a263
+No.<end>
+
+=>q264_original
+::His tense stare lasts for a few more silent moments before slowly losing intensity. He lowers his weapon as well but still maintains alertness.::
+
+*I* am Leo. I *am* Leo. I am *Leo*. I'd say "nice to meet you," but I don't know if I'd be honest about it. No, no.<end>
+
+=>q264
+::His tense stare lasts for a few more silent moments before slowly losing intensity. He lowers his weapon as well but still maintains alertness.::
+
+*I* am Leo. I *am* Leo. I am *Leo*. I'd say "nice to meet you," but I don't know if I'd be honest about it. No, no.<end>
+
+=>a265_original
+I swear I'm not here to do you any harm, old man. In fact, I might even need your help.<end>
+
+=>a265
+I swear I'm not here to do you any harm, old man. In fact, I might even need your help.<end>
+
+=>q266_original
+Why would I wanna help someone who broke into my house? Eh? Eh?<end>
+
+=>q266
+Why would I wanna help someone who broke into my house? Eh? Eh?<end>
+
+=>a267_original
+Because you are a good man and your knowledge of the area is extensive. I hope.<end>
+
+=>a267
+Because you are a good man and your knowledge of the area is extensive. I hope.<end>
+
+=>q268_original
+He-he-HA! Yeah, right. Listen, if you need somethin' for me, you ought to give somethin' in return. And I already have a thing in mind, intruder.<end>
+
+=>q268
+He-he-HA! Yeah, right. Listen, if you need somethin' for me, you ought to give somethin' in return. And I already have a thing in mind, intruder.<end>
+
+=>a269_original
+::Sigh.:: I should have seen it coming...<end>
+
+=>a269
+::Sigh.:: I should have seen it coming...<end>
+
+=>q270_original
+I lost something very important to me... very dear, very valuable. Six days ago I believe it was, or seven... I was scavenging around the complex for supplies when I ran into, uh, Tch... Tchortists, yes, and had to run for my life! Devils! I ran from 'em and, after I got back 'ere, I realized I had dropped my knife somewhere along the way. LOST IT! It was so pretty, had a handle made from bone. BONE - a beauty, yes.<end>
+
+=>q270
+I lost something very important to me... very dear, very valuable. Six days ago I believe it was, or seven... I was scavenging around the complex for supplies when I ran into, uh, Tch... Tchortists, yes, and had to run for my life! Devils! I ran from 'em and, after I got back 'ere, I realized I had dropped my knife somewhere along the way. LOST IT! It was so pretty, had a handle made from bone. BONE - a beauty, yes.<end>
+
+=>q271_original
+I need it back, so if you can find it I'd be very thankful. I could help you. I know stuff. Only if you help me. But you ought to be careful: There's been a lot of fightin' between the Tchortists and the Masked, so watch out. Did I forget something...? Eh... Yes! The place where I ran into the patrol was west of the storages. Yes, yes... west. <end>
+
+=>q271
+I need it back, so if you can find it I'd be very thankful. I could help you. I know stuff. Only if you help me. But you ought to be careful: There's been a lot of fightin' between the Tchortists and the Masked, so watch out. Did I forget something...? Eh... Yes! The place where I ran into the patrol was west of the storages. Yes, yes... west. <end>
+
+=>a272_original
+Is this your knife? ::Show him the bone knife.::<end>
+
+=>a272
+Is this your knife? ::Show him the bone knife.::<end>
+
+=>q273_original
+::His lips stretch into a smile as soon as you show him the knife; his eyes fill with tears of joy.:: 
+
+HA! HA! That's the one! That's the one! I haven't forgotten how it looks. No, no. It's so, so pretty...<end>
+
+=>q273
+::His lips stretch into a smile as soon as you show him the knife; his eyes fill with tears of joy.:: 
+
+HA! HA! That's the one! That's the one! I haven't forgotten how it looks. No, no. It's so, so pretty...<end>
+
+=>q274_original
+Thank you so much... uh... uh... What did ya say your name was?<end>
+
+=>q274
+Thank you so much... uh... uh... What did ya say your name was?<end>
+
+=>a275_original
+$(context.player.Name).<end>
+
+=>a275
+$(context.player.Name).<end>
+
+=>q276_original
+$(context.player.Name). $(context.player.Name). $(context.player.Name). *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>q276
+$(context.player.Name). $(context.player.Name). $(context.player.Name). *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>a277_original
+Piece of cake. See you soon, Leo.<end>
+
+=>a277
+Piece of cake. See you soon, Leo.<end>
+
+=>a278_original
+I'll see what I can do. Goodbye.<end>
+
+=>a278
+I'll see what I can do. Goodbye.<end>
+
+=>a279_original
+Tell me what you need, old man.<end>
+
+=>a279
+Tell me what you need, old man.<end>
+
+=>a280_original
+I did not break in, the front doors were unlocked.<end>
+
+=>a280
+I did not break in, the front doors were unlocked.<end>
+
+=>q281_original
+Liar! What about the traps, eh, intruder? Eh? Are you gonna say I put 'em there as a welcomin' sign? I-- He-he, well, in a way...<end>
+
+=>q281
+Liar! What about the traps, eh, intruder? Eh? Are you gonna say I put 'em there as a welcomin' sign? I-- He-he, well, in a way...<end>
+
+=>q282_original
+But, that's beside the point. You never said why I would want to help you with anythin'? Eh?<end>
+
+=>q282
+But, that's beside the point. You never said why I would want to help you with anythin'? Eh?<end>
+
+=>a283_original
+I'm sure an old man like you might need help with something in exchange.<end>
+
+=>a283
+I'm sure an old man like you might need help with something in exchange.<end>
+
+=>q284_original
+He-he. That's my kind of talking, intruder. I do have somethin' in mind for you, he-he.<end>
+
+=>q284
+He-he. That's my kind of talking, intruder. I do have somethin' in mind for you, he-he.<end>
+
+=>a285_original
+Look, I don't want anything from you at all. I'm just going to leave you to whatever you were doing.<end>
+
+=>a285
+Look, I don't want anything from you at all. I'm just going to leave you to whatever you were doing.<end>
+
+=>q286_original
+Eh, 'kay, 'kay. You better move on now, intruder.<end>
+
+=>q286
+Eh, 'kay, 'kay. You better move on now, intruder.<end>
+
+=>a287_original
+::Leave.::<end>
+
+=>a287
+::Leave.::<end>
+
+=>a288_original
+You naive fool! ::Attack him!::<end>
+
+=>a288
+You naive fool! ::Attack him!::<end>
+
+=>a289_original
+NO! Not one of those freaks. Never!<end>
+
+=>a289
+NO! Not one of those freaks. Never!<end>
+
+=>a290_original
+I'm $(context.player.Name), and I'm lost in the Deep Caverns. I have been trying to find a way out, but I suppose I found this shack of yours.<end>
+
+=>a290
+I'm $(context.player.Name), and I'm lost in the Deep Caverns. I have been trying to find a way out, but I suppose I found this shack of yours.<end>
+
+=>a291_original
+Look, I didn't even know this place was here. Now put that thing away.<end>
+
+=>a291
+Look, I didn't even know this place was here. Now put that thing away.<end>
+
+=>q292_original
+You didn't answer my question! No, NO! Who are you and why did you come 'ere?<end>
+
+=>q292
+You didn't answer my question! No, NO! Who are you and why did you come 'ere?<end>
+
+=>a293_original
+Damn it, man, you scared me more than I scared you. Put that thing down and let's talk.<end>
+
+=>a293
+Damn it, man, you scared me more than I scared you. Put that thing down and let's talk.<end>
+
+=>q294_original
+Wh-- Uh, you again? What in the broken stalactite do you want now, eh?<end>
+
+=>q294
+Wh-- Uh, you again? What in the broken stalactite do you want now, eh?<end>
+
+=>a295_original
+I was wondering if you could help me with some things. You look like you know a lot about Deep Caverns.<end>
+
+=>a295
+I was wondering if you could help me with some things. You look like you know a lot about Deep Caverns.<end>
+
+=>a296_original
+Nothing. Goodbye.<end>
+
+=>a296
+Nothing. Goodbye.<end>
+
+=>q297_original
+Who's-- Oh, have you found it yet? Eh?<end>
+
+=>q297
+Who's-- Oh, have you found it yet? Eh?<end>
+
+=>a298_original
+I think this is what you were looking for.<end>
+
+=>a298
+I think this is what you were looking for.<end>
+
+=>a299_original
+Where did you say you lost it?<end>
+
+=>a299
+Where did you say you lost it?<end>
+
+=>q300_original
+Just at the entrance to the complex, west of the storages. You had to walk past those to get here, you know. Remember, eh? Anyway, go there and get my knife.<end>
+
+=>q300
+Just at the entrance to the complex, west of the storages. You had to walk past those to get here, you know. Remember, eh? Anyway, go there and get my knife.<end>
+
+=>a301_original
+I'm on it.<end>
+
+=>a301
+I'm on it.<end>
+
+=>a302_original
+Not yet.<end>
+
+=>a302
+Not yet.<end>
+
+=>q303_original
+Go then. I'll forget what I asked you to do by the time you do it!<end>
+
+=>q303
+Go then. I'll forget what I asked you to do by the time you do it!<end>
+
+=>a304_original
+Right...<end>
+
+=>a304
+Right...<end>
+
+=>a305_original
+::Leave without saying anything.::<end>
+
+=>a305
+::Leave without saying anything.::<end>
+

@@ -1,0 +1,108 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Hey, $(context.player.Name).<end>
+
+=>q2
+Hey, $(context.player.Name).<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+It's hopper season.<end>
+
+=>q4
+It's hopper season.<end>
+
+=>q5_original
+Always keep an eye out for crawlers. Always.<end>
+
+=>q5
+Always keep an eye out for crawlers. Always.<end>
+
+=>q6_original
+Be quiet around hoppers. They get startled easily.<end>
+
+=>q6
+Be quiet around hoppers. They get startled easily.<end>
+
+=>q7_original
+Haven't seen any rathounds up 'ere since the truce.<end>
+
+=>q7
+Haven't seen any rathounds up 'ere since the truce.<end>
+
+=>q8_original
+Ya know, the rathounds have stopped invadin' our huntin' grounds.<end>
+
+=>q8
+Ya know, the rathounds have stopped invadin' our huntin' grounds.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+Don't go too far south. Lotsa rathounds down there.<end>
+
+=>q10
+Don't go too far south. Lotsa rathounds down there.<end>
+
+=>q11_original
+Certain parts of the huntin' grounds are still blocked by the cave-ins.<end>
+
+=>q11
+Certain parts of the huntin' grounds are still blocked by the cave-ins.<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+Hey.<end>
+
+=>q13
+Hey.<end>
+
+=>q14_original
+These huntin' grounds belong to Camp Hathor.<end>
+
+=>q14
+These huntin' grounds belong to Camp Hathor.<end>
+
+=>q15_original
+Ya ain't here to hunt our game, are ya?<end>
+
+=>q15
+Ya ain't here to hunt our game, are ya?<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+Watch out for traps. We got them set up all over the place.<end>
+
+=>q17
+Watch out for traps. We got them set up all over the place.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+

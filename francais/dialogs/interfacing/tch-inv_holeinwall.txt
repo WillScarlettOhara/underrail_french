@@ -1,0 +1,24 @@
+=>q1_original
+::You notice glimmering light finding its way through the pile of collapsed rock. Maybe you can take a peek through one of the openings and see what lies on the other side.::<end>
+
+=>q1
+::You notice glimmering light finding its way through the pile of collapsed rock. Maybe you can take a peek through one of the openings and see what lies on the other side.::<end>
+
+=>a2_original
+::Take a peek.::<end>
+
+=>a2
+::Take a peek.::<end>
+
+=>a3_original
+::Leave.::<end>
+
+=>a3
+::Leave.::<end>
+
+=>q4_original
+::You are unable to find a large enough opening to get to the other side, and it appears that using explosives here carries a high risk of collapsing the entire tunnel.::<end>
+
+=>q4
+::You are unable to find a large enough opening to get to the other side, and it appears that using explosives here carries a high risk of collapsing the entire tunnel.::<end>
+

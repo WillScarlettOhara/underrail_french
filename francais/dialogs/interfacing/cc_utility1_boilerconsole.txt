@@ -1,0 +1,190 @@
+=>q1_original
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+All boiling units have exceeded allowed thresholds!
+
+Emergency protocol is now available. Immediately disengage the heating units!::<end>
+
+=>q1
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+All boiling units have exceeded allowed thresholds!
+
+Emergency protocol is now available. Immediately disengage the heating units!::<end>
+
+=>a2_original
+::Disable all heating units::<end>
+
+=>a2
+::Disable all heating units::<end>
+
+=>q3_original
+::Error, error, error...::<end>
+
+=>q3
+::Error, error, error...::<end>
+
+=>a4_original
+::Go back.::<end>
+
+=>a4
+::Go back.::<end>
+
+=>a5_original
+::Leave.::<end>
+
+=>a5
+::Leave.::<end>
+
+=>a6_original
+::Compute cooling statistics::<end>
+
+=>a6
+::Compute cooling statistics::<end>
+
+=>q7_original
+::Error, error, error...::<end>
+
+=>q7
+::Error, error, error...::<end>
+
+=>a8_original
+::Conduct emergency protocol::<end>
+
+=>a8
+::Conduct emergency protocol::<end>
+
+=>q9_original
+::Emergency exit now available, proceed to east and take shelter within the secure room.::<end>
+
+=>q9
+::Emergency exit now available, proceed to east and take shelter within the secure room.::<end>
+
+=>q10_original
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+Head east to the emergency exit and take shelter within the secure room.::<end>
+
+=>q10
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+Head east to the emergency exit and take shelter within the secure room.::<end>
+
+=>q11_original
+::The console displays ten distinct heat bars, each showing the current temperature they're operating with. Every boiling unit has its own set of controls, all of which are used to manipulate the amount of heat they can dish out. A separate section of the display shows the water level, as well as the humidity of nearby air.::<end>
+
+=>q11
+::The console displays ten distinct heat bars, each showing the current temperature they're operating with. Every boiling unit has its own set of controls, all of which are used to manipulate the amount of heat they can dish out. A separate section of the display shows the water level, as well as the humidity of nearby air.::<end>
+
+=>a12_original
+::Adjust cooling/heating levels.::<end>
+
+=>a12
+::Adjust cooling/heating levels.::<end>
+
+=>q13_original
+::Error, error, error...::
+
+::Manual override required.::<end>
+
+=>q13
+::Error, error, error...::
+
+::Manual override required.::<end>
+
+=>a14_original
+::Go back.::<end>
+
+=>a14
+::Go back.::<end>
+
+=>a15_original
+::Compute cooling statistics::<end>
+
+=>a15
+::Compute cooling statistics::<end>
+
+=>q16_original
+::Water levels - critical (reserves employed).
+ 
+Temperature - critical (exceeded water boiling point). 
+
+Humidity - very high (over 88%). 
+
+Power consumption - high.::<end>
+
+=>q16
+::Water levels - critical (reserves employed).
+ 
+Temperature - critical (exceeded water boiling point). 
+
+Humidity - very high (over 88%). 
+
+Power consumption - high.::<end>
+
+=>q17_original
+::Water levels - low (reverves employed).
+ 
+Temperature - high (at water boiling point). 
+
+Humidity - high (over 65%). 
+
+Power consumption - moderate/high.::<end>
+
+=>q17
+::Water levels - low (reverves employed).
+ 
+Temperature - high (at water boiling point). 
+
+Humidity - high (over 65%). 
+
+Power consumption - moderate/high.::<end>
+
+=>q18_original
+::Water levels - stable (reverves semi-employed).
+ 
+Temperature - high (nearing water boiling point). 
+
+Humidity - high (over 41%). 
+
+Power consumption - moderate.::<end>
+
+=>q18
+::Water levels - stable (reverves semi-employed).
+ 
+Temperature - high (nearing water boiling point). 
+
+Humidity - high (over 41%). 
+
+Power consumption - moderate.::<end>
+
+=>q19_original
+::Water levels - nominal.
+ 
+Temperature - nominal. 
+
+Humidity - nominal. 
+
+Power consumption - minimal.::<end>
+
+=>q19
+::Water levels - nominal.
+ 
+Temperature - nominal. 
+
+Humidity - nominal. 
+
+Power consumption - minimal.::<end>
+
+=>a20_original
+::Detailed Power consumption readings::<end>
+
+=>a20
+::Detailed Power consumption readings::<end>
+
+=>q21_original
+::The screen flickers for a moment before giving up. The action has failed.::<end>
+
+=>q21
+::The screen flickers for a moment before giving up. The action has failed.::<end>
+

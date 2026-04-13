@@ -1,0 +1,188 @@
+=>q1_original
+Leave me alone already!<end>
+
+=>q1
+Leave me alone already!<end>
+
+=>q2_original
+::The man is focused on his work which you interrupt by tapping his shoulder. Clearly annoyed by it, he turns around an addresses you with a gruff voice.::
+
+Huh? What do you want?<end>
+
+=>q2
+::The man is focused on his work which you interrupt by tapping his shoulder. Clearly annoyed by it, he turns around an addresses you with a gruff voice.::
+
+Huh? What do you want?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+What do you do here?<end>
+
+=>a4
+What do you do here?<end>
+
+=>q5_original
+Are you blind? I'm working here - and you're disturbing me!<end>
+
+=>q5
+Are you blind? I'm working here - and you're disturbing me!<end>
+
+=>q6_original
+Please, leave me to my work.<end>
+
+=>q6
+Please, leave me to my work.<end>
+
+=>a7_original
+Could you please move and do your work somewhere else?<end>
+
+=>a7
+Could you please move and do your work somewhere else?<end>
+
+=>q8_original
+Wh-- what the blazes is wrong with you, $(#man/woman)!? If I could do my job elsewhere don't you think I would? Now get off my back.<end>
+
+=>q8
+Wh-- what the blazes is wrong with you, $(#man/woman)!? If I could do my job elsewhere don't you think I would? Now get off my back.<end>
+
+=>q9_original
+I don't care if you fought the Beast, you can't act like you're the boss around here.<end>
+
+=>q9
+I don't care if you fought the Beast, you can't act like you're the boss around here.<end>
+
+=>q10_original
+They let anyone around here these days. Jeez!<end>
+
+=>q10
+They let anyone around here these days. Jeez!<end>
+
+=>a11_original
+Please accept my sincerest condolences.<end>
+
+=>a11
+Please accept my sincerest condolences.<end>
+
+=>q12_original
+::He gives you a worried look, while his tone of voice loses roughness and solidity.::
+
+Um, wait, wh-- what are you talking about, now?<end>
+
+=>q12
+::He gives you a worried look, while his tone of voice loses roughness and solidity.::
+
+Um, wait, wh-- what are you talking about, now?<end>
+
+=>a13_original
+No one told you yet?<end>
+
+=>a13
+No one told you yet?<end>
+
+=>q14_original
+Told me what? I don't... ::The rest of the sentence ends up getting swallowed and never leaves the mouth. Shortly after the abrupt pause you can clearly see how the thoughts he is having mold his expression into that of blood-curdling horror.:: Is this about my son? Is it? Please don't tell me my little boy... No, please no! NO!<end>
+
+=>q14
+Told me what? I don't... ::The rest of the sentence ends up getting swallowed and never leaves the mouth. Shortly after the abrupt pause you can clearly see how the thoughts he is having mold his expression into that of blood-curdling horror.:: Is this about my son? Is it? Please don't tell me my little boy... No, please no! NO!<end>
+
+=>a15_original
+I'm very sorry.<end>
+
+=>a15
+I'm very sorry.<end>
+
+=>q16_original
+No... No! NO! ::The man breaks down before you and starts crying. As he bends forward you see his tears falling on the inside of his visor and glide down into his suit.:: But the doctor told us it was curable, that he was going to be alright! I... No - just no! How come no one told me!? When... when did this happen!? I just... ::The man grabs his head as a river flows out of his eyes. After a few moments, he turns around and rushes away from you.:: <end>
+
+=>q16
+No... No! NO! ::The man breaks down before you and starts crying. As he bends forward you see his tears falling on the inside of his visor and glide down into his suit.:: But the doctor told us it was curable, that he was going to be alright! I... No - just no! How come no one told me!? When... when did this happen!? I just... ::The man grabs his head as a river flows out of his eyes. After a few moments, he turns around and rushes away from you.:: <end>
+
+=>a17_original
+::Watch as he leaves.::<end>
+
+=>a17
+::Watch as he leaves.::<end>
+
+=>a18_original
+Nope, he's fine. I was joking.<end>
+
+=>a18
+Nope, he's fine. I was joking.<end>
+
+=>q19_original
+WHAT!? That's the final straw! You are a MORON! Get away from me, MORON, or I'll call the guards! You do not joke like that... MORON! Get lost!<end>
+
+=>q19
+WHAT!? That's the final straw! You are a MORON! Get away from me, MORON, or I'll call the guards! You do not joke like that... MORON! Get lost!<end>
+
+=>a20_original
+Someone can't take a joke...<end>
+
+=>a20
+Someone can't take a joke...<end>
+
+=>q21_original
+::He ignores your comment and returns to his work.::<end>
+
+=>q21
+::He ignores your comment and returns to his work.::<end>
+
+=>a22_original
+Relax, it was only an innocent joke.<end>
+
+=>a22
+Relax, it was only an innocent joke.<end>
+
+=>a23_original
+I'm so sorry, I thought you knew. I shouldn't have said this...<end>
+
+=>a23
+I'm so sorry, I thought you knew. I shouldn't have said this...<end>
+
+=>q24_original
+Hold on now, what is this all about? I don't understand what you... ::The rest of the sentence ends up getting swallowed and never leaves the mouth. Shortly after the abrupt pause you can clearly see how the thoughts he is having mold his expression into that of blood-curdling horror.:: Is this about my son? Is it? Please don't tell me my little boy... No, please no! NO!<end>
+
+=>q24
+Hold on now, what is this all about? I don't understand what you... ::The rest of the sentence ends up getting swallowed and never leaves the mouth. Shortly after the abrupt pause you can clearly see how the thoughts he is having mold his expression into that of blood-curdling horror.:: Is this about my son? Is it? Please don't tell me my little boy... No, please no! NO!<end>
+
+=>a25_original
+I'm just messing with you, man! You should have seen the look on your face!<end>
+
+=>a25
+I'm just messing with you, man! You should have seen the look on your face!<end>
+
+=>a26_original
+What can you tell me about Foundry?<end>
+
+=>a26
+What can you tell me about Foundry?<end>
+
+=>q27_original
+Can't you see I'm working? Go and ask someone else about Foundry. I'm sure there'll be someone willing to chat with you.<end>
+
+=>q27
+Can't you see I'm working? Go and ask someone else about Foundry. I'm sure there'll be someone willing to chat with you.<end>
+
+=>q28_original
+Jeez, $(#man/woman).<end>
+
+=>q28
+Jeez, $(#man/woman).<end>
+
+=>a29_original
+I'll be going now.<end>
+
+=>a29
+I'll be going now.<end>
+
+=>q30_original
+What is it now? Can't you see I'm busy?<end>
+
+=>q30
+What is it now? Can't you see I'm busy?<end>
+

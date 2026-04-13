@@ -1,0 +1,72 @@
+=>q1_original
+Um, I'll stay here. Tried to escape before - seven times even! But they always find me and dump me back in here.<end>
+
+=>q1
+Um, I'll stay here. Tried to escape before - seven times even! But they always find me and dump me back in here.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+You shouldn't be here! Hmm, when I think about it - I shouldn't be here!<end>
+
+=>q3
+You shouldn't be here! Hmm, when I think about it - I shouldn't be here!<end>
+
+=>q4_original
+These walls are funny. First you hate 'em, then you get used to 'em. Enough time passes, you get so you depend on them. That's institutionalized.<end>
+
+=>q4
+These walls are funny. First you hate 'em, then you get used to 'em. Enough time passes, you get so you depend on them. That's institutionalized.<end>
+
+=>q5_original
+::Yawns.:: Damn, I lost track of how long I've been stuck in this joint.<end>
+
+=>q5
+::Yawns.:: Damn, I lost track of how long I've been stuck in this joint.<end>
+
+=>q6_original
+Got a spare lockpick? ::Laughs.::<end>
+
+=>q6
+Got a spare lockpick? ::Laughs.::<end>
+
+=>q7_original
+Seen my pet mouse anywhere? Mr. Giggles! Mr. Giggles! Where are you?<end>
+
+=>q7
+Seen my pet mouse anywhere? Mr. Giggles! Mr. Giggles! Where are you?<end>
+
+=>q8_original
+Hey, $(#dude/gal). Got a cigar? A rasp? A pistol?<end>
+
+=>q8
+Hey, $(#dude/gal). Got a cigar? A rasp? A pistol?<end>
+
+=>q9_original
+Name's Abseenth. Like the drink, only not spelled the same. ::Laughs.::<end>
+
+=>q9
+Name's Abseenth. Like the drink, only not spelled the same. ::Laughs.::<end>
+
+=>q10_original
+::Spits on the floor.:: Whatcha lookin' at? I can do whatever I like in my cell! It's mine! Mine!<end>
+
+=>q10
+::Spits on the floor.:: Whatcha lookin' at? I can do whatever I like in my cell! It's mine! Mine!<end>
+
+=>q11_original
+I'm innocent! I've been telling them that every damn time they dump me back in 'ere!<end>
+
+=>q11
+I'm innocent! I've been telling them that every damn time they dump me back in 'ere!<end>
+
+=>q12_original
+Damn, I think I'm losing my hair...<end>
+
+=>q12
+Damn, I think I'm losing my hair...<end>
+

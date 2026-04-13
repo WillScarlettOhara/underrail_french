@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Mind your own business.<end>
+
+=>q2
+Mind your own business.<end>
+
+=>q3_original
+Whatcha lookin' at?<end>
+
+=>q3
+Whatcha lookin' at?<end>
+
+=>q4_original
+Snooping's bad for your health, $(#jack/lady).<end>
+
+=>q4
+Snooping's bad for your health, $(#jack/lady).<end>
+
+=>q5_original
+Cantcha see I'm busy?<end>
+
+=>q5
+Cantcha see I'm busy?<end>
+
+=>q6_original
+Did ya see how we wiped out 'em Scrappers back there. Bam!<end>
+
+=>q6
+Did ya see how we wiped out 'em Scrappers back there. Bam!<end>
+
+=>q7_original
+I dunno 'bout gettin' cozy with them Protectorate goons, tho. Sounds like bad idea to me.<end>
+
+=>q7
+I dunno 'bout gettin' cozy with them Protectorate goons, tho. Sounds like bad idea to me.<end>
+
+=>q8_original
+Why do we need 'em Southgaters 'ere? I don't get it.<end>
+
+=>q8
+Why do we need 'em Southgaters 'ere? I don't get it.<end>
+
+=>q9_original
+The Protectorate got their tin asses kicked by a coupla Drones. Weak, man, weak.<end>
+
+=>q9
+The Protectorate got their tin asses kicked by a coupla Drones. Weak, man, weak.<end>
+

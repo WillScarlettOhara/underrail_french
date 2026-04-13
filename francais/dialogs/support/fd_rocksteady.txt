@@ -1,0 +1,72 @@
+=>q1_original
+We've done it! The Cans have been crushed!<end>
+
+=>q1
+We've done it! The Cans have been crushed!<end>
+
+=>q2_original
+Yeah, another victory for the Free Drones!<end>
+
+=>q2
+Yeah, another victory for the Free Drones!<end>
+
+=>a3_original
+Continue with the attack!<end>
+
+=>a3
+Continue with the attack!<end>
+
+=>q4_original
+Right behind you! Death to the Cans!<end>
+
+=>q4
+Right behind you! Death to the Cans!<end>
+
+=>a5_original
+::Attack.::<end>
+
+=>a5
+::Attack.::<end>
+
+=>a6_original
+Wait here, I'll signal you when to proceed.<end>
+
+=>a6
+Wait here, I'll signal you when to proceed.<end>
+
+=>q7_original
+All quiet. They won't know what dominated them!<end>
+
+=>q7
+All quiet. They won't know what dominated them!<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+We will crush them!<end>
+
+=>q9
+We will crush them!<end>
+
+=>q10_original
+Anarchy!<end>
+
+=>q10
+Anarchy!<end>
+
+=>q11_original
+It's time to kick the Cans!<end>
+
+=>q11
+It's time to kick the Cans!<end>
+
+=>q12_original
+Free Drones!<end>
+
+=>q12
+Free Drones!<end>
+

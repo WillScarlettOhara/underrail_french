@@ -1,0 +1,556 @@
+=>q1_original
+::The rugged ferryman greets you with a long, thoughtful stare. After a brief moment of inspection he points his finger at you and speaks.::
+
+Ain't you that $(#dude who punched his wife in the face/gal who gave birth to twin girls) on my boat a couple of months ago? ::He then shakes his head as he realizes his error.:: Nah, nah, my bad. That $(#dude/gal) did look a lot like you, though. Anyway, I'm Rastko. Need a ride?<end>
+
+=>q1
+::The rugged ferryman greets you with a long, thoughtful stare. After a brief moment of inspection he points his finger at you and speaks.::
+
+Ain't you that $(#dude who punched his wife in the face/gal who gave birth to twin girls) on my boat a couple of months ago? ::He then shakes his head as he realizes his error.:: Nah, nah, my bad. That $(#dude/gal) did look a lot like you, though. Anyway, I'm Rastko. Need a ride?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I need to get to Junkyard.<end>
+
+=>a3
+I need to get to Junkyard.<end>
+
+=>q4_original
+::He glances at your jet ski.:: <end>
+
+=>q4
+::He glances at your jet ski.:: <end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Well, after you've passed the Core Ring just sail straight south and after <end>
+
+=>q6
+Well, after you've passed the Core Ring just sail straight south and after <end>
+
+=>q7_original
+a while you'll see Junkyard on the western bank. Can't miss it.<end>
+
+=>q7
+a while you'll see Junkyard on the western bank. Can't miss it.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+How do I get to Junkyard?<end>
+
+=>a10
+How do I get to Junkyard?<end>
+
+=>a11_original
+How do I get to South Gate Station?<end>
+
+=>a11
+How do I get to South Gate Station?<end>
+
+=>a12_original
+How do I get to Camp Hathor?<end>
+
+=>a12
+How do I get to Camp Hathor?<end>
+
+=>a13_original
+I have other questions.<end>
+
+=>a13
+I have other questions.<end>
+
+=>q14_original
+Want me to take you somewhere?<end>
+
+=>q14
+Want me to take you somewhere?<end>
+
+=>q15_original
+you've passed Junkyard look to the east for the SGS docks.<end>
+
+=>q15
+you've passed Junkyard look to the east for the SGS docks.<end>
+
+=>q16_original
+Sail east past the Core Ring and The Rig, through the Dreadpool, and then turn south and follow Isaac's River until you see the camp on the western bank.<end>
+
+=>q16
+Sail east past the Core Ring and The Rig, through the Dreadpool, and then turn south and follow Isaac's River until you see the camp on the western bank.<end>
+
+=>q17_original
+Sure, I can get you there, <end>
+
+=>q17
+Sure, I can get you there, <end>
+
+=>q18_original
+but it'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q18
+but it'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a19_original
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>a19
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+Hop in - and keep your limbs inside the boat: People have started talking about something hardcore on the prowl in Core City waters. So yeah...<end>
+
+=>q21
+Hop in - and keep your limbs inside the boat: People have started talking about something hardcore on the prowl in Core City waters. So yeah...<end>
+
+=>a22_original
+::Sail to Camp Hathor.::<end>
+
+=>a22
+::Sail to Camp Hathor.::<end>
+
+=>a23_original
+::Sail to South Gate Station.::<end>
+
+=>a23
+::Sail to South Gate Station.::<end>
+
+=>a24_original
+::Sail to Junkyard.::<end>
+
+=>a24
+::Sail to Junkyard.::<end>
+
+=>q25_original
+I never get tired of sailing there; the Hathorians are much nicer people than these here.<end>
+
+=>q25
+I never get tired of sailing there; the Hathorians are much nicer people than these here.<end>
+
+=>a26_original
+::Sail to Camp Hathor.::<end>
+
+=>a26
+::Sail to Camp Hathor.::<end>
+
+=>q27_original
+South Gate Station - here we come.<end>
+
+=>q27
+South Gate Station - here we come.<end>
+
+=>a28_original
+::Sail to South Gate Station.::<end>
+
+=>a28
+::Sail to South Gate Station.::<end>
+
+=>q29_original
+Junkyard it is.<end>
+
+=>q29
+Junkyard it is.<end>
+
+=>a30_original
+::Sail to Junkyard.::<end>
+
+=>a30
+::Sail to Junkyard.::<end>
+
+=>a31_original
+I've changed my mind, maybe some other time.<end>
+
+=>a31
+I've changed my mind, maybe some other time.<end>
+
+=>q32_original
+Fine, but no one is gonna offer you a cheaper ride than me if that's what you're concerned about.<end>
+
+=>q32
+Fine, but no one is gonna offer you a cheaper ride than me if that's what you're concerned about.<end>
+
+=>q33_original
+but it'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q33
+but it'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a34_original
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a34
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a35_original
+I need to get to South Gate Station.<end>
+
+=>a35
+I need to get to South Gate Station.<end>
+
+=>q36_original
+Right, I can get you there. <end>
+
+=>q36
+Right, I can get you there. <end>
+
+=>q37_original
+It'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q37
+It'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a38_original
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>a38
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>q39_original
+It'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q39
+It'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a40_original
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a40
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a41_original
+I need to get to Camp Hathor.<end>
+
+=>a41
+I need to get to Camp Hathor.<end>
+
+=>q42_original
+Right, I can get you there. <end>
+
+=>q42
+Right, I can get you there. <end>
+
+=>q43_original
+It'll cost you seventy charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q43
+It'll cost you seventy charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a44_original
+Let's go. ::Give him 70 stygian coins.::<end>
+
+=>a44
+Let's go. ::Give him 70 stygian coins.::<end>
+
+=>q45_original
+It'll cost you thirty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q45
+It'll cost you thirty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>a46_original
+Let's go. ::Give him 35 stygian coins.::<end>
+
+=>a46
+Let's go. ::Give him 35 stygian coins.::<end>
+
+=>a47_original
+I need to get to Forsaken Island.<end>
+
+=>a47
+I need to get to Forsaken Island.<end>
+
+=>q48_original
+::He looks at you with disbelief.::
+
+You are joking, right?<end>
+
+=>q48
+::He looks at you with disbelief.::
+
+You are joking, right?<end>
+
+=>a49_original
+I don't have time for this. Will you take me to Forsaken Island or not?<end>
+
+=>a49
+I don't have time for this. Will you take me to Forsaken Island or not?<end>
+
+=>q50_original
+::He shakes his head.:: Nah, it's too dangerous. No one in their right mind would take you there, so my advice is to save yourself the trouble and forget about it.<end>
+
+=>q50
+::He shakes his head.:: Nah, it's too dangerous. No one in their right mind would take you there, so my advice is to save yourself the trouble and forget about it.<end>
+
+=>q51_original
+Now, is there a *normal* place you want me to take you?<end>
+
+=>q51
+Now, is there a *normal* place you want me to take you?<end>
+
+=>a52_original
+No, I am not.<end>
+
+=>a52
+No, I am not.<end>
+
+=>q53_original
+Oh... OH! Well, I am not sailing there - no sane person is. It's just far too dangerous, and to tell you the truth, even if you offered me a lot - and I mean a whole bucket of shinies I still wouldn't sail there.<end>
+
+=>q53
+Oh... OH! Well, I am not sailing there - no sane person is. It's just far too dangerous, and to tell you the truth, even if you offered me a lot - and I mean a whole bucket of shinies I still wouldn't sail there.<end>
+
+=>q54_original
+I can take you somewhere else though, if you wanna.<end>
+
+=>q54
+I can take you somewhere else though, if you wanna.<end>
+
+=>a55_original
+I need some sailing directions.<end>
+
+=>a55
+I need some sailing directions.<end>
+
+=>q56_original
+Sure.<end>
+
+=>q56
+Sure.<end>
+
+=>a57_original
+What can you tell me about the Black Sea?<end>
+
+=>a57
+What can you tell me about the Black Sea?<end>
+
+=>q58_original
+You ain't planning on going there with those Aegis people?<end>
+
+=>q58
+You ain't planning on going there with those Aegis people?<end>
+
+=>a59_original
+Maybe.<end>
+
+=>a59
+Maybe.<end>
+
+=>q60_original
+Maybe... <end>
+
+=>q60
+Maybe... <end>
+
+=>q61_original
+Whatever it is you're planning to do, my advice is to avoid that place. <end>
+
+=>q61
+Whatever it is you're planning to do, my advice is to avoid that place. <end>
+
+=>q62_original
+Don't go there. It's full of pirates and vicious beasts, whirlpools and rapids and who knows what other hardcore dangers. There's a good reason why normal folks don't go there, and pirates ain't normal folks anyway. Nah, they ain't.<end>
+
+=>q62
+Don't go there. It's full of pirates and vicious beasts, whirlpools and rapids and who knows what other hardcore dangers. There's a good reason why normal folks don't go there, and pirates ain't normal folks anyway. Nah, they ain't.<end>
+
+=>q63_original
+I've lost a few good friends who were dumb enough to go there. It's one hardcore place, too hardcore. Leave it to the pirates. They can have it.<end>
+
+=>q63
+I've lost a few good friends who were dumb enough to go there. It's one hardcore place, too hardcore. Leave it to the pirates. They can have it.<end>
+
+=>a64_original
+What do you know about Aegis Incorporated?<end>
+
+=>a64
+What do you know about Aegis Incorporated?<end>
+
+=>q65_original
+Security agency from North Underrail. They are protecting some university folks from Dis, that's what I heard. Saw them at the eastern docks a week ago - or was it two? - and it looked like quite a hardcore operation, boats and jets and lotta stuff going to the Black Sea. Of all the places - the Hell's Gut, heh. They're back now. To resupply, I think.<end>
+
+=>q65
+Security agency from North Underrail. They are protecting some university folks from Dis, that's what I heard. Saw them at the eastern docks a week ago - or was it two? - and it looked like quite a hardcore operation, boats and jets and lotta stuff going to the Black Sea. Of all the places - the Hell's Gut, heh. They're back now. To resupply, I think.<end>
+
+=>q66_original
+Them Northerners, coming here and thinking they can outgun anyone and anything. They think they are so... dominating. Well, we got guns too, and know how to use them, we sure do, but we also know what you can mess with and what you cannot. Them folks don't. They'll regret going there, I'm telling ya.<end>
+
+=>q66
+Them Northerners, coming here and thinking they can outgun anyone and anything. They think they are so... dominating. Well, we got guns too, and know how to use them, we sure do, but we also know what you can mess with and what you cannot. Them folks don't. They'll regret going there, I'm telling ya.<end>
+
+=>a67_original
+I'd like you to take me somewhere. It's not the Black Sea, by the way.<end>
+
+=>a67
+I'd like you to take me somewhere. It's not the Black Sea, by the way.<end>
+
+=>q68_original
+That's more like it. Where do you wanna go?<end>
+
+=>q68
+That's more like it. Where do you wanna go?<end>
+
+=>a69_original
+I gotta go. Goodbye.<end>
+
+=>a69
+I gotta go. Goodbye.<end>
+
+=>q70_original
+See ya.<end>
+
+=>q70
+See ya.<end>
+
+=>a71_original
+Precisely.<end>
+
+=>a71
+Precisely.<end>
+
+=>a72_original
+No, I'm just curious.<end>
+
+=>a72
+No, I'm just curious.<end>
+
+=>q73_original
+Hmmm... <end>
+
+=>q73
+Hmmm... <end>
+
+=>q74_original
+You asking because of those Aegis people at the eastern dock? Aegis Incorporated. They're interested in exploring the Black Sea.<end>
+
+=>q74
+You asking because of those Aegis people at the eastern dock? Aegis Incorporated. They're interested in exploring the Black Sea.<end>
+
+=>a75_original
+Who are these Aegis Incorporated people?<end>
+
+=>a75
+Who are these Aegis Incorporated people?<end>
+
+=>q76_original
+They are a military group from North Underrail... But wait, first thing's first...<end>
+
+=>q76
+They are a military group from North Underrail... But wait, first thing's first...<end>
+
+=>a77_original
+Who are those people at the docks east of here? Do you know anything about them?<end>
+
+=>a77
+Who are those people at the docks east of here? Do you know anything about them?<end>
+
+=>q78_original
+The folks wearing armor? They're Aegis... yes, Aegis Incorporated.<end>
+
+=>q78
+The folks wearing armor? They're Aegis... yes, Aegis Incorporated.<end>
+
+=>a79_original
+Forget that, let's discuss something else.<end>
+
+=>a79
+Forget that, let's discuss something else.<end>
+
+=>q80_original
+Fine by me.<end>
+
+=>q80
+Fine by me.<end>
+
+=>a81_original
+I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
+
+=>a81
+I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
+
+=>q82_original
+Acid Hunters? Those bags of slackjaw mess. I was nearly zoned out because of those pipeworkers.<end>
+
+=>q82
+Acid Hunters? Those bags of slackjaw mess. I was nearly zoned out because of those pipeworkers.<end>
+
+=>a83_original
+What happened?<end>
+
+=>a83
+What happened?<end>
+
+=>q84_original
+A trip to Junkyard that ended in a gunfight - chemical gunfight - I had nothing to do with but still ended up having a lot of damage done to my ferry. For which the bastards still owe me shinies. Bunch of pipeworkers.<end>
+
+=>q84
+A trip to Junkyard that ended in a gunfight - chemical gunfight - I had nothing to do with but still ended up having a lot of damage done to my ferry. For which the bastards still owe me shinies. Bunch of pipeworkers.<end>
+
+=>a85_original
+I'm guessing you don't know where I could find them.<end>
+
+=>a85
+I'm guessing you don't know where I could find them.<end>
+
+=>q86_original
+Well, you've just told me they've been seen at the docks, but I haven't seen them in a long time. Gotta be avoiding me.
+
+::He shrugs.:: Sorry, friend, I can't help you. Wish I could, though.<end>
+
+=>q86
+Well, you've just told me they've been seen at the docks, but I haven't seen them in a long time. Gotta be avoiding me.
+
+::He shrugs.:: Sorry, friend, I can't help you. Wish I could, though.<end>
+
+=>a87_original
+So do you know where they are or not?<end>
+
+=>a87
+So do you know where they are or not?<end>
+
+=>q88_original
+Heard about what's happening out there? ::He shakes his head.:: These waterways are getting more and more hardcore by the day.
+
+So, where do you wanna sail?<end>
+
+=>q88
+Heard about what's happening out there? ::He shakes his head.:: These waterways are getting more and more hardcore by the day.
+
+So, where do you wanna sail?<end>
+
+=>q89_original
+At your service, friend. Where are we sailing this time?<end>
+
+=>q89
+At your service, friend. Where are we sailing this time?<end>
+
+=>q90_original
+Yeah? You wanna sail somewhere?<end>
+
+=>q90
+Yeah? You wanna sail somewhere?<end>
+

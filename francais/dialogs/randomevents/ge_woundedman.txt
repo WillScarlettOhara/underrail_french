@@ -1,0 +1,216 @@
+=>q1_original
+::His wounds mended, his pain relieved, the man speaks to you with reemerging liveness.::
+
+Stranger... thank you! I owe my life to you. If it weren't for you, I'd be a rotting corpse now and, and... Thank you, thank you! How can I repay you, friend?<end>
+
+=>q1
+::His wounds mended, his pain relieved, the man speaks to you with reemerging liveness.::
+
+Stranger... thank you! I owe my life to you. If it weren't for you, I'd be a rotting corpse now and, and... Thank you, thank you! How can I repay you, friend?<end>
+
+=>a2_original
+Saving someone's life is its own reward.<end>
+
+=>a2
+Saving someone's life is its own reward.<end>
+
+=>q3_original
+Hold on a second, friend. <end>
+
+=>q3
+Hold on a second, friend. <end>
+
+=>q4_original
+Here's sixty charons. That is all the money I have. ::He hands you 60 Stygian Coins.:: Thank you so much!<end>
+
+=>q4
+Here's sixty charons. That is all the money I have. ::He hands you 60 Stygian Coins.:: Thank you so much!<end>
+
+=>a5_original
+Thank you. Best of luck in the future. Take care.<end>
+
+=>a5
+Thank you. Best of luck in the future. Take care.<end>
+
+=>q6_original
+Wait, wait, wait... What is your name?<end>
+
+=>q6
+Wait, wait, wait... What is your name?<end>
+
+=>a7_original
+$(context.player.Name).<end>
+
+=>a7
+$(context.player.Name).<end>
+
+=>q8_original
+I'm Fergus. Thank you, $(context.player.Name). Thank you again. Good luck to you too.<end>
+
+=>q8
+I'm Fergus. Thank you, $(context.player.Name). Thank you again. Good luck to you too.<end>
+
+=>a9_original
+I'd rather that my name remains unknown.<end>
+
+=>a9
+I'd rather that my name remains unknown.<end>
+
+=>q10_original
+Well... friend, thank you. Thank you again. Good luck to you too.<end>
+
+=>q10
+Well... friend, thank you. Thank you again. Good luck to you too.<end>
+
+=>a11_original
+::Wave goodbye and leave without a word.::<end>
+
+=>a11
+::Wave goodbye and leave without a word.::<end>
+
+=>q12_original
+Thank you again. Good luck to you too.<end>
+
+=>q12
+Thank you again. Good luck to you too.<end>
+
+=>a13_original
+::Turn around and leave.::<end>
+
+=>a13
+::Turn around and leave.::<end>
+
+=>a14_original
+Nice. See ya.<end>
+
+=>a14
+Nice. See ya.<end>
+
+=>q15_original
+::He searches through his pockets.:: I... I had some money but... ::He continues searching.:: Damn it! I must have lost it somehow.<end>
+
+=>q15
+::He searches through his pockets.:: I... I had some money but... ::He continues searching.:: Damn it! I must have lost it somehow.<end>
+
+=>q16_original
+::After having failed to find the money, he pauses to think. He looks at you, then at his bloodied belt, and without any hesitation he removes it.:: You know what? Take this belt. It's a bullet strap belt. If you don't wanna use it, you can at least sell it. That is all I can give you, sadly.<end>
+
+=>q16
+::After having failed to find the money, he pauses to think. He looks at you, then at his bloodied belt, and without any hesitation he removes it.:: You know what? Take this belt. It's a bullet strap belt. If you don't wanna use it, you can at least sell it. That is all I can give you, sadly.<end>
+
+=>a17_original
+I don't need anything. Just take care.<end>
+
+=>a17
+I don't need anything. Just take care.<end>
+
+=>a18_original
+Got some coins?<end>
+
+=>a18
+Got some coins?<end>
+
+=>q19_original
+Of course! <end>
+
+=>q19
+Of course! <end>
+
+=>a20_original
+The meds don't come cheap, you know...<end>
+
+=>a20
+The meds don't come cheap, you know...<end>
+
+=>q21_original
+Goodbye... and thank you again.<end>
+
+=>q21
+Goodbye... and thank you again.<end>
+
+=>q22_original
+Please... help me... 
+
+::Says the man as he reaches for you with a bloodied arm, his fingers spread wide. You see numerous wounds on his body, open and bleeding, each one a partial contributor to the large red pool in which he stands; but it is the wound you don't see that is the most threatening, the one which he firmly presses with his other, trembling hand. He pleads again in a fading voice.:: 
+
+I am... dying...<end>
+
+=>q22
+Please... help me... 
+
+::Says the man as he reaches for you with a bloodied arm, his fingers spread wide. You see numerous wounds on his body, open and bleeding, each one a partial contributor to the large red pool in which he stands; but it is the wound you don't see that is the most threatening, the one which he firmly presses with his other, trembling hand. He pleads again in a fading voice.:: 
+
+I am... dying...<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+What happened?<end>
+
+=>a24
+What happened?<end>
+
+=>q25_original
+That Lurker... bastard... ambushed me.<end>
+
+=>q25
+That Lurker... bastard... ambushed me.<end>
+
+=>q26_original
+Help...<end>
+
+=>q26
+Help...<end>
+
+=>a27_original
+Stand still while I bandage your wounds.<end>
+
+=>a27
+Stand still while I bandage your wounds.<end>
+
+=>q28_original
+Thank you...<end>
+
+=>q28
+Thank you...<end>
+
+=>a29_original
+It's too late for you, friend. ::Attack!::<end>
+
+=>a29
+It's too late for you, friend. ::Attack!::<end>
+
+=>a30_original
+There is nothing I can do to help you, friend. Goodbye.<end>
+
+=>a30
+There is nothing I can do to help you, friend. Goodbye.<end>
+
+=>q31_original
+Please...<end>
+
+=>q31
+Please...<end>
+
+=>q32_original
+Please! Don't leave me to... die here.<end>
+
+=>q32
+Please! Don't leave me to... die here.<end>
+
+=>q33_original
+Why do... ::The man never gets the chance to finish his sentence, as his body drops lifeless next to the man whom he killed - the man who killed him.::<end>
+
+=>q33
+Why do... ::The man never gets the chance to finish his sentence, as his body drops lifeless next to the man whom he killed - the man who killed him.::<end>
+
+=>a34_original
+::End Dialog.::<end>
+
+=>a34
+::End Dialog.::<end>
+

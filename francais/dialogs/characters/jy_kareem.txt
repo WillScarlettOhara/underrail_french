@@ -1,0 +1,1010 @@
+=>q1_original
+I got something for you, $(#jack/lady). ::He reaches under the counter and produces a pouch of stygian coins.::<end>
+
+=>q1
+I got something for you, $(#jack/lady). ::He reaches under the counter and produces a pouch of stygian coins.::<end>
+
+=>q2_original
+This can buy you a couple of eel sandwiches.<end>
+
+=>q2
+This can buy you a couple of eel sandwiches.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Let's see what I can spend this money on... ::Barter.::<end>
+
+=>a5
+Let's see what I can spend this money on... ::Barter.::<end>
+
+=>a6_original
+There was something I wanted to ask you.<end>
+
+=>a6
+There was something I wanted to ask you.<end>
+
+=>q7_original
+What is it, $(#jack/lady)? You hungry?<end>
+
+=>q7
+What is it, $(#jack/lady)? You hungry?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Let me see what's on the menu. ::Barter.::<end>
+
+=>a9
+Let me see what's on the menu. ::Barter.::<end>
+
+=>a10_original
+Heard of a guy named Chester Royce?<end>
+
+=>a10
+Heard of a guy named Chester Royce?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+Maybe.<end>
+
+=>q12
+Maybe.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+::Give him one stygian coin.::<end>
+
+=>a14
+::Give him one stygian coin.::<end>
+
+=>q15_original
+I don't feel my brain working.<end>
+
+=>q15
+I don't feel my brain working.<end>
+
+=>a16_original
+::Give him five stygian coins.::<end>
+
+=>a16
+::Give him five stygian coins.::<end>
+
+=>q17_original
+::He nods.:: That'll do. <end>
+
+=>q17
+::He nods.:: That'll do. <end>
+
+=>q18_original
+Anyway... <end>
+
+=>q18
+Anyway... <end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+There was a large, coordinated pirate raid on merchant ferries going to Camp Hathor. The Black Eels are promising safety, but I got a bad feeling about all of this...<end>
+
+=>q20
+There was a large, coordinated pirate raid on merchant ferries going to Camp Hathor. The Black Eels are promising safety, but I got a bad feeling about all of this...<end>
+
+=>q21_original
+First the Hathor merchants, then Protectorate ships - the pirates seem stronger than ever. The people are scared, and some folks I talked to have sold their ferries and moved their businesses in-land.
+
+Things are horrible.<end>
+
+=>q21
+First the Hathor merchants, then Protectorate ships - the pirates seem stronger than ever. The people are scared, and some folks I talked to have sold their ferries and moved their businesses in-land.
+
+Things are horrible.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>q24_original
+A bunch of people came from down south: injured, disoriented - and stinking worse than Core City docks. Claimed they'd been held hostage by this psionic thought controller freak, but apparently some scavenger $(#guy/woman) came in and wasted the derailed son of a rat.<end>
+
+=>q24
+A bunch of people came from down south: injured, disoriented - and stinking worse than Core City docks. Claimed they'd been held hostage by this psionic thought controller freak, but apparently some scavenger $(#guy/woman) came in and wasted the derailed son of a rat.<end>
+
+=>q25_original
+Another mutie was seen shambling around south of here. How the hell are they slipping through all the way from Old Junkyard?<end>
+
+=>q25
+Another mutie was seen shambling around south of here. How the hell are they slipping through all the way from Old Junkyard?<end>
+
+=>q26_original
+Another charred corpse was found south of here. The poor guy had some freaky symbols burned into his flesh.<end>
+
+=>q26
+Another charred corpse was found south of here. The poor guy had some freaky symbols burned into his flesh.<end>
+
+=>q27_original
+There was another bot sighting south of here, and another scavenger bit a whole load of bullets. Might be someone's bot, but they can also go rogue...<end>
+
+=>q27
+There was another bot sighting south of here, and another scavenger bit a whole load of bullets. Might be someone's bot, but they can also go rogue...<end>
+
+=>q28_original
+Another electrocuted guy was found south of here. He was still alive, spasming out and rambling, but he died not too long after.<end>
+
+=>q28
+Another electrocuted guy was found south of here. He was still alive, spasming out and rambling, but he died not too long after.<end>
+
+=>q29_original
+Another scavenger was found torn apart south of here. It's either rathounds, or maybe a pack of rabid dogs on the loose.<end>
+
+=>q29
+Another scavenger was found torn apart south of here. It's either rathounds, or maybe a pack of rabid dogs on the loose.<end>
+
+=>q30_original
+Another derailed girl was found roaming south of here, half-naked. Didn't know who she was or what happened to her. She's lucky she was found by some decent folks, otherwise... <end>
+
+=>q30
+Another derailed girl was found roaming south of here, half-naked. Didn't know who she was or what happened to her. She's lucky she was found by some decent folks, otherwise... <end>
+
+=>q31_original
+If the pirates can raid The Rig, they can raid anything. What's next? Camp Hathor? Junkyard? No one knows, but everyone's scared crapless.<end>
+
+=>q31
+If the pirates can raid The Rig, they can raid anything. What's next? Camp Hathor? Junkyard? No one knows, but everyone's scared crapless.<end>
+
+=>q32_original
+Some lone rat caused <end>
+
+=>q32
+Some lone rat caused <end>
+
+=>q33_original
+a bloodbath on The Rig, slaughtering every Black Eel there<end>
+
+=>q33
+a bloodbath on The Rig, slaughtering every Black Eel there<end>
+
+=>q34_original
+. <end>
+
+=>q34
+. <end>
+
+=>q35_original
+Some say this person was in fact a Scrapper, others point to pirates and various other factions - or just good ol' derailment; everyone's got their theory.<end>
+
+=>q35
+Some say this person was in fact a Scrapper, others point to pirates and various other factions - or just good ol' derailment; everyone's got their theory.<end>
+
+=>q36_original
+Whatever the case may be, a lot of damage has been done to the Black Eels, that's for sure, and folks are worried about where that might lead to.<end>
+
+=>q36
+Whatever the case may be, a lot of damage has been done to the Black Eels, that's for sure, and folks are worried about where that might lead to.<end>
+
+=>q37_original
+The Rig is on high alert right now, but things should be returning to normal soon.<end>
+
+=>q37
+The Rig is on high alert right now, but things should be returning to normal soon.<end>
+
+=>q38_original
+ a lot of trouble on The Rig, killing a bunch of Black Eels in the process.<end>
+
+=>q38
+ a lot of trouble on The Rig, killing a bunch of Black Eels in the process.<end>
+
+=>q39_original
+ some trouble on the Rig<end>
+
+=>q39
+ some trouble on the Rig<end>
+
+=>q40_original
+I heard something about that weasel Grover owing some money to Silas and not being able to repay. I figure Black Eels will be coming for him soon, so you better steer clear of him.<end>
+
+=>q40
+I heard something about that weasel Grover owing some money to Silas and not being able to repay. I figure Black Eels will be coming for him soon, so you better steer clear of him.<end>
+
+=>q41_original
+I heard some of the captains speak about a place called the "Silent Isle" that's supposedly haunted. Sailors, eh?<end>
+
+=>q41
+I heard some of the captains speak about a place called the "Silent Isle" that's supposedly haunted. Sailors, eh?<end>
+
+=>q42_original
+You've probably heard by now that Free Drones have taken control of the station above us. Everybody's talking about that.<end>
+
+=>q42
+You've probably heard by now that Free Drones have taken control of the station above us. Everybody's talking about that.<end>
+
+=>q43_original
+::Lowers his voice.:: What people don't know is that the $(#man/woman) who lead the charge comes from a station nearby. ::He winks.::<end>
+
+=>q43
+::Lowers his voice.:: What people don't know is that the $(#man/woman) who lead the charge comes from a station nearby. ::He winks.::<end>
+
+=>q44_original
+Scrappers got slaughtered to the last man. But you'd know more about that than me.<end>
+
+=>q44
+Scrappers got slaughtered to the last man. But you'd know more about that than me.<end>
+
+=>q45_original
+Personally, I think Silas made a mistake. Time will tell.<end>
+
+=>q45
+Personally, I think Silas made a mistake. Time will tell.<end>
+
+=>q46_original
+Faceless retreated and unblocked the North Tunnel.<end>
+
+=>q46
+Faceless retreated and unblocked the North Tunnel.<end>
+
+=>q47_original
+A lot of people are trying to take the credit for it, but I think they're all lying. Faceless probably got whatever they were after and left.<end>
+
+=>q47
+A lot of people are trying to take the credit for it, but I think they're all lying. Faceless probably got whatever they were after and left.<end>
+
+=>q48_original
+No one except the Protectorate even comes close to being their match in the military sense, and I'm not just talking about firepower here.<end>
+
+=>q48
+No one except the Protectorate even comes close to being their match in the military sense, and I'm not just talking about firepower here.<end>
+
+=>q49_original
+Faceless have blockaded the tunnel leading to the North Underrail near Core City. Everyone is wondering why and those who know are not telling.<end>
+
+=>q49
+Faceless have blockaded the tunnel leading to the North Underrail near Core City. Everyone is wondering why and those who know are not telling.<end>
+
+=>q50_original
+Some also attacked Rail Crossing.<end>
+
+=>q50
+Some also attacked Rail Crossing.<end>
+
+=>q51_original
+There was an underground explosion somewhere below the slums. Word on the street is that Scrappers bombed one of the Eels' secret hideouts.<end>
+
+=>q51
+There was an underground explosion somewhere below the slums. Word on the street is that Scrappers bombed one of the Eels' secret hideouts.<end>
+
+=>q52_original
+Someone killed Elwood while he was in the Casino. Doesn't surprise me. He owed a lot of money to a number of people.<end>
+
+=>q52
+Someone killed Elwood while he was in the Casino. Doesn't surprise me. He owed a lot of money to a number of people.<end>
+
+=>q53_original
+I heard that Kimi badmouthed her Black Eel patrons. Bad idea.<end>
+
+=>q53
+I heard that Kimi badmouthed her Black Eel patrons. Bad idea.<end>
+
+=>q54_original
+Newest freak sighting: Two-headed mutants in Old Junkyard. Make of that what you will.<end>
+
+=>q54
+Newest freak sighting: Two-headed mutants in Old Junkyard. Make of that what you will.<end>
+
+=>q55_original
+Junkyard. <end>
+
+=>q55
+Junkyard. <end>
+
+=>q56_original
+The main thing you got to know is that there are two major gangs here - Scrappers, who control the depot and all the junk that's being scavenged from the Old Junkyard, and Black Eels, who control the docks and the shipment of said junk.<end>
+
+=>q56
+The main thing you got to know is that there are two major gangs here - Scrappers, who control the depot and all the junk that's being scavenged from the Old Junkyard, and Black Eels, who control the docks and the shipment of said junk.<end>
+
+=>q57_original
+Everyone who lives here has to pay protection money to one of those gangs. The more shinies you have in your pocket, the more you have to pay.<end>
+
+=>q57
+Everyone who lives here has to pay protection money to one of those gangs. The more shinies you have in your pocket, the more you have to pay.<end>
+
+=>q58_original
+There are smaller gangs here and there, but they don't mess with the big boys and instead just harass those who cannot pay protection money. Or random travelers... like you.<end>
+
+=>q58
+There are smaller gangs here and there, but they don't mess with the big boys and instead just harass those who cannot pay protection money. Or random travelers... like you.<end>
+
+=>q59_original
+Old Junkyard. <end>
+
+=>q59
+Old Junkyard. <end>
+
+=>q60_original
+Also called 'Depot A'. It's a closed off section of the Junkyard where some sort of an accident happened a long while back that released mutagen into the environment.<end>
+
+=>q60
+Also called 'Depot A'. It's a closed off section of the Junkyard where some sort of an accident happened a long while back that released mutagen into the environment.<end>
+
+=>q61_original
+It's a scary place now, but Scrappers still send in scavenging parties regularly to recover more valuable stuff to sell.<end>
+
+=>q61
+It's a scary place now, but Scrappers still send in scavenging parties regularly to recover more valuable stuff to sell.<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>q63_original
+::He points to the bald man next to the burning barrel.::<end>
+
+=>q63
+::He points to the bald man next to the burning barrel.::<end>
+
+=>q64_original
+That's him.<end>
+
+=>q64
+That's him.<end>
+
+=>a65_original
+Does he come alone?<end>
+
+=>a65
+Does he come alone?<end>
+
+=>q66_original
+Now that you've mentioned it, he did always come with another person - <end>
+
+=>q66
+Now that you've mentioned it, he did always come with another person - <end>
+
+=>q67_original
+except when he came in a day or so ago. He <end>
+
+=>q67
+except when he came in a day or so ago. He <end>
+
+=>q68_original
+asked me if someone was looking for him, someone called... eh... J-J-J...<end>
+
+=>q68
+asked me if someone was looking for him, someone called... eh... J-J-J...<end>
+
+=>a69_original
+Joshua.<end>
+
+=>a69
+Joshua.<end>
+
+=>q70_original
+Yeah. Joshua. <end>
+
+=>q70
+Yeah. Joshua. <end>
+
+=>q71_original
+That's the one. This is the first time I see him since. <end>
+
+=>q71
+That's the one. This is the first time I see him since. <end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>a73_original
+I see. Well, before I go, let's check out what's on the menu. ::Barter.::<end>
+
+=>a73
+I see. Well, before I go, let's check out what's on the menu. ::Barter.::<end>
+
+=>a74_original
+There was something else I wanted to ask you.<end>
+
+=>a74
+There was something else I wanted to ask you.<end>
+
+=>q75_original
+Yeah?<end>
+
+=>q75
+Yeah?<end>
+
+=>a76_original
+Thanks. I'll go talk to him.<end>
+
+=>a76
+Thanks. I'll go talk to him.<end>
+
+=>a77_original
+::Nod and leave.::<end>
+
+=>a77
+::Nod and leave.::<end>
+
+=>q78_original
+He asked me that, then he left. Didn't hang out for long. Think he went south afterwards. Can't be sure. Haven't seen him since.<end>
+
+=>q78
+He asked me that, then he left. Didn't hang out for long. Think he went south afterwards. Can't be sure. Haven't seen him since.<end>
+
+=>a79_original
+Let me know if he shows up.<end>
+
+=>a79
+Let me know if he shows up.<end>
+
+=>q80_original
+I ain't your secretary, $(#jack/sis).
+
+Now... how about a drink?<end>
+
+=>q80
+I ain't your secretary, $(#jack/sis).
+
+Now... how about a drink?<end>
+
+=>a81_original
+Thanks. Gotta go.<end>
+
+=>a81
+Thanks. Gotta go.<end>
+
+=>a82_original
+Jennifer.<end>
+
+=>a82
+Jennifer.<end>
+
+=>q83_original
+Yeah. Jennifer. <end>
+
+=>q83
+Yeah. Jennifer. <end>
+
+=>q84_original
+except for now and the last time he was here, a day or so ago. Back then he <end>
+
+=>q84
+except for now and the last time he was here, a day or so ago. Back then he <end>
+
+=>q85_original
+Yeah. He stops by occasionally. Bald guy. Scavenger. Kinda tall. Why?<end>
+
+=>q85
+Yeah. He stops by occasionally. Bald guy. Scavenger. Kinda tall. Why?<end>
+
+=>a86_original
+Do you know where I can find him? And did he come alone or with someone?<end>
+
+=>a86
+Do you know where I can find him? And did he come alone or with someone?<end>
+
+=>a87_original
+::Give him ten stygian coins.::<end>
+
+=>a87
+::Give him ten stygian coins.::<end>
+
+=>a88_original
+::Give him fifteen stygian coins.::<end>
+
+=>a88
+::Give him fifteen stygian coins.::<end>
+
+=>a89_original
+::Give him twenty stygian coins.::<end>
+
+=>a89
+::Give him twenty stygian coins.::<end>
+
+=>a90_original
+Do you accept SGS credits?<end>
+
+=>a90
+Do you accept SGS credits?<end>
+
+=>q91_original
+No. Charons only.<end>
+
+=>q91
+No. Charons only.<end>
+
+=>a92_original
+How much?<end>
+
+=>a92
+How much?<end>
+
+=>q93_original
+How much do you think the information's worth?<end>
+
+=>q93
+How much do you think the information's worth?<end>
+
+=>a94_original
+Go on.<end>
+
+=>a94
+Go on.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>q96_original
+::He rubs an invisible coin between his thumb and index finger.::<end>
+
+=>q96
+::He rubs an invisible coin between his thumb and index finger.::<end>
+
+=>q97_original
+It's on the tip of my tongue...<end>
+
+=>q97
+It's on the tip of my tongue...<end>
+
+=>q98_original
+My memory... ain't what it used to be.<end>
+
+=>q98
+My memory... ain't what it used to be.<end>
+
+=>a99_original
+Well?<end>
+
+=>a99
+Well?<end>
+
+=>a100_original
+Maybe not.<end>
+
+=>a100
+Maybe not.<end>
+
+=>q101_original
+::He shrugs.:: Anything else I can help you with?<end>
+
+=>q101
+::He shrugs.:: Anything else I can help you with?<end>
+
+=>a102_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a102
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q103_original
+Black Eels at the docks are willing to exchange some currencies. At terrible rates, that is.<end>
+
+=>q103
+Black Eels at the docks are willing to exchange some currencies. At terrible rates, that is.<end>
+
+=>a104_original
+Got any *real* food?<end>
+
+=>a104
+Got any *real* food?<end>
+
+=>q105_original
+Doesn't get any more real than this.<end>
+
+=>q105
+Doesn't get any more real than this.<end>
+
+=>a106_original
+What exactly goes into this "Junkyard surprise"?<end>
+
+=>a106
+What exactly goes into this "Junkyard surprise"?<end>
+
+=>q107_original
+It's a surprise.<end>
+
+=>q107
+It's a surprise.<end>
+
+=>a108_original
+Is it a nice surprise?<end>
+
+=>a108
+Is it a nice surprise?<end>
+
+=>q109_original
+Could be.<end>
+
+=>q109
+Could be.<end>
+
+=>a110_original
+I hate surprises.<end>
+
+=>a110
+I hate surprises.<end>
+
+=>q111_original
+Me too.<end>
+
+=>q111
+Me too.<end>
+
+=>a112_original
+Heard any good rumors?<end>
+
+=>a112
+Heard any good rumors?<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+Can you tell me a bit about Junkyard?<end>
+
+=>a114
+Can you tell me a bit about Junkyard?<end>
+
+=>q115_original
+<end>
+
+=>q115
+<end>
+
+=>a116_original
+What's the Old Junkyard?<end>
+
+=>a116
+What's the Old Junkyard?<end>
+
+=>q117_original
+<end>
+
+=>q117
+<end>
+
+=>q118_original
+Maybe I could tell you a few things about it.<end>
+
+=>q118
+Maybe I could tell you a few things about it.<end>
+
+=>a119_original
+I'm looking for some work. Got anything that needs to be done?<end>
+
+=>a119
+I'm looking for some work. Got anything that needs to be done?<end>
+
+=>q120_original
+Actually, I do. You got a fishing rod?<end>
+
+=>q120
+Actually, I do. You got a fishing rod?<end>
+
+=>a121_original
+Yes.<end>
+
+=>a121
+Yes.<end>
+
+=>q122_original
+Good. <end>
+
+=>q122
+Good. <end>
+
+=>q123_original
+I'm running a bit short on blue eels. If you could go out and catch me some, I'll pay well for them. What do you say?<end>
+
+=>q123
+I'm running a bit short on blue eels. If you could go out and catch me some, I'll pay well for them. What do you say?<end>
+
+=>a124_original
+Sure. Where do I find them and how many do you need?<end>
+
+=>a124
+Sure. Where do I find them and how many do you need?<end>
+
+=>q125_original
+Five will do, but I only want the blue ones. You can find them in the waters to the west. Just exit the Junkyard and turn right immediately. Follow the tunnels to the west and turn right again when you have to.<end>
+
+=>q125
+Five will do, but I only want the blue ones. You can find them in the waters to the west. Just exit the Junkyard and turn right immediately. Follow the tunnels to the west and turn right again when you have to.<end>
+
+=>q126_original
+There're plenty of eels to catch there. But be careful, siphoners are also known to swim there.<end>
+
+=>q126
+There're plenty of eels to catch there. But be careful, siphoners are also known to swim there.<end>
+
+=>a127_original
+Alright. I'll be back with your eels.<end>
+
+=>a127
+Alright. I'll be back with your eels.<end>
+
+=>q128_original
+Good luck.<end>
+
+=>q128
+Good luck.<end>
+
+=>a129_original
+What the heck are siphoners?<end>
+
+=>a129
+What the heck are siphoners?<end>
+
+=>q130_original
+Oh, just big nasty amphibians that ambush those who come too close to their waters and feed on the blood of their victims.<end>
+
+=>q130
+Oh, just big nasty amphibians that ambush those who come too close to their waters and feed on the blood of their victims.<end>
+
+=>a131_original
+Oh, alright. For a moment I was worried this might be dangerous. Off I go.<end>
+
+=>a131
+Oh, alright. For a moment I was worried this might be dangerous. Off I go.<end>
+
+=>a132_original
+Forget it then, I don't do blood donations.<end>
+
+=>a132
+Forget it then, I don't do blood donations.<end>
+
+=>q133_original
+::He sighs.:: Never mind then.<end>
+
+=>q133
+::He sighs.:: Never mind then.<end>
+
+=>a134_original
+Actually I've changed my mind.<end>
+
+=>a134
+Actually I've changed my mind.<end>
+
+=>a135_original
+Not much of a fisherman, sorry.<end>
+
+=>a135
+Not much of a fisherman, sorry.<end>
+
+=>q136_original
+Never mind then.<end>
+
+=>q136
+Never mind then.<end>
+
+=>a137_original
+Nope.<end>
+
+=>a137
+Nope.<end>
+
+=>q138_original
+Forget it then.<end>
+
+=>q138
+Forget it then.<end>
+
+=>a139_original
+No, but tell me anyway.<end>
+
+=>a139
+No, but tell me anyway.<end>
+
+=>a140_original
+Tell me about that fishing thing you need done.<end>
+
+=>a140
+Tell me about that fishing thing you need done.<end>
+
+=>a141_original
+Got your eels right here.<end>
+
+=>a141
+Got your eels right here.<end>
+
+=>q142_original
+Great. I'll pay you a hundred charons for five. Sounds good?<end>
+
+=>q142
+Great. I'll pay you a hundred charons for five. Sounds good?<end>
+
+=>a143_original
+Agreed. ::Give him five blue eels.::<end>
+
+=>a143
+Agreed. ::Give him five blue eels.::<end>
+
+=>q144_original
+Pleasure doing business with you.<end>
+
+=>q144
+Pleasure doing business with you.<end>
+
+=>a145_original
+::[Mercantile]:: Make it 150 and you've got a deal.<end>
+
+=>a145
+::[Mercantile]:: Make it 150 and you've got a deal.<end>
+
+=>q146_original
+Fine, but not a charon more.<end>
+
+=>q146
+Fine, but not a charon more.<end>
+
+=>q147_original
+Forget it! Hundred charons, take it or leave it.<end>
+
+=>q147
+Forget it! Hundred charons, take it or leave it.<end>
+
+=>a148_original
+I'll take it.<end>
+
+=>a148
+I'll take it.<end>
+
+=>q149_original
+Good, you know it makes sense. <end>
+
+=>q149
+Good, you know it makes sense. <end>
+
+=>a150_original
+No eels for you then!<end>
+
+=>a150
+No eels for you then!<end>
+
+=>q151_original
+Suit yourself! You only wasted your own time.<end>
+
+=>q151
+Suit yourself! You only wasted your own time.<end>
+
+=>a152_original
+I'll have to think about it.<end>
+
+=>a152
+I'll have to think about it.<end>
+
+=>q153_original
+::He rolls his eyes.:: Don't injure yourself.<end>
+
+=>q153
+::He rolls his eyes.:: Don't injure yourself.<end>
+
+=>a154_original
+For a simple barkeep, you sure know a lot.<end>
+
+=>a154
+For a simple barkeep, you sure know a lot.<end>
+
+=>q155_original
+For a simple patron, you sure ask a lot.<end>
+
+=>q155
+For a simple patron, you sure ask a lot.<end>
+
+=>a156_original
+Suddenly I'm not hungry anymore.<end>
+
+=>a156
+Suddenly I'm not hungry anymore.<end>
+
+=>q157_original
+You'll be back.<end>
+
+=>q157
+You'll be back.<end>
+
+=>a158_original
+Thanks. I gotta get going.<end>
+
+=>a158
+Thanks. I gotta get going.<end>
+
+=>a159_original
+::Nod and leave.::<end>
+
+=>a159
+::Nod and leave.::<end>
+
+=>q160_original
+<end>
+
+=>q160
+<end>
+
+=>q161_original
+<end>
+
+=>q161
+<end>
+
+=>q162_original
+Again I have something that belongs to you. ::He hands you a pouch of stygian coins.::<end>
+
+=>q162
+Again I have something that belongs to you. ::He hands you a pouch of stygian coins.::<end>
+
+=>q163_original
+I got a message for you from Abram, $(#jack/sister). He said you cost him a lot of coins and he intends to collect on it someday so you better have enough.<end>
+
+=>q163
+I got a message for you from Abram, $(#jack/sister). He said you cost him a lot of coins and he intends to collect on it someday so you better have enough.<end>
+
+=>q164_original
+I'd start saving now, if I were you.<end>
+
+=>q164
+I'd start saving now, if I were you.<end>
+
+=>q165_original
+Hey, heard what happened? <end>
+
+=>q165
+Hey, heard what happened? <end>
+
+=>q166_original
+What can I get you, $(#jack/lady)?<end>
+
+=>q166
+What can I get you, $(#jack/lady)?<end>
+
+=>q167_original
+::A large man with a scruffy bush of a beard stands at the counter, smelling of foul food and booze. He speaks in a deep, rumbling voice and you can't quite tell if he's in a bad mood or just bored.::<end>
+
+=>q167
+::A large man with a scruffy bush of a beard stands at the counter, smelling of foul food and booze. He speaks in a deep, rumbling voice and you can't quite tell if he's in a bad mood or just bored.::<end>
+

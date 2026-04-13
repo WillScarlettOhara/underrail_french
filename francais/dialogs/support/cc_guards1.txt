@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Need something?<end>
+
+=>q2
+Need something?<end>
+
+=>q3_original
+Yes?<end>
+
+=>q3
+Yes?<end>
+
+=>q4_original
+The Core City Arena is always in need of good fighters.<end>
+
+=>q4
+The Core City Arena is always in need of good fighters.<end>
+
+=>q5_original
+Did someone ever tell you how boring this job can sometimes be?<end>
+
+=>q5
+Did someone ever tell you how boring this job can sometimes be?<end>
+
+=>q6_original
+Stay out of trouble.<end>
+
+=>q6
+Stay out of trouble.<end>
+
+=>q7_original
+Some people can make quite a ruckus if their favourite fighter loses the battle.<end>
+
+=>q7
+Some people can make quite a ruckus if their favourite fighter loses the battle.<end>
+
+=>q8_original
+I've seen *so* many fights on this square. Some of those were even better than the ones in the Arena!<end>
+
+=>q8
+I've seen *so* many fights on this square. Some of those were even better than the ones in the Arena!<end>
+
+=>q9_original
+Apparently, a large Faceless force attacked Rail Crossing. And yet, they managed to defend themselves!<end>
+
+=>q9
+Apparently, a large Faceless force attacked Rail Crossing. And yet, they managed to defend themselves!<end>
+
+=>q10_original
+Keep extra eyes open if you ever get yourself in the drop zone.<end>
+
+=>q10
+Keep extra eyes open if you ever get yourself in the drop zone.<end>
+

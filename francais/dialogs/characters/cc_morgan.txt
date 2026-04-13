@@ -1,0 +1,390 @@
+=>q1_original
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q1
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Well, here we are. This is the entrance hallway, which you have already seen as evidenced by your earlier comment...<end>
+
+=>q3
+Well, here we are. This is the entrance hallway, which you have already seen as evidenced by your earlier comment...<end>
+
+=>a4_original
+Indeed, but I'm more interested in you explaining the existence of this large pile of debris which implies that the rest of my residence is in similar condition.<end>
+
+=>a4
+Indeed, but I'm more interested in you explaining the existence of this large pile of debris which implies that the rest of my residence is in similar condition.<end>
+
+=>q5_original
+Do not be concerned with it - it will be taken care of on city's expense. Please, allow me to explain the whole situation to you before you jump to conclusions...<end>
+
+=>q5
+Do not be concerned with it - it will be taken care of on city's expense. Please, allow me to explain the whole situation to you before you jump to conclusions...<end>
+
+=>q6_original
+Structurally speaking, the building is in excellent condition; what you see here is only the product of an unfortunate accident caused by the previous owner, Mister Hank Wardell, an aging Northerner with too much time on his hands.<end>
+
+=>q6
+Structurally speaking, the building is in excellent condition; what you see here is only the product of an unfortunate accident caused by the previous owner, Mister Hank Wardell, an aging Northerner with too much time on his hands.<end>
+
+=>a7_original
+What did he do, make explosives?<end>
+
+=>a7
+What did he do, make explosives?<end>
+
+=>q8_original
+You can say that; at least, he *was* successful in creating an explosion powerful enough to demolish the whole residence - if you can call that a success. Mister Wardell had a laboratory set up inside and apparently had an interest in, ehm, experimenting with highly volatile substances for reasons unknown to anyone but him. The results were his premature death, of course, and the severe damaging of the building, as you can see. 
+
+Now, considering that he had lived alone and had no known heirs, this building became city property after his unfortunate demise. Now it is being handed over to you, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q8
+You can say that; at least, he *was* successful in creating an explosion powerful enough to demolish the whole residence - if you can call that a success. Mister Wardell had a laboratory set up inside and apparently had an interest in, ehm, experimenting with highly volatile substances for reasons unknown to anyone but him. The results were his premature death, of course, and the severe damaging of the building, as you can see. 
+
+Now, considering that he had lived alone and had no known heirs, this building became city property after his unfortunate demise. Now it is being handed over to you, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q9_original
+Now we move to the part that interests you the most, I presume: The renovation of the ground floor will be paid for by the city; you just need to visit Core City Housing Company office so that we can take care of that for you; the floor above and the floor below, however, will have to be funded from your own pocket, I'm afraid. Still, considering that you were gifted a very spacious residence in the most prestigious part of Core City, I believe the deal is indeed fair!<end>
+
+=>q9
+Now we move to the part that interests you the most, I presume: The renovation of the ground floor will be paid for by the city; you just need to visit Core City Housing Company office so that we can take care of that for you; the floor above and the floor below, however, will have to be funded from your own pocket, I'm afraid. Still, considering that you were gifted a very spacious residence in the most prestigious part of Core City, I believe the deal is indeed fair!<end>
+
+=>a10_original
+Interesting. Anyway, what can you tell me about the house layout before handing me my keys?<end>
+
+=>a10
+Interesting. Anyway, what can you tell me about the house layout before handing me my keys?<end>
+
+=>q11_original
+Yes, well, the house, as I already mentioned, has three floors: The ground floor is where the living room, kitchen, dining room as well as several other small rooms are located; the second floor has the main bedroom, gym, work room and a lovely balcony overlooking the entrance to the house.<end>
+
+=>q11
+Yes, well, the house, as I already mentioned, has three floors: The ground floor is where the living room, kitchen, dining room as well as several other small rooms are located; the second floor has the main bedroom, gym, work room and a lovely balcony overlooking the entrance to the house.<end>
+
+=>q12_original
+And finally, the basement level provides several rooms which can be arranged to your liking. Perhaps making a workshop if you are the... crafty type, if I am to express myself in that manner. Just please, do not demolish the house like your predecessor did.<end>
+
+=>q12
+And finally, the basement level provides several rooms which can be arranged to your liking. Perhaps making a workshop if you are the... crafty type, if I am to express myself in that manner. Just please, do not demolish the house like your predecessor did.<end>
+
+=>a13_original
+I see. Can I have the keys now?<end>
+
+=>a13
+I see. Can I have the keys now?<end>
+
+=>q14_original
+But of course. Here is your key. ::He hands you the residence key.::<end>
+
+=>q14
+But of course. Here is your key. ::He hands you the residence key.::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+There is nothing else for me to say but - goodbye!<end>
+
+=>q16
+There is nothing else for me to say but - goodbye!<end>
+
+=>a17_original
+::End Dialog.::<end>
+
+=>a17
+::End Dialog.::<end>
+
+=>q18_original
+Do you have any further questions before we depart?<end>
+
+=>q18
+Do you have any further questions before we depart?<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+Where can I find Core City Housing Corporation?<end>
+
+=>a20
+Where can I find Core City Housing Corporation?<end>
+
+=>q21_original
+Our office is conveniently located just across the street from here; it is very difficult to miss. You've probably seen the furniture section from outside, that is the building. Now, our company offers numerous housing-related services you'll need in order to revert your residence back to its full glory.<end>
+
+=>q21
+Our office is conveniently located just across the street from here; it is very difficult to miss. You've probably seen the furniture section from outside, that is the building. Now, our company offers numerous housing-related services you'll need in order to revert your residence back to its full glory.<end>
+
+=>q22_original
+Is that all the questions you had, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>q22
+Is that all the questions you had, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>a23_original
+What can you tell me about the neighborhood?<end>
+
+=>a23
+What can you tell me about the neighborhood?<end>
+
+=>q24_original
+Your residence is situated in Core City's major residential district, and therefore one can expect much higher living conditions than anywhere else: low crime rates, availability and proximity of goods and services providers, high level sanitation... need I go on. The bottom line is - you have nothing to worry about.<end>
+
+=>q24
+Your residence is situated in Core City's major residential district, and therefore one can expect much higher living conditions than anywhere else: low crime rates, availability and proximity of goods and services providers, high level sanitation... need I go on. The bottom line is - you have nothing to worry about.<end>
+
+=>q25_original
+Of course, with the Faceless at our doorstep, nothing is certain anymore. But thankfully our brave defenders will keep us safe from that menace.<end>
+
+=>q25
+Of course, with the Faceless at our doorstep, nothing is certain anymore. But thankfully our brave defenders will keep us safe from that menace.<end>
+
+=>q26_original
+Still, recently there have been a few minor reports of, ehm, zoners disturbing public order. I suppose the stand-off with the Faceless allowed for such things to happen. So keep that in mind, but don't concern yourself with it too much.<end>
+
+=>q26
+Still, recently there have been a few minor reports of, ehm, zoners disturbing public order. I suppose the stand-off with the Faceless allowed for such things to happen. So keep that in mind, but don't concern yourself with it too much.<end>
+
+=>a27_original
+What else can you tell me about the previous owner, other than he demolished the whole place?<end>
+
+=>a27
+What else can you tell me about the previous owner, other than he demolished the whole place?<end>
+
+=>q28_original
+I'm afraid I can't reveal any more of his personal details.<end>
+
+=>q28
+I'm afraid I can't reveal any more of his personal details.<end>
+
+=>q29_original
+Any other questions?<end>
+
+=>q29
+Any other questions?<end>
+
+=>a30_original
+Why won't the city pay for the whole renovation?<end>
+
+=>a30
+Why won't the city pay for the whole renovation?<end>
+
+=>q31_original
+While I, unfortunately, don't have an answer to that question, I feel the need to remind you of one thing: You have been given this residence completely free; you suffered no expenses for the property, nor the documentation, nor anything else, and while it is true that it is... mmm, not in the best condition at the moment, it is one of the largest and most prestigious residences in the district, which is also one of the most desirable living location not just in Core City - but in whole South Underrail.<end>
+
+=>q31
+While I, unfortunately, don't have an answer to that question, I feel the need to remind you of one thing: You have been given this residence completely free; you suffered no expenses for the property, nor the documentation, nor anything else, and while it is true that it is... mmm, not in the best condition at the moment, it is one of the largest and most prestigious residences in the district, which is also one of the most desirable living location not just in Core City - but in whole South Underrail.<end>
+
+=>q32_original
+I'm sure there were good reasons for the partial renovation. Now, did you have any other questions for me?<end>
+
+=>q32
+I'm sure there were good reasons for the partial renovation. Now, did you have any other questions for me?<end>
+
+=>a33_original
+I have no more questions.<end>
+
+=>a33
+I have no more questions.<end>
+
+=>q34_original
+Ah, well in that case, I bid you farewell, $(#Mister/Miss) $(context.player.Name). Trust me, after a bit of tiding up, your residence will look as good as new. And don't forget - Core City Housing Corporation's office is just across the street. 
+
+Enjoy your new home.<end>
+
+=>q34
+Ah, well in that case, I bid you farewell, $(#Mister/Miss) $(context.player.Name). Trust me, after a bit of tiding up, your residence will look as good as new. And don't forget - Core City Housing Corporation's office is just across the street. 
+
+Enjoy your new home.<end>
+
+=>a35_original
+I knew there was some catch! Just gimme the damn keys and get out of my house.<end>
+
+=>a35
+I knew there was some catch! Just gimme the damn keys and get out of my house.<end>
+
+=>q36_original
+::He frowns.:: I've never seen such ungratefulness. Here is your key, $(#Mister/Miss) $(context.player.Name). ::He hands you the residence key.::<end>
+
+=>q36
+::He frowns.:: I've never seen such ungratefulness. Here is your key, $(#Mister/Miss) $(context.player.Name). ::He hands you the residence key.::<end>
+
+=>a37_original
+Care to explain the debris blocking the entrance?<end>
+
+=>a37
+Care to explain the debris blocking the entrance?<end>
+
+=>a38_original
+What the bloody hell...?<end>
+
+=>a38
+What the bloody hell...?<end>
+
+=>q39_original
+Please, while I do understand the reasoning behind your frustration, I must firmly ask you to calm down and watch your tone. It is not how it seems, so let's not jump to conclusions here. Allow me to explain everything to you now...<end>
+
+=>q39
+Please, while I do understand the reasoning behind your frustration, I must firmly ask you to calm down and watch your tone. It is not how it seems, so let's not jump to conclusions here. Allow me to explain everything to you now...<end>
+
+=>a40_original
+Stop being such a smartass and tell me why does my house look like it was used as an explosive test site!<end>
+
+=>a40
+Stop being such a smartass and tell me why does my house look like it was used as an explosive test site!<end>
+
+=>q41_original
+Well, here we are now. First off, this is the entrance hallway...<end>
+
+=>q41
+Well, here we are now. First off, this is the entrance hallway...<end>
+
+=>a42_original
+What is the meaning of this!? Why is my house in ruins?<end>
+
+=>a42
+What is the meaning of this!? Why is my house in ruins?<end>
+
+=>a43_original
+You expect me to live in this dump? I can't even get past the stinking rubble and see the rest of the house. I want answers - NOW!<end>
+
+=>a43
+You expect me to live in this dump? I can't even get past the stinking rubble and see the rest of the house. I want answers - NOW!<end>
+
+=>q44_original
+Follow me, please.<end>
+
+=>q44
+Follow me, please.<end>
+
+=>q45_original
+::Well-dressed and clean shaved, this elegant-looking man switches the suitcase he's carrying from his right to his left hand and moves to shake yours, doing so with a firm grip.::
+
+$(#Mister/Miss) $(context.player.Name), I'm glad you have finally arrived. My name is Samuel Morgan, and I work for the Core City Housing Corporation as a real estate agent. As you were already informed, I am here to introduce you to your new residence, present you with the keys and answer any questions you might have.<end>
+
+=>q45
+::Well-dressed and clean shaved, this elegant-looking man switches the suitcase he's carrying from his right to his left hand and moves to shake yours, doing so with a firm grip.::
+
+$(#Mister/Miss) $(context.player.Name), I'm glad you have finally arrived. My name is Samuel Morgan, and I work for the Core City Housing Corporation as a real estate agent. As you were already informed, I am here to introduce you to your new residence, present you with the keys and answer any questions you might have.<end>
+
+=>a46_original
+I can't wait to see it, Mister Morgan.<end>
+
+=>a46
+I can't wait to see it, Mister Morgan.<end>
+
+=>q47_original
+Yes, your enthusiasm is perfectly understandable, and in that case, I suggest we go inside and continue the conversation there. Follow me, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q47
+Yes, your enthusiasm is perfectly understandable, and in that case, I suggest we go inside and continue the conversation there. Follow me, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>a49_original
+I'm right behind you.<end>
+
+=>a49
+I'm right behind you.<end>
+
+=>a50_original
+I gotta do something first. I'll be back quickly.<end>
+
+=>a50
+I gotta do something first. I'll be back quickly.<end>
+
+=>q51_original
+Now? But... Alright, I'll wait here, but please do hurry up.<end>
+
+=>q51
+Now? But... Alright, I'll wait here, but please do hurry up.<end>
+
+=>a52_original
+Can we skip the chatter and move on to business?<end>
+
+=>a52
+Can we skip the chatter and move on to business?<end>
+
+=>q53_original
+Um, yes, I see you are in a bit of a rush. Follow me, I will lead you inside.<end>
+
+=>q53
+Um, yes, I see you are in a bit of a rush. Follow me, I will lead you inside.<end>
+
+=>a54_original
+Whoa, please tell me that this large building is my new house!<end>
+
+=>a54
+Whoa, please tell me that this large building is my new house!<end>
+
+=>q55_original
+Why, yes it is! Living in such an enormous space is quite a privilege, I must admit. Since I am certain that you cannot wait to see it from the inside, I suggest we move inside and continue the conversation there.<end>
+
+=>q55
+Why, yes it is! Living in such an enormous space is quite a privilege, I must admit. Since I am certain that you cannot wait to see it from the inside, I suggest we move inside and continue the conversation there.<end>
+
+=>a56_original
+I already took a peek to see what's inside.<end>
+
+=>a56
+I already took a peek to see what's inside.<end>
+
+=>q57_original
+You... did? But how on earth did you manage to do that?<end>
+
+=>q57
+You... did? But how on earth did you manage to do that?<end>
+
+=>a58_original
+A master never reveals his secrets.<end>
+
+=>a58
+A master never reveals his secrets.<end>
+
+=>q59_original
+::Your answer seems to confuse him even more.:: I don't know what to say to that... I think it would be wisest if we were to go inside and continue the conversation there.<end>
+
+=>q59
+::Your answer seems to confuse him even more.:: I don't know what to say to that... I think it would be wisest if we were to go inside and continue the conversation there.<end>
+
+=>a60_original
+I'm a clever $(#man/gal).<end>
+
+=>a60
+I'm a clever $(#man/gal).<end>
+
+=>q61_original
+Are you ready to see your new home, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>q61
+Are you ready to see your new home, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>a62_original
+Just one more thing. Be patient.<end>
+
+=>a62
+Just one more thing. Be patient.<end>
+
+=>q63_original
+::He says nothing, but a grumpy stare conveys his thoughts well enough.::<end>
+
+=>q63
+::He says nothing, but a grumpy stare conveys his thoughts well enough.::<end>
+

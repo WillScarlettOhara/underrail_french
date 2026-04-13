@@ -1,0 +1,18 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I hope nothing nasty comes out of that tunnel.<end>
+
+=>q2
+I hope nothing nasty comes out of that tunnel.<end>
+
+=>q3_original
+Bisson has been slinging those psionics for hours now.<end>
+
+=>q3
+Bisson has been slinging those psionics for hours now.<end>
+

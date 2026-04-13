@@ -1,0 +1,294 @@
+=>q1_original
+What's up?<end>
+
+=>q1
+What's up?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Let me see that premium stuff. ::Barter.::<end>
+
+=>a3
+Let me see that premium stuff. ::Barter.::<end>
+
+=>a4_original
+What did the Faceless want from you?<end>
+
+=>a4
+What did the Faceless want from you?<end>
+
+=>q5_original
+Never told me. They just busted into my store, beat me up and threw me in that cage. <end>
+
+=>q5
+Never told me. They just busted into my store, beat me up and threw me in that cage. <end>
+
+=>q6_original
+From time to time that brain hook guy would probe my mind for something. At first, I tried resisting, but after a couple of sessions I felt so weak and tired I had to yield. I think he pulled out what he needed, because he left me alone after that.<end>
+
+=>q6
+From time to time that brain hook guy would probe my mind for something. At first, I tried resisting, but after a couple of sessions I felt so weak and tired I had to yield. I think he pulled out what he needed, because he left me alone after that.<end>
+
+=>q7_original
+As I mentioned, they never told me what they wanted to know... but I can make a good guess, though.<end>
+
+=>q7
+As I mentioned, they never told me what they wanted to know... but I can make a good guess, though.<end>
+
+=>a8_original
+What's your guess then?<end>
+
+=>a8
+What's your guess then?<end>
+
+=>q9_original
+Well, recently this guy Cornell came to my shop with his little gang, a guy and a woman. They are scavengers, bandits, you know, the typical Lower Underrail lowlife.<end>
+
+=>q9
+Well, recently this guy Cornell came to my shop with his little gang, a guy and a woman. They are scavengers, bandits, you know, the typical Lower Underrail lowlife.<end>
+
+=>q10_original
+But anyway, he tells me he scavenged up something good and produces this, like, armored box. He opens it and inside there's the weirdest looking device I've ever seen. <end>
+
+=>q10
+But anyway, he tells me he scavenged up something good and produces this, like, armored box. He opens it and inside there's the weirdest looking device I've ever seen. <end>
+
+=>q11_original
+It looked like a messed up twenty-sided Rubik's cube or something. On each side there were markings that resembled electronic symbols, but I didn't know what any of them meant. There were also a couple of slots, maybe for power supply or output of some kind, but, again, unlike anything I've seen before.<end>
+
+=>q11
+It looked like a messed up twenty-sided Rubik's cube or something. On each side there were markings that resembled electronic symbols, but I didn't know what any of them meant. There were also a couple of slots, maybe for power supply or output of some kind, but, again, unlike anything I've seen before.<end>
+
+=>q12_original
+By this point I'm intrigued. I try to strike a deal with him, but he asks for way, way more than I am willing to pay. He leaves then, takes the device and the box with him.<end>
+
+=>q12
+By this point I'm intrigued. I try to strike a deal with him, but he asks for way, way more than I am willing to pay. He leaves then, takes the device and the box with him.<end>
+
+=>q13_original
+The next day, here come the Faceless, knocking on my front door.<end>
+
+=>q13
+The next day, here come the Faceless, knocking on my front door.<end>
+
+=>a14_original
+So you think he stole that device from the Faceless?<end>
+
+=>a14
+So you think he stole that device from the Faceless?<end>
+
+=>q15_original
+I'd bet money on it.<end>
+
+=>q15
+I'd bet money on it.<end>
+
+=>a16_original
+So how did they manage to track him down?<end>
+
+=>a16
+So how did they manage to track him down?<end>
+
+=>q17_original
+::He chuckles.:: Let me ask you a better question that yields the same answer: Why was that cube carried in a metal box?<end>
+
+=>q17
+::He chuckles.:: Let me ask you a better question that yields the same answer: Why was that cube carried in a metal box?<end>
+
+=>a18_original
+::[Intelligence]:: Holy hell... because it has a built-in tracking device.<end>
+
+=>a18
+::[Intelligence]:: Holy hell... because it has a built-in tracking device.<end>
+
+=>q19_original
+Bingo. <end>
+
+=>q19
+Bingo. <end>
+
+=>q20_original
+But that raises another question now. Why the hell did he allow me to remove it from the box? The answer to this must be that he doesn't freaking know what he's dealing with.<end>
+
+=>q20
+But that raises another question now. Why the hell did he allow me to remove it from the box? The answer to this must be that he doesn't freaking know what he's dealing with.<end>
+
+=>q21_original
+He did put it back into the box when he left, but I bet wherever he opens it next time is the next place the Faceless will pop up.<end>
+
+=>q21
+He did put it back into the box when he left, but I bet wherever he opens it next time is the next place the Faceless will pop up.<end>
+
+=>a22_original
+Do you know where Cornell's heading?<end>
+
+=>a22
+Do you know where Cornell's heading?<end>
+
+=>q23_original
+He didn't say. What I do know is that he and his little gang have their base somewhere in Core City. What do they call themselves again... Acid Hunters, yeah.<end>
+
+=>q23
+He didn't say. What I do know is that he and his little gang have their base somewhere in Core City. What do they call themselves again... Acid Hunters, yeah.<end>
+
+=>a24_original
+Actually, I'd like to talk about something else.<end>
+
+=>a24
+Actually, I'd like to talk about something else.<end>
+
+=>q25_original
+Hm?<end>
+
+=>q25
+Hm?<end>
+
+=>a26_original
+I don't know. Why?<end>
+
+=>a26
+I don't know. Why?<end>
+
+=>q27_original
+Because it has a tracking device inside it, man. When it's outside the box, the Faceless can tell where it's at.<end>
+
+=>q27
+Because it has a tracking device inside it, man. When it's outside the box, the Faceless can tell where it's at.<end>
+
+=>a28_original
+If you would have to guess, what would you say that device actually was?<end>
+
+=>a28
+If you would have to guess, what would you say that device actually was?<end>
+
+=>q29_original
+A singularity bomb...<end>
+
+=>q29
+A singularity bomb...<end>
+
+=>q30_original
+Just kidding. I have no idea.<end>
+
+=>q30
+Just kidding. I have no idea.<end>
+
+=>a31_original
+Do you know anything about the Free Drones?<end>
+
+=>a31
+Do you know anything about the Free Drones?<end>
+
+=>q32_original
+Do I? I've been following their movement from the start. I truly admire those brave men and women for their open rebellion against the Protectorate. Yeah, the Cans are worse than the phlegm I cough up after waking up. <end>
+
+=>q32
+Do I? I've been following their movement from the start. I truly admire those brave men and women for their open rebellion against the Protectorate. Yeah, the Cans are worse than the phlegm I cough up after waking up. <end>
+
+=>q33_original
+They instituted the United Stations so they could fool us into thinking it's there for our benefit. They're there to "help" us, to "unite" the stations of South Underrail. Prosperity and other nonsense. They want absolute power, that's what's it really about.<end>
+
+=>q33
+They instituted the United Stations so they could fool us into thinking it's there for our benefit. They're there to "help" us, to "unite" the stations of South Underrail. Prosperity and other nonsense. They want absolute power, that's what's it really about.<end>
+
+=>q34_original
+Just take a look at some historical data; always look at history whenever you're in doubt and you'll see things repeating again and again, only in slightly different forms. Every great power cared only about its own interests, no matter what excuses and lies they vomit to the commoners. Why should the Protectorate be any different, I ask you?<end>
+
+=>q34
+Just take a look at some historical data; always look at history whenever you're in doubt and you'll see things repeating again and again, only in slightly different forms. Every great power cared only about its own interests, no matter what excuses and lies they vomit to the commoners. Why should the Protectorate be any different, I ask you?<end>
+
+=>q35_original
+Of course they are not different. Do not be fooled, $(#boy/girl). ::His mouth dries up, forcing him to pause.:: <end>
+
+=>q35
+Of course they are not different. Do not be fooled, $(#boy/girl). ::His mouth dries up, forcing him to pause.:: <end>
+
+=>q36_original
+These things annoy the hell out of me, you know. Well, to summarize: Free Drones should drive away the Tin Cans back to North Underrail, and then seal them inside the hole they crawled out of.<end>
+
+=>q36
+These things annoy the hell out of me, you know. Well, to summarize: Free Drones should drive away the Tin Cans back to North Underrail, and then seal them inside the hole they crawled out of.<end>
+
+=>a37_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a37
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>q38_original
+No, I haven't seen them in a while. They alright?<end>
+
+=>q38
+No, I haven't seen them in a while. They alright?<end>
+
+=>a39_original
+I'll know that once I find them.<end>
+
+=>a39
+I'll know that once I find them.<end>
+
+=>q40_original
+I see. Well, I hope you find them well and good.<end>
+
+=>q40
+I see. Well, I hope you find them well and good.<end>
+
+=>a41_original
+See you later, man.<end>
+
+=>a41
+See you later, man.<end>
+
+=>q42_original
+::He whispers.:: Hey... there's a switch that will turn on the turrets. It's behind the counter on the other side of the room.<end>
+
+=>q42
+::He whispers.:: Hey... there's a switch that will turn on the turrets. It's behind the counter on the other side of the room.<end>
+
+=>q43_original
+Hey, could you let me out, please? That mindreading freak's got the key.<end>
+
+=>q43
+Hey, could you let me out, please? That mindreading freak's got the key.<end>
+
+=>q44_original
+There are still Faceless about. Keep your weapon ready.<end>
+
+=>q44
+There are still Faceless about. Keep your weapon ready.<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+Hot damn, thanks for getting me out of that mess, $(#man/sister). If there's anything you need, I'm at your service. I can't give you any of my premium equipment for free, I'm afraid, but anything else you find in the store that you think you might use, help yourself. My house is your house.<end>
+
+=>q46
+Hot damn, thanks for getting me out of that mess, $(#man/sister). If there's anything you need, I'm at your service. I can't give you any of my premium equipment for free, I'm afraid, but anything else you find in the store that you think you might use, help yourself. My house is your house.<end>
+
+=>q47_original
+Damn it to hell, $(#man/sister), why didn't you let me out of that bloody cage? I mean, what the hell? Thankfully the militia found me in time, or else I would've died a prisoner in my own freakin' store! ::After this grumpy introduction, he calms down and continues.:: But, on the other hand, you did take care of them freaks. I owe you, so if there's anything you need, I'm at your service, I suppose.<end>
+
+=>q47
+Damn it to hell, $(#man/sister), why didn't you let me out of that bloody cage? I mean, what the hell? Thankfully the militia found me in time, or else I would've died a prisoner in my own freakin' store! ::After this grumpy introduction, he calms down and continues.:: But, on the other hand, you did take care of them freaks. I owe you, so if there's anything you need, I'm at your service, I suppose.<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>q49_original
+No time to chat now, $(#man/woman). We need to kill that freak before it kills us.<end>
+
+=>q49
+No time to chat now, $(#man/woman). We need to kill that freak before it kills us.<end>
+

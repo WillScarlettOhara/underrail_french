@@ -1,0 +1,91 @@
+::Pistol-Old
+Regular handguns come in various shapes and sizes. They all deal mechanical damage, but their fire rate varies significantly.
+
+::Pistol
+This is a {0}caliber {1} type handgun.
+
+::SMG
+This is a {0}caliber {1} type submachine gun.
+
+::Sniper
+This is a {0}caliber {1} type sniper rifle.
+
+::AssaultRifle
+This is a {0}caliber {1} type assault rifle.
+
+::GrenadeLauncher
+This is a {0}caliber {1} type grenade launcher.
+
+::RocketLauncher
+This is a {0}caliber {1} type rocket launcher.
+
+::LaserPistol
+Most common laser attack mode is achieved by applying intense Q-switching which packs the normal power of the laser beam into much shorter time frames, practically launching a laser bolt. While this bolt is not as powerful as a plasma beam, laser weaponry recharges faster allowing for higher fire rate.
+
+Laser pistols have been around for quite some time and many pick them as their weapon of choice.
+
+::PlasmaPistol
+Plasma technology based weapons inflict damage by performing high power thermal discharge. Generating temperatures nearly double that of Sun's surface, these weapons can be devastating. However, they usually have lower fire rates than their laser counterparts due to the longer recharge and cooling times.
+
+Plasma pistol is the most common type of plasma weapon.
+
+::Crossbow
+Although not as devastating as firearms or energy weapons, crossbow is still a dangerous device. The bolts it fires can be rigged with explosives or coated with poison, but are otherwise generally less efficient against heavily armored targets. On the other hand, since bolts fly at a relatively low speed they penetrate energy shields more easily.
+
+::crossbow.1
+This is a Zephyr model light crossbow.
+
+::crossbow.2
+This is a Hurricane model crossbow.
+
+::crossbow.3
+This is a Tornado model crossbow.
+
+::crossbow.4
+This is a Monsoon model crossbow.
+
+::crossbow.5
+This is a Cyclon model crossbow.
+
+::Sledgehammer
+The sledgehammer can be a powerful melee weapon in the hands of a strong wielder.
+
+::Placeholder
+Having integrating itself in various industries, Light Amplification by Stimulated Emission of Radiation, or LASER for short, has also found its combat applications. 
+Most common laser attack mode is achieved by applying intense Q-switching which packs the normal power of the laser beam into much shorter time frames, practically launching a laser bolt. While this bolt is not a powerful as a plasma beam, laser weaponry recharges faster allowing for higher fire rate.
+
+::Knife
+This {0} knife can be a quick and deadly close quarters weapon against unarmored or unsuspecting targets.
+
+::SerratedKnife
+This serrated {0} knife can inflict serious bleeding wounds.
+
+::Dagger
+The long {0} blade of this dagger can pierce deep into target's body and puncture vital organs.
+
+::EnergyPistol-old
+This is a {0} powered by a {1}.
+
+::EnergyPistol
+This {0} is powered by a {1}.
+
+::Unarmed
+Nothing like beating the life out of them with your bare fists!
+
+::UnarmedForceEmission
+You punch people with your mind!
+
+::Spear
+Primitive but versatile weapon that can be used for both offense and defense.
+
+::Machete
+This is a deadly close quarters weapon that can deliver devastating wounds if used correctly.
+
+::Shotgun
+This is a 12 gauge {0} type shotgun.
+
+::LMG
+This is a {0}caliber {1} type light machine gun.
+
+::Minigun
+This is a {0}caliber {1} type minigun. It's got a {2} autonomous electric motor that rotates the barrels.

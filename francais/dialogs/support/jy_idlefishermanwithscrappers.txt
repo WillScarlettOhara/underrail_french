@@ -1,0 +1,48 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Wish I got 'ere earlier. Now I gotta eat rathound again.<end>
+
+=>q2
+Wish I got 'ere earlier. Now I gotta eat rathound again.<end>
+
+=>q3_original
+Ya gotta give the Scrappers every other fish ya catch if ya fish 'ere.<end>
+
+=>q3
+Ya gotta give the Scrappers every other fish ya catch if ya fish 'ere.<end>
+
+=>q4_original
+Who do we pay the toll now? The Protectorate?<end>
+
+=>q4
+Who do we pay the toll now? The Protectorate?<end>
+
+=>q5_original
+Who do we pay the toll now? Southgaters? Eels?<end>
+
+=>q5
+Who do we pay the toll now? Southgaters? Eels?<end>
+
+=>q6_original
+I hate this place.<end>
+
+=>q6
+I hate this place.<end>
+
+=>q7_original
+I got 'em fresh worms and everythin'.<end>
+
+=>q7
+I got 'em fresh worms and everythin'.<end>
+
+=>q8_original
+Glad the Scrappers are gone. Good freakin' riddance!<end>
+
+=>q8
+Glad the Scrappers are gone. Good freakin' riddance!<end>
+

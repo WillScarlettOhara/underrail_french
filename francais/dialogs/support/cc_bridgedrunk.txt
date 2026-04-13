@@ -1,0 +1,246 @@
+=>q1_original
+::He mumbles something, but you can't make out what that is.::<end>
+
+=>q1
+::He mumbles something, but you can't make out what that is.::<end>
+
+=>q2_original
+::The obviously drunk man blocks your passage by planting himself on the narrow bridge, swaying from left to right and threatening to fall to his demise at any given moment. As you take a step closer to him, the overwhelming reek forces you to reconsider and take a step back in fear of losing consciousness and going down yourself.::<end>
+
+=>q2
+::The obviously drunk man blocks your passage by planting himself on the narrow bridge, swaying from left to right and threatening to fall to his demise at any given moment. As you take a step closer to him, the overwhelming reek forces you to reconsider and take a step back in fear of losing consciousness and going down yourself.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Would you be so kind to let me pass?<end>
+
+=>a4
+Would you be so kind to let me pass?<end>
+
+=>q5_original
+::He opens his mouth to speak and by doing so contaminates the air even further with his odious breath. You take a few more steps back just to be safe.::
+
+<end>
+
+=>q5
+::He opens his mouth to speak and by doing so contaminates the air even further with his odious breath. You take a few more steps back just to be safe.::
+
+<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+Don't tell me whatta d-d-do, ya Oligarchy-workin' pipe-succablurrrrghaugh...<end>
+
+=>q7
+Don't tell me whatta d-d-do, ya Oligarchy-workin' pipe-succablurrrrghaugh...<end>
+
+=>q8_original
+::His reply ends with some incomprehensible muttering.::<end>
+
+=>q8
+::His reply ends with some incomprehensible muttering.::<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+Y-k-ya move, ya stinkin' rrrrathound! Aerrghoblaghondh...
+
+*D-drop off*.<end>
+
+=>q10
+Y-k-ya move, ya stinkin' rrrrathound! Aerrghoblaghondh...
+
+*D-drop off*.<end>
+
+=>q11_original
+I ain't m-movin'. Ya can't make me! Ya blurhgbahgh...<end>
+
+=>q11
+I ain't m-movin'. Ya can't make me! Ya blurhgbahgh...<end>
+
+=>q12_original
+Do ya know who I am? I am? Am I? Zone out! Ya laraghatbghugh! 
+
+*Blargh*!<end>
+
+=>q12
+Do ya know who I am? I am? Am I? Zone out! Ya laraghatbghugh! 
+
+*Blargh*!<end>
+
+=>q13_original
+I ain't movin' for no no one... 
+
+Damn ya'll tootas... mootas!<end>
+
+=>q13
+I ain't movin' for no no one... 
+
+Damn ya'll tootas... mootas!<end>
+
+=>q14_original
+Lemme tell ya a thin' 'ere, p-pipeworker. 'Ere. Look! ::He points to his eyes.::This's m-my bridge, lis'n, lis'n, *lis'n*: Ain't movin' aaaaaanywhere - I'm *not*, damn it!<end>
+
+=>q14
+Lemme tell ya a thin' 'ere, p-pipeworker. 'Ere. Look! ::He points to his eyes.::This's m-my bridge, lis'n, lis'n, *lis'n*: Ain't movin' aaaaaanywhere - I'm *not*, damn it!<end>
+
+=>q15_original
+G... go back to Junkyard, *Sh*tinkyard or wherever ya c-came from, ya zoonargh-blagharbeghast...<end>
+
+=>q15
+G... go back to Junkyard, *Sh*tinkyard or wherever ya c-came from, ya zoonargh-blagharbeghast...<end>
+
+=>a16_original
+Could you move? I'm trying to get to the other side.<end>
+
+=>a16
+Could you move? I'm trying to get to the other side.<end>
+
+=>a17_original
+Out of the way, moron!<end>
+
+=>a17
+Out of the way, moron!<end>
+
+=>a18_original
+Sir, would you please let me pass? I'm in a bit of a hurry.<end>
+
+=>a18
+Sir, would you please let me pass? I'm in a bit of a hurry.<end>
+
+=>a19_original
+Just move, damn it! I haven't got time to waste!<end>
+
+=>a19
+Just move, damn it! I haven't got time to waste!<end>
+
+=>a20_original
+Move your filthy, stinkin' body to some other place and let me pass!<end>
+
+=>a20
+Move your filthy, stinkin' body to some other place and let me pass!<end>
+
+=>a21_original
+Move before the Invictus, worm!<end>
+
+=>a21
+Move before the Invictus, worm!<end>
+
+=>q22_original
+::Wide-eyed, he does move: backwards, and clumsily to the left - and off the bridge. ::<end>
+
+=>q22
+::Wide-eyed, he does move: backwards, and clumsily to the left - and off the bridge. ::<end>
+
+=>q23_original
+::He's surprisingly silent for the first few seconds of his plummet, as if he hasn't yet processed what is happening to him. Soon, however, you hear a faint scream echoing from the darkness that swallows him whole.::<end>
+
+=>q23
+::He's surprisingly silent for the first few seconds of his plummet, as if he hasn't yet processed what is happening to him. Soon, however, you hear a faint scream echoing from the darkness that swallows him whole.::<end>
+
+=>a24_original
+::End Dialog.::<end>
+
+=>a24
+::End Dialog.::<end>
+
+=>a25_original
+::[Intimidate]:: I'll throw you off this bridge if you don't move at once!<end>
+
+=>a25
+::[Intimidate]:: I'll throw you off this bridge if you don't move at once!<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+Ya can't, ya rathound faced ssson of a doodlarghagh! 
+
+Ya, ya leave me *be*!<end>
+
+=>q27
+Ya can't, ya rathound faced ssson of a doodlarghagh! 
+
+Ya, ya leave me *be*!<end>
+
+=>q28_original
+::He burps loudly, giggles, then returns to his drunken swaying.::<end>
+
+=>q28
+::He burps loudly, giggles, then returns to his drunken swaying.::<end>
+
+=>a29_original
+What if I gave you this mushroom brew... ::Show him the brew.:: Would you let me pass?<end>
+
+=>a29
+What if I gave you this mushroom brew... ::Show him the brew.:: Would you let me pass?<end>
+
+=>q30_original
+::The mere sight of mushroom brew awakes his half-closed eyes and switches on his salivary glands..::
+
+Ya, ya got... *broow*? It good? Balaught, eh?<end>
+
+=>q30
+::The mere sight of mushroom brew awakes his half-closed eyes and switches on his salivary glands..::
+
+Ya, ya got... *broow*? It good? Balaught, eh?<end>
+
+=>a31_original
+Oh, it's the best brew you'll ever taste! Just look at it, man!<end>
+
+=>a31
+Oh, it's the best brew you'll ever taste! Just look at it, man!<end>
+
+=>q32_original
+H-hardcore! Lemme! I loves me sum brew!<end>
+
+=>q32
+H-hardcore! Lemme! I loves me sum brew!<end>
+
+=>q33_original
+::The man starts jumping with joy but on his third way down he completely misses the bridge. ::<end>
+
+=>q33
+::The man starts jumping with joy but on his third way down he completely misses the bridge. ::<end>
+
+=>a34_original
+I'd say it's pretty darn good.<end>
+
+=>a34
+I'd say it's pretty darn good.<end>
+
+=>a35_original
+It's mushroom brew. Just like any other brew, I guess.<end>
+
+=>a35
+It's mushroom brew. Just like any other brew, I guess.<end>
+
+=>a36_original
+::Push him off the bridge.::<end>
+
+=>a36
+::Push him off the bridge.::<end>
+
+=>a37_original
+::Leave him be.::<end>
+
+=>a37
+::Leave him be.::<end>
+

@@ -1,0 +1,78 @@
+=>q1_original
+Hide!<end>
+
+=>q1
+Hide!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Hey $(#brother/sister), Tchort is evolution.<end>
+
+=>q3
+Hey $(#brother/sister), Tchort is evolution.<end>
+
+=>q4_original
+We rarely get visitors here. Well, except for the minister often coming to admire the coils.<end>
+
+=>q4
+We rarely get visitors here. Well, except for the minister often coming to admire the coils.<end>
+
+=>q5_original
+Reaching the Surface - one discovery at a time.<end>
+
+=>q5
+Reaching the Surface - one discovery at a time.<end>
+
+=>q6_original
+Check out our particle accelerator!<end>
+
+=>q6
+Check out our particle accelerator!<end>
+
+=>q7_original
+No, the particle accelerator will not create devastating black holes - that is a derailed thing to think.<end>
+
+=>q7
+No, the particle accelerator will not create devastating black holes - that is a derailed thing to think.<end>
+
+=>q8_original
+PI Schteff is in his office if it's him you are looking for.<end>
+
+=>q8
+PI Schteff is in his office if it's him you are looking for.<end>
+
+=>q9_original
+Hey, we are getting some good readings from that T-ray emitter you deployed.<end>
+
+=>q9
+Hey, we are getting some good readings from that T-ray emitter you deployed.<end>
+
+=>q10_original
+If we could make through-wall imaging work well for the next symposium... that would be apex!<end>
+
+=>q10
+If we could make through-wall imaging work well for the next symposium... that would be apex!<end>
+
+=>q11_original
+I heard you went to Core City? Freaks still there?<end>
+
+=>q11
+I heard you went to Core City? Freaks still there?<end>
+
+=>q12_original
+Physics is apex.<end>
+
+=>q12
+Physics is apex.<end>
+
+=>q13_original
+I heard what happened to Pavel. Magnificent Tchort...<end>
+
+=>q13
+I heard what happened to Pavel. Magnificent Tchort...<end>
+

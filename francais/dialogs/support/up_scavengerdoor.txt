@@ -1,0 +1,18 @@
+=>q1_original
+Hey, you shouldn't be here. Get lost!<end>
+
+=>q1
+Hey, you shouldn't be here. Get lost!<end>
+
+=>q2_original
+Get lost, I said!<end>
+
+=>q2
+Get lost, I said!<end>
+
+=>q3_original
+You asked for it, punk!<end>
+
+=>q3
+You asked for it, punk!<end>
+

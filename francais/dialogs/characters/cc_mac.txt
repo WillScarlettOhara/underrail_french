@@ -1,0 +1,422 @@
+=>q1_original
+Leave.<end>
+
+=>q1
+Leave.<end>
+
+=>q2_original
+::This young man appears to be drawing some intricate graffiti on the wall. The artist seems focused on getting the final details right on his almost finished piece; perhaps he doesn't notice you are there, or he is simply ignoring you. In addition, he seems to be faintly humming a catchy melody, one you are unable to recognize, however.::<end>
+
+=>q2
+::This young man appears to be drawing some intricate graffiti on the wall. The artist seems focused on getting the final details right on his almost finished piece; perhaps he doesn't notice you are there, or he is simply ignoring you. In addition, he seems to be faintly humming a catchy melody, one you are unable to recognize, however.::<end>
+
+=>a3_original
+Khm. Excuse me.<end>
+
+=>a3
+Khm. Excuse me.<end>
+
+=>q4_original
+::The man turns around, glances at you for a second, then turns back to continue his work.::
+
+Hey, man.<end>
+
+=>q4
+::The man turns around, glances at you for a second, then turns back to continue his work.::
+
+Hey, man.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+What are you working on there?<end>
+
+=>a6
+What are you working on there?<end>
+
+=>q7_original
+Graffiti, babe, graffiti. Say, do you like what you see?<end>
+
+=>q7
+Graffiti, babe, graffiti. Say, do you like what you see?<end>
+
+=>a8_original
+It looks pretty awesome!<end>
+
+=>a8
+It looks pretty awesome!<end>
+
+=>q9_original
+Well, thanks. You do have eyes for real art. Beautiful eyes, I gotta add. I did most of the graffiti in Core City. Actually, all of them. I'm the only writer around here. Oh, and I'm not counting what the Free Drones have been scribbling on the walls - that's amateur work!<end>
+
+=>q9
+Well, thanks. You do have eyes for real art. Beautiful eyes, I gotta add. I did most of the graffiti in Core City. Actually, all of them. I'm the only writer around here. Oh, and I'm not counting what the Free Drones have been scribbling on the walls - that's amateur work!<end>
+
+=>q10_original
+Once I finish this one, I'm gonna do a throw up.<end>
+
+=>q10
+Once I finish this one, I'm gonna do a throw up.<end>
+
+=>a11_original
+You want to throw up? Are you feeling sick?<end>
+
+=>a11
+You want to throw up? Are you feeling sick?<end>
+
+=>q12_original
+::Mac smiles.:: I expected that reaction. A throw up is a type of graffiti. It's a, a... ::He looks around the area.:: There's one above me, that big white one. Simple outline with one color fill - a throw up.<end>
+
+=>q12
+::Mac smiles.:: I expected that reaction. A throw up is a type of graffiti. It's a, a... ::He looks around the area.:: There's one above me, that big white one. Simple outline with one color fill - a throw up.<end>
+
+=>q13_original
+There's so much of that stuff to talk about, but I gotta finish this piece. Then I'll have more time for chatting... and other stuff.<end>
+
+=>q13
+There's so much of that stuff to talk about, but I gotta finish this piece. Then I'll have more time for chatting... and other stuff.<end>
+
+=>q14_original
+No, I'm not going to throw up, man: Throw up is a type of graffiti. It's a, a... ::He looks around the area.:: There's one above me, that big white one. Simple outline with one color fill - a throw up.<end>
+
+=>q14
+No, I'm not going to throw up, man: Throw up is a type of graffiti. It's a, a... ::He looks around the area.:: There's one above me, that big white one. Simple outline with one color fill - a throw up.<end>
+
+=>q15_original
+There's so much of that stuff to talk about, but I don't have time now. Gotta finish this piece.<end>
+
+=>q15
+There's so much of that stuff to talk about, but I don't have time now. Gotta finish this piece.<end>
+
+=>a16_original
+Don't you throw up on me, or I'll bust your face.<end>
+
+=>a16
+Don't you throw up on me, or I'll bust your face.<end>
+
+=>q17_original
+Thanks, man. Most graffiti in Core City were done by me. Actually, all of them. I'm the only writer around here. Oh, and I'm not counting what the Free Drones have been scribbling on the walls - that's amateur work!<end>
+
+=>q17
+Thanks, man. Most graffiti in Core City were done by me. Actually, all of them. I'm the only writer around here. Oh, and I'm not counting what the Free Drones have been scribbling on the walls - that's amateur work!<end>
+
+=>a18_original
+It's nice. I like it.<end>
+
+=>a18
+It's nice. I like it.<end>
+
+=>a19_original
+Meh... I've seen better.<end>
+
+=>a19
+Meh... I've seen better.<end>
+
+=>q20_original
+Where?<end>
+
+=>q20
+Where?<end>
+
+=>a21_original
+There's um, a guy in, say, SGS. Yeah, he can do better.<end>
+
+=>a21
+There's um, a guy in, say, SGS. Yeah, he can do better.<end>
+
+=>q22_original
+What's his name?<end>
+
+=>q22
+What's his name?<end>
+
+=>a23_original
+Tanner.<end>
+
+=>a23
+Tanner.<end>
+
+=>q24_original
+Never heard of him, which means he's not up. And if he's not up - how can he be better than me? It makes no sense. You're full of it.<end>
+
+=>q24
+Never heard of him, which means he's not up. And if he's not up - how can he be better than me? It makes no sense. You're full of it.<end>
+
+=>q25_original
+::He then turns his back to you and continues his work.::<end>
+
+=>q25
+::He then turns his back to you and continues his work.::<end>
+
+=>a26_original
+Gorsky.<end>
+
+=>a26
+Gorsky.<end>
+
+=>a27_original
+Big Bret.<end>
+
+=>a27
+Big Bret.<end>
+
+=>a28_original
+Quinton.<end>
+
+=>a28
+Quinton.<end>
+
+=>a29_original
+Ezra.<end>
+
+=>a29
+Ezra.<end>
+
+=>a30_original
+Lucas.<end>
+
+=>a30
+Lucas.<end>
+
+=>a31_original
+Old Jonas.<end>
+
+=>a31
+Old Jonas.<end>
+
+=>a32_original
+I can't remember right now, but I've seen better. Definitely.<end>
+
+=>a32
+I can't remember right now, but I've seen better. Definitely.<end>
+
+=>q33_original
+Yeah, sure. Doubt it, though.<end>
+
+=>q33
+Yeah, sure. Doubt it, though.<end>
+
+=>a34_original
+Somewhere... You know what? That's none of your business.<end>
+
+=>a34
+Somewhere... You know what? That's none of your business.<end>
+
+=>q35_original
+Yeah - "somewhere." I doubt that. It makes no sense.<end>
+
+=>q35
+Yeah - "somewhere." I doubt that. It makes no sense.<end>
+
+=>a36_original
+Say, let's talk about something else.<end>
+
+=>a36
+Say, let's talk about something else.<end>
+
+=>q37_original
+Avoiding the subject. Great.<end>
+
+=>q37
+Avoiding the subject. Great.<end>
+
+=>a38_original
+It really sucks. No offense, but damn... a child can do better.<end>
+
+=>a38
+It really sucks. No offense, but damn... a child can do better.<end>
+
+=>q39_original
+::He seems somewhat surprised by your response.::
+
+Babe, you disappoint me...<end>
+
+=>q39
+::He seems somewhat surprised by your response.::
+
+Babe, you disappoint me...<end>
+
+=>q40_original
+None taken. After all, blind men can't see true art. Don't you agree?<end>
+
+=>q40
+None taken. After all, blind men can't see true art. Don't you agree?<end>
+
+=>q41_original
+Just some graffiti. Whatcha think of it?<end>
+
+=>q41
+Just some graffiti. Whatcha think of it?<end>
+
+=>a42_original
+You know, there's a lot of graffiti in Underrail...<end>
+
+=>a42
+You know, there's a lot of graffiti in Underrail...<end>
+
+=>q43_original
+The good ones were done by me.<end>
+
+=>q43
+The good ones were done by me.<end>
+
+=>q44_original
+What? It's the truth.<end>
+
+=>q44
+What? It's the truth.<end>
+
+=>a45_original
+What can you tell me about Core City?<end>
+
+=>a45
+What can you tell me about Core City?<end>
+
+=>q46_original
+I'm not talking to you anymore, $(#zoner/zoner babe). <end>
+
+=>q46
+I'm not talking to you anymore, $(#zoner/zoner babe). <end>
+
+=>q47_original
+Core City? Hmm, you know what, babe? There's this place called Hardcore City Bar, it looks pretty cool. Pleasant on the eyes - not as much as you are - but still... very pleasant.<end>
+
+=>q47
+Core City? Hmm, you know what, babe? There's this place called Hardcore City Bar, it looks pretty cool. Pleasant on the eyes - not as much as you are - but still... very pleasant.<end>
+
+=>q48_original
+I go there from time to time. You should too.<end>
+
+=>q48
+I go there from time to time. You should too.<end>
+
+=>q49_original
+I don't know what to say. It's a big city, so I got room for writing. Drop Zone is the best, though - no guards here to bother me. Some of the best stuff I've done is right around here.<end>
+
+=>q49
+I don't know what to say. It's a big city, so I got room for writing. Drop Zone is the best, though - no guards here to bother me. Some of the best stuff I've done is right around here.<end>
+
+=>q50_original
+Yeah. ::He returns to his work.::<end>
+
+=>q50
+Yeah. ::He returns to his work.::<end>
+
+=>a51_original
+What can you tell me about the Arena?<end>
+
+=>a51
+What can you tell me about the Arena?<end>
+
+=>q52_original
+I don't know. Probably nothing you haven't heard already. It's the big thing in Core City. I liked it for a while, but the visuals kinda became boring. Just a... concrete room with gladiators killing each other.<end>
+
+=>q52
+I don't know. Probably nothing you haven't heard already. It's the big thing in Core City. I liked it for a while, but the visuals kinda became boring. Just a... concrete room with gladiators killing each other.<end>
+
+=>q53_original
+But, you know, babe, there's something hardcore for ya: I made the graffiti they used in the Gauntlet ad. Seen that one? It was colorful at first, but those dopes made it all green. It makes no sense.<end>
+
+=>q53
+But, you know, babe, there's something hardcore for ya: I made the graffiti they used in the Gauntlet ad. Seen that one? It was colorful at first, but those dopes made it all green. It makes no sense.<end>
+
+=>q54_original
+I did make the graffiti they used in the Gauntlet ad. It was colorful at first, but those dopes made it all green. It makes no sense.<end>
+
+=>q54
+I did make the graffiti they used in the Gauntlet ad. It was colorful at first, but those dopes made it all green. It makes no sense.<end>
+
+=>a55_original
+What can you tell me about Drop Zone?<end>
+
+=>a55
+What can you tell me about Drop Zone?<end>
+
+=>q56_original
+The Zone... Well, it's pretty bad in here, $(#man/babe). I think my graffiti add some beauty to this death z... Drop Zone.<end>
+
+=>q56
+The Zone... Well, it's pretty bad in here, $(#man/babe). I think my graffiti add some beauty to this death z... Drop Zone.<end>
+
+=>q57_original
+Just look around: Use your eyes and you're bound to see more than I can ever explain with words. $(#/::Winks.::)<end>
+
+=>q57
+Just look around: Use your eyes and you're bound to see more than I can ever explain with words. $(#/::Winks.::)<end>
+
+=>a58_original
+How do you feel about the Faceless invasion?<end>
+
+=>a58
+How do you feel about the Faceless invasion?<end>
+
+=>q59_original
+Couldn't care less.<end>
+
+=>q59
+Couldn't care less.<end>
+
+=>q60_original
+Maybe they should destroy Core City, you know. It would mean a change of scenery, which would be hardcore. Plus, it's not like I can't find better places to work, and I got tired of this place anyway. Time to move on to something new. Hmm, maybe I should move to North Underrail next... I'll think about it.<end>
+
+=>q60
+Maybe they should destroy Core City, you know. It would mean a change of scenery, which would be hardcore. Plus, it's not like I can't find better places to work, and I got tired of this place anyway. Time to move on to something new. Hmm, maybe I should move to North Underrail next... I'll think about it.<end>
+
+=>a61_original
+Actually, I'll be going now.<end>
+
+=>a61
+Actually, I'll be going now.<end>
+
+=>q62_original
+::The man stops working, instead focusing his eyes on surveying you from tip to toe. His eyes go up and down for a short moment before he decides to speak.::
+
+Hey, babe, how's it going? At first I though it was some ugly zoner chick bothering me again, but luckily it's not. What can Mac do for ya? <end>
+
+=>q62
+::The man stops working, instead focusing his eyes on surveying you from tip to toe. His eyes go up and down for a short moment before he decides to speak.::
+
+Hey, babe, how's it going? At first I though it was some ugly zoner chick bothering me again, but luckily it's not. What can Mac do for ya? <end>
+
+=>a63_original
+Do you have a moment, perhaps?<end>
+
+=>a63
+Do you have a moment, perhaps?<end>
+
+=>a64_original
+::Leave him be.::<end>
+
+=>a64
+::Leave him be.::<end>
+
+=>q65_original
+::He looks at you, frowning.::
+
+You...<end>
+
+=>q65
+::He looks at you, frowning.::
+
+You...<end>
+
+=>q66_original
+::He turns to you for a second, then turns back to continue his work.::
+
+Hey man.<end>
+
+=>q66
+::He turns to you for a second, then turns back to continue his work.::
+
+Hey man.<end>
+
+=>q67_original
+The babe is back. How can Mac help?<end>
+
+=>q67
+The babe is back. How can Mac help?<end>
+

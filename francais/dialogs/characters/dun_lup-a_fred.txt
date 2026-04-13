@@ -1,0 +1,228 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Drools.::<end>
+
+=>q2
+::Drools.::<end>
+
+=>q3_original
+::Mop and mows.::<end>
+
+=>q3
+::Mop and mows.::<end>
+
+=>q4_original
+::Laughs.::<end>
+
+=>q4
+::Laughs.::<end>
+
+=>q5_original
+::Licks lips.::<end>
+
+=>q5
+::Licks lips.::<end>
+
+=>q6_original
+::Rattles his teeth.::<end>
+
+=>q6
+::Rattles his teeth.::<end>
+
+=>q7_original
+::Quivers.::<end>
+
+=>q7
+::Quivers.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+Long road ahead of us.<end>
+
+=>q10
+Long road ahead of us.<end>
+
+=>q11_original
+I still love this place, but... I don't know...<end>
+
+=>q11
+I still love this place, but... I don't know...<end>
+
+=>q12_original
+::Shrugs.::<end>
+
+=>q12
+::Shrugs.::<end>
+
+=>q13_original
+::As if on a brink of existence, all of the people around here carry the same characteristics. Dry skin, green stains all over the clothes while being severely malnourished.:: 
+
+Uhh, hello?<end>
+
+=>q13
+::As if on a brink of existence, all of the people around here carry the same characteristics. Dry skin, green stains all over the clothes while being severely malnourished.:: 
+
+Uhh, hello?<end>
+
+=>a14_original
+What's going on here?<end>
+
+=>a14
+What's going on here?<end>
+
+=>q15_original
+Umm, well we are working here and uhh, that's all. ::He looks at the shelves next to him.::<end>
+
+=>q15
+Umm, well we are working here and uhh, that's all. ::He looks at the shelves next to him.::<end>
+
+=>a16_original
+I doubt that. Who are you people and how did you end up in here?<end>
+
+=>a16
+I doubt that. Who are you people and how did you end up in here?<end>
+
+=>q17_original
+::His jaw drops as you notice fear on his face.:: P-please, dont lash out at me, I didn't do anything wrong. I-I was told to keep q-quiet around here. ::He looks to the ground.:: Just... just go talk to someone else.<end>
+
+=>q17
+::His jaw drops as you notice fear on his face.:: P-please, dont lash out at me, I didn't do anything wrong. I-I was told to keep q-quiet around here. ::He looks to the ground.:: Just... just go talk to someone else.<end>
+
+=>a18_original
+Fine.<end>
+
+=>a18
+Fine.<end>
+
+=>a19_original
+::Leave.::<end>
+
+=>a19
+::Leave.::<end>
+
+=>a20_original
+I'll just mind my own business.<end>
+
+=>a20
+I'll just mind my own business.<end>
+
+=>a21_original
+Hello. Who are you?<end>
+
+=>a21
+Hello. Who are you?<end>
+
+=>q22_original
+You know that, I'm Fred.<end>
+
+=>q22
+You know that, I'm Fred.<end>
+
+=>a23_original
+What's going on here?<end>
+
+=>a23
+What's going on here?<end>
+
+=>a24_original
+No, I dont.<end>
+
+=>a24
+No, I dont.<end>
+
+=>q25_original
+::He rubs his eyes and then leans forward, getting really close to your face.:: Aaah? W-who... ::He covers his face.::
+
+<end>
+
+=>q25
+::He rubs his eyes and then leans forward, getting really close to your face.:: Aaah? W-who... ::He covers his face.::
+
+<end>
+
+=>a26_original
+Sorry to bother. ::Leave.::<end>
+
+=>a26
+Sorry to bother. ::Leave.::<end>
+
+=>a27_original
+::Leave.::<end>
+
+=>a27
+::Leave.::<end>
+
+=>q28_original
+Huh, I-I think they are going to send me next to scavenge.<end>
+
+=>q28
+Huh, I-I think they are going to send me next to scavenge.<end>
+
+=>a29_original
+The plasma sentries are no more.<end>
+
+=>a29
+The plasma sentries are no more.<end>
+
+=>q30_original
+::Sorrow from his face dissipates as he hears those words.:: Ahh, finnaly. We are free now. Hoplessness was the only feeling I've had here. And now.,, just, thank you. ::He smiles.::
+
+::He takes a deep breath.:: I'll hear what the others have to say. I don't get asked much about around here.. ::He looks down on the floor.::<end>
+
+=>q30
+::Sorrow from his face dissipates as he hears those words.:: Ahh, finnaly. We are free now. Hoplessness was the only feeling I've had here. And now.,, just, thank you. ::He smiles.::
+
+::He takes a deep breath.:: I'll hear what the others have to say. I don't get asked much about around here.. ::He looks down on the floor.::<end>
+
+=>a31_original
+Good luck.<end>
+
+=>a31
+Good luck.<end>
+
+=>a32_original
+::Nod and leave.::<end>
+
+=>a32
+::Nod and leave.::<end>
+
+=>a33_original
+I'll deal with the robots.<end>
+
+=>a33
+I'll deal with the robots.<end>
+
+=>a34_original
+Tell me more about yourself.<end>
+
+=>a34
+Tell me more about yourself.<end>
+
+=>q35_original
+I-I can't talk about anything. Leave me alone, please.<end>
+
+=>q35
+I-I can't talk about anything. Leave me alone, please.<end>
+
+=>a36_original
+Fine.<end>
+
+=>a36
+Fine.<end>
+
