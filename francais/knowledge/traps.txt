@@ -1,68 +1,68 @@
-::FragMine
-Place a fragmentation mine on targeted spot. When triggered everyone caught in the blast suffer {0} damage as well as damage from {1}-{2} shrapnel, each shrapnel dealing {3} damage. Targets closer to detonation have greater chance of receiving shrapnel.
-
-::HeMine
-Place a high explosive mine on targeted spot. When triggered everyone caught in the blast suffer {0} damage and {1} damage. Ignores {2}% of damage resistance and threshold.
-
-::EmpMine
-Place an EMP mine on targeted spot. When triggered all automatons caught in the blast take {0} damage (this damage bypasses resistances and shields) and are stunned for {1} turns. All other targets have their electronic equipment immediately drained of all energy and receive electrical damage equal to {2}% of energy drained.
-
-::PlasmaMine
-Place a plasma mine on targeted spot. When triggered everyone caught in the blast take {0} and {1} damage.
-
-::AcidBlob
-Place a special chemical trap that will entangle the target in acidic sludge when triggered, doing {0} damage over {1} and preventing them from moving.
-
-::CorrosiveAcidBlob
-Place a special chemical trap that will entangle the target in acidic sludge when triggered, doing {0} damage over {1} and preventing them from moving. Each turn the target is entangled, it will also apply {2} stacks of Corroded debuff which reduces all damage resistances and thresholds by {3}% per stack for {4}. Stacks up to {5} times.
-
-::RustingAcidBlob
-Place a special chemical trap that will entangle the target in acidic sludge when triggered, doing {0} damage over {1} and preventing them from moving. Damage is increased by {2}% damage against machines. Each turn the target is entangled, it will also apply {3} stacks of Rusting debuff which reduces durability of all mechanical items in target's posession by {4} per stack each turn for {5}. Stacks up to {6} times.
-
-::CryoliquidBlob
-Place a special chemical trap that deals {0} damage when triggered and freezes the target for up to {1}.
-
-::IncendiaryBlob
-Place a special chemical trap that sets the target on fire, dealing up to {0} damage over up to {1}.
-
-::BearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-
-::HopperTrap
-Place a mechanical trap that deals no damage, but can trap small low strength animals for up to {0}.
-
-::PoisonedBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with {5} that deals {6} damage per stack every turn for up to {7} turns.
-
-::PoisonedBearTrapStacked
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with {4} stacks of {5} that deals {6} damage per stack every turn for up to {7} turns.
-
-::CaveEarPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with cave ear poison that increases all biological damage taken by {4}% and reduces perception by {5}. Lasts up to {6}.
-
-::CrawlerPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with crawler poison that deals {4} damage per turn each turn for {5}. If the poison is not removed before it expires it will stun the victim for {6}.
-
-::BlackDragonPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with black dragon poison poison that causes psionic inhibition, which prevents the victim from invoking psi abilities and regenerating psi points. Lasts {4}.
-
-::SpiritPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with spirit poison that deals {4} damage per turn each turn for {5} and reduces resolve by {6}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.
-
-::BlindingPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with {4} stacks of blinding poison that deals {5} damage per stack every turn for up to {6} and reduces perception by {7}. Stacks {8} times.
-
-::LeperPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with {4} stacks of leper poison that deals {5} damage per stack every turn for up to {6} and increases all mechanical damage taken by {7}%. Stacks {8} times.
-
-::HeartbreakPoisonBearTrap
-Place a mechanical bear trap that deals {0} damage instantly, applies a bleeding wound that deals additional {1}% of the initial damage over {2} and roots the victim in place for {3}.
-When triggered this trap also afflicts the target with {4} stacks of heartbreak poison that deals {5} damage per stack every turn for up to {6}. Stacks {7} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.
+::FragMine
+Place une mine à fragmentation sur l'endroit ciblé. Lorsqu'elle est déclenchée, tous ceux pris dans l'explosion subissent {0} dégâts ainsi que des dégâts de {1}-{2} éclats, chaque éclat infligeant {3} dégâts. Les cibles plus proches de la détonation ont plus de chances de recevoir des éclats.
+
+::HeMine
+Place une mine à explosif puissant sur l'endroit ciblé. Lorsqu'elle est déclenchée, tous ceux pris dans l'explosion subissent {0} dégâts et {1} dégâts. Ignore {2}% de la résistance et du seuil de dégâts.
+
+::EmpMine
+Place une mine EMP sur l'endroit ciblé. Lorsqu'elle est déclenchée, tous les automates pris dans l'explosion subissent {0} dégâts (ces dégâts contournent les résistances et les boucliers) et sont étourdis pendant {1} tours. Toutes les autres cibles ont leur équipement électronique immédiatement drainé de toute énergie et subissent des dégâts électriques égaux à {2}% de l'énergie drainée.
+
+::PlasmaMine
+Place une mine à plasma sur l'endroit ciblé. Lorsqu'elle est déclenchée, tous ceux pris dans l'explosion subissent {0} et {1} dégâts.
+
+::AcidBlob
+Place un piège chimique spécial qui enchevêtre la cible dans une vase acide lorsqu'il est déclenché, infligeant {0} dégâts sur {1} et l'empêchant de se déplacer.
+
+::CorrosiveAcidBlob
+Place un piège chimique spécial qui enchevêtre la cible dans une vase acide lorsqu'il est déclenché, infligeant {0} dégâts sur {1} et l'empêchant de se déplacer. Chaque tour où la cible est enchevêtrée, il applique également {2} accumulations du malus Corrodé qui réduit toutes les résistances et seuils de dégâts de {3}% par accumulation pendant {4}. S'accumule jusqu'à {5} fois.
+
+::RustingAcidBlob
+Place un piège chimique spécial qui enchevêtre la cible dans une vase acide lorsqu'il est déclenché, infligeant {0} dégâts sur {1} et l'empêchant de se déplacer. Les dégâts sont augmentés de {2}% contre les machines. Chaque tour où la cible est enchevêtrée, il applique également {3} accumulations du malus Oxydation qui réduit la durabilité de tous les objets mécaniques en possession de la cible de {4} par accumulation chaque tour pendant {5}. S'accumule jusqu'à {6} fois.
+
+::CryoliquidBlob
+Place un piège chimique spécial qui inflige {0} dégâts lorsqu'il est déclenché et gèle la cible pendant jusqu'à {1}.
+
+::IncendiaryBlob
+Place un piège chimique spécial qui enflamme la cible, infligeant jusqu'à {0} dégâts sur jusqu'à {1}.
+
+::BearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+
+::HopperTrap
+Place un piège mécanique qui n'inflige aucun dégât, mais peut piéger les petits animaux de faible force pendant jusqu'à {0}.
+
+::PoisonedBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec {5} qui inflige {6} dégâts par accumulation chaque tour pendant jusqu'à {7} tours.
+
+::PoisonedBearTrapStacked
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec {4} accumulations de {5} qui inflige {6} dégâts par accumulation chaque tour pendant jusqu'à {7} tours.
+
+::CaveEarPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec le venin d'oreille de caverne qui augmente tous les dégâts biologiques subis de {4}% et réduit la perception de {5}. Dure jusqu'à {6}.
+
+::CrawlerPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec le venin de rampeur qui inflige {4} dégâts par tour chaque tour pendant {5}. Si le venin n'est pas retiré avant son expiration, il étourdira la victime pendant {6}.
+
+::BlackDragonPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec le venin de dragon noir qui provoque une inhibition psionique, empêchant la victime d'invoquer des capacités psi et de régénérer des points psi. Dure {4}.
+
+::SpiritPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec le venin d'esprit qui inflige {4} dégâts par tour chaque tour pendant {5} et réduit la détermination de {6}%. Si le venin n'est pas retiré avant son expiration, il invoquera un double psionique de la victime si elle est humanoïde.
+
+::BlindingPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec {4} accumulations de venin aveuglant qui inflige {5} dégâts par accumulation chaque tour pendant jusqu'à {6} et réduit la perception de {7}. S'accumule {8} fois.
+
+::LeperPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec {4} accumulations de venin de lépreux qui inflige {5} dégâts par accumulation chaque tour pendant jusqu'à {6} et augmente tous les dégâts mécaniques subis de {7}%. S'accumule {8} fois.
+
+::HeartbreakPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} dégâts instantanément, applique une blessure hémorragique qui inflige {1}% des dégâts initiaux supplémentaires sur {2} et immobilise la victime pendant {3}.
+Lorsqu'il est déclenché, ce piège afflige également la cible avec {4} accumulations de venin de brisemoi qui inflige {5} dégâts par accumulation chaque tour pendant jusqu'à {6}. S'accumule {7} fois. Si ce venin est laissé expirer naturellement, il infligera alors une grande quantité de dégâts qui augmente d'autant plus rapidement avec chaque accumulation.

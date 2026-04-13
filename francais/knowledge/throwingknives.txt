@@ -1,29 +1,29 @@
-::Regular
-Throw the knife dealing {0} damage if it hits the target. This damage incurs {2}% of target's mechanical resistance and threshold, but the damage that passes armor is increased by {3}% against living targets. Damage and precision scale with the throwing skill. When throwing a knife while in melee range of an enemy, you suffer {1}% hit chance penalty.
-
-::BurrowerPoison
-If target takes damage it is also afflicted with burrower poison that deals {0} damage each turn for up to {1}. Stacks {2} times.
-
-::CaveEarPoison
-If target takes damage it is also afflicted with cave ear poison that increases all biological damage taken by {0}% and reduces perception by {1}. Lasts up to {2}.
-
-::CrawlerPoison
-If target takes damage it is also afflicted with crawler poison that deals {0} damage each turn for {1}. If the poison is not removed before it expires it will stun the victim for {2}.
-
-::BlackDragonPoison
-If target takes damage it is also afflicted with black dragon poison which causes psionic inhibition, preventing the victim from invoking psi abilities or regenerating psi points. Lasts {0}.
-
-::SpiritPoison
-If target takes damage it is also afflicted with spirit poison that deals {0} damage per turn each turn for {1} and reduces resolve by {2}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.
-
-::BlindingPoison
-If target takes damage it is also afflicted with blinding poison that deals {0} damage each turn for up to {1} and reduces perception by {2}. Stacks {3} times.
-
-::LeperPoison
-If target takes damage it is also afflicted with leper poison that deals {0} damage each turn for up to {1} and increases all mechanical damage taken by {2}%. Stacks {3} times.
-
-::HeartbreakPoison
-If target takes damage it is also afflicted with heartbreak poison that deals {0} damage each turn for up to {1}. Stacks {2} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.
-
-::ShockShuriken
-Throw the shuriken dealing {0} damage (incurring {3}% of target's mechanical resistance and threshold) and {1} damage if it hits the target. If any electrical damage is dealt, there's a {4}% chance to stun or short-circuit the target for one turn. When throwing while in melee range of an enemy, you suffer {2}% hit chance penalty.
+::Regular
+Lance le couteau infligeant {0} dégâts s'il touche la cible. Ces dégâts encourent {2}% de la résistance et du seuil mécaniques de la cible, mais les dégâts qui traversent l'armure sont augmentés de {3}% contre les cibles vivantes. Les dégâts et la précision évoluent avec la compétence de lancer. Lors d'un lancer de couteau à portée de mêlée d'un ennemi, vous subissez une pénalité de {1}% aux chances de toucher.
+
+::BurrowerPoison
+Si la cible subit des dégâts, elle est également affligée par le venin de fouisseur qui inflige {0} dégâts chaque tour pendant jusqu'à {1}. S'accumule {2} fois.
+
+::CaveEarPoison
+Si la cible subit des dégâts, elle est également affligée par le venin d'oreille de caverne qui augmente tous les dégâts biologiques subis de {0}% et réduit la perception de {1}. Dure jusqu'à {2}.
+
+::CrawlerPoison
+Si la cible subit des dégâts, elle est également affligée par le venin de rampeur qui inflige {0} dégâts chaque tour pendant {1}. Si le venin n'est pas retiré avant son expiration, il étourdira la victime pendant {2}.
+
+::BlackDragonPoison
+Si la cible subit des dégâts, elle est également affligée par le venin de dragon noir qui provoque une inhibition psionique, empêchant la victime d'invoquer des capacités psi ou de régénérer des points psi. Dure {0}.
+
+::SpiritPoison
+Si la cible subit des dégâts, elle est également affligée par le venin d'esprit qui inflige {0} dégâts par tour chaque tour pendant {1} et réduit la détermination de {2}%. Si le venin n'est pas retiré avant son expiration, il invoquera un double psionique de la victime si elle est humanoïde.
+
+::BlindingPoison
+Si la cible subit des dégâts, elle est également affligée par le venin aveuglant qui inflige {0} dégâts chaque tour pendant jusqu'à {1} et réduit la perception de {2}. S'accumule {3} fois.
+
+::LeperPoison
+Si la cible subit des dégâts, elle est également affligée par le venin de lépreux qui inflige {0} dégâts chaque tour pendant jusqu'à {1} et augmente tous les dégâts mécaniques subis de {2}%. S'accumule {3} fois.
+
+::HeartbreakPoison
+Si la cible subit des dégâts, elle est également affligée par le venin de brisemoi qui inflige {0} dégâts chaque tour pendant jusqu'à {1}. S'accumule {2} fois. Si ce venin est laissé expirer naturellement, il infligera alors une grande quantité de dégâts qui augmente d'autant plus rapidement avec chaque accumulation.
+
+::ShockShuriken
+Lance le shuriken infligeant {0} dégâts (encourant {3}% de la résistance et du seuil mécaniques de la cible) et {1} dégâts s'il touche la cible. Si des dégâts électriques sont infligés, il y a {4}% de chances d'étourdir ou de court-circuiter la cible pendant un tour. Lors d'un lancer à portée de mêlée d'un ennemi, vous subissez une pénalité de {2}% aux chances de toucher.
