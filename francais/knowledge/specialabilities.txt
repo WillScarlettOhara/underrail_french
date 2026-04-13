@@ -1,197 +1,197 @@
-::Stealth
-You enter stealth mode which allows you to hide from others, but reduces your movement speed by {0}%.
-
-To successfully hide from someone, you need to keep out of their sight for a while. Once you are hidden from someone, they will need to pass a perception check to detect you.
-
-Entering the stealth mode in combat will immediately drain all your remaining action and movement points. While in combat your movement points are reduced to {1} and you can receive no extra movement points from any source.
-
-Most hostile actions will immediately remove you from stealth.
-
-::Pickpocket
-You attempt to steal an item from the target's pockets.
-
-::Lock
-Locks a mechanical or electronic lock providing you have the right key.
-
-::Stealth-backup
-Once you are hidden from someone, they will need to pass a perception check to detect you.
-
-::Sprint
-Increases movement points by {0} for {1}. Does not work in stealth.
-
-::ImprovedSprint
-Increases movement points by {0} and action points by {1} for {2}. Does not work in stealth.
-
-::Sprint-RT
-Increases movement speed by {0}% for {1} seconds.
-
-::LocusOfControl
-Activate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.
-
-While this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.
-
-::Premeditation-Old
-When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.
-
-::Premeditation
-When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.
-
-::PsionicMania
-When activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.
-
-::SpecialTactics
-When activated this ability will remove the action point cost of your next special bolt attack. Can only be activated while out of combat.
-
-::Yell
-You issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth. All affected enemies have their combat skills reduced by {0} for {1}.
-
-::YellMonstrous
-Additionally, all affected enemies have {0}% chance to be overwhelmed with fear and run in panic for {1}.
-
-::UncannyDodge
-When activated this ability will cause you to dodge the next {0} regular or special melee attack targeted against you.
-
-::EvasiveManeuvers
-Converts all remaining movement points into evasion at {0}% conversion rate for {1}.
-
-::QuickTinkering
-When activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.
-
-::LastStand-Old
-When activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.
-
-::LastStand
-When activated this ability will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.
-
-::AcidSpray
-Hurls {0} acid blobs at the target dealing {1} damage per blob and leaving acid pools on the ground.
-
-::AcidSpray_Rusting
-Hurls {0} blobs of rusting acid at the target dealing {1} damage and applying one Rusting debuff per blob, and leaving acid pools on the ground.
-
-Rusting debuff reduces durability of all mechanical items in target's posession by {2} per stack each turn for {3}. Stacks {4} times.
-
-Rusting acid damage is increased by {5}% against vehicles and machines.
-
-::AcidBlobAttack
-Spit a large acid blob at the target, dealing {0} damage and entangling them in acid for {1} if it lands. While entangled in acid, the victim suffers additional {2} acid damage per turn.
-
-::AcidBlobAttack_Rusting
-Spit a large blob of rusting acid at the target, dealing {0} damage, entangling them in rusting acid for {1}, and applying Rusting debuff if it lands. While entangled in acid, the victim suffers additional {2} acid damage and receives additional {3} stacks of Rusting debuff per turn.
-
-Rusting debuff reduces durability of all mechanical items in target's posession by {4} per stack each turn for {5}. Stacks {6} times. 
-
-Rusting acid damage is increased by {7}% against vehicles and machines.
-
-::Blitz
-You instantly convert all your movement points to action points, gaining 1 action point for each {0} movement points, up to maximum of {1} action points.
-
-::EscapeBonds
-Instantly remove all immobilization effects.
-
-::Hemopsychosis
-When activated will make all your psi abilities cost health instead of psi until the end of the turn.
-
-::ShootDreadnoughtRocket
-Shoot 30mm dreadnought rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius.
-
-::ShootHarp1Rocket
-Shoot Harp-1 rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius.
-
-::VehicleTurbo
-Instantly consumes {0} vehicle energy and increases the movement speed and movement points of the vehicle by {1}% and energy consumption by {2}% for {3}. The bonuses only work if vehicle is not overencumbered.
-
-::ChangeTrigger
-Put your finger on the other trigger of the double-barreled shotgun in preparation to shoot the other shell first.
-
-::Fend
-Instantly grants you Spear Guard status effect that can block {0}% more damage than normal (with current spear and skill {1}).
-
-::ThrowSpear
-Throws the spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill.
-
-::ShootLeviatorPlasmaCannon
-Fire one of the plasma cannons, dealing {0} and {1} damage to the target. Consumes {2} vehicle energy.
-
-::ShootDevastatorFusionCannon
-Fire the fusion cannon, dealing {0} and {1} damage to everything in {2} tile radius. Consumes {3} vehicle energy.
-
-::ShootGlowJetskiLaserGun
-Rapidly fires {0} shots from the twin laser guns, dealing {1} per shot. Consumes {2} vehicle energy.
-
-::ElectroshockAura
-When activated it will drain {0} energy from the armor and hit adjacent characters for {1} damage at the end of every turn at the cost of additional {2} energy per character. This will occur at the start of the wearer's turn instead of at the end. Additionally, whenever the wearer is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost. Whenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}.
-
-::MetallineEnergization
-When activated it will drain {1} energy each turn in order to reduce the wearer's overall armor penalty by {0}%.
-
-::EnergyShieldEmpowerment
-When activated it will drain {1} energy each turn in order to increase all energy shielding values by {0}%.
-
-::ShootLemurianSpear
-Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy.
-
-::ShootLemurianSpear_HT
-Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage.
-
-::ShootPlasmaFlare
-Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy.
-
-When it lands, it immediately reveals all nearby stealthed targets, and then lights up the area for {3} seconds.
-
-::ShootPlasmaFlare_HT
-Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage.
-
-::TowJetSki
-Tow another jet ski or naval vehicle.
-
-::StopTowingJetSki
-Stop towing what you're currently towing.
-
-::EmpoweredInvocation
-When activated increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.
-
-::PickUpThrownSpear
-Picks up the closest thrown spear from the ground.
-
-::Hypnotize
-Attempts to incapacitate a humanoid target for {0}. Chance to succeed depends on the invoker's persuasion and the target's resolve. Uses {1} energy.
-
-::Vanish
-Immediately enter stealth, disappearing from everyone's sight, and convert all remaining action points into movement points.
-
-::WirelessChargingAura
-When activated it will transfer up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them.
-
-::HelmetLanternAura
-When activated it will immediately drain {0} energy and additional {1} every turn to provide light up to {2} tiles in front of the wearer.
-
-::ExoskeletonDrillAttack
-You attempt to use the mounted drill to hit the target {0} times for {1} damage. Can only be activated when the suit's power is on. Costs {2} energy.
-
-::IndustrialExoskeletonAura
-Increases strength by {0} and movement points by {1}, and negates the movement speed and agility penalties of the armor. When activated it will immediately drain {2} energy and additional {3} energy every turn, as well as additional {4} energy for every tile of movement.
-
-::ShootingSpree
-When activated it will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.
-
-::ShootingSpree2
-When activated it will cause your next two sniper rifle attacks to refund 100% of their action point cost if they kill their respective targets. This will expire at the end of the turn if unused.
-
-::BulletTime
-When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn.
-
-::EnergySiphon
-Perform a melee touch attack that drains {0}-{1} energy from the target's equipped gear, using {2}% of that energy to recharge attacker's equipped gear, and dealing damage equal to {3}% of energy drained as unresistable electrical damage. When performed against a machine, it will instead deal {4} damage which cannot be resisted, converting {5}% of that damage to energy used to recharge attacker's equipped gear. Costs {6} energy.
-
-::CatLaser
-Provoke the cat to shoot a laser beam towards a target dealing {0} damage at the cost of {1} energy.
-
-::CombatExoskeletonAura
-Increases strength by {0} and movement points by {1}, and negates the movement speed and agility penalties of the armor. When activated it will immediately drain {2} energy and additional {3} energy every turn, as well as additional {4} energy for every tile of movement.
-
-::TechnomedicExoskeletonRecharge
-Uses {0} or more energy to recharge the target's electronic gear at {1} efficiency, splitting the energy equally among them.
-
-::TechnomedicExoskeletonRegenerativeInjection
-Injects a living target with a special regenerative mixture that heals it for {0} each turn and reduces mechanical and heat damage taken by {1}. Lasts {2}. Costs {3} energy and requires a special ampule of Parafibrotic Regeneration Catalyst.
+::Stealth
+Vous entrez en mode furtif qui vous permet de vous cacher des autres, mais réduit votre vitesse de déplacement de {0}%.
+
+Pour vous cacher avec succès de quelqu'un, vous devez rester hors de sa vue pendant un certain temps. Une fois que vous êtes caché de quelqu'un, il devra réussir un test de perception pour vous détecter.
+
+Entrer en mode furtif en combat drainera immédiatement tous vos points d'action et de mouvement restants. En combat, vos points de mouvement sont réduits à {1} et vous ne pouvez recevoir aucun point de mouvement supplémentaire d'aucune source.
+
+La plupart des actions hostiles vous retireront immédiatement du mode furtif.
+
+::Pickpocket
+Vous tentez de voler un objet des poches de la cible.
+
+::Lock
+Verrouille une serrure mécanique ou électronique à condition que vous ayez la bonne clé.
+
+::Stealth-backup
+Une fois que vous êtes caché de quelqu'un, il devra réussir un test de perception pour vous détecter.
+
+::Sprint
+Augmente les points de mouvement de {0} pendant {1}. Ne fonctionne pas en furtif.
+
+::ImprovedSprint
+Augmente les points de mouvement de {0} et les points d'action de {1} pendant {2}. Ne fonctionne pas en furtif.
+
+::Sprint-RT
+Augmente la vitesse de déplacement de {0}% pendant {1} secondes.
+
+::LocusOfControl
+Activez cette capacité pour supprimer et gagner l'immunité contre l'étourdissement, la terreur, l'incapacitation et le contrôle mental pendant {0}.
+
+Tant que cet effet est actif, vous pouvez invoquer n'importe quelle capacité psi de contrôle mental comme une capacité à zone d'effet, mais cela mettra fin à l'effet.
+
+::Premeditation-Old
+Lorsqu'elle est activée, cette capacité fera en sorte que votre prochaine capacité psi ne coûte aucun point psi et que sa portée soit augmentée de {0}.
+
+::Premeditation
+Lorsqu'elle est activée, cette capacité réduira le coût en psi de votre prochaine capacité psi de {0}%, son coût en points d'action de {1}% et augmentera sa portée de {2}. La portée n'est pas augmentée pour les capacités canalisées.
+
+::PsionicMania
+Lorsqu'elle est activée, cette capacité fera de votre prochaine capacité psi offensive un coup critique automatique. Activer cette capacité retirera également jusqu'à {0}% de votre santé maximale, mais ne peut pas vous tuer.
+
+::SpecialTactics
+Lorsqu'elle est activée, cette capacité supprimera le coût en points d'action de votre prochaine attaque de carreau spécial. Ne peut être activée qu'en dehors du combat.
+
+::Yell
+Vous poussez un cri intimidant pour tenter de réduire la préparation au combat des ennemis environnants et les retirer du mode furtif. Tous les ennemis affectés ont leurs compétences de combat réduites de {0} pendant {1}.
+
+::YellMonstrous
+De plus, tous les ennemis affectés ont {0}% de chances d'être submergés par la terreur et de fuir en panique pendant {1}.
+
+::UncannyDodge
+Lorsqu'elle est activée, cette capacité vous fera esquiver les {0} prochaines attaques de mêlée régulières ou spéciales ciblées contre vous.
+
+::EvasiveManeuvers
+Convertit tous les points de mouvement restants en évasion à un taux de conversion de {0}% pendant {1}.
+
+::QuickTinkering
+Lorsqu'elle est activée, cette capacité vous permettra d'armer votre prochain piège instantanément, même en combat, auquel cas il coûtera {0} points d'action.
+
+::LastStand-Old
+Lorsqu'elle est activée, cette capacité fournira à votre personnage {0} points de vie supplémentaires immédiatement et réduira les dégâts subis de toutes les sources de {1}% pendant {2}. Après l'expiration de cet effet, le personnage perdra ces points de vie supplémentaires, mais cet événement ne peut pas le tuer.
+
+::LastStand
+Lorsqu'elle est activée, cette capacité réinitialisera temporairement votre santé à votre maximum pendant {0}. Après l'expiration de l'effet, votre santé sera réduite à 1.
+
+::AcidSpray
+Lance {0} blob d'acide sur la cible infligeant {1} dégâts par blob et laissant des flaques d'acide sur le sol.
+
+::AcidSpray_Rusting
+Lance {0} blob d'acide oxydant sur la cible infligeant {1} dégâts et appliquant un malus d'Oxydation par blob, et laissant des flaques d'acide sur le sol.
+
+Le malus d'Oxydation réduit la durabilité de tous les objets mécaniques en possession de la cible de {2} par accumulation chaque tour pendant {3}. S'accumule {4} fois.
+
+Les dégâts d'acide oxydant sont augmentés de {5}% contre les véhicules et les machines.
+
+::AcidBlobAttack
+Crache un gros blob d'acide sur la cible, infligeant {0} dégâts et l'enchevêtrant dans l'acide pendant {1} s'il touche. Pendant l'enchevêtrement dans l'acide, la victime subit {2} dégâts d'acide supplémentaires par tour.
+
+::AcidBlobAttack_Rusting
+Crache un gros blob d'acide oxydant sur la cible, infligeant {0} dégâts, l'enchevêtrant dans l'acide oxydant pendant {1}, et appliquant le malus d'Oxydation s'il touche. Pendant l'enchevêtrement dans l'acide, la victime subit {2} dégâts d'acide supplémentaires et reçoit {3} accumulations supplémentaires du malus d'Oxydation par tour.
+
+Le malus d'Oxydation réduit la durabilité de tous les objets mécaniques en possession de la cible de {4} par accumulation chaque tour pendant {5}. S'accumule {6} fois.
+
+Les dégâts d'acide oxydant sont augmentés de {7}% contre les véhicules et les machines.
+
+::Blitz
+Vous convertissez instantanément tous vos points de mouvement en points d'action, gagnant 1 point d'action pour chaque {0} points de mouvement, jusqu'à un maximum de {1} points d'action.
+
+::EscapeBonds
+Supprime instantanément tous les effets d'immobilisation.
+
+::Hemopsychosis
+Lorsqu'elle est activée, cette capacité fera en sorte que toutes vos capacités psi coûtent des points de vie au lieu de points psi jusqu'à la fin du tour.
+
+::ShootDreadnoughtRocket
+Tire une fusée de dreadnought de 30mm sur l'emplacement ciblé infligeant {0} et {1} dégâts à tout ce qui se trouve dans un rayon de {2} cases.
+
+::ShootHarp1Rocket
+Tire une fusée Harp-1 sur l'emplacement ciblé infligeant {0} et {1} dégâts à tout ce qui se trouve dans un rayon de {2} cases.
+
+::VehicleTurbo
+Consomme instantanément {0} d'énergie du véhicule et augmente la vitesse de déplacement et les points de mouvement du véhicule de {1}% et la consommation d'énergie de {2}% pendant {3}. Les bonus ne fonctionnent que si le véhicule n'est pas surchargé.
+
+::ChangeTrigger
+Placez votre doigt sur l'autre gâchette du fusil à pompe à double canon en préparation de tirer l'autre cartouche en premier.
+
+::Fend
+Accorde instantanément l'effet de statut Garde à la Lance qui peut bloquer {0}% de dégâts supplémentaires par rapport à la normale (avec la lance actuelle et la compétence {1}).
+
+::ThrowSpear
+Lance la lance sur la cible, infligeant {0}%, plus {1}% supplémentaires par unité de portée, des dégâts normaux de l'arme. La précision de cette attaque dépend de la compétence de lancer.
+
+::ShootLeviatorPlasmaCannon
+Tire l'un des canons à plasma, infligeant {0} et {1} dégâts à la cible. Consomme {2} d'énergie du véhicule.
+
+::ShootDevastatorFusionCannon
+Tire le canon à fusion, infligeant {0} et {1} dégâts à tout ce qui se trouve dans un rayon de {2} cases. Consomme {3} d'énergie du véhicule.
+
+::ShootGlowJetskiLaserGun
+Tire rapidement {0} coups depuis les canons lasers jumelés, infligeant {1} par coup. Consomme {2} d'énergie du véhicule.
+
+::ElectroshockAura
+Lorsqu'elle est activée, elle drainera {0} d'énergie de l'armure et frappera les personnages adjacents pour {1} dégâts à la fin de chaque tour au coût de {2} d'énergie supplémentaire par personnage. Cela se produira au début du tour du porteur au lieu de la fin. De plus, chaque fois que le porteur est attaqué par une attaque de mêlée, l'attaquant sera frappé par les mêmes dégâts électriques au même coût énergétique. Chaque fois que cette aura inflige des dégâts électriques, il y a {3}% de chances que la cible soit étourdie pendant {4}.
+
+::MetallineEnergization
+Lorsqu'elle est activée, elle drainera {1} d'énergie chaque tour pour réduire la pénalité d'armure globale du porteur de {0}%.
+
+::EnergyShieldEmpowerment
+Lorsqu'elle est activée, elle drainera {1} d'énergie chaque tour pour augmenter toutes les valeurs de bouclier énergétique de {0}%.
+
+::ShootLemurianSpear
+Tire le canon à plasma intégré de la lance, infligeant {0} et {1} dégâts à la cible. Consomme {2} d'énergie.
+
+::ShootLemurianSpear_HT
+Tire le canon à plasma intégré de la lance, infligeant {0} et {1} dégâts à la cible. Consomme {2} d'énergie. Vous êtes en mesure d'appliquer vos connaissances spéciales en armes de haute technologie ici pour augmenter ses dégâts.
+
+::ShootPlasmaFlare
+Tire une fusée éclairante au plasma qui brûle tout sur son passage pour {0} et {1} dégâts. Consomme {2} d'énergie.
+
+Lorsqu'elle atterrit, elle révèle immédiatement toutes les cibles furtives à proximité, puis éclaire la zone pendant {3} secondes.
+
+::ShootPlasmaFlare_HT
+Tire une fusée éclairante au plasma qui brûle tout sur son passage pour {0} et {1} dégâts. Consomme {2} d'énergie. Vous êtes en mesure d'appliquer vos connaissances spéciales en armes de haute technologie ici pour augmenter ses dégâts.
+
+::TowJetSki
+Remorque un autre jet-ski ou véhicule naval.
+
+::StopTowingJetSki
+Arrête de remorquer ce que vous remorquez actuellement.
+
+::EmpoweredInvocation
+Lorsqu'elle est activée, augmente la compétence {0} de {1}% jusqu'à la fin du tour, mais draine ensuite tous les points psi restants.
+
+::PickUpThrownSpear
+Ramasse la lance lancée la plus proche du sol.
+
+::Hypnotize
+Tente d'incapaciter une cible humanoïde pendant {0}. Les chances de succès dépendent de la persuasion de l'invocateur et de la détermination de la cible. Utilise {1} d'énergie.
+
+::Vanish
+Entre immédiatement en furtivité, disparaissant de la vue de tous, et convertit tous les points d'action restants en points de mouvement.
+
+::WirelessChargingAura
+Lorsqu'elle est activée, elle transfère jusqu'à {0} d'énergie à {1}% d'efficacité depuis l'objet source vers tous les autres objets équipés qui nécessitent une recharge, répartissant l'énergie équitablement entre eux.
+
+::HelmetLanternAura
+Lorsqu'elle est activée, elle drainera immédiatement {0} d'énergie et {1} supplémentaires chaque tour pour fournir de la lumière jusqu'à {2} cases devant le porteur.
+
+::ExoskeletonDrillAttack
+Vous tentez d'utiliser la perceuse montée pour frapper la cible {0} fois pour {1} dégâts. Ne peut être activée que lorsque l'alimentation de l'armure est activée. Coûte {2} d'énergie.
+
+::IndustrialExoskeletonAura
+Augmente la force de {0} et les points de mouvement de {1}, et annule les pénalités de vitesse de déplacement et d'agilité de l'armure. Lorsqu'elle est activée, elle drainera immédiatement {2} d'énergie et {3} d'énergie supplémentaires chaque tour, ainsi que {4} d'énergie supplémentaires pour chaque case de déplacement.
+
+::ShootingSpree
+Lorsqu'elle est activée, cette capacité fera en sorte que votre prochaine attaque de fusil de sniper rembourse 100% de son coût en points d'action si elle tue la cible. Cela expirera à la fin du tour si non utilisé.
+
+::ShootingSpree2
+Lorsqu'elle est activée, cette capacité fera en sorte que vos deux prochaines attaques de fusil de sniper remboursent 100% de leur coût en points d'action si elles tuent leurs cibles respectives. Cela expirera à la fin du tour si non utilisé.
+
+::BulletTime
+Lorsqu'elle est activée, réduit le coût en points d'action des tirs de pistolet à feu de {0}% jusqu'à la fin du tour.
+
+::EnergySiphon
+Effectue une attaque de mêlée au toucher qui draine {0}-{1} d'énergie de l'équipement de la cible, utilisant {2}% de cette énergie pour recharger l'équipement de l'attaquant, et inflige des dégâts égaux à {3}% de l'énergie drainée sous forme de dégâts électriques inrésistibles. Lorsqu'elle est effectuée contre une machine, elle infligera à la place {4} dégâts qui ne peuvent pas être résistés, convertissant {5}% de ces dégâts en énergie utilisée pour recharger l'équipement de l'attaquant. Coûte {6} d'énergie.
+
+::CatLaser
+Provoque le chat pour qu'il tire un faisceau laser vers une cible infligeant {0} dégâts au coût de {1} d'énergie.
+
+::CombatExoskeletonAura
+Augmente la force de {0} et les points de mouvement de {1}, et annule les pénalités de vitesse de déplacement et d'agilité de l'armure. Lorsqu'elle est activée, elle drainera immédiatement {2} d'énergie et {3} d'énergie supplémentaires chaque tour, ainsi que {4} d'énergie supplémentaires pour chaque case de déplacement.
+
+::TechnomedicExoskeletonRecharge
+Utilise {0} ou plus d'énergie pour recharger l'équipement électronique de la cible à {1}% d'efficacité, répartissant l'énergie équitablement entre eux.
+
+::TechnomedicExoskeletonRegenerativeInjection
+Injecte à une cible vivante un mélange régénératif spécial qui la soigne de {0} chaque tour et réduit les dégâts mécaniques et thermiques subis de {1}. Dure {2}. Coûte {3} d'énergie et nécessite une ampoule spéciale de Catalyseur de Régénération Parafibrotique.
