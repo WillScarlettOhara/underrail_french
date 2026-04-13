@@ -1,166 +1,166 @@
-=>q1_original
-::You see a skinny man.::
-
-I'm Freddy. I sell food.<end>
-
-=>q1
-::You see a skinny man.::
-
-I'm Freddy. I sell food.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Can I see what you have to offer? ::Barter.::<end>
-
-=>a3
-Can I see what you have to offer? ::Barter.::<end>
-
-=>a4_original
-You don't talk much, do you?<end>
-
-=>a4
-You don't talk much, do you?<end>
-
-=>q5_original
-::He shakes his head.::<end>
-
-=>q5
-::He shakes his head.::<end>
-
-=>q6_original
-Nope.<end>
-
-=>q6
-Nope.<end>
-
-=>a7_original
-Can you tell me anything interesting about this place?<end>
-
-=>a7
-Can you tell me anything interesting about this place?<end>
-
-=>q8_original
-::He shakes his head.::<end>
-
-=>q8
-::He shakes his head.::<end>
-
-=>q9_original
-Nope.<end>
-
-=>q9
-Nope.<end>
-
-=>a10_original
-I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
-
-=>a10
-I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
-
-=>q11_original
-Yup.<end>
-
-=>q11
-Yup.<end>
-
-=>q12_original
-::He nods.::<end>
-
-=>q12
-::He nods.::<end>
-
-=>a13_original
-Do you have an opinion on this whole Rathound King situation?<end>
-
-=>a13
-Do you have an opinion on this whole Rathound King situation?<end>
-
-=>q14_original
-Nope.<end>
-
-=>q14
-Nope.<end>
-
-=>a15_original
-Really? Not even on something as important as this?<end>
-
-=>a15
-Really? Not even on something as important as this?<end>
-
-=>q16_original
-Nope.<end>
-
-=>q16
-Nope.<end>
-
-=>a17_original
-I should have expected that.<end>
-
-=>a17
-I should have expected that.<end>
-
-=>q18_original
-Yup.<end>
-
-=>q18
-Yup.<end>
-
-=>a19_original
-Can you tell me something about the Rathound King?<end>
-
-=>a19
-Can you tell me something about the Rathound King?<end>
-
-=>q20_original
-Maybe...<end>
-
-=>q20
-Maybe...<end>
-
-=>a21_original
-I'm waiting...<end>
-
-=>a21
-I'm waiting...<end>
-
-=>q22_original
-Or maybe not.<end>
-
-=>q22
-Or maybe not.<end>
-
-=>q23_original
-::He shakes his head.:: Nope.<end>
-
-=>q23
-::He shakes his head.:: Nope.<end>
-
-=>a24_original
-Yes...?<end>
-
-=>a24
-Yes...?<end>
-
-=>a25_original
-Go on...<end>
-
-=>a25
-Go on...<end>
-
-=>a26_original
-I'll be going now.<end>
-
-=>a26
-I'll be going now.<end>
-
-=>q27_original
-Hi.<end>
-
-=>q27
-Hi.<end>
-
+=>q1_original
+::You see a skinny man.::
+
+I'm Freddy. I sell food.<end>
+
+=>q1
+::You see a skinny man.::
+
+I'm Freddy. I sell food.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Can I see what you have to offer? ::Barter.::<end>
+
+=>a3
+Can I see what you have to offer? ::Barter.::<end>
+
+=>a4_original
+You don't talk much, do you?<end>
+
+=>a4
+You don't talk much, do you?<end>
+
+=>q5_original
+::He shakes his head.::<end>
+
+=>q5
+::He shakes his head.::<end>
+
+=>q6_original
+Nope.<end>
+
+=>q6
+Nope.<end>
+
+=>a7_original
+Can you tell me anything interesting about this place?<end>
+
+=>a7
+Can you tell me anything interesting about this place?<end>
+
+=>q8_original
+::He shakes his head.::<end>
+
+=>q8
+::He shakes his head.::<end>
+
+=>q9_original
+Nope.<end>
+
+=>q9
+Nope.<end>
+
+=>a10_original
+I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
+
+=>a10
+I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
+
+=>q11_original
+Yup.<end>
+
+=>q11
+Yup.<end>
+
+=>q12_original
+::He nods.::<end>
+
+=>q12
+::He nods.::<end>
+
+=>a13_original
+Do you have an opinion on this whole Rathound King situation?<end>
+
+=>a13
+Do you have an opinion on this whole Rathound King situation?<end>
+
+=>q14_original
+Nope.<end>
+
+=>q14
+Nope.<end>
+
+=>a15_original
+Really? Not even on something as important as this?<end>
+
+=>a15
+Really? Not even on something as important as this?<end>
+
+=>q16_original
+Nope.<end>
+
+=>q16
+Nope.<end>
+
+=>a17_original
+I should have expected that.<end>
+
+=>a17
+I should have expected that.<end>
+
+=>q18_original
+Yup.<end>
+
+=>q18
+Yup.<end>
+
+=>a19_original
+Can you tell me something about the Rathound King?<end>
+
+=>a19
+Can you tell me something about the Rathound King?<end>
+
+=>q20_original
+Maybe...<end>
+
+=>q20
+Maybe...<end>
+
+=>a21_original
+I'm waiting...<end>
+
+=>a21
+I'm waiting...<end>
+
+=>q22_original
+Or maybe not.<end>
+
+=>q22
+Or maybe not.<end>
+
+=>q23_original
+::He shakes his head.:: Nope.<end>
+
+=>q23
+::He shakes his head.:: Nope.<end>
+
+=>a24_original
+Yes...?<end>
+
+=>a24
+Yes...?<end>
+
+=>a25_original
+Go on...<end>
+
+=>a25
+Go on...<end>
+
+=>a26_original
+I'll be going now.<end>
+
+=>a26
+I'll be going now.<end>
+
+=>q27_original
+Hi.<end>
+
+=>q27
+Hi.<end>
+

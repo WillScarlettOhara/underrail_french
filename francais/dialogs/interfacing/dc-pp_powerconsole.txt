@@ -1,330 +1,330 @@
-=>q1_original
-::Arke Power Station Power Management Console
-
-Biocorp Dis Electronics
-
-Power station rated capacity: 300 MW
-Warning! Estimated turbine efficiency is extremely low! (<10%)
-Turbine maintenance or replacement is necessary!
-Warning! Total electric supply capacity is extremely low! (<5%)
-
-Current estimated capacity: <10 MW::<end>
-
-=>q1
-::Arke Power Station Power Management Console
-
-Biocorp Dis Electronics
-
-Power station rated capacity: 300 MW
-Warning! Estimated turbine efficiency is extremely low! (<10%)
-Turbine maintenance or replacement is necessary!
-Warning! Total electric supply capacity is extremely low! (<5%)
-
-Current estimated capacity: <10 MW::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-::Current power expenditure (%):
-
-Research Complex: $(context.loc_dc_labPower)%
-Tithonus Lab: 0%
-Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
-Mutagen Tanks B: 0%
-Arke Power Station: $(context.loc_dc_arkePower)%
-Warehouse Block 1: 0%
-Warehouse Block 2: $(context.loc_dc_warehousePower)%
-BCAF - Detachment Hollow Earth: 0%
-Talos Outpost: $(context.loc_dc_facelessPower)%
-Caerus Residential Block: $(context.loc_dc_residentialPower)%
-Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
-South Elevator: 0%
-
-Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
-
-=>q3
-::Current power expenditure (%):
-
-Research Complex: $(context.loc_dc_labPower)%
-Tithonus Lab: 0%
-Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
-Mutagen Tanks B: 0%
-Arke Power Station: $(context.loc_dc_arkePower)%
-Warehouse Block 1: 0%
-Warehouse Block 2: $(context.loc_dc_warehousePower)%
-BCAF - Detachment Hollow Earth: 0%
-Talos Outpost: $(context.loc_dc_facelessPower)%
-Caerus Residential Block: $(context.loc_dc_residentialPower)%
-Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
-South Elevator: 0%
-
-Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
-
-=>a4_original
-::Power plant management::<end>
-
-=>a4
-::Power plant management::<end>
-
-=>q5_original
-::Gas turbine 1 status: on
-Gas turbine 2 status: on
-
-Warning! Turbine maintenance or replacement is necessary!
-
-Steam turbine status: on
-Heat recovery steam generator (HRSG) status: on
-::<end>
-
-=>q5
-::Gas turbine 1 status: on
-Gas turbine 2 status: on
-
-Warning! Turbine maintenance or replacement is necessary!
-
-Steam turbine status: on
-Heat recovery steam generator (HRSG) status: on
-::<end>
-
-=>q6_original
-::HRSG supplementary burners: on
-
-Mode of operation: combined cycle (Manual config)::<end>
-
-=>q6
-::HRSG supplementary burners: on
-
-Mode of operation: combined cycle (Manual config)::<end>
-
-=>a7_original
-::Back::<end>
-
-=>a7
-::Back::<end>
-
-=>q8_original
-::HRSG supplementary burners: off
-
-Mode of operation: combined cycle (Auto config)::<end>
-
-=>q8
-::HRSG supplementary burners: off
-
-Mode of operation: combined cycle (Auto config)::<end>
-
-=>a9_original
-::[Electronics] Manually configure the combined-cycle system::<end>
-
-=>a9
-::[Electronics] Manually configure the combined-cycle system::<end>
-
-=>q10_original
-::Optimizing gas turbine air-fuel mixture... Done.
-
-Engaging and configuring HRSG supplementary burners... Done.
-
-::<end>
-
-=>q10
-::Optimizing gas turbine air-fuel mixture... Done.
-
-Engaging and configuring HRSG supplementary burners... Done.
-
-::<end>
-
-=>q11_original
-::Verifying steam turbine status... Done.
-
-Optimizing supercondenser operation... Done.
-
-Manual configuration successful. Total net power gain: 51%::<end>
-
-=>q11
-::Verifying steam turbine status... Done.
-
-Optimizing supercondenser operation... Done.
-
-Manual configuration successful. Total net power gain: 51%::<end>
-
-=>q12_original
-::Warning! Steam pressure reaching unacceptable levels!
-
-Reverting to default settings... 
-Disengaging HRSG supplementary burners... 
-Optimizing air-fuel mixture...
-
-Procedure completed! (52 errors logged)::<end>
-
-=>q12
-::Warning! Steam pressure reaching unacceptable levels!
-
-Reverting to default settings... 
-Disengaging HRSG supplementary burners... 
-Optimizing air-fuel mixture...
-
-Procedure completed! (52 errors logged)::<end>
-
-=>a13_original
-::Deallocate power from Arke security systems and assembly lines::<end>
-
-=>a13
-::Deallocate power from Arke security systems and assembly lines::<end>
-
-=>q14_original
-::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
-
-Are you sure you want to proceed?::<end>
-
-=>q14
-::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
-
-Are you sure you want to proceed?::<end>
-
-=>a15_original
-::Yes::<end>
-
-=>a15
-::Yes::<end>
-
-=>q16_original
-::Disabling security systems...
-
-Turbine chamber security - security disabled!
-Office section - security disabled!
-Automated manufacturing and assembly - security disabled!
-IRIS Core - Error: Remote access is denied!
-
-Procedure completed with 1 error(s)::<end>
-
-=>q16
-::Disabling security systems...
-
-Turbine chamber security - security disabled!
-Office section - security disabled!
-Automated manufacturing and assembly - security disabled!
-IRIS Core - Error: Remote access is denied!
-
-Procedure completed with 1 error(s)::<end>
-
-=>a17_original
-::No::<end>
-
-=>a17
-::No::<end>
-
-=>q18_original
-::Procedure canceled::<end>
-
-=>q18
-::Procedure canceled::<end>
-
-=>a19_original
-::Allocate power to Warehouse Block 2 (-5%)::<end>
-
-=>a19
-::Allocate power to Warehouse Block 2 (-5%)::<end>
-
-=>q20_original
-::Power allocated successfully!::
-
-<end>
-
-=>q20
-::Power allocated successfully!::
-
-<end>
-
-=>a21_original
-::Deallocate power from Warehouse Block 2 (+5%)::<end>
-
-=>a21
-::Deallocate power from Warehouse Block 2 (+5%)::<end>
-
-=>q22_original
-::Power deallocated successfully!::
-
-<end>
-
-=>q22
-::Power deallocated successfully!::
-
-<end>
-
-=>a23_original
-::Allocate power to Hollow Earth main research complex (-60%)::<end>
-
-=>a23
-::Allocate power to Hollow Earth main research complex (-60%)::<end>
-
-=>a24_original
-::Deallocate power from Hollow Earth main research complex (+60%)::<end>
-
-=>a24
-::Deallocate power from Hollow Earth main research complex (+60%)::<end>
-
-=>a25_original
-::Allocate power to Mutagen Tanks A (-30%)::<end>
-
-=>a25
-::Allocate power to Mutagen Tanks A (-30%)::<end>
-
-=>a26_original
-::Deallocate power from Mutagen Tanks A (+30%)::<end>
-
-=>a26
-::Deallocate power from Mutagen Tanks A (+30%)::<end>
-
-=>a27_original
-::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
-
-=>a27
-::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
-
-=>a28_original
-::Allocate power to Caerus Residential Block (-40%)::<end>
-
-=>a28
-::Allocate power to Caerus Residential Block (-40%)::<end>
-
-=>q29_original
-::Power allocated successfully!::
-<end>
-
-=>q29
-::Power allocated successfully!::
-<end>
-
-=>a30_original
-::Deallocate power from Caerus Residential Block (+40%)::<end>
-
-=>a30
-::Deallocate power from Caerus Residential Block (+40%)::<end>
-
-=>a31_original
-::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
-
-=>a31
-::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
-
-=>a32_original
-::Allocate power to South Elevator *(Node 19 offline)*::<end>
-
-=>a32
-::Allocate power to South Elevator *(Node 19 offline)*::<end>
-
-=>a33_original
-::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
-
-=>a33
-::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
-
-=>a34_original
-::Exit::<end>
-
-=>a34
-::Exit::<end>
-
+=>q1_original
+::Arke Power Station Power Management Console
+
+Biocorp Dis Electronics
+
+Power station rated capacity: 300 MW
+Warning! Estimated turbine efficiency is extremely low! (<10%)
+Turbine maintenance or replacement is necessary!
+Warning! Total electric supply capacity is extremely low! (<5%)
+
+Current estimated capacity: <10 MW::<end>
+
+=>q1
+::Arke Power Station Power Management Console
+
+Biocorp Dis Electronics
+
+Power station rated capacity: 300 MW
+Warning! Estimated turbine efficiency is extremely low! (<10%)
+Turbine maintenance or replacement is necessary!
+Warning! Total electric supply capacity is extremely low! (<5%)
+
+Current estimated capacity: <10 MW::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Current power expenditure (%):
+
+Research Complex: $(context.loc_dc_labPower)%
+Tithonus Lab: 0%
+Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
+Mutagen Tanks B: 0%
+Arke Power Station: $(context.loc_dc_arkePower)%
+Warehouse Block 1: 0%
+Warehouse Block 2: $(context.loc_dc_warehousePower)%
+BCAF - Detachment Hollow Earth: 0%
+Talos Outpost: $(context.loc_dc_facelessPower)%
+Caerus Residential Block: $(context.loc_dc_residentialPower)%
+Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
+South Elevator: 0%
+
+Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
+
+=>q3
+::Current power expenditure (%):
+
+Research Complex: $(context.loc_dc_labPower)%
+Tithonus Lab: 0%
+Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
+Mutagen Tanks B: 0%
+Arke Power Station: $(context.loc_dc_arkePower)%
+Warehouse Block 1: 0%
+Warehouse Block 2: $(context.loc_dc_warehousePower)%
+BCAF - Detachment Hollow Earth: 0%
+Talos Outpost: $(context.loc_dc_facelessPower)%
+Caerus Residential Block: $(context.loc_dc_residentialPower)%
+Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
+South Elevator: 0%
+
+Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
+
+=>a4_original
+::Power plant management::<end>
+
+=>a4
+::Power plant management::<end>
+
+=>q5_original
+::Gas turbine 1 status: on
+Gas turbine 2 status: on
+
+Warning! Turbine maintenance or replacement is necessary!
+
+Steam turbine status: on
+Heat recovery steam generator (HRSG) status: on
+::<end>
+
+=>q5
+::Gas turbine 1 status: on
+Gas turbine 2 status: on
+
+Warning! Turbine maintenance or replacement is necessary!
+
+Steam turbine status: on
+Heat recovery steam generator (HRSG) status: on
+::<end>
+
+=>q6_original
+::HRSG supplementary burners: on
+
+Mode of operation: combined cycle (Manual config)::<end>
+
+=>q6
+::HRSG supplementary burners: on
+
+Mode of operation: combined cycle (Manual config)::<end>
+
+=>a7_original
+::Back::<end>
+
+=>a7
+::Back::<end>
+
+=>q8_original
+::HRSG supplementary burners: off
+
+Mode of operation: combined cycle (Auto config)::<end>
+
+=>q8
+::HRSG supplementary burners: off
+
+Mode of operation: combined cycle (Auto config)::<end>
+
+=>a9_original
+::[Electronics] Manually configure the combined-cycle system::<end>
+
+=>a9
+::[Electronics] Manually configure the combined-cycle system::<end>
+
+=>q10_original
+::Optimizing gas turbine air-fuel mixture... Done.
+
+Engaging and configuring HRSG supplementary burners... Done.
+
+::<end>
+
+=>q10
+::Optimizing gas turbine air-fuel mixture... Done.
+
+Engaging and configuring HRSG supplementary burners... Done.
+
+::<end>
+
+=>q11_original
+::Verifying steam turbine status... Done.
+
+Optimizing supercondenser operation... Done.
+
+Manual configuration successful. Total net power gain: 51%::<end>
+
+=>q11
+::Verifying steam turbine status... Done.
+
+Optimizing supercondenser operation... Done.
+
+Manual configuration successful. Total net power gain: 51%::<end>
+
+=>q12_original
+::Warning! Steam pressure reaching unacceptable levels!
+
+Reverting to default settings... 
+Disengaging HRSG supplementary burners... 
+Optimizing air-fuel mixture...
+
+Procedure completed! (52 errors logged)::<end>
+
+=>q12
+::Warning! Steam pressure reaching unacceptable levels!
+
+Reverting to default settings... 
+Disengaging HRSG supplementary burners... 
+Optimizing air-fuel mixture...
+
+Procedure completed! (52 errors logged)::<end>
+
+=>a13_original
+::Deallocate power from Arke security systems and assembly lines::<end>
+
+=>a13
+::Deallocate power from Arke security systems and assembly lines::<end>
+
+=>q14_original
+::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
+
+Are you sure you want to proceed?::<end>
+
+=>q14
+::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
+
+Are you sure you want to proceed?::<end>
+
+=>a15_original
+::Yes::<end>
+
+=>a15
+::Yes::<end>
+
+=>q16_original
+::Disabling security systems...
+
+Turbine chamber security - security disabled!
+Office section - security disabled!
+Automated manufacturing and assembly - security disabled!
+IRIS Core - Error: Remote access is denied!
+
+Procedure completed with 1 error(s)::<end>
+
+=>q16
+::Disabling security systems...
+
+Turbine chamber security - security disabled!
+Office section - security disabled!
+Automated manufacturing and assembly - security disabled!
+IRIS Core - Error: Remote access is denied!
+
+Procedure completed with 1 error(s)::<end>
+
+=>a17_original
+::No::<end>
+
+=>a17
+::No::<end>
+
+=>q18_original
+::Procedure canceled::<end>
+
+=>q18
+::Procedure canceled::<end>
+
+=>a19_original
+::Allocate power to Warehouse Block 2 (-5%)::<end>
+
+=>a19
+::Allocate power to Warehouse Block 2 (-5%)::<end>
+
+=>q20_original
+::Power allocated successfully!::
+
+<end>
+
+=>q20
+::Power allocated successfully!::
+
+<end>
+
+=>a21_original
+::Deallocate power from Warehouse Block 2 (+5%)::<end>
+
+=>a21
+::Deallocate power from Warehouse Block 2 (+5%)::<end>
+
+=>q22_original
+::Power deallocated successfully!::
+
+<end>
+
+=>q22
+::Power deallocated successfully!::
+
+<end>
+
+=>a23_original
+::Allocate power to Hollow Earth main research complex (-60%)::<end>
+
+=>a23
+::Allocate power to Hollow Earth main research complex (-60%)::<end>
+
+=>a24_original
+::Deallocate power from Hollow Earth main research complex (+60%)::<end>
+
+=>a24
+::Deallocate power from Hollow Earth main research complex (+60%)::<end>
+
+=>a25_original
+::Allocate power to Mutagen Tanks A (-30%)::<end>
+
+=>a25
+::Allocate power to Mutagen Tanks A (-30%)::<end>
+
+=>a26_original
+::Deallocate power from Mutagen Tanks A (+30%)::<end>
+
+=>a26
+::Deallocate power from Mutagen Tanks A (+30%)::<end>
+
+=>a27_original
+::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
+
+=>a27
+::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
+
+=>a28_original
+::Allocate power to Caerus Residential Block (-40%)::<end>
+
+=>a28
+::Allocate power to Caerus Residential Block (-40%)::<end>
+
+=>q29_original
+::Power allocated successfully!::
+<end>
+
+=>q29
+::Power allocated successfully!::
+<end>
+
+=>a30_original
+::Deallocate power from Caerus Residential Block (+40%)::<end>
+
+=>a30
+::Deallocate power from Caerus Residential Block (+40%)::<end>
+
+=>a31_original
+::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
+
+=>a31
+::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
+
+=>a32_original
+::Allocate power to South Elevator *(Node 19 offline)*::<end>
+
+=>a32
+::Allocate power to South Elevator *(Node 19 offline)*::<end>
+
+=>a33_original
+::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
+
+=>a33
+::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
+
+=>a34_original
+::Exit::<end>
+
+=>a34
+::Exit::<end>
+

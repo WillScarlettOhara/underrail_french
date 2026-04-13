@@ -1,84 +1,84 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Welcome to Foundry. Don't mind the foul air. ::Coughs.::<end>
-
-=>q2
-Welcome to Foundry. Don't mind the foul air. ::Coughs.::<end>
-
-=>q3_original
-No more monsters! Yay!<end>
-
-=>q3
-No more monsters! Yay!<end>
-
-=>q4_original
-The people have become really aggressive lately. ::Coughs.::<end>
-
-=>q4
-The people have become really aggressive lately. ::Coughs.::<end>
-
-=>q5_original
-As if being a miner isn't already too difficult, we now have to deal with those freakin' monsters!<end>
-
-=>q5
-As if being a miner isn't already too difficult, we now have to deal with those freakin' monsters!<end>
-
-=>q6_original
-All booze tastes like muck after coming back from Drag and Drop.<end>
-
-=>q6
-All booze tastes like muck after coming back from Drag and Drop.<end>
-
-=>q7_original
-Pretty much everything tastes different around here. Food, water, medicine... ::Coughs.::<end>
-
-=>q7
-Pretty much everything tastes different around here. Food, water, medicine... ::Coughs.::<end>
-
-=>q8_original
-Prison lockdown? Where is this world heading to?<end>
-
-=>q8
-Prison lockdown? Where is this world heading to?<end>
-
-=>q9_original
-My legs feel so friable right now.<end>
-
-=>q9
-My legs feel so friable right now.<end>
-
-=>q10_original
-Avoid the slums. ::Coughs.::<end>
-
-=>q10
-Avoid the slums. ::Coughs.::<end>
-
-=>q11_original
-Hi, $(context.player.Name). How are you feelin'?<end>
-
-=>q11
-Hi, $(context.player.Name). How are you feelin'?<end>
-
-=>q12_original
-I heard about the Faceless attack on Rail Crossing. And now they're here!<end>
-
-=>q12
-I heard about the Faceless attack on Rail Crossing. And now they're here!<end>
-
-=>q13_original
-Whoa! Heard about Evelyn? ::Coughs.::<end>
-
-=>q13
-Whoa! Heard about Evelyn? ::Coughs.::<end>
-
-=>q14_original
-Faceless'll never get through our walls.<end>
-
-=>q14
-Faceless'll never get through our walls.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Welcome to Foundry. Don't mind the foul air. ::Coughs.::<end>
+
+=>q2
+Welcome to Foundry. Don't mind the foul air. ::Coughs.::<end>
+
+=>q3_original
+No more monsters! Yay!<end>
+
+=>q3
+No more monsters! Yay!<end>
+
+=>q4_original
+The people have become really aggressive lately. ::Coughs.::<end>
+
+=>q4
+The people have become really aggressive lately. ::Coughs.::<end>
+
+=>q5_original
+As if being a miner isn't already too difficult, we now have to deal with those freakin' monsters!<end>
+
+=>q5
+As if being a miner isn't already too difficult, we now have to deal with those freakin' monsters!<end>
+
+=>q6_original
+All booze tastes like muck after coming back from Drag and Drop.<end>
+
+=>q6
+All booze tastes like muck after coming back from Drag and Drop.<end>
+
+=>q7_original
+Pretty much everything tastes different around here. Food, water, medicine... ::Coughs.::<end>
+
+=>q7
+Pretty much everything tastes different around here. Food, water, medicine... ::Coughs.::<end>
+
+=>q8_original
+Prison lockdown? Where is this world heading to?<end>
+
+=>q8
+Prison lockdown? Where is this world heading to?<end>
+
+=>q9_original
+My legs feel so friable right now.<end>
+
+=>q9
+My legs feel so friable right now.<end>
+
+=>q10_original
+Avoid the slums. ::Coughs.::<end>
+
+=>q10
+Avoid the slums. ::Coughs.::<end>
+
+=>q11_original
+Hi, $(context.player.Name). How are you feelin'?<end>
+
+=>q11
+Hi, $(context.player.Name). How are you feelin'?<end>
+
+=>q12_original
+I heard about the Faceless attack on Rail Crossing. And now they're here!<end>
+
+=>q12
+I heard about the Faceless attack on Rail Crossing. And now they're here!<end>
+
+=>q13_original
+Whoa! Heard about Evelyn? ::Coughs.::<end>
+
+=>q13
+Whoa! Heard about Evelyn? ::Coughs.::<end>
+
+=>q14_original
+Faceless'll never get through our walls.<end>
+
+=>q14
+Faceless'll never get through our walls.<end>
+

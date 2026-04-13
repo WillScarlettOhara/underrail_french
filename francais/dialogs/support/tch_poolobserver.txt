@@ -1,66 +1,66 @@
-=>q1_original
-Help!<end>
-
-=>q1
-Help!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Look at them go...<end>
-
-=>q3
-Look at them go...<end>
-
-=>q4_original
-$(#Brother/Sister)?<end>
-
-=>q4
-$(#Brother/Sister)?<end>
-
-=>q5_original
-Tchort is evolution.<end>
-
-=>q5
-Tchort is evolution.<end>
-
-=>q6_original
-Raj really takes pool too seriously. ::Laughs.::<end>
-
-=>q6
-Raj really takes pool too seriously. ::Laughs.::<end>
-
-=>q7_original
-We'll send someone to the Surface before Raj finishes his turn.<end>
-
-=>q7
-We'll send someone to the Surface before Raj finishes his turn.<end>
-
-=>q8_original
-Getting to know the Institute, huh, novitiate?<end>
-
-=>q8
-Getting to know the Institute, huh, novitiate?<end>
-
-=>q9_original
-In case you need medical aid, just go straight then right and you'll see Jerre Franz's office.<end>
-
-=>q9
-In case you need medical aid, just go straight then right and you'll see Jerre Franz's office.<end>
-
-=>q10_original
-Tchort guide you, $(#brother/sister).<end>
-
-=>q10
-Tchort guide you, $(#brother/sister).<end>
-
-=>q11_original
-Come on Raj, what's taking you so long? You're not playing chess.<end>
-
-=>q11
-Come on Raj, what's taking you so long? You're not playing chess.<end>
-
+=>q1_original
+Help!<end>
+
+=>q1
+Help!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Look at them go...<end>
+
+=>q3
+Look at them go...<end>
+
+=>q4_original
+$(#Brother/Sister)?<end>
+
+=>q4
+$(#Brother/Sister)?<end>
+
+=>q5_original
+Tchort is evolution.<end>
+
+=>q5
+Tchort is evolution.<end>
+
+=>q6_original
+Raj really takes pool too seriously. ::Laughs.::<end>
+
+=>q6
+Raj really takes pool too seriously. ::Laughs.::<end>
+
+=>q7_original
+We'll send someone to the Surface before Raj finishes his turn.<end>
+
+=>q7
+We'll send someone to the Surface before Raj finishes his turn.<end>
+
+=>q8_original
+Getting to know the Institute, huh, novitiate?<end>
+
+=>q8
+Getting to know the Institute, huh, novitiate?<end>
+
+=>q9_original
+In case you need medical aid, just go straight then right and you'll see Jerre Franz's office.<end>
+
+=>q9
+In case you need medical aid, just go straight then right and you'll see Jerre Franz's office.<end>
+
+=>q10_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q10
+Tchort guide you, $(#brother/sister).<end>
+
+=>q11_original
+Come on Raj, what's taking you so long? You're not playing chess.<end>
+
+=>q11
+Come on Raj, what's taking you so long? You're not playing chess.<end>
+

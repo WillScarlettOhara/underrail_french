@@ -1,336 +1,336 @@
-=>q1_original
-Arrgh!<end>
-
-=>q1
-Arrgh!<end>
-
-=>q2_original
-Ugh!<end>
-
-=>q2
-Ugh!<end>
-
-=>q3_original
-Ngh...<end>
-
-=>q3
-Ngh...<end>
-
-=>q4_original
-AAARGH!<end>
-
-=>q4
-AAARGH!<end>
-
-=>q5_original
-::Pukes blood.:: Ngh...<end>
-
-=>q5
-::Pukes blood.:: Ngh...<end>
-
-=>q6_original
-Ugh!<end>
-
-=>q6
-Ugh!<end>
-
-=>q7_original
-Arrrgh... t-the pain...<end>
-
-=>q7
-Arrrgh... t-the pain...<end>
-
-=>q8_original
-::Gasps for air.::<end>
-
-=>q8
-::Gasps for air.::<end>
-
-=>q9_original
-Ugh... <end>
-
-=>q9
-Ugh... <end>
-
-=>q10_original
-Argh... blood...<end>
-
-=>q10
-Argh... blood...<end>
-
-=>q11_original
-AAAAAAH!<end>
-
-=>q11
-AAAAAAH!<end>
-
-=>q12_original
-Ow, ow, ow, ow!<end>
-
-=>q12
-Ow, ow, ow, ow!<end>
-
-=>q13_original
-AAARGH!<end>
-
-=>q13
-AAARGH!<end>
-
-=>q14_original
-Brrr...<end>
-
-=>q14
-Brrr...<end>
-
-=>q15_original
-Hnnnn...<end>
-
-=>q15
-Hnnnn...<end>
-
-=>q16_original
-::Muffled voice.::<end>
-
-=>q16
-::Muffled voice.::<end>
-
-=>q17_original
-Aaaarghhh!<end>
-
-=>q17
-Aaaarghhh!<end>
-
-=>q18_original
-Arrgh!<end>
-
-=>q18
-Arrgh!<end>
-
-=>q19_original
-::Grabs head.:: AAAARRGH!<end>
-
-=>q19
-::Grabs head.:: AAAARRGH!<end>
-
-=>q20_original
-Ouch!<end>
-
-=>q20
-Ouch!<end>
-
-=>q21_original
-AAAAAARRGH!<end>
-
-=>q21
-AAAAAARRGH!<end>
-
-=>q22_original
-Ugh! Ugh! My leg... Aaah!<end>
-
-=>q22
-Ugh! Ugh! My leg... Aaah!<end>
-
-=>q23_original
-No! Ow... Argh...<end>
-
-=>q23
-No! Ow... Argh...<end>
-
-=>q24_original
-::Coughs.::<end>
-
-=>q24
-::Coughs.::<end>
-
-=>q25_original
-::Gasps for air.::<end>
-
-=>q25
-::Gasps for air.::<end>
-
-=>q26_original
-AAAAAARRGH!<end>
-
-=>q26
-AAAAAARRGH!<end>
-
-=>q27_original
-S-s-so cold...<end>
-
-=>q27
-S-s-so cold...<end>
-
-=>q28_original
-::Shivers.::<end>
-
-=>q28
-::Shivers.::<end>
-
-=>q29_original
-::Struggles to move.::<end>
-
-=>q29
-::Struggles to move.::<end>
-
-=>q30_original
-::Grabs chest.::<end>
-
-=>q30
-::Grabs chest.::<end>
-
-=>q31_original
-Ahhhh...<end>
-
-=>q31
-Ahhhh...<end>
-
-=>q32_original
-Nghh... ahh...<end>
-
-=>q32
-Nghh... ahh...<end>
-
-=>q33_original
-Mmmm...<end>
-
-=>q33
-Mmmm...<end>
-
-=>q34_original
-Ahhh...<end>
-
-=>q34
-Ahhh...<end>
-
-=>q35_original
-Ugh!<end>
-
-=>q35
-Ugh!<end>
-
-=>q36_original
-Aaargh!<end>
-
-=>q36
-Aaargh!<end>
-
-=>q37_original
-N-- No...<end>
-
-=>q37
-N-- No...<end>
-
-=>q38_original
-Aaaaah!<end>
-
-=>q38
-Aaaaah!<end>
-
-=>q39_original
-I... I...<end>
-
-=>q39
-I... I...<end>
-
-=>q40_original
-Hnnnn... Ugh...<end>
-
-=>q40
-Hnnnn... Ugh...<end>
-
-=>q41_original
-Aaaaaaaah!<end>
-
-=>q41
-Aaaaaaaah!<end>
-
-=>q42_original
-Eeeeeeeyaaaaah!<end>
-
-=>q42
-Eeeeeeeyaaaaah!<end>
-
-=>q43_original
-Someone's here!<end>
-
-=>q43
-Someone's here!<end>
-
-=>q44_original
-I... need assistance! ::Grabs head.::<end>
-
-=>q44
-I... need assistance! ::Grabs head.::<end>
-
-=>q45_original
-Help!<end>
-
-=>q45
-Help!<end>
-
-=>q46_original
-Hmm... nnnn...<end>
-
-=>q46
-Hmm... nnnn...<end>
-
-=>q47_original
-Help me... ::Grabs head.::<end>
-
-=>q47
-Help me... ::Grabs head.::<end>
-
-=>q48_original
-I must... do this...<end>
-
-=>q48
-I must... do this...<end>
-
-=>q49_original
-Kill...<end>
-
-=>q49
-Kill...<end>
-
-=>q50_original
-F-forgive... me... ::Grabs head.::<end>
-
-=>q50
-F-forgive... me... ::Grabs head.::<end>
-
-=>q51_original
-I... don't...<end>
-
-=>q51
-I... don't...<end>
-
-=>q52_original
-Die!<end>
-
-=>q52
-Die!<end>
-
-=>q53_original
-No, n-no!<end>
-
-=>q53
-No, n-no!<end>
-
-=>q54_original
-Please don't... p-p...<end>
-
-=>q54
-Please don't... p-p...<end>
-
-=>q55_original
-I'm not... ::Grabs head.:: I don't want...<end>
-
-=>q55
-I'm not... ::Grabs head.:: I don't want...<end>
-
-=>q56_original
-::Cries.::<end>
-
-=>q56
-::Cries.::<end>
-
+=>q1_original
+Arrgh!<end>
+
+=>q1
+Arrgh!<end>
+
+=>q2_original
+Ugh!<end>
+
+=>q2
+Ugh!<end>
+
+=>q3_original
+Ngh...<end>
+
+=>q3
+Ngh...<end>
+
+=>q4_original
+AAARGH!<end>
+
+=>q4
+AAARGH!<end>
+
+=>q5_original
+::Pukes blood.:: Ngh...<end>
+
+=>q5
+::Pukes blood.:: Ngh...<end>
+
+=>q6_original
+Ugh!<end>
+
+=>q6
+Ugh!<end>
+
+=>q7_original
+Arrrgh... t-the pain...<end>
+
+=>q7
+Arrrgh... t-the pain...<end>
+
+=>q8_original
+::Gasps for air.::<end>
+
+=>q8
+::Gasps for air.::<end>
+
+=>q9_original
+Ugh... <end>
+
+=>q9
+Ugh... <end>
+
+=>q10_original
+Argh... blood...<end>
+
+=>q10
+Argh... blood...<end>
+
+=>q11_original
+AAAAAAH!<end>
+
+=>q11
+AAAAAAH!<end>
+
+=>q12_original
+Ow, ow, ow, ow!<end>
+
+=>q12
+Ow, ow, ow, ow!<end>
+
+=>q13_original
+AAARGH!<end>
+
+=>q13
+AAARGH!<end>
+
+=>q14_original
+Brrr...<end>
+
+=>q14
+Brrr...<end>
+
+=>q15_original
+Hnnnn...<end>
+
+=>q15
+Hnnnn...<end>
+
+=>q16_original
+::Muffled voice.::<end>
+
+=>q16
+::Muffled voice.::<end>
+
+=>q17_original
+Aaaarghhh!<end>
+
+=>q17
+Aaaarghhh!<end>
+
+=>q18_original
+Arrgh!<end>
+
+=>q18
+Arrgh!<end>
+
+=>q19_original
+::Grabs head.:: AAAARRGH!<end>
+
+=>q19
+::Grabs head.:: AAAARRGH!<end>
+
+=>q20_original
+Ouch!<end>
+
+=>q20
+Ouch!<end>
+
+=>q21_original
+AAAAAARRGH!<end>
+
+=>q21
+AAAAAARRGH!<end>
+
+=>q22_original
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q22
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q23_original
+No! Ow... Argh...<end>
+
+=>q23
+No! Ow... Argh...<end>
+
+=>q24_original
+::Coughs.::<end>
+
+=>q24
+::Coughs.::<end>
+
+=>q25_original
+::Gasps for air.::<end>
+
+=>q25
+::Gasps for air.::<end>
+
+=>q26_original
+AAAAAARRGH!<end>
+
+=>q26
+AAAAAARRGH!<end>
+
+=>q27_original
+S-s-so cold...<end>
+
+=>q27
+S-s-so cold...<end>
+
+=>q28_original
+::Shivers.::<end>
+
+=>q28
+::Shivers.::<end>
+
+=>q29_original
+::Struggles to move.::<end>
+
+=>q29
+::Struggles to move.::<end>
+
+=>q30_original
+::Grabs chest.::<end>
+
+=>q30
+::Grabs chest.::<end>
+
+=>q31_original
+Ahhhh...<end>
+
+=>q31
+Ahhhh...<end>
+
+=>q32_original
+Nghh... ahh...<end>
+
+=>q32
+Nghh... ahh...<end>
+
+=>q33_original
+Mmmm...<end>
+
+=>q33
+Mmmm...<end>
+
+=>q34_original
+Ahhh...<end>
+
+=>q34
+Ahhh...<end>
+
+=>q35_original
+Ugh!<end>
+
+=>q35
+Ugh!<end>
+
+=>q36_original
+Aaargh!<end>
+
+=>q36
+Aaargh!<end>
+
+=>q37_original
+N-- No...<end>
+
+=>q37
+N-- No...<end>
+
+=>q38_original
+Aaaaah!<end>
+
+=>q38
+Aaaaah!<end>
+
+=>q39_original
+I... I...<end>
+
+=>q39
+I... I...<end>
+
+=>q40_original
+Hnnnn... Ugh...<end>
+
+=>q40
+Hnnnn... Ugh...<end>
+
+=>q41_original
+Aaaaaaaah!<end>
+
+=>q41
+Aaaaaaaah!<end>
+
+=>q42_original
+Eeeeeeeyaaaaah!<end>
+
+=>q42
+Eeeeeeeyaaaaah!<end>
+
+=>q43_original
+Someone's here!<end>
+
+=>q43
+Someone's here!<end>
+
+=>q44_original
+I... need assistance! ::Grabs head.::<end>
+
+=>q44
+I... need assistance! ::Grabs head.::<end>
+
+=>q45_original
+Help!<end>
+
+=>q45
+Help!<end>
+
+=>q46_original
+Hmm... nnnn...<end>
+
+=>q46
+Hmm... nnnn...<end>
+
+=>q47_original
+Help me... ::Grabs head.::<end>
+
+=>q47
+Help me... ::Grabs head.::<end>
+
+=>q48_original
+I must... do this...<end>
+
+=>q48
+I must... do this...<end>
+
+=>q49_original
+Kill...<end>
+
+=>q49
+Kill...<end>
+
+=>q50_original
+F-forgive... me... ::Grabs head.::<end>
+
+=>q50
+F-forgive... me... ::Grabs head.::<end>
+
+=>q51_original
+I... don't...<end>
+
+=>q51
+I... don't...<end>
+
+=>q52_original
+Die!<end>
+
+=>q52
+Die!<end>
+
+=>q53_original
+No, n-no!<end>
+
+=>q53
+No, n-no!<end>
+
+=>q54_original
+Please don't... p-p...<end>
+
+=>q54
+Please don't... p-p...<end>
+
+=>q55_original
+I'm not... ::Grabs head.:: I don't want...<end>
+
+=>q55
+I'm not... ::Grabs head.:: I don't want...<end>
+
+=>q56_original
+::Cries.::<end>
+
+=>q56
+::Cries.::<end>
+

@@ -1,718 +1,718 @@
-=>q1_original
-You really want those hostages to die, don't you? Get going.<end>
-
-=>q1
-You really want those hostages to die, don't you? Get going.<end>
-
-=>q2_original
-::Ola seems unfazed by the stench of the place, although his respirator probably has something to do with it. He nods at your approach.:: 
-
-Glad you could make it in one piece, $(#bro/sis). The area is clear, as I had hoped, so let's get started.<end>
-
-=>q2
-::Ola seems unfazed by the stench of the place, although his respirator probably has something to do with it. He nods at your approach.:: 
-
-Glad you could make it in one piece, $(#bro/sis). The area is clear, as I had hoped, so let's get started.<end>
-
-=>q3_original
-I'll now unlock this door for you, what you need to do is as we have talked about: You go through the caves, and at the far end you'll find the back entrance to the security room, below the warehouse. Once you're inside, find a way to disable the security system. Whether it's a console or some other controls, make sure to smash them just in case; we don't want anyone turning the defenses back on at the wrong moment.
-
-As soon as the defenses are down, our team will move in and take care of the rest. Then we all meet back in JKK building and have a brew or something. Any questions?<end>
-
-=>q3
-I'll now unlock this door for you, what you need to do is as we have talked about: You go through the caves, and at the far end you'll find the back entrance to the security room, below the warehouse. Once you're inside, find a way to disable the security system. Whether it's a console or some other controls, make sure to smash them just in case; we don't want anyone turning the defenses back on at the wrong moment.
-
-As soon as the defenses are down, our team will move in and take care of the rest. Then we all meet back in JKK building and have a brew or something. Any questions?<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-Who are these hostages?<end>
-
-=>a5
-Who are these hostages?<end>
-
-=>q6_original
-Let's just say these people are very important, $(#bro/sis), and their deaths would really affect Core City. For the worse, of course.<end>
-
-=>q6
-Let's just say these people are very important, $(#bro/sis), and their deaths would really affect Core City. For the worse, of course.<end>
-
-=>q7_original
-So be very careful what you do, and stay focused.<end>
-
-=>q7
-So be very careful what you do, and stay focused.<end>
-
-=>a8_original
-Who holds those hostages and why?<end>
-
-=>a8
-Who holds those hostages and why?<end>
-
-=>q9_original
-All we know is that it is a mercenary group, highly trained and well-equipped from what we've learned, but who is behind them... that we don't know yet. <end>
-
-=>q9
-All we know is that it is a mercenary group, highly trained and well-equipped from what we've learned, but who is behind them... that we don't know yet. <end>
-
-=>q10_original
-Once we secure the hostages, though, we should have more answers.<end>
-
-=>q10
-Once we secure the hostages, though, we should have more answers.<end>
-
-=>a11_original
-Anything I should worry about in those caves?<end>
-
-=>a11
-Anything I should worry about in those caves?<end>
-
-=>q12_original
-Well, I heard some strange sounds just before you came, and it sounded like some muties, but I can't tell for sure.<end>
-
-=>q12
-Well, I heard some strange sounds just before you came, and it sounded like some muties, but I can't tell for sure.<end>
-
-=>q13_original
-Just keep your eyes wide open and be prepared for anything, $(#bro/sis). No one knows what really lurks in there.<end>
-
-=>q13
-Just keep your eyes wide open and be prepared for anything, $(#bro/sis). No one knows what really lurks in there.<end>
-
-=>a14_original
-How do you know all this stuff about the security and all?<end>
-
-=>a14
-How do you know all this stuff about the security and all?<end>
-
-=>q15_original
-Core City is very old, and so is the warehouse.<end>
-
-=>q15
-Core City is very old, and so is the warehouse.<end>
-
-=>q16_original
-It's easy to find plans when they are needed. Now, them being outdated is... a different issue, but they get the job done.<end>
-
-=>q16
-It's easy to find plans when they are needed. Now, them being outdated is... a different issue, but they get the job done.<end>
-
-=>a17_original
-The back entrance is through the caves?<end>
-
-=>a17
-The back entrance is through the caves?<end>
-
-=>q18_original
-Well, as far as I know, it served as an escape exit, so it makes some sense. Now, after the recent earthquake, I don't think anything is safe down there.<end>
-
-=>q18
-Well, as far as I know, it served as an escape exit, so it makes some sense. Now, after the recent earthquake, I don't think anything is safe down there.<end>
-
-=>q19_original
-Who knows, maybe you'll even run into the pipeworking Lurkers in there, those monsters are everywhere. All in all, take care, $(#bro/sis).<end>
-
-=>q19
-Who knows, maybe you'll even run into the pipeworking Lurkers in there, those monsters are everywhere. All in all, take care, $(#bro/sis).<end>
-
-=>a20_original
-How do I disable the system?<end>
-
-=>a20
-How do I disable the system?<end>
-
-=>q21_original
-I don't know, find a way. That is up to you.<end>
-
-=>q21
-I don't know, find a way. That is up to you.<end>
-
-=>q22_original
-I can't tell you everything.<end>
-
-=>q22
-I can't tell you everything.<end>
-
-=>a23_original
-How come you didn't ask Praetorian Security for help?<end>
-
-=>a23
-How come you didn't ask Praetorian Security for help?<end>
-
-=>q24_original
-While the Praetorians do have the largest force in Core City, numerically speaking, they are currently preoccupied with the Faceless invasion.<end>
-
-=>q24
-While the Praetorians do have the largest force in Core City, numerically speaking, they are currently preoccupied with the Faceless invasion.<end>
-
-=>q25_original
-Besides, other than the numerical advantage, Praetorians are no more capable than our JKK men and women.<end>
-
-=>q25
-Besides, other than the numerical advantage, Praetorians are no more capable than our JKK men and women.<end>
-
-=>a26_original
-I'm ready to go.<end>
-
-=>a26
-I'm ready to go.<end>
-
-=>q27_original
-Sweet. Take good care over there - and don't fail us.<end>
-
-=>q27
-Sweet. Take good care over there - and don't fail us.<end>
-
-=>a28_original
-Me? Fail? ::Laugh.::<end>
-
-=>a28
-Me? Fail? ::Laugh.::<end>
-
-=>q29_original
-One more thing, $(context.player.Name), now that we are alone: Be very careful with Vivian.<end>
-
-=>q29
-One more thing, $(context.player.Name), now that we are alone: Be very careful with Vivian.<end>
-
-=>a30_original
-What do you mean?<end>
-
-=>a30
-What do you mean?<end>
-
-=>q31_original
-What I mean is, she might seem all friendly and groovy, and nice to work with, but some of us in JKK have very good reasons to suspect that she's working for someone else.<end>
-
-=>q31
-What I mean is, she might seem all friendly and groovy, and nice to work with, but some of us in JKK have very good reasons to suspect that she's working for someone else.<end>
-
-=>a32_original
-Like a double agent?<end>
-
-=>a32
-Like a double agent?<end>
-
-=>q33_original
-Maybe, no one is sure of anything yet. You're new, so I can't blame you for not noticing the little hints and clues. She is, after all, the person that gave you the job.<end>
-
-=>q33
-Maybe, no one is sure of anything yet. You're new, so I can't blame you for not noticing the little hints and clues. She is, after all, the person that gave you the job.<end>
-
-=>a34_original
-I'll keep my eyes open for anything suspicious.<end>
-
-=>a34
-I'll keep my eyes open for anything suspicious.<end>
-
-=>q35_original
-Good. This was between you and me. I'll now open the door for you.<end>
-
-=>q35
-Good. This was between you and me. I'll now open the door for you.<end>
-
-=>a36_original
-I'm ready.<end>
-
-=>a36
-I'm ready.<end>
-
-=>a37_original
-Not interested. Will you let me go already?<end>
-
-=>a37
-Not interested. Will you let me go already?<end>
-
-=>q38_original
-::Ola doesn't seem pleased by your response.:: Okay, okay... "whatever." Just know that you might regret not listening to what I had to say, $(#bro/sis). I'll now open the door for you.<end>
-
-=>q38
-::Ola doesn't seem pleased by your response.:: Okay, okay... "whatever." Just know that you might regret not listening to what I had to say, $(#bro/sis). I'll now open the door for you.<end>
-
-=>a39_original
-Yeah, you do that.<end>
-
-=>a39
-Yeah, you do that.<end>
-
-=>a40_original
-I never failed anyone. Remember that.<end>
-
-=>a40
-I never failed anyone. Remember that.<end>
-
-=>q41_original
-Hey, $(#bro/sis).<end>
-
-=>q41
-Hey, $(#bro/sis).<end>
-
-=>q42_original
-Hey $(#bro/sis), the big man wants to talk to you. Mr. Edstrom, that is. He's up in his office.<end>
-
-=>q42
-Hey $(#bro/sis), the big man wants to talk to you. Mr. Edstrom, that is. He's up in his office.<end>
-
-=>a43_original
-I will go and see him.<end>
-
-=>a43
-I will go and see him.<end>
-
-=>q44_original
-Okay, this is how's it's gonna be: I'll go to the sewers beneath Core City and scout out the area first, make sure everything is clear. After that, I'll meet with you and we will proceed from there.<end>
-
-=>q44
-Okay, this is how's it's gonna be: I'll go to the sewers beneath Core City and scout out the area first, make sure everything is clear. After that, I'll meet with you and we will proceed from there.<end>
-
-=>a45_original
-How will I find you?<end>
-
-=>a45
-How will I find you?<end>
-
-=>q46_original
-It's simple: Enter the sewers from the docks, then take the first western tunnel. Follow it all the way until you come to a fenced-off cave entrance. Got it,  $(#bro/sis)?<end>
-
-=>q46
-It's simple: Enter the sewers from the docks, then take the first western tunnel. Follow it all the way until you come to a fenced-off cave entrance. Got it,  $(#bro/sis)?<end>
-
-=>a47_original
-Can't you leave bread crumbs behind you?<end>
-
-=>a47
-Can't you leave bread crumbs behind you?<end>
-
-=>q48_original
-Those would attract hungry rathounds. Or muties, I don't know. ::He smiles.:: Anyway, see you there and good luck.<end>
-
-=>q48
-Those would attract hungry rathounds. Or muties, I don't know. ::He smiles.:: Anyway, see you there and good luck.<end>
-
-=>a49_original
-Got it, meet you there.<end>
-
-=>a49
-Got it, meet you there.<end>
-
-=>a50_original
-I'll find you on my own; I like exploring.<end>
-
-=>a50
-I'll find you on my own; I like exploring.<end>
-
-=>q51_original
-Adventurous type. Sweet! As you wish, I'll meet you... there. Somewhere. Good luck.<end>
-
-=>q51
-Adventurous type. Sweet! As you wish, I'll meet you... there. Somewhere. Good luck.<end>
-
-=>a52_original
-Sure, see you later.<end>
-
-=>a52
-Sure, see you later.<end>
-
-=>q53_original
-Hey, $(#bro/sis), what happened to you? I almost got worried the Faceless snatched you and dragged you down into Deep Caverns with them. ::He laughs.::<end>
-
-=>q53
-Hey, $(#bro/sis), what happened to you? I almost got worried the Faceless snatched you and dragged you down into Deep Caverns with them. ::He laughs.::<end>
-
-=>q54_original
-<end>
-
-=>q54
-<end>
-
-=>a55_original
-Show me what you got. ::Barter.::<end>
-
-=>a55
-Show me what you got. ::Barter.::<end>
-
-=>a56_original
-For some reason I still haven't gotten my uniform.<end>
-
-=>a56
-For some reason I still haven't gotten my uniform.<end>
-
-=>q57_original
-Vivian didn't give you your... Go figure.<end>
-
-=>q57
-Vivian didn't give you your... Go figure.<end>
-
-=>q58_original
-::He walks to one of the lockers in the back and grabs a leather jacket. He then rummages through several lockers before finding all the items he wanted and returns to you.::
-
-There, $(#bro/sis). Now you too can look hardcore.<end>
-
-=>q58
-::He walks to one of the lockers in the back and grabs a leather jacket. He then rummages through several lockers before finding all the items he wanted and returns to you.::
-
-There, $(#bro/sis). Now you too can look hardcore.<end>
-
-=>a59_original
-::[Mercantile]:: Where do you keep all the good stuff, Ola? Come on, I know you aren't showing me everything you've got in store.<end>
-
-=>a59
-::[Mercantile]:: Where do you keep all the good stuff, Ola? Come on, I know you aren't showing me everything you've got in store.<end>
-
-=>q60_original
-I believe you called me a liar once. If I say I've got nothing more to show you, would you believe me?<end>
-
-=>q60
-I believe you called me a liar once. If I say I've got nothing more to show you, would you believe me?<end>
-
-=>a61_original
-If I tell you I'm willing to spend a lot of money, would you believe me?<end>
-
-=>a61
-If I tell you I'm willing to spend a lot of money, would you believe me?<end>
-
-=>q62_original
-<end>
-
-=>q62
-<end>
-
-=>q63_original
-I think... I think I would, $(#bro/sis). Check this out.<end>
-
-=>q63
-I think... I think I would, $(#bro/sis). Check this out.<end>
-
-=>a64_original
-::Barter.::<end>
-
-=>a64
-::Barter.::<end>
-
-=>q65_original
-No, $(#bro/sis)... I would not. I don't think so. Anything else?<end>
-
-=>q65
-No, $(#bro/sis)... I would not. I don't think so. Anything else?<end>
-
-=>q66_original
-If I say I've got nothing more to show you, would you believe me?<end>
-
-=>q66
-If I say I've got nothing more to show you, would you believe me?<end>
-
-=>a67_original
-Mr. Edstrom told me to talk to you about some equipment.<end>
-
-=>a67
-Mr. Edstrom told me to talk to you about some equipment.<end>
-
-=>q68_original
-Yeah, that's right. As of now, you have permission to purchase equipment from me if you'd like.<end>
-
-=>q68
-Yeah, that's right. As of now, you have permission to purchase equipment from me if you'd like.<end>
-
-=>a69_original
-Mr. Edstrom told me to talk to you about something but didn't specify what it was.<end>
-
-=>a69
-Mr. Edstrom told me to talk to you about something but didn't specify what it was.<end>
-
-=>q70_original
-Yes, there is something, and I think you'll be quite pleased with what you're about to hear. You have been given a house, very groovy house in Core City. It's a little gift from Mr. Edstrom for your... dominating performance so far. All legal aspects have already been taken care of, you just need to go to it and take the keys. 
-
-Simple, right?<end>
-
-=>q70
-Yes, there is something, and I think you'll be quite pleased with what you're about to hear. You have been given a house, very groovy house in Core City. It's a little gift from Mr. Edstrom for your... dominating performance so far. All legal aspects have already been taken care of, you just need to go to it and take the keys. 
-
-Simple, right?<end>
-
-=>q71_original
-A Core City Housing Corporation representative will meet you in the easternmost part of this level - the residential district, where your house is located. It's a large house in the northern part of the area; you will easily find it, $(#bro/sis).<end>
-
-=>q71
-A Core City Housing Corporation representative will meet you in the easternmost part of this level - the residential district, where your house is located. It's a large house in the northern part of the area; you will easily find it, $(#bro/sis).<end>
-
-=>a72_original
-That is superb! But, I wanted to ask you something else before I leave.<end>
-
-=>a72
-That is superb! But, I wanted to ask you something else before I leave.<end>
-
-=>q73_original
-Go ahead.<end>
-
-=>q73
-Go ahead.<end>
-
-=>a74_original
-Let's not keep the man waiting then. Bye.<end>
-
-=>a74
-Let's not keep the man waiting then. Bye.<end>
-
-=>a75_original
-Security disabled.<end>
-
-=>a75
-Security disabled.<end>
-
-=>q76_original
-Great job! The operatives moved in as soon as you did your magic. The kidnappers were neutralized instantly, and the hostages rescued safely. All went as planned. $(context.player.Name). You should now report to Vivian for your reward.<end>
-
-=>q76
-Great job! The operatives moved in as soon as you did your magic. The kidnappers were neutralized instantly, and the hostages rescued safely. All went as planned. $(context.player.Name). You should now report to Vivian for your reward.<end>
-
-=>q77_original
-And keep on dominating, $(#bro/sis).<end>
-
-=>q77
-And keep on dominating, $(#bro/sis).<end>
-
-=>a78_original
-Hey, Ola. Where's Vivian? She said she'd meet me here.<end>
-
-=>a78
-Hey, Ola. Where's Vivian? She said she'd meet me here.<end>
-
-=>q79_original
-::Ola's smile appears to be a bit wider than usual, and a bit more dishonest.::
-
-$(#Bro/Sis)! How's it going? I've got your reward here for that job with Vivian. Here. ::He gives you 500 charons and a suit of leather armor.::<end>
-
-=>q79
-::Ola's smile appears to be a bit wider than usual, and a bit more dishonest.::
-
-$(#Bro/Sis)! How's it going? I've got your reward here for that job with Vivian. Here. ::He gives you 500 charons and a suit of leather armor.::<end>
-
-=>q80_original
-Sweet, that is done. I've got nothing for you at the moment, but I'll get to you when something comes up.<end>
-
-=>q80
-Sweet, that is done. I've got nothing for you at the moment, but I'll get to you when something comes up.<end>
-
-=>q81_original
-Sweet, that is done. Now, $(#bro/sis), I was told by Mr. Edstrom himself to get you up there in his office. I understand if you're nervous, but you really shouldn't be, he's totally groovy, totally chill. Just go there. Come on now.<end>
-
-=>q81
-Sweet, that is done. Now, $(#bro/sis), I was told by Mr. Edstrom himself to get you up there in his office. I understand if you're nervous, but you really shouldn't be, he's totally groovy, totally chill. Just go there. Come on now.<end>
-
-=>a82_original
-You didn't answer my question about Vivian.<end>
-
-=>a82
-You didn't answer my question about Vivian.<end>
-
-=>q83_original
-What question?<end>
-
-=>q83
-What question?<end>
-
-=>a84_original
-Where is she?<end>
-
-=>a84
-Where is she?<end>
-
-=>q85_original
-::Ola's smile slowly fades away as he answers your question.:: Right! Well - she's gone. Too bad, I know, but you should forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
-
-=>q85
-::Ola's smile slowly fades away as he answers your question.:: Right! Well - she's gone. Too bad, I know, but you should forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
-
-=>a86_original
-What do you mean, "she's gone"?<end>
-
-=>a86
-What do you mean, "she's gone"?<end>
-
-=>q87_original
-You just have to be so damn annoying, don't you? She's gone. There is no more Vivian. Remember when I told you back then that we were suspicious that she was doing some funny business? Well, she was! She was a double agent, you idiot! She was working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on you little "friendly" trip, you'd wipe that expression off your face.<end>
-
-=>q87
-You just have to be so damn annoying, don't you? She's gone. There is no more Vivian. Remember when I told you back then that we were suspicious that she was doing some funny business? Well, she was! She was a double agent, you idiot! She was working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on you little "friendly" trip, you'd wipe that expression off your face.<end>
-
-=>q88_original
-<end>
-
-=>q88
-<end>
-
-=>a89_original
-You still didn't explain what you meant by "gone"?<end>
-
-=>a89
-You still didn't explain what you meant by "gone"?<end>
-
-=>q90_original
-How do I put this...<end>
-
-=>q90
-How do I put this...<end>
-
-=>q91_original
-She's dead. Bam! Serves her right for being a traitor.<end>
-
-=>q91
-She's dead. Bam! Serves her right for being a traitor.<end>
-
-=>a92_original
-But, we were supposed to go to Hardcore City Bar later...<end>
-
-=>a92
-But, we were supposed to go to Hardcore City Bar later...<end>
-
-=>q93_original
-::He laughs at you.:: You are a moron! You really thought she was your friend? ::He laughs again.:: She was just playing you, $(#bro/sis)! And she's good at that... erm, *was* good at that.
-
-This is gold! I mean really!<end>
-
-=>q93
-::He laughs at you.:: You are a moron! You really thought she was your friend? ::He laughs again.:: She was just playing you, $(#bro/sis)! And she's good at that... erm, *was* good at that.
-
-This is gold! I mean really!<end>
-
-=>q94_original
-It was all a lie. A lie! A LIE! Remember that! Now, I don't want to talk about her anymore, she doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
-
-=>q94
-It was all a lie. A lie! A LIE! Remember that! Now, I don't want to talk about her anymore, she doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
-
-=>a95_original
-I know you're lying, Ola. There's something fishy going on here and I intend to find out what.<end>
-
-=>a95
-I know you're lying, Ola. There's something fishy going on here and I intend to find out what.<end>
-
-=>q96_original
-You do that - be an idiot. Or, accept the truth: She's gone! Gone! Gone! GONE! Now, I don't want to talk about her anymore. She doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
-
-=>q96
-You do that - be an idiot. Or, accept the truth: She's gone! Gone! Gone! GONE! Now, I don't want to talk about her anymore. She doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
-
-=>a97_original
-You know what, I always thought she was pretty damn annoying. If she indeed was a Coretech spy, she deserved what she got.<end>
-
-=>a97
-You know what, I always thought she was pretty damn annoying. If she indeed was a Coretech spy, she deserved what she got.<end>
-
-=>q98_original
-Listen n-- What, really!? ::His face twists into that of confusion.:: I.. I thought you got close or something. ::He starts smiling.:: I even thought you were gonna jump on me! You sounded really serious, $(#bro/sis)! Yeah, she's gone now, and serves her right. Let's forget about all this and... get on with our jobs. 
-
-Phew, I'm glad we're good.<end>
-
-=>q98
-Listen n-- What, really!? ::His face twists into that of confusion.:: I.. I thought you got close or something. ::He starts smiling.:: I even thought you were gonna jump on me! You sounded really serious, $(#bro/sis)! Yeah, she's gone now, and serves her right. Let's forget about all this and... get on with our jobs. 
-
-Phew, I'm glad we're good.<end>
-
-=>q99_original
-Well, if you idiot actually listened to what I had to say about her back in the sewers, you'd know that we had suspected her to be a double agent. But, you... you idiot! We've got all the evidence against her: She was a double agent working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on your little "friendly" trip, you'd wipe that expression off your face. Surprised!? Well, you should have listened...<end>
-
-=>q99
-Well, if you idiot actually listened to what I had to say about her back in the sewers, you'd know that we had suspected her to be a double agent. But, you... you idiot! We've got all the evidence against her: She was a double agent working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on your little "friendly" trip, you'd wipe that expression off your face. Surprised!? Well, you should have listened...<end>
-
-=>a100_original
-What the hell are you talking about? Tell me what happened to her!<end>
-
-=>a100
-What the hell are you talking about? Tell me what happened to her!<end>
-
-=>a101_original
-Are you playing dumb with me Ola? That's never a good idea.<end>
-
-=>a101
-Are you playing dumb with me Ola? That's never a good idea.<end>
-
-=>q102_original
-::Ola's smile slowly fades away as he answers your question.:: Me? No. No, you got it all wrong! It's just, well - she's gone. Too bad, I know, but you should simply forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
-
-=>q102
-::Ola's smile slowly fades away as he answers your question.:: Me? No. No, you got it all wrong! It's just, well - she's gone. Too bad, I know, but you should simply forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
-
-=>a103_original
-What can you tell me about JKK?<end>
-
-=>a103
-What can you tell me about JKK?<end>
-
-=>q104_original
-I like working here, I really do. Relaxed atmosphere, nice people, nice pay. What more could you want, $(#bro/sis)?<end>
-
-=>q104
-I like working here, I really do. Relaxed atmosphere, nice people, nice pay. What more could you want, $(#bro/sis)?<end>
-
-=>q105_original
-Work can get hard sometimes, though, but I don't mind. Except for when I'm sent to some backwater section of the city. Or worse!<end>
-
-=>q105
-Work can get hard sometimes, though, but I don't mind. Except for when I'm sent to some backwater section of the city. Or worse!<end>
-
-=>a106_original
-How do you feel about the Faceless invasion?<end>
-
-=>a106
-How do you feel about the Faceless invasion?<end>
-
-=>q107_original
-I feel this: The Praetorians are going to wipe the floor with the Faceless if they dare trying to move into the city. There's a lot of bad stuff I can say about Praetorian Security, but in these type of situations I have good faith in their enforcer's abilities.<end>
-
-=>q107
-I feel this: The Praetorians are going to wipe the floor with the Faceless if they dare trying to move into the city. There's a lot of bad stuff I can say about Praetorian Security, but in these type of situations I have good faith in their enforcer's abilities.<end>
-
-=>q108_original
-The Faceless will be dominated, $(#bro/sis). Core City will *not* fall.<end>
-
-=>q108
-The Faceless will be dominated, $(#bro/sis). Core City will *not* fall.<end>
-
-=>a109_original
-Bye.<end>
-
-=>a109
-Bye.<end>
-
-=>q110_original
-Yup.<end>
-
-=>q110
-Yup.<end>
-
-=>q111_original
-Some sweet gear has just arrived, $(#bro/sis). Wanna check it out?<end>
-
-=>q111
-Some sweet gear has just arrived, $(#bro/sis). Wanna check it out?<end>
-
-=>a112_original
-Without delay. ::Barter.::<end>
-
-=>a112
-Without delay. ::Barter.::<end>
-
-=>a113_original
-Maybe later. I had questions.<end>
-
-=>a113
-Maybe later. I had questions.<end>
-
-=>q114_original
-Yeah?<end>
-
-=>q114
-Yeah?<end>
-
-=>q115_original
-$(#Bro/Sis).<end>
-
-=>q115
-$(#Bro/Sis).<end>
-
+=>q1_original
+You really want those hostages to die, don't you? Get going.<end>
+
+=>q1
+You really want those hostages to die, don't you? Get going.<end>
+
+=>q2_original
+::Ola seems unfazed by the stench of the place, although his respirator probably has something to do with it. He nods at your approach.:: 
+
+Glad you could make it in one piece, $(#bro/sis). The area is clear, as I had hoped, so let's get started.<end>
+
+=>q2
+::Ola seems unfazed by the stench of the place, although his respirator probably has something to do with it. He nods at your approach.:: 
+
+Glad you could make it in one piece, $(#bro/sis). The area is clear, as I had hoped, so let's get started.<end>
+
+=>q3_original
+I'll now unlock this door for you, what you need to do is as we have talked about: You go through the caves, and at the far end you'll find the back entrance to the security room, below the warehouse. Once you're inside, find a way to disable the security system. Whether it's a console or some other controls, make sure to smash them just in case; we don't want anyone turning the defenses back on at the wrong moment.
+
+As soon as the defenses are down, our team will move in and take care of the rest. Then we all meet back in JKK building and have a brew or something. Any questions?<end>
+
+=>q3
+I'll now unlock this door for you, what you need to do is as we have talked about: You go through the caves, and at the far end you'll find the back entrance to the security room, below the warehouse. Once you're inside, find a way to disable the security system. Whether it's a console or some other controls, make sure to smash them just in case; we don't want anyone turning the defenses back on at the wrong moment.
+
+As soon as the defenses are down, our team will move in and take care of the rest. Then we all meet back in JKK building and have a brew or something. Any questions?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Who are these hostages?<end>
+
+=>a5
+Who are these hostages?<end>
+
+=>q6_original
+Let's just say these people are very important, $(#bro/sis), and their deaths would really affect Core City. For the worse, of course.<end>
+
+=>q6
+Let's just say these people are very important, $(#bro/sis), and their deaths would really affect Core City. For the worse, of course.<end>
+
+=>q7_original
+So be very careful what you do, and stay focused.<end>
+
+=>q7
+So be very careful what you do, and stay focused.<end>
+
+=>a8_original
+Who holds those hostages and why?<end>
+
+=>a8
+Who holds those hostages and why?<end>
+
+=>q9_original
+All we know is that it is a mercenary group, highly trained and well-equipped from what we've learned, but who is behind them... that we don't know yet. <end>
+
+=>q9
+All we know is that it is a mercenary group, highly trained and well-equipped from what we've learned, but who is behind them... that we don't know yet. <end>
+
+=>q10_original
+Once we secure the hostages, though, we should have more answers.<end>
+
+=>q10
+Once we secure the hostages, though, we should have more answers.<end>
+
+=>a11_original
+Anything I should worry about in those caves?<end>
+
+=>a11
+Anything I should worry about in those caves?<end>
+
+=>q12_original
+Well, I heard some strange sounds just before you came, and it sounded like some muties, but I can't tell for sure.<end>
+
+=>q12
+Well, I heard some strange sounds just before you came, and it sounded like some muties, but I can't tell for sure.<end>
+
+=>q13_original
+Just keep your eyes wide open and be prepared for anything, $(#bro/sis). No one knows what really lurks in there.<end>
+
+=>q13
+Just keep your eyes wide open and be prepared for anything, $(#bro/sis). No one knows what really lurks in there.<end>
+
+=>a14_original
+How do you know all this stuff about the security and all?<end>
+
+=>a14
+How do you know all this stuff about the security and all?<end>
+
+=>q15_original
+Core City is very old, and so is the warehouse.<end>
+
+=>q15
+Core City is very old, and so is the warehouse.<end>
+
+=>q16_original
+It's easy to find plans when they are needed. Now, them being outdated is... a different issue, but they get the job done.<end>
+
+=>q16
+It's easy to find plans when they are needed. Now, them being outdated is... a different issue, but they get the job done.<end>
+
+=>a17_original
+The back entrance is through the caves?<end>
+
+=>a17
+The back entrance is through the caves?<end>
+
+=>q18_original
+Well, as far as I know, it served as an escape exit, so it makes some sense. Now, after the recent earthquake, I don't think anything is safe down there.<end>
+
+=>q18
+Well, as far as I know, it served as an escape exit, so it makes some sense. Now, after the recent earthquake, I don't think anything is safe down there.<end>
+
+=>q19_original
+Who knows, maybe you'll even run into the pipeworking Lurkers in there, those monsters are everywhere. All in all, take care, $(#bro/sis).<end>
+
+=>q19
+Who knows, maybe you'll even run into the pipeworking Lurkers in there, those monsters are everywhere. All in all, take care, $(#bro/sis).<end>
+
+=>a20_original
+How do I disable the system?<end>
+
+=>a20
+How do I disable the system?<end>
+
+=>q21_original
+I don't know, find a way. That is up to you.<end>
+
+=>q21
+I don't know, find a way. That is up to you.<end>
+
+=>q22_original
+I can't tell you everything.<end>
+
+=>q22
+I can't tell you everything.<end>
+
+=>a23_original
+How come you didn't ask Praetorian Security for help?<end>
+
+=>a23
+How come you didn't ask Praetorian Security for help?<end>
+
+=>q24_original
+While the Praetorians do have the largest force in Core City, numerically speaking, they are currently preoccupied with the Faceless invasion.<end>
+
+=>q24
+While the Praetorians do have the largest force in Core City, numerically speaking, they are currently preoccupied with the Faceless invasion.<end>
+
+=>q25_original
+Besides, other than the numerical advantage, Praetorians are no more capable than our JKK men and women.<end>
+
+=>q25
+Besides, other than the numerical advantage, Praetorians are no more capable than our JKK men and women.<end>
+
+=>a26_original
+I'm ready to go.<end>
+
+=>a26
+I'm ready to go.<end>
+
+=>q27_original
+Sweet. Take good care over there - and don't fail us.<end>
+
+=>q27
+Sweet. Take good care over there - and don't fail us.<end>
+
+=>a28_original
+Me? Fail? ::Laugh.::<end>
+
+=>a28
+Me? Fail? ::Laugh.::<end>
+
+=>q29_original
+One more thing, $(context.player.Name), now that we are alone: Be very careful with Vivian.<end>
+
+=>q29
+One more thing, $(context.player.Name), now that we are alone: Be very careful with Vivian.<end>
+
+=>a30_original
+What do you mean?<end>
+
+=>a30
+What do you mean?<end>
+
+=>q31_original
+What I mean is, she might seem all friendly and groovy, and nice to work with, but some of us in JKK have very good reasons to suspect that she's working for someone else.<end>
+
+=>q31
+What I mean is, she might seem all friendly and groovy, and nice to work with, but some of us in JKK have very good reasons to suspect that she's working for someone else.<end>
+
+=>a32_original
+Like a double agent?<end>
+
+=>a32
+Like a double agent?<end>
+
+=>q33_original
+Maybe, no one is sure of anything yet. You're new, so I can't blame you for not noticing the little hints and clues. She is, after all, the person that gave you the job.<end>
+
+=>q33
+Maybe, no one is sure of anything yet. You're new, so I can't blame you for not noticing the little hints and clues. She is, after all, the person that gave you the job.<end>
+
+=>a34_original
+I'll keep my eyes open for anything suspicious.<end>
+
+=>a34
+I'll keep my eyes open for anything suspicious.<end>
+
+=>q35_original
+Good. This was between you and me. I'll now open the door for you.<end>
+
+=>q35
+Good. This was between you and me. I'll now open the door for you.<end>
+
+=>a36_original
+I'm ready.<end>
+
+=>a36
+I'm ready.<end>
+
+=>a37_original
+Not interested. Will you let me go already?<end>
+
+=>a37
+Not interested. Will you let me go already?<end>
+
+=>q38_original
+::Ola doesn't seem pleased by your response.:: Okay, okay... "whatever." Just know that you might regret not listening to what I had to say, $(#bro/sis). I'll now open the door for you.<end>
+
+=>q38
+::Ola doesn't seem pleased by your response.:: Okay, okay... "whatever." Just know that you might regret not listening to what I had to say, $(#bro/sis). I'll now open the door for you.<end>
+
+=>a39_original
+Yeah, you do that.<end>
+
+=>a39
+Yeah, you do that.<end>
+
+=>a40_original
+I never failed anyone. Remember that.<end>
+
+=>a40
+I never failed anyone. Remember that.<end>
+
+=>q41_original
+Hey, $(#bro/sis).<end>
+
+=>q41
+Hey, $(#bro/sis).<end>
+
+=>q42_original
+Hey $(#bro/sis), the big man wants to talk to you. Mr. Edstrom, that is. He's up in his office.<end>
+
+=>q42
+Hey $(#bro/sis), the big man wants to talk to you. Mr. Edstrom, that is. He's up in his office.<end>
+
+=>a43_original
+I will go and see him.<end>
+
+=>a43
+I will go and see him.<end>
+
+=>q44_original
+Okay, this is how's it's gonna be: I'll go to the sewers beneath Core City and scout out the area first, make sure everything is clear. After that, I'll meet with you and we will proceed from there.<end>
+
+=>q44
+Okay, this is how's it's gonna be: I'll go to the sewers beneath Core City and scout out the area first, make sure everything is clear. After that, I'll meet with you and we will proceed from there.<end>
+
+=>a45_original
+How will I find you?<end>
+
+=>a45
+How will I find you?<end>
+
+=>q46_original
+It's simple: Enter the sewers from the docks, then take the first western tunnel. Follow it all the way until you come to a fenced-off cave entrance. Got it,  $(#bro/sis)?<end>
+
+=>q46
+It's simple: Enter the sewers from the docks, then take the first western tunnel. Follow it all the way until you come to a fenced-off cave entrance. Got it,  $(#bro/sis)?<end>
+
+=>a47_original
+Can't you leave bread crumbs behind you?<end>
+
+=>a47
+Can't you leave bread crumbs behind you?<end>
+
+=>q48_original
+Those would attract hungry rathounds. Or muties, I don't know. ::He smiles.:: Anyway, see you there and good luck.<end>
+
+=>q48
+Those would attract hungry rathounds. Or muties, I don't know. ::He smiles.:: Anyway, see you there and good luck.<end>
+
+=>a49_original
+Got it, meet you there.<end>
+
+=>a49
+Got it, meet you there.<end>
+
+=>a50_original
+I'll find you on my own; I like exploring.<end>
+
+=>a50
+I'll find you on my own; I like exploring.<end>
+
+=>q51_original
+Adventurous type. Sweet! As you wish, I'll meet you... there. Somewhere. Good luck.<end>
+
+=>q51
+Adventurous type. Sweet! As you wish, I'll meet you... there. Somewhere. Good luck.<end>
+
+=>a52_original
+Sure, see you later.<end>
+
+=>a52
+Sure, see you later.<end>
+
+=>q53_original
+Hey, $(#bro/sis), what happened to you? I almost got worried the Faceless snatched you and dragged you down into Deep Caverns with them. ::He laughs.::<end>
+
+=>q53
+Hey, $(#bro/sis), what happened to you? I almost got worried the Faceless snatched you and dragged you down into Deep Caverns with them. ::He laughs.::<end>
+
+=>q54_original
+<end>
+
+=>q54
+<end>
+
+=>a55_original
+Show me what you got. ::Barter.::<end>
+
+=>a55
+Show me what you got. ::Barter.::<end>
+
+=>a56_original
+For some reason I still haven't gotten my uniform.<end>
+
+=>a56
+For some reason I still haven't gotten my uniform.<end>
+
+=>q57_original
+Vivian didn't give you your... Go figure.<end>
+
+=>q57
+Vivian didn't give you your... Go figure.<end>
+
+=>q58_original
+::He walks to one of the lockers in the back and grabs a leather jacket. He then rummages through several lockers before finding all the items he wanted and returns to you.::
+
+There, $(#bro/sis). Now you too can look hardcore.<end>
+
+=>q58
+::He walks to one of the lockers in the back and grabs a leather jacket. He then rummages through several lockers before finding all the items he wanted and returns to you.::
+
+There, $(#bro/sis). Now you too can look hardcore.<end>
+
+=>a59_original
+::[Mercantile]:: Where do you keep all the good stuff, Ola? Come on, I know you aren't showing me everything you've got in store.<end>
+
+=>a59
+::[Mercantile]:: Where do you keep all the good stuff, Ola? Come on, I know you aren't showing me everything you've got in store.<end>
+
+=>q60_original
+I believe you called me a liar once. If I say I've got nothing more to show you, would you believe me?<end>
+
+=>q60
+I believe you called me a liar once. If I say I've got nothing more to show you, would you believe me?<end>
+
+=>a61_original
+If I tell you I'm willing to spend a lot of money, would you believe me?<end>
+
+=>a61
+If I tell you I'm willing to spend a lot of money, would you believe me?<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>q63_original
+I think... I think I would, $(#bro/sis). Check this out.<end>
+
+=>q63
+I think... I think I would, $(#bro/sis). Check this out.<end>
+
+=>a64_original
+::Barter.::<end>
+
+=>a64
+::Barter.::<end>
+
+=>q65_original
+No, $(#bro/sis)... I would not. I don't think so. Anything else?<end>
+
+=>q65
+No, $(#bro/sis)... I would not. I don't think so. Anything else?<end>
+
+=>q66_original
+If I say I've got nothing more to show you, would you believe me?<end>
+
+=>q66
+If I say I've got nothing more to show you, would you believe me?<end>
+
+=>a67_original
+Mr. Edstrom told me to talk to you about some equipment.<end>
+
+=>a67
+Mr. Edstrom told me to talk to you about some equipment.<end>
+
+=>q68_original
+Yeah, that's right. As of now, you have permission to purchase equipment from me if you'd like.<end>
+
+=>q68
+Yeah, that's right. As of now, you have permission to purchase equipment from me if you'd like.<end>
+
+=>a69_original
+Mr. Edstrom told me to talk to you about something but didn't specify what it was.<end>
+
+=>a69
+Mr. Edstrom told me to talk to you about something but didn't specify what it was.<end>
+
+=>q70_original
+Yes, there is something, and I think you'll be quite pleased with what you're about to hear. You have been given a house, very groovy house in Core City. It's a little gift from Mr. Edstrom for your... dominating performance so far. All legal aspects have already been taken care of, you just need to go to it and take the keys. 
+
+Simple, right?<end>
+
+=>q70
+Yes, there is something, and I think you'll be quite pleased with what you're about to hear. You have been given a house, very groovy house in Core City. It's a little gift from Mr. Edstrom for your... dominating performance so far. All legal aspects have already been taken care of, you just need to go to it and take the keys. 
+
+Simple, right?<end>
+
+=>q71_original
+A Core City Housing Corporation representative will meet you in the easternmost part of this level - the residential district, where your house is located. It's a large house in the northern part of the area; you will easily find it, $(#bro/sis).<end>
+
+=>q71
+A Core City Housing Corporation representative will meet you in the easternmost part of this level - the residential district, where your house is located. It's a large house in the northern part of the area; you will easily find it, $(#bro/sis).<end>
+
+=>a72_original
+That is superb! But, I wanted to ask you something else before I leave.<end>
+
+=>a72
+That is superb! But, I wanted to ask you something else before I leave.<end>
+
+=>q73_original
+Go ahead.<end>
+
+=>q73
+Go ahead.<end>
+
+=>a74_original
+Let's not keep the man waiting then. Bye.<end>
+
+=>a74
+Let's not keep the man waiting then. Bye.<end>
+
+=>a75_original
+Security disabled.<end>
+
+=>a75
+Security disabled.<end>
+
+=>q76_original
+Great job! The operatives moved in as soon as you did your magic. The kidnappers were neutralized instantly, and the hostages rescued safely. All went as planned. $(context.player.Name). You should now report to Vivian for your reward.<end>
+
+=>q76
+Great job! The operatives moved in as soon as you did your magic. The kidnappers were neutralized instantly, and the hostages rescued safely. All went as planned. $(context.player.Name). You should now report to Vivian for your reward.<end>
+
+=>q77_original
+And keep on dominating, $(#bro/sis).<end>
+
+=>q77
+And keep on dominating, $(#bro/sis).<end>
+
+=>a78_original
+Hey, Ola. Where's Vivian? She said she'd meet me here.<end>
+
+=>a78
+Hey, Ola. Where's Vivian? She said she'd meet me here.<end>
+
+=>q79_original
+::Ola's smile appears to be a bit wider than usual, and a bit more dishonest.::
+
+$(#Bro/Sis)! How's it going? I've got your reward here for that job with Vivian. Here. ::He gives you 500 charons and a suit of leather armor.::<end>
+
+=>q79
+::Ola's smile appears to be a bit wider than usual, and a bit more dishonest.::
+
+$(#Bro/Sis)! How's it going? I've got your reward here for that job with Vivian. Here. ::He gives you 500 charons and a suit of leather armor.::<end>
+
+=>q80_original
+Sweet, that is done. I've got nothing for you at the moment, but I'll get to you when something comes up.<end>
+
+=>q80
+Sweet, that is done. I've got nothing for you at the moment, but I'll get to you when something comes up.<end>
+
+=>q81_original
+Sweet, that is done. Now, $(#bro/sis), I was told by Mr. Edstrom himself to get you up there in his office. I understand if you're nervous, but you really shouldn't be, he's totally groovy, totally chill. Just go there. Come on now.<end>
+
+=>q81
+Sweet, that is done. Now, $(#bro/sis), I was told by Mr. Edstrom himself to get you up there in his office. I understand if you're nervous, but you really shouldn't be, he's totally groovy, totally chill. Just go there. Come on now.<end>
+
+=>a82_original
+You didn't answer my question about Vivian.<end>
+
+=>a82
+You didn't answer my question about Vivian.<end>
+
+=>q83_original
+What question?<end>
+
+=>q83
+What question?<end>
+
+=>a84_original
+Where is she?<end>
+
+=>a84
+Where is she?<end>
+
+=>q85_original
+::Ola's smile slowly fades away as he answers your question.:: Right! Well - she's gone. Too bad, I know, but you should forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
+
+=>q85
+::Ola's smile slowly fades away as he answers your question.:: Right! Well - she's gone. Too bad, I know, but you should forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
+
+=>a86_original
+What do you mean, "she's gone"?<end>
+
+=>a86
+What do you mean, "she's gone"?<end>
+
+=>q87_original
+You just have to be so damn annoying, don't you? She's gone. There is no more Vivian. Remember when I told you back then that we were suspicious that she was doing some funny business? Well, she was! She was a double agent, you idiot! She was working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on you little "friendly" trip, you'd wipe that expression off your face.<end>
+
+=>q87
+You just have to be so damn annoying, don't you? She's gone. There is no more Vivian. Remember when I told you back then that we were suspicious that she was doing some funny business? Well, she was! She was a double agent, you idiot! She was working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on you little "friendly" trip, you'd wipe that expression off your face.<end>
+
+=>q88_original
+<end>
+
+=>q88
+<end>
+
+=>a89_original
+You still didn't explain what you meant by "gone"?<end>
+
+=>a89
+You still didn't explain what you meant by "gone"?<end>
+
+=>q90_original
+How do I put this...<end>
+
+=>q90
+How do I put this...<end>
+
+=>q91_original
+She's dead. Bam! Serves her right for being a traitor.<end>
+
+=>q91
+She's dead. Bam! Serves her right for being a traitor.<end>
+
+=>a92_original
+But, we were supposed to go to Hardcore City Bar later...<end>
+
+=>a92
+But, we were supposed to go to Hardcore City Bar later...<end>
+
+=>q93_original
+::He laughs at you.:: You are a moron! You really thought she was your friend? ::He laughs again.:: She was just playing you, $(#bro/sis)! And she's good at that... erm, *was* good at that.
+
+This is gold! I mean really!<end>
+
+=>q93
+::He laughs at you.:: You are a moron! You really thought she was your friend? ::He laughs again.:: She was just playing you, $(#bro/sis)! And she's good at that... erm, *was* good at that.
+
+This is gold! I mean really!<end>
+
+=>q94_original
+It was all a lie. A lie! A LIE! Remember that! Now, I don't want to talk about her anymore, she doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
+
+=>q94
+It was all a lie. A lie! A LIE! Remember that! Now, I don't want to talk about her anymore, she doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
+
+=>a95_original
+I know you're lying, Ola. There's something fishy going on here and I intend to find out what.<end>
+
+=>a95
+I know you're lying, Ola. There's something fishy going on here and I intend to find out what.<end>
+
+=>q96_original
+You do that - be an idiot. Or, accept the truth: She's gone! Gone! Gone! GONE! Now, I don't want to talk about her anymore. She doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
+
+=>q96
+You do that - be an idiot. Or, accept the truth: She's gone! Gone! Gone! GONE! Now, I don't want to talk about her anymore. She doesn't deserve it. I suggest we put this behind us and, you know, continue with our jobs. I'll forget this little argument and play nice if you do too. Got it, *$(#bro/sis)*? Good...<end>
+
+=>a97_original
+You know what, I always thought she was pretty damn annoying. If she indeed was a Coretech spy, she deserved what she got.<end>
+
+=>a97
+You know what, I always thought she was pretty damn annoying. If she indeed was a Coretech spy, she deserved what she got.<end>
+
+=>q98_original
+Listen n-- What, really!? ::His face twists into that of confusion.:: I.. I thought you got close or something. ::He starts smiling.:: I even thought you were gonna jump on me! You sounded really serious, $(#bro/sis)! Yeah, she's gone now, and serves her right. Let's forget about all this and... get on with our jobs. 
+
+Phew, I'm glad we're good.<end>
+
+=>q98
+Listen n-- What, really!? ::His face twists into that of confusion.:: I.. I thought you got close or something. ::He starts smiling.:: I even thought you were gonna jump on me! You sounded really serious, $(#bro/sis)! Yeah, she's gone now, and serves her right. Let's forget about all this and... get on with our jobs. 
+
+Phew, I'm glad we're good.<end>
+
+=>q99_original
+Well, if you idiot actually listened to what I had to say about her back in the sewers, you'd know that we had suspected her to be a double agent. But, you... you idiot! We've got all the evidence against her: She was a double agent working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on your little "friendly" trip, you'd wipe that expression off your face. Surprised!? Well, you should have listened...<end>
+
+=>q99
+Well, if you idiot actually listened to what I had to say about her back in the sewers, you'd know that we had suspected her to be a double agent. But, you... you idiot! We've got all the evidence against her: She was a double agent working for Coretech! She was a spy, and if you had any idea what we uncovered while you were on your little "friendly" trip, you'd wipe that expression off your face. Surprised!? Well, you should have listened...<end>
+
+=>a100_original
+What the hell are you talking about? Tell me what happened to her!<end>
+
+=>a100
+What the hell are you talking about? Tell me what happened to her!<end>
+
+=>a101_original
+Are you playing dumb with me Ola? That's never a good idea.<end>
+
+=>a101
+Are you playing dumb with me Ola? That's never a good idea.<end>
+
+=>q102_original
+::Ola's smile slowly fades away as he answers your question.:: Me? No. No, you got it all wrong! It's just, well - she's gone. Too bad, I know, but you should simply forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
+
+=>q102
+::Ola's smile slowly fades away as he answers your question.:: Me? No. No, you got it all wrong! It's just, well - she's gone. Too bad, I know, but you should simply forget about her. You've got to think forward, $(#bro/sis), not be stuck in the past.<end>
+
+=>a103_original
+What can you tell me about JKK?<end>
+
+=>a103
+What can you tell me about JKK?<end>
+
+=>q104_original
+I like working here, I really do. Relaxed atmosphere, nice people, nice pay. What more could you want, $(#bro/sis)?<end>
+
+=>q104
+I like working here, I really do. Relaxed atmosphere, nice people, nice pay. What more could you want, $(#bro/sis)?<end>
+
+=>q105_original
+Work can get hard sometimes, though, but I don't mind. Except for when I'm sent to some backwater section of the city. Or worse!<end>
+
+=>q105
+Work can get hard sometimes, though, but I don't mind. Except for when I'm sent to some backwater section of the city. Or worse!<end>
+
+=>a106_original
+How do you feel about the Faceless invasion?<end>
+
+=>a106
+How do you feel about the Faceless invasion?<end>
+
+=>q107_original
+I feel this: The Praetorians are going to wipe the floor with the Faceless if they dare trying to move into the city. There's a lot of bad stuff I can say about Praetorian Security, but in these type of situations I have good faith in their enforcer's abilities.<end>
+
+=>q107
+I feel this: The Praetorians are going to wipe the floor with the Faceless if they dare trying to move into the city. There's a lot of bad stuff I can say about Praetorian Security, but in these type of situations I have good faith in their enforcer's abilities.<end>
+
+=>q108_original
+The Faceless will be dominated, $(#bro/sis). Core City will *not* fall.<end>
+
+=>q108
+The Faceless will be dominated, $(#bro/sis). Core City will *not* fall.<end>
+
+=>a109_original
+Bye.<end>
+
+=>a109
+Bye.<end>
+
+=>q110_original
+Yup.<end>
+
+=>q110
+Yup.<end>
+
+=>q111_original
+Some sweet gear has just arrived, $(#bro/sis). Wanna check it out?<end>
+
+=>q111
+Some sweet gear has just arrived, $(#bro/sis). Wanna check it out?<end>
+
+=>a112_original
+Without delay. ::Barter.::<end>
+
+=>a112
+Without delay. ::Barter.::<end>
+
+=>a113_original
+Maybe later. I had questions.<end>
+
+=>a113
+Maybe later. I had questions.<end>
+
+=>q114_original
+Yeah?<end>
+
+=>q114
+Yeah?<end>
+
+=>q115_original
+$(#Bro/Sis).<end>
+
+=>q115
+$(#Bro/Sis).<end>
+

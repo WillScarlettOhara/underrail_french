@@ -1,182 +1,182 @@
-=>q1_original
-::Salutes you.:: Corporal.<end>
-
-=>q1
-::Salutes you.:: Corporal.<end>
-
-=>q2_original
-Citizen...<end>
-
-=>q2
-Citizen...<end>
-
-=>q3_original
-Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
-
-=>q3
-Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
-
-=>q4_original
-::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
-
-=>q4
-::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
-
-=>q5_original
-To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
-
-I hope I made everything clear. You may proceed.<end>
-
-=>q5
-To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
-
-I hope I made everything clear. You may proceed.<end>
-
-=>q6_original
-::The guard gestures you to stop.::
-
-Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
-
-=>q6
-::The guard gestures you to stop.::
-
-Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>a8_original
-My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
-
-=>a8
-My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
-
-=>q9_original
-::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
-
-=>q9
-::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
-
-=>a10_original
-Correct.<end>
-
-=>a10
-Correct.<end>
-
-=>q11_original
-Very well, please wait here. I will be with you shortly, citizen.<end>
-
-=>q11
-Very well, please wait here. I will be with you shortly, citizen.<end>
-
-=>a12_original
-::Wait.::<end>
-
-=>a12
-::Wait.::<end>
-
-=>a13_original
-No, I said $(context.player.Name).<end>
-
-=>a13
-No, I said $(context.player.Name).<end>
-
-=>q14_original
-That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
-
-=>q14
-That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
-
-=>a15_original
-What is this place?<end>
-
-=>a15
-What is this place?<end>
-
-=>q16_original
-This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
-
-=>q16
-This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
-
-=>a17_original
-Can I join the Underrail Protectorate?<end>
-
-=>a17
-Can I join the Underrail Protectorate?<end>
-
-=>q18_original
-We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
-
-=>q18
-We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
-
-=>a19_original
-What's the purpose of the consulate?<end>
-
-=>a19
-What's the purpose of the consulate?<end>
-
-=>q20_original
-Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
-
-=>q20
-Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
-
-=>a21_original
-I don't have those...<end>
-
-=>a21
-I don't have those...<end>
-
-=>q22_original
-Then I can't help you.<end>
-
-=>q22
-Then I can't help you.<end>
-
-=>a23_original
-Is South Gate Station a member of the United Stations?<end>
-
-=>a23
-Is South Gate Station a member of the United Stations?<end>
-
-=>q24_original
-I'm afraid not.<end>
-
-=>q24
-I'm afraid not.<end>
-
-=>a25_original
-Let me ask you something else.<end>
-
-=>a25
-Let me ask you something else.<end>
-
-=>q26_original
-Yes, citizen?<end>
-
-=>q26
-Yes, citizen?<end>
-
-=>a27_original
-Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
-
-=>a27
-Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
-
-=>a28_original
-Sorry, I took a wrong turn. Goodbye.<end>
-
-=>a28
-Sorry, I took a wrong turn. Goodbye.<end>
-
-=>q29_original
-Citizen?<end>
-
-=>q29
-Citizen?<end>
-
+=>q1_original
+::Salutes you.:: Corporal.<end>
+
+=>q1
+::Salutes you.:: Corporal.<end>
+
+=>q2_original
+Citizen...<end>
+
+=>q2
+Citizen...<end>
+
+=>q3_original
+Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
+
+=>q3
+Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
+
+=>q4_original
+::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
+
+=>q4
+::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
+
+=>q5_original
+To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
+
+I hope I made everything clear. You may proceed.<end>
+
+=>q5
+To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
+
+I hope I made everything clear. You may proceed.<end>
+
+=>q6_original
+::The guard gestures you to stop.::
+
+Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
+
+=>q6
+::The guard gestures you to stop.::
+
+Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
+
+=>a8
+My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
+
+=>q9_original
+::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
+
+=>q9
+::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
+
+=>a10_original
+Correct.<end>
+
+=>a10
+Correct.<end>
+
+=>q11_original
+Very well, please wait here. I will be with you shortly, citizen.<end>
+
+=>q11
+Very well, please wait here. I will be with you shortly, citizen.<end>
+
+=>a12_original
+::Wait.::<end>
+
+=>a12
+::Wait.::<end>
+
+=>a13_original
+No, I said $(context.player.Name).<end>
+
+=>a13
+No, I said $(context.player.Name).<end>
+
+=>q14_original
+That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
+
+=>q14
+That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
+
+=>a15_original
+What is this place?<end>
+
+=>a15
+What is this place?<end>
+
+=>q16_original
+This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
+
+=>q16
+This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
+
+=>a17_original
+Can I join the Underrail Protectorate?<end>
+
+=>a17
+Can I join the Underrail Protectorate?<end>
+
+=>q18_original
+We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
+
+=>q18
+We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
+
+=>a19_original
+What's the purpose of the consulate?<end>
+
+=>a19
+What's the purpose of the consulate?<end>
+
+=>q20_original
+Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
+
+=>q20
+Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
+
+=>a21_original
+I don't have those...<end>
+
+=>a21
+I don't have those...<end>
+
+=>q22_original
+Then I can't help you.<end>
+
+=>q22
+Then I can't help you.<end>
+
+=>a23_original
+Is South Gate Station a member of the United Stations?<end>
+
+=>a23
+Is South Gate Station a member of the United Stations?<end>
+
+=>q24_original
+I'm afraid not.<end>
+
+=>q24
+I'm afraid not.<end>
+
+=>a25_original
+Let me ask you something else.<end>
+
+=>a25
+Let me ask you something else.<end>
+
+=>q26_original
+Yes, citizen?<end>
+
+=>q26
+Yes, citizen?<end>
+
+=>a27_original
+Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
+
+=>a27
+Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
+
+=>a28_original
+Sorry, I took a wrong turn. Goodbye.<end>
+
+=>a28
+Sorry, I took a wrong turn. Goodbye.<end>
+
+=>q29_original
+Citizen?<end>
+
+=>q29
+Citizen?<end>
+

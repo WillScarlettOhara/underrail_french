@@ -1,462 +1,462 @@
-=>q1_original
-You are no longer welcome here.<end>
-
-=>q1
-You are no longer welcome here.<end>
-
-=>q2_original
-::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
-
-We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
-
-=>q2
-::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
-
-We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
-
-=>q3_original
-It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
-
-=>q3
-It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-Jack told me to talk to you about an assignment.<end>
-
-=>a5
-Jack told me to talk to you about an assignment.<end>
-
-=>q6_original
-I reckon he did. We have a very important situation, $(context.player.Name).<end>
-
-=>q6
-I reckon he did. We have a very important situation, $(context.player.Name).<end>
-
-=>q7_original
-One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
-
-=>q7
-One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
-
-=>a8_original
-What exactly happened?<end>
-
-=>a8
-What exactly happened?<end>
-
-=>q9_original
-*Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
-
-=>q9
-*Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
-
-=>q10_original
-But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
-
-=>q10
-But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
-
-=>a11_original
-You want me to get him out, got it.<end>
-
-=>a11
-You want me to get him out, got it.<end>
-
-=>q12_original
-Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
-
-=>q12
-Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
-
-=>q13_original
-Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
-
-=>q13
-Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
-
-=>q14_original
-You may leave now. If you have any questions, I am always here.<end>
-
-=>q14
-You may leave now. If you have any questions, I am always here.<end>
-
-=>a15_original
-What if I can't get him out of there?<end>
-
-=>a15
-What if I can't get him out of there?<end>
-
-=>q16_original
-::He smiles.:: Well, then wish him a happy birthday.<end>
-
-=>q16
-::He smiles.:: Well, then wish him a happy birthday.<end>
-
-=>a17_original
-Wait - he is an assassin!?<end>
-
-=>a17
-Wait - he is an assassin!?<end>
-
-=>q18_original
-He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
-
-=>q18
-He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
-
-=>a19_original
-I understand. Anyway, you want me to get him out?<end>
-
-=>a19
-I understand. Anyway, you want me to get him out?<end>
-
-=>a20_original
-Right. All in all, what if I can't get him out of there?<end>
-
-=>a20
-Right. All in all, what if I can't get him out of there?<end>
-
-=>a21_original
-I can't do this. I'm sorry, but I decline this job.<end>
-
-=>a21
-I can't do this. I'm sorry, but I decline this job.<end>
-
-=>q22_original
-Disapointing. ::He turns his back toward you and falls silent.::<end>
-
-=>q22
-Disapointing. ::He turns his back toward you and falls silent.::<end>
-
-=>a23_original
-What a moron.<end>
-
-=>a23
-What a moron.<end>
-
-=>q24_original
-Harsh words, but he was careless indeed. Let us continue, shall we?<end>
-
-=>q24
-Harsh words, but he was careless indeed. Let us continue, shall we?<end>
-
-=>a25_original
-About Todor Sallywatch...<end>
-
-=>a25
-About Todor Sallywatch...<end>
-
-=>q26_original
-Yes?<end>
-
-=>q26
-Yes?<end>
-
-=>q27_original
-<end>
-
-=>q27
-<end>
-
-=>a28_original
-I managed to get him out of the prison.<end>
-
-=>a28
-I managed to get him out of the prison.<end>
-
-=>q29_original
-You killed everyone inside the prison; I don't think you even realize what you have done.<end>
-
-=>q29
-You killed everyone inside the prison; I don't think you even realize what you have done.<end>
-
-=>q30_original
-You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
-
-=>q30
-You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
-
-=>q31_original
-<end>
-
-=>q31
-<end>
-
-=>q32_original
-::He smiles.:: Yes, you have done well. Where is Todor now?<end>
-
-=>q32
-::He smiles.:: Yes, you have done well. Where is Todor now?<end>
-
-=>a33_original
-He said he's headed to Zeta and that you'll know what that means.<end>
-
-=>a33
-He said he's headed to Zeta and that you'll know what that means.<end>
-
-=>q34_original
-I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
-
-=>q34
-I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
-
-=>a35_original
-He didn't say anything, I'm sure of it.<end>
-
-=>a35
-He didn't say anything, I'm sure of it.<end>
-
-=>q36_original
-::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
-
-=>q36
-::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
-
-=>a37_original
-He snitched you out. You better be careful.<end>
-
-=>a37
-He snitched you out. You better be careful.<end>
-
-=>q38_original
-I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
-
-=>q38
-I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
-
-=>a39_original
-I don't know.<end>
-
-=>a39
-I don't know.<end>
-
-=>q40_original
-That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
-
-=>q40
-That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
-
-=>a41_original
-Todor has been silenced.<end>
-
-=>a41
-Todor has been silenced.<end>
-
-=>q42_original
-So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
-
-=>q42
-So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
-
-=>a43_original
-He didn't say anything. I'm sure of it.<end>
-
-=>a43
-He didn't say anything. I'm sure of it.<end>
-
-=>q44_original
-That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
-
-=>q44
-That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
-
-=>a45_original
-He snitched you out. You better be careful. <end>
-
-=>a45
-He snitched you out. You better be careful. <end>
-
-=>q46_original
-Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
-
-=>q46
-Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
-
-=>a47_original
-I don't know.<end>
-
-=>a47
-I don't know.<end>
-
-=>a48_original
-I managed to get Todor released from prison.<end>
-
-=>a48
-I managed to get Todor released from prison.<end>
-
-=>q49_original
-Excellent, I am pleased to hear that. You did good work! Todor will be out of Foundry for a while; I'm guessing he has already headed to a safer location.
-
-Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
-
-=>q49
-Excellent, I am pleased to hear that. You did good work! Todor will be out of Foundry for a while; I'm guessing he has already headed to a safer location.
-
-Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
-
-=>a50_original
-Why was the merchant killed?<end>
-
-=>a50
-Why was the merchant killed?<end>
-
-=>q51_original
-Because someone wanted him dead. Simple, right?<end>
-
-=>q51
-Because someone wanted him dead. Simple, right?<end>
-
-=>q52_original
-Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
-
-=>q52
-Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
-
-=>a53_original
-What can you tell me about Foundry prison?<end>
-
-=>a53
-What can you tell me about Foundry prison?<end>
-
-=>q54_original
-Well, it is a high security area, I can tell you that. You will find the main entrance south of here, down a set of stairs; that is the only entrance, but might not be the only exit.
-
-The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
-
-=>q54
-Well, it is a high security area, I can tell you that. You will find the main entrance south of here, down a set of stairs; that is the only entrance, but might not be the only exit.
-
-The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
-
-=>q55_original
-Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
-
-It is a truly problematic place, isn't it?<end>
-
-=>q55
-Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
-
-It is a truly problematic place, isn't it?<end>
-
-=>a56_original
-So, with the judge dead, who decides Todor's fate?<end>
-
-=>a56
-So, with the judge dead, who decides Todor's fate?<end>
-
-=>q57_original
-Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
-
-=>q57
-Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
-
-=>q58_original
-But, for now, he is in the hands of the prison warden.<end>
-
-=>q58
-But, for now, he is in the hands of the prison warden.<end>
-
-=>a59_original
-Let me ask you something else...<end>
-
-=>a59
-Let me ask you something else...<end>
-
-=>q60_original
-Go ahead.<end>
-
-=>q60
-Go ahead.<end>
-
-=>a61_original
-What can you tell me about Foundry?<end>
-
-=>a61
-What can you tell me about Foundry?<end>
-
-=>q62_original
-There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
-
-=>q62
-There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
-
-=>q63_original
-Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
-
-=>q63
-Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
-
-=>a64_original
-What do you mean by chaos in Foundry?<end>
-
-=>a64
-What do you mean by chaos in Foundry?<end>
-
-=>q65_original
-You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#buddy/missy). 
-
-The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
-
-=>q65
-You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#buddy/missy). 
-
-The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
-
-=>q66_original
-Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
-
-=>q66
-Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
-
-=>a67_original
-What are you guys doing here on this roof?<end>
-
-=>a67
-What are you guys doing here on this roof?<end>
-
-=>q68_original
-Chillin'.<end>
-
-=>q68
-Chillin'.<end>
-
-=>q69_original
-::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
-
-=>q69
-::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
-
-=>a70_original
-Goodbye Everard.<end>
-
-=>a70
-Goodbye Everard.<end>
-
-=>q71_original
-Take care and keep your eyes open.<end>
-
-=>q71
-Take care and keep your eyes open.<end>
-
-=>q72_original
-We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
-
-Well done.<end>
-
-=>q72
-We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
-
-Well done.<end>
-
-=>q73_original
-Yes?<end>
-
-=>q73
-Yes?<end>
-
+=>q1_original
+You are no longer welcome here.<end>
+
+=>q1
+You are no longer welcome here.<end>
+
+=>q2_original
+::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
+
+We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
+
+=>q2
+::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
+
+We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
+
+=>q3_original
+It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
+
+=>q3
+It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Jack told me to talk to you about an assignment.<end>
+
+=>a5
+Jack told me to talk to you about an assignment.<end>
+
+=>q6_original
+I reckon he did. We have a very important situation, $(context.player.Name).<end>
+
+=>q6
+I reckon he did. We have a very important situation, $(context.player.Name).<end>
+
+=>q7_original
+One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
+
+=>q7
+One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
+
+=>a8_original
+What exactly happened?<end>
+
+=>a8
+What exactly happened?<end>
+
+=>q9_original
+*Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
+
+=>q9
+*Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
+
+=>q10_original
+But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
+
+=>q10
+But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
+
+=>a11_original
+You want me to get him out, got it.<end>
+
+=>a11
+You want me to get him out, got it.<end>
+
+=>q12_original
+Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
+
+=>q12
+Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
+
+=>q13_original
+Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
+
+=>q13
+Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
+
+=>q14_original
+You may leave now. If you have any questions, I am always here.<end>
+
+=>q14
+You may leave now. If you have any questions, I am always here.<end>
+
+=>a15_original
+What if I can't get him out of there?<end>
+
+=>a15
+What if I can't get him out of there?<end>
+
+=>q16_original
+::He smiles.:: Well, then wish him a happy birthday.<end>
+
+=>q16
+::He smiles.:: Well, then wish him a happy birthday.<end>
+
+=>a17_original
+Wait - he is an assassin!?<end>
+
+=>a17
+Wait - he is an assassin!?<end>
+
+=>q18_original
+He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
+
+=>q18
+He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
+
+=>a19_original
+I understand. Anyway, you want me to get him out?<end>
+
+=>a19
+I understand. Anyway, you want me to get him out?<end>
+
+=>a20_original
+Right. All in all, what if I can't get him out of there?<end>
+
+=>a20
+Right. All in all, what if I can't get him out of there?<end>
+
+=>a21_original
+I can't do this. I'm sorry, but I decline this job.<end>
+
+=>a21
+I can't do this. I'm sorry, but I decline this job.<end>
+
+=>q22_original
+Disapointing. ::He turns his back toward you and falls silent.::<end>
+
+=>q22
+Disapointing. ::He turns his back toward you and falls silent.::<end>
+
+=>a23_original
+What a moron.<end>
+
+=>a23
+What a moron.<end>
+
+=>q24_original
+Harsh words, but he was careless indeed. Let us continue, shall we?<end>
+
+=>q24
+Harsh words, but he was careless indeed. Let us continue, shall we?<end>
+
+=>a25_original
+About Todor Sallywatch...<end>
+
+=>a25
+About Todor Sallywatch...<end>
+
+=>q26_original
+Yes?<end>
+
+=>q26
+Yes?<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+I managed to get him out of the prison.<end>
+
+=>a28
+I managed to get him out of the prison.<end>
+
+=>q29_original
+You killed everyone inside the prison; I don't think you even realize what you have done.<end>
+
+=>q29
+You killed everyone inside the prison; I don't think you even realize what you have done.<end>
+
+=>q30_original
+You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
+
+=>q30
+You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>q32_original
+::He smiles.:: Yes, you have done well. Where is Todor now?<end>
+
+=>q32
+::He smiles.:: Yes, you have done well. Where is Todor now?<end>
+
+=>a33_original
+He said he's headed to Zeta and that you'll know what that means.<end>
+
+=>a33
+He said he's headed to Zeta and that you'll know what that means.<end>
+
+=>q34_original
+I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
+
+=>q34
+I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
+
+=>a35_original
+He didn't say anything, I'm sure of it.<end>
+
+=>a35
+He didn't say anything, I'm sure of it.<end>
+
+=>q36_original
+::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
+
+=>q36
+::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
+
+=>a37_original
+He snitched you out. You better be careful.<end>
+
+=>a37
+He snitched you out. You better be careful.<end>
+
+=>q38_original
+I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
+
+=>q38
+I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
+
+=>a39_original
+I don't know.<end>
+
+=>a39
+I don't know.<end>
+
+=>q40_original
+That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
+
+=>q40
+That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
+
+=>a41_original
+Todor has been silenced.<end>
+
+=>a41
+Todor has been silenced.<end>
+
+=>q42_original
+So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>q42
+So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>a43_original
+He didn't say anything. I'm sure of it.<end>
+
+=>a43
+He didn't say anything. I'm sure of it.<end>
+
+=>q44_original
+That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>q44
+That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>a45_original
+He snitched you out. You better be careful. <end>
+
+=>a45
+He snitched you out. You better be careful. <end>
+
+=>q46_original
+Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>q46
+Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>a47_original
+I don't know.<end>
+
+=>a47
+I don't know.<end>
+
+=>a48_original
+I managed to get Todor released from prison.<end>
+
+=>a48
+I managed to get Todor released from prison.<end>
+
+=>q49_original
+Excellent, I am pleased to hear that. You did good work! Todor will be out of Foundry for a while; I'm guessing he has already headed to a safer location.
+
+Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>q49
+Excellent, I am pleased to hear that. You did good work! Todor will be out of Foundry for a while; I'm guessing he has already headed to a safer location.
+
+Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>a50_original
+Why was the merchant killed?<end>
+
+=>a50
+Why was the merchant killed?<end>
+
+=>q51_original
+Because someone wanted him dead. Simple, right?<end>
+
+=>q51
+Because someone wanted him dead. Simple, right?<end>
+
+=>q52_original
+Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
+
+=>q52
+Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
+
+=>a53_original
+What can you tell me about Foundry prison?<end>
+
+=>a53
+What can you tell me about Foundry prison?<end>
+
+=>q54_original
+Well, it is a high security area, I can tell you that. You will find the main entrance south of here, down a set of stairs; that is the only entrance, but might not be the only exit.
+
+The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
+
+=>q54
+Well, it is a high security area, I can tell you that. You will find the main entrance south of here, down a set of stairs; that is the only entrance, but might not be the only exit.
+
+The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
+
+=>q55_original
+Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
+
+It is a truly problematic place, isn't it?<end>
+
+=>q55
+Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
+
+It is a truly problematic place, isn't it?<end>
+
+=>a56_original
+So, with the judge dead, who decides Todor's fate?<end>
+
+=>a56
+So, with the judge dead, who decides Todor's fate?<end>
+
+=>q57_original
+Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
+
+=>q57
+Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
+
+=>q58_original
+But, for now, he is in the hands of the prison warden.<end>
+
+=>q58
+But, for now, he is in the hands of the prison warden.<end>
+
+=>a59_original
+Let me ask you something else...<end>
+
+=>a59
+Let me ask you something else...<end>
+
+=>q60_original
+Go ahead.<end>
+
+=>q60
+Go ahead.<end>
+
+=>a61_original
+What can you tell me about Foundry?<end>
+
+=>a61
+What can you tell me about Foundry?<end>
+
+=>q62_original
+There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
+
+=>q62
+There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
+
+=>q63_original
+Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
+
+=>q63
+Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
+
+=>a64_original
+What do you mean by chaos in Foundry?<end>
+
+=>a64
+What do you mean by chaos in Foundry?<end>
+
+=>q65_original
+You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#buddy/missy). 
+
+The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
+
+=>q65
+You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#buddy/missy). 
+
+The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
+
+=>q66_original
+Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
+
+=>q66
+Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
+
+=>a67_original
+What are you guys doing here on this roof?<end>
+
+=>a67
+What are you guys doing here on this roof?<end>
+
+=>q68_original
+Chillin'.<end>
+
+=>q68
+Chillin'.<end>
+
+=>q69_original
+::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
+
+=>q69
+::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
+
+=>a70_original
+Goodbye Everard.<end>
+
+=>a70
+Goodbye Everard.<end>
+
+=>q71_original
+Take care and keep your eyes open.<end>
+
+=>q71
+Take care and keep your eyes open.<end>
+
+=>q72_original
+We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
+
+Well done.<end>
+
+=>q72
+We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
+
+Well done.<end>
+
+=>q73_original
+Yes?<end>
+
+=>q73
+Yes?<end>
+

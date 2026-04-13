@@ -1,66 +1,66 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-You touch Oinko - you die!<end>
-
-=>q2
-You touch Oinko - you die!<end>
-
-=>q3_original
-Them stupid zoners been trying to eat mah pig.<end>
-
-=>q3
-Them stupid zoners been trying to eat mah pig.<end>
-
-=>q4_original
-::Speaks with a sorrowful, almost crying voice.:: Oinko is mah only friend, there ain't no one like him!<end>
-
-=>q4
-::Speaks with a sorrowful, almost crying voice.:: Oinko is mah only friend, there ain't no one like him!<end>
-
-=>q5_original
-::Looks around the room.:: Oinko! Oi-- Oh, there you are. Doncha scare me like that!<end>
-
-=>q5
-::Looks around the room.:: Oinko! Oi-- Oh, there you are. Doncha scare me like that!<end>
-
-=>q6_original
-Whatcha want?<end>
-
-=>q6
-Whatcha want?<end>
-
-=>q7_original
-I'm watching you, $(#fella/doll). Doncha try nothing stupid!<end>
-
-=>q7
-I'm watching you, $(#fella/doll). Doncha try nothing stupid!<end>
-
-=>q8_original
-Sometimes folks try to break into mah house and steal Oinko. I zone those folks out! ::Laughs maniacally.::<end>
-
-=>q8
-Sometimes folks try to break into mah house and steal Oinko. I zone those folks out! ::Laughs maniacally.::<end>
-
-=>q9_original
-::Unleashes a monstrous belch.:: Heya! That was hardcore! Right, Oinko?<end>
-
-=>q9
-::Unleashes a monstrous belch.:: Heya! That was hardcore! Right, Oinko?<end>
-
-=>q10_original
-Ugh! Mah belly feels funny. Maybe I ate too much soup.<end>
-
-=>q10
-Ugh! Mah belly feels funny. Maybe I ate too much soup.<end>
-
-=>q11_original
-Oinko sometimes speaks to me in my sleep. He's a very smart piggy.<end>
-
-=>q11
-Oinko sometimes speaks to me in my sleep. He's a very smart piggy.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You touch Oinko - you die!<end>
+
+=>q2
+You touch Oinko - you die!<end>
+
+=>q3_original
+Them stupid zoners been trying to eat mah pig.<end>
+
+=>q3
+Them stupid zoners been trying to eat mah pig.<end>
+
+=>q4_original
+::Speaks with a sorrowful, almost crying voice.:: Oinko is mah only friend, there ain't no one like him!<end>
+
+=>q4
+::Speaks with a sorrowful, almost crying voice.:: Oinko is mah only friend, there ain't no one like him!<end>
+
+=>q5_original
+::Looks around the room.:: Oinko! Oi-- Oh, there you are. Doncha scare me like that!<end>
+
+=>q5
+::Looks around the room.:: Oinko! Oi-- Oh, there you are. Doncha scare me like that!<end>
+
+=>q6_original
+Whatcha want?<end>
+
+=>q6
+Whatcha want?<end>
+
+=>q7_original
+I'm watching you, $(#fella/doll). Doncha try nothing stupid!<end>
+
+=>q7
+I'm watching you, $(#fella/doll). Doncha try nothing stupid!<end>
+
+=>q8_original
+Sometimes folks try to break into mah house and steal Oinko. I zone those folks out! ::Laughs maniacally.::<end>
+
+=>q8
+Sometimes folks try to break into mah house and steal Oinko. I zone those folks out! ::Laughs maniacally.::<end>
+
+=>q9_original
+::Unleashes a monstrous belch.:: Heya! That was hardcore! Right, Oinko?<end>
+
+=>q9
+::Unleashes a monstrous belch.:: Heya! That was hardcore! Right, Oinko?<end>
+
+=>q10_original
+Ugh! Mah belly feels funny. Maybe I ate too much soup.<end>
+
+=>q10
+Ugh! Mah belly feels funny. Maybe I ate too much soup.<end>
+
+=>q11_original
+Oinko sometimes speaks to me in my sleep. He's a very smart piggy.<end>
+
+=>q11
+Oinko sometimes speaks to me in my sleep. He's a very smart piggy.<end>
+

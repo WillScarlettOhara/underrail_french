@@ -1,36 +1,36 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-You're on Scrapper's turf now, $(#jack/sister).<end>
-
-=>q2
-You're on Scrapper's turf now, $(#jack/sister).<end>
-
-=>q3_original
-I'm watching you, punk.<end>
-
-=>q3
-I'm watching you, punk.<end>
-
-=>q4_original
-Pike off.<end>
-
-=>q4
-Pike off.<end>
-
-=>q5_original
-What are you snooping around for? Get lost.<end>
-
-=>q5
-What are you snooping around for? Get lost.<end>
-
-=>q6_original
-Protectorate got kicked out of SRO by a bunch of Free Drone slackjaws. Is this some kind of a joke?<end>
-
-=>q6
-Protectorate got kicked out of SRO by a bunch of Free Drone slackjaws. Is this some kind of a joke?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You're on Scrapper's turf now, $(#jack/sister).<end>
+
+=>q2
+You're on Scrapper's turf now, $(#jack/sister).<end>
+
+=>q3_original
+I'm watching you, punk.<end>
+
+=>q3
+I'm watching you, punk.<end>
+
+=>q4_original
+Pike off.<end>
+
+=>q4
+Pike off.<end>
+
+=>q5_original
+What are you snooping around for? Get lost.<end>
+
+=>q5
+What are you snooping around for? Get lost.<end>
+
+=>q6_original
+Protectorate got kicked out of SRO by a bunch of Free Drone slackjaws. Is this some kind of a joke?<end>
+
+=>q6
+Protectorate got kicked out of SRO by a bunch of Free Drone slackjaws. Is this some kind of a joke?<end>
+

@@ -1,102 +1,102 @@
-=>q1_original
-I was patchin' the tent, then boooom - there's a ship gettin' dominated right there, ya'll!<end>
-
-=>q1
-I was patchin' the tent, then boooom - there's a ship gettin' dominated right there, ya'll!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-This piece of land's taken, you.<end>
-
-=>q3
-This piece of land's taken, you.<end>
-
-=>q4_original
-Grimy burned our favorite barrel. We had to throw it away, but the currents always bring it back. Funny...<end>
-
-=>q4
-Grimy burned our favorite barrel. We had to throw it away, but the currents always bring it back. Funny...<end>
-
-=>q5_original
-Mom don't like my husband very much. They cheer for the same gladiators, though.<end>
-
-=>q5
-Mom don't like my husband very much. They cheer for the same gladiators, though.<end>
-
-=>q6_original
-Lotsa traffic 'round the Core Ring, but all in all this ain't such a bad place to live.<end>
-
-=>q6
-Lotsa traffic 'round the Core Ring, but all in all this ain't such a bad place to live.<end>
-
-=>q7_original
-We cookin' slackjaws today. Now where'd I put them socks?<end>
-
-=>q7
-We cookin' slackjaws today. Now where'd I put them socks?<end>
-
-=>q8_original
-We've seen the Ring Wyrm. Long, girthy, spiky. Sailed westward, it did.<end>
-
-=>q8
-We've seen the Ring Wyrm. Long, girthy, spiky. Sailed westward, it did.<end>
-
-=>q9_original
-My ears are still ringin'...<end>
-
-=>q9
-My ears are still ringin'...<end>
-
-=>q10_original
-What smell?<end>
-
-=>q10
-What smell?<end>
-
-=>q11_original
-What're those loud bangs comin' from down south? <end>
-
-=>q11
-What're those loud bangs comin' from down south? <end>
-
-=>q12_original
-Pirates again?<end>
-
-=>q12
-Pirates again?<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>q14_original
-Hey, is the next match on?<end>
-
-=>q14
-Hey, is the next match on?<end>
-
-=>q15_original
-The Arena brings the whole family together. Even Doxy.<end>
-
-=>q15
-The Arena brings the whole family together. Even Doxy.<end>
-
-=>q16_original
-Grimy and me had our first kiss while watchin' Clobbernator do 'is thing. ::Her eyes gleam.:: It was beautiful... carnage.<end>
-
-=>q16
-Grimy and me had our first kiss while watchin' Clobbernator do 'is thing. ::Her eyes gleam.:: It was beautiful... carnage.<end>
-
-=>q17_original
-I still can't believe how lucky we are to have witnessed a carnage of that magnitude...<end>
-
-=>q17
-I still can't believe how lucky we are to have witnessed a carnage of that magnitude...<end>
-
+=>q1_original
+I was patchin' the tent, then boooom - there's a ship gettin' dominated right there, ya'll!<end>
+
+=>q1
+I was patchin' the tent, then boooom - there's a ship gettin' dominated right there, ya'll!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+This piece of land's taken, you.<end>
+
+=>q3
+This piece of land's taken, you.<end>
+
+=>q4_original
+Grimy burned our favorite barrel. We had to throw it away, but the currents always bring it back. Funny...<end>
+
+=>q4
+Grimy burned our favorite barrel. We had to throw it away, but the currents always bring it back. Funny...<end>
+
+=>q5_original
+Mom don't like my husband very much. They cheer for the same gladiators, though.<end>
+
+=>q5
+Mom don't like my husband very much. They cheer for the same gladiators, though.<end>
+
+=>q6_original
+Lotsa traffic 'round the Core Ring, but all in all this ain't such a bad place to live.<end>
+
+=>q6
+Lotsa traffic 'round the Core Ring, but all in all this ain't such a bad place to live.<end>
+
+=>q7_original
+We cookin' slackjaws today. Now where'd I put them socks?<end>
+
+=>q7
+We cookin' slackjaws today. Now where'd I put them socks?<end>
+
+=>q8_original
+We've seen the Ring Wyrm. Long, girthy, spiky. Sailed westward, it did.<end>
+
+=>q8
+We've seen the Ring Wyrm. Long, girthy, spiky. Sailed westward, it did.<end>
+
+=>q9_original
+My ears are still ringin'...<end>
+
+=>q9
+My ears are still ringin'...<end>
+
+=>q10_original
+What smell?<end>
+
+=>q10
+What smell?<end>
+
+=>q11_original
+What're those loud bangs comin' from down south? <end>
+
+=>q11
+What're those loud bangs comin' from down south? <end>
+
+=>q12_original
+Pirates again?<end>
+
+=>q12
+Pirates again?<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+Hey, is the next match on?<end>
+
+=>q14
+Hey, is the next match on?<end>
+
+=>q15_original
+The Arena brings the whole family together. Even Doxy.<end>
+
+=>q15
+The Arena brings the whole family together. Even Doxy.<end>
+
+=>q16_original
+Grimy and me had our first kiss while watchin' Clobbernator do 'is thing. ::Her eyes gleam.:: It was beautiful... carnage.<end>
+
+=>q16
+Grimy and me had our first kiss while watchin' Clobbernator do 'is thing. ::Her eyes gleam.:: It was beautiful... carnage.<end>
+
+=>q17_original
+I still can't believe how lucky we are to have witnessed a carnage of that magnitude...<end>
+
+=>q17
+I still can't believe how lucky we are to have witnessed a carnage of that magnitude...<end>
+

@@ -1,262 +1,262 @@
-=>q1_original
-The area is secured. Awaiting reinforcements.<end>
-
-=>q1
-The area is secured. Awaiting reinforcements.<end>
-
-=>q2_original
-The Cans were waiting for us. But that didn't help them one bit.<end>
-
-=>q2
-The Cans were waiting for us. But that didn't help them one bit.<end>
-
-=>a3_original
-Continue with the attack!<end>
-
-=>a3
-Continue with the attack!<end>
-
-=>q4_original
-We're right behind you! Death to the Cans!<end>
-
-=>q4
-We're right behind you! Death to the Cans!<end>
-
-=>a5_original
-Attack!<end>
-
-=>a5
-Attack!<end>
-
-=>a6_original
-Wait here, I'll signal you when to proceed.<end>
-
-=>a6
-Wait here, I'll signal you when to proceed.<end>
-
-=>q7_original
-It's been quiet so far. I guess the Cans don't know we are coming!<end>
-
-=>q7
-It's been quiet so far. I guess the Cans don't know we are coming!<end>
-
-=>q8_original
-Ready?<end>
-
-=>q8
-Ready?<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-Commence the attack.<end>
-
-=>a10
-Commence the attack.<end>
-
-=>q11_original
-All right boys, you heard $(context.player.Name). Death to Protectorate!<end>
-
-=>q11
-All right boys, you heard $(context.player.Name). Death to Protectorate!<end>
-
-=>a12_original
-Death to Protectorate!<end>
-
-=>a12
-Death to Protectorate!<end>
-
-=>q13_original
-Borzbosledachki Pokzlich! Ih bre, che gi razpalim ki dundechake prkonoschne!<end>
-
-=>q13
-Borzbosledachki Pokzlich! Ih bre, che gi razpalim ki dundechake prkonoschne!<end>
-
-=>a14_original
-::Attack.::<end>
-
-=>a14
-::Attack.::<end>
-
-=>a15_original
-For the Free Drones!<end>
-
-=>a15
-For the Free Drones!<end>
-
-=>a16_original
-Go team $(context.player.Name)!<end>
-
-=>a16
-Go team $(context.player.Name)!<end>
-
-=>a17_original
-Charge!<end>
-
-=>a17
-Charge!<end>
-
-=>a18_original
-To war!<end>
-
-=>a18
-To war!<end>
-
-=>a19_original
-AAAAAAAAAAAAA!<end>
-
-=>a19
-AAAAAAAAAAAAA!<end>
-
-=>a20_original
-Hurrah!<end>
-
-=>a20
-Hurrah!<end>
-
-=>a21_original
-Invictus!<end>
-
-=>a21
-Invictus!<end>
-
-=>a22_original
-::Say nothing.::<end>
-
-=>a22
-::Say nothing.::<end>
-
-=>a23_original
-Not yet, I'll tell you when we're ready.<end>
-
-=>a23
-Not yet, I'll tell you when we're ready.<end>
-
-=>q24_original
-We're not going anywhere unless you say so.<end>
-
-=>q24
-We're not going anywhere unless you say so.<end>
-
-=>q25_original
-::The man addresses you with a surprisingly even and smooth voice, considering the apparent energy of the group.::
-
-Good to see you, $(#brother/sister). Everyone is here, and we're ready to show those filthy Cans the painful side of life.<end>
-
-=>q25
-::The man addresses you with a surprisingly even and smooth voice, considering the apparent energy of the group.::
-
-Good to see you, $(#brother/sister). Everyone is here, and we're ready to show those filthy Cans the painful side of life.<end>
-
-=>q26_original
-Yeah! We're gonna dominate the bastards! Hardcore destruction - Free Drones style! ::He laughs.::<end>
-
-=>q26
-Yeah! We're gonna dominate the bastards! Hardcore destruction - Free Drones style! ::He laughs.::<end>
-
-=>q27_original
-I haven't split any 'Tectorate noggings in a while. This is gonna feel mighty good.<end>
-
-=>q27
-I haven't split any 'Tectorate noggings in a while. This is gonna feel mighty good.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>q29_original
-Nooooo! Why you wear uniform I told not to wear? You...! Ah, we talk this later. Now not time. <end>
-
-=>q29
-Nooooo! Why you wear uniform I told not to wear? You...! Ah, we talk this later. Now not time. <end>
-
-=>q30_original
-This my first fight with you! I can't wait to, how Rocksteady say... errr, hardboil domesticate the most greatest evil Cans in Underrail! Borzbosledachki Pokzlich!<end>
-
-=>q30
-This my first fight with you! I can't wait to, how Rocksteady say... errr, hardboil domesticate the most greatest evil Cans in Underrail! Borzbosledachki Pokzlich!<end>
-
-=>q31_original
-::Facepalms.::<end>
-
-=>q31
-::Facepalms.::<end>
-
-=>q32_original
-::Facepalms even harder.::<end>
-
-=>q32
-::Facepalms even harder.::<end>
-
-=>q33_original
-::Facepalms the hardest.::<end>
-
-=>q33
-::Facepalms the hardest.::<end>
-
-=>q34_original
-Why you, how you say... *face-smack*!? What I say wrong? It my battle cry... Borzbosledachki Pokzlich!<end>
-
-=>q34
-Why you, how you say... *face-smack*!? What I say wrong? It my battle cry... Borzbosledachki Pokzlich!<end>
-
-=>q35_original
-Yes... All in all, we're ready to move, $(#brother/sister). Just say the word.<end>
-
-=>q35
-Yes... All in all, we're ready to move, $(#brother/sister). Just say the word.<end>
-
-=>q36_original
-That uniform... Nooooo!<end>
-
-=>q36
-That uniform... Nooooo!<end>
-
-=>q37_original
-Not now, Kokoschka. Stay focused.<end>
-
-=>q37
-Not now, Kokoschka. Stay focused.<end>
-
-=>q38_original
-Ah, yes, sorry... I focus. <end>
-
-=>q38
-Ah, yes, sorry... I focus. <end>
-
-=>q39_original
-<end>
-
-=>q39
-<end>
-
-=>q40_original
-Death to the Protectorate!<end>
-
-=>q40
-Death to the Protectorate!<end>
-
-=>q41_original
-Down with the United Stations!<end>
-
-=>q41
-Down with the United Stations!<end>
-
-=>q42_original
-We will not be oppressed!<end>
-
-=>q42
-We will not be oppressed!<end>
-
-=>q43_original
-For the Free Drones!<end>
-
-=>q43
-For the Free Drones!<end>
-
+=>q1_original
+The area is secured. Awaiting reinforcements.<end>
+
+=>q1
+The area is secured. Awaiting reinforcements.<end>
+
+=>q2_original
+The Cans were waiting for us. But that didn't help them one bit.<end>
+
+=>q2
+The Cans were waiting for us. But that didn't help them one bit.<end>
+
+=>a3_original
+Continue with the attack!<end>
+
+=>a3
+Continue with the attack!<end>
+
+=>q4_original
+We're right behind you! Death to the Cans!<end>
+
+=>q4
+We're right behind you! Death to the Cans!<end>
+
+=>a5_original
+Attack!<end>
+
+=>a5
+Attack!<end>
+
+=>a6_original
+Wait here, I'll signal you when to proceed.<end>
+
+=>a6
+Wait here, I'll signal you when to proceed.<end>
+
+=>q7_original
+It's been quiet so far. I guess the Cans don't know we are coming!<end>
+
+=>q7
+It's been quiet so far. I guess the Cans don't know we are coming!<end>
+
+=>q8_original
+Ready?<end>
+
+=>q8
+Ready?<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+Commence the attack.<end>
+
+=>a10
+Commence the attack.<end>
+
+=>q11_original
+All right boys, you heard $(context.player.Name). Death to Protectorate!<end>
+
+=>q11
+All right boys, you heard $(context.player.Name). Death to Protectorate!<end>
+
+=>a12_original
+Death to Protectorate!<end>
+
+=>a12
+Death to Protectorate!<end>
+
+=>q13_original
+Borzbosledachki Pokzlich! Ih bre, che gi razpalim ki dundechake prkonoschne!<end>
+
+=>q13
+Borzbosledachki Pokzlich! Ih bre, che gi razpalim ki dundechake prkonoschne!<end>
+
+=>a14_original
+::Attack.::<end>
+
+=>a14
+::Attack.::<end>
+
+=>a15_original
+For the Free Drones!<end>
+
+=>a15
+For the Free Drones!<end>
+
+=>a16_original
+Go team $(context.player.Name)!<end>
+
+=>a16
+Go team $(context.player.Name)!<end>
+
+=>a17_original
+Charge!<end>
+
+=>a17
+Charge!<end>
+
+=>a18_original
+To war!<end>
+
+=>a18
+To war!<end>
+
+=>a19_original
+AAAAAAAAAAAAA!<end>
+
+=>a19
+AAAAAAAAAAAAA!<end>
+
+=>a20_original
+Hurrah!<end>
+
+=>a20
+Hurrah!<end>
+
+=>a21_original
+Invictus!<end>
+
+=>a21
+Invictus!<end>
+
+=>a22_original
+::Say nothing.::<end>
+
+=>a22
+::Say nothing.::<end>
+
+=>a23_original
+Not yet, I'll tell you when we're ready.<end>
+
+=>a23
+Not yet, I'll tell you when we're ready.<end>
+
+=>q24_original
+We're not going anywhere unless you say so.<end>
+
+=>q24
+We're not going anywhere unless you say so.<end>
+
+=>q25_original
+::The man addresses you with a surprisingly even and smooth voice, considering the apparent energy of the group.::
+
+Good to see you, $(#brother/sister). Everyone is here, and we're ready to show those filthy Cans the painful side of life.<end>
+
+=>q25
+::The man addresses you with a surprisingly even and smooth voice, considering the apparent energy of the group.::
+
+Good to see you, $(#brother/sister). Everyone is here, and we're ready to show those filthy Cans the painful side of life.<end>
+
+=>q26_original
+Yeah! We're gonna dominate the bastards! Hardcore destruction - Free Drones style! ::He laughs.::<end>
+
+=>q26
+Yeah! We're gonna dominate the bastards! Hardcore destruction - Free Drones style! ::He laughs.::<end>
+
+=>q27_original
+I haven't split any 'Tectorate noggings in a while. This is gonna feel mighty good.<end>
+
+=>q27
+I haven't split any 'Tectorate noggings in a while. This is gonna feel mighty good.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+Nooooo! Why you wear uniform I told not to wear? You...! Ah, we talk this later. Now not time. <end>
+
+=>q29
+Nooooo! Why you wear uniform I told not to wear? You...! Ah, we talk this later. Now not time. <end>
+
+=>q30_original
+This my first fight with you! I can't wait to, how Rocksteady say... errr, hardboil domesticate the most greatest evil Cans in Underrail! Borzbosledachki Pokzlich!<end>
+
+=>q30
+This my first fight with you! I can't wait to, how Rocksteady say... errr, hardboil domesticate the most greatest evil Cans in Underrail! Borzbosledachki Pokzlich!<end>
+
+=>q31_original
+::Facepalms.::<end>
+
+=>q31
+::Facepalms.::<end>
+
+=>q32_original
+::Facepalms even harder.::<end>
+
+=>q32
+::Facepalms even harder.::<end>
+
+=>q33_original
+::Facepalms the hardest.::<end>
+
+=>q33
+::Facepalms the hardest.::<end>
+
+=>q34_original
+Why you, how you say... *face-smack*!? What I say wrong? It my battle cry... Borzbosledachki Pokzlich!<end>
+
+=>q34
+Why you, how you say... *face-smack*!? What I say wrong? It my battle cry... Borzbosledachki Pokzlich!<end>
+
+=>q35_original
+Yes... All in all, we're ready to move, $(#brother/sister). Just say the word.<end>
+
+=>q35
+Yes... All in all, we're ready to move, $(#brother/sister). Just say the word.<end>
+
+=>q36_original
+That uniform... Nooooo!<end>
+
+=>q36
+That uniform... Nooooo!<end>
+
+=>q37_original
+Not now, Kokoschka. Stay focused.<end>
+
+=>q37
+Not now, Kokoschka. Stay focused.<end>
+
+=>q38_original
+Ah, yes, sorry... I focus. <end>
+
+=>q38
+Ah, yes, sorry... I focus. <end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>q40_original
+Death to the Protectorate!<end>
+
+=>q40
+Death to the Protectorate!<end>
+
+=>q41_original
+Down with the United Stations!<end>
+
+=>q41
+Down with the United Stations!<end>
+
+=>q42_original
+We will not be oppressed!<end>
+
+=>q42
+We will not be oppressed!<end>
+
+=>q43_original
+For the Free Drones!<end>
+
+=>q43
+For the Free Drones!<end>
+

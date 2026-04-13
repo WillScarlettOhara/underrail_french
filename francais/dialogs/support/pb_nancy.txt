@@ -1,78 +1,78 @@
-=>q1_original
-Goodbye, $(#sir/ma'am).<end>
-
-=>q1
-Goodbye, $(#sir/ma'am).<end>
-
-=>q2_original
-If you're looking for Colonel Cathcart, he is in Consul Oliver's office.<end>
-
-=>q2
-If you're looking for Colonel Cathcart, he is in Consul Oliver's office.<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-Consul Oliver's doors are always open to you, $(context.player.Name).<end>
-
-=>q4
-Consul Oliver's doors are always open to you, $(context.player.Name).<end>
-
-=>q5_original
-::Sighs.::<end>
-
-=>q5
-::Sighs.::<end>
-
-=>q6_original
-How can I help you, handso-- I mean, $(context.player.Name).<end>
-
-=>q6
-How can I help you, handso-- I mean, $(context.player.Name).<end>
-
-=>q7_original
-It is an honor to be working for the United Stations consulate.<end>
-
-=>q7
-It is an honor to be working for the United Stations consulate.<end>
-
-=>q8_original
-The Faceless invasion forced many North Underrail citizens to seek protection right here, in Fort Apogee.<end>
-
-=>q8
-The Faceless invasion forced many North Underrail citizens to seek protection right here, in Fort Apogee.<end>
-
-=>q9_original
-::She checks her nails.:: Oh no! I broke one!<end>
-
-=>q9
-::She checks her nails.:: Oh no! I broke one!<end>
-
-=>q10_original
-::Hums an unfamiliar tune.::<end>
-
-=>q10
-::Hums an unfamiliar tune.::<end>
-
-=>q11_original
-I need some rest. This job is hard.<end>
-
-=>q11
-I need some rest. This job is hard.<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>q13_original
-Take the door behind me. The consul is expecting you.<end>
-
-=>q13
-Take the door behind me. The consul is expecting you.<end>
-
+=>q1_original
+Goodbye, $(#sir/ma'am).<end>
+
+=>q1
+Goodbye, $(#sir/ma'am).<end>
+
+=>q2_original
+If you're looking for Colonel Cathcart, he is in Consul Oliver's office.<end>
+
+=>q2
+If you're looking for Colonel Cathcart, he is in Consul Oliver's office.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Consul Oliver's doors are always open to you, $(context.player.Name).<end>
+
+=>q4
+Consul Oliver's doors are always open to you, $(context.player.Name).<end>
+
+=>q5_original
+::Sighs.::<end>
+
+=>q5
+::Sighs.::<end>
+
+=>q6_original
+How can I help you, handso-- I mean, $(context.player.Name).<end>
+
+=>q6
+How can I help you, handso-- I mean, $(context.player.Name).<end>
+
+=>q7_original
+It is an honor to be working for the United Stations consulate.<end>
+
+=>q7
+It is an honor to be working for the United Stations consulate.<end>
+
+=>q8_original
+The Faceless invasion forced many North Underrail citizens to seek protection right here, in Fort Apogee.<end>
+
+=>q8
+The Faceless invasion forced many North Underrail citizens to seek protection right here, in Fort Apogee.<end>
+
+=>q9_original
+::She checks her nails.:: Oh no! I broke one!<end>
+
+=>q9
+::She checks her nails.:: Oh no! I broke one!<end>
+
+=>q10_original
+::Hums an unfamiliar tune.::<end>
+
+=>q10
+::Hums an unfamiliar tune.::<end>
+
+=>q11_original
+I need some rest. This job is hard.<end>
+
+=>q11
+I need some rest. This job is hard.<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+Take the door behind me. The consul is expecting you.<end>
+
+=>q13
+Take the door behind me. The consul is expecting you.<end>
+

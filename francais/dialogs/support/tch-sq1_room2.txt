@@ -1,48 +1,48 @@
-=>q1_original
-Blistering tentacles!<end>
-
-=>q1
-Blistering tentacles!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Can't a man have some peace?<end>
-
-=>q3
-Can't a man have some peace?<end>
-
-=>q4_original
-$(#Brother/Sister), I don't remember inviting you in...<end>
-
-=>q4
-$(#Brother/Sister), I don't remember inviting you in...<end>
-
-=>q5_original
-Blistering tentacles! What are you doing here?<end>
-
-=>q5
-Blistering tentacles! What are you doing here?<end>
-
-=>q6_original
-I don't care what you want; I care about you leaving me alone!<end>
-
-=>q6
-I don't care what you want; I care about you leaving me alone!<end>
-
-=>q7_original
-Is there a sign on my door saying, "Please barge in whenever you like"?<end>
-
-=>q7
-Is there a sign on my door saying, "Please barge in whenever you like"?<end>
-
-=>q8_original
-Do you have a vestigial brain, $(#brother/sister)? Out of my room!<end>
-
-=>q8
-Do you have a vestigial brain, $(#brother/sister)? Out of my room!<end>
-
+=>q1_original
+Blistering tentacles!<end>
+
+=>q1
+Blistering tentacles!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Can't a man have some peace?<end>
+
+=>q3
+Can't a man have some peace?<end>
+
+=>q4_original
+$(#Brother/Sister), I don't remember inviting you in...<end>
+
+=>q4
+$(#Brother/Sister), I don't remember inviting you in...<end>
+
+=>q5_original
+Blistering tentacles! What are you doing here?<end>
+
+=>q5
+Blistering tentacles! What are you doing here?<end>
+
+=>q6_original
+I don't care what you want; I care about you leaving me alone!<end>
+
+=>q6
+I don't care what you want; I care about you leaving me alone!<end>
+
+=>q7_original
+Is there a sign on my door saying, "Please barge in whenever you like"?<end>
+
+=>q7
+Is there a sign on my door saying, "Please barge in whenever you like"?<end>
+
+=>q8_original
+Do you have a vestigial brain, $(#brother/sister)? Out of my room!<end>
+
+=>q8
+Do you have a vestigial brain, $(#brother/sister)? Out of my room!<end>
+

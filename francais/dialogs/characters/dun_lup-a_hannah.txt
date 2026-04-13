@@ -1,542 +1,542 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Free, at last.<end>
-
-=>q2
-Free, at last.<end>
-
-=>q3_original
-Poor Fred. He stood no chance.<end>
-
-=>q3
-Poor Fred. He stood no chance.<end>
-
-=>q4_original
-We shall endure.<end>
-
-=>q4
-We shall endure.<end>
-
-=>q5_original
-I'm ready.<end>
-
-=>q5
-I'm ready.<end>
-
-=>a6_original
-Let's do this.<end>
-
-=>a6
-Let's do this.<end>
-
-=>a7_original
-Wait a minute.<end>
-
-=>a7
-Wait a minute.<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-::Surprised by your return, she takes a step backwards.:: <end>
-
-=>q9
-::Surprised by your return, she takes a step backwards.:: <end>
-
-=>q10_original
-::She quivers in fear.:: P-please. Don't hurt us. ::She covers herself with both arms.::<end>
-
-=>q10
-::She quivers in fear.:: P-please. Don't hurt us. ::She covers herself with both arms.::<end>
-
-=>a11_original
-I'm not here to hurt you.<end>
-
-=>a11
-I'm not here to hurt you.<end>
-
-=>q12_original
-That's what they've said. Before... All this. P-please, leave me alone. <end>
-
-=>q12
-That's what they've said. Before... All this. P-please, leave me alone. <end>
-
-=>a13_original
-As you wish.<end>
-
-=>a13
-As you wish.<end>
-
-=>a14_original
-::Leave.::<end>
-
-=>a14
-::Leave.::<end>
-
-=>a15_original
-Who are you people?<end>
-
-=>a15
-Who are you people?<end>
-
-=>q16_original
-They've asked those questions... Before all this. P-please, dont hurt us. We didn't ask for any of this.<end>
-
-=>q16
-They've asked those questions... Before all this. P-please, dont hurt us. We didn't ask for any of this.<end>
-
-=>a17_original
-I will talk to someone else, then.<end>
-
-=>a17
-I will talk to someone else, then.<end>
-
-=>a18_original
-::Leave.::<end>
-
-=>a18
-::Leave.::<end>
-
-=>a19_original
-Now it's your turn! ::Attack!::<end>
-
-=>a19
-Now it's your turn! ::Attack!::<end>
-
-=>a20_original
-::Turn and leave.::<end>
-
-=>a20
-::Turn and leave.::<end>
-
-=>q21_original
-Oh... I never imagined they'll capture someone else.<end>
-
-=>q21
-Oh... I never imagined they'll capture someone else.<end>
-
-=>a22_original
-What is going on?<end>
-
-=>a22
-What is going on?<end>
-
-=>q23_original
-These freaks showed up shorty after the earthquake. We had nothing to fend them off with so they've captured us, easily.<end>
-
-=>q23
-These freaks showed up shorty after the earthquake. We had nothing to fend them off with so they've captured us, easily.<end>
-
-=>q24_original
-<end>
-
-=>q24
-<end>
-
-=>a25_original
-Please, tell me more, I'm trying to help here.<end>
-
-=>a25
-Please, tell me more, I'm trying to help here.<end>
-
-=>q26_original
-If that's going to help ::She shrugs.::. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well. mostly due to plenty of food source we've had from the mushroom we grew here.<end>
-
-=>q26
-If that's going to help ::She shrugs.::. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well. mostly due to plenty of food source we've had from the mushroom we grew here.<end>
-
-=>q27_original
-However, our luck was short lived. The earthquake hit is really hard. Ever since, we've scrapped everything we could to improve our camp here. ::She looks away.:: But none of that could prepare us for these maniacs who ambushed us. They took out Fred already.<end>
-
-=>q27
-However, our luck was short lived. The earthquake hit is really hard. Ever since, we've scrapped everything we could to improve our camp here. ::She looks away.:: But none of that could prepare us for these maniacs who ambushed us. They took out Fred already.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-You can't just let them do this to you.<end>
-
-=>a29
-You can't just let them do this to you.<end>
-
-=>q30_original
-We've tried to resist. It only made our problems worse. All we have now is... is blind hope.<end>
-
-=>q30
-We've tried to resist. It only made our problems worse. All we have now is... is blind hope.<end>
-
-=>a31_original
-I want to crawl through that pipe over there. I need your help to boost me up there.<end>
-
-=>a31
-I want to crawl through that pipe over there. I need your help to boost me up there.<end>
-
-=>q32_original
-I-I don't know. ::She looks at the filth below the pipe for a moment.:: I'm afraid they'll see us.<end>
-
-=>q32
-I-I don't know. ::She looks at the filth below the pipe for a moment.:: I'm afraid they'll see us.<end>
-
-=>a33_original
-::[Persuasion]:: I'm doing this for all of us. I promise I will come back to rescue all of you. At this point you have nothing to lose.<end>
-
-=>a33
-::[Persuasion]:: I'm doing this for all of us. I promise I will come back to rescue all of you. At this point you have nothing to lose.<end>
-
-=>q34_original
-::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. Suddenly, she straightens her posture and answers.:: Let's do it.<end>
-
-=>q34
-::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. Suddenly, she straightens her posture and answers.:: Let's do it.<end>
-
-=>a35_original
-Alright, I'll meet you there!<end>
-
-=>a35
-Alright, I'll meet you there!<end>
-
-=>q36_original
-::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. In the end, she frowns and turns her sight away from you.:: I'm sorry, I just can't.<end>
-
-=>q36
-::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. In the end, she frowns and turns her sight away from you.:: I'm sorry, I just can't.<end>
-
-=>a37_original
-Damn, do I have to do everything on my own? ::Leave.::<end>
-
-=>a37
-Damn, do I have to do everything on my own? ::Leave.::<end>
-
-=>a38_original
-::Leave.::<end>
-
-=>a38
-::Leave.::<end>
-
-=>a39_original
-Have some courage!<end>
-
-=>a39
-Have some courage!<end>
-
-=>q40_original
-I'm sorry.<end>
-
-=>q40
-I'm sorry.<end>
-
-=>a41_original
-Whatever.<end>
-
-=>a41
-Whatever.<end>
-
-=>a42_original
-::Leave.::<end>
-
-=>a42
-::Leave.::<end>
-
-=>a43_original
-Tell me how did you end up in here.<end>
-
-=>a43
-Tell me how did you end up in here.<end>
-
-=>q44_original
-Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and figured out we could settle in here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Things were working out well; especially due to the mushrooms that were quite easy to grow here.<end>
-
-=>q44
-Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and figured out we could settle in here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Things were working out well; especially due to the mushrooms that were quite easy to grow here.<end>
-
-=>q45_original
-The earthquake sunk our ship, trapping us in here. And if that wasn't bad enough, this lurker gang caught us by surprise, killing Fred immediately while imprisoning the rest of us. We put our hopes into a plasma sentry we've brought here, but even that damned machine failed us. ::She shakes her head.:: And now... now we are all doomed.<end>
-
-=>q45
-The earthquake sunk our ship, trapping us in here. And if that wasn't bad enough, this lurker gang caught us by surprise, killing Fred immediately while imprisoning the rest of us. We put our hopes into a plasma sentry we've brought here, but even that damned machine failed us. ::She shakes her head.:: And now... now we are all doomed.<end>
-
-=>a46_original
-Be right back.<end>
-
-=>a46
-Be right back.<end>
-
-=>a47_original
-How did you end up in here?<end>
-
-=>a47
-How did you end up in here?<end>
-
-=>a48_original
-Who are you guys?<end>
-
-=>a48
-Who are you guys?<end>
-
-=>a49_original
-Nevermind.<end>
-
-=>a49
-Nevermind.<end>
-
-=>q50_original
-Are we safe now?<end>
-
-=>q50
-Are we safe now?<end>
-
-=>q51_original
-<end>
-
-=>q51
-<end>
-
-=>a52_original
-Tell me how did you end up in here.<end>
-
-=>a52
-Tell me how did you end up in here.<end>
-
-=>q53_original
-Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered nearby. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well, mostly due to plenty of food sources we've had from the mushroom we grew here.<end>
-
-=>q53
-Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered nearby. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well, mostly due to plenty of food sources we've had from the mushroom we grew here.<end>
-
-=>q54_original
-However our luck was short lived. The earthquake hit us really hard. The last shipment, which brought us, amongst the other things, a plasma sentry, wasn't enough to save us from what was to come.  Firstly, the ship itself got obliterated by the rocks. We've scrapped everything we could from it to improve our camp here. But that wasn't enough to protect us from the lurkers, who came out of nowehere and captured us. They are taking us one by one, and we are all that is left.
-
-<end>
-
-=>q54
-However our luck was short lived. The earthquake hit us really hard. The last shipment, which brought us, amongst the other things, a plasma sentry, wasn't enough to save us from what was to come.  Firstly, the ship itself got obliterated by the rocks. We've scrapped everything we could from it to improve our camp here. But that wasn't enough to protect us from the lurkers, who came out of nowehere and captured us. They are taking us one by one, and we are all that is left.
-
-<end>
-
-=>a55_original
-I'm not done with them yet.<end>
-
-=>a55
-I'm not done with them yet.<end>
-
-=>a56_original
-I got rid of them all. You are safe now.<end>
-
-=>a56
-I got rid of them all. You are safe now.<end>
-
-=>q57_original
-I thought we were toast. Thank you.<end>
-
-=>q57
-I thought we were toast. Thank you.<end>
-
-=>a58_original
-Stay safe.<end>
-
-=>a58
-Stay safe.<end>
-
-=>a59_original
-::Nod and leave.::<end>
-
-=>a59
-::Nod and leave.::<end>
-
-=>a60_original
-I will finish what they've started! ::Attack!::<end>
-
-=>a60
-I will finish what they've started! ::Attack!::<end>
-
-=>a61_original
-::Leave.::<end>
-
-=>a61
-::Leave.::<end>
-
-=>q62_original
-We are doomed.<end>
-
-=>q62
-We are doomed.<end>
-
-=>q63_original
-<end>
-
-=>q63
-<end>
-
-=>q64_original
-No... P-please don't hurt us.<end>
-
-=>q64
-No... P-please don't hurt us.<end>
-
-=>q65_original
-::Quivers in fear.::<end>
-
-=>q65
-::Quivers in fear.::<end>
-
-=>q66_original
-<end>
-
-=>q66
-<end>
-
-=>q67_original
-::Mubmles inaudible words.::<end>
-
-=>q67
-::Mubmles inaudible words.::<end>
-
-=>q68_original
-Mom? Dad? <end>
-
-=>q68
-Mom? Dad? <end>
-
-=>q69_original
-::Shakes uncontrollably.::<end>
-
-=>q69
-::Shakes uncontrollably.::<end>
-
-=>q70_original
-H-home... C-close...<end>
-
-=>q70
-H-home... C-close...<end>
-
-=>q71_original
-::Licks fingers.::<end>
-
-=>q71
-::Licks fingers.::<end>
-
-=>q72_original
-Mmm... Tasty.<end>
-
-=>q72
-Mmm... Tasty.<end>
-
-=>q73_original
-<end>
-
-=>q73
-<end>
-
-=>q74_original
-<end>
-
-=>q74
-<end>
-
-=>q75_original
-We shall recover from this.<end>
-
-=>q75
-We shall recover from this.<end>
-
-=>q76_original
-We'll use what's left of those pesky robots.<end>
-
-=>q76
-We'll use what's left of those pesky robots.<end>
-
-=>q77_original
-Homemade mindshroom toast is in order.<end>
-
-=>q77
-Homemade mindshroom toast is in order.<end>
-
-=>q78_original
-Hopefully we can turn a new page in our lives now.<end>
-
-=>q78
-Hopefully we can turn a new page in our lives now.<end>
-
-=>q79_original
-::The change of situation doesn't seem to grant any new reaction. It would seem as if everyone here has no drive to live. She turns towards you, looking at you with her almost closed eyes. Her posture displays no energy as she adresses you with hoarse voice.::
-
-Yes?<end>
-
-=>q79
-::The change of situation doesn't seem to grant any new reaction. It would seem as if everyone here has no drive to live. She turns towards you, looking at you with her almost closed eyes. Her posture displays no energy as she adresses you with hoarse voice.::
-
-Yes?<end>
-
-=>a80_original
-You can leave now. The threat is gone.<end>
-
-=>a80
-You can leave now. The threat is gone.<end>
-
-=>q81_original
-Well... Thanks, but I think I'll be staying here. This is my new home.<end>
-
-=>q81
-Well... Thanks, but I think I'll be staying here. This is my new home.<end>
-
-=>a82_original
-As you wish.<end>
-
-=>a82
-As you wish.<end>
-
-=>a83_original
-::Nod and leave.::<end>
-
-=>a83
-::Nod and leave.::<end>
-
-=>a84_original
-Now that the actual threat is gone, you're next! ::Attack!::<end>
-
-=>a84
-Now that the actual threat is gone, you're next! ::Attack!::<end>
-
-=>a85_original
-Nevermind.<end>
-
-=>a85
-Nevermind.<end>
-
-=>q86_original
-<end>
-
-=>q86
-<end>
-
-=>q87_original
-Leave me to my work.<end>
-
-=>q87
-Leave me to my work.<end>
-
-=>q88_original
-I need to keep this place clean.<end>
-
-=>q88
-I need to keep this place clean.<end>
-
-=>q89_original
-It could always be worse.<end>
-
-=>q89
-It could always be worse.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Free, at last.<end>
+
+=>q2
+Free, at last.<end>
+
+=>q3_original
+Poor Fred. He stood no chance.<end>
+
+=>q3
+Poor Fred. He stood no chance.<end>
+
+=>q4_original
+We shall endure.<end>
+
+=>q4
+We shall endure.<end>
+
+=>q5_original
+I'm ready.<end>
+
+=>q5
+I'm ready.<end>
+
+=>a6_original
+Let's do this.<end>
+
+=>a6
+Let's do this.<end>
+
+=>a7_original
+Wait a minute.<end>
+
+=>a7
+Wait a minute.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+::Surprised by your return, she takes a step backwards.:: <end>
+
+=>q9
+::Surprised by your return, she takes a step backwards.:: <end>
+
+=>q10_original
+::She quivers in fear.:: P-please. Don't hurt us. ::She covers herself with both arms.::<end>
+
+=>q10
+::She quivers in fear.:: P-please. Don't hurt us. ::She covers herself with both arms.::<end>
+
+=>a11_original
+I'm not here to hurt you.<end>
+
+=>a11
+I'm not here to hurt you.<end>
+
+=>q12_original
+That's what they've said. Before... All this. P-please, leave me alone. <end>
+
+=>q12
+That's what they've said. Before... All this. P-please, leave me alone. <end>
+
+=>a13_original
+As you wish.<end>
+
+=>a13
+As you wish.<end>
+
+=>a14_original
+::Leave.::<end>
+
+=>a14
+::Leave.::<end>
+
+=>a15_original
+Who are you people?<end>
+
+=>a15
+Who are you people?<end>
+
+=>q16_original
+They've asked those questions... Before all this. P-please, dont hurt us. We didn't ask for any of this.<end>
+
+=>q16
+They've asked those questions... Before all this. P-please, dont hurt us. We didn't ask for any of this.<end>
+
+=>a17_original
+I will talk to someone else, then.<end>
+
+=>a17
+I will talk to someone else, then.<end>
+
+=>a18_original
+::Leave.::<end>
+
+=>a18
+::Leave.::<end>
+
+=>a19_original
+Now it's your turn! ::Attack!::<end>
+
+=>a19
+Now it's your turn! ::Attack!::<end>
+
+=>a20_original
+::Turn and leave.::<end>
+
+=>a20
+::Turn and leave.::<end>
+
+=>q21_original
+Oh... I never imagined they'll capture someone else.<end>
+
+=>q21
+Oh... I never imagined they'll capture someone else.<end>
+
+=>a22_original
+What is going on?<end>
+
+=>a22
+What is going on?<end>
+
+=>q23_original
+These freaks showed up shorty after the earthquake. We had nothing to fend them off with so they've captured us, easily.<end>
+
+=>q23
+These freaks showed up shorty after the earthquake. We had nothing to fend them off with so they've captured us, easily.<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+Please, tell me more, I'm trying to help here.<end>
+
+=>a25
+Please, tell me more, I'm trying to help here.<end>
+
+=>q26_original
+If that's going to help ::She shrugs.::. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well. mostly due to plenty of food source we've had from the mushroom we grew here.<end>
+
+=>q26
+If that's going to help ::She shrugs.::. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well. mostly due to plenty of food source we've had from the mushroom we grew here.<end>
+
+=>q27_original
+However, our luck was short lived. The earthquake hit is really hard. Ever since, we've scrapped everything we could to improve our camp here. ::She looks away.:: But none of that could prepare us for these maniacs who ambushed us. They took out Fred already.<end>
+
+=>q27
+However, our luck was short lived. The earthquake hit is really hard. Ever since, we've scrapped everything we could to improve our camp here. ::She looks away.:: But none of that could prepare us for these maniacs who ambushed us. They took out Fred already.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+You can't just let them do this to you.<end>
+
+=>a29
+You can't just let them do this to you.<end>
+
+=>q30_original
+We've tried to resist. It only made our problems worse. All we have now is... is blind hope.<end>
+
+=>q30
+We've tried to resist. It only made our problems worse. All we have now is... is blind hope.<end>
+
+=>a31_original
+I want to crawl through that pipe over there. I need your help to boost me up there.<end>
+
+=>a31
+I want to crawl through that pipe over there. I need your help to boost me up there.<end>
+
+=>q32_original
+I-I don't know. ::She looks at the filth below the pipe for a moment.:: I'm afraid they'll see us.<end>
+
+=>q32
+I-I don't know. ::She looks at the filth below the pipe for a moment.:: I'm afraid they'll see us.<end>
+
+=>a33_original
+::[Persuasion]:: I'm doing this for all of us. I promise I will come back to rescue all of you. At this point you have nothing to lose.<end>
+
+=>a33
+::[Persuasion]:: I'm doing this for all of us. I promise I will come back to rescue all of you. At this point you have nothing to lose.<end>
+
+=>q34_original
+::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. Suddenly, she straightens her posture and answers.:: Let's do it.<end>
+
+=>q34
+::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. Suddenly, she straightens her posture and answers.:: Let's do it.<end>
+
+=>a35_original
+Alright, I'll meet you there!<end>
+
+=>a35
+Alright, I'll meet you there!<end>
+
+=>q36_original
+::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. In the end, she frowns and turns her sight away from you.:: I'm sorry, I just can't.<end>
+
+=>q36
+::She thinks for a moment. Hesitation and fear can be seen on her face as she's making a decision. In the end, she frowns and turns her sight away from you.:: I'm sorry, I just can't.<end>
+
+=>a37_original
+Damn, do I have to do everything on my own? ::Leave.::<end>
+
+=>a37
+Damn, do I have to do everything on my own? ::Leave.::<end>
+
+=>a38_original
+::Leave.::<end>
+
+=>a38
+::Leave.::<end>
+
+=>a39_original
+Have some courage!<end>
+
+=>a39
+Have some courage!<end>
+
+=>q40_original
+I'm sorry.<end>
+
+=>q40
+I'm sorry.<end>
+
+=>a41_original
+Whatever.<end>
+
+=>a41
+Whatever.<end>
+
+=>a42_original
+::Leave.::<end>
+
+=>a42
+::Leave.::<end>
+
+=>a43_original
+Tell me how did you end up in here.<end>
+
+=>a43
+Tell me how did you end up in here.<end>
+
+=>q44_original
+Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and figured out we could settle in here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Things were working out well; especially due to the mushrooms that were quite easy to grow here.<end>
+
+=>q44
+Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and figured out we could settle in here. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Things were working out well; especially due to the mushrooms that were quite easy to grow here.<end>
+
+=>q45_original
+The earthquake sunk our ship, trapping us in here. And if that wasn't bad enough, this lurker gang caught us by surprise, killing Fred immediately while imprisoning the rest of us. We put our hopes into a plasma sentry we've brought here, but even that damned machine failed us. ::She shakes her head.:: And now... now we are all doomed.<end>
+
+=>q45
+The earthquake sunk our ship, trapping us in here. And if that wasn't bad enough, this lurker gang caught us by surprise, killing Fred immediately while imprisoning the rest of us. We put our hopes into a plasma sentry we've brought here, but even that damned machine failed us. ::She shakes her head.:: And now... now we are all doomed.<end>
+
+=>a46_original
+Be right back.<end>
+
+=>a46
+Be right back.<end>
+
+=>a47_original
+How did you end up in here?<end>
+
+=>a47
+How did you end up in here?<end>
+
+=>a48_original
+Who are you guys?<end>
+
+=>a48
+Who are you guys?<end>
+
+=>a49_original
+Nevermind.<end>
+
+=>a49
+Nevermind.<end>
+
+=>q50_original
+Are we safe now?<end>
+
+=>q50
+Are we safe now?<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+Tell me how did you end up in here.<end>
+
+=>a52
+Tell me how did you end up in here.<end>
+
+=>q53_original
+Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered nearby. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well, mostly due to plenty of food sources we've had from the mushroom we grew here.<end>
+
+=>q53
+Well ::she shrugs:: I ... I have nothing better to do. We've found out this place some time ago and felt like establishing a new home here near the fertile land we've discovered nearby. On the initial voyage, it was Zack and I who have arrived here at first, while the rest came after several more trips. Our little colony here was working out well, mostly due to plenty of food sources we've had from the mushroom we grew here.<end>
+
+=>q54_original
+However our luck was short lived. The earthquake hit us really hard. The last shipment, which brought us, amongst the other things, a plasma sentry, wasn't enough to save us from what was to come.  Firstly, the ship itself got obliterated by the rocks. We've scrapped everything we could from it to improve our camp here. But that wasn't enough to protect us from the lurkers, who came out of nowehere and captured us. They are taking us one by one, and we are all that is left.
+
+<end>
+
+=>q54
+However our luck was short lived. The earthquake hit us really hard. The last shipment, which brought us, amongst the other things, a plasma sentry, wasn't enough to save us from what was to come.  Firstly, the ship itself got obliterated by the rocks. We've scrapped everything we could from it to improve our camp here. But that wasn't enough to protect us from the lurkers, who came out of nowehere and captured us. They are taking us one by one, and we are all that is left.
+
+<end>
+
+=>a55_original
+I'm not done with them yet.<end>
+
+=>a55
+I'm not done with them yet.<end>
+
+=>a56_original
+I got rid of them all. You are safe now.<end>
+
+=>a56
+I got rid of them all. You are safe now.<end>
+
+=>q57_original
+I thought we were toast. Thank you.<end>
+
+=>q57
+I thought we were toast. Thank you.<end>
+
+=>a58_original
+Stay safe.<end>
+
+=>a58
+Stay safe.<end>
+
+=>a59_original
+::Nod and leave.::<end>
+
+=>a59
+::Nod and leave.::<end>
+
+=>a60_original
+I will finish what they've started! ::Attack!::<end>
+
+=>a60
+I will finish what they've started! ::Attack!::<end>
+
+=>a61_original
+::Leave.::<end>
+
+=>a61
+::Leave.::<end>
+
+=>q62_original
+We are doomed.<end>
+
+=>q62
+We are doomed.<end>
+
+=>q63_original
+<end>
+
+=>q63
+<end>
+
+=>q64_original
+No... P-please don't hurt us.<end>
+
+=>q64
+No... P-please don't hurt us.<end>
+
+=>q65_original
+::Quivers in fear.::<end>
+
+=>q65
+::Quivers in fear.::<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>q67_original
+::Mubmles inaudible words.::<end>
+
+=>q67
+::Mubmles inaudible words.::<end>
+
+=>q68_original
+Mom? Dad? <end>
+
+=>q68
+Mom? Dad? <end>
+
+=>q69_original
+::Shakes uncontrollably.::<end>
+
+=>q69
+::Shakes uncontrollably.::<end>
+
+=>q70_original
+H-home... C-close...<end>
+
+=>q70
+H-home... C-close...<end>
+
+=>q71_original
+::Licks fingers.::<end>
+
+=>q71
+::Licks fingers.::<end>
+
+=>q72_original
+Mmm... Tasty.<end>
+
+=>q72
+Mmm... Tasty.<end>
+
+=>q73_original
+<end>
+
+=>q73
+<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>q75_original
+We shall recover from this.<end>
+
+=>q75
+We shall recover from this.<end>
+
+=>q76_original
+We'll use what's left of those pesky robots.<end>
+
+=>q76
+We'll use what's left of those pesky robots.<end>
+
+=>q77_original
+Homemade mindshroom toast is in order.<end>
+
+=>q77
+Homemade mindshroom toast is in order.<end>
+
+=>q78_original
+Hopefully we can turn a new page in our lives now.<end>
+
+=>q78
+Hopefully we can turn a new page in our lives now.<end>
+
+=>q79_original
+::The change of situation doesn't seem to grant any new reaction. It would seem as if everyone here has no drive to live. She turns towards you, looking at you with her almost closed eyes. Her posture displays no energy as she adresses you with hoarse voice.::
+
+Yes?<end>
+
+=>q79
+::The change of situation doesn't seem to grant any new reaction. It would seem as if everyone here has no drive to live. She turns towards you, looking at you with her almost closed eyes. Her posture displays no energy as she adresses you with hoarse voice.::
+
+Yes?<end>
+
+=>a80_original
+You can leave now. The threat is gone.<end>
+
+=>a80
+You can leave now. The threat is gone.<end>
+
+=>q81_original
+Well... Thanks, but I think I'll be staying here. This is my new home.<end>
+
+=>q81
+Well... Thanks, but I think I'll be staying here. This is my new home.<end>
+
+=>a82_original
+As you wish.<end>
+
+=>a82
+As you wish.<end>
+
+=>a83_original
+::Nod and leave.::<end>
+
+=>a83
+::Nod and leave.::<end>
+
+=>a84_original
+Now that the actual threat is gone, you're next! ::Attack!::<end>
+
+=>a84
+Now that the actual threat is gone, you're next! ::Attack!::<end>
+
+=>a85_original
+Nevermind.<end>
+
+=>a85
+Nevermind.<end>
+
+=>q86_original
+<end>
+
+=>q86
+<end>
+
+=>q87_original
+Leave me to my work.<end>
+
+=>q87
+Leave me to my work.<end>
+
+=>q88_original
+I need to keep this place clean.<end>
+
+=>q88
+I need to keep this place clean.<end>
+
+=>q89_original
+It could always be worse.<end>
+
+=>q89
+It could always be worse.<end>
+

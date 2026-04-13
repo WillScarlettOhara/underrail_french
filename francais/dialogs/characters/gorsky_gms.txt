@@ -1,510 +1,510 @@
-=>q1_original
-Damn it, so it was all for nothing.<end>
-
-=>q1
-Damn it, so it was all for nothing.<end>
-
-=>q2_original
-Well, at least now I know you are someone who can get the job done.
-
-Here's your payment.<end>
-
-=>q2
-Well, at least now I know you are someone who can get the job done.
-
-Here's your payment.<end>
-
-=>a3_original
-Wait, I wanted to investigate that...<end>
-
-=>a3
-Wait, I wanted to investigate that...<end>
-
-=>q4_original
-Are you insane? I'm not having that door open for one more second. Do you know what those creatures can do?
-
-Burrowers are not to be messed with unless absolutely necessary.<end>
-
-=>q4
-Are you insane? I'm not having that door open for one more second. Do you know what those creatures can do?
-
-Burrowers are not to be messed with unless absolutely necessary.<end>
-
-=>a5_original
-::[Persuade]:: Come on, it's a scavenging opportunity. Who knows what I might find?<end>
-
-=>a5
-::[Persuade]:: Come on, it's a scavenging opportunity. Who knows what I might find?<end>
-
-=>q6_original
-Alright. It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
-
-=>q6
-Alright. It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
-
-=>q7_original
-Let's pack it up, boys.
-
-Catch you later, $(context.player.Name).<end>
-
-=>q7
-Let's pack it up, boys.
-
-Catch you later, $(context.player.Name).<end>
-
-=>a8_original
-::Continue::<end>
-
-=>a8
-::Continue::<end>
-
-=>q9_original
-It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
-
-=>q9
-It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
-
-=>q10_original
-You are not getting this key card. Now get out of here!<end>
-
-=>q10
-You are not getting this key card. Now get out of here!<end>
-
-=>q11_original
-Let's pack it up, boys.<end>
-
-=>q11
-Let's pack it up, boys.<end>
-
-=>a12_original
-::Continue::<end>
-
-=>a12
-::Continue::<end>
-
-=>a13_original
-Alright, fine.<end>
-
-=>a13
-Alright, fine.<end>
-
-=>q14_original
-Don't be in such a rush to get yourself killed. There'll be plenty of opportunities.<end>
-
-=>q14
-Don't be in such a rush to get yourself killed. There'll be plenty of opportunities.<end>
-
-=>a15_original
-Thanks.<end>
-
-=>a15
-Thanks.<end>
-
-=>q16_original
-Yeah?<end>
-
-=>q16
-Yeah?<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>a18_original
-I've found the key card that should open that vault.<end>
-
-=>a18
-I've found the key card that should open that vault.<end>
-
-=>q19_original
-Good work. Let's give it a try.<end>
-
-=>q19
-Good work. Let's give it a try.<end>
-
-=>a20_original
-::Continue::<end>
-
-=>a20
-::Continue::<end>
-
-=>a21_original
-There are people on the lower levels of the compound.<end>
-
-=>a21
-There are people on the lower levels of the compound.<end>
-
-=>q22_original
-So?<end>
-
-=>q22
-So?<end>
-
-=>a23_original
-Some raiders held them hostage, but I helped them.<end>
-
-=>a23
-Some raiders held them hostage, but I helped them.<end>
-
-=>q24_original
-Well done. Now, you got the keycard I asked you to find?<end>
-
-=>q24
-Well done. Now, you got the keycard I asked you to find?<end>
-
-=>a25_original
-They are being held hostage by some raiders. We have to help them.<end>
-
-=>a25
-They are being held hostage by some raiders. We have to help them.<end>
-
-=>q26_original
-Tough.<end>
-
-=>q26
-Tough.<end>
-
-=>a27_original
-You aren't going to help them?<end>
-
-=>a27
-You aren't going to help them?<end>
-
-=>q28_original
-Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
-
-=>q28
-Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
-
-=>a29_original
-I just wanted to inform you.<end>
-
-=>a29
-I just wanted to inform you.<end>
-
-=>q30_original
-Good, but I have no interest in who lives in here. All I want is for you to get back to searching for that keycard I asked you.<end>
-
-=>q30
-Good, but I have no interest in who lives in here. All I want is for you to get back to searching for that keycard I asked you.<end>
-
-=>a31_original
-Never mind.<end>
-
-=>a31
-Never mind.<end>
-
-=>q32_original
-Enough of that, now. We have work to do.<end>
-
-=>q32
-Enough of that, now. We have work to do.<end>
-
-=>a33_original
-I didn't find anything.<end>
-
-=>a33
-I didn't find anything.<end>
-
-=>q34_original
-Well keep looking then.<end>
-
-=>q34
-Well keep looking then.<end>
-
-=>a35_original
-::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
-
-=>a35
-::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
-
-=>q36_original
-Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
-
-=>q36
-Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
-
-=>a37_original
-::Continue::<end>
-
-=>a37
-::Continue::<end>
-
-=>q38_original
-You just haven't been looking hard enough. Now go back out there and don't come back until you find something.<end>
-
-=>q38
-You just haven't been looking hard enough. Now go back out there and don't come back until you find something.<end>
-
-=>a39_original
-Alright.<end>
-
-=>a39
-Alright.<end>
-
-=>a40_original
-What is this place?<end>
-
-=>a40
-What is this place?<end>
-
-=>q41_original
-This is the GMS compound. Used to belong to our old *friends* from Omega. They abandoned it at some point. But not before sealing it shut. The bastards.<end>
-
-=>q41
-This is the GMS compound. Used to belong to our old *friends* from Omega. They abandoned it at some point. But not before sealing it shut. The bastards.<end>
-
-=>q42_original
-We tried to break in a number of times, but it was no use. Now the earthquake has done the work for us.<end>
-
-=>q42
-We tried to break in a number of times, but it was no use. Now the earthquake has done the work for us.<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-What does GMS stand for?<end>
-
-=>a44
-What does GMS stand for?<end>
-
-=>q45_original
-I have no idea. But I doubt it was vital for their operations, as it was one of the first buildings they abandoned when their manpower started dwindling.<end>
-
-=>q45
-I have no idea. But I doubt it was vital for their operations, as it was one of the first buildings they abandoned when their manpower started dwindling.<end>
-
-=>a46_original
-Who are the Omega?<end>
-
-=>a46
-Who are the Omega?<end>
-
-=>q47_original
-They were a station we competed with for the control of the South Gate area.<end>
-
-=>q47
-They were a station we competed with for the control of the South Gate area.<end>
-
-=>a48_original
-So what happened to Omega? I'm guessing you won.<end>
-
-=>a48
-So what happened to Omega? I'm guessing you won.<end>
-
-=>q49_original
-Half of them are dead now and others are scattered over the rest of the Underrail. So, yeah, we won.<end>
-
-=>q49
-Half of them are dead now and others are scattered over the rest of the Underrail. So, yeah, we won.<end>
-
-=>a50_original
-You killed half of them?! Why?<end>
-
-=>a50
-You killed half of them?! Why?<end>
-
-=>q51_original
-Hey, I don't have time to teach you bloody history. <end>
-
-=>q51
-Hey, I don't have time to teach you bloody history. <end>
-
-=>q52_original
-Life is tough, especially here in the south. We did what had to be done.<end>
-
-=>q52
-Life is tough, especially here in the south. We did what had to be done.<end>
-
-=>a53_original
-Was there no way to coexist with them?<end>
-
-=>a53
-Was there no way to coexist with them?<end>
-
-=>a54_original
-I guess it was you or them.<end>
-
-=>a54
-I guess it was you or them.<end>
-
-=>q55_original
-Exactly. <end>
-
-=>q55
-Exactly. <end>
-
-=>a56_original
-I see.<end>
-
-=>a56
-I see.<end>
-
-=>a57_original
-Right. So back to business.<end>
-
-=>a57
-Right. So back to business.<end>
-
-=>q58_original
-You ready?<end>
-
-=>q58
-You ready?<end>
-
-=>a59_original
-What's going on here exactly?<end>
-
-=>a59
-What's going on here exactly?<end>
-
-=>q60_original
-We're trying to break into that vault over there, but it's not going too well.<end>
-
-=>q60
-We're trying to break into that vault over there, but it's not going too well.<end>
-
-=>a61_original
-What's so important about that vault?<end>
-
-=>a61
-What's so important about that vault?<end>
-
-=>q62_original
-Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>
-
-=>q62
-Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>
-
-=>a63_original
-::[Intelligence]:: Wait a second, I thought you said this place wasn't critical for them.<end>
-
-=>a63
-::[Intelligence]:: Wait a second, I thought you said this place wasn't critical for them.<end>
-
-=>q64_original
-That doesn't mean it's not valuable. Dying man has no use for gold, but those who remain do.<end>
-
-=>q64
-That doesn't mean it's not valuable. Dying man has no use for gold, but those who remain do.<end>
-
-=>q65_original
-Anyway, I think they meant to reclaim it once the conflict was over. They lost, though, and it wasn't safe for them to be around here anymore. And maybe we killed the only man who knew how to open this blasted door.<end>
-
-=>q65
-Anyway, I think they meant to reclaim it once the conflict was over. They lost, though, and it wasn't safe for them to be around here anymore. And maybe we killed the only man who knew how to open this blasted door.<end>
-
-=>q66_original
-In any case, we need to get to the other side of that door.<end>
-
-=>q66
-In any case, we need to get to the other side of that door.<end>
-
-=>a67_original
-Right, so how do we open it?<end>
-
-=>a67
-Right, so how do we open it?<end>
-
-=>q68_original
-I need you to find the way to open that door. There must be a security card somewhere which unlocks it. Your job is to find it.<end>
-
-=>q68
-I need you to find the way to open that door. There must be a security card somewhere which unlocks it. Your job is to find it.<end>
-
-=>q69_original
-You might need to get to the levels below. The elevator is out of commission because the place is running on auxiliary power, so be resourceful.<end>
-
-=>q69
-You might need to get to the levels below. The elevator is out of commission because the place is running on auxiliary power, so be resourceful.<end>
-
-=>a70_original
-Alright, I'm off.<end>
-
-=>a70
-Alright, I'm off.<end>
-
-=>a71_original
-I'm to go down there alone? What are the rest of you going to do?<end>
-
-=>a71
-I'm to go down there alone? What are the rest of you going to do?<end>
-
-=>q72_original
-We'll continue trying to open the door manually. <end>
-
-=>q72
-We'll continue trying to open the door manually. <end>
-
-=>q73_original
-What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>
-
-=>q73
-What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>
-
-=>a74_original
-Forget it. I'm not risking my neck for this.<end>
-
-=>a74
-Forget it. I'm not risking my neck for this.<end>
-
-=>a75_original
-I see.<end>
-
-=>a75
-I see.<end>
-
-=>q76_original
-Good.<end>
-
-=>q76
-Good.<end>
-
-=>a77_original
-So how can I help?<end>
-
-=>a77
-So how can I help?<end>
-
-=>a78_original
-I see. Let me ask you something else.<end>
-
-=>a78
-I see. Let me ask you something else.<end>
-
-=>q79_original
-Yeah?<end>
-
-=>q79
-Yeah?<end>
-
-=>a80_original
-What do you need me to do?<end>
-
-=>a80
-What do you need me to do?<end>
-
-=>a81_original
-Wait. I got to take care of something first.<end>
-
-=>a81
-Wait. I got to take care of something first.<end>
-
-=>q82_original
-Sure took your time in getting here.<end>
-
-=>q82
-Sure took your time in getting here.<end>
-
-=>q83_original
-You're not supposed to be in here. Go snooping somewhere else.<end>
-
-=>q83
-You're not supposed to be in here. Go snooping somewhere else.<end>
-
+=>q1_original
+Damn it, so it was all for nothing.<end>
+
+=>q1
+Damn it, so it was all for nothing.<end>
+
+=>q2_original
+Well, at least now I know you are someone who can get the job done.
+
+Here's your payment.<end>
+
+=>q2
+Well, at least now I know you are someone who can get the job done.
+
+Here's your payment.<end>
+
+=>a3_original
+Wait, I wanted to investigate that...<end>
+
+=>a3
+Wait, I wanted to investigate that...<end>
+
+=>q4_original
+Are you insane? I'm not having that door open for one more second. Do you know what those creatures can do?
+
+Burrowers are not to be messed with unless absolutely necessary.<end>
+
+=>q4
+Are you insane? I'm not having that door open for one more second. Do you know what those creatures can do?
+
+Burrowers are not to be messed with unless absolutely necessary.<end>
+
+=>a5_original
+::[Persuade]:: Come on, it's a scavenging opportunity. Who knows what I might find?<end>
+
+=>a5
+::[Persuade]:: Come on, it's a scavenging opportunity. Who knows what I might find?<end>
+
+=>q6_original
+Alright. It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
+
+=>q6
+Alright. It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
+
+=>q7_original
+Let's pack it up, boys.
+
+Catch you later, $(context.player.Name).<end>
+
+=>q7
+Let's pack it up, boys.
+
+Catch you later, $(context.player.Name).<end>
+
+=>a8_original
+::Continue::<end>
+
+=>a8
+::Continue::<end>
+
+=>q9_original
+It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
+
+=>q9
+It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
+
+=>q10_original
+You are not getting this key card. Now get out of here!<end>
+
+=>q10
+You are not getting this key card. Now get out of here!<end>
+
+=>q11_original
+Let's pack it up, boys.<end>
+
+=>q11
+Let's pack it up, boys.<end>
+
+=>a12_original
+::Continue::<end>
+
+=>a12
+::Continue::<end>
+
+=>a13_original
+Alright, fine.<end>
+
+=>a13
+Alright, fine.<end>
+
+=>q14_original
+Don't be in such a rush to get yourself killed. There'll be plenty of opportunities.<end>
+
+=>q14
+Don't be in such a rush to get yourself killed. There'll be plenty of opportunities.<end>
+
+=>a15_original
+Thanks.<end>
+
+=>a15
+Thanks.<end>
+
+=>q16_original
+Yeah?<end>
+
+=>q16
+Yeah?<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+I've found the key card that should open that vault.<end>
+
+=>a18
+I've found the key card that should open that vault.<end>
+
+=>q19_original
+Good work. Let's give it a try.<end>
+
+=>q19
+Good work. Let's give it a try.<end>
+
+=>a20_original
+::Continue::<end>
+
+=>a20
+::Continue::<end>
+
+=>a21_original
+There are people on the lower levels of the compound.<end>
+
+=>a21
+There are people on the lower levels of the compound.<end>
+
+=>q22_original
+So?<end>
+
+=>q22
+So?<end>
+
+=>a23_original
+Some raiders held them hostage, but I helped them.<end>
+
+=>a23
+Some raiders held them hostage, but I helped them.<end>
+
+=>q24_original
+Well done. Now, you got the keycard I asked you to find?<end>
+
+=>q24
+Well done. Now, you got the keycard I asked you to find?<end>
+
+=>a25_original
+They are being held hostage by some raiders. We have to help them.<end>
+
+=>a25
+They are being held hostage by some raiders. We have to help them.<end>
+
+=>q26_original
+Tough.<end>
+
+=>q26
+Tough.<end>
+
+=>a27_original
+You aren't going to help them?<end>
+
+=>a27
+You aren't going to help them?<end>
+
+=>q28_original
+Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
+
+=>q28
+Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
+
+=>a29_original
+I just wanted to inform you.<end>
+
+=>a29
+I just wanted to inform you.<end>
+
+=>q30_original
+Good, but I have no interest in who lives in here. All I want is for you to get back to searching for that keycard I asked you.<end>
+
+=>q30
+Good, but I have no interest in who lives in here. All I want is for you to get back to searching for that keycard I asked you.<end>
+
+=>a31_original
+Never mind.<end>
+
+=>a31
+Never mind.<end>
+
+=>q32_original
+Enough of that, now. We have work to do.<end>
+
+=>q32
+Enough of that, now. We have work to do.<end>
+
+=>a33_original
+I didn't find anything.<end>
+
+=>a33
+I didn't find anything.<end>
+
+=>q34_original
+Well keep looking then.<end>
+
+=>q34
+Well keep looking then.<end>
+
+=>a35_original
+::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
+
+=>a35
+::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
+
+=>q36_original
+Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
+
+=>q36
+Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
+
+=>a37_original
+::Continue::<end>
+
+=>a37
+::Continue::<end>
+
+=>q38_original
+You just haven't been looking hard enough. Now go back out there and don't come back until you find something.<end>
+
+=>q38
+You just haven't been looking hard enough. Now go back out there and don't come back until you find something.<end>
+
+=>a39_original
+Alright.<end>
+
+=>a39
+Alright.<end>
+
+=>a40_original
+What is this place?<end>
+
+=>a40
+What is this place?<end>
+
+=>q41_original
+This is the GMS compound. Used to belong to our old *friends* from Omega. They abandoned it at some point. But not before sealing it shut. The bastards.<end>
+
+=>q41
+This is the GMS compound. Used to belong to our old *friends* from Omega. They abandoned it at some point. But not before sealing it shut. The bastards.<end>
+
+=>q42_original
+We tried to break in a number of times, but it was no use. Now the earthquake has done the work for us.<end>
+
+=>q42
+We tried to break in a number of times, but it was no use. Now the earthquake has done the work for us.<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+What does GMS stand for?<end>
+
+=>a44
+What does GMS stand for?<end>
+
+=>q45_original
+I have no idea. But I doubt it was vital for their operations, as it was one of the first buildings they abandoned when their manpower started dwindling.<end>
+
+=>q45
+I have no idea. But I doubt it was vital for their operations, as it was one of the first buildings they abandoned when their manpower started dwindling.<end>
+
+=>a46_original
+Who are the Omega?<end>
+
+=>a46
+Who are the Omega?<end>
+
+=>q47_original
+They were a station we competed with for the control of the South Gate area.<end>
+
+=>q47
+They were a station we competed with for the control of the South Gate area.<end>
+
+=>a48_original
+So what happened to Omega? I'm guessing you won.<end>
+
+=>a48
+So what happened to Omega? I'm guessing you won.<end>
+
+=>q49_original
+Half of them are dead now and others are scattered over the rest of the Underrail. So, yeah, we won.<end>
+
+=>q49
+Half of them are dead now and others are scattered over the rest of the Underrail. So, yeah, we won.<end>
+
+=>a50_original
+You killed half of them?! Why?<end>
+
+=>a50
+You killed half of them?! Why?<end>
+
+=>q51_original
+Hey, I don't have time to teach you bloody history. <end>
+
+=>q51
+Hey, I don't have time to teach you bloody history. <end>
+
+=>q52_original
+Life is tough, especially here in the south. We did what had to be done.<end>
+
+=>q52
+Life is tough, especially here in the south. We did what had to be done.<end>
+
+=>a53_original
+Was there no way to coexist with them?<end>
+
+=>a53
+Was there no way to coexist with them?<end>
+
+=>a54_original
+I guess it was you or them.<end>
+
+=>a54
+I guess it was you or them.<end>
+
+=>q55_original
+Exactly. <end>
+
+=>q55
+Exactly. <end>
+
+=>a56_original
+I see.<end>
+
+=>a56
+I see.<end>
+
+=>a57_original
+Right. So back to business.<end>
+
+=>a57
+Right. So back to business.<end>
+
+=>q58_original
+You ready?<end>
+
+=>q58
+You ready?<end>
+
+=>a59_original
+What's going on here exactly?<end>
+
+=>a59
+What's going on here exactly?<end>
+
+=>q60_original
+We're trying to break into that vault over there, but it's not going too well.<end>
+
+=>q60
+We're trying to break into that vault over there, but it's not going too well.<end>
+
+=>a61_original
+What's so important about that vault?<end>
+
+=>a61
+What's so important about that vault?<end>
+
+=>q62_original
+Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>
+
+=>q62
+Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>
+
+=>a63_original
+::[Intelligence]:: Wait a second, I thought you said this place wasn't critical for them.<end>
+
+=>a63
+::[Intelligence]:: Wait a second, I thought you said this place wasn't critical for them.<end>
+
+=>q64_original
+That doesn't mean it's not valuable. Dying man has no use for gold, but those who remain do.<end>
+
+=>q64
+That doesn't mean it's not valuable. Dying man has no use for gold, but those who remain do.<end>
+
+=>q65_original
+Anyway, I think they meant to reclaim it once the conflict was over. They lost, though, and it wasn't safe for them to be around here anymore. And maybe we killed the only man who knew how to open this blasted door.<end>
+
+=>q65
+Anyway, I think they meant to reclaim it once the conflict was over. They lost, though, and it wasn't safe for them to be around here anymore. And maybe we killed the only man who knew how to open this blasted door.<end>
+
+=>q66_original
+In any case, we need to get to the other side of that door.<end>
+
+=>q66
+In any case, we need to get to the other side of that door.<end>
+
+=>a67_original
+Right, so how do we open it?<end>
+
+=>a67
+Right, so how do we open it?<end>
+
+=>q68_original
+I need you to find the way to open that door. There must be a security card somewhere which unlocks it. Your job is to find it.<end>
+
+=>q68
+I need you to find the way to open that door. There must be a security card somewhere which unlocks it. Your job is to find it.<end>
+
+=>q69_original
+You might need to get to the levels below. The elevator is out of commission because the place is running on auxiliary power, so be resourceful.<end>
+
+=>q69
+You might need to get to the levels below. The elevator is out of commission because the place is running on auxiliary power, so be resourceful.<end>
+
+=>a70_original
+Alright, I'm off.<end>
+
+=>a70
+Alright, I'm off.<end>
+
+=>a71_original
+I'm to go down there alone? What are the rest of you going to do?<end>
+
+=>a71
+I'm to go down there alone? What are the rest of you going to do?<end>
+
+=>q72_original
+We'll continue trying to open the door manually. <end>
+
+=>q72
+We'll continue trying to open the door manually. <end>
+
+=>q73_original
+What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>
+
+=>q73
+What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>
+
+=>a74_original
+Forget it. I'm not risking my neck for this.<end>
+
+=>a74
+Forget it. I'm not risking my neck for this.<end>
+
+=>a75_original
+I see.<end>
+
+=>a75
+I see.<end>
+
+=>q76_original
+Good.<end>
+
+=>q76
+Good.<end>
+
+=>a77_original
+So how can I help?<end>
+
+=>a77
+So how can I help?<end>
+
+=>a78_original
+I see. Let me ask you something else.<end>
+
+=>a78
+I see. Let me ask you something else.<end>
+
+=>q79_original
+Yeah?<end>
+
+=>q79
+Yeah?<end>
+
+=>a80_original
+What do you need me to do?<end>
+
+=>a80
+What do you need me to do?<end>
+
+=>a81_original
+Wait. I got to take care of something first.<end>
+
+=>a81
+Wait. I got to take care of something first.<end>
+
+=>q82_original
+Sure took your time in getting here.<end>
+
+=>q82
+Sure took your time in getting here.<end>
+
+=>q83_original
+You're not supposed to be in here. Go snooping somewhere else.<end>
+
+=>q83
+You're not supposed to be in here. Go snooping somewhere else.<end>
+

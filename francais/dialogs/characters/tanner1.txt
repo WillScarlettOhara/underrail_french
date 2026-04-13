@@ -1,1894 +1,1894 @@
-=>q1_original
-::As he turns to you, Tanner gets straight to the point::<end>
-
-=>q1
-::As he turns to you, Tanner gets straight to the point::<end>
-
-=>q2_original
-::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
-
-=>q2
-::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
-
-=>a3_original
-What do we get out of this?<end>
-
-=>a3
-What do we get out of this?<end>
-
-=>q4_original
-A couple of things. Most notably we get to establish an embassy there which will allow us to cooperate more closely in matters of trade and defense.<end>
-
-=>q4
-A couple of things. Most notably we get to establish an embassy there which will allow us to cooperate more closely in matters of trade and defense.<end>
-
-=>q5_original
-We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.<end>
-
-=>q5
-We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.<end>
-
-=>q6_original
-Interesting times lie ahead for SGS.<end>
-
-=>q6
-Interesting times lie ahead for SGS.<end>
-
-=>a7_original
-I see. I'll head over there now.<end>
-
-=>a7
-I see. I'll head over there now.<end>
-
-=>a8_original
-Alright, I'll head over there now.<end>
-
-=>a8
-Alright, I'll head over there now.<end>
-
-=>q9_original
-::.:: We've decided against helping the Black Eels. <end>
-
-=>q9
-::.:: We've decided against helping the Black Eels. <end>
-
-=>q10_original
-We're already stretched thin with all the earthquake reparations going on. <end>
-
-=>q10
-We're already stretched thin with all the earthquake reparations going on. <end>
-
-=>q11_original
-Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
-
-=>q11
-Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
-
-=>q12_original
-No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.<end>
-
-=>q12
-No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.<end>
-
-=>q13_original
-With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
-
-=>q13
-With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
-
-=>q14_original
-$(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
-
-=>q14
-$(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
-
-=>q15_original
-<end>
-
-=>q15
-<end>
-
-=>a16_original
-I killed Ethan.<end>
-
-=>a16
-I killed Ethan.<end>
-
-=>q17_original
-Tell me exactly what happened. <end>
-
-=>q17
-Tell me exactly what happened. <end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.<end>
-
-=>a19
-I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.<end>
-
-=>q20_original
-Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.<end>
-
-=>q20
-Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.<end>
-
-=>q21_original
-We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.
-
-I hope I am well understood.<end>
-
-=>q21
-We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.
-
-I hope I am well understood.<end>
-
-=>a22_original
-Perfectly.<end>
-
-=>a22
-Perfectly.<end>
-
-=>q23_original
-Good. <end>
-
-=>q23
-Good. <end>
-
-=>q24_original
-Unless there was something else you needed, you are free to go.<end>
-
-=>q24
-Unless there was something else you needed, you are free to go.<end>
-
-=>q25_original
-<end>
-
-=>q25
-<end>
-
-=>a26_original
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>a26
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>q27_original
-ACoNR? Why do you ask me this?<end>
-
-=>q27
-ACoNR? Why do you ask me this?<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
-
-=>a29
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
-
-=>q30_original
-It certainly would. <end>
-
-=>q30
-It certainly would. <end>
-
-=>q31_original
-I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
-
-But how do you know about the ACoNR?<end>
-
-=>q31
-I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
-
-But how do you know about the ACoNR?<end>
-
-=>a32_original
-Let's say I've done some digging around.<end>
-
-=>a32
-Let's say I've done some digging around.<end>
-
-=>q33_original
-Mhm. Do you have it?<end>
-
-=>q33
-Mhm. Do you have it?<end>
-
-=>a34_original
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>a34
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>q35_original
-::His answer is immediate and spoken with obvious satisfaction.:: This is it. ACoNR. 
-
-Has it been opened?<end>
-
-=>q35
-::His answer is immediate and spoken with obvious satisfaction.:: This is it. ACoNR. 
-
-Has it been opened?<end>
-
-=>a36_original
-I know it needs the coded signal, but I don't have it.<end>
-
-=>a36
-I know it needs the coded signal, but I don't have it.<end>
-
-=>q37_original
-That's a problem. The quantum near-field locks <end>
-
-=>q37
-That's a problem. The quantum near-field locks <end>
-
-=>q38_original
-can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
-
-But, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::<end>
-
-=>q38
-can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
-
-But, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::<end>
-
-=>a39_original
-Here. ::Give it to him.::<end>
-
-=>a39
-Here. ::Give it to him.::<end>
-
-=>q40_original
-Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
-
-=>q40
-Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
-
-=>q41_original
-::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
-
-I will send this to Engineering. We'll begin studying it as soon as possible.<end>
-
-=>q41
-::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
-
-I will send this to Engineering. We'll begin studying it as soon as possible.<end>
-
-=>q42_original
-::He shakes your much smaller hand.:: You've done a great service to this station, $(context.player.Name). 
-
-Believe me when I say that this event is going to be remembered.<end>
-
-=>q42
-::He shakes your much smaller hand.:: You've done a great service to this station, $(context.player.Name). 
-
-Believe me when I say that this event is going to be remembered.<end>
-
-=>a43_original
-I'd like to know more about the Acorn.<end>
-
-=>a43
-I'd like to know more about the Acorn.<end>
-
-=>q44_original
-Of course, $(context.player.Name).<end>
-
-=>q44
-Of course, $(context.player.Name).<end>
-
-=>q45_original
-<end>
-
-=>q45
-<end>
-
-=>a46_original
-What does the Acorn do exactly?<end>
-
-=>a46
-What does the Acorn do exactly?<end>
-
-=>q47_original
-In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.<end>
-
-=>q47
-In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.<end>
-
-=>q48_original
-Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.<end>
-
-=>q48
-Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.<end>
-
-=>q49_original
-<end>
-
-=>q49
-<end>
-
-=>a50_original
-::[Intelligence]:: The fact that you called the Acorn "a unit" made me suspicious, but you've confirmed that there is more than one Acorn.<end>
-
-=>a50
-::[Intelligence]:: The fact that you called the Acorn "a unit" made me suspicious, but you've confirmed that there is more than one Acorn.<end>
-
-=>q51_original
-That is correct. There are more than one. <end>
-
-=>q51
-That is correct. There are more than one. <end>
-
-=>q52_original
-While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. 
-
-But what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.<end>
-
-=>q52
-While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. 
-
-But what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.<end>
-
-=>q53_original
-Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. 
-
-Setting up defenses is crucial as well.<end>
-
-=>q53
-Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. 
-
-Setting up defenses is crucial as well.<end>
-
-=>q54_original
-But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.<end>
-
-=>q54
-But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.<end>
-
-=>q55_original
-Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.<end>
-
-=>q55
-Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.<end>
-
-=>q56_original
-And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.<end>
-
-=>q56
-And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.<end>
-
-=>a57_original
-Hold up, hold up: Each Acorn?<end>
-
-=>a57
-Hold up, hold up: Each Acorn?<end>
-
-=>q58_original
-There are more. <end>
-
-=>q58
-There are more. <end>
-
-=>a59_original
-This is not the only one?<end>
-
-=>a59
-This is not the only one?<end>
-
-=>q60_original
-No. <end>
-
-=>q60
-No. <end>
-
-=>q61_original
-<end>
-
-=>q61
-<end>
-
-=>a62_original
-Can you describe how it works?<end>
-
-=>a62
-Can you describe how it works?<end>
-
-=>a63_original
-Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
-
-=>a63
-Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
-
-=>q64_original
-Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.<end>
-
-=>q64
-Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.<end>
-
-=>q65_original
-But the origin of the technology is the least important thing. The technology itself is.<end>
-
-=>q65
-But the origin of the technology is the least important thing. The technology itself is.<end>
-
-=>a66_original
-Where could the other ones be?<end>
-
-=>a66
-Where could the other ones be?<end>
-
-=>q67_original
-It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.<end>
-
-=>q67
-It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.<end>
-
-=>q68_original
-As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.<end>
-
-=>q68
-As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.<end>
-
-=>a69_original
-What's going to happen with the Acorn now?<end>
-
-=>a69
-What's going to happen with the Acorn now?<end>
-
-=>q70_original
-We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.<end>
-
-=>q70
-We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.<end>
-
-=>a71_original
-What would happen if you tried forcing it open?<end>
-
-=>a71
-What would happen if you tried forcing it open?<end>
-
-=>q72_original
-ACoNRs are designed in such a way as to destroy themselves in the event that any physical attempts at opening them are taken.<end>
-
-=>q72
-ACoNRs are designed in such a way as to destroy themselves in the event that any physical attempts at opening them are taken.<end>
-
-=>q73_original
-So all we can do now is observe it.<end>
-
-=>q73
-So all we can do now is observe it.<end>
-
-=>a74_original
-Let's talk about something else.<end>
-
-=>a74
-Let's talk about something else.<end>
-
-=>q75_original
-Go ahead.<end>
-
-=>q75
-Go ahead.<end>
-
-=>a76_original
-I wanted to talk to you about something else now.<end>
-
-=>a76
-I wanted to talk to you about something else now.<end>
-
-=>a77_original
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>a77
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>q78_original
-::He retracts his hands.:: Understandable. <end>
-
-=>q78
-::He retracts his hands.:: Understandable. <end>
-
-=>q79_original
-<end>
-
-=>q79
-<end>
-
-=>a80_original
-::[Mercantile]:: Eighteen thousand credits.<end>
-
-=>a80
-::[Mercantile]:: Eighteen thousand credits.<end>
-
-=>q81_original
-<end>
-
-=>q81
-<end>
-
-=>q82_original
-It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.<end>
-
-=>q82
-It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.<end>
-
-=>a83_original
-::[Mercantile]:: Fifteen thousand credits.<end>
-
-=>a83
-::[Mercantile]:: Fifteen thousand credits.<end>
-
-=>q84_original
-<end>
-
-=>q84
-<end>
-
-=>a85_original
-::[Mercantile]:: Twelve thousand credits.<end>
-
-=>a85
-::[Mercantile]:: Twelve thousand credits.<end>
-
-=>q86_original
-<end>
-
-=>q86
-<end>
-
-=>a87_original
-::[Mercantile]:: Nine thousand credits.<end>
-
-=>a87
-::[Mercantile]:: Nine thousand credits.<end>
-
-=>q88_original
-<end>
-
-=>q88
-<end>
-
-=>a89_original
-Six thousand credits.<end>
-
-=>a89
-Six thousand credits.<end>
-
-=>a90_original
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a90
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a91_original
-No. I don't know how.<end>
-
-=>a91
-No. I don't know how.<end>
-
-=>q92_original
-ACoNR has what's called a quantum near-field lock. The lock <end>
-
-=>q92
-ACoNR has what's called a quantum near-field lock. The lock <end>
-
-=>a93_original
-I haven't found a way to open it yet. I thought someone else would know more.<end>
-
-=>a93
-I haven't found a way to open it yet. I thought someone else would know more.<end>
-
-=>a94_original
-Not yet, but I'm working on obtaining it.<end>
-
-=>a94
-Not yet, but I'm working on obtaining it.<end>
-
-=>q95_original
-I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.<end>
-
-=>q95
-I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.<end>
-
-=>q96_original
-This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.<end>
-
-=>q96
-This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.<end>
-
-=>a97_original
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>a97
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>q98_original
-As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
-
-=>q98
-As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
-
-=>a99_original
-I learned about it during a trip to the Black Sea.<end>
-
-=>a99
-I learned about it during a trip to the Black Sea.<end>
-
-=>a100_original
-I learned about it during an expedition to the Black Sea.<end>
-
-=>a100
-I learned about it during an expedition to the Black Sea.<end>
-
-=>a101_original
-Underrail holds many secrets, but nothing's too secret for me.<end>
-
-=>a101
-Underrail holds many secrets, but nothing's too secret for me.<end>
-
-=>a102_original
-All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
-
-=>a102
-All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
-
-=>q103_original
-Surface? Interesting. <end>
-
-=>q103
-Surface? Interesting. <end>
-
-=>a104_original
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
-
-=>a104
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
-
-=>q105_original
-::He nods.:: The information I have suggests the same. <end>
-
-=>q105
-::He nods.:: The information I have suggests the same. <end>
-
-=>a106_original
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a106
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a107_original
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a107
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a108_original
-Never mind. There was something else I wanted to ask you.<end>
-
-=>a108
-Never mind. There was something else I wanted to ask you.<end>
-
-=>q109_original
-Wait, $(context.player.Name). I know about ACoNR. <end>
-
-=>q109
-Wait, $(context.player.Name). I know about ACoNR. <end>
-
-=>a110_original
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a110
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a111_original
-There's a showdown of gangs about to happen in the Junkyard and the Black Eels want our help. ::Explain the situation.::<end>
-
-=>a111
-There's a showdown of gangs about to happen in the Junkyard and the Black Eels want our help. ::Explain the situation.::<end>
-
-=>q112_original
-::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.<end>
-
-=>q112
-::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.<end>
-
-=>q113_original
-We'll need to assemble the council for this. Follow me.<end>
-
-=>q113
-We'll need to assemble the council for this. Follow me.<end>
-
-=>a114_original
-::Follow him.::<end>
-
-=>a114
-::Follow him.::<end>
-
-=>a115_original
-I wanted to ask you a couple of questions about Patrick Pierce.<end>
-
-=>a115
-I wanted to ask you a couple of questions about Patrick Pierce.<end>
-
-=>q116_original
-::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
-
-=>q116
-::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
-
-=>a117_original
-Why won't you help him, he just wants to find out what happened to his brother?<end>
-
-=>a117
-Why won't you help him, he just wants to find out what happened to his brother?<end>
-
-=>q118_original
-It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. <end>
-
-=>q118
-It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. <end>
-
-=>q119_original
-The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.<end>
-
-=>q119
-The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.<end>
-
-=>a120_original
-I just want to help the man out. He's down at the bar right now, not too far off from drowning in alcohol.<end>
-
-=>a120
-I just want to help the man out. He's down at the bar right now, not too far off from drowning in alcohol.<end>
-
-=>q121_original
-As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. <end>
-
-=>q121
-As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. <end>
-
-=>a122_original
-I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::<end>
-
-=>a122
-I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::<end>
-
-=>q123_original
-That's excellent news. I'll get this to Harold so he can start repairing the drill immediately. This will aid us in clearing the tunnels significantly.<end>
-
-=>q123
-That's excellent news. I'll get this to Harold so he can start repairing the drill immediately. This will aid us in clearing the tunnels significantly.<end>
-
-=>q124_original
-I don't have anything more for you to do right now, $(context.player.Name). Go and take some rest. You've more than deserved it.<end>
-
-=>q124
-I don't have anything more for you to do right now, $(context.player.Name). Go and take some rest. You've more than deserved it.<end>
-
-=>a125_original
-::Retire for the day.::<end>
-
-=>a125
-::Retire for the day.::<end>
-
-=>a126_original
-I've reactivated the power generator, but I didn't get to any of the stations.<end>
-
-=>a126
-I've reactivated the power generator, but I didn't get to any of the stations.<end>
-
-=>q127_original
-This won't do. We need at least some of the stations activated before we can redeploy there.<end>
-
-=>q127
-This won't do. We need at least some of the stations activated before we can redeploy there.<end>
-
-=>a128_original
-I'll get right on it, but I have some questions first.<end>
-
-=>a128
-I'll get right on it, but I have some questions first.<end>
-
-=>q129_original
-Yes?<end>
-
-=>q129
-Yes?<end>
-
-=>a130_original
-I understand. I'll be back later.<end>
-
-=>a130
-I understand. I'll be back later.<end>
-
-=>a131_original
-I've reactivated the power generator, as well as some of the stations.<end>
-
-=>a131
-I've reactivated the power generator, as well as some of the stations.<end>
-
-=>q132_original
-Good work, $(context.player.Name). We can now start the restoration process.
-
-Here are your credits.<end>
-
-=>q132
-Good work, $(context.player.Name). We can now start the restoration process.
-
-Here are your credits.<end>
-
-=>a133_original
-Excellent. So what's next on the agenda?<end>
-
-=>a133
-Excellent. So what's next on the agenda?<end>
-
-=>q134_original
-There are a few more jobs waiting for you actually. <end>
-
-=>q134
-There are a few more jobs waiting for you actually. <end>
-
-=>q135_original
-Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.<end>
-
-=>q135
-Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.<end>
-
-=>q136_original
-After you've completed this task come and see me again.<end>
-
-=>q136
-After you've completed this task come and see me again.<end>
-
-=>a137_original
-I had a couple of questions, actually.<end>
-
-=>a137
-I had a couple of questions, actually.<end>
-
-=>q138_original
-Yes?<end>
-
-=>q138
-Yes?<end>
-
-=>a139_original
-Understood.<end>
-
-=>a139
-Understood.<end>
-
-=>a140_original
-So. I'll be going now.<end>
-
-=>a140
-So. I'll be going now.<end>
-
-=>q141_original
-Not so fast. There are a few more jobs waiting for you.<end>
-
-=>q141
-Not so fast. There are a few more jobs waiting for you.<end>
-
-=>a142_original
-I've reactivated the power generator, and all the stations I could find.<end>
-
-=>a142
-I've reactivated the power generator, and all the stations I could find.<end>
-
-=>a143_original
-I'm done with Bret's quest. Now what?<end>
-
-=>a143
-I'm done with Bret's quest. Now what?<end>
-
-=>q144_original
-Excellent, I have another task for you. Gorsky has led an expedition into the nearby GMS compound and he requested that you specifically join them there. Go to station platform exit and talk to Essie. She can instruct you on how to reach GMS compound.<end>
-
-=>q144
-Excellent, I have another task for you. Gorsky has led an expedition into the nearby GMS compound and he requested that you specifically join them there. Go to station platform exit and talk to Essie. She can instruct you on how to reach GMS compound.<end>
-
-=>q145_original
-After you've completed this task come and see me.<end>
-
-=>q145
-After you've completed this task come and see me.<end>
-
-=>a146_original
-I'm done with Gorsky's task. What's next?<end>
-
-=>a146
-I'm done with Gorsky's task. What's next?<end>
-
-=>q147_original
-Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
-
-=>q147
-Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
-
-=>q148_original
-there's not much to do around the station at the moment. Not until the tunnel is clear.
-
-However, there's a way you could speed that up, besides helping with the actual digging yourself.<end>
-
-=>q148
-there's not much to do around the station at the moment. Not until the tunnel is clear.
-
-However, there's a way you could speed that up, besides helping with the actual digging yourself.<end>
-
-=>q149_original
-The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.<end>
-
-=>q149
-The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.<end>
-
-=>q150_original
-Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. <end>
-
-=>q150
-Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. <end>
-
-=>a151_original
-So I guess you want me to find the replacement circuit board?<end>
-
-=>a151
-So I guess you want me to find the replacement circuit board?<end>
-
-=>q152_original
-Or a merchant that would sell one, yes.<end>
-
-=>q152
-Or a merchant that would sell one, yes.<end>
-
-=>q153_original
-Since the train is out and a lot of tunnels have collapsed, there are not many places you can look for it at the moment. Our best bet would be Junkyard. Ever been there?<end>
-
-=>q153
-Since the train is out and a lot of tunnels have collapsed, there are not many places you can look for it at the moment. Our best bet would be Junkyard. Ever been there?<end>
-
-=>a154_original
-No. What's "Junkyard"?<end>
-
-=>a154
-No. What's "Junkyard"?<end>
-
-=>q155_original
-It's a town just across the Chancer's Bay, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs, the Scrappers and the Black Eels. 
-
-But most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.<end>
-
-=>q155
-It's a town just across the Chancer's Bay, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs, the Scrappers and the Black Eels. 
-
-But most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.<end>
-
-=>a156_original
-How do I get there?<end>
-
-=>a156
-How do I get there?<end>
-
-=>q157_original
-Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.<end>
-
-=>q157
-Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.<end>
-
-=>q158_original
-I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.<end>
-
-=>q158
-I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.<end>
-
-=>q159_original
-But if you can't find it, I want the money back.<end>
-
-=>q159
-But if you can't find it, I want the money back.<end>
-
-=>a160_original
-Deal. I'll be back with the circuit board or with your money.<end>
-
-=>a160
-Deal. I'll be back with the circuit board or with your money.<end>
-
-=>q161_original
-::He nods and hands you the money.:: Good luck.<end>
-
-=>q161
-::He nods and hands you the money.:: Good luck.<end>
-
-=>q162_original
-Also, before you head out you should go to the administration floor and talk to Vera. I think she has some trade documents that she needs delivered to the United Station embassy in Junkyard.<end>
-
-=>q162
-Also, before you head out you should go to the administration floor and talk to Vera. I think she has some trade documents that she needs delivered to the United Station embassy in Junkyard.<end>
-
-=>a163_original
-Hmm, I'll have to think about it. I'm not sure if I want to invest my time for uncertain pay.<end>
-
-=>a163
-Hmm, I'll have to think about it. I'm not sure if I want to invest my time for uncertain pay.<end>
-
-=>q164_original
-Alright, fair enough. Let me know if you decide to have a go at it.<end>
-
-=>q164
-Alright, fair enough. Let me know if you decide to have a go at it.<end>
-
-=>a165_original
-Yeah, I've been there.<end>
-
-=>a165
-Yeah, I've been there.<end>
-
-=>q166_original
-Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
-
-=>q166
-Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
-
-=>q167_original
-Actually, <end>
-
-=>q167
-Actually, <end>
-
-=>a168_original
-About that drill thingamagingy...<end>
-
-=>a168
-About that drill thingamagingy...<end>
-
-=>q169_original
-Armadillo class drill rotor circuit board? <end>
-
-=>q169
-Armadillo class drill rotor circuit board? <end>
-
-=>a170_original
-Gorsky died in Core City.<end>
-
-=>a170
-Gorsky died in Core City.<end>
-
-=>q171_original
-::Tanner stares at you silently.:: Tell me what happened?<end>
-
-=>q171
-::Tanner stares at you silently.:: Tell me what happened?<end>
-
-=>a172_original
-We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.<end>
-
-=>a172
-We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.<end>
-
-=>q173_original
-That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.<end>
-
-=>q173
-That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.<end>
-
-=>q174_original
-Thank you for bringing me this information, $(context.player.Name); you have done well once again.<end>
-
-=>q174
-Thank you for bringing me this information, $(context.player.Name); you have done well once again.<end>
-
-=>a175_original
-I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::<end>
-
-=>a175
-I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::<end>
-
-=>q176_original
-::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: Hmm... interesting. Did you manage to find out why the Faceless invaded?<end>
-
-=>q176
-::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: Hmm... interesting. Did you manage to find out why the Faceless invaded?<end>
-
-=>a177_original
-I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.<end>
-
-=>a177
-I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.<end>
-
-=>q178_original
-::He nods slowly.:: We must find this item and discover what it is.<end>
-
-=>q178
-::He nods slowly.:: We must find this item and discover what it is.<end>
-
-=>q179_original
-::His voice deepens slightly and becomes more commanding.:: 
-
-You must go to Core City and look for this "Acid Hunters" band and their leader Cornell. Retrieve the device from him if he still has it, or at least try to find out what it is and how he got it.<end>
-
-=>q179
-::His voice deepens slightly and becomes more commanding.:: 
-
-You must go to Core City and look for this "Acid Hunters" band and their leader Cornell. Retrieve the device from him if he still has it, or at least try to find out what it is and how he got it.<end>
-
-=>q180_original
-But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.<end>
-
-=>q180
-But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.<end>
-
-=>q181_original
-Make this task your priority and keep me informed on the progress. <end>
-
-=>q181
-Make this task your priority and keep me informed on the progress. <end>
-
-=>q182_original
-Here's your payment for a job well done. ::He hands you 500 SGS credits.::<end>
-
-=>q182
-Here's your payment for a job well done. ::He hands you 500 SGS credits.::<end>
-
-=>q183_original
-<end>
-
-=>q183
-<end>
-
-=>a184_original
-There is something else I wanted to talk to you about...<end>
-
-=>a184
-There is something else I wanted to talk to you about...<end>
-
-=>a185_original
-I'll be on my way then.<end>
-
-=>a185
-I'll be on my way then.<end>
-
-=>a186_original
-::Nod and leave.::<end>
-
-=>a186
-::Nod and leave.::<end>
-
-=>a187_original
-They are looking for some important item. I don't know what it is, but it seems they've sent out more than just one search party.<end>
-
-=>a187
-They are looking for some important item. I don't know what it is, but it seems they've sent out more than just one search party.<end>
-
-=>q188_original
-My thoughts as well. If you manage to find out what it is they are looking for exactly, let me know.<end>
-
-=>q188
-My thoughts as well. If you manage to find out what it is they are looking for exactly, let me know.<end>
-
-=>q189_original
-Anyway, it was a job well done. Here's your payment. ::He hands you 500 SGS credits.::<end>
-
-=>q189
-Anyway, it was a job well done. Here's your payment. ::He hands you 500 SGS credits.::<end>
-
-=>a190_original
-Thanks.<end>
-
-=>a190
-Thanks.<end>
-
-=>a191_original
-They are looking for some important item, but I don't know what it is.<end>
-
-=>a191
-They are looking for some important item, but I don't know what it is.<end>
-
-=>a192_original
-No.<end>
-
-=>a192
-No.<end>
-
-=>q193_original
-It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
-
-=>q193
-It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
-
-=>a194_original
-I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.<end>
-
-=>a194
-I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.<end>
-
-=>q195_original
-Hmm... This is very interesting. Did you manage to find out what this item is?<end>
-
-=>q195
-Hmm... This is very interesting. Did you manage to find out what this item is?<end>
-
-=>a196_original
-It's some sort of an electronic device that is currently in the possession of some guy named Cornell, leader of the Acid Hunters gang from Core City.<end>
-
-=>a196
-It's some sort of an electronic device that is currently in the possession of some guy named Cornell, leader of the Acid Hunters gang from Core City.<end>
-
-=>a197_original
-Not yet, I'm afraid.<end>
-
-=>a197
-Not yet, I'm afraid.<end>
-
-=>q198_original
-It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
-
-=>q198
-It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
-
-=>a199_original
-I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::<end>
-
-=>a199
-I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::<end>
-
-=>a200_original
-I've found Cornell and the Acid Hunters.<end>
-
-=>a200
-I've found Cornell and the Acid Hunters.<end>
-
-=>q201_original
-::Tanner leans in curiously.:: Excellent. And what of the device? Did you get a hold of it?<end>
-
-=>q201
-::Tanner leans in curiously.:: Excellent. And what of the device? Did you get a hold of it?<end>
-
-=>a202_original
-I've tracked the Cube thing to a Coretech research facility in Core City, but Tchortists snatched it before I could get to it.<end>
-
-=>a202
-I've tracked the Cube thing to a Coretech research facility in Core City, but Tchortists snatched it before I could get to it.<end>
-
-=>q203_original
-::Tanner strokes his beard and responds calmly.:: That is unfortunate. This makes your mission all the more important since we cannot afford to leave a powerful artifact in the hands of religious zealots.<end>
-
-=>q203
-::Tanner strokes his beard and responds calmly.:: That is unfortunate. This makes your mission all the more important since we cannot afford to leave a powerful artifact in the hands of religious zealots.<end>
-
-=>q204_original
-There's an "Institute of Tchort" located in the Upper Underrail; the Tchortists must have taken the Cube there. You know what must be done, $(context.player.Name). Find a way to infiltrate it and retrieve the Cube.<end>
-
-=>q204
-There's an "Institute of Tchort" located in the Upper Underrail; the Tchortists must have taken the Cube there. You know what must be done, $(context.player.Name). Find a way to infiltrate it and retrieve the Cube.<end>
-
-=>a205_original
-No, but I know it's in the hands of Coretech organization.<end>
-
-=>a205
-No, but I know it's in the hands of Coretech organization.<end>
-
-=>q206_original
-You need to find a way to take it from them. Coretech can be a reckless organization. They inherited some of Old Biocorp's technology, but none of the wisdom. They should not be allowed to tinker with Faceless artifacts.<end>
-
-=>q206
-You need to find a way to take it from them. Coretech can be a reckless organization. They inherited some of Old Biocorp's technology, but none of the wisdom. They should not be allowed to tinker with Faceless artifacts.<end>
-
-=>q207_original
-It would be the best if you'd bring the device to me before any more bad things happen. Then we can decide what to do with it.<end>
-
-=>q207
-It would be the best if you'd bring the device to me before any more bad things happen. Then we can decide what to do with it.<end>
-
-=>a208_original
-No, they didn't have it on them.<end>
-
-=>a208
-No, they didn't have it on them.<end>
-
-=>q209_original
-Keep looking for it then. <end>
-
-=>q209
-Keep looking for it then. <end>
-
-=>a210_original
-About the Acorn...<end>
-
-=>a210
-About the Acorn...<end>
-
-=>q211_original
-You wanted to ask me something?<end>
-
-=>q211
-You wanted to ask me something?<end>
-
-=>a212_original
-What can you tell me about those outposts near Crossroad Caves?<end>
-
-=>a212
-What can you tell me about those outposts near Crossroad Caves?<end>
-
-=>q213_original
-They were used by the Omega as a part of the defensive perimeter against our station. We managed to break the perimeter, though and they've lain in ruin ever since.<end>
-
-=>q213
-They were used by the Omega as a part of the defensive perimeter against our station. We managed to break the perimeter, though and they've lain in ruin ever since.<end>
-
-=>q214_original
-One of the entrances to the Omega base lies to the north of them.<end>
-
-=>q214
-One of the entrances to the Omega base lies to the north of them.<end>
-
-=>a215_original
-Who are the Omega?<end>
-
-=>a215
-Who are the Omega?<end>
-
-=>q216_original
-They were a neighboring station, but unfortunately some hotheads - primarily on their side - decided that coexistence was not possible. A minor incident escalated into a series of skirmishes and then, finally, into a war.<end>
-
-=>q216
-They were a neighboring station, but unfortunately some hotheads - primarily on their side - decided that coexistence was not possible. A minor incident escalated into a series of skirmishes and then, finally, into a war.<end>
-
-=>q217_original
-Unfortunately for them, we were stronger and it was we who ended the war. They no longer have a station or a community, but we paid a high price as well.<end>
-
-=>q217
-Unfortunately for them, we were stronger and it was we who ended the war. They no longer have a station or a community, but we paid a high price as well.<end>
-
-=>q218_original
-All of that could have been avoided, but what's done is done.<end>
-
-=>q218
-All of that could have been avoided, but what's done is done.<end>
-
-=>a219_original
-What can you tell me about the Protectorate?<end>
-
-=>a219
-What can you tell me about the Protectorate?<end>
-
-=>q220_original
-I could tell you a lot, but the important thing for you to know is that it's primarily a military organization led by General Melek. Their goal is to unite all of the Underrail under their control. For what reason exactly - that is debatable.<end>
-
-=>q220
-I could tell you a lot, but the important thing for you to know is that it's primarily a military organization led by General Melek. Their goal is to unite all of the Underrail under their control. For what reason exactly - that is debatable.<end>
-
-=>q221_original
-Ignore the opinionated voices telling you the Protectorate is your friend or your enemy - it is neither. The existence of such an organization at this point is unavoidable considering the political climate. While its manifestation could have been better, know that it could have been worse as well. Much worse.<end>
-
-=>q221
-Ignore the opinionated voices telling you the Protectorate is your friend or your enemy - it is neither. The existence of such an organization at this point is unavoidable considering the political climate. While its manifestation could have been better, know that it could have been worse as well. Much worse.<end>
-
-=>q222_original
-As far as SGS is concerned, we're pursuing a clear policy of neutrality.<end>
-
-=>q222
-As far as SGS is concerned, we're pursuing a clear policy of neutrality.<end>
-
-=>a223_original
-Tell me about United Stations.<end>
-
-=>a223
-Tell me about United Stations.<end>
-
-=>q224_original
-United Stations organization is a diplomatic off-shot of the Protectorate. It seeks to unify the stations through "peaceful" means where possible through politics and economy.<end>
-
-=>q224
-United Stations organization is a diplomatic off-shot of the Protectorate. It seeks to unify the stations through "peaceful" means where possible through politics and economy.<end>
-
-=>q225_original
-Make no mistake, though, United Stations are under Protectorate control and are effectively one organization. However, the United Station administration is not as monolithic as that of the Protectorate.<end>
-
-=>q225
-Make no mistake, though, United Stations are under Protectorate control and are effectively one organization. However, the United Station administration is not as monolithic as that of the Protectorate.<end>
-
-=>q226_original
-This will - I predict - at some point, when a certain strong figure is no longer in place, bring about interesting events.<end>
-
-=>q226
-This will - I predict - at some point, when a certain strong figure is no longer in place, bring about interesting events.<end>
-
-=>a227_original
-What is your "policy of neutrality" exactly?<end>
-
-=>a227
-What is your "policy of neutrality" exactly?<end>
-
-=>q228_original
-It is the position we've taken in regards to the Protectorate and the United Stations in regards to their effort to unite the whole of Underrail under their control.<end>
-
-=>q228
-It is the position we've taken in regards to the Protectorate and the United Stations in regards to their effort to unite the whole of Underrail under their control.<end>
-
-=>q229_original
-We are not necessarily against the idea of unification, but at this point it would not be beneficial for us to be merged into this large centralized organization, since we stand to lose more than we might gain.<end>
-
-=>q229
-We are not necessarily against the idea of unification, but at this point it would not be beneficial for us to be merged into this large centralized organization, since we stand to lose more than we might gain.<end>
-
-=>q230_original
-Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.<end>
-
-=>q230
-Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.<end>
-
-=>q231_original
-Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.<end>
-
-=>q231
-Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.<end>
-
-=>a232_original
-What can you tell me about Core City?<end>
-
-=>a232
-What can you tell me about Core City?<end>
-
-=>q233_original
-It's a city spanning both Lower and Upper that used to be one of the main Old Biocorp communities. Now it's run by three Oligarchs. Each with his own organization.<end>
-
-=>q233
-It's a city spanning both Lower and Upper that used to be one of the main Old Biocorp communities. Now it's run by three Oligarchs. Each with his own organization.<end>
-
-=>q234_original
-It hosts the Arena and the Gauntlet, the most profitable tourist attractions in the South. Blood sports always were very appealing to humans.<end>
-
-=>q234
-It hosts the Arena and the Gauntlet, the most profitable tourist attractions in the South. Blood sports always were very appealing to humans.<end>
-
-=>q235_original
-Be careful when you visit. Though the city proper is policed by the Oligarchs, the fringes run rampant with gangs and other undesirables.<end>
-
-=>q235
-Be careful when you visit. Though the city proper is policed by the Oligarchs, the fringes run rampant with gangs and other undesirables.<end>
-
-=>a236_original
-Do you have any suggestion how I should go about finding Cornell?<end>
-
-=>a236
-Do you have any suggestion how I should go about finding Cornell?<end>
-
-=>q237_original
-If they are indeed holed up in Core City, perhaps one of the organizations run by the Oligarchs could be of assistance there, though you would have to gain their favor somehow.<end>
-
-=>q237
-If they are indeed holed up in Core City, perhaps one of the organizations run by the Oligarchs could be of assistance there, though you would have to gain their favor somehow.<end>
-
-=>q238_original
-Many prominent members of those organizations frequent the Arena, so that might be a good place to acquire contacts.<end>
-
-=>q238
-Many prominent members of those organizations frequent the Arena, so that might be a good place to acquire contacts.<end>
-
-=>a239_original
-How do you suggest I infiltrate the Institute?<end>
-
-=>a239
-How do you suggest I infiltrate the Institute?<end>
-
-=>q240_original
-I'm not sure. You could always try going to their gates in Upper Underrail and asking how one would go about joining them.<end>
-
-=>q240
-I'm not sure. You could always try going to their gates in Upper Underrail and asking how one would go about joining them.<end>
-
-=>q241_original
-But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.<end>
-
-=>q241
-But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.<end>
-
-=>q242_original
-They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.<end>
-
-=>q242
-They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.<end>
-
-=>a243_original
-What do you think that Faceless artifact actually is?<end>
-
-=>a243
-What do you think that Faceless artifact actually is?<end>
-
-=>q244_original
-A weapon... or a part of it. What else could have goaded the Faceless to raise up such force against Core City?<end>
-
-=>q244
-A weapon... or a part of it. What else could have goaded the Faceless to raise up such force against Core City?<end>
-
-=>q245_original
-I admit that I don't know as much about the Faceless as I would like, though, so I might be wrong.<end>
-
-=>q245
-I admit that I don't know as much about the Faceless as I would like, though, so I might be wrong.<end>
-
-=>a246_original
-I'll see you later.<end>
-
-=>a246
-I'll see you later.<end>
-
-=>a247_original
-DEBUG: Play Faceless Invasion cutscene<end>
-
-=>a247
-DEBUG: Play Faceless Invasion cutscene<end>
-
-=>a248_original
-Yes. I apologize if my actions have caused distress to my fellow Southgaters.<end>
-
-=>a248
-Yes. I apologize if my actions have caused distress to my fellow Southgaters.<end>
-
-=>a249_original
-::Nod.::<end>
-
-=>a249
-::Nod.::<end>
-
-=>a250_original
-::Say nothing.::<end>
-
-=>a250
-::Say nothing.::<end>
-
-=>a251_original
-I discovered he's been using psionics to make himself appear young and confronted him about it.<end>
-
-=>a251
-I discovered he's been using psionics to make himself appear young and confronted him about it.<end>
-
-=>q252_original
-You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.<end>
-
-=>q252
-You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.<end>
-
-=>a253_original
-I discovered he's been using psionics to make himself appear young and wanted to expose him.<end>
-
-=>a253
-I discovered he's been using psionics to make himself appear young and wanted to expose him.<end>
-
-=>a254_original
-I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.<end>
-
-=>a254
-I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.<end>
-
-=>a255_original
-Things got out of hand.<end>
-
-=>a255
-Things got out of hand.<end>
-
-=>a256_original
-That man was a deceiver.<end>
-
-=>a256
-That man was a deceiver.<end>
-
-=>a257_original
-That man is a deceiver.<end>
-
-=>a257
-That man is a deceiver.<end>
-
-=>a258_original
-I did nothing wrong.<end>
-
-=>a258
-I did nothing wrong.<end>
-
-=>a259_original
-::Remain silent.::<end>
-
-=>a259
-::Remain silent.::<end>
-
-=>q260_original
-::He leans on his desk.:: I'm waiting.<end>
-
-=>q260
-::He leans on his desk.:: I'm waiting.<end>
-
-=>q261_original
-::He nods.:: $(context.player.Name).<end>
-
-=>q261
-::He nods.:: $(context.player.Name).<end>
-
-=>q262_original
-::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::<end>
-
-=>q262
-::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::<end>
-
-=>q263_original
-::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. 
-
-His deep voice feels distant and calming when he addresses you.::<end>
-
-=>q263
-::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. 
-
-His deep voice feels distant and calming when he addresses you.::<end>
-
-=>q264_original
-Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>
-
-=>q264
-Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>
-
-=>a265_original
-I'll try my best not to disappoint.<end>
-
-=>a265
-I'll try my best not to disappoint.<end>
-
-=>q266_original
-That is good to hear.<end>
-
-=>q266
-That is good to hear.<end>
-
-=>q267_original
-I hope the earthquake didn't disturb you much and you were able to rest a bit from all the testing, for you have much work to do today. Events have transpired that require your attention. Are you ready for some field work?<end>
-
-=>q267
-I hope the earthquake didn't disturb you much and you were able to rest a bit from all the testing, for you have much work to do today. Events have transpired that require your attention. Are you ready for some field work?<end>
-
-=>a268_original
-Heck yeah! Do I get to shoot stuff?<end>
-
-=>a268
-Heck yeah! Do I get to shoot stuff?<end>
-
-=>q269_original
-Probably, yes.<end>
-
-=>q269
-Probably, yes.<end>
-
-=>a270_original
-Right on.<end>
-
-=>a270
-Right on.<end>
-
-=>q271_original
-First, you can have your weapon back. Lucas at the armory should have it. And while you're there, you might want to drop by the shooting range; since you'll be doing some field work today it might not be a bad idea to warm up in case things get ugly. Speak to Gorsky if he's there, he'll help you set up for some practice sessions. However, that is entirely up to you.<end>
-
-=>q271
-First, you can have your weapon back. Lucas at the armory should have it. And while you're there, you might want to drop by the shooting range; since you'll be doing some field work today it might not be a bad idea to warm up in case things get ugly. Speak to Gorsky if he's there, he'll help you set up for some practice sessions. However, that is entirely up to you.<end>
-
-=>a272_original
-Understood. And what is this field work you mentioned?<end>
-
-=>a272
-Understood. And what is this field work you mentioned?<end>
-
-=>q273_original
-<end>
-
-=>q273
-<end>
-
-=>q274_original
-Down in the tunnels below our station, just to the north of Crossroad Caves lies a series of abandoned outposts. These outposts were built by another station a long while ago for the purpose of scouting and defense. In time they fell to decay.<end>
-
-=>q274
-Down in the tunnels below our station, just to the north of Crossroad Caves lies a series of abandoned outposts. These outposts were built by another station a long while ago for the purpose of scouting and defense. In time they fell to decay.<end>
-
-=>q275_original
-I want you to retake them so that they might once again serve the same purpose. However, in order to do so, you will need to activate the main power generator that's located inside one of them. Harold from the engineering sector thinks he knows how to get the generator operational, so he should be your first stop after we are done here.<end>
-
-=>q275
-I want you to retake them so that they might once again serve the same purpose. However, in order to do so, you will need to activate the main power generator that's located inside one of them. Harold from the engineering sector thinks he knows how to get the generator operational, so he should be your first stop after we are done here.<end>
-
-=>q276_original
-As far as I am aware, there are a total of five outposts plus the one with the generator. I don't know if it's possible to activate all of them, but try to activate at least three.<end>
-
-=>q276
-As far as I am aware, there are a total of five outposts plus the one with the generator. I don't know if it's possible to activate all of them, but try to activate at least three.<end>
-
-=>q277_original
-You may also want to talk to Jonas at the Crossroad Watch Post; it's down in the tunnels just outside the station; you'll be passing through there anyway. He's one of our most experienced scavengers and he's probably seen more of South Underrail than any of us here. He'll surely have some useful advice for you.<end>
-
-=>q277
-You may also want to talk to Jonas at the Crossroad Watch Post; it's down in the tunnels just outside the station; you'll be passing through there anyway. He's one of our most experienced scavengers and he's probably seen more of South Underrail than any of us here. He'll surely have some useful advice for you.<end>
-
-=>q278_original
-<end>
-
-=>q278
-<end>
-
-=>a279_original
-How well is this task credited?<end>
-
-=>a279
-How well is this task credited?<end>
-
-=>q280_original
-It's three hundred credits. Additional hundred fifty credits if you activate *all* the stations.
-
-Furthermore, you get to keep anything you find there.<end>
-
-=>q280
-It's three hundred credits. Additional hundred fifty credits if you activate *all* the stations.
-
-Furthermore, you get to keep anything you find there.<end>
-
-=>a281_original
-Why are we retaking these outposts?<end>
-
-=>a281
-Why are we retaking these outposts?<end>
-
-=>q282_original
-It is an important strategic position should certain factions attempt to encroach further into our zone of control. Besides, cleaning them out will also push some of the unwanted wildlife further away from SGS, so it is also beneficial in that regard.<end>
-
-=>q282
-It is an important strategic position should certain factions attempt to encroach further into our zone of control. Besides, cleaning them out will also push some of the unwanted wildlife further away from SGS, so it is also beneficial in that regard.<end>
-
-=>a283_original
-Wildlife?<end>
-
-=>a283
-Wildlife?<end>
-
-=>q284_original
-I understand that a few packs of rathounds moved into the area, but you best talk to Jonas regarding that - he'll have more details. He knows that area inside-out.<end>
-
-=>q284
-I understand that a few packs of rathounds moved into the area, but you best talk to Jonas regarding that - he'll have more details. He knows that area inside-out.<end>
-
-=>a285_original
-Alright. I'll be off then.<end>
-
-=>a285
-Alright. I'll be off then.<end>
-
-=>q286_original
-Oh, and one more thing before you go: Pasquale, our station's chief physician, wanted to see you, so you should probably pop down to his office in the medical sector when you have the time.<end>
-
-=>q286
-Oh, and one more thing before you go: Pasquale, our station's chief physician, wanted to see you, so you should probably pop down to his office in the medical sector when you have the time.<end>
-
-=>a287_original
-Got it. See you later.<end>
-
-=>a287
-Got it. See you later.<end>
-
-=>a288_original
-What factions are you talking about?<end>
-
-=>a288
-What factions are you talking about?<end>
-
-=>q289_original
-Protectorate is my main concern. Though I do not expect any military action from them, they are always looking for ways to pressure us into reconsidering our official policy of neutrality.<end>
-
-=>q289
-Protectorate is my main concern. Though I do not expect any military action from them, they are always looking for ways to pressure us into reconsidering our official policy of neutrality.<end>
-
-=>q290_original
-Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.<end>
-
-=>q290
-Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.<end>
-
-=>a291_original
-It could come in handy. Now, field work?<end>
-
-=>a291
-It could come in handy. Now, field work?<end>
-
-=>q292_original
-<end>
-
-=>q292
-<end>
-
-=>a293_original
-I don't need to practice.<end>
-
-=>a293
-I don't need to practice.<end>
-
-=>q294_original
-If you say so. Now, regarding your first mission...<end>
-
-=>q294
-If you say so. Now, regarding your first mission...<end>
-
-=>a295_original
-Actually, I was just kidding...<end>
-
-=>a295
-Actually, I was just kidding...<end>
-
-=>a296_original
-Ready and able. So what's up?<end>
-
-=>a296
-Ready and able. So what's up?<end>
-
-=>q297_original
-There are multiple events I need you to take part in, but one thing at a time.
-<end>
-
-=>q297
-There are multiple events I need you to take part in, but one thing at a time.
-<end>
-
-=>a298_original
-As ready as I'll ever be. What's the plan?<end>
-
-=>a298
-As ready as I'll ever be. What's the plan?<end>
-
-=>a299_original
-How much damage did the earthquake cause?<end>
-
-=>a299
-How much damage did the earthquake cause?<end>
-
-=>q300_original
-Not much damage to the station itself; there were no casualties, fortunately. Regardless, the railroad tunnel has caved in so we're cut-off until the rubble has been cleared up. It is nothing that you should be concerning yourself with at this point in time. Now, back to the business at hand...<end>
-
-=>q300
-Not much damage to the station itself; there were no casualties, fortunately. Regardless, the railroad tunnel has caved in so we're cut-off until the rubble has been cleared up. It is nothing that you should be concerning yourself with at this point in time. Now, back to the business at hand...<end>
-
-=>a301_original
-Work? Already?<end>
-
-=>a301
-Work? Already?<end>
-
-=>q302_original
-I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. <end>
-
-=>q302
-I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. <end>
-
-=>a303_original
-I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.<end>
-
-=>a303
-I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.<end>
-
-=>q304_original
-::He nods.:: I believe so, too. People from many different backgrounds reside in this station. Whatever your interests may be, I'm sure you'll find someone who shares them here.<end>
-
-=>q304
-::He nods.:: I believe so, too. People from many different backgrounds reside in this station. Whatever your interests may be, I'm sure you'll find someone who shares them here.<end>
-
-=>a305_original
-Is there going to be a welcoming party or something?<end>
-
-=>a305
-Is there going to be a welcoming party or something?<end>
-
-=>q306_original
-That's usually the case, but sadly not this time. The current situation does not allow for one at the moment. Perhaps when things calm down a bit.<end>
-
-=>q306
-That's usually the case, but sadly not this time. The current situation does not allow for one at the moment. Perhaps when things calm down a bit.<end>
-
+=>q1_original
+::As he turns to you, Tanner gets straight to the point::<end>
+
+=>q1
+::As he turns to you, Tanner gets straight to the point::<end>
+
+=>q2_original
+::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
+
+=>q2
+::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
+
+=>a3_original
+What do we get out of this?<end>
+
+=>a3
+What do we get out of this?<end>
+
+=>q4_original
+A couple of things. Most notably we get to establish an embassy there which will allow us to cooperate more closely in matters of trade and defense.<end>
+
+=>q4
+A couple of things. Most notably we get to establish an embassy there which will allow us to cooperate more closely in matters of trade and defense.<end>
+
+=>q5_original
+We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.<end>
+
+=>q5
+We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.<end>
+
+=>q6_original
+Interesting times lie ahead for SGS.<end>
+
+=>q6
+Interesting times lie ahead for SGS.<end>
+
+=>a7_original
+I see. I'll head over there now.<end>
+
+=>a7
+I see. I'll head over there now.<end>
+
+=>a8_original
+Alright, I'll head over there now.<end>
+
+=>a8
+Alright, I'll head over there now.<end>
+
+=>q9_original
+::.:: We've decided against helping the Black Eels. <end>
+
+=>q9
+::.:: We've decided against helping the Black Eels. <end>
+
+=>q10_original
+We're already stretched thin with all the earthquake reparations going on. <end>
+
+=>q10
+We're already stretched thin with all the earthquake reparations going on. <end>
+
+=>q11_original
+Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
+
+=>q11
+Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
+
+=>q12_original
+No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.<end>
+
+=>q12
+No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.<end>
+
+=>q13_original
+With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
+
+=>q13
+With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
+
+=>q14_original
+$(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
+
+=>q14
+$(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+I killed Ethan.<end>
+
+=>a16
+I killed Ethan.<end>
+
+=>q17_original
+Tell me exactly what happened. <end>
+
+=>q17
+Tell me exactly what happened. <end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.<end>
+
+=>a19
+I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.<end>
+
+=>q20_original
+Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.<end>
+
+=>q20
+Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.<end>
+
+=>q21_original
+We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.
+
+I hope I am well understood.<end>
+
+=>q21
+We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.
+
+I hope I am well understood.<end>
+
+=>a22_original
+Perfectly.<end>
+
+=>a22
+Perfectly.<end>
+
+=>q23_original
+Good. <end>
+
+=>q23
+Good. <end>
+
+=>q24_original
+Unless there was something else you needed, you are free to go.<end>
+
+=>q24
+Unless there was something else you needed, you are free to go.<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a26
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q27_original
+ACoNR? Why do you ask me this?<end>
+
+=>q27
+ACoNR? Why do you ask me this?<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
+
+=>a29
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
+
+=>q30_original
+It certainly would. <end>
+
+=>q30
+It certainly would. <end>
+
+=>q31_original
+I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
+
+But how do you know about the ACoNR?<end>
+
+=>q31
+I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
+
+But how do you know about the ACoNR?<end>
+
+=>a32_original
+Let's say I've done some digging around.<end>
+
+=>a32
+Let's say I've done some digging around.<end>
+
+=>q33_original
+Mhm. Do you have it?<end>
+
+=>q33
+Mhm. Do you have it?<end>
+
+=>a34_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a34
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>q35_original
+::His answer is immediate and spoken with obvious satisfaction.:: This is it. ACoNR. 
+
+Has it been opened?<end>
+
+=>q35
+::His answer is immediate and spoken with obvious satisfaction.:: This is it. ACoNR. 
+
+Has it been opened?<end>
+
+=>a36_original
+I know it needs the coded signal, but I don't have it.<end>
+
+=>a36
+I know it needs the coded signal, but I don't have it.<end>
+
+=>q37_original
+That's a problem. The quantum near-field locks <end>
+
+=>q37
+That's a problem. The quantum near-field locks <end>
+
+=>q38_original
+can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
+
+But, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::<end>
+
+=>q38
+can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
+
+But, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::<end>
+
+=>a39_original
+Here. ::Give it to him.::<end>
+
+=>a39
+Here. ::Give it to him.::<end>
+
+=>q40_original
+Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
+
+=>q40
+Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
+
+=>q41_original
+::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
+
+I will send this to Engineering. We'll begin studying it as soon as possible.<end>
+
+=>q41
+::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
+
+I will send this to Engineering. We'll begin studying it as soon as possible.<end>
+
+=>q42_original
+::He shakes your much smaller hand.:: You've done a great service to this station, $(context.player.Name). 
+
+Believe me when I say that this event is going to be remembered.<end>
+
+=>q42
+::He shakes your much smaller hand.:: You've done a great service to this station, $(context.player.Name). 
+
+Believe me when I say that this event is going to be remembered.<end>
+
+=>a43_original
+I'd like to know more about the Acorn.<end>
+
+=>a43
+I'd like to know more about the Acorn.<end>
+
+=>q44_original
+Of course, $(context.player.Name).<end>
+
+=>q44
+Of course, $(context.player.Name).<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>a46_original
+What does the Acorn do exactly?<end>
+
+=>a46
+What does the Acorn do exactly?<end>
+
+=>q47_original
+In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.<end>
+
+=>q47
+In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.<end>
+
+=>q48_original
+Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.<end>
+
+=>q48
+Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.<end>
+
+=>q49_original
+<end>
+
+=>q49
+<end>
+
+=>a50_original
+::[Intelligence]:: The fact that you called the Acorn "a unit" made me suspicious, but you've confirmed that there is more than one Acorn.<end>
+
+=>a50
+::[Intelligence]:: The fact that you called the Acorn "a unit" made me suspicious, but you've confirmed that there is more than one Acorn.<end>
+
+=>q51_original
+That is correct. There are more than one. <end>
+
+=>q51
+That is correct. There are more than one. <end>
+
+=>q52_original
+While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. 
+
+But what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.<end>
+
+=>q52
+While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. 
+
+But what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.<end>
+
+=>q53_original
+Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. 
+
+Setting up defenses is crucial as well.<end>
+
+=>q53
+Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. 
+
+Setting up defenses is crucial as well.<end>
+
+=>q54_original
+But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.<end>
+
+=>q54
+But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.<end>
+
+=>q55_original
+Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.<end>
+
+=>q55
+Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.<end>
+
+=>q56_original
+And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.<end>
+
+=>q56
+And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.<end>
+
+=>a57_original
+Hold up, hold up: Each Acorn?<end>
+
+=>a57
+Hold up, hold up: Each Acorn?<end>
+
+=>q58_original
+There are more. <end>
+
+=>q58
+There are more. <end>
+
+=>a59_original
+This is not the only one?<end>
+
+=>a59
+This is not the only one?<end>
+
+=>q60_original
+No. <end>
+
+=>q60
+No. <end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+Can you describe how it works?<end>
+
+=>a62
+Can you describe how it works?<end>
+
+=>a63_original
+Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
+
+=>a63
+Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
+
+=>q64_original
+Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.<end>
+
+=>q64
+Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.<end>
+
+=>q65_original
+But the origin of the technology is the least important thing. The technology itself is.<end>
+
+=>q65
+But the origin of the technology is the least important thing. The technology itself is.<end>
+
+=>a66_original
+Where could the other ones be?<end>
+
+=>a66
+Where could the other ones be?<end>
+
+=>q67_original
+It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.<end>
+
+=>q67
+It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.<end>
+
+=>q68_original
+As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.<end>
+
+=>q68
+As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.<end>
+
+=>a69_original
+What's going to happen with the Acorn now?<end>
+
+=>a69
+What's going to happen with the Acorn now?<end>
+
+=>q70_original
+We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.<end>
+
+=>q70
+We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.<end>
+
+=>a71_original
+What would happen if you tried forcing it open?<end>
+
+=>a71
+What would happen if you tried forcing it open?<end>
+
+=>q72_original
+ACoNRs are designed in such a way as to destroy themselves in the event that any physical attempts at opening them are taken.<end>
+
+=>q72
+ACoNRs are designed in such a way as to destroy themselves in the event that any physical attempts at opening them are taken.<end>
+
+=>q73_original
+So all we can do now is observe it.<end>
+
+=>q73
+So all we can do now is observe it.<end>
+
+=>a74_original
+Let's talk about something else.<end>
+
+=>a74
+Let's talk about something else.<end>
+
+=>q75_original
+Go ahead.<end>
+
+=>q75
+Go ahead.<end>
+
+=>a76_original
+I wanted to talk to you about something else now.<end>
+
+=>a76
+I wanted to talk to you about something else now.<end>
+
+=>a77_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a77
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>q78_original
+::He retracts his hands.:: Understandable. <end>
+
+=>q78
+::He retracts his hands.:: Understandable. <end>
+
+=>q79_original
+<end>
+
+=>q79
+<end>
+
+=>a80_original
+::[Mercantile]:: Eighteen thousand credits.<end>
+
+=>a80
+::[Mercantile]:: Eighteen thousand credits.<end>
+
+=>q81_original
+<end>
+
+=>q81
+<end>
+
+=>q82_original
+It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.<end>
+
+=>q82
+It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.<end>
+
+=>a83_original
+::[Mercantile]:: Fifteen thousand credits.<end>
+
+=>a83
+::[Mercantile]:: Fifteen thousand credits.<end>
+
+=>q84_original
+<end>
+
+=>q84
+<end>
+
+=>a85_original
+::[Mercantile]:: Twelve thousand credits.<end>
+
+=>a85
+::[Mercantile]:: Twelve thousand credits.<end>
+
+=>q86_original
+<end>
+
+=>q86
+<end>
+
+=>a87_original
+::[Mercantile]:: Nine thousand credits.<end>
+
+=>a87
+::[Mercantile]:: Nine thousand credits.<end>
+
+=>q88_original
+<end>
+
+=>q88
+<end>
+
+=>a89_original
+Six thousand credits.<end>
+
+=>a89
+Six thousand credits.<end>
+
+=>a90_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a90
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a91_original
+No. I don't know how.<end>
+
+=>a91
+No. I don't know how.<end>
+
+=>q92_original
+ACoNR has what's called a quantum near-field lock. The lock <end>
+
+=>q92
+ACoNR has what's called a quantum near-field lock. The lock <end>
+
+=>a93_original
+I haven't found a way to open it yet. I thought someone else would know more.<end>
+
+=>a93
+I haven't found a way to open it yet. I thought someone else would know more.<end>
+
+=>a94_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a94
+Not yet, but I'm working on obtaining it.<end>
+
+=>q95_original
+I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.<end>
+
+=>q95
+I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.<end>
+
+=>q96_original
+This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.<end>
+
+=>q96
+This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.<end>
+
+=>a97_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a97
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>q98_original
+As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
+
+=>q98
+As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
+
+=>a99_original
+I learned about it during a trip to the Black Sea.<end>
+
+=>a99
+I learned about it during a trip to the Black Sea.<end>
+
+=>a100_original
+I learned about it during an expedition to the Black Sea.<end>
+
+=>a100
+I learned about it during an expedition to the Black Sea.<end>
+
+=>a101_original
+Underrail holds many secrets, but nothing's too secret for me.<end>
+
+=>a101
+Underrail holds many secrets, but nothing's too secret for me.<end>
+
+=>a102_original
+All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
+
+=>a102
+All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
+
+=>q103_original
+Surface? Interesting. <end>
+
+=>q103
+Surface? Interesting. <end>
+
+=>a104_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
+
+=>a104
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
+
+=>q105_original
+::He nods.:: The information I have suggests the same. <end>
+
+=>q105
+::He nods.:: The information I have suggests the same. <end>
+
+=>a106_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a106
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a107_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a107
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a108_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a108
+Never mind. There was something else I wanted to ask you.<end>
+
+=>q109_original
+Wait, $(context.player.Name). I know about ACoNR. <end>
+
+=>q109
+Wait, $(context.player.Name). I know about ACoNR. <end>
+
+=>a110_original
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a110
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a111_original
+There's a showdown of gangs about to happen in the Junkyard and the Black Eels want our help. ::Explain the situation.::<end>
+
+=>a111
+There's a showdown of gangs about to happen in the Junkyard and the Black Eels want our help. ::Explain the situation.::<end>
+
+=>q112_original
+::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.<end>
+
+=>q112
+::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.<end>
+
+=>q113_original
+We'll need to assemble the council for this. Follow me.<end>
+
+=>q113
+We'll need to assemble the council for this. Follow me.<end>
+
+=>a114_original
+::Follow him.::<end>
+
+=>a114
+::Follow him.::<end>
+
+=>a115_original
+I wanted to ask you a couple of questions about Patrick Pierce.<end>
+
+=>a115
+I wanted to ask you a couple of questions about Patrick Pierce.<end>
+
+=>q116_original
+::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
+
+=>q116
+::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
+
+=>a117_original
+Why won't you help him, he just wants to find out what happened to his brother?<end>
+
+=>a117
+Why won't you help him, he just wants to find out what happened to his brother?<end>
+
+=>q118_original
+It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. <end>
+
+=>q118
+It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. <end>
+
+=>q119_original
+The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.<end>
+
+=>q119
+The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.<end>
+
+=>a120_original
+I just want to help the man out. He's down at the bar right now, not too far off from drowning in alcohol.<end>
+
+=>a120
+I just want to help the man out. He's down at the bar right now, not too far off from drowning in alcohol.<end>
+
+=>q121_original
+As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. <end>
+
+=>q121
+As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. <end>
+
+=>a122_original
+I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::<end>
+
+=>a122
+I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::<end>
+
+=>q123_original
+That's excellent news. I'll get this to Harold so he can start repairing the drill immediately. This will aid us in clearing the tunnels significantly.<end>
+
+=>q123
+That's excellent news. I'll get this to Harold so he can start repairing the drill immediately. This will aid us in clearing the tunnels significantly.<end>
+
+=>q124_original
+I don't have anything more for you to do right now, $(context.player.Name). Go and take some rest. You've more than deserved it.<end>
+
+=>q124
+I don't have anything more for you to do right now, $(context.player.Name). Go and take some rest. You've more than deserved it.<end>
+
+=>a125_original
+::Retire for the day.::<end>
+
+=>a125
+::Retire for the day.::<end>
+
+=>a126_original
+I've reactivated the power generator, but I didn't get to any of the stations.<end>
+
+=>a126
+I've reactivated the power generator, but I didn't get to any of the stations.<end>
+
+=>q127_original
+This won't do. We need at least some of the stations activated before we can redeploy there.<end>
+
+=>q127
+This won't do. We need at least some of the stations activated before we can redeploy there.<end>
+
+=>a128_original
+I'll get right on it, but I have some questions first.<end>
+
+=>a128
+I'll get right on it, but I have some questions first.<end>
+
+=>q129_original
+Yes?<end>
+
+=>q129
+Yes?<end>
+
+=>a130_original
+I understand. I'll be back later.<end>
+
+=>a130
+I understand. I'll be back later.<end>
+
+=>a131_original
+I've reactivated the power generator, as well as some of the stations.<end>
+
+=>a131
+I've reactivated the power generator, as well as some of the stations.<end>
+
+=>q132_original
+Good work, $(context.player.Name). We can now start the restoration process.
+
+Here are your credits.<end>
+
+=>q132
+Good work, $(context.player.Name). We can now start the restoration process.
+
+Here are your credits.<end>
+
+=>a133_original
+Excellent. So what's next on the agenda?<end>
+
+=>a133
+Excellent. So what's next on the agenda?<end>
+
+=>q134_original
+There are a few more jobs waiting for you actually. <end>
+
+=>q134
+There are a few more jobs waiting for you actually. <end>
+
+=>q135_original
+Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.<end>
+
+=>q135
+Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.<end>
+
+=>q136_original
+After you've completed this task come and see me again.<end>
+
+=>q136
+After you've completed this task come and see me again.<end>
+
+=>a137_original
+I had a couple of questions, actually.<end>
+
+=>a137
+I had a couple of questions, actually.<end>
+
+=>q138_original
+Yes?<end>
+
+=>q138
+Yes?<end>
+
+=>a139_original
+Understood.<end>
+
+=>a139
+Understood.<end>
+
+=>a140_original
+So. I'll be going now.<end>
+
+=>a140
+So. I'll be going now.<end>
+
+=>q141_original
+Not so fast. There are a few more jobs waiting for you.<end>
+
+=>q141
+Not so fast. There are a few more jobs waiting for you.<end>
+
+=>a142_original
+I've reactivated the power generator, and all the stations I could find.<end>
+
+=>a142
+I've reactivated the power generator, and all the stations I could find.<end>
+
+=>a143_original
+I'm done with Bret's quest. Now what?<end>
+
+=>a143
+I'm done with Bret's quest. Now what?<end>
+
+=>q144_original
+Excellent, I have another task for you. Gorsky has led an expedition into the nearby GMS compound and he requested that you specifically join them there. Go to station platform exit and talk to Essie. She can instruct you on how to reach GMS compound.<end>
+
+=>q144
+Excellent, I have another task for you. Gorsky has led an expedition into the nearby GMS compound and he requested that you specifically join them there. Go to station platform exit and talk to Essie. She can instruct you on how to reach GMS compound.<end>
+
+=>q145_original
+After you've completed this task come and see me.<end>
+
+=>q145
+After you've completed this task come and see me.<end>
+
+=>a146_original
+I'm done with Gorsky's task. What's next?<end>
+
+=>a146
+I'm done with Gorsky's task. What's next?<end>
+
+=>q147_original
+Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
+
+=>q147
+Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
+
+=>q148_original
+there's not much to do around the station at the moment. Not until the tunnel is clear.
+
+However, there's a way you could speed that up, besides helping with the actual digging yourself.<end>
+
+=>q148
+there's not much to do around the station at the moment. Not until the tunnel is clear.
+
+However, there's a way you could speed that up, besides helping with the actual digging yourself.<end>
+
+=>q149_original
+The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.<end>
+
+=>q149
+The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.<end>
+
+=>q150_original
+Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. <end>
+
+=>q150
+Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. <end>
+
+=>a151_original
+So I guess you want me to find the replacement circuit board?<end>
+
+=>a151
+So I guess you want me to find the replacement circuit board?<end>
+
+=>q152_original
+Or a merchant that would sell one, yes.<end>
+
+=>q152
+Or a merchant that would sell one, yes.<end>
+
+=>q153_original
+Since the train is out and a lot of tunnels have collapsed, there are not many places you can look for it at the moment. Our best bet would be Junkyard. Ever been there?<end>
+
+=>q153
+Since the train is out and a lot of tunnels have collapsed, there are not many places you can look for it at the moment. Our best bet would be Junkyard. Ever been there?<end>
+
+=>a154_original
+No. What's "Junkyard"?<end>
+
+=>a154
+No. What's "Junkyard"?<end>
+
+=>q155_original
+It's a town just across the Chancer's Bay, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs, the Scrappers and the Black Eels. 
+
+But most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.<end>
+
+=>q155
+It's a town just across the Chancer's Bay, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs, the Scrappers and the Black Eels. 
+
+But most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.<end>
+
+=>a156_original
+How do I get there?<end>
+
+=>a156
+How do I get there?<end>
+
+=>q157_original
+Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.<end>
+
+=>q157
+Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.<end>
+
+=>q158_original
+I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.<end>
+
+=>q158
+I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.<end>
+
+=>q159_original
+But if you can't find it, I want the money back.<end>
+
+=>q159
+But if you can't find it, I want the money back.<end>
+
+=>a160_original
+Deal. I'll be back with the circuit board or with your money.<end>
+
+=>a160
+Deal. I'll be back with the circuit board or with your money.<end>
+
+=>q161_original
+::He nods and hands you the money.:: Good luck.<end>
+
+=>q161
+::He nods and hands you the money.:: Good luck.<end>
+
+=>q162_original
+Also, before you head out you should go to the administration floor and talk to Vera. I think she has some trade documents that she needs delivered to the United Station embassy in Junkyard.<end>
+
+=>q162
+Also, before you head out you should go to the administration floor and talk to Vera. I think she has some trade documents that she needs delivered to the United Station embassy in Junkyard.<end>
+
+=>a163_original
+Hmm, I'll have to think about it. I'm not sure if I want to invest my time for uncertain pay.<end>
+
+=>a163
+Hmm, I'll have to think about it. I'm not sure if I want to invest my time for uncertain pay.<end>
+
+=>q164_original
+Alright, fair enough. Let me know if you decide to have a go at it.<end>
+
+=>q164
+Alright, fair enough. Let me know if you decide to have a go at it.<end>
+
+=>a165_original
+Yeah, I've been there.<end>
+
+=>a165
+Yeah, I've been there.<end>
+
+=>q166_original
+Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
+
+=>q166
+Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
+
+=>q167_original
+Actually, <end>
+
+=>q167
+Actually, <end>
+
+=>a168_original
+About that drill thingamagingy...<end>
+
+=>a168
+About that drill thingamagingy...<end>
+
+=>q169_original
+Armadillo class drill rotor circuit board? <end>
+
+=>q169
+Armadillo class drill rotor circuit board? <end>
+
+=>a170_original
+Gorsky died in Core City.<end>
+
+=>a170
+Gorsky died in Core City.<end>
+
+=>q171_original
+::Tanner stares at you silently.:: Tell me what happened?<end>
+
+=>q171
+::Tanner stares at you silently.:: Tell me what happened?<end>
+
+=>a172_original
+We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.<end>
+
+=>a172
+We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.<end>
+
+=>q173_original
+That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.<end>
+
+=>q173
+That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.<end>
+
+=>q174_original
+Thank you for bringing me this information, $(context.player.Name); you have done well once again.<end>
+
+=>q174
+Thank you for bringing me this information, $(context.player.Name); you have done well once again.<end>
+
+=>a175_original
+I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::<end>
+
+=>a175
+I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::<end>
+
+=>q176_original
+::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: Hmm... interesting. Did you manage to find out why the Faceless invaded?<end>
+
+=>q176
+::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: Hmm... interesting. Did you manage to find out why the Faceless invaded?<end>
+
+=>a177_original
+I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.<end>
+
+=>a177
+I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.<end>
+
+=>q178_original
+::He nods slowly.:: We must find this item and discover what it is.<end>
+
+=>q178
+::He nods slowly.:: We must find this item and discover what it is.<end>
+
+=>q179_original
+::His voice deepens slightly and becomes more commanding.:: 
+
+You must go to Core City and look for this "Acid Hunters" band and their leader Cornell. Retrieve the device from him if he still has it, or at least try to find out what it is and how he got it.<end>
+
+=>q179
+::His voice deepens slightly and becomes more commanding.:: 
+
+You must go to Core City and look for this "Acid Hunters" band and their leader Cornell. Retrieve the device from him if he still has it, or at least try to find out what it is and how he got it.<end>
+
+=>q180_original
+But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.<end>
+
+=>q180
+But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.<end>
+
+=>q181_original
+Make this task your priority and keep me informed on the progress. <end>
+
+=>q181
+Make this task your priority and keep me informed on the progress. <end>
+
+=>q182_original
+Here's your payment for a job well done. ::He hands you 500 SGS credits.::<end>
+
+=>q182
+Here's your payment for a job well done. ::He hands you 500 SGS credits.::<end>
+
+=>q183_original
+<end>
+
+=>q183
+<end>
+
+=>a184_original
+There is something else I wanted to talk to you about...<end>
+
+=>a184
+There is something else I wanted to talk to you about...<end>
+
+=>a185_original
+I'll be on my way then.<end>
+
+=>a185
+I'll be on my way then.<end>
+
+=>a186_original
+::Nod and leave.::<end>
+
+=>a186
+::Nod and leave.::<end>
+
+=>a187_original
+They are looking for some important item. I don't know what it is, but it seems they've sent out more than just one search party.<end>
+
+=>a187
+They are looking for some important item. I don't know what it is, but it seems they've sent out more than just one search party.<end>
+
+=>q188_original
+My thoughts as well. If you manage to find out what it is they are looking for exactly, let me know.<end>
+
+=>q188
+My thoughts as well. If you manage to find out what it is they are looking for exactly, let me know.<end>
+
+=>q189_original
+Anyway, it was a job well done. Here's your payment. ::He hands you 500 SGS credits.::<end>
+
+=>q189
+Anyway, it was a job well done. Here's your payment. ::He hands you 500 SGS credits.::<end>
+
+=>a190_original
+Thanks.<end>
+
+=>a190
+Thanks.<end>
+
+=>a191_original
+They are looking for some important item, but I don't know what it is.<end>
+
+=>a191
+They are looking for some important item, but I don't know what it is.<end>
+
+=>a192_original
+No.<end>
+
+=>a192
+No.<end>
+
+=>q193_original
+It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
+
+=>q193
+It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
+
+=>a194_original
+I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.<end>
+
+=>a194
+I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.<end>
+
+=>q195_original
+Hmm... This is very interesting. Did you manage to find out what this item is?<end>
+
+=>q195
+Hmm... This is very interesting. Did you manage to find out what this item is?<end>
+
+=>a196_original
+It's some sort of an electronic device that is currently in the possession of some guy named Cornell, leader of the Acid Hunters gang from Core City.<end>
+
+=>a196
+It's some sort of an electronic device that is currently in the possession of some guy named Cornell, leader of the Acid Hunters gang from Core City.<end>
+
+=>a197_original
+Not yet, I'm afraid.<end>
+
+=>a197
+Not yet, I'm afraid.<end>
+
+=>q198_original
+It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
+
+=>q198
+It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
+
+=>a199_original
+I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::<end>
+
+=>a199
+I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::<end>
+
+=>a200_original
+I've found Cornell and the Acid Hunters.<end>
+
+=>a200
+I've found Cornell and the Acid Hunters.<end>
+
+=>q201_original
+::Tanner leans in curiously.:: Excellent. And what of the device? Did you get a hold of it?<end>
+
+=>q201
+::Tanner leans in curiously.:: Excellent. And what of the device? Did you get a hold of it?<end>
+
+=>a202_original
+I've tracked the Cube thing to a Coretech research facility in Core City, but Tchortists snatched it before I could get to it.<end>
+
+=>a202
+I've tracked the Cube thing to a Coretech research facility in Core City, but Tchortists snatched it before I could get to it.<end>
+
+=>q203_original
+::Tanner strokes his beard and responds calmly.:: That is unfortunate. This makes your mission all the more important since we cannot afford to leave a powerful artifact in the hands of religious zealots.<end>
+
+=>q203
+::Tanner strokes his beard and responds calmly.:: That is unfortunate. This makes your mission all the more important since we cannot afford to leave a powerful artifact in the hands of religious zealots.<end>
+
+=>q204_original
+There's an "Institute of Tchort" located in the Upper Underrail; the Tchortists must have taken the Cube there. You know what must be done, $(context.player.Name). Find a way to infiltrate it and retrieve the Cube.<end>
+
+=>q204
+There's an "Institute of Tchort" located in the Upper Underrail; the Tchortists must have taken the Cube there. You know what must be done, $(context.player.Name). Find a way to infiltrate it and retrieve the Cube.<end>
+
+=>a205_original
+No, but I know it's in the hands of Coretech organization.<end>
+
+=>a205
+No, but I know it's in the hands of Coretech organization.<end>
+
+=>q206_original
+You need to find a way to take it from them. Coretech can be a reckless organization. They inherited some of Old Biocorp's technology, but none of the wisdom. They should not be allowed to tinker with Faceless artifacts.<end>
+
+=>q206
+You need to find a way to take it from them. Coretech can be a reckless organization. They inherited some of Old Biocorp's technology, but none of the wisdom. They should not be allowed to tinker with Faceless artifacts.<end>
+
+=>q207_original
+It would be the best if you'd bring the device to me before any more bad things happen. Then we can decide what to do with it.<end>
+
+=>q207
+It would be the best if you'd bring the device to me before any more bad things happen. Then we can decide what to do with it.<end>
+
+=>a208_original
+No, they didn't have it on them.<end>
+
+=>a208
+No, they didn't have it on them.<end>
+
+=>q209_original
+Keep looking for it then. <end>
+
+=>q209
+Keep looking for it then. <end>
+
+=>a210_original
+About the Acorn...<end>
+
+=>a210
+About the Acorn...<end>
+
+=>q211_original
+You wanted to ask me something?<end>
+
+=>q211
+You wanted to ask me something?<end>
+
+=>a212_original
+What can you tell me about those outposts near Crossroad Caves?<end>
+
+=>a212
+What can you tell me about those outposts near Crossroad Caves?<end>
+
+=>q213_original
+They were used by the Omega as a part of the defensive perimeter against our station. We managed to break the perimeter, though and they've lain in ruin ever since.<end>
+
+=>q213
+They were used by the Omega as a part of the defensive perimeter against our station. We managed to break the perimeter, though and they've lain in ruin ever since.<end>
+
+=>q214_original
+One of the entrances to the Omega base lies to the north of them.<end>
+
+=>q214
+One of the entrances to the Omega base lies to the north of them.<end>
+
+=>a215_original
+Who are the Omega?<end>
+
+=>a215
+Who are the Omega?<end>
+
+=>q216_original
+They were a neighboring station, but unfortunately some hotheads - primarily on their side - decided that coexistence was not possible. A minor incident escalated into a series of skirmishes and then, finally, into a war.<end>
+
+=>q216
+They were a neighboring station, but unfortunately some hotheads - primarily on their side - decided that coexistence was not possible. A minor incident escalated into a series of skirmishes and then, finally, into a war.<end>
+
+=>q217_original
+Unfortunately for them, we were stronger and it was we who ended the war. They no longer have a station or a community, but we paid a high price as well.<end>
+
+=>q217
+Unfortunately for them, we were stronger and it was we who ended the war. They no longer have a station or a community, but we paid a high price as well.<end>
+
+=>q218_original
+All of that could have been avoided, but what's done is done.<end>
+
+=>q218
+All of that could have been avoided, but what's done is done.<end>
+
+=>a219_original
+What can you tell me about the Protectorate?<end>
+
+=>a219
+What can you tell me about the Protectorate?<end>
+
+=>q220_original
+I could tell you a lot, but the important thing for you to know is that it's primarily a military organization led by General Melek. Their goal is to unite all of the Underrail under their control. For what reason exactly - that is debatable.<end>
+
+=>q220
+I could tell you a lot, but the important thing for you to know is that it's primarily a military organization led by General Melek. Their goal is to unite all of the Underrail under their control. For what reason exactly - that is debatable.<end>
+
+=>q221_original
+Ignore the opinionated voices telling you the Protectorate is your friend or your enemy - it is neither. The existence of such an organization at this point is unavoidable considering the political climate. While its manifestation could have been better, know that it could have been worse as well. Much worse.<end>
+
+=>q221
+Ignore the opinionated voices telling you the Protectorate is your friend or your enemy - it is neither. The existence of such an organization at this point is unavoidable considering the political climate. While its manifestation could have been better, know that it could have been worse as well. Much worse.<end>
+
+=>q222_original
+As far as SGS is concerned, we're pursuing a clear policy of neutrality.<end>
+
+=>q222
+As far as SGS is concerned, we're pursuing a clear policy of neutrality.<end>
+
+=>a223_original
+Tell me about United Stations.<end>
+
+=>a223
+Tell me about United Stations.<end>
+
+=>q224_original
+United Stations organization is a diplomatic off-shot of the Protectorate. It seeks to unify the stations through "peaceful" means where possible through politics and economy.<end>
+
+=>q224
+United Stations organization is a diplomatic off-shot of the Protectorate. It seeks to unify the stations through "peaceful" means where possible through politics and economy.<end>
+
+=>q225_original
+Make no mistake, though, United Stations are under Protectorate control and are effectively one organization. However, the United Station administration is not as monolithic as that of the Protectorate.<end>
+
+=>q225
+Make no mistake, though, United Stations are under Protectorate control and are effectively one organization. However, the United Station administration is not as monolithic as that of the Protectorate.<end>
+
+=>q226_original
+This will - I predict - at some point, when a certain strong figure is no longer in place, bring about interesting events.<end>
+
+=>q226
+This will - I predict - at some point, when a certain strong figure is no longer in place, bring about interesting events.<end>
+
+=>a227_original
+What is your "policy of neutrality" exactly?<end>
+
+=>a227
+What is your "policy of neutrality" exactly?<end>
+
+=>q228_original
+It is the position we've taken in regards to the Protectorate and the United Stations in regards to their effort to unite the whole of Underrail under their control.<end>
+
+=>q228
+It is the position we've taken in regards to the Protectorate and the United Stations in regards to their effort to unite the whole of Underrail under their control.<end>
+
+=>q229_original
+We are not necessarily against the idea of unification, but at this point it would not be beneficial for us to be merged into this large centralized organization, since we stand to lose more than we might gain.<end>
+
+=>q229
+We are not necessarily against the idea of unification, but at this point it would not be beneficial for us to be merged into this large centralized organization, since we stand to lose more than we might gain.<end>
+
+=>q230_original
+Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.<end>
+
+=>q230
+Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.<end>
+
+=>q231_original
+Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.<end>
+
+=>q231
+Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.<end>
+
+=>a232_original
+What can you tell me about Core City?<end>
+
+=>a232
+What can you tell me about Core City?<end>
+
+=>q233_original
+It's a city spanning both Lower and Upper that used to be one of the main Old Biocorp communities. Now it's run by three Oligarchs. Each with his own organization.<end>
+
+=>q233
+It's a city spanning both Lower and Upper that used to be one of the main Old Biocorp communities. Now it's run by three Oligarchs. Each with his own organization.<end>
+
+=>q234_original
+It hosts the Arena and the Gauntlet, the most profitable tourist attractions in the South. Blood sports always were very appealing to humans.<end>
+
+=>q234
+It hosts the Arena and the Gauntlet, the most profitable tourist attractions in the South. Blood sports always were very appealing to humans.<end>
+
+=>q235_original
+Be careful when you visit. Though the city proper is policed by the Oligarchs, the fringes run rampant with gangs and other undesirables.<end>
+
+=>q235
+Be careful when you visit. Though the city proper is policed by the Oligarchs, the fringes run rampant with gangs and other undesirables.<end>
+
+=>a236_original
+Do you have any suggestion how I should go about finding Cornell?<end>
+
+=>a236
+Do you have any suggestion how I should go about finding Cornell?<end>
+
+=>q237_original
+If they are indeed holed up in Core City, perhaps one of the organizations run by the Oligarchs could be of assistance there, though you would have to gain their favor somehow.<end>
+
+=>q237
+If they are indeed holed up in Core City, perhaps one of the organizations run by the Oligarchs could be of assistance there, though you would have to gain their favor somehow.<end>
+
+=>q238_original
+Many prominent members of those organizations frequent the Arena, so that might be a good place to acquire contacts.<end>
+
+=>q238
+Many prominent members of those organizations frequent the Arena, so that might be a good place to acquire contacts.<end>
+
+=>a239_original
+How do you suggest I infiltrate the Institute?<end>
+
+=>a239
+How do you suggest I infiltrate the Institute?<end>
+
+=>q240_original
+I'm not sure. You could always try going to their gates in Upper Underrail and asking how one would go about joining them.<end>
+
+=>q240
+I'm not sure. You could always try going to their gates in Upper Underrail and asking how one would go about joining them.<end>
+
+=>q241_original
+But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.<end>
+
+=>q241
+But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.<end>
+
+=>q242_original
+They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.<end>
+
+=>q242
+They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.<end>
+
+=>a243_original
+What do you think that Faceless artifact actually is?<end>
+
+=>a243
+What do you think that Faceless artifact actually is?<end>
+
+=>q244_original
+A weapon... or a part of it. What else could have goaded the Faceless to raise up such force against Core City?<end>
+
+=>q244
+A weapon... or a part of it. What else could have goaded the Faceless to raise up such force against Core City?<end>
+
+=>q245_original
+I admit that I don't know as much about the Faceless as I would like, though, so I might be wrong.<end>
+
+=>q245
+I admit that I don't know as much about the Faceless as I would like, though, so I might be wrong.<end>
+
+=>a246_original
+I'll see you later.<end>
+
+=>a246
+I'll see you later.<end>
+
+=>a247_original
+DEBUG: Play Faceless Invasion cutscene<end>
+
+=>a247
+DEBUG: Play Faceless Invasion cutscene<end>
+
+=>a248_original
+Yes. I apologize if my actions have caused distress to my fellow Southgaters.<end>
+
+=>a248
+Yes. I apologize if my actions have caused distress to my fellow Southgaters.<end>
+
+=>a249_original
+::Nod.::<end>
+
+=>a249
+::Nod.::<end>
+
+=>a250_original
+::Say nothing.::<end>
+
+=>a250
+::Say nothing.::<end>
+
+=>a251_original
+I discovered he's been using psionics to make himself appear young and confronted him about it.<end>
+
+=>a251
+I discovered he's been using psionics to make himself appear young and confronted him about it.<end>
+
+=>q252_original
+You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.<end>
+
+=>q252
+You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.<end>
+
+=>a253_original
+I discovered he's been using psionics to make himself appear young and wanted to expose him.<end>
+
+=>a253
+I discovered he's been using psionics to make himself appear young and wanted to expose him.<end>
+
+=>a254_original
+I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.<end>
+
+=>a254
+I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.<end>
+
+=>a255_original
+Things got out of hand.<end>
+
+=>a255
+Things got out of hand.<end>
+
+=>a256_original
+That man was a deceiver.<end>
+
+=>a256
+That man was a deceiver.<end>
+
+=>a257_original
+That man is a deceiver.<end>
+
+=>a257
+That man is a deceiver.<end>
+
+=>a258_original
+I did nothing wrong.<end>
+
+=>a258
+I did nothing wrong.<end>
+
+=>a259_original
+::Remain silent.::<end>
+
+=>a259
+::Remain silent.::<end>
+
+=>q260_original
+::He leans on his desk.:: I'm waiting.<end>
+
+=>q260
+::He leans on his desk.:: I'm waiting.<end>
+
+=>q261_original
+::He nods.:: $(context.player.Name).<end>
+
+=>q261
+::He nods.:: $(context.player.Name).<end>
+
+=>q262_original
+::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::<end>
+
+=>q262
+::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::<end>
+
+=>q263_original
+::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. 
+
+His deep voice feels distant and calming when he addresses you.::<end>
+
+=>q263
+::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. 
+
+His deep voice feels distant and calming when he addresses you.::<end>
+
+=>q264_original
+Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>
+
+=>q264
+Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>
+
+=>a265_original
+I'll try my best not to disappoint.<end>
+
+=>a265
+I'll try my best not to disappoint.<end>
+
+=>q266_original
+That is good to hear.<end>
+
+=>q266
+That is good to hear.<end>
+
+=>q267_original
+I hope the earthquake didn't disturb you much and you were able to rest a bit from all the testing, for you have much work to do today. Events have transpired that require your attention. Are you ready for some field work?<end>
+
+=>q267
+I hope the earthquake didn't disturb you much and you were able to rest a bit from all the testing, for you have much work to do today. Events have transpired that require your attention. Are you ready for some field work?<end>
+
+=>a268_original
+Heck yeah! Do I get to shoot stuff?<end>
+
+=>a268
+Heck yeah! Do I get to shoot stuff?<end>
+
+=>q269_original
+Probably, yes.<end>
+
+=>q269
+Probably, yes.<end>
+
+=>a270_original
+Right on.<end>
+
+=>a270
+Right on.<end>
+
+=>q271_original
+First, you can have your weapon back. Lucas at the armory should have it. And while you're there, you might want to drop by the shooting range; since you'll be doing some field work today it might not be a bad idea to warm up in case things get ugly. Speak to Gorsky if he's there, he'll help you set up for some practice sessions. However, that is entirely up to you.<end>
+
+=>q271
+First, you can have your weapon back. Lucas at the armory should have it. And while you're there, you might want to drop by the shooting range; since you'll be doing some field work today it might not be a bad idea to warm up in case things get ugly. Speak to Gorsky if he's there, he'll help you set up for some practice sessions. However, that is entirely up to you.<end>
+
+=>a272_original
+Understood. And what is this field work you mentioned?<end>
+
+=>a272
+Understood. And what is this field work you mentioned?<end>
+
+=>q273_original
+<end>
+
+=>q273
+<end>
+
+=>q274_original
+Down in the tunnels below our station, just to the north of Crossroad Caves lies a series of abandoned outposts. These outposts were built by another station a long while ago for the purpose of scouting and defense. In time they fell to decay.<end>
+
+=>q274
+Down in the tunnels below our station, just to the north of Crossroad Caves lies a series of abandoned outposts. These outposts were built by another station a long while ago for the purpose of scouting and defense. In time they fell to decay.<end>
+
+=>q275_original
+I want you to retake them so that they might once again serve the same purpose. However, in order to do so, you will need to activate the main power generator that's located inside one of them. Harold from the engineering sector thinks he knows how to get the generator operational, so he should be your first stop after we are done here.<end>
+
+=>q275
+I want you to retake them so that they might once again serve the same purpose. However, in order to do so, you will need to activate the main power generator that's located inside one of them. Harold from the engineering sector thinks he knows how to get the generator operational, so he should be your first stop after we are done here.<end>
+
+=>q276_original
+As far as I am aware, there are a total of five outposts plus the one with the generator. I don't know if it's possible to activate all of them, but try to activate at least three.<end>
+
+=>q276
+As far as I am aware, there are a total of five outposts plus the one with the generator. I don't know if it's possible to activate all of them, but try to activate at least three.<end>
+
+=>q277_original
+You may also want to talk to Jonas at the Crossroad Watch Post; it's down in the tunnels just outside the station; you'll be passing through there anyway. He's one of our most experienced scavengers and he's probably seen more of South Underrail than any of us here. He'll surely have some useful advice for you.<end>
+
+=>q277
+You may also want to talk to Jonas at the Crossroad Watch Post; it's down in the tunnels just outside the station; you'll be passing through there anyway. He's one of our most experienced scavengers and he's probably seen more of South Underrail than any of us here. He'll surely have some useful advice for you.<end>
+
+=>q278_original
+<end>
+
+=>q278
+<end>
+
+=>a279_original
+How well is this task credited?<end>
+
+=>a279
+How well is this task credited?<end>
+
+=>q280_original
+It's three hundred credits. Additional hundred fifty credits if you activate *all* the stations.
+
+Furthermore, you get to keep anything you find there.<end>
+
+=>q280
+It's three hundred credits. Additional hundred fifty credits if you activate *all* the stations.
+
+Furthermore, you get to keep anything you find there.<end>
+
+=>a281_original
+Why are we retaking these outposts?<end>
+
+=>a281
+Why are we retaking these outposts?<end>
+
+=>q282_original
+It is an important strategic position should certain factions attempt to encroach further into our zone of control. Besides, cleaning them out will also push some of the unwanted wildlife further away from SGS, so it is also beneficial in that regard.<end>
+
+=>q282
+It is an important strategic position should certain factions attempt to encroach further into our zone of control. Besides, cleaning them out will also push some of the unwanted wildlife further away from SGS, so it is also beneficial in that regard.<end>
+
+=>a283_original
+Wildlife?<end>
+
+=>a283
+Wildlife?<end>
+
+=>q284_original
+I understand that a few packs of rathounds moved into the area, but you best talk to Jonas regarding that - he'll have more details. He knows that area inside-out.<end>
+
+=>q284
+I understand that a few packs of rathounds moved into the area, but you best talk to Jonas regarding that - he'll have more details. He knows that area inside-out.<end>
+
+=>a285_original
+Alright. I'll be off then.<end>
+
+=>a285
+Alright. I'll be off then.<end>
+
+=>q286_original
+Oh, and one more thing before you go: Pasquale, our station's chief physician, wanted to see you, so you should probably pop down to his office in the medical sector when you have the time.<end>
+
+=>q286
+Oh, and one more thing before you go: Pasquale, our station's chief physician, wanted to see you, so you should probably pop down to his office in the medical sector when you have the time.<end>
+
+=>a287_original
+Got it. See you later.<end>
+
+=>a287
+Got it. See you later.<end>
+
+=>a288_original
+What factions are you talking about?<end>
+
+=>a288
+What factions are you talking about?<end>
+
+=>q289_original
+Protectorate is my main concern. Though I do not expect any military action from them, they are always looking for ways to pressure us into reconsidering our official policy of neutrality.<end>
+
+=>q289
+Protectorate is my main concern. Though I do not expect any military action from them, they are always looking for ways to pressure us into reconsidering our official policy of neutrality.<end>
+
+=>q290_original
+Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.<end>
+
+=>q290
+Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.<end>
+
+=>a291_original
+It could come in handy. Now, field work?<end>
+
+=>a291
+It could come in handy. Now, field work?<end>
+
+=>q292_original
+<end>
+
+=>q292
+<end>
+
+=>a293_original
+I don't need to practice.<end>
+
+=>a293
+I don't need to practice.<end>
+
+=>q294_original
+If you say so. Now, regarding your first mission...<end>
+
+=>q294
+If you say so. Now, regarding your first mission...<end>
+
+=>a295_original
+Actually, I was just kidding...<end>
+
+=>a295
+Actually, I was just kidding...<end>
+
+=>a296_original
+Ready and able. So what's up?<end>
+
+=>a296
+Ready and able. So what's up?<end>
+
+=>q297_original
+There are multiple events I need you to take part in, but one thing at a time.
+<end>
+
+=>q297
+There are multiple events I need you to take part in, but one thing at a time.
+<end>
+
+=>a298_original
+As ready as I'll ever be. What's the plan?<end>
+
+=>a298
+As ready as I'll ever be. What's the plan?<end>
+
+=>a299_original
+How much damage did the earthquake cause?<end>
+
+=>a299
+How much damage did the earthquake cause?<end>
+
+=>q300_original
+Not much damage to the station itself; there were no casualties, fortunately. Regardless, the railroad tunnel has caved in so we're cut-off until the rubble has been cleared up. It is nothing that you should be concerning yourself with at this point in time. Now, back to the business at hand...<end>
+
+=>q300
+Not much damage to the station itself; there were no casualties, fortunately. Regardless, the railroad tunnel has caved in so we're cut-off until the rubble has been cleared up. It is nothing that you should be concerning yourself with at this point in time. Now, back to the business at hand...<end>
+
+=>a301_original
+Work? Already?<end>
+
+=>a301
+Work? Already?<end>
+
+=>q302_original
+I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. <end>
+
+=>q302
+I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. <end>
+
+=>a303_original
+I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.<end>
+
+=>a303
+I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.<end>
+
+=>q304_original
+::He nods.:: I believe so, too. People from many different backgrounds reside in this station. Whatever your interests may be, I'm sure you'll find someone who shares them here.<end>
+
+=>q304
+::He nods.:: I believe so, too. People from many different backgrounds reside in this station. Whatever your interests may be, I'm sure you'll find someone who shares them here.<end>
+
+=>a305_original
+Is there going to be a welcoming party or something?<end>
+
+=>a305
+Is there going to be a welcoming party or something?<end>
+
+=>q306_original
+That's usually the case, but sadly not this time. The current situation does not allow for one at the moment. Perhaps when things calm down a bit.<end>
+
+=>q306
+That's usually the case, but sadly not this time. The current situation does not allow for one at the moment. Perhaps when things calm down a bit.<end>
+

@@ -1,188 +1,188 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-We got a lot of cleaning up to do here...<end>
-
-=>q2
-We got a lot of cleaning up to do here...<end>
-
-=>q3_original
-Good work back there, Agent.<end>
-
-=>q3
-Good work back there, Agent.<end>
-
-=>q4_original
-Never a dull moment in Core City.<end>
-
-=>q4
-Never a dull moment in Core City.<end>
-
-=>q5_original
-Hey.<end>
-
-=>q5
-Hey.<end>
-
-=>q6_original
-Thanks for the help. You may return to Harlan.<end>
-
-=>q6
-Thanks for the help. You may return to Harlan.<end>
-
-=>q7_original
-I... think that's all of them. <end>
-
-=>q7
-I... think that's all of them. <end>
-
-=>q8_original
-Well done, Agent, well done. We pulled through.
-
-I'll stay here and secure the area. You may now leave and report to Harlan.<end>
-
-=>q8
-Well done, Agent, well done. We pulled through.
-
-I'll stay here and secure the area. You may now leave and report to Harlan.<end>
-
-=>a9_original
-Understood.<end>
-
-=>a9
-Understood.<end>
-
-=>a10_original
-Hope we get to kick some more ass in the future. See ya, Agent.<end>
-
-=>a10
-Hope we get to kick some more ass in the future. See ya, Agent.<end>
-
-=>a11_original
-::Nod.::<end>
-
-=>a11
-::Nod.::<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>q13_original
-Keep your shield up, Agent. We're not done yet.<end>
-
-=>q13
-Keep your shield up, Agent. We're not done yet.<end>
-
-=>q14_original
-No time to chat, prepare yourself!<end>
-
-=>q14
-No time to chat, prepare yourself!<end>
-
-=>q15_original
-Agent $(context.player.Name), I'm Agent Julia Henderson.<end>
-
-=>q15
-Agent $(context.player.Name), I'm Agent Julia Henderson.<end>
-
-=>a16_original
-Pleased to meet you, agent. Tell me what happened here.<end>
-
-=>a16
-Pleased to meet you, agent. Tell me what happened here.<end>
-
-=>q17_original
-We got here minutes before you, and we found all security systems offline - including the ceiling turrets. Looks like one well-planned, well-executed attack.<end>
-
-=>q17
-We got here minutes before you, and we found all security systems offline - including the ceiling turrets. Looks like one well-planned, well-executed attack.<end>
-
-=>q18_original
-Luckily, the attackers are *not* the Faceless, but whoever is behind this knows what they're doing. 
-
-Prepare yourself, Agent - there will definitely be more of them coming!<end>
-
-=>q18
-Luckily, the attackers are *not* the Faceless, but whoever is behind this knows what they're doing. 
-
-Prepare yourself, Agent - there will definitely be more of them coming!<end>
-
-=>a19_original
-Then we best set up our defenses right here in this room.<end>
-
-=>a19
-Then we best set up our defenses right here in this room.<end>
-
-=>q20_original
-::She nods.:: 
-
-Assume your positions, agents!<end>
-
-=>q20
-::She nods.:: 
-
-Assume your positions, agents!<end>
-
-=>a21_original
-::Get ready.::<end>
-
-=>a21
-::Get ready.::<end>
-
-=>a22_original
-We haven't got time to lose, then. Those sandbags will provide a perfect line of defense for us. We might be a bit more in the open, but in turn we'll have good visibility and room to retreat.<end>
-
-=>a22
-We haven't got time to lose, then. Those sandbags will provide a perfect line of defense for us. We might be a bit more in the open, but in turn we'll have good visibility and room to retreat.<end>
-
-=>q23_original
-Agreed.
-
-Agents, move up to the sandbags!<end>
-
-=>q23
-Agreed.
-
-Agents, move up to the sandbags!<end>
-
-=>a24_original
-Why are we hiding all the way back here? We should be at the gate, wasting the bastards as soon as they appear!<end>
-
-=>a24
-Why are we hiding all the way back here? We should be at the gate, wasting the bastards as soon as they appear!<end>
-
-=>q25_original
-Sounds like a plan.
-
-Agents - forward!<end>
-
-=>q25
-Sounds like a plan.
-
-Agents - forward!<end>
-
-=>a26_original
-What's the situation?<end>
-
-=>a26
-What's the situation?<end>
-
-=>a27_original
-Talk to me.<end>
-
-=>a27
-Talk to me.<end>
-
-=>a28_original
-::Nod.::<end>
-
-=>a28
-::Nod.::<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+We got a lot of cleaning up to do here...<end>
+
+=>q2
+We got a lot of cleaning up to do here...<end>
+
+=>q3_original
+Good work back there, Agent.<end>
+
+=>q3
+Good work back there, Agent.<end>
+
+=>q4_original
+Never a dull moment in Core City.<end>
+
+=>q4
+Never a dull moment in Core City.<end>
+
+=>q5_original
+Hey.<end>
+
+=>q5
+Hey.<end>
+
+=>q6_original
+Thanks for the help. You may return to Harlan.<end>
+
+=>q6
+Thanks for the help. You may return to Harlan.<end>
+
+=>q7_original
+I... think that's all of them. <end>
+
+=>q7
+I... think that's all of them. <end>
+
+=>q8_original
+Well done, Agent, well done. We pulled through.
+
+I'll stay here and secure the area. You may now leave and report to Harlan.<end>
+
+=>q8
+Well done, Agent, well done. We pulled through.
+
+I'll stay here and secure the area. You may now leave and report to Harlan.<end>
+
+=>a9_original
+Understood.<end>
+
+=>a9
+Understood.<end>
+
+=>a10_original
+Hope we get to kick some more ass in the future. See ya, Agent.<end>
+
+=>a10
+Hope we get to kick some more ass in the future. See ya, Agent.<end>
+
+=>a11_original
+::Nod.::<end>
+
+=>a11
+::Nod.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+Keep your shield up, Agent. We're not done yet.<end>
+
+=>q13
+Keep your shield up, Agent. We're not done yet.<end>
+
+=>q14_original
+No time to chat, prepare yourself!<end>
+
+=>q14
+No time to chat, prepare yourself!<end>
+
+=>q15_original
+Agent $(context.player.Name), I'm Agent Julia Henderson.<end>
+
+=>q15
+Agent $(context.player.Name), I'm Agent Julia Henderson.<end>
+
+=>a16_original
+Pleased to meet you, agent. Tell me what happened here.<end>
+
+=>a16
+Pleased to meet you, agent. Tell me what happened here.<end>
+
+=>q17_original
+We got here minutes before you, and we found all security systems offline - including the ceiling turrets. Looks like one well-planned, well-executed attack.<end>
+
+=>q17
+We got here minutes before you, and we found all security systems offline - including the ceiling turrets. Looks like one well-planned, well-executed attack.<end>
+
+=>q18_original
+Luckily, the attackers are *not* the Faceless, but whoever is behind this knows what they're doing. 
+
+Prepare yourself, Agent - there will definitely be more of them coming!<end>
+
+=>q18
+Luckily, the attackers are *not* the Faceless, but whoever is behind this knows what they're doing. 
+
+Prepare yourself, Agent - there will definitely be more of them coming!<end>
+
+=>a19_original
+Then we best set up our defenses right here in this room.<end>
+
+=>a19
+Then we best set up our defenses right here in this room.<end>
+
+=>q20_original
+::She nods.:: 
+
+Assume your positions, agents!<end>
+
+=>q20
+::She nods.:: 
+
+Assume your positions, agents!<end>
+
+=>a21_original
+::Get ready.::<end>
+
+=>a21
+::Get ready.::<end>
+
+=>a22_original
+We haven't got time to lose, then. Those sandbags will provide a perfect line of defense for us. We might be a bit more in the open, but in turn we'll have good visibility and room to retreat.<end>
+
+=>a22
+We haven't got time to lose, then. Those sandbags will provide a perfect line of defense for us. We might be a bit more in the open, but in turn we'll have good visibility and room to retreat.<end>
+
+=>q23_original
+Agreed.
+
+Agents, move up to the sandbags!<end>
+
+=>q23
+Agreed.
+
+Agents, move up to the sandbags!<end>
+
+=>a24_original
+Why are we hiding all the way back here? We should be at the gate, wasting the bastards as soon as they appear!<end>
+
+=>a24
+Why are we hiding all the way back here? We should be at the gate, wasting the bastards as soon as they appear!<end>
+
+=>q25_original
+Sounds like a plan.
+
+Agents - forward!<end>
+
+=>q25
+Sounds like a plan.
+
+Agents - forward!<end>
+
+=>a26_original
+What's the situation?<end>
+
+=>a26
+What's the situation?<end>
+
+=>a27_original
+Talk to me.<end>
+
+=>a27
+Talk to me.<end>
+
+=>a28_original
+::Nod.::<end>
+
+=>a28
+::Nod.::<end>
+

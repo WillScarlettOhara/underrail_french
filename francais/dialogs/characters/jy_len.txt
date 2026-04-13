@@ -1,72 +1,72 @@
-=>q1_original
-Welcome to my little shop, stranger. Lookin' for some weapons or armor?<end>
-
-=>q1
-Welcome to my little shop, stranger. Lookin' for some weapons or armor?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Show me what you got. ::Barter.::<end>
-
-=>a3
-Show me what you got. ::Barter.::<end>
-
-=>a4_original
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>a4
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>q5_original
-Look for Colton at the docks. He can sell you charon.<end>
-
-=>q5
-Look for Colton at the docks. He can sell you charon.<end>
-
-=>a6_original
-Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
-
-=>a6
-Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
-
-=>q7_original
-Nope. I mostly just sell weapons. Ya should hit the Depot or the docks for that stuff.<end>
-
-=>q7
-Nope. I mostly just sell weapons. Ya should hit the Depot or the docks for that stuff.<end>
-
-=>a8_original
-Where's the Depot?<end>
-
-=>a8
-Where's the Depot?<end>
-
-=>q9_original
-Just to the west, $(#jack/sis). Look for a slacker called Gort. He might 'ave what ya need.<end>
-
-=>q9
-Just to the west, $(#jack/sis). Look for a slacker called Gort. He might 'ave what ya need.<end>
-
-=>a10_original
-Where are the Docks?<end>
-
-=>a10
-Where are the Docks?<end>
-
-=>q11_original
-To the east, $(#jack/sis), ya can't miss it.<end>
-
-=>q11
-To the east, $(#jack/sis), ya can't miss it.<end>
-
-=>a12_original
-Catch you later.<end>
-
-=>a12
-Catch you later.<end>
-
+=>q1_original
+Welcome to my little shop, stranger. Lookin' for some weapons or armor?<end>
+
+=>q1
+Welcome to my little shop, stranger. Lookin' for some weapons or armor?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you got. ::Barter.::<end>
+
+=>a3
+Show me what you got. ::Barter.::<end>
+
+=>a4_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a4
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q5_original
+Look for Colton at the docks. He can sell you charon.<end>
+
+=>q5
+Look for Colton at the docks. He can sell you charon.<end>
+
+=>a6_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a6
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>q7_original
+Nope. I mostly just sell weapons. Ya should hit the Depot or the docks for that stuff.<end>
+
+=>q7
+Nope. I mostly just sell weapons. Ya should hit the Depot or the docks for that stuff.<end>
+
+=>a8_original
+Where's the Depot?<end>
+
+=>a8
+Where's the Depot?<end>
+
+=>q9_original
+Just to the west, $(#jack/sis). Look for a slacker called Gort. He might 'ave what ya need.<end>
+
+=>q9
+Just to the west, $(#jack/sis). Look for a slacker called Gort. He might 'ave what ya need.<end>
+
+=>a10_original
+Where are the Docks?<end>
+
+=>a10
+Where are the Docks?<end>
+
+=>q11_original
+To the east, $(#jack/sis), ya can't miss it.<end>
+
+=>q11
+To the east, $(#jack/sis), ya can't miss it.<end>
+
+=>a12_original
+Catch you later.<end>
+
+=>a12
+Catch you later.<end>
+

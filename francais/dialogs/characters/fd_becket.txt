@@ -1,772 +1,772 @@
-=>q1_original
-Why did you have to die, you bastard...<end>
-
-=>q1
-Why did you have to die, you bastard...<end>
-
-=>q2_original
-::He greets you with his arms wide open.:: You did it $(context.player.Name)! Damn, South Railroad Outpost and the embassy were a painful thorn in our sides, but now it all belongs to the Free Drones! Yeah!<end>
-
-=>q2
-::He greets you with his arms wide open.:: You did it $(context.player.Name)! Damn, South Railroad Outpost and the embassy were a painful thorn in our sides, but now it all belongs to the Free Drones! Yeah!<end>
-
-=>a3_original
-That's the first step. Next stop - Fort Apogee!<end>
-
-=>a3
-That's the first step. Next stop - Fort Apogee!<end>
-
-=>q4_original
-Yeah, once we burn it down, the Protectorate is pretty much gone from South Underrail!<end>
-
-=>q4
-Yeah, once we burn it down, the Protectorate is pretty much gone from South Underrail!<end>
-
-=>q5_original
-I've been instructed by Trenton to prepare some fine equipment for you. Take a pick: You've armor, weapons and psi equipment to choose from. What'll it be?<end>
-
-=>q5
-I've been instructed by Trenton to prepare some fine equipment for you. Take a pick: You've armor, weapons and psi equipment to choose from. What'll it be?<end>
-
-=>a6_original
-Show me the weapons.<end>
-
-=>a6
-Show me the weapons.<end>
-
-=>q7_original
-Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
-
-=>q7
-Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
-
-=>q8_original
-machine guns, grenade launchers, <end>
-
-=>q8
-machine guns, grenade launchers, <end>
-
-=>q9_original
-shotguns, machetes, spears, <end>
-
-=>q9
-shotguns, machetes, spears, <end>
-
-=>q10_original
-sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
-
-=>q10
-sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
-
-=>a11_original
-I'll take a pistol.<end>
-
-=>a11
-I'll take a pistol.<end>
-
-=>q12_original
-Here you go. ::He gives you a pistol.::<end>
-
-=>q12
-Here you go. ::He gives you a pistol.::<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>a14_original
-Trenton told me to see you about some gear.<end>
-
-=>a14
-Trenton told me to see you about some gear.<end>
-
-=>q15_original
-Yup, I've been told you'd come. At the moment, I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
-
-=>q15
-Yup, I've been told you'd come. At the moment, I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
-
-=>a16_original
-I'm interested in armor.<end>
-
-=>a16
-I'm interested in armor.<end>
-
-=>q17_original
-I've metal armor, leather armor, riot gear and tactical vests.<end>
-
-=>q17
-I've metal armor, leather armor, riot gear and tactical vests.<end>
-
-=>a18_original
-I'll take a suit of metal armor.<end>
-
-=>a18
-I'll take a suit of metal armor.<end>
-
-=>q19_original
-Here you go. ::He gives you a suit of metal armor.::<end>
-
-=>q19
-Here you go. ::He gives you a suit of metal armor.::<end>
-
-=>a20_original
-I'll take a suit of leather armor.<end>
-
-=>a20
-I'll take a suit of leather armor.<end>
-
-=>q21_original
-Here you go. ::He gives you a suit of leather armor.::<end>
-
-=>q21
-Here you go. ::He gives you a suit of leather armor.::<end>
-
-=>a22_original
-I'll take riot gear.<end>
-
-=>a22
-I'll take riot gear.<end>
-
-=>q23_original
-Here you go. ::He gives you riot gear.::<end>
-
-=>q23
-Here you go. ::He gives you riot gear.::<end>
-
-=>a24_original
-I'll take a tactical vest.<end>
-
-=>a24
-I'll take a tactical vest.<end>
-
-=>q25_original
-Here you go. ::He gives you a tactical vest.::<end>
-
-=>q25
-Here you go. ::He gives you a tactical vest.::<end>
-
-=>a26_original
-Actually, I'm interested in weapons.<end>
-
-=>a26
-Actually, I'm interested in weapons.<end>
-
-=>a27_original
-Actually, I'm interested in the psi stuff.<end>
-
-=>a27
-Actually, I'm interested in the psi stuff.<end>
-
-=>q28_original
-I've spare psi boosters and inhalants - seven and five, respectively - and some psionic headbands.<end>
-
-=>q28
-I've spare psi boosters and inhalants - seven and five, respectively - and some psionic headbands.<end>
-
-=>a29_original
-I'll take the boosters and inhalants.<end>
-
-=>a29
-I'll take the boosters and inhalants.<end>
-
-=>q30_original
-Here you go. ::He gives you seven psi boosters and five psi inhalants.::<end>
-
-=>q30
-Here you go. ::He gives you seven psi boosters and five psi inhalants.::<end>
-
-=>a31_original
-I'll take a psionic headband.<end>
-
-=>a31
-I'll take a psionic headband.<end>
-
-=>q32_original
-Here you go. ::He gives you a psionic headband.::<end>
-
-=>q32
-Here you go. ::He gives you a psionic headband.::<end>
-
-=>a33_original
-Actually, I'm interested in armor.<end>
-
-=>a33
-Actually, I'm interested in armor.<end>
-
-=>a34_original
-I'll take the psi stuff.<end>
-
-=>a34
-I'll take the psi stuff.<end>
-
-=>a35_original
-I'm here to pick up the explosives.<end>
-
-=>a35
-I'm here to pick up the explosives.<end>
-
-=>q36_original
-Going out to cause some trouble? ::He laughs.:: Here you go, you bastard. Make the Cans pay for everything they did!<end>
-
-=>q36
-Going out to cause some trouble? ::He laughs.:: Here you go, you bastard. Make the Cans pay for everything they did!<end>
-
-=>q37_original
-So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
-
-=>q37
-So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
-
-=>a38_original
-Oh, I will make them pay, Becket. I'm on fire!<end>
-
-=>a38
-Oh, I will make them pay, Becket. I'm on fire!<end>
-
-=>q39_original
-Good luck, you brave bastard. Stay free!<end>
-
-=>q39
-Good luck, you brave bastard. Stay free!<end>
-
-=>a40_original
-Death to Protectorate!<end>
-
-=>a40
-Death to Protectorate!<end>
-
-=>a41_original
-Wish me luck, Becket.<end>
-
-=>a41
-Wish me luck, Becket.<end>
-
-=>a42_original
-Maura told me to see you.<end>
-
-=>a42
-Maura told me to see you.<end>
-
-=>q43_original
-Right! She arranged for you to get some extra gear. But shush - not a word to anyone about this! ::He laughs.:: Um... thanks for saving her. She's a, um, a dear friend of mine and... it was difficult without her. I'm just glad she's with us again.
-
-Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
-
-=>q43
-Right! She arranged for you to get some extra gear. But shush - not a word to anyone about this! ::He laughs.:: Um... thanks for saving her. She's a, um, a dear friend of mine and... it was difficult without her. I'm just glad she's with us again.
-
-Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
-
-=>a44_original
-Show me what you got. ::Barter.::<end>
-
-=>a44
-Show me what you got. ::Barter.::<end>
-
-=>a45_original
-::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
-
-=>a45
-::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
-
-=>q46_original
-::He laughs.:: You clever bastard, you sure got the nose for these things, eh? I've the stuff you want right 'ere.<end>
-
-=>q46
-::He laughs.:: You clever bastard, you sure got the nose for these things, eh? I've the stuff you want right 'ere.<end>
-
-=>a47_original
-::Barter.::<end>
-
-=>a47
-::Barter.::<end>
-
-=>q48_original
-::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
-
-=>q48
-::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
-
-=>a49_original
-Why did you join the Free Drones?<end>
-
-=>a49
-Why did you join the Free Drones?<end>
-
-=>q50_original
-You know, I used to be a United Stations supporter. Yeah, I know - I actually believed all that unification rubbish. It somehow made sense, you know... If all the stations united, we'd be able to fight off raiders and beasts. Protectorate would - you guessed it - protect us! That's big stuff, bigger than a Deep Caverns echo... but unfortunately, that's not how things work in real life.<end>
-
-=>q50
-You know, I used to be a United Stations supporter. Yeah, I know - I actually believed all that unification rubbish. It somehow made sense, you know... If all the stations united, we'd be able to fight off raiders and beasts. Protectorate would - you guessed it - protect us! That's big stuff, bigger than a Deep Caverns echo... but unfortunately, that's not how things work in real life.<end>
-
-=>q51_original
-I've seen the price of the safety they offer, of their... protection! And I think it's too damn high. Protectorate will make us lie belly down in the mud and walk over us, and then tell us it's a good life. Bandits won't touch us, true, but that's a lot of mud to eat. To hell with it, I don't want that! So I hooked up with my old acquaintance, Maura, and came here. The peeps need supplies, and that's what I do best!<end>
-
-=>q51
-I've seen the price of the safety they offer, of their... protection! And I think it's too damn high. Protectorate will make us lie belly down in the mud and walk over us, and then tell us it's a good life. Bandits won't touch us, true, but that's a lot of mud to eat. To hell with it, I don't want that! So I hooked up with my old acquaintance, Maura, and came here. The peeps need supplies, and that's what I do best!<end>
-
-=>a52_original
-What can you tell me about Kokoschka?<end>
-
-=>a52
-What can you tell me about Kokoschka?<end>
-
-=>q53_original
-That magnificent bastard had to die, didn't he? Ehh, I remember when I first met him. Weird bastard! I greeted him with that, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He was a good bastard, you know.<end>
-
-=>q53
-That magnificent bastard had to die, didn't he? Ehh, I remember when I first met him. Weird bastard! I greeted him with that, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He was a good bastard, you know.<end>
-
-=>q54_original
-Unfortunately, um... he's a dead bastard now... Damn...<end>
-
-=>q54
-Unfortunately, um... he's a dead bastard now... Damn...<end>
-
-=>q55_original
-::He laughs.:: Bastard! I told him that when I met him for the first time, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He's a good bastard, you know.<end>
-
-=>q55
-::He laughs.:: Bastard! I told him that when I met him for the first time, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He's a good bastard, you know.<end>
-
-=>q56_original
-I guess he wasn't used to that in... wherever he's from, I forgot. The funny things is, now he tries to do the same but... he forces it a bit too much.
-
-Just yesterday he smiled at me and said: "Hey, you man that smells like rotting brbuznit! I mean it well, don't get angried." "Angried"!<end>
-
-=>q56
-I guess he wasn't used to that in... wherever he's from, I forgot. The funny things is, now he tries to do the same but... he forces it a bit too much.
-
-Just yesterday he smiled at me and said: "Hey, you man that smells like rotting brbuznit! I mean it well, don't get angried." "Angried"!<end>
-
-=>a57_original
-What can you tell me about Darling?<end>
-
-=>a57
-What can you tell me about Darling?<end>
-
-=>q58_original
-Oh, she's a fine woman. Yes. There's this motherly feel about her, you know what I mean. Like she's the one who takes care of us, she listens, gives advice and reassures you everything is gonna be fine.<end>
-
-=>q58
-Oh, she's a fine woman. Yes. There's this motherly feel about her, you know what I mean. Like she's the one who takes care of us, she listens, gives advice and reassures you everything is gonna be fine.<end>
-
-=>q59_original
-And she's young and good lookin', and cooks really damn well! Darn it, I wish I had a caring mother like that, mine was a crone that never loved me. I was the middle child! Anyway, I just wish she'd take it easy with the bleedin' smokes, she's been puffing those things a bit too much lately. <end>
-
-=>q59
-And she's young and good lookin', and cooks really damn well! Darn it, I wish I had a caring mother like that, mine was a crone that never loved me. I was the middle child! Anyway, I just wish she'd take it easy with the bleedin' smokes, she's been puffing those things a bit too much lately. <end>
-
-=>q60_original
-At least those things aren't easy to come by, so that's helping.<end>
-
-=>q60
-At least those things aren't easy to come by, so that's helping.<end>
-
-=>a61_original
-What can you tell me about Hutch?<end>
-
-=>a61
-What can you tell me about Hutch?<end>
-
-=>q62_original
-Poor Hutch, he was a good kid. He was a blueprint for a perfect freedom fighter. Young, strong, cunning, honest, idealistic.<end>
-
-=>q62
-Poor Hutch, he was a good kid. He was a blueprint for a perfect freedom fighter. Young, strong, cunning, honest, idealistic.<end>
-
-=>q63_original
-And in love... That's what killed him, I heard he volunteered to go to Junkyard. Bastard... At least he didn't die alone.<end>
-
-=>q63
-And in love... That's what killed him, I heard he volunteered to go to Junkyard. Bastard... At least he didn't die alone.<end>
-
-=>a64_original
-What can you tell me about Maura?<end>
-
-=>a64
-What can you tell me about Maura?<end>
-
-=>q65_original
-Maura is an acquaintance of mine, we used to do business in Junkyard, Core City, Camp Hathor... everywhere. We specialized in sought after, less common and merchandise. One day, she left to join the Free Drones, she was sick and tired of the Protectorate propaganda, she wanted to make a change.<end>
-
-=>q65
-Maura is an acquaintance of mine, we used to do business in Junkyard, Core City, Camp Hathor... everywhere. We specialized in sought after, less common and merchandise. One day, she left to join the Free Drones, she was sick and tired of the Protectorate propaganda, she wanted to make a change.<end>
-
-=>q66_original
-Rubbish, I said. She's gone crazy, I thought! But, I was just blind myself. Bastard... Ironically, she was the one who brought me here. She's a capable woman, I'd trust her with anything...<end>
-
-=>q66
-Rubbish, I said. She's gone crazy, I thought! But, I was just blind myself. Bastard... Ironically, she was the one who brought me here. She's a capable woman, I'd trust her with anything...<end>
-
-=>a67_original
-What can you tell me about Trenton?<end>
-
-=>a67
-What can you tell me about Trenton?<end>
-
-=>q68_original
-Oh, Corben's one tough bastard. When he comes up with a plan, you know he's been working on it for a long time, ignoring hunger, thirst or sleep until it's just right. Perfect! He can predict what the enemy's gonna do, and that always makes him one step ahead of the Cans.
-
-And there's nuthin' fake about him, too. He does what he does and speaks the way it is. That might not always be what you want to hear, but you know it's the truth.<end>
-
-=>q68
-Oh, Corben's one tough bastard. When he comes up with a plan, you know he's been working on it for a long time, ignoring hunger, thirst or sleep until it's just right. Perfect! He can predict what the enemy's gonna do, and that always makes him one step ahead of the Cans.
-
-And there's nuthin' fake about him, too. He does what he does and speaks the way it is. That might not always be what you want to hear, but you know it's the truth.<end>
-
-=>q69_original
-He's just magnificent! We need more Trentons in the world, that's for sure!<end>
-
-=>q69
-He's just magnificent! We need more Trentons in the world, that's for sure!<end>
-
-=>a70_original
-What can you tell me about Bate?<end>
-
-=>a70
-What can you tell me about Bate?<end>
-
-=>q71_original
-That git! That lying, Protectorate-loving git! I thought he was one of us!<end>
-
-=>q71
-That git! That lying, Protectorate-loving git! I thought he was one of us!<end>
-
-=>q72_original
-For so long he's been feeding the Cans with information about us... Ugh! I'm furious! We lost so many good peeps because of him.<end>
-
-=>q72
-For so long he's been feeding the Cans with information about us... Ugh! I'm furious! We lost so many good peeps because of him.<end>
-
-=>q73_original
-Bate is a different type of leader than Trenton is. While Trenton is straight to the point strategic mastermind, Alvin Bate has that common man... leader sort of thing. Erm, what I really mean, he behaves like he was one of us... us regular peeps. The bastard! ::Laughs.:: Not saying Trenton isn't, but... he keeps to himself.<end>
-
-=>q73
-Bate is a different type of leader than Trenton is. While Trenton is straight to the point strategic mastermind, Alvin Bate has that common man... leader sort of thing. Erm, what I really mean, he behaves like he was one of us... us regular peeps. The bastard! ::Laughs.:: Not saying Trenton isn't, but... he keeps to himself.<end>
-
-=>q74_original
-Bate, on the other hand, will brief us about serious issues, then get wasted with us later. And that bastard can drink two burrowers worth of mushroom brew. At least! ::Laughs.::<end>
-
-=>q74
-Bate, on the other hand, will brief us about serious issues, then get wasted with us later. And that bastard can drink two burrowers worth of mushroom brew. At least! ::Laughs.::<end>
-
-=>a75_original
-What can you tell me about Marcella?<end>
-
-=>a75
-What can you tell me about Marcella?<end>
-
-=>q76_original
-Um, I don't know how much I can tell you about that, $(context.player.Name). She disappeared about two months ago, and everyone is clueless about what exactly happened. Some say she was a Protectorate spy, some say she died fighting the Cans, bravely.<end>
-
-=>q76
-Um, I don't know how much I can tell you about that, $(context.player.Name). She disappeared about two months ago, and everyone is clueless about what exactly happened. Some say she was a Protectorate spy, some say she died fighting the Cans, bravely.<end>
-
-=>q77_original
-I don't really know what to think. But I know that, if she ever shows up again... It's won't be pretty. I'm sure of it.<end>
-
-=>q77
-I don't really know what to think. But I know that, if she ever shows up again... It's won't be pretty. I'm sure of it.<end>
-
-=>a78_original
-Goodbye, Becket.<end>
-
-=>a78
-Goodbye, Becket.<end>
-
-=>a79_original
-I'll take a submachine gun.<end>
-
-=>a79
-I'll take a submachine gun.<end>
-
-=>q80_original
-Here you go. ::He gives you a submachine gun.::<end>
-
-=>q80
-Here you go. ::He gives you a submachine gun.::<end>
-
-=>a81_original
-I'll take a regular shotgun.<end>
-
-=>a81
-I'll take a regular shotgun.<end>
-
-=>q82_original
-Here you go. ::He gives you a shotgun.::<end>
-
-=>q82
-Here you go. ::He gives you a shotgun.::<end>
-
-=>a83_original
-I'll take a combat shotgun.<end>
-
-=>a83
-I'll take a combat shotgun.<end>
-
-=>q84_original
-Here you go. ::He gives you a combat shotgun.::<end>
-
-=>q84
-Here you go. ::He gives you a combat shotgun.::<end>
-
-=>a85_original
-I'll take an assault rifle.<end>
-
-=>a85
-I'll take an assault rifle.<end>
-
-=>q86_original
-Here you go. ::He gives you an assault rifle.::<end>
-
-=>q86
-Here you go. ::He gives you an assault rifle.::<end>
-
-=>a87_original
-I'll take a crossbow.<end>
-
-=>a87
-I'll take a crossbow.<end>
-
-=>q88_original
-Here you go. ::He gives you a crossbow.::<end>
-
-=>q88
-Here you go. ::He gives you a crossbow.::<end>
-
-=>a89_original
-I'll take a sniper rifle.<end>
-
-=>a89
-I'll take a sniper rifle.<end>
-
-=>q90_original
-Here you go. ::He gives you a sniper rifle.::<end>
-
-=>q90
-Here you go. ::He gives you a sniper rifle.::<end>
-
-=>a91_original
-I'll take a light machine gun.<end>
-
-=>a91
-I'll take a light machine gun.<end>
-
-=>q92_original
-Here you go. ::He gives you a machine gun.::<end>
-
-=>q92
-Here you go. ::He gives you a machine gun.::<end>
-
-=>a93_original
-I'll take a grenade launcher.<end>
-
-=>a93
-I'll take a grenade launcher.<end>
-
-=>q94_original
-Here you go. ::He gives you a grenade launcher.::<end>
-
-=>q94
-Here you go. ::He gives you a grenade launcher.::<end>
-
-=>a95_original
-I'll take a sledgehammer.<end>
-
-=>a95
-I'll take a sledgehammer.<end>
-
-=>q96_original
-Here you go. ::He gives you a sledgehammer.::<end>
-
-=>q96
-Here you go. ::He gives you a sledgehammer.::<end>
-
-=>a97_original
-I'll take a machete.<end>
-
-=>a97
-I'll take a machete.<end>
-
-=>q98_original
-Here you go. ::He gives you a machete.::<end>
-
-=>q98
-Here you go. ::He gives you a machete.::<end>
-
-=>a99_original
-I'll take a spear.<end>
-
-=>a99
-I'll take a spear.<end>
-
-=>q100_original
-Here you go. ::He gives you a spear.::<end>
-
-=>q100
-Here you go. ::He gives you a spear.::<end>
-
-=>a101_original
-I'll take a combat knife.<end>
-
-=>a101
-I'll take a combat knife.<end>
-
-=>q102_original
-Here you go. ::He gives you a combat knife.::<end>
-
-=>q102
-Here you go. ::He gives you a combat knife.::<end>
-
-=>a103_original
-I'll take a combat glove.<end>
-
-=>a103
-I'll take a combat glove.<end>
-
-=>q104_original
-Here you go. ::He gives you a combat glove.::<end>
-
-=>q104
-Here you go. ::He gives you a combat glove.::<end>
-
-=>a105_original
-We shouldn't relax too much, the Protectorate is still strong in South Underrail.<end>
-
-=>a105
-We shouldn't relax too much, the Protectorate is still strong in South Underrail.<end>
-
-=>q106_original
-Sure, you've a point there... But, the peeps need a bit of a celebration 'cause we smashed the Cans like no big deal!<end>
-
-=>q106
-Sure, you've a point there... But, the peeps need a bit of a celebration 'cause we smashed the Cans like no big deal!<end>
-
-=>a107_original
-If it wasn't for me, you'd all be sitting in this hole doing nuthin'.<end>
-
-=>a107
-If it wasn't for me, you'd all be sitting in this hole doing nuthin'.<end>
-
-=>q108_original
-Erm... ::He laughs.:: For a second there I though you were serious, you silly bastard!<end>
-
-=>q108
-Erm... ::He laughs.:: For a second there I though you were serious, you silly bastard!<end>
-
-=>q109_original
-::The man removes his mask as soon as you come near him. He smiles after doing so, displaying an admirable set of rotten teeth springing from a rectangular jaw covered with a several days old beard. His clothes are patchy in some and torn in other places. As for his words, they are carried by a rough-sounding but unmistakably friendly voice.::
-
-Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket, and if it wasn't for me, all these derailed peeps would've been taking on the Cans with nuthin' but rocks and a bit of hope! ::He laughs.::<end>
-
-=>q109
-::The man removes his mask as soon as you come near him. He smiles after doing so, displaying an admirable set of rotten teeth springing from a rectangular jaw covered with a several days old beard. His clothes are patchy in some and torn in other places. As for his words, they are carried by a rough-sounding but unmistakably friendly voice.::
-
-Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket, and if it wasn't for me, all these derailed peeps would've been taking on the Cans with nuthin' but rocks and a bit of hope! ::He laughs.::<end>
-
-=>q110_original
-I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
-
-=>q110
-I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
-
-=>a111_original
-Thank you, but it wasn't exactly like that...<end>
-
-=>a111
-Thank you, but it wasn't exactly like that...<end>
-
-=>q112_original
-Don't be so humble, you silly bastard. Brag! Brag until everyone gives you *the* look! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>q112
-Don't be so humble, you silly bastard. Brag! Brag until everyone gives you *the* look! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>q113_original
-<end>
-
-=>q113
-<end>
-
-=>a114_original
-Yeah, I'm cool and I know it! But please, don't stop...<end>
-
-=>a114
-Yeah, I'm cool and I know it! But please, don't stop...<end>
-
-=>q115_original
-::He laughs.:: I'd have to stop if I want to give you your reward. I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>q115
-::He laughs.:: I'd have to stop if I want to give you your reward. I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>a116_original
-I'm just here for the stuff.<end>
-
-=>a116
-I'm just here for the stuff.<end>
-
-=>q117_original
-::He laughs.:: Coming right up! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>q117
-::He laughs.:: Coming right up! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
-
-=>q118_original
-I sell all sorts of stuff - good stuff, so feel free to spend some charons! :: He laughs.::<end>
-
-=>q118
-I sell all sorts of stuff - good stuff, so feel free to spend some charons! :: He laughs.::<end>
-
-=>q119_original
-You vicious bastard! ::He laughs.:: I heard what you did to those bleedin' Lurkers! You strolled right into their turf and busted out our pals!<end>
-
-=>q119
-You vicious bastard! ::He laughs.:: I heard what you did to those bleedin' Lurkers! You strolled right into their turf and busted out our pals!<end>
-
-=>q120_original
-I got some new stuff you might wanna take a look at 'ere. Make sure you've the charons ready, of course!<end>
-
-=>q120
-I got some new stuff you might wanna take a look at 'ere. Make sure you've the charons ready, of course!<end>
-
-=>a121_original
-Let's check it out. ::Barter.::<end>
-
-=>a121
-Let's check it out. ::Barter.::<end>
-
-=>a122_original
-I wanted to ask you something first.<end>
-
-=>a122
-I wanted to ask you something first.<end>
-
-=>q123_original
-Whacha wanna ask me?<end>
-
-=>q123
-Whacha wanna ask me?<end>
-
-=>q124_original
-Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
-
-=>q124
-Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
-
-=>q125_original
-Just kidd'n! <end>
-
-=>q125
-Just kidd'n! <end>
-
-=>q126_original
-Whatcha need?<end>
-
-=>q126
-Whatcha need?<end>
-
+=>q1_original
+Why did you have to die, you bastard...<end>
+
+=>q1
+Why did you have to die, you bastard...<end>
+
+=>q2_original
+::He greets you with his arms wide open.:: You did it $(context.player.Name)! Damn, South Railroad Outpost and the embassy were a painful thorn in our sides, but now it all belongs to the Free Drones! Yeah!<end>
+
+=>q2
+::He greets you with his arms wide open.:: You did it $(context.player.Name)! Damn, South Railroad Outpost and the embassy were a painful thorn in our sides, but now it all belongs to the Free Drones! Yeah!<end>
+
+=>a3_original
+That's the first step. Next stop - Fort Apogee!<end>
+
+=>a3
+That's the first step. Next stop - Fort Apogee!<end>
+
+=>q4_original
+Yeah, once we burn it down, the Protectorate is pretty much gone from South Underrail!<end>
+
+=>q4
+Yeah, once we burn it down, the Protectorate is pretty much gone from South Underrail!<end>
+
+=>q5_original
+I've been instructed by Trenton to prepare some fine equipment for you. Take a pick: You've armor, weapons and psi equipment to choose from. What'll it be?<end>
+
+=>q5
+I've been instructed by Trenton to prepare some fine equipment for you. Take a pick: You've armor, weapons and psi equipment to choose from. What'll it be?<end>
+
+=>a6_original
+Show me the weapons.<end>
+
+=>a6
+Show me the weapons.<end>
+
+=>q7_original
+Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
+
+=>q7
+Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
+
+=>q8_original
+machine guns, grenade launchers, <end>
+
+=>q8
+machine guns, grenade launchers, <end>
+
+=>q9_original
+shotguns, machetes, spears, <end>
+
+=>q9
+shotguns, machetes, spears, <end>
+
+=>q10_original
+sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
+
+=>q10
+sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
+
+=>a11_original
+I'll take a pistol.<end>
+
+=>a11
+I'll take a pistol.<end>
+
+=>q12_original
+Here you go. ::He gives you a pistol.::<end>
+
+=>q12
+Here you go. ::He gives you a pistol.::<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+Trenton told me to see you about some gear.<end>
+
+=>a14
+Trenton told me to see you about some gear.<end>
+
+=>q15_original
+Yup, I've been told you'd come. At the moment, I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>q15
+Yup, I've been told you'd come. At the moment, I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>a16_original
+I'm interested in armor.<end>
+
+=>a16
+I'm interested in armor.<end>
+
+=>q17_original
+I've metal armor, leather armor, riot gear and tactical vests.<end>
+
+=>q17
+I've metal armor, leather armor, riot gear and tactical vests.<end>
+
+=>a18_original
+I'll take a suit of metal armor.<end>
+
+=>a18
+I'll take a suit of metal armor.<end>
+
+=>q19_original
+Here you go. ::He gives you a suit of metal armor.::<end>
+
+=>q19
+Here you go. ::He gives you a suit of metal armor.::<end>
+
+=>a20_original
+I'll take a suit of leather armor.<end>
+
+=>a20
+I'll take a suit of leather armor.<end>
+
+=>q21_original
+Here you go. ::He gives you a suit of leather armor.::<end>
+
+=>q21
+Here you go. ::He gives you a suit of leather armor.::<end>
+
+=>a22_original
+I'll take riot gear.<end>
+
+=>a22
+I'll take riot gear.<end>
+
+=>q23_original
+Here you go. ::He gives you riot gear.::<end>
+
+=>q23
+Here you go. ::He gives you riot gear.::<end>
+
+=>a24_original
+I'll take a tactical vest.<end>
+
+=>a24
+I'll take a tactical vest.<end>
+
+=>q25_original
+Here you go. ::He gives you a tactical vest.::<end>
+
+=>q25
+Here you go. ::He gives you a tactical vest.::<end>
+
+=>a26_original
+Actually, I'm interested in weapons.<end>
+
+=>a26
+Actually, I'm interested in weapons.<end>
+
+=>a27_original
+Actually, I'm interested in the psi stuff.<end>
+
+=>a27
+Actually, I'm interested in the psi stuff.<end>
+
+=>q28_original
+I've spare psi boosters and inhalants - seven and five, respectively - and some psionic headbands.<end>
+
+=>q28
+I've spare psi boosters and inhalants - seven and five, respectively - and some psionic headbands.<end>
+
+=>a29_original
+I'll take the boosters and inhalants.<end>
+
+=>a29
+I'll take the boosters and inhalants.<end>
+
+=>q30_original
+Here you go. ::He gives you seven psi boosters and five psi inhalants.::<end>
+
+=>q30
+Here you go. ::He gives you seven psi boosters and five psi inhalants.::<end>
+
+=>a31_original
+I'll take a psionic headband.<end>
+
+=>a31
+I'll take a psionic headband.<end>
+
+=>q32_original
+Here you go. ::He gives you a psionic headband.::<end>
+
+=>q32
+Here you go. ::He gives you a psionic headband.::<end>
+
+=>a33_original
+Actually, I'm interested in armor.<end>
+
+=>a33
+Actually, I'm interested in armor.<end>
+
+=>a34_original
+I'll take the psi stuff.<end>
+
+=>a34
+I'll take the psi stuff.<end>
+
+=>a35_original
+I'm here to pick up the explosives.<end>
+
+=>a35
+I'm here to pick up the explosives.<end>
+
+=>q36_original
+Going out to cause some trouble? ::He laughs.:: Here you go, you bastard. Make the Cans pay for everything they did!<end>
+
+=>q36
+Going out to cause some trouble? ::He laughs.:: Here you go, you bastard. Make the Cans pay for everything they did!<end>
+
+=>q37_original
+So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
+
+=>q37
+So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
+
+=>a38_original
+Oh, I will make them pay, Becket. I'm on fire!<end>
+
+=>a38
+Oh, I will make them pay, Becket. I'm on fire!<end>
+
+=>q39_original
+Good luck, you brave bastard. Stay free!<end>
+
+=>q39
+Good luck, you brave bastard. Stay free!<end>
+
+=>a40_original
+Death to Protectorate!<end>
+
+=>a40
+Death to Protectorate!<end>
+
+=>a41_original
+Wish me luck, Becket.<end>
+
+=>a41
+Wish me luck, Becket.<end>
+
+=>a42_original
+Maura told me to see you.<end>
+
+=>a42
+Maura told me to see you.<end>
+
+=>q43_original
+Right! She arranged for you to get some extra gear. But shush - not a word to anyone about this! ::He laughs.:: Um... thanks for saving her. She's a, um, a dear friend of mine and... it was difficult without her. I'm just glad she's with us again.
+
+Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>q43
+Right! She arranged for you to get some extra gear. But shush - not a word to anyone about this! ::He laughs.:: Um... thanks for saving her. She's a, um, a dear friend of mine and... it was difficult without her. I'm just glad she's with us again.
+
+Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>a44_original
+Show me what you got. ::Barter.::<end>
+
+=>a44
+Show me what you got. ::Barter.::<end>
+
+=>a45_original
+::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
+
+=>a45
+::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
+
+=>q46_original
+::He laughs.:: You clever bastard, you sure got the nose for these things, eh? I've the stuff you want right 'ere.<end>
+
+=>q46
+::He laughs.:: You clever bastard, you sure got the nose for these things, eh? I've the stuff you want right 'ere.<end>
+
+=>a47_original
+::Barter.::<end>
+
+=>a47
+::Barter.::<end>
+
+=>q48_original
+::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
+
+=>q48
+::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
+
+=>a49_original
+Why did you join the Free Drones?<end>
+
+=>a49
+Why did you join the Free Drones?<end>
+
+=>q50_original
+You know, I used to be a United Stations supporter. Yeah, I know - I actually believed all that unification rubbish. It somehow made sense, you know... If all the stations united, we'd be able to fight off raiders and beasts. Protectorate would - you guessed it - protect us! That's big stuff, bigger than a Deep Caverns echo... but unfortunately, that's not how things work in real life.<end>
+
+=>q50
+You know, I used to be a United Stations supporter. Yeah, I know - I actually believed all that unification rubbish. It somehow made sense, you know... If all the stations united, we'd be able to fight off raiders and beasts. Protectorate would - you guessed it - protect us! That's big stuff, bigger than a Deep Caverns echo... but unfortunately, that's not how things work in real life.<end>
+
+=>q51_original
+I've seen the price of the safety they offer, of their... protection! And I think it's too damn high. Protectorate will make us lie belly down in the mud and walk over us, and then tell us it's a good life. Bandits won't touch us, true, but that's a lot of mud to eat. To hell with it, I don't want that! So I hooked up with my old acquaintance, Maura, and came here. The peeps need supplies, and that's what I do best!<end>
+
+=>q51
+I've seen the price of the safety they offer, of their... protection! And I think it's too damn high. Protectorate will make us lie belly down in the mud and walk over us, and then tell us it's a good life. Bandits won't touch us, true, but that's a lot of mud to eat. To hell with it, I don't want that! So I hooked up with my old acquaintance, Maura, and came here. The peeps need supplies, and that's what I do best!<end>
+
+=>a52_original
+What can you tell me about Kokoschka?<end>
+
+=>a52
+What can you tell me about Kokoschka?<end>
+
+=>q53_original
+That magnificent bastard had to die, didn't he? Ehh, I remember when I first met him. Weird bastard! I greeted him with that, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He was a good bastard, you know.<end>
+
+=>q53
+That magnificent bastard had to die, didn't he? Ehh, I remember when I first met him. Weird bastard! I greeted him with that, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He was a good bastard, you know.<end>
+
+=>q54_original
+Unfortunately, um... he's a dead bastard now... Damn...<end>
+
+=>q54
+Unfortunately, um... he's a dead bastard now... Damn...<end>
+
+=>q55_original
+::He laughs.:: Bastard! I told him that when I met him for the first time, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He's a good bastard, you know.<end>
+
+=>q55
+::He laughs.:: Bastard! I told him that when I met him for the first time, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He's a good bastard, you know.<end>
+
+=>q56_original
+I guess he wasn't used to that in... wherever he's from, I forgot. The funny things is, now he tries to do the same but... he forces it a bit too much.
+
+Just yesterday he smiled at me and said: "Hey, you man that smells like rotting brbuznit! I mean it well, don't get angried." "Angried"!<end>
+
+=>q56
+I guess he wasn't used to that in... wherever he's from, I forgot. The funny things is, now he tries to do the same but... he forces it a bit too much.
+
+Just yesterday he smiled at me and said: "Hey, you man that smells like rotting brbuznit! I mean it well, don't get angried." "Angried"!<end>
+
+=>a57_original
+What can you tell me about Darling?<end>
+
+=>a57
+What can you tell me about Darling?<end>
+
+=>q58_original
+Oh, she's a fine woman. Yes. There's this motherly feel about her, you know what I mean. Like she's the one who takes care of us, she listens, gives advice and reassures you everything is gonna be fine.<end>
+
+=>q58
+Oh, she's a fine woman. Yes. There's this motherly feel about her, you know what I mean. Like she's the one who takes care of us, she listens, gives advice and reassures you everything is gonna be fine.<end>
+
+=>q59_original
+And she's young and good lookin', and cooks really damn well! Darn it, I wish I had a caring mother like that, mine was a crone that never loved me. I was the middle child! Anyway, I just wish she'd take it easy with the bleedin' smokes, she's been puffing those things a bit too much lately. <end>
+
+=>q59
+And she's young and good lookin', and cooks really damn well! Darn it, I wish I had a caring mother like that, mine was a crone that never loved me. I was the middle child! Anyway, I just wish she'd take it easy with the bleedin' smokes, she's been puffing those things a bit too much lately. <end>
+
+=>q60_original
+At least those things aren't easy to come by, so that's helping.<end>
+
+=>q60
+At least those things aren't easy to come by, so that's helping.<end>
+
+=>a61_original
+What can you tell me about Hutch?<end>
+
+=>a61
+What can you tell me about Hutch?<end>
+
+=>q62_original
+Poor Hutch, he was a good kid. He was a blueprint for a perfect freedom fighter. Young, strong, cunning, honest, idealistic.<end>
+
+=>q62
+Poor Hutch, he was a good kid. He was a blueprint for a perfect freedom fighter. Young, strong, cunning, honest, idealistic.<end>
+
+=>q63_original
+And in love... That's what killed him, I heard he volunteered to go to Junkyard. Bastard... At least he didn't die alone.<end>
+
+=>q63
+And in love... That's what killed him, I heard he volunteered to go to Junkyard. Bastard... At least he didn't die alone.<end>
+
+=>a64_original
+What can you tell me about Maura?<end>
+
+=>a64
+What can you tell me about Maura?<end>
+
+=>q65_original
+Maura is an acquaintance of mine, we used to do business in Junkyard, Core City, Camp Hathor... everywhere. We specialized in sought after, less common and merchandise. One day, she left to join the Free Drones, she was sick and tired of the Protectorate propaganda, she wanted to make a change.<end>
+
+=>q65
+Maura is an acquaintance of mine, we used to do business in Junkyard, Core City, Camp Hathor... everywhere. We specialized in sought after, less common and merchandise. One day, she left to join the Free Drones, she was sick and tired of the Protectorate propaganda, she wanted to make a change.<end>
+
+=>q66_original
+Rubbish, I said. She's gone crazy, I thought! But, I was just blind myself. Bastard... Ironically, she was the one who brought me here. She's a capable woman, I'd trust her with anything...<end>
+
+=>q66
+Rubbish, I said. She's gone crazy, I thought! But, I was just blind myself. Bastard... Ironically, she was the one who brought me here. She's a capable woman, I'd trust her with anything...<end>
+
+=>a67_original
+What can you tell me about Trenton?<end>
+
+=>a67
+What can you tell me about Trenton?<end>
+
+=>q68_original
+Oh, Corben's one tough bastard. When he comes up with a plan, you know he's been working on it for a long time, ignoring hunger, thirst or sleep until it's just right. Perfect! He can predict what the enemy's gonna do, and that always makes him one step ahead of the Cans.
+
+And there's nuthin' fake about him, too. He does what he does and speaks the way it is. That might not always be what you want to hear, but you know it's the truth.<end>
+
+=>q68
+Oh, Corben's one tough bastard. When he comes up with a plan, you know he's been working on it for a long time, ignoring hunger, thirst or sleep until it's just right. Perfect! He can predict what the enemy's gonna do, and that always makes him one step ahead of the Cans.
+
+And there's nuthin' fake about him, too. He does what he does and speaks the way it is. That might not always be what you want to hear, but you know it's the truth.<end>
+
+=>q69_original
+He's just magnificent! We need more Trentons in the world, that's for sure!<end>
+
+=>q69
+He's just magnificent! We need more Trentons in the world, that's for sure!<end>
+
+=>a70_original
+What can you tell me about Bate?<end>
+
+=>a70
+What can you tell me about Bate?<end>
+
+=>q71_original
+That git! That lying, Protectorate-loving git! I thought he was one of us!<end>
+
+=>q71
+That git! That lying, Protectorate-loving git! I thought he was one of us!<end>
+
+=>q72_original
+For so long he's been feeding the Cans with information about us... Ugh! I'm furious! We lost so many good peeps because of him.<end>
+
+=>q72
+For so long he's been feeding the Cans with information about us... Ugh! I'm furious! We lost so many good peeps because of him.<end>
+
+=>q73_original
+Bate is a different type of leader than Trenton is. While Trenton is straight to the point strategic mastermind, Alvin Bate has that common man... leader sort of thing. Erm, what I really mean, he behaves like he was one of us... us regular peeps. The bastard! ::Laughs.:: Not saying Trenton isn't, but... he keeps to himself.<end>
+
+=>q73
+Bate is a different type of leader than Trenton is. While Trenton is straight to the point strategic mastermind, Alvin Bate has that common man... leader sort of thing. Erm, what I really mean, he behaves like he was one of us... us regular peeps. The bastard! ::Laughs.:: Not saying Trenton isn't, but... he keeps to himself.<end>
+
+=>q74_original
+Bate, on the other hand, will brief us about serious issues, then get wasted with us later. And that bastard can drink two burrowers worth of mushroom brew. At least! ::Laughs.::<end>
+
+=>q74
+Bate, on the other hand, will brief us about serious issues, then get wasted with us later. And that bastard can drink two burrowers worth of mushroom brew. At least! ::Laughs.::<end>
+
+=>a75_original
+What can you tell me about Marcella?<end>
+
+=>a75
+What can you tell me about Marcella?<end>
+
+=>q76_original
+Um, I don't know how much I can tell you about that, $(context.player.Name). She disappeared about two months ago, and everyone is clueless about what exactly happened. Some say she was a Protectorate spy, some say she died fighting the Cans, bravely.<end>
+
+=>q76
+Um, I don't know how much I can tell you about that, $(context.player.Name). She disappeared about two months ago, and everyone is clueless about what exactly happened. Some say she was a Protectorate spy, some say she died fighting the Cans, bravely.<end>
+
+=>q77_original
+I don't really know what to think. But I know that, if she ever shows up again... It's won't be pretty. I'm sure of it.<end>
+
+=>q77
+I don't really know what to think. But I know that, if she ever shows up again... It's won't be pretty. I'm sure of it.<end>
+
+=>a78_original
+Goodbye, Becket.<end>
+
+=>a78
+Goodbye, Becket.<end>
+
+=>a79_original
+I'll take a submachine gun.<end>
+
+=>a79
+I'll take a submachine gun.<end>
+
+=>q80_original
+Here you go. ::He gives you a submachine gun.::<end>
+
+=>q80
+Here you go. ::He gives you a submachine gun.::<end>
+
+=>a81_original
+I'll take a regular shotgun.<end>
+
+=>a81
+I'll take a regular shotgun.<end>
+
+=>q82_original
+Here you go. ::He gives you a shotgun.::<end>
+
+=>q82
+Here you go. ::He gives you a shotgun.::<end>
+
+=>a83_original
+I'll take a combat shotgun.<end>
+
+=>a83
+I'll take a combat shotgun.<end>
+
+=>q84_original
+Here you go. ::He gives you a combat shotgun.::<end>
+
+=>q84
+Here you go. ::He gives you a combat shotgun.::<end>
+
+=>a85_original
+I'll take an assault rifle.<end>
+
+=>a85
+I'll take an assault rifle.<end>
+
+=>q86_original
+Here you go. ::He gives you an assault rifle.::<end>
+
+=>q86
+Here you go. ::He gives you an assault rifle.::<end>
+
+=>a87_original
+I'll take a crossbow.<end>
+
+=>a87
+I'll take a crossbow.<end>
+
+=>q88_original
+Here you go. ::He gives you a crossbow.::<end>
+
+=>q88
+Here you go. ::He gives you a crossbow.::<end>
+
+=>a89_original
+I'll take a sniper rifle.<end>
+
+=>a89
+I'll take a sniper rifle.<end>
+
+=>q90_original
+Here you go. ::He gives you a sniper rifle.::<end>
+
+=>q90
+Here you go. ::He gives you a sniper rifle.::<end>
+
+=>a91_original
+I'll take a light machine gun.<end>
+
+=>a91
+I'll take a light machine gun.<end>
+
+=>q92_original
+Here you go. ::He gives you a machine gun.::<end>
+
+=>q92
+Here you go. ::He gives you a machine gun.::<end>
+
+=>a93_original
+I'll take a grenade launcher.<end>
+
+=>a93
+I'll take a grenade launcher.<end>
+
+=>q94_original
+Here you go. ::He gives you a grenade launcher.::<end>
+
+=>q94
+Here you go. ::He gives you a grenade launcher.::<end>
+
+=>a95_original
+I'll take a sledgehammer.<end>
+
+=>a95
+I'll take a sledgehammer.<end>
+
+=>q96_original
+Here you go. ::He gives you a sledgehammer.::<end>
+
+=>q96
+Here you go. ::He gives you a sledgehammer.::<end>
+
+=>a97_original
+I'll take a machete.<end>
+
+=>a97
+I'll take a machete.<end>
+
+=>q98_original
+Here you go. ::He gives you a machete.::<end>
+
+=>q98
+Here you go. ::He gives you a machete.::<end>
+
+=>a99_original
+I'll take a spear.<end>
+
+=>a99
+I'll take a spear.<end>
+
+=>q100_original
+Here you go. ::He gives you a spear.::<end>
+
+=>q100
+Here you go. ::He gives you a spear.::<end>
+
+=>a101_original
+I'll take a combat knife.<end>
+
+=>a101
+I'll take a combat knife.<end>
+
+=>q102_original
+Here you go. ::He gives you a combat knife.::<end>
+
+=>q102
+Here you go. ::He gives you a combat knife.::<end>
+
+=>a103_original
+I'll take a combat glove.<end>
+
+=>a103
+I'll take a combat glove.<end>
+
+=>q104_original
+Here you go. ::He gives you a combat glove.::<end>
+
+=>q104
+Here you go. ::He gives you a combat glove.::<end>
+
+=>a105_original
+We shouldn't relax too much, the Protectorate is still strong in South Underrail.<end>
+
+=>a105
+We shouldn't relax too much, the Protectorate is still strong in South Underrail.<end>
+
+=>q106_original
+Sure, you've a point there... But, the peeps need a bit of a celebration 'cause we smashed the Cans like no big deal!<end>
+
+=>q106
+Sure, you've a point there... But, the peeps need a bit of a celebration 'cause we smashed the Cans like no big deal!<end>
+
+=>a107_original
+If it wasn't for me, you'd all be sitting in this hole doing nuthin'.<end>
+
+=>a107
+If it wasn't for me, you'd all be sitting in this hole doing nuthin'.<end>
+
+=>q108_original
+Erm... ::He laughs.:: For a second there I though you were serious, you silly bastard!<end>
+
+=>q108
+Erm... ::He laughs.:: For a second there I though you were serious, you silly bastard!<end>
+
+=>q109_original
+::The man removes his mask as soon as you come near him. He smiles after doing so, displaying an admirable set of rotten teeth springing from a rectangular jaw covered with a several days old beard. His clothes are patchy in some and torn in other places. As for his words, they are carried by a rough-sounding but unmistakably friendly voice.::
+
+Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket, and if it wasn't for me, all these derailed peeps would've been taking on the Cans with nuthin' but rocks and a bit of hope! ::He laughs.::<end>
+
+=>q109
+::The man removes his mask as soon as you come near him. He smiles after doing so, displaying an admirable set of rotten teeth springing from a rectangular jaw covered with a several days old beard. His clothes are patchy in some and torn in other places. As for his words, they are carried by a rough-sounding but unmistakably friendly voice.::
+
+Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket, and if it wasn't for me, all these derailed peeps would've been taking on the Cans with nuthin' but rocks and a bit of hope! ::He laughs.::<end>
+
+=>q110_original
+I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
+
+=>q110
+I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
+
+=>a111_original
+Thank you, but it wasn't exactly like that...<end>
+
+=>a111
+Thank you, but it wasn't exactly like that...<end>
+
+=>q112_original
+Don't be so humble, you silly bastard. Brag! Brag until everyone gives you *the* look! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q112
+Don't be so humble, you silly bastard. Brag! Brag until everyone gives you *the* look! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+Yeah, I'm cool and I know it! But please, don't stop...<end>
+
+=>a114
+Yeah, I'm cool and I know it! But please, don't stop...<end>
+
+=>q115_original
+::He laughs.:: I'd have to stop if I want to give you your reward. I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q115
+::He laughs.:: I'd have to stop if I want to give you your reward. I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>a116_original
+I'm just here for the stuff.<end>
+
+=>a116
+I'm just here for the stuff.<end>
+
+=>q117_original
+::He laughs.:: Coming right up! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q117
+::He laughs.:: Coming right up! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q118_original
+I sell all sorts of stuff - good stuff, so feel free to spend some charons! :: He laughs.::<end>
+
+=>q118
+I sell all sorts of stuff - good stuff, so feel free to spend some charons! :: He laughs.::<end>
+
+=>q119_original
+You vicious bastard! ::He laughs.:: I heard what you did to those bleedin' Lurkers! You strolled right into their turf and busted out our pals!<end>
+
+=>q119
+You vicious bastard! ::He laughs.:: I heard what you did to those bleedin' Lurkers! You strolled right into their turf and busted out our pals!<end>
+
+=>q120_original
+I got some new stuff you might wanna take a look at 'ere. Make sure you've the charons ready, of course!<end>
+
+=>q120
+I got some new stuff you might wanna take a look at 'ere. Make sure you've the charons ready, of course!<end>
+
+=>a121_original
+Let's check it out. ::Barter.::<end>
+
+=>a121
+Let's check it out. ::Barter.::<end>
+
+=>a122_original
+I wanted to ask you something first.<end>
+
+=>a122
+I wanted to ask you something first.<end>
+
+=>q123_original
+Whacha wanna ask me?<end>
+
+=>q123
+Whacha wanna ask me?<end>
+
+=>q124_original
+Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
+
+=>q124
+Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
+
+=>q125_original
+Just kidd'n! <end>
+
+=>q125
+Just kidd'n! <end>
+
+=>q126_original
+Whatcha need?<end>
+
+=>q126
+Whatcha need?<end>
+

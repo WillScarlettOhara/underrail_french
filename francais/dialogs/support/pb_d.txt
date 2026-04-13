@@ -1,144 +1,144 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Call 'em out if you see 'em.<end>
-
-=>q3
-Call 'em out if you see 'em.<end>
-
-=>q4_original
-Vessel secured.<end>
-
-=>q4
-Vessel secured.<end>
-
-=>q5_original
-Got nothing on visual.<end>
-
-=>q5
-Got nothing on visual.<end>
-
-=>q6_original
-Systems functional.<end>
-
-=>q6
-Systems functional.<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>q8_original
-Beat it, little $(#man/girl).<end>
-
-=>q8
-Beat it, little $(#man/girl).<end>
-
-=>q9_original
-::He aims at you.:: Move.<end>
-
-=>q9
-::He aims at you.:: Move.<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>q11_original
-Move aside, little $(#man/girl). You don't wanna get squashed!<end>
-
-=>q11
-Move aside, little $(#man/girl). You don't wanna get squashed!<end>
-
-=>q12_original
-Make way for the Dreadnought!<end>
-
-=>q12
-Make way for the Dreadnought!<end>
-
-=>q13_original
-The cockpit is hermetically sealed.<end>
-
-=>q13
-The cockpit is hermetically sealed.<end>
-
-=>q14_original
-They need a bigger boat.<end>
-
-=>q14
-They need a bigger boat.<end>
-
-=>q15_original
-Go ahead, TACCOM...<end>
-
-=>q15
-Go ahead, TACCOM...<end>
-
-=>q16_original
-Someone bothering you? You point and I'll shoot.<end>
-
-=>q16
-Someone bothering you? You point and I'll shoot.<end>
-
-=>q17_original
-You like this beautiful machine? Want to pilot one? Join the Protectorate!<end>
-
-=>q17
-You like this beautiful machine? Want to pilot one? Join the Protectorate!<end>
-
-=>q18_original
-::Fires up the drill and laughs diabolically.::<end>
-
-=>q18
-::Fires up the drill and laughs diabolically.::<end>
-
-=>q19_original
-We are the symbol of Protectorate might.<end>
-
-=>q19
-We are the symbol of Protectorate might.<end>
-
-=>q20_original
-The SBA-75 minigun can fire up to eight thousand rounds per minute. Nothing survives the bullet storm! ::Laughs.::<end>
-
-=>q20
-The SBA-75 minigun can fire up to eight thousand rounds per minute. Nothing survives the bullet storm! ::Laughs.::<end>
-
-=>q21_original
-Got this area covered on my own. The rest of the troops are just for decoration.<end>
-
-=>q21
-Got this area covered on my own. The rest of the troops are just for decoration.<end>
-
-=>q22_original
-I am death incarnate.<end>
-
-=>q22
-I am death incarnate.<end>
-
-=>q23_original
-All systems up and running.<end>
-
-=>q23
-All systems up and running.<end>
-
-=>q24_original
-Target acquired. ::Laughs.:: Just kidding... or am I?<end>
-
-=>q24
-Target acquired. ::Laughs.:: Just kidding... or am I?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Call 'em out if you see 'em.<end>
+
+=>q3
+Call 'em out if you see 'em.<end>
+
+=>q4_original
+Vessel secured.<end>
+
+=>q4
+Vessel secured.<end>
+
+=>q5_original
+Got nothing on visual.<end>
+
+=>q5
+Got nothing on visual.<end>
+
+=>q6_original
+Systems functional.<end>
+
+=>q6
+Systems functional.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Beat it, little $(#man/girl).<end>
+
+=>q8
+Beat it, little $(#man/girl).<end>
+
+=>q9_original
+::He aims at you.:: Move.<end>
+
+=>q9
+::He aims at you.:: Move.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+Move aside, little $(#man/girl). You don't wanna get squashed!<end>
+
+=>q11
+Move aside, little $(#man/girl). You don't wanna get squashed!<end>
+
+=>q12_original
+Make way for the Dreadnought!<end>
+
+=>q12
+Make way for the Dreadnought!<end>
+
+=>q13_original
+The cockpit is hermetically sealed.<end>
+
+=>q13
+The cockpit is hermetically sealed.<end>
+
+=>q14_original
+They need a bigger boat.<end>
+
+=>q14
+They need a bigger boat.<end>
+
+=>q15_original
+Go ahead, TACCOM...<end>
+
+=>q15
+Go ahead, TACCOM...<end>
+
+=>q16_original
+Someone bothering you? You point and I'll shoot.<end>
+
+=>q16
+Someone bothering you? You point and I'll shoot.<end>
+
+=>q17_original
+You like this beautiful machine? Want to pilot one? Join the Protectorate!<end>
+
+=>q17
+You like this beautiful machine? Want to pilot one? Join the Protectorate!<end>
+
+=>q18_original
+::Fires up the drill and laughs diabolically.::<end>
+
+=>q18
+::Fires up the drill and laughs diabolically.::<end>
+
+=>q19_original
+We are the symbol of Protectorate might.<end>
+
+=>q19
+We are the symbol of Protectorate might.<end>
+
+=>q20_original
+The SBA-75 minigun can fire up to eight thousand rounds per minute. Nothing survives the bullet storm! ::Laughs.::<end>
+
+=>q20
+The SBA-75 minigun can fire up to eight thousand rounds per minute. Nothing survives the bullet storm! ::Laughs.::<end>
+
+=>q21_original
+Got this area covered on my own. The rest of the troops are just for decoration.<end>
+
+=>q21
+Got this area covered on my own. The rest of the troops are just for decoration.<end>
+
+=>q22_original
+I am death incarnate.<end>
+
+=>q22
+I am death incarnate.<end>
+
+=>q23_original
+All systems up and running.<end>
+
+=>q23
+All systems up and running.<end>
+
+=>q24_original
+Target acquired. ::Laughs.:: Just kidding... or am I?<end>
+
+=>q24
+Target acquired. ::Laughs.:: Just kidding... or am I?<end>
+

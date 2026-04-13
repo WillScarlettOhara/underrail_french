@@ -1,108 +1,108 @@
-=>q1_original
-This is a restricted area, $(#jack/sister). Beat it.<end>
-
-=>q1
-This is a restricted area, $(#jack/sister). Beat it.<end>
-
-=>q2_original
-The recent pirate skirmish is nothing to worry about. We still own the waterways.<end>
-
-=>q2
-The recent pirate skirmish is nothing to worry about. We still own the waterways.<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-Everyone's... dead.<end>
-
-=>q4
-Everyone's... dead.<end>
-
-=>q5_original
-Beat it!<end>
-
-=>q5
-Beat it!<end>
-
-=>q6_original
-I'm not in the mood for chit-chat.<end>
-
-=>q6
-I'm not in the mood for chit-chat.<end>
-
-=>q7_original
-::Remains silent.::<end>
-
-=>q7
-::Remains silent.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-How's it goin', $(#jack/sister)?<end>
-
-=>q9
-How's it goin', $(#jack/sister)?<end>
-
-=>q10_original
-Watch your step, $(#jack/sister).<end>
-
-=>q10
-Watch your step, $(#jack/sister).<end>
-
-=>q11_original
-Got my eye on you.<end>
-
-=>q11
-Got my eye on you.<end>
-
-=>q12_original
-Hey.<end>
-
-=>q12
-Hey.<end>
-
-=>q13_original
-What?<end>
-
-=>q13
-What?<end>
-
-=>q14_original
-Get lost, squeezer.<end>
-
-=>q14
-Get lost, squeezer.<end>
-
-=>q15_original
-::Spits aside.::<end>
-
-=>q15
-::Spits aside.::<end>
-
-=>q16_original
-Couple of Drones ran the Cans out of SRO. Heh.<end>
-
-=>q16
-Couple of Drones ran the Cans out of SRO. Heh.<end>
-
-=>q17_original
-We wrecked those Scrapper quakers.<end>
-
-=>q17
-We wrecked those Scrapper quakers.<end>
-
-=>q18_original
-Everythin's fine on The Rig *despite* what you may've heard.<end>
-
-=>q18
-Everythin's fine on The Rig *despite* what you may've heard.<end>
-
+=>q1_original
+This is a restricted area, $(#jack/sister). Beat it.<end>
+
+=>q1
+This is a restricted area, $(#jack/sister). Beat it.<end>
+
+=>q2_original
+The recent pirate skirmish is nothing to worry about. We still own the waterways.<end>
+
+=>q2
+The recent pirate skirmish is nothing to worry about. We still own the waterways.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Everyone's... dead.<end>
+
+=>q4
+Everyone's... dead.<end>
+
+=>q5_original
+Beat it!<end>
+
+=>q5
+Beat it!<end>
+
+=>q6_original
+I'm not in the mood for chit-chat.<end>
+
+=>q6
+I'm not in the mood for chit-chat.<end>
+
+=>q7_original
+::Remains silent.::<end>
+
+=>q7
+::Remains silent.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+How's it goin', $(#jack/sister)?<end>
+
+=>q9
+How's it goin', $(#jack/sister)?<end>
+
+=>q10_original
+Watch your step, $(#jack/sister).<end>
+
+=>q10
+Watch your step, $(#jack/sister).<end>
+
+=>q11_original
+Got my eye on you.<end>
+
+=>q11
+Got my eye on you.<end>
+
+=>q12_original
+Hey.<end>
+
+=>q12
+Hey.<end>
+
+=>q13_original
+What?<end>
+
+=>q13
+What?<end>
+
+=>q14_original
+Get lost, squeezer.<end>
+
+=>q14
+Get lost, squeezer.<end>
+
+=>q15_original
+::Spits aside.::<end>
+
+=>q15
+::Spits aside.::<end>
+
+=>q16_original
+Couple of Drones ran the Cans out of SRO. Heh.<end>
+
+=>q16
+Couple of Drones ran the Cans out of SRO. Heh.<end>
+
+=>q17_original
+We wrecked those Scrapper quakers.<end>
+
+=>q17
+We wrecked those Scrapper quakers.<end>
+
+=>q18_original
+Everythin's fine on The Rig *despite* what you may've heard.<end>
+
+=>q18
+Everythin's fine on The Rig *despite* what you may've heard.<end>
+

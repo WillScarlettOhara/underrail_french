@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Yes?<end>
-
-=>q2
-Yes?<end>
-
-=>q3_original
-I'm workin', I'm workin'.<end>
-
-=>q3
-I'm workin', I'm workin'.<end>
-
-=>q4_original
-What's goin' on in Core City? Them Tunnelers still there, eh?<end>
-
-=>q4
-What's goin' on in Core City? Them Tunnelers still there, eh?<end>
-
-=>q5_original
-I overheard there was somethin' happenin' in Tchortist institute.<end>
-
-=>q5
-I overheard there was somethin' happenin' in Tchortist institute.<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>q7_original
-Hello $(#friend/beautiful).<end>
-
-=>q7
-Hello $(#friend/beautiful).<end>
-
-=>q8_original
-My back is killin' me.<end>
-
-=>q8
-My back is killin' me.<end>
-
-=>q9_original
-Why are you here?<end>
-
-=>q9
-Why are you here?<end>
-
-=>q10_original
-Wanna help me carry some crates?<end>
-
-=>q10
-Wanna help me carry some crates?<end>
-
-=>q11_original
-I better get back to work, the guards are givin' me strange looks.<end>
-
-=>q11
-I better get back to work, the guards are givin' me strange looks.<end>
-
-=>q12_original
-::A loud cracking sound is heard when moving arm.:: This can't be good...<end>
-
-=>q12
-::A loud cracking sound is heard when moving arm.:: This can't be good...<end>
-
-=>q13_original
-A moment of rest...<end>
-
-=>q13
-A moment of rest...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Yes?<end>
+
+=>q2
+Yes?<end>
+
+=>q3_original
+I'm workin', I'm workin'.<end>
+
+=>q3
+I'm workin', I'm workin'.<end>
+
+=>q4_original
+What's goin' on in Core City? Them Tunnelers still there, eh?<end>
+
+=>q4
+What's goin' on in Core City? Them Tunnelers still there, eh?<end>
+
+=>q5_original
+I overheard there was somethin' happenin' in Tchortist institute.<end>
+
+=>q5
+I overheard there was somethin' happenin' in Tchortist institute.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+Hello $(#friend/beautiful).<end>
+
+=>q7
+Hello $(#friend/beautiful).<end>
+
+=>q8_original
+My back is killin' me.<end>
+
+=>q8
+My back is killin' me.<end>
+
+=>q9_original
+Why are you here?<end>
+
+=>q9
+Why are you here?<end>
+
+=>q10_original
+Wanna help me carry some crates?<end>
+
+=>q10
+Wanna help me carry some crates?<end>
+
+=>q11_original
+I better get back to work, the guards are givin' me strange looks.<end>
+
+=>q11
+I better get back to work, the guards are givin' me strange looks.<end>
+
+=>q12_original
+::A loud cracking sound is heard when moving arm.:: This can't be good...<end>
+
+=>q12
+::A loud cracking sound is heard when moving arm.:: This can't be good...<end>
+
+=>q13_original
+A moment of rest...<end>
+
+=>q13
+A moment of rest...<end>
+

@@ -1,74 +1,74 @@
-=>q1_original
-::The screen is black.::<end>
-
-=>q1
-::The screen is black.::<end>
-
-=>q2_original
-::The console is unresponsive to your input.::<end>
-
-=>q2
-::The console is unresponsive to your input.::<end>
-
-=>q3_original
-::Warning! Intruder alert! Security bots dispatched!
-
-Please enter appropriate security code for identifier [p2ujY90OjHqfF6] into the field below to disable all security measures:::<end>
-
-=>q3
-::Warning! Intruder alert! Security bots dispatched!
-
-Please enter appropriate security code for identifier [p2ujY90OjHqfF6] into the field below to disable all security measures:::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::Type something random.::<end>
-
-=>a5
-::Type something random.::<end>
-
-=>q6_original
-::Access denied.::<end>
-
-=>q6
-::Access denied.::<end>
-
-=>a7_original
-::[Hacking] Attempt to hack the console and disable security.::<end>
-
-=>a7
-::[Hacking] Attempt to hack the console and disable security.::<end>
-
-=>q8_original
-::Ove\4Drriding...
-
-Security M,<system disabled...
-All active units returning t$82o stations
-U`12:_- opened.
-K@o86>?~#$d$#JIs%&::<end>
-
-=>q8
-::Ove\4Drriding...
-
-Security M,<system disabled...
-All active units returning t$82o stations
-U`12:_- opened.
-K@o86>?~#$d$#JIs%&::<end>
-
-=>q9_original
-::The console suddenly shuts down.::<end>
-
-=>q9
-::The console suddenly shuts down.::<end>
-
-=>a10_original
-::Exit::<end>
-
-=>a10
-::Exit::<end>
-
+=>q1_original
+::The screen is black.::<end>
+
+=>q1
+::The screen is black.::<end>
+
+=>q2_original
+::The console is unresponsive to your input.::<end>
+
+=>q2
+::The console is unresponsive to your input.::<end>
+
+=>q3_original
+::Warning! Intruder alert! Security bots dispatched!
+
+Please enter appropriate security code for identifier [p2ujY90OjHqfF6] into the field below to disable all security measures:::<end>
+
+=>q3
+::Warning! Intruder alert! Security bots dispatched!
+
+Please enter appropriate security code for identifier [p2ujY90OjHqfF6] into the field below to disable all security measures:::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Type something random.::<end>
+
+=>a5
+::Type something random.::<end>
+
+=>q6_original
+::Access denied.::<end>
+
+=>q6
+::Access denied.::<end>
+
+=>a7_original
+::[Hacking] Attempt to hack the console and disable security.::<end>
+
+=>a7
+::[Hacking] Attempt to hack the console and disable security.::<end>
+
+=>q8_original
+::Ove\4Drriding...
+
+Security M,<system disabled...
+All active units returning t$82o stations
+U`12:_- opened.
+K@o86>?~#$d$#JIs%&::<end>
+
+=>q8
+::Ove\4Drriding...
+
+Security M,<system disabled...
+All active units returning t$82o stations
+U`12:_- opened.
+K@o86>?~#$d$#JIs%&::<end>
+
+=>q9_original
+::The console suddenly shuts down.::<end>
+
+=>q9
+::The console suddenly shuts down.::<end>
+
+=>a10_original
+::Exit::<end>
+
+=>a10
+::Exit::<end>
+

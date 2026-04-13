@@ -1,184 +1,184 @@
-=>q1_original
-::Main menu::<end>
-
-=>q1
-::Main menu::<end>
-
-=>a2_original
-::Documents::<end>
-
-=>a2
-::Documents::<end>
-
-=>q3_original
-::Documents::<end>
-
-=>q3
-::Documents::<end>
-
-=>a4_original
-::Research Log 1::<end>
-
-=>a4
-::Research Log 1::<end>
-
-=>q5_original
-::Research Log 1:
-
-We are examining what appears to be some sort of electronic device. It's an irregular polyhedron resembling a number of concentric intersected cubes of various sizes. It appears to be made from a very light semi-metallic material. Its color is bluish dark gray.
-
-The artifact might feature movable parts, but none of them responded to gentle pressure so no further attempts to reconfigure the device were made in fear of damaging it.
-
-The artifact features one to six unrecognized symbols on each of its many sides. Some sides also feature sockets, none of which comply with Biocorp or previous standards.
-::<end>
-
-=>q5
-::Research Log 1:
-
-We are examining what appears to be some sort of electronic device. It's an irregular polyhedron resembling a number of concentric intersected cubes of various sizes. It appears to be made from a very light semi-metallic material. Its color is bluish dark gray.
-
-The artifact might feature movable parts, but none of them responded to gentle pressure so no further attempts to reconfigure the device were made in fear of damaging it.
-
-The artifact features one to six unrecognized symbols on each of its many sides. Some sides also feature sockets, none of which comply with Biocorp or previous standards.
-::<end>
-
-=>a6_original
-::Next::<end>
-
-=>a6
-::Next::<end>
-
-=>q7_original
-::Research Log 2:
-
-The artifact does not appear to be emitting radiation or electromagnetic waves. However, due to us having a reason to believe that this object is still somehow traceable at long distances, we have taken the precaution of keeping it at a second or higher level of isolation at all times.
-
-::<end>
-
-=>q7
-::Research Log 2:
-
-The artifact does not appear to be emitting radiation or electromagnetic waves. However, due to us having a reason to believe that this object is still somehow traceable at long distances, we have taken the precaution of keeping it at a second or higher level of isolation at all times.
-
-::<end>
-
-=>a8_original
-::Previous::<end>
-
-=>a8
-::Previous::<end>
-
-=>a9_original
-::Next::<end>
-
-=>a9
-::Next::<end>
-
-=>q10_original
-::Research Log 3:
-
-Most of the sockets appear to be non-functional or dormant. However, a number of sockets, if engaged in a way that disables their safety breaks, act as extremely high-voltage, high direct current power sources. This laboratory does not currently possess the equipment to harvest this power or even safely experiment on it further.
-
-Since we cannot, at this point, trace the origin or explain the manufacturing process of this extremely powerful device, it can be safely categorized as a xeno-artifact.
-
-::<end>
-
-=>q10
-::Research Log 3:
-
-Most of the sockets appear to be non-functional or dormant. However, a number of sockets, if engaged in a way that disables their safety breaks, act as extremely high-voltage, high direct current power sources. This laboratory does not currently possess the equipment to harvest this power or even safely experiment on it further.
-
-Since we cannot, at this point, trace the origin or explain the manufacturing process of this extremely powerful device, it can be safely categorized as a xeno-artifact.
-
-::<end>
-
-=>a11_original
-::Previous::<end>
-
-=>a11
-::Previous::<end>
-
-=>a12_original
-::Next::<end>
-
-=>a12
-::Next::<end>
-
-=>q13_original
-::Research Log 4:
-
-Referencing previous research documents on various xeno-artifacts revealed the meaning of two symbols: one of which denotes direct electric current (this symbol appears, among other places, near the active sockets). 
-
-The other one appears in a single spot near an inactive socket and is a bit less straight-forward since various researchers and xenoarcheologists cannot agree upon its meaning, but according to them it signifies gravitational field, space-time curvature, singularity, or one of the related phenomena such as event horizon, or a combination of these.
-
-::<end>
-
-=>q13
-::Research Log 4:
-
-Referencing previous research documents on various xeno-artifacts revealed the meaning of two symbols: one of which denotes direct electric current (this symbol appears, among other places, near the active sockets). 
-
-The other one appears in a single spot near an inactive socket and is a bit less straight-forward since various researchers and xenoarcheologists cannot agree upon its meaning, but according to them it signifies gravitational field, space-time curvature, singularity, or one of the related phenomena such as event horizon, or a combination of these.
-
-::<end>
-
-=>a14_original
-::Previous::<end>
-
-=>a14
-::Previous::<end>
-
-=>a15_original
-::Back to Documents::<end>
-
-=>a15
-::Back to Documents::<end>
-
-=>a16_original
-::Back to Documents::<end>
-
-=>a16
-::Back to Documents::<end>
-
-=>a17_original
-::Back to Documents::<end>
-
-=>a17
-::Back to Documents::<end>
-
-=>a18_original
-::Back to Documents::<end>
-
-=>a18
-::Back to Documents::<end>
-
-=>a19_original
-::Research Log 2::<end>
-
-=>a19
-::Research Log 2::<end>
-
-=>a20_original
-::Research Log 3::<end>
-
-=>a20
-::Research Log 3::<end>
-
-=>a21_original
-::Research Log 4::<end>
-
-=>a21
-::Research Log 4::<end>
-
-=>a22_original
-::Back::<end>
-
-=>a22
-::Back::<end>
-
-=>a23_original
-::Exit::<end>
-
-=>a23
-::Exit::<end>
-
+=>q1_original
+::Main menu::<end>
+
+=>q1
+::Main menu::<end>
+
+=>a2_original
+::Documents::<end>
+
+=>a2
+::Documents::<end>
+
+=>q3_original
+::Documents::<end>
+
+=>q3
+::Documents::<end>
+
+=>a4_original
+::Research Log 1::<end>
+
+=>a4
+::Research Log 1::<end>
+
+=>q5_original
+::Research Log 1:
+
+We are examining what appears to be some sort of electronic device. It's an irregular polyhedron resembling a number of concentric intersected cubes of various sizes. It appears to be made from a very light semi-metallic material. Its color is bluish dark gray.
+
+The artifact might feature movable parts, but none of them responded to gentle pressure so no further attempts to reconfigure the device were made in fear of damaging it.
+
+The artifact features one to six unrecognized symbols on each of its many sides. Some sides also feature sockets, none of which comply with Biocorp or previous standards.
+::<end>
+
+=>q5
+::Research Log 1:
+
+We are examining what appears to be some sort of electronic device. It's an irregular polyhedron resembling a number of concentric intersected cubes of various sizes. It appears to be made from a very light semi-metallic material. Its color is bluish dark gray.
+
+The artifact might feature movable parts, but none of them responded to gentle pressure so no further attempts to reconfigure the device were made in fear of damaging it.
+
+The artifact features one to six unrecognized symbols on each of its many sides. Some sides also feature sockets, none of which comply with Biocorp or previous standards.
+::<end>
+
+=>a6_original
+::Next::<end>
+
+=>a6
+::Next::<end>
+
+=>q7_original
+::Research Log 2:
+
+The artifact does not appear to be emitting radiation or electromagnetic waves. However, due to us having a reason to believe that this object is still somehow traceable at long distances, we have taken the precaution of keeping it at a second or higher level of isolation at all times.
+
+::<end>
+
+=>q7
+::Research Log 2:
+
+The artifact does not appear to be emitting radiation or electromagnetic waves. However, due to us having a reason to believe that this object is still somehow traceable at long distances, we have taken the precaution of keeping it at a second or higher level of isolation at all times.
+
+::<end>
+
+=>a8_original
+::Previous::<end>
+
+=>a8
+::Previous::<end>
+
+=>a9_original
+::Next::<end>
+
+=>a9
+::Next::<end>
+
+=>q10_original
+::Research Log 3:
+
+Most of the sockets appear to be non-functional or dormant. However, a number of sockets, if engaged in a way that disables their safety breaks, act as extremely high-voltage, high direct current power sources. This laboratory does not currently possess the equipment to harvest this power or even safely experiment on it further.
+
+Since we cannot, at this point, trace the origin or explain the manufacturing process of this extremely powerful device, it can be safely categorized as a xeno-artifact.
+
+::<end>
+
+=>q10
+::Research Log 3:
+
+Most of the sockets appear to be non-functional or dormant. However, a number of sockets, if engaged in a way that disables their safety breaks, act as extremely high-voltage, high direct current power sources. This laboratory does not currently possess the equipment to harvest this power or even safely experiment on it further.
+
+Since we cannot, at this point, trace the origin or explain the manufacturing process of this extremely powerful device, it can be safely categorized as a xeno-artifact.
+
+::<end>
+
+=>a11_original
+::Previous::<end>
+
+=>a11
+::Previous::<end>
+
+=>a12_original
+::Next::<end>
+
+=>a12
+::Next::<end>
+
+=>q13_original
+::Research Log 4:
+
+Referencing previous research documents on various xeno-artifacts revealed the meaning of two symbols: one of which denotes direct electric current (this symbol appears, among other places, near the active sockets). 
+
+The other one appears in a single spot near an inactive socket and is a bit less straight-forward since various researchers and xenoarcheologists cannot agree upon its meaning, but according to them it signifies gravitational field, space-time curvature, singularity, or one of the related phenomena such as event horizon, or a combination of these.
+
+::<end>
+
+=>q13
+::Research Log 4:
+
+Referencing previous research documents on various xeno-artifacts revealed the meaning of two symbols: one of which denotes direct electric current (this symbol appears, among other places, near the active sockets). 
+
+The other one appears in a single spot near an inactive socket and is a bit less straight-forward since various researchers and xenoarcheologists cannot agree upon its meaning, but according to them it signifies gravitational field, space-time curvature, singularity, or one of the related phenomena such as event horizon, or a combination of these.
+
+::<end>
+
+=>a14_original
+::Previous::<end>
+
+=>a14
+::Previous::<end>
+
+=>a15_original
+::Back to Documents::<end>
+
+=>a15
+::Back to Documents::<end>
+
+=>a16_original
+::Back to Documents::<end>
+
+=>a16
+::Back to Documents::<end>
+
+=>a17_original
+::Back to Documents::<end>
+
+=>a17
+::Back to Documents::<end>
+
+=>a18_original
+::Back to Documents::<end>
+
+=>a18
+::Back to Documents::<end>
+
+=>a19_original
+::Research Log 2::<end>
+
+=>a19
+::Research Log 2::<end>
+
+=>a20_original
+::Research Log 3::<end>
+
+=>a20
+::Research Log 3::<end>
+
+=>a21_original
+::Research Log 4::<end>
+
+=>a21
+::Research Log 4::<end>
+
+=>a22_original
+::Back::<end>
+
+=>a22
+::Back::<end>
+
+=>a23_original
+::Exit::<end>
+
+=>a23
+::Exit::<end>
+

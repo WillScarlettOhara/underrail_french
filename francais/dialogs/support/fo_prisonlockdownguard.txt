@@ -1,46 +1,46 @@
-=>q1_original
-::A guard stops you. He takes a  few seconds to cough before addressing you with a hoarse, grinding voice.::
-
-Excuse me, but I'm going to have to ask you to leave the area. The prison is under lockdown and no unauthorized personnel is allowed inside.<end>
-
-=>q1
-::A guard stops you. He takes a  few seconds to cough before addressing you with a hoarse, grinding voice.::
-
-Excuse me, but I'm going to have to ask you to leave the area. The prison is under lockdown and no unauthorized personnel is allowed inside.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-What is going on?<end>
-
-=>a3
-What is going on?<end>
-
-=>q4_original
-That is classified information.<end>
-
-=>q4
-That is classified information.<end>
-
-=>q5_original
-Please leave the area.<end>
-
-=>q5
-Please leave the area.<end>
-
-=>a6_original
-Goodbye.<end>
-
-=>a6
-Goodbye.<end>
-
-=>q7_original
-Need I remind you that the area is off limits to unauthorized personnel? ::He coughs.::<end>
-
-=>q7
-Need I remind you that the area is off limits to unauthorized personnel? ::He coughs.::<end>
-
+=>q1_original
+::A guard stops you. He takes a  few seconds to cough before addressing you with a hoarse, grinding voice.::
+
+Excuse me, but I'm going to have to ask you to leave the area. The prison is under lockdown and no unauthorized personnel is allowed inside.<end>
+
+=>q1
+::A guard stops you. He takes a  few seconds to cough before addressing you with a hoarse, grinding voice.::
+
+Excuse me, but I'm going to have to ask you to leave the area. The prison is under lockdown and no unauthorized personnel is allowed inside.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What is going on?<end>
+
+=>a3
+What is going on?<end>
+
+=>q4_original
+That is classified information.<end>
+
+=>q4
+That is classified information.<end>
+
+=>q5_original
+Please leave the area.<end>
+
+=>q5
+Please leave the area.<end>
+
+=>a6_original
+Goodbye.<end>
+
+=>a6
+Goodbye.<end>
+
+=>q7_original
+Need I remind you that the area is off limits to unauthorized personnel? ::He coughs.::<end>
+
+=>q7
+Need I remind you that the area is off limits to unauthorized personnel? ::He coughs.::<end>
+

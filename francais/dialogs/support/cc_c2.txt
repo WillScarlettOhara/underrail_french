@@ -1,96 +1,96 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Wow, you really zoned out that guy.<end>
-
-=>q2
-Wow, you really zoned out that guy.<end>
-
-=>q3_original
-Damn, that guy, like, turned old in an instant. Hardcore, man.<end>
-
-=>q3
-Damn, that guy, like, turned old in an instant. Hardcore, man.<end>
-
-=>q4_original
-Run, Faceless, run!<end>
-
-=>q4
-Run, Faceless, run!<end>
-
-=>q5_original
-Arena! Arena!<end>
-
-=>q5
-Arena! Arena!<end>
-
-=>q6_original
-I dream about seeing the fight between Mad Butcher and the Belle Sisters! That would be *so* hardcore!<end>
-
-=>q6
-I dream about seeing the fight between Mad Butcher and the Belle Sisters! That would be *so* hardcore!<end>
-
-=>q7_original
-On to the next room!<end>
-
-=>q7
-On to the next room!<end>
-
-=>q8_original
-You ain't from around here?<end>
-
-=>q8
-You ain't from around here?<end>
-
-=>q9_original
-Heard what happened at the Talloski Manor? Oh, dear...<end>
-
-=>q9
-Heard what happened at the Talloski Manor? Oh, dear...<end>
-
-=>q10_original
-Can't wait to go to the Arena again!<end>
-
-=>q10
-Can't wait to go to the Arena again!<end>
-
-=>q11_original
-Heard about that Hercules drug that makes you tough? Hardcore.<end>
-
-=>q11
-Heard about that Hercules drug that makes you tough? Hardcore.<end>
-
-=>q12_original
-Heard about the sneaky midget?<end>
-
-=>q12
-Heard about the sneaky midget?<end>
-
-=>q13_original
-Greetings.<end>
-
-=>q13
-Greetings.<end>
-
-=>q14_original
-Watch your step in Core City. There are so many places you could fall off and, you know, get injured.<end>
-
-=>q14
-Watch your step in Core City. There are so many places you could fall off and, you know, get injured.<end>
-
-=>q15_original
-Heh, you really, kinda, sorta remind me of the new Invictus.<end>
-
-=>q15
-Heh, you really, kinda, sorta remind me of the new Invictus.<end>
-
-=>q16_original
-Those Tchortists were one *freaky* bunch. Glad they're gone.<end>
-
-=>q16
-Those Tchortists were one *freaky* bunch. Glad they're gone.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Wow, you really zoned out that guy.<end>
+
+=>q2
+Wow, you really zoned out that guy.<end>
+
+=>q3_original
+Damn, that guy, like, turned old in an instant. Hardcore, man.<end>
+
+=>q3
+Damn, that guy, like, turned old in an instant. Hardcore, man.<end>
+
+=>q4_original
+Run, Faceless, run!<end>
+
+=>q4
+Run, Faceless, run!<end>
+
+=>q5_original
+Arena! Arena!<end>
+
+=>q5
+Arena! Arena!<end>
+
+=>q6_original
+I dream about seeing the fight between Mad Butcher and the Belle Sisters! That would be *so* hardcore!<end>
+
+=>q6
+I dream about seeing the fight between Mad Butcher and the Belle Sisters! That would be *so* hardcore!<end>
+
+=>q7_original
+On to the next room!<end>
+
+=>q7
+On to the next room!<end>
+
+=>q8_original
+You ain't from around here?<end>
+
+=>q8
+You ain't from around here?<end>
+
+=>q9_original
+Heard what happened at the Talloski Manor? Oh, dear...<end>
+
+=>q9
+Heard what happened at the Talloski Manor? Oh, dear...<end>
+
+=>q10_original
+Can't wait to go to the Arena again!<end>
+
+=>q10
+Can't wait to go to the Arena again!<end>
+
+=>q11_original
+Heard about that Hercules drug that makes you tough? Hardcore.<end>
+
+=>q11
+Heard about that Hercules drug that makes you tough? Hardcore.<end>
+
+=>q12_original
+Heard about the sneaky midget?<end>
+
+=>q12
+Heard about the sneaky midget?<end>
+
+=>q13_original
+Greetings.<end>
+
+=>q13
+Greetings.<end>
+
+=>q14_original
+Watch your step in Core City. There are so many places you could fall off and, you know, get injured.<end>
+
+=>q14
+Watch your step in Core City. There are so many places you could fall off and, you know, get injured.<end>
+
+=>q15_original
+Heh, you really, kinda, sorta remind me of the new Invictus.<end>
+
+=>q15
+Heh, you really, kinda, sorta remind me of the new Invictus.<end>
+
+=>q16_original
+Those Tchortists were one *freaky* bunch. Glad they're gone.<end>
+
+=>q16
+Those Tchortists were one *freaky* bunch. Glad they're gone.<end>
+

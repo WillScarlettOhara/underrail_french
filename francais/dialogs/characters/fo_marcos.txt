@@ -1,406 +1,406 @@
-=>q1_original
-Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
-
-=>q1
-Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
-
-=>q3
-I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
-
-=>q4_original
-'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
-
-Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
-
-=>q4
-'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
-
-Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
-
-=>a5_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a5
-How do you feel now that the mine has been reopened?<end>
-
-=>q6_original
-I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
-
-=>q6
-I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
-
-=>q7_original
-Which is obviously a good thing. ::He coughs.::<end>
-
-=>q7
-Which is obviously a good thing. ::He coughs.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-Who are you?<end>
-
-=>a9
-Who are you?<end>
-
-=>q10_original
-I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
-
-=>q10
-I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
-
-=>a11_original
-$(context.player.Name), nice to meet you.<end>
-
-=>a11
-$(context.player.Name), nice to meet you.<end>
-
-=>q12_original
-Yeah, yeah. Whatcha need?<end>
-
-=>q12
-Yeah, yeah. Whatcha need?<end>
-
-=>a13_original
-$(context.player.Name).<end>
-
-=>a13
-$(context.player.Name).<end>
-
-=>q14_original
-So, whatcha need?<end>
-
-=>q14
-So, whatcha need?<end>
-
-=>a15_original
-Are you Marcos Banti, the mining supervisor?<end>
-
-=>a15
-Are you Marcos Banti, the mining supervisor?<end>
-
-=>q16_original
-Yeah, that's me. ::He coughs.:: Who are you?<end>
-
-=>q16
-Yeah, that's me. ::He coughs.:: Who are you?<end>
-
-=>a17_original
-Can you tell me something about yourself?<end>
-
-=>a17
-Can you tell me something about yourself?<end>
-
-=>q18_original
-'Uh? I can tell you that's none of your business.<end>
-
-=>q18
-'Uh? I can tell you that's none of your business.<end>
-
-=>q19_original
-More questions?<end>
-
-=>q19
-More questions?<end>
-
-=>a20_original
-What can you tell me about Foundry?<end>
-
-=>a20
-What can you tell me about Foundry?<end>
-
-=>q21_original
-Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
-
-=>q21
-Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
-
-=>q22_original
-::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
-
-=>q22
-::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
-
-=>a23_original
-Can you tell me anything about the mine creatures?<end>
-
-=>a23
-Can you tell me anything about the mine creatures?<end>
-
-=>q24_original
-Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
-
-=>q24
-Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
-
-=>q25_original
-Dig what I mean?<end>
-
-=>q25
-Dig what I mean?<end>
-
-=>a26_original
-But your mayor sent me here to talk to you.<end>
-
-=>a26
-But your mayor sent me here to talk to you.<end>
-
-=>q27_original
-'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
-
-=>q27
-'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
-
-=>a28_original
-Can you just tell me what you know about the creatures?<end>
-
-=>a28
-Can you just tell me what you know about the creatures?<end>
-
-=>q29_original
-Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
-
-=>q29
-Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
-
-=>q30_original
-::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
-
-Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
-
-=>q30
-::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
-
-Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
-
-=>a31_original
-I have a captured one right here.<end>
-
-=>a31
-I have a captured one right here.<end>
-
-=>q32_original
-Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
-
-=>q32
-Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
-
-=>q33_original
-Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
-
-=>q33
-Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
-
-=>q34_original
-Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
-
-=>q34
-Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
-
-=>q35_original
-::He puts his glove back on.::
-
-That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
-
-=>q35
-::He puts his glove back on.::
-
-That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
-
-=>a36_original
-I saw them in the mine. What do you know about them?<end>
-
-=>a36
-I saw them in the mine. What do you know about them?<end>
-
-=>a37_original
-I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
-
-=>a37
-I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
-
-=>a38_original
-No, what kind of worms?<end>
-
-=>a38
-No, what kind of worms?<end>
-
-=>q39_original
-But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
-
-=>q39
-But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
-
-=>a40_original
-Don't you already use explosives in mining?<end>
-
-=>a40
-Don't you already use explosives in mining?<end>
-
-=>q41_original
-Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
-
-=>q41
-Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
-
-=>a42_original
-I see. What can you tell me about the creatures themselves?<end>
-
-=>a42
-I see. What can you tell me about the creatures themselves?<end>
-
-=>a43_original
-I dig. Let's talk about something else.<end>
-
-=>a43
-I dig. Let's talk about something else.<end>
-
-=>a44_original
-So, do you have any clue how to deal with the Beast?<end>
-
-=>a44
-So, do you have any clue how to deal with the Beast?<end>
-
-=>q45_original
-::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
-
-=>q45
-::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
-
-=>q46_original
-You dig?<end>
-
-=>q46
-You dig?<end>
-
-=>a47_original
-Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
-
-=>a47
-Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
-
-=>q48_original
-An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
-
-=>q48
-An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
-
-=>q49_original
-In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
-
-=>q49
-In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
-
-=>a50_original
-::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
-
-=>a50
-::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
-
-=>q51_original
-There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
-
-=>q51
-There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
-
-=>a52_original
-::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
-
-=>a52
-::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
-
-=>a53_original
-Thanks. I'll figure something out.<end>
-
-=>a53
-Thanks. I'll figure something out.<end>
-
-=>q54_original
-Anything, 'uh, else you got to ask me?<end>
-
-=>q54
-Anything, 'uh, else you got to ask me?<end>
-
-=>a55_original
-::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
-
-=>a55
-::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
-
-=>a56_original
-See you later.<end>
-
-=>a56
-See you later.<end>
-
-=>q57_original
-Yeah, yeah.<end>
-
-=>q57
-Yeah, yeah.<end>
-
-=>a58_original
-I'll leave you to your work.<end>
-
-=>a58
-I'll leave you to your work.<end>
-
-=>q59_original
-Yeah, yeah.<end>
-
-=>q59
-Yeah, yeah.<end>
-
-=>q60_original
-::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
-
-'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
-
-=>q60
-::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
-
-'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
-
-=>a61_original
-Why is it closed?<end>
-
-=>a61
-Why is it closed?<end>
-
-=>q62_original
-Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
-
-=>q62
-Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
-
-=>a63_original
-You can't stop me from going in there!<end>
-
-=>a63
-You can't stop me from going in there!<end>
-
-=>q64_original
-'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
-
-=>q64
-'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
-
-=>q65_original
-'Uh? Need something?<end>
-
-=>q65
-'Uh? Need something?<end>
-
+=>q1_original
+Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
+
+=>q1
+Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
+
+=>q3
+I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
+
+=>q4_original
+'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
+
+Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
+
+=>q4
+'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
+
+Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
+
+=>a5_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a5
+How do you feel now that the mine has been reopened?<end>
+
+=>q6_original
+I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
+
+=>q6
+I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
+
+=>q7_original
+Which is obviously a good thing. ::He coughs.::<end>
+
+=>q7
+Which is obviously a good thing. ::He coughs.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Who are you?<end>
+
+=>a9
+Who are you?<end>
+
+=>q10_original
+I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
+
+=>q10
+I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
+
+=>a11_original
+$(context.player.Name), nice to meet you.<end>
+
+=>a11
+$(context.player.Name), nice to meet you.<end>
+
+=>q12_original
+Yeah, yeah. Whatcha need?<end>
+
+=>q12
+Yeah, yeah. Whatcha need?<end>
+
+=>a13_original
+$(context.player.Name).<end>
+
+=>a13
+$(context.player.Name).<end>
+
+=>q14_original
+So, whatcha need?<end>
+
+=>q14
+So, whatcha need?<end>
+
+=>a15_original
+Are you Marcos Banti, the mining supervisor?<end>
+
+=>a15
+Are you Marcos Banti, the mining supervisor?<end>
+
+=>q16_original
+Yeah, that's me. ::He coughs.:: Who are you?<end>
+
+=>q16
+Yeah, that's me. ::He coughs.:: Who are you?<end>
+
+=>a17_original
+Can you tell me something about yourself?<end>
+
+=>a17
+Can you tell me something about yourself?<end>
+
+=>q18_original
+'Uh? I can tell you that's none of your business.<end>
+
+=>q18
+'Uh? I can tell you that's none of your business.<end>
+
+=>q19_original
+More questions?<end>
+
+=>q19
+More questions?<end>
+
+=>a20_original
+What can you tell me about Foundry?<end>
+
+=>a20
+What can you tell me about Foundry?<end>
+
+=>q21_original
+Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
+
+=>q21
+Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
+
+=>q22_original
+::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
+
+=>q22
+::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
+
+=>a23_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a23
+Can you tell me anything about the mine creatures?<end>
+
+=>q24_original
+Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
+
+=>q24
+Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
+
+=>q25_original
+Dig what I mean?<end>
+
+=>q25
+Dig what I mean?<end>
+
+=>a26_original
+But your mayor sent me here to talk to you.<end>
+
+=>a26
+But your mayor sent me here to talk to you.<end>
+
+=>q27_original
+'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
+
+=>q27
+'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
+
+=>a28_original
+Can you just tell me what you know about the creatures?<end>
+
+=>a28
+Can you just tell me what you know about the creatures?<end>
+
+=>q29_original
+Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
+
+=>q29
+Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
+
+=>q30_original
+::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
+
+Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
+
+=>q30
+::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
+
+Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
+
+=>a31_original
+I have a captured one right here.<end>
+
+=>a31
+I have a captured one right here.<end>
+
+=>q32_original
+Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>q32
+Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>q33_original
+Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
+
+=>q33
+Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
+
+=>q34_original
+Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
+
+=>q34
+Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
+
+=>q35_original
+::He puts his glove back on.::
+
+That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
+
+=>q35
+::He puts his glove back on.::
+
+That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
+
+=>a36_original
+I saw them in the mine. What do you know about them?<end>
+
+=>a36
+I saw them in the mine. What do you know about them?<end>
+
+=>a37_original
+I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
+
+=>a37
+I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
+
+=>a38_original
+No, what kind of worms?<end>
+
+=>a38
+No, what kind of worms?<end>
+
+=>q39_original
+But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>q39
+But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>a40_original
+Don't you already use explosives in mining?<end>
+
+=>a40
+Don't you already use explosives in mining?<end>
+
+=>q41_original
+Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
+
+=>q41
+Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
+
+=>a42_original
+I see. What can you tell me about the creatures themselves?<end>
+
+=>a42
+I see. What can you tell me about the creatures themselves?<end>
+
+=>a43_original
+I dig. Let's talk about something else.<end>
+
+=>a43
+I dig. Let's talk about something else.<end>
+
+=>a44_original
+So, do you have any clue how to deal with the Beast?<end>
+
+=>a44
+So, do you have any clue how to deal with the Beast?<end>
+
+=>q45_original
+::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
+
+=>q45
+::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
+
+=>q46_original
+You dig?<end>
+
+=>q46
+You dig?<end>
+
+=>a47_original
+Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
+
+=>a47
+Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
+
+=>q48_original
+An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
+
+=>q48
+An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
+
+=>q49_original
+In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
+
+=>q49
+In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
+
+=>a50_original
+::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
+
+=>a50
+::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
+
+=>q51_original
+There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
+
+=>q51
+There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
+
+=>a52_original
+::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
+
+=>a52
+::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
+
+=>a53_original
+Thanks. I'll figure something out.<end>
+
+=>a53
+Thanks. I'll figure something out.<end>
+
+=>q54_original
+Anything, 'uh, else you got to ask me?<end>
+
+=>q54
+Anything, 'uh, else you got to ask me?<end>
+
+=>a55_original
+::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
+
+=>a55
+::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
+
+=>a56_original
+See you later.<end>
+
+=>a56
+See you later.<end>
+
+=>q57_original
+Yeah, yeah.<end>
+
+=>q57
+Yeah, yeah.<end>
+
+=>a58_original
+I'll leave you to your work.<end>
+
+=>a58
+I'll leave you to your work.<end>
+
+=>q59_original
+Yeah, yeah.<end>
+
+=>q59
+Yeah, yeah.<end>
+
+=>q60_original
+::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
+
+'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
+
+=>q60
+::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
+
+'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
+
+=>a61_original
+Why is it closed?<end>
+
+=>a61
+Why is it closed?<end>
+
+=>q62_original
+Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
+
+=>q62
+Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
+
+=>a63_original
+You can't stop me from going in there!<end>
+
+=>a63
+You can't stop me from going in there!<end>
+
+=>q64_original
+'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
+
+=>q64
+'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
+
+=>q65_original
+'Uh? Need something?<end>
+
+=>q65
+'Uh? Need something?<end>
+

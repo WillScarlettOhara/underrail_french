@@ -1,714 +1,714 @@
-=>q1_original
-::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::
-
-Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
-
-=>q1
-::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::
-
-Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
-
-=>a2_original
-Yeah. I like it here so far.<end>
-
-=>a2
-Yeah. I like it here so far.<end>
-
-=>q3_original
-Well, friend - make yourself at home.<end>
-
-=>q3
-Well, friend - make yourself at home.<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-I'd like to see your stock. ::Barter.::<end>
-
-=>a5
-I'd like to see your stock. ::Barter.::<end>
-
-=>a6_original
-I'd like to see your stock. ::Barter.::<end>
-
-=>a6
-I'd like to see your stock. ::Barter.::<end>
-
-=>q7_original
-One sec: <end>
-
-=>q7
-One sec: <end>
-
-=>q8_original
-Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
-
-=>q8
-Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
-
-=>q9_original
-a massive Faceless assault.<end>
-
-=>q9
-a massive Faceless assault.<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>a11_original
-Maybe he is.<end>
-
-=>a11
-Maybe he is.<end>
-
-=>q12_original
-Eh. As dangerous as Lurkers may be, <end>
-
-=>q12
-Eh. As dangerous as Lurkers may be, <end>
-
-=>q13_original
-Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
-
-=>q13
-Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
-
-=>a14_original
-You're making it sound as if it's something unreasonable.<end>
-
-=>a14
-You're making it sound as if it's something unreasonable.<end>
-
-=>q15_original
-I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
-
-=>q15
-I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
-
-=>a16_original
-Did he tell you why he needs all of this?<end>
-
-=>a16
-Did he tell you why he needs all of this?<end>
-
-=>q17_original
-"He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
-
-=>q17
-"He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
-
-=>a18_original
-Quaky?<end>
-
-=>a18
-Quaky?<end>
-
-=>q19_original
-Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
-
-=>q19
-Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
-
-=>a20_original
-Dig?<end>
-
-=>a20
-Dig?<end>
-
-=>q21_original
-Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
-
-=>q21
-Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
-
-=>a22_original
-Damn?<end>
-
-=>a22
-Damn?<end>
-
-=>q23_original
-Heh. Now you're just playing slackjaw.<end>
-
-=>q23
-Heh. Now you're just playing slackjaw.<end>
-
-=>a24_original
-Just tell me where to find him.<end>
-
-=>a24
-Just tell me where to find him.<end>
-
-=>q25_original
-There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
-
-=>q25
-There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
-
-=>q26_original
-See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
-
-=>q26
-See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
-
-=>q27_original
-I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
-
-=>q27
-I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-I'd like to see your stock now. ::Barter.::<end>
-
-=>a29
-I'd like to see your stock now. ::Barter.::<end>
-
-=>a30_original
-I'd like to see your stock before I go. ::Barter.::<end>
-
-=>a30
-I'd like to see your stock before I go. ::Barter.::<end>
-
-=>a31_original
-Got it.<end>
-
-=>a31
-Got it.<end>
-
-=>a32_original
-::Nod and leave.::<end>
-
-=>a32
-::Nod and leave.::<end>
-
-=>q33_original
-It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
-
-=>q33
-It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
-
-=>a34_original
-I'll see him if I get the chance.<end>
-
-=>a34
-I'll see him if I get the chance.<end>
-
-=>q35_original
-Thanks. <end>
-
-=>q35
-Thanks. <end>
-
-=>a36_original
-Sorry. I got more important things to do.<end>
-
-=>a36
-Sorry. I got more important things to do.<end>
-
-=>q37_original
-Alright. Then I'll send someone else.<end>
-
-=>q37
-Alright. Then I'll send someone else.<end>
-
-=>a38_original
-See ya.<end>
-
-=>a38
-See ya.<end>
-
-=>a39_original
-Yeah.<end>
-
-=>a39
-Yeah.<end>
-
-=>q40_original
-a Lurker invasion.<end>
-
-=>q40
-a Lurker invasion.<end>
-
-=>a41_original
-Can I have my weapon back?<end>
-
-=>a41
-Can I have my weapon back?<end>
-
-=>q42_original
-Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
-
-=>q42
-Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-It was a five-mil pistol, but not that one.<end>
-
-=>a44
-It was a five-mil pistol, but not that one.<end>
-
-=>q45_original
-Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::<end>
-
-=>q45
-Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::<end>
-
-=>q46_original
-There. With that out of the way, may I interest you in a couple more things, hm?<end>
-
-=>q46
-There. With that out of the way, may I interest you in a couple more things, hm?<end>
-
-=>a47_original
-::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
-
-=>a47
-::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
-
-=>q48_original
-<end>
-
-=>q48
-<end>
-
-=>q49_original
-What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
-
-=>q49
-What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
-
-=>a50_original
-::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
-
-=>a50
-::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
-
-=>q51_original
-<end>
-
-=>q51
-<end>
-
-=>a52_original
-::[Persuade]:: A pistol? I had a bloody shotgun.<end>
-
-=>a52
-::[Persuade]:: A pistol? I had a bloody shotgun.<end>
-
-=>q53_original
-<end>
-
-=>q53
-<end>
-
-=>q54_original
-::He raises his right eyebrow.:: A shotgun, you say...
-
-I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::<end>
-
-=>q54
-::He raises his right eyebrow.:: A shotgun, you say...
-
-I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::<end>
-
-=>a55_original
-Shoddy Shotty!<end>
-
-=>a55
-Shoddy Shotty!<end>
-
-=>q56_original
-::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
-
-=>q56
-::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
-
-=>a57_original
-::Accept it in silence.::<end>
-
-=>a57
-::Accept it in silence.::<end>
-
-=>a58_original
-Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
-
-=>a58
-Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
-
-=>q59_original
-Ha! Yeah, right! <end>
-
-=>q59
-Ha! Yeah, right! <end>
-
-=>a60_original
-What the hell is this?<end>
-
-=>a60
-What the hell is this?<end>
-
-=>q61_original
-Your shotgun. <end>
-
-=>q61
-Your shotgun. <end>
-
-=>q62_original
-A... a shotgun? But we don't even have any shotguns here.<end>
-
-=>q62
-A... a shotgun? But we don't even have any shotguns here.<end>
-
-=>q63_original
-Come on, stop messing around and tell me: Is this your pistol or not?<end>
-
-=>q63
-Come on, stop messing around and tell me: Is this your pistol or not?<end>
-
-=>a64_original
-Actually, no, I had a crossbow.<end>
-
-=>a64
-Actually, no, I had a crossbow.<end>
-
-=>a65_original
-Guns are for wussies. All I need is a knife.<end>
-
-=>a65
-Guns are for wussies. All I need is a knife.<end>
-
-=>a66_original
-You and Vencel are good pals?<end>
-
-=>a66
-You and Vencel are good pals?<end>
-
-=>q67_original
-Pals? We're brothers!<end>
-
-=>q67
-Pals? We're brothers!<end>
-
-=>a68_original
-I'm sorry, I never noticed the resemblance.<end>
-
-=>a68
-I'm sorry, I never noticed the resemblance.<end>
-
-=>q69_original
-Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
-
-::He laughs.:: That's *exactly* how it went.<end>
-
-=>q69
-Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
-
-::He laughs.:: That's *exactly* how it went.<end>
-
-=>a70_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a70
-What do you know about Patrick Pierce's death?<end>
-
-=>q71_original
-Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
-
-=>q71
-Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
-
-=>a72_original
-Can you tell me what he was like as a person?<end>
-
-=>a72
-Can you tell me what he was like as a person?<end>
-
-=>q73_original
-He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
-
-=>q73
-He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
-
-=>a74_original
-What do you think of the Faceless invasion?<end>
-
-=>a74
-What do you think of the Faceless invasion?<end>
-
-=>q75_original
-I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
-
-=>q75
-I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
-
-=>q76_original
-If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
-
-=>q76
-If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
-
-=>a77_original
-What do you think of the Faceless retreat from Core City?<end>
-
-=>a77
-What do you think of the Faceless retreat from Core City?<end>
-
-=>q78_original
-Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
-
-=>q78
-Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
-
-=>q79_original
-Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
-
-::He pauses.:: The point of the story is... I'm glad they're gone.<end>
-
-=>q79
-Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
-
-::He pauses.:: The point of the story is... I'm glad they're gone.<end>
-
-=>a80_original
-I gotta go.<end>
-
-=>a80
-I gotta go.<end>
-
-=>q81_original
-Hey, hold up a sec. <end>
-
-=>q81
-Hey, hold up a sec. <end>
-
-=>q82_original
-But you'll be back, heh.<end>
-
-=>q82
-But you'll be back, heh.<end>
-
-=>a83_original
-Guess so.<end>
-
-=>a83
-Guess so.<end>
-
-=>a84_original
-::Nod.::<end>
-
-=>a84
-::Nod.::<end>
-
-=>q85_original
-<end>
-
-=>q85
-<end>
-
-=>q86_original
-Think Harland's pretty pleased with his new turret. 
-
-::He sighs.:: <end>
-
-=>q86
-Think Harland's pretty pleased with his new turret. 
-
-::He sighs.:: <end>
-
-=>q87_original
-He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
-
-=>q87
-He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
-
-=>q88_original
-Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
-
-<end>
-
-=>q88
-Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
-
-<end>
-
-=>q89_original
-At least Harland got a neat minibot out of all this, if nothing else.
-
-<end>
-
-=>q89
-At least Harland got a neat minibot out of all this, if nothing else.
-
-<end>
-
-=>q90_original
-I gotta say, thanks for helping Harland. <end>
-
-=>q90
-I gotta say, thanks for helping Harland. <end>
-
-=>q91_original
-Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
-
-=>q91
-Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
-
-=>q92_original
-I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
-
-What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
-
-=>q92
-I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
-
-What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
-
-=>q93_original
-Hey, is it true?<end>
-
-=>q93
-Hey, is it true?<end>
-
-=>a94_original
-Is what true?<end>
-
-=>a94
-Is what true?<end>
-
-=>q95_original
-About that psionic, Ethan, turning old in a blink of an eye<end>
-
-=>q95
-About that psionic, Ethan, turning old in a blink of an eye<end>
-
-=>q96_original
-, attacking you and you had to take him out?<end>
-
-=>q96
-, attacking you and you had to take him out?<end>
-
-=>q97_original
-<end>
-
-=>q97
-<end>
-
-=>a98_original
-Yes.<end>
-
-=>a98
-Yes.<end>
-
-=>q99_original
-Damn. <end>
-
-=>q99
-Damn. <end>
-
-=>q100_original
-Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
-
-=>q100
-Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
-
-=>q101_original
-Anyway, you came here for a reason, didn't you?<end>
-
-=>q101
-Anyway, you came here for a reason, didn't you?<end>
-
-=>q102_original
-Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
-
-=>q102
-Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
-
-=>a103_original
-No.<end>
-
-=>a103
-No.<end>
-
-=>q104_original
-::He glances at the armory guard.:: That lying son of a...<end>
-
-=>q104
-::He glances at the armory guard.:: That lying son of a...<end>
-
-=>a105_original
-I don't have time for this. Show me your stock. ::Barter.::<end>
-
-=>a105
-I don't have time for this. Show me your stock. ::Barter.::<end>
-
-=>q106_original
-?<end>
-
-=>q106
-?<end>
-
-=>q107_original
-That Ethan the psionic attacked you and you had to take him out?<end>
-
-=>q107
-That Ethan the psionic attacked you and you had to take him out?<end>
-
-=>a108_original
-Yes.<end>
-
-=>a108
-Yes.<end>
-
-=>a109_original
-No.<end>
-
-=>a109
-No.<end>
-
-=>a110_original
-Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
-
-=>a110
-Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
-
-=>a111_original
-No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
-
-=>a111
-No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
-
-=>q112_original
-So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
-
-Well, if you're going out, you better stock up - we got some new gear.<end>
-
-=>q112
-So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
-
-Well, if you're going out, you better stock up - we got some new gear.<end>
-
-=>q113_original
-Hey, $(context.player.Name). What do you need?<end>
-
-=>q113
-Hey, $(context.player.Name). What do you need?<end>
-
+=>q1_original
+::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::
+
+Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
+
+=>q1
+::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::
+
+Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
+
+=>a2_original
+Yeah. I like it here so far.<end>
+
+=>a2
+Yeah. I like it here so far.<end>
+
+=>q3_original
+Well, friend - make yourself at home.<end>
+
+=>q3
+Well, friend - make yourself at home.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I'd like to see your stock. ::Barter.::<end>
+
+=>a5
+I'd like to see your stock. ::Barter.::<end>
+
+=>a6_original
+I'd like to see your stock. ::Barter.::<end>
+
+=>a6
+I'd like to see your stock. ::Barter.::<end>
+
+=>q7_original
+One sec: <end>
+
+=>q7
+One sec: <end>
+
+=>q8_original
+Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
+
+=>q8
+Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
+
+=>q9_original
+a massive Faceless assault.<end>
+
+=>q9
+a massive Faceless assault.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Maybe he is.<end>
+
+=>a11
+Maybe he is.<end>
+
+=>q12_original
+Eh. As dangerous as Lurkers may be, <end>
+
+=>q12
+Eh. As dangerous as Lurkers may be, <end>
+
+=>q13_original
+Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
+
+=>q13
+Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
+
+=>a14_original
+You're making it sound as if it's something unreasonable.<end>
+
+=>a14
+You're making it sound as if it's something unreasonable.<end>
+
+=>q15_original
+I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
+
+=>q15
+I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
+
+=>a16_original
+Did he tell you why he needs all of this?<end>
+
+=>a16
+Did he tell you why he needs all of this?<end>
+
+=>q17_original
+"He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
+
+=>q17
+"He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
+
+=>a18_original
+Quaky?<end>
+
+=>a18
+Quaky?<end>
+
+=>q19_original
+Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
+
+=>q19
+Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
+
+=>a20_original
+Dig?<end>
+
+=>a20
+Dig?<end>
+
+=>q21_original
+Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
+
+=>q21
+Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
+
+=>a22_original
+Damn?<end>
+
+=>a22
+Damn?<end>
+
+=>q23_original
+Heh. Now you're just playing slackjaw.<end>
+
+=>q23
+Heh. Now you're just playing slackjaw.<end>
+
+=>a24_original
+Just tell me where to find him.<end>
+
+=>a24
+Just tell me where to find him.<end>
+
+=>q25_original
+There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
+
+=>q25
+There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
+
+=>q26_original
+See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
+
+=>q26
+See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
+
+=>q27_original
+I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
+
+=>q27
+I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I'd like to see your stock now. ::Barter.::<end>
+
+=>a29
+I'd like to see your stock now. ::Barter.::<end>
+
+=>a30_original
+I'd like to see your stock before I go. ::Barter.::<end>
+
+=>a30
+I'd like to see your stock before I go. ::Barter.::<end>
+
+=>a31_original
+Got it.<end>
+
+=>a31
+Got it.<end>
+
+=>a32_original
+::Nod and leave.::<end>
+
+=>a32
+::Nod and leave.::<end>
+
+=>q33_original
+It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
+
+=>q33
+It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
+
+=>a34_original
+I'll see him if I get the chance.<end>
+
+=>a34
+I'll see him if I get the chance.<end>
+
+=>q35_original
+Thanks. <end>
+
+=>q35
+Thanks. <end>
+
+=>a36_original
+Sorry. I got more important things to do.<end>
+
+=>a36
+Sorry. I got more important things to do.<end>
+
+=>q37_original
+Alright. Then I'll send someone else.<end>
+
+=>q37
+Alright. Then I'll send someone else.<end>
+
+=>a38_original
+See ya.<end>
+
+=>a38
+See ya.<end>
+
+=>a39_original
+Yeah.<end>
+
+=>a39
+Yeah.<end>
+
+=>q40_original
+a Lurker invasion.<end>
+
+=>q40
+a Lurker invasion.<end>
+
+=>a41_original
+Can I have my weapon back?<end>
+
+=>a41
+Can I have my weapon back?<end>
+
+=>q42_original
+Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
+
+=>q42
+Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+It was a five-mil pistol, but not that one.<end>
+
+=>a44
+It was a five-mil pistol, but not that one.<end>
+
+=>q45_original
+Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::<end>
+
+=>q45
+Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::<end>
+
+=>q46_original
+There. With that out of the way, may I interest you in a couple more things, hm?<end>
+
+=>q46
+There. With that out of the way, may I interest you in a couple more things, hm?<end>
+
+=>a47_original
+::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
+
+=>a47
+::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>q49_original
+What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
+
+=>q49
+What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
+
+=>a50_original
+::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
+
+=>a50
+::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+::[Persuade]:: A pistol? I had a bloody shotgun.<end>
+
+=>a52
+::[Persuade]:: A pistol? I had a bloody shotgun.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>q54_original
+::He raises his right eyebrow.:: A shotgun, you say...
+
+I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::<end>
+
+=>q54
+::He raises his right eyebrow.:: A shotgun, you say...
+
+I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::<end>
+
+=>a55_original
+Shoddy Shotty!<end>
+
+=>a55
+Shoddy Shotty!<end>
+
+=>q56_original
+::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
+
+=>q56
+::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
+
+=>a57_original
+::Accept it in silence.::<end>
+
+=>a57
+::Accept it in silence.::<end>
+
+=>a58_original
+Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
+
+=>a58
+Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
+
+=>q59_original
+Ha! Yeah, right! <end>
+
+=>q59
+Ha! Yeah, right! <end>
+
+=>a60_original
+What the hell is this?<end>
+
+=>a60
+What the hell is this?<end>
+
+=>q61_original
+Your shotgun. <end>
+
+=>q61
+Your shotgun. <end>
+
+=>q62_original
+A... a shotgun? But we don't even have any shotguns here.<end>
+
+=>q62
+A... a shotgun? But we don't even have any shotguns here.<end>
+
+=>q63_original
+Come on, stop messing around and tell me: Is this your pistol or not?<end>
+
+=>q63
+Come on, stop messing around and tell me: Is this your pistol or not?<end>
+
+=>a64_original
+Actually, no, I had a crossbow.<end>
+
+=>a64
+Actually, no, I had a crossbow.<end>
+
+=>a65_original
+Guns are for wussies. All I need is a knife.<end>
+
+=>a65
+Guns are for wussies. All I need is a knife.<end>
+
+=>a66_original
+You and Vencel are good pals?<end>
+
+=>a66
+You and Vencel are good pals?<end>
+
+=>q67_original
+Pals? We're brothers!<end>
+
+=>q67
+Pals? We're brothers!<end>
+
+=>a68_original
+I'm sorry, I never noticed the resemblance.<end>
+
+=>a68
+I'm sorry, I never noticed the resemblance.<end>
+
+=>q69_original
+Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
+
+::He laughs.:: That's *exactly* how it went.<end>
+
+=>q69
+Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
+
+::He laughs.:: That's *exactly* how it went.<end>
+
+=>a70_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a70
+What do you know about Patrick Pierce's death?<end>
+
+=>q71_original
+Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
+
+=>q71
+Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
+
+=>a72_original
+Can you tell me what he was like as a person?<end>
+
+=>a72
+Can you tell me what he was like as a person?<end>
+
+=>q73_original
+He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
+
+=>q73
+He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
+
+=>a74_original
+What do you think of the Faceless invasion?<end>
+
+=>a74
+What do you think of the Faceless invasion?<end>
+
+=>q75_original
+I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
+
+=>q75
+I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
+
+=>q76_original
+If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
+
+=>q76
+If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
+
+=>a77_original
+What do you think of the Faceless retreat from Core City?<end>
+
+=>a77
+What do you think of the Faceless retreat from Core City?<end>
+
+=>q78_original
+Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
+
+=>q78
+Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
+
+=>q79_original
+Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
+
+::He pauses.:: The point of the story is... I'm glad they're gone.<end>
+
+=>q79
+Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
+
+::He pauses.:: The point of the story is... I'm glad they're gone.<end>
+
+=>a80_original
+I gotta go.<end>
+
+=>a80
+I gotta go.<end>
+
+=>q81_original
+Hey, hold up a sec. <end>
+
+=>q81
+Hey, hold up a sec. <end>
+
+=>q82_original
+But you'll be back, heh.<end>
+
+=>q82
+But you'll be back, heh.<end>
+
+=>a83_original
+Guess so.<end>
+
+=>a83
+Guess so.<end>
+
+=>a84_original
+::Nod.::<end>
+
+=>a84
+::Nod.::<end>
+
+=>q85_original
+<end>
+
+=>q85
+<end>
+
+=>q86_original
+Think Harland's pretty pleased with his new turret. 
+
+::He sighs.:: <end>
+
+=>q86
+Think Harland's pretty pleased with his new turret. 
+
+::He sighs.:: <end>
+
+=>q87_original
+He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
+
+=>q87
+He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
+
+=>q88_original
+Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
+
+<end>
+
+=>q88
+Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
+
+<end>
+
+=>q89_original
+At least Harland got a neat minibot out of all this, if nothing else.
+
+<end>
+
+=>q89
+At least Harland got a neat minibot out of all this, if nothing else.
+
+<end>
+
+=>q90_original
+I gotta say, thanks for helping Harland. <end>
+
+=>q90
+I gotta say, thanks for helping Harland. <end>
+
+=>q91_original
+Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
+
+=>q91
+Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
+
+=>q92_original
+I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
+
+What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
+
+=>q92
+I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
+
+What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
+
+=>q93_original
+Hey, is it true?<end>
+
+=>q93
+Hey, is it true?<end>
+
+=>a94_original
+Is what true?<end>
+
+=>a94
+Is what true?<end>
+
+=>q95_original
+About that psionic, Ethan, turning old in a blink of an eye<end>
+
+=>q95
+About that psionic, Ethan, turning old in a blink of an eye<end>
+
+=>q96_original
+, attacking you and you had to take him out?<end>
+
+=>q96
+, attacking you and you had to take him out?<end>
+
+=>q97_original
+<end>
+
+=>q97
+<end>
+
+=>a98_original
+Yes.<end>
+
+=>a98
+Yes.<end>
+
+=>q99_original
+Damn. <end>
+
+=>q99
+Damn. <end>
+
+=>q100_original
+Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
+
+=>q100
+Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
+
+=>q101_original
+Anyway, you came here for a reason, didn't you?<end>
+
+=>q101
+Anyway, you came here for a reason, didn't you?<end>
+
+=>q102_original
+Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
+
+=>q102
+Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
+
+=>a103_original
+No.<end>
+
+=>a103
+No.<end>
+
+=>q104_original
+::He glances at the armory guard.:: That lying son of a...<end>
+
+=>q104
+::He glances at the armory guard.:: That lying son of a...<end>
+
+=>a105_original
+I don't have time for this. Show me your stock. ::Barter.::<end>
+
+=>a105
+I don't have time for this. Show me your stock. ::Barter.::<end>
+
+=>q106_original
+?<end>
+
+=>q106
+?<end>
+
+=>q107_original
+That Ethan the psionic attacked you and you had to take him out?<end>
+
+=>q107
+That Ethan the psionic attacked you and you had to take him out?<end>
+
+=>a108_original
+Yes.<end>
+
+=>a108
+Yes.<end>
+
+=>a109_original
+No.<end>
+
+=>a109
+No.<end>
+
+=>a110_original
+Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>a110
+Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>a111_original
+No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>a111
+No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>q112_original
+So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
+
+Well, if you're going out, you better stock up - we got some new gear.<end>
+
+=>q112
+So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
+
+Well, if you're going out, you better stock up - we got some new gear.<end>
+
+=>q113_original
+Hey, $(context.player.Name). What do you need?<end>
+
+=>q113
+Hey, $(context.player.Name). What do you need?<end>
+

@@ -1,84 +1,84 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Thanks for giving us our jobs back, $(#man/sister). ::Tips helmet and coughs.::<end>
-
-=>q2
-Thanks for giving us our jobs back, $(#man/sister). ::Tips helmet and coughs.::<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-::Sighs.:: Missing Drag 'n' Drop already.<end>
-
-=>q4
-::Sighs.:: Missing Drag 'n' Drop already.<end>
-
-=>q5_original
-Soon as I get some time off I'm sailin' for Drag 'n' Drop.<end>
-
-=>q5
-Soon as I get some time off I'm sailin' for Drag 'n' Drop.<end>
-
-=>q6_original
-We got a lot of guardsmen protecting us now. Makes our job a bit safer, I guess.<end>
-
-=>q6
-We got a lot of guardsmen protecting us now. Makes our job a bit safer, I guess.<end>
-
-=>q7_original
-Most of the mine has been cleared, but there's still a few caves left. ::Coughs.::<end>
-
-=>q7
-Most of the mine has been cleared, but there's still a few caves left. ::Coughs.::<end>
-
-=>q8_original
-I hope we don't dig out another Beast. That'd be muck. ::Coughs.::<end>
-
-=>q8
-I hope we don't dig out another Beast. That'd be muck. ::Coughs.::<end>
-
-=>q9_original
-We dumped a lot of dead rockies into the furnace. I mean, that's a lot of chromium.<end>
-
-=>q9
-We dumped a lot of dead rockies into the furnace. I mean, that's a lot of chromium.<end>
-
-=>q10_original
-Hey boss. ::Laughs.::<end>
-
-=>q10
-Hey boss. ::Laughs.::<end>
-
-=>q11_original
-Marcos is further up ahead if you need him. Near where the chromium veins start.<end>
-
-=>q11
-Marcos is further up ahead if you need him. Near where the chromium veins start.<end>
-
-=>q12_original
-Never take off your helmet when you're in a mine. Golden rule. ::Coughs.::<end>
-
-=>q12
-Never take off your helmet when you're in a mine. Golden rule. ::Coughs.::<end>
-
-=>q13_original
-Need something, $(context.player.Name)?<end>
-
-=>q13
-Need something, $(context.player.Name)?<end>
-
-=>q14_original
-You help us with the rockies *and* pay us a visit? What a nice $(#man/woman) you are.<end>
-
-=>q14
-You help us with the rockies *and* pay us a visit? What a nice $(#man/woman) you are.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Thanks for giving us our jobs back, $(#man/sister). ::Tips helmet and coughs.::<end>
+
+=>q2
+Thanks for giving us our jobs back, $(#man/sister). ::Tips helmet and coughs.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Sighs.:: Missing Drag 'n' Drop already.<end>
+
+=>q4
+::Sighs.:: Missing Drag 'n' Drop already.<end>
+
+=>q5_original
+Soon as I get some time off I'm sailin' for Drag 'n' Drop.<end>
+
+=>q5
+Soon as I get some time off I'm sailin' for Drag 'n' Drop.<end>
+
+=>q6_original
+We got a lot of guardsmen protecting us now. Makes our job a bit safer, I guess.<end>
+
+=>q6
+We got a lot of guardsmen protecting us now. Makes our job a bit safer, I guess.<end>
+
+=>q7_original
+Most of the mine has been cleared, but there's still a few caves left. ::Coughs.::<end>
+
+=>q7
+Most of the mine has been cleared, but there's still a few caves left. ::Coughs.::<end>
+
+=>q8_original
+I hope we don't dig out another Beast. That'd be muck. ::Coughs.::<end>
+
+=>q8
+I hope we don't dig out another Beast. That'd be muck. ::Coughs.::<end>
+
+=>q9_original
+We dumped a lot of dead rockies into the furnace. I mean, that's a lot of chromium.<end>
+
+=>q9
+We dumped a lot of dead rockies into the furnace. I mean, that's a lot of chromium.<end>
+
+=>q10_original
+Hey boss. ::Laughs.::<end>
+
+=>q10
+Hey boss. ::Laughs.::<end>
+
+=>q11_original
+Marcos is further up ahead if you need him. Near where the chromium veins start.<end>
+
+=>q11
+Marcos is further up ahead if you need him. Near where the chromium veins start.<end>
+
+=>q12_original
+Never take off your helmet when you're in a mine. Golden rule. ::Coughs.::<end>
+
+=>q12
+Never take off your helmet when you're in a mine. Golden rule. ::Coughs.::<end>
+
+=>q13_original
+Need something, $(context.player.Name)?<end>
+
+=>q13
+Need something, $(context.player.Name)?<end>
+
+=>q14_original
+You help us with the rockies *and* pay us a visit? What a nice $(#man/woman) you are.<end>
+
+=>q14
+You help us with the rockies *and* pay us a visit? What a nice $(#man/woman) you are.<end>
+

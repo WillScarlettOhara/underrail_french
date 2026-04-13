@@ -1,72 +1,72 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::Salutes you.:: We're good here.<end>
-
-=>q2
-::Salutes you.:: We're good here.<end>
-
-=>q3_original
-We're good here, enforcer.<end>
-
-=>q3
-We're good here, enforcer.<end>
-
-=>q4_original
-Lazy zoners want stuff. Our stuff.<end>
-
-=>q4
-Lazy zoners want stuff. Our stuff.<end>
-
-=>q5_original
-These people stink.<end>
-
-=>q5
-These people stink.<end>
-
-=>q6_original
-It's the usual: "We're starving, we're being zoned out, we need medication..." Yeah.<end>
-
-=>q6
-It's the usual: "We're starving, we're being zoned out, we need medication..." Yeah.<end>
-
-=>q7_original
-Do not touch them. Or let them touch you.<end>
-
-=>q7
-Do not touch them. Or let them touch you.<end>
-
-=>q8_original
-Damn these zoners - I'm going to miss the match!<end>
-
-=>q8
-Damn these zoners - I'm going to miss the match!<end>
-
-=>q9_original
-::Sighs.:: What's wrong with these people? Back to the Zone, you.<end>
-
-=>q9
-::Sighs.:: What's wrong with these people? Back to the Zone, you.<end>
-
-=>q10_original
-"Rights"! ::He laughs.::<end>
-
-=>q10
-"Rights"! ::He laughs.::<end>
-
-=>q11_original
-The guy with the sledge, though...<end>
-
-=>q11
-The guy with the sledge, though...<end>
-
-=>q12_original
-Get back to your barrel soups, zoners.<end>
-
-=>q12
-Get back to your barrel soups, zoners.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Salutes you.:: We're good here.<end>
+
+=>q2
+::Salutes you.:: We're good here.<end>
+
+=>q3_original
+We're good here, enforcer.<end>
+
+=>q3
+We're good here, enforcer.<end>
+
+=>q4_original
+Lazy zoners want stuff. Our stuff.<end>
+
+=>q4
+Lazy zoners want stuff. Our stuff.<end>
+
+=>q5_original
+These people stink.<end>
+
+=>q5
+These people stink.<end>
+
+=>q6_original
+It's the usual: "We're starving, we're being zoned out, we need medication..." Yeah.<end>
+
+=>q6
+It's the usual: "We're starving, we're being zoned out, we need medication..." Yeah.<end>
+
+=>q7_original
+Do not touch them. Or let them touch you.<end>
+
+=>q7
+Do not touch them. Or let them touch you.<end>
+
+=>q8_original
+Damn these zoners - I'm going to miss the match!<end>
+
+=>q8
+Damn these zoners - I'm going to miss the match!<end>
+
+=>q9_original
+::Sighs.:: What's wrong with these people? Back to the Zone, you.<end>
+
+=>q9
+::Sighs.:: What's wrong with these people? Back to the Zone, you.<end>
+
+=>q10_original
+"Rights"! ::He laughs.::<end>
+
+=>q10
+"Rights"! ::He laughs.::<end>
+
+=>q11_original
+The guy with the sledge, though...<end>
+
+=>q11
+The guy with the sledge, though...<end>
+
+=>q12_original
+Get back to your barrel soups, zoners.<end>
+
+=>q12
+Get back to your barrel soups, zoners.<end>
+

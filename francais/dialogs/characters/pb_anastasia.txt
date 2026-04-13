@@ -1,336 +1,336 @@
-=>q1_original
-::This petite, middle-aged woman you see before you seems to be studying some medical charts. Since your eyes were immediately drawn to the charts she was holding, you are quick to notice that one of her hands is badly scarred. The horribly warped skin of her left hand, diffusing from a few spots and contrasting her otherwise clear skin, seems to have been caused by the healing of a deep burn.
-
-She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
-
-=>q1
-::This petite, middle-aged woman you see before you seems to be studying some medical charts. Since your eyes were immediately drawn to the charts she was holding, you are quick to notice that one of her hands is badly scarred. The horribly warped skin of her left hand, diffusing from a few spots and contrasting her otherwise clear skin, seems to have been caused by the healing of a deep burn.
-
-She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
-
-=>q2_original
-Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
-
-=>q2
-Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
-
-=>a3_original
-That's right. It's $(context.player.Name). Who are you?<end>
-
-=>a3
-That's right. It's $(context.player.Name). Who are you?<end>
-
-=>q4_original
-My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
-
-=>q4
-My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-Can you take a look at my injuries?<end>
-
-=>a6
-Can you take a look at my injuries?<end>
-
-=>q7_original
-::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
-
-=>q7
-::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
-
-=>a8_original
-::Let her treat your injuries.::<end>
-
-=>a8
-::Let her treat your injuries.::<end>
-
-=>a9_original
-I am interested in medical supplies. ::Barter.::<end>
-
-=>a9
-I am interested in medical supplies. ::Barter.::<end>
-
-=>a10_original
-Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
-
-=>a10
-Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
-
-=>q11_original
-::She waits for several seconds, slowly swallowing during her silence. After this brief pause, she replies.::
-
-Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
-
-=>q11
-::She waits for several seconds, slowly swallowing during her silence. After this brief pause, she replies.::
-
-Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
-
-=>q12_original
-It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
-
-=>q12
-It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
-
-=>a13_original
-That is horrible. Who would do something as horrible as that?<end>
-
-=>a13
-That is horrible. Who would do something as horrible as that?<end>
-
-=>q14_original
-We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
-
-<end>
-
-=>q14
-We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
-
-<end>
-
-=>a15_original
-I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
-
-=>a15
-I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
-
-=>q16_original
-::She nods.::<end>
-
-=>q16
-::She nods.::<end>
-
-=>a17_original
-What can you tell me about the Free Drones?<end>
-
-=>a17
-What can you tell me about the Free Drones?<end>
-
-=>q18_original
-Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
-
-=>q18
-Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
-
-=>q19_original
-I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
-
-That's... the Free Drones. Pain.<end>
-
-=>q19
-I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
-
-That's... the Free Drones. Pain.<end>
-
-=>a20_original
-Why did you decide to help the Protectorate?<end>
-
-=>a20
-Why did you decide to help the Protectorate?<end>
-
-=>q21_original
-I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
-
-=>q21
-I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
-
-=>q22_original
-Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
-
-=>q22
-Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
-
-=>a23_original
-Where in Fort Apogee can I exchange currencies?<end>
-
-=>a23
-Where in Fort Apogee can I exchange currencies?<end>
-
-=>q24_original
-See Staff Sergeant Fraser...khm...<end>
-
-=>q24
-See Staff Sergeant Fraser...khm...<end>
-
-=>q25_original
-He performs the exchange.<end>
-
-=>q25
-He performs the exchange.<end>
-
-=>a26_original
-What can you tell me about Consul Oliver?<end>
-
-=>a26
-What can you tell me about Consul Oliver?<end>
-
-=>q27_original
-He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
-
-=>q27
-He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
-
-=>q28_original
-When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
-
-Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
-
-=>q28
-When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
-
-Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
-
-=>a29_original
-What can you tell me about Colonel Cathcart?<end>
-
-=>a29
-What can you tell me about Colonel Cathcart?<end>
-
-=>q30_original
-You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
-
-=>q30
-You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
-
-=>q31_original
-However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
-
-=>q31
-However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
-
-=>a32_original
-What can you tell me about Fraser?<end>
-
-=>a32
-What can you tell me about Fraser?<end>
-
-=>q33_original
-::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
-
-=>q33
-::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
-
-=>q34_original
-I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
-
-=>q34
-I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
-
-=>q35_original
-My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
-
-=>q35
-My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
-
-=>a36_original
-What can you tell me about Luka?<end>
-
-=>a36
-What can you tell me about Luka?<end>
-
-=>q37_original
-::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
-
-=>q37
-::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
-
-=>q38_original
-::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
-
-=>q38
-::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
-
-=>q39_original
-I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
-
-=>q39
-I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
-
-=>a40_original
-What can you tell me about Case?<end>
-
-=>a40
-What can you tell me about Case?<end>
-
-=>q41_original
-He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
-
-He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
-
-=>q41
-He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
-
-He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
-
-=>q42_original
-The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
-
-=>q42
-The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
-
-=>a43_original
-What can you tell me about CAU?<end>
-
-=>a43
-What can you tell me about CAU?<end>
-
-=>q44_original
-Please... khm...<end>
-
-=>q44
-Please... khm...<end>
-
-=>q45_original
-I'd rather not talk about that.<end>
-
-=>q45
-I'd rather not talk about that.<end>
-
-=>a46_original
-What can you tell me about the Faceless?<end>
-
-=>a46
-What can you tell me about the Faceless?<end>
-
-=>q47_original
-Probably... khm... nothing, because I don't know much about them... khm... <end>
-
-=>q47
-Probably... khm... nothing, because I don't know much about them... khm... <end>
-
-=>q48_original
-I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
-
-=>q48
-I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
-
-=>a49_original
-See you around, Doc.<end>
-
-=>a49
-See you around, Doc.<end>
-
-=>q50_original
-We better not, if you know what I... khm... mean. ::She smiles.::<end>
-
-=>q50
-We better not, if you know what I... khm... mean. ::She smiles.::<end>
-
-=>a51_original
-Yes. And you are?<end>
-
-=>a51
-Yes. And you are?<end>
-
-=>q52_original
-Khm... Corporal?<end>
-
-=>q52
-Khm... Corporal?<end>
-
+=>q1_original
+::This petite, middle-aged woman you see before you seems to be studying some medical charts. Since your eyes were immediately drawn to the charts she was holding, you are quick to notice that one of her hands is badly scarred. The horribly warped skin of her left hand, diffusing from a few spots and contrasting her otherwise clear skin, seems to have been caused by the healing of a deep burn.
+
+She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
+
+=>q1
+::This petite, middle-aged woman you see before you seems to be studying some medical charts. Since your eyes were immediately drawn to the charts she was holding, you are quick to notice that one of her hands is badly scarred. The horribly warped skin of her left hand, diffusing from a few spots and contrasting her otherwise clear skin, seems to have been caused by the healing of a deep burn.
+
+She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
+
+=>q2_original
+Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
+
+=>q2
+Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
+
+=>a3_original
+That's right. It's $(context.player.Name). Who are you?<end>
+
+=>a3
+That's right. It's $(context.player.Name). Who are you?<end>
+
+=>q4_original
+My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
+
+=>q4
+My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Can you take a look at my injuries?<end>
+
+=>a6
+Can you take a look at my injuries?<end>
+
+=>q7_original
+::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
+
+=>q7
+::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
+
+=>a8_original
+::Let her treat your injuries.::<end>
+
+=>a8
+::Let her treat your injuries.::<end>
+
+=>a9_original
+I am interested in medical supplies. ::Barter.::<end>
+
+=>a9
+I am interested in medical supplies. ::Barter.::<end>
+
+=>a10_original
+Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
+
+=>a10
+Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
+
+=>q11_original
+::She waits for several seconds, slowly swallowing during her silence. After this brief pause, she replies.::
+
+Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
+
+=>q11
+::She waits for several seconds, slowly swallowing during her silence. After this brief pause, she replies.::
+
+Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
+
+=>q12_original
+It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
+
+=>q12
+It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
+
+=>a13_original
+That is horrible. Who would do something as horrible as that?<end>
+
+=>a13
+That is horrible. Who would do something as horrible as that?<end>
+
+=>q14_original
+We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
+
+<end>
+
+=>q14
+We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
+
+<end>
+
+=>a15_original
+I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
+
+=>a15
+I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
+
+=>q16_original
+::She nods.::<end>
+
+=>q16
+::She nods.::<end>
+
+=>a17_original
+What can you tell me about the Free Drones?<end>
+
+=>a17
+What can you tell me about the Free Drones?<end>
+
+=>q18_original
+Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
+
+=>q18
+Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
+
+=>q19_original
+I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
+
+That's... the Free Drones. Pain.<end>
+
+=>q19
+I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
+
+That's... the Free Drones. Pain.<end>
+
+=>a20_original
+Why did you decide to help the Protectorate?<end>
+
+=>a20
+Why did you decide to help the Protectorate?<end>
+
+=>q21_original
+I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
+
+=>q21
+I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
+
+=>q22_original
+Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
+
+=>q22
+Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
+
+=>a23_original
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>a23
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>q24_original
+See Staff Sergeant Fraser...khm...<end>
+
+=>q24
+See Staff Sergeant Fraser...khm...<end>
+
+=>q25_original
+He performs the exchange.<end>
+
+=>q25
+He performs the exchange.<end>
+
+=>a26_original
+What can you tell me about Consul Oliver?<end>
+
+=>a26
+What can you tell me about Consul Oliver?<end>
+
+=>q27_original
+He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
+
+=>q27
+He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
+
+=>q28_original
+When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
+
+Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
+
+=>q28
+When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
+
+Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
+
+=>a29_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a29
+What can you tell me about Colonel Cathcart?<end>
+
+=>q30_original
+You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
+
+=>q30
+You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
+
+=>q31_original
+However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
+
+=>q31
+However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
+
+=>a32_original
+What can you tell me about Fraser?<end>
+
+=>a32
+What can you tell me about Fraser?<end>
+
+=>q33_original
+::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
+
+=>q33
+::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
+
+=>q34_original
+I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
+
+=>q34
+I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
+
+=>q35_original
+My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
+
+=>q35
+My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
+
+=>a36_original
+What can you tell me about Luka?<end>
+
+=>a36
+What can you tell me about Luka?<end>
+
+=>q37_original
+::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
+
+=>q37
+::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
+
+=>q38_original
+::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
+
+=>q38
+::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
+
+=>q39_original
+I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
+
+=>q39
+I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
+
+=>a40_original
+What can you tell me about Case?<end>
+
+=>a40
+What can you tell me about Case?<end>
+
+=>q41_original
+He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
+
+He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
+
+=>q41
+He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
+
+He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
+
+=>q42_original
+The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
+
+=>q42
+The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
+
+=>a43_original
+What can you tell me about CAU?<end>
+
+=>a43
+What can you tell me about CAU?<end>
+
+=>q44_original
+Please... khm...<end>
+
+=>q44
+Please... khm...<end>
+
+=>q45_original
+I'd rather not talk about that.<end>
+
+=>q45
+I'd rather not talk about that.<end>
+
+=>a46_original
+What can you tell me about the Faceless?<end>
+
+=>a46
+What can you tell me about the Faceless?<end>
+
+=>q47_original
+Probably... khm... nothing, because I don't know much about them... khm... <end>
+
+=>q47
+Probably... khm... nothing, because I don't know much about them... khm... <end>
+
+=>q48_original
+I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
+
+=>q48
+I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
+
+=>a49_original
+See you around, Doc.<end>
+
+=>a49
+See you around, Doc.<end>
+
+=>q50_original
+We better not, if you know what I... khm... mean. ::She smiles.::<end>
+
+=>q50
+We better not, if you know what I... khm... mean. ::She smiles.::<end>
+
+=>a51_original
+Yes. And you are?<end>
+
+=>a51
+Yes. And you are?<end>
+
+=>q52_original
+Khm... Corporal?<end>
+
+=>q52
+Khm... Corporal?<end>
+

@@ -1,356 +1,356 @@
-=>q1_original
-I just gotta unload some of this stuff and I'm off!<end>
-
-=>q1
-I just gotta unload some of this stuff and I'm off!<end>
-
-=>q2_original
-::Before you stands a man dressed as Junkyard. Large rucksack out of which metal pipes, fishing rods and gun barrels stick out; patched pockets full of forks, screwdrivers and used flares; stained rathound skin bags dangling from his belt, pulling on it as if they were full of lead-filled bowling balls. All these things combined must weight twice as much as him, you feel, and it forces you to simply stand in awe at the durability of this man's legs and back.
-
-Then, he speaks through his mask.::
-
-Excuse me, $(#sir/ma'am), but how would you like to buy these wonderful animal organs and leather? Or these chrome-plated quad handles? I, a well-known scavenger that goes by the name Al Fabet, have so many unique and exciting trinkets to sell and only need a buyer.<end>
-
-=>q2
-::Before you stands a man dressed as Junkyard. Large rucksack out of which metal pipes, fishing rods and gun barrels stick out; patched pockets full of forks, screwdrivers and used flares; stained rathound skin bags dangling from his belt, pulling on it as if they were full of lead-filled bowling balls. All these things combined must weight twice as much as him, you feel, and it forces you to simply stand in awe at the durability of this man's legs and back.
-
-Then, he speaks through his mask.::
-
-Excuse me, $(#sir/ma'am), but how would you like to buy these wonderful animal organs and leather? Or these chrome-plated quad handles? I, a well-known scavenger that goes by the name Al Fabet, have so many unique and exciting trinkets to sell and only need a buyer.<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-Show me what you have. ::Barter.::<end>
-
-=>a4
-Show me what you have. ::Barter.::<end>
-
-=>a5_original
-Why do you even carry all that junk with you?<end>
-
-=>a5
-Why do you even carry all that junk with you?<end>
-
-=>q6_original
-It's not junk if I can sell it! Don't be such a zoner. I loot everything I can, then I go to a station, sell all of it and earn some coins, then go back to pick up things I couldn't carry with me. Then back to selling, yeah. But the stupid merchants won't buy my jun-- I mean loot. Loot!<end>
-
-=>q6
-It's not junk if I can sell it! Don't be such a zoner. I loot everything I can, then I go to a station, sell all of it and earn some coins, then go back to pick up things I couldn't carry with me. Then back to selling, yeah. But the stupid merchants won't buy my jun-- I mean loot. Loot!<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>a8_original
-You really think you'll earn much by selling animal organs and scrap metal?<end>
-
-=>a8
-You really think you'll earn much by selling animal organs and scrap metal?<end>
-
-=>q9_original
-It adds up, trust me. Bullet by bullet, heart by heart, battery by battery, yeah. It just adds up. It takes a while, but that's how *I* do things.<end>
-
-=>q9
-It adds up, trust me. Bullet by bullet, heart by heart, battery by battery, yeah. It just adds up. It takes a while, but that's how *I* do things.<end>
-
-=>q10_original
-::Al Fabet notices a screw on the ground and bends over - with some effort - to pick it up.:: Well, look at this treasure!<end>
-
-=>q10
-::Al Fabet notices a screw on the ground and bends over - with some effort - to pick it up.:: Well, look at this treasure!<end>
-
-=>q11_original
-Ah, damn it, I dropped my screw! Can you see it anywhere?<end>
-
-=>q11
-Ah, damn it, I dropped my screw! Can you see it anywhere?<end>
-
-=>a12_original
-Why don't you just drop all unnecessary things and just carry what's most valuable?<end>
-
-=>a12
-Why don't you just drop all unnecessary things and just carry what's most valuable?<end>
-
-=>q13_original
-Are you derailed? Why would I drop perfectly good organs when someone *will* eventually buy them? Yeah, I pick up valuable stuff - I pick up everything! And I sell everything. At least I try to, but the stupid merchants have this, like, limit on what and how much they'll buy! Who came up with that?<end>
-
-=>q13
-Are you derailed? Why would I drop perfectly good organs when someone *will* eventually buy them? Yeah, I pick up valuable stuff - I pick up everything! And I sell everything. At least I try to, but the stupid merchants have this, like, limit on what and how much they'll buy! Who came up with that?<end>
-
-=>q14_original
-I just want to maximize my loot selling potential. Although, my back is now going, "Well, kinda." Yeah, I wish weight didn't exist.<end>
-
-=>q14
-I just want to maximize my loot selling potential. Although, my back is now going, "Well, kinda." Yeah, I wish weight didn't exist.<end>
-
-=>a15_original
-Well, I too have a problem with merchants not wanting to buy all my stuff.<end>
-
-=>a15
-Well, I too have a problem with merchants not wanting to buy all my stuff.<end>
-
-=>q16_original
-I thought that absolutely everyone was derailed in this world, but you proved me wrong! I guess there is one person other than me that agrees with... me... Yeah!
-
-Say, how would you like to buy some stuff?<end>
-
-=>q16
-I thought that absolutely everyone was derailed in this world, but you proved me wrong! I guess there is one person other than me that agrees with... me... Yeah!
-
-Say, how would you like to buy some stuff?<end>
-
-=>a17_original
-No.<end>
-
-=>a17
-No.<end>
-
-=>q18_original
-Damn it! If I don't sell all this soon, my back's gonna break!<end>
-
-=>q18
-Damn it! If I don't sell all this soon, my back's gonna break!<end>
-
-=>a19_original
-Can we discuss something else?<end>
-
-=>a19
-Can we discuss something else?<end>
-
-=>q20_original
-Maybe we can discuss a trade!<end>
-
-=>q20
-Maybe we can discuss a trade!<end>
-
-=>a21_original
-What can you tell me about Core City?<end>
-
-=>a21
-What can you tell me about Core City?<end>
-
-=>q22_original
-Yeah, like, if the traders were a bit saner... then I'd say it isn't a bad place to sell loot. Yeah... But, as it currently stands it's... ugh! I mean, c'mon, really? I've got all this fine loot, and these derailed people won't buy all of it! "I can't buy all seventeen assault rifles. I'll take two." What kind of merchant are you? What is wrong with Underrail?<end>
-
-=>q22
-Yeah, like, if the traders were a bit saner... then I'd say it isn't a bad place to sell loot. Yeah... But, as it currently stands it's... ugh! I mean, c'mon, really? I've got all this fine loot, and these derailed people won't buy all of it! "I can't buy all seventeen assault rifles. I'll take two." What kind of merchant are you? What is wrong with Underrail?<end>
-
-=>q23_original
-It's painful, you know. ::He sighs.:: But, other than that... I don't know, I can't tell you much about the city. I mostly come here for the Hardcore City Bar and to see the merchants. ::He lowers his head and begins mumbling to himself.:: Stupid merchants...<end>
-
-=>q23
-It's painful, you know. ::He sighs.:: But, other than that... I don't know, I can't tell you much about the city. I mostly come here for the Hardcore City Bar and to see the merchants. ::He lowers his head and begins mumbling to himself.:: Stupid merchants...<end>
-
-=>a24_original
-What can you tell me about the Arena?<end>
-
-=>a24
-What can you tell me about the Arena?<end>
-
-=>q25_original
-Never went to see a match in my life. I heard, listen to this, I heard that up until recently they didn't allow participants to loot the folks they zoned out. What? Seriously - what? Only now did they remember to do that, in these difficult times, when honest men depend on looting to survive?<end>
-
-=>q25
-Never went to see a match in my life. I heard, listen to this, I heard that up until recently they didn't allow participants to loot the folks they zoned out. What? Seriously - what? Only now did they remember to do that, in these difficult times, when honest men depend on looting to survive?<end>
-
-=>q26_original
-C'mon! Just... c'mon! Who comes up with this stuff?<end>
-
-=>q26
-C'mon! Just... c'mon! Who comes up with this stuff?<end>
-
-=>a27_original
-Why do you carry a human brain with you?<end>
-
-=>a27
-Why do you carry a human brain with you?<end>
-
-=>q28_original
-Well, that's a cool lootin' tale: I was going through some backwater caves when I found this dead guy. Bald, ugly as siphoner's ass. A giant rock fell on his head and split it right open, yeah. You could see the brain, it was exposed and all. But, it was in good condition and, after I took his stuff, I decided to grab the brain too. I reckon, he won't need it anymore, and perhaps I'll find someone who'll buy it. It stinks a bit, but hell, life stinks in general.<end>
-
-=>q28
-Well, that's a cool lootin' tale: I was going through some backwater caves when I found this dead guy. Bald, ugly as siphoner's ass. A giant rock fell on his head and split it right open, yeah. You could see the brain, it was exposed and all. But, it was in good condition and, after I took his stuff, I decided to grab the brain too. I reckon, he won't need it anymore, and perhaps I'll find someone who'll buy it. It stinks a bit, but hell, life stinks in general.<end>
-
-=>q29_original
-It's what I always say: Never miss a chance when it presents itself so conveniently!<end>
-
-=>q29
-It's what I always say: Never miss a chance when it presents itself so conveniently!<end>
-
-=>a30_original
-Have you ever been to Deep Caverns?<end>
-
-=>a30
-Have you ever been to Deep Caverns?<end>
-
-=>q31_original
-No. I once pulled a button from one of the elevators that go down, but that's close to it as I've been. Why?<end>
-
-=>q31
-No. I once pulled a button from one of the elevators that go down, but that's close to it as I've been. Why?<end>
-
-=>a32_original
-I've found a warehouse block in Deep Caverns which is full of...<end>
-
-=>a32
-I've found a warehouse block in Deep Caverns which is full of...<end>
-
-=>q33_original
-Of what? C'mon, stop teasing me. Of what?<end>
-
-=>q33
-Of what? C'mon, stop teasing me. Of what?<end>
-
-=>a34_original
-Loot. As far as the eye can see.<end>
-
-=>a34
-Loot. As far as the eye can see.<end>
-
-=>q35_original
-::His eyes almost pop out of the mask the moment you deliver the magic word. Awe overwhelms him and his voice fills with excitement.::
-
-How do I get there?<end>
-
-=>q35
-::His eyes almost pop out of the mask the moment you deliver the magic word. Awe overwhelms him and his voice fills with excitement.::
-
-How do I get there?<end>
-
-=>a36_original
-It's very dangerous, you should know. There's burrowers and other kinds of dangers there.<end>
-
-=>a36
-It's very dangerous, you should know. There's burrowers and other kinds of dangers there.<end>
-
-=>q37_original
-Yeah, yeah. How do I get there?<end>
-
-=>q37
-Yeah, yeah. How do I get there?<end>
-
-=>a38_original
-There is an elevator east of SGS which will take you down. Then you gotta follow the road north and you'll get to it eventually. Someone with your experience will easily find it.<end>
-
-=>a38
-There is an elevator east of SGS which will take you down. Then you gotta follow the road north and you'll get to it eventually. Someone with your experience will easily find it.<end>
-
-=>q39_original
-I can't thank you enough for this. No one in my life was this good to me. Thank you. Thank you. When I get back I'm gonna get you... something. But it's gonna be something good, yeah. 
-
-I gotta go.<end>
-
-=>q39
-I can't thank you enough for this. No one in my life was this good to me. Thank you. Thank you. When I get back I'm gonna get you... something. But it's gonna be something good, yeah. 
-
-I gotta go.<end>
-
-=>a40_original
-Good luck, Al.<end>
-
-=>a40
-Good luck, Al.<end>
-
-=>a41_original
-Just asking.<end>
-
-=>a41
-Just asking.<end>
-
-=>q42_original
-I heard there's good stuff there to be found, yeah. My grandad even went there to scavenge while the elevators were still working. He never came back.<end>
-
-=>q42
-I heard there's good stuff there to be found, yeah. My grandad even went there to scavenge while the elevators were still working. He never came back.<end>
-
-=>a43_original
-What was his name?<end>
-
-=>a43
-What was his name?<end>
-
-=>q44_original
-Percy.<end>
-
-=>q44
-Percy.<end>
-
-=>a45_original
-Sorry to hear that.<end>
-
-=>a45
-Sorry to hear that.<end>
-
-=>q46_original
-Yeah. Life of a looter is a dangerous one.<end>
-
-=>q46
-Yeah. Life of a looter is a dangerous one.<end>
-
-=>a47_original
-Why do you think the Faceless invaded Core City?<end>
-
-=>a47
-Why do you think the Faceless invaded Core City?<end>
-
-=>q48_original
-Thanks for reminding me! There is a lootin' potential there, yeah!<end>
-
-=>q48
-Thanks for reminding me! There is a lootin' potential there, yeah!<end>
-
-=>q49_original
-I'm just gonna wait for them to kill each other. ::He grins.:: Then the lootin' can begin!<end>
-
-=>q49
-I'm just gonna wait for them to kill each other. ::He grins.:: Then the lootin' can begin!<end>
-
-=>a50_original
-I gotta go. Goodbye.<end>
-
-=>a50
-I gotta go. Goodbye.<end>
-
-=>q51_original
-Oh come on! I just want to get rid of all this stuff!<end>
-
-=>q51
-Oh come on! I just want to get rid of all this stuff!<end>
-
-=>q52_original
-<end>
-
-=>q52
-<end>
-
-=>q53_original
-Care to buy my organs? I mean - care to buy animal organs from me?<end>
-
-=>q53
-Care to buy my organs? I mean - care to buy animal organs from me?<end>
-
-=>q54_original
-No one wants to buy my stuff. C'mon people, what's wrong with you all!?<end>
-
-=>q54
-No one wants to buy my stuff. C'mon people, what's wrong with you all!?<end>
-
-=>q55_original
-This is so stupid! Why would merchants refuse to buy my stuff? What the hell!?<end>
-
-=>q55
-This is so stupid! Why would merchants refuse to buy my stuff? What the hell!?<end>
-
-=>q56_original
-I must sell everything. My back will have to endure.<end>
-
-=>q56
-I must sell everything. My back will have to endure.<end>
-
+=>q1_original
+I just gotta unload some of this stuff and I'm off!<end>
+
+=>q1
+I just gotta unload some of this stuff and I'm off!<end>
+
+=>q2_original
+::Before you stands a man dressed as Junkyard. Large rucksack out of which metal pipes, fishing rods and gun barrels stick out; patched pockets full of forks, screwdrivers and used flares; stained rathound skin bags dangling from his belt, pulling on it as if they were full of lead-filled bowling balls. All these things combined must weight twice as much as him, you feel, and it forces you to simply stand in awe at the durability of this man's legs and back.
+
+Then, he speaks through his mask.::
+
+Excuse me, $(#sir/ma'am), but how would you like to buy these wonderful animal organs and leather? Or these chrome-plated quad handles? I, a well-known scavenger that goes by the name Al Fabet, have so many unique and exciting trinkets to sell and only need a buyer.<end>
+
+=>q2
+::Before you stands a man dressed as Junkyard. Large rucksack out of which metal pipes, fishing rods and gun barrels stick out; patched pockets full of forks, screwdrivers and used flares; stained rathound skin bags dangling from his belt, pulling on it as if they were full of lead-filled bowling balls. All these things combined must weight twice as much as him, you feel, and it forces you to simply stand in awe at the durability of this man's legs and back.
+
+Then, he speaks through his mask.::
+
+Excuse me, $(#sir/ma'am), but how would you like to buy these wonderful animal organs and leather? Or these chrome-plated quad handles? I, a well-known scavenger that goes by the name Al Fabet, have so many unique and exciting trinkets to sell and only need a buyer.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you have. ::Barter.::<end>
+
+=>a4
+Show me what you have. ::Barter.::<end>
+
+=>a5_original
+Why do you even carry all that junk with you?<end>
+
+=>a5
+Why do you even carry all that junk with you?<end>
+
+=>q6_original
+It's not junk if I can sell it! Don't be such a zoner. I loot everything I can, then I go to a station, sell all of it and earn some coins, then go back to pick up things I couldn't carry with me. Then back to selling, yeah. But the stupid merchants won't buy my jun-- I mean loot. Loot!<end>
+
+=>q6
+It's not junk if I can sell it! Don't be such a zoner. I loot everything I can, then I go to a station, sell all of it and earn some coins, then go back to pick up things I couldn't carry with me. Then back to selling, yeah. But the stupid merchants won't buy my jun-- I mean loot. Loot!<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+You really think you'll earn much by selling animal organs and scrap metal?<end>
+
+=>a8
+You really think you'll earn much by selling animal organs and scrap metal?<end>
+
+=>q9_original
+It adds up, trust me. Bullet by bullet, heart by heart, battery by battery, yeah. It just adds up. It takes a while, but that's how *I* do things.<end>
+
+=>q9
+It adds up, trust me. Bullet by bullet, heart by heart, battery by battery, yeah. It just adds up. It takes a while, but that's how *I* do things.<end>
+
+=>q10_original
+::Al Fabet notices a screw on the ground and bends over - with some effort - to pick it up.:: Well, look at this treasure!<end>
+
+=>q10
+::Al Fabet notices a screw on the ground and bends over - with some effort - to pick it up.:: Well, look at this treasure!<end>
+
+=>q11_original
+Ah, damn it, I dropped my screw! Can you see it anywhere?<end>
+
+=>q11
+Ah, damn it, I dropped my screw! Can you see it anywhere?<end>
+
+=>a12_original
+Why don't you just drop all unnecessary things and just carry what's most valuable?<end>
+
+=>a12
+Why don't you just drop all unnecessary things and just carry what's most valuable?<end>
+
+=>q13_original
+Are you derailed? Why would I drop perfectly good organs when someone *will* eventually buy them? Yeah, I pick up valuable stuff - I pick up everything! And I sell everything. At least I try to, but the stupid merchants have this, like, limit on what and how much they'll buy! Who came up with that?<end>
+
+=>q13
+Are you derailed? Why would I drop perfectly good organs when someone *will* eventually buy them? Yeah, I pick up valuable stuff - I pick up everything! And I sell everything. At least I try to, but the stupid merchants have this, like, limit on what and how much they'll buy! Who came up with that?<end>
+
+=>q14_original
+I just want to maximize my loot selling potential. Although, my back is now going, "Well, kinda." Yeah, I wish weight didn't exist.<end>
+
+=>q14
+I just want to maximize my loot selling potential. Although, my back is now going, "Well, kinda." Yeah, I wish weight didn't exist.<end>
+
+=>a15_original
+Well, I too have a problem with merchants not wanting to buy all my stuff.<end>
+
+=>a15
+Well, I too have a problem with merchants not wanting to buy all my stuff.<end>
+
+=>q16_original
+I thought that absolutely everyone was derailed in this world, but you proved me wrong! I guess there is one person other than me that agrees with... me... Yeah!
+
+Say, how would you like to buy some stuff?<end>
+
+=>q16
+I thought that absolutely everyone was derailed in this world, but you proved me wrong! I guess there is one person other than me that agrees with... me... Yeah!
+
+Say, how would you like to buy some stuff?<end>
+
+=>a17_original
+No.<end>
+
+=>a17
+No.<end>
+
+=>q18_original
+Damn it! If I don't sell all this soon, my back's gonna break!<end>
+
+=>q18
+Damn it! If I don't sell all this soon, my back's gonna break!<end>
+
+=>a19_original
+Can we discuss something else?<end>
+
+=>a19
+Can we discuss something else?<end>
+
+=>q20_original
+Maybe we can discuss a trade!<end>
+
+=>q20
+Maybe we can discuss a trade!<end>
+
+=>a21_original
+What can you tell me about Core City?<end>
+
+=>a21
+What can you tell me about Core City?<end>
+
+=>q22_original
+Yeah, like, if the traders were a bit saner... then I'd say it isn't a bad place to sell loot. Yeah... But, as it currently stands it's... ugh! I mean, c'mon, really? I've got all this fine loot, and these derailed people won't buy all of it! "I can't buy all seventeen assault rifles. I'll take two." What kind of merchant are you? What is wrong with Underrail?<end>
+
+=>q22
+Yeah, like, if the traders were a bit saner... then I'd say it isn't a bad place to sell loot. Yeah... But, as it currently stands it's... ugh! I mean, c'mon, really? I've got all this fine loot, and these derailed people won't buy all of it! "I can't buy all seventeen assault rifles. I'll take two." What kind of merchant are you? What is wrong with Underrail?<end>
+
+=>q23_original
+It's painful, you know. ::He sighs.:: But, other than that... I don't know, I can't tell you much about the city. I mostly come here for the Hardcore City Bar and to see the merchants. ::He lowers his head and begins mumbling to himself.:: Stupid merchants...<end>
+
+=>q23
+It's painful, you know. ::He sighs.:: But, other than that... I don't know, I can't tell you much about the city. I mostly come here for the Hardcore City Bar and to see the merchants. ::He lowers his head and begins mumbling to himself.:: Stupid merchants...<end>
+
+=>a24_original
+What can you tell me about the Arena?<end>
+
+=>a24
+What can you tell me about the Arena?<end>
+
+=>q25_original
+Never went to see a match in my life. I heard, listen to this, I heard that up until recently they didn't allow participants to loot the folks they zoned out. What? Seriously - what? Only now did they remember to do that, in these difficult times, when honest men depend on looting to survive?<end>
+
+=>q25
+Never went to see a match in my life. I heard, listen to this, I heard that up until recently they didn't allow participants to loot the folks they zoned out. What? Seriously - what? Only now did they remember to do that, in these difficult times, when honest men depend on looting to survive?<end>
+
+=>q26_original
+C'mon! Just... c'mon! Who comes up with this stuff?<end>
+
+=>q26
+C'mon! Just... c'mon! Who comes up with this stuff?<end>
+
+=>a27_original
+Why do you carry a human brain with you?<end>
+
+=>a27
+Why do you carry a human brain with you?<end>
+
+=>q28_original
+Well, that's a cool lootin' tale: I was going through some backwater caves when I found this dead guy. Bald, ugly as siphoner's ass. A giant rock fell on his head and split it right open, yeah. You could see the brain, it was exposed and all. But, it was in good condition and, after I took his stuff, I decided to grab the brain too. I reckon, he won't need it anymore, and perhaps I'll find someone who'll buy it. It stinks a bit, but hell, life stinks in general.<end>
+
+=>q28
+Well, that's a cool lootin' tale: I was going through some backwater caves when I found this dead guy. Bald, ugly as siphoner's ass. A giant rock fell on his head and split it right open, yeah. You could see the brain, it was exposed and all. But, it was in good condition and, after I took his stuff, I decided to grab the brain too. I reckon, he won't need it anymore, and perhaps I'll find someone who'll buy it. It stinks a bit, but hell, life stinks in general.<end>
+
+=>q29_original
+It's what I always say: Never miss a chance when it presents itself so conveniently!<end>
+
+=>q29
+It's what I always say: Never miss a chance when it presents itself so conveniently!<end>
+
+=>a30_original
+Have you ever been to Deep Caverns?<end>
+
+=>a30
+Have you ever been to Deep Caverns?<end>
+
+=>q31_original
+No. I once pulled a button from one of the elevators that go down, but that's close to it as I've been. Why?<end>
+
+=>q31
+No. I once pulled a button from one of the elevators that go down, but that's close to it as I've been. Why?<end>
+
+=>a32_original
+I've found a warehouse block in Deep Caverns which is full of...<end>
+
+=>a32
+I've found a warehouse block in Deep Caverns which is full of...<end>
+
+=>q33_original
+Of what? C'mon, stop teasing me. Of what?<end>
+
+=>q33
+Of what? C'mon, stop teasing me. Of what?<end>
+
+=>a34_original
+Loot. As far as the eye can see.<end>
+
+=>a34
+Loot. As far as the eye can see.<end>
+
+=>q35_original
+::His eyes almost pop out of the mask the moment you deliver the magic word. Awe overwhelms him and his voice fills with excitement.::
+
+How do I get there?<end>
+
+=>q35
+::His eyes almost pop out of the mask the moment you deliver the magic word. Awe overwhelms him and his voice fills with excitement.::
+
+How do I get there?<end>
+
+=>a36_original
+It's very dangerous, you should know. There's burrowers and other kinds of dangers there.<end>
+
+=>a36
+It's very dangerous, you should know. There's burrowers and other kinds of dangers there.<end>
+
+=>q37_original
+Yeah, yeah. How do I get there?<end>
+
+=>q37
+Yeah, yeah. How do I get there?<end>
+
+=>a38_original
+There is an elevator east of SGS which will take you down. Then you gotta follow the road north and you'll get to it eventually. Someone with your experience will easily find it.<end>
+
+=>a38
+There is an elevator east of SGS which will take you down. Then you gotta follow the road north and you'll get to it eventually. Someone with your experience will easily find it.<end>
+
+=>q39_original
+I can't thank you enough for this. No one in my life was this good to me. Thank you. Thank you. When I get back I'm gonna get you... something. But it's gonna be something good, yeah. 
+
+I gotta go.<end>
+
+=>q39
+I can't thank you enough for this. No one in my life was this good to me. Thank you. Thank you. When I get back I'm gonna get you... something. But it's gonna be something good, yeah. 
+
+I gotta go.<end>
+
+=>a40_original
+Good luck, Al.<end>
+
+=>a40
+Good luck, Al.<end>
+
+=>a41_original
+Just asking.<end>
+
+=>a41
+Just asking.<end>
+
+=>q42_original
+I heard there's good stuff there to be found, yeah. My grandad even went there to scavenge while the elevators were still working. He never came back.<end>
+
+=>q42
+I heard there's good stuff there to be found, yeah. My grandad even went there to scavenge while the elevators were still working. He never came back.<end>
+
+=>a43_original
+What was his name?<end>
+
+=>a43
+What was his name?<end>
+
+=>q44_original
+Percy.<end>
+
+=>q44
+Percy.<end>
+
+=>a45_original
+Sorry to hear that.<end>
+
+=>a45
+Sorry to hear that.<end>
+
+=>q46_original
+Yeah. Life of a looter is a dangerous one.<end>
+
+=>q46
+Yeah. Life of a looter is a dangerous one.<end>
+
+=>a47_original
+Why do you think the Faceless invaded Core City?<end>
+
+=>a47
+Why do you think the Faceless invaded Core City?<end>
+
+=>q48_original
+Thanks for reminding me! There is a lootin' potential there, yeah!<end>
+
+=>q48
+Thanks for reminding me! There is a lootin' potential there, yeah!<end>
+
+=>q49_original
+I'm just gonna wait for them to kill each other. ::He grins.:: Then the lootin' can begin!<end>
+
+=>q49
+I'm just gonna wait for them to kill each other. ::He grins.:: Then the lootin' can begin!<end>
+
+=>a50_original
+I gotta go. Goodbye.<end>
+
+=>a50
+I gotta go. Goodbye.<end>
+
+=>q51_original
+Oh come on! I just want to get rid of all this stuff!<end>
+
+=>q51
+Oh come on! I just want to get rid of all this stuff!<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>q53_original
+Care to buy my organs? I mean - care to buy animal organs from me?<end>
+
+=>q53
+Care to buy my organs? I mean - care to buy animal organs from me?<end>
+
+=>q54_original
+No one wants to buy my stuff. C'mon people, what's wrong with you all!?<end>
+
+=>q54
+No one wants to buy my stuff. C'mon people, what's wrong with you all!?<end>
+
+=>q55_original
+This is so stupid! Why would merchants refuse to buy my stuff? What the hell!?<end>
+
+=>q55
+This is so stupid! Why would merchants refuse to buy my stuff? What the hell!?<end>
+
+=>q56_original
+I must sell everything. My back will have to endure.<end>
+
+=>q56
+I must sell everything. My back will have to endure.<end>
+

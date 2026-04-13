@@ -1,210 +1,210 @@
-=>q1_original
-::The man seems pleased to see you, at least that is what his broad, almost ear-to-ear smile tells you. He appears rather skinny-looking in his face and arms, but the bulging brew belly makes it look like all of this man's body fat had gravitated into one big abdominal mass. When he speaks, you immediately notice that he does so with a peculiar accent; it sounds strangely familiar, yet you are unsure exactly why...::
-
-Oh, a customer! Come in, come in, $(#man/woman). I have all sorts of goods to sell, yes. I am Marty Quick, nice to meet you, very well, what would you like to buy?<end>
-
-=>q1
-::The man seems pleased to see you, at least that is what his broad, almost ear-to-ear smile tells you. He appears rather skinny-looking in his face and arms, but the bulging brew belly makes it look like all of this man's body fat had gravitated into one big abdominal mass. When he speaks, you immediately notice that he does so with a peculiar accent; it sounds strangely familiar, yet you are unsure exactly why...::
-
-Oh, a customer! Come in, come in, $(#man/woman). I have all sorts of goods to sell, yes. I am Marty Quick, nice to meet you, very well, what would you like to buy?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Show me what you got, Marty. ::Barter.::<end>
-
-=>a3
-Show me what you got, Marty. ::Barter.::<end>
-
-=>a4_original
-What do you sell?<end>
-
-=>a4
-What do you sell?<end>
-
-=>q5_original
-I sell all sort of interesting things, yes, brought here from various places throughout Upper Underrail, dear customer. You can browse through my wares if you'd like. I promise you - you won't be disappointed. <end>
-
-=>q5
-I sell all sort of interesting things, yes, brought here from various places throughout Upper Underrail, dear customer. You can browse through my wares if you'd like. I promise you - you won't be disappointed. <end>
-
-=>q6_original
-And, in case you wanted to know, we are always looking to trade for food and ammo, so if you've got some to spare, we can make a pretty good deal, yes!
-
-What do you say, huh? Dear customer? Yes?<end>
-
-=>q6
-And, in case you wanted to know, we are always looking to trade for food and ammo, so if you've got some to spare, we can make a pretty good deal, yes!
-
-What do you say, huh? Dear customer? Yes?<end>
-
-=>a7_original
-Who are you people, if I may ask?<end>
-
-=>a7
-Who are you people, if I may ask?<end>
-
-=>q8_original
-Ah, I was prepared for that one: We are a group of scavengers. We scour the Upper Underrail for valuables, yes, and we bring them here to trade with our valued customers, such as yourself.
-
-Some places are very difficult to access, but those usually have the best valuables. We target these places, yes, like old facilities or abandoned storages or stores, there's plenty of those around.<end>
-
-=>q8
-Ah, I was prepared for that one: We are a group of scavengers. We scour the Upper Underrail for valuables, yes, and we bring them here to trade with our valued customers, such as yourself.
-
-Some places are very difficult to access, but those usually have the best valuables. We target these places, yes, like old facilities or abandoned storages or stores, there's plenty of those around.<end>
-
-=>a9_original
-Do *you* go scavenging with the rest or...?<end>
-
-=>a9
-Do *you* go scavenging with the rest or...?<end>
-
-=>q10_original
-No, I don't, no.<end>
-
-=>q10
-No, I don't, no.<end>
-
-=>a11_original
-But, you said "we." It implies you too go on scavenge hunts with the rest.<end>
-
-=>a11
-But, you said "we." It implies you too go on scavenge hunts with the rest.<end>
-
-=>q12_original
-It is just an expression, dear customer. Do not concern yourself with that anymore. Rather, concern yourself with trading, yes!<end>
-
-=>q12
-It is just an expression, dear customer. Do not concern yourself with that anymore. Rather, concern yourself with trading, yes!<end>
-
-=>q13_original
-Chop chop, dear customer! Someone else could come in at any moment, yes, and buy something you'd want while you're standing here and chatting, yes. Then you'll be sorry.<end>
-
-=>q13
-Chop chop, dear customer! Someone else could come in at any moment, yes, and buy something you'd want while you're standing here and chatting, yes. Then you'll be sorry.<end>
-
-=>a14_original
-I have other questions...<end>
-
-=>a14
-I have other questions...<end>
-
-=>q15_original
-And I have the goods.<end>
-
-=>q15
-And I have the goods.<end>
-
-=>a16_original
-What's with all the goons around the store?<end>
-
-=>a16
-What's with all the goons around the store?<end>
-
-=>q17_original
-They are my associates. Come on, customer, did you come straight from the caves, no? There are bandits, robbers, raiders, outlaws, marauders, gangsters, criminals...<end>
-
-=>q17
-They are my associates. Come on, customer, did you come straight from the caves, no? There are bandits, robbers, raiders, outlaws, marauders, gangsters, criminals...<end>
-
-=>q18_original
-...crooks, thieves, railroadmen, thugs... all over Upper Underrail! Sometimes even pirates. The "goons" help me protect my store so that no one could steal my goods, kill me and kidnap my wife. I don't want that, no.<end>
-
-=>q18
-...crooks, thieves, railroadmen, thugs... all over Upper Underrail! Sometimes even pirates. The "goons" help me protect my store so that no one could steal my goods, kill me and kidnap my wife. I don't want that, no.<end>
-
-=>a19_original
-You have a wife?<end>
-
-=>a19
-You have a wife?<end>
-
-=>q20_original
-No, but if I had one, she'd be kidnapped in an instant, dear customer. I mean, she'd be beautiful in body, face and soul - a real trophy for a bandit, robber, raider, outlaw, marauder, gangster, criminal...<end>
-
-=>q20
-No, but if I had one, she'd be kidnapped in an instant, dear customer. I mean, she'd be beautiful in body, face and soul - a real trophy for a bandit, robber, raider, outlaw, marauder, gangster, criminal...<end>
-
-=>a21_original
-Yeah, yeah. I had other questions.<end>
-
-=>a21
-Yeah, yeah. I had other questions.<end>
-
-=>a22_original
-::Leave in the middle of his sentence.::<end>
-
-=>a22
-::Leave in the middle of his sentence.::<end>
-
-=>q23_original
-What? You no buy?<end>
-
-=>q23
-What? You no buy?<end>
-
-=>a24_original
-Goodbye, Marty.<end>
-
-=>a24
-Goodbye, Marty.<end>
-
-=>q25_original
-Thank you, come again!<end>
-
-=>q25
-Thank you, come again!<end>
-
-=>a26_original
-I will.<end>
-
-=>a26
-I will.<end>
-
-=>a27_original
-We'll see about that.<end>
-
-=>a27
-We'll see about that.<end>
-
-=>q28_original
-Welcome back, dear customer. <end>
-
-=>q28
-Welcome back, dear customer. <end>
-
-=>q29_original
-Don't mind the frozen vents. As they say, low temperatures - low prices!<end>
-
-=>q29
-Don't mind the frozen vents. As they say, low temperatures - low prices!<end>
-
-=>q30_original
-::He wipes his sweaty forehead clean.:: Come, come. The fan's cool air is provided free of charge, yes!<end>
-
-=>q30
-::He wipes his sweaty forehead clean.:: Come, come. The fan's cool air is provided free of charge, yes!<end>
-
-=>q31_original
-Don't let the inexplicable light flicker dissuade your from browsing through my goods, no, no.<end>
-
-=>q31
-Don't let the inexplicable light flicker dissuade your from browsing through my goods, no, no.<end>
-
-=>q32_original
-Ignore the smell, please. It is only temporary, yes. <end>
-
-=>q32
-Ignore the smell, please. It is only temporary, yes. <end>
-
-=>q33_original
-Oh, you have returned. Very good, splendid. What would you like to buy, my dear customer?<end>
-
-=>q33
-Oh, you have returned. Very good, splendid. What would you like to buy, my dear customer?<end>
-
+=>q1_original
+::The man seems pleased to see you, at least that is what his broad, almost ear-to-ear smile tells you. He appears rather skinny-looking in his face and arms, but the bulging brew belly makes it look like all of this man's body fat had gravitated into one big abdominal mass. When he speaks, you immediately notice that he does so with a peculiar accent; it sounds strangely familiar, yet you are unsure exactly why...::
+
+Oh, a customer! Come in, come in, $(#man/woman). I have all sorts of goods to sell, yes. I am Marty Quick, nice to meet you, very well, what would you like to buy?<end>
+
+=>q1
+::The man seems pleased to see you, at least that is what his broad, almost ear-to-ear smile tells you. He appears rather skinny-looking in his face and arms, but the bulging brew belly makes it look like all of this man's body fat had gravitated into one big abdominal mass. When he speaks, you immediately notice that he does so with a peculiar accent; it sounds strangely familiar, yet you are unsure exactly why...::
+
+Oh, a customer! Come in, come in, $(#man/woman). I have all sorts of goods to sell, yes. I am Marty Quick, nice to meet you, very well, what would you like to buy?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you got, Marty. ::Barter.::<end>
+
+=>a3
+Show me what you got, Marty. ::Barter.::<end>
+
+=>a4_original
+What do you sell?<end>
+
+=>a4
+What do you sell?<end>
+
+=>q5_original
+I sell all sort of interesting things, yes, brought here from various places throughout Upper Underrail, dear customer. You can browse through my wares if you'd like. I promise you - you won't be disappointed. <end>
+
+=>q5
+I sell all sort of interesting things, yes, brought here from various places throughout Upper Underrail, dear customer. You can browse through my wares if you'd like. I promise you - you won't be disappointed. <end>
+
+=>q6_original
+And, in case you wanted to know, we are always looking to trade for food and ammo, so if you've got some to spare, we can make a pretty good deal, yes!
+
+What do you say, huh? Dear customer? Yes?<end>
+
+=>q6
+And, in case you wanted to know, we are always looking to trade for food and ammo, so if you've got some to spare, we can make a pretty good deal, yes!
+
+What do you say, huh? Dear customer? Yes?<end>
+
+=>a7_original
+Who are you people, if I may ask?<end>
+
+=>a7
+Who are you people, if I may ask?<end>
+
+=>q8_original
+Ah, I was prepared for that one: We are a group of scavengers. We scour the Upper Underrail for valuables, yes, and we bring them here to trade with our valued customers, such as yourself.
+
+Some places are very difficult to access, but those usually have the best valuables. We target these places, yes, like old facilities or abandoned storages or stores, there's plenty of those around.<end>
+
+=>q8
+Ah, I was prepared for that one: We are a group of scavengers. We scour the Upper Underrail for valuables, yes, and we bring them here to trade with our valued customers, such as yourself.
+
+Some places are very difficult to access, but those usually have the best valuables. We target these places, yes, like old facilities or abandoned storages or stores, there's plenty of those around.<end>
+
+=>a9_original
+Do *you* go scavenging with the rest or...?<end>
+
+=>a9
+Do *you* go scavenging with the rest or...?<end>
+
+=>q10_original
+No, I don't, no.<end>
+
+=>q10
+No, I don't, no.<end>
+
+=>a11_original
+But, you said "we." It implies you too go on scavenge hunts with the rest.<end>
+
+=>a11
+But, you said "we." It implies you too go on scavenge hunts with the rest.<end>
+
+=>q12_original
+It is just an expression, dear customer. Do not concern yourself with that anymore. Rather, concern yourself with trading, yes!<end>
+
+=>q12
+It is just an expression, dear customer. Do not concern yourself with that anymore. Rather, concern yourself with trading, yes!<end>
+
+=>q13_original
+Chop chop, dear customer! Someone else could come in at any moment, yes, and buy something you'd want while you're standing here and chatting, yes. Then you'll be sorry.<end>
+
+=>q13
+Chop chop, dear customer! Someone else could come in at any moment, yes, and buy something you'd want while you're standing here and chatting, yes. Then you'll be sorry.<end>
+
+=>a14_original
+I have other questions...<end>
+
+=>a14
+I have other questions...<end>
+
+=>q15_original
+And I have the goods.<end>
+
+=>q15
+And I have the goods.<end>
+
+=>a16_original
+What's with all the goons around the store?<end>
+
+=>a16
+What's with all the goons around the store?<end>
+
+=>q17_original
+They are my associates. Come on, customer, did you come straight from the caves, no? There are bandits, robbers, raiders, outlaws, marauders, gangsters, criminals...<end>
+
+=>q17
+They are my associates. Come on, customer, did you come straight from the caves, no? There are bandits, robbers, raiders, outlaws, marauders, gangsters, criminals...<end>
+
+=>q18_original
+...crooks, thieves, railroadmen, thugs... all over Upper Underrail! Sometimes even pirates. The "goons" help me protect my store so that no one could steal my goods, kill me and kidnap my wife. I don't want that, no.<end>
+
+=>q18
+...crooks, thieves, railroadmen, thugs... all over Upper Underrail! Sometimes even pirates. The "goons" help me protect my store so that no one could steal my goods, kill me and kidnap my wife. I don't want that, no.<end>
+
+=>a19_original
+You have a wife?<end>
+
+=>a19
+You have a wife?<end>
+
+=>q20_original
+No, but if I had one, she'd be kidnapped in an instant, dear customer. I mean, she'd be beautiful in body, face and soul - a real trophy for a bandit, robber, raider, outlaw, marauder, gangster, criminal...<end>
+
+=>q20
+No, but if I had one, she'd be kidnapped in an instant, dear customer. I mean, she'd be beautiful in body, face and soul - a real trophy for a bandit, robber, raider, outlaw, marauder, gangster, criminal...<end>
+
+=>a21_original
+Yeah, yeah. I had other questions.<end>
+
+=>a21
+Yeah, yeah. I had other questions.<end>
+
+=>a22_original
+::Leave in the middle of his sentence.::<end>
+
+=>a22
+::Leave in the middle of his sentence.::<end>
+
+=>q23_original
+What? You no buy?<end>
+
+=>q23
+What? You no buy?<end>
+
+=>a24_original
+Goodbye, Marty.<end>
+
+=>a24
+Goodbye, Marty.<end>
+
+=>q25_original
+Thank you, come again!<end>
+
+=>q25
+Thank you, come again!<end>
+
+=>a26_original
+I will.<end>
+
+=>a26
+I will.<end>
+
+=>a27_original
+We'll see about that.<end>
+
+=>a27
+We'll see about that.<end>
+
+=>q28_original
+Welcome back, dear customer. <end>
+
+=>q28
+Welcome back, dear customer. <end>
+
+=>q29_original
+Don't mind the frozen vents. As they say, low temperatures - low prices!<end>
+
+=>q29
+Don't mind the frozen vents. As they say, low temperatures - low prices!<end>
+
+=>q30_original
+::He wipes his sweaty forehead clean.:: Come, come. The fan's cool air is provided free of charge, yes!<end>
+
+=>q30
+::He wipes his sweaty forehead clean.:: Come, come. The fan's cool air is provided free of charge, yes!<end>
+
+=>q31_original
+Don't let the inexplicable light flicker dissuade your from browsing through my goods, no, no.<end>
+
+=>q31
+Don't let the inexplicable light flicker dissuade your from browsing through my goods, no, no.<end>
+
+=>q32_original
+Ignore the smell, please. It is only temporary, yes. <end>
+
+=>q32
+Ignore the smell, please. It is only temporary, yes. <end>
+
+=>q33_original
+Oh, you have returned. Very good, splendid. What would you like to buy, my dear customer?<end>
+
+=>q33
+Oh, you have returned. Very good, splendid. What would you like to buy, my dear customer?<end>
+

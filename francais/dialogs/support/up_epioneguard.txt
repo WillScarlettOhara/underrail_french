@@ -1,268 +1,268 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-::The soldier stands at attention and salutes you.::
-
-Welcome to Epione Lab, $(#sir/ma'am).<end>
-
-=>q3
-::The soldier stands at attention and salutes you.::
-
-Welcome to Epione Lab, $(#sir/ma'am).<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-What can you tell me about Epione Lab, private?<end>
-
-=>a5
-What can you tell me about Epione Lab, private?<end>
-
-=>q6_original
-Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
-
-That's really all I can tell you, $(#sir/ma'am).<end>
-
-=>q6
-Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
-
-That's really all I can tell you, $(#sir/ma'am).<end>
-
-=>a7_original
-Why do we have troops stationed here, private? What is so important about this facility?<end>
-
-=>a7
-Why do we have troops stationed here, private? What is so important about this facility?<end>
-
-=>q8_original
-I'm sorry $(#sir/ma'am), but that information is classified.<end>
-
-=>q8
-I'm sorry $(#sir/ma'am), but that information is classified.<end>
-
-=>a9_original
-::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
-
-=>a9
-::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
-
-=>q10_original
-Um... I suppose you are right, $(#sir/ma'am)...<end>
-
-=>q10
-Um... I suppose you are right, $(#sir/ma'am)...<end>
-
-=>a11_original
-So what is the problem?<end>
-
-=>a11
-So what is the problem?<end>
-
-=>q12_original
-Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
-
-=>q12
-Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
-
-=>a13_original
-But, what does this facility possess that would allow us to do so?<end>
-
-=>a13
-But, what does this facility possess that would allow us to do so?<end>
-
-=>q14_original
-The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
-
-=>q14
-The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
-
-=>a15_original
-Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
-
-=>a15
-Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
-
-=>q16_original
-Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
-
-=>q16
-Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
-
-=>a17_original
-Thank you, private. I want to ask you something else.<end>
-
-=>a17
-Thank you, private. I want to ask you something else.<end>
-
-=>q18_original
-Yes, $(#sir/ma'am)?<end>
-
-=>q18
-Yes, $(#sir/ma'am)?<end>
-
-=>q19_original
-I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
-
-=>q19
-I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
-
-=>a20_original
-Fair enough. I had other questions for you, private.<end>
-
-=>a20
-Fair enough. I had other questions for you, private.<end>
-
-=>q21_original
-$(#Sir/Ma'am)?<end>
-
-=>q21
-$(#Sir/Ma'am)?<end>
-
-=>a22_original
-Let me ask you something else then, private.<end>
-
-=>a22
-Let me ask you something else then, private.<end>
-
-=>q23_original
-$(#Sir/Ma'am)?<end>
-
-=>q23
-$(#Sir/Ma'am)?<end>
-
-=>a24_original
-I would like to speak to Captain Blackwall. Where can I find him?<end>
-
-=>a24
-I would like to speak to Captain Blackwall. Where can I find him?<end>
-
-=>q25_original
-Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
-
-=>q25
-Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
-
-=>q26_original
-He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
-
-=>q26
-He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
-
-=>a27_original
-Thank you, soldier. I will go find him.<end>
-
-=>a27
-Thank you, soldier. I will go find him.<end>
-
-=>q28_original
-$(#Sir/Ma'am)! ::Salutes.::<end>
-
-=>q28
-$(#Sir/Ma'am)! ::Salutes.::<end>
-
-=>a29_original
-::Return the salute and leave.::<end>
-
-=>a29
-::Return the salute and leave.::<end>
-
-=>a30_original
-::Just walk away.::<end>
-
-=>a30
-::Just walk away.::<end>
-
-=>a31_original
-As you were, private.<end>
-
-=>a31
-As you were, private.<end>
-
-=>q32_original
-::The soldier salutes you.::<end>
-
-=>q32
-::The soldier salutes you.::<end>
-
-=>q33_original
-::The soldier stops you.::
-
-This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
-
-=>q33
-::The soldier stops you.::
-
-This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
-
-=>q34_original
-<end>
-
-=>q34
-<end>
-
-=>a35_original
-I um... was sent here from the high command to inspect this... facility... thing...<end>
-
-=>a35
-I um... was sent here from the high command to inspect this... facility... thing...<end>
-
-=>q36_original
-::The guard points his weapon at you, looking you straight in the eyes.:: 
-
-How would you like to inspect this?<end>
-
-=>q36
-::The guard points his weapon at you, looking you straight in the eyes.:: 
-
-How would you like to inspect this?<end>
-
-=>a37_original
-You can't stop me, Protectorate scum! ::Attack!::<end>
-
-=>a37
-You can't stop me, Protectorate scum! ::Attack!::<end>
-
-=>a38_original
-Got the message! I'm off.<end>
-
-=>a38
-Got the message! I'm off.<end>
-
-=>a39_original
-What is this place?<end>
-
-=>a39
-What is this place?<end>
-
-=>q40_original
-That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
-
-=>q40
-That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
-
-=>a41_original
-I understand, goodbye.<end>
-
-=>a41
-I understand, goodbye.<end>
-
-=>q42_original
-I though I've made myself clear when I instructed you to leave the area.<end>
-
-=>q42
-I though I've made myself clear when I instructed you to leave the area.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::The soldier stands at attention and salutes you.::
+
+Welcome to Epione Lab, $(#sir/ma'am).<end>
+
+=>q3
+::The soldier stands at attention and salutes you.::
+
+Welcome to Epione Lab, $(#sir/ma'am).<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+What can you tell me about Epione Lab, private?<end>
+
+=>a5
+What can you tell me about Epione Lab, private?<end>
+
+=>q6_original
+Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
+
+That's really all I can tell you, $(#sir/ma'am).<end>
+
+=>q6
+Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
+
+That's really all I can tell you, $(#sir/ma'am).<end>
+
+=>a7_original
+Why do we have troops stationed here, private? What is so important about this facility?<end>
+
+=>a7
+Why do we have troops stationed here, private? What is so important about this facility?<end>
+
+=>q8_original
+I'm sorry $(#sir/ma'am), but that information is classified.<end>
+
+=>q8
+I'm sorry $(#sir/ma'am), but that information is classified.<end>
+
+=>a9_original
+::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
+
+=>a9
+::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
+
+=>q10_original
+Um... I suppose you are right, $(#sir/ma'am)...<end>
+
+=>q10
+Um... I suppose you are right, $(#sir/ma'am)...<end>
+
+=>a11_original
+So what is the problem?<end>
+
+=>a11
+So what is the problem?<end>
+
+=>q12_original
+Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
+
+=>q12
+Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
+
+=>a13_original
+But, what does this facility possess that would allow us to do so?<end>
+
+=>a13
+But, what does this facility possess that would allow us to do so?<end>
+
+=>q14_original
+The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
+
+=>q14
+The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
+
+=>a15_original
+Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
+
+=>a15
+Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
+
+=>q16_original
+Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
+
+=>q16
+Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
+
+=>a17_original
+Thank you, private. I want to ask you something else.<end>
+
+=>a17
+Thank you, private. I want to ask you something else.<end>
+
+=>q18_original
+Yes, $(#sir/ma'am)?<end>
+
+=>q18
+Yes, $(#sir/ma'am)?<end>
+
+=>q19_original
+I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
+
+=>q19
+I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
+
+=>a20_original
+Fair enough. I had other questions for you, private.<end>
+
+=>a20
+Fair enough. I had other questions for you, private.<end>
+
+=>q21_original
+$(#Sir/Ma'am)?<end>
+
+=>q21
+$(#Sir/Ma'am)?<end>
+
+=>a22_original
+Let me ask you something else then, private.<end>
+
+=>a22
+Let me ask you something else then, private.<end>
+
+=>q23_original
+$(#Sir/Ma'am)?<end>
+
+=>q23
+$(#Sir/Ma'am)?<end>
+
+=>a24_original
+I would like to speak to Captain Blackwall. Where can I find him?<end>
+
+=>a24
+I would like to speak to Captain Blackwall. Where can I find him?<end>
+
+=>q25_original
+Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
+
+=>q25
+Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
+
+=>q26_original
+He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
+
+=>q26
+He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
+
+=>a27_original
+Thank you, soldier. I will go find him.<end>
+
+=>a27
+Thank you, soldier. I will go find him.<end>
+
+=>q28_original
+$(#Sir/Ma'am)! ::Salutes.::<end>
+
+=>q28
+$(#Sir/Ma'am)! ::Salutes.::<end>
+
+=>a29_original
+::Return the salute and leave.::<end>
+
+=>a29
+::Return the salute and leave.::<end>
+
+=>a30_original
+::Just walk away.::<end>
+
+=>a30
+::Just walk away.::<end>
+
+=>a31_original
+As you were, private.<end>
+
+=>a31
+As you were, private.<end>
+
+=>q32_original
+::The soldier salutes you.::<end>
+
+=>q32
+::The soldier salutes you.::<end>
+
+=>q33_original
+::The soldier stops you.::
+
+This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
+
+=>q33
+::The soldier stops you.::
+
+This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+I um... was sent here from the high command to inspect this... facility... thing...<end>
+
+=>a35
+I um... was sent here from the high command to inspect this... facility... thing...<end>
+
+=>q36_original
+::The guard points his weapon at you, looking you straight in the eyes.:: 
+
+How would you like to inspect this?<end>
+
+=>q36
+::The guard points his weapon at you, looking you straight in the eyes.:: 
+
+How would you like to inspect this?<end>
+
+=>a37_original
+You can't stop me, Protectorate scum! ::Attack!::<end>
+
+=>a37
+You can't stop me, Protectorate scum! ::Attack!::<end>
+
+=>a38_original
+Got the message! I'm off.<end>
+
+=>a38
+Got the message! I'm off.<end>
+
+=>a39_original
+What is this place?<end>
+
+=>a39
+What is this place?<end>
+
+=>q40_original
+That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
+
+=>q40
+That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
+
+=>a41_original
+I understand, goodbye.<end>
+
+=>a41
+I understand, goodbye.<end>
+
+=>q42_original
+I though I've made myself clear when I instructed you to leave the area.<end>
+
+=>q42
+I though I've made myself clear when I instructed you to leave the area.<end>
+

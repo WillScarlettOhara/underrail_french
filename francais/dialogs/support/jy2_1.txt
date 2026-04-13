@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Don't try anything funny. We're watching you.<end>
-
-=>q2
-Don't try anything funny. We're watching you.<end>
-
-=>q3_original
-These merchants are under protection of Black Eels.<end>
-
-=>q3
-These merchants are under protection of Black Eels.<end>
-
-=>q4_original
-You look lost.<end>
-
-=>q4
-You look lost.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Don't try anything funny. We're watching you.<end>
+
+=>q2
+Don't try anything funny. We're watching you.<end>
+
+=>q3_original
+These merchants are under protection of Black Eels.<end>
+
+=>q3
+These merchants are under protection of Black Eels.<end>
+
+=>q4_original
+You look lost.<end>
+
+=>q4
+You look lost.<end>
+

@@ -1,348 +1,348 @@
-=>q1_original
-Weakling.<end>
-
-=>q1
-Weakling.<end>
-
-=>q2_original
-Is that your best?<end>
-
-=>q2
-Is that your best?<end>
-
-=>q3_original
-Enough!<end>
-
-=>q3
-Enough!<end>
-
-=>q4_original
-Do not anger me further!<end>
-
-=>q4
-Do not anger me further!<end>
-
-=>q5_original
-Fool!<end>
-
-=>q5
-Fool!<end>
-
-=>q6_original
-::Spits blood.::<end>
-
-=>q6
-::Spits blood.::<end>
-
-=>q7_original
-I'll make you suffer for this.<end>
-
-=>q7
-I'll make you suffer for this.<end>
-
-=>q8_original
-::Pats regalia.::<end>
-
-=>q8
-::Pats regalia.::<end>
-
-=>q9_original
-Hnnnnn...<end>
-
-=>q9
-Hnnnnn...<end>
-
-=>q10_original
-Y-y-o-u...<end>
-
-=>q10
-Y-y-o-u...<end>
-
-=>q11_original
-No... ::Pukes blood.::<end>
-
-=>q11
-No... ::Pukes blood.::<end>
-
-=>q12_original
-This... can't be...<end>
-
-=>q12
-This... can't be...<end>
-
-=>q13_original
-AAAAAGGH!<end>
-
-=>q13
-AAAAAGGH!<end>
-
-=>q14_original
-FIRE!<end>
-
-=>q14
-FIRE!<end>
-
-=>q15_original
-::Shivers.::<end>
-
-=>q15
-::Shivers.::<end>
-
-=>q16_original
-You're only delaying the inevitable.<end>
-
-=>q16
-You're only delaying the inevitable.<end>
-
-=>q17_original
-You've made your last mistake, fool!<end>
-
-=>q17
-You've made your last mistake, fool!<end>
-
-=>q18_original
-You'll pay for your insolence.<end>
-
-=>q18
-You'll pay for your insolence.<end>
-
-=>q19_original
-My rathounds will feast on your carcass!<end>
-
-=>q19
-My rathounds will feast on your carcass!<end>
-
-=>q20_original
-I'll strangle you with your guts.<end>
-
-=>q20
-I'll strangle you with your guts.<end>
-
-=>q21_original
-Your death will please me greatly.<end>
-
-=>q21
-Your death will please me greatly.<end>
-
-=>q22_original
-Die.<end>
-
-=>q22
-Die.<end>
-
-=>q23_original
-Bow to the king!<end>
-
-=>q23
-Bow to the king!<end>
-
-=>q24_original
-Tremble before me!<end>
-
-=>q24
-Tremble before me!<end>
-
-=>q25_original
-HA! Fools do burn brighter.<end>
-
-=>q25
-HA! Fools do burn brighter.<end>
-
-=>q26_original
-Fire...<end>
-
-=>q26
-Fire...<end>
-
-=>q27_original
-HA! Stay put!<end>
-
-=>q27
-HA! Stay put!<end>
-
-=>q28_original
-It's over.<end>
-
-=>q28
-It's over.<end>
-
-=>q29_original
-If I don't end you, the venom will.<end>
-
-=>q29
-If I don't end you, the venom will.<end>
-
-=>q30_original
-Bleed for me...<end>
-
-=>q30
-Bleed for me...<end>
-
-=>q31_original
-Let it all spill out.<end>
-
-=>q31
-Let it all spill out.<end>
-
-=>q32_original
-HA!<end>
-
-=>q32
-HA!<end>
-
-=>q33_original
-::Yawns.:: Pitiful.<end>
-
-=>q33
-::Yawns.:: Pitiful.<end>
-
-=>q34_original
-I'll crush you with my bare hands!<end>
-
-=>q34
-I'll crush you with my bare hands!<end>
-
-=>q35_original
-::Roars.::<end>
-
-=>q35
-::Roars.::<end>
-
-=>q36_original
-I'll spill your guts!<end>
-
-=>q36
-I'll spill your guts!<end>
-
-=>q37_original
-I'll split your skull in two!<end>
-
-=>q37
-I'll split your skull in two!<end>
-
-=>q38_original
-Hold still...<end>
-
-=>q38
-Hold still...<end>
-
-=>q39_original
-Die!<end>
-
-=>q39
-Die!<end>
-
-=>q40_original
-I've had enough of you!<end>
-
-=>q40
-I've had enough of you!<end>
-
-=>q41_original
-Stop!<end>
-
-=>q41
-Stop!<end>
-
-=>q42_original
-No!<end>
-
-=>q42
-No!<end>
-
-=>q43_original
-Reveal yourself.<end>
-
-=>q43
-Reveal yourself.<end>
-
-=>q44_original
-Who dares trespass here?<end>
-
-=>q44
-Who dares trespass here?<end>
-
-=>q45_original
-Out of my lair, bot!<end>
-
-=>q45
-Out of my lair, bot!<end>
-
-=>q46_original
-Obey, beast - or perish!<end>
-
-=>q46
-Obey, beast - or perish!<end>
-
-=>q47_original
-Where are you, coward!?<end>
-
-=>q47
-Where are you, coward!?<end>
-
-=>q48_original
-Better...<end>
-
-=>q48
-Better...<end>
-
-=>q49_original
-Yes...<end>
-
-=>q49
-Yes...<end>
-
-=>q50_original
-This'll do.<end>
-
-=>q50
-This'll do.<end>
-
-=>q51_original
-::Licks the blood from laceration.::<end>
-
-=>q51
-::Licks the blood from laceration.::<end>
-
-=>q52_original
-::Grabs chest.:: Hhhghh...<end>
-
-=>q52
-::Grabs chest.:: Hhhghh...<end>
-
-=>q53_original
-::Coughs.::<end>
-
-=>q53
-::Coughs.::<end>
-
-=>q54_original
-Everything's... spinning...<end>
-
-=>q54
-Everything's... spinning...<end>
-
-=>q55_original
-::Falters momentarily.::<end>
-
-=>q55
-::Falters momentarily.::<end>
-
-=>q56_original
-What... wickedness is this...?<end>
-
-=>q56
-What... wickedness is this...?<end>
-
-=>q57_original
-My thoughts... they're shattering!<end>
-
-=>q57
-My thoughts... they're shattering!<end>
-
-=>q58_original
-How'd you track me all the way here?<end>
-
-=>q58
-How'd you track me all the way here?<end>
-
+=>q1_original
+Weakling.<end>
+
+=>q1
+Weakling.<end>
+
+=>q2_original
+Is that your best?<end>
+
+=>q2
+Is that your best?<end>
+
+=>q3_original
+Enough!<end>
+
+=>q3
+Enough!<end>
+
+=>q4_original
+Do not anger me further!<end>
+
+=>q4
+Do not anger me further!<end>
+
+=>q5_original
+Fool!<end>
+
+=>q5
+Fool!<end>
+
+=>q6_original
+::Spits blood.::<end>
+
+=>q6
+::Spits blood.::<end>
+
+=>q7_original
+I'll make you suffer for this.<end>
+
+=>q7
+I'll make you suffer for this.<end>
+
+=>q8_original
+::Pats regalia.::<end>
+
+=>q8
+::Pats regalia.::<end>
+
+=>q9_original
+Hnnnnn...<end>
+
+=>q9
+Hnnnnn...<end>
+
+=>q10_original
+Y-y-o-u...<end>
+
+=>q10
+Y-y-o-u...<end>
+
+=>q11_original
+No... ::Pukes blood.::<end>
+
+=>q11
+No... ::Pukes blood.::<end>
+
+=>q12_original
+This... can't be...<end>
+
+=>q12
+This... can't be...<end>
+
+=>q13_original
+AAAAAGGH!<end>
+
+=>q13
+AAAAAGGH!<end>
+
+=>q14_original
+FIRE!<end>
+
+=>q14
+FIRE!<end>
+
+=>q15_original
+::Shivers.::<end>
+
+=>q15
+::Shivers.::<end>
+
+=>q16_original
+You're only delaying the inevitable.<end>
+
+=>q16
+You're only delaying the inevitable.<end>
+
+=>q17_original
+You've made your last mistake, fool!<end>
+
+=>q17
+You've made your last mistake, fool!<end>
+
+=>q18_original
+You'll pay for your insolence.<end>
+
+=>q18
+You'll pay for your insolence.<end>
+
+=>q19_original
+My rathounds will feast on your carcass!<end>
+
+=>q19
+My rathounds will feast on your carcass!<end>
+
+=>q20_original
+I'll strangle you with your guts.<end>
+
+=>q20
+I'll strangle you with your guts.<end>
+
+=>q21_original
+Your death will please me greatly.<end>
+
+=>q21
+Your death will please me greatly.<end>
+
+=>q22_original
+Die.<end>
+
+=>q22
+Die.<end>
+
+=>q23_original
+Bow to the king!<end>
+
+=>q23
+Bow to the king!<end>
+
+=>q24_original
+Tremble before me!<end>
+
+=>q24
+Tremble before me!<end>
+
+=>q25_original
+HA! Fools do burn brighter.<end>
+
+=>q25
+HA! Fools do burn brighter.<end>
+
+=>q26_original
+Fire...<end>
+
+=>q26
+Fire...<end>
+
+=>q27_original
+HA! Stay put!<end>
+
+=>q27
+HA! Stay put!<end>
+
+=>q28_original
+It's over.<end>
+
+=>q28
+It's over.<end>
+
+=>q29_original
+If I don't end you, the venom will.<end>
+
+=>q29
+If I don't end you, the venom will.<end>
+
+=>q30_original
+Bleed for me...<end>
+
+=>q30
+Bleed for me...<end>
+
+=>q31_original
+Let it all spill out.<end>
+
+=>q31
+Let it all spill out.<end>
+
+=>q32_original
+HA!<end>
+
+=>q32
+HA!<end>
+
+=>q33_original
+::Yawns.:: Pitiful.<end>
+
+=>q33
+::Yawns.:: Pitiful.<end>
+
+=>q34_original
+I'll crush you with my bare hands!<end>
+
+=>q34
+I'll crush you with my bare hands!<end>
+
+=>q35_original
+::Roars.::<end>
+
+=>q35
+::Roars.::<end>
+
+=>q36_original
+I'll spill your guts!<end>
+
+=>q36
+I'll spill your guts!<end>
+
+=>q37_original
+I'll split your skull in two!<end>
+
+=>q37
+I'll split your skull in two!<end>
+
+=>q38_original
+Hold still...<end>
+
+=>q38
+Hold still...<end>
+
+=>q39_original
+Die!<end>
+
+=>q39
+Die!<end>
+
+=>q40_original
+I've had enough of you!<end>
+
+=>q40
+I've had enough of you!<end>
+
+=>q41_original
+Stop!<end>
+
+=>q41
+Stop!<end>
+
+=>q42_original
+No!<end>
+
+=>q42
+No!<end>
+
+=>q43_original
+Reveal yourself.<end>
+
+=>q43
+Reveal yourself.<end>
+
+=>q44_original
+Who dares trespass here?<end>
+
+=>q44
+Who dares trespass here?<end>
+
+=>q45_original
+Out of my lair, bot!<end>
+
+=>q45
+Out of my lair, bot!<end>
+
+=>q46_original
+Obey, beast - or perish!<end>
+
+=>q46
+Obey, beast - or perish!<end>
+
+=>q47_original
+Where are you, coward!?<end>
+
+=>q47
+Where are you, coward!?<end>
+
+=>q48_original
+Better...<end>
+
+=>q48
+Better...<end>
+
+=>q49_original
+Yes...<end>
+
+=>q49
+Yes...<end>
+
+=>q50_original
+This'll do.<end>
+
+=>q50
+This'll do.<end>
+
+=>q51_original
+::Licks the blood from laceration.::<end>
+
+=>q51
+::Licks the blood from laceration.::<end>
+
+=>q52_original
+::Grabs chest.:: Hhhghh...<end>
+
+=>q52
+::Grabs chest.:: Hhhghh...<end>
+
+=>q53_original
+::Coughs.::<end>
+
+=>q53
+::Coughs.::<end>
+
+=>q54_original
+Everything's... spinning...<end>
+
+=>q54
+Everything's... spinning...<end>
+
+=>q55_original
+::Falters momentarily.::<end>
+
+=>q55
+::Falters momentarily.::<end>
+
+=>q56_original
+What... wickedness is this...?<end>
+
+=>q56
+What... wickedness is this...?<end>
+
+=>q57_original
+My thoughts... they're shattering!<end>
+
+=>q57
+My thoughts... they're shattering!<end>
+
+=>q58_original
+How'd you track me all the way here?<end>
+
+=>q58
+How'd you track me all the way here?<end>
+

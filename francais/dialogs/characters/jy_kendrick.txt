@@ -1,96 +1,96 @@
-=>q1_original
-I've got some nice huntin' gear if ya want to take a look, stranger, and a bunch of other random stuff I scavenged.<end>
-
-=>q1
-I've got some nice huntin' gear if ya want to take a look, stranger, and a bunch of other random stuff I scavenged.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Show me what you got, old timer. ::Barter.::<end>
-
-=>a3
-Show me what you got, old timer. ::Barter.::<end>
-
-=>a4_original
-Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
-
-=>a4
-Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
-
-=>q5_original
-I dunno what that is, $(#son/young lady), but I'm pretty sure I ain't have none of that.<end>
-
-=>q5
-I dunno what that is, $(#son/young lady), but I'm pretty sure I ain't have none of that.<end>
-
-=>a6_original
-Any idea who might have some drill parts around here?<end>
-
-=>a6
-Any idea who might have some drill parts around here?<end>
-
-=>q7_original
-Well, you could try the Depot to the west. Or maybe the docks, they're to the east. You'll find all sorts of junk there.<end>
-
-=>q7
-Well, you could try the Depot to the west. Or maybe the docks, they're to the east. You'll find all sorts of junk there.<end>
-
-=>a8_original
-Never mind then.<end>
-
-=>a8
-Never mind then.<end>
-
-=>a9_original
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>a9
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>q10_original
-Some guy at the docks will sell you charons for other monies, or so I heard.<end>
-
-=>q10
-Some guy at the docks will sell you charons for other monies, or so I heard.<end>
-
-=>a11_original
-What's there to hunt in the nearby caves?<end>
-
-=>a11
-What's there to hunt in the nearby caves?<end>
-
-=>q12_original
-Rathounds and hoppers mostly.<end>
-
-=>q12
-Rathounds and hoppers mostly.<end>
-
-=>q13_original
-Them beetles too, but they taste terrible.<end>
-
-=>q13
-Them beetles too, but they taste terrible.<end>
-
-=>q14_original
-I was really hungry once and had to eat a bit of it. The only part ya can actually eat is the brain. First when ya take a bite, it ain't so bad, but then...<end>
-
-=>q14
-I was really hungry once and had to eat a bit of it. The only part ya can actually eat is the brain. First when ya take a bite, it ain't so bad, but then...<end>
-
-=>q15_original
-As soon as ya catch one of 'em thin blue veins or they burst and spill out... ugh, so bitter. I could taste it in my mouth fer weeks!<end>
-
-=>q15
-As soon as ya catch one of 'em thin blue veins or they burst and spill out... ugh, so bitter. I could taste it in my mouth fer weeks!<end>
-
-=>a16_original
-Catch you later.<end>
-
-=>a16
-Catch you later.<end>
-
+=>q1_original
+I've got some nice huntin' gear if ya want to take a look, stranger, and a bunch of other random stuff I scavenged.<end>
+
+=>q1
+I've got some nice huntin' gear if ya want to take a look, stranger, and a bunch of other random stuff I scavenged.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you got, old timer. ::Barter.::<end>
+
+=>a3
+Show me what you got, old timer. ::Barter.::<end>
+
+=>a4_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a4
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>q5_original
+I dunno what that is, $(#son/young lady), but I'm pretty sure I ain't have none of that.<end>
+
+=>q5
+I dunno what that is, $(#son/young lady), but I'm pretty sure I ain't have none of that.<end>
+
+=>a6_original
+Any idea who might have some drill parts around here?<end>
+
+=>a6
+Any idea who might have some drill parts around here?<end>
+
+=>q7_original
+Well, you could try the Depot to the west. Or maybe the docks, they're to the east. You'll find all sorts of junk there.<end>
+
+=>q7
+Well, you could try the Depot to the west. Or maybe the docks, they're to the east. You'll find all sorts of junk there.<end>
+
+=>a8_original
+Never mind then.<end>
+
+=>a8
+Never mind then.<end>
+
+=>a9_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a9
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q10_original
+Some guy at the docks will sell you charons for other monies, or so I heard.<end>
+
+=>q10
+Some guy at the docks will sell you charons for other monies, or so I heard.<end>
+
+=>a11_original
+What's there to hunt in the nearby caves?<end>
+
+=>a11
+What's there to hunt in the nearby caves?<end>
+
+=>q12_original
+Rathounds and hoppers mostly.<end>
+
+=>q12
+Rathounds and hoppers mostly.<end>
+
+=>q13_original
+Them beetles too, but they taste terrible.<end>
+
+=>q13
+Them beetles too, but they taste terrible.<end>
+
+=>q14_original
+I was really hungry once and had to eat a bit of it. The only part ya can actually eat is the brain. First when ya take a bite, it ain't so bad, but then...<end>
+
+=>q14
+I was really hungry once and had to eat a bit of it. The only part ya can actually eat is the brain. First when ya take a bite, it ain't so bad, but then...<end>
+
+=>q15_original
+As soon as ya catch one of 'em thin blue veins or they burst and spill out... ugh, so bitter. I could taste it in my mouth fer weeks!<end>
+
+=>q15
+As soon as ya catch one of 'em thin blue veins or they burst and spill out... ugh, so bitter. I could taste it in my mouth fer weeks!<end>
+
+=>a16_original
+Catch you later.<end>
+
+=>a16
+Catch you later.<end>
+

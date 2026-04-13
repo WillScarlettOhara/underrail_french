@@ -1,116 +1,116 @@
-=>q1_original
-::Hecate Research Outpost Mainframe
-
-Warning! Last database backup performed: 7 years, 6 months, 75 days ago::<end>
-
-=>q1
-::Hecate Research Outpost Mainframe
-
-Warning! Last database backup performed: 7 years, 6 months, 75 days ago::<end>
-
-=>a2_original
-::Open Project Database::<end>
-
-=>a2
-::Open Project Database::<end>
-
-=>q3_original
-::Project Database::<end>
-
-=>q3
-::Project Database::<end>
-
-=>a4_original
-::Iser's Process - An Electrometallurgical Super Steel Refining Technique (D. Iser)::<end>
-
-=>a4
-::Iser's Process - An Electrometallurgical Super Steel Refining Technique (D. Iser)::<end>
-
-=>q5_original
-::From what you can see by reading the abstract section, this paper elaborates on Dr. Iser's electrorefining techique, which can be used in the final stage of super steel production.::<end>
-
-=>q5
-::From what you can see by reading the abstract section, this paper elaborates on Dr. Iser's electrorefining techique, which can be used in the final stage of super steel production.::<end>
-
-=>a6_original
-::Download to memory stick.::<end>
-
-=>a6
-::Download to memory stick.::<end>
-
-=>q7_original
-::Download successful::<end>
-
-=>q7
-::Download successful::<end>
-
-=>a8_original
-::Back::<end>
-
-=>a8
-::Back::<end>
-
-=>a9_original
-::Origin of the Alpha Effect (J. Samuelson & S.K. Mitchell)::<end>
-
-=>a9
-::Origin of the Alpha Effect (J. Samuelson & S.K. Mitchell)::<end>
-
-=>q10_original
-::Error 23 - Database damaged
-
-Unable to retrieve specified information::<end>
-
-=>q10
-::Error 23 - Database damaged
-
-Unable to retrieve specified information::<end>
-
-=>a11_original
-::Supramolecular Catalysis - Design Perspective (L. Baka)::<end>
-
-=>a11
-::Supramolecular Catalysis - Design Perspective (L. Baka)::<end>
-
-=>a12_original
-::Core City Aquatic Chemistry - Equilibria and Current Rates (P. Hon)::<end>
-
-=>a12
-::Core City Aquatic Chemistry - Equilibria and Current Rates (P. Hon)::<end>
-
-=>a13_original
-::De Novo Protein Design (U. Hike & T. Robinson)::<end>
-
-=>a13
-::De Novo Protein Design (U. Hike & T. Robinson)::<end>
-
-=>q14_original
-::From what you can see by reading the abstract section, this paper goes into great detail on designing completely new protein sequences from scratch and chronicles research on the subject within Hecate Research Outpost. In addition, the authors explain how they were able to create a significant number of new sequences as well as their various useful applications.::<end>
-
-=>q14
-::From what you can see by reading the abstract section, this paper goes into great detail on designing completely new protein sequences from scratch and chronicles research on the subject within Hecate Research Outpost. In addition, the authors explain how they were able to create a significant number of new sequences as well as their various useful applications.::<end>
-
-=>a15_original
-::Download to memory stick.::<end>
-
-=>a15
-::Download to memory stick.::<end>
-
-=>a16_original
-::NiCd Battery Cells Revival (B. Bjornson)::<end>
-
-=>a16
-::NiCd Battery Cells Revival (B. Bjornson)::<end>
-
-=>a17_original
-::Back::<end>
-
-=>a17
-::Back::<end>
-
-=>a18_original
-::Exit::<end>
-
-=>a18
-::Exit::<end>
-
+=>q1_original
+::Hecate Research Outpost Mainframe
+
+Warning! Last database backup performed: 7 years, 6 months, 75 days ago::<end>
+
+=>q1
+::Hecate Research Outpost Mainframe
+
+Warning! Last database backup performed: 7 years, 6 months, 75 days ago::<end>
+
+=>a2_original
+::Open Project Database::<end>
+
+=>a2
+::Open Project Database::<end>
+
+=>q3_original
+::Project Database::<end>
+
+=>q3
+::Project Database::<end>
+
+=>a4_original
+::Iser's Process - An Electrometallurgical Super Steel Refining Technique (D. Iser)::<end>
+
+=>a4
+::Iser's Process - An Electrometallurgical Super Steel Refining Technique (D. Iser)::<end>
+
+=>q5_original
+::From what you can see by reading the abstract section, this paper elaborates on Dr. Iser's electrorefining techique, which can be used in the final stage of super steel production.::<end>
+
+=>q5
+::From what you can see by reading the abstract section, this paper elaborates on Dr. Iser's electrorefining techique, which can be used in the final stage of super steel production.::<end>
+
+=>a6_original
+::Download to memory stick.::<end>
+
+=>a6
+::Download to memory stick.::<end>
+
+=>q7_original
+::Download successful::<end>
+
+=>q7
+::Download successful::<end>
+
+=>a8_original
+::Back::<end>
+
+=>a8
+::Back::<end>
+
+=>a9_original
+::Origin of the Alpha Effect (J. Samuelson & S.K. Mitchell)::<end>
+
+=>a9
+::Origin of the Alpha Effect (J. Samuelson & S.K. Mitchell)::<end>
+
+=>q10_original
+::Error 23 - Database damaged
+
+Unable to retrieve specified information::<end>
+
+=>q10
+::Error 23 - Database damaged
+
+Unable to retrieve specified information::<end>
+
+=>a11_original
+::Supramolecular Catalysis - Design Perspective (L. Baka)::<end>
+
+=>a11
+::Supramolecular Catalysis - Design Perspective (L. Baka)::<end>
+
+=>a12_original
+::Core City Aquatic Chemistry - Equilibria and Current Rates (P. Hon)::<end>
+
+=>a12
+::Core City Aquatic Chemistry - Equilibria and Current Rates (P. Hon)::<end>
+
+=>a13_original
+::De Novo Protein Design (U. Hike & T. Robinson)::<end>
+
+=>a13
+::De Novo Protein Design (U. Hike & T. Robinson)::<end>
+
+=>q14_original
+::From what you can see by reading the abstract section, this paper goes into great detail on designing completely new protein sequences from scratch and chronicles research on the subject within Hecate Research Outpost. In addition, the authors explain how they were able to create a significant number of new sequences as well as their various useful applications.::<end>
+
+=>q14
+::From what you can see by reading the abstract section, this paper goes into great detail on designing completely new protein sequences from scratch and chronicles research on the subject within Hecate Research Outpost. In addition, the authors explain how they were able to create a significant number of new sequences as well as their various useful applications.::<end>
+
+=>a15_original
+::Download to memory stick.::<end>
+
+=>a15
+::Download to memory stick.::<end>
+
+=>a16_original
+::NiCd Battery Cells Revival (B. Bjornson)::<end>
+
+=>a16
+::NiCd Battery Cells Revival (B. Bjornson)::<end>
+
+=>a17_original
+::Back::<end>
+
+=>a17
+::Back::<end>
+
+=>a18_original
+::Exit::<end>
+
+=>a18
+::Exit::<end>
+

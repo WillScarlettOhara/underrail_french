@@ -1,54 +1,54 @@
-=>q1_original
-::You take a look through the crevice, ::<end>
-
-=>q1
-::You take a look through the crevice, ::<end>
-
-=>q2_original
-::but not even your flashlight ::<end>
-
-=>q2
-::but not even your flashlight ::<end>
-
-=>q3_original
-::can help you discern what is on the other side. ::<end>
-
-=>q3
-::can help you discern what is on the other side. ::<end>
-
-=>q4_original
-::It seems to be large enough for you to barely squeeze through.::<end>
-
-=>q4
-::It seems to be large enough for you to barely squeeze through.::<end>
-
-=>a5_original
-::Crawl through the crevice.::<end>
-
-=>a5
-::Crawl through the crevice.::<end>
-
-=>a6_original
-::Leave.::<end>
-
-=>a6
-::Leave.::<end>
-
-=>q7_original
-::but not even your headlamp ::<end>
-
-=>q7
-::but not even your headlamp ::<end>
-
-=>q8_original
-::but not even night vision ::<end>
-
-=>q8
-::but not even night vision ::<end>
-
-=>q9_original
-::but all you are able to see is darkness. ::<end>
-
-=>q9
-::but all you are able to see is darkness. ::<end>
-
+=>q1_original
+::You take a look through the crevice, ::<end>
+
+=>q1
+::You take a look through the crevice, ::<end>
+
+=>q2_original
+::but not even your flashlight ::<end>
+
+=>q2
+::but not even your flashlight ::<end>
+
+=>q3_original
+::can help you discern what is on the other side. ::<end>
+
+=>q3
+::can help you discern what is on the other side. ::<end>
+
+=>q4_original
+::It seems to be large enough for you to barely squeeze through.::<end>
+
+=>q4
+::It seems to be large enough for you to barely squeeze through.::<end>
+
+=>a5_original
+::Crawl through the crevice.::<end>
+
+=>a5
+::Crawl through the crevice.::<end>
+
+=>a6_original
+::Leave.::<end>
+
+=>a6
+::Leave.::<end>
+
+=>q7_original
+::but not even your headlamp ::<end>
+
+=>q7
+::but not even your headlamp ::<end>
+
+=>q8_original
+::but not even night vision ::<end>
+
+=>q8
+::but not even night vision ::<end>
+
+=>q9_original
+::but all you are able to see is darkness. ::<end>
+
+=>q9
+::but all you are able to see is darkness. ::<end>
+

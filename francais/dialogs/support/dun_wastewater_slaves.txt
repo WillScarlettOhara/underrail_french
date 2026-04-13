@@ -1,48 +1,48 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-W-what... happened?<end>
-
-=>q2
-W-what... happened?<end>
-
-=>q3_original
-Did you... kill the son of a rat?<end>
-
-=>q3
-Did you... kill the son of a rat?<end>
-
-=>q4_original
-Nnnnnn... My head... is killing me.<end>
-
-=>q4
-Nnnnnn... My head... is killing me.<end>
-
-=>q5_original
-I gotta... I gotta get out of here.<end>
-
-=>q5
-I gotta... I gotta get out of here.<end>
-
-=>q6_original
-::Rubs temples.::<end>
-
-=>q6
-::Rubs temples.::<end>
-
-=>q7_original
-Where am I?<end>
-
-=>q7
-Where am I?<end>
-
-=>q8_original
-I'm starting to remember...<end>
-
-=>q8
-I'm starting to remember...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+W-what... happened?<end>
+
+=>q2
+W-what... happened?<end>
+
+=>q3_original
+Did you... kill the son of a rat?<end>
+
+=>q3
+Did you... kill the son of a rat?<end>
+
+=>q4_original
+Nnnnnn... My head... is killing me.<end>
+
+=>q4
+Nnnnnn... My head... is killing me.<end>
+
+=>q5_original
+I gotta... I gotta get out of here.<end>
+
+=>q5
+I gotta... I gotta get out of here.<end>
+
+=>q6_original
+::Rubs temples.::<end>
+
+=>q6
+::Rubs temples.::<end>
+
+=>q7_original
+Where am I?<end>
+
+=>q7
+Where am I?<end>
+
+=>q8_original
+I'm starting to remember...<end>
+
+=>q8
+I'm starting to remember...<end>
+

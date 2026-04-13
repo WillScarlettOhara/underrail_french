@@ -1,84 +1,84 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-N-n-not now, I'm watching th-tha-the fight!<end>
-
-=>q2
-N-n-not now, I'm watching th-tha-the fight!<end>
-
-=>q3_original
-S-stop bothering me!<end>
-
-=>q3
-S-stop bothering me!<end>
-
-=>q4_original
-D-d-dominating!<end>
-
-=>q4
-D-d-dominating!<end>
-
-=>q5_original
-Y-y-y-y... Yes! Y-yes! Y-you g-got him!<end>
-
-=>q5
-Y-y-y-y... Yes! Y-yes! Y-you g-got him!<end>
-
-=>q6_original
-W-what do you want? L-leave me alone!<end>
-
-=>q6
-W-what do you want? L-leave me alone!<end>
-
-=>q7_original
-P-please don't d-d-d... P-please d-don't disturb me.<end>
-
-=>q7
-P-please don't d-d-d... P-please d-don't disturb me.<end>
-
-=>q8_original
-K-kill him! Tear his h-he-ha-heart out!<end>
-
-=>q8
-K-kill him! Tear his h-he-ha-heart out!<end>
-
-=>q9_original
-N-no! N-not with a s-sledgehammer!<end>
-
-=>q9
-N-no! N-not with a s-sledgehammer!<end>
-
-=>q10_original
-Ugh!<end>
-
-=>q10
-Ugh!<end>
-
-=>q11_original
-B-behind y-you!<end>
-
-=>q11
-B-behind y-you!<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>q13_original
-O-o-o-out of my way!<end>
-
-=>q13
-O-o-o-out of my way!<end>
-
-=>q14_original
-M-m-m-move!<end>
-
-=>q14
-M-m-m-move!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+N-n-not now, I'm watching th-tha-the fight!<end>
+
+=>q2
+N-n-not now, I'm watching th-tha-the fight!<end>
+
+=>q3_original
+S-stop bothering me!<end>
+
+=>q3
+S-stop bothering me!<end>
+
+=>q4_original
+D-d-dominating!<end>
+
+=>q4
+D-d-dominating!<end>
+
+=>q5_original
+Y-y-y-y... Yes! Y-yes! Y-you g-got him!<end>
+
+=>q5
+Y-y-y-y... Yes! Y-yes! Y-you g-got him!<end>
+
+=>q6_original
+W-what do you want? L-leave me alone!<end>
+
+=>q6
+W-what do you want? L-leave me alone!<end>
+
+=>q7_original
+P-please don't d-d-d... P-please d-don't disturb me.<end>
+
+=>q7
+P-please don't d-d-d... P-please d-don't disturb me.<end>
+
+=>q8_original
+K-kill him! Tear his h-he-ha-heart out!<end>
+
+=>q8
+K-kill him! Tear his h-he-ha-heart out!<end>
+
+=>q9_original
+N-no! N-not with a s-sledgehammer!<end>
+
+=>q9
+N-no! N-not with a s-sledgehammer!<end>
+
+=>q10_original
+Ugh!<end>
+
+=>q10
+Ugh!<end>
+
+=>q11_original
+B-behind y-you!<end>
+
+=>q11
+B-behind y-you!<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+O-o-o-out of my way!<end>
+
+=>q13
+O-o-o-out of my way!<end>
+
+=>q14_original
+M-m-m-move!<end>
+
+=>q14
+M-m-m-move!<end>
+

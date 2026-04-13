@@ -1,1184 +1,1184 @@
-=>q1_original
-Ey, yer plates are ready. 'Ere ya go. ::He hands you some super steel plates.::<end>
-
-=>q1
-Ey, yer plates are ready. 'Ere ya go. ::He hands you some super steel plates.::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-I need a favor: I want you to melt this for me. ::Show him the Acorn.::<end>
-
-=>a3
-I need a favor: I want you to melt this for me. ::Show him the Acorn.::<end>
-
-=>q4_original
-::He marvels at this curious box you hold up in front of him.::
-
-Ey... What's this thing made of?<end>
-
-=>q4
-::He marvels at this curious box you hold up in front of him.::
-
-Ey... What's this thing made of?<end>
-
-=>a5_original
-Some pretty high-tech materials. Nonetheless, I don't think it should give Gloria any problems.<end>
-
-=>a5
-Some pretty high-tech materials. Nonetheless, I don't think it should give Gloria any problems.<end>
-
-=>q6_original
-Ya know, this thingy doesn't seem like somethin' ya should just dump in the fire.<end>
-
-=>q6
-Ya know, this thingy doesn't seem like somethin' ya should just dump in the fire.<end>
-
-=>a7_original
-If you only knew... Here, take it. ::Give him the ACoNR.::<end>
-
-=>a7
-If you only knew... Here, take it. ::Give him the ACoNR.::<end>
-
-=>q8_original
-::Confused, he takes the ACoNR from you.::
-
-Well, shame. But, I owe ya a lot for fixin' my dear Gloria, so if that's whatcha want, that's what's gonna happen. 
-
-Now, once it's melted...<end>
-
-=>q8
-::Confused, he takes the ACoNR from you.::
-
-Well, shame. But, I owe ya a lot for fixin' my dear Gloria, so if that's whatcha want, that's what's gonna happen. 
-
-Now, once it's melted...<end>
-
-=>a9_original
-Whatever's left of it feel free to throw away.<end>
-
-=>a9
-Whatever's left of it feel free to throw away.<end>
-
-=>q10_original
-Ah, okay. Ya really wanna see this thing gone. Okay, okay. ::He shakes the box, looks at it from all sides, then takes it over to the loading conveyor and puts it there, his eyes lingering on the word "ACoNR" for just a while longer.
-
-With the press of a button, the ACoNR rises all the way to the top - and then plunges into the belly of the furnace. You can hear a peculiar low-pitch buzzing sound reverberating inside Gloria, but the sound's lifetime is quite brief.::<end>
-
-=>q10
-Ah, okay. Ya really wanna see this thing gone. Okay, okay. ::He shakes the box, looks at it from all sides, then takes it over to the loading conveyor and puts it there, his eyes lingering on the word "ACoNR" for just a while longer.
-
-With the press of a button, the ACoNR rises all the way to the top - and then plunges into the belly of the furnace. You can hear a peculiar low-pitch buzzing sound reverberating inside Gloria, but the sound's lifetime is quite brief.::<end>
-
-=>q11_original
-Well, that's that. Whatever that was, it's muck now.<end>
-
-=>q11
-Well, that's that. Whatever that was, it's muck now.<end>
-
-=>a12_original
-Just melt it and think no further of it.<end>
-
-=>a12
-Just melt it and think no further of it.<end>
-
-=>a13_original
-Maybe you're right. I'll think about it some more.<end>
-
-=>a13
-Maybe you're right. I'll think about it some more.<end>
-
-=>q14_original
-Yeah, ya better do that.<end>
-
-=>q14
-Yeah, ya better do that.<end>
-
-=>a15_original
-Nothing that should give Gloria any problems.<end>
-
-=>a15
-Nothing that should give Gloria any problems.<end>
-
-=>a16_original
-About super steel...<end>
-
-=>a16
-About super steel...<end>
-
-=>q17_original
-Ya up for meltin' some charons then?<end>
-
-=>q17
-Ya up for meltin' some charons then?<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-Alright, let's make some super steel.<end>
-
-=>a19
-Alright, let's make some super steel.<end>
-
-=>q20_original
-That's what I like to hear.<end>
-
-=>q20
-That's what I like to hear.<end>
-
-=>q21_original
-I can create up to three sets of plates per meltin', and it'll take a while. <end>
-
-=>q21
-I can create up to three sets of plates per meltin', and it'll take a while. <end>
-
-=>q22_original
-Oh, and make sure ya take everythin' ya need from the chamber before the purification process starts or it'll be goners.<end>
-
-=>q22
-Oh, and make sure ya take everythin' ya need from the chamber before the purification process starts or it'll be goners.<end>
-
-=>q23_original
-
-
-So how many sets of plates do ya want?<end>
-
-=>q23
-
-
-So how many sets of plates do ya want?<end>
-
-=>a24_original
-One set of super steel plates. ::Give him 3000 charons.::<end>
-
-=>a24
-One set of super steel plates. ::Give him 3000 charons.::<end>
-
-=>q25_original
-Okay, I'll get right on it. It'll take a while, though, so ya come back later. But once it's done, ya'll be golden.<end>
-
-=>q25
-Okay, I'll get right on it. It'll take a while, though, so ya come back later. But once it's done, ya'll be golden.<end>
-
-=>a26_original
-Two sets of super steel plates. ::Give him 6000 charons.::<end>
-
-=>a26
-Two sets of super steel plates. ::Give him 6000 charons.::<end>
-
-=>a27_original
-Three sets of super steel plates. ::Give him 9000 charons.::<end>
-
-=>a27
-Three sets of super steel plates. ::Give him 9000 charons.::<end>
-
-=>a28_original
-I'll have to think about it some more first actually.<end>
-
-=>a28
-I'll have to think about it some more first actually.<end>
-
-=>q29_original
-Eh? Okay. I'll be 'ere anyway.<end>
-
-=>q29
-Eh? Okay. I'll be 'ere anyway.<end>
-
-=>a30_original
-I found some super steel refining data.<end>
-
-=>a30
-I found some super steel refining data.<end>
-
-=>q31_original
-Ey! Ya actually managed to find somethin'. That's golden! <end>
-
-=>q31
-Ey! Ya actually managed to find somethin'. That's golden! <end>
-
-=>q32_original
-<end>
-
-=>q32
-<end>
-
-=>q33_original
-<end>
-
-=>q33
-<end>
-
-=>q34_original
-I think this is more than enough. Takes time to put this knowledge to practice, and Andy's gonna have his hands full with whatcha brought 'im.<end>
-
-=>q34
-I think this is more than enough. Takes time to put this knowledge to practice, and Andy's gonna have his hands full with whatcha brought 'im.<end>
-
-=>q35_original
-I'll be bringin' this data to Andy as soon as possible. <end>
-
-=>q35
-I'll be bringin' this data to Andy as soon as possible. <end>
-
-=>q36_original
-Don't expect it to affect the current batch, though. <end>
-
-=>q36
-Don't expect it to affect the current batch, though. <end>
-
-=>q37_original
-Takes time to put knowledge into practice.<end>
-
-=>q37
-Takes time to put knowledge into practice.<end>
-
-=>q38_original
-Golden! <end>
-
-=>q38
-Golden! <end>
-
-=>a39_original
-Any idea where I could start looking for data on super steel?<end>
-
-=>a39
-Any idea where I could start looking for data on super steel?<end>
-
-=>q40_original
-Never thought about it much. I guess some... library, mmmm... archive? I dunno, I ain't the readin' type.<end>
-
-=>q40
-Never thought about it much. I guess some... library, mmmm... archive? I dunno, I ain't the readin' type.<end>
-
-=>q41_original
-I did hear about a facility north of Foundry. Don't remember what it's called, or what's inside, but I heard it mentioned a few times.<end>
-
-=>q41
-I did hear about a facility north of Foundry. Don't remember what it's called, or what's inside, but I heard it mentioned a few times.<end>
-
-=>a42_original
-Tell me about super steel.<end>
-
-=>a42
-Tell me about super steel.<end>
-
-=>q43_original
-Alright, listen up. Ya see, them Stygian Coins were created from a very special metal alloy - super steel.<end>
-
-=>q43
-Alright, listen up. Ya see, them Stygian Coins were created from a very special metal alloy - super steel.<end>
-
-=>q44_original
-Some techno-nuts back in Old Biocorp made them to function as commodity money. Ya see, super steel is a valuable industrial metal, not to mention super expensive to create. It's light, ductile, conductive and also has other good properties.<end>
-
-=>q44
-Some techno-nuts back in Old Biocorp made them to function as commodity money. Ya see, super steel is a valuable industrial metal, not to mention super expensive to create. It's light, ductile, conductive and also has other good properties.<end>
-
-=>q45_original
-It ain't real commodity money though, because there's a catch, ya see: Because the Old Biocorp technocrats wanted to keep themselves still relevant, they introduced impurities into the alloy as they produced the coins.<end>
-
-=>q45
-It ain't real commodity money though, because there's a catch, ya see: Because the Old Biocorp technocrats wanted to keep themselves still relevant, they introduced impurities into the alloy as they produced the coins.<end>
-
-=>q46_original
-These impurities serve two purposes: One, they take away from the good stuff of the alloy - its high conductivity and malleability. And secondly, they significantly raise its melting temperature.<end>
-
-=>q46
-These impurities serve two purposes: One, they take away from the good stuff of the alloy - its high conductivity and malleability. And secondly, they significantly raise its melting temperature.<end>
-
-=>q47_original
-So ya see, not everyone was able to actually cash in on the metal, unless they had somethin' like my dear Gloria. ::He looks at Gloria.:: Ah... Gloria.<end>
-
-=>q47
-So ya see, not everyone was able to actually cash in on the metal, unless they had somethin' like my dear Gloria. ::He looks at Gloria.:: Ah... Gloria.<end>
-
-=>a48_original
-Is there a way to remove these impurities and get higher quality super steel?<end>
-
-=>a48
-Is there a way to remove these impurities and get higher quality super steel?<end>
-
-=>q49_original
-Sure. We get rid of 'em as much as we can durin' the refinin' process, but we can't get rid of 'em all. At least, ya know, not with the techniques our metallurgists use.<end>
-
-=>q49
-Sure. We get rid of 'em as much as we can durin' the refinin' process, but we can't get rid of 'em all. At least, ya know, not with the techniques our metallurgists use.<end>
-
-=>a50_original
-Is there anything I can do to help?<end>
-
-=>a50
-Is there anything I can do to help?<end>
-
-=>q51_original
-I dunno. ::He shrugs.:: Unless yer a metallurgist yerself, I don't think so. Or unless ya know a good one.
-
-Or *unless*...<end>
-
-=>q51
-I dunno. ::He shrugs.:: Unless yer a metallurgist yerself, I don't think so. Or unless ya know a good one.
-
-Or *unless*...<end>
-
-=>q52_original
-Ey, yer a resourceful kinda $(#guy/girl). Perhaps there's some useful data on these impurities - or super steel in general - out there that can do us good. If ya manage to find anythin' interestin', bring it to me and I'll pass it on to Andy, our chief metallurgist.<end>
-
-=>q52
-Ey, yer a resourceful kinda $(#guy/girl). Perhaps there's some useful data on these impurities - or super steel in general - out there that can do us good. If ya manage to find anythin' interestin', bring it to me and I'll pass it on to Andy, our chief metallurgist.<end>
-
-=>a53_original
-What kind of goodies can I make out of super steel?<end>
-
-=>a53
-What kind of goodies can I make out of super steel?<end>
-
-=>q54_original
-Well, weapons and armor for starters. The stuff ya can make from ordinary steel right now if yer a metal worker. If ya ain't, then there's no point explainin' it.<end>
-
-=>q54
-Well, weapons and armor for starters. The stuff ya can make from ordinary steel right now if yer a metal worker. If ya ain't, then there's no point explainin' it.<end>
-
-=>q55_original
-Also, Leonie might be able to make sheets and fiber if ya bring 'er some super steel. Them things might also be of use to ya.<end>
-
-=>q55
-Also, Leonie might be able to make sheets and fiber if ya bring 'er some super steel. Them things might also be of use to ya.<end>
-
-=>a56_original
-How many charons do I need?<end>
-
-=>a56
-How many charons do I need?<end>
-
-=>q57_original
-Well let's see... ya'll need about three standard plates to be able to create anythin' useful... if we take the weight of the coin... minus the impurities... ya'd need three thousand charons per set of plates.<end>
-
-=>q57
-Well let's see... ya'll need about three standard plates to be able to create anythin' useful... if we take the weight of the coin... minus the impurities... ya'd need three thousand charons per set of plates.<end>
-
-=>q58_original
-Yeah, I know it's a lot, but as I said - if yer a metal worker it'll be worth it. And no, I ain't getting rich off ya. My share will be just about a hundred charons per set and I think that's fair.<end>
-
-=>q58
-Yeah, I know it's a lot, but as I said - if yer a metal worker it'll be worth it. And no, I ain't getting rich off ya. My share will be just about a hundred charons per set and I think that's fair.<end>
-
-=>a59_original
-Never mind. Let's talk about something else.<end>
-
-=>a59
-Never mind. Let's talk about something else.<end>
-
-=>q60_original
-Alright.<end>
-
-=>q60
-Alright.<end>
-
-=>a61_original
-You mentioned melting super steel earlier.<end>
-
-=>a61
-You mentioned melting super steel earlier.<end>
-
-=>q62_original
-What? Ah, yeah, absolutely. My Gloria could do it. It's all up to you if ya wanna melt yer charons.<end>
-
-=>q62
-What? Ah, yeah, absolutely. My Gloria could do it. It's all up to you if ya wanna melt yer charons.<end>
-
-=>a63_original
-Charons?<end>
-
-=>a63
-Charons?<end>
-
-=>q64_original
-Yeah, lemme explain what's up: Ya see, them charons were created from a very special metal alloy - the super steel.<end>
-
-=>q64
-Yeah, lemme explain what's up: Ya see, them charons were created from a very special metal alloy - the super steel.<end>
-
-=>a65_original
-So I can melt the money into super steel?<end>
-
-=>a65
-So I can melt the money into super steel?<end>
-
-=>a66_original
-Why would I want to melt super steel?<end>
-
-=>a66
-Why would I want to melt super steel?<end>
-
-=>q67_original
-Well, ya would only wanna do that if ya can work it to make some goodies. Ya see, super steel's very valuable industrial metal. It's light, ductile, conductive and also has other good properties.<end>
-
-=>q67
-Well, ya would only wanna do that if ya can work it to make some goodies. Ya see, super steel's very valuable industrial metal. It's light, ductile, conductive and also has other good properties.<end>
-
-=>q68_original
-Some techno-nuts back in Old Biocorp made them to function as commodity money, but not really. There's a catch, ya see. Because the Old Biocorp technocrats wanted to keep themselves relevant, they introduced impurities into the alloy as they produced the coins.<end>
-
-=>q68
-Some techno-nuts back in Old Biocorp made them to function as commodity money, but not really. There's a catch, ya see. Because the Old Biocorp technocrats wanted to keep themselves relevant, they introduced impurities into the alloy as they produced the coins.<end>
-
-=>a69_original
-About loading the furnace...<end>
-
-=>a69
-About loading the furnace...<end>
-
-=>q70_original
-Yer havin' trouble?<end>
-
-=>q70
-Yer havin' trouble?<end>
-
-=>q71_original
-<end>
-
-=>q71
-<end>
-
-=>a72_original
-Where can I find some mining equipment?<end>
-
-=>a72
-Where can I find some mining equipment?<end>
-
-=>q73_original
-I'm sure ya can find some jackhammers lying around the mine. Lotsa stuff was abandoned there when them things attacked. But I'm sure the merchants got them in stock.<end>
-
-=>q73
-I'm sure ya can find some jackhammers lying around the mine. Lotsa stuff was abandoned there when them things attacked. But I'm sure the merchants got them in stock.<end>
-
-=>q74_original
-If ya wanna spend some charons, of course.<end>
-
-=>q74
-If ya wanna spend some charons, of course.<end>
-
-=>a75_original
-How do the carts work?<end>
-
-=>a75
-How do the carts work?<end>
-
-=>q76_original
-It's as easy as under pie! Lemme explain: There are levers in the mine that will bring the cart to ya when used. So, wherever yer minin', just call the cart and load it with ore. Once yer back here at the furnace, use the console to recall the cart and dump the ore. Ya can also use it - the console - to start meltin' the ore.<end>
-
-=>q76
-It's as easy as under pie! Lemme explain: There are levers in the mine that will bring the cart to ya when used. So, wherever yer minin', just call the cart and load it with ore. Once yer back here at the furnace, use the console to recall the cart and dump the ore. Ya can also use it - the console - to start meltin' the ore.<end>
-
-=>q77_original
-So simple even a cackler wouldn't mind doin' it. ::He laughs.::<end>
-
-=>q77
-So simple even a cackler wouldn't mind doin' it. ::He laughs.::<end>
-
-=>a78_original
-I know what to do.<end>
-
-=>a78
-I know what to do.<end>
-
-=>q79_original
-Go for it.<end>
-
-=>q79
-Go for it.<end>
-
-=>a80_original
-Is the furnace ready to be used?<end>
-
-=>a80
-Is the furnace ready to be used?<end>
-
-=>q81_original
-Ya can't wait to see Gloria in action? I wanna see 'er too, to tell ya the truth.<end>
-
-=>q81
-Ya can't wait to see Gloria in action? I wanna see 'er too, to tell ya the truth.<end>
-
-=>q82_original
-But the thing is, ya need to load 'er with some ore and start the meltin' process.<end>
-
-=>q82
-But the thing is, ya need to load 'er with some ore and start the meltin' process.<end>
-
-=>q83_original
-We went through most of our supplies after the mine was closed, so chances are yer gonna have to go into the mine. Any ore rich in metal should do the trick. Ya can use the cart system to help ya carry all that around.<end>
-
-=>q83
-We went through most of our supplies after the mine was closed, so chances are yer gonna have to go into the mine. Any ore rich in metal should do the trick. Ya can use the cart system to help ya carry all that around.<end>
-
-=>q84_original
-Hold on, I don't think ya told me everythin'. What do ya plan on usin' Gloria for?<end>
-
-=>q84
-Hold on, I don't think ya told me everythin'. What do ya plan on usin' Gloria for?<end>
-
-=>a85_original
-I need it to kill the large beast from the mine.<end>
-
-=>a85
-I need it to kill the large beast from the mine.<end>
-
-=>q86_original
-Oh, why didn't ya say so in the first place? Gloria can do that. Actually, she would LOVE to do that.<end>
-
-=>q86
-Oh, why didn't ya say so in the first place? Gloria can do that. Actually, she would LOVE to do that.<end>
-
-=>a87_original
-Nothing, just asking. Let's discuss something else.<end>
-
-=>a87
-Nothing, just asking. Let's discuss something else.<end>
-
-=>q88_original
-Whacha wanna talk about?<end>
-
-=>q88
-Whacha wanna talk about?<end>
-
-=>a89_original
-How about I help you repair the furnace?<end>
-
-=>a89
-How about I help you repair the furnace?<end>
-
-=>q90_original
-So... the mayor said no. Damn 'im again! But hold on, why would ya wanna help me fix 'er? Why's it important to ya?<end>
-
-=>q90
-So... the mayor said no. Damn 'im again! But hold on, why would ya wanna help me fix 'er? Why's it important to ya?<end>
-
-=>a91_original
-I need it to kill the large beast from the mine.<end>
-
-=>a91
-I need it to kill the large beast from the mine.<end>
-
-=>q92_original
-Wow, that's gonna be quite a challenge. But, look, if ya can help me fix my Gloria, she'll show ya what she's capable of. ::He laughs.::<end>
-
-=>q92
-Wow, that's gonna be quite a challenge. But, look, if ya can help me fix my Gloria, she'll show ya what she's capable of. ::He laughs.::<end>
-
-=>q93_original
-Now, I'll explain what Gloria suffers from, at least what *I* think is the problem: Ya see, there's somethin' wrong with the electrode power regulation system that's being controlled through this console. Before Gloria broke down, she started drawin' so much power from the system it caused a blackout in nearly half of Foundry.<end>
-
-=>q93
-Now, I'll explain what Gloria suffers from, at least what *I* think is the problem: Ya see, there's somethin' wrong with the electrode power regulation system that's being controlled through this console. Before Gloria broke down, she started drawin' so much power from the system it caused a blackout in nearly half of Foundry.<end>
-
-=>q94_original
-I don't think it's the problem with the console, but the unit itself. But nothin' I try seems to work. Muck.<end>
-
-=>q94
-I don't think it's the problem with the console, but the unit itself. But nothin' I try seems to work. Muck.<end>
-
-=>q95_original
-<end>
-
-=>q95
-<end>
-
-=>a96_original
-::[Electronics]:: Can I take a look?<end>
-
-=>a96
-::[Electronics]:: Can I take a look?<end>
-
-=>q97_original
-Um, okay. Just... be gentle.<end>
-
-=>q97
-Um, okay. Just... be gentle.<end>
-
-=>a98_original
-::Attempt to fix the furnace.::<end>
-
-=>a98
-::Attempt to fix the furnace.::<end>
-
-=>a99_original
-Why haven't you found someone to help you?<end>
-
-=>a99
-Why haven't you found someone to help you?<end>
-
-=>q100_original
-The mayor gave an order not to bother repairin' Gloria, so no one wants to help me.<end>
-
-=>q100
-The mayor gave an order not to bother repairin' Gloria, so no one wants to help me.<end>
-
-=>q101_original
-On top of that, they call me derailed for tryin' to fix 'er. Fools!<end>
-
-=>q101
-On top of that, they call me derailed for tryin' to fix 'er. Fools!<end>
-
-=>a102_original
-Actually, let's talk about something else.<end>
-
-=>a102
-Actually, let's talk about something else.<end>
-
-=>q103_original
-What else is there to talk about?<end>
-
-=>q103
-What else is there to talk about?<end>
-
-=>a104_original
-I like fixing things.<end>
-
-=>a104
-I like fixing things.<end>
-
-=>q105_original
-::Bernard silently observes you for a few moments.::<end>
-
-=>q105
-::Bernard silently observes you for a few moments.::<end>
-
-=>q106_original
-Well - if ya say so!<end>
-
-=>q106
-Well - if ya say so!<end>
-
-=>a107_original
-I just felt like helping.<end>
-
-=>a107
-I just felt like helping.<end>
-
-=>a108_original
-I'm doing it for the experience.<end>
-
-=>a108
-I'm doing it for the experience.<end>
-
-=>q109_original
-I hear ya. It's quite an experience working with Gloria, ya know. We spent so many years together smeltin' ore. Ah, the sounds she makes when she's startin' up, the warmth ya feel when the door opens and molten metal starts flowin' out, the way she crackles when she's cooling down. Ah, brings back so many memories.<end>
-
-=>q109
-I hear ya. It's quite an experience working with Gloria, ya know. We spent so many years together smeltin' ore. Ah, the sounds she makes when she's startin' up, the warmth ya feel when the door opens and molten metal starts flowin' out, the way she crackles when she's cooling down. Ah, brings back so many memories.<end>
-
-=>q110_original
-Ya mean Gloria? Yeah, that'd be awesome. But, hold on, why would ya wanna do that? Why's it important to ya?<end>
-
-=>q110
-Ya mean Gloria? Yeah, that'd be awesome. But, hold on, why would ya wanna do that? Why's it important to ya?<end>
-
-=>a111_original
-About Gloria...<end>
-
-=>a111
-About Gloria...<end>
-
-=>q112_original
-Yeah?<end>
-
-=>q112
-Yeah?<end>
-
-=>a113_original
-May I ask you how high can this furnace go temperature-wise?<end>
-
-=>a113
-May I ask you how high can this furnace go temperature-wise?<end>
-
-=>q114_original
-Oh, Gloria's very hot. I think she can go up to three thousand, even three and a half thousand degrees centigrade. Yeah, that's a lot, trust me. She could melt anythin'.<end>
-
-=>q114
-Oh, Gloria's very hot. I think she can go up to three thousand, even three and a half thousand degrees centigrade. Yeah, that's a lot, trust me. She could melt anythin'.<end>
-
-=>q115_original
-I even told the mayor that same thing, but he doesn't believe me. He told me to shut my tick hole 'cause he thinks I'm makin' it up to convince 'im to fix 'er. Damn 'im!<end>
-
-=>q115
-I even told the mayor that same thing, but he doesn't believe me. He told me to shut my tick hole 'cause he thinks I'm makin' it up to convince 'im to fix 'er. Damn 'im!<end>
-
-=>a116_original
-He explicitly told me to "forget about that piece of junk" when I asked him about it, so I don't think he has changed his mind.<end>
-
-=>a116
-He explicitly told me to "forget about that piece of junk" when I asked him about it, so I don't think he has changed his mind.<end>
-
-=>q117_original
-Damn 'im!<end>
-
-=>q117
-Damn 'im!<end>
-
-=>a118_original
-I too spoke to the mayor recently about related things, and all I can say is I share your sentiment.<end>
-
-=>a118
-I too spoke to the mayor recently about related things, and all I can say is I share your sentiment.<end>
-
-=>a119_original
-Hmmm... I'll get back to you. If I'm lucky, I might be able to convince the mayor to get this old gal up and running again.<end>
-
-=>a119
-Hmmm... I'll get back to you. If I'm lucky, I might be able to convince the mayor to get this old gal up and running again.<end>
-
-=>q120_original
-Really? Oh, I'd be grateful for that, I would, I would! But that man is one stubborn son of a rat, so good luck to ya. Yer gonna need every gram of it.<end>
-
-=>q120
-Really? Oh, I'd be grateful for that, I would, I would! But that man is one stubborn son of a rat, so good luck to ya. Yer gonna need every gram of it.<end>
-
-=>a121_original
-So, how are the repairs on the furnace coming along?<end>
-
-=>a121
-So, how are the repairs on the furnace coming along?<end>
-
-=>q122_original
-Ya mean Gloria? Her name is Gloria.<end>
-
-=>q122
-Ya mean Gloria? Her name is Gloria.<end>
-
-=>a123_original
-It's a lovely name. I like it.<end>
-
-=>a123
-It's a lovely name. I like it.<end>
-
-=>q124_original
-I hear ya! Finally someone agrees with me. I've been tryin' to explain it to people for years.<end>
-
-=>q124
-I hear ya! Finally someone agrees with me. I've been tryin' to explain it to people for years.<end>
-
-=>q125_original
-Gloria means glory. And this old girl and I have had our fair share of it. She served with me for many, many, *many* years. Ah, and now she's a cold, lifeless piece of junk! Oh, Gloria, why couldn't I have died before ya so I don't have to suffer like this.<end>
-
-=>q125
-Gloria means glory. And this old girl and I have had our fair share of it. She served with me for many, many, *many* years. Ah, and now she's a cold, lifeless piece of junk! Oh, Gloria, why couldn't I have died before ya so I don't have to suffer like this.<end>
-
-=>a126_original
-Why can't you repair the furnace?<end>
-
-=>a126
-Why can't you repair the furnace?<end>
-
-=>q127_original
-It's a weird electrical problem. I think I know exactly what causes it, but whatever I do somehow seems wrong. What's worse, that bastard up there said she's old, draws too much power from the system and is just not useful anymore, 'cause we got "better ones now." I'm talkin' about *you*, Marshall, ya bloody...! ::He raises a clenched fist in the air.::<end>
-
-=>q127
-It's a weird electrical problem. I think I know exactly what causes it, but whatever I do somehow seems wrong. What's worse, that bastard up there said she's old, draws too much power from the system and is just not useful anymore, 'cause we got "better ones now." I'm talkin' about *you*, Marshall, ya bloody...! ::He raises a clenched fist in the air.::<end>
-
-=>q128_original
-When Gloria broke down, our "beloved" mayor personally instructed everyone not to bother repairin' 'er!<end>
-
-=>q128
-When Gloria broke down, our "beloved" mayor personally instructed everyone not to bother repairin' 'er!<end>
-
-=>q129_original
-::He turns toward the large furnace.:: But I'm not breakin' my pick - I'll find some way to fix ya. I will.<end>
-
-=>q129
-::He turns toward the large furnace.:: But I'm not breakin' my pick - I'll find some way to fix ya. I will.<end>
-
-=>a130_original
-I'll leave you two alone.<end>
-
-=>a130
-I'll leave you two alone.<end>
-
-=>a131_original
-You call your furnace Gloria?<end>
-
-=>a131
-You call your furnace Gloria?<end>
-
-=>q132_original
-What's wrong with it? It's a beautiful name, I say.<end>
-
-=>q132
-What's wrong with it? It's a beautiful name, I say.<end>
-
-=>a133_original
-Did you hurt your head somewhere?<end>
-
-=>a133
-Did you hurt your head somewhere?<end>
-
-=>q134_original
-Don't be a jerk! She means a lot to me.<end>
-
-=>q134
-Don't be a jerk! She means a lot to me.<end>
-
-=>a135_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a135
-How do you feel now that the mine has been reopened?<end>
-
-=>q136_original
-Yeah, that's nice, but what's more important is that my Gloria is alive and well. Did ya see 'er melt that creature? Only the shell remained.<end>
-
-=>q136
-Yeah, that's nice, but what's more important is that my Gloria is alive and well. Did ya see 'er melt that creature? Only the shell remained.<end>
-
-=>q137_original
-Makes me so proud. Gloria...<end>
-
-=>q137
-Makes me so proud. Gloria...<end>
-
-=>a138_original
-What can you tell me about Foundry?<end>
-
-=>a138
-What can you tell me about Foundry?<end>
-
-=>q139_original
-Ya came all the way 'ere to ask me that?<end>
-
-=>q139
-Ya came all the way 'ere to ask me that?<end>
-
-=>q140_original
-Well, I dunno. The air is extremely polluted for sure, ya know what I mean? Just inhale it. ::He takes a deep breath and then starts coughing.:: Ya see what I mean? ::He coughs again.:: Ya'll hear a lot of them people coughin' and soundin' like they got jackhammers in their throats.<end>
-
-=>q140
-Well, I dunno. The air is extremely polluted for sure, ya know what I mean? Just inhale it. ::He takes a deep breath and then starts coughing.:: Ya see what I mean? ::He coughs again.:: Ya'll hear a lot of them people coughin' and soundin' like they got jackhammers in their throats.<end>
-
-=>q141_original
-But the pay is good, which attracts people. And the bandits can't reach ya! And... my Gloria's 'ere.<end>
-
-=>q141
-But the pay is good, which attracts people. And the bandits can't reach ya! And... my Gloria's 'ere.<end>
-
-=>a142_original
-Who's Gloria?<end>
-
-=>a142
-Who's Gloria?<end>
-
-=>q143_original
-This is 'er.<end>
-
-=>q143
-This is 'er.<end>
-
-=>a144_original
-I dont' understand.<end>
-
-=>a144
-I dont' understand.<end>
-
-=>q145_original
-This is Gloria! ::He puts on a wide smile and points to the large smelting furnace.::<end>
-
-=>q145
-This is Gloria! ::He puts on a wide smile and points to the large smelting furnace.::<end>
-
-=>a146_original
-The Furnace?<end>
-
-=>a146
-The Furnace?<end>
-
-=>q147_original
-Yes! 'Er! ::He puts on a wide smile and points to the large smelting furnace.::<end>
-
-=>q147
-Yes! 'Er! ::He puts on a wide smile and points to the large smelting furnace.::<end>
-
-=>a148_original
-Let's discuss something else.<end>
-
-=>a148
-Let's discuss something else.<end>
-
-=>q149_original
-Go ahead.<end>
-
-=>q149
-Go ahead.<end>
-
-=>a150_original
-Can you tell me anything about the mine creatures?<end>
-
-=>a150
-Can you tell me anything about the mine creatures?<end>
-
-=>q151_original
-Heard some scary stories about them things, ya know. After the mine was closed, some folks started goin' missin'. The mine entrances are guarded well, yet the creatures somehow still managed to slip past 'em.<end>
-
-=>q151
-Heard some scary stories about them things, ya know. After the mine was closed, some folks started goin' missin'. The mine entrances are guarded well, yet the creatures somehow still managed to slip past 'em.<end>
-
-=>q152_original
-Some say it's got nothin' to do with the creatures but with the recent increase in crime rate instead. I mean, the prison's gettin' fuller and fuller. But... who knows. 
-
-Ya take care in any case.<end>
-
-=>q152
-Some say it's got nothin' to do with the creatures but with the recent increase in crime rate instead. I mean, the prison's gettin' fuller and fuller. But... who knows. 
-
-Ya take care in any case.<end>
-
-=>a153_original
-Goodbye.<end>
-
-=>a153
-Goodbye.<end>
-
-=>q154_original
-Still workin' on them plates. Yer gonna have to come back later for 'em.<end>
-
-=>q154
-Still workin' on them plates. Yer gonna have to come back later for 'em.<end>
-
-=>q155_original
-::He looks ecstatic.:: Isn't my Gloria the best!? There ain't a thing in this world she couldn't melt - from the Beast to, to... freakin' super steel! <end>
-
-=>q155
-::He looks ecstatic.:: Isn't my Gloria the best!? There ain't a thing in this world she couldn't melt - from the Beast to, to... freakin' super steel! <end>
-
-=>q156_original
-Ya should drain the metal and see if anythin' remained of that devil. ::He laughs.::<end>
-
-=>q156
-Ya should drain the metal and see if anythin' remained of that devil. ::He laughs.::<end>
-
-=>q157_original
-::He lets out a content sigh.::<end>
-
-=>q157
-::He lets out a content sigh.::<end>
-
-=>q158_original
-<end>
-
-=>q158
-<end>
-
-=>q159_original
-That should be enough. She's now loaded and ready.<end>
-
-=>q159
-That should be enough. She's now loaded and ready.<end>
-
-=>q160_original
-When yer ready to pour the molten metal onto the Beast, just pull the lever to the right and watch it burn.<end>
-
-=>q160
-When yer ready to pour the molten metal onto the Beast, just pull the lever to the right and watch it burn.<end>
-
-=>q161_original
-I just have one more question for ya. How are ya gonna get the Beast to come 'ere? I don't think ya can simply go and ask it. ::He laughs.::<end>
-
-=>q161
-I just have one more question for ya. How are ya gonna get the Beast to come 'ere? I don't think ya can simply go and ask it. ::He laughs.::<end>
-
-=>a162_original
-I have a device that will attract the Beast to the furnace.<end>
-
-=>a162
-I have a device that will attract the Beast to the furnace.<end>
-
-=>q163_original
-Good, so I see ya got everythin' worked out.<end>
-
-=>q163
-Good, so I see ya got everythin' worked out.<end>
-
-=>q164_original
-Well, Gloria's ready, but since I'm pretty darn sure there's gonna be some heavy fightin' when the Beast comes, I'm just gonna... stay at a safe distance. ::He laughs nervously.:: Ain't much of a fightin' man anyway. I'd do more harm than good.<end>
-
-=>q164
-Well, Gloria's ready, but since I'm pretty darn sure there's gonna be some heavy fightin' when the Beast comes, I'm just gonna... stay at a safe distance. ::He laughs nervously.:: Ain't much of a fightin' man anyway. I'd do more harm than good.<end>
-
-=>q165_original
-After all, I'm sure the Foundry Guard's gonna be 'ere to help ya. Yer not doin' this on yer own for sure! Anyway, good luck and... don't die.<end>
-
-=>q165
-After all, I'm sure the Foundry Guard's gonna be 'ere to help ya. Yer not doin' this on yer own for sure! Anyway, good luck and... don't die.<end>
-
-=>a166_original
-I don't know yet, but I'm going to figure it out... eventually.<end>
-
-=>a166
-I don't know yet, but I'm going to figure it out... eventually.<end>
-
-=>q167_original
-Ya better.<end>
-
-=>q167
-Ya better.<end>
-
-=>q168_original
-::You find the man working on the giant furnace that's towering over the whole area. In fact, it seems like he is attempting to repair it, and judging by his barely audible swearing, he doesn't appear to have had any success so far. You see him use different tools, try out various parts - to no avail. Suddenly, he stops working and tilts his head slightly to the side without actually turning around. A moment later, he picks up a large wrench and continues the repairs. And that's when he speaks to you.::
-
-Can I help ya?<end>
-
-=>q168
-::You find the man working on the giant furnace that's towering over the whole area. In fact, it seems like he is attempting to repair it, and judging by his barely audible swearing, he doesn't appear to have had any success so far. You see him use different tools, try out various parts - to no avail. Suddenly, he stops working and tilts his head slightly to the side without actually turning around. A moment later, he picks up a large wrench and continues the repairs. And that's when he speaks to you.::
-
-Can I help ya?<end>
-
-=>a169_original
-What are you doing there?<end>
-
-=>a169
-What are you doing there?<end>
-
-=>q170_original
-I think it's obvious what I'm doin'. ::He puts down his tools and turns around, wiping the sweat off his forehead and transfering it onto his already filthy coveralls.:: I'm Bernard. Do ya need somethin' specific, or are ya just makin' small talk?<end>
-
-=>q170
-I think it's obvious what I'm doin'. ::He puts down his tools and turns around, wiping the sweat off his forehead and transfering it onto his already filthy coveralls.:: I'm Bernard. Do ya need somethin' specific, or are ya just makin' small talk?<end>
-
-=>a171_original
-I have some important questions.<end>
-
-=>a171
-I have some important questions.<end>
-
-=>q172_original
-Go ahead then. By the way, yer name is...?<end>
-
-=>q172
-Go ahead then. By the way, yer name is...?<end>
-
-=>a173_original
-$(context.player.Name).<end>
-
-=>a173
-$(context.player.Name).<end>
-
-=>q174_original
-Ah. Go ahead, whatcha wanna talk about?<end>
-
-=>q174
-Ah. Go ahead, whatcha wanna talk about?<end>
-
-=>a175_original
-Just small talk.<end>
-
-=>a175
-Just small talk.<end>
-
-=>q176_original
-::He rolls his eyes.:: Yeah, well, I suppose I could use a break. By the way, yer name is...?<end>
-
-=>q176
-::He rolls his eyes.:: Yeah, well, I suppose I could use a break. By the way, yer name is...?<end>
-
-=>a177_original
-Nope, I'm just passing by. Farewell.<end>
-
-=>a177
-Nope, I'm just passing by. Farewell.<end>
-
-=>q178_original
-West came and fixed Gloria. My beauty's workin' again. I wanna thank ya so much, $(context.player.Name). Ya rock!<end>
-
-=>q178
-West came and fixed Gloria. My beauty's workin' again. I wanna thank ya so much, $(context.player.Name). Ya rock!<end>
-
-=>q179_original
-My dear Gloria's back!<end>
-
-=>q179
-My dear Gloria's back!<end>
-
-=>q180_original
-<end>
-
-=>q180
-<end>
-
-=>q181_original
-Wow, ya did it! She's alive!<end>
-
-=>q181
-Wow, ya did it! She's alive!<end>
-
-=>a182_original
-It was an easy fix. No big deal.<end>
-
-=>a182
-It was an easy fix. No big deal.<end>
-
-=>q183_original
-Thank ya so much, $(context.player.Name). It may have been easy for ya, but it was far too difficult for me. I'm just glad she's back.<end>
-
-=>q183
-Thank ya so much, $(context.player.Name). It may have been easy for ya, but it was far too difficult for me. I'm just glad she's back.<end>
-
-=>q184_original
-My dear Gloria...<end>
-
-=>q184
-My dear Gloria...<end>
-
-=>a185_original
-We did it together; I couldn't have done it all alone.<end>
-
-=>a185
-We did it together; I couldn't have done it all alone.<end>
-
-=>q186_original
-Nah, ya did all the hard work. If it wasn't for ya, I'd still be sweatin' here tryin' to fix 'er.<end>
-
-=>q186
-Nah, ya did all the hard work. If it wasn't for ya, I'd still be sweatin' here tryin' to fix 'er.<end>
-
-=>q187_original
-Nice try, I really thought that was gonna work. Guess we're back to square one.<end>
-
-=>q187
-Nice try, I really thought that was gonna work. Guess we're back to square one.<end>
-
-=>q188_original
-Eh... I don't think that did anythin'.<end>
-
-=>q188
-Eh... I don't think that did anythin'.<end>
-
-=>q189_original
-That's definitely not gonna work. Are ya sure ya know what yer doin'?<end>
-
-=>q189
-That's definitely not gonna work. Are ya sure ya know what yer doin'?<end>
-
-=>q190_original
-No, don't cut that! Are ya derailed? Ya could've died from an electric shock!<end>
-
-=>q190
-No, don't cut that! Are ya derailed? Ya could've died from an electric shock!<end>
-
-=>q191_original
-Maybe this is outta yer league.<end>
-
-=>q191
-Maybe this is outta yer league.<end>
-
-=>q192_original
-Whatcha need?<end>
-
-=>q192
-Whatcha need?<end>
-
+=>q1_original
+Ey, yer plates are ready. 'Ere ya go. ::He hands you some super steel plates.::<end>
+
+=>q1
+Ey, yer plates are ready. 'Ere ya go. ::He hands you some super steel plates.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I need a favor: I want you to melt this for me. ::Show him the Acorn.::<end>
+
+=>a3
+I need a favor: I want you to melt this for me. ::Show him the Acorn.::<end>
+
+=>q4_original
+::He marvels at this curious box you hold up in front of him.::
+
+Ey... What's this thing made of?<end>
+
+=>q4
+::He marvels at this curious box you hold up in front of him.::
+
+Ey... What's this thing made of?<end>
+
+=>a5_original
+Some pretty high-tech materials. Nonetheless, I don't think it should give Gloria any problems.<end>
+
+=>a5
+Some pretty high-tech materials. Nonetheless, I don't think it should give Gloria any problems.<end>
+
+=>q6_original
+Ya know, this thingy doesn't seem like somethin' ya should just dump in the fire.<end>
+
+=>q6
+Ya know, this thingy doesn't seem like somethin' ya should just dump in the fire.<end>
+
+=>a7_original
+If you only knew... Here, take it. ::Give him the ACoNR.::<end>
+
+=>a7
+If you only knew... Here, take it. ::Give him the ACoNR.::<end>
+
+=>q8_original
+::Confused, he takes the ACoNR from you.::
+
+Well, shame. But, I owe ya a lot for fixin' my dear Gloria, so if that's whatcha want, that's what's gonna happen. 
+
+Now, once it's melted...<end>
+
+=>q8
+::Confused, he takes the ACoNR from you.::
+
+Well, shame. But, I owe ya a lot for fixin' my dear Gloria, so if that's whatcha want, that's what's gonna happen. 
+
+Now, once it's melted...<end>
+
+=>a9_original
+Whatever's left of it feel free to throw away.<end>
+
+=>a9
+Whatever's left of it feel free to throw away.<end>
+
+=>q10_original
+Ah, okay. Ya really wanna see this thing gone. Okay, okay. ::He shakes the box, looks at it from all sides, then takes it over to the loading conveyor and puts it there, his eyes lingering on the word "ACoNR" for just a while longer.
+
+With the press of a button, the ACoNR rises all the way to the top - and then plunges into the belly of the furnace. You can hear a peculiar low-pitch buzzing sound reverberating inside Gloria, but the sound's lifetime is quite brief.::<end>
+
+=>q10
+Ah, okay. Ya really wanna see this thing gone. Okay, okay. ::He shakes the box, looks at it from all sides, then takes it over to the loading conveyor and puts it there, his eyes lingering on the word "ACoNR" for just a while longer.
+
+With the press of a button, the ACoNR rises all the way to the top - and then plunges into the belly of the furnace. You can hear a peculiar low-pitch buzzing sound reverberating inside Gloria, but the sound's lifetime is quite brief.::<end>
+
+=>q11_original
+Well, that's that. Whatever that was, it's muck now.<end>
+
+=>q11
+Well, that's that. Whatever that was, it's muck now.<end>
+
+=>a12_original
+Just melt it and think no further of it.<end>
+
+=>a12
+Just melt it and think no further of it.<end>
+
+=>a13_original
+Maybe you're right. I'll think about it some more.<end>
+
+=>a13
+Maybe you're right. I'll think about it some more.<end>
+
+=>q14_original
+Yeah, ya better do that.<end>
+
+=>q14
+Yeah, ya better do that.<end>
+
+=>a15_original
+Nothing that should give Gloria any problems.<end>
+
+=>a15
+Nothing that should give Gloria any problems.<end>
+
+=>a16_original
+About super steel...<end>
+
+=>a16
+About super steel...<end>
+
+=>q17_original
+Ya up for meltin' some charons then?<end>
+
+=>q17
+Ya up for meltin' some charons then?<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+Alright, let's make some super steel.<end>
+
+=>a19
+Alright, let's make some super steel.<end>
+
+=>q20_original
+That's what I like to hear.<end>
+
+=>q20
+That's what I like to hear.<end>
+
+=>q21_original
+I can create up to three sets of plates per meltin', and it'll take a while. <end>
+
+=>q21
+I can create up to three sets of plates per meltin', and it'll take a while. <end>
+
+=>q22_original
+Oh, and make sure ya take everythin' ya need from the chamber before the purification process starts or it'll be goners.<end>
+
+=>q22
+Oh, and make sure ya take everythin' ya need from the chamber before the purification process starts or it'll be goners.<end>
+
+=>q23_original
+
+
+So how many sets of plates do ya want?<end>
+
+=>q23
+
+
+So how many sets of plates do ya want?<end>
+
+=>a24_original
+One set of super steel plates. ::Give him 3000 charons.::<end>
+
+=>a24
+One set of super steel plates. ::Give him 3000 charons.::<end>
+
+=>q25_original
+Okay, I'll get right on it. It'll take a while, though, so ya come back later. But once it's done, ya'll be golden.<end>
+
+=>q25
+Okay, I'll get right on it. It'll take a while, though, so ya come back later. But once it's done, ya'll be golden.<end>
+
+=>a26_original
+Two sets of super steel plates. ::Give him 6000 charons.::<end>
+
+=>a26
+Two sets of super steel plates. ::Give him 6000 charons.::<end>
+
+=>a27_original
+Three sets of super steel plates. ::Give him 9000 charons.::<end>
+
+=>a27
+Three sets of super steel plates. ::Give him 9000 charons.::<end>
+
+=>a28_original
+I'll have to think about it some more first actually.<end>
+
+=>a28
+I'll have to think about it some more first actually.<end>
+
+=>q29_original
+Eh? Okay. I'll be 'ere anyway.<end>
+
+=>q29
+Eh? Okay. I'll be 'ere anyway.<end>
+
+=>a30_original
+I found some super steel refining data.<end>
+
+=>a30
+I found some super steel refining data.<end>
+
+=>q31_original
+Ey! Ya actually managed to find somethin'. That's golden! <end>
+
+=>q31
+Ey! Ya actually managed to find somethin'. That's golden! <end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>q34_original
+I think this is more than enough. Takes time to put this knowledge to practice, and Andy's gonna have his hands full with whatcha brought 'im.<end>
+
+=>q34
+I think this is more than enough. Takes time to put this knowledge to practice, and Andy's gonna have his hands full with whatcha brought 'im.<end>
+
+=>q35_original
+I'll be bringin' this data to Andy as soon as possible. <end>
+
+=>q35
+I'll be bringin' this data to Andy as soon as possible. <end>
+
+=>q36_original
+Don't expect it to affect the current batch, though. <end>
+
+=>q36
+Don't expect it to affect the current batch, though. <end>
+
+=>q37_original
+Takes time to put knowledge into practice.<end>
+
+=>q37
+Takes time to put knowledge into practice.<end>
+
+=>q38_original
+Golden! <end>
+
+=>q38
+Golden! <end>
+
+=>a39_original
+Any idea where I could start looking for data on super steel?<end>
+
+=>a39
+Any idea where I could start looking for data on super steel?<end>
+
+=>q40_original
+Never thought about it much. I guess some... library, mmmm... archive? I dunno, I ain't the readin' type.<end>
+
+=>q40
+Never thought about it much. I guess some... library, mmmm... archive? I dunno, I ain't the readin' type.<end>
+
+=>q41_original
+I did hear about a facility north of Foundry. Don't remember what it's called, or what's inside, but I heard it mentioned a few times.<end>
+
+=>q41
+I did hear about a facility north of Foundry. Don't remember what it's called, or what's inside, but I heard it mentioned a few times.<end>
+
+=>a42_original
+Tell me about super steel.<end>
+
+=>a42
+Tell me about super steel.<end>
+
+=>q43_original
+Alright, listen up. Ya see, them Stygian Coins were created from a very special metal alloy - super steel.<end>
+
+=>q43
+Alright, listen up. Ya see, them Stygian Coins were created from a very special metal alloy - super steel.<end>
+
+=>q44_original
+Some techno-nuts back in Old Biocorp made them to function as commodity money. Ya see, super steel is a valuable industrial metal, not to mention super expensive to create. It's light, ductile, conductive and also has other good properties.<end>
+
+=>q44
+Some techno-nuts back in Old Biocorp made them to function as commodity money. Ya see, super steel is a valuable industrial metal, not to mention super expensive to create. It's light, ductile, conductive and also has other good properties.<end>
+
+=>q45_original
+It ain't real commodity money though, because there's a catch, ya see: Because the Old Biocorp technocrats wanted to keep themselves still relevant, they introduced impurities into the alloy as they produced the coins.<end>
+
+=>q45
+It ain't real commodity money though, because there's a catch, ya see: Because the Old Biocorp technocrats wanted to keep themselves still relevant, they introduced impurities into the alloy as they produced the coins.<end>
+
+=>q46_original
+These impurities serve two purposes: One, they take away from the good stuff of the alloy - its high conductivity and malleability. And secondly, they significantly raise its melting temperature.<end>
+
+=>q46
+These impurities serve two purposes: One, they take away from the good stuff of the alloy - its high conductivity and malleability. And secondly, they significantly raise its melting temperature.<end>
+
+=>q47_original
+So ya see, not everyone was able to actually cash in on the metal, unless they had somethin' like my dear Gloria. ::He looks at Gloria.:: Ah... Gloria.<end>
+
+=>q47
+So ya see, not everyone was able to actually cash in on the metal, unless they had somethin' like my dear Gloria. ::He looks at Gloria.:: Ah... Gloria.<end>
+
+=>a48_original
+Is there a way to remove these impurities and get higher quality super steel?<end>
+
+=>a48
+Is there a way to remove these impurities and get higher quality super steel?<end>
+
+=>q49_original
+Sure. We get rid of 'em as much as we can durin' the refinin' process, but we can't get rid of 'em all. At least, ya know, not with the techniques our metallurgists use.<end>
+
+=>q49
+Sure. We get rid of 'em as much as we can durin' the refinin' process, but we can't get rid of 'em all. At least, ya know, not with the techniques our metallurgists use.<end>
+
+=>a50_original
+Is there anything I can do to help?<end>
+
+=>a50
+Is there anything I can do to help?<end>
+
+=>q51_original
+I dunno. ::He shrugs.:: Unless yer a metallurgist yerself, I don't think so. Or unless ya know a good one.
+
+Or *unless*...<end>
+
+=>q51
+I dunno. ::He shrugs.:: Unless yer a metallurgist yerself, I don't think so. Or unless ya know a good one.
+
+Or *unless*...<end>
+
+=>q52_original
+Ey, yer a resourceful kinda $(#guy/girl). Perhaps there's some useful data on these impurities - or super steel in general - out there that can do us good. If ya manage to find anythin' interestin', bring it to me and I'll pass it on to Andy, our chief metallurgist.<end>
+
+=>q52
+Ey, yer a resourceful kinda $(#guy/girl). Perhaps there's some useful data on these impurities - or super steel in general - out there that can do us good. If ya manage to find anythin' interestin', bring it to me and I'll pass it on to Andy, our chief metallurgist.<end>
+
+=>a53_original
+What kind of goodies can I make out of super steel?<end>
+
+=>a53
+What kind of goodies can I make out of super steel?<end>
+
+=>q54_original
+Well, weapons and armor for starters. The stuff ya can make from ordinary steel right now if yer a metal worker. If ya ain't, then there's no point explainin' it.<end>
+
+=>q54
+Well, weapons and armor for starters. The stuff ya can make from ordinary steel right now if yer a metal worker. If ya ain't, then there's no point explainin' it.<end>
+
+=>q55_original
+Also, Leonie might be able to make sheets and fiber if ya bring 'er some super steel. Them things might also be of use to ya.<end>
+
+=>q55
+Also, Leonie might be able to make sheets and fiber if ya bring 'er some super steel. Them things might also be of use to ya.<end>
+
+=>a56_original
+How many charons do I need?<end>
+
+=>a56
+How many charons do I need?<end>
+
+=>q57_original
+Well let's see... ya'll need about three standard plates to be able to create anythin' useful... if we take the weight of the coin... minus the impurities... ya'd need three thousand charons per set of plates.<end>
+
+=>q57
+Well let's see... ya'll need about three standard plates to be able to create anythin' useful... if we take the weight of the coin... minus the impurities... ya'd need three thousand charons per set of plates.<end>
+
+=>q58_original
+Yeah, I know it's a lot, but as I said - if yer a metal worker it'll be worth it. And no, I ain't getting rich off ya. My share will be just about a hundred charons per set and I think that's fair.<end>
+
+=>q58
+Yeah, I know it's a lot, but as I said - if yer a metal worker it'll be worth it. And no, I ain't getting rich off ya. My share will be just about a hundred charons per set and I think that's fair.<end>
+
+=>a59_original
+Never mind. Let's talk about something else.<end>
+
+=>a59
+Never mind. Let's talk about something else.<end>
+
+=>q60_original
+Alright.<end>
+
+=>q60
+Alright.<end>
+
+=>a61_original
+You mentioned melting super steel earlier.<end>
+
+=>a61
+You mentioned melting super steel earlier.<end>
+
+=>q62_original
+What? Ah, yeah, absolutely. My Gloria could do it. It's all up to you if ya wanna melt yer charons.<end>
+
+=>q62
+What? Ah, yeah, absolutely. My Gloria could do it. It's all up to you if ya wanna melt yer charons.<end>
+
+=>a63_original
+Charons?<end>
+
+=>a63
+Charons?<end>
+
+=>q64_original
+Yeah, lemme explain what's up: Ya see, them charons were created from a very special metal alloy - the super steel.<end>
+
+=>q64
+Yeah, lemme explain what's up: Ya see, them charons were created from a very special metal alloy - the super steel.<end>
+
+=>a65_original
+So I can melt the money into super steel?<end>
+
+=>a65
+So I can melt the money into super steel?<end>
+
+=>a66_original
+Why would I want to melt super steel?<end>
+
+=>a66
+Why would I want to melt super steel?<end>
+
+=>q67_original
+Well, ya would only wanna do that if ya can work it to make some goodies. Ya see, super steel's very valuable industrial metal. It's light, ductile, conductive and also has other good properties.<end>
+
+=>q67
+Well, ya would only wanna do that if ya can work it to make some goodies. Ya see, super steel's very valuable industrial metal. It's light, ductile, conductive and also has other good properties.<end>
+
+=>q68_original
+Some techno-nuts back in Old Biocorp made them to function as commodity money, but not really. There's a catch, ya see. Because the Old Biocorp technocrats wanted to keep themselves relevant, they introduced impurities into the alloy as they produced the coins.<end>
+
+=>q68
+Some techno-nuts back in Old Biocorp made them to function as commodity money, but not really. There's a catch, ya see. Because the Old Biocorp technocrats wanted to keep themselves relevant, they introduced impurities into the alloy as they produced the coins.<end>
+
+=>a69_original
+About loading the furnace...<end>
+
+=>a69
+About loading the furnace...<end>
+
+=>q70_original
+Yer havin' trouble?<end>
+
+=>q70
+Yer havin' trouble?<end>
+
+=>q71_original
+<end>
+
+=>q71
+<end>
+
+=>a72_original
+Where can I find some mining equipment?<end>
+
+=>a72
+Where can I find some mining equipment?<end>
+
+=>q73_original
+I'm sure ya can find some jackhammers lying around the mine. Lotsa stuff was abandoned there when them things attacked. But I'm sure the merchants got them in stock.<end>
+
+=>q73
+I'm sure ya can find some jackhammers lying around the mine. Lotsa stuff was abandoned there when them things attacked. But I'm sure the merchants got them in stock.<end>
+
+=>q74_original
+If ya wanna spend some charons, of course.<end>
+
+=>q74
+If ya wanna spend some charons, of course.<end>
+
+=>a75_original
+How do the carts work?<end>
+
+=>a75
+How do the carts work?<end>
+
+=>q76_original
+It's as easy as under pie! Lemme explain: There are levers in the mine that will bring the cart to ya when used. So, wherever yer minin', just call the cart and load it with ore. Once yer back here at the furnace, use the console to recall the cart and dump the ore. Ya can also use it - the console - to start meltin' the ore.<end>
+
+=>q76
+It's as easy as under pie! Lemme explain: There are levers in the mine that will bring the cart to ya when used. So, wherever yer minin', just call the cart and load it with ore. Once yer back here at the furnace, use the console to recall the cart and dump the ore. Ya can also use it - the console - to start meltin' the ore.<end>
+
+=>q77_original
+So simple even a cackler wouldn't mind doin' it. ::He laughs.::<end>
+
+=>q77
+So simple even a cackler wouldn't mind doin' it. ::He laughs.::<end>
+
+=>a78_original
+I know what to do.<end>
+
+=>a78
+I know what to do.<end>
+
+=>q79_original
+Go for it.<end>
+
+=>q79
+Go for it.<end>
+
+=>a80_original
+Is the furnace ready to be used?<end>
+
+=>a80
+Is the furnace ready to be used?<end>
+
+=>q81_original
+Ya can't wait to see Gloria in action? I wanna see 'er too, to tell ya the truth.<end>
+
+=>q81
+Ya can't wait to see Gloria in action? I wanna see 'er too, to tell ya the truth.<end>
+
+=>q82_original
+But the thing is, ya need to load 'er with some ore and start the meltin' process.<end>
+
+=>q82
+But the thing is, ya need to load 'er with some ore and start the meltin' process.<end>
+
+=>q83_original
+We went through most of our supplies after the mine was closed, so chances are yer gonna have to go into the mine. Any ore rich in metal should do the trick. Ya can use the cart system to help ya carry all that around.<end>
+
+=>q83
+We went through most of our supplies after the mine was closed, so chances are yer gonna have to go into the mine. Any ore rich in metal should do the trick. Ya can use the cart system to help ya carry all that around.<end>
+
+=>q84_original
+Hold on, I don't think ya told me everythin'. What do ya plan on usin' Gloria for?<end>
+
+=>q84
+Hold on, I don't think ya told me everythin'. What do ya plan on usin' Gloria for?<end>
+
+=>a85_original
+I need it to kill the large beast from the mine.<end>
+
+=>a85
+I need it to kill the large beast from the mine.<end>
+
+=>q86_original
+Oh, why didn't ya say so in the first place? Gloria can do that. Actually, she would LOVE to do that.<end>
+
+=>q86
+Oh, why didn't ya say so in the first place? Gloria can do that. Actually, she would LOVE to do that.<end>
+
+=>a87_original
+Nothing, just asking. Let's discuss something else.<end>
+
+=>a87
+Nothing, just asking. Let's discuss something else.<end>
+
+=>q88_original
+Whacha wanna talk about?<end>
+
+=>q88
+Whacha wanna talk about?<end>
+
+=>a89_original
+How about I help you repair the furnace?<end>
+
+=>a89
+How about I help you repair the furnace?<end>
+
+=>q90_original
+So... the mayor said no. Damn 'im again! But hold on, why would ya wanna help me fix 'er? Why's it important to ya?<end>
+
+=>q90
+So... the mayor said no. Damn 'im again! But hold on, why would ya wanna help me fix 'er? Why's it important to ya?<end>
+
+=>a91_original
+I need it to kill the large beast from the mine.<end>
+
+=>a91
+I need it to kill the large beast from the mine.<end>
+
+=>q92_original
+Wow, that's gonna be quite a challenge. But, look, if ya can help me fix my Gloria, she'll show ya what she's capable of. ::He laughs.::<end>
+
+=>q92
+Wow, that's gonna be quite a challenge. But, look, if ya can help me fix my Gloria, she'll show ya what she's capable of. ::He laughs.::<end>
+
+=>q93_original
+Now, I'll explain what Gloria suffers from, at least what *I* think is the problem: Ya see, there's somethin' wrong with the electrode power regulation system that's being controlled through this console. Before Gloria broke down, she started drawin' so much power from the system it caused a blackout in nearly half of Foundry.<end>
+
+=>q93
+Now, I'll explain what Gloria suffers from, at least what *I* think is the problem: Ya see, there's somethin' wrong with the electrode power regulation system that's being controlled through this console. Before Gloria broke down, she started drawin' so much power from the system it caused a blackout in nearly half of Foundry.<end>
+
+=>q94_original
+I don't think it's the problem with the console, but the unit itself. But nothin' I try seems to work. Muck.<end>
+
+=>q94
+I don't think it's the problem with the console, but the unit itself. But nothin' I try seems to work. Muck.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>a96_original
+::[Electronics]:: Can I take a look?<end>
+
+=>a96
+::[Electronics]:: Can I take a look?<end>
+
+=>q97_original
+Um, okay. Just... be gentle.<end>
+
+=>q97
+Um, okay. Just... be gentle.<end>
+
+=>a98_original
+::Attempt to fix the furnace.::<end>
+
+=>a98
+::Attempt to fix the furnace.::<end>
+
+=>a99_original
+Why haven't you found someone to help you?<end>
+
+=>a99
+Why haven't you found someone to help you?<end>
+
+=>q100_original
+The mayor gave an order not to bother repairin' Gloria, so no one wants to help me.<end>
+
+=>q100
+The mayor gave an order not to bother repairin' Gloria, so no one wants to help me.<end>
+
+=>q101_original
+On top of that, they call me derailed for tryin' to fix 'er. Fools!<end>
+
+=>q101
+On top of that, they call me derailed for tryin' to fix 'er. Fools!<end>
+
+=>a102_original
+Actually, let's talk about something else.<end>
+
+=>a102
+Actually, let's talk about something else.<end>
+
+=>q103_original
+What else is there to talk about?<end>
+
+=>q103
+What else is there to talk about?<end>
+
+=>a104_original
+I like fixing things.<end>
+
+=>a104
+I like fixing things.<end>
+
+=>q105_original
+::Bernard silently observes you for a few moments.::<end>
+
+=>q105
+::Bernard silently observes you for a few moments.::<end>
+
+=>q106_original
+Well - if ya say so!<end>
+
+=>q106
+Well - if ya say so!<end>
+
+=>a107_original
+I just felt like helping.<end>
+
+=>a107
+I just felt like helping.<end>
+
+=>a108_original
+I'm doing it for the experience.<end>
+
+=>a108
+I'm doing it for the experience.<end>
+
+=>q109_original
+I hear ya. It's quite an experience working with Gloria, ya know. We spent so many years together smeltin' ore. Ah, the sounds she makes when she's startin' up, the warmth ya feel when the door opens and molten metal starts flowin' out, the way she crackles when she's cooling down. Ah, brings back so many memories.<end>
+
+=>q109
+I hear ya. It's quite an experience working with Gloria, ya know. We spent so many years together smeltin' ore. Ah, the sounds she makes when she's startin' up, the warmth ya feel when the door opens and molten metal starts flowin' out, the way she crackles when she's cooling down. Ah, brings back so many memories.<end>
+
+=>q110_original
+Ya mean Gloria? Yeah, that'd be awesome. But, hold on, why would ya wanna do that? Why's it important to ya?<end>
+
+=>q110
+Ya mean Gloria? Yeah, that'd be awesome. But, hold on, why would ya wanna do that? Why's it important to ya?<end>
+
+=>a111_original
+About Gloria...<end>
+
+=>a111
+About Gloria...<end>
+
+=>q112_original
+Yeah?<end>
+
+=>q112
+Yeah?<end>
+
+=>a113_original
+May I ask you how high can this furnace go temperature-wise?<end>
+
+=>a113
+May I ask you how high can this furnace go temperature-wise?<end>
+
+=>q114_original
+Oh, Gloria's very hot. I think she can go up to three thousand, even three and a half thousand degrees centigrade. Yeah, that's a lot, trust me. She could melt anythin'.<end>
+
+=>q114
+Oh, Gloria's very hot. I think she can go up to three thousand, even three and a half thousand degrees centigrade. Yeah, that's a lot, trust me. She could melt anythin'.<end>
+
+=>q115_original
+I even told the mayor that same thing, but he doesn't believe me. He told me to shut my tick hole 'cause he thinks I'm makin' it up to convince 'im to fix 'er. Damn 'im!<end>
+
+=>q115
+I even told the mayor that same thing, but he doesn't believe me. He told me to shut my tick hole 'cause he thinks I'm makin' it up to convince 'im to fix 'er. Damn 'im!<end>
+
+=>a116_original
+He explicitly told me to "forget about that piece of junk" when I asked him about it, so I don't think he has changed his mind.<end>
+
+=>a116
+He explicitly told me to "forget about that piece of junk" when I asked him about it, so I don't think he has changed his mind.<end>
+
+=>q117_original
+Damn 'im!<end>
+
+=>q117
+Damn 'im!<end>
+
+=>a118_original
+I too spoke to the mayor recently about related things, and all I can say is I share your sentiment.<end>
+
+=>a118
+I too spoke to the mayor recently about related things, and all I can say is I share your sentiment.<end>
+
+=>a119_original
+Hmmm... I'll get back to you. If I'm lucky, I might be able to convince the mayor to get this old gal up and running again.<end>
+
+=>a119
+Hmmm... I'll get back to you. If I'm lucky, I might be able to convince the mayor to get this old gal up and running again.<end>
+
+=>q120_original
+Really? Oh, I'd be grateful for that, I would, I would! But that man is one stubborn son of a rat, so good luck to ya. Yer gonna need every gram of it.<end>
+
+=>q120
+Really? Oh, I'd be grateful for that, I would, I would! But that man is one stubborn son of a rat, so good luck to ya. Yer gonna need every gram of it.<end>
+
+=>a121_original
+So, how are the repairs on the furnace coming along?<end>
+
+=>a121
+So, how are the repairs on the furnace coming along?<end>
+
+=>q122_original
+Ya mean Gloria? Her name is Gloria.<end>
+
+=>q122
+Ya mean Gloria? Her name is Gloria.<end>
+
+=>a123_original
+It's a lovely name. I like it.<end>
+
+=>a123
+It's a lovely name. I like it.<end>
+
+=>q124_original
+I hear ya! Finally someone agrees with me. I've been tryin' to explain it to people for years.<end>
+
+=>q124
+I hear ya! Finally someone agrees with me. I've been tryin' to explain it to people for years.<end>
+
+=>q125_original
+Gloria means glory. And this old girl and I have had our fair share of it. She served with me for many, many, *many* years. Ah, and now she's a cold, lifeless piece of junk! Oh, Gloria, why couldn't I have died before ya so I don't have to suffer like this.<end>
+
+=>q125
+Gloria means glory. And this old girl and I have had our fair share of it. She served with me for many, many, *many* years. Ah, and now she's a cold, lifeless piece of junk! Oh, Gloria, why couldn't I have died before ya so I don't have to suffer like this.<end>
+
+=>a126_original
+Why can't you repair the furnace?<end>
+
+=>a126
+Why can't you repair the furnace?<end>
+
+=>q127_original
+It's a weird electrical problem. I think I know exactly what causes it, but whatever I do somehow seems wrong. What's worse, that bastard up there said she's old, draws too much power from the system and is just not useful anymore, 'cause we got "better ones now." I'm talkin' about *you*, Marshall, ya bloody...! ::He raises a clenched fist in the air.::<end>
+
+=>q127
+It's a weird electrical problem. I think I know exactly what causes it, but whatever I do somehow seems wrong. What's worse, that bastard up there said she's old, draws too much power from the system and is just not useful anymore, 'cause we got "better ones now." I'm talkin' about *you*, Marshall, ya bloody...! ::He raises a clenched fist in the air.::<end>
+
+=>q128_original
+When Gloria broke down, our "beloved" mayor personally instructed everyone not to bother repairin' 'er!<end>
+
+=>q128
+When Gloria broke down, our "beloved" mayor personally instructed everyone not to bother repairin' 'er!<end>
+
+=>q129_original
+::He turns toward the large furnace.:: But I'm not breakin' my pick - I'll find some way to fix ya. I will.<end>
+
+=>q129
+::He turns toward the large furnace.:: But I'm not breakin' my pick - I'll find some way to fix ya. I will.<end>
+
+=>a130_original
+I'll leave you two alone.<end>
+
+=>a130
+I'll leave you two alone.<end>
+
+=>a131_original
+You call your furnace Gloria?<end>
+
+=>a131
+You call your furnace Gloria?<end>
+
+=>q132_original
+What's wrong with it? It's a beautiful name, I say.<end>
+
+=>q132
+What's wrong with it? It's a beautiful name, I say.<end>
+
+=>a133_original
+Did you hurt your head somewhere?<end>
+
+=>a133
+Did you hurt your head somewhere?<end>
+
+=>q134_original
+Don't be a jerk! She means a lot to me.<end>
+
+=>q134
+Don't be a jerk! She means a lot to me.<end>
+
+=>a135_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a135
+How do you feel now that the mine has been reopened?<end>
+
+=>q136_original
+Yeah, that's nice, but what's more important is that my Gloria is alive and well. Did ya see 'er melt that creature? Only the shell remained.<end>
+
+=>q136
+Yeah, that's nice, but what's more important is that my Gloria is alive and well. Did ya see 'er melt that creature? Only the shell remained.<end>
+
+=>q137_original
+Makes me so proud. Gloria...<end>
+
+=>q137
+Makes me so proud. Gloria...<end>
+
+=>a138_original
+What can you tell me about Foundry?<end>
+
+=>a138
+What can you tell me about Foundry?<end>
+
+=>q139_original
+Ya came all the way 'ere to ask me that?<end>
+
+=>q139
+Ya came all the way 'ere to ask me that?<end>
+
+=>q140_original
+Well, I dunno. The air is extremely polluted for sure, ya know what I mean? Just inhale it. ::He takes a deep breath and then starts coughing.:: Ya see what I mean? ::He coughs again.:: Ya'll hear a lot of them people coughin' and soundin' like they got jackhammers in their throats.<end>
+
+=>q140
+Well, I dunno. The air is extremely polluted for sure, ya know what I mean? Just inhale it. ::He takes a deep breath and then starts coughing.:: Ya see what I mean? ::He coughs again.:: Ya'll hear a lot of them people coughin' and soundin' like they got jackhammers in their throats.<end>
+
+=>q141_original
+But the pay is good, which attracts people. And the bandits can't reach ya! And... my Gloria's 'ere.<end>
+
+=>q141
+But the pay is good, which attracts people. And the bandits can't reach ya! And... my Gloria's 'ere.<end>
+
+=>a142_original
+Who's Gloria?<end>
+
+=>a142
+Who's Gloria?<end>
+
+=>q143_original
+This is 'er.<end>
+
+=>q143
+This is 'er.<end>
+
+=>a144_original
+I dont' understand.<end>
+
+=>a144
+I dont' understand.<end>
+
+=>q145_original
+This is Gloria! ::He puts on a wide smile and points to the large smelting furnace.::<end>
+
+=>q145
+This is Gloria! ::He puts on a wide smile and points to the large smelting furnace.::<end>
+
+=>a146_original
+The Furnace?<end>
+
+=>a146
+The Furnace?<end>
+
+=>q147_original
+Yes! 'Er! ::He puts on a wide smile and points to the large smelting furnace.::<end>
+
+=>q147
+Yes! 'Er! ::He puts on a wide smile and points to the large smelting furnace.::<end>
+
+=>a148_original
+Let's discuss something else.<end>
+
+=>a148
+Let's discuss something else.<end>
+
+=>q149_original
+Go ahead.<end>
+
+=>q149
+Go ahead.<end>
+
+=>a150_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a150
+Can you tell me anything about the mine creatures?<end>
+
+=>q151_original
+Heard some scary stories about them things, ya know. After the mine was closed, some folks started goin' missin'. The mine entrances are guarded well, yet the creatures somehow still managed to slip past 'em.<end>
+
+=>q151
+Heard some scary stories about them things, ya know. After the mine was closed, some folks started goin' missin'. The mine entrances are guarded well, yet the creatures somehow still managed to slip past 'em.<end>
+
+=>q152_original
+Some say it's got nothin' to do with the creatures but with the recent increase in crime rate instead. I mean, the prison's gettin' fuller and fuller. But... who knows. 
+
+Ya take care in any case.<end>
+
+=>q152
+Some say it's got nothin' to do with the creatures but with the recent increase in crime rate instead. I mean, the prison's gettin' fuller and fuller. But... who knows. 
+
+Ya take care in any case.<end>
+
+=>a153_original
+Goodbye.<end>
+
+=>a153
+Goodbye.<end>
+
+=>q154_original
+Still workin' on them plates. Yer gonna have to come back later for 'em.<end>
+
+=>q154
+Still workin' on them plates. Yer gonna have to come back later for 'em.<end>
+
+=>q155_original
+::He looks ecstatic.:: Isn't my Gloria the best!? There ain't a thing in this world she couldn't melt - from the Beast to, to... freakin' super steel! <end>
+
+=>q155
+::He looks ecstatic.:: Isn't my Gloria the best!? There ain't a thing in this world she couldn't melt - from the Beast to, to... freakin' super steel! <end>
+
+=>q156_original
+Ya should drain the metal and see if anythin' remained of that devil. ::He laughs.::<end>
+
+=>q156
+Ya should drain the metal and see if anythin' remained of that devil. ::He laughs.::<end>
+
+=>q157_original
+::He lets out a content sigh.::<end>
+
+=>q157
+::He lets out a content sigh.::<end>
+
+=>q158_original
+<end>
+
+=>q158
+<end>
+
+=>q159_original
+That should be enough. She's now loaded and ready.<end>
+
+=>q159
+That should be enough. She's now loaded and ready.<end>
+
+=>q160_original
+When yer ready to pour the molten metal onto the Beast, just pull the lever to the right and watch it burn.<end>
+
+=>q160
+When yer ready to pour the molten metal onto the Beast, just pull the lever to the right and watch it burn.<end>
+
+=>q161_original
+I just have one more question for ya. How are ya gonna get the Beast to come 'ere? I don't think ya can simply go and ask it. ::He laughs.::<end>
+
+=>q161
+I just have one more question for ya. How are ya gonna get the Beast to come 'ere? I don't think ya can simply go and ask it. ::He laughs.::<end>
+
+=>a162_original
+I have a device that will attract the Beast to the furnace.<end>
+
+=>a162
+I have a device that will attract the Beast to the furnace.<end>
+
+=>q163_original
+Good, so I see ya got everythin' worked out.<end>
+
+=>q163
+Good, so I see ya got everythin' worked out.<end>
+
+=>q164_original
+Well, Gloria's ready, but since I'm pretty darn sure there's gonna be some heavy fightin' when the Beast comes, I'm just gonna... stay at a safe distance. ::He laughs nervously.:: Ain't much of a fightin' man anyway. I'd do more harm than good.<end>
+
+=>q164
+Well, Gloria's ready, but since I'm pretty darn sure there's gonna be some heavy fightin' when the Beast comes, I'm just gonna... stay at a safe distance. ::He laughs nervously.:: Ain't much of a fightin' man anyway. I'd do more harm than good.<end>
+
+=>q165_original
+After all, I'm sure the Foundry Guard's gonna be 'ere to help ya. Yer not doin' this on yer own for sure! Anyway, good luck and... don't die.<end>
+
+=>q165
+After all, I'm sure the Foundry Guard's gonna be 'ere to help ya. Yer not doin' this on yer own for sure! Anyway, good luck and... don't die.<end>
+
+=>a166_original
+I don't know yet, but I'm going to figure it out... eventually.<end>
+
+=>a166
+I don't know yet, but I'm going to figure it out... eventually.<end>
+
+=>q167_original
+Ya better.<end>
+
+=>q167
+Ya better.<end>
+
+=>q168_original
+::You find the man working on the giant furnace that's towering over the whole area. In fact, it seems like he is attempting to repair it, and judging by his barely audible swearing, he doesn't appear to have had any success so far. You see him use different tools, try out various parts - to no avail. Suddenly, he stops working and tilts his head slightly to the side without actually turning around. A moment later, he picks up a large wrench and continues the repairs. And that's when he speaks to you.::
+
+Can I help ya?<end>
+
+=>q168
+::You find the man working on the giant furnace that's towering over the whole area. In fact, it seems like he is attempting to repair it, and judging by his barely audible swearing, he doesn't appear to have had any success so far. You see him use different tools, try out various parts - to no avail. Suddenly, he stops working and tilts his head slightly to the side without actually turning around. A moment later, he picks up a large wrench and continues the repairs. And that's when he speaks to you.::
+
+Can I help ya?<end>
+
+=>a169_original
+What are you doing there?<end>
+
+=>a169
+What are you doing there?<end>
+
+=>q170_original
+I think it's obvious what I'm doin'. ::He puts down his tools and turns around, wiping the sweat off his forehead and transfering it onto his already filthy coveralls.:: I'm Bernard. Do ya need somethin' specific, or are ya just makin' small talk?<end>
+
+=>q170
+I think it's obvious what I'm doin'. ::He puts down his tools and turns around, wiping the sweat off his forehead and transfering it onto his already filthy coveralls.:: I'm Bernard. Do ya need somethin' specific, or are ya just makin' small talk?<end>
+
+=>a171_original
+I have some important questions.<end>
+
+=>a171
+I have some important questions.<end>
+
+=>q172_original
+Go ahead then. By the way, yer name is...?<end>
+
+=>q172
+Go ahead then. By the way, yer name is...?<end>
+
+=>a173_original
+$(context.player.Name).<end>
+
+=>a173
+$(context.player.Name).<end>
+
+=>q174_original
+Ah. Go ahead, whatcha wanna talk about?<end>
+
+=>q174
+Ah. Go ahead, whatcha wanna talk about?<end>
+
+=>a175_original
+Just small talk.<end>
+
+=>a175
+Just small talk.<end>
+
+=>q176_original
+::He rolls his eyes.:: Yeah, well, I suppose I could use a break. By the way, yer name is...?<end>
+
+=>q176
+::He rolls his eyes.:: Yeah, well, I suppose I could use a break. By the way, yer name is...?<end>
+
+=>a177_original
+Nope, I'm just passing by. Farewell.<end>
+
+=>a177
+Nope, I'm just passing by. Farewell.<end>
+
+=>q178_original
+West came and fixed Gloria. My beauty's workin' again. I wanna thank ya so much, $(context.player.Name). Ya rock!<end>
+
+=>q178
+West came and fixed Gloria. My beauty's workin' again. I wanna thank ya so much, $(context.player.Name). Ya rock!<end>
+
+=>q179_original
+My dear Gloria's back!<end>
+
+=>q179
+My dear Gloria's back!<end>
+
+=>q180_original
+<end>
+
+=>q180
+<end>
+
+=>q181_original
+Wow, ya did it! She's alive!<end>
+
+=>q181
+Wow, ya did it! She's alive!<end>
+
+=>a182_original
+It was an easy fix. No big deal.<end>
+
+=>a182
+It was an easy fix. No big deal.<end>
+
+=>q183_original
+Thank ya so much, $(context.player.Name). It may have been easy for ya, but it was far too difficult for me. I'm just glad she's back.<end>
+
+=>q183
+Thank ya so much, $(context.player.Name). It may have been easy for ya, but it was far too difficult for me. I'm just glad she's back.<end>
+
+=>q184_original
+My dear Gloria...<end>
+
+=>q184
+My dear Gloria...<end>
+
+=>a185_original
+We did it together; I couldn't have done it all alone.<end>
+
+=>a185
+We did it together; I couldn't have done it all alone.<end>
+
+=>q186_original
+Nah, ya did all the hard work. If it wasn't for ya, I'd still be sweatin' here tryin' to fix 'er.<end>
+
+=>q186
+Nah, ya did all the hard work. If it wasn't for ya, I'd still be sweatin' here tryin' to fix 'er.<end>
+
+=>q187_original
+Nice try, I really thought that was gonna work. Guess we're back to square one.<end>
+
+=>q187
+Nice try, I really thought that was gonna work. Guess we're back to square one.<end>
+
+=>q188_original
+Eh... I don't think that did anythin'.<end>
+
+=>q188
+Eh... I don't think that did anythin'.<end>
+
+=>q189_original
+That's definitely not gonna work. Are ya sure ya know what yer doin'?<end>
+
+=>q189
+That's definitely not gonna work. Are ya sure ya know what yer doin'?<end>
+
+=>q190_original
+No, don't cut that! Are ya derailed? Ya could've died from an electric shock!<end>
+
+=>q190
+No, don't cut that! Are ya derailed? Ya could've died from an electric shock!<end>
+
+=>q191_original
+Maybe this is outta yer league.<end>
+
+=>q191
+Maybe this is outta yer league.<end>
+
+=>q192_original
+Whatcha need?<end>
+
+=>q192
+Whatcha need?<end>
+

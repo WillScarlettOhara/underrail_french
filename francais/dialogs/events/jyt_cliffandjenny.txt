@@ -1,76 +1,76 @@
-=>q1_original
-I'll never hear the end of this. Ya shoulda left 'er down there.<end>
-
-=>q1
-I'll never hear the end of this. Ya shoulda left 'er down there.<end>
-
-=>q2_original
-Jenny, ya made it! I--<end>
-
-=>q2
-Jenny, ya made it! I--<end>
-
-=>q3_original
-No thanks to you, you hopper.<end>
-
-=>q3
-No thanks to you, you hopper.<end>
-
-=>q4_original
-What!? Yer makin' it sound like it was my fault? Ya were the one who wanted to press forward even though there were burrowers in there!<end>
-
-=>q4
-What!? Yer makin' it sound like it was my fault? Ya were the one who wanted to press forward even though there were burrowers in there!<end>
-
-=>q5_original
-Back then I didn't know you'd put your tail between your legs and run at the first sign of trouble! 
-
-You know what you are, Cliff? You're one big...!<end>
-
-=>q5
-Back then I didn't know you'd put your tail between your legs and run at the first sign of trouble! 
-
-You know what you are, Cliff? You're one big...!<end>
-
-=>a6_original
-::Leave them to their bickering.::<end>
-
-=>a6
-::Leave them to their bickering.::<end>
-
-=>q7_original
-Wish we never came here...<end>
-
-=>q7
-Wish we never came here...<end>
-
-=>q8_original
-It's my fault Cliff is dead. He didn't want to go down there, he didn't want to disturb those creatures. But I made him... and now he's dead. ::She bursts into tears.::<end>
-
-=>q8
-It's my fault Cliff is dead. He didn't want to go down there, he didn't want to disturb those creatures. But I made him... and now he's dead. ::She bursts into tears.::<end>
-
-=>a9_original
-Sometimes you have to take these risks if you want to make your living as a scavenger. Surely Cliff knew this.<end>
-
-=>a9
-Sometimes you have to take these risks if you want to make your living as a scavenger. Surely Cliff knew this.<end>
-
-=>q10_original
-::She nods slowly.::<end>
-
-=>q10
-::She nods slowly.::<end>
-
-=>a11_original
-::Leave her be.::<end>
-
-=>a11
-::Leave her be.::<end>
-
-=>a12_original
-That may be so, but you crying won't do him any good anymore. Take his stuff and move on, that's what scavengers do.<end>
-
-=>a12
-That may be so, but you crying won't do him any good anymore. Take his stuff and move on, that's what scavengers do.<end>
-
+=>q1_original
+I'll never hear the end of this. Ya shoulda left 'er down there.<end>
+
+=>q1
+I'll never hear the end of this. Ya shoulda left 'er down there.<end>
+
+=>q2_original
+Jenny, ya made it! I--<end>
+
+=>q2
+Jenny, ya made it! I--<end>
+
+=>q3_original
+No thanks to you, you hopper.<end>
+
+=>q3
+No thanks to you, you hopper.<end>
+
+=>q4_original
+What!? Yer makin' it sound like it was my fault? Ya were the one who wanted to press forward even though there were burrowers in there!<end>
+
+=>q4
+What!? Yer makin' it sound like it was my fault? Ya were the one who wanted to press forward even though there were burrowers in there!<end>
+
+=>q5_original
+Back then I didn't know you'd put your tail between your legs and run at the first sign of trouble! 
+
+You know what you are, Cliff? You're one big...!<end>
+
+=>q5
+Back then I didn't know you'd put your tail between your legs and run at the first sign of trouble! 
+
+You know what you are, Cliff? You're one big...!<end>
+
+=>a6_original
+::Leave them to their bickering.::<end>
+
+=>a6
+::Leave them to their bickering.::<end>
+
+=>q7_original
+Wish we never came here...<end>
+
+=>q7
+Wish we never came here...<end>
+
+=>q8_original
+It's my fault Cliff is dead. He didn't want to go down there, he didn't want to disturb those creatures. But I made him... and now he's dead. ::She bursts into tears.::<end>
+
+=>q8
+It's my fault Cliff is dead. He didn't want to go down there, he didn't want to disturb those creatures. But I made him... and now he's dead. ::She bursts into tears.::<end>
+
+=>a9_original
+Sometimes you have to take these risks if you want to make your living as a scavenger. Surely Cliff knew this.<end>
+
+=>a9
+Sometimes you have to take these risks if you want to make your living as a scavenger. Surely Cliff knew this.<end>
+
+=>q10_original
+::She nods slowly.::<end>
+
+=>q10
+::She nods slowly.::<end>
+
+=>a11_original
+::Leave her be.::<end>
+
+=>a11
+::Leave her be.::<end>
+
+=>a12_original
+That may be so, but you crying won't do him any good anymore. Take his stuff and move on, that's what scavengers do.<end>
+
+=>a12
+That may be so, but you crying won't do him any good anymore. Take his stuff and move on, that's what scavengers do.<end>
+

@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-It's gonna take some time to fix up these dilapidated buildings.<end>
-
-=>q2
-It's gonna take some time to fix up these dilapidated buildings.<end>
-
-=>q3_original
-There's a lot of work to be done here.<end>
-
-=>q3
-There's a lot of work to be done here.<end>
-
-=>q4_original
-I'm kind of busy right now.<end>
-
-=>q4
-I'm kind of busy right now.<end>
-
-=>q5_original
-Yello.<end>
-
-=>q5
-Yello.<end>
-
-=>q6_original
-I just hope an angry rathound or somethin' doesn't jump out of some hole somewhere.<end>
-
-=>q6
-I just hope an angry rathound or somethin' doesn't jump out of some hole somewhere.<end>
-
-=>q7_original
-Is this...? Oh, nope. Never mind.<end>
-
-=>q7
-Is this...? Oh, nope. Never mind.<end>
-
-=>q8_original
-We've got a few guards keeping us safe, so we're good.<end>
-
-=>q8
-We've got a few guards keeping us safe, so we're good.<end>
-
-=>q9_original
-Hell, that old stinker sure is derailed. The guy got rathounds as pets, can you believe it?<end>
-
-=>q9
-Hell, that old stinker sure is derailed. The guy got rathounds as pets, can you believe it?<end>
-
-=>q10_original
-I'd feel a lot safer inside the station now that the Faceless are roaming about.<end>
-
-=>q10
-I'd feel a lot safer inside the station now that the Faceless are roaming about.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+It's gonna take some time to fix up these dilapidated buildings.<end>
+
+=>q2
+It's gonna take some time to fix up these dilapidated buildings.<end>
+
+=>q3_original
+There's a lot of work to be done here.<end>
+
+=>q3
+There's a lot of work to be done here.<end>
+
+=>q4_original
+I'm kind of busy right now.<end>
+
+=>q4
+I'm kind of busy right now.<end>
+
+=>q5_original
+Yello.<end>
+
+=>q5
+Yello.<end>
+
+=>q6_original
+I just hope an angry rathound or somethin' doesn't jump out of some hole somewhere.<end>
+
+=>q6
+I just hope an angry rathound or somethin' doesn't jump out of some hole somewhere.<end>
+
+=>q7_original
+Is this...? Oh, nope. Never mind.<end>
+
+=>q7
+Is this...? Oh, nope. Never mind.<end>
+
+=>q8_original
+We've got a few guards keeping us safe, so we're good.<end>
+
+=>q8
+We've got a few guards keeping us safe, so we're good.<end>
+
+=>q9_original
+Hell, that old stinker sure is derailed. The guy got rathounds as pets, can you believe it?<end>
+
+=>q9
+Hell, that old stinker sure is derailed. The guy got rathounds as pets, can you believe it?<end>
+
+=>q10_original
+I'd feel a lot safer inside the station now that the Faceless are roaming about.<end>
+
+=>q10
+I'd feel a lot safer inside the station now that the Faceless are roaming about.<end>
+

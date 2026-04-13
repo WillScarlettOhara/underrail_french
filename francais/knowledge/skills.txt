@@ -1,110 +1,110 @@
 ::Skills
-Skills
+Compétences
 
 ::AnyPsi
-Any psi skill
+Toute compétence psi
 
 ::GeneralInfo
-As your character levels up, they will receive a number of skill points that you can distribute in various areas. You may not invest more than 5 skill points (three times that at level one) per level in any given skill.
+Lorsque votre personnage monte de niveau, il reçoit un certain nombre de points de compétence que vous pouvez répartir dans différents domaines. Vous ne pouvez pas investir plus de 5 points de compétence (trois fois ce nombre au premier niveau) par niveau dans une compétence donnée.
 
-Each skill is affected by one of your character's base ability scores, but the amount of points you may invest in any skill is not restricted by them.
+Chaque compétence est affectée par l'une des caractéristiques de base de votre personnage, mais le nombre de points que vous pouvez investir dans une compétence n'est pas limité par celles-ci.
 
-Some skills may benefit from others through skill synergy.
+Certaines compétences peuvent bénéficier d'autres compétences par le biais de synergies.
 
-The number in brackets represents the skill level with all factors counted in.
+Le nombre entre crochets représente le niveau de la compétence tous facteurs confondus.
 
 ::Guns
-Increases your precision and damage with any type of pistol, SMG or rifle. This includes both firearms and energy weapons.
+Augmente votre précision et vos dégâts avec tout type de pistolet, pistolet mitrailleur ou fusil. Cela inclut les armes à feu et les armes à énergie.
 
-Also, the higher your skill level the more advanced weapons you can wield effectively.
+De plus, plus votre niveau de compétence est élevé, plus vous pouvez manier d'armes avancées efficacement.
 
 ::Guns_xpbl
-Increases your precision and damage with any type of pistol, SMG, shotgun, or rifle. This includes both firearms and energy weapons.
+Augmente votre précision et vos dégâts avec tout type de pistolet, pistolet mitrailleur, fusil à pompe ou fusil. Cela inclut les armes à feu et les armes à énergie.
 
-Also, the higher your skill level the more advanced weapons you can wield effectively.
+De plus, plus votre niveau de compétence est élevé, plus vous pouvez manier d'armes avancées efficacement.
 
 ::Guns_xphw
-Increases your precision and damage with any type of pistol, SMG, rifle, or grenade launcher. This includes both firearms and energy weapons.
+Augmente votre précision et vos dégâts avec tout type de pistolet, pistolet mitrailleur, fusil ou lance-grenades. Cela inclut les armes à feu et les armes à énergie.
 
-Also, the higher your skill level the more advanced weapons you can wield effectively.
+De plus, plus votre niveau de compétence est élevé, plus vous pouvez manier d'armes avancées efficacement.
 
 ::Guns_full
-Increases your precision and damage with any type of pistol, SMG, shotgun, rifle, or grenade launcher. This includes both firearms and energy weapons.
+Augmente votre précision et vos dégâts avec tout type de pistolet, pistolet mitrailleur, fusil à pompe, fusil ou lance-grenades. Cela inclut les armes à feu et les armes à énergie.
 
-Also, the higher your skill level the more advanced weapons you can wield effectively.
+De plus, plus votre niveau de compétence est élevé, plus vous pouvez manier d'armes avancées efficacement.
 
 ::Heavy Guns
-Increases your precision and damage with machine guns and handheld miniguns.
+Augmente votre précision et vos dégâts avec les mitrailleuses et les miniguns portatifs.
 
-Also, the higher your skill level the more advanced weapons you can wield effectively.
+De plus, plus votre niveau de compétence est élevé, plus vous pouvez manier d'armes avancées efficacement.
 
 ::Crossbows
-Increases your precision and damage with crossbows. 
+Augmente votre précision et vos dégâts avec les arbalètes.
 
 ::Grenades-Old
-Allows you to throw grenades more quickly, more often and across greater distance.
+Vous permet de lancer des grenades plus rapidement, plus souvent et à plus grande distance.
 
 ::Throwing
-Increases your precision with all thrown weapons and utilities, including grenades.
+Augmente votre précision avec toutes les armes et utilitaires de lancer, y compris les grenades.
 
 ::Melee
-Increases mechanical damage with melee weapons and unarmed attacks and helps you overcome your target's dodge rating.
+Augmente les dégâts mécaniques avec les armes de mêlée et les attaques à mains nues et vous aide à vaincre l'esquive de votre cible.
 
 ::Dodge
-Increases your chance to avoid melee attacks.
+Augmente vos chances d'esquiver les attaques de mêlée.
 
 ::Evasion
-Increases your chance to avoid a ranged attack. Reduces damage you receive from area of effect attacks.
+Augmente vos chances d'esquiver une attaque à distance. Réduit les dégâts que vous recevez des attaques à zone d'effet.
 
 ::Stealth
-Decreases the chance that you'll be spotted while in stealth mode. Also affects numerous aspects of stealth combat.
+Diminue les chances que vous soyez repéré en mode furtif. Affecte également de nombreux aspects du combat furtif.
 
 ::Hacking
-Allows you to hack all kinds of computer devices, such as electronic locks, cameras, sentry turrets, etc.
+Vous permet de pirater toutes sortes d'appareils informatiques, tels que les serrures électroniques, les caméras, les tourelles de surveillance, etc.
 
 ::Lockpicking
-Allows you to pick mechanical locks and dismantle other mechanical barriers such as ventilation shafts.
+Vous permet de crocheter des serrures mécaniques et de démonter d'autres barrières mécaniques telles que les conduits de ventilation.
 
 ::Pickpocketing
-Allows you to steal items from other characters.
+Vous permet de voler des objets à d'autres personnages.
 
 ::Mechanics
-Represents your knowledge of mechanics. This skill is primarily used in crafting various items, such as weapons, armors and traps.
+Représente vos connaissances en mécanique. Cette compétence est principalement utilisée pour fabriquer divers objets, tels que des armes, des armures et des pièges.
 
 ::Electronics
-Represents your knowledge of electronics. This skill is primarily used in crafting various items, such as various electronic utilities and energy weapons.
+Représente vos connaissances en électronique. Cette compétence est principalement utilisée pour fabriquer divers objets, tels que des utilitaires électroniques et des armes à énergie.
 
 ::Chemistry
-Represents your knowledge of chemistry. This skill is primarily used in crafting various items, such as explosives.
+Représente vos connaissances en chimie. Cette compétence est principalement utilisée pour fabriquer divers objets, tels que des explosifs.
 
 ::Biology
-Represents your knowledge of biology. This skill is primarily used in crafting various items, such as healing and psi restoring concoctions. It also enables you to extract useful substances from plants and animals.
+Représente vos connaissances en biologie. Cette compétence est principalement utilisée pour fabriquer divers objets, tels que des remèdes de soin et de restauration psi. Elle vous permet également d'extraire des substances utiles des plantes et des animaux.
 
 ::Tailoring
-Represents your skill in tailoring leather and cloth materials into pieces of armor.
+Représente votre habileté à tailler des matériaux en cuir et en tissu pour en faire des pièces d'armure.
 
 ::Thought Control
-Ability to influence the minds of other living creatures through mental suggestion and domination. Also the ability to focus and enhance your own mental processes and to take greater control of your body.
+Capacité à influencer l'esprit d'autres créatures vivantes par la suggestion et la domination mentales. Aussi la capacité de se concentrer et d'améliorer ses propres processus mentaux et de prendre un meilleur contrôle de son corps.
 
 ::Psychokinesis
-Ability of the mind to exert mechanical force, as well as to emit electric currents and project electromagnetic fields.
+Capacité de l'esprit à exercer une force mécanique, ainsi qu'à émettre des courants électriques et projeter des champs électromagnétiques.
 
 ::Metathermics
-Ability of mind to initiate and control rapid temperature changes and harness exothermic and endothermic energies.
+Capacité de l'esprit à initier et contrôler des changements rapides de température et à exploiter les énergies exothermiques et endothermiques.
 
 ::Temporal Manipulation
-Ability of mind to manipulate time or time perception on very local level, including partial time suspension, reversal and recurrence.
+Capacité de l'esprit à manipuler le temps ou la perception du temps à un niveau très local, y compris la suspension, l'inversion et la récurrence partielles du temps.
 
 ::Persuasion
-Your ability to convince the other party to see things your way through non-violent means.
+Votre capacité à convaincre l'autre partie de voir les choses de votre façon par des moyens non violents.
 
 ::Intimidation
-Your ability to make someone act out of fear.
+Votre capacité à faire agir quelqu'un par la peur.
 
 ::Mercantile
-Your ability to work out favorable prices in a business transaction.
+Votre capacité à obtenir des prix favorables lors d'une transaction commerciale.
 
 ::Traps
-Allows you to plant and disarm increasingly more powerful traps. The higher your skill is the harder your traps are to spot and disarm.
+Vous permet de poser et de désarmer des pièges de plus en plus puissants. Plus votre compétence est élevée, plus vos pièges sont difficiles à repérer et à désarmer.
 
-Also increases your chance of spotting traps.
+Augmente également vos chances de repérer les pièges.

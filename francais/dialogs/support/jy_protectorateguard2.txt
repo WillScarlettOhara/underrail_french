@@ -1,48 +1,48 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::He nods.:: Citizen.<end>
-
-=>q2
-::He nods.:: Citizen.<end>
-
-=>q3_original
-Do not cause any trouble.<end>
-
-=>q3
-Do not cause any trouble.<end>
-
-=>q4_original
-Move along, please.<end>
-
-=>q4
-Move along, please.<end>
-
-=>q5_original
-Keep your weapons out of reach while staying in the embassy.<end>
-
-=>q5
-Keep your weapons out of reach while staying in the embassy.<end>
-
-=>q6_original
-::Salutes.::<end>
-
-=>q6
-::Salutes.::<end>
-
-=>q7_original
-::Salutes.:: Everything's in order, $(#sir/ma'am).<end>
-
-=>q7
-::Salutes.:: Everything's in order, $(#sir/ma'am).<end>
-
-=>q8_original
-Welcome to the embassy, corporal, $(#sir/ma'am).<end>
-
-=>q8
-Welcome to the embassy, corporal, $(#sir/ma'am).<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::He nods.:: Citizen.<end>
+
+=>q2
+::He nods.:: Citizen.<end>
+
+=>q3_original
+Do not cause any trouble.<end>
+
+=>q3
+Do not cause any trouble.<end>
+
+=>q4_original
+Move along, please.<end>
+
+=>q4
+Move along, please.<end>
+
+=>q5_original
+Keep your weapons out of reach while staying in the embassy.<end>
+
+=>q5
+Keep your weapons out of reach while staying in the embassy.<end>
+
+=>q6_original
+::Salutes.::<end>
+
+=>q6
+::Salutes.::<end>
+
+=>q7_original
+::Salutes.:: Everything's in order, $(#sir/ma'am).<end>
+
+=>q7
+::Salutes.:: Everything's in order, $(#sir/ma'am).<end>
+
+=>q8_original
+Welcome to the embassy, corporal, $(#sir/ma'am).<end>
+
+=>q8
+Welcome to the embassy, corporal, $(#sir/ma'am).<end>
+

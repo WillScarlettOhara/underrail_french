@@ -1,30 +1,30 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Don't make too much noise, or they'll hear us on the other side.<end>
-
-=>q2
-Don't make too much noise, or they'll hear us on the other side.<end>
-
-=>q3_original
-Damn man, this Gorky guy knows no fear. He should enter the Arena.<end>
-
-=>q3
-Damn man, this Gorky guy knows no fear. He should enter the Arena.<end>
-
-=>q4_original
-Arena... that's where the real money's at, $(#man/sister).<end>
-
-=>q4
-Arena... that's where the real money's at, $(#man/sister).<end>
-
-=>q5_original
-Zone Rats yo.<end>
-
-=>q5
-Zone Rats yo.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Don't make too much noise, or they'll hear us on the other side.<end>
+
+=>q2
+Don't make too much noise, or they'll hear us on the other side.<end>
+
+=>q3_original
+Damn man, this Gorky guy knows no fear. He should enter the Arena.<end>
+
+=>q3
+Damn man, this Gorky guy knows no fear. He should enter the Arena.<end>
+
+=>q4_original
+Arena... that's where the real money's at, $(#man/sister).<end>
+
+=>q4
+Arena... that's where the real money's at, $(#man/sister).<end>
+
+=>q5_original
+Zone Rats yo.<end>
+
+=>q5
+Zone Rats yo.<end>
+

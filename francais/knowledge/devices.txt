@@ -1,23 +1,23 @@
 ::vendingMachine_currency_SgsCredits_singular
-SGS credit
+crédit SGS
 
 ::vendingMachine_currency_SgsCredits_plural
-SGS credits
+crédits SGS
 
 ::vendingMachine_currency_StygianCoins_singular
-stygian coin
+pièce stygienne
 
 ::vendingMachine_currency_StygianCoins_plural
-stygian coins
+pièces stygiennes
 
 ::vendingMachine_currency_UnitedStationDollars_singular
-US dollar
+dollar US
 
 ::vendingMachine_currency_UnitedStationDollars_plural
-US dollars
+dollars US
 
 ::vendingMachine_buy_option_format
-Buy {0} for {1} {2} [{3} left]
+Acheter {0} pour {1} {2} [{3} restant(s)]
 
 ::vendingMachine_leave_it_be
-Leave it be.
+Laisser tel quel.

@@ -1,742 +1,742 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-If you're looking for passage to someplace, ask someone else. I ain't sailing anywhere far for a couple of days.<end>
-
-=>q2
-If you're looking for passage to someplace, ask someone else. I ain't sailing anywhere far for a couple of days.<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-I need a lift to SGS.<end>
-
-=>a4
-I need a lift to SGS.<end>
-
-=>q5_original
-I don't ferry jet skis, in case you were thinking of bringing yours with us.<end>
-
-=>q5
-I don't ferry jet skis, in case you were thinking of bringing yours with us.<end>
-
-=>q6_original
-You want a lift, you leave your jet behind.<end>
-
-=>q6
-You want a lift, you leave your jet behind.<end>
-
-=>q7_original
-Alright. It'll cost you twenty charons.<end>
-
-=>q7
-Alright. It'll cost you twenty charons.<end>
-
-=>a8_original
-Here you go. ::Give him 20 stygian coins.::<end>
-
-=>a8
-Here you go. ::Give him 20 stygian coins.::<end>
-
-=>q9_original
-Alright, jump aboard.<end>
-
-=>q9
-Alright, jump aboard.<end>
-
-=>a10_original
-::Sail to SGS.::<end>
-
-=>a10
-::Sail to SGS.::<end>
-
-=>a11_original
-On second thought, I'd rather walk.<end>
-
-=>a11
-On second thought, I'd rather walk.<end>
-
-=>q12_original
-Alright, that I can do. It'll cost you ten charons.<end>
-
-=>q12
-Alright, that I can do. It'll cost you ten charons.<end>
-
-=>a13_original
-Here you go. ::Give him 10 stygian coins.::<end>
-
-=>a13
-Here you go. ::Give him 10 stygian coins.::<end>
-
-=>a14_original
-I need a lift to Camp Hathor.<end>
-
-=>a14
-I need a lift to Camp Hathor.<end>
-
-=>q15_original
-Can do. That'll cost you fifty charons, though.<end>
-
-=>q15
-Can do. That'll cost you fifty charons, though.<end>
-
-=>a16_original
-Here you go. ::Give him 50 stygian coins.::<end>
-
-=>a16
-Here you go. ::Give him 50 stygian coins.::<end>
-
-=>q17_original
-Good, jump aboard.<end>
-
-=>q17
-Good, jump aboard.<end>
-
-=>a18_original
-::Sail to Camp Hathor.::<end>
-
-=>a18
-::Sail to Camp Hathor.::<end>
-
-=>q19_original
-Can do. That'll cost you twenty-five charons, though.<end>
-
-=>q19
-Can do. That'll cost you twenty-five charons, though.<end>
-
-=>a20_original
-Here you go. ::Give him 25 stygian coins.::<end>
-
-=>a20
-Here you go. ::Give him 25 stygian coins.::<end>
-
-=>a21_original
-I need a lift to Core City.<end>
-
-=>a21
-I need a lift to Core City.<end>
-
-=>q22_original
-Fine. It'll cost you fifty charons.<end>
-
-=>q22
-Fine. It'll cost you fifty charons.<end>
-
-=>a23_original
-Here you go. ::Give him 50 stygian coins.::<end>
-
-=>a23
-Here you go. ::Give him 50 stygian coins.::<end>
-
-=>q24_original
-Jump aboard.<end>
-
-=>q24
-Jump aboard.<end>
-
-=>a25_original
-::Sail to Core City.::<end>
-
-=>a25
-::Sail to Core City.::<end>
-
-=>q26_original
-Fine. It'll cost you twenty-five charons.<end>
-
-=>q26
-Fine. It'll cost you twenty-five charons.<end>
-
-=>a27_original
-Here you go. ::Give him 25 stygian coins.::<end>
-
-=>a27
-Here you go. ::Give him 25 stygian coins.::<end>
-
-=>a28_original
-I'm here to help you recover that lost cargo.<end>
-
-=>a28
-I'm here to help you recover that lost cargo.<end>
-
-=>q29_original
-So, Silas found someone derailed enough after all. Look I'll take you there, but I ain't stepping farther than the shore. I'm no quaker, but that place gives me the creeps.<end>
-
-=>q29
-So, Silas found someone derailed enough after all. Look I'll take you there, but I ain't stepping farther than the shore. I'm no quaker, but that place gives me the creeps.<end>
-
-=>a30_original
-What's so scary about that place?<end>
-
-=>a30
-What's so scary about that place?<end>
-
-=>q31_original
-Well, I ain't of the superstitious kind. I mostly dismiss the derailed sailor tales on account of them being products of eating too many mushroom cupcakes, if you know what I mean.<end>
-
-=>q31
-Well, I ain't of the superstitious kind. I mostly dismiss the derailed sailor tales on account of them being products of eating too many mushroom cupcakes, if you know what I mean.<end>
-
-=>q32_original
-But this one I know to be true from my personal experience, you see. There's something... wrong on the Silent Isle. I don't know if it's haunted or what, but I tell you there's something strange going on there.<end>
-
-=>q32
-But this one I know to be true from my personal experience, you see. There's something... wrong on the Silent Isle. I don't know if it's haunted or what, but I tell you there's something strange going on there.<end>
-
-=>a33_original
-Like what?<end>
-
-=>a33
-Like what?<end>
-
-=>q34_original
-Alright, listen here...<end>
-
-=>q34
-Alright, listen here...<end>
-
-=>q35_original
-This one time I was sailing back from Core City when I started having problems with the engine's power converter. To fix it I had to turn off the main engine and I didn't want to do that in the middle of the river because the current was strong and I knew there were some stalagmites around I could crash into.<end>
-
-=>q35
-This one time I was sailing back from Core City when I started having problems with the engine's power converter. To fix it I had to turn off the main engine and I didn't want to do that in the middle of the river because the current was strong and I knew there were some stalagmites around I could crash into.<end>
-
-=>q36_original
-So I anchored at this nearby place the sailors call Silent Isle. I heard tales of it being cursed and how anyone who spends too much time there is never seen again, and such nonsense. But that didn't scare me. The only thing I cared about is whether there were pirates there, and as far as I could tell there weren't any.<end>
-
-=>q36
-So I anchored at this nearby place the sailors call Silent Isle. I heard tales of it being cursed and how anyone who spends too much time there is never seen again, and such nonsense. But that didn't scare me. The only thing I cared about is whether there were pirates there, and as far as I could tell there weren't any.<end>
-
-=>q37_original
-I turned off the engine and main lights because I didn't want to be seen and I also didn't want them to drain the battery before I could finish the repairs.<end>
-
-=>q37
-I turned off the engine and main lights because I didn't want to be seen and I also didn't want them to drain the battery before I could finish the repairs.<end>
-
-=>q38_original
-So I was working there in silence with just a flashlight on so I could see what I was doing. It took me hours to fix the converter, but I managed to do it.<end>
-
-=>q38
-So I was working there in silence with just a flashlight on so I could see what I was doing. It took me hours to fix the converter, but I managed to do it.<end>
-
-=>q39_original
-I powered up the engine and started to retract the anchor.<end>
-
-=>q39
-I powered up the engine and started to retract the anchor.<end>
-
-=>q40_original
-And I switched on the main lights.<end>
-
-=>q40
-And I switched on the main lights.<end>
-
-=>q41_original
-That's when I saw it... or should I say him. I saw me! Standing there on the shore looking back at myself.<end>
-
-=>q41
-That's when I saw it... or should I say him. I saw me! Standing there on the shore looking back at myself.<end>
-
-=>q42_original
-It's not just that I saw a guy that looked a lot like me, or even that I saw a guy that looked exactly like me... He was wearing the exact same clothes I was with exactly the same stains and tears that my clothes had. It was like I was looking into a mirror, except his pose was different.<end>
-
-=>q42
-It's not just that I saw a guy that looked a lot like me, or even that I saw a guy that looked exactly like me... He was wearing the exact same clothes I was with exactly the same stains and tears that my clothes had. It was like I was looking into a mirror, except his pose was different.<end>
-
-=>q43_original
-And you know what the weirdest thing was? For a few brief moments I couldn't really tell which one of us was real. That was the creepiest feeling I ever had in my life.<end>
-
-=>q43
-And you know what the weirdest thing was? For a few brief moments I couldn't really tell which one of us was real. That was the creepiest feeling I ever had in my life.<end>
-
-=>q44_original
-I didn't know what to do. I just stood there staring at him and listening to the anchor pulling up.<end>
-
-=>q44
-I didn't know what to do. I just stood there staring at him and listening to the anchor pulling up.<end>
-
-=>q45_original
-And as soon as the anchor was up, I pushed the throttle and raced out of there.<end>
-
-=>q45
-And as soon as the anchor was up, I pushed the throttle and raced out of there.<end>
-
-=>q46_original
-And nowadays I just steer clear of that island altogether.<end>
-
-=>q46
-And nowadays I just steer clear of that island altogether.<end>
-
-=>a47_original
-Damn, listening to that gave me the heebie-jeebies.<end>
-
-=>a47
-Damn, listening to that gave me the heebie-jeebies.<end>
-
-=>q48_original
-::He nods.:: Yeah. So you sure you want to go there after all?<end>
-
-=>q48
-::He nods.:: Yeah. So you sure you want to go there after all?<end>
-
-=>q49_original
-<end>
-
-=>q49
-<end>
-
-=>a50_original
-Yeah, let's go.<end>
-
-=>a50
-Yeah, let's go.<end>
-
-=>q51_original
-<end>
-
-=>q51
-<end>
-
-=>q52_original
-<end>
-
-=>q52
-<end>
-
-=>q53_original
-Alright, jump aboard.<end>
-
-=>q53
-Alright, jump aboard.<end>
-
-=>a54_original
-::Sail to Silent Isle.::<end>
-
-=>a54
-::Sail to Silent Isle.::<end>
-
-=>q55_original
-Well, I ain't sailing there just for the heck of it. <end>
-
-=>q55
-Well, I ain't sailing there just for the heck of it. <end>
-
-=>q56_original
-It'll cost you a hundred charons.<end>
-
-=>q56
-It'll cost you a hundred charons.<end>
-
-=>a57_original
-Deal. ::Pay 100 stygian coins.::<end>
-
-=>a57
-Deal. ::Pay 100 stygian coins.::<end>
-
-=>a58_original
-Forget it.<end>
-
-=>a58
-Forget it.<end>
-
-=>q59_original
-Suit yourself.<end>
-
-=>q59
-Suit yourself.<end>
-
-=>q60_original
-It'll cost you fifty charons.<end>
-
-=>q60
-It'll cost you fifty charons.<end>
-
-=>a61_original
-Deal. ::Pay 50 stygian coins.::<end>
-
-=>a61
-Deal. ::Pay 50 stygian coins.::<end>
-
-=>a62_original
-I'd like to hear the story of Silent Isle after all.<end>
-
-=>a62
-I'd like to hear the story of Silent Isle after all.<end>
-
-=>a63_original
-Tell me the story of Silent Isle again.<end>
-
-=>a63
-Tell me the story of Silent Isle again.<end>
-
-=>a64_original
-Actually, I'd like you to take me someplace else.<end>
-
-=>a64
-Actually, I'd like you to take me someplace else.<end>
-
-=>q65_original
-Right.<end>
-
-=>q65
-Right.<end>
-
-=>a66_original
-I need to get ready first. I'll be back shortly.<end>
-
-=>a66
-I need to get ready first. I'll be back shortly.<end>
-
-=>a67_original
-Not a bad story, but I expected something scarier.<end>
-
-=>a67
-Not a bad story, but I expected something scarier.<end>
-
-=>q68_original
-Well maybe this time around it'll be. You ready to set sail?<end>
-
-=>q68
-Well maybe this time around it'll be. You ready to set sail?<end>
-
-=>a69_original
-You call that scary? That story almost put me to sleep.<end>
-
-=>a69
-You call that scary? That story almost put me to sleep.<end>
-
-=>q70_original
-We'll see how tough you are once we get there. You ready or what?<end>
-
-=>q70
-We'll see how tough you are once we get there. You ready or what?<end>
-
-=>a71_original
-I find all the hard to believe. You must have been eating some raw mushrooms, man.<end>
-
-=>a71
-I find all the hard to believe. You must have been eating some raw mushrooms, man.<end>
-
-=>q72_original
-You can believe what you will, but I saw what I saw. We going or what?<end>
-
-=>q72
-You can believe what you will, but I saw what I saw. We going or what?<end>
-
-=>a73_original
-Forget it. Save your story for barrel fire, I have no time for it.<end>
-
-=>a73
-Forget it. Save your story for barrel fire, I have no time for it.<end>
-
-=>q74_original
-Suit yourself. Don't say I didn't warn you, though.<end>
-
-=>q74
-Suit yourself. Don't say I didn't warn you, though.<end>
-
-=>q75_original
-So we going there or what?<end>
-
-=>q75
-So we going there or what?<end>
-
-=>a76_original
-Whatever, just take me there.<end>
-
-=>a76
-Whatever, just take me there.<end>
-
-=>a77_original
-I would like you to take me to Silent Isle, if possible.<end>
-
-=>a77
-I would like you to take me to Silent Isle, if possible.<end>
-
-=>q78_original
-Ehm. Silent Isle. Well, I can take you there, but that place ain't for quakers. Hell, I ain't one and it gives even me the creeps. Are you sure you want to go there?<end>
-
-=>q78
-Ehm. Silent Isle. Well, I can take you there, but that place ain't for quakers. Hell, I ain't one and it gives even me the creeps. Are you sure you want to go there?<end>
-
-=>a79_original
-I want to sail to Silent Isle.<end>
-
-=>a79
-I want to sail to Silent Isle.<end>
-
-=>a80_original
-I need to go to Silent Isle again.<end>
-
-=>a80
-I need to go to Silent Isle again.<end>
-
-=>a81_original
-I need some sailing directions.<end>
-
-=>a81
-I need some sailing directions.<end>
-
-=>q82_original
-Name the place.<end>
-
-=>q82
-Name the place.<end>
-
-=>q83_original
-<end>
-
-=>q83
-<end>
-
-=>a84_original
-Core City.<end>
-
-=>a84
-Core City.<end>
-
-=>q85_original
-North. Just go north. When the water turns green you'll know you're near.<end>
-
-=>q85
-North. Just go north. When the water turns green you'll know you're near.<end>
-
-=>q86_original
-And keep your eyes peeled, with all the recent goings-on.<end>
-
-=>q86
-And keep your eyes peeled, with all the recent goings-on.<end>
-
-=>q87_original
-Anything else?<end>
-
-=>q87
-Anything else?<end>
-
-=>a88_original
-Camp Hathor.<end>
-
-=>a88
-Camp Hathor.<end>
-
-=>q89_original
-Go south then east through the Meatway. Once you reach Isaac's River, head north. Camp Hathor's on the western bank.<end>
-
-=>q89
-Go south then east through the Meatway. Once you reach Isaac's River, head north. Camp Hathor's on the western bank.<end>
-
-=>a90_original
-South Gate Station.<end>
-
-=>a90
-South Gate Station.<end>
-
-=>q91_original
-It's just across the Chancer's Bay.<end>
-
-=>q91
-It's just across the Chancer's Bay.<end>
-
-=>q92_original
-You should know that.<end>
-
-=>q92
-You should know that.<end>
-
-=>a93_original
-There was something else...<end>
-
-=>a93
-There was something else...<end>
-
-=>q94_original
-Yeah?<end>
-
-=>q94
-Yeah?<end>
-
-=>a95_original
-Thanks. Off I go.<end>
-
-=>a95
-Thanks. Off I go.<end>
-
-=>a96_original
-Do you know anything about the Black Sea?<end>
-
-=>a96
-Do you know anything about the Black Sea?<end>
-
-=>q97_original
-Yeah. ::He points his finger.:: It's north-east of here, a large body of water - a real sea. That's where the bloody pirates are coming from. No one else goes there but derailed sods and adventure seekers, who'll also get derailed if they manage to survive long enough.<end>
-
-=>q97
-Yeah. ::He points his finger.:: It's north-east of here, a large body of water - a real sea. That's where the bloody pirates are coming from. No one else goes there but derailed sods and adventure seekers, who'll also get derailed if they manage to survive long enough.<end>
-
-=>a98_original
-Derailed? Why?<end>
-
-=>a98
-Derailed? Why?<end>
-
-=>q99_original
-People say it's just superstition, that folks like us are just too credulous, but things ain't right there, ain't right. I've heard stories of people who'd been there and returned... different, weren't themselves anymore. Like Lunatics, they'd be raving about things... things I'd rather not even mention. Some had been found mutilated, but by their own hand and not someone else's. They'd have many cuts on their skin, and there'd be animal bones and various ornaments driven into their flesh.<end>
-
-=>q99
-People say it's just superstition, that folks like us are just too credulous, but things ain't right there, ain't right. I've heard stories of people who'd been there and returned... different, weren't themselves anymore. Like Lunatics, they'd be raving about things... things I'd rather not even mention. Some had been found mutilated, but by their own hand and not someone else's. They'd have many cuts on their skin, and there'd be animal bones and various ornaments driven into their flesh.<end>
-
-=>q100_original
-People fear the pirates, and that is justified. They are scum, pure scum. And, yes, people are afraid of the ferocious beasts that live there. That's justified as well. But those things can be shot at, chopped up and burned - killed, those things can be killed. I fear things that can't be. Things... that make people cross to the other side of the rails, you dig. How the pirates can live there is beyond me, but I'd stay away even if I knew, because you actually never *really* know.<end>
-
-=>q100
-People fear the pirates, and that is justified. They are scum, pure scum. And, yes, people are afraid of the ferocious beasts that live there. That's justified as well. But those things can be shot at, chopped up and burned - killed, those things can be killed. I fear things that can't be. Things... that make people cross to the other side of the rails, you dig. How the pirates can live there is beyond me, but I'd stay away even if I knew, because you actually never *really* know.<end>
-
-=>q101_original
-::He looks around nervously.::
-
-Even talking about it is giving me the creeps. If you wanted to ask me to take you there, the answer is, "Hell, no!" Now let's move onto something else...<end>
-
-=>q101
-::He looks around nervously.::
-
-Even talking about it is giving me the creeps. If you wanted to ask me to take you there, the answer is, "Hell, no!" Now let's move onto something else...<end>
-
-=>a102_original
-I need to get to Forsaken Island.<end>
-
-=>a102
-I need to get to Forsaken Island.<end>
-
-=>q103_original
-Forsa--!? Forget about it. Silent Isle's, there I can take people. But Forsaken Island? No. No one goes there and neither will I. Sorry. Anywhere else?<end>
-
-=>q103
-Forsa--!? Forget about it. Silent Isle's, there I can take people. But Forsaken Island? No. No one goes there and neither will I. Sorry. Anywhere else?<end>
-
-=>a104_original
-But I really need to get there.<end>
-
-=>a104
-But I really need to get there.<end>
-
-=>q105_original
-That's your problem. Anywhere else?<end>
-
-=>q105
-That's your problem. Anywhere else?<end>
-
-=>a106_original
-I have to go.<end>
-
-=>a106
-I have to go.<end>
-
-=>q107_original
-What is it?<end>
-
-=>q107
-What is it?<end>
-
-=>q108_original
-You ready to go to Silent Isle?<end>
-
-=>q108
-You ready to go to Silent Isle?<end>
-
-=>q109_original
-All prices have been doubled. Blame that scum of the waterways, the Grim Jetters.<end>
-
-=>q109
-All prices have been doubled. Blame that scum of the waterways, the Grim Jetters.<end>
-
-=>q110_original
-Where'd you get that thing? I ain't towin' that thing with us.<end>
-
-=>q110
-Where'd you get that thing? I ain't towin' that thing with us.<end>
-
-=>q111_original
-Ready to go back?<end>
-
-=>q111
-Ready to go back?<end>
-
-=>a112_original
-Yeah, let's go back to the Junkyard.<end>
-
-=>a112
-Yeah, let's go back to the Junkyard.<end>
-
-=>q113_original
-All aboard.<end>
-
-=>q113
-All aboard.<end>
-
-=>q114_original
-<end>
-
-=>q114
-<end>
-
-=>a115_original
-::Sail to Junkyard.::<end>
-
-=>a115
-::Sail to Junkyard.::<end>
-
-=>a116_original
-Not yet.<end>
-
-=>a116
-Not yet.<end>
-
-=>q117_original
-The sooner you find the cargo, the sooner we can leave this creepy place.<end>
-
-=>q117
-The sooner you find the cargo, the sooner we can leave this creepy place.<end>
-
-=>q118_original
-<end>
-
-=>q118
-<end>
-
-=>a119_original
-I found the cargo, let's go.<end>
-
-=>a119
-I found the cargo, let's go.<end>
-
-=>q120_original
-Perfect. Let's bail.<end>
-
-=>q120
-Perfect. Let's bail.<end>
-
-=>a121_original
-Couldn't find the cargo, let's go back.<end>
-
-=>a121
-Couldn't find the cargo, let's go back.<end>
-
-=>q122_original
-Fine by me.<end>
-
-=>q122
-Fine by me.<end>
-
-=>a123_original
-I'm off to have a look around.<end>
-
-=>a123
-I'm off to have a look around.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+If you're looking for passage to someplace, ask someone else. I ain't sailing anywhere far for a couple of days.<end>
+
+=>q2
+If you're looking for passage to someplace, ask someone else. I ain't sailing anywhere far for a couple of days.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I need a lift to SGS.<end>
+
+=>a4
+I need a lift to SGS.<end>
+
+=>q5_original
+I don't ferry jet skis, in case you were thinking of bringing yours with us.<end>
+
+=>q5
+I don't ferry jet skis, in case you were thinking of bringing yours with us.<end>
+
+=>q6_original
+You want a lift, you leave your jet behind.<end>
+
+=>q6
+You want a lift, you leave your jet behind.<end>
+
+=>q7_original
+Alright. It'll cost you twenty charons.<end>
+
+=>q7
+Alright. It'll cost you twenty charons.<end>
+
+=>a8_original
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>a8
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>q9_original
+Alright, jump aboard.<end>
+
+=>q9
+Alright, jump aboard.<end>
+
+=>a10_original
+::Sail to SGS.::<end>
+
+=>a10
+::Sail to SGS.::<end>
+
+=>a11_original
+On second thought, I'd rather walk.<end>
+
+=>a11
+On second thought, I'd rather walk.<end>
+
+=>q12_original
+Alright, that I can do. It'll cost you ten charons.<end>
+
+=>q12
+Alright, that I can do. It'll cost you ten charons.<end>
+
+=>a13_original
+Here you go. ::Give him 10 stygian coins.::<end>
+
+=>a13
+Here you go. ::Give him 10 stygian coins.::<end>
+
+=>a14_original
+I need a lift to Camp Hathor.<end>
+
+=>a14
+I need a lift to Camp Hathor.<end>
+
+=>q15_original
+Can do. That'll cost you fifty charons, though.<end>
+
+=>q15
+Can do. That'll cost you fifty charons, though.<end>
+
+=>a16_original
+Here you go. ::Give him 50 stygian coins.::<end>
+
+=>a16
+Here you go. ::Give him 50 stygian coins.::<end>
+
+=>q17_original
+Good, jump aboard.<end>
+
+=>q17
+Good, jump aboard.<end>
+
+=>a18_original
+::Sail to Camp Hathor.::<end>
+
+=>a18
+::Sail to Camp Hathor.::<end>
+
+=>q19_original
+Can do. That'll cost you twenty-five charons, though.<end>
+
+=>q19
+Can do. That'll cost you twenty-five charons, though.<end>
+
+=>a20_original
+Here you go. ::Give him 25 stygian coins.::<end>
+
+=>a20
+Here you go. ::Give him 25 stygian coins.::<end>
+
+=>a21_original
+I need a lift to Core City.<end>
+
+=>a21
+I need a lift to Core City.<end>
+
+=>q22_original
+Fine. It'll cost you fifty charons.<end>
+
+=>q22
+Fine. It'll cost you fifty charons.<end>
+
+=>a23_original
+Here you go. ::Give him 50 stygian coins.::<end>
+
+=>a23
+Here you go. ::Give him 50 stygian coins.::<end>
+
+=>q24_original
+Jump aboard.<end>
+
+=>q24
+Jump aboard.<end>
+
+=>a25_original
+::Sail to Core City.::<end>
+
+=>a25
+::Sail to Core City.::<end>
+
+=>q26_original
+Fine. It'll cost you twenty-five charons.<end>
+
+=>q26
+Fine. It'll cost you twenty-five charons.<end>
+
+=>a27_original
+Here you go. ::Give him 25 stygian coins.::<end>
+
+=>a27
+Here you go. ::Give him 25 stygian coins.::<end>
+
+=>a28_original
+I'm here to help you recover that lost cargo.<end>
+
+=>a28
+I'm here to help you recover that lost cargo.<end>
+
+=>q29_original
+So, Silas found someone derailed enough after all. Look I'll take you there, but I ain't stepping farther than the shore. I'm no quaker, but that place gives me the creeps.<end>
+
+=>q29
+So, Silas found someone derailed enough after all. Look I'll take you there, but I ain't stepping farther than the shore. I'm no quaker, but that place gives me the creeps.<end>
+
+=>a30_original
+What's so scary about that place?<end>
+
+=>a30
+What's so scary about that place?<end>
+
+=>q31_original
+Well, I ain't of the superstitious kind. I mostly dismiss the derailed sailor tales on account of them being products of eating too many mushroom cupcakes, if you know what I mean.<end>
+
+=>q31
+Well, I ain't of the superstitious kind. I mostly dismiss the derailed sailor tales on account of them being products of eating too many mushroom cupcakes, if you know what I mean.<end>
+
+=>q32_original
+But this one I know to be true from my personal experience, you see. There's something... wrong on the Silent Isle. I don't know if it's haunted or what, but I tell you there's something strange going on there.<end>
+
+=>q32
+But this one I know to be true from my personal experience, you see. There's something... wrong on the Silent Isle. I don't know if it's haunted or what, but I tell you there's something strange going on there.<end>
+
+=>a33_original
+Like what?<end>
+
+=>a33
+Like what?<end>
+
+=>q34_original
+Alright, listen here...<end>
+
+=>q34
+Alright, listen here...<end>
+
+=>q35_original
+This one time I was sailing back from Core City when I started having problems with the engine's power converter. To fix it I had to turn off the main engine and I didn't want to do that in the middle of the river because the current was strong and I knew there were some stalagmites around I could crash into.<end>
+
+=>q35
+This one time I was sailing back from Core City when I started having problems with the engine's power converter. To fix it I had to turn off the main engine and I didn't want to do that in the middle of the river because the current was strong and I knew there were some stalagmites around I could crash into.<end>
+
+=>q36_original
+So I anchored at this nearby place the sailors call Silent Isle. I heard tales of it being cursed and how anyone who spends too much time there is never seen again, and such nonsense. But that didn't scare me. The only thing I cared about is whether there were pirates there, and as far as I could tell there weren't any.<end>
+
+=>q36
+So I anchored at this nearby place the sailors call Silent Isle. I heard tales of it being cursed and how anyone who spends too much time there is never seen again, and such nonsense. But that didn't scare me. The only thing I cared about is whether there were pirates there, and as far as I could tell there weren't any.<end>
+
+=>q37_original
+I turned off the engine and main lights because I didn't want to be seen and I also didn't want them to drain the battery before I could finish the repairs.<end>
+
+=>q37
+I turned off the engine and main lights because I didn't want to be seen and I also didn't want them to drain the battery before I could finish the repairs.<end>
+
+=>q38_original
+So I was working there in silence with just a flashlight on so I could see what I was doing. It took me hours to fix the converter, but I managed to do it.<end>
+
+=>q38
+So I was working there in silence with just a flashlight on so I could see what I was doing. It took me hours to fix the converter, but I managed to do it.<end>
+
+=>q39_original
+I powered up the engine and started to retract the anchor.<end>
+
+=>q39
+I powered up the engine and started to retract the anchor.<end>
+
+=>q40_original
+And I switched on the main lights.<end>
+
+=>q40
+And I switched on the main lights.<end>
+
+=>q41_original
+That's when I saw it... or should I say him. I saw me! Standing there on the shore looking back at myself.<end>
+
+=>q41
+That's when I saw it... or should I say him. I saw me! Standing there on the shore looking back at myself.<end>
+
+=>q42_original
+It's not just that I saw a guy that looked a lot like me, or even that I saw a guy that looked exactly like me... He was wearing the exact same clothes I was with exactly the same stains and tears that my clothes had. It was like I was looking into a mirror, except his pose was different.<end>
+
+=>q42
+It's not just that I saw a guy that looked a lot like me, or even that I saw a guy that looked exactly like me... He was wearing the exact same clothes I was with exactly the same stains and tears that my clothes had. It was like I was looking into a mirror, except his pose was different.<end>
+
+=>q43_original
+And you know what the weirdest thing was? For a few brief moments I couldn't really tell which one of us was real. That was the creepiest feeling I ever had in my life.<end>
+
+=>q43
+And you know what the weirdest thing was? For a few brief moments I couldn't really tell which one of us was real. That was the creepiest feeling I ever had in my life.<end>
+
+=>q44_original
+I didn't know what to do. I just stood there staring at him and listening to the anchor pulling up.<end>
+
+=>q44
+I didn't know what to do. I just stood there staring at him and listening to the anchor pulling up.<end>
+
+=>q45_original
+And as soon as the anchor was up, I pushed the throttle and raced out of there.<end>
+
+=>q45
+And as soon as the anchor was up, I pushed the throttle and raced out of there.<end>
+
+=>q46_original
+And nowadays I just steer clear of that island altogether.<end>
+
+=>q46
+And nowadays I just steer clear of that island altogether.<end>
+
+=>a47_original
+Damn, listening to that gave me the heebie-jeebies.<end>
+
+=>a47
+Damn, listening to that gave me the heebie-jeebies.<end>
+
+=>q48_original
+::He nods.:: Yeah. So you sure you want to go there after all?<end>
+
+=>q48
+::He nods.:: Yeah. So you sure you want to go there after all?<end>
+
+=>q49_original
+<end>
+
+=>q49
+<end>
+
+=>a50_original
+Yeah, let's go.<end>
+
+=>a50
+Yeah, let's go.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>q53_original
+Alright, jump aboard.<end>
+
+=>q53
+Alright, jump aboard.<end>
+
+=>a54_original
+::Sail to Silent Isle.::<end>
+
+=>a54
+::Sail to Silent Isle.::<end>
+
+=>q55_original
+Well, I ain't sailing there just for the heck of it. <end>
+
+=>q55
+Well, I ain't sailing there just for the heck of it. <end>
+
+=>q56_original
+It'll cost you a hundred charons.<end>
+
+=>q56
+It'll cost you a hundred charons.<end>
+
+=>a57_original
+Deal. ::Pay 100 stygian coins.::<end>
+
+=>a57
+Deal. ::Pay 100 stygian coins.::<end>
+
+=>a58_original
+Forget it.<end>
+
+=>a58
+Forget it.<end>
+
+=>q59_original
+Suit yourself.<end>
+
+=>q59
+Suit yourself.<end>
+
+=>q60_original
+It'll cost you fifty charons.<end>
+
+=>q60
+It'll cost you fifty charons.<end>
+
+=>a61_original
+Deal. ::Pay 50 stygian coins.::<end>
+
+=>a61
+Deal. ::Pay 50 stygian coins.::<end>
+
+=>a62_original
+I'd like to hear the story of Silent Isle after all.<end>
+
+=>a62
+I'd like to hear the story of Silent Isle after all.<end>
+
+=>a63_original
+Tell me the story of Silent Isle again.<end>
+
+=>a63
+Tell me the story of Silent Isle again.<end>
+
+=>a64_original
+Actually, I'd like you to take me someplace else.<end>
+
+=>a64
+Actually, I'd like you to take me someplace else.<end>
+
+=>q65_original
+Right.<end>
+
+=>q65
+Right.<end>
+
+=>a66_original
+I need to get ready first. I'll be back shortly.<end>
+
+=>a66
+I need to get ready first. I'll be back shortly.<end>
+
+=>a67_original
+Not a bad story, but I expected something scarier.<end>
+
+=>a67
+Not a bad story, but I expected something scarier.<end>
+
+=>q68_original
+Well maybe this time around it'll be. You ready to set sail?<end>
+
+=>q68
+Well maybe this time around it'll be. You ready to set sail?<end>
+
+=>a69_original
+You call that scary? That story almost put me to sleep.<end>
+
+=>a69
+You call that scary? That story almost put me to sleep.<end>
+
+=>q70_original
+We'll see how tough you are once we get there. You ready or what?<end>
+
+=>q70
+We'll see how tough you are once we get there. You ready or what?<end>
+
+=>a71_original
+I find all the hard to believe. You must have been eating some raw mushrooms, man.<end>
+
+=>a71
+I find all the hard to believe. You must have been eating some raw mushrooms, man.<end>
+
+=>q72_original
+You can believe what you will, but I saw what I saw. We going or what?<end>
+
+=>q72
+You can believe what you will, but I saw what I saw. We going or what?<end>
+
+=>a73_original
+Forget it. Save your story for barrel fire, I have no time for it.<end>
+
+=>a73
+Forget it. Save your story for barrel fire, I have no time for it.<end>
+
+=>q74_original
+Suit yourself. Don't say I didn't warn you, though.<end>
+
+=>q74
+Suit yourself. Don't say I didn't warn you, though.<end>
+
+=>q75_original
+So we going there or what?<end>
+
+=>q75
+So we going there or what?<end>
+
+=>a76_original
+Whatever, just take me there.<end>
+
+=>a76
+Whatever, just take me there.<end>
+
+=>a77_original
+I would like you to take me to Silent Isle, if possible.<end>
+
+=>a77
+I would like you to take me to Silent Isle, if possible.<end>
+
+=>q78_original
+Ehm. Silent Isle. Well, I can take you there, but that place ain't for quakers. Hell, I ain't one and it gives even me the creeps. Are you sure you want to go there?<end>
+
+=>q78
+Ehm. Silent Isle. Well, I can take you there, but that place ain't for quakers. Hell, I ain't one and it gives even me the creeps. Are you sure you want to go there?<end>
+
+=>a79_original
+I want to sail to Silent Isle.<end>
+
+=>a79
+I want to sail to Silent Isle.<end>
+
+=>a80_original
+I need to go to Silent Isle again.<end>
+
+=>a80
+I need to go to Silent Isle again.<end>
+
+=>a81_original
+I need some sailing directions.<end>
+
+=>a81
+I need some sailing directions.<end>
+
+=>q82_original
+Name the place.<end>
+
+=>q82
+Name the place.<end>
+
+=>q83_original
+<end>
+
+=>q83
+<end>
+
+=>a84_original
+Core City.<end>
+
+=>a84
+Core City.<end>
+
+=>q85_original
+North. Just go north. When the water turns green you'll know you're near.<end>
+
+=>q85
+North. Just go north. When the water turns green you'll know you're near.<end>
+
+=>q86_original
+And keep your eyes peeled, with all the recent goings-on.<end>
+
+=>q86
+And keep your eyes peeled, with all the recent goings-on.<end>
+
+=>q87_original
+Anything else?<end>
+
+=>q87
+Anything else?<end>
+
+=>a88_original
+Camp Hathor.<end>
+
+=>a88
+Camp Hathor.<end>
+
+=>q89_original
+Go south then east through the Meatway. Once you reach Isaac's River, head north. Camp Hathor's on the western bank.<end>
+
+=>q89
+Go south then east through the Meatway. Once you reach Isaac's River, head north. Camp Hathor's on the western bank.<end>
+
+=>a90_original
+South Gate Station.<end>
+
+=>a90
+South Gate Station.<end>
+
+=>q91_original
+It's just across the Chancer's Bay.<end>
+
+=>q91
+It's just across the Chancer's Bay.<end>
+
+=>q92_original
+You should know that.<end>
+
+=>q92
+You should know that.<end>
+
+=>a93_original
+There was something else...<end>
+
+=>a93
+There was something else...<end>
+
+=>q94_original
+Yeah?<end>
+
+=>q94
+Yeah?<end>
+
+=>a95_original
+Thanks. Off I go.<end>
+
+=>a95
+Thanks. Off I go.<end>
+
+=>a96_original
+Do you know anything about the Black Sea?<end>
+
+=>a96
+Do you know anything about the Black Sea?<end>
+
+=>q97_original
+Yeah. ::He points his finger.:: It's north-east of here, a large body of water - a real sea. That's where the bloody pirates are coming from. No one else goes there but derailed sods and adventure seekers, who'll also get derailed if they manage to survive long enough.<end>
+
+=>q97
+Yeah. ::He points his finger.:: It's north-east of here, a large body of water - a real sea. That's where the bloody pirates are coming from. No one else goes there but derailed sods and adventure seekers, who'll also get derailed if they manage to survive long enough.<end>
+
+=>a98_original
+Derailed? Why?<end>
+
+=>a98
+Derailed? Why?<end>
+
+=>q99_original
+People say it's just superstition, that folks like us are just too credulous, but things ain't right there, ain't right. I've heard stories of people who'd been there and returned... different, weren't themselves anymore. Like Lunatics, they'd be raving about things... things I'd rather not even mention. Some had been found mutilated, but by their own hand and not someone else's. They'd have many cuts on their skin, and there'd be animal bones and various ornaments driven into their flesh.<end>
+
+=>q99
+People say it's just superstition, that folks like us are just too credulous, but things ain't right there, ain't right. I've heard stories of people who'd been there and returned... different, weren't themselves anymore. Like Lunatics, they'd be raving about things... things I'd rather not even mention. Some had been found mutilated, but by their own hand and not someone else's. They'd have many cuts on their skin, and there'd be animal bones and various ornaments driven into their flesh.<end>
+
+=>q100_original
+People fear the pirates, and that is justified. They are scum, pure scum. And, yes, people are afraid of the ferocious beasts that live there. That's justified as well. But those things can be shot at, chopped up and burned - killed, those things can be killed. I fear things that can't be. Things... that make people cross to the other side of the rails, you dig. How the pirates can live there is beyond me, but I'd stay away even if I knew, because you actually never *really* know.<end>
+
+=>q100
+People fear the pirates, and that is justified. They are scum, pure scum. And, yes, people are afraid of the ferocious beasts that live there. That's justified as well. But those things can be shot at, chopped up and burned - killed, those things can be killed. I fear things that can't be. Things... that make people cross to the other side of the rails, you dig. How the pirates can live there is beyond me, but I'd stay away even if I knew, because you actually never *really* know.<end>
+
+=>q101_original
+::He looks around nervously.::
+
+Even talking about it is giving me the creeps. If you wanted to ask me to take you there, the answer is, "Hell, no!" Now let's move onto something else...<end>
+
+=>q101
+::He looks around nervously.::
+
+Even talking about it is giving me the creeps. If you wanted to ask me to take you there, the answer is, "Hell, no!" Now let's move onto something else...<end>
+
+=>a102_original
+I need to get to Forsaken Island.<end>
+
+=>a102
+I need to get to Forsaken Island.<end>
+
+=>q103_original
+Forsa--!? Forget about it. Silent Isle's, there I can take people. But Forsaken Island? No. No one goes there and neither will I. Sorry. Anywhere else?<end>
+
+=>q103
+Forsa--!? Forget about it. Silent Isle's, there I can take people. But Forsaken Island? No. No one goes there and neither will I. Sorry. Anywhere else?<end>
+
+=>a104_original
+But I really need to get there.<end>
+
+=>a104
+But I really need to get there.<end>
+
+=>q105_original
+That's your problem. Anywhere else?<end>
+
+=>q105
+That's your problem. Anywhere else?<end>
+
+=>a106_original
+I have to go.<end>
+
+=>a106
+I have to go.<end>
+
+=>q107_original
+What is it?<end>
+
+=>q107
+What is it?<end>
+
+=>q108_original
+You ready to go to Silent Isle?<end>
+
+=>q108
+You ready to go to Silent Isle?<end>
+
+=>q109_original
+All prices have been doubled. Blame that scum of the waterways, the Grim Jetters.<end>
+
+=>q109
+All prices have been doubled. Blame that scum of the waterways, the Grim Jetters.<end>
+
+=>q110_original
+Where'd you get that thing? I ain't towin' that thing with us.<end>
+
+=>q110
+Where'd you get that thing? I ain't towin' that thing with us.<end>
+
+=>q111_original
+Ready to go back?<end>
+
+=>q111
+Ready to go back?<end>
+
+=>a112_original
+Yeah, let's go back to the Junkyard.<end>
+
+=>a112
+Yeah, let's go back to the Junkyard.<end>
+
+=>q113_original
+All aboard.<end>
+
+=>q113
+All aboard.<end>
+
+=>q114_original
+<end>
+
+=>q114
+<end>
+
+=>a115_original
+::Sail to Junkyard.::<end>
+
+=>a115
+::Sail to Junkyard.::<end>
+
+=>a116_original
+Not yet.<end>
+
+=>a116
+Not yet.<end>
+
+=>q117_original
+The sooner you find the cargo, the sooner we can leave this creepy place.<end>
+
+=>q117
+The sooner you find the cargo, the sooner we can leave this creepy place.<end>
+
+=>q118_original
+<end>
+
+=>q118
+<end>
+
+=>a119_original
+I found the cargo, let's go.<end>
+
+=>a119
+I found the cargo, let's go.<end>
+
+=>q120_original
+Perfect. Let's bail.<end>
+
+=>q120
+Perfect. Let's bail.<end>
+
+=>a121_original
+Couldn't find the cargo, let's go back.<end>
+
+=>a121
+Couldn't find the cargo, let's go back.<end>
+
+=>q122_original
+Fine by me.<end>
+
+=>q122
+Fine by me.<end>
+
+=>a123_original
+I'm off to have a look around.<end>
+
+=>a123
+I'm off to have a look around.<end>
+

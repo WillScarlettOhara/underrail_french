@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Don't cause trouble or I'll zone you out!<end>
-
-=>q2
-Don't cause trouble or I'll zone you out!<end>
-
-=>q3_original
-::Observes you silently.::<end>
-
-=>q3
-::Observes you silently.::<end>
-
-=>q4_original
-Wanna get in Motion?<end>
-
-=>q4
-Wanna get in Motion?<end>
-
-=>q5_original
-Some pipeworker scum was causin' problems here the other day.<end>
-
-=>q5
-Some pipeworker scum was causin' problems here the other day.<end>
-
-=>q6_original
-Be careful - someone's zonin' out motioners!<end>
-
-=>q6
-Be careful - someone's zonin' out motioners!<end>
-
-=>q7_original
-Mhm?<end>
-
-=>q7
-Mhm?<end>
-
-=>q8_original
-::Spits on the ground.:: Whatcha lookin' at?<end>
-
-=>q8
-::Spits on the ground.:: Whatcha lookin' at?<end>
-
-=>q9_original
-Talk to Sergio if you wanna get in Motion.<end>
-
-=>q9
-Talk to Sergio if you wanna get in Motion.<end>
-
-=>q10_original
-Heard 'bout that zoner that killed twelve psi bugs in the Arena? Dominating!<end>
-
-=>q10
-Heard 'bout that zoner that killed twelve psi bugs in the Arena? Dominating!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Don't cause trouble or I'll zone you out!<end>
+
+=>q2
+Don't cause trouble or I'll zone you out!<end>
+
+=>q3_original
+::Observes you silently.::<end>
+
+=>q3
+::Observes you silently.::<end>
+
+=>q4_original
+Wanna get in Motion?<end>
+
+=>q4
+Wanna get in Motion?<end>
+
+=>q5_original
+Some pipeworker scum was causin' problems here the other day.<end>
+
+=>q5
+Some pipeworker scum was causin' problems here the other day.<end>
+
+=>q6_original
+Be careful - someone's zonin' out motioners!<end>
+
+=>q6
+Be careful - someone's zonin' out motioners!<end>
+
+=>q7_original
+Mhm?<end>
+
+=>q7
+Mhm?<end>
+
+=>q8_original
+::Spits on the ground.:: Whatcha lookin' at?<end>
+
+=>q8
+::Spits on the ground.:: Whatcha lookin' at?<end>
+
+=>q9_original
+Talk to Sergio if you wanna get in Motion.<end>
+
+=>q9
+Talk to Sergio if you wanna get in Motion.<end>
+
+=>q10_original
+Heard 'bout that zoner that killed twelve psi bugs in the Arena? Dominating!<end>
+
+=>q10
+Heard 'bout that zoner that killed twelve psi bugs in the Arena? Dominating!<end>
+

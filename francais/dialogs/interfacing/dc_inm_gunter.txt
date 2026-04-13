@@ -1,262 +1,262 @@
-=>q1_original
-::Welcome G. Vasilica
-
-Main::<end>
-
-=>q1
-::Welcome G. Vasilica
-
-Main::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Access INM::<end>
-
-=>a3
-::Access INM::<end>
-
-=>q4_original
-::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
-If the problem persists, contact one of the network administrators.
-
-Number of contacts: 76
-Contacts online: 0::<end>
-
-=>q4
-::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
-If the problem persists, contact one of the network administrators.
-
-Number of contacts: 76
-Contacts online: 0::<end>
-
-=>a5_original
-::Archive::<end>
-
-=>a5
-::Archive::<end>
-
-=>q6_original
-::Archive::<end>
-
-=>q6
-::Archive::<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>a8_original
-::Log: 278666 - J. Dyson::<end>
-
-=>a8
-::Log: 278666 - J. Dyson::<end>
-
-=>q9_original
-::G. Vasilica: Hey, hey. I heard he came over to TL.
-J. Dyson: Who?
-G. Vasilica: Anton Matveev. What did he want?
-J. Dyson: He was interested in the psi monolith fragments we cut off several days ago. And in Project Eos.
-J. Dyson: Oh, it's you.
-J. Dyson: I thought it was Wasi. And wondered why he would start with "Hey, hey." Man, I need rest.
-G. Vasilica: He stopped by our lab too. Anton, I mean, not Wasi.
-J. Dyson: I got that.
-J. Dyson: The apex technocrats have been paying us frequent visits during these few days. Parkinson said Kirill came to him the other day, Anton before that. What did he want from you?::<end>
-
-=>q9
-::G. Vasilica: Hey, hey. I heard he came over to TL.
-J. Dyson: Who?
-G. Vasilica: Anton Matveev. What did he want?
-J. Dyson: He was interested in the psi monolith fragments we cut off several days ago. And in Project Eos.
-J. Dyson: Oh, it's you.
-J. Dyson: I thought it was Wasi. And wondered why he would start with "Hey, hey." Man, I need rest.
-G. Vasilica: He stopped by our lab too. Anton, I mean, not Wasi.
-J. Dyson: I got that.
-J. Dyson: The apex technocrats have been paying us frequent visits during these few days. Parkinson said Kirill came to him the other day, Anton before that. What did he want from you?::<end>
-
-=>q10_original
-::G. Vasilica: Yeah, I heard Kirill also called a few seemingly important meetings with Austein over at the Mutagen Tanks.
-G. Vasilica: As for us, Anton dropped by our lab for ten minutes. Frigid as a corpse, as usual. Interrogated a few of my scientists about our current projects and walked off. Never talked to me.
-J. Dyson: You should watch your writing, man.
-G. Vasilica: Nothing will happen. You think SAI reports to anyone anymore? Do you really think anyone still cares what happens around Hollow Earth?
-J. Dyson: You want to test it?::<end>
-
-=>q10
-::G. Vasilica: Yeah, I heard Kirill also called a few seemingly important meetings with Austein over at the Mutagen Tanks.
-G. Vasilica: As for us, Anton dropped by our lab for ten minutes. Frigid as a corpse, as usual. Interrogated a few of my scientists about our current projects and walked off. Never talked to me.
-J. Dyson: You should watch your writing, man.
-G. Vasilica: Nothing will happen. You think SAI reports to anyone anymore? Do you really think anyone still cares what happens around Hollow Earth?
-J. Dyson: You want to test it?::<end>
-
-=>q11_original
-::G. Vasilica: Maybe. But as far as I can see, everyone is doing whatever they please around here and no one intervenes in any way.
-G. Vasilica: Even apexes just stroll through and remain focused only on their own business.
-J. Dyson: Gunter, let's stop here. I dislike them as much as you do, especially after recent incidents, but it is what it is. The last thing I need is someone knocking on my door because of this.
-G. Vasilica: Fine.::<end>
-
-=>q11
-::G. Vasilica: Maybe. But as far as I can see, everyone is doing whatever they please around here and no one intervenes in any way.
-G. Vasilica: Even apexes just stroll through and remain focused only on their own business.
-J. Dyson: Gunter, let's stop here. I dislike them as much as you do, especially after recent incidents, but it is what it is. The last thing I need is someone knocking on my door because of this.
-G. Vasilica: Fine.::<end>
-
-=>a12_original
-::Back to Archive.::<end>
-
-=>a12
-::Back to Archive.::<end>
-
-=>a13_original
-::Log: 278670 - M. Hope::<end>
-
-=>a13
-::Log: 278670 - M. Hope::<end>
-
-=>q14_original
-::M. Hope: Dr. Vasilica, may I have a moment of your time.
-G. Vasilica: What can I help you with, Dr. Hope?
-M. Hope: It is about what happened between the two of us during that meeting. I owe you an apology.
-G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: I realized that my words were chosen poorly and that they should have never been spoken, there or anywhere else.
-G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: Do understand that I have never considered you to be anything but one of the most brilliant scientists working in Hollow Earth. Even if my choice of words then might have implied otherwise. Do understand that.::<end>
-
-=>q14
-::M. Hope: Dr. Vasilica, may I have a moment of your time.
-G. Vasilica: What can I help you with, Dr. Hope?
-M. Hope: It is about what happened between the two of us during that meeting. I owe you an apology.
-G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: I realized that my words were chosen poorly and that they should have never been spoken, there or anywhere else.
-G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: Do understand that I have never considered you to be anything but one of the most brilliant scientists working in Hollow Earth. Even if my choice of words then might have implied otherwise. Do understand that.::<end>
-
-=>q15_original
-::G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: Gunter.
-G. Vasilica: Yes, Dr. Hope?
-M. Hope: There is no need for you to do this anymore. I already apologized to you.
-G. Vasilica: I accept your apology, Dr. Hope, but what happened before the committee is not something I am likely to forget.
-M. Hope: I understand. I am sorry, I know your team has been having issues which were out of your control and that my remarks were the last thing you needed, besides being overstatements. It shouldn't have happened.
-G. Vasilica: Would that be all, Dr. Hope?
-M. Hope: That would be all, Dr. Vasilica.::<end>
-
-=>q15
-::G. Vasilica: Glad to hear it, Dr. Hope.
-M. Hope: Gunter.
-G. Vasilica: Yes, Dr. Hope?
-M. Hope: There is no need for you to do this anymore. I already apologized to you.
-G. Vasilica: I accept your apology, Dr. Hope, but what happened before the committee is not something I am likely to forget.
-M. Hope: I understand. I am sorry, I know your team has been having issues which were out of your control and that my remarks were the last thing you needed, besides being overstatements. It shouldn't have happened.
-G. Vasilica: Would that be all, Dr. Hope?
-M. Hope: That would be all, Dr. Vasilica.::<end>
-
-=>a16_original
-::Log: 278764 - H. Kim::<end>
-
-=>a16
-::Log: 278764 - H. Kim::<end>
-
-=>q17_original
-::H. Kim: Your recent report on correlation between engineered STK protein and maximum lifespan in TKS1 and TKS2 subjects is rather fascinating, Dr. Vasilica, I have to admit. It seems like your team has finally provided us with something worthy of our time.
-H. Kim: However, I am worried about your conclusions regarding the engineering and application in human subjects. Namely several of the proposed methods I feel are rather inadequate and poorly reasoned, I should even say. Could you come over to my office so that we can discuss the matter? I'm free today around three to five, and tomorrow at the same time.
-G. Vasilica: I will come over today. Can you please tell me which methods are in question here, Dr. Kim?
-H. Kim: We will talk in my office.::<end>
-
-=>q17
-::H. Kim: Your recent report on correlation between engineered STK protein and maximum lifespan in TKS1 and TKS2 subjects is rather fascinating, Dr. Vasilica, I have to admit. It seems like your team has finally provided us with something worthy of our time.
-H. Kim: However, I am worried about your conclusions regarding the engineering and application in human subjects. Namely several of the proposed methods I feel are rather inadequate and poorly reasoned, I should even say. Could you come over to my office so that we can discuss the matter? I'm free today around three to five, and tomorrow at the same time.
-G. Vasilica: I will come over today. Can you please tell me which methods are in question here, Dr. Kim?
-H. Kim: We will talk in my office.::<end>
-
-=>a18_original
-::Log: 278780 - M. Hope::<end>
-
-=>a18
-::Log: 278780 - M. Hope::<end>
-
-=>q19_original
-::M. Hope: I heard Dr. Kim was giving you trouble today, Dr. Vasilica.
-G. Vasilica: We had a discussion on one of my reports, Dr. Hope. That is all there is to it.
-M. Hope: Indeed. 
-M. Hope: Is he giving you too much trouble, perhaps?
-G. Vasilica: I don't need any favors, Dr. Hope.::<end>
-
-=>q19
-::M. Hope: I heard Dr. Kim was giving you trouble today, Dr. Vasilica.
-G. Vasilica: We had a discussion on one of my reports, Dr. Hope. That is all there is to it.
-M. Hope: Indeed. 
-M. Hope: Is he giving you too much trouble, perhaps?
-G. Vasilica: I don't need any favors, Dr. Hope.::<end>
-
-=>q20_original
-::M. Hope: No, this has nothing to do with favors. It's just that, due to the current situation, Dr. Kim should perhaps move his attention to some other projects that require more of it; it is certainly within my power to influence the committee when it comes to these things.
-M. Hope: I simply thought I'd let you know. It would eliminate the necessity for you to submit any more reports to him. Correct?
-G. Vasilica: Correct. If that is how you feel about it, then I am in no position to object, Dr. Hope.
-M. Hope: Very well, Dr. Vasilica. I wish you a pleasant day.
-G. Vasilica: You too, Dr. Hope.::<end>
-
-=>q20
-::M. Hope: No, this has nothing to do with favors. It's just that, due to the current situation, Dr. Kim should perhaps move his attention to some other projects that require more of it; it is certainly within my power to influence the committee when it comes to these things.
-M. Hope: I simply thought I'd let you know. It would eliminate the necessity for you to submit any more reports to him. Correct?
-G. Vasilica: Correct. If that is how you feel about it, then I am in no position to object, Dr. Hope.
-M. Hope: Very well, Dr. Vasilica. I wish you a pleasant day.
-G. Vasilica: You too, Dr. Hope.::<end>
-
-=>q21_original
-::M. Hope: Oh, and one more thing, Dr. Vasilica.
-M. Hope: Has Dr. Slavkovic contacted you, perhaps?
-G. Vasilica: I don't believe he did. Is there a reason to?
-M. Hope: Never mind. See you around, Gunter.
-G. Vasilica: Sure, Dr. Hope. Have a nice day.::<end>
-
-=>q21
-::M. Hope: Oh, and one more thing, Dr. Vasilica.
-M. Hope: Has Dr. Slavkovic contacted you, perhaps?
-G. Vasilica: I don't believe he did. Is there a reason to?
-M. Hope: Never mind. See you around, Gunter.
-G. Vasilica: Sure, Dr. Hope. Have a nice day.::<end>
-
-=>a22_original
-::Log: 278792 - J. Dyson::<end>
-
-=>a22
-::Log: 278792 - J. Dyson::<end>
-
-=>q23_original
-::J. Dyson: How did it go?
-G. Vasilica: It started bad. But it got better later.
-J. Dyson: ?
-J. Dyson: What do you mean it got better later?
-G. Vasilica: I'll come over and tell you all about it.::<end>
-
-=>q23
-::J. Dyson: How did it go?
-G. Vasilica: It started bad. But it got better later.
-J. Dyson: ?
-J. Dyson: What do you mean it got better later?
-G. Vasilica: I'll come over and tell you all about it.::<end>
-
-=>a24_original
-::Back::<end>
-
-=>a24
-::Back::<end>
-
-=>a25_original
-::Back to main::<end>
-
-=>a25
-::Back to main::<end>
-
-=>a26_original
-::Exit::<end>
-
-=>a26
-::Exit::<end>
-
+=>q1_original
+::Welcome G. Vasilica
+
+Main::<end>
+
+=>q1
+::Welcome G. Vasilica
+
+Main::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Access INM::<end>
+
+=>a3
+::Access INM::<end>
+
+=>q4_original
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 76
+Contacts online: 0::<end>
+
+=>q4
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 76
+Contacts online: 0::<end>
+
+=>a5_original
+::Archive::<end>
+
+=>a5
+::Archive::<end>
+
+=>q6_original
+::Archive::<end>
+
+=>q6
+::Archive::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::Log: 278666 - J. Dyson::<end>
+
+=>a8
+::Log: 278666 - J. Dyson::<end>
+
+=>q9_original
+::G. Vasilica: Hey, hey. I heard he came over to TL.
+J. Dyson: Who?
+G. Vasilica: Anton Matveev. What did he want?
+J. Dyson: He was interested in the psi monolith fragments we cut off several days ago. And in Project Eos.
+J. Dyson: Oh, it's you.
+J. Dyson: I thought it was Wasi. And wondered why he would start with "Hey, hey." Man, I need rest.
+G. Vasilica: He stopped by our lab too. Anton, I mean, not Wasi.
+J. Dyson: I got that.
+J. Dyson: The apex technocrats have been paying us frequent visits during these few days. Parkinson said Kirill came to him the other day, Anton before that. What did he want from you?::<end>
+
+=>q9
+::G. Vasilica: Hey, hey. I heard he came over to TL.
+J. Dyson: Who?
+G. Vasilica: Anton Matveev. What did he want?
+J. Dyson: He was interested in the psi monolith fragments we cut off several days ago. And in Project Eos.
+J. Dyson: Oh, it's you.
+J. Dyson: I thought it was Wasi. And wondered why he would start with "Hey, hey." Man, I need rest.
+G. Vasilica: He stopped by our lab too. Anton, I mean, not Wasi.
+J. Dyson: I got that.
+J. Dyson: The apex technocrats have been paying us frequent visits during these few days. Parkinson said Kirill came to him the other day, Anton before that. What did he want from you?::<end>
+
+=>q10_original
+::G. Vasilica: Yeah, I heard Kirill also called a few seemingly important meetings with Austein over at the Mutagen Tanks.
+G. Vasilica: As for us, Anton dropped by our lab for ten minutes. Frigid as a corpse, as usual. Interrogated a few of my scientists about our current projects and walked off. Never talked to me.
+J. Dyson: You should watch your writing, man.
+G. Vasilica: Nothing will happen. You think SAI reports to anyone anymore? Do you really think anyone still cares what happens around Hollow Earth?
+J. Dyson: You want to test it?::<end>
+
+=>q10
+::G. Vasilica: Yeah, I heard Kirill also called a few seemingly important meetings with Austein over at the Mutagen Tanks.
+G. Vasilica: As for us, Anton dropped by our lab for ten minutes. Frigid as a corpse, as usual. Interrogated a few of my scientists about our current projects and walked off. Never talked to me.
+J. Dyson: You should watch your writing, man.
+G. Vasilica: Nothing will happen. You think SAI reports to anyone anymore? Do you really think anyone still cares what happens around Hollow Earth?
+J. Dyson: You want to test it?::<end>
+
+=>q11_original
+::G. Vasilica: Maybe. But as far as I can see, everyone is doing whatever they please around here and no one intervenes in any way.
+G. Vasilica: Even apexes just stroll through and remain focused only on their own business.
+J. Dyson: Gunter, let's stop here. I dislike them as much as you do, especially after recent incidents, but it is what it is. The last thing I need is someone knocking on my door because of this.
+G. Vasilica: Fine.::<end>
+
+=>q11
+::G. Vasilica: Maybe. But as far as I can see, everyone is doing whatever they please around here and no one intervenes in any way.
+G. Vasilica: Even apexes just stroll through and remain focused only on their own business.
+J. Dyson: Gunter, let's stop here. I dislike them as much as you do, especially after recent incidents, but it is what it is. The last thing I need is someone knocking on my door because of this.
+G. Vasilica: Fine.::<end>
+
+=>a12_original
+::Back to Archive.::<end>
+
+=>a12
+::Back to Archive.::<end>
+
+=>a13_original
+::Log: 278670 - M. Hope::<end>
+
+=>a13
+::Log: 278670 - M. Hope::<end>
+
+=>q14_original
+::M. Hope: Dr. Vasilica, may I have a moment of your time.
+G. Vasilica: What can I help you with, Dr. Hope?
+M. Hope: It is about what happened between the two of us during that meeting. I owe you an apology.
+G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: I realized that my words were chosen poorly and that they should have never been spoken, there or anywhere else.
+G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: Do understand that I have never considered you to be anything but one of the most brilliant scientists working in Hollow Earth. Even if my choice of words then might have implied otherwise. Do understand that.::<end>
+
+=>q14
+::M. Hope: Dr. Vasilica, may I have a moment of your time.
+G. Vasilica: What can I help you with, Dr. Hope?
+M. Hope: It is about what happened between the two of us during that meeting. I owe you an apology.
+G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: I realized that my words were chosen poorly and that they should have never been spoken, there or anywhere else.
+G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: Do understand that I have never considered you to be anything but one of the most brilliant scientists working in Hollow Earth. Even if my choice of words then might have implied otherwise. Do understand that.::<end>
+
+=>q15_original
+::G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: Gunter.
+G. Vasilica: Yes, Dr. Hope?
+M. Hope: There is no need for you to do this anymore. I already apologized to you.
+G. Vasilica: I accept your apology, Dr. Hope, but what happened before the committee is not something I am likely to forget.
+M. Hope: I understand. I am sorry, I know your team has been having issues which were out of your control and that my remarks were the last thing you needed, besides being overstatements. It shouldn't have happened.
+G. Vasilica: Would that be all, Dr. Hope?
+M. Hope: That would be all, Dr. Vasilica.::<end>
+
+=>q15
+::G. Vasilica: Glad to hear it, Dr. Hope.
+M. Hope: Gunter.
+G. Vasilica: Yes, Dr. Hope?
+M. Hope: There is no need for you to do this anymore. I already apologized to you.
+G. Vasilica: I accept your apology, Dr. Hope, but what happened before the committee is not something I am likely to forget.
+M. Hope: I understand. I am sorry, I know your team has been having issues which were out of your control and that my remarks were the last thing you needed, besides being overstatements. It shouldn't have happened.
+G. Vasilica: Would that be all, Dr. Hope?
+M. Hope: That would be all, Dr. Vasilica.::<end>
+
+=>a16_original
+::Log: 278764 - H. Kim::<end>
+
+=>a16
+::Log: 278764 - H. Kim::<end>
+
+=>q17_original
+::H. Kim: Your recent report on correlation between engineered STK protein and maximum lifespan in TKS1 and TKS2 subjects is rather fascinating, Dr. Vasilica, I have to admit. It seems like your team has finally provided us with something worthy of our time.
+H. Kim: However, I am worried about your conclusions regarding the engineering and application in human subjects. Namely several of the proposed methods I feel are rather inadequate and poorly reasoned, I should even say. Could you come over to my office so that we can discuss the matter? I'm free today around three to five, and tomorrow at the same time.
+G. Vasilica: I will come over today. Can you please tell me which methods are in question here, Dr. Kim?
+H. Kim: We will talk in my office.::<end>
+
+=>q17
+::H. Kim: Your recent report on correlation between engineered STK protein and maximum lifespan in TKS1 and TKS2 subjects is rather fascinating, Dr. Vasilica, I have to admit. It seems like your team has finally provided us with something worthy of our time.
+H. Kim: However, I am worried about your conclusions regarding the engineering and application in human subjects. Namely several of the proposed methods I feel are rather inadequate and poorly reasoned, I should even say. Could you come over to my office so that we can discuss the matter? I'm free today around three to five, and tomorrow at the same time.
+G. Vasilica: I will come over today. Can you please tell me which methods are in question here, Dr. Kim?
+H. Kim: We will talk in my office.::<end>
+
+=>a18_original
+::Log: 278780 - M. Hope::<end>
+
+=>a18
+::Log: 278780 - M. Hope::<end>
+
+=>q19_original
+::M. Hope: I heard Dr. Kim was giving you trouble today, Dr. Vasilica.
+G. Vasilica: We had a discussion on one of my reports, Dr. Hope. That is all there is to it.
+M. Hope: Indeed. 
+M. Hope: Is he giving you too much trouble, perhaps?
+G. Vasilica: I don't need any favors, Dr. Hope.::<end>
+
+=>q19
+::M. Hope: I heard Dr. Kim was giving you trouble today, Dr. Vasilica.
+G. Vasilica: We had a discussion on one of my reports, Dr. Hope. That is all there is to it.
+M. Hope: Indeed. 
+M. Hope: Is he giving you too much trouble, perhaps?
+G. Vasilica: I don't need any favors, Dr. Hope.::<end>
+
+=>q20_original
+::M. Hope: No, this has nothing to do with favors. It's just that, due to the current situation, Dr. Kim should perhaps move his attention to some other projects that require more of it; it is certainly within my power to influence the committee when it comes to these things.
+M. Hope: I simply thought I'd let you know. It would eliminate the necessity for you to submit any more reports to him. Correct?
+G. Vasilica: Correct. If that is how you feel about it, then I am in no position to object, Dr. Hope.
+M. Hope: Very well, Dr. Vasilica. I wish you a pleasant day.
+G. Vasilica: You too, Dr. Hope.::<end>
+
+=>q20
+::M. Hope: No, this has nothing to do with favors. It's just that, due to the current situation, Dr. Kim should perhaps move his attention to some other projects that require more of it; it is certainly within my power to influence the committee when it comes to these things.
+M. Hope: I simply thought I'd let you know. It would eliminate the necessity for you to submit any more reports to him. Correct?
+G. Vasilica: Correct. If that is how you feel about it, then I am in no position to object, Dr. Hope.
+M. Hope: Very well, Dr. Vasilica. I wish you a pleasant day.
+G. Vasilica: You too, Dr. Hope.::<end>
+
+=>q21_original
+::M. Hope: Oh, and one more thing, Dr. Vasilica.
+M. Hope: Has Dr. Slavkovic contacted you, perhaps?
+G. Vasilica: I don't believe he did. Is there a reason to?
+M. Hope: Never mind. See you around, Gunter.
+G. Vasilica: Sure, Dr. Hope. Have a nice day.::<end>
+
+=>q21
+::M. Hope: Oh, and one more thing, Dr. Vasilica.
+M. Hope: Has Dr. Slavkovic contacted you, perhaps?
+G. Vasilica: I don't believe he did. Is there a reason to?
+M. Hope: Never mind. See you around, Gunter.
+G. Vasilica: Sure, Dr. Hope. Have a nice day.::<end>
+
+=>a22_original
+::Log: 278792 - J. Dyson::<end>
+
+=>a22
+::Log: 278792 - J. Dyson::<end>
+
+=>q23_original
+::J. Dyson: How did it go?
+G. Vasilica: It started bad. But it got better later.
+J. Dyson: ?
+J. Dyson: What do you mean it got better later?
+G. Vasilica: I'll come over and tell you all about it.::<end>
+
+=>q23
+::J. Dyson: How did it go?
+G. Vasilica: It started bad. But it got better later.
+J. Dyson: ?
+J. Dyson: What do you mean it got better later?
+G. Vasilica: I'll come over and tell you all about it.::<end>
+
+=>a24_original
+::Back::<end>
+
+=>a24
+::Back::<end>
+
+=>a25_original
+::Back to main::<end>
+
+=>a25
+::Back to main::<end>
+
+=>a26_original
+::Exit::<end>
+
+=>a26
+::Exit::<end>
+

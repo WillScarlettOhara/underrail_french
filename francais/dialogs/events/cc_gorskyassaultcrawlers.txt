@@ -1,48 +1,48 @@
-=>q1_original
-Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, we'd appreciate it.<end>
-
-=>q1
-Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, we'd appreciate it.<end>
-
-=>q2_original
-And yeah, go to hell you... crawlers. Holy hell, I forgot how to do all this smack talk! Give me a sec...<end>
-
-=>q2
-And yeah, go to hell you... crawlers. Holy hell, I forgot how to do all this smack talk! Give me a sec...<end>
-
-=>q3_original
-::Dan clears his throat.:: I like how you punks decorated this place while we were gone, but I notice a distinct lack of splattered blood on the walls. That's why we're here!<end>
-
-=>q3
-::Dan clears his throat.:: I like how you punks decorated this place while we were gone, but I notice a distinct lack of splattered blood on the walls. That's why we're here!<end>
-
-=>q4_original
-Gorsky!? I know that name! That's the pipeworker who killed Helaku! He killed Helaku!<end>
-
-=>q4
-Gorsky!? I know that name! That's the pipeworker who killed Helaku! He killed Helaku!<end>
-
-=>q5_original
-What are you doing, idiots! They're just standing over there, kill them! Kill them all!<end>
-
-=>q5
-What are you doing, idiots! They're just standing over there, kill them! Kill them all!<end>
-
-=>q6_original
-Pfft, what a bunch of feeble bastards. You gits haven't changed one bit.<end>
-
-=>q6
-Pfft, what a bunch of feeble bastards. You gits haven't changed one bit.<end>
-
-=>a7_original
-::Fight!::<end>
-
-=>a7
-::Fight!::<end>
-
-=>q8_original
-Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, I'd appreciate it.<end>
-
-=>q8
-Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, I'd appreciate it.<end>
-
+=>q1_original
+Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, we'd appreciate it.<end>
+
+=>q1
+Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, we'd appreciate it.<end>
+
+=>q2_original
+And yeah, go to hell you... crawlers. Holy hell, I forgot how to do all this smack talk! Give me a sec...<end>
+
+=>q2
+And yeah, go to hell you... crawlers. Holy hell, I forgot how to do all this smack talk! Give me a sec...<end>
+
+=>q3_original
+::Dan clears his throat.:: I like how you punks decorated this place while we were gone, but I notice a distinct lack of splattered blood on the walls. That's why we're here!<end>
+
+=>q3
+::Dan clears his throat.:: I like how you punks decorated this place while we were gone, but I notice a distinct lack of splattered blood on the walls. That's why we're here!<end>
+
+=>q4_original
+Gorsky!? I know that name! That's the pipeworker who killed Helaku! He killed Helaku!<end>
+
+=>q4
+Gorsky!? I know that name! That's the pipeworker who killed Helaku! He killed Helaku!<end>
+
+=>q5_original
+What are you doing, idiots! They're just standing over there, kill them! Kill them all!<end>
+
+=>q5
+What are you doing, idiots! They're just standing over there, kill them! Kill them all!<end>
+
+=>q6_original
+Pfft, what a bunch of feeble bastards. You gits haven't changed one bit.<end>
+
+=>q6
+Pfft, what a bunch of feeble bastards. You gits haven't changed one bit.<end>
+
+=>a7_original
+::Fight!::<end>
+
+=>a7
+::Fight!::<end>
+
+=>q8_original
+Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, I'd appreciate it.<end>
+
+=>q8
+Greetings, you miserable bastards, good to see you again. I'm Gorsky, and this place belongs to me now, so if you'd just politely die and let us move in, I'd appreciate it.<end>
+

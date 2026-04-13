@@ -1,152 +1,152 @@
-::base
-Consuming food will remove effects of previous meals.
-
-::rathoundBarbeque
-When consumed increases strength by 1.
-
-::burrowerBurger
-When consumed increases constitution by 1.
-
-::caveHopperSteak
-When consumed increases agility by 1.
-
-::eelSandwich
-When consumed increases dexterity by 1.
-
-::mushroomBrew
-When consumed increases strength by 1 and reduces all mechanical damage taken by 10%, but also reduces perception and dexterity by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30.
-
-::junkyardSurprise
-There's no telling what this might do to your guts.
-
-::coffee
-When consumed increases movement points by 5. It also reduces the cost of all psi abilities by 10%, but also reduces psi regeneration by 3.
-
-::cannedFish
-When consumed reduces all cold damage taken by 15%.
-
-::cannedMeat
-When consumed reduces all mechanical damage taken by 5%.
-
-::cannedMushrooms
-When consumed reduces all bio damage taken by 15%.
-
-::cannedStew
-When consumed reduces all heat damage taken by 8%.
-
-::baconCheeseSandwich
-When consumed increases maximum health by 20.
-
-::cookedBurrowerEgg
-When consumed reduces all poison damage taken by 35%.
-
-::coreChips
-When consumed increases weapon and unarmed attack critical hit chance by 2%.
-
-::hardcoreChips
-When consumed increases weapon and unarmed attack critical hit chance by 5%, but also increases the chance to get critically hit by weapons by 2%.
-
-::friedSiphonerTongue
-When consumed increases healing effectiveness by 15%.
-
-::mushroomSalad
-When consumed increases perception by 1.
-
-::pentapusBarbecue
-When consumed increases carry capacity by 25.
-
-::pickledMindshrooms
-When consumed increases psionic critical damage bonus by 40%.
-
-::psiBeetleBrainSoup
-When consumed decreases psi ability psi cost by 15%.
-
-::rootSoda
-When consumed increases initiative by 5.
-
-::stuffedBat
-When consumed increases detection by 15%.
-
-::underPie
-When consumed increases all skills by 3.
-
-::cannedCzernina
-When consumed reduces all heat damage taken by 15%.
-
-::crabSandwich
-When consumed increases global mechanical threshold by 15%.
-
-::kzozel
-When consumed increases dodge by 50 and reduces all mechanical damage taken by 10%, but also reduces perception by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30.
-
-::kzozelYantar
-When consumed increases dodge by 70 and reduces all mechanical damage taken by 15%, but also reduces perception by 3. Additionally, all psionic skills will be reduced by 40 and psi regeneration will be decreased by 30.
-
-::mutieStew
-When consumed reduces all acid damage taken by 35%, but reduces health by 20 and healing effectiveness by 35%.
-
-::seaSerpentFillet
-When consumed reduces poison damage taken by 20% and increases evasion by 30.
-
-::butterySteamedClams
-When consumed increases maximum health points by 40.
-
-::bisonMilk
-When consumed increases strength by 1 and critical damage bonus of melee weapons and unarmed attacks by 25%.
-
-::mysteryCandy
-When consumed increases critical chance with weapon, unarmed, and psi attacks by 5%, but reduces will by 1 and resolve by 100.
-
-::boolean
-All base abilities decreased by 3. All psionic skills reduced by 20 and psi regeneration reduced by 30.
-
-::stalagDrop
-Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 1. All psionic skills reduced by 10 and psi regeneration reduced by 15.
-
-::caveTear
-Strength increased by 2 and all mechanical damage taken reduced by 20%. Perception and dexterity reduced by 3. All psionic skills reduced by 30 and psi regeneration reduced by 40.
-
-::iceOfSpades
-When consumed increases metathermics by 20 but reduces movement points by 10.
-
-::allIn
-When consumed increases all base abilities by 3, except intelligence which is reduced by the same amount. Also increases chance to get critically hit with weapons, unarmed attacks and psi abilities by 100% (additively).
-
-::cleanDeal
-When consumed increases thought control by 20, but reduces perception by 1 and resolve by 30.
-
-::sleightOfTheNight
-When consumed increases pickpocketing by 15.
-
-::slampipe
-When consumed increases strength by 1 and grants 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks, but also reduces agility by 1. 
-
-::outwork
-When consumed increases carry capacity by 30.
-
-::jetdrag
-When consumed increases stability on jet skis by 10%, but reduces action points by 5.
-
-::laylow
-When consumed increases evasion by 15% and stealth by 20 and reduces all bio damage taken by 10%.
-
-::mindshroomMartini
-When consumed increases maximum psi points by 10.
-
-::whiteDude
-When consumed increases agility by 3, persuasion by 15, but reduces dexterity and perception by 2 and psi point regeneration by 30.
-
-::slackjaw
-When consumed increases strength and constitution by 1 and intimidation by 15, but reduces intelligence by 3 and will by 1.
-
-::absence
-When consumed usually takes you down a bad trip.
-
-::bloodyOligarch
-When consumed increases health by 30, but reduces resolve by the same amount.
-
-::scrapperac
-When consumed grants 15% bonus damage with melee weapons and unarmed attacks, as well as a small chance to daze the target, yourself, or both with each such attack.
-
-::jonSpecial
-When consumed increases all skills by 5.
+::base
+Consuming food will remove effects of previous meals.
+
+::rathoundBarbeque
+When consumed increases strength by 1.
+
+::burrowerBurger
+When consumed increases constitution by 1.
+
+::caveHopperSteak
+When consumed increases agility by 1.
+
+::eelSandwich
+When consumed increases dexterity by 1.
+
+::mushroomBrew
+When consumed increases strength by 1 and reduces all mechanical damage taken by 10%, but also reduces perception and dexterity by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30.
+
+::junkyardSurprise
+There's no telling what this might do to your guts.
+
+::coffee
+When consumed increases movement points by 5. It also reduces the cost of all psi abilities by 10%, but also reduces psi regeneration by 3.
+
+::cannedFish
+When consumed reduces all cold damage taken by 15%.
+
+::cannedMeat
+When consumed reduces all mechanical damage taken by 5%.
+
+::cannedMushrooms
+When consumed reduces all bio damage taken by 15%.
+
+::cannedStew
+When consumed reduces all heat damage taken by 8%.
+
+::baconCheeseSandwich
+When consumed increases maximum health by 20.
+
+::cookedBurrowerEgg
+When consumed reduces all poison damage taken by 35%.
+
+::coreChips
+When consumed increases weapon and unarmed attack critical hit chance by 2%.
+
+::hardcoreChips
+When consumed increases weapon and unarmed attack critical hit chance by 5%, but also increases the chance to get critically hit by weapons by 2%.
+
+::friedSiphonerTongue
+When consumed increases healing effectiveness by 15%.
+
+::mushroomSalad
+When consumed increases perception by 1.
+
+::pentapusBarbecue
+When consumed increases carry capacity by 25.
+
+::pickledMindshrooms
+When consumed increases psionic critical damage bonus by 40%.
+
+::psiBeetleBrainSoup
+When consumed decreases psi ability psi cost by 15%.
+
+::rootSoda
+When consumed increases initiative by 5.
+
+::stuffedBat
+When consumed increases detection by 15%.
+
+::underPie
+When consumed increases all skills by 3.
+
+::cannedCzernina
+When consumed reduces all heat damage taken by 15%.
+
+::crabSandwich
+When consumed increases global mechanical threshold by 15%.
+
+::kzozel
+When consumed increases dodge by 50 and reduces all mechanical damage taken by 10%, but also reduces perception by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30.
+
+::kzozelYantar
+When consumed increases dodge by 70 and reduces all mechanical damage taken by 15%, but also reduces perception by 3. Additionally, all psionic skills will be reduced by 40 and psi regeneration will be decreased by 30.
+
+::mutieStew
+When consumed reduces all acid damage taken by 35%, but reduces health by 20 and healing effectiveness by 35%.
+
+::seaSerpentFillet
+When consumed reduces poison damage taken by 20% and increases evasion by 30.
+
+::butterySteamedClams
+When consumed increases maximum health points by 40.
+
+::bisonMilk
+When consumed increases strength by 1 and critical damage bonus of melee weapons and unarmed attacks by 25%.
+
+::mysteryCandy
+When consumed increases critical chance with weapon, unarmed, and psi attacks by 5%, but reduces will by 1 and resolve by 100.
+
+::boolean
+All base abilities decreased by 3. All psionic skills reduced by 20 and psi regeneration reduced by 30.
+
+::stalagDrop
+Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 1. All psionic skills reduced by 10 and psi regeneration reduced by 15.
+
+::caveTear
+Strength increased by 2 and all mechanical damage taken reduced by 20%. Perception and dexterity reduced by 3. All psionic skills reduced by 30 and psi regeneration reduced by 40.
+
+::iceOfSpades
+When consumed increases metathermics by 20 but reduces movement points by 10.
+
+::allIn
+When consumed increases all base abilities by 3, except intelligence which is reduced by the same amount. Also increases chance to get critically hit with weapons, unarmed attacks and psi abilities by 100% (additively).
+
+::cleanDeal
+When consumed increases thought control by 20, but reduces perception by 1 and resolve by 30.
+
+::sleightOfTheNight
+When consumed increases pickpocketing by 15.
+
+::slampipe
+When consumed increases strength by 1 and grants 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks, but also reduces agility by 1. 
+
+::outwork
+When consumed increases carry capacity by 30.
+
+::jetdrag
+When consumed increases stability on jet skis by 10%, but reduces action points by 5.
+
+::laylow
+When consumed increases evasion by 15% and stealth by 20 and reduces all bio damage taken by 10%.
+
+::mindshroomMartini
+When consumed increases maximum psi points by 10.
+
+::whiteDude
+When consumed increases agility by 3, persuasion by 15, but reduces dexterity and perception by 2 and psi point regeneration by 30.
+
+::slackjaw
+When consumed increases strength and constitution by 1 and intimidation by 15, but reduces intelligence by 3 and will by 1.
+
+::absence
+When consumed usually takes you down a bad trip.
+
+::bloodyOligarch
+When consumed increases health by 30, but reduces resolve by the same amount.
+
+::scrapperac
+When consumed grants 15% bonus damage with melee weapons and unarmed attacks, as well as a small chance to daze the target, yourself, or both with each such attack.
+
+::jonSpecial
+When consumed increases all skills by 5.

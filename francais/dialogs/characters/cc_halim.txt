@@ -1,470 +1,470 @@
-=>q1_original
-::Skinny body; large head. These are the first things that come to your mind after looking at this man. His aging skin is covered by simple, modest clothes, with only an ornamented metal bracelet on his right hand standing out. Modest too is his smile, after which he speaks with a light, relaxed voice.::
-
-I welcome you to my store, traveler. Halim is my name, and I am at your service.<end>
-
-=>q1
-::Skinny body; large head. These are the first things that come to your mind after looking at this man. His aging skin is covered by simple, modest clothes, with only an ornamented metal bracelet on his right hand standing out. Modest too is his smile, after which he speaks with a light, relaxed voice.::
-
-I welcome you to my store, traveler. Halim is my name, and I am at your service.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Show me what you have. ::Barter.::<end>
-
-=>a3
-Show me what you have. ::Barter.::<end>
-
-=>a4_original
-You do sell some powerful weapons for someone who seems to dislike violence.<end>
-
-=>a4
-You do sell some powerful weapons for someone who seems to dislike violence.<end>
-
-=>q5_original
-Yes. Guns are instruments of murder, but the world is a dangerous place, and whoever denies that will likely die because of it. I sell a small number of them and I hope they will be used for self-defense, even though they are likely not.<end>
-
-=>q5
-Yes. Guns are instruments of murder, but the world is a dangerous place, and whoever denies that will likely die because of it. I sell a small number of them and I hope they will be used for self-defense, even though they are likely not.<end>
-
-=>a6_original
-Yes, but energy weapons? You can't convince me you sell those for self-defense.<end>
-
-=>a6
-Yes, but energy weapons? You can't convince me you sell those for self-defense.<end>
-
-=>q7_original
-And I won't, because I don't have to justify myself to you. Disrespect me like that one more time and you will not be welcome in this store anymore.<end>
-
-=>q7
-And I won't, because I don't have to justify myself to you. Disrespect me like that one more time and you will not be welcome in this store anymore.<end>
-
-=>a8_original
-I see your point. I didn't mean to imply anything, by the way, I was just curious. I'd like to ask you something else.<end>
-
-=>a8
-I see your point. I didn't mean to imply anything, by the way, I was just curious. I'd like to ask you something else.<end>
-
-=>q9_original
-::He nods.::<end>
-
-=>q9
-::He nods.::<end>
-
-=>a10_original
-I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
-
-=>a10
-I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
-
-=>q11_original
-Man you speak of is not known to me.<end>
-
-=>q11
-Man you speak of is not known to me.<end>
-
-=>q12_original
-Oskar, merchant just up ahead, he was once a member of Praetorian Security. Maybe he knows him.<end>
-
-=>q12
-Oskar, merchant just up ahead, he was once a member of Praetorian Security. Maybe he knows him.<end>
-
-=>a13_original
-I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
-
-=>a13
-I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
-
-=>q14_original
-I never heard of them, and judging by the name, I'm glad I haven't.<end>
-
-=>q14
-I never heard of them, and judging by the name, I'm glad I haven't.<end>
-
-=>q15_original
-My interest in such things, as well as knowledge, is minimal. You should ask someone else about these things.<end>
-
-=>q15
-My interest in such things, as well as knowledge, is minimal. You should ask someone else about these things.<end>
-
-=>a16_original
-I'd like to ask you some questions about the city.<end>
-
-=>a16
-I'd like to ask you some questions about the city.<end>
-
-=>q17_original
-And I will be glad to answer them.<end>
-
-=>q17
-And I will be glad to answer them.<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-What can you tell me about Drop Zone?<end>
-
-=>a19
-What can you tell me about Drop Zone?<end>
-
-=>q20_original
-Ignore everything else, Drop Zone is the true face of Core City. It is the place of poor. It is the place of unwanted.<end>
-
-=>q20
-Ignore everything else, Drop Zone is the true face of Core City. It is the place of poor. It is the place of unwanted.<end>
-
-=>q21_original
-Oligarchs can show off shiny tech made by Coretech, draw people to Arena and create an illusion of a functional society. No. It is not the real truth, it draws eyes away from the real truth. To understand any society, you must look how they treat those who cannot serve it, but instead need help.<end>
-
-=>q21
-Oligarchs can show off shiny tech made by Coretech, draw people to Arena and create an illusion of a functional society. No. It is not the real truth, it draws eyes away from the real truth. To understand any society, you must look how they treat those who cannot serve it, but instead need help.<end>
-
-=>a22_original
-What can you tell me about Arena?<end>
-
-=>a22
-What can you tell me about Arena?<end>
-
-=>q23_original
-Arena means physical death for those who fight.<end>
-
-=>q23
-Arena means physical death for those who fight.<end>
-
-=>q24_original
-And mental, for those who watch it.<end>
-
-=>q24
-And mental, for those who watch it.<end>
-
-=>a25_original
-What can you tell me about the Gauntlet?<end>
-
-=>a25
-What can you tell me about the Gauntlet?<end>
-
-=>q26_original
-They call it best new thing, "hardcore" entertainment. No. It is not. It is as violent as Arena, it is inharmonious, it celebrates torment. Watch people get killed in rooms full of traps?<end>
-
-=>q26
-They call it best new thing, "hardcore" entertainment. No. It is not. It is as violent as Arena, it is inharmonious, it celebrates torment. Watch people get killed in rooms full of traps?<end>
-
-=>q27_original
-Monstrous! I have nothing more to say of it.<end>
-
-=>q27
-Monstrous! I have nothing more to say of it.<end>
-
-=>a28_original
-What can you tell me about the Oligarchy?<end>
-
-=>a28
-What can you tell me about the Oligarchy?<end>
-
-=>q29_original
-Oligarchy are three men who rule Core City, and have been doing so for fifteen years. Order which they brought with them is deceiving. What they did is simply move all violence from the streets and placed it into hearts of the people, where it is easier to control. Arena proves it. Gauntlet proves it.<end>
-
-=>q29
-Oligarchy are three men who rule Core City, and have been doing so for fifteen years. Order which they brought with them is deceiving. What they did is simply move all violence from the streets and placed it into hearts of the people, where it is easier to control. Arena proves it. Gauntlet proves it.<end>
-
-=>q30_original
-You will often hear approval of their rule, but that only means you are not talking to the right people. Look around the city instead. It will speak clearer than any of us can.<end>
-
-=>q30
-You will often hear approval of their rule, but that only means you are not talking to the right people. Look around the city instead. It will speak clearer than any of us can.<end>
-
-=>a31_original
-What can you tell me about Coretech?<end>
-
-=>a31
-What can you tell me about Coretech?<end>
-
-=>q32_original
-They advance technology, manufacture products which make life easier. On one side, they can make beauty, harmony, but on the other, they make weapons, instruments of disonance and murder.<end>
-
-=>q32
-They advance technology, manufacture products which make life easier. On one side, they can make beauty, harmony, but on the other, they make weapons, instruments of disonance and murder.<end>
-
-=>q33_original
-They are those who sell you an energy shield to protect you from the weapons they created. They are Coretech.<end>
-
-=>q33
-They are those who sell you an energy shield to protect you from the weapons they created. They are Coretech.<end>
-
-=>a34_original
-What can you tell me about JKK?<end>
-
-=>a34
-What can you tell me about JKK?<end>
-
-=>q35_original
-JKK broadcasts violence and death. As if there isn't enough of it in Underrail. Why not air something artistic, musical, lyrical? Educational? Something to ease soul and motivate a man to create, to learn.<end>
-
-=>q35
-JKK broadcasts violence and death. As if there isn't enough of it in Underrail. Why not air something artistic, musical, lyrical? Educational? Something to ease soul and motivate a man to create, to learn.<end>
-
-=>q36_original
-But, people have been raised to desire even more death, even more bloodbath. So JKK feeds them just that.<end>
-
-=>q36
-But, people have been raised to desire even more death, even more bloodbath. So JKK feeds them just that.<end>
-
-=>a37_original
-What can you tell me about Praetorian Security?<end>
-
-=>a37
-What can you tell me about Praetorian Security?<end>
-
-=>q38_original
-Brutes who tell us what not to do. They defend us from everything but themselves. And each other as well. I often wonder if criminals they deal with did more to hurt them or the people. 
-
-But, it could be worse. Core City is well protected against outside threats, that I must confess.<end>
-
-=>q38
-Brutes who tell us what not to do. They defend us from everything but themselves. And each other as well. I often wonder if criminals they deal with did more to hurt them or the people. 
-
-But, it could be worse. Core City is well protected against outside threats, that I must confess.<end>
-
-=>q39_original
-And despite my disproval of Oligarchy, I think Praetorian Security will protect us from Tunnelers. For their sake, the Oligarchs' and their servants'; not ours, of course.<end>
-
-=>q39
-And despite my disproval of Oligarchy, I think Praetorian Security will protect us from Tunnelers. For their sake, the Oligarchs' and their servants'; not ours, of course.<end>
-
-=>q40_original
-But, I have to say they held their ground against Tunnelers well. They protected their estamblishment.<end>
-
-=>q40
-But, I have to say they held their ground against Tunnelers well. They protected their estamblishment.<end>
-
-=>a41_original
-What can you tell me about Tchortists?<end>
-
-=>a41
-What can you tell me about Tchortists?<end>
-
-=>q42_original
-Tchortists are men and women of peace, knowledge, harmony. They come here to preach, not to kill. They bring us medication and teachings of science and rationality. In Core City, where everyone is obsessed with violence, Tchortists might be those who turn their heads toward other things.<end>
-
-=>q42
-Tchortists are men and women of peace, knowledge, harmony. They come here to preach, not to kill. They bring us medication and teachings of science and rationality. In Core City, where everyone is obsessed with violence, Tchortists might be those who turn their heads toward other things.<end>
-
-=>q43_original
-In fact, I... Never mind. I just hope their intentions are as true as their words. <end>
-
-=>q43
-In fact, I... Never mind. I just hope their intentions are as true as their words. <end>
-
-=>a44_original
-What can you tell me about Hardcore City Bar?<end>
-
-=>a44
-What can you tell me about Hardcore City Bar?<end>
-
-=>q45_original
-I don't visit such places, so I can't tell anything of use.<end>
-
-=>q45
-I don't visit such places, so I can't tell anything of use.<end>
-
-=>q46_original
-I prefer my time well spent, rather than wasted.<end>
-
-=>q46
-I prefer my time well spent, rather than wasted.<end>
-
-=>a47_original
-Let's discuss something else.<end>
-
-=>a47
-Let's discuss something else.<end>
-
-=>a48_original
-What can you tell me about the Talloski family?<end>
-
-=>a48
-What can you tell me about the Talloski family?<end>
-
-=>q49_original
-The Talloski family are well respected in Core City. I have personally met Vlatko and his charming wife, Suzana. They seemed like they were harmonious people, which I respect.<end>
-
-=>q49
-The Talloski family are well respected in Core City. I have personally met Vlatko and his charming wife, Suzana. They seemed like they were harmonious people, which I respect.<end>
-
-=>q50_original
-Through years of hard work, they built a mansion on the level above. Lowlifes of Core City envy them for their riches, so stories about them being involved in dirty business circulate the city. But I believe there's nothing shady about them; everything they own is a product of hard work.<end>
-
-=>q50
-Through years of hard work, they built a mansion on the level above. Lowlifes of Core City envy them for their riches, so stories about them being involved in dirty business circulate the city. But I believe there's nothing shady about them; everything they own is a product of hard work.<end>
-
-=>q51_original
-And a bit of luck.<end>
-
-=>q51
-And a bit of luck.<end>
-
-=>a52_original
-Can you tell me something about a man called Al Fabet?<end>
-
-=>a52
-Can you tell me something about a man called Al Fabet?<end>
-
-=>q53_original
-Yes. That man disturbs peace of this store when he comes in. He offers inadequate items for sale, which I politely decline. He storms off angry, every time, but returns eventually with something new to sell. A seemingly endless loop.<end>
-
-=>q53
-Yes. That man disturbs peace of this store when he comes in. He offers inadequate items for sale, which I politely decline. He storms off angry, every time, but returns eventually with something new to sell. A seemingly endless loop.<end>
-
-=>q54_original
-::He smiles.:: I remember, the last time he brought a bag of rusty handles taken from a derailed Underrail Express train. I didn't buy them, naturally.<end>
-
-=>q54
-::He smiles.:: I remember, the last time he brought a bag of rusty handles taken from a derailed Underrail Express train. I didn't buy them, naturally.<end>
-
-=>a55_original
-That is a nice bracelet there. Where did you get it?<end>
-
-=>a55
-That is a nice bracelet there. Where did you get it?<end>
-
-=>q56_original
-::He touches the bracelet, smiling, and then displays it for you to see. It is a wide metal bracelet with engravings resembling some sort of writing. It is also heavily ornamented with different and interesting shapes.:: It is a gift from my wife. The writing is in a language that is likely foreign to you, but it has a special meaning to us.<end>
-
-=>q56
-::He touches the bracelet, smiling, and then displays it for you to see. It is a wide metal bracelet with engravings resembling some sort of writing. It is also heavily ornamented with different and interesting shapes.:: It is a gift from my wife. The writing is in a language that is likely foreign to you, but it has a special meaning to us.<end>
-
-=>a57_original
-It has the same color as charons. Is that thing made of super steel?<end>
-
-=>a57
-It has the same color as charons. Is that thing made of super steel?<end>
-
-=>q58_original
-Yes. It was made in Foundry years ago. They have furnaces there that can melt charons. Or at least had back then, when my wife was ordering the bracelet to be made.<end>
-
-=>q58
-Yes. It was made in Foundry years ago. They have furnaces there that can melt charons. Or at least had back then, when my wife was ordering the bracelet to be made.<end>
-
-=>q59_original
-Actually, I think it was about the time they were making the two snake statues for Praetorian Security headquarters. Yes, I remember she told me she saw them there, unfinished.<end>
-
-=>q59
-Actually, I think it was about the time they were making the two snake statues for Praetorian Security headquarters. Yes, I remember she told me she saw them there, unfinished.<end>
-
-=>a60_original
-Cool. Can I ask you something else.<end>
-
-=>a60
-Cool. Can I ask you something else.<end>
-
-=>a61_original
-How do you feel now that the Faceless have retreated?<end>
-
-=>a61
-How do you feel now that the Faceless have retreated?<end>
-
-=>q62_original
-Same. Once Tunnelers retreated, I finally realized that Core City felt the same before, during, and after invasion. It was and always will be a city of extreme violence.<end>
-
-=>q62
-Same. Once Tunnelers retreated, I finally realized that Core City felt the same before, during, and after invasion. It was and always will be a city of extreme violence.<end>
-
-=>q63_original
-Walk around and you will see. Little has changed.<end>
-
-=>q63
-Walk around and you will see. Little has changed.<end>
-
-=>a64_original
-Why do you think the Faceless attacked Core City?<end>
-
-=>a64
-Why do you think the Faceless attacked Core City?<end>
-
-=>q65_original
-I don't know. Tunnelers are a mystery to most of us, and so is the reason why they haven't tried pushing deeper into city. I often think that Oligarchs did something to antagonize them, but that may just be my bias.<end>
-
-=>q65
-I don't know. Tunnelers are a mystery to most of us, and so is the reason why they haven't tried pushing deeper into city. I often think that Oligarchs did something to antagonize them, but that may just be my bias.<end>
-
-=>q66_original
-This city glorifies meaningless death and destruction, and that is why I think we will defend ourselves from Tunnelers. However cruel they might be, I think we are likely to be worse than them.<end>
-
-=>q66
-This city glorifies meaningless death and destruction, and that is why I think we will defend ourselves from Tunnelers. However cruel they might be, I think we are likely to be worse than them.<end>
-
-=>a67_original
-I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
-
-=>a67
-I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
-
-=>q68_original
-My memory is clear. Terry and Lora Baker. Southgaters, harmonious people. They often visit my store. Whenever they are in Core City, that is. ::He smiles.:: They were here around the time the big earthquake struck. They bought some components, then they left. If memory serves me well, among other things they needed two TriEnergy 1400w power supply units. I did not have those at the time.<end>
-
-=>q68
-My memory is clear. Terry and Lora Baker. Southgaters, harmonious people. They often visit my store. Whenever they are in Core City, that is. ::He smiles.:: They were here around the time the big earthquake struck. They bought some components, then they left. If memory serves me well, among other things they needed two TriEnergy 1400w power supply units. I did not have those at the time.<end>
-
-=>q69_original
-That is all the helpful information I can tell you. Still, as they were merchants, it was very likely that they visited other stores in Core City. Maybe someone else has answers you need.<end>
-
-=>q69
-That is all the helpful information I can tell you. Still, as they were merchants, it was very likely that they visited other stores in Core City. Maybe someone else has answers you need.<end>
-
-=>a70_original
-I'm looking for the Acid Hunters.<end>
-
-=>a70
-I'm looking for the Acid Hunters.<end>
-
-=>q71_original
-I know nothing of these Acid Hunters.<end>
-
-=>q71
-I know nothing of these Acid Hunters.<end>
-
-=>q72_original
-I'm sorry, but I can't help you.<end>
-
-=>q72
-I'm sorry, but I can't help you.<end>
-
-=>a73_original
-Do you know anything about a merchant named Daniel Arda?<end>
-
-=>a73
-Do you know anything about a merchant named Daniel Arda?<end>
-
-=>q74_original
-I do. He travels a lot around South Underrail. When he returns to Core City, he trades with other merchants.<end>
-
-=>q74
-I do. He travels a lot around South Underrail. When he returns to Core City, he trades with other merchants.<end>
-
-=>q75_original
-My opinion of him? I dislike him. He seems dishonest and greedy. Recently he started selling some strange substance, but I know very little of it. For that reason, I'd rather not comment on what he has been doing.<end>
-
-=>q75
-My opinion of him? I dislike him. He seems dishonest and greedy. Recently he started selling some strange substance, but I know very little of it. For that reason, I'd rather not comment on what he has been doing.<end>
-
-=>a76_original
-See you around. Bye.<end>
-
-=>a76
-See you around. Bye.<end>
-
-=>q77_original
-Welcome back.<end>
-
-=>q77
-Welcome back.<end>
-
+=>q1_original
+::Skinny body; large head. These are the first things that come to your mind after looking at this man. His aging skin is covered by simple, modest clothes, with only an ornamented metal bracelet on his right hand standing out. Modest too is his smile, after which he speaks with a light, relaxed voice.::
+
+I welcome you to my store, traveler. Halim is my name, and I am at your service.<end>
+
+=>q1
+::Skinny body; large head. These are the first things that come to your mind after looking at this man. His aging skin is covered by simple, modest clothes, with only an ornamented metal bracelet on his right hand standing out. Modest too is his smile, after which he speaks with a light, relaxed voice.::
+
+I welcome you to my store, traveler. Halim is my name, and I am at your service.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have. ::Barter.::<end>
+
+=>a3
+Show me what you have. ::Barter.::<end>
+
+=>a4_original
+You do sell some powerful weapons for someone who seems to dislike violence.<end>
+
+=>a4
+You do sell some powerful weapons for someone who seems to dislike violence.<end>
+
+=>q5_original
+Yes. Guns are instruments of murder, but the world is a dangerous place, and whoever denies that will likely die because of it. I sell a small number of them and I hope they will be used for self-defense, even though they are likely not.<end>
+
+=>q5
+Yes. Guns are instruments of murder, but the world is a dangerous place, and whoever denies that will likely die because of it. I sell a small number of them and I hope they will be used for self-defense, even though they are likely not.<end>
+
+=>a6_original
+Yes, but energy weapons? You can't convince me you sell those for self-defense.<end>
+
+=>a6
+Yes, but energy weapons? You can't convince me you sell those for self-defense.<end>
+
+=>q7_original
+And I won't, because I don't have to justify myself to you. Disrespect me like that one more time and you will not be welcome in this store anymore.<end>
+
+=>q7
+And I won't, because I don't have to justify myself to you. Disrespect me like that one more time and you will not be welcome in this store anymore.<end>
+
+=>a8_original
+I see your point. I didn't mean to imply anything, by the way, I was just curious. I'd like to ask you something else.<end>
+
+=>a8
+I see your point. I didn't mean to imply anything, by the way, I was just curious. I'd like to ask you something else.<end>
+
+=>q9_original
+::He nods.::<end>
+
+=>q9
+::He nods.::<end>
+
+=>a10_original
+I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
+
+=>a10
+I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
+
+=>q11_original
+Man you speak of is not known to me.<end>
+
+=>q11
+Man you speak of is not known to me.<end>
+
+=>q12_original
+Oskar, merchant just up ahead, he was once a member of Praetorian Security. Maybe he knows him.<end>
+
+=>q12
+Oskar, merchant just up ahead, he was once a member of Praetorian Security. Maybe he knows him.<end>
+
+=>a13_original
+I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
+
+=>a13
+I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
+
+=>q14_original
+I never heard of them, and judging by the name, I'm glad I haven't.<end>
+
+=>q14
+I never heard of them, and judging by the name, I'm glad I haven't.<end>
+
+=>q15_original
+My interest in such things, as well as knowledge, is minimal. You should ask someone else about these things.<end>
+
+=>q15
+My interest in such things, as well as knowledge, is minimal. You should ask someone else about these things.<end>
+
+=>a16_original
+I'd like to ask you some questions about the city.<end>
+
+=>a16
+I'd like to ask you some questions about the city.<end>
+
+=>q17_original
+And I will be glad to answer them.<end>
+
+=>q17
+And I will be glad to answer them.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+What can you tell me about Drop Zone?<end>
+
+=>a19
+What can you tell me about Drop Zone?<end>
+
+=>q20_original
+Ignore everything else, Drop Zone is the true face of Core City. It is the place of poor. It is the place of unwanted.<end>
+
+=>q20
+Ignore everything else, Drop Zone is the true face of Core City. It is the place of poor. It is the place of unwanted.<end>
+
+=>q21_original
+Oligarchs can show off shiny tech made by Coretech, draw people to Arena and create an illusion of a functional society. No. It is not the real truth, it draws eyes away from the real truth. To understand any society, you must look how they treat those who cannot serve it, but instead need help.<end>
+
+=>q21
+Oligarchs can show off shiny tech made by Coretech, draw people to Arena and create an illusion of a functional society. No. It is not the real truth, it draws eyes away from the real truth. To understand any society, you must look how they treat those who cannot serve it, but instead need help.<end>
+
+=>a22_original
+What can you tell me about Arena?<end>
+
+=>a22
+What can you tell me about Arena?<end>
+
+=>q23_original
+Arena means physical death for those who fight.<end>
+
+=>q23
+Arena means physical death for those who fight.<end>
+
+=>q24_original
+And mental, for those who watch it.<end>
+
+=>q24
+And mental, for those who watch it.<end>
+
+=>a25_original
+What can you tell me about the Gauntlet?<end>
+
+=>a25
+What can you tell me about the Gauntlet?<end>
+
+=>q26_original
+They call it best new thing, "hardcore" entertainment. No. It is not. It is as violent as Arena, it is inharmonious, it celebrates torment. Watch people get killed in rooms full of traps?<end>
+
+=>q26
+They call it best new thing, "hardcore" entertainment. No. It is not. It is as violent as Arena, it is inharmonious, it celebrates torment. Watch people get killed in rooms full of traps?<end>
+
+=>q27_original
+Monstrous! I have nothing more to say of it.<end>
+
+=>q27
+Monstrous! I have nothing more to say of it.<end>
+
+=>a28_original
+What can you tell me about the Oligarchy?<end>
+
+=>a28
+What can you tell me about the Oligarchy?<end>
+
+=>q29_original
+Oligarchy are three men who rule Core City, and have been doing so for fifteen years. Order which they brought with them is deceiving. What they did is simply move all violence from the streets and placed it into hearts of the people, where it is easier to control. Arena proves it. Gauntlet proves it.<end>
+
+=>q29
+Oligarchy are three men who rule Core City, and have been doing so for fifteen years. Order which they brought with them is deceiving. What they did is simply move all violence from the streets and placed it into hearts of the people, where it is easier to control. Arena proves it. Gauntlet proves it.<end>
+
+=>q30_original
+You will often hear approval of their rule, but that only means you are not talking to the right people. Look around the city instead. It will speak clearer than any of us can.<end>
+
+=>q30
+You will often hear approval of their rule, but that only means you are not talking to the right people. Look around the city instead. It will speak clearer than any of us can.<end>
+
+=>a31_original
+What can you tell me about Coretech?<end>
+
+=>a31
+What can you tell me about Coretech?<end>
+
+=>q32_original
+They advance technology, manufacture products which make life easier. On one side, they can make beauty, harmony, but on the other, they make weapons, instruments of disonance and murder.<end>
+
+=>q32
+They advance technology, manufacture products which make life easier. On one side, they can make beauty, harmony, but on the other, they make weapons, instruments of disonance and murder.<end>
+
+=>q33_original
+They are those who sell you an energy shield to protect you from the weapons they created. They are Coretech.<end>
+
+=>q33
+They are those who sell you an energy shield to protect you from the weapons they created. They are Coretech.<end>
+
+=>a34_original
+What can you tell me about JKK?<end>
+
+=>a34
+What can you tell me about JKK?<end>
+
+=>q35_original
+JKK broadcasts violence and death. As if there isn't enough of it in Underrail. Why not air something artistic, musical, lyrical? Educational? Something to ease soul and motivate a man to create, to learn.<end>
+
+=>q35
+JKK broadcasts violence and death. As if there isn't enough of it in Underrail. Why not air something artistic, musical, lyrical? Educational? Something to ease soul and motivate a man to create, to learn.<end>
+
+=>q36_original
+But, people have been raised to desire even more death, even more bloodbath. So JKK feeds them just that.<end>
+
+=>q36
+But, people have been raised to desire even more death, even more bloodbath. So JKK feeds them just that.<end>
+
+=>a37_original
+What can you tell me about Praetorian Security?<end>
+
+=>a37
+What can you tell me about Praetorian Security?<end>
+
+=>q38_original
+Brutes who tell us what not to do. They defend us from everything but themselves. And each other as well. I often wonder if criminals they deal with did more to hurt them or the people. 
+
+But, it could be worse. Core City is well protected against outside threats, that I must confess.<end>
+
+=>q38
+Brutes who tell us what not to do. They defend us from everything but themselves. And each other as well. I often wonder if criminals they deal with did more to hurt them or the people. 
+
+But, it could be worse. Core City is well protected against outside threats, that I must confess.<end>
+
+=>q39_original
+And despite my disproval of Oligarchy, I think Praetorian Security will protect us from Tunnelers. For their sake, the Oligarchs' and their servants'; not ours, of course.<end>
+
+=>q39
+And despite my disproval of Oligarchy, I think Praetorian Security will protect us from Tunnelers. For their sake, the Oligarchs' and their servants'; not ours, of course.<end>
+
+=>q40_original
+But, I have to say they held their ground against Tunnelers well. They protected their estamblishment.<end>
+
+=>q40
+But, I have to say they held their ground against Tunnelers well. They protected their estamblishment.<end>
+
+=>a41_original
+What can you tell me about Tchortists?<end>
+
+=>a41
+What can you tell me about Tchortists?<end>
+
+=>q42_original
+Tchortists are men and women of peace, knowledge, harmony. They come here to preach, not to kill. They bring us medication and teachings of science and rationality. In Core City, where everyone is obsessed with violence, Tchortists might be those who turn their heads toward other things.<end>
+
+=>q42
+Tchortists are men and women of peace, knowledge, harmony. They come here to preach, not to kill. They bring us medication and teachings of science and rationality. In Core City, where everyone is obsessed with violence, Tchortists might be those who turn their heads toward other things.<end>
+
+=>q43_original
+In fact, I... Never mind. I just hope their intentions are as true as their words. <end>
+
+=>q43
+In fact, I... Never mind. I just hope their intentions are as true as their words. <end>
+
+=>a44_original
+What can you tell me about Hardcore City Bar?<end>
+
+=>a44
+What can you tell me about Hardcore City Bar?<end>
+
+=>q45_original
+I don't visit such places, so I can't tell anything of use.<end>
+
+=>q45
+I don't visit such places, so I can't tell anything of use.<end>
+
+=>q46_original
+I prefer my time well spent, rather than wasted.<end>
+
+=>q46
+I prefer my time well spent, rather than wasted.<end>
+
+=>a47_original
+Let's discuss something else.<end>
+
+=>a47
+Let's discuss something else.<end>
+
+=>a48_original
+What can you tell me about the Talloski family?<end>
+
+=>a48
+What can you tell me about the Talloski family?<end>
+
+=>q49_original
+The Talloski family are well respected in Core City. I have personally met Vlatko and his charming wife, Suzana. They seemed like they were harmonious people, which I respect.<end>
+
+=>q49
+The Talloski family are well respected in Core City. I have personally met Vlatko and his charming wife, Suzana. They seemed like they were harmonious people, which I respect.<end>
+
+=>q50_original
+Through years of hard work, they built a mansion on the level above. Lowlifes of Core City envy them for their riches, so stories about them being involved in dirty business circulate the city. But I believe there's nothing shady about them; everything they own is a product of hard work.<end>
+
+=>q50
+Through years of hard work, they built a mansion on the level above. Lowlifes of Core City envy them for their riches, so stories about them being involved in dirty business circulate the city. But I believe there's nothing shady about them; everything they own is a product of hard work.<end>
+
+=>q51_original
+And a bit of luck.<end>
+
+=>q51
+And a bit of luck.<end>
+
+=>a52_original
+Can you tell me something about a man called Al Fabet?<end>
+
+=>a52
+Can you tell me something about a man called Al Fabet?<end>
+
+=>q53_original
+Yes. That man disturbs peace of this store when he comes in. He offers inadequate items for sale, which I politely decline. He storms off angry, every time, but returns eventually with something new to sell. A seemingly endless loop.<end>
+
+=>q53
+Yes. That man disturbs peace of this store when he comes in. He offers inadequate items for sale, which I politely decline. He storms off angry, every time, but returns eventually with something new to sell. A seemingly endless loop.<end>
+
+=>q54_original
+::He smiles.:: I remember, the last time he brought a bag of rusty handles taken from a derailed Underrail Express train. I didn't buy them, naturally.<end>
+
+=>q54
+::He smiles.:: I remember, the last time he brought a bag of rusty handles taken from a derailed Underrail Express train. I didn't buy them, naturally.<end>
+
+=>a55_original
+That is a nice bracelet there. Where did you get it?<end>
+
+=>a55
+That is a nice bracelet there. Where did you get it?<end>
+
+=>q56_original
+::He touches the bracelet, smiling, and then displays it for you to see. It is a wide metal bracelet with engravings resembling some sort of writing. It is also heavily ornamented with different and interesting shapes.:: It is a gift from my wife. The writing is in a language that is likely foreign to you, but it has a special meaning to us.<end>
+
+=>q56
+::He touches the bracelet, smiling, and then displays it for you to see. It is a wide metal bracelet with engravings resembling some sort of writing. It is also heavily ornamented with different and interesting shapes.:: It is a gift from my wife. The writing is in a language that is likely foreign to you, but it has a special meaning to us.<end>
+
+=>a57_original
+It has the same color as charons. Is that thing made of super steel?<end>
+
+=>a57
+It has the same color as charons. Is that thing made of super steel?<end>
+
+=>q58_original
+Yes. It was made in Foundry years ago. They have furnaces there that can melt charons. Or at least had back then, when my wife was ordering the bracelet to be made.<end>
+
+=>q58
+Yes. It was made in Foundry years ago. They have furnaces there that can melt charons. Or at least had back then, when my wife was ordering the bracelet to be made.<end>
+
+=>q59_original
+Actually, I think it was about the time they were making the two snake statues for Praetorian Security headquarters. Yes, I remember she told me she saw them there, unfinished.<end>
+
+=>q59
+Actually, I think it was about the time they were making the two snake statues for Praetorian Security headquarters. Yes, I remember she told me she saw them there, unfinished.<end>
+
+=>a60_original
+Cool. Can I ask you something else.<end>
+
+=>a60
+Cool. Can I ask you something else.<end>
+
+=>a61_original
+How do you feel now that the Faceless have retreated?<end>
+
+=>a61
+How do you feel now that the Faceless have retreated?<end>
+
+=>q62_original
+Same. Once Tunnelers retreated, I finally realized that Core City felt the same before, during, and after invasion. It was and always will be a city of extreme violence.<end>
+
+=>q62
+Same. Once Tunnelers retreated, I finally realized that Core City felt the same before, during, and after invasion. It was and always will be a city of extreme violence.<end>
+
+=>q63_original
+Walk around and you will see. Little has changed.<end>
+
+=>q63
+Walk around and you will see. Little has changed.<end>
+
+=>a64_original
+Why do you think the Faceless attacked Core City?<end>
+
+=>a64
+Why do you think the Faceless attacked Core City?<end>
+
+=>q65_original
+I don't know. Tunnelers are a mystery to most of us, and so is the reason why they haven't tried pushing deeper into city. I often think that Oligarchs did something to antagonize them, but that may just be my bias.<end>
+
+=>q65
+I don't know. Tunnelers are a mystery to most of us, and so is the reason why they haven't tried pushing deeper into city. I often think that Oligarchs did something to antagonize them, but that may just be my bias.<end>
+
+=>q66_original
+This city glorifies meaningless death and destruction, and that is why I think we will defend ourselves from Tunnelers. However cruel they might be, I think we are likely to be worse than them.<end>
+
+=>q66
+This city glorifies meaningless death and destruction, and that is why I think we will defend ourselves from Tunnelers. However cruel they might be, I think we are likely to be worse than them.<end>
+
+=>a67_original
+I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
+
+=>a67
+I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
+
+=>q68_original
+My memory is clear. Terry and Lora Baker. Southgaters, harmonious people. They often visit my store. Whenever they are in Core City, that is. ::He smiles.:: They were here around the time the big earthquake struck. They bought some components, then they left. If memory serves me well, among other things they needed two TriEnergy 1400w power supply units. I did not have those at the time.<end>
+
+=>q68
+My memory is clear. Terry and Lora Baker. Southgaters, harmonious people. They often visit my store. Whenever they are in Core City, that is. ::He smiles.:: They were here around the time the big earthquake struck. They bought some components, then they left. If memory serves me well, among other things they needed two TriEnergy 1400w power supply units. I did not have those at the time.<end>
+
+=>q69_original
+That is all the helpful information I can tell you. Still, as they were merchants, it was very likely that they visited other stores in Core City. Maybe someone else has answers you need.<end>
+
+=>q69
+That is all the helpful information I can tell you. Still, as they were merchants, it was very likely that they visited other stores in Core City. Maybe someone else has answers you need.<end>
+
+=>a70_original
+I'm looking for the Acid Hunters.<end>
+
+=>a70
+I'm looking for the Acid Hunters.<end>
+
+=>q71_original
+I know nothing of these Acid Hunters.<end>
+
+=>q71
+I know nothing of these Acid Hunters.<end>
+
+=>q72_original
+I'm sorry, but I can't help you.<end>
+
+=>q72
+I'm sorry, but I can't help you.<end>
+
+=>a73_original
+Do you know anything about a merchant named Daniel Arda?<end>
+
+=>a73
+Do you know anything about a merchant named Daniel Arda?<end>
+
+=>q74_original
+I do. He travels a lot around South Underrail. When he returns to Core City, he trades with other merchants.<end>
+
+=>q74
+I do. He travels a lot around South Underrail. When he returns to Core City, he trades with other merchants.<end>
+
+=>q75_original
+My opinion of him? I dislike him. He seems dishonest and greedy. Recently he started selling some strange substance, but I know very little of it. For that reason, I'd rather not comment on what he has been doing.<end>
+
+=>q75
+My opinion of him? I dislike him. He seems dishonest and greedy. Recently he started selling some strange substance, but I know very little of it. For that reason, I'd rather not comment on what he has been doing.<end>
+
+=>a76_original
+See you around. Bye.<end>
+
+=>a76
+See you around. Bye.<end>
+
+=>q77_original
+Welcome back.<end>
+
+=>q77
+Welcome back.<end>
+

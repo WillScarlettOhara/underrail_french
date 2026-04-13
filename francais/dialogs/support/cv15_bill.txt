@@ -1,90 +1,90 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Excuse me, $(#mister/ma'am), but I'm really busy right now.<end>
-
-=>q2
-Excuse me, $(#mister/ma'am), but I'm really busy right now.<end>
-
-=>q3_original
-Ehey! What's up, $(context.player.Name)?<end>
-
-=>q3
-Ehey! What's up, $(context.player.Name)?<end>
-
-=>q4_original
-I hope the truce is for real. I don't want to suddenly see a rat army tramplin' my mushrooms.<end>
-
-=>q4
-I hope the truce is for real. I don't want to suddenly see a rat army tramplin' my mushrooms.<end>
-
-=>q5_original
-Dead burrowers are best burrowers. ::Laughs.::<end>
-
-=>q5
-Dead burrowers are best burrowers. ::Laughs.::<end>
-
-=>q6_original
-Take care not to step on the mushrooms.<end>
-
-=>q6
-Take care not to step on the mushrooms.<end>
-
-=>q7_original
-No time to talk now... work beckons.<end>
-
-=>q7
-No time to talk now... work beckons.<end>
-
-=>q8_original
-Rathound King for Edgar? That's not a good trade, damn it!<end>
-
-=>q8
-Rathound King for Edgar? That's not a good trade, damn it!<end>
-
-=>q9_original
-I am a busy man.<end>
-
-=>q9
-I am a busy man.<end>
-
-=>q10_original
-These mushrooms won't pick themselves, you know.<end>
-
-=>q10
-These mushrooms won't pick themselves, you know.<end>
-
-=>q11_original
-::Whistles an unfamiliar tune.::<end>
-
-=>q11
-::Whistles an unfamiliar tune.::<end>
-
-=>q12_original
-It is a bit quieter around here, dontcha think?<end>
-
-=>q12
-It is a bit quieter around here, dontcha think?<end>
-
-=>q13_original
-Rathound King's a goner! Now back to my mushrooms.<end>
-
-=>q13
-Rathound King's a goner! Now back to my mushrooms.<end>
-
-=>q14_original
-::Sighs.::  I got so much work to do...<end>
-
-=>q14
-::Sighs.::  I got so much work to do...<end>
-
-=>q15_original
-Pickin' mushrooms is serious work. Just 'cause I'm not out huntin' doesn't make my job any less important.<end>
-
-=>q15
-Pickin' mushrooms is serious work. Just 'cause I'm not out huntin' doesn't make my job any less important.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Excuse me, $(#mister/ma'am), but I'm really busy right now.<end>
+
+=>q2
+Excuse me, $(#mister/ma'am), but I'm really busy right now.<end>
+
+=>q3_original
+Ehey! What's up, $(context.player.Name)?<end>
+
+=>q3
+Ehey! What's up, $(context.player.Name)?<end>
+
+=>q4_original
+I hope the truce is for real. I don't want to suddenly see a rat army tramplin' my mushrooms.<end>
+
+=>q4
+I hope the truce is for real. I don't want to suddenly see a rat army tramplin' my mushrooms.<end>
+
+=>q5_original
+Dead burrowers are best burrowers. ::Laughs.::<end>
+
+=>q5
+Dead burrowers are best burrowers. ::Laughs.::<end>
+
+=>q6_original
+Take care not to step on the mushrooms.<end>
+
+=>q6
+Take care not to step on the mushrooms.<end>
+
+=>q7_original
+No time to talk now... work beckons.<end>
+
+=>q7
+No time to talk now... work beckons.<end>
+
+=>q8_original
+Rathound King for Edgar? That's not a good trade, damn it!<end>
+
+=>q8
+Rathound King for Edgar? That's not a good trade, damn it!<end>
+
+=>q9_original
+I am a busy man.<end>
+
+=>q9
+I am a busy man.<end>
+
+=>q10_original
+These mushrooms won't pick themselves, you know.<end>
+
+=>q10
+These mushrooms won't pick themselves, you know.<end>
+
+=>q11_original
+::Whistles an unfamiliar tune.::<end>
+
+=>q11
+::Whistles an unfamiliar tune.::<end>
+
+=>q12_original
+It is a bit quieter around here, dontcha think?<end>
+
+=>q12
+It is a bit quieter around here, dontcha think?<end>
+
+=>q13_original
+Rathound King's a goner! Now back to my mushrooms.<end>
+
+=>q13
+Rathound King's a goner! Now back to my mushrooms.<end>
+
+=>q14_original
+::Sighs.::  I got so much work to do...<end>
+
+=>q14
+::Sighs.::  I got so much work to do...<end>
+
+=>q15_original
+Pickin' mushrooms is serious work. Just 'cause I'm not out huntin' doesn't make my job any less important.<end>
+
+=>q15
+Pickin' mushrooms is serious work. Just 'cause I'm not out huntin' doesn't make my job any less important.<end>
+

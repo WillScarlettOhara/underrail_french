@@ -1,238 +1,238 @@
-=>q1_original
-::He mutters to himself.:: Now where did I put those keys...<end>
-
-=>q1
-::He mutters to himself.:: Now where did I put those keys...<end>
-
-=>q2_original
-If something happens... we never spoke, got it?<end>
-
-=>q2
-If something happens... we never spoke, got it?<end>
-
-=>q3_original
-I hope you get stuck in there and then I'll just laugh and laugh!<end>
-
-=>q3
-I hope you get stuck in there and then I'll just laugh and laugh!<end>
-
-=>q4_original
-You? Hey, if you threaten me again, I'll call the enforcers. I'm serious, $(#boy/girl).<end>
-
-=>q4
-You? Hey, if you threaten me again, I'll call the enforcers. I'm serious, $(#boy/girl).<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-Could you let me in the utility room? I dropped my key into the vents and I need to get it back.<end>
-
-=>a6
-Could you let me in the utility room? I dropped my key into the vents and I need to get it back.<end>
-
-=>q7_original
-What? Absolutely not. I can't just let anyone crawl through the vents willy-nilly.<end>
-
-=>q7
-What? Absolutely not. I can't just let anyone crawl through the vents willy-nilly.<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-How about if I make it worth your while?<end>
-
-=>a9
-How about if I make it worth your while?<end>
-
-=>q10_original
-Are you trying to bribe me, $(#boy/girl)?<end>
-
-=>q10
-Are you trying to bribe me, $(#boy/girl)?<end>
-
-=>a11_original
-Yes.<end>
-
-=>a11
-Yes.<end>
-
-=>q12_original
-Well, get on with it then.<end>
-
-=>q12
-Well, get on with it then.<end>
-
-=>a13_original
-Certainly not.<end>
-
-=>a13
-Certainly not.<end>
-
-=>q14_original
-Well, that's too bad then. I could use some extra money.<end>
-
-=>q14
-Well, that's too bad then. I could use some extra money.<end>
-
-=>a15_original
-::[Mercantile]:: I'll give you fifty charons.<end>
-
-=>a15
-::[Mercantile]:: I'll give you fifty charons.<end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>q17_original
-::He looks around cautiously before accepting the coins.:: Come with me.<end>
-
-=>q17
-::He looks around cautiously before accepting the coins.:: Come with me.<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>q19_original
-Go fish.<end>
-
-=>q19
-Go fish.<end>
-
-=>a20_original
-::[Mercantile]:: I'll give you one hundred charons.<end>
-
-=>a20
-::[Mercantile]:: I'll give you one hundred charons.<end>
-
-=>q21_original
-<end>
-
-=>q21
-<end>
-
-=>a22_original
-::[Mercantile]:: I'll give you two hundred charons.<end>
-
-=>a22
-::[Mercantile]:: I'll give you two hundred charons.<end>
-
-=>q23_original
-<end>
-
-=>q23
-<end>
-
-=>a24_original
-::[Intimidate]:: Perhaps I'll ask the new superintendent then.<end>
-
-=>a24
-::[Intimidate]:: Perhaps I'll ask the new superintendent then.<end>
-
-=>q25_original
-What new superintendent? What are you talking about?<end>
-
-=>q25
-What new superintendent? What are you talking about?<end>
-
-=>a26_original
-::[Intimidate]:: The one they appoint after you inevitably suffer an accident. Docks are a dangerous place to work. Accidents happen all the time.<end>
-
-=>a26
-::[Intimidate]:: The one they appoint after you inevitably suffer an accident. Docks are a dangerous place to work. Accidents happen all the time.<end>
-
-=>q27_original
-Alright, alright! You can go into the stupid vents.<end>
-
-=>q27
-Alright, alright! You can go into the stupid vents.<end>
-
-=>q28_original
-I'll unlock the door for you... ::The rest he mutters to himself.::<end>
-
-=>q28
-I'll unlock the door for you... ::The rest he mutters to himself.::<end>
-
-=>q29_original
-Nice try, kid, but I hear more intimidating stuff every time I pass the Pipeworks.<end>
-
-=>q29
-Nice try, kid, but I hear more intimidating stuff every time I pass the Pipeworks.<end>
-
-=>q30_original
-Now get lost.<end>
-
-=>q30
-Now get lost.<end>
-
-=>a31_original
-Thanks for nothing.<end>
-
-=>a31
-Thanks for nothing.<end>
-
-=>a32_original
-I really need to get that key...<end>
-
-=>a32
-I really need to get that key...<end>
-
-=>q33_original
-I already told you - no. This'll teach you to take better care of your property, $(#boy/girl).<end>
-
-=>q33
-I already told you - no. This'll teach you to take better care of your property, $(#boy/girl).<end>
-
-=>a34_original
-I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
-
-=>a34
-I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
-
-=>q35_original
-No idea, $(#boy/girl). Don't know who they are, don't know where they are.<end>
-
-=>q35
-No idea, $(#boy/girl). Don't know who they are, don't know where they are.<end>
-
-=>q36_original
-Off you go now.<end>
-
-=>q36
-Off you go now.<end>
-
-=>a37_original
-Never mind.<end>
-
-=>a37
-Never mind.<end>
-
-=>q38_original
-::The man addresses you with an irritated voice.::
-
-What do you want?<end>
-
-=>q38
-::The man addresses you with an irritated voice.::
-
-What do you want?<end>
-
-=>q39_original
-You again? What is it now?<end>
-
-=>q39
-You again? What is it now?<end>
-
+=>q1_original
+::He mutters to himself.:: Now where did I put those keys...<end>
+
+=>q1
+::He mutters to himself.:: Now where did I put those keys...<end>
+
+=>q2_original
+If something happens... we never spoke, got it?<end>
+
+=>q2
+If something happens... we never spoke, got it?<end>
+
+=>q3_original
+I hope you get stuck in there and then I'll just laugh and laugh!<end>
+
+=>q3
+I hope you get stuck in there and then I'll just laugh and laugh!<end>
+
+=>q4_original
+You? Hey, if you threaten me again, I'll call the enforcers. I'm serious, $(#boy/girl).<end>
+
+=>q4
+You? Hey, if you threaten me again, I'll call the enforcers. I'm serious, $(#boy/girl).<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Could you let me in the utility room? I dropped my key into the vents and I need to get it back.<end>
+
+=>a6
+Could you let me in the utility room? I dropped my key into the vents and I need to get it back.<end>
+
+=>q7_original
+What? Absolutely not. I can't just let anyone crawl through the vents willy-nilly.<end>
+
+=>q7
+What? Absolutely not. I can't just let anyone crawl through the vents willy-nilly.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+How about if I make it worth your while?<end>
+
+=>a9
+How about if I make it worth your while?<end>
+
+=>q10_original
+Are you trying to bribe me, $(#boy/girl)?<end>
+
+=>q10
+Are you trying to bribe me, $(#boy/girl)?<end>
+
+=>a11_original
+Yes.<end>
+
+=>a11
+Yes.<end>
+
+=>q12_original
+Well, get on with it then.<end>
+
+=>q12
+Well, get on with it then.<end>
+
+=>a13_original
+Certainly not.<end>
+
+=>a13
+Certainly not.<end>
+
+=>q14_original
+Well, that's too bad then. I could use some extra money.<end>
+
+=>q14
+Well, that's too bad then. I could use some extra money.<end>
+
+=>a15_original
+::[Mercantile]:: I'll give you fifty charons.<end>
+
+=>a15
+::[Mercantile]:: I'll give you fifty charons.<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+::He looks around cautiously before accepting the coins.:: Come with me.<end>
+
+=>q17
+::He looks around cautiously before accepting the coins.:: Come with me.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>q19_original
+Go fish.<end>
+
+=>q19
+Go fish.<end>
+
+=>a20_original
+::[Mercantile]:: I'll give you one hundred charons.<end>
+
+=>a20
+::[Mercantile]:: I'll give you one hundred charons.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+::[Mercantile]:: I'll give you two hundred charons.<end>
+
+=>a22
+::[Mercantile]:: I'll give you two hundred charons.<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+::[Intimidate]:: Perhaps I'll ask the new superintendent then.<end>
+
+=>a24
+::[Intimidate]:: Perhaps I'll ask the new superintendent then.<end>
+
+=>q25_original
+What new superintendent? What are you talking about?<end>
+
+=>q25
+What new superintendent? What are you talking about?<end>
+
+=>a26_original
+::[Intimidate]:: The one they appoint after you inevitably suffer an accident. Docks are a dangerous place to work. Accidents happen all the time.<end>
+
+=>a26
+::[Intimidate]:: The one they appoint after you inevitably suffer an accident. Docks are a dangerous place to work. Accidents happen all the time.<end>
+
+=>q27_original
+Alright, alright! You can go into the stupid vents.<end>
+
+=>q27
+Alright, alright! You can go into the stupid vents.<end>
+
+=>q28_original
+I'll unlock the door for you... ::The rest he mutters to himself.::<end>
+
+=>q28
+I'll unlock the door for you... ::The rest he mutters to himself.::<end>
+
+=>q29_original
+Nice try, kid, but I hear more intimidating stuff every time I pass the Pipeworks.<end>
+
+=>q29
+Nice try, kid, but I hear more intimidating stuff every time I pass the Pipeworks.<end>
+
+=>q30_original
+Now get lost.<end>
+
+=>q30
+Now get lost.<end>
+
+=>a31_original
+Thanks for nothing.<end>
+
+=>a31
+Thanks for nothing.<end>
+
+=>a32_original
+I really need to get that key...<end>
+
+=>a32
+I really need to get that key...<end>
+
+=>q33_original
+I already told you - no. This'll teach you to take better care of your property, $(#boy/girl).<end>
+
+=>q33
+I already told you - no. This'll teach you to take better care of your property, $(#boy/girl).<end>
+
+=>a34_original
+I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
+
+=>a34
+I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
+
+=>q35_original
+No idea, $(#boy/girl). Don't know who they are, don't know where they are.<end>
+
+=>q35
+No idea, $(#boy/girl). Don't know who they are, don't know where they are.<end>
+
+=>q36_original
+Off you go now.<end>
+
+=>q36
+Off you go now.<end>
+
+=>a37_original
+Never mind.<end>
+
+=>a37
+Never mind.<end>
+
+=>q38_original
+::The man addresses you with an irritated voice.::
+
+What do you want?<end>
+
+=>q38
+::The man addresses you with an irritated voice.::
+
+What do you want?<end>
+
+=>q39_original
+You again? What is it now?<end>
+
+=>q39
+You again? What is it now?<end>
+

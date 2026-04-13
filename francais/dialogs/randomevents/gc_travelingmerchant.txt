@@ -1,190 +1,190 @@
-=>q1_original
-::This senior Underrailer is quick to designate you as a potential customer - after taking a good look at you with his keen eyes, of course - for he seems to be a traveling merchant of some kind. The heavy load on his back must be his inventory.::
-
-<end>
-
-=>q1
-::This senior Underrailer is quick to designate you as a potential customer - after taking a good look at you with his keen eyes, of course - for he seems to be a traveling merchant of some kind. The heavy load on his back must be his inventory.::
-
-<end>
-
-=>q2_original
-Greetings, youngster. <end>
-
-=>q2
-Greetings, youngster. <end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-Need some weapons and gear? <end>
-
-=>q4
-Need some weapons and gear? <end>
-
-=>q5_original
-Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
-
-=>q5
-Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Show me what you have. ::Barter.::<end>
-
-=>a7
-Show me what you have. ::Barter.::<end>
-
-=>a8_original
-So, how's life on the rails treating you?<end>
-
-=>a8
-So, how's life on the rails treating you?<end>
-
-=>q9_original
-Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
-
-But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
-
-=>q9
-Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
-
-But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
-
-=>a10_original
-Are beasts and bandits giving you trouble?<end>
-
-=>a10
-Are beasts and bandits giving you trouble?<end>
-
-=>q11_original
-Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
-
-=>q11
-Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
-
-=>q12_original
-Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
-
-=>q12
-Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
-
-=>a13_original
-Are pirates giving you trouble?<end>
-
-=>a13
-Are pirates giving you trouble?<end>
-
-=>a14_original
-So, how's marine life treating you?<end>
-
-=>a14
-So, how's marine life treating you?<end>
-
-=>a15_original
-Is the pig for sale too?<end>
-
-=>a15
-Is the pig for sale too?<end>
-
-=>q16_original
-Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
-
-=>q16
-Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
-
-=>q17_original
-Ain't that right, Snorty, ain't that right?<end>
-
-=>q17
-Ain't that right, Snorty, ain't that right?<end>
-
-=>q18_original
-Snort!<end>
-
-=>q18
-Snort!<end>
-
-=>q19_original
-He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell ya. 
-
-Smarter than dogs - 'n' even some people!<end>
-
-=>q19
-He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell ya. 
-
-Smarter than dogs - 'n' even some people!<end>
-
-=>a20_original
-Sorry, I'm not interested.<end>
-
-=>a20
-Sorry, I'm not interested.<end>
-
-=>q21_original
-Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
-
-=>q21
-Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
-
-=>q22_original
-Need some electronics? <end>
-
-=>q22
-Need some electronics? <end>
-
-=>q23_original
-Need some mechanical components? <end>
-
-=>q23
-Need some mechanical components? <end>
-
-=>q24_original
-Need some medications and medical equipment? <end>
-
-=>q24
-Need some medications and medical equipment? <end>
-
-=>q25_original
-Need some hunting gear? <end>
-
-=>q25
-Need some hunting gear? <end>
-
-=>q26_original
-Need some food? <end>
-
-=>q26
-Need some food? <end>
-
-=>q27_original
-Need some *explosives*? <end>
-
-=>q27
-Need some *explosives*? <end>
-
-=>q28_original
-Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
-
-=>q28
-Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
-
-=>q29_original
-::A traveling merchant greets you.::
-
-He-he. <end>
-
-=>q29
-::A traveling merchant greets you.::
-
-He-he. <end>
-
+=>q1_original
+::This senior Underrailer is quick to designate you as a potential customer - after taking a good look at you with his keen eyes, of course - for he seems to be a traveling merchant of some kind. The heavy load on his back must be his inventory.::
+
+<end>
+
+=>q1
+::This senior Underrailer is quick to designate you as a potential customer - after taking a good look at you with his keen eyes, of course - for he seems to be a traveling merchant of some kind. The heavy load on his back must be his inventory.::
+
+<end>
+
+=>q2_original
+Greetings, youngster. <end>
+
+=>q2
+Greetings, youngster. <end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Need some weapons and gear? <end>
+
+=>q4
+Need some weapons and gear? <end>
+
+=>q5_original
+Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
+
+=>q5
+Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Show me what you have. ::Barter.::<end>
+
+=>a7
+Show me what you have. ::Barter.::<end>
+
+=>a8_original
+So, how's life on the rails treating you?<end>
+
+=>a8
+So, how's life on the rails treating you?<end>
+
+=>q9_original
+Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
+
+But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
+
+=>q9
+Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
+
+But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
+
+=>a10_original
+Are beasts and bandits giving you trouble?<end>
+
+=>a10
+Are beasts and bandits giving you trouble?<end>
+
+=>q11_original
+Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
+
+=>q11
+Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
+
+=>q12_original
+Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
+
+=>q12
+Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
+
+=>a13_original
+Are pirates giving you trouble?<end>
+
+=>a13
+Are pirates giving you trouble?<end>
+
+=>a14_original
+So, how's marine life treating you?<end>
+
+=>a14
+So, how's marine life treating you?<end>
+
+=>a15_original
+Is the pig for sale too?<end>
+
+=>a15
+Is the pig for sale too?<end>
+
+=>q16_original
+Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
+
+=>q16
+Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
+
+=>q17_original
+Ain't that right, Snorty, ain't that right?<end>
+
+=>q17
+Ain't that right, Snorty, ain't that right?<end>
+
+=>q18_original
+Snort!<end>
+
+=>q18
+Snort!<end>
+
+=>q19_original
+He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell ya. 
+
+Smarter than dogs - 'n' even some people!<end>
+
+=>q19
+He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell ya. 
+
+Smarter than dogs - 'n' even some people!<end>
+
+=>a20_original
+Sorry, I'm not interested.<end>
+
+=>a20
+Sorry, I'm not interested.<end>
+
+=>q21_original
+Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
+
+=>q21
+Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
+
+=>q22_original
+Need some electronics? <end>
+
+=>q22
+Need some electronics? <end>
+
+=>q23_original
+Need some mechanical components? <end>
+
+=>q23
+Need some mechanical components? <end>
+
+=>q24_original
+Need some medications and medical equipment? <end>
+
+=>q24
+Need some medications and medical equipment? <end>
+
+=>q25_original
+Need some hunting gear? <end>
+
+=>q25
+Need some hunting gear? <end>
+
+=>q26_original
+Need some food? <end>
+
+=>q26
+Need some food? <end>
+
+=>q27_original
+Need some *explosives*? <end>
+
+=>q27
+Need some *explosives*? <end>
+
+=>q28_original
+Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
+
+=>q28
+Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
+
+=>q29_original
+::A traveling merchant greets you.::
+
+He-he. <end>
+
+=>q29
+::A traveling merchant greets you.::
+
+He-he. <end>
+

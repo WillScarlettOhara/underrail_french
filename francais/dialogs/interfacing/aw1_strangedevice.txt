@@ -1,24 +1,24 @@
-=>q1_original
-::Numerous cables connect to the base of the pillar and some manner of power cell is slotted at the top.::<end>
-
-=>q1
-::Numerous cables connect to the base of the pillar and some manner of power cell is slotted at the top.::<end>
-
-=>a2_original
-::Take the power cell out.::<end>
-
-=>a2
-::Take the power cell out.::<end>
-
-=>q3_original
-::As you pop the power cell out, the device short-circuits. It doesn't seem like putting it back in will work. You can hear the sounds of warehouse gates lifting from back in the hallway.::<end>
-
-=>q3
-::As you pop the power cell out, the device short-circuits. It doesn't seem like putting it back in will work. You can hear the sounds of warehouse gates lifting from back in the hallway.::<end>
-
-=>a4_original
-::Leave it be.::<end>
-
-=>a4
-::Leave it be.::<end>
-
+=>q1_original
+::Numerous cables connect to the base of the pillar and some manner of power cell is slotted at the top.::<end>
+
+=>q1
+::Numerous cables connect to the base of the pillar and some manner of power cell is slotted at the top.::<end>
+
+=>a2_original
+::Take the power cell out.::<end>
+
+=>a2
+::Take the power cell out.::<end>
+
+=>q3_original
+::As you pop the power cell out, the device short-circuits. It doesn't seem like putting it back in will work. You can hear the sounds of warehouse gates lifting from back in the hallway.::<end>
+
+=>q3
+::As you pop the power cell out, the device short-circuits. It doesn't seem like putting it back in will work. You can hear the sounds of warehouse gates lifting from back in the hallway.::<end>
+
+=>a4_original
+::Leave it be.::<end>
+
+=>a4
+::Leave it be.::<end>
+

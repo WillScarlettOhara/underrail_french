@@ -1,42 +1,42 @@
-=>q1_original
-Hide, $(#brother/sister)!<end>
-
-=>q1
-Hide, $(#brother/sister)!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Would you please leave my room, $(#brother/sister)?<end>
-
-=>q3
-Would you please leave my room, $(#brother/sister)?<end>
-
-=>q4_original
-I am not in the mood for company.<end>
-
-=>q4
-I am not in the mood for company.<end>
-
-=>q5_original
-::Sighs.:: Please leave.<end>
-
-=>q5
-::Sighs.:: Please leave.<end>
-
-=>q6_original
-Tchort guide you... out of my room.<end>
-
-=>q6
-Tchort guide you... out of my room.<end>
-
-=>q7_original
-What is it?<end>
-
-=>q7
-What is it?<end>
-
+=>q1_original
+Hide, $(#brother/sister)!<end>
+
+=>q1
+Hide, $(#brother/sister)!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Would you please leave my room, $(#brother/sister)?<end>
+
+=>q3
+Would you please leave my room, $(#brother/sister)?<end>
+
+=>q4_original
+I am not in the mood for company.<end>
+
+=>q4
+I am not in the mood for company.<end>
+
+=>q5_original
+::Sighs.:: Please leave.<end>
+
+=>q5
+::Sighs.:: Please leave.<end>
+
+=>q6_original
+Tchort guide you... out of my room.<end>
+
+=>q6
+Tchort guide you... out of my room.<end>
+
+=>q7_original
+What is it?<end>
+
+=>q7
+What is it?<end>
+

@@ -1,54 +1,54 @@
-=>q1_original
-Not even knowledge is sacred to those devolved creatures!<end>
-
-=>q1
-Not even knowledge is sacred to those devolved creatures!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Mmmm?<end>
-
-=>q3
-Mmmm?<end>
-
-=>q4_original
-Eidein's Library is not the place to make small talk, $(#brother/sister).<end>
-
-=>q4
-Eidein's Library is not the place to make small talk, $(#brother/sister).<end>
-
-=>q5_original
-The curator might help you if you're looking for something specific.<end>
-
-=>q5
-The curator might help you if you're looking for something specific.<end>
-
-=>q6_original
-I'm busy reading, $(#brother/sister).<end>
-
-=>q6
-I'm busy reading, $(#brother/sister).<end>
-
-=>q7_original
-Shhhh! Not now.<end>
-
-=>q7
-Shhhh! Not now.<end>
-
-=>q8_original
-Be quiet. We'll talk later.<end>
-
-=>q8
-Be quiet. We'll talk later.<end>
-
-=>q9_original
-Reading... Can't talk.<end>
-
-=>q9
-Reading... Can't talk.<end>
-
+=>q1_original
+Not even knowledge is sacred to those devolved creatures!<end>
+
+=>q1
+Not even knowledge is sacred to those devolved creatures!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Mmmm?<end>
+
+=>q3
+Mmmm?<end>
+
+=>q4_original
+Eidein's Library is not the place to make small talk, $(#brother/sister).<end>
+
+=>q4
+Eidein's Library is not the place to make small talk, $(#brother/sister).<end>
+
+=>q5_original
+The curator might help you if you're looking for something specific.<end>
+
+=>q5
+The curator might help you if you're looking for something specific.<end>
+
+=>q6_original
+I'm busy reading, $(#brother/sister).<end>
+
+=>q6
+I'm busy reading, $(#brother/sister).<end>
+
+=>q7_original
+Shhhh! Not now.<end>
+
+=>q7
+Shhhh! Not now.<end>
+
+=>q8_original
+Be quiet. We'll talk later.<end>
+
+=>q8
+Be quiet. We'll talk later.<end>
+
+=>q9_original
+Reading... Can't talk.<end>
+
+=>q9
+Reading... Can't talk.<end>
+

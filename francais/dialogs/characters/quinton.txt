@@ -1,1886 +1,1886 @@
-=>q1_original
-::You wait while Quinton completes his examination, observing him as he performs it with great focus and care, how after only a few minutes he makes it seem as if he had been handling these creatures for years. Slowly and steadily, he finishes the examination. He places the creature back into its mobile jail, turns to you, but only to inform you that he needs to leave and do one more test. 
-
-The two are gone for a while...::<end>
-
-=>q1
-::You wait while Quinton completes his examination, observing him as he performs it with great focus and care, how after only a few minutes he makes it seem as if he had been handling these creatures for years. Slowly and steadily, he finishes the examination. He places the creature back into its mobile jail, turns to you, but only to inform you that he needs to leave and do one more test. 
-
-The two are gone for a while...::<end>
-
-=>q2_original
-::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
-
-I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
-
-=>q2
-::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
-
-I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
-
-=>a3_original
-You seem happy. I hope you've got something good for me.<end>
-
-=>a3
-You seem happy. I hope you've got something good for me.<end>
-
-=>q4_original
-You'll see.<end>
-
-=>q4
-You'll see.<end>
-
-=>q5_original
-First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
-
-=>q5
-First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
-
-=>q6_original
-As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
-
-=>q6
-As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
-
-=>q7_original
-Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
-
-=>q7
-Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
-
-=>q8_original
-I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
-
-=>q8
-I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
-
-=>q9_original
-::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
- 
-So there, that is all I have for you.<end>
-
-=>q9
-::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
- 
-So there, that is all I have for you.<end>
-
-=>a10_original
-That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
-
-=>a10
-That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
-
-=>q11_original
-Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
-
-Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
-
-=>q11
-Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
-
-Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
-
-=>a12_original
-I'll bring this to him then. Thanks.<end>
-
-=>a12
-I'll bring this to him then. Thanks.<end>
-
-=>a13_original
-Yeah, See you around.<end>
-
-=>a13
-Yeah, See you around.<end>
-
-=>a14_original
-What have you discovered?<end>
-
-=>a14
-What have you discovered?<end>
-
-=>a15_original
-I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
-
-=>a15
-I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
-
-=>q16_original
-$(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
-
-=>q16
-$(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>a18_original
-Do you have anything to trade?<end>
-
-=>a18
-Do you have anything to trade?<end>
-
-=>q19_original
-::He stops working, sets the knife aside and carefully removes his gloves.::
-
-Of course.<end>
-
-=>q19
-::He stops working, sets the knife aside and carefully removes his gloves.::
-
-Of course.<end>
-
-=>a20_original
-::Barter.::<end>
-
-=>a20
-::Barter.::<end>
-
-=>a21_original
-Let's trade. ::Barter.::<end>
-
-=>a21
-Let's trade. ::Barter.::<end>
-
-=>a22_original
-Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
-
-=>a22
-Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
-
-=>q23_original
-Hm. What is this?<end>
-
-=>q23
-Hm. What is this?<end>
-
-=>a24_original
-Steve.<end>
-
-=>a24
-Steve.<end>
-
-=>q25_original
-Steve?<end>
-
-=>q25
-Steve?<end>
-
-=>a26_original
-Yeah, a pirate.<end>
-
-=>a26
-Yeah, a pirate.<end>
-
-=>q27_original
-Pyrite? But pyrite is gold-colored, while this is...<end>
-
-=>q27
-Pyrite? But pyrite is gold-colored, while this is...<end>
-
-=>a28_original
-No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
-
-=>a28
-No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
-
-=>q29_original
-::He looks at the spike, clearly confused.:: 
-
-Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
-
-=>q29
-::He looks at the spike, clearly confused.:: 
-
-Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
-
-=>a30_original
-Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
-
-=>a30
-Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
-
-=>q31_original
-Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
-
-=>q31
-Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
-
-=>a32_original
-I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
-
-=>a32
-I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
-
-=>q33_original
-Pyrolysis.<end>
-
-=>q33
-Pyrolysis.<end>
-
-=>a34_original
-::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
-
-=>a34
-::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
-
-=>q35_original
-In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
-
-=>q35
-In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
-
-=>q36_original
-If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
-
-=>q36
-If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
-
-=>q37_original
-Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
-
-=>q37
-Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
-
-=>q38_original
-As you've noticed yourself, hm, here that is not the case, as <end>
-
-=>q38
-As you've noticed yourself, hm, here that is not the case, as <end>
-
-=>q39_original
-the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
-
-=>q39
-the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
-
-=>a40_original
-To be honest, Quinton, I haven't expected such an extensive answer.<end>
-
-=>a40
-To be honest, Quinton, I haven't expected such an extensive answer.<end>
-
-=>q41_original
-I've performed the procedure in the past, so I know a thing or two about it.<end>
-
-=>q41
-I've performed the procedure in the past, so I know a thing or two about it.<end>
-
-=>a42_original
-But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
-
-=>a42
-But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
-
-=>q43_original
-Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
-
-=>q43
-Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
-
-=>a44_original
-He struck a psi monolith with a mining pick.<end>
-
-=>a44
-He struck a psi monolith with a mining pick.<end>
-
-=>q45_original
-A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
-
-=>q45
-A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
-
-=>a46_original
-This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
-
-=>a46
-This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
-
-=>q47_original
-I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
-
-=>q47
-I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
-
-=>a48_original
-Sure. Now, where were we...<end>
-
-=>a48
-Sure. Now, where were we...<end>
-
-=>q49_original
-Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
-
-=>q49
-Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
-
-=>q50_original
-Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
-
-=>q50
-Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
-
-=>a51_original
-This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
-
-=>a51
-This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
-
-=>q52_original
-Any time, $(context.player.Name). <end>
-
-=>q52
-Any time, $(context.player.Name). <end>
-
-=>q53_original
-You sure bring me interesting things to study. <end>
-
-=>q53
-You sure bring me interesting things to study. <end>
-
-=>q54_original
-<end>
-
-=>q54
-<end>
-
-=>q55_original
-Was there anything else you needed from me?<end>
-
-=>q55
-Was there anything else you needed from me?<end>
-
-=>a56_original
-That was all I needed to know. Thanks.<end>
-
-=>a56
-That was all I needed to know. Thanks.<end>
-
-=>a57_original
-I see. I have no further questions. Gotta run.<end>
-
-=>a57
-I see. I have no further questions. Gotta run.<end>
-
-=>q58_original
-See you around, $(context.player.Name). <end>
-
-=>q58
-See you around, $(context.player.Name). <end>
-
-=>a59_original
-::Nod.:: Now, we were...<end>
-
-=>a59
-::Nod.:: Now, we were...<end>
-
-=>a60_original
-I'm sorry, but I can't tell you.<end>
-
-=>a60
-I'm sorry, but I can't tell you.<end>
-
-=>q61_original
-Hm. Then there’s not much more I can tell you. <end>
-
-=>q61
-Hm. Then there’s not much more I can tell you. <end>
-
-=>q62_original
-The bottom line is, this man was somehow instantly carbonized. <end>
-
-=>q62
-The bottom line is, this man was somehow instantly carbonized. <end>
-
-=>a63_original
-I just found him in some cave.<end>
-
-=>a63
-I just found him in some cave.<end>
-
-=>a64_original
-You may not.<end>
-
-=>a64
-You may not.<end>
-
-=>q65_original
-Here, <end>
-
-=>q65
-Here, <end>
-
-=>a66_original
-What is pyrolysis?<end>
-
-=>a66
-What is pyrolysis?<end>
-
-=>q67_original
-Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
-
-=>q67
-Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
-
-=>a68_original
-::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
-
-=>a68
-::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
-
-=>q69_original
-Yes, yes, I can see that. <end>
-
-=>q69
-Yes, yes, I can see that. <end>
-
-=>q70_original
-::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
-
-=>q70
-::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
-
-=>a71_original
-So what do you reckon?<end>
-
-=>a71
-So what do you reckon?<end>
-
-=>a72_original
-No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
-
-=>a72
-No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
-
-=>a73_original
-No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
-
-=>a73
-No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
-
-=>a74_original
-A pirate.<end>
-
-=>a74
-A pirate.<end>
-
-=>a75_original
-I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
-
-=>a75
-I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
-
-=>q76_original
-Hm. What mushrooms and plants?<end>
-
-=>q76
-Hm. What mushrooms and plants?<end>
-
-=>a77_original
-Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
-
-=>a77
-Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
-
-=>q78_original
-We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
-
-=>q78
-We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
-
-=>a79_original
-::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
-
-=>a79
-::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
-
-=>q80_original
-I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
-
-=>q80
-I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
-
-=>a81_original
-Dude is special. What he can do no one else can.<end>
-
-=>a81
-Dude is special. What he can do no one else can.<end>
-
-=>q82_original
-Heard that before... ::He pauses.:: ...but then again...
-
-Alright. You've convinced me. I'll make sure he gets what he needs.<end>
-
-=>q82
-Heard that before... ::He pauses.:: ...but then again...
-
-Alright. You've convinced me. I'll make sure he gets what he needs.<end>
-
-=>q83_original
-Now... <end>
-
-=>q83
-Now... <end>
-
-=>q84_original
-Payment?<end>
-
-=>q84
-Payment?<end>
-
-=>a85_original
-Upon pickup. You iron out the details with him.<end>
-
-=>a85
-Upon pickup. You iron out the details with him.<end>
-
-=>q86_original
-Acceptable. Tell your friend we have a deal.<end>
-
-=>q86
-Acceptable. Tell your friend we have a deal.<end>
-
-=>a87_original
-Alright. You'll hear from him soon.<end>
-
-=>a87
-Alright. You'll hear from him soon.<end>
-
-=>q88_original
-I'll be waiting for him.<end>
-
-=>q88
-I'll be waiting for him.<end>
-
-=>q89_original
-Hm. Heard that before too. <end>
-
-=>q89
-Hm. Heard that before too. <end>
-
-=>a90_original
-He's making a potion that when drank allow one to travel through rifts in reality.<end>
-
-=>a90
-He's making a potion that when drank allow one to travel through rifts in reality.<end>
-
-=>q91_original
-::He stares at you blankly.::<end>
-
-=>q91
-::He stares at you blankly.::<end>
-
-=>a92_original
-Just kidding.<end>
-
-=>a92
-Just kidding.<end>
-
-=>q93_original
-Hm.<end>
-
-=>q93
-Hm.<end>
-
-=>a94_original
-It's not psychedelic drugs, let me tell you that.<end>
-
-=>a94
-It's not psychedelic drugs, let me tell you that.<end>
-
-=>a95_original
-It's for his... medicine. Yes.<end>
-
-=>a95
-It's for his... medicine. Yes.<end>
-
-=>a96_original
-Can you help me or not?<end>
-
-=>a96
-Can you help me or not?<end>
-
-=>a97_original
-You may not.<end>
-
-=>a97
-You may not.<end>
-
-=>a98_original
-About those mine creatures from Foundry...<end>
-
-=>a98
-About those mine creatures from Foundry...<end>
-
-=>q99_original
-Ah, yes. I'm listening.<end>
-
-=>q99
-Ah, yes. I'm listening.<end>
-
-=>q100_original
-<end>
-
-=>q100
-<end>
-
-=>a101_original
-There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
-
-=>a101
-There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
-
-=>q102_original
-Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
-
-=>q102
-Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
-
-=>q103_original
-If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
-
-=>q103
-If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
-
-=>a104_original
-There are these worm-like things, with weird heads shaped like small drills.<end>
-
-=>a104
-There are these worm-like things, with weird heads shaped like small drills.<end>
-
-=>q105_original
-Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
-
-=>q105
-Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
-
-=>q106_original
-Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
-
-=>q106
-Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
-
-=>a107_original
-I have a piece of the rock creature.<end>
-
-=>a107
-I have a piece of the rock creature.<end>
-
-=>q108_original
-Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
-
-=>q108
-Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
-
-=>a109_original
-::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
-
-=>a109
-::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
-
-=>q110_original
-Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
-
-=>q110
-Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
-
-=>a111_original
-::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
-
-=>a111
-::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
-
-=>q112_original
-That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
-
-=>q112
-That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
-
-=>q113_original
-::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
-
-=>q113
-::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
-
-=>a114_original
-Not really.<end>
-
-=>a114
-Not really.<end>
-
-=>q115_original
-::He nods.:: How about we take a look at what we have before us, hm?<end>
-
-=>q115
-::He nods.:: How about we take a look at what we have before us, hm?<end>
-
-=>q116_original
-Well, <end>
-
-=>q116
-Well, <end>
-
-=>q117_original
-this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
-
-=>q117
-this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
-
-=>a118_original
-::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
-
-=>a118
-::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
-
-=>q119_original
-Exactly. <end>
-
-=>q119
-Exactly. <end>
-
-=>q120_original
-Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
-
-=>q120
-Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
-
-=>a121_original
-How does it grow then?<end>
-
-=>a121
-How does it grow then?<end>
-
-=>q122_original
-Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
-
-=>q122
-Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
-
-=>q123_original
-Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
-
-=>q123
-Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
-
-=>a124_original
-I've captured one of these worms.<end>
-
-=>a124
-I've captured one of these worms.<end>
-
-=>q125_original
-::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
-
-=>q125
-::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
-
-=>a126_original
-You've got nothing to worry about. I handled it with my bare hands.<end>
-
-=>a126
-You've got nothing to worry about. I handled it with my bare hands.<end>
-
-=>q127_original
-::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
-
-Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
-
-=>q127
-::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
-
-Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
-
-=>a128_original
-::Wait.::<end>
-
-=>a128
-::Wait.::<end>
-
-=>a129_original
-I'd be *very* cautious if I were you.<end>
-
-=>a129
-I'd be *very* cautious if I were you.<end>
-
-=>a130_original
-I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
-
-=>a130
-I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
-
-=>q131_original
-::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
-
-=>q131
-::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
-
-=>a132_original
-I understand. I'd like to change the subject to something else.<end>
-
-=>a132
-I understand. I'd like to change the subject to something else.<end>
-
-=>q133_original
-Okay.<end>
-
-=>q133
-Okay.<end>
-
-=>a134_original
-I'll get going now. See you later when I learn something new.<end>
-
-=>a134
-I'll get going now. See you later when I learn something new.<end>
-
-=>a135_original
-No, what is that?<end>
-
-=>a135
-No, what is that?<end>
-
-=>q136_original
-Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
-
-=>q136
-Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
-
-=>a137_original
-Not yet.<end>
-
-=>a137
-Not yet.<end>
-
-=>a138_original
-I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
-
-=>a138
-I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
-
-=>q139_original
-If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
-
-=>q139
-If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
-
-=>q140_original
-I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
-
-=>q140
-I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
-
-=>q141_original
-Hm. Back to the blade *in* hand. Well, <end>
-
-=>q141
-Hm. Back to the blade *in* hand. Well, <end>
-
-=>a142_original
-That I don't know.<end>
-
-=>a142
-That I don't know.<end>
-
-=>a143_original
-Yes, their backs are covered with these blades.<end>
-
-=>a143
-Yes, their backs are covered with these blades.<end>
-
-=>q144_original
-Hm. Well, <end>
-
-=>q144
-Hm. Well, <end>
-
-=>q145_original
-this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
-
-=>q145
-this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
-
-=>a146_original
-On the other hand, let's discuss something else.<end>
-
-=>a146
-On the other hand, let's discuss something else.<end>
-
-=>a147_original
-I'd like to have a certain substance tested.<end>
-
-=>a147
-I'd like to have a certain substance tested.<end>
-
-=>q148_original
-::He slowly turns around.:: Hm?<end>
-
-=>q148
-::He slowly turns around.:: Hm?<end>
-
-=>a149_original
-It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
-
-=>a149
-It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
-
-=>q150_original
-You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
-
-=>q150
-You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
-
-=>a151_original
-Thanks for the info. Goodbye.<end>
-
-=>a151
-Thanks for the info. Goodbye.<end>
-
-=>q152_original
-::He nods and returns to his work.::<end>
-
-=>q152
-::He nods and returns to his work.::<end>
-
-=>a153_original
-I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
-
-=>a153
-I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
-
-=>q154_original
-Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
-
-=>q154
-Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
-
-=>a155_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a155
-What do you know about Patrick Pierce's death?<end>
-
-=>q156_original
-Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
-
-=>q156
-Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
-
-=>a157_original
-Can you tell me what was he like as a person?<end>
-
-=>a157
-Can you tell me what was he like as a person?<end>
-
-=>q158_original
-He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
-
-=>q158
-He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
-
-=>q159_original
-Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
-
-=>q159
-Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
-
-=>a160_original
-I managed to run out of putrefying bolts. Got more?<end>
-
-=>a160
-I managed to run out of putrefying bolts. Got more?<end>
-
-=>q161_original
-::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
-
-=>q161
-::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
-
-=>a162_original
-Before I leave...<end>
-
-=>a162
-Before I leave...<end>
-
-=>q163_original
-Yes?<end>
-
-=>q163
-Yes?<end>
-
-=>a164_original
-The tissue sample's as good as yours. For real this time.<end>
-
-=>a164
-The tissue sample's as good as yours. For real this time.<end>
-
-=>a165_original
-::Nod and leave.::<end>
-
-=>a165
-::Nod and leave.::<end>
-
-=>a166_original
-What kind of creature is that?<end>
-
-=>a166
-What kind of creature is that?<end>
-
-=>q167_original
-It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
-
-=>q167
-It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
-
-=>q168_original
-If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
-
-=>q168
-If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
-
-=>a169_original
-What are you doing exactly?<end>
-
-=>a169
-What are you doing exactly?<end>
-
-=>q170_original
-I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
-
-=>q170
-I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
-
-=>a171_original
-What's in that room over there?<end>
-
-=>a171
-What's in that room over there?<end>
-
-=>q172_original
-We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
-
-=>q172
-We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
-
-=>a173_original
-I'm told you can teach psionics.<end>
-
-=>a173
-I'm told you can teach psionics.<end>
-
-=>q174_original
-Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
-
-=>q174
-Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
-
-=>a175_original
-Yes. Will you teach me?<end>
-
-=>a175
-Yes. Will you teach me?<end>
-
-=>q176_original
-Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
-
-=>q176
-Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
-
-=>q177_original
-If you perform one little task for me.<end>
-
-=>q177
-If you perform one little task for me.<end>
-
-=>a178_original
-Which task is that?<end>
-
-=>a178
-Which task is that?<end>
-
-=>q179_original
-You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
-
-=>q179
-You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
-
-=>q180_original
-Now I cannot finish the experiments. Not here anyway.<end>
-
-=>q180
-Now I cannot finish the experiments. Not here anyway.<end>
-
-=>q181_original
-<end>
-
-=>q181
-<end>
-
-=>a182_original
-What kind of experiments were you conducting?<end>
-
-=>a182
-What kind of experiments were you conducting?<end>
-
-=>q183_original
-I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
-
-=>q183
-I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
-
-=>a184_original
-What happened?<end>
-
-=>a184
-What happened?<end>
-
-=>q185_original
-Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
-
-=>q185
-Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
-
-=>a186_original
-What do you need me to do?<end>
-
-=>a186
-What do you need me to do?<end>
-
-=>q187_original
-I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
-
-=>q187
-I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
-
-=>q188_original
-If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
-
-=>q188
-If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
-
-=>a189_original
-And if I do this, you'll teach me for free?<end>
-
-=>a189
-And if I do this, you'll teach me for free?<end>
-
-=>q190_original
-I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
-
-=>q190
-I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
-
-=>a191_original
-I'll do it.<end>
-
-=>a191
-I'll do it.<end>
-
-=>q192_original
-Excellent. <end>
-
-=>q192
-Excellent. <end>
-
-=>q193_original
-Here are the bolts. Good hunting.<end>
-
-=>q193
-Here are the bolts. Good hunting.<end>
-
-=>a194_original
-The tissue sample's as good as yours. I'll be back soon.<end>
-
-=>a194
-The tissue sample's as good as yours. I'll be back soon.<end>
-
-=>a195_original
-::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
-
-=>a195
-::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
-
-=>q196_original
-Hrm... Very well, but you better bring me a good tissue sample.<end>
-
-=>q196
-Hrm... Very well, but you better bring me a good tissue sample.<end>
-
-=>q197_original
-Not a chance, it's one psi ability - take it or leave it.<end>
-
-=>q197
-Not a chance, it's one psi ability - take it or leave it.<end>
-
-=>a198_original
-I'll take it.<end>
-
-=>a198
-I'll take it.<end>
-
-=>a199_original
-I'll pass.<end>
-
-=>a199
-I'll pass.<end>
-
-=>q200_original
-Suit yourself.<end>
-
-=>q200
-Suit yourself.<end>
-
-=>a201_original
-Forget it.<end>
-
-=>a201
-Forget it.<end>
-
-=>a202_original
-Sorry, but I don't have time for this right now. Perhaps later.<end>
-
-=>a202
-Sorry, but I don't have time for this right now. Perhaps later.<end>
-
-=>q203_original
-Hm. If you change your mind let me know.<end>
-
-=>q203
-Hm. If you change your mind let me know.<end>
-
-=>a204_original
-Figures.<end>
-
-=>a204
-Figures.<end>
-
-=>q205_original
-Indeed, nothing is free. <end>
-
-=>q205
-Indeed, nothing is free. <end>
-
-=>a206_original
-Maybe later.<end>
-
-=>a206
-Maybe later.<end>
-
-=>a207_original
-No. I was just curious.<end>
-
-=>a207
-No. I was just curious.<end>
-
-=>q208_original
-I see. Well, if you'll excuse me, I have work to do.<end>
-
-=>q208
-I see. Well, if you'll excuse me, I have work to do.<end>
-
-=>a209_original
-Tell me about that task you mentioned earlier.<end>
-
-=>a209
-Tell me about that task you mentioned earlier.<end>
-
-=>a210_original
-I've decided to help you with that experiment after all.<end>
-
-=>a210
-I've decided to help you with that experiment after all.<end>
-
-=>a211_original
-Here's the tissue sample you wanted.<end>
-
-=>a211
-Here's the tissue sample you wanted.<end>
-
-=>q212_original
-Excellent. Give it here.<end>
-
-=>q212
-Excellent. Give it here.<end>
-
-=>q213_original
-I'm going to resume my tests right away.<end>
-
-=>q213
-I'm going to resume my tests right away.<end>
-
-=>a214_original
-Don't forget my training.<end>
-
-=>a214
-Don't forget my training.<end>
-
-=>q215_original
-Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
-
-=>q215
-Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
-
-=>a216_original
-Catch you later.<end>
-
-=>a216
-Catch you later.<end>
-
-=>a217_original
-I found a nest of burrowers over at GMS.<end>
-
-=>a217
-I found a nest of burrowers over at GMS.<end>
-
-=>q218_original
-::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
-
-=>q218
-::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
-
-=>a219_original
-I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
-
-=>a219
-I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
-
-=>q220_original
-Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
-
-=>q220
-Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
-
-=>q221_original
-You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
-
-=>q221
-You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
-
-=>q222_original
-If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
-
-=>q222
-If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
-
-=>a223_original
-What are your thoughts on the Faceless retreat?<end>
-
-=>a223
-What are your thoughts on the Faceless retreat?<end>
-
-=>q224_original
-::He shrugs.:: Good. Excellent.<end>
-
-=>q224
-::He shrugs.:: Good. Excellent.<end>
-
-=>q225_original
-I'm more worried about what's going to happen here, now that Tanner is gone.<end>
-
-=>q225
-I'm more worried about what's going to happen here, now that Tanner is gone.<end>
-
-=>a226_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a226
-What are your thoughts on the Faceless invasion?<end>
-
-=>q227_original
-I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
-
-=>q227
-I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
-
-=>q228_original
-What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
-
-=>q228
-What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
-
-=>q229_original
-Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
-
-=>q229
-Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
-
-=>a230_original
-I want to learn some psi abilities.<end>
-
-=>a230
-I want to learn some psi abilities.<end>
-
-=>q231_original
-::He nods.:: Hm. Metathermics are my specialty. <end>
-
-=>q231
-::He nods.:: Hm. Metathermics are my specialty. <end>
-
-=>q232_original
-I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
-
-=>q232
-I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
-
-=>q233_original
-<end>
-
-=>q233
-<end>
-
-=>a234_original
-Tell me about cryokinesis.<end>
-
-=>a234
-Tell me about cryokinesis.<end>
-
-=>q235_original
-Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
-
-It will cost you fifty credits to learn this.<end>
-
-=>q235
-Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
-
-It will cost you fifty credits to learn this.<end>
-
-=>a236_original
-Agreed. Here you go.<end>
-
-=>a236
-Agreed. Here you go.<end>
-
-=>q237_original
-Let's begin your lessons then...<end>
-
-=>q237
-Let's begin your lessons then...<end>
-
-=>a238_original
-::Continue::<end>
-
-=>a238
-::Continue::<end>
-
-=>a239_original
-I still have a freebie.<end>
-
-=>a239
-I still have a freebie.<end>
-
-=>q240_original
-I was hoping you forgot.<end>
-
-=>q240
-I was hoping you forgot.<end>
-
-=>a241_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a241
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a242_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a242
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a243_original
-Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
-
-=>a243
-Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
-
-=>q244_original
-There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
-
-It will cost you two hundred fifty credits to learn this.<end>
-
-=>q244
-There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
-
-It will cost you two hundred fifty credits to learn this.<end>
-
-=>a245_original
-Agreed. Here you go.<end>
-
-=>a245
-Agreed. Here you go.<end>
-
-=>q246_original
-<end>
-
-=>q246
-<end>
-
-=>q247_original
-Let's begin then, shall we?<end>
-
-=>q247
-Let's begin then, shall we?<end>
-
-=>a248_original
-::Continue::<end>
-
-=>a248
-::Continue::<end>
-
-=>q249_original
-You are not ready for that yet.<end>
-
-=>q249
-You are not ready for that yet.<end>
-
-=>a250_original
-I still have a freebie.<end>
-
-=>a250
-I still have a freebie.<end>
-
-=>q251_original
-::Sigh.:: I never should have made that deal.<end>
-
-=>q251
-::Sigh.:: I never should have made that deal.<end>
-
-=>q252_original
-Yes, but you are not ready for that yet.<end>
-
-=>q252
-Yes, but you are not ready for that yet.<end>
-
-=>a253_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a253
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a254_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a254
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a255_original
-Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
-
-=>a255
-Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
-
-=>q256_original
-As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
-
-It will cost you one hundred fifty credits to learn this.<end>
-
-=>q256
-As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
-
-It will cost you one hundred fifty credits to learn this.<end>
-
-=>a257_original
-Agreed. Here you go.<end>
-
-=>a257
-Agreed. Here you go.<end>
-
-=>q258_original
-<end>
-
-=>q258
-<end>
-
-=>q259_original
-Shall we begin?<end>
-
-=>q259
-Shall we begin?<end>
-
-=>a260_original
-::Continue::<end>
-
-=>a260
-::Continue::<end>
-
-=>q261_original
-You are not ready for that yet.<end>
-
-=>q261
-You are not ready for that yet.<end>
-
-=>a262_original
-I still have a freebie.<end>
-
-=>a262
-I still have a freebie.<end>
-
-=>q263_original
-Yes... yes, you do. <end>
-
-=>q263
-Yes... yes, you do. <end>
-
-=>q264_original
-Yes, but you are not ready for that yet.<end>
-
-=>q264
-Yes, but you are not ready for that yet.<end>
-
-=>a265_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a265
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a266_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a266
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a267_original
-Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
-
-=>a267
-Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
-
-=>q268_original
-It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
-
-It will cost you two hundred credits to learn this.<end>
-
-=>q268
-It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
-
-It will cost you two hundred credits to learn this.<end>
-
-=>a269_original
-Agreed. Here you go.<end>
-
-=>a269
-Agreed. Here you go.<end>
-
-=>q270_original
-<end>
-
-=>q270
-<end>
-
-=>q271_original
-Let's begin your lessons then...<end>
-
-=>q271
-Let's begin your lessons then...<end>
-
-=>a272_original
-::Continue::<end>
-
-=>a272
-::Continue::<end>
-
-=>q273_original
-You are not ready for that yet.<end>
-
-=>q273
-You are not ready for that yet.<end>
-
-=>a274_original
-I still have a freebie.<end>
-
-=>a274
-I still have a freebie.<end>
-
-=>q275_original
-Very well. <end>
-
-=>q275
-Very well. <end>
-
-=>q276_original
-Yes, but you are not ready for that yet.<end>
-
-=>q276
-Yes, but you are not ready for that yet.<end>
-
-=>a277_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a277
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a278_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a278
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a279_original
-Never mind. Let's talk about something else.<end>
-
-=>a279
-Never mind. Let's talk about something else.<end>
-
-=>q280_original
-Such as?<end>
-
-=>q280
-Such as?<end>
-
-=>a281_original
-Never mind.<end>
-
-=>a281
-Never mind.<end>
-
-=>q282_original
-Anything on Tanner? No? Hm.<end>
-
-=>q282
-Anything on Tanner? No? Hm.<end>
-
-=>q283_original
-Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
-
-=>q283
-Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
-
-=>q284_original
-That friend of yours, Dude. He is quite an... unusual character.<end>
-
-=>q284
-That friend of yours, Dude. He is quite an... unusual character.<end>
-
-=>a285_original
-Oh, yes. Tell me about it.<end>
-
-=>a285
-Oh, yes. Tell me about it.<end>
-
-=>q286_original
-He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
-
-=>q286
-He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
-
-=>q287_original
-After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
-
-=>q287
-After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
-
-=>q288_original
-Bret and <end>
-
-=>q288
-Bret and <end>
-
-=>q289_original
-I checked the storage room, but he wasn't there.<end>
-
-=>q289
-I checked the storage room, but he wasn't there.<end>
-
-=>q290_original
-<end>
-
-=>q290
-<end>
-
-=>a291_original
-He was, uh...<end>
-
-=>a291
-He was, uh...<end>
-
-=>q292_original
-He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
-
-=>q292
-He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
-
-=>a293_original
-Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
-
-=>a293
-Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
-
-=>a294_original
-Storage room... I need to check something quickly. Be right back.<end>
-
-=>a294
-Storage room... I need to check something quickly. Be right back.<end>
-
-=>a295_original
-Um...<end>
-
-=>a295
-Um...<end>
-
-=>a296_original
-Yes, you know...<end>
-
-=>a296
-Yes, you know...<end>
-
-=>a297_original
-Ah, you see...<end>
-
-=>a297
-Ah, you see...<end>
-
-=>a298_original
-Why?<end>
-
-=>a298
-Why?<end>
-
-=>q299_original
-<end>
-
-=>q299
-<end>
-
-=>q300_original
-I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
-
-=>q300
-I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
-
-=>q301_original
-I've heard all about Newton. Good work, $(context.player.Name).<end>
-
-=>q301
-I've heard all about Newton. Good work, $(context.player.Name).<end>
-
-=>q302_original
-Forgot something?<end>
-
-=>q302
-Forgot something?<end>
-
-=>q303_original
-::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::
-
-Careful, you don't want to get in contact with its toxin.<end>
-
-=>q303
-::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::
-
-Careful, you don't want to get in contact with its toxin.<end>
-
-=>q304_original
-::He returns to cutting through the creature as he talks to you.::
-
-My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
-
-=>q304
-::He returns to cutting through the creature as he talks to you.::
-
-My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
-
-=>q305_original
-I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
-
-=>q305
-I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
-
+=>q1_original
+::You wait while Quinton completes his examination, observing him as he performs it with great focus and care, how after only a few minutes he makes it seem as if he had been handling these creatures for years. Slowly and steadily, he finishes the examination. He places the creature back into its mobile jail, turns to you, but only to inform you that he needs to leave and do one more test. 
+
+The two are gone for a while...::<end>
+
+=>q1
+::You wait while Quinton completes his examination, observing him as he performs it with great focus and care, how after only a few minutes he makes it seem as if he had been handling these creatures for years. Slowly and steadily, he finishes the examination. He places the creature back into its mobile jail, turns to you, but only to inform you that he needs to leave and do one more test. 
+
+The two are gone for a while...::<end>
+
+=>q2_original
+::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
+
+I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
+
+=>q2
+::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
+
+I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
+
+=>a3_original
+You seem happy. I hope you've got something good for me.<end>
+
+=>a3
+You seem happy. I hope you've got something good for me.<end>
+
+=>q4_original
+You'll see.<end>
+
+=>q4
+You'll see.<end>
+
+=>q5_original
+First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
+
+=>q5
+First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
+
+=>q6_original
+As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
+
+=>q6
+As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
+
+=>q7_original
+Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
+
+=>q7
+Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
+
+=>q8_original
+I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
+
+=>q8
+I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
+
+=>q9_original
+::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
+ 
+So there, that is all I have for you.<end>
+
+=>q9
+::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
+ 
+So there, that is all I have for you.<end>
+
+=>a10_original
+That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
+
+=>a10
+That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
+
+=>q11_original
+Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
+
+Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
+
+=>q11
+Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
+
+Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
+
+=>a12_original
+I'll bring this to him then. Thanks.<end>
+
+=>a12
+I'll bring this to him then. Thanks.<end>
+
+=>a13_original
+Yeah, See you around.<end>
+
+=>a13
+Yeah, See you around.<end>
+
+=>a14_original
+What have you discovered?<end>
+
+=>a14
+What have you discovered?<end>
+
+=>a15_original
+I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
+
+=>a15
+I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
+
+=>q16_original
+$(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
+
+=>q16
+$(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Do you have anything to trade?<end>
+
+=>a18
+Do you have anything to trade?<end>
+
+=>q19_original
+::He stops working, sets the knife aside and carefully removes his gloves.::
+
+Of course.<end>
+
+=>q19
+::He stops working, sets the knife aside and carefully removes his gloves.::
+
+Of course.<end>
+
+=>a20_original
+::Barter.::<end>
+
+=>a20
+::Barter.::<end>
+
+=>a21_original
+Let's trade. ::Barter.::<end>
+
+=>a21
+Let's trade. ::Barter.::<end>
+
+=>a22_original
+Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
+
+=>a22
+Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
+
+=>q23_original
+Hm. What is this?<end>
+
+=>q23
+Hm. What is this?<end>
+
+=>a24_original
+Steve.<end>
+
+=>a24
+Steve.<end>
+
+=>q25_original
+Steve?<end>
+
+=>q25
+Steve?<end>
+
+=>a26_original
+Yeah, a pirate.<end>
+
+=>a26
+Yeah, a pirate.<end>
+
+=>q27_original
+Pyrite? But pyrite is gold-colored, while this is...<end>
+
+=>q27
+Pyrite? But pyrite is gold-colored, while this is...<end>
+
+=>a28_original
+No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
+
+=>a28
+No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
+
+=>q29_original
+::He looks at the spike, clearly confused.:: 
+
+Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
+
+=>q29
+::He looks at the spike, clearly confused.:: 
+
+Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
+
+=>a30_original
+Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
+
+=>a30
+Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
+
+=>q31_original
+Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
+
+=>q31
+Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
+
+=>a32_original
+I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
+
+=>a32
+I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
+
+=>q33_original
+Pyrolysis.<end>
+
+=>q33
+Pyrolysis.<end>
+
+=>a34_original
+::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
+
+=>a34
+::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
+
+=>q35_original
+In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
+
+=>q35
+In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
+
+=>q36_original
+If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
+
+=>q36
+If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
+
+=>q37_original
+Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
+
+=>q37
+Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
+
+=>q38_original
+As you've noticed yourself, hm, here that is not the case, as <end>
+
+=>q38
+As you've noticed yourself, hm, here that is not the case, as <end>
+
+=>q39_original
+the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
+
+=>q39
+the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
+
+=>a40_original
+To be honest, Quinton, I haven't expected such an extensive answer.<end>
+
+=>a40
+To be honest, Quinton, I haven't expected such an extensive answer.<end>
+
+=>q41_original
+I've performed the procedure in the past, so I know a thing or two about it.<end>
+
+=>q41
+I've performed the procedure in the past, so I know a thing or two about it.<end>
+
+=>a42_original
+But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
+
+=>a42
+But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
+
+=>q43_original
+Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
+
+=>q43
+Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
+
+=>a44_original
+He struck a psi monolith with a mining pick.<end>
+
+=>a44
+He struck a psi monolith with a mining pick.<end>
+
+=>q45_original
+A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
+
+=>q45
+A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
+
+=>a46_original
+This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
+
+=>a46
+This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
+
+=>q47_original
+I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
+
+=>q47
+I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
+
+=>a48_original
+Sure. Now, where were we...<end>
+
+=>a48
+Sure. Now, where were we...<end>
+
+=>q49_original
+Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
+
+=>q49
+Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
+
+=>q50_original
+Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
+
+=>q50
+Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
+
+=>a51_original
+This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
+
+=>a51
+This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
+
+=>q52_original
+Any time, $(context.player.Name). <end>
+
+=>q52
+Any time, $(context.player.Name). <end>
+
+=>q53_original
+You sure bring me interesting things to study. <end>
+
+=>q53
+You sure bring me interesting things to study. <end>
+
+=>q54_original
+<end>
+
+=>q54
+<end>
+
+=>q55_original
+Was there anything else you needed from me?<end>
+
+=>q55
+Was there anything else you needed from me?<end>
+
+=>a56_original
+That was all I needed to know. Thanks.<end>
+
+=>a56
+That was all I needed to know. Thanks.<end>
+
+=>a57_original
+I see. I have no further questions. Gotta run.<end>
+
+=>a57
+I see. I have no further questions. Gotta run.<end>
+
+=>q58_original
+See you around, $(context.player.Name). <end>
+
+=>q58
+See you around, $(context.player.Name). <end>
+
+=>a59_original
+::Nod.:: Now, we were...<end>
+
+=>a59
+::Nod.:: Now, we were...<end>
+
+=>a60_original
+I'm sorry, but I can't tell you.<end>
+
+=>a60
+I'm sorry, but I can't tell you.<end>
+
+=>q61_original
+Hm. Then there’s not much more I can tell you. <end>
+
+=>q61
+Hm. Then there’s not much more I can tell you. <end>
+
+=>q62_original
+The bottom line is, this man was somehow instantly carbonized. <end>
+
+=>q62
+The bottom line is, this man was somehow instantly carbonized. <end>
+
+=>a63_original
+I just found him in some cave.<end>
+
+=>a63
+I just found him in some cave.<end>
+
+=>a64_original
+You may not.<end>
+
+=>a64
+You may not.<end>
+
+=>q65_original
+Here, <end>
+
+=>q65
+Here, <end>
+
+=>a66_original
+What is pyrolysis?<end>
+
+=>a66
+What is pyrolysis?<end>
+
+=>q67_original
+Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
+
+=>q67
+Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
+
+=>a68_original
+::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
+
+=>a68
+::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
+
+=>q69_original
+Yes, yes, I can see that. <end>
+
+=>q69
+Yes, yes, I can see that. <end>
+
+=>q70_original
+::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
+
+=>q70
+::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
+
+=>a71_original
+So what do you reckon?<end>
+
+=>a71
+So what do you reckon?<end>
+
+=>a72_original
+No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
+
+=>a72
+No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
+
+=>a73_original
+No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
+
+=>a73
+No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
+
+=>a74_original
+A pirate.<end>
+
+=>a74
+A pirate.<end>
+
+=>a75_original
+I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
+
+=>a75
+I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
+
+=>q76_original
+Hm. What mushrooms and plants?<end>
+
+=>q76
+Hm. What mushrooms and plants?<end>
+
+=>a77_original
+Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
+
+=>a77
+Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
+
+=>q78_original
+We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
+
+=>q78
+We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
+
+=>a79_original
+::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
+
+=>a79
+::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
+
+=>q80_original
+I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
+
+=>q80
+I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
+
+=>a81_original
+Dude is special. What he can do no one else can.<end>
+
+=>a81
+Dude is special. What he can do no one else can.<end>
+
+=>q82_original
+Heard that before... ::He pauses.:: ...but then again...
+
+Alright. You've convinced me. I'll make sure he gets what he needs.<end>
+
+=>q82
+Heard that before... ::He pauses.:: ...but then again...
+
+Alright. You've convinced me. I'll make sure he gets what he needs.<end>
+
+=>q83_original
+Now... <end>
+
+=>q83
+Now... <end>
+
+=>q84_original
+Payment?<end>
+
+=>q84
+Payment?<end>
+
+=>a85_original
+Upon pickup. You iron out the details with him.<end>
+
+=>a85
+Upon pickup. You iron out the details with him.<end>
+
+=>q86_original
+Acceptable. Tell your friend we have a deal.<end>
+
+=>q86
+Acceptable. Tell your friend we have a deal.<end>
+
+=>a87_original
+Alright. You'll hear from him soon.<end>
+
+=>a87
+Alright. You'll hear from him soon.<end>
+
+=>q88_original
+I'll be waiting for him.<end>
+
+=>q88
+I'll be waiting for him.<end>
+
+=>q89_original
+Hm. Heard that before too. <end>
+
+=>q89
+Hm. Heard that before too. <end>
+
+=>a90_original
+He's making a potion that when drank allow one to travel through rifts in reality.<end>
+
+=>a90
+He's making a potion that when drank allow one to travel through rifts in reality.<end>
+
+=>q91_original
+::He stares at you blankly.::<end>
+
+=>q91
+::He stares at you blankly.::<end>
+
+=>a92_original
+Just kidding.<end>
+
+=>a92
+Just kidding.<end>
+
+=>q93_original
+Hm.<end>
+
+=>q93
+Hm.<end>
+
+=>a94_original
+It's not psychedelic drugs, let me tell you that.<end>
+
+=>a94
+It's not psychedelic drugs, let me tell you that.<end>
+
+=>a95_original
+It's for his... medicine. Yes.<end>
+
+=>a95
+It's for his... medicine. Yes.<end>
+
+=>a96_original
+Can you help me or not?<end>
+
+=>a96
+Can you help me or not?<end>
+
+=>a97_original
+You may not.<end>
+
+=>a97
+You may not.<end>
+
+=>a98_original
+About those mine creatures from Foundry...<end>
+
+=>a98
+About those mine creatures from Foundry...<end>
+
+=>q99_original
+Ah, yes. I'm listening.<end>
+
+=>q99
+Ah, yes. I'm listening.<end>
+
+=>q100_original
+<end>
+
+=>q100
+<end>
+
+=>a101_original
+There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>a101
+There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>q102_original
+Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
+
+=>q102
+Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
+
+=>q103_original
+If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
+
+=>q103
+If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
+
+=>a104_original
+There are these worm-like things, with weird heads shaped like small drills.<end>
+
+=>a104
+There are these worm-like things, with weird heads shaped like small drills.<end>
+
+=>q105_original
+Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
+
+=>q105
+Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
+
+=>q106_original
+Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
+
+=>q106
+Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
+
+=>a107_original
+I have a piece of the rock creature.<end>
+
+=>a107
+I have a piece of the rock creature.<end>
+
+=>q108_original
+Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
+
+=>q108
+Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
+
+=>a109_original
+::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
+
+=>a109
+::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
+
+=>q110_original
+Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
+
+=>q110
+Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
+
+=>a111_original
+::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
+
+=>a111
+::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
+
+=>q112_original
+That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
+
+=>q112
+That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
+
+=>q113_original
+::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
+
+=>q113
+::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
+
+=>a114_original
+Not really.<end>
+
+=>a114
+Not really.<end>
+
+=>q115_original
+::He nods.:: How about we take a look at what we have before us, hm?<end>
+
+=>q115
+::He nods.:: How about we take a look at what we have before us, hm?<end>
+
+=>q116_original
+Well, <end>
+
+=>q116
+Well, <end>
+
+=>q117_original
+this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>q117
+this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>a118_original
+::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
+
+=>a118
+::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
+
+=>q119_original
+Exactly. <end>
+
+=>q119
+Exactly. <end>
+
+=>q120_original
+Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
+
+=>q120
+Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
+
+=>a121_original
+How does it grow then?<end>
+
+=>a121
+How does it grow then?<end>
+
+=>q122_original
+Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
+
+=>q122
+Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
+
+=>q123_original
+Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
+
+=>q123
+Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
+
+=>a124_original
+I've captured one of these worms.<end>
+
+=>a124
+I've captured one of these worms.<end>
+
+=>q125_original
+::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
+
+=>q125
+::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
+
+=>a126_original
+You've got nothing to worry about. I handled it with my bare hands.<end>
+
+=>a126
+You've got nothing to worry about. I handled it with my bare hands.<end>
+
+=>q127_original
+::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
+
+Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
+
+=>q127
+::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
+
+Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
+
+=>a128_original
+::Wait.::<end>
+
+=>a128
+::Wait.::<end>
+
+=>a129_original
+I'd be *very* cautious if I were you.<end>
+
+=>a129
+I'd be *very* cautious if I were you.<end>
+
+=>a130_original
+I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
+
+=>a130
+I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
+
+=>q131_original
+::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
+
+=>q131
+::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
+
+=>a132_original
+I understand. I'd like to change the subject to something else.<end>
+
+=>a132
+I understand. I'd like to change the subject to something else.<end>
+
+=>q133_original
+Okay.<end>
+
+=>q133
+Okay.<end>
+
+=>a134_original
+I'll get going now. See you later when I learn something new.<end>
+
+=>a134
+I'll get going now. See you later when I learn something new.<end>
+
+=>a135_original
+No, what is that?<end>
+
+=>a135
+No, what is that?<end>
+
+=>q136_original
+Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
+
+=>q136
+Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
+
+=>a137_original
+Not yet.<end>
+
+=>a137
+Not yet.<end>
+
+=>a138_original
+I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
+
+=>a138
+I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
+
+=>q139_original
+If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
+
+=>q139
+If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
+
+=>q140_original
+I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
+
+=>q140
+I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
+
+=>q141_original
+Hm. Back to the blade *in* hand. Well, <end>
+
+=>q141
+Hm. Back to the blade *in* hand. Well, <end>
+
+=>a142_original
+That I don't know.<end>
+
+=>a142
+That I don't know.<end>
+
+=>a143_original
+Yes, their backs are covered with these blades.<end>
+
+=>a143
+Yes, their backs are covered with these blades.<end>
+
+=>q144_original
+Hm. Well, <end>
+
+=>q144
+Hm. Well, <end>
+
+=>q145_original
+this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>q145
+this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>a146_original
+On the other hand, let's discuss something else.<end>
+
+=>a146
+On the other hand, let's discuss something else.<end>
+
+=>a147_original
+I'd like to have a certain substance tested.<end>
+
+=>a147
+I'd like to have a certain substance tested.<end>
+
+=>q148_original
+::He slowly turns around.:: Hm?<end>
+
+=>q148
+::He slowly turns around.:: Hm?<end>
+
+=>a149_original
+It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
+
+=>a149
+It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
+
+=>q150_original
+You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
+
+=>q150
+You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
+
+=>a151_original
+Thanks for the info. Goodbye.<end>
+
+=>a151
+Thanks for the info. Goodbye.<end>
+
+=>q152_original
+::He nods and returns to his work.::<end>
+
+=>q152
+::He nods and returns to his work.::<end>
+
+=>a153_original
+I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
+
+=>a153
+I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
+
+=>q154_original
+Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
+
+=>q154
+Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
+
+=>a155_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a155
+What do you know about Patrick Pierce's death?<end>
+
+=>q156_original
+Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
+
+=>q156
+Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
+
+=>a157_original
+Can you tell me what was he like as a person?<end>
+
+=>a157
+Can you tell me what was he like as a person?<end>
+
+=>q158_original
+He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
+
+=>q158
+He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
+
+=>q159_original
+Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
+
+=>q159
+Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
+
+=>a160_original
+I managed to run out of putrefying bolts. Got more?<end>
+
+=>a160
+I managed to run out of putrefying bolts. Got more?<end>
+
+=>q161_original
+::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
+
+=>q161
+::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
+
+=>a162_original
+Before I leave...<end>
+
+=>a162
+Before I leave...<end>
+
+=>q163_original
+Yes?<end>
+
+=>q163
+Yes?<end>
+
+=>a164_original
+The tissue sample's as good as yours. For real this time.<end>
+
+=>a164
+The tissue sample's as good as yours. For real this time.<end>
+
+=>a165_original
+::Nod and leave.::<end>
+
+=>a165
+::Nod and leave.::<end>
+
+=>a166_original
+What kind of creature is that?<end>
+
+=>a166
+What kind of creature is that?<end>
+
+=>q167_original
+It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
+
+=>q167
+It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
+
+=>q168_original
+If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
+
+=>q168
+If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
+
+=>a169_original
+What are you doing exactly?<end>
+
+=>a169
+What are you doing exactly?<end>
+
+=>q170_original
+I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
+
+=>q170
+I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
+
+=>a171_original
+What's in that room over there?<end>
+
+=>a171
+What's in that room over there?<end>
+
+=>q172_original
+We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
+
+=>q172
+We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
+
+=>a173_original
+I'm told you can teach psionics.<end>
+
+=>a173
+I'm told you can teach psionics.<end>
+
+=>q174_original
+Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
+
+=>q174
+Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
+
+=>a175_original
+Yes. Will you teach me?<end>
+
+=>a175
+Yes. Will you teach me?<end>
+
+=>q176_original
+Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
+
+=>q176
+Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
+
+=>q177_original
+If you perform one little task for me.<end>
+
+=>q177
+If you perform one little task for me.<end>
+
+=>a178_original
+Which task is that?<end>
+
+=>a178
+Which task is that?<end>
+
+=>q179_original
+You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
+
+=>q179
+You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
+
+=>q180_original
+Now I cannot finish the experiments. Not here anyway.<end>
+
+=>q180
+Now I cannot finish the experiments. Not here anyway.<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+What kind of experiments were you conducting?<end>
+
+=>a182
+What kind of experiments were you conducting?<end>
+
+=>q183_original
+I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
+
+=>q183
+I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
+
+=>a184_original
+What happened?<end>
+
+=>a184
+What happened?<end>
+
+=>q185_original
+Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
+
+=>q185
+Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
+
+=>a186_original
+What do you need me to do?<end>
+
+=>a186
+What do you need me to do?<end>
+
+=>q187_original
+I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
+
+=>q187
+I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
+
+=>q188_original
+If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
+
+=>q188
+If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
+
+=>a189_original
+And if I do this, you'll teach me for free?<end>
+
+=>a189
+And if I do this, you'll teach me for free?<end>
+
+=>q190_original
+I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
+
+=>q190
+I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
+
+=>a191_original
+I'll do it.<end>
+
+=>a191
+I'll do it.<end>
+
+=>q192_original
+Excellent. <end>
+
+=>q192
+Excellent. <end>
+
+=>q193_original
+Here are the bolts. Good hunting.<end>
+
+=>q193
+Here are the bolts. Good hunting.<end>
+
+=>a194_original
+The tissue sample's as good as yours. I'll be back soon.<end>
+
+=>a194
+The tissue sample's as good as yours. I'll be back soon.<end>
+
+=>a195_original
+::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
+
+=>a195
+::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
+
+=>q196_original
+Hrm... Very well, but you better bring me a good tissue sample.<end>
+
+=>q196
+Hrm... Very well, but you better bring me a good tissue sample.<end>
+
+=>q197_original
+Not a chance, it's one psi ability - take it or leave it.<end>
+
+=>q197
+Not a chance, it's one psi ability - take it or leave it.<end>
+
+=>a198_original
+I'll take it.<end>
+
+=>a198
+I'll take it.<end>
+
+=>a199_original
+I'll pass.<end>
+
+=>a199
+I'll pass.<end>
+
+=>q200_original
+Suit yourself.<end>
+
+=>q200
+Suit yourself.<end>
+
+=>a201_original
+Forget it.<end>
+
+=>a201
+Forget it.<end>
+
+=>a202_original
+Sorry, but I don't have time for this right now. Perhaps later.<end>
+
+=>a202
+Sorry, but I don't have time for this right now. Perhaps later.<end>
+
+=>q203_original
+Hm. If you change your mind let me know.<end>
+
+=>q203
+Hm. If you change your mind let me know.<end>
+
+=>a204_original
+Figures.<end>
+
+=>a204
+Figures.<end>
+
+=>q205_original
+Indeed, nothing is free. <end>
+
+=>q205
+Indeed, nothing is free. <end>
+
+=>a206_original
+Maybe later.<end>
+
+=>a206
+Maybe later.<end>
+
+=>a207_original
+No. I was just curious.<end>
+
+=>a207
+No. I was just curious.<end>
+
+=>q208_original
+I see. Well, if you'll excuse me, I have work to do.<end>
+
+=>q208
+I see. Well, if you'll excuse me, I have work to do.<end>
+
+=>a209_original
+Tell me about that task you mentioned earlier.<end>
+
+=>a209
+Tell me about that task you mentioned earlier.<end>
+
+=>a210_original
+I've decided to help you with that experiment after all.<end>
+
+=>a210
+I've decided to help you with that experiment after all.<end>
+
+=>a211_original
+Here's the tissue sample you wanted.<end>
+
+=>a211
+Here's the tissue sample you wanted.<end>
+
+=>q212_original
+Excellent. Give it here.<end>
+
+=>q212
+Excellent. Give it here.<end>
+
+=>q213_original
+I'm going to resume my tests right away.<end>
+
+=>q213
+I'm going to resume my tests right away.<end>
+
+=>a214_original
+Don't forget my training.<end>
+
+=>a214
+Don't forget my training.<end>
+
+=>q215_original
+Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
+
+=>q215
+Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
+
+=>a216_original
+Catch you later.<end>
+
+=>a216
+Catch you later.<end>
+
+=>a217_original
+I found a nest of burrowers over at GMS.<end>
+
+=>a217
+I found a nest of burrowers over at GMS.<end>
+
+=>q218_original
+::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
+
+=>q218
+::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
+
+=>a219_original
+I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
+
+=>a219
+I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
+
+=>q220_original
+Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
+
+=>q220
+Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
+
+=>q221_original
+You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
+
+=>q221
+You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
+
+=>q222_original
+If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
+
+=>q222
+If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
+
+=>a223_original
+What are your thoughts on the Faceless retreat?<end>
+
+=>a223
+What are your thoughts on the Faceless retreat?<end>
+
+=>q224_original
+::He shrugs.:: Good. Excellent.<end>
+
+=>q224
+::He shrugs.:: Good. Excellent.<end>
+
+=>q225_original
+I'm more worried about what's going to happen here, now that Tanner is gone.<end>
+
+=>q225
+I'm more worried about what's going to happen here, now that Tanner is gone.<end>
+
+=>a226_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a226
+What are your thoughts on the Faceless invasion?<end>
+
+=>q227_original
+I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
+
+=>q227
+I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
+
+=>q228_original
+What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
+
+=>q228
+What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
+
+=>q229_original
+Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
+
+=>q229
+Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
+
+=>a230_original
+I want to learn some psi abilities.<end>
+
+=>a230
+I want to learn some psi abilities.<end>
+
+=>q231_original
+::He nods.:: Hm. Metathermics are my specialty. <end>
+
+=>q231
+::He nods.:: Hm. Metathermics are my specialty. <end>
+
+=>q232_original
+I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
+
+=>q232
+I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
+
+=>q233_original
+<end>
+
+=>q233
+<end>
+
+=>a234_original
+Tell me about cryokinesis.<end>
+
+=>a234
+Tell me about cryokinesis.<end>
+
+=>q235_original
+Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
+
+It will cost you fifty credits to learn this.<end>
+
+=>q235
+Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
+
+It will cost you fifty credits to learn this.<end>
+
+=>a236_original
+Agreed. Here you go.<end>
+
+=>a236
+Agreed. Here you go.<end>
+
+=>q237_original
+Let's begin your lessons then...<end>
+
+=>q237
+Let's begin your lessons then...<end>
+
+=>a238_original
+::Continue::<end>
+
+=>a238
+::Continue::<end>
+
+=>a239_original
+I still have a freebie.<end>
+
+=>a239
+I still have a freebie.<end>
+
+=>q240_original
+I was hoping you forgot.<end>
+
+=>q240
+I was hoping you forgot.<end>
+
+=>a241_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a241
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a242_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a242
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a243_original
+Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
+
+=>a243
+Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
+
+=>q244_original
+There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
+
+It will cost you two hundred fifty credits to learn this.<end>
+
+=>q244
+There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
+
+It will cost you two hundred fifty credits to learn this.<end>
+
+=>a245_original
+Agreed. Here you go.<end>
+
+=>a245
+Agreed. Here you go.<end>
+
+=>q246_original
+<end>
+
+=>q246
+<end>
+
+=>q247_original
+Let's begin then, shall we?<end>
+
+=>q247
+Let's begin then, shall we?<end>
+
+=>a248_original
+::Continue::<end>
+
+=>a248
+::Continue::<end>
+
+=>q249_original
+You are not ready for that yet.<end>
+
+=>q249
+You are not ready for that yet.<end>
+
+=>a250_original
+I still have a freebie.<end>
+
+=>a250
+I still have a freebie.<end>
+
+=>q251_original
+::Sigh.:: I never should have made that deal.<end>
+
+=>q251
+::Sigh.:: I never should have made that deal.<end>
+
+=>q252_original
+Yes, but you are not ready for that yet.<end>
+
+=>q252
+Yes, but you are not ready for that yet.<end>
+
+=>a253_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a253
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a254_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a254
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a255_original
+Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
+
+=>a255
+Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
+
+=>q256_original
+As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
+
+It will cost you one hundred fifty credits to learn this.<end>
+
+=>q256
+As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
+
+It will cost you one hundred fifty credits to learn this.<end>
+
+=>a257_original
+Agreed. Here you go.<end>
+
+=>a257
+Agreed. Here you go.<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>q259_original
+Shall we begin?<end>
+
+=>q259
+Shall we begin?<end>
+
+=>a260_original
+::Continue::<end>
+
+=>a260
+::Continue::<end>
+
+=>q261_original
+You are not ready for that yet.<end>
+
+=>q261
+You are not ready for that yet.<end>
+
+=>a262_original
+I still have a freebie.<end>
+
+=>a262
+I still have a freebie.<end>
+
+=>q263_original
+Yes... yes, you do. <end>
+
+=>q263
+Yes... yes, you do. <end>
+
+=>q264_original
+Yes, but you are not ready for that yet.<end>
+
+=>q264
+Yes, but you are not ready for that yet.<end>
+
+=>a265_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a265
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a266_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a266
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a267_original
+Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
+
+=>a267
+Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
+
+=>q268_original
+It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
+
+It will cost you two hundred credits to learn this.<end>
+
+=>q268
+It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
+
+It will cost you two hundred credits to learn this.<end>
+
+=>a269_original
+Agreed. Here you go.<end>
+
+=>a269
+Agreed. Here you go.<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+Let's begin your lessons then...<end>
+
+=>q271
+Let's begin your lessons then...<end>
+
+=>a272_original
+::Continue::<end>
+
+=>a272
+::Continue::<end>
+
+=>q273_original
+You are not ready for that yet.<end>
+
+=>q273
+You are not ready for that yet.<end>
+
+=>a274_original
+I still have a freebie.<end>
+
+=>a274
+I still have a freebie.<end>
+
+=>q275_original
+Very well. <end>
+
+=>q275
+Very well. <end>
+
+=>q276_original
+Yes, but you are not ready for that yet.<end>
+
+=>q276
+Yes, but you are not ready for that yet.<end>
+
+=>a277_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a277
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a278_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a278
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a279_original
+Never mind. Let's talk about something else.<end>
+
+=>a279
+Never mind. Let's talk about something else.<end>
+
+=>q280_original
+Such as?<end>
+
+=>q280
+Such as?<end>
+
+=>a281_original
+Never mind.<end>
+
+=>a281
+Never mind.<end>
+
+=>q282_original
+Anything on Tanner? No? Hm.<end>
+
+=>q282
+Anything on Tanner? No? Hm.<end>
+
+=>q283_original
+Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
+
+=>q283
+Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
+
+=>q284_original
+That friend of yours, Dude. He is quite an... unusual character.<end>
+
+=>q284
+That friend of yours, Dude. He is quite an... unusual character.<end>
+
+=>a285_original
+Oh, yes. Tell me about it.<end>
+
+=>a285
+Oh, yes. Tell me about it.<end>
+
+=>q286_original
+He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
+
+=>q286
+He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
+
+=>q287_original
+After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
+
+=>q287
+After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
+
+=>q288_original
+Bret and <end>
+
+=>q288
+Bret and <end>
+
+=>q289_original
+I checked the storage room, but he wasn't there.<end>
+
+=>q289
+I checked the storage room, but he wasn't there.<end>
+
+=>q290_original
+<end>
+
+=>q290
+<end>
+
+=>a291_original
+He was, uh...<end>
+
+=>a291
+He was, uh...<end>
+
+=>q292_original
+He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
+
+=>q292
+He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
+
+=>a293_original
+Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
+
+=>a293
+Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
+
+=>a294_original
+Storage room... I need to check something quickly. Be right back.<end>
+
+=>a294
+Storage room... I need to check something quickly. Be right back.<end>
+
+=>a295_original
+Um...<end>
+
+=>a295
+Um...<end>
+
+=>a296_original
+Yes, you know...<end>
+
+=>a296
+Yes, you know...<end>
+
+=>a297_original
+Ah, you see...<end>
+
+=>a297
+Ah, you see...<end>
+
+=>a298_original
+Why?<end>
+
+=>a298
+Why?<end>
+
+=>q299_original
+<end>
+
+=>q299
+<end>
+
+=>q300_original
+I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
+
+=>q300
+I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
+
+=>q301_original
+I've heard all about Newton. Good work, $(context.player.Name).<end>
+
+=>q301
+I've heard all about Newton. Good work, $(context.player.Name).<end>
+
+=>q302_original
+Forgot something?<end>
+
+=>q302
+Forgot something?<end>
+
+=>q303_original
+::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::
+
+Careful, you don't want to get in contact with its toxin.<end>
+
+=>q303
+::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::
+
+Careful, you don't want to get in contact with its toxin.<end>
+
+=>q304_original
+::He returns to cutting through the creature as he talks to you.::
+
+My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
+
+=>q304
+::He returns to cutting through the creature as he talks to you.::
+
+My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
+
+=>q305_original
+I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
+
+=>q305
+I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
+

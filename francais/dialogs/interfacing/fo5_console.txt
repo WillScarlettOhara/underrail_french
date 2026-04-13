@@ -1,108 +1,108 @@
-=>q1_original
-::Stored ore: $(context.loc_fo5_storedOre)
-Loaded ore: $(context.loc_fo5_loadedOre)
-Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
-
-=>q1
-::Stored ore: $(context.loc_fo5_storedOre)
-Loaded ore: $(context.loc_fo5_loadedOre)
-Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
-
-=>q2_original
-
-::Super steel melting program loaded. Controls overriden.::<end>
-
-=>q2
-
-::Super steel melting program loaded. Controls overriden.::<end>
-
-=>q3_original
-
-::Furnace cooling down.::<end>
-
-=>q3
-
-::Furnace cooling down.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::Recall the cart.::<end>
-
-=>a5
-::Recall the cart.::<end>
-
-=>a6_original
-::Unload the cart.::<end>
-
-=>a6
-::Unload the cart.::<end>
-
-=>q7_original
-::Cargo scanning successful. No invalid objects detected.::<end>
-
-=>q7
-::Cargo scanning successful. No invalid objects detected.::<end>
-
-=>a8_original
-::Proceed with unloading.::<end>
-
-=>a8
-::Proceed with unloading.::<end>
-
-=>q9_original
-::Invalid objects detected inside the cart. Please proceed with cargo inspection.::<end>
-
-=>q9
-::Invalid objects detected inside the cart. Please proceed with cargo inspection.::<end>
-
-=>a10_original
-::Turn the conveyor belt on.::<end>
-
-=>a10
-::Turn the conveyor belt on.::<end>
-
-=>a11_original
-::Turn the conveyor belt off.::<end>
-
-=>a11
-::Turn the conveyor belt off.::<end>
-
-=>a12_original
-::Initiate the melting process.::<end>
-
-=>a12
-::Initiate the melting process.::<end>
-
-=>q13_original
-
-::Melting in progress.::<end>
-
-=>q13
-
-::Melting in progress.::<end>
-
-=>a14_original
-::Drain the tank.::<end>
-
-=>a14
-::Drain the tank.::<end>
-
-=>a15_original
-::Leave it be.::<end>
-
-=>a15
-::Leave it be.::<end>
-
-=>q16_original
-
-::Tank full.::<end>
-
-=>q16
-
-::Tank full.::<end>
-
+=>q1_original
+::Stored ore: $(context.loc_fo5_storedOre)
+Loaded ore: $(context.loc_fo5_loadedOre)
+Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
+
+=>q1
+::Stored ore: $(context.loc_fo5_storedOre)
+Loaded ore: $(context.loc_fo5_loadedOre)
+Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
+
+=>q2_original
+
+::Super steel melting program loaded. Controls overriden.::<end>
+
+=>q2
+
+::Super steel melting program loaded. Controls overriden.::<end>
+
+=>q3_original
+
+::Furnace cooling down.::<end>
+
+=>q3
+
+::Furnace cooling down.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Recall the cart.::<end>
+
+=>a5
+::Recall the cart.::<end>
+
+=>a6_original
+::Unload the cart.::<end>
+
+=>a6
+::Unload the cart.::<end>
+
+=>q7_original
+::Cargo scanning successful. No invalid objects detected.::<end>
+
+=>q7
+::Cargo scanning successful. No invalid objects detected.::<end>
+
+=>a8_original
+::Proceed with unloading.::<end>
+
+=>a8
+::Proceed with unloading.::<end>
+
+=>q9_original
+::Invalid objects detected inside the cart. Please proceed with cargo inspection.::<end>
+
+=>q9
+::Invalid objects detected inside the cart. Please proceed with cargo inspection.::<end>
+
+=>a10_original
+::Turn the conveyor belt on.::<end>
+
+=>a10
+::Turn the conveyor belt on.::<end>
+
+=>a11_original
+::Turn the conveyor belt off.::<end>
+
+=>a11
+::Turn the conveyor belt off.::<end>
+
+=>a12_original
+::Initiate the melting process.::<end>
+
+=>a12
+::Initiate the melting process.::<end>
+
+=>q13_original
+
+::Melting in progress.::<end>
+
+=>q13
+
+::Melting in progress.::<end>
+
+=>a14_original
+::Drain the tank.::<end>
+
+=>a14
+::Drain the tank.::<end>
+
+=>a15_original
+::Leave it be.::<end>
+
+=>a15
+::Leave it be.::<end>
+
+=>q16_original
+
+::Tank full.::<end>
+
+=>q16
+
+::Tank full.::<end>
+

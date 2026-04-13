@@ -1,21 +1,21 @@
 ::Uncontrolled
-- Setting traps or planting explosives near other characters might provoke them
-- Setting traps or planting explosives out of sight cannot be traced to you
+- Poser des pièges ou planter des explosifs à proximité d'autres personnages peut les provoquer
+- Poser des pièges ou planter des explosifs hors de vue ne peut pas être attribué à vous
 
 ::PartiallyControlled
-- Setting traps or planting explosives near other characters might provoke them
-- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile
+- Poser des pièges ou planter des explosifs à proximité d'autres personnages peut les provoquer
+- Si des membres de certaines factions subissent des dégâts de vos pièges ou explosifs, ils vous en attribueront automatiquement la responsabilité et deviendront hostiles
 
 ::Controlled
-- Setting traps or planting explosives near other characters might provoke them
-- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile
-- If members of certain factions discover traps or explosives planted by you they will automatically track it back to you and will turn hostile
+- Poser des pièges ou planter des explosifs à proximité d'autres personnages peut les provoquer
+- Si des membres de certaines factions subissent des dégâts de vos pièges ou explosifs, ils vous en attribueront automatiquement la responsabilité et deviendront hostiles
+- Si des membres de certaines factions découvrent des pièges ou explosifs posés par vous, ils vous en attribueront automatiquement la responsabilité et deviendront hostiles
 
 ::CameraFootage
-If you are spotted by the cameras in this zone, you might later trigger hostilities from certain factions if the footage is not promptly erased.
+Si vous êtes repéré par les caméras de cette zone, vous risquez de déclencher ultérieurement des hostilités de la part de certaines factions si les enregistrements ne sont pas effacés rapidement.
 
 ::LeaveNoWitnesses
-If you trigger hostilities with characters in this zone and leave the zone before disposing of the witnesses, the hostilities may propagate to the entire faction and even allied factions.
+Si vous déclenchez des hostilités avec des personnages de cette zone et quittez la zone avant d'éliminer les témoins, les hostilités peuvent se propager à l'ensemble de la faction et même aux factions alliées.
 
 ::SavingDisabled
-You cannot save the game while in this zone.
+Vous ne pouvez pas sauvegarder le jeu dans cette zone.

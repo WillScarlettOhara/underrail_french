@@ -1,24 +1,24 @@
-=>q1_original
-Go right through.<end>
-
-=>q1
-Go right through.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Excuse me, Enforcer, but Chief Knight does not accept visitors at this moment.<end>
-
-=>q3
-Excuse me, Enforcer, but Chief Knight does not accept visitors at this moment.<end>
-
-=>q4_original
-Excuse me, $(#sir/ma'am), but Chief Knight does not accept visitors at this moment.<end>
-
-=>q4
-Excuse me, $(#sir/ma'am), but Chief Knight does not accept visitors at this moment.<end>
-
+=>q1_original
+Go right through.<end>
+
+=>q1
+Go right through.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Excuse me, Enforcer, but Chief Knight does not accept visitors at this moment.<end>
+
+=>q3
+Excuse me, Enforcer, but Chief Knight does not accept visitors at this moment.<end>
+
+=>q4_original
+Excuse me, $(#sir/ma'am), but Chief Knight does not accept visitors at this moment.<end>
+
+=>q4
+Excuse me, $(#sir/ma'am), but Chief Knight does not accept visitors at this moment.<end>
+

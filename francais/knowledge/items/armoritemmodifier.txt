@@ -1,35 +1,35 @@
-::MeleeResistanceBonus
-Mechanical damage resistance and threshold increased by {0}% against melee attacks.
-
-::ThresholdBonusVsBulletsBonus
-Mechanical damage threshold increased by {0}% against bullets.
-
-::ThresholdBonusVsBulletsAndShellsBonus
-Mechanical damage threshold increased by {0}% against bullets and shotgun shells.
-
-::ExtraMeleeDamage
-Your successful melee attacks inflict extra {0} damage.
-
-::ExtraUnarmedDamage-Old
-Your successful unarmed attacks inflict extra {0} damage.
-
-::ExtraUnarmedAndFistWeaponDamage
-Your successful unarmed and fist weapon attacks inflict extra {0} damage.
-
-::MeleeAttackBleedingEffect
-Your successful melee attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns.
-
-::UnarmedAttackBleedingEffect
-Your successful unarmed attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns.
-
-::CriticalHitUnblockedDamageArmorReduction
-Reduces damage from critical hits by {0}%.
-
-::CriticalHitUnblockedBulletDamageArmorReduction
-Reduces bullet damage from critical hits by {0}%.
-
-::KnifeResistanceBonus
-Mechanical damage resistance and threshold increased by {0}% against knife attacks.
-
-::MeleeEdgedResistanceBonus
-Mechanical damage resistance and threshold increased by {0}% against attacks by melee weapon with a cutting edge.
+::MeleeResistanceBonus
+Mechanical damage resistance and threshold increased by {0}% against melee attacks.
+
+::ThresholdBonusVsBulletsBonus
+Mechanical damage threshold increased by {0}% against bullets.
+
+::ThresholdBonusVsBulletsAndShellsBonus
+Mechanical damage threshold increased by {0}% against bullets and shotgun shells.
+
+::ExtraMeleeDamage
+Your successful melee attacks inflict extra {0} damage.
+
+::ExtraUnarmedDamage-Old
+Your successful unarmed attacks inflict extra {0} damage.
+
+::ExtraUnarmedAndFistWeaponDamage
+Your successful unarmed and fist weapon attacks inflict extra {0} damage.
+
+::MeleeAttackBleedingEffect
+Your successful melee attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns.
+
+::UnarmedAttackBleedingEffect
+Your successful unarmed attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns.
+
+::CriticalHitUnblockedDamageArmorReduction
+Reduces damage from critical hits by {0}%.
+
+::CriticalHitUnblockedBulletDamageArmorReduction
+Reduces bullet damage from critical hits by {0}%.
+
+::KnifeResistanceBonus
+Mechanical damage resistance and threshold increased by {0}% against knife attacks.
+
+::MeleeEdgedResistanceBonus
+Mechanical damage resistance and threshold increased by {0}% against attacks by melee weapon with a cutting edge.

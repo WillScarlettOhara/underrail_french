@@ -1,132 +1,132 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::The woman watches you silently.::<end>
-
-=>q2
-::The woman watches you silently.::<end>
-
-=>q3_original
-::She shows you some weird hand signal, but you have no idea what it means.::<end>
-
-=>q3
-::She shows you some weird hand signal, but you have no idea what it means.::<end>
-
-=>q4_original
-::The woman waves you away as soon as you come closer to her. She is silent, but words are unneeded when such an inhospitable face is being presented.::<end>
-
-=>q4
-::The woman waves you away as soon as you come closer to her. She is silent, but words are unneeded when such an inhospitable face is being presented.::<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-I think you have something I need.<end>
-
-=>a6
-I think you have something I need.<end>
-
-=>q7_original
-::She taps her ear a few times.::<end>
-
-=>q7
-::She taps her ear a few times.::<end>
-
-=>a8_original
-A device. A very important device.<end>
-
-=>a8
-A device. A very important device.<end>
-
-=>q9_original
-::She nods in understanding, but pauses to think for a second.::<end>
-
-=>q9
-::She nods in understanding, but pauses to think for a second.::<end>
-
-=>q10_original
-::After a brief moment of contemplation she nods again. A smirk appears on her face as soon as she raises her hand and rubs her thumb against her index and middle finger.::<end>
-
-=>q10
-::After a brief moment of contemplation she nods again. A smirk appears on her face as soon as she raises her hand and rubs her thumb against her index and middle finger.::<end>
-
-=>a11_original
-::Rattle some coins.::<end>
-
-=>a11
-::Rattle some coins.::<end>
-
-=>q12_original
-::She nods and smiles. After that, she signals you to follow her.::<end>
-
-=>q12
-::She nods and smiles. After that, she signals you to follow her.::<end>
-
-=>a13_original
-::Follow her.::<end>
-
-=>a13
-::Follow her.::<end>
-
-=>a14_original
-I'm willing to pay for it.<end>
-
-=>a14
-I'm willing to pay for it.<end>
-
-=>a15_original
-Perhaps I'll pay for it.<end>
-
-=>a15
-Perhaps I'll pay for it.<end>
-
-=>a16_original
-I don't want to pay for it.<end>
-
-=>a16
-I don't want to pay for it.<end>
-
-=>q17_original
-::She shakes her head and waves you away.::<end>
-
-=>q17
-::She shakes her head and waves you away.::<end>
-
-=>a18_original
-I changed my mind. I might pay for it.<end>
-
-=>a18
-I changed my mind. I might pay for it.<end>
-
-=>a19_original
-Fine, I'll go.<end>
-
-=>a19
-Fine, I'll go.<end>
-
-=>a20_original
-An ICPD. You took it from a man who came through here recently.<end>
-
-=>a20
-An ICPD. You took it from a man who came through here recently.<end>
-
-=>q21_original
-::She nods in understanding, but pauses to think for a second.::<end>
-
-=>q21
-::She nods in understanding, but pauses to think for a second.::<end>
-
-=>a22_original
-::Leave without saying a word.::<end>
-
-=>a22
-::Leave without saying a word.::<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::The woman watches you silently.::<end>
+
+=>q2
+::The woman watches you silently.::<end>
+
+=>q3_original
+::She shows you some weird hand signal, but you have no idea what it means.::<end>
+
+=>q3
+::She shows you some weird hand signal, but you have no idea what it means.::<end>
+
+=>q4_original
+::The woman waves you away as soon as you come closer to her. She is silent, but words are unneeded when such an inhospitable face is being presented.::<end>
+
+=>q4
+::The woman waves you away as soon as you come closer to her. She is silent, but words are unneeded when such an inhospitable face is being presented.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I think you have something I need.<end>
+
+=>a6
+I think you have something I need.<end>
+
+=>q7_original
+::She taps her ear a few times.::<end>
+
+=>q7
+::She taps her ear a few times.::<end>
+
+=>a8_original
+A device. A very important device.<end>
+
+=>a8
+A device. A very important device.<end>
+
+=>q9_original
+::She nods in understanding, but pauses to think for a second.::<end>
+
+=>q9
+::She nods in understanding, but pauses to think for a second.::<end>
+
+=>q10_original
+::After a brief moment of contemplation she nods again. A smirk appears on her face as soon as she raises her hand and rubs her thumb against her index and middle finger.::<end>
+
+=>q10
+::After a brief moment of contemplation she nods again. A smirk appears on her face as soon as she raises her hand and rubs her thumb against her index and middle finger.::<end>
+
+=>a11_original
+::Rattle some coins.::<end>
+
+=>a11
+::Rattle some coins.::<end>
+
+=>q12_original
+::She nods and smiles. After that, she signals you to follow her.::<end>
+
+=>q12
+::She nods and smiles. After that, she signals you to follow her.::<end>
+
+=>a13_original
+::Follow her.::<end>
+
+=>a13
+::Follow her.::<end>
+
+=>a14_original
+I'm willing to pay for it.<end>
+
+=>a14
+I'm willing to pay for it.<end>
+
+=>a15_original
+Perhaps I'll pay for it.<end>
+
+=>a15
+Perhaps I'll pay for it.<end>
+
+=>a16_original
+I don't want to pay for it.<end>
+
+=>a16
+I don't want to pay for it.<end>
+
+=>q17_original
+::She shakes her head and waves you away.::<end>
+
+=>q17
+::She shakes her head and waves you away.::<end>
+
+=>a18_original
+I changed my mind. I might pay for it.<end>
+
+=>a18
+I changed my mind. I might pay for it.<end>
+
+=>a19_original
+Fine, I'll go.<end>
+
+=>a19
+Fine, I'll go.<end>
+
+=>a20_original
+An ICPD. You took it from a man who came through here recently.<end>
+
+=>a20
+An ICPD. You took it from a man who came through here recently.<end>
+
+=>q21_original
+::She nods in understanding, but pauses to think for a second.::<end>
+
+=>q21
+::She nods in understanding, but pauses to think for a second.::<end>
+
+=>a22_original
+::Leave without saying a word.::<end>
+
+=>a22
+::Leave without saying a word.::<end>
+

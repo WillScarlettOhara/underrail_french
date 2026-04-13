@@ -1,6 +1,6 @@
-=>q1_original
-You chose the wrong house to bust into, $(#jack/sister).<end>
-
-=>q1
-You chose the wrong house to bust into, $(#jack/sister).<end>
-
+=>q1_original
+You chose the wrong house to bust into, $(#jack/sister).<end>
+
+=>q1
+You chose the wrong house to bust into, $(#jack/sister).<end>
+

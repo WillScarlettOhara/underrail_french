@@ -1,192 +1,192 @@
-=>q1_original
-::No mutants allowed.::<end>
-
-=>q1
-::No mutants allowed.::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-::You had been caught with a forged ticket. ::<end>
-
-=>q3
-::You had been caught with a forged ticket. ::<end>
-
-=>q4_original
-::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::<end>
-
-=>q4
-::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::<end>
-
-=>a5_original
-::Pay the fine::<end>
-
-=>a5
-::Pay the fine::<end>
-
-=>a6_original
-::Leave::<end>
-
-=>a6
-::Leave::<end>
-
-=>q7_original
-::Traveling by metro will cost you twenty five charons. Where would you like to go?::<end>
-
-=>q7
-::Traveling by metro will cost you twenty five charons. Where would you like to go?::<end>
-
-=>a8_original
-::Use a ticket::<end>
-
-=>a8
-::Use a ticket::<end>
-
-=>q9_original
-::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
-
-=>q9
-::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
-
-=>a10_original
-::Polemos Station (Fort Apogee)::<end>
-
-=>a10
-::Polemos Station (Fort Apogee)::<end>
-
-=>a11_original
-::Epione Lab::<end>
-
-=>a11
-::Epione Lab::<end>
-
-=>a12_original
-::University::<end>
-
-=>a12
-::University::<end>
-
-=>a13_original
-::Core City::<end>
-
-=>a13
-::Core City::<end>
-
-=>a14_original
-::Nowhere::<end>
-
-=>a14
-::Nowhere::<end>
-
-=>a15_original
-::Use a forged ticket::<end>
-
-=>a15
-::Use a forged ticket::<end>
-
-=>q16_original
-::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
-
-=>q16
-::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>a18_original
-::Polemos Station (Fort Apogee)::<end>
-
-=>a18
-::Polemos Station (Fort Apogee)::<end>
-
-=>q19_original
-::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
-
-=>q19
-::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
-
-=>a20_original
-::Epione Lab::<end>
-
-=>a20
-::Epione Lab::<end>
-
-=>a21_original
-::University::<end>
-
-=>a21
-::University::<end>
-
-=>a22_original
-::Core City::<end>
-
-=>a22
-::Core City::<end>
-
-=>q23_original
-<end>
-
-=>q23
-<end>
-
-=>a24_original
-::Polemos Station (Fort Apogee)::<end>
-
-=>a24
-::Polemos Station (Fort Apogee)::<end>
-
-=>a25_original
-::Epione Lab::<end>
-
-=>a25
-::Epione Lab::<end>
-
-=>a26_original
-::University::<end>
-
-=>a26
-::University::<end>
-
-=>a27_original
-::Core City::<end>
-
-=>a27
-::Core City::<end>
-
-=>a28_original
-::Polemos Station (Fort Apogee)::<end>
-
-=>a28
-::Polemos Station (Fort Apogee)::<end>
-
-=>a29_original
-::Epione Lab::<end>
-
-=>a29
-::Epione Lab::<end>
-
-=>a30_original
-::University::<end>
-
-=>a30
-::University::<end>
-
-=>a31_original
-::Core City::<end>
-
-=>a31
-::Core City::<end>
-
-=>q32_original
-::You need twenty five charons to travel by metro.::<end>
-
-=>q32
-::You need twenty five charons to travel by metro.::<end>
-
+=>q1_original
+::No mutants allowed.::<end>
+
+=>q1
+::No mutants allowed.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::You had been caught with a forged ticket. ::<end>
+
+=>q3
+::You had been caught with a forged ticket. ::<end>
+
+=>q4_original
+::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::<end>
+
+=>q4
+::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::<end>
+
+=>a5_original
+::Pay the fine::<end>
+
+=>a5
+::Pay the fine::<end>
+
+=>a6_original
+::Leave::<end>
+
+=>a6
+::Leave::<end>
+
+=>q7_original
+::Traveling by metro will cost you twenty five charons. Where would you like to go?::<end>
+
+=>q7
+::Traveling by metro will cost you twenty five charons. Where would you like to go?::<end>
+
+=>a8_original
+::Use a ticket::<end>
+
+=>a8
+::Use a ticket::<end>
+
+=>q9_original
+::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
+
+=>q9
+::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
+
+=>a10_original
+::Polemos Station (Fort Apogee)::<end>
+
+=>a10
+::Polemos Station (Fort Apogee)::<end>
+
+=>a11_original
+::Epione Lab::<end>
+
+=>a11
+::Epione Lab::<end>
+
+=>a12_original
+::University::<end>
+
+=>a12
+::University::<end>
+
+=>a13_original
+::Core City::<end>
+
+=>a13
+::Core City::<end>
+
+=>a14_original
+::Nowhere::<end>
+
+=>a14
+::Nowhere::<end>
+
+=>a15_original
+::Use a forged ticket::<end>
+
+=>a15
+::Use a forged ticket::<end>
+
+=>q16_original
+::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
+
+=>q16
+::This ticket is valid for a single journey to any destination. Where would you like to go?::<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+::Polemos Station (Fort Apogee)::<end>
+
+=>a18
+::Polemos Station (Fort Apogee)::<end>
+
+=>q19_original
+::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
+
+=>q19
+::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
+
+=>a20_original
+::Epione Lab::<end>
+
+=>a20
+::Epione Lab::<end>
+
+=>a21_original
+::University::<end>
+
+=>a21
+::University::<end>
+
+=>a22_original
+::Core City::<end>
+
+=>a22
+::Core City::<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+::Polemos Station (Fort Apogee)::<end>
+
+=>a24
+::Polemos Station (Fort Apogee)::<end>
+
+=>a25_original
+::Epione Lab::<end>
+
+=>a25
+::Epione Lab::<end>
+
+=>a26_original
+::University::<end>
+
+=>a26
+::University::<end>
+
+=>a27_original
+::Core City::<end>
+
+=>a27
+::Core City::<end>
+
+=>a28_original
+::Polemos Station (Fort Apogee)::<end>
+
+=>a28
+::Polemos Station (Fort Apogee)::<end>
+
+=>a29_original
+::Epione Lab::<end>
+
+=>a29
+::Epione Lab::<end>
+
+=>a30_original
+::University::<end>
+
+=>a30
+::University::<end>
+
+=>a31_original
+::Core City::<end>
+
+=>a31
+::Core City::<end>
+
+=>q32_original
+::You need twenty five charons to travel by metro.::<end>
+
+=>q32
+::You need twenty five charons to travel by metro.::<end>
+

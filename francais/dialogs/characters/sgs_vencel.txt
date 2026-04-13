@@ -1,374 +1,374 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-We all saw Ethan attacked you first.<end>
-
-=>q2
-We all saw Ethan attacked you first.<end>
-
-=>q3_original
-Did Ethan... turn into an old man?<end>
-
-=>q3
-Did Ethan... turn into an old man?<end>
-
-=>q4_original
-Any news on Tanner?<end>
-
-=>q4
-Any news on Tanner?<end>
-
-=>q5_original
-I visited Lora an hour ago. She is still unconscious.<end>
-
-=>q5
-I visited Lora an hour ago. She is still unconscious.<end>
-
-=>q6_original
-Cheers!<end>
-
-=>q6
-Cheers!<end>
-
-=>q7_original
-The Faceless just left? What the rocky hell is going on?<end>
-
-=>q7
-The Faceless just left? What the rocky hell is going on?<end>
-
-=>q8_original
-So, how did it go in GMS?<end>
-
-=>q8
-So, how did it go in GMS?<end>
-
-=>q9_original
-Oh... Lenox is back.<end>
-
-=>q9
-Oh... Lenox is back.<end>
-
-=>q10_original
-Newton's pissed at you. Everytime you walk by he's giving you the evil eye.<end>
-
-=>q10
-Newton's pissed at you. Everytime you walk by he's giving you the evil eye.<end>
-
-=>q11_original
-What are the Faceless doing in Core City?<end>
-
-=>q11
-What are the Faceless doing in Core City?<end>
-
-=>q12_original
-Heard you took care of the outposts. That's the stuff. Good work.<end>
-
-=>q12
-Heard you took care of the outposts. That's the stuff. Good work.<end>
-
-=>q13_original
-Did I tell you the one about that dude who did the range completely drunk?<end>
-
-=>q13
-Did I tell you the one about that dude who did the range completely drunk?<end>
-
-=>q14_original
-Hey, $(context.player.Name).<end>
-
-=>q14
-Hey, $(context.player.Name).<end>
-
-=>q15_original
-How's it going?<end>
-
-=>q15
-How's it going?<end>
-
-=>q16_original
-I think Arlene's started offering psi beetle brain soup again. Try one. It'll blow your mind.<end>
-
-=>q16
-I think Arlene's started offering psi beetle brain soup again. Try one. It'll blow your mind.<end>
-
-=>q17_original
-Well done, $(context.player.Name). I hope you're satisfied now. ::He yawns.::<end>
-
-=>q17
-Well done, $(context.player.Name). I hope you're satisfied now. ::He yawns.::<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-Will my performance on this run affect my overall results?<end>
-
-=>a19
-Will my performance on this run affect my overall results?<end>
-
-=>q20_original
-Nope.<end>
-
-=>q20
-Nope.<end>
-
-=>q21_original
-Nope. Although I should put in that you're a camera smasher. I'll think about it.<end>
-
-=>q21
-Nope. Although I should put in that you're a camera smasher. I'll think about it.<end>
-
-=>a22_original
-How about I do another one? Eh?<end>
-
-=>a22
-How about I do another one? Eh?<end>
-
-=>q23_original
-No, please, no. Aren't you tired already? Just... no.<end>
-
-=>q23
-No, please, no. Aren't you tired already? Just... no.<end>
-
-=>a24_original
-I'm done here. It's time to check out my new room.<end>
-
-=>a24
-I'm done here. It's time to check out my new room.<end>
-
-=>q25_original
-I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
-
-=>q25
-I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
-
-=>q26_original
-Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
-
-=>q26
-Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
-
-=>a27_original
-See you around, Vencel. ::Leave.::<end>
-
-=>a27
-See you around, Vencel. ::Leave.::<end>
-
-=>q28_original
-::You see a frown on Vencel's face, and he speaks to you in a matching tone of voice.::
-
-What was that all about? What did cameras ever do to you, $(context.player.Name)? I mean-- There was no reason to do that. Man...<end>
-
-=>q28
-::You see a frown on Vencel's face, and he speaks to you in a matching tone of voice.::
-
-What was that all about? What did cameras ever do to you, $(context.player.Name)? I mean-- There was no reason to do that. Man...<end>
-
-=>a29_original
-It was inevitable.<end>
-
-=>a29
-It was inevitable.<end>
-
-=>q30_original
-Man! We've never had anyone ever destroy any of our cameras. Ever.<end>
-
-=>q30
-Man! We've never had anyone ever destroy any of our cameras. Ever.<end>
-
-=>q31_original
-Dammit. I'll have to take care of this. Harold could come here or... I'll think of something. ::He gives you an angry look once more, and then he yawns.:: 
-
-Anyway, are we finally done?<end>
-
-=>q31
-Dammit. I'll have to take care of this. Harold could come here or... I'll think of something. ::He gives you an angry look once more, and then he yawns.:: 
-
-Anyway, are we finally done?<end>
-
-=>a32_original
-You never told me anything about the cameras.<end>
-
-=>a32
-You never told me anything about the cameras.<end>
-
-=>a33_original
-Whoops.<end>
-
-=>a33
-Whoops.<end>
-
-=>q34_original
-Go through the gate, $(context.player.Name).<end>
-
-=>q34
-Go through the gate, $(context.player.Name).<end>
-
-=>q35_original
-::An unexpected yawn interrupts Vencel. He instinctively raises his left hand to cover his mouth, forgetting that he is wearing a respirator. A tiny smile creeps up on your face due to this very fact, yet you understand that after so many hours of testing these kinds of lapses tend to sneak up on people.::
-
-Excuse me.<end>
-
-=>q35
-::An unexpected yawn interrupts Vencel. He instinctively raises his left hand to cover his mouth, forgetting that he is wearing a respirator. A tiny smile creeps up on your face due to this very fact, yet you understand that after so many hours of testing these kinds of lapses tend to sneak up on people.::
-
-Excuse me.<end>
-
-=>q36_original
-::He picks up where he left off.::
-
-So all in all, as far as I'm concerned, $(context.player.Name), we're done here. I've got a few other things to do, but unless you'd like to have another go at the testing range, you've got no reason to stay here any longer.<end>
-
-=>q36
-::He picks up where he left off.::
-
-So all in all, as far as I'm concerned, $(context.player.Name), we're done here. I've got a few other things to do, but unless you'd like to have another go at the testing range, you've got no reason to stay here any longer.<end>
-
-=>a37_original
-As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>
-
-=>a37
-As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>
-
-=>q38_original
-::His tired eyes aren't exactly radiating joy at your response, but he still nods.::
-
-No problem, but know that it won't affect your previous results. I guess it's best we go through the whole procedure as if this is your first time at the range. <end>
-
-=>q38
-::His tired eyes aren't exactly radiating joy at your response, but he still nods.::
-
-No problem, but know that it won't affect your previous results. I guess it's best we go through the whole procedure as if this is your first time at the range. <end>
-
-=>q39_original
-Okay, I'll now open the gate for you to go through. As before, I'll be watching you through the cameras. We'll continue once you get past the gate.<end>
-
-=>q39
-Okay, I'll now open the gate for you to go through. As before, I'll be watching you through the cameras. We'll continue once you get past the gate.<end>
-
-=>a40_original
-I'm ready, Vencel.<end>
-
-=>a40
-I'm ready, Vencel.<end>
-
-=>a41_original
-I'm feeling pretty tired, and it's hardly a secret you are too. Besides, I can't wait to check out my new room. ::[Skip the tutorial]::<end>
-
-=>a41
-I'm feeling pretty tired, and it's hardly a secret you are too. Besides, I can't wait to check out my new room. ::[Skip the tutorial]::<end>
-
-=>q42_original
-I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
-
-=>q42
-I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
-
-=>q43_original
-Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
-
-=>q43
-Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
-
-=>a44_original
-See you around, Vencel. ::Leave.::<end>
-
-=>a44
-See you around, Vencel. ::Leave.::<end>
-
-=>a45_original
-How do I compare to other newcomers, Vencel?<end>
-
-=>a45
-How do I compare to other newcomers, Vencel?<end>
-
-=>q46_original
-I can't tell you that, $(context.player.Name).<end>
-
-=>q46
-I can't tell you that, $(context.player.Name).<end>
-
-=>a47_original
-::[Persuade]:: Come on, man, it'll stay between you and me.<end>
-
-=>a47
-::[Persuade]:: Come on, man, it'll stay between you and me.<end>
-
-=>q48_original
-::He yawns again.:: Excuse me. Well, if you really want to know... Your score was below average.<end>
-
-=>q48
-::He yawns again.:: Excuse me. Well, if you really want to know... Your score was below average.<end>
-
-=>a49_original
-Then you must have some outstanding people here.<end>
-
-=>a49
-Then you must have some outstanding people here.<end>
-
-=>q50_original
-I was only joking, but that's a good response. ::He laughs.:: You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>q50
-I was only joking, but that's a good response. ::He laughs.:: You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>q51_original
-So, are we done here or...?<end>
-
-=>q51
-So, are we done here or...?<end>
-
-=>a52_original
-What? Only below average? But how?<end>
-
-=>a52
-What? Only below average? But how?<end>
-
-=>q53_original
-::He laughs.:: I was joking, you scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>q53
-::He laughs.:: I was joking, you scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>a54_original
-YES!<end>
-
-=>a54
-YES!<end>
-
-=>q55_original
-Now I know how that-- Oh. I was actually joking. You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>q55
-Now I know how that-- Oh. I was actually joking. You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
-
-=>a56_original
-I shouldn't have asked.<end>
-
-=>a56
-I shouldn't have asked.<end>
-
-=>q57_original
-::He yawns again.:: Nah. You'll have to be patient, I'm afraid.<end>
-
-=>q57
-::He yawns again.:: Nah. You'll have to be patient, I'm afraid.<end>
-
-=>a58_original
-I guess that'll have to do.<end>
-
-=>a58
-I guess that'll have to do.<end>
-
-=>q59_original
-::He nods.:: So, are we done here or...?<end>
-
-=>q59
-::He nods.:: So, are we done here or...?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+We all saw Ethan attacked you first.<end>
+
+=>q2
+We all saw Ethan attacked you first.<end>
+
+=>q3_original
+Did Ethan... turn into an old man?<end>
+
+=>q3
+Did Ethan... turn into an old man?<end>
+
+=>q4_original
+Any news on Tanner?<end>
+
+=>q4
+Any news on Tanner?<end>
+
+=>q5_original
+I visited Lora an hour ago. She is still unconscious.<end>
+
+=>q5
+I visited Lora an hour ago. She is still unconscious.<end>
+
+=>q6_original
+Cheers!<end>
+
+=>q6
+Cheers!<end>
+
+=>q7_original
+The Faceless just left? What the rocky hell is going on?<end>
+
+=>q7
+The Faceless just left? What the rocky hell is going on?<end>
+
+=>q8_original
+So, how did it go in GMS?<end>
+
+=>q8
+So, how did it go in GMS?<end>
+
+=>q9_original
+Oh... Lenox is back.<end>
+
+=>q9
+Oh... Lenox is back.<end>
+
+=>q10_original
+Newton's pissed at you. Everytime you walk by he's giving you the evil eye.<end>
+
+=>q10
+Newton's pissed at you. Everytime you walk by he's giving you the evil eye.<end>
+
+=>q11_original
+What are the Faceless doing in Core City?<end>
+
+=>q11
+What are the Faceless doing in Core City?<end>
+
+=>q12_original
+Heard you took care of the outposts. That's the stuff. Good work.<end>
+
+=>q12
+Heard you took care of the outposts. That's the stuff. Good work.<end>
+
+=>q13_original
+Did I tell you the one about that dude who did the range completely drunk?<end>
+
+=>q13
+Did I tell you the one about that dude who did the range completely drunk?<end>
+
+=>q14_original
+Hey, $(context.player.Name).<end>
+
+=>q14
+Hey, $(context.player.Name).<end>
+
+=>q15_original
+How's it going?<end>
+
+=>q15
+How's it going?<end>
+
+=>q16_original
+I think Arlene's started offering psi beetle brain soup again. Try one. It'll blow your mind.<end>
+
+=>q16
+I think Arlene's started offering psi beetle brain soup again. Try one. It'll blow your mind.<end>
+
+=>q17_original
+Well done, $(context.player.Name). I hope you're satisfied now. ::He yawns.::<end>
+
+=>q17
+Well done, $(context.player.Name). I hope you're satisfied now. ::He yawns.::<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+Will my performance on this run affect my overall results?<end>
+
+=>a19
+Will my performance on this run affect my overall results?<end>
+
+=>q20_original
+Nope.<end>
+
+=>q20
+Nope.<end>
+
+=>q21_original
+Nope. Although I should put in that you're a camera smasher. I'll think about it.<end>
+
+=>q21
+Nope. Although I should put in that you're a camera smasher. I'll think about it.<end>
+
+=>a22_original
+How about I do another one? Eh?<end>
+
+=>a22
+How about I do another one? Eh?<end>
+
+=>q23_original
+No, please, no. Aren't you tired already? Just... no.<end>
+
+=>q23
+No, please, no. Aren't you tired already? Just... no.<end>
+
+=>a24_original
+I'm done here. It's time to check out my new room.<end>
+
+=>a24
+I'm done here. It's time to check out my new room.<end>
+
+=>q25_original
+I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
+
+=>q25
+I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
+
+=>q26_original
+Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
+
+=>q26
+Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
+
+=>a27_original
+See you around, Vencel. ::Leave.::<end>
+
+=>a27
+See you around, Vencel. ::Leave.::<end>
+
+=>q28_original
+::You see a frown on Vencel's face, and he speaks to you in a matching tone of voice.::
+
+What was that all about? What did cameras ever do to you, $(context.player.Name)? I mean-- There was no reason to do that. Man...<end>
+
+=>q28
+::You see a frown on Vencel's face, and he speaks to you in a matching tone of voice.::
+
+What was that all about? What did cameras ever do to you, $(context.player.Name)? I mean-- There was no reason to do that. Man...<end>
+
+=>a29_original
+It was inevitable.<end>
+
+=>a29
+It was inevitable.<end>
+
+=>q30_original
+Man! We've never had anyone ever destroy any of our cameras. Ever.<end>
+
+=>q30
+Man! We've never had anyone ever destroy any of our cameras. Ever.<end>
+
+=>q31_original
+Dammit. I'll have to take care of this. Harold could come here or... I'll think of something. ::He gives you an angry look once more, and then he yawns.:: 
+
+Anyway, are we finally done?<end>
+
+=>q31
+Dammit. I'll have to take care of this. Harold could come here or... I'll think of something. ::He gives you an angry look once more, and then he yawns.:: 
+
+Anyway, are we finally done?<end>
+
+=>a32_original
+You never told me anything about the cameras.<end>
+
+=>a32
+You never told me anything about the cameras.<end>
+
+=>a33_original
+Whoops.<end>
+
+=>a33
+Whoops.<end>
+
+=>q34_original
+Go through the gate, $(context.player.Name).<end>
+
+=>q34
+Go through the gate, $(context.player.Name).<end>
+
+=>q35_original
+::An unexpected yawn interrupts Vencel. He instinctively raises his left hand to cover his mouth, forgetting that he is wearing a respirator. A tiny smile creeps up on your face due to this very fact, yet you understand that after so many hours of testing these kinds of lapses tend to sneak up on people.::
+
+Excuse me.<end>
+
+=>q35
+::An unexpected yawn interrupts Vencel. He instinctively raises his left hand to cover his mouth, forgetting that he is wearing a respirator. A tiny smile creeps up on your face due to this very fact, yet you understand that after so many hours of testing these kinds of lapses tend to sneak up on people.::
+
+Excuse me.<end>
+
+=>q36_original
+::He picks up where he left off.::
+
+So all in all, as far as I'm concerned, $(context.player.Name), we're done here. I've got a few other things to do, but unless you'd like to have another go at the testing range, you've got no reason to stay here any longer.<end>
+
+=>q36
+::He picks up where he left off.::
+
+So all in all, as far as I'm concerned, $(context.player.Name), we're done here. I've got a few other things to do, but unless you'd like to have another go at the testing range, you've got no reason to stay here any longer.<end>
+
+=>a37_original
+As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>
+
+=>a37
+As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>
+
+=>q38_original
+::His tired eyes aren't exactly radiating joy at your response, but he still nods.::
+
+No problem, but know that it won't affect your previous results. I guess it's best we go through the whole procedure as if this is your first time at the range. <end>
+
+=>q38
+::His tired eyes aren't exactly radiating joy at your response, but he still nods.::
+
+No problem, but know that it won't affect your previous results. I guess it's best we go through the whole procedure as if this is your first time at the range. <end>
+
+=>q39_original
+Okay, I'll now open the gate for you to go through. As before, I'll be watching you through the cameras. We'll continue once you get past the gate.<end>
+
+=>q39
+Okay, I'll now open the gate for you to go through. As before, I'll be watching you through the cameras. We'll continue once you get past the gate.<end>
+
+=>a40_original
+I'm ready, Vencel.<end>
+
+=>a40
+I'm ready, Vencel.<end>
+
+=>a41_original
+I'm feeling pretty tired, and it's hardly a secret you are too. Besides, I can't wait to check out my new room. ::[Skip the tutorial]::<end>
+
+=>a41
+I'm feeling pretty tired, and it's hardly a secret you are too. Besides, I can't wait to check out my new room. ::[Skip the tutorial]::<end>
+
+=>q42_original
+I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
+
+=>q42
+I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
+
+=>q43_original
+Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
+
+=>q43
+Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
+
+=>a44_original
+See you around, Vencel. ::Leave.::<end>
+
+=>a44
+See you around, Vencel. ::Leave.::<end>
+
+=>a45_original
+How do I compare to other newcomers, Vencel?<end>
+
+=>a45
+How do I compare to other newcomers, Vencel?<end>
+
+=>q46_original
+I can't tell you that, $(context.player.Name).<end>
+
+=>q46
+I can't tell you that, $(context.player.Name).<end>
+
+=>a47_original
+::[Persuade]:: Come on, man, it'll stay between you and me.<end>
+
+=>a47
+::[Persuade]:: Come on, man, it'll stay between you and me.<end>
+
+=>q48_original
+::He yawns again.:: Excuse me. Well, if you really want to know... Your score was below average.<end>
+
+=>q48
+::He yawns again.:: Excuse me. Well, if you really want to know... Your score was below average.<end>
+
+=>a49_original
+Then you must have some outstanding people here.<end>
+
+=>a49
+Then you must have some outstanding people here.<end>
+
+=>q50_original
+I was only joking, but that's a good response. ::He laughs.:: You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>q50
+I was only joking, but that's a good response. ::He laughs.:: You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>q51_original
+So, are we done here or...?<end>
+
+=>q51
+So, are we done here or...?<end>
+
+=>a52_original
+What? Only below average? But how?<end>
+
+=>a52
+What? Only below average? But how?<end>
+
+=>q53_original
+::He laughs.:: I was joking, you scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>q53
+::He laughs.:: I was joking, you scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>a54_original
+YES!<end>
+
+=>a54
+YES!<end>
+
+=>q55_original
+Now I know how that-- Oh. I was actually joking. You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>q55
+Now I know how that-- Oh. I was actually joking. You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
+
+=>a56_original
+I shouldn't have asked.<end>
+
+=>a56
+I shouldn't have asked.<end>
+
+=>q57_original
+::He yawns again.:: Nah. You'll have to be patient, I'm afraid.<end>
+
+=>q57
+::He yawns again.:: Nah. You'll have to be patient, I'm afraid.<end>
+
+=>a58_original
+I guess that'll have to do.<end>
+
+=>a58
+I guess that'll have to do.<end>
+
+=>q59_original
+::He nods.:: So, are we done here or...?<end>
+
+=>q59
+::He nods.:: So, are we done here or...?<end>
+

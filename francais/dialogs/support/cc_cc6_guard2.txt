@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-I hate Drop Zone.<end>
-
-=>q2
-I hate Drop Zone.<end>
-
-=>q3_original
-Need something, $(#sir/ma'am)?<end>
-
-=>q3
-Need something, $(#sir/ma'am)?<end>
-
-=>q4_original
-Enforcer.<end>
-
-=>q4
-Enforcer.<end>
-
-=>q5_original
-I could've been up there, where it's safer - but nooooo! "Guard that stupid bridge," they said!<end>
-
-=>q5
-I could've been up there, where it's safer - but nooooo! "Guard that stupid bridge," they said!<end>
-
-=>q6_original
-I wonder if there are any Black Crawlers still active.<end>
-
-=>q6
-I wonder if there are any Black Crawlers still active.<end>
-
-=>q7_original
-I sure hope the Faceless don't come out of that cliff.<end>
-
-=>q7
-I sure hope the Faceless don't come out of that cliff.<end>
-
-=>q8_original
-That is one big drop. Yup.<end>
-
-=>q8
-That is one big drop. Yup.<end>
-
-=>q9_original
-::Looks around.::<end>
-
-=>q9
-::Looks around.::<end>
-
-=>q10_original
-::Laughs.:: There was this derailed zoner $(#guy/girl) climbing that cliff over there and pretending he's a crawler.<end>
-
-=>q10
-::Laughs.:: There was this derailed zoner $(#guy/girl) climbing that cliff over there and pretending he's a crawler.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I hate Drop Zone.<end>
+
+=>q2
+I hate Drop Zone.<end>
+
+=>q3_original
+Need something, $(#sir/ma'am)?<end>
+
+=>q3
+Need something, $(#sir/ma'am)?<end>
+
+=>q4_original
+Enforcer.<end>
+
+=>q4
+Enforcer.<end>
+
+=>q5_original
+I could've been up there, where it's safer - but nooooo! "Guard that stupid bridge," they said!<end>
+
+=>q5
+I could've been up there, where it's safer - but nooooo! "Guard that stupid bridge," they said!<end>
+
+=>q6_original
+I wonder if there are any Black Crawlers still active.<end>
+
+=>q6
+I wonder if there are any Black Crawlers still active.<end>
+
+=>q7_original
+I sure hope the Faceless don't come out of that cliff.<end>
+
+=>q7
+I sure hope the Faceless don't come out of that cliff.<end>
+
+=>q8_original
+That is one big drop. Yup.<end>
+
+=>q8
+That is one big drop. Yup.<end>
+
+=>q9_original
+::Looks around.::<end>
+
+=>q9
+::Looks around.::<end>
+
+=>q10_original
+::Laughs.:: There was this derailed zoner $(#guy/girl) climbing that cliff over there and pretending he's a crawler.<end>
+
+=>q10
+::Laughs.:: There was this derailed zoner $(#guy/girl) climbing that cliff over there and pretending he's a crawler.<end>
+

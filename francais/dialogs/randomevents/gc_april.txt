@@ -1,340 +1,340 @@
-=>q1_original
-Leave me alone. I'm *angry*!<end>
-
-=>q1
-Leave me alone. I'm *angry*!<end>
-
-=>q2_original
-Dammit, dammit, dammit!<end>
-
-=>q2
-Dammit, dammit, dammit!<end>
-
-=>q3_original
-Please, $(#sir/ma'am), do you know where I can find some scope fluid?<end>
-
-=>q3
-Please, $(#sir/ma'am), do you know where I can find some scope fluid?<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-Scope fluid?<end>
-
-=>a5
-Scope fluid?<end>
-
-=>q6_original
-Dammit, dammit, dammit! I've been searching for hours, went to every store in thissss... *stupid* place and no one's got it - or they're *out*! 
-
-Oh... I'm gonna kill myself if Bro doesn't do it first.<end>
-
-=>q6
-Dammit, dammit, dammit! I've been searching for hours, went to every store in thissss... *stupid* place and no one's got it - or they're *out*! 
-
-Oh... I'm gonna kill myself if Bro doesn't do it first.<end>
-
-=>a7_original
-Again, scope fluid?<end>
-
-=>a7
-Again, scope fluid?<end>
-
-=>q8_original
-It's, you know, <end>
-
-=>q8
-It's, you know, <end>
-
-=>q9_original
-my brother told me to get it. ::Her face briefly lights up.:: He, he wants to teach me how to use a crossbow, yeah, and he needs the fluid for the scope, so it'd... ::She shrugs.:: I dunno, make the image sharper, I guess.<end>
-
-=>q9
-my brother told me to get it. ::Her face briefly lights up.:: He, he wants to teach me how to use a crossbow, yeah, and he needs the fluid for the scope, so it'd... ::She shrugs.:: I dunno, make the image sharper, I guess.<end>
-
-=>q10_original
-::But then her momentary joy comes to an end.::
-
-He's gonna kill me, oh... I can't even do a simple thing!<end>
-
-=>q10
-::But then her momentary joy comes to an end.::
-
-He's gonna kill me, oh... I can't even do a simple thing!<end>
-
-=>a11_original
-Your bro's playing a prank on you. There's no such thing as scope fluid.<end>
-
-=>a11
-Your bro's playing a prank on you. There's no such thing as scope fluid.<end>
-
-=>q12_original
-A prank? <end>
-
-=>q12
-A prank? <end>
-
-=>q13_original
-But... doesn't it...?
-
-In the, uh...
-
-...inside?<end>
-
-=>q13
-But... doesn't it...?
-
-In the, uh...
-
-...inside?<end>
-
-=>q14_original
-::She blushes.:: Oh, I'm such a fool.<end>
-
-=>q14
-::She blushes.:: Oh, I'm such a fool.<end>
-
-=>q15_original
-::Now visibly angry, she shakes her head.:: *Ooooooooofff!*
-
-T... Thanks.<end>
-
-=>q15
-::Now visibly angry, she shakes her head.:: *Ooooooooofff!*
-
-T... Thanks.<end>
-
-=>a16_original
-One moment! Might not be scope fluid, but I do have a spare scope for sale, if you want one.<end>
-
-=>a16
-One moment! Might not be scope fluid, but I do have a spare scope for sale, if you want one.<end>
-
-=>q17_original
-::She stares at you with a dour expression, barely capable of listening to you.::
-
-N-no, no. I'm... too angry to think.
-
-::She then walks away.::<end>
-
-=>q17
-::She stares at you with a dour expression, barely capable of listening to you.::
-
-N-no, no. I'm... too angry to think.
-
-::She then walks away.::<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-You're welcome.<end>
-
-=>a19
-You're welcome.<end>
-
-=>q20_original
-::She walks away, furious.::<end>
-
-=>q20
-::She walks away, furious.::<end>
-
-=>a21_original
-Go easy on your bro.<end>
-
-=>a21
-Go easy on your bro.<end>
-
-=>a22_original
-Kids these days, sheesh.<end>
-
-=>a22
-Kids these days, sheesh.<end>
-
-=>a23_original
-Hahahahaha! ::Leave.::<end>
-
-=>a23
-Hahahahaha! ::Leave.::<end>
-
-=>a24_original
-::Just leave.::<end>
-
-=>a24
-::Just leave.::<end>
-
-=>a25_original
-How stupid can you be? Scope fluid. Scope. *Fluid*.<end>
-
-=>a25
-How stupid can you be? Scope fluid. Scope. *Fluid*.<end>
-
-=>a26_original
-Bwahahahahahaha!<end>
-
-=>a26
-Bwahahahahahaha!<end>
-
-=>q27_original
-W-what's so funny?<end>
-
-=>q27
-W-what's so funny?<end>
-
-=>a28_original
-Nothing. Good luck with finding scope fluid.<end>
-
-=>a28
-Nothing. Good luck with finding scope fluid.<end>
-
-=>q29_original
-Thanks anyway. <end>
-
-=>q29
-Thanks anyway. <end>
-
-=>q30_original
-Oh... 
-
-::She looks around for someone else to talk to.::<end>
-
-=>q30
-Oh... 
-
-::She looks around for someone else to talk to.::<end>
-
-=>a31_original
-Well, good luck with finding it. I gotta go.<end>
-
-=>a31
-Well, good luck with finding it. I gotta go.<end>
-
-=>a32_original
-Again, what the hell is scope fluid?<end>
-
-=>a32
-Again, what the hell is scope fluid?<end>
-
-=>a33_original
-Why do you need scope fluid?<end>
-
-=>a33
-Why do you need scope fluid?<end>
-
-=>a34_original
-I think someone's winding you up.<end>
-
-=>a34
-I think someone's winding you up.<end>
-
-=>q35_original
-No, no, no, <end>
-
-=>q35
-No, no, no, <end>
-
-=>a36_original
-What the hell is that?<end>
-
-=>a36
-What the hell is that?<end>
-
-=>a37_original
-No idea.<end>
-
-=>a37
-No idea.<end>
-
-=>a38_original
-I ain't got time for this. ::Leave.::<end>
-
-=>a38
-I ain't got time for this. ::Leave.::<end>
-
-=>q39_original
-::A petite young woman walks in your direction. She looks around with weary eyes while at the same time trying to keep her disheveled hair out of them.
-
-She then notices you.::
-
-Um, $(#sir/ma'am), excuse me...?<end>
-
-=>q39
-::A petite young woman walks in your direction. She looks around with weary eyes while at the same time trying to keep her disheveled hair out of them.
-
-She then notices you.::
-
-Um, $(#sir/ma'am), excuse me...?<end>
-
-=>q40_original
-<end>
-
-=>q40
-<end>
-
-=>a41_original
-You must want my autograph. Tell me, as Invictus or $(context.playerArenaTitle)? I could even just put $(context.player.Name), how's that?<end>
-
-=>a41
-You must want my autograph. Tell me, as Invictus or $(context.playerArenaTitle)? I could even just put $(context.player.Name), how's that?<end>
-
-=>q42_original
-::She gawks at you momentarily, then looks around, then back at you.:: <end>
-
-=>q42
-::She gawks at you momentarily, then looks around, then back at you.:: <end>
-
-=>q43_original
-No, no, it's, <end>
-
-=>q43
-No, no, it's, <end>
-
-=>q44_original
-I... Oh... ::She looks around again before speaking further.:: Where can I find some scope fluid?<end>
-
-=>q44
-I... Oh... ::She looks around again before speaking further.:: Where can I find some scope fluid?<end>
-
-=>a45_original
-Anyone bothering you?<end>
-
-=>a45
-Anyone bothering you?<end>
-
-=>a46_original
-Yes?<end>
-
-=>a46
-Yes?<end>
-
-=>a47_original
-I'm not buying anything.<end>
-
-=>a47
-I'm not buying anything.<end>
-
-=>a48_original
-Beat it, kid.<end>
-
-=>a48
-Beat it, kid.<end>
-
-=>a49_original
-::Ignore her.::<end>
-
-=>a49
-::Ignore her.::<end>
-
-=>q50_original
-Ummm... ::She hesitates for a moment, then continues softly.:: *...please?*<end>
-
-=>q50
-Ummm... ::She hesitates for a moment, then continues softly.:: *...please?*<end>
-
+=>q1_original
+Leave me alone. I'm *angry*!<end>
+
+=>q1
+Leave me alone. I'm *angry*!<end>
+
+=>q2_original
+Dammit, dammit, dammit!<end>
+
+=>q2
+Dammit, dammit, dammit!<end>
+
+=>q3_original
+Please, $(#sir/ma'am), do you know where I can find some scope fluid?<end>
+
+=>q3
+Please, $(#sir/ma'am), do you know where I can find some scope fluid?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Scope fluid?<end>
+
+=>a5
+Scope fluid?<end>
+
+=>q6_original
+Dammit, dammit, dammit! I've been searching for hours, went to every store in thissss... *stupid* place and no one's got it - or they're *out*! 
+
+Oh... I'm gonna kill myself if Bro doesn't do it first.<end>
+
+=>q6
+Dammit, dammit, dammit! I've been searching for hours, went to every store in thissss... *stupid* place and no one's got it - or they're *out*! 
+
+Oh... I'm gonna kill myself if Bro doesn't do it first.<end>
+
+=>a7_original
+Again, scope fluid?<end>
+
+=>a7
+Again, scope fluid?<end>
+
+=>q8_original
+It's, you know, <end>
+
+=>q8
+It's, you know, <end>
+
+=>q9_original
+my brother told me to get it. ::Her face briefly lights up.:: He, he wants to teach me how to use a crossbow, yeah, and he needs the fluid for the scope, so it'd... ::She shrugs.:: I dunno, make the image sharper, I guess.<end>
+
+=>q9
+my brother told me to get it. ::Her face briefly lights up.:: He, he wants to teach me how to use a crossbow, yeah, and he needs the fluid for the scope, so it'd... ::She shrugs.:: I dunno, make the image sharper, I guess.<end>
+
+=>q10_original
+::But then her momentary joy comes to an end.::
+
+He's gonna kill me, oh... I can't even do a simple thing!<end>
+
+=>q10
+::But then her momentary joy comes to an end.::
+
+He's gonna kill me, oh... I can't even do a simple thing!<end>
+
+=>a11_original
+Your bro's playing a prank on you. There's no such thing as scope fluid.<end>
+
+=>a11
+Your bro's playing a prank on you. There's no such thing as scope fluid.<end>
+
+=>q12_original
+A prank? <end>
+
+=>q12
+A prank? <end>
+
+=>q13_original
+But... doesn't it...?
+
+In the, uh...
+
+...inside?<end>
+
+=>q13
+But... doesn't it...?
+
+In the, uh...
+
+...inside?<end>
+
+=>q14_original
+::She blushes.:: Oh, I'm such a fool.<end>
+
+=>q14
+::She blushes.:: Oh, I'm such a fool.<end>
+
+=>q15_original
+::Now visibly angry, she shakes her head.:: *Ooooooooofff!*
+
+T... Thanks.<end>
+
+=>q15
+::Now visibly angry, she shakes her head.:: *Ooooooooofff!*
+
+T... Thanks.<end>
+
+=>a16_original
+One moment! Might not be scope fluid, but I do have a spare scope for sale, if you want one.<end>
+
+=>a16
+One moment! Might not be scope fluid, but I do have a spare scope for sale, if you want one.<end>
+
+=>q17_original
+::She stares at you with a dour expression, barely capable of listening to you.::
+
+N-no, no. I'm... too angry to think.
+
+::She then walks away.::<end>
+
+=>q17
+::She stares at you with a dour expression, barely capable of listening to you.::
+
+N-no, no. I'm... too angry to think.
+
+::She then walks away.::<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+You're welcome.<end>
+
+=>a19
+You're welcome.<end>
+
+=>q20_original
+::She walks away, furious.::<end>
+
+=>q20
+::She walks away, furious.::<end>
+
+=>a21_original
+Go easy on your bro.<end>
+
+=>a21
+Go easy on your bro.<end>
+
+=>a22_original
+Kids these days, sheesh.<end>
+
+=>a22
+Kids these days, sheesh.<end>
+
+=>a23_original
+Hahahahaha! ::Leave.::<end>
+
+=>a23
+Hahahahaha! ::Leave.::<end>
+
+=>a24_original
+::Just leave.::<end>
+
+=>a24
+::Just leave.::<end>
+
+=>a25_original
+How stupid can you be? Scope fluid. Scope. *Fluid*.<end>
+
+=>a25
+How stupid can you be? Scope fluid. Scope. *Fluid*.<end>
+
+=>a26_original
+Bwahahahahahaha!<end>
+
+=>a26
+Bwahahahahahaha!<end>
+
+=>q27_original
+W-what's so funny?<end>
+
+=>q27
+W-what's so funny?<end>
+
+=>a28_original
+Nothing. Good luck with finding scope fluid.<end>
+
+=>a28
+Nothing. Good luck with finding scope fluid.<end>
+
+=>q29_original
+Thanks anyway. <end>
+
+=>q29
+Thanks anyway. <end>
+
+=>q30_original
+Oh... 
+
+::She looks around for someone else to talk to.::<end>
+
+=>q30
+Oh... 
+
+::She looks around for someone else to talk to.::<end>
+
+=>a31_original
+Well, good luck with finding it. I gotta go.<end>
+
+=>a31
+Well, good luck with finding it. I gotta go.<end>
+
+=>a32_original
+Again, what the hell is scope fluid?<end>
+
+=>a32
+Again, what the hell is scope fluid?<end>
+
+=>a33_original
+Why do you need scope fluid?<end>
+
+=>a33
+Why do you need scope fluid?<end>
+
+=>a34_original
+I think someone's winding you up.<end>
+
+=>a34
+I think someone's winding you up.<end>
+
+=>q35_original
+No, no, no, <end>
+
+=>q35
+No, no, no, <end>
+
+=>a36_original
+What the hell is that?<end>
+
+=>a36
+What the hell is that?<end>
+
+=>a37_original
+No idea.<end>
+
+=>a37
+No idea.<end>
+
+=>a38_original
+I ain't got time for this. ::Leave.::<end>
+
+=>a38
+I ain't got time for this. ::Leave.::<end>
+
+=>q39_original
+::A petite young woman walks in your direction. She looks around with weary eyes while at the same time trying to keep her disheveled hair out of them.
+
+She then notices you.::
+
+Um, $(#sir/ma'am), excuse me...?<end>
+
+=>q39
+::A petite young woman walks in your direction. She looks around with weary eyes while at the same time trying to keep her disheveled hair out of them.
+
+She then notices you.::
+
+Um, $(#sir/ma'am), excuse me...?<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+You must want my autograph. Tell me, as Invictus or $(context.playerArenaTitle)? I could even just put $(context.player.Name), how's that?<end>
+
+=>a41
+You must want my autograph. Tell me, as Invictus or $(context.playerArenaTitle)? I could even just put $(context.player.Name), how's that?<end>
+
+=>q42_original
+::She gawks at you momentarily, then looks around, then back at you.:: <end>
+
+=>q42
+::She gawks at you momentarily, then looks around, then back at you.:: <end>
+
+=>q43_original
+No, no, it's, <end>
+
+=>q43
+No, no, it's, <end>
+
+=>q44_original
+I... Oh... ::She looks around again before speaking further.:: Where can I find some scope fluid?<end>
+
+=>q44
+I... Oh... ::She looks around again before speaking further.:: Where can I find some scope fluid?<end>
+
+=>a45_original
+Anyone bothering you?<end>
+
+=>a45
+Anyone bothering you?<end>
+
+=>a46_original
+Yes?<end>
+
+=>a46
+Yes?<end>
+
+=>a47_original
+I'm not buying anything.<end>
+
+=>a47
+I'm not buying anything.<end>
+
+=>a48_original
+Beat it, kid.<end>
+
+=>a48
+Beat it, kid.<end>
+
+=>a49_original
+::Ignore her.::<end>
+
+=>a49
+::Ignore her.::<end>
+
+=>q50_original
+Ummm... ::She hesitates for a moment, then continues softly.:: *...please?*<end>
+
+=>q50
+Ummm... ::She hesitates for a moment, then continues softly.:: *...please?*<end>
+

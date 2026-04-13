@@ -1,296 +1,296 @@
-=>q1_original
-I'm sorry I almost killed ya, $(#sir/ma'am)...<end>
-
-=>q1
-I'm sorry I almost killed ya, $(#sir/ma'am)...<end>
-
-=>q2_original
-::You approach a man working on a console next to one of the Dreadnoughts. The oil splotches on his coveralls quickly yank your attention toward them; the more and more you stare, the more separate and interesting shapes you manage to identify: There's a three-legged rathound, a mushroom, a stalagmite, a bat, a blob and a larger blob. However, you are interrupted when the man notices you staring at his clothes.::
-
-Whatcha... whatcha doing there, $(#sir/ma'am)?<end>
-
-=>q2
-::You approach a man working on a console next to one of the Dreadnoughts. The oil splotches on his coveralls quickly yank your attention toward them; the more and more you stare, the more separate and interesting shapes you manage to identify: There's a three-legged rathound, a mushroom, a stalagmite, a bat, a blob and a larger blob. However, you are interrupted when the man notices you staring at his clothes.::
-
-Whatcha... whatcha doing there, $(#sir/ma'am)?<end>
-
-=>a3_original
-The oil splotches on your overalls form some truly interesting shapes.<end>
-
-=>a3
-The oil splotches on your overalls form some truly interesting shapes.<end>
-
-=>q4_original
-::He laughs, revealing the few teeth he's got.:: Look over 'ere: I found Staff Sergeant Fraser on me bum! Somehow, some oil spilled on a chair, 'n' I sat on it. ::He shows you an ugly blot on his rear, one that looks like a man with a greatly oversized nose.::<end>
-
-=>q4
-::He laughs, revealing the few teeth he's got.:: Look over 'ere: I found Staff Sergeant Fraser on me bum! Somehow, some oil spilled on a chair, 'n' I sat on it. ::He shows you an ugly blot on his rear, one that looks like a man with a greatly oversized nose.::<end>
-
-=>a5_original
-Look at that beak!<end>
-
-=>a5
-Look at that beak!<end>
-
-=>q6_original
-::He laughs.:: That's what I thought at first. O', best blot ever!
-
-Hey, name's Will, $(#sir/ma'am).<end>
-
-=>q6
-::He laughs.:: That's what I thought at first. O', best blot ever!
-
-Hey, name's Will, $(#sir/ma'am).<end>
-
-=>a7_original
-I have some questions for you, Will.<end>
-
-=>a7
-I have some questions for you, Will.<end>
-
-=>q8_original
-I'm afraid, I don't have much time to chat, $(#sir/ma'am). If ya need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
-
-=>q8
-I'm afraid, I don't have much time to chat, $(#sir/ma'am). If ya need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-I need this mutagen cans rigged in a specific way. Can you help me?<end>
-
-=>a10
-I need this mutagen cans rigged in a specific way. Can you help me?<end>
-
-=>q11_original
-::He inspects the cans.:: But - this is mutagen!<end>
-
-=>q11
-::He inspects the cans.:: But - this is mutagen!<end>
-
-=>a12_original
-Yes, can you help me?<end>
-
-=>a12
-Yes, can you help me?<end>
-
-=>q13_original
-I can, $(#sir/ma'am), I just need to know what ya need, exactly.<end>
-
-=>q13
-I can, $(#sir/ma'am), I just need to know what ya need, exactly.<end>
-
-=>a14_original
-I need you to create a mechanism that will release the gas from these two cans *exactly* one minute after it's been activated. Of course, that means you have to bind them together.<end>
-
-=>a14
-I need you to create a mechanism that will release the gas from these two cans *exactly* one minute after it's been activated. Of course, that means you have to bind them together.<end>
-
-=>q15_original
-::Will carefully inspects the cans.:: 'Kay, $(#sir/ma'am), I can do it. It'll take some time. Ya don't mind waitin'?<end>
-
-=>q15
-::Will carefully inspects the cans.:: 'Kay, $(#sir/ma'am), I can do it. It'll take some time. Ya don't mind waitin'?<end>
-
-=>a16_original
-Not at all, Will. ::Wait.::<end>
-
-=>a16
-Not at all, Will. ::Wait.::<end>
-
-=>q17_original
-::Fortunately for you, Will finishes the job quickly. He checks once again to see if everything is connected properly then hands you the rigged mutagen cans.::
-
-'Ere ya go, $(#sir/ma'am). Just as ya told me.<end>
-
-=>q17
-::Fortunately for you, Will finishes the job quickly. He checks once again to see if everything is connected properly then hands you the rigged mutagen cans.::
-
-'Ere ya go, $(#sir/ma'am). Just as ya told me.<end>
-
-=>a18_original
-Thank you very much. See you around, Will.<end>
-
-=>a18
-Thank you very much. See you around, Will.<end>
-
-=>q19_original
-::He stops you as you try to leave.:: Excuse me, $(#sir/ma'am)... it's, um... I had a question, if ya don't mind me askin'.
-
-What's it for?<end>
-
-=>q19
-::He stops you as you try to leave.:: Excuse me, $(#sir/ma'am)... it's, um... I had a question, if ya don't mind me askin'.
-
-What's it for?<end>
-
-=>a20_original
-This? I'm gonna use it to kill some Free Drones, Will. Take care.<end>
-
-=>a20
-This? I'm gonna use it to kill some Free Drones, Will. Take care.<end>
-
-=>q21_original
-O', well good luck with that, $(#sir/ma'am)!<end>
-
-=>q21
-O', well good luck with that, $(#sir/ma'am)!<end>
-
-=>a22_original
-I can't tell you, Will. It's top secret. Take care.<end>
-
-=>a22
-I can't tell you, Will. It's top secret. Take care.<end>
-
-=>q23_original
-If ya say so, $(#sir/ma'am). Good luck anyway.<end>
-
-=>q23
-If ya say so, $(#sir/ma'am). Good luck anyway.<end>
-
-=>a24_original
-I thought I said goodbye, Will.<end>
-
-=>a24
-I thought I said goodbye, Will.<end>
-
-=>q25_original
-$(#Sir/Ma'am). ::He nods before turning around and continuing his work.::<end>
-
-=>q25
-$(#Sir/Ma'am). ::He nods before turning around and continuing his work.::<end>
-
-=>a26_original
-That's what I said, Will. Can you help me?<end>
-
-=>a26
-That's what I said, Will. Can you help me?<end>
-
-=>a27_original
-Yes, about the questions I had...<end>
-
-=>a27
-Yes, about the questions I had...<end>
-
-=>q28_original
-Sorry, $(#sir/ma'am). No time to chat, lots o' work.<end>
-
-=>q28
-Sorry, $(#sir/ma'am). No time to chat, lots o' work.<end>
-
-=>q29_original
-Although... me tummy is showing signs of emptiness...<end>
-
-=>q29
-Although... me tummy is showing signs of emptiness...<end>
-
-=>q30_original
-No, no... I'll eat later. Gotta finish this thing 'ere.<end>
-
-=>q30
-No, no... I'll eat later. Gotta finish this thing 'ere.<end>
-
-=>a31_original
-Damn it, Will! You nearly killed me!<end>
-
-=>a31
-Damn it, Will! You nearly killed me!<end>
-
-=>q32_original
-::Will turns pale. It takes a moment for him to answer with a trembling voice.:: Almost killed ya? No, no, no! Wha-- what did I do wrong?<end>
-
-=>q32
-::Will turns pale. It takes a moment for him to answer with a trembling voice.:: Almost killed ya? No, no, no! Wha-- what did I do wrong?<end>
-
-=>a33_original
-You messed up the mutagen timer or something like that. It went off as soon as I activated it. I specifically instructed you to make it release the gas exactly one minute after activation.<end>
-
-=>a33
-You messed up the mutagen timer or something like that. It went off as soon as I activated it. I specifically instructed you to make it release the gas exactly one minute after activation.<end>
-
-=>q34_original
-But... That's what I did, $(#sir/ma'am). Or, at least I though I did... Please forgive me, it was a mistake, $(#sir/ma'am). Please! I didn't mean to kill ya... Please forgive me! I'm sorry I messed up!<end>
-
-=>q34
-But... That's what I did, $(#sir/ma'am). Or, at least I though I did... Please forgive me, it was a mistake, $(#sir/ma'am). Please! I didn't mean to kill ya... Please forgive me! I'm sorry I messed up!<end>
-
-=>a35_original
-Look, I forgive you. Just don't expect me to ask for your help again, okay? Goodbye, Will. Take care.<end>
-
-=>a35
-Look, I forgive you. Just don't expect me to ask for your help again, okay? Goodbye, Will. Take care.<end>
-
-=>q36_original
-Thank you, $(#sir/ma'am), thank you. Ya, ya take care too. ::You see the color slowly returning to his face. After a second or two, he turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
-
-=>q36
-Thank you, $(#sir/ma'am), thank you. Ya, ya take care too. ::You see the color slowly returning to his face. After a second or two, he turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
-
-=>a37_original
-You're an incompetent idiot, Will. I will report what happened here. We'll see how that works out for ya. Goodbye.<end>
-
-=>a37
-You're an incompetent idiot, Will. I will report what happened here. We'll see how that works out for ya. Goodbye.<end>
-
-=>q38_original
-::Pale and speechless, Will lethargically turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
-
-=>q38
-::Pale and speechless, Will lethargically turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
-
-=>a39_original
-I'll leave you to your work, Will.<end>
-
-=>a39
-I'll leave you to your work, Will.<end>
-
-=>a40_original
-That is very rude of you. Staff Sergeant's nose is not *that* big.<end>
-
-=>a40
-That is very rude of you. Staff Sergeant's nose is not *that* big.<end>
-
-=>q41_original
-::He laughs.:: Still, it's very close! Look at it, it's huge!
-
-By the way, name's Will, $(#sir/ma'am).<end>
-
-=>q41
-::He laughs.:: Still, it's very close! Look at it, it's huge!
-
-By the way, name's Will, $(#sir/ma'am).<end>
-
-=>a42_original
-Okay, let's stop right here. Tell me your name?<end>
-
-=>a42
-Okay, let's stop right here. Tell me your name?<end>
-
-=>q43_original
-::The man slightly bows his head.:: It's Will, $(#sir/ma'am)... I was merely joking, didn't mean no harm. It's just for fun, you know.<end>
-
-=>q43
-::The man slightly bows his head.:: It's Will, $(#sir/ma'am)... I was merely joking, didn't mean no harm. It's just for fun, you know.<end>
-
-=>a44_original
-Oh... Nothing, nothing. I had some questions for you.<end>
-
-=>a44
-Oh... Nothing, nothing. I had some questions for you.<end>
-
-=>q45_original
-Will's the name, $(#sir/ma'am). I'd love to chat, but I got lots o' work to do. If you need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
-
-=>q45
-Will's the name, $(#sir/ma'am). I'd love to chat, but I got lots o' work to do. If you need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
-
-=>q46_original
-Need help with somethin', $(#sir/ma'am)?<end>
-
-=>q46
-Need help with somethin', $(#sir/ma'am)?<end>
-
+=>q1_original
+I'm sorry I almost killed ya, $(#sir/ma'am)...<end>
+
+=>q1
+I'm sorry I almost killed ya, $(#sir/ma'am)...<end>
+
+=>q2_original
+::You approach a man working on a console next to one of the Dreadnoughts. The oil splotches on his coveralls quickly yank your attention toward them; the more and more you stare, the more separate and interesting shapes you manage to identify: There's a three-legged rathound, a mushroom, a stalagmite, a bat, a blob and a larger blob. However, you are interrupted when the man notices you staring at his clothes.::
+
+Whatcha... whatcha doing there, $(#sir/ma'am)?<end>
+
+=>q2
+::You approach a man working on a console next to one of the Dreadnoughts. The oil splotches on his coveralls quickly yank your attention toward them; the more and more you stare, the more separate and interesting shapes you manage to identify: There's a three-legged rathound, a mushroom, a stalagmite, a bat, a blob and a larger blob. However, you are interrupted when the man notices you staring at his clothes.::
+
+Whatcha... whatcha doing there, $(#sir/ma'am)?<end>
+
+=>a3_original
+The oil splotches on your overalls form some truly interesting shapes.<end>
+
+=>a3
+The oil splotches on your overalls form some truly interesting shapes.<end>
+
+=>q4_original
+::He laughs, revealing the few teeth he's got.:: Look over 'ere: I found Staff Sergeant Fraser on me bum! Somehow, some oil spilled on a chair, 'n' I sat on it. ::He shows you an ugly blot on his rear, one that looks like a man with a greatly oversized nose.::<end>
+
+=>q4
+::He laughs, revealing the few teeth he's got.:: Look over 'ere: I found Staff Sergeant Fraser on me bum! Somehow, some oil spilled on a chair, 'n' I sat on it. ::He shows you an ugly blot on his rear, one that looks like a man with a greatly oversized nose.::<end>
+
+=>a5_original
+Look at that beak!<end>
+
+=>a5
+Look at that beak!<end>
+
+=>q6_original
+::He laughs.:: That's what I thought at first. O', best blot ever!
+
+Hey, name's Will, $(#sir/ma'am).<end>
+
+=>q6
+::He laughs.:: That's what I thought at first. O', best blot ever!
+
+Hey, name's Will, $(#sir/ma'am).<end>
+
+=>a7_original
+I have some questions for you, Will.<end>
+
+=>a7
+I have some questions for you, Will.<end>
+
+=>q8_original
+I'm afraid, I don't have much time to chat, $(#sir/ma'am). If ya need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
+
+=>q8
+I'm afraid, I don't have much time to chat, $(#sir/ma'am). If ya need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+I need this mutagen cans rigged in a specific way. Can you help me?<end>
+
+=>a10
+I need this mutagen cans rigged in a specific way. Can you help me?<end>
+
+=>q11_original
+::He inspects the cans.:: But - this is mutagen!<end>
+
+=>q11
+::He inspects the cans.:: But - this is mutagen!<end>
+
+=>a12_original
+Yes, can you help me?<end>
+
+=>a12
+Yes, can you help me?<end>
+
+=>q13_original
+I can, $(#sir/ma'am), I just need to know what ya need, exactly.<end>
+
+=>q13
+I can, $(#sir/ma'am), I just need to know what ya need, exactly.<end>
+
+=>a14_original
+I need you to create a mechanism that will release the gas from these two cans *exactly* one minute after it's been activated. Of course, that means you have to bind them together.<end>
+
+=>a14
+I need you to create a mechanism that will release the gas from these two cans *exactly* one minute after it's been activated. Of course, that means you have to bind them together.<end>
+
+=>q15_original
+::Will carefully inspects the cans.:: 'Kay, $(#sir/ma'am), I can do it. It'll take some time. Ya don't mind waitin'?<end>
+
+=>q15
+::Will carefully inspects the cans.:: 'Kay, $(#sir/ma'am), I can do it. It'll take some time. Ya don't mind waitin'?<end>
+
+=>a16_original
+Not at all, Will. ::Wait.::<end>
+
+=>a16
+Not at all, Will. ::Wait.::<end>
+
+=>q17_original
+::Fortunately for you, Will finishes the job quickly. He checks once again to see if everything is connected properly then hands you the rigged mutagen cans.::
+
+'Ere ya go, $(#sir/ma'am). Just as ya told me.<end>
+
+=>q17
+::Fortunately for you, Will finishes the job quickly. He checks once again to see if everything is connected properly then hands you the rigged mutagen cans.::
+
+'Ere ya go, $(#sir/ma'am). Just as ya told me.<end>
+
+=>a18_original
+Thank you very much. See you around, Will.<end>
+
+=>a18
+Thank you very much. See you around, Will.<end>
+
+=>q19_original
+::He stops you as you try to leave.:: Excuse me, $(#sir/ma'am)... it's, um... I had a question, if ya don't mind me askin'.
+
+What's it for?<end>
+
+=>q19
+::He stops you as you try to leave.:: Excuse me, $(#sir/ma'am)... it's, um... I had a question, if ya don't mind me askin'.
+
+What's it for?<end>
+
+=>a20_original
+This? I'm gonna use it to kill some Free Drones, Will. Take care.<end>
+
+=>a20
+This? I'm gonna use it to kill some Free Drones, Will. Take care.<end>
+
+=>q21_original
+O', well good luck with that, $(#sir/ma'am)!<end>
+
+=>q21
+O', well good luck with that, $(#sir/ma'am)!<end>
+
+=>a22_original
+I can't tell you, Will. It's top secret. Take care.<end>
+
+=>a22
+I can't tell you, Will. It's top secret. Take care.<end>
+
+=>q23_original
+If ya say so, $(#sir/ma'am). Good luck anyway.<end>
+
+=>q23
+If ya say so, $(#sir/ma'am). Good luck anyway.<end>
+
+=>a24_original
+I thought I said goodbye, Will.<end>
+
+=>a24
+I thought I said goodbye, Will.<end>
+
+=>q25_original
+$(#Sir/Ma'am). ::He nods before turning around and continuing his work.::<end>
+
+=>q25
+$(#Sir/Ma'am). ::He nods before turning around and continuing his work.::<end>
+
+=>a26_original
+That's what I said, Will. Can you help me?<end>
+
+=>a26
+That's what I said, Will. Can you help me?<end>
+
+=>a27_original
+Yes, about the questions I had...<end>
+
+=>a27
+Yes, about the questions I had...<end>
+
+=>q28_original
+Sorry, $(#sir/ma'am). No time to chat, lots o' work.<end>
+
+=>q28
+Sorry, $(#sir/ma'am). No time to chat, lots o' work.<end>
+
+=>q29_original
+Although... me tummy is showing signs of emptiness...<end>
+
+=>q29
+Although... me tummy is showing signs of emptiness...<end>
+
+=>q30_original
+No, no... I'll eat later. Gotta finish this thing 'ere.<end>
+
+=>q30
+No, no... I'll eat later. Gotta finish this thing 'ere.<end>
+
+=>a31_original
+Damn it, Will! You nearly killed me!<end>
+
+=>a31
+Damn it, Will! You nearly killed me!<end>
+
+=>q32_original
+::Will turns pale. It takes a moment for him to answer with a trembling voice.:: Almost killed ya? No, no, no! Wha-- what did I do wrong?<end>
+
+=>q32
+::Will turns pale. It takes a moment for him to answer with a trembling voice.:: Almost killed ya? No, no, no! Wha-- what did I do wrong?<end>
+
+=>a33_original
+You messed up the mutagen timer or something like that. It went off as soon as I activated it. I specifically instructed you to make it release the gas exactly one minute after activation.<end>
+
+=>a33
+You messed up the mutagen timer or something like that. It went off as soon as I activated it. I specifically instructed you to make it release the gas exactly one minute after activation.<end>
+
+=>q34_original
+But... That's what I did, $(#sir/ma'am). Or, at least I though I did... Please forgive me, it was a mistake, $(#sir/ma'am). Please! I didn't mean to kill ya... Please forgive me! I'm sorry I messed up!<end>
+
+=>q34
+But... That's what I did, $(#sir/ma'am). Or, at least I though I did... Please forgive me, it was a mistake, $(#sir/ma'am). Please! I didn't mean to kill ya... Please forgive me! I'm sorry I messed up!<end>
+
+=>a35_original
+Look, I forgive you. Just don't expect me to ask for your help again, okay? Goodbye, Will. Take care.<end>
+
+=>a35
+Look, I forgive you. Just don't expect me to ask for your help again, okay? Goodbye, Will. Take care.<end>
+
+=>q36_original
+Thank you, $(#sir/ma'am), thank you. Ya, ya take care too. ::You see the color slowly returning to his face. After a second or two, he turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
+
+=>q36
+Thank you, $(#sir/ma'am), thank you. Ya, ya take care too. ::You see the color slowly returning to his face. After a second or two, he turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
+
+=>a37_original
+You're an incompetent idiot, Will. I will report what happened here. We'll see how that works out for ya. Goodbye.<end>
+
+=>a37
+You're an incompetent idiot, Will. I will report what happened here. We'll see how that works out for ya. Goodbye.<end>
+
+=>q38_original
+::Pale and speechless, Will lethargically turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
+
+=>q38
+::Pale and speechless, Will lethargically turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
+
+=>a39_original
+I'll leave you to your work, Will.<end>
+
+=>a39
+I'll leave you to your work, Will.<end>
+
+=>a40_original
+That is very rude of you. Staff Sergeant's nose is not *that* big.<end>
+
+=>a40
+That is very rude of you. Staff Sergeant's nose is not *that* big.<end>
+
+=>q41_original
+::He laughs.:: Still, it's very close! Look at it, it's huge!
+
+By the way, name's Will, $(#sir/ma'am).<end>
+
+=>q41
+::He laughs.:: Still, it's very close! Look at it, it's huge!
+
+By the way, name's Will, $(#sir/ma'am).<end>
+
+=>a42_original
+Okay, let's stop right here. Tell me your name?<end>
+
+=>a42
+Okay, let's stop right here. Tell me your name?<end>
+
+=>q43_original
+::The man slightly bows his head.:: It's Will, $(#sir/ma'am)... I was merely joking, didn't mean no harm. It's just for fun, you know.<end>
+
+=>q43
+::The man slightly bows his head.:: It's Will, $(#sir/ma'am)... I was merely joking, didn't mean no harm. It's just for fun, you know.<end>
+
+=>a44_original
+Oh... Nothing, nothing. I had some questions for you.<end>
+
+=>a44
+Oh... Nothing, nothing. I had some questions for you.<end>
+
+=>q45_original
+Will's the name, $(#sir/ma'am). I'd love to chat, but I got lots o' work to do. If you need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
+
+=>q45
+Will's the name, $(#sir/ma'am). I'd love to chat, but I got lots o' work to do. If you need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
+
+=>q46_original
+Need help with somethin', $(#sir/ma'am)?<end>
+
+=>q46
+Need help with somethin', $(#sir/ma'am)?<end>
+

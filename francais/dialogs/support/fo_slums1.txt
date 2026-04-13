@@ -1,48 +1,48 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Look at you, pretty $(#boy/girl), walkin' around like you're the boss of the place. ::Coughs.::<end>
-
-=>q2
-Look at you, pretty $(#boy/girl), walkin' around like you're the boss of the place. ::Coughs.::<end>
-
-=>q3_original
-You... you look so tender and... *so* delicious.<end>
-
-=>q3
-You... you look so tender and... *so* delicious.<end>
-
-=>q4_original
-Nice face you got there. It would be a shame if someone was to eat it. ::Coughs.::<end>
-
-=>q4
-Nice face you got there. It would be a shame if someone was to eat it. ::Coughs.::<end>
-
-=>q5_original
-Old Mike got his right arm and leg bitten off the other day and died from bleedin'. Poor man.<end>
-
-=>q5
-Old Mike got his right arm and leg bitten off the other day and died from bleedin'. Poor man.<end>
-
-=>q6_original
-::The bum gives you a voracious stare.::<end>
-
-=>q6
-::The bum gives you a voracious stare.::<end>
-
-=>q7_original
-I'm so hungry I could kill a man and eat him whole. $(#/Or a woman...)<end>
-
-=>q7
-I'm so hungry I could kill a man and eat him whole. $(#/Or a woman...)<end>
-
-=>q8_original
-My mother always told me not to play with my food. I'd take 'er advice if I had any.<end>
-
-=>q8
-My mother always told me not to play with my food. I'd take 'er advice if I had any.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Look at you, pretty $(#boy/girl), walkin' around like you're the boss of the place. ::Coughs.::<end>
+
+=>q2
+Look at you, pretty $(#boy/girl), walkin' around like you're the boss of the place. ::Coughs.::<end>
+
+=>q3_original
+You... you look so tender and... *so* delicious.<end>
+
+=>q3
+You... you look so tender and... *so* delicious.<end>
+
+=>q4_original
+Nice face you got there. It would be a shame if someone was to eat it. ::Coughs.::<end>
+
+=>q4
+Nice face you got there. It would be a shame if someone was to eat it. ::Coughs.::<end>
+
+=>q5_original
+Old Mike got his right arm and leg bitten off the other day and died from bleedin'. Poor man.<end>
+
+=>q5
+Old Mike got his right arm and leg bitten off the other day and died from bleedin'. Poor man.<end>
+
+=>q6_original
+::The bum gives you a voracious stare.::<end>
+
+=>q6
+::The bum gives you a voracious stare.::<end>
+
+=>q7_original
+I'm so hungry I could kill a man and eat him whole. $(#/Or a woman...)<end>
+
+=>q7
+I'm so hungry I could kill a man and eat him whole. $(#/Or a woman...)<end>
+
+=>q8_original
+My mother always told me not to play with my food. I'd take 'er advice if I had any.<end>
+
+=>q8
+My mother always told me not to play with my food. I'd take 'er advice if I had any.<end>
+

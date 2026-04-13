@@ -1,36 +1,36 @@
-=>q1_original
-::Even though it isn't immediately obvious, there is a small gap between the piled up rocks and the cave wall. Upon closer inspection it seems like the gap is just wide enough for you to go through.::<end>
-
-=>q1
-::Even though it isn't immediately obvious, there is a small gap between the piled up rocks and the cave wall. Upon closer inspection it seems like the gap is just wide enough for you to go through.::<end>
-
-=>a2_original
-::Squeeze through the gap.::<end>
-
-=>a2
-::Squeeze through the gap.::<end>
-
-=>q3_original
-::You manage to reach the other side.::<end>
-
-=>q3
-::You manage to reach the other side.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-::Leave.::<end>
-
-=>a6
-::Leave.::<end>
-
+=>q1_original
+::Even though it isn't immediately obvious, there is a small gap between the piled up rocks and the cave wall. Upon closer inspection it seems like the gap is just wide enough for you to go through.::<end>
+
+=>q1
+::Even though it isn't immediately obvious, there is a small gap between the piled up rocks and the cave wall. Upon closer inspection it seems like the gap is just wide enough for you to go through.::<end>
+
+=>a2_original
+::Squeeze through the gap.::<end>
+
+=>a2
+::Squeeze through the gap.::<end>
+
+=>q3_original
+::You manage to reach the other side.::<end>
+
+=>q3
+::You manage to reach the other side.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Leave.::<end>
+
+=>a6
+::Leave.::<end>
+

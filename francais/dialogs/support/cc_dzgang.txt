@@ -1,30 +1,30 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Beat it, pipeworker!<end>
-
-=>q2
-Beat it, pipeworker!<end>
-
-=>q3_original
-Zone out!<end>
-
-=>q3
-Zone out!<end>
-
-=>q4_original
-Drop off!<end>
-
-=>q4
-Drop off!<end>
-
-=>q5_original
-Get outta here!<end>
-
-=>q5
-Get outta here!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Beat it, pipeworker!<end>
+
+=>q2
+Beat it, pipeworker!<end>
+
+=>q3_original
+Zone out!<end>
+
+=>q3
+Zone out!<end>
+
+=>q4_original
+Drop off!<end>
+
+=>q4
+Drop off!<end>
+
+=>q5_original
+Get outta here!<end>
+
+=>q5
+Get outta here!<end>
+

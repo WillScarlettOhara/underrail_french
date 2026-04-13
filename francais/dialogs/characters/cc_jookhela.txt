@@ -1,90 +1,90 @@
-=>q1_original
-::An imposing silver-furred rathound stands before you in all its glory.::<end>
-
-=>q1
-::An imposing silver-furred rathound stands before you in all its glory.::<end>
-
-=>q2_original
-::Its red eyes stare at you with noticeable apprehension. Something about your appearance is confusing the creature.::<end>
-
-=>q2
-::Its red eyes stare at you with noticeable apprehension. Something about your appearance is confusing the creature.::<end>
-
-=>q3_original
- ::You can sense that this creature is psionically active.::<end>
-
-=>q3
- ::You can sense that this creature is psionically active.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::Strut your stuff in an attempt to establish dominance.::<end>
-
-=>a5
-::Strut your stuff in an attempt to establish dominance.::<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>q7_original
-::The creature backs up a few steps. It stops growling and lowers its head in, what you assume, is an act of submission.::<end>
-
-=>q7
-::The creature backs up a few steps. It stops growling and lowers its head in, what you assume, is an act of submission.::<end>
-
-=>q8_original
-::After a few moments, the creature takes off.::<end>
-
-=>q8
-::After a few moments, the creature takes off.::<end>
-
-=>q9_original
-::Your feeble attempts at looking more menacing than a giant rathound only make the creature angrier.::<end>
-
-=>q9
-::Your feeble attempts at looking more menacing than a giant rathound only make the creature angrier.::<end>
-
-=>a10_original
-::Fight!::<end>
-
-=>a10
-::Fight!::<end>
-
-=>a11_original
-::Try to establish dominance telepathically.::<end>
-
-=>a11
-::Try to establish dominance telepathically.::<end>
-
-=>q12_original
-::You lock into a mental struggle with the creature and manage to subdue it.::<end>
-
-=>q12
-::You lock into a mental struggle with the creature and manage to subdue it.::<end>
-
-=>q13_original
-::You lock into a mental struggle with the creature, but unfortunately it comes up on top, angrier than before.::<end>
-
-=>q13
-::You lock into a mental struggle with the creature, but unfortunately it comes up on top, angrier than before.::<end>
-
-=>q14_original
-::Its red eyes are glaring at you as it growls aggressively.::<end>
-
-=>q14
-::Its red eyes are glaring at you as it growls aggressively.::<end>
-
-=>q15_original
-::It watches you passively for a moment before going back to what it was doing.::<end>
-
-=>q15
-::It watches you passively for a moment before going back to what it was doing.::<end>
-
+=>q1_original
+::An imposing silver-furred rathound stands before you in all its glory.::<end>
+
+=>q1
+::An imposing silver-furred rathound stands before you in all its glory.::<end>
+
+=>q2_original
+::Its red eyes stare at you with noticeable apprehension. Something about your appearance is confusing the creature.::<end>
+
+=>q2
+::Its red eyes stare at you with noticeable apprehension. Something about your appearance is confusing the creature.::<end>
+
+=>q3_original
+ ::You can sense that this creature is psionically active.::<end>
+
+=>q3
+ ::You can sense that this creature is psionically active.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Strut your stuff in an attempt to establish dominance.::<end>
+
+=>a5
+::Strut your stuff in an attempt to establish dominance.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+::The creature backs up a few steps. It stops growling and lowers its head in, what you assume, is an act of submission.::<end>
+
+=>q7
+::The creature backs up a few steps. It stops growling and lowers its head in, what you assume, is an act of submission.::<end>
+
+=>q8_original
+::After a few moments, the creature takes off.::<end>
+
+=>q8
+::After a few moments, the creature takes off.::<end>
+
+=>q9_original
+::Your feeble attempts at looking more menacing than a giant rathound only make the creature angrier.::<end>
+
+=>q9
+::Your feeble attempts at looking more menacing than a giant rathound only make the creature angrier.::<end>
+
+=>a10_original
+::Fight!::<end>
+
+=>a10
+::Fight!::<end>
+
+=>a11_original
+::Try to establish dominance telepathically.::<end>
+
+=>a11
+::Try to establish dominance telepathically.::<end>
+
+=>q12_original
+::You lock into a mental struggle with the creature and manage to subdue it.::<end>
+
+=>q12
+::You lock into a mental struggle with the creature and manage to subdue it.::<end>
+
+=>q13_original
+::You lock into a mental struggle with the creature, but unfortunately it comes up on top, angrier than before.::<end>
+
+=>q13
+::You lock into a mental struggle with the creature, but unfortunately it comes up on top, angrier than before.::<end>
+
+=>q14_original
+::Its red eyes are glaring at you as it growls aggressively.::<end>
+
+=>q14
+::Its red eyes are glaring at you as it growls aggressively.::<end>
+
+=>q15_original
+::It watches you passively for a moment before going back to what it was doing.::<end>
+
+=>q15
+::It watches you passively for a moment before going back to what it was doing.::<end>
+

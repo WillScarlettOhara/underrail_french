@@ -1,392 +1,392 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-When Tanner disappears, then everyone's asking questions; when I disappear - meh.<end>
-
-=>q2
-When Tanner disappears, then everyone's asking questions; when I disappear - meh.<end>
-
-=>q3_original
-Cheers, $(context.player.Name).<end>
-
-=>q3
-Cheers, $(context.player.Name).<end>
-
-=>q4_original
-Saved anyone else lately?<end>
-
-=>q4
-Saved anyone else lately?<end>
-
-=>q5_original
-Vencel recommended I try Arlene's cooked psi bugger meat. Is he a moron or what?<end>
-
-=>q5
-Vencel recommended I try Arlene's cooked psi bugger meat. Is he a moron or what?<end>
-
-=>q6_original
-Did you hear? The Faceless are gone! Cheers!<end>
-
-=>q6
-Did you hear? The Faceless are gone! Cheers!<end>
-
-=>q7_original
-I heard you went to GMS. How'd it go?<end>
-
-=>q7
-I heard you went to GMS. How'd it go?<end>
-
-=>q8_original
-Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.<end>
-
-=>q8
-Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.<end>
-
-=>q9_original
-$(context.player.Name). ::Raises a glass.::<end>
-
-=>q9
-$(context.player.Name). ::Raises a glass.::<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>q11_original
-You're back. Bummer. And I am not a wussy.<end>
-
-=>q11
-You're back. Bummer. And I am not a wussy.<end>
-
-=>q12_original
-Leave me alone. I'm not a wussy, damn it!<end>
-
-=>q12
-Leave me alone. I'm not a wussy, damn it!<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>q14_original
-I am not a wussy!<end>
-
-=>q14
-I am not a wussy!<end>
-
-=>a15_original
-Oh, you're the wussiest wuss in existence. One wuss to rule them all.<end>
-
-=>a15
-Oh, you're the wussiest wuss in existence. One wuss to rule them all.<end>
-
-=>q16_original
-You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!<end>
-
-=>q16
-You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!<end>
-
-=>q17_original
-Go scrub your colon with a stalagmite! Leave me alone!<end>
-
-=>q17
-Go scrub your colon with a stalagmite! Leave me alone!<end>
-
-=>a18_original
-I'm sorry about that. I'm never going to call you a wussy again.<end>
-
-=>a18
-I'm sorry about that. I'm never going to call you a wussy again.<end>
-
-=>q19_original
-You swear?<end>
-
-=>q19
-You swear?<end>
-
-=>a20_original
-Yes.<end>
-
-=>a20
-Yes.<end>
-
-=>q21_original
-Okay. We are good. You saved my life and will not call me a wussy again. We are good.<end>
-
-=>q21
-Okay. We are good. You saved my life and will not call me a wussy again. We are good.<end>
-
-=>q22_original
-<end>
-
-=>q22
-<end>
-
-=>a23_original
-How are you feeling, man?<end>
-
-=>a23
-How are you feeling, man?<end>
-
-=>q24_original
-Better. The leg's still hurting from time to time, but I'll soon be as good as new-ton. ::He laughs.:: As you can see, I'm kinda relaxing here with the rest.<end>
-
-=>q24
-Better. The leg's still hurting from time to time, but I'll soon be as good as new-ton. ::He laughs.:: As you can see, I'm kinda relaxing here with the rest.<end>
-
-=>a25_original
-You do that. Take care of yourself.<end>
-
-=>a25
-You do that. Take care of yourself.<end>
-
-=>q26_original
-Thanks. I will. Cheers!<end>
-
-=>q26
-Thanks. I will. Cheers!<end>
-
-=>a27_original
-What a wussy. See you around.<end>
-
-=>a27
-What a wussy. See you around.<end>
-
-=>q28_original
-No, I'm--<end>
-
-=>q28
-No, I'm--<end>
-
-=>a29_original
-::Leave.::<end>
-
-=>a29
-::Leave.::<end>
-
-=>a30_original
-I just came here to tell you you're a wussy. See you around.<end>
-
-=>a30
-I just came here to tell you you're a wussy. See you around.<end>
-
-=>q31_original
-Wha--?<end>
-
-=>q31
-Wha--?<end>
-
-=>a32_original
-Wussy.<end>
-
-=>a32
-Wussy.<end>
-
-=>q33_original
-::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I never got to thank you properly.<end>
-
-=>q33
-::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I never got to thank you properly.<end>
-
-=>q34_original
-I'm not a wussy!<end>
-
-=>q34
-I'm not a wussy!<end>
-
-=>a35_original
-I apologize, you're not. I don't even know why I said that.<end>
-
-=>a35
-I apologize, you're not. I don't even know why I said that.<end>
-
-=>q36_original
-Oh. Good. I need to rest now. If you'd leave me alone now, please.<end>
-
-=>q36
-Oh. Good. I need to rest now. If you'd leave me alone now, please.<end>
-
-=>a37_original
-Yes, you are. Wussy!<end>
-
-=>a37
-Yes, you are. Wussy!<end>
-
-=>q38_original
-$(context.player.Name)?<end>
-
-=>q38
-$(context.player.Name)?<end>
-
-=>a39_original
-I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.<end>
-
-=>a39
-I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.<end>
-
-=>q40_original
-I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).<end>
-
-=>q40
-I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).<end>
-
-=>q41_original
-::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.<end>
-
-=>q41
-::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.<end>
-
-=>q42_original
-::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. 
-
-A sigh of relief precedes his words.::
-
-Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
-
-=>q42
-::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. 
-
-A sigh of relief precedes his words.::
-
-Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
-
-=>a44
-Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
-
-=>q45_original
-Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
-
-=>q45
-Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
-
-=>a46_original
-Why didn't you run away?<end>
-
-=>a46
-Why didn't you run away?<end>
-
-=>q47_original
-I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.<end>
-
-=>q47
-I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.<end>
-
-=>q48_original
-Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.<end>
-
-=>q48
-Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.<end>
-
-=>a49_original
-They're all dead. Let's get you out of here.<end>
-
-=>a49
-They're all dead. Let's get you out of here.<end>
-
-=>q50_original
-Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
-
-=>q50
-Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
-
-=>a51_original
-::Wait for him to limp away.::<end>
-
-=>a51
-::Wait for him to limp away.::<end>
-
-=>a52_original
-I think they're all dead. The path should be clear.<end>
-
-=>a52
-I think they're all dead. The path should be clear.<end>
-
-=>a53_original
-Yeah, sure. I'll be back once the road is clear.<end>
-
-=>a53
-Yeah, sure. I'll be back once the road is clear.<end>
-
-=>q54_original
-Don't take too long. I'll wait here.<end>
-
-=>q54
-Don't take too long. I'll wait here.<end>
-
-=>a55_original
-You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
-
-=>a55
-You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
-
-=>q56_original
-Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
-
-=>q56
-Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
-
-=>a57_original
-I won't disturb you. Goodbye.<end>
-
-=>a57
-I won't disturb you. Goodbye.<end>
-
-=>q58_original
-What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
-
-=>q58
-What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
-
-=>a59_original
-Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
-
-=>a59
-Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
-
-=>q60_original
-Did you kill them all?<end>
-
-=>q60
-Did you kill them all?<end>
-
-=>a61_original
-Not yet, I'll be back.<end>
-
-=>a61
-Not yet, I'll be back.<end>
-
-=>q62_original
-Come on! Please hurry up!<end>
-
-=>q62
-Come on! Please hurry up!<end>
-
-=>a63_original
-What can you tell me about this place?<end>
-
-=>a63
-What can you tell me about this place?<end>
-
-=>q64_original
-Wh--What's frickin' wrong with you!? Please help me get out of here!<end>
-
-=>q64
-Wh--What's frickin' wrong with you!? Please help me get out of here!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+When Tanner disappears, then everyone's asking questions; when I disappear - meh.<end>
+
+=>q2
+When Tanner disappears, then everyone's asking questions; when I disappear - meh.<end>
+
+=>q3_original
+Cheers, $(context.player.Name).<end>
+
+=>q3
+Cheers, $(context.player.Name).<end>
+
+=>q4_original
+Saved anyone else lately?<end>
+
+=>q4
+Saved anyone else lately?<end>
+
+=>q5_original
+Vencel recommended I try Arlene's cooked psi bugger meat. Is he a moron or what?<end>
+
+=>q5
+Vencel recommended I try Arlene's cooked psi bugger meat. Is he a moron or what?<end>
+
+=>q6_original
+Did you hear? The Faceless are gone! Cheers!<end>
+
+=>q6
+Did you hear? The Faceless are gone! Cheers!<end>
+
+=>q7_original
+I heard you went to GMS. How'd it go?<end>
+
+=>q7
+I heard you went to GMS. How'd it go?<end>
+
+=>q8_original
+Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.<end>
+
+=>q8
+Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.<end>
+
+=>q9_original
+$(context.player.Name). ::Raises a glass.::<end>
+
+=>q9
+$(context.player.Name). ::Raises a glass.::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+You're back. Bummer. And I am not a wussy.<end>
+
+=>q11
+You're back. Bummer. And I am not a wussy.<end>
+
+=>q12_original
+Leave me alone. I'm not a wussy, damn it!<end>
+
+=>q12
+Leave me alone. I'm not a wussy, damn it!<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+I am not a wussy!<end>
+
+=>q14
+I am not a wussy!<end>
+
+=>a15_original
+Oh, you're the wussiest wuss in existence. One wuss to rule them all.<end>
+
+=>a15
+Oh, you're the wussiest wuss in existence. One wuss to rule them all.<end>
+
+=>q16_original
+You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!<end>
+
+=>q16
+You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!<end>
+
+=>q17_original
+Go scrub your colon with a stalagmite! Leave me alone!<end>
+
+=>q17
+Go scrub your colon with a stalagmite! Leave me alone!<end>
+
+=>a18_original
+I'm sorry about that. I'm never going to call you a wussy again.<end>
+
+=>a18
+I'm sorry about that. I'm never going to call you a wussy again.<end>
+
+=>q19_original
+You swear?<end>
+
+=>q19
+You swear?<end>
+
+=>a20_original
+Yes.<end>
+
+=>a20
+Yes.<end>
+
+=>q21_original
+Okay. We are good. You saved my life and will not call me a wussy again. We are good.<end>
+
+=>q21
+Okay. We are good. You saved my life and will not call me a wussy again. We are good.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+How are you feeling, man?<end>
+
+=>a23
+How are you feeling, man?<end>
+
+=>q24_original
+Better. The leg's still hurting from time to time, but I'll soon be as good as new-ton. ::He laughs.:: As you can see, I'm kinda relaxing here with the rest.<end>
+
+=>q24
+Better. The leg's still hurting from time to time, but I'll soon be as good as new-ton. ::He laughs.:: As you can see, I'm kinda relaxing here with the rest.<end>
+
+=>a25_original
+You do that. Take care of yourself.<end>
+
+=>a25
+You do that. Take care of yourself.<end>
+
+=>q26_original
+Thanks. I will. Cheers!<end>
+
+=>q26
+Thanks. I will. Cheers!<end>
+
+=>a27_original
+What a wussy. See you around.<end>
+
+=>a27
+What a wussy. See you around.<end>
+
+=>q28_original
+No, I'm--<end>
+
+=>q28
+No, I'm--<end>
+
+=>a29_original
+::Leave.::<end>
+
+=>a29
+::Leave.::<end>
+
+=>a30_original
+I just came here to tell you you're a wussy. See you around.<end>
+
+=>a30
+I just came here to tell you you're a wussy. See you around.<end>
+
+=>q31_original
+Wha--?<end>
+
+=>q31
+Wha--?<end>
+
+=>a32_original
+Wussy.<end>
+
+=>a32
+Wussy.<end>
+
+=>q33_original
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I never got to thank you properly.<end>
+
+=>q33
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I never got to thank you properly.<end>
+
+=>q34_original
+I'm not a wussy!<end>
+
+=>q34
+I'm not a wussy!<end>
+
+=>a35_original
+I apologize, you're not. I don't even know why I said that.<end>
+
+=>a35
+I apologize, you're not. I don't even know why I said that.<end>
+
+=>q36_original
+Oh. Good. I need to rest now. If you'd leave me alone now, please.<end>
+
+=>q36
+Oh. Good. I need to rest now. If you'd leave me alone now, please.<end>
+
+=>a37_original
+Yes, you are. Wussy!<end>
+
+=>a37
+Yes, you are. Wussy!<end>
+
+=>q38_original
+$(context.player.Name)?<end>
+
+=>q38
+$(context.player.Name)?<end>
+
+=>a39_original
+I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.<end>
+
+=>a39
+I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.<end>
+
+=>q40_original
+I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).<end>
+
+=>q40
+I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).<end>
+
+=>q41_original
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.<end>
+
+=>q41
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.<end>
+
+=>q42_original
+::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. 
+
+A sigh of relief precedes his words.::
+
+Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
+
+=>q42
+::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. 
+
+A sigh of relief precedes his words.::
+
+Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>a44
+Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>q45_original
+Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
+
+=>q45
+Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
+
+=>a46_original
+Why didn't you run away?<end>
+
+=>a46
+Why didn't you run away?<end>
+
+=>q47_original
+I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.<end>
+
+=>q47
+I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.<end>
+
+=>q48_original
+Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.<end>
+
+=>q48
+Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.<end>
+
+=>a49_original
+They're all dead. Let's get you out of here.<end>
+
+=>a49
+They're all dead. Let's get you out of here.<end>
+
+=>q50_original
+Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
+
+=>q50
+Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
+
+=>a51_original
+::Wait for him to limp away.::<end>
+
+=>a51
+::Wait for him to limp away.::<end>
+
+=>a52_original
+I think they're all dead. The path should be clear.<end>
+
+=>a52
+I think they're all dead. The path should be clear.<end>
+
+=>a53_original
+Yeah, sure. I'll be back once the road is clear.<end>
+
+=>a53
+Yeah, sure. I'll be back once the road is clear.<end>
+
+=>q54_original
+Don't take too long. I'll wait here.<end>
+
+=>q54
+Don't take too long. I'll wait here.<end>
+
+=>a55_original
+You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
+
+=>a55
+You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
+
+=>q56_original
+Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
+
+=>q56
+Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
+
+=>a57_original
+I won't disturb you. Goodbye.<end>
+
+=>a57
+I won't disturb you. Goodbye.<end>
+
+=>q58_original
+What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
+
+=>q58
+What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
+
+=>a59_original
+Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>a59
+Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>q60_original
+Did you kill them all?<end>
+
+=>q60
+Did you kill them all?<end>
+
+=>a61_original
+Not yet, I'll be back.<end>
+
+=>a61
+Not yet, I'll be back.<end>
+
+=>q62_original
+Come on! Please hurry up!<end>
+
+=>q62
+Come on! Please hurry up!<end>
+
+=>a63_original
+What can you tell me about this place?<end>
+
+=>a63
+What can you tell me about this place?<end>
+
+=>q64_original
+Wh--What's frickin' wrong with you!? Please help me get out of here!<end>
+
+=>q64
+Wh--What's frickin' wrong with you!? Please help me get out of here!<end>
+

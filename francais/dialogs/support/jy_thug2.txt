@@ -1,72 +1,72 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-You a Northern $(#boy/girl)?<end>
-
-=>q2
-You a Northern $(#boy/girl)?<end>
-
-=>q3_original
-Wanna see my tattoo?<end>
-
-=>q3
-Wanna see my tattoo?<end>
-
-=>q4_original
-Ahh, nothin' like the smell of burnin' junk in the mornin'.<end>
-
-=>q4
-Ahh, nothin' like the smell of burnin' junk in the mornin'.<end>
-
-=>q5_original
-Hey, heard about <end>
-
-=>q5
-Hey, heard about <end>
-
-=>q6_original
-that psionic guy who's been torturin' them folks?<end>
-
-=>q6
-that psionic guy who's been torturin' them folks?<end>
-
-=>q7_original
-what's been happenin' on the road between Mushroom Cove and Junkyard?<end>
-
-=>q7
-what's been happenin' on the road between Mushroom Cove and Junkyard?<end>
-
-=>q8_original
-Where'd ya get them boots?<end>
-
-=>q8
-Where'd ya get them boots?<end>
-
-=>q9_original
-Ya lost, little girl?<end>
-
-=>q9
-Ya lost, little girl?<end>
-
-=>q10_original
-Someone iced that old fool Vilmer. Heh.<end>
-
-=>q10
-Someone iced that old fool Vilmer. Heh.<end>
-
-=>q11_original
-Second chance goods keep the prices low.<end>
-
-=>q11
-Second chance goods keep the prices low.<end>
-
-=>q12_original
-I heard Ol' Chopper ain't targetin' Junkyard no more. The recent murders were done by some other psycho, apparently.<end>
-
-=>q12
-I heard Ol' Chopper ain't targetin' Junkyard no more. The recent murders were done by some other psycho, apparently.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You a Northern $(#boy/girl)?<end>
+
+=>q2
+You a Northern $(#boy/girl)?<end>
+
+=>q3_original
+Wanna see my tattoo?<end>
+
+=>q3
+Wanna see my tattoo?<end>
+
+=>q4_original
+Ahh, nothin' like the smell of burnin' junk in the mornin'.<end>
+
+=>q4
+Ahh, nothin' like the smell of burnin' junk in the mornin'.<end>
+
+=>q5_original
+Hey, heard about <end>
+
+=>q5
+Hey, heard about <end>
+
+=>q6_original
+that psionic guy who's been torturin' them folks?<end>
+
+=>q6
+that psionic guy who's been torturin' them folks?<end>
+
+=>q7_original
+what's been happenin' on the road between Mushroom Cove and Junkyard?<end>
+
+=>q7
+what's been happenin' on the road between Mushroom Cove and Junkyard?<end>
+
+=>q8_original
+Where'd ya get them boots?<end>
+
+=>q8
+Where'd ya get them boots?<end>
+
+=>q9_original
+Ya lost, little girl?<end>
+
+=>q9
+Ya lost, little girl?<end>
+
+=>q10_original
+Someone iced that old fool Vilmer. Heh.<end>
+
+=>q10
+Someone iced that old fool Vilmer. Heh.<end>
+
+=>q11_original
+Second chance goods keep the prices low.<end>
+
+=>q11
+Second chance goods keep the prices low.<end>
+
+=>q12_original
+I heard Ol' Chopper ain't targetin' Junkyard no more. The recent murders were done by some other psycho, apparently.<end>
+
+=>q12
+I heard Ol' Chopper ain't targetin' Junkyard no more. The recent murders were done by some other psycho, apparently.<end>
+

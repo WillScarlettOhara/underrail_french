@@ -1,54 +1,54 @@
-=>q1_original
-We've checked 5K of the north tunnel, commander. All is clear. There are no new cave-ins.<end>
-
-=>q1
-We've checked 5K of the north tunnel, commander. All is clear. There are no new cave-ins.<end>
-
-=>a2_original
-::Continue::<end>
-
-=>a2
-::Continue::<end>
-
-=>q3_original
-Got hit by a couple of aftershocks, but they weren't anything serious.<end>
-
-=>q3
-Got hit by a couple of aftershocks, but they weren't anything serious.<end>
-
-=>q4_original
-::He nods.:: We felt them here too, but I think it's over now.<end>
-
-=>q4
-::He nods.:: We felt them here too, but I think it's over now.<end>
-
-=>q5_original
-...<end>
-
-=>q5
-...<end>
-
-=>q6_original
-Maybe I spoke too soon.<end>
-
-=>q6
-Maybe I spoke too soon.<end>
-
-=>q7_original
-Wait... this is not an aftershock...<end>
-
-=>q7
-Wait... this is not an aftershock...<end>
-
-=>a8_original
-::Continue::<end>
-
-=>a8
-::Continue::<end>
-
-=>a9_original
-::Skip cutscene::<end>
-
-=>a9
-::Skip cutscene::<end>
-
+=>q1_original
+We've checked 5K of the north tunnel, commander. All is clear. There are no new cave-ins.<end>
+
+=>q1
+We've checked 5K of the north tunnel, commander. All is clear. There are no new cave-ins.<end>
+
+=>a2_original
+::Continue::<end>
+
+=>a2
+::Continue::<end>
+
+=>q3_original
+Got hit by a couple of aftershocks, but they weren't anything serious.<end>
+
+=>q3
+Got hit by a couple of aftershocks, but they weren't anything serious.<end>
+
+=>q4_original
+::He nods.:: We felt them here too, but I think it's over now.<end>
+
+=>q4
+::He nods.:: We felt them here too, but I think it's over now.<end>
+
+=>q5_original
+...<end>
+
+=>q5
+...<end>
+
+=>q6_original
+Maybe I spoke too soon.<end>
+
+=>q6
+Maybe I spoke too soon.<end>
+
+=>q7_original
+Wait... this is not an aftershock...<end>
+
+=>q7
+Wait... this is not an aftershock...<end>
+
+=>a8_original
+::Continue::<end>
+
+=>a8
+::Continue::<end>
+
+=>a9_original
+::Skip cutscene::<end>
+
+=>a9
+::Skip cutscene::<end>
+

@@ -1,394 +1,394 @@
-=>q1_original
-Please don't hurt me!<end>
-
-=>q1
-Please don't hurt me!<end>
-
-=>q2_original
-Leave me alone!<end>
-
-=>q2
-Leave me alone!<end>
-
-=>q3_original
-::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
-
-Hi, stranger. Are you also here to join the Tchortists?<end>
-
-=>q3
-::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
-
-Hi, stranger. Are you also here to join the Tchortists?<end>
-
-=>a4_original
-Maybe. What can you tell me about them?<end>
-
-=>a4
-Maybe. What can you tell me about them?<end>
-
-=>q5_original
-Oh. Well then... if you are - join the line, hah!
-
-But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
-
-=>q5
-Oh. Well then... if you are - join the line, hah!
-
-But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-It's $(context.player.Name). Nice to meet you too, Daphne.<end>
-
-=>a7
-It's $(context.player.Name). Nice to meet you too, Daphne.<end>
-
-=>q8_original
-$(context.player.Name). Got it.
-
-Okay, $(context.player.Name), let's talk.<end>
-
-=>q8
-$(context.player.Name). Got it.
-
-Okay, $(context.player.Name), let's talk.<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-What can you tell me about yourself?<end>
-
-=>a10
-What can you tell me about yourself?<end>
-
-=>q11_original
-I am a geneticist from Foundry.<end>
-
-=>q11
-I am a geneticist from Foundry.<end>
-
-=>a12_original
-What exactly do you mean by that?<end>
-
-=>a12
-What exactly do you mean by that?<end>
-
-=>q13_original
-You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
-
-Anyway, I had to get outta there.<end>
-
-=>q13
-You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
-
-Anyway, I had to get outta there.<end>
-
-=>a14_original
-How did you end up there in the first place?<end>
-
-=>a14
-How did you end up there in the first place?<end>
-
-=>q15_original
-My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
-
-=>q15
-My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
-
-=>a16_original
-Isn't it a bit dangerous to travel around alone?<end>
-
-=>a16
-Isn't it a bit dangerous to travel around alone?<end>
-
-=>q17_original
-Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
-
-=>q17
-Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
-
-=>a18_original
-Well said. Now, let me ask you something else.<end>
-
-=>a18
-Well said. Now, let me ask you something else.<end>
-
-=>q19_original
-Why not, $(context.player.Name). What did you have in mind?<end>
-
-=>q19
-Why not, $(context.player.Name). What did you have in mind?<end>
-
-=>a20_original
-And...?<end>
-
-=>a20
-And...?<end>
-
-=>a21_original
-Actually, that tells me all I need to know. Let me ask you something else.<end>
-
-=>a21
-Actually, that tells me all I need to know. Let me ask you something else.<end>
-
-=>q22_original
-Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
-
-=>q22
-Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
-
-=>q23_original
-It was rhetorical; Don't answer it...<end>
-
-=>q23
-It was rhetorical; Don't answer it...<end>
-
-=>a24_original
-Why are you here and what can you tell me about this place?<end>
-
-=>a24
-Why are you here and what can you tell me about this place?<end>
-
-=>q25_original
-Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
-
-=>q25
-Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
-
-=>a26_original
-Do you even know why they need so many scientists?<end>
-
-=>a26
-Do you even know why they need so many scientists?<end>
-
-=>q27_original
-I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
-
-=>q27
-I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
-
-=>q28_original
-This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
-
-=>q28
-This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
-
-=>q29_original
-Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
-
-=>q29
-Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
-
-=>a30_original
-How about a different question?<end>
-
-=>a30
-How about a different question?<end>
-
-=>q31_original
-Sure, $(context.player.Name).<end>
-
-=>q31
-Sure, $(context.player.Name).<end>
-
-=>q32_original
-This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
-
-=>q32
-This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
-
-=>q33_original
-That I'm not willing to share with you.<end>
-
-=>q33
-That I'm not willing to share with you.<end>
-
-=>a34_original
-What can you tell me about the Tchortists?<end>
-
-=>a34
-What can you tell me about the Tchortists?<end>
-
-=>q35_original
-From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
-
-=>q35
-From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
-
-=>q36_original
-This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
-
-=>q36
-This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
-
-=>q37_original
-Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
-
-=>q37
-Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
-
-=>q38_original
-And this is their main building.That's pretty much all I know.<end>
-
-=>q38
-And this is their main building.That's pretty much all I know.<end>
-
-=>a39_original
-Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
-
-=>a39
-Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
-
-=>q40_original
-What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
-
-=>q40
-What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
-
-=>a41_original
-What happened then?<end>
-
-=>a41
-What happened then?<end>
-
-=>q42_original
-They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
-
-=>q42
-They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
-
-=>q43_original
-I don't think I have.<end>
-
-=>q43
-I don't think I have.<end>
-
-=>q44_original
-Anything else?<end>
-
-=>q44
-Anything else?<end>
-
-=>a45_original
-I have to go. Goodbye.<end>
-
-=>a45
-I have to go. Goodbye.<end>
-
-=>a46_original
-I can't reveal my name to you. It must remain a secret.<end>
-
-=>a46
-I can't reveal my name to you. It must remain a secret.<end>
-
-=>q47_original
-::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
-
-=>q47
-::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
-
-=>a48_original
-I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
-
-=>a48
-I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
-
-=>q49_original
-::At first she seems confused, then she smiles - then starts laughing.::
-
-Honestly, the way you said that was... slightly alarming. There's a lot of weird people in Underrail and... I was thinking... what does this $(#guy/woman) want from me? What are $(#his/her) true intentions? Hah!
-
-Anyway, $(context.player.Name), let's talk.<end>
-
-=>q49
-::At first she seems confused, then she smiles - then starts laughing.::
-
-Honestly, the way you said that was... slightly alarming. There's a lot of weird people in Underrail and... I was thinking... what does this $(#guy/woman) want from me? What are $(#his/her) true intentions? Hah!
-
-Anyway, $(context.player.Name), let's talk.<end>
-
-=>a50_original
-I'm sorry, but really can't tell you my name. I had some questions, though.<end>
-
-=>a50
-I'm sorry, but really can't tell you my name. I had some questions, though.<end>
-
-=>q51_original
-::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
-
-=>q51
-::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
-
-=>a52_original
-To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
-
-=>a52
-To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
-
-=>q53_original
-::Her eyes widen into a nervous stare as she takes a few steps back.::
-
-Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
-
-=>q53
-::Her eyes widen into a nervous stare as she takes a few steps back.::
-
-Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
-
-=>a54_original
-Wait, I was joking!<end>
-
-=>a54
-Wait, I was joking!<end>
-
-=>q55_original
-::She raises her voice.:: I said GOODBYE!<end>
-
-=>q55
-::She raises her voice.:: I said GOODBYE!<end>
-
-=>a56_original
-Goodbye, Daphne.<end>
-
-=>a56
-Goodbye, Daphne.<end>
-
-=>a57_original
-No, I'm just passing by. But, I had some questions if you don't mind.<end>
-
-=>a57
-No, I'm just passing by. But, I had some questions if you don't mind.<end>
-
-=>q58_original
-It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
-
-=>q58
-It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
-
-=>a59_original
-I'm sorry, I gotta go. See ya some other time.<end>
-
-=>a59
-I'm sorry, I gotta go. See ya some other time.<end>
-
-=>q60_original
-Hi, $(context.player.Name). More questions?<end>
-
-=>q60
-Hi, $(context.player.Name). More questions?<end>
-
-=>q61_original
-Hey... you.<end>
-
-=>q61
-Hey... you.<end>
-
+=>q1_original
+Please don't hurt me!<end>
+
+=>q1
+Please don't hurt me!<end>
+
+=>q2_original
+Leave me alone!<end>
+
+=>q2
+Leave me alone!<end>
+
+=>q3_original
+::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
+
+Hi, stranger. Are you also here to join the Tchortists?<end>
+
+=>q3
+::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
+
+Hi, stranger. Are you also here to join the Tchortists?<end>
+
+=>a4_original
+Maybe. What can you tell me about them?<end>
+
+=>a4
+Maybe. What can you tell me about them?<end>
+
+=>q5_original
+Oh. Well then... if you are - join the line, hah!
+
+But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
+
+=>q5
+Oh. Well then... if you are - join the line, hah!
+
+But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+It's $(context.player.Name). Nice to meet you too, Daphne.<end>
+
+=>a7
+It's $(context.player.Name). Nice to meet you too, Daphne.<end>
+
+=>q8_original
+$(context.player.Name). Got it.
+
+Okay, $(context.player.Name), let's talk.<end>
+
+=>q8
+$(context.player.Name). Got it.
+
+Okay, $(context.player.Name), let's talk.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+What can you tell me about yourself?<end>
+
+=>a10
+What can you tell me about yourself?<end>
+
+=>q11_original
+I am a geneticist from Foundry.<end>
+
+=>q11
+I am a geneticist from Foundry.<end>
+
+=>a12_original
+What exactly do you mean by that?<end>
+
+=>a12
+What exactly do you mean by that?<end>
+
+=>q13_original
+You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
+
+Anyway, I had to get outta there.<end>
+
+=>q13
+You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
+
+Anyway, I had to get outta there.<end>
+
+=>a14_original
+How did you end up there in the first place?<end>
+
+=>a14
+How did you end up there in the first place?<end>
+
+=>q15_original
+My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
+
+=>q15
+My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
+
+=>a16_original
+Isn't it a bit dangerous to travel around alone?<end>
+
+=>a16
+Isn't it a bit dangerous to travel around alone?<end>
+
+=>q17_original
+Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
+
+=>q17
+Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
+
+=>a18_original
+Well said. Now, let me ask you something else.<end>
+
+=>a18
+Well said. Now, let me ask you something else.<end>
+
+=>q19_original
+Why not, $(context.player.Name). What did you have in mind?<end>
+
+=>q19
+Why not, $(context.player.Name). What did you have in mind?<end>
+
+=>a20_original
+And...?<end>
+
+=>a20
+And...?<end>
+
+=>a21_original
+Actually, that tells me all I need to know. Let me ask you something else.<end>
+
+=>a21
+Actually, that tells me all I need to know. Let me ask you something else.<end>
+
+=>q22_original
+Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
+
+=>q22
+Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
+
+=>q23_original
+It was rhetorical; Don't answer it...<end>
+
+=>q23
+It was rhetorical; Don't answer it...<end>
+
+=>a24_original
+Why are you here and what can you tell me about this place?<end>
+
+=>a24
+Why are you here and what can you tell me about this place?<end>
+
+=>q25_original
+Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
+
+=>q25
+Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
+
+=>a26_original
+Do you even know why they need so many scientists?<end>
+
+=>a26
+Do you even know why they need so many scientists?<end>
+
+=>q27_original
+I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
+
+=>q27
+I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
+
+=>q28_original
+This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
+
+=>q28
+This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
+
+=>q29_original
+Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
+
+=>q29
+Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
+
+=>a30_original
+How about a different question?<end>
+
+=>a30
+How about a different question?<end>
+
+=>q31_original
+Sure, $(context.player.Name).<end>
+
+=>q31
+Sure, $(context.player.Name).<end>
+
+=>q32_original
+This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
+
+=>q32
+This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
+
+=>q33_original
+That I'm not willing to share with you.<end>
+
+=>q33
+That I'm not willing to share with you.<end>
+
+=>a34_original
+What can you tell me about the Tchortists?<end>
+
+=>a34
+What can you tell me about the Tchortists?<end>
+
+=>q35_original
+From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
+
+=>q35
+From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
+
+=>q36_original
+This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
+
+=>q36
+This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
+
+=>q37_original
+Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
+
+=>q37
+Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
+
+=>q38_original
+And this is their main building.That's pretty much all I know.<end>
+
+=>q38
+And this is their main building.That's pretty much all I know.<end>
+
+=>a39_original
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>a39
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>q40_original
+What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
+
+=>q40
+What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
+
+=>a41_original
+What happened then?<end>
+
+=>a41
+What happened then?<end>
+
+=>q42_original
+They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
+
+=>q42
+They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
+
+=>q43_original
+I don't think I have.<end>
+
+=>q43
+I don't think I have.<end>
+
+=>q44_original
+Anything else?<end>
+
+=>q44
+Anything else?<end>
+
+=>a45_original
+I have to go. Goodbye.<end>
+
+=>a45
+I have to go. Goodbye.<end>
+
+=>a46_original
+I can't reveal my name to you. It must remain a secret.<end>
+
+=>a46
+I can't reveal my name to you. It must remain a secret.<end>
+
+=>q47_original
+::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
+
+=>q47
+::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
+
+=>a48_original
+I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
+
+=>a48
+I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
+
+=>q49_original
+::At first she seems confused, then she smiles - then starts laughing.::
+
+Honestly, the way you said that was... slightly alarming. There's a lot of weird people in Underrail and... I was thinking... what does this $(#guy/woman) want from me? What are $(#his/her) true intentions? Hah!
+
+Anyway, $(context.player.Name), let's talk.<end>
+
+=>q49
+::At first she seems confused, then she smiles - then starts laughing.::
+
+Honestly, the way you said that was... slightly alarming. There's a lot of weird people in Underrail and... I was thinking... what does this $(#guy/woman) want from me? What are $(#his/her) true intentions? Hah!
+
+Anyway, $(context.player.Name), let's talk.<end>
+
+=>a50_original
+I'm sorry, but really can't tell you my name. I had some questions, though.<end>
+
+=>a50
+I'm sorry, but really can't tell you my name. I had some questions, though.<end>
+
+=>q51_original
+::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
+
+=>q51
+::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
+
+=>a52_original
+To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
+
+=>a52
+To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
+
+=>q53_original
+::Her eyes widen into a nervous stare as she takes a few steps back.::
+
+Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
+
+=>q53
+::Her eyes widen into a nervous stare as she takes a few steps back.::
+
+Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
+
+=>a54_original
+Wait, I was joking!<end>
+
+=>a54
+Wait, I was joking!<end>
+
+=>q55_original
+::She raises her voice.:: I said GOODBYE!<end>
+
+=>q55
+::She raises her voice.:: I said GOODBYE!<end>
+
+=>a56_original
+Goodbye, Daphne.<end>
+
+=>a56
+Goodbye, Daphne.<end>
+
+=>a57_original
+No, I'm just passing by. But, I had some questions if you don't mind.<end>
+
+=>a57
+No, I'm just passing by. But, I had some questions if you don't mind.<end>
+
+=>q58_original
+It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
+
+=>q58
+It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
+
+=>a59_original
+I'm sorry, I gotta go. See ya some other time.<end>
+
+=>a59
+I'm sorry, I gotta go. See ya some other time.<end>
+
+=>q60_original
+Hi, $(context.player.Name). More questions?<end>
+
+=>q60
+Hi, $(context.player.Name). More questions?<end>
+
+=>q61_original
+Hey... you.<end>
+
+=>q61
+Hey... you.<end>
+

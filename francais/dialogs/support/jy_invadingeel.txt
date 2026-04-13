@@ -1,48 +1,48 @@
-=>q1_original
-Junkyard is finally ours, but we lost the dockmaster. You... you go speak with Colton.<end>
-
-=>q1
-Junkyard is finally ours, but we lost the dockmaster. You... you go speak with Colton.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Damn! I was lookin' forward to wastin' some Scrappers.<end>
-
-=>q3
-Damn! I was lookin' forward to wastin' some Scrappers.<end>
-
-=>q4_original
-Junkyard is ours!<end>
-
-=>q4
-Junkyard is ours!<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>q6_original
-Not now, $(#jack/sister). There's still Scrappers to kill!<end>
-
-=>q6
-Not now, $(#jack/sister). There's still Scrappers to kill!<end>
-
-=>q7_original
-That was messy.<end>
-
-=>q7
-That was messy.<end>
-
-=>q8_original
-Death to Scrappers!<end>
-
-=>q8
-Death to Scrappers!<end>
-
+=>q1_original
+Junkyard is finally ours, but we lost the dockmaster. You... you go speak with Colton.<end>
+
+=>q1
+Junkyard is finally ours, but we lost the dockmaster. You... you go speak with Colton.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Damn! I was lookin' forward to wastin' some Scrappers.<end>
+
+=>q3
+Damn! I was lookin' forward to wastin' some Scrappers.<end>
+
+=>q4_original
+Junkyard is ours!<end>
+
+=>q4
+Junkyard is ours!<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Not now, $(#jack/sister). There's still Scrappers to kill!<end>
+
+=>q6
+Not now, $(#jack/sister). There's still Scrappers to kill!<end>
+
+=>q7_original
+That was messy.<end>
+
+=>q7
+That was messy.<end>
+
+=>q8_original
+Death to Scrappers!<end>
+
+=>q8
+Death to Scrappers!<end>
+

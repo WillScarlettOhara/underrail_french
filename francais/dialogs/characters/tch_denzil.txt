@@ -1,638 +1,638 @@
-=>q1_original
-We will cull the Faceless!<end>
-
-=>q1
-We will cull the Faceless!<end>
-
-=>q2_original
-$(context.player.Name).<end>
-
-=>q2
-$(context.player.Name).<end>
-
-=>q3_original
-Get inside. The praepostor will be with you shortly.<end>
-
-=>q3
-Get inside. The praepostor will be with you shortly.<end>
-
-=>q4_original
-Follow me and don't stray away.<end>
-
-=>q4
-Follow me and don't stray away.<end>
-
-=>q5_original
-Are you done with everything?<end>
-
-=>q5
-Are you done with everything?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-I am ready. Take this. ::Give him the figurine.::<end>
-
-=>a7
-I am ready. Take this. ::Give him the figurine.::<end>
-
-=>q8_original
-::Efreitor Denzil slowly picks up the figurine and scrutinizes it. Despite the fact that his face is covered with a mask you are certain that a pleased grin lurks beneath it. His admiration doesn't last for long though; he looks at you and signals you to follow him.::<end>
-
-=>q8
-::Efreitor Denzil slowly picks up the figurine and scrutinizes it. Despite the fact that his face is covered with a mask you are certain that a pleased grin lurks beneath it. His admiration doesn't last for long though; he looks at you and signals you to follow him.::<end>
-
-=>a9_original
-::End Dialog.::<end>
-
-=>a9
-::End Dialog.::<end>
-
-=>a10_original
-Alright. Here is the little metal man. ::Give him the figurine.::<end>
-
-=>a10
-Alright. Here is the little metal man. ::Give him the figurine.::<end>
-
-=>a11_original
-Can you finally tell me what's the deal with this figurine? Why is it so important to you?<end>
-
-=>a11
-Can you finally tell me what's the deal with this figurine? Why is it so important to you?<end>
-
-=>q12_original
-::He sighs.:: It is a part of a larger collection which is being assembled in celebration of the Institute of Tchort's one hundredth anniversary. Indeed. Foundry was commissioned to create this beautiful work of art and send it to us. After some unfortunate delays it was due to finally arrive... but, the carriers of the figurine were intercepted. I was tasked to mobilize troops and retrieve it, and that is exactly what I did... with your help. Soon it will be back in Eidein's hands, as it should be.<end>
-
-=>q12
-::He sighs.:: It is a part of a larger collection which is being assembled in celebration of the Institute of Tchort's one hundredth anniversary. Indeed. Foundry was commissioned to create this beautiful work of art and send it to us. After some unfortunate delays it was due to finally arrive... but, the carriers of the figurine were intercepted. I was tasked to mobilize troops and retrieve it, and that is exactly what I did... with your help. Soon it will be back in Eidein's hands, as it should be.<end>
-
-=>q13_original
-Happy? Now if you'd let me have the figurine I'd be glad to show you to the interview room.<end>
-
-=>q13
-Happy? Now if you'd let me have the figurine I'd be glad to show you to the interview room.<end>
-
-=>a14_original
-I need to do something first. I'll be back soon.<end>
-
-=>a14
-I need to do something first. I'll be back soon.<end>
-
-=>q15_original
-Magnificent Tchort, are you joking with me? Yo-- ::He pauses.:: Alright, make it quick; I'll wait here.<end>
-
-=>q15
-Magnificent Tchort, are you joking with me? Yo-- ::He pauses.:: Alright, make it quick; I'll wait here.<end>
-
-=>a16_original
-Not yet, I just wanted to make sure you were waiting for me.<end>
-
-=>a16
-Not yet, I just wanted to make sure you were waiting for me.<end>
-
-=>q17_original
-Hurry it up, I can't just stand around!<end>
-
-=>q17
-Hurry it up, I can't just stand around!<end>
-
-=>q18_original
-::You wait and you wait, and as more time passes you begin to wonder if Efreitor Denzil is actually going to come back. After all, he couldn't wait to get rid of you the first time you talked. But then you remember that strange metal figurine is still in your hands, the one Tchortists want so badly. You begin thinking about this strange piece of metal, about what awaits you ahead.
-
-However, your thoughts are soon interrupted by footsteps following a hurried rhythm you have already heard before: It is Efreitor Denzil.::<end>
-
-=>q18
-::You wait and you wait, and as more time passes you begin to wonder if Efreitor Denzil is actually going to come back. After all, he couldn't wait to get rid of you the first time you talked. But then you remember that strange metal figurine is still in your hands, the one Tchortists want so badly. You begin thinking about this strange piece of metal, about what awaits you ahead.
-
-However, your thoughts are soon interrupted by footsteps following a hurried rhythm you have already heard before: It is Efreitor Denzil.::<end>
-
-=>q19_original
-$(context.player.Name), I have talked to... ::He catches breath.:: uh... to the mediant and explained the situation to him. Therefore, the official word is as follows: You will be allowed to enter the Insititute building, be interviewed and if deemed fit you will be offered Institute of Tchort membership. All that in exchange for the figurine you possess.<end>
-
-=>q19
-$(context.player.Name), I have talked to... ::He catches breath.:: uh... to the mediant and explained the situation to him. Therefore, the official word is as follows: You will be allowed to enter the Insititute building, be interviewed and if deemed fit you will be offered Institute of Tchort membership. All that in exchange for the figurine you possess.<end>
-
-=>q20_original
-Speaking of which, I would like to take it now. Then I'll lead you inside.<end>
-
-=>q20
-Speaking of which, I would like to take it now. Then I'll lead you inside.<end>
-
-=>q21_original
-::As the robed man hurriedly steps outside, all three soldiers standing in front of him simultaneously take a small bow while having their hands placed on their chests, right around the heart area. Once the salute is finally over, the middle soldier takes a single step forward and addresses him.::
-
-Tchort is evolution, Efreitor.<end>
-
-=>q21
-::As the robed man hurriedly steps outside, all three soldiers standing in front of him simultaneously take a small bow while having their hands placed on their chests, right around the heart area. Once the salute is finally over, the middle soldier takes a single step forward and addresses him.::
-
-Tchort is evolution, Efreitor.<end>
-
-=>q22_original
-::The efreitor responds by performing an identical salute, excluding the bow.::
-
-Evolution is Tchort, brother. Tell me, did you manage to find anything?<end>
-
-=>q22
-::The efreitor responds by performing an identical salute, excluding the bow.::
-
-Evolution is Tchort, brother. Tell me, did you manage to find anything?<end>
-
-=>q23_original
-I'm afraid not, Efreitor. We scanned the surrounding area but found nothing other than a handful of isolated groups of bandits and scavengers, and no one possessed what we seek. I'm afraid our initial reports might just be true - Lunatics must've been behind the theft. All leads simply point to those devolved inbreds.<end>
-
-=>q23
-I'm afraid not, Efreitor. We scanned the surrounding area but found nothing other than a handful of isolated groups of bandits and scavengers, and no one possessed what we seek. I'm afraid our initial reports might just be true - Lunatics must've been behind the theft. All leads simply point to those devolved inbreds.<end>
-
-=>q24_original
-I will be the judge of that, brother. ::His stare passes over each and every one of the three individuals.:: Rassophores - you all deserve rest. Meanwhile, I will wait for the second unit to arrive; they should be here soon. ::He sighs.:: Magnificent Tchort...<end>
-
-=>q24
-I will be the judge of that, brother. ::His stare passes over each and every one of the three individuals.:: Rassophores - you all deserve rest. Meanwhile, I will wait for the second unit to arrive; they should be here soon. ::He sighs.:: Magnificent Tchort...<end>
-
-=>q25_original
-::He looks at them again.:: I said: Go and get some rest - don't just stand there like you're frozen. Inside. ::He points to the big front gate.::<end>
-
-=>q25
-::He looks at them again.:: I said: Go and get some rest - don't just stand there like you're frozen. Inside. ::He points to the big front gate.::<end>
-
-=>q26_original
-Tchort guide you, Efreitor.<end>
-
-=>q26
-Tchort guide you, Efreitor.<end>
-
-=>q27_original
-Yes... Tchort guide me...<end>
-
-=>q27
-Yes... Tchort guide me...<end>
-
-=>a28_original
-::End Dialog.::<end>
-
-=>a28
-::End Dialog.::<end>
-
-=>q29_original
-::The man seems somewhat uneasy as you come near him. Even though you are unable to see his face, what you are able to notice is how his body language expresses his apprehension. He is unable to stand completely still; he either taps his foot or crosses and uncrosses his arms, or nervously looks all around him. When you near him, you notice a symbol on his uniform - a circular eye with two tentacles sprouting from it, similar to the symbol on the large doors behind him. Soon, he speaks with a voice that sounds tense and hasty in one moment, and cold in the other.::
-
-What is it?<end>
-
-=>q29
-::The man seems somewhat uneasy as you come near him. Even though you are unable to see his face, what you are able to notice is how his body language expresses his apprehension. He is unable to stand completely still; he either taps his foot or crosses and uncrosses his arms, or nervously looks all around him. When you near him, you notice a symbol on his uniform - a circular eye with two tentacles sprouting from it, similar to the symbol on the large doors behind him. Soon, he speaks with a voice that sounds tense and hasty in one moment, and cold in the other.::
-
-What is it?<end>
-
-=>q30_original
-<end>
-
-=>q30
-<end>
-
-=>a31_original
-Who are you? Are you one of the Tchortists?<end>
-
-=>a31
-Who are you? Are you one of the Tchortists?<end>
-
-=>q32_original
-I'm Efreitor Denzil and yes - I am a Tchortist. In case you haven't noticed, you are standing at the entrance to Institute of Tchort, and all these robed guards - rassophores - are its members as well. We are here to preserve safety of the Institute - so be *very* careful of your actions during your time here.<end>
-
-=>q32
-I'm Efreitor Denzil and yes - I am a Tchortist. In case you haven't noticed, you are standing at the entrance to Institute of Tchort, and all these robed guards - rassophores - are its members as well. We are here to preserve safety of the Institute - so be *very* careful of your actions during your time here.<end>
-
-=>q33_original
-You got your answer, now leave me alone.<end>
-
-=>q33
-You got your answer, now leave me alone.<end>
-
-=>a34_original
-Tell me about the Institute of Tchort again...<end>
-
-=>a34
-Tell me about the Institute of Tchort again...<end>
-
-=>q35_original
-If you insist... ::He sighs.:: The Institute of Tchort is an institution centered around Tchort - a magnificent creature whose sole existence is a source of unimaginable knowledge and is an inspiration to all Tchortists. Ever since our founder - Eidein - first studied Tchort's genome, he discovered the potential to improve mankind - to direct human evolution towards new heights.<end>
-
-=>q35
-If you insist... ::He sighs.:: The Institute of Tchort is an institution centered around Tchort - a magnificent creature whose sole existence is a source of unimaginable knowledge and is an inspiration to all Tchortists. Ever since our founder - Eidein - first studied Tchort's genome, he discovered the potential to improve mankind - to direct human evolution towards new heights.<end>
-
-=>q36_original
-Tchort is evolution. Evolution is Tchort. One cannot go without the other. And now, since you got a brief summary - you are going to leave me alone; I have important work to do.<end>
-
-=>q36
-Tchort is evolution. Evolution is Tchort. One cannot go without the other. And now, since you got a brief summary - you are going to leave me alone; I have important work to do.<end>
-
-=>a37_original
-I would like to become a member of your organization.<end>
-
-=>a37
-I would like to become a member of your organization.<end>
-
-=>q38_original
-I'm sorry, but we can't accept new members at this particular time. We are... full, so to say.<end>
-
-=>q38
-I'm sorry, but we can't accept new members at this particular time. We are... full, so to say.<end>
-
-=>q39_original
-As you can see if you were to look around you, all these people here are waiting to join the Institute. But alas, as I've already mentioned, we cannot accept new members. Still, that doesn't stop them from waiting, which is to be respected. Tchort might reward their wait but... not at this time unfortunately.<end>
-
-=>q39
-As you can see if you were to look around you, all these people here are waiting to join the Institute. But alas, as I've already mentioned, we cannot accept new members. Still, that doesn't stop them from waiting, which is to be respected. Tchort might reward their wait but... not at this time unfortunately.<end>
-
-=>a40_original
-I don't think you understand me. I *really* want to become a Tchortist.<end>
-
-=>a40
-I don't think you understand me. I *really* want to become a Tchortist.<end>
-
-=>q41_original
-What is the matter with you? Are your ears vestigial? It's like you can't hear me properly. *We. do. not. accept. new. members!* Now buzz off!<end>
-
-=>q41
-What is the matter with you? Are your ears vestigial? It's like you can't hear me properly. *We. do. not. accept. new. members!* Now buzz off!<end>
-
-=>a42_original
-No - *you* buzz off! I want to become a member of your organization and *you* are in the way. Who do you even think you are, anyway?<end>
-
-=>a42
-No - *you* buzz off! I want to become a member of your organization and *you* are in the way. Who do you even think you are, anyway?<end>
-
-=>q43_original
-Magnificent Tchort! You must be some inbred bastard who lost the ability to understand human language several generations ago. ::He makes a short pause to allow some of the steam to come out and prevent him from exploding.:: Look here - you don't want to be disturbing an efreitor. I can order these rassophores here to cull you instantly and they wouldn't even flinch!<end>
-
-=>q43
-Magnificent Tchort! You must be some inbred bastard who lost the ability to understand human language several generations ago. ::He makes a short pause to allow some of the steam to come out and prevent him from exploding.:: Look here - you don't want to be disturbing an efreitor. I can order these rassophores here to cull you instantly and they wouldn't even flinch!<end>
-
-=>a44_original
-Order them anything you want - but I'm standing my ground here. I want to join the Institute and I'm willing to do anything to achieve that goal.<end>
-
-=>a44
-Order them anything you want - but I'm standing my ground here. I want to join the Institute and I'm willing to do anything to achieve that goal.<end>
-
-=>q45_original
-::Something tells you that, despite him looking "just" angry on the outside, on the inside he's probably turning into a ball of plasma - reaching temperatures high enough to ignite nuclear fusion. Suddenly he cools down, and his tone of voice becomes calmer, losing the red-hot edge.::
-
-Anything, you say? Anything... you say? Hmmm... Interestingly, there is, well, an issue we could use some help with...<end>
-
-=>q45
-::Something tells you that, despite him looking "just" angry on the outside, on the inside he's probably turning into a ball of plasma - reaching temperatures high enough to ignite nuclear fusion. Suddenly he cools down, and his tone of voice becomes calmer, losing the red-hot edge.::
-
-Anything, you say? Anything... you say? Hmmm... Interestingly, there is, well, an issue we could use some help with...<end>
-
-=>a46_original
-Finally we're getting somewhere.<end>
-
-=>a46
-Finally we're getting somewhere.<end>
-
-=>q47_original
-We have an issue with a missing figurine - a very important metal figurine. It was stolen from us and we need it back. Now, we aren't precisely sure who did it, but we suspect those devolved Lunatic inbreds to be behind the theft. They taint everything they touch with their filthy hands.<end>
-
-=>q47
-We have an issue with a missing figurine - a very important metal figurine. It was stolen from us and we need it back. Now, we aren't precisely sure who did it, but we suspect those devolved Lunatic inbreds to be behind the theft. They taint everything they touch with their filthy hands.<end>
-
-=>q48_original
-The metal figurine depicts a man reaching for the Surface. ::He points up.:: Up there. If you can find it, we *might* make a deal about you joining us... $(#brother/sister).<end>
-
-=>q48
-The metal figurine depicts a man reaching for the Surface. ::He points up.:: Up there. If you can find it, we *might* make a deal about you joining us... $(#brother/sister).<end>
-
-=>q49_original
-<end>
-
-=>q49
-<end>
-
-=>a50_original
-Is this the figurine you are looking for?<end>
-
-=>a50
-Is this the figurine you are looking for?<end>
-
-=>q51_original
-::His voice reveals instant excitement as soon as he is presented with the figurine.:: Wait... you had it on you this whole time? Why didn't you tell me about it?<end>
-
-=>q51
-::His voice reveals instant excitement as soon as he is presented with the figurine.:: Wait... you had it on you this whole time? Why didn't you tell me about it?<end>
-
-=>a52_original
-I didn't know you were looking for it.<end>
-
-=>a52
-I didn't know you were looking for it.<end>
-
-=>q53_original
-::He smiles.:: Yes... That's the figurine alright. Where did you find it?<end>
-
-=>q53
-::He smiles.:: Yes... That's the figurine alright. Where did you find it?<end>
-
-=>a54_original
-In the big shopping mall west of here. You were right all along - the Lunatics were the ones responsible for its theft.<end>
-
-=>a54
-In the big shopping mall west of here. You were right all along - the Lunatics were the ones responsible for its theft.<end>
-
-=>q55_original
-::Unexpectedly, Denzil falls silent. He looks like he wants to say something, but perhaps can't find the right words.::<end>
-
-=>q55
-::Unexpectedly, Denzil falls silent. He looks like he wants to say something, but perhaps can't find the right words.::<end>
-
-=>a56_original
-::[Intelligence]:: Hold on! I know what you're thinking. You never thought I would be able to find and bring you the damn figurine. You just wanted me to leave you alone.<end>
-
-=>a56
-::[Intelligence]:: Hold on! I know what you're thinking. You never thought I would be able to find and bring you the damn figurine. You just wanted me to leave you alone.<end>
-
-=>q57_original
-Yes and no. Mostly yes... Look - I don't owe you an explanation, I-- Listen... ::He sighs.:: you did us a great favor, that is undeniable. It's just that I didn't REALLY expect you to be able to accomplish the given task, that is all. I'm just... astonished. But you figured that for yourself as far as I can see...<end>
-
-=>q57
-Yes and no. Mostly yes... Look - I don't owe you an explanation, I-- Listen... ::He sighs.:: you did us a great favor, that is undeniable. It's just that I didn't REALLY expect you to be able to accomplish the given task, that is all. I'm just... astonished. But you figured that for yourself as far as I can see...<end>
-
-=>a58_original
-I hope our deal still stands. You will not get this figurine otherwise.<end>
-
-=>a58
-I hope our deal still stands. You will not get this figurine otherwise.<end>
-
-=>q59_original
-::He sighs.:: A deal is a deal. Hand me the figurine and then I'll go inside and discuss your request with my superiors.<end>
-
-=>q59
-::He sighs.:: A deal is a deal. Hand me the figurine and then I'll go inside and discuss your request with my superiors.<end>
-
-=>a60_original
-It stays with me until you come back. You go talk to your superiors first, then you'll see the figurine again.<end>
-
-=>a60
-It stays with me until you come back. You go talk to your superiors first, then you'll see the figurine again.<end>
-
-=>q61_original
-::The rassophores around you turn toward you, and you feel the atmosphere beginning to heat up again. Denzil, surprisingly, cools it back down with a single hand signal to his subordinates.:: I suppose that is acceptable - but don't leave the courtyard. I'll return soon. ::Just as he goes to leave, he turns back to you again.::
-
-Wait a moment. I never caught your name.<end>
-
-=>q61
-::The rassophores around you turn toward you, and you feel the atmosphere beginning to heat up again. Denzil, surprisingly, cools it back down with a single hand signal to his subordinates.:: I suppose that is acceptable - but don't leave the courtyard. I'll return soon. ::Just as he goes to leave, he turns back to you again.::
-
-Wait a moment. I never caught your name.<end>
-
-=>a62_original
-$(context.player.Name).<end>
-
-=>a62
-$(context.player.Name).<end>
-
-=>q63_original
-$(context.player.Name)... Alright, $(context.player.Name). Wait in front of the Institute. *Here*. I'll be back as soon as I talk to someone. Just, just be patient. Tchort guide you.<end>
-
-=>q63
-$(context.player.Name)... Alright, $(context.player.Name). Wait in front of the Institute. *Here*. I'll be back as soon as I talk to someone. Just, just be patient. Tchort guide you.<end>
-
-=>a64_original
-::Wait for him to return.::<end>
-
-=>a64
-::Wait for him to return.::<end>
-
-=>a65_original
-Whatever. I got you the figurine as you asked. Now let me in. I want to join the Institute of Tchort.<end>
-
-=>a65
-Whatever. I got you the figurine as you asked. Now let me in. I want to join the Institute of Tchort.<end>
-
-=>a66_original
-What's the matter?<end>
-
-=>a66
-What's the matter?<end>
-
-=>q67_original
-Well... I didn't really expect that... someone like, khm, you would be able to *actually* retrieve the figurine; even just locate it, let alone retrieve from the clutches of whoever stole it...<end>
-
-=>q67
-Well... I didn't really expect that... someone like, khm, you would be able to *actually* retrieve the figurine; even just locate it, let alone retrieve from the clutches of whoever stole it...<end>
-
-=>a68_original
-Is there any other way for me to join your organization?<end>
-
-=>a68
-Is there any other way for me to join your organization?<end>
-
-=>q69_original
-It's like you paid no attention to what I was talking about before...
-
-No, the figurine is the only thing that will make me *consider* trying to get you in. End of story.<end>
-
-=>q69
-It's like you paid no attention to what I was talking about before...
-
-No, the figurine is the only thing that will make me *consider* trying to get you in. End of story.<end>
-
-=>a70_original
-Where should I start looking for it?<end>
-
-=>a70
-Where should I start looking for it?<end>
-
-=>q71_original
-Well, our rassophore scouts have learned some time ago that large groups of Lunatics were seen in the vicinity of the Emporion shopping mall. That's west of here. If the Lunatics are the ones who took the figurine, that would be the best start.<end>
-
-=>q71
-Well, our rassophore scouts have learned some time ago that large groups of Lunatics were seen in the vicinity of the Emporion shopping mall. That's west of here. If the Lunatics are the ones who took the figurine, that would be the best start.<end>
-
-=>a72_original
-What can you tell me about Lunatics?<end>
-
-=>a72
-What can you tell me about Lunatics?<end>
-
-=>q73_original
-Culling material, no question about it. They are as mentally derailed as one can be and are, therefore, extremely unpredictable. Their motives, patterns of thought or anything about them is impossible to figure out. They are powerful psionics, mind you, and that's pretty much the only thing we're sure about them.<end>
-
-=>q73
-Culling material, no question about it. They are as mentally derailed as one can be and are, therefore, extremely unpredictable. Their motives, patterns of thought or anything about them is impossible to figure out. They are powerful psionics, mind you, and that's pretty much the only thing we're sure about them.<end>
-
-=>a74_original
-Why would they want that figurine?<end>
-
-=>a74
-Why would they want that figurine?<end>
-
-=>q75_original
-I don't know. I don't think even they know. That is all under the assumption that they are the ones who stole the figurine.<end>
-
-=>q75
-I don't know. I don't think even they know. That is all under the assumption that they are the ones who stole the figurine.<end>
-
-=>a76_original
-I see... I have more questions.<end>
-
-=>a76
-I see... I have more questions.<end>
-
-=>q77_original
-I'm sure you do.<end>
-
-=>q77
-I'm sure you do.<end>
-
-=>a78_original
-What is the deal with this figurine anyway? Why is it so important?<end>
-
-=>a78
-What is the deal with this figurine anyway? Why is it so important?<end>
-
-=>q79_original
-I am not at liberty to reveal that information to you.<end>
-
-=>q79
-I am not at liberty to reveal that information to you.<end>
-
-=>q80_original
-If you do manage to retrieve it... then you'll find out more.<end>
-
-=>q80
-If you do manage to retrieve it... then you'll find out more.<end>
-
-=>a81_original
-I'm on the job. I'll find that figurine and bring it here as soon as possible.<end>
-
-=>a81
-I'm on the job. I'll find that figurine and bring it here as soon as possible.<end>
-
-=>q82_original
-Do not speak to me unless you have the figurine. Tchort gu-- Bah!<end>
-
-=>q82
-Do not speak to me unless you have the figurine. Tchort gu-- Bah!<end>
-
-=>a83_original
-I'll see what I can do. Till next time, Denzil.<end>
-
-=>a83
-I'll see what I can do. Till next time, Denzil.<end>
-
-=>a84_original
-Figurine hunting, huh? I don't know... if I find it I'll bring it here. Maybe... Well, I'll be leaving now.<end>
-
-=>a84
-Figurine hunting, huh? I don't know... if I find it I'll bring it here. Maybe... Well, I'll be leaving now.<end>
-
-=>a85_original
-Do tell...<end>
-
-=>a85
-Do tell...<end>
-
-=>a86_original
-Fine, I see this is pointless...<end>
-
-=>a86
-Fine, I see this is pointless...<end>
-
-=>q87_original
-::He rolls his eyes.:: Magnificent Tchort...<end>
-
-=>q87
-::He rolls his eyes.:: Magnificent Tchort...<end>
-
-=>a88_original
-Buzz off? Is that your answer? I am so disappointed... I never even suspected that a representative of such a grand and enchanting organization such as the Institute of Tchort would say something so foul to me. I was willing to dedicate the rest of my days to Tchortism, and to happily spend those very days surrounded by men and women - brothers and sisters - who are above all the lowlife scum inhabiting the rest of Underrail.<end>
-
-=>a88
-Buzz off? Is that your answer? I am so disappointed... I never even suspected that a representative of such a grand and enchanting organization such as the Institute of Tchort would say something so foul to me. I was willing to dedicate the rest of my days to Tchortism, and to happily spend those very days surrounded by men and women - brothers and sisters - who are above all the lowlife scum inhabiting the rest of Underrail.<end>
-
-=>a89_original
-I see, I had other questions then...<end>
-
-=>a89
-I see, I had other questions then...<end>
-
-=>q90_original
-Yes?<end>
-
-=>q90
-Yes?<end>
-
-=>a91_original
-How about another question?<end>
-
-=>a91
-How about another question?<end>
-
-=>q92_original
-::He says nothing, but again his body language tells you he's not too keen on answering questions.::<end>
-
-=>q92
-::He says nothing, but again his body language tells you he's not too keen on answering questions.::<end>
-
-=>a93_original
-Can you tell me more about Tchortism and the Institute of Tchort?<end>
-
-=>a93
-Can you tell me more about Tchortism and the Institute of Tchort?<end>
-
-=>q94_original
-::He sighs.:: No. I don't have the time for that. I'm busy.<end>
-
-=>q94
-::He sighs.:: No. I don't have the time for that. I'm busy.<end>
-
-=>a95_original
-Not even for a few words? Come on, I'm not asking you to give me the full history of the organization.<end>
-
-=>a95
-Not even for a few words? Come on, I'm not asking you to give me the full history of the organization.<end>
-
-=>a96_original
-But I really want to become a Tchortist.<end>
-
-=>a96
-But I really want to become a Tchortist.<end>
-
-=>q97_original
-Again, I am sorry, but we do not accept new members. I already told you that.<end>
-
-=>q97
-Again, I am sorry, but we do not accept new members. I already told you that.<end>
-
-=>a98_original
-Is this the figurine you are looking for?<end>
-
-=>a98
-Is this the figurine you are looking for?<end>
-
-=>q99_original
-::His voice reveals instant excitement as you show him the figurine.:: 
-
-Yes, yes! That is the figurine alright! Where did you find it?<end>
-
-=>q99
-::His voice reveals instant excitement as you show him the figurine.:: 
-
-Yes, yes! That is the figurine alright! Where did you find it?<end>
-
-=>a100_original
-Gotta split. Bye.<end>
-
-=>a100
-Gotta split. Bye.<end>
-
-=>q101_original
-Yes?<end>
-
-=>q101
-Yes?<end>
-
+=>q1_original
+We will cull the Faceless!<end>
+
+=>q1
+We will cull the Faceless!<end>
+
+=>q2_original
+$(context.player.Name).<end>
+
+=>q2
+$(context.player.Name).<end>
+
+=>q3_original
+Get inside. The praepostor will be with you shortly.<end>
+
+=>q3
+Get inside. The praepostor will be with you shortly.<end>
+
+=>q4_original
+Follow me and don't stray away.<end>
+
+=>q4
+Follow me and don't stray away.<end>
+
+=>q5_original
+Are you done with everything?<end>
+
+=>q5
+Are you done with everything?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I am ready. Take this. ::Give him the figurine.::<end>
+
+=>a7
+I am ready. Take this. ::Give him the figurine.::<end>
+
+=>q8_original
+::Efreitor Denzil slowly picks up the figurine and scrutinizes it. Despite the fact that his face is covered with a mask you are certain that a pleased grin lurks beneath it. His admiration doesn't last for long though; he looks at you and signals you to follow him.::<end>
+
+=>q8
+::Efreitor Denzil slowly picks up the figurine and scrutinizes it. Despite the fact that his face is covered with a mask you are certain that a pleased grin lurks beneath it. His admiration doesn't last for long though; he looks at you and signals you to follow him.::<end>
+
+=>a9_original
+::End Dialog.::<end>
+
+=>a9
+::End Dialog.::<end>
+
+=>a10_original
+Alright. Here is the little metal man. ::Give him the figurine.::<end>
+
+=>a10
+Alright. Here is the little metal man. ::Give him the figurine.::<end>
+
+=>a11_original
+Can you finally tell me what's the deal with this figurine? Why is it so important to you?<end>
+
+=>a11
+Can you finally tell me what's the deal with this figurine? Why is it so important to you?<end>
+
+=>q12_original
+::He sighs.:: It is a part of a larger collection which is being assembled in celebration of the Institute of Tchort's one hundredth anniversary. Indeed. Foundry was commissioned to create this beautiful work of art and send it to us. After some unfortunate delays it was due to finally arrive... but, the carriers of the figurine were intercepted. I was tasked to mobilize troops and retrieve it, and that is exactly what I did... with your help. Soon it will be back in Eidein's hands, as it should be.<end>
+
+=>q12
+::He sighs.:: It is a part of a larger collection which is being assembled in celebration of the Institute of Tchort's one hundredth anniversary. Indeed. Foundry was commissioned to create this beautiful work of art and send it to us. After some unfortunate delays it was due to finally arrive... but, the carriers of the figurine were intercepted. I was tasked to mobilize troops and retrieve it, and that is exactly what I did... with your help. Soon it will be back in Eidein's hands, as it should be.<end>
+
+=>q13_original
+Happy? Now if you'd let me have the figurine I'd be glad to show you to the interview room.<end>
+
+=>q13
+Happy? Now if you'd let me have the figurine I'd be glad to show you to the interview room.<end>
+
+=>a14_original
+I need to do something first. I'll be back soon.<end>
+
+=>a14
+I need to do something first. I'll be back soon.<end>
+
+=>q15_original
+Magnificent Tchort, are you joking with me? Yo-- ::He pauses.:: Alright, make it quick; I'll wait here.<end>
+
+=>q15
+Magnificent Tchort, are you joking with me? Yo-- ::He pauses.:: Alright, make it quick; I'll wait here.<end>
+
+=>a16_original
+Not yet, I just wanted to make sure you were waiting for me.<end>
+
+=>a16
+Not yet, I just wanted to make sure you were waiting for me.<end>
+
+=>q17_original
+Hurry it up, I can't just stand around!<end>
+
+=>q17
+Hurry it up, I can't just stand around!<end>
+
+=>q18_original
+::You wait and you wait, and as more time passes you begin to wonder if Efreitor Denzil is actually going to come back. After all, he couldn't wait to get rid of you the first time you talked. But then you remember that strange metal figurine is still in your hands, the one Tchortists want so badly. You begin thinking about this strange piece of metal, about what awaits you ahead.
+
+However, your thoughts are soon interrupted by footsteps following a hurried rhythm you have already heard before: It is Efreitor Denzil.::<end>
+
+=>q18
+::You wait and you wait, and as more time passes you begin to wonder if Efreitor Denzil is actually going to come back. After all, he couldn't wait to get rid of you the first time you talked. But then you remember that strange metal figurine is still in your hands, the one Tchortists want so badly. You begin thinking about this strange piece of metal, about what awaits you ahead.
+
+However, your thoughts are soon interrupted by footsteps following a hurried rhythm you have already heard before: It is Efreitor Denzil.::<end>
+
+=>q19_original
+$(context.player.Name), I have talked to... ::He catches breath.:: uh... to the mediant and explained the situation to him. Therefore, the official word is as follows: You will be allowed to enter the Insititute building, be interviewed and if deemed fit you will be offered Institute of Tchort membership. All that in exchange for the figurine you possess.<end>
+
+=>q19
+$(context.player.Name), I have talked to... ::He catches breath.:: uh... to the mediant and explained the situation to him. Therefore, the official word is as follows: You will be allowed to enter the Insititute building, be interviewed and if deemed fit you will be offered Institute of Tchort membership. All that in exchange for the figurine you possess.<end>
+
+=>q20_original
+Speaking of which, I would like to take it now. Then I'll lead you inside.<end>
+
+=>q20
+Speaking of which, I would like to take it now. Then I'll lead you inside.<end>
+
+=>q21_original
+::As the robed man hurriedly steps outside, all three soldiers standing in front of him simultaneously take a small bow while having their hands placed on their chests, right around the heart area. Once the salute is finally over, the middle soldier takes a single step forward and addresses him.::
+
+Tchort is evolution, Efreitor.<end>
+
+=>q21
+::As the robed man hurriedly steps outside, all three soldiers standing in front of him simultaneously take a small bow while having their hands placed on their chests, right around the heart area. Once the salute is finally over, the middle soldier takes a single step forward and addresses him.::
+
+Tchort is evolution, Efreitor.<end>
+
+=>q22_original
+::The efreitor responds by performing an identical salute, excluding the bow.::
+
+Evolution is Tchort, brother. Tell me, did you manage to find anything?<end>
+
+=>q22
+::The efreitor responds by performing an identical salute, excluding the bow.::
+
+Evolution is Tchort, brother. Tell me, did you manage to find anything?<end>
+
+=>q23_original
+I'm afraid not, Efreitor. We scanned the surrounding area but found nothing other than a handful of isolated groups of bandits and scavengers, and no one possessed what we seek. I'm afraid our initial reports might just be true - Lunatics must've been behind the theft. All leads simply point to those devolved inbreds.<end>
+
+=>q23
+I'm afraid not, Efreitor. We scanned the surrounding area but found nothing other than a handful of isolated groups of bandits and scavengers, and no one possessed what we seek. I'm afraid our initial reports might just be true - Lunatics must've been behind the theft. All leads simply point to those devolved inbreds.<end>
+
+=>q24_original
+I will be the judge of that, brother. ::His stare passes over each and every one of the three individuals.:: Rassophores - you all deserve rest. Meanwhile, I will wait for the second unit to arrive; they should be here soon. ::He sighs.:: Magnificent Tchort...<end>
+
+=>q24
+I will be the judge of that, brother. ::His stare passes over each and every one of the three individuals.:: Rassophores - you all deserve rest. Meanwhile, I will wait for the second unit to arrive; they should be here soon. ::He sighs.:: Magnificent Tchort...<end>
+
+=>q25_original
+::He looks at them again.:: I said: Go and get some rest - don't just stand there like you're frozen. Inside. ::He points to the big front gate.::<end>
+
+=>q25
+::He looks at them again.:: I said: Go and get some rest - don't just stand there like you're frozen. Inside. ::He points to the big front gate.::<end>
+
+=>q26_original
+Tchort guide you, Efreitor.<end>
+
+=>q26
+Tchort guide you, Efreitor.<end>
+
+=>q27_original
+Yes... Tchort guide me...<end>
+
+=>q27
+Yes... Tchort guide me...<end>
+
+=>a28_original
+::End Dialog.::<end>
+
+=>a28
+::End Dialog.::<end>
+
+=>q29_original
+::The man seems somewhat uneasy as you come near him. Even though you are unable to see his face, what you are able to notice is how his body language expresses his apprehension. He is unable to stand completely still; he either taps his foot or crosses and uncrosses his arms, or nervously looks all around him. When you near him, you notice a symbol on his uniform - a circular eye with two tentacles sprouting from it, similar to the symbol on the large doors behind him. Soon, he speaks with a voice that sounds tense and hasty in one moment, and cold in the other.::
+
+What is it?<end>
+
+=>q29
+::The man seems somewhat uneasy as you come near him. Even though you are unable to see his face, what you are able to notice is how his body language expresses his apprehension. He is unable to stand completely still; he either taps his foot or crosses and uncrosses his arms, or nervously looks all around him. When you near him, you notice a symbol on his uniform - a circular eye with two tentacles sprouting from it, similar to the symbol on the large doors behind him. Soon, he speaks with a voice that sounds tense and hasty in one moment, and cold in the other.::
+
+What is it?<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+Who are you? Are you one of the Tchortists?<end>
+
+=>a31
+Who are you? Are you one of the Tchortists?<end>
+
+=>q32_original
+I'm Efreitor Denzil and yes - I am a Tchortist. In case you haven't noticed, you are standing at the entrance to Institute of Tchort, and all these robed guards - rassophores - are its members as well. We are here to preserve safety of the Institute - so be *very* careful of your actions during your time here.<end>
+
+=>q32
+I'm Efreitor Denzil and yes - I am a Tchortist. In case you haven't noticed, you are standing at the entrance to Institute of Tchort, and all these robed guards - rassophores - are its members as well. We are here to preserve safety of the Institute - so be *very* careful of your actions during your time here.<end>
+
+=>q33_original
+You got your answer, now leave me alone.<end>
+
+=>q33
+You got your answer, now leave me alone.<end>
+
+=>a34_original
+Tell me about the Institute of Tchort again...<end>
+
+=>a34
+Tell me about the Institute of Tchort again...<end>
+
+=>q35_original
+If you insist... ::He sighs.:: The Institute of Tchort is an institution centered around Tchort - a magnificent creature whose sole existence is a source of unimaginable knowledge and is an inspiration to all Tchortists. Ever since our founder - Eidein - first studied Tchort's genome, he discovered the potential to improve mankind - to direct human evolution towards new heights.<end>
+
+=>q35
+If you insist... ::He sighs.:: The Institute of Tchort is an institution centered around Tchort - a magnificent creature whose sole existence is a source of unimaginable knowledge and is an inspiration to all Tchortists. Ever since our founder - Eidein - first studied Tchort's genome, he discovered the potential to improve mankind - to direct human evolution towards new heights.<end>
+
+=>q36_original
+Tchort is evolution. Evolution is Tchort. One cannot go without the other. And now, since you got a brief summary - you are going to leave me alone; I have important work to do.<end>
+
+=>q36
+Tchort is evolution. Evolution is Tchort. One cannot go without the other. And now, since you got a brief summary - you are going to leave me alone; I have important work to do.<end>
+
+=>a37_original
+I would like to become a member of your organization.<end>
+
+=>a37
+I would like to become a member of your organization.<end>
+
+=>q38_original
+I'm sorry, but we can't accept new members at this particular time. We are... full, so to say.<end>
+
+=>q38
+I'm sorry, but we can't accept new members at this particular time. We are... full, so to say.<end>
+
+=>q39_original
+As you can see if you were to look around you, all these people here are waiting to join the Institute. But alas, as I've already mentioned, we cannot accept new members. Still, that doesn't stop them from waiting, which is to be respected. Tchort might reward their wait but... not at this time unfortunately.<end>
+
+=>q39
+As you can see if you were to look around you, all these people here are waiting to join the Institute. But alas, as I've already mentioned, we cannot accept new members. Still, that doesn't stop them from waiting, which is to be respected. Tchort might reward their wait but... not at this time unfortunately.<end>
+
+=>a40_original
+I don't think you understand me. I *really* want to become a Tchortist.<end>
+
+=>a40
+I don't think you understand me. I *really* want to become a Tchortist.<end>
+
+=>q41_original
+What is the matter with you? Are your ears vestigial? It's like you can't hear me properly. *We. do. not. accept. new. members!* Now buzz off!<end>
+
+=>q41
+What is the matter with you? Are your ears vestigial? It's like you can't hear me properly. *We. do. not. accept. new. members!* Now buzz off!<end>
+
+=>a42_original
+No - *you* buzz off! I want to become a member of your organization and *you* are in the way. Who do you even think you are, anyway?<end>
+
+=>a42
+No - *you* buzz off! I want to become a member of your organization and *you* are in the way. Who do you even think you are, anyway?<end>
+
+=>q43_original
+Magnificent Tchort! You must be some inbred bastard who lost the ability to understand human language several generations ago. ::He makes a short pause to allow some of the steam to come out and prevent him from exploding.:: Look here - you don't want to be disturbing an efreitor. I can order these rassophores here to cull you instantly and they wouldn't even flinch!<end>
+
+=>q43
+Magnificent Tchort! You must be some inbred bastard who lost the ability to understand human language several generations ago. ::He makes a short pause to allow some of the steam to come out and prevent him from exploding.:: Look here - you don't want to be disturbing an efreitor. I can order these rassophores here to cull you instantly and they wouldn't even flinch!<end>
+
+=>a44_original
+Order them anything you want - but I'm standing my ground here. I want to join the Institute and I'm willing to do anything to achieve that goal.<end>
+
+=>a44
+Order them anything you want - but I'm standing my ground here. I want to join the Institute and I'm willing to do anything to achieve that goal.<end>
+
+=>q45_original
+::Something tells you that, despite him looking "just" angry on the outside, on the inside he's probably turning into a ball of plasma - reaching temperatures high enough to ignite nuclear fusion. Suddenly he cools down, and his tone of voice becomes calmer, losing the red-hot edge.::
+
+Anything, you say? Anything... you say? Hmmm... Interestingly, there is, well, an issue we could use some help with...<end>
+
+=>q45
+::Something tells you that, despite him looking "just" angry on the outside, on the inside he's probably turning into a ball of plasma - reaching temperatures high enough to ignite nuclear fusion. Suddenly he cools down, and his tone of voice becomes calmer, losing the red-hot edge.::
+
+Anything, you say? Anything... you say? Hmmm... Interestingly, there is, well, an issue we could use some help with...<end>
+
+=>a46_original
+Finally we're getting somewhere.<end>
+
+=>a46
+Finally we're getting somewhere.<end>
+
+=>q47_original
+We have an issue with a missing figurine - a very important metal figurine. It was stolen from us and we need it back. Now, we aren't precisely sure who did it, but we suspect those devolved Lunatic inbreds to be behind the theft. They taint everything they touch with their filthy hands.<end>
+
+=>q47
+We have an issue with a missing figurine - a very important metal figurine. It was stolen from us and we need it back. Now, we aren't precisely sure who did it, but we suspect those devolved Lunatic inbreds to be behind the theft. They taint everything they touch with their filthy hands.<end>
+
+=>q48_original
+The metal figurine depicts a man reaching for the Surface. ::He points up.:: Up there. If you can find it, we *might* make a deal about you joining us... $(#brother/sister).<end>
+
+=>q48
+The metal figurine depicts a man reaching for the Surface. ::He points up.:: Up there. If you can find it, we *might* make a deal about you joining us... $(#brother/sister).<end>
+
+=>q49_original
+<end>
+
+=>q49
+<end>
+
+=>a50_original
+Is this the figurine you are looking for?<end>
+
+=>a50
+Is this the figurine you are looking for?<end>
+
+=>q51_original
+::His voice reveals instant excitement as soon as he is presented with the figurine.:: Wait... you had it on you this whole time? Why didn't you tell me about it?<end>
+
+=>q51
+::His voice reveals instant excitement as soon as he is presented with the figurine.:: Wait... you had it on you this whole time? Why didn't you tell me about it?<end>
+
+=>a52_original
+I didn't know you were looking for it.<end>
+
+=>a52
+I didn't know you were looking for it.<end>
+
+=>q53_original
+::He smiles.:: Yes... That's the figurine alright. Where did you find it?<end>
+
+=>q53
+::He smiles.:: Yes... That's the figurine alright. Where did you find it?<end>
+
+=>a54_original
+In the big shopping mall west of here. You were right all along - the Lunatics were the ones responsible for its theft.<end>
+
+=>a54
+In the big shopping mall west of here. You were right all along - the Lunatics were the ones responsible for its theft.<end>
+
+=>q55_original
+::Unexpectedly, Denzil falls silent. He looks like he wants to say something, but perhaps can't find the right words.::<end>
+
+=>q55
+::Unexpectedly, Denzil falls silent. He looks like he wants to say something, but perhaps can't find the right words.::<end>
+
+=>a56_original
+::[Intelligence]:: Hold on! I know what you're thinking. You never thought I would be able to find and bring you the damn figurine. You just wanted me to leave you alone.<end>
+
+=>a56
+::[Intelligence]:: Hold on! I know what you're thinking. You never thought I would be able to find and bring you the damn figurine. You just wanted me to leave you alone.<end>
+
+=>q57_original
+Yes and no. Mostly yes... Look - I don't owe you an explanation, I-- Listen... ::He sighs.:: you did us a great favor, that is undeniable. It's just that I didn't REALLY expect you to be able to accomplish the given task, that is all. I'm just... astonished. But you figured that for yourself as far as I can see...<end>
+
+=>q57
+Yes and no. Mostly yes... Look - I don't owe you an explanation, I-- Listen... ::He sighs.:: you did us a great favor, that is undeniable. It's just that I didn't REALLY expect you to be able to accomplish the given task, that is all. I'm just... astonished. But you figured that for yourself as far as I can see...<end>
+
+=>a58_original
+I hope our deal still stands. You will not get this figurine otherwise.<end>
+
+=>a58
+I hope our deal still stands. You will not get this figurine otherwise.<end>
+
+=>q59_original
+::He sighs.:: A deal is a deal. Hand me the figurine and then I'll go inside and discuss your request with my superiors.<end>
+
+=>q59
+::He sighs.:: A deal is a deal. Hand me the figurine and then I'll go inside and discuss your request with my superiors.<end>
+
+=>a60_original
+It stays with me until you come back. You go talk to your superiors first, then you'll see the figurine again.<end>
+
+=>a60
+It stays with me until you come back. You go talk to your superiors first, then you'll see the figurine again.<end>
+
+=>q61_original
+::The rassophores around you turn toward you, and you feel the atmosphere beginning to heat up again. Denzil, surprisingly, cools it back down with a single hand signal to his subordinates.:: I suppose that is acceptable - but don't leave the courtyard. I'll return soon. ::Just as he goes to leave, he turns back to you again.::
+
+Wait a moment. I never caught your name.<end>
+
+=>q61
+::The rassophores around you turn toward you, and you feel the atmosphere beginning to heat up again. Denzil, surprisingly, cools it back down with a single hand signal to his subordinates.:: I suppose that is acceptable - but don't leave the courtyard. I'll return soon. ::Just as he goes to leave, he turns back to you again.::
+
+Wait a moment. I never caught your name.<end>
+
+=>a62_original
+$(context.player.Name).<end>
+
+=>a62
+$(context.player.Name).<end>
+
+=>q63_original
+$(context.player.Name)... Alright, $(context.player.Name). Wait in front of the Institute. *Here*. I'll be back as soon as I talk to someone. Just, just be patient. Tchort guide you.<end>
+
+=>q63
+$(context.player.Name)... Alright, $(context.player.Name). Wait in front of the Institute. *Here*. I'll be back as soon as I talk to someone. Just, just be patient. Tchort guide you.<end>
+
+=>a64_original
+::Wait for him to return.::<end>
+
+=>a64
+::Wait for him to return.::<end>
+
+=>a65_original
+Whatever. I got you the figurine as you asked. Now let me in. I want to join the Institute of Tchort.<end>
+
+=>a65
+Whatever. I got you the figurine as you asked. Now let me in. I want to join the Institute of Tchort.<end>
+
+=>a66_original
+What's the matter?<end>
+
+=>a66
+What's the matter?<end>
+
+=>q67_original
+Well... I didn't really expect that... someone like, khm, you would be able to *actually* retrieve the figurine; even just locate it, let alone retrieve from the clutches of whoever stole it...<end>
+
+=>q67
+Well... I didn't really expect that... someone like, khm, you would be able to *actually* retrieve the figurine; even just locate it, let alone retrieve from the clutches of whoever stole it...<end>
+
+=>a68_original
+Is there any other way for me to join your organization?<end>
+
+=>a68
+Is there any other way for me to join your organization?<end>
+
+=>q69_original
+It's like you paid no attention to what I was talking about before...
+
+No, the figurine is the only thing that will make me *consider* trying to get you in. End of story.<end>
+
+=>q69
+It's like you paid no attention to what I was talking about before...
+
+No, the figurine is the only thing that will make me *consider* trying to get you in. End of story.<end>
+
+=>a70_original
+Where should I start looking for it?<end>
+
+=>a70
+Where should I start looking for it?<end>
+
+=>q71_original
+Well, our rassophore scouts have learned some time ago that large groups of Lunatics were seen in the vicinity of the Emporion shopping mall. That's west of here. If the Lunatics are the ones who took the figurine, that would be the best start.<end>
+
+=>q71
+Well, our rassophore scouts have learned some time ago that large groups of Lunatics were seen in the vicinity of the Emporion shopping mall. That's west of here. If the Lunatics are the ones who took the figurine, that would be the best start.<end>
+
+=>a72_original
+What can you tell me about Lunatics?<end>
+
+=>a72
+What can you tell me about Lunatics?<end>
+
+=>q73_original
+Culling material, no question about it. They are as mentally derailed as one can be and are, therefore, extremely unpredictable. Their motives, patterns of thought or anything about them is impossible to figure out. They are powerful psionics, mind you, and that's pretty much the only thing we're sure about them.<end>
+
+=>q73
+Culling material, no question about it. They are as mentally derailed as one can be and are, therefore, extremely unpredictable. Their motives, patterns of thought or anything about them is impossible to figure out. They are powerful psionics, mind you, and that's pretty much the only thing we're sure about them.<end>
+
+=>a74_original
+Why would they want that figurine?<end>
+
+=>a74
+Why would they want that figurine?<end>
+
+=>q75_original
+I don't know. I don't think even they know. That is all under the assumption that they are the ones who stole the figurine.<end>
+
+=>q75
+I don't know. I don't think even they know. That is all under the assumption that they are the ones who stole the figurine.<end>
+
+=>a76_original
+I see... I have more questions.<end>
+
+=>a76
+I see... I have more questions.<end>
+
+=>q77_original
+I'm sure you do.<end>
+
+=>q77
+I'm sure you do.<end>
+
+=>a78_original
+What is the deal with this figurine anyway? Why is it so important?<end>
+
+=>a78
+What is the deal with this figurine anyway? Why is it so important?<end>
+
+=>q79_original
+I am not at liberty to reveal that information to you.<end>
+
+=>q79
+I am not at liberty to reveal that information to you.<end>
+
+=>q80_original
+If you do manage to retrieve it... then you'll find out more.<end>
+
+=>q80
+If you do manage to retrieve it... then you'll find out more.<end>
+
+=>a81_original
+I'm on the job. I'll find that figurine and bring it here as soon as possible.<end>
+
+=>a81
+I'm on the job. I'll find that figurine and bring it here as soon as possible.<end>
+
+=>q82_original
+Do not speak to me unless you have the figurine. Tchort gu-- Bah!<end>
+
+=>q82
+Do not speak to me unless you have the figurine. Tchort gu-- Bah!<end>
+
+=>a83_original
+I'll see what I can do. Till next time, Denzil.<end>
+
+=>a83
+I'll see what I can do. Till next time, Denzil.<end>
+
+=>a84_original
+Figurine hunting, huh? I don't know... if I find it I'll bring it here. Maybe... Well, I'll be leaving now.<end>
+
+=>a84
+Figurine hunting, huh? I don't know... if I find it I'll bring it here. Maybe... Well, I'll be leaving now.<end>
+
+=>a85_original
+Do tell...<end>
+
+=>a85
+Do tell...<end>
+
+=>a86_original
+Fine, I see this is pointless...<end>
+
+=>a86
+Fine, I see this is pointless...<end>
+
+=>q87_original
+::He rolls his eyes.:: Magnificent Tchort...<end>
+
+=>q87
+::He rolls his eyes.:: Magnificent Tchort...<end>
+
+=>a88_original
+Buzz off? Is that your answer? I am so disappointed... I never even suspected that a representative of such a grand and enchanting organization such as the Institute of Tchort would say something so foul to me. I was willing to dedicate the rest of my days to Tchortism, and to happily spend those very days surrounded by men and women - brothers and sisters - who are above all the lowlife scum inhabiting the rest of Underrail.<end>
+
+=>a88
+Buzz off? Is that your answer? I am so disappointed... I never even suspected that a representative of such a grand and enchanting organization such as the Institute of Tchort would say something so foul to me. I was willing to dedicate the rest of my days to Tchortism, and to happily spend those very days surrounded by men and women - brothers and sisters - who are above all the lowlife scum inhabiting the rest of Underrail.<end>
+
+=>a89_original
+I see, I had other questions then...<end>
+
+=>a89
+I see, I had other questions then...<end>
+
+=>q90_original
+Yes?<end>
+
+=>q90
+Yes?<end>
+
+=>a91_original
+How about another question?<end>
+
+=>a91
+How about another question?<end>
+
+=>q92_original
+::He says nothing, but again his body language tells you he's not too keen on answering questions.::<end>
+
+=>q92
+::He says nothing, but again his body language tells you he's not too keen on answering questions.::<end>
+
+=>a93_original
+Can you tell me more about Tchortism and the Institute of Tchort?<end>
+
+=>a93
+Can you tell me more about Tchortism and the Institute of Tchort?<end>
+
+=>q94_original
+::He sighs.:: No. I don't have the time for that. I'm busy.<end>
+
+=>q94
+::He sighs.:: No. I don't have the time for that. I'm busy.<end>
+
+=>a95_original
+Not even for a few words? Come on, I'm not asking you to give me the full history of the organization.<end>
+
+=>a95
+Not even for a few words? Come on, I'm not asking you to give me the full history of the organization.<end>
+
+=>a96_original
+But I really want to become a Tchortist.<end>
+
+=>a96
+But I really want to become a Tchortist.<end>
+
+=>q97_original
+Again, I am sorry, but we do not accept new members. I already told you that.<end>
+
+=>q97
+Again, I am sorry, but we do not accept new members. I already told you that.<end>
+
+=>a98_original
+Is this the figurine you are looking for?<end>
+
+=>a98
+Is this the figurine you are looking for?<end>
+
+=>q99_original
+::His voice reveals instant excitement as you show him the figurine.:: 
+
+Yes, yes! That is the figurine alright! Where did you find it?<end>
+
+=>q99
+::His voice reveals instant excitement as you show him the figurine.:: 
+
+Yes, yes! That is the figurine alright! Where did you find it?<end>
+
+=>a100_original
+Gotta split. Bye.<end>
+
+=>a100
+Gotta split. Bye.<end>
+
+=>q101_original
+Yes?<end>
+
+=>q101
+Yes?<end>
+

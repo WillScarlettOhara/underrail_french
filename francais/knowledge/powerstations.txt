@@ -1,5 +1,5 @@
 ::gms_DisplayName
-GMS (Auxiliary)
+GMS (Auxiliaire)
 
 ::gms_slot_aux1
 AUX 1
@@ -14,16 +14,16 @@ AUX 3
 AUX 4
 
 ::gms_client_auxLight
-Aux Lights
+Éclairage auxiliaire
 
 ::gms_client_commons
-Commons
+Espaces communs
 
-::gms_client_turrets
-Turret Defense System
+::gms_client_turret
+Système de défense par tourelle
 
 ::gms_client_elevator
-Elevator
+Ascenseur
 
 ::gms_client_surv
-Surveillance System
+Système de surveillance

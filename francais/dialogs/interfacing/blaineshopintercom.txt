@@ -1,42 +1,42 @@
-=>q1_original
-::This intercom seems fully functional.::<end>
-
-=>q1
-::This intercom seems fully functional.::<end>
-
-=>a2_original
-::Ring twice short, once long and twice short again.::<end>
-
-=>a2
-::Ring twice short, once long and twice short again.::<end>
-
-=>q3_original
-::The electronic door unlocks.::<end>
-
-=>q3
-::The electronic door unlocks.::<end>
-
-=>q4_original
-::Nothing happens::<end>
-
-=>q4
-::Nothing happens::<end>
-
-=>a5_original
-::Ring it.::<end>
-
-=>a5
-::Ring it.::<end>
-
-=>q6_original
-::Nothing happens.::<end>
-
-=>q6
-::Nothing happens.::<end>
-
-=>a7_original
-::Leave.::<end>
-
-=>a7
-::Leave.::<end>
-
+=>q1_original
+::This intercom seems fully functional.::<end>
+
+=>q1
+::This intercom seems fully functional.::<end>
+
+=>a2_original
+::Ring twice short, once long and twice short again.::<end>
+
+=>a2
+::Ring twice short, once long and twice short again.::<end>
+
+=>q3_original
+::The electronic door unlocks.::<end>
+
+=>q3
+::The electronic door unlocks.::<end>
+
+=>q4_original
+::Nothing happens::<end>
+
+=>q4
+::Nothing happens::<end>
+
+=>a5_original
+::Ring it.::<end>
+
+=>a5
+::Ring it.::<end>
+
+=>q6_original
+::Nothing happens.::<end>
+
+=>q6
+::Nothing happens.::<end>
+
+=>a7_original
+::Leave.::<end>
+
+=>a7
+::Leave.::<end>
+

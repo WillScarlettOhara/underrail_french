@@ -1,84 +1,84 @@
-=>q1_original
-::Enter the document code: ::<end>
-
-=>q1
-::Enter the document code: ::<end>
-
-=>a2_original
-::Enter #41FG9981::<end>
-
-=>a2
-::Enter #41FG9981::<end>
-
-=>q3_original
-::Mica Maas - cleaning [See: #87AC8X0] [broken link]
-Ramon Carson - genetics, assistant to Olexiy Macar [See: #6GH1124] [broken link]
-Albert 'Al' Russell - genetics, assistant to Wit Nosek [See: #591FFV2] [broken link]
-Arron Deluca - chemistry, assistant to  Njord Abbott [See: #O4C1903] [broken link]::<end>
-
-=>q3
-::Mica Maas - cleaning [See: #87AC8X0] [broken link]
-Ramon Carson - genetics, assistant to Olexiy Macar [See: #6GH1124] [broken link]
-Albert 'Al' Russell - genetics, assistant to Wit Nosek [See: #591FFV2] [broken link]
-Arron Deluca - chemistry, assistant to  Njord Abbott [See: #O4C1903] [broken link]::<end>
-
-=>a4_original
-::Back::<end>
-
-=>a4
-::Back::<end>
-
-=>a5_original
-::Enter #87AC8X0::<end>
-
-=>a5
-::Enter #87AC8X0::<end>
-
-=>q6_original
-::[broken link]::<end>
-
-=>q6
-::[broken link]::<end>
-
-=>a7_original
-::Back::<end>
-
-=>a7
-::Back::<end>
-
-=>a8_original
-::Enter #6GH1124::<end>
-
-=>a8
-::Enter #6GH1124::<end>
-
-=>a9_original
-::Enter #591FFV2::<end>
-
-=>a9
-::Enter #591FFV2::<end>
-
-=>a10_original
-::Enter #O4C1903::<end>
-
-=>a10
-::Enter #O4C1903::<end>
-
-=>a11_original
-::Enter random numbers::<end>
-
-=>a11
-::Enter random numbers::<end>
-
-=>q12_original
-::Invalid document code.::<end>
-
-=>q12
-::Invalid document code.::<end>
-
-=>a13_original
-::Exit::<end>
-
-=>a13
-::Exit::<end>
-
+=>q1_original
+::Enter the document code: ::<end>
+
+=>q1
+::Enter the document code: ::<end>
+
+=>a2_original
+::Enter #41FG9981::<end>
+
+=>a2
+::Enter #41FG9981::<end>
+
+=>q3_original
+::Mica Maas - cleaning [See: #87AC8X0] [broken link]
+Ramon Carson - genetics, assistant to Olexiy Macar [See: #6GH1124] [broken link]
+Albert 'Al' Russell - genetics, assistant to Wit Nosek [See: #591FFV2] [broken link]
+Arron Deluca - chemistry, assistant to  Njord Abbott [See: #O4C1903] [broken link]::<end>
+
+=>q3
+::Mica Maas - cleaning [See: #87AC8X0] [broken link]
+Ramon Carson - genetics, assistant to Olexiy Macar [See: #6GH1124] [broken link]
+Albert 'Al' Russell - genetics, assistant to Wit Nosek [See: #591FFV2] [broken link]
+Arron Deluca - chemistry, assistant to  Njord Abbott [See: #O4C1903] [broken link]::<end>
+
+=>a4_original
+::Back::<end>
+
+=>a4
+::Back::<end>
+
+=>a5_original
+::Enter #87AC8X0::<end>
+
+=>a5
+::Enter #87AC8X0::<end>
+
+=>q6_original
+::[broken link]::<end>
+
+=>q6
+::[broken link]::<end>
+
+=>a7_original
+::Back::<end>
+
+=>a7
+::Back::<end>
+
+=>a8_original
+::Enter #6GH1124::<end>
+
+=>a8
+::Enter #6GH1124::<end>
+
+=>a9_original
+::Enter #591FFV2::<end>
+
+=>a9
+::Enter #591FFV2::<end>
+
+=>a10_original
+::Enter #O4C1903::<end>
+
+=>a10
+::Enter #O4C1903::<end>
+
+=>a11_original
+::Enter random numbers::<end>
+
+=>a11
+::Enter random numbers::<end>
+
+=>q12_original
+::Invalid document code.::<end>
+
+=>q12
+::Invalid document code.::<end>
+
+=>a13_original
+::Exit::<end>
+
+=>a13
+::Exit::<end>
+

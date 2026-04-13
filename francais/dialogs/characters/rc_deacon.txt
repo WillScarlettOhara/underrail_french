@@ -1,78 +1,78 @@
-=>q1_original
-Ah, a fresh face in town. Welcome to my little shop.<end>
-
-=>q1
-Ah, a fresh face in town. Welcome to my little shop.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-What is this place?<end>
-
-=>a3
-What is this place?<end>
-
-=>q4_original
-This is my little shop of wonders for the perceptive... or the initiated.<end>
-
-=>q4
-This is my little shop of wonders for the perceptive... or the initiated.<end>
-
-=>a5_original
-What do you mean - "initiated"?<end>
-
-=>a5
-What do you mean - "initiated"?<end>
-
-=>q6_original
-That is not for you to know, it seems.<end>
-
-=>q6
-That is not for you to know, it seems.<end>
-
-=>a7_original
-I see.<end>
-
-=>a7
-I see.<end>
-
-=>q8_original
-That you did.<end>
-
-=>q8
-That you did.<end>
-
-=>a9_original
-Show me what you have for sale. ::Barter.::<end>
-
-=>a9
-Show me what you have for sale. ::Barter.::<end>
-
-=>a10_original
-I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
-
-=>a10
-I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
-
-=>q11_original
-No.<end>
-
-=>q11
-No.<end>
-
-=>a12_original
-Never mind.<end>
-
-=>a12
-Never mind.<end>
-
-=>q13_original
-Back for some more goodies?<end>
-
-=>q13
-Back for some more goodies?<end>
-
+=>q1_original
+Ah, a fresh face in town. Welcome to my little shop.<end>
+
+=>q1
+Ah, a fresh face in town. Welcome to my little shop.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What is this place?<end>
+
+=>a3
+What is this place?<end>
+
+=>q4_original
+This is my little shop of wonders for the perceptive... or the initiated.<end>
+
+=>q4
+This is my little shop of wonders for the perceptive... or the initiated.<end>
+
+=>a5_original
+What do you mean - "initiated"?<end>
+
+=>a5
+What do you mean - "initiated"?<end>
+
+=>q6_original
+That is not for you to know, it seems.<end>
+
+=>q6
+That is not for you to know, it seems.<end>
+
+=>a7_original
+I see.<end>
+
+=>a7
+I see.<end>
+
+=>q8_original
+That you did.<end>
+
+=>q8
+That you did.<end>
+
+=>a9_original
+Show me what you have for sale. ::Barter.::<end>
+
+=>a9
+Show me what you have for sale. ::Barter.::<end>
+
+=>a10_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a10
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>q11_original
+No.<end>
+
+=>q11
+No.<end>
+
+=>a12_original
+Never mind.<end>
+
+=>a12
+Never mind.<end>
+
+=>q13_original
+Back for some more goodies?<end>
+
+=>q13
+Back for some more goodies?<end>
+

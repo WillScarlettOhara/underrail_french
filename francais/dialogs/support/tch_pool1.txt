@@ -1,54 +1,54 @@
-=>q1_original
-NOT NOW!<end>
-
-=>q1
-NOT NOW!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Not now, $(#brother/sister), I need to focus!<end>
-
-=>q3
-Not now, $(#brother/sister), I need to focus!<end>
-
-=>q4_original
-Hmmmm...<end>
-
-=>q4
-Hmmmm...<end>
-
-=>q5_original
-She is good... but is she *that* good?<end>
-
-=>q5
-She is good... but is she *that* good?<end>
-
-=>q6_original
-I'm the apex player! HAHA!<end>
-
-=>q6
-I'm the apex player! HAHA!<end>
-
-=>q7_original
-Tchort guide me to victory!<end>
-
-=>q7
-Tchort guide me to victory!<end>
-
-=>q8_original
-Shhh... you're distracting me!<end>
-
-=>q8
-Shhh... you're distracting me!<end>
-
-=>q9_original
-::He waves you away.:: Must... concentrate.<end>
-
-=>q9
-::He waves you away.:: Must... concentrate.<end>
-
+=>q1_original
+NOT NOW!<end>
+
+=>q1
+NOT NOW!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Not now, $(#brother/sister), I need to focus!<end>
+
+=>q3
+Not now, $(#brother/sister), I need to focus!<end>
+
+=>q4_original
+Hmmmm...<end>
+
+=>q4
+Hmmmm...<end>
+
+=>q5_original
+She is good... but is she *that* good?<end>
+
+=>q5
+She is good... but is she *that* good?<end>
+
+=>q6_original
+I'm the apex player! HAHA!<end>
+
+=>q6
+I'm the apex player! HAHA!<end>
+
+=>q7_original
+Tchort guide me to victory!<end>
+
+=>q7
+Tchort guide me to victory!<end>
+
+=>q8_original
+Shhh... you're distracting me!<end>
+
+=>q8
+Shhh... you're distracting me!<end>
+
+=>q9_original
+::He waves you away.:: Must... concentrate.<end>
+
+=>q9
+::He waves you away.:: Must... concentrate.<end>
+

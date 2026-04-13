@@ -1,176 +1,176 @@
-=>q1_original
-::You see a dull-faced man wearing a doctor's coat. Looking at it you imagine it once used to be fresh and chalk-white before age and consistent use combined introduced unwashable impurities. It is as if the coat reflects its owner, for he too invokes a clear image of someone who used to be young and full of spirit but is now shriveling up as the hardships of life slowly win their personal war, one battle at a time. He looks at you with his tired, lifeless eyes and addresses you with a monotone voice.::
-
-Hello, I'm Doctor Stevenson. How may I help you?<end>
-
-=>q1
-::You see a dull-faced man wearing a doctor's coat. Looking at it you imagine it once used to be fresh and chalk-white before age and consistent use combined introduced unwashable impurities. It is as if the coat reflects its owner, for he too invokes a clear image of someone who used to be young and full of spirit but is now shriveling up as the hardships of life slowly win their personal war, one battle at a time. He looks at you with his tired, lifeless eyes and addresses you with a monotone voice.::
-
-Hello, I'm Doctor Stevenson. How may I help you?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Can you check my wounds, Doc?<end>
-
-=>a3
-Can you check my wounds, Doc?<end>
-
-=>q4_original
-Sure, but it'll cost you ten charons.<end>
-
-=>q4
-Sure, but it'll cost you ten charons.<end>
-
-=>a5_original
-Here you go, doc. ::Pay ten stygian coins.::<end>
-
-=>a5
-Here you go, doc. ::Pay ten stygian coins.::<end>
-
-=>a6_original
-I'm okay, I was just joking.<end>
-
-=>a6
-I'm okay, I was just joking.<end>
-
-=>q7_original
-::He answers with a sour face.:: Yes. Anything else?<end>
-
-=>q7
-::He answers with a sour face.:: Yes. Anything else?<end>
-
-=>a8_original
-What can you tell me about Foundry?<end>
-
-=>a8
-What can you tell me about Foundry?<end>
-
-=>q9_original
-Do you really want to know what I think of Foundry?<end>
-
-=>q9
-Do you really want to know what I think of Foundry?<end>
-
-=>a10_original
-Yes.<end>
-
-=>a10
-Yes.<end>
-
-=>q11_original
-Foundry... people die in this place in such numbers it makes me sick. I often wake up thinking about lost lives, people I could've saved, or dismembered bodies that are brought in my office every day. I wanted to help people, see joyful faces as I tell them that their loved ones are going to make it, that those injuries will heal quickly, or that the pollution will cause them no long-term harm.
-
-But no, I just face death. Each and every day.<end>
-
-=>q11
-Foundry... people die in this place in such numbers it makes me sick. I often wake up thinking about lost lives, people I could've saved, or dismembered bodies that are brought in my office every day. I wanted to help people, see joyful faces as I tell them that their loved ones are going to make it, that those injuries will heal quickly, or that the pollution will cause them no long-term harm.
-
-But no, I just face death. Each and every day.<end>
-
-=>q12_original
-So, enjoy your stay, traveler, and take care.<end>
-
-=>q12
-So, enjoy your stay, traveler, and take care.<end>
-
-=>a13_original
-On second thought, maybe not.<end>
-
-=>a13
-On second thought, maybe not.<end>
-
-=>q14_original
-Good choice. Anything else?<end>
-
-=>q14
-Good choice. Anything else?<end>
-
-=>a15_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a15
-How do you feel now that the mine has been reopened?<end>
-
-=>q16_original
-Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
-
-=>q16
-Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
-
-=>q17_original
-Foundry is back in business; the muck machine roars again.<end>
-
-=>q17
-Foundry is back in business; the muck machine roars again.<end>
-
-=>a18_original
-So, how's it going?<end>
-
-=>a18
-So, how's it going?<end>
-
-=>q19_original
-::His barren stare meets yours.:: People are still dying.<end>
-
-=>q19
-::His barren stare meets yours.:: People are still dying.<end>
-
-=>q20_original
-So, the usual.<end>
-
-=>q20
-So, the usual.<end>
-
-=>a21_original
-Can you tell me anything about the mine creatures?<end>
-
-=>a21
-Can you tell me anything about the mine creatures?<end>
-
-=>q22_original
-The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
-
-=>q22
-The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
-
-=>q23_original
-That's all I know about the creatures. They kill.<end>
-
-=>q23
-That's all I know about the creatures. They kill.<end>
-
-=>a24_original
-Is there something wrong with that crazy man outside?<end>
-
-=>a24
-Is there something wrong with that crazy man outside?<end>
-
-=>q25_original
-The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
-
-=>q25
-The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
-
-=>q26_original
-Not important anyway. I have better things to do.<end>
-
-=>q26
-Not important anyway. I have better things to do.<end>
-
-=>a27_original
-I don't need anything. Goodbye.<end>
-
-=>a27
-I don't need anything. Goodbye.<end>
-
-=>q28_original
-Next, please.<end>
-
-=>q28
-Next, please.<end>
-
+=>q1_original
+::You see a dull-faced man wearing a doctor's coat. Looking at it you imagine it once used to be fresh and chalk-white before age and consistent use combined introduced unwashable impurities. It is as if the coat reflects its owner, for he too invokes a clear image of someone who used to be young and full of spirit but is now shriveling up as the hardships of life slowly win their personal war, one battle at a time. He looks at you with his tired, lifeless eyes and addresses you with a monotone voice.::
+
+Hello, I'm Doctor Stevenson. How may I help you?<end>
+
+=>q1
+::You see a dull-faced man wearing a doctor's coat. Looking at it you imagine it once used to be fresh and chalk-white before age and consistent use combined introduced unwashable impurities. It is as if the coat reflects its owner, for he too invokes a clear image of someone who used to be young and full of spirit but is now shriveling up as the hardships of life slowly win their personal war, one battle at a time. He looks at you with his tired, lifeless eyes and addresses you with a monotone voice.::
+
+Hello, I'm Doctor Stevenson. How may I help you?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Can you check my wounds, Doc?<end>
+
+=>a3
+Can you check my wounds, Doc?<end>
+
+=>q4_original
+Sure, but it'll cost you ten charons.<end>
+
+=>q4
+Sure, but it'll cost you ten charons.<end>
+
+=>a5_original
+Here you go, doc. ::Pay ten stygian coins.::<end>
+
+=>a5
+Here you go, doc. ::Pay ten stygian coins.::<end>
+
+=>a6_original
+I'm okay, I was just joking.<end>
+
+=>a6
+I'm okay, I was just joking.<end>
+
+=>q7_original
+::He answers with a sour face.:: Yes. Anything else?<end>
+
+=>q7
+::He answers with a sour face.:: Yes. Anything else?<end>
+
+=>a8_original
+What can you tell me about Foundry?<end>
+
+=>a8
+What can you tell me about Foundry?<end>
+
+=>q9_original
+Do you really want to know what I think of Foundry?<end>
+
+=>q9
+Do you really want to know what I think of Foundry?<end>
+
+=>a10_original
+Yes.<end>
+
+=>a10
+Yes.<end>
+
+=>q11_original
+Foundry... people die in this place in such numbers it makes me sick. I often wake up thinking about lost lives, people I could've saved, or dismembered bodies that are brought in my office every day. I wanted to help people, see joyful faces as I tell them that their loved ones are going to make it, that those injuries will heal quickly, or that the pollution will cause them no long-term harm.
+
+But no, I just face death. Each and every day.<end>
+
+=>q11
+Foundry... people die in this place in such numbers it makes me sick. I often wake up thinking about lost lives, people I could've saved, or dismembered bodies that are brought in my office every day. I wanted to help people, see joyful faces as I tell them that their loved ones are going to make it, that those injuries will heal quickly, or that the pollution will cause them no long-term harm.
+
+But no, I just face death. Each and every day.<end>
+
+=>q12_original
+So, enjoy your stay, traveler, and take care.<end>
+
+=>q12
+So, enjoy your stay, traveler, and take care.<end>
+
+=>a13_original
+On second thought, maybe not.<end>
+
+=>a13
+On second thought, maybe not.<end>
+
+=>q14_original
+Good choice. Anything else?<end>
+
+=>q14
+Good choice. Anything else?<end>
+
+=>a15_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a15
+How do you feel now that the mine has been reopened?<end>
+
+=>q16_original
+Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
+
+=>q16
+Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
+
+=>q17_original
+Foundry is back in business; the muck machine roars again.<end>
+
+=>q17
+Foundry is back in business; the muck machine roars again.<end>
+
+=>a18_original
+So, how's it going?<end>
+
+=>a18
+So, how's it going?<end>
+
+=>q19_original
+::His barren stare meets yours.:: People are still dying.<end>
+
+=>q19
+::His barren stare meets yours.:: People are still dying.<end>
+
+=>q20_original
+So, the usual.<end>
+
+=>q20
+So, the usual.<end>
+
+=>a21_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a21
+Can you tell me anything about the mine creatures?<end>
+
+=>q22_original
+The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
+
+=>q22
+The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
+
+=>q23_original
+That's all I know about the creatures. They kill.<end>
+
+=>q23
+That's all I know about the creatures. They kill.<end>
+
+=>a24_original
+Is there something wrong with that crazy man outside?<end>
+
+=>a24
+Is there something wrong with that crazy man outside?<end>
+
+=>q25_original
+The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
+
+=>q25
+The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
+
+=>q26_original
+Not important anyway. I have better things to do.<end>
+
+=>q26
+Not important anyway. I have better things to do.<end>
+
+=>a27_original
+I don't need anything. Goodbye.<end>
+
+=>a27
+I don't need anything. Goodbye.<end>
+
+=>q28_original
+Next, please.<end>
+
+=>q28
+Next, please.<end>
+

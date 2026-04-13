@@ -1,42 +1,42 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Stew? Passable.<end>
-
-=>q2
-Stew? Passable.<end>
-
-=>q3_original
-Some hopper... Some more...<end>
-
-=>q3
-Some hopper... Some more...<end>
-
-=>q4_original
-Mushroom salad: The best thing I ever tasted!<end>
-
-=>q4
-Mushroom salad: The best thing I ever tasted!<end>
-
-=>q5_original
-Burrower e-- Nope!<end>
-
-=>q5
-Burrower e-- Nope!<end>
-
-=>q6_original
-Siphoner tongue...? ::Shrugs.:: Let's give it a shot.<end>
-
-=>q6
-Siphoner tongue...? ::Shrugs.:: Let's give it a shot.<end>
-
-=>q7_original
-I hate eels...<end>
-
-=>q7
-I hate eels...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Stew? Passable.<end>
+
+=>q2
+Stew? Passable.<end>
+
+=>q3_original
+Some hopper... Some more...<end>
+
+=>q3
+Some hopper... Some more...<end>
+
+=>q4_original
+Mushroom salad: The best thing I ever tasted!<end>
+
+=>q4
+Mushroom salad: The best thing I ever tasted!<end>
+
+=>q5_original
+Burrower e-- Nope!<end>
+
+=>q5
+Burrower e-- Nope!<end>
+
+=>q6_original
+Siphoner tongue...? ::Shrugs.:: Let's give it a shot.<end>
+
+=>q6
+Siphoner tongue...? ::Shrugs.:: Let's give it a shot.<end>
+
+=>q7_original
+I hate eels...<end>
+
+=>q7
+I hate eels...<end>
+

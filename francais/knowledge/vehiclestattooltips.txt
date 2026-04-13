@@ -1,68 +1,68 @@
-::Durability
-Shows current and maximum durability points of the vehicle. When the current durability points reach zero, the vehicle is destroyed and the driver dies. Many vehicle parts, items in the trunk and the driver itself are likely to be completely destroyed when this happens.
-
-::Energy
-Shows current stored energy and the maximum battery capacity. When the vehicle runs out of energy it will engage the auxiliary power and move extremely slowly.
-
-::EnginePower
-Engine power determines how fast the vehicle will move under certain weight. The number represents the maximum total weight (including the vehicle parts, items in the trunk and the driver) the vehicle can take on and move at the nominal speed for the vehicle type.
-
-Having excess or deficit of power will modify the vehicle speed accordingly. 
-
-::Consumption
-Some engines are more efficient than others. The number represents the effective engine power when it comes to determining the energy consumption.
-
-::EnergyPerTile
-The amount of energy the vehicle consumes when it moves the distance of one kilometer. Some engines are more efficient than others.
-
-::Weight
-Vehicle weight is the total weight of the vehicle chasis plus the vehicle parts installed. Total weight is vehicle weight plus the weight of items stored in the trunk, plus the weight of the driver if they are currently mounting the vehicle.
-
-::BaseSpeed
-This is the base speed for the vehicle type (e.g. standing jetski). This speed is further modified by engine power, loaded weight and the chassis aero/hydo-dynamicity.
-
-::SpeedModifier
-This is the speed modifier of the current vehicle chassis. Some models are more aero/hydro-dynamic than others.
-
-Positive speed modifiers are only applied if the vehicle is not out of energy and is not carrying more weight than it can normaly support with its engine.
-
-::UnmannedSpeed
-This is the current theoretical unmanned vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).
-
-::MannedSpeed
-This is the current actual vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).
-
-::Stability
-Stability indicates how stable and easy to do combat from the vehicle is, influencing both ranged and melee (though to a lesser degree), as well as throwing, precision. Precision of melee attacks is further modified by the vehicle's maneuverability, and precision of short range melee weapons (knives and fist weapons), as well as unarmed attacks, is further reduced by additional 10%.
-
-::MeleeDamageBonus
-Bonus to melee damage when attacking from this vehicle due to vehicle speed.
-
-::Cover
-The chance that the incoming attack will hit the vehicle instead of the driver.
-
-In case of an area of effect attack it represents the amount of damage that the vehicle will bear in driver's stead.
-
-::ResistanceDescription
-The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. The unabsorbed amount reduces the vehicles durability.
-
-::ResistanceMechanical
-The amount of mechanical damage the vehicle's armor can absorb.
-
-::ResistanceHeat
-The amount of heat damage the vehicle's armor can absorb.
-
-::ResistanceCold
-The amount of cold damage the vehicle's armor can absorb.
-
-::ResistanceElectricity
-The amount of electrical damage the vehicle's armor can absorb.
-
-::ResistanceAcid
-The amount of acid damage the vehicle's armor can absorb.
-
-::ResistanceEnergy
-The amount of energy damage the vehicle's armor can absorb.
-
-::ResistanceBio
-The amount of bio damage the vehicle's armor can absorb.
+::Durability
+Shows current and maximum durability points of the vehicle. When the current durability points reach zero, the vehicle is destroyed and the driver dies. Many vehicle parts, items in the trunk and the driver itself are likely to be completely destroyed when this happens.
+
+::Energy
+Shows current stored energy and the maximum battery capacity. When the vehicle runs out of energy it will engage the auxiliary power and move extremely slowly.
+
+::EnginePower
+Engine power determines how fast the vehicle will move under certain weight. The number represents the maximum total weight (including the vehicle parts, items in the trunk and the driver) the vehicle can take on and move at the nominal speed for the vehicle type.
+
+Having excess or deficit of power will modify the vehicle speed accordingly. 
+
+::Consumption
+Some engines are more efficient than others. The number represents the effective engine power when it comes to determining the energy consumption.
+
+::EnergyPerTile
+The amount of energy the vehicle consumes when it moves the distance of one kilometer. Some engines are more efficient than others.
+
+::Weight
+Vehicle weight is the total weight of the vehicle chasis plus the vehicle parts installed. Total weight is vehicle weight plus the weight of items stored in the trunk, plus the weight of the driver if they are currently mounting the vehicle.
+
+::BaseSpeed
+This is the base speed for the vehicle type (e.g. standing jetski). This speed is further modified by engine power, loaded weight and the chassis aero/hydo-dynamicity.
+
+::SpeedModifier
+This is the speed modifier of the current vehicle chassis. Some models are more aero/hydro-dynamic than others.
+
+Positive speed modifiers are only applied if the vehicle is not out of energy and is not carrying more weight than it can normaly support with its engine.
+
+::UnmannedSpeed
+This is the current theoretical unmanned vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).
+
+::MannedSpeed
+This is the current actual vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability).
+
+::Stability
+Stability indicates how stable and easy to do combat from the vehicle is, influencing both ranged and melee (though to a lesser degree), as well as throwing, precision. Precision of melee attacks is further modified by the vehicle's maneuverability, and precision of short range melee weapons (knives and fist weapons), as well as unarmed attacks, is further reduced by additional 10%.
+
+::MeleeDamageBonus
+Bonus to melee damage when attacking from this vehicle due to vehicle speed.
+
+::Cover
+The chance that the incoming attack will hit the vehicle instead of the driver.
+
+In case of an area of effect attack it represents the amount of damage that the vehicle will bear in driver's stead.
+
+::ResistanceDescription
+The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. The unabsorbed amount reduces the vehicles durability.
+
+::ResistanceMechanical
+The amount of mechanical damage the vehicle's armor can absorb.
+
+::ResistanceHeat
+The amount of heat damage the vehicle's armor can absorb.
+
+::ResistanceCold
+The amount of cold damage the vehicle's armor can absorb.
+
+::ResistanceElectricity
+The amount of electrical damage the vehicle's armor can absorb.
+
+::ResistanceAcid
+The amount of acid damage the vehicle's armor can absorb.
+
+::ResistanceEnergy
+The amount of energy damage the vehicle's armor can absorb.
+
+::ResistanceBio
+The amount of bio damage the vehicle's armor can absorb.

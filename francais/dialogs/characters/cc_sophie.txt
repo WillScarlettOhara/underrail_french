@@ -1,848 +1,848 @@
-=>q1_original
-You must be one of Maxim's friends... Whatever...<end>
-
-=>q1
-You must be one of Maxim's friends... Whatever...<end>
-
-=>q2_original
-Have you seen Drilleg? I can't seem to find him...<end>
-
-=>q2
-Have you seen Drilleg? I can't seem to find him...<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-Did you name your little pet?<end>
-
-=>a4
-Did you name your little pet?<end>
-
-=>q5_original
-Yes, I did! I was thinking about all these hardcore names, but nothing sounded... hardcore enough. Then it hit me! Literally, the creature hit me with its drill-head thing... in the leg. Drill... Leg... *Drill...* *Leg...* So I named him Drilleg! ::She laughs.:: Drilleg - say it... Drilleg. Driiiiii-leeeeeg.<end>
-
-=>q5
-Yes, I did! I was thinking about all these hardcore names, but nothing sounded... hardcore enough. Then it hit me! Literally, the creature hit me with its drill-head thing... in the leg. Drill... Leg... *Drill...* *Leg...* So I named him Drilleg! ::She laughs.:: Drilleg - say it... Drilleg. Driiiiii-leeeeeg.<end>
-
-=>q6_original
-The way you roll the 'r' makes it sound... evil! ::She laughs with a sinister laugh.::<end>
-
-=>q6
-The way you roll the 'r' makes it sound... evil! ::She laughs with a sinister laugh.::<end>
-
-=>a7_original
-What can you tell me about the Talloski family?<end>
-
-=>a7
-What can you tell me about the Talloski family?<end>
-
-=>q8_original
-Pfffffff... I don't know, like, Dad's a successful businessman; he earns loads of money and we've got, like, this big mansion in *the* best part of Core City. We've got our own security - which is hardcore - but my dad's also good with Chief Knight so, like, Praetorian Security keeps us safe wherever we go.<end>
-
-=>q8
-Pfffffff... I don't know, like, Dad's a successful businessman; he earns loads of money and we've got, like, this big mansion in *the* best part of Core City. We've got our own security - which is hardcore - but my dad's also good with Chief Knight so, like, Praetorian Security keeps us safe wherever we go.<end>
-
-=>a9_original
-What about other family members?<end>
-
-=>a9
-What about other family members?<end>
-
-=>q10_original
-Um, Mom works together with Dad... and so does my *doofus* brother, Maxim. Grandpa also lives with us, but he's always upstairs, doing his crazy thing. It's old-man stuff I *seriously* do not care about.<end>
-
-=>q10
-Um, Mom works together with Dad... and so does my *doofus* brother, Maxim. Grandpa also lives with us, but he's always upstairs, doing his crazy thing. It's old-man stuff I *seriously* do not care about.<end>
-
-=>a11_original
-Nice, but let me ask you something else.<end>
-
-=>a11
-Nice, but let me ask you something else.<end>
-
-=>q12_original
-Okay...<end>
-
-=>q12
-Okay...<end>
-
-=>a13_original
-What can you tell me about your brother?<end>
-
-=>a13
-What can you tell me about your brother?<end>
-
-=>q14_original
-Ugh, don't ask me about him. He works with Dad, helps him run the trading business, or better yet - "helps" him run the trading business. ::She laughs.:: You know what I mean, zoner? He's all about finding excuses to, like, get off work and either visit the Arena, or hit on every girl that walks beside him with some stupid pick-up line.<end>
-
-=>q14
-Ugh, don't ask me about him. He works with Dad, helps him run the trading business, or better yet - "helps" him run the trading business. ::She laughs.:: You know what I mean, zoner? He's all about finding excuses to, like, get off work and either visit the Arena, or hit on every girl that walks beside him with some stupid pick-up line.<end>
-
-=>q15_original
-And the lines, they are so, *so* lame...<end>
-
-=>q15
-And the lines, they are so, *so* lame...<end>
-
-=>a16_original
-What can you tell me about your grandfather?<end>
-
-=>a16
-What can you tell me about your grandfather?<end>
-
-=>q17_original
-You want to know about my grandpa? Actually, he's my great-great... great-grandfather... Something like that. He's, like, older than Underrail itself.<end>
-
-=>q17
-You want to know about my grandpa? Actually, he's my great-great... great-grandfather... Something like that. He's, like, older than Underrail itself.<end>
-
-=>q18_original
-Look, I'm bored... I'm definitely not talking about Grandpa.<end>
-
-=>q18
-Look, I'm bored... I'm definitely not talking about Grandpa.<end>
-
-=>a19_original
-Goodbye.<end>
-
-=>a19
-Goodbye.<end>
-
-=>q20_original
-'Sup?<end>
-
-=>q20
-'Sup?<end>
-
-=>q21_original
-Let's go home... erm... Decapitator? Damn it...<end>
-
-=>q21
-Let's go home... erm... Decapitator? Damn it...<end>
-
-=>q22_original
-Beat it, zoner. Seriously...<end>
-
-=>q22
-Beat it, zoner. Seriously...<end>
-
-=>q23_original
-::You approach a girl in her late teens. It is easy to notice how much she stands out of the drunken, shabby crowd around her: Expensive clothing and jewelry, neat and orderly hair, gentle hands with colorful nails, meticulously done make-up, all of which are being held together by a supercilious attitude. It seeps from her dull gaze which, probably used to looking down at people, lazily crawls up your body to meet your eyes and to reveal her utter boredom.::
-
-Hey, zoner. 'Sup?<end>
-
-=>q23
-::You approach a girl in her late teens. It is easy to notice how much she stands out of the drunken, shabby crowd around her: Expensive clothing and jewelry, neat and orderly hair, gentle hands with colorful nails, meticulously done make-up, all of which are being held together by a supercilious attitude. It seeps from her dull gaze which, probably used to looking down at people, lazily crawls up your body to meet your eyes and to reveal her utter boredom.::
-
-Hey, zoner. 'Sup?<end>
-
-=>a24_original
-I'm not a zoner. I'm $(context.player.Name).<end>
-
-=>a24
-I'm not a zoner. I'm $(context.player.Name).<end>
-
-=>q25_original
-Whatever, you all look like zoners to me. Anyway, I'm Sophie.
-
-So, what do you want?<end>
-
-=>q25
-Whatever, you all look like zoners to me. Anyway, I'm Sophie.
-
-So, what do you want?<end>
-
-=>q26_original
-<end>
-
-=>q26
-<end>
-
-=>a27_original
-What can you tell me about yourself, Sophie?<end>
-
-=>a27
-What can you tell me about yourself, Sophie?<end>
-
-=>q28_original
-I'm bored; Thought I was gonna, like, have some fun here. But no - it's duller than watching mushrooms grow... ::She makes a brief pause, watching you with some hidden intent. Then, her eyes widen as she expresses her demand.:: Amuse me, zoner.<end>
-
-=>q28
-I'm bored; Thought I was gonna, like, have some fun here. But no - it's duller than watching mushrooms grow... ::She makes a brief pause, watching you with some hidden intent. Then, her eyes widen as she expresses her demand.:: Amuse me, zoner.<end>
-
-=>a29_original
-Amuse you? How would I do that?<end>
-
-=>a29
-Amuse you? How would I do that?<end>
-
-=>q30_original
-Do I have to do everything? Think of something, you're the zoner here.<end>
-
-=>q30
-Do I have to do everything? Think of something, you're the zoner here.<end>
-
-=>a31_original
-Excuse me?<end>
-
-=>a31
-Excuse me?<end>
-
-=>q32_original
-Not excuse me - *amuse* me. Huh, are all zoners like this? Come on, amuse me, I'm bored. Do... something. Something fun!<end>
-
-=>q32
-Not excuse me - *amuse* me. Huh, are all zoners like this? Come on, amuse me, I'm bored. Do... something. Something fun!<end>
-
-=>a33_original
-I'm not here to amuse you, you spoiled little brat!<end>
-
-=>a33
-I'm not here to amuse you, you spoiled little brat!<end>
-
-=>q34_original
-Brat!? ::She turns her head away.:: Whatever, zoner... you were far too boring anyway. ::She turns back to stick out her tongue at you, then looks away again.::
-
-Beat it.<end>
-
-=>q34
-Brat!? ::She turns her head away.:: Whatever, zoner... you were far too boring anyway. ::She turns back to stick out her tongue at you, then looks away again.::
-
-Beat it.<end>
-
-=>a35_original
-I think I have a way to amuse you.<end>
-
-=>a35
-I think I have a way to amuse you.<end>
-
-=>q36_original
-::She yawns.:: You better do it fast, zoner. Or else I'm gonna fall... ::She snores loudly and then twitches.:: 
-Wha-- Wha--
-
-::She puts on her dull look again, waiting for you to do something entertaining.::<end>
-
-=>q36
-::She yawns.:: You better do it fast, zoner. Or else I'm gonna fall... ::She snores loudly and then twitches.:: 
-Wha-- Wha--
-
-::She puts on her dull look again, waiting for you to do something entertaining.::<end>
-
-=>q37_original
-<end>
-
-=>q37
-<end>
-
-=>a38_original
-I can tell you about how I defeated Carnifex and became the Invictus.<end>
-
-=>a38
-I can tell you about how I defeated Carnifex and became the Invictus.<end>
-
-=>q39_original
-Carnifex? Really now? ::She almost chuckles.:: Yeah, right! You zoners really like to make up stories, don't you?<end>
-
-=>q39
-Carnifex? Really now? ::She almost chuckles.:: Yeah, right! You zoners really like to make up stories, don't you?<end>
-
-=>q40_original
-::She sighs.:: I'm still bored. Come on, think of something goo-ooh-ood...<end>
-
-=>q40
-::She sighs.:: I'm still bored. Come on, think of something goo-ooh-ood...<end>
-
-=>a41_original
-I've been throughout Underrail and have many interesting stories to tell.<end>
-
-=>a41
-I've been throughout Underrail and have many interesting stories to tell.<end>
-
-=>q42_original
-Great! Next time I need someone to put me to sleep, I'll call *you.* No, seriously - I come to bars so that I can have random $(#men/women) like you talk my ears off.<end>
-
-=>q42
-Great! Next time I need someone to put me to sleep, I'll call *you.* No, seriously - I come to bars so that I can have random $(#men/women) like you talk my ears off.<end>
-
-=>q43_original
-::She sighs.:: No stories, do something fun. Amuse me.<end>
-
-=>q43
-::She sighs.:: No stories, do something fun. Amuse me.<end>
-
-=>a44_original
-::[Strength] Flex your biceps.:: Look at these bad boys!<end>
-
-=>a44
-::[Strength] Flex your biceps.:: Look at these bad boys!<end>
-
-=>q45_original
-::Her eyes widen to the point of being almost completely round.:: Wow, I've never seen a woman packing such muscles!<end>
-
-=>q45
-::Her eyes widen to the point of being almost completely round.:: Wow, I've never seen a woman packing such muscles!<end>
-
-=>q46_original
-That's... both cool and gross at the same time. Freakish even.<end>
-
-=>q46
-That's... both cool and gross at the same time. Freakish even.<end>
-
-=>q47_original
-But you'll have to do better than that to amuse me.<end>
-
-=>q47
-But you'll have to do better than that to amuse me.<end>
-
-=>q48_original
-So, you have muscles? Good, that's a novelty...<end>
-
-=>q48
-So, you have muscles? Good, that's a novelty...<end>
-
-=>q49_original
-They... they are impressive, though.
-
-But you'll have to do better than that to amuse me...<end>
-
-=>q49
-They... they are impressive, though.
-
-But you'll have to do better than that to amuse me...<end>
-
-=>a50_original
-Wanna hear a joke?<end>
-
-=>a50
-Wanna hear a joke?<end>
-
-=>q51_original
-Only if it's a good one. Hit me, zoner.<end>
-
-=>q51
-Only if it's a good one. Hit me, zoner.<end>
-
-=>a52_original
-A rathound walks into a bar. And the barkeeper just shoots the dirty thing! You see, no one likes rathounds, that's why it's funny. Get it?<end>
-
-=>a52
-A rathound walks into a bar. And the barkeeper just shoots the dirty thing! You see, no one likes rathounds, that's why it's funny. Get it?<end>
-
-=>q53_original
-::She sighs.:: Please stop telling jokes. Trust me. Don't tell a joke... *ever* again.<end>
-
-=>q53
-::She sighs.:: Please stop telling jokes. Trust me. Don't tell a joke... *ever* again.<end>
-
-=>a54_original
-What does a cell about to undergo mitosis say to an interested scientist? "I hope I have your divided attention!"<end>
-
-=>a54
-What does a cell about to undergo mitosis say to an interested scientist? "I hope I have your divided attention!"<end>
-
-=>q55_original
-Mitosis? What?<end>
-
-=>q55
-Mitosis? What?<end>
-
-=>a56_original
-I could try juggling some grenades. Would that make you happy?<end>
-
-=>a56
-I could try juggling some grenades. Would that make you happy?<end>
-
-=>q57_original
-That would make me dead! Listen zoner, I don't know how you view yourself, but I think I'm too young *and* pretty *and* smart to die so soon by some silly gimmick.<end>
-
-=>q57
-That would make me dead! Listen zoner, I don't know how you view yourself, but I think I'm too young *and* pretty *and* smart to die so soon by some silly gimmick.<end>
-
-=>q58_original
-Come on, amuse me already. Like, try harder.<end>
-
-=>q58
-Come on, amuse me already. Like, try harder.<end>
-
-=>a59_original
-How about we visit the Arena? Watch people kill each other 'n' stuff...<end>
-
-=>a59
-How about we visit the Arena? Watch people kill each other 'n' stuff...<end>
-
-=>q60_original
-Ugh... I, like, watch it all the time at home; my brother and father adore it so much they'd marry it if they could. And, I mean, like, I've seen it live... like a thousand times already.<end>
-
-=>q60
-Ugh... I, like, watch it all the time at home; my brother and father adore it so much they'd marry it if they could. And, I mean, like, I've seen it live... like a thousand times already.<end>
-
-=>q61_original
-It's gotten boring. Boooooring...<end>
-
-=>q61
-It's gotten boring. Boooooring...<end>
-
-=>a62_original
-Hey, wanna prank people around us?<end>
-
-=>a62
-Hey, wanna prank people around us?<end>
-
-=>q63_original
-Interesting... I usually hate people; therefore, pranking them could, like, amuse me.<end>
-
-=>q63
-Interesting... I usually hate people; therefore, pranking them could, like, amuse me.<end>
-
-=>q64_original
-Go and prank someone. I'll wait here and see what happens. Come on, go now.<end>
-
-=>q64
-Go and prank someone. I'll wait here and see what happens. Come on, go now.<end>
-
-=>a65_original
-Got any ideas?<end>
-
-=>a65
-Got any ideas?<end>
-
-=>q66_original
-::She sighs.:: Really? I have to think now? I said "amuse me," not "allow me to amuse myself."
-
-I don't know... Think, zoner, think!<end>
-
-=>q66
-::She sighs.:: Really? I have to think now? I said "amuse me," not "allow me to amuse myself."
-
-I don't know... Think, zoner, think!<end>
-
-=>a67_original
-I'm on the job.<end>
-
-=>a67
-I'm on the job.<end>
-
-=>a68_original
-How about we order a lot of drinks, get drunk like hell and do stupid stuff.<end>
-
-=>a68
-How about we order a lot of drinks, get drunk like hell and do stupid stuff.<end>
-
-=>q69_original
-How about we, like, don't? Yeah, next time I wanna get kidnapped I'll definitely get drunk with a stranger. And a mere zoner at that.<end>
-
-=>q69
-How about we, like, don't? Yeah, next time I wanna get kidnapped I'll definitely get drunk with a stranger. And a mere zoner at that.<end>
-
-=>q70_original
-I've had enough drinks. ::She makes a horizontal cutting motion with her hand.:: No more... for now.<end>
-
-=>q70
-I've had enough drinks. ::She makes a horizontal cutting motion with her hand.:: No more... for now.<end>
-
-=>a71_original
-::Speak with a squakey, high-pitched voice.:: Hey, Sophie! I'm Timmy the cave hopper. I like you. Do you like me?<end>
-
-=>a71
-::Speak with a squakey, high-pitched voice.:: Hey, Sophie! I'm Timmy the cave hopper. I like you. Do you like me?<end>
-
-=>q72_original
-Jump in a chasm, Timmy.<end>
-
-=>q72
-Jump in a chasm, Timmy.<end>
-
-=>q73_original
-Or better yet, like, jump in a pit full of burrowers so that they can tear your ugly face off and mutilate your body.<end>
-
-=>q73
-Or better yet, like, jump in a pit full of burrowers so that they can tear your ugly face off and mutilate your body.<end>
-
-=>q74_original
-Or even better, eat a grenade and jump in a pit full of burrowers and explode, killing everything. ::She giggles.:: *That* would be so hardcore...<end>
-
-=>q74
-Or even better, eat a grenade and jump in a pit full of burrowers and explode, killing everything. ::She giggles.:: *That* would be so hardcore...<end>
-
-=>a75_original
-Check this creature out. ::Show her the captured borer.::<end>
-
-=>a75
-Check this creature out. ::Show her the captured borer.::<end>
-
-=>q76_original
-::She takes a long look at the creature, as if hypnotized by its odd appearance.:: That's gross, but kinda cool. Actually, very, very cool... What is it?<end>
-
-=>q76
-::She takes a long look at the creature, as if hypnotized by its odd appearance.:: That's gross, but kinda cool. Actually, very, very cool... What is it?<end>
-
-=>a77_original
-It's called a psimorph, creature that can fuse with whatever it desires and turn it into a part of its body. The ones I saw in Foundry had shells made of hard rock and metallic spikes on its back.<end>
-
-=>a77
-It's called a psimorph, creature that can fuse with whatever it desires and turn it into a part of its body. The ones I saw in Foundry had shells made of hard rock and metallic spikes on its back.<end>
-
-=>q78_original
-Hard-freaking-core! Just... just hardcore. I want it. I want it now!<end>
-
-=>q78
-Hard-freaking-core! Just... just hardcore. I want it. I want it now!<end>
-
-=>q79_original
-I'll call him... hmmm, something cool. Eviscerator! No... Goreworm! No... Hmmm...<end>
-
-=>q79
-I'll call him... hmmm, something cool. Eviscerator! No... Goreworm! No... Hmmm...<end>
-
-=>q80_original
-<end>
-
-=>q80
-<end>
-
-=>a81_original
-If you like it so much, take it. It's yours.<end>
-
-=>a81
-If you like it so much, take it. It's yours.<end>
-
-=>q82_original
-Hardcore! Thank you, zoner. You make me think better of your kind...<end>
-
-=>q82
-Hardcore! Thank you, zoner. You make me think better of your kind...<end>
-
-=>q83_original
-I'm gonna take him home and give him some hardcore name. ::She pauses for a second, watching you. A moment passes, and a product of her thoughts gets presented.:: Hey zoner, um, wanna join me?<end>
-
-=>q83
-I'm gonna take him home and give him some hardcore name. ::She pauses for a second, watching you. A moment passes, and a product of her thoughts gets presented.:: Hey zoner, um, wanna join me?<end>
-
-=>a84_original
-Why not. Where do you live?<end>
-
-=>a84
-Why not. Where do you live?<end>
-
-=>q85_original
-The Talloski Manor. ::She laughs.:: In case you didn't figure it out by now, I'm Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
-
-=>q85
-The Talloski Manor. ::She laughs.:: In case you didn't figure it out by now, I'm Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
-
-=>q86_original
-Our mansion is in the residential area; yeah, it's just by the Praetorian Security building. I'm going there now. If you want to see me and Bloodeater... nah... still not hardcore enough. Anyway, if you wanna come over - feel free to do so. ::She smiles.::
-
-Goodbye for now, zoner.<end>
-
-=>q86
-Our mansion is in the residential area; yeah, it's just by the Praetorian Security building. I'm going there now. If you want to see me and Bloodeater... nah... still not hardcore enough. Anyway, if you wanna come over - feel free to do so. ::She smiles.::
-
-Goodbye for now, zoner.<end>
-
-=>a87_original
-I might stop by. See you, Sophie.<end>
-
-=>a87
-I might stop by. See you, Sophie.<end>
-
-=>a88_original
-I don't know. Maybe you can finally tell me who you really are and I'll see.<end>
-
-=>a88
-I don't know. Maybe you can finally tell me who you really are and I'll see.<end>
-
-=>q89_original
-Fine, I'll tell you, zoner: I am Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
-
-=>q89
-Fine, I'll tell you, zoner: I am Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
-
-=>a90_original
-It can be yours for a price.<end>
-
-=>a90
-It can be yours for a price.<end>
-
-=>q91_original
-How much?<end>
-
-=>q91
-How much?<end>
-
-=>a92_original
-Three hundred charons.<end>
-
-=>a92
-Three hundred charons.<end>
-
-=>q93_original
-::She pulls out three hundred charons like it's nothing to her.:: Take it. ::She looks at the creature again.:: This is so hardcore!<end>
-
-=>q93
-::She pulls out three hundred charons like it's nothing to her.:: Take it. ::She looks at the creature again.:: This is so hardcore!<end>
-
-=>a94_original
-::[Mercantile]:: Five hundred. These creatures are very rare. It's a fair price.<end>
-
-=>a94
-::[Mercantile]:: Five hundred. These creatures are very rare. It's a fair price.<end>
-
-=>q95_original
-Whatever - I'm taking it! ::She pulls out five hundred charons like it's nothing to her.:: Take it.<end>
-
-=>q95
-Whatever - I'm taking it! ::She pulls out five hundred charons like it's nothing to her.:: Take it.<end>
-
-=>q96_original
-Five? I think you're asking a bit too much, zoner. <end>
-
-=>q96
-Five? I think you're asking a bit too much, zoner. <end>
-
-=>a97_original
-How about three hundred then?<end>
-
-=>a97
-How about three hundred then?<end>
-
-=>a98_original
-I don't know, I found it in Foundry.<end>
-
-=>a98
-I don't know, I found it in Foundry.<end>
-
-=>q99_original
-Its head is a drill! Hardcore! I like it, I just like it!<end>
-
-=>q99
-Its head is a drill! Hardcore! I like it, I just like it!<end>
-
-=>a100_original
-How about this? ::Show her the captured latcher.::<end>
-
-=>a100
-How about this? ::Show her the captured latcher.::<end>
-
-=>q101_original
-::She takes a long look at the creature, as if hypnotized by its odd appearance. However, her nostrils do not take kindly to the awful smell emanating from the creature.:: I think I'm going to be, like, sick. Ugh, put it away!<end>
-
-=>q101
-::She takes a long look at the creature, as if hypnotized by its odd appearance. However, her nostrils do not take kindly to the awful smell emanating from the creature.:: I think I'm going to be, like, sick. Ugh, put it away!<end>
-
-=>q102_original
-I mean, its cool and all, but... Look, can you, ummm, like, bring something similar that is not going to dominate me with its horrible smell.<end>
-
-=>q102
-I mean, its cool and all, but... Look, can you, ummm, like, bring something similar that is not going to dominate me with its horrible smell.<end>
-
-=>a103_original
-I have a captured hopper. Wanna play with it?<end>
-
-=>a103
-I have a captured hopper. Wanna play with it?<end>
-
-=>q104_original
-::She takes a careful look at the hopper in the cage.:: It's kinda cute...<end>
-
-=>q104
-::She takes a careful look at the hopper in the cage.:: It's kinda cute...<end>
-
-=>q105_original
-I hate cute. Get it away from me. 
-
-Ugh... stupid creatures.<end>
-
-=>q105
-I hate cute. Get it away from me. 
-
-Ugh... stupid creatures.<end>
-
-=>a106_original
-Look what I got: A kitty!<end>
-
-=>a106
-Look what I got: A kitty!<end>
-
-=>q107_original
-Wow, a flea bag! Like I couldn't grab one from the streets myself.<end>
-
-=>q107
-Wow, a flea bag! Like I couldn't grab one from the streets myself.<end>
-
-=>q108_original
-Get it, like, away from me. Ugh...<end>
-
-=>q108
-Get it, like, away from me. Ugh...<end>
-
-=>a109_original
-I'll think of something. Meanwhile, let's talk about something else.<end>
-
-=>a109
-I'll think of something. Meanwhile, let's talk about something else.<end>
-
-=>q110_original
-Whatever...<end>
-
-=>q110
-Whatever...<end>
-
-=>a111_original
-What usually amuses you?<end>
-
-=>a111
-What usually amuses you?<end>
-
-=>q112_original
-I'm hard to amuse...<end>
-
-=>q112
-I'm hard to amuse...<end>
-
-=>q113_original
-::She drifts off into deep thought and remains silent for a while. You open your mouth to say something, but at the exact same moment she turns to you and speaks again.::<end>
-
-=>q113
-::She drifts off into deep thought and remains silent for a while. You open your mouth to say something, but at the exact same moment she turns to you and speaks again.::<end>
-
-=>q114_original
-I was always fascinated with monsters, you know. Proper monsters - weird, spooky, menacing... I had some old books which my dad gave to me when I was little, and they had illustrations of, like, some of the most fascinating creatures I'd ever seen. ::She sighs.:: I wish I could have my own monster so that I could, like, unleash it on people who bore me.<end>
-
-=>q114
-I was always fascinated with monsters, you know. Proper monsters - weird, spooky, menacing... I had some old books which my dad gave to me when I was little, and they had illustrations of, like, some of the most fascinating creatures I'd ever seen. ::She sighs.:: I wish I could have my own monster so that I could, like, unleash it on people who bore me.<end>
-
-=>a115_original
-Aren't you worried about being alone in a bar like this?<end>
-
-=>a115
-Aren't you worried about being alone in a bar like this?<end>
-
-=>q116_original
-Nope. The barman knows my father, and you'd be surprised how well I'm treated here.<end>
-
-=>q116
-Nope. The barman knows my father, and you'd be surprised how well I'm treated here.<end>
-
-=>q117_original
-Some time ago an ugly, fat, disgusting zoner started bothering me. Like - really got on my nerves. Talked like we were on the same level. Once I got, like, bored of his prattling I waved to the barkeeper and the zoner was picked up and tossed out like a rag doll while I watched everything with a smile on my face and a carnage cocktail in my hand. You know, the red and white one.<end>
-
-=>q117
-Some time ago an ugly, fat, disgusting zoner started bothering me. Like - really got on my nerves. Talked like we were on the same level. Once I got, like, bored of his prattling I waved to the barkeeper and the zoner was picked up and tossed out like a rag doll while I watched everything with a smile on my face and a carnage cocktail in my hand. You know, the red and white one.<end>
-
-=>q118_original
-Aaahh... Life dominates when people know who your dad is.<end>
-
-=>q118
-Aaahh... Life dominates when people know who your dad is.<end>
-
-=>a119_original
-Gotta run. See ya.<end>
-
-=>a119
-Gotta run. See ya.<end>
-
-=>a120_original
-Hey there sweetcakes. How's it going?<end>
-
-=>a120
-Hey there sweetcakes. How's it going?<end>
-
-=>q121_original
-Ugh, don't be such a creep. Sweetcakes? Really? Really now?<end>
-
-=>q121
-Ugh, don't be such a creep. Sweetcakes? Really? Really now?<end>
-
-=>a122_original
-I'm sorry, I'm sorry, that's not what I was aiming for. It came out completely wrong. Let's start over: Hi, I'm $(context.player.Name).<end>
-
-=>a122
-I'm sorry, I'm sorry, that's not what I was aiming for. It came out completely wrong. Let's start over: Hi, I'm $(context.player.Name).<end>
-
-=>q123_original
-Whatever. I'm Sophie.
-
-So, what do you want, zoner?<end>
-
-=>q123
-Whatever. I'm Sophie.
-
-So, what do you want, zoner?<end>
-
-=>a124_original
-I'm not just a creep. I'm the... CREEPMAN!<end>
-
-=>a124
-I'm not just a creep. I'm the... CREEPMAN!<end>
-
-=>q125_original
-Whatever, man. Look, you are obviously derailed so how about we, like, don't talk anymore? Hm?
-
-Good. Now bye!<end>
-
-=>q125
-Whatever, man. Look, you are obviously derailed so how about we, like, don't talk anymore? Hm?
-
-Good. Now bye!<end>
-
-=>a126_original
-Nothin' girl. 'Sup with you?<end>
-
-=>a126
-Nothin' girl. 'Sup with you?<end>
-
-=>q127_original
-Nothing. Just chillin'. Like, I'm just hanging out, trying to find some fun.<end>
-
-=>q127
-Nothing. Just chillin'. Like, I'm just hanging out, trying to find some fun.<end>
-
-=>a128_original
-I'm $(context.player.Name). Can I ask you a few questions?<end>
-
-=>a128
-I'm $(context.player.Name). Can I ask you a few questions?<end>
-
-=>q129_original
-It's cool. I'm Sophie.
-
-So, what do you want, zoner?<end>
-
-=>q129
-It's cool. I'm Sophie.
-
-So, what do you want, zoner?<end>
-
-=>a130_original
-That's cool, baby. I'm $(context.player.Name).<end>
-
-=>a130
-That's cool, baby. I'm $(context.player.Name).<end>
-
-=>q131_original
-Don't call me baby. Ever.
-
-So, what do you want, zoner?<end>
-
-=>q131
-Don't call me baby. Ever.
-
-So, what do you want, zoner?<end>
-
-=>a132_original
-Sorry, I thought you were someone else. Goodbye.<end>
-
-=>a132
-Sorry, I thought you were someone else. Goodbye.<end>
-
-=>q133_original
-Hey, zoner.<end>
-
-=>q133
-Hey, zoner.<end>
-
+=>q1_original
+You must be one of Maxim's friends... Whatever...<end>
+
+=>q1
+You must be one of Maxim's friends... Whatever...<end>
+
+=>q2_original
+Have you seen Drilleg? I can't seem to find him...<end>
+
+=>q2
+Have you seen Drilleg? I can't seem to find him...<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Did you name your little pet?<end>
+
+=>a4
+Did you name your little pet?<end>
+
+=>q5_original
+Yes, I did! I was thinking about all these hardcore names, but nothing sounded... hardcore enough. Then it hit me! Literally, the creature hit me with its drill-head thing... in the leg. Drill... Leg... *Drill...* *Leg...* So I named him Drilleg! ::She laughs.:: Drilleg - say it... Drilleg. Driiiiii-leeeeeg.<end>
+
+=>q5
+Yes, I did! I was thinking about all these hardcore names, but nothing sounded... hardcore enough. Then it hit me! Literally, the creature hit me with its drill-head thing... in the leg. Drill... Leg... *Drill...* *Leg...* So I named him Drilleg! ::She laughs.:: Drilleg - say it... Drilleg. Driiiiii-leeeeeg.<end>
+
+=>q6_original
+The way you roll the 'r' makes it sound... evil! ::She laughs with a sinister laugh.::<end>
+
+=>q6
+The way you roll the 'r' makes it sound... evil! ::She laughs with a sinister laugh.::<end>
+
+=>a7_original
+What can you tell me about the Talloski family?<end>
+
+=>a7
+What can you tell me about the Talloski family?<end>
+
+=>q8_original
+Pfffffff... I don't know, like, Dad's a successful businessman; he earns loads of money and we've got, like, this big mansion in *the* best part of Core City. We've got our own security - which is hardcore - but my dad's also good with Chief Knight so, like, Praetorian Security keeps us safe wherever we go.<end>
+
+=>q8
+Pfffffff... I don't know, like, Dad's a successful businessman; he earns loads of money and we've got, like, this big mansion in *the* best part of Core City. We've got our own security - which is hardcore - but my dad's also good with Chief Knight so, like, Praetorian Security keeps us safe wherever we go.<end>
+
+=>a9_original
+What about other family members?<end>
+
+=>a9
+What about other family members?<end>
+
+=>q10_original
+Um, Mom works together with Dad... and so does my *doofus* brother, Maxim. Grandpa also lives with us, but he's always upstairs, doing his crazy thing. It's old-man stuff I *seriously* do not care about.<end>
+
+=>q10
+Um, Mom works together with Dad... and so does my *doofus* brother, Maxim. Grandpa also lives with us, but he's always upstairs, doing his crazy thing. It's old-man stuff I *seriously* do not care about.<end>
+
+=>a11_original
+Nice, but let me ask you something else.<end>
+
+=>a11
+Nice, but let me ask you something else.<end>
+
+=>q12_original
+Okay...<end>
+
+=>q12
+Okay...<end>
+
+=>a13_original
+What can you tell me about your brother?<end>
+
+=>a13
+What can you tell me about your brother?<end>
+
+=>q14_original
+Ugh, don't ask me about him. He works with Dad, helps him run the trading business, or better yet - "helps" him run the trading business. ::She laughs.:: You know what I mean, zoner? He's all about finding excuses to, like, get off work and either visit the Arena, or hit on every girl that walks beside him with some stupid pick-up line.<end>
+
+=>q14
+Ugh, don't ask me about him. He works with Dad, helps him run the trading business, or better yet - "helps" him run the trading business. ::She laughs.:: You know what I mean, zoner? He's all about finding excuses to, like, get off work and either visit the Arena, or hit on every girl that walks beside him with some stupid pick-up line.<end>
+
+=>q15_original
+And the lines, they are so, *so* lame...<end>
+
+=>q15
+And the lines, they are so, *so* lame...<end>
+
+=>a16_original
+What can you tell me about your grandfather?<end>
+
+=>a16
+What can you tell me about your grandfather?<end>
+
+=>q17_original
+You want to know about my grandpa? Actually, he's my great-great... great-grandfather... Something like that. He's, like, older than Underrail itself.<end>
+
+=>q17
+You want to know about my grandpa? Actually, he's my great-great... great-grandfather... Something like that. He's, like, older than Underrail itself.<end>
+
+=>q18_original
+Look, I'm bored... I'm definitely not talking about Grandpa.<end>
+
+=>q18
+Look, I'm bored... I'm definitely not talking about Grandpa.<end>
+
+=>a19_original
+Goodbye.<end>
+
+=>a19
+Goodbye.<end>
+
+=>q20_original
+'Sup?<end>
+
+=>q20
+'Sup?<end>
+
+=>q21_original
+Let's go home... erm... Decapitator? Damn it...<end>
+
+=>q21
+Let's go home... erm... Decapitator? Damn it...<end>
+
+=>q22_original
+Beat it, zoner. Seriously...<end>
+
+=>q22
+Beat it, zoner. Seriously...<end>
+
+=>q23_original
+::You approach a girl in her late teens. It is easy to notice how much she stands out of the drunken, shabby crowd around her: Expensive clothing and jewelry, neat and orderly hair, gentle hands with colorful nails, meticulously done make-up, all of which are being held together by a supercilious attitude. It seeps from her dull gaze which, probably used to looking down at people, lazily crawls up your body to meet your eyes and to reveal her utter boredom.::
+
+Hey, zoner. 'Sup?<end>
+
+=>q23
+::You approach a girl in her late teens. It is easy to notice how much she stands out of the drunken, shabby crowd around her: Expensive clothing and jewelry, neat and orderly hair, gentle hands with colorful nails, meticulously done make-up, all of which are being held together by a supercilious attitude. It seeps from her dull gaze which, probably used to looking down at people, lazily crawls up your body to meet your eyes and to reveal her utter boredom.::
+
+Hey, zoner. 'Sup?<end>
+
+=>a24_original
+I'm not a zoner. I'm $(context.player.Name).<end>
+
+=>a24
+I'm not a zoner. I'm $(context.player.Name).<end>
+
+=>q25_original
+Whatever, you all look like zoners to me. Anyway, I'm Sophie.
+
+So, what do you want?<end>
+
+=>q25
+Whatever, you all look like zoners to me. Anyway, I'm Sophie.
+
+So, what do you want?<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+What can you tell me about yourself, Sophie?<end>
+
+=>a27
+What can you tell me about yourself, Sophie?<end>
+
+=>q28_original
+I'm bored; Thought I was gonna, like, have some fun here. But no - it's duller than watching mushrooms grow... ::She makes a brief pause, watching you with some hidden intent. Then, her eyes widen as she expresses her demand.:: Amuse me, zoner.<end>
+
+=>q28
+I'm bored; Thought I was gonna, like, have some fun here. But no - it's duller than watching mushrooms grow... ::She makes a brief pause, watching you with some hidden intent. Then, her eyes widen as she expresses her demand.:: Amuse me, zoner.<end>
+
+=>a29_original
+Amuse you? How would I do that?<end>
+
+=>a29
+Amuse you? How would I do that?<end>
+
+=>q30_original
+Do I have to do everything? Think of something, you're the zoner here.<end>
+
+=>q30
+Do I have to do everything? Think of something, you're the zoner here.<end>
+
+=>a31_original
+Excuse me?<end>
+
+=>a31
+Excuse me?<end>
+
+=>q32_original
+Not excuse me - *amuse* me. Huh, are all zoners like this? Come on, amuse me, I'm bored. Do... something. Something fun!<end>
+
+=>q32
+Not excuse me - *amuse* me. Huh, are all zoners like this? Come on, amuse me, I'm bored. Do... something. Something fun!<end>
+
+=>a33_original
+I'm not here to amuse you, you spoiled little brat!<end>
+
+=>a33
+I'm not here to amuse you, you spoiled little brat!<end>
+
+=>q34_original
+Brat!? ::She turns her head away.:: Whatever, zoner... you were far too boring anyway. ::She turns back to stick out her tongue at you, then looks away again.::
+
+Beat it.<end>
+
+=>q34
+Brat!? ::She turns her head away.:: Whatever, zoner... you were far too boring anyway. ::She turns back to stick out her tongue at you, then looks away again.::
+
+Beat it.<end>
+
+=>a35_original
+I think I have a way to amuse you.<end>
+
+=>a35
+I think I have a way to amuse you.<end>
+
+=>q36_original
+::She yawns.:: You better do it fast, zoner. Or else I'm gonna fall... ::She snores loudly and then twitches.:: 
+Wha-- Wha--
+
+::She puts on her dull look again, waiting for you to do something entertaining.::<end>
+
+=>q36
+::She yawns.:: You better do it fast, zoner. Or else I'm gonna fall... ::She snores loudly and then twitches.:: 
+Wha-- Wha--
+
+::She puts on her dull look again, waiting for you to do something entertaining.::<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>a38_original
+I can tell you about how I defeated Carnifex and became the Invictus.<end>
+
+=>a38
+I can tell you about how I defeated Carnifex and became the Invictus.<end>
+
+=>q39_original
+Carnifex? Really now? ::She almost chuckles.:: Yeah, right! You zoners really like to make up stories, don't you?<end>
+
+=>q39
+Carnifex? Really now? ::She almost chuckles.:: Yeah, right! You zoners really like to make up stories, don't you?<end>
+
+=>q40_original
+::She sighs.:: I'm still bored. Come on, think of something goo-ooh-ood...<end>
+
+=>q40
+::She sighs.:: I'm still bored. Come on, think of something goo-ooh-ood...<end>
+
+=>a41_original
+I've been throughout Underrail and have many interesting stories to tell.<end>
+
+=>a41
+I've been throughout Underrail and have many interesting stories to tell.<end>
+
+=>q42_original
+Great! Next time I need someone to put me to sleep, I'll call *you.* No, seriously - I come to bars so that I can have random $(#men/women) like you talk my ears off.<end>
+
+=>q42
+Great! Next time I need someone to put me to sleep, I'll call *you.* No, seriously - I come to bars so that I can have random $(#men/women) like you talk my ears off.<end>
+
+=>q43_original
+::She sighs.:: No stories, do something fun. Amuse me.<end>
+
+=>q43
+::She sighs.:: No stories, do something fun. Amuse me.<end>
+
+=>a44_original
+::[Strength] Flex your biceps.:: Look at these bad boys!<end>
+
+=>a44
+::[Strength] Flex your biceps.:: Look at these bad boys!<end>
+
+=>q45_original
+::Her eyes widen to the point of being almost completely round.:: Wow, I've never seen a woman packing such muscles!<end>
+
+=>q45
+::Her eyes widen to the point of being almost completely round.:: Wow, I've never seen a woman packing such muscles!<end>
+
+=>q46_original
+That's... both cool and gross at the same time. Freakish even.<end>
+
+=>q46
+That's... both cool and gross at the same time. Freakish even.<end>
+
+=>q47_original
+But you'll have to do better than that to amuse me.<end>
+
+=>q47
+But you'll have to do better than that to amuse me.<end>
+
+=>q48_original
+So, you have muscles? Good, that's a novelty...<end>
+
+=>q48
+So, you have muscles? Good, that's a novelty...<end>
+
+=>q49_original
+They... they are impressive, though.
+
+But you'll have to do better than that to amuse me...<end>
+
+=>q49
+They... they are impressive, though.
+
+But you'll have to do better than that to amuse me...<end>
+
+=>a50_original
+Wanna hear a joke?<end>
+
+=>a50
+Wanna hear a joke?<end>
+
+=>q51_original
+Only if it's a good one. Hit me, zoner.<end>
+
+=>q51
+Only if it's a good one. Hit me, zoner.<end>
+
+=>a52_original
+A rathound walks into a bar. And the barkeeper just shoots the dirty thing! You see, no one likes rathounds, that's why it's funny. Get it?<end>
+
+=>a52
+A rathound walks into a bar. And the barkeeper just shoots the dirty thing! You see, no one likes rathounds, that's why it's funny. Get it?<end>
+
+=>q53_original
+::She sighs.:: Please stop telling jokes. Trust me. Don't tell a joke... *ever* again.<end>
+
+=>q53
+::She sighs.:: Please stop telling jokes. Trust me. Don't tell a joke... *ever* again.<end>
+
+=>a54_original
+What does a cell about to undergo mitosis say to an interested scientist? "I hope I have your divided attention!"<end>
+
+=>a54
+What does a cell about to undergo mitosis say to an interested scientist? "I hope I have your divided attention!"<end>
+
+=>q55_original
+Mitosis? What?<end>
+
+=>q55
+Mitosis? What?<end>
+
+=>a56_original
+I could try juggling some grenades. Would that make you happy?<end>
+
+=>a56
+I could try juggling some grenades. Would that make you happy?<end>
+
+=>q57_original
+That would make me dead! Listen zoner, I don't know how you view yourself, but I think I'm too young *and* pretty *and* smart to die so soon by some silly gimmick.<end>
+
+=>q57
+That would make me dead! Listen zoner, I don't know how you view yourself, but I think I'm too young *and* pretty *and* smart to die so soon by some silly gimmick.<end>
+
+=>q58_original
+Come on, amuse me already. Like, try harder.<end>
+
+=>q58
+Come on, amuse me already. Like, try harder.<end>
+
+=>a59_original
+How about we visit the Arena? Watch people kill each other 'n' stuff...<end>
+
+=>a59
+How about we visit the Arena? Watch people kill each other 'n' stuff...<end>
+
+=>q60_original
+Ugh... I, like, watch it all the time at home; my brother and father adore it so much they'd marry it if they could. And, I mean, like, I've seen it live... like a thousand times already.<end>
+
+=>q60
+Ugh... I, like, watch it all the time at home; my brother and father adore it so much they'd marry it if they could. And, I mean, like, I've seen it live... like a thousand times already.<end>
+
+=>q61_original
+It's gotten boring. Boooooring...<end>
+
+=>q61
+It's gotten boring. Boooooring...<end>
+
+=>a62_original
+Hey, wanna prank people around us?<end>
+
+=>a62
+Hey, wanna prank people around us?<end>
+
+=>q63_original
+Interesting... I usually hate people; therefore, pranking them could, like, amuse me.<end>
+
+=>q63
+Interesting... I usually hate people; therefore, pranking them could, like, amuse me.<end>
+
+=>q64_original
+Go and prank someone. I'll wait here and see what happens. Come on, go now.<end>
+
+=>q64
+Go and prank someone. I'll wait here and see what happens. Come on, go now.<end>
+
+=>a65_original
+Got any ideas?<end>
+
+=>a65
+Got any ideas?<end>
+
+=>q66_original
+::She sighs.:: Really? I have to think now? I said "amuse me," not "allow me to amuse myself."
+
+I don't know... Think, zoner, think!<end>
+
+=>q66
+::She sighs.:: Really? I have to think now? I said "amuse me," not "allow me to amuse myself."
+
+I don't know... Think, zoner, think!<end>
+
+=>a67_original
+I'm on the job.<end>
+
+=>a67
+I'm on the job.<end>
+
+=>a68_original
+How about we order a lot of drinks, get drunk like hell and do stupid stuff.<end>
+
+=>a68
+How about we order a lot of drinks, get drunk like hell and do stupid stuff.<end>
+
+=>q69_original
+How about we, like, don't? Yeah, next time I wanna get kidnapped I'll definitely get drunk with a stranger. And a mere zoner at that.<end>
+
+=>q69
+How about we, like, don't? Yeah, next time I wanna get kidnapped I'll definitely get drunk with a stranger. And a mere zoner at that.<end>
+
+=>q70_original
+I've had enough drinks. ::She makes a horizontal cutting motion with her hand.:: No more... for now.<end>
+
+=>q70
+I've had enough drinks. ::She makes a horizontal cutting motion with her hand.:: No more... for now.<end>
+
+=>a71_original
+::Speak with a squakey, high-pitched voice.:: Hey, Sophie! I'm Timmy the cave hopper. I like you. Do you like me?<end>
+
+=>a71
+::Speak with a squakey, high-pitched voice.:: Hey, Sophie! I'm Timmy the cave hopper. I like you. Do you like me?<end>
+
+=>q72_original
+Jump in a chasm, Timmy.<end>
+
+=>q72
+Jump in a chasm, Timmy.<end>
+
+=>q73_original
+Or better yet, like, jump in a pit full of burrowers so that they can tear your ugly face off and mutilate your body.<end>
+
+=>q73
+Or better yet, like, jump in a pit full of burrowers so that they can tear your ugly face off and mutilate your body.<end>
+
+=>q74_original
+Or even better, eat a grenade and jump in a pit full of burrowers and explode, killing everything. ::She giggles.:: *That* would be so hardcore...<end>
+
+=>q74
+Or even better, eat a grenade and jump in a pit full of burrowers and explode, killing everything. ::She giggles.:: *That* would be so hardcore...<end>
+
+=>a75_original
+Check this creature out. ::Show her the captured borer.::<end>
+
+=>a75
+Check this creature out. ::Show her the captured borer.::<end>
+
+=>q76_original
+::She takes a long look at the creature, as if hypnotized by its odd appearance.:: That's gross, but kinda cool. Actually, very, very cool... What is it?<end>
+
+=>q76
+::She takes a long look at the creature, as if hypnotized by its odd appearance.:: That's gross, but kinda cool. Actually, very, very cool... What is it?<end>
+
+=>a77_original
+It's called a psimorph, creature that can fuse with whatever it desires and turn it into a part of its body. The ones I saw in Foundry had shells made of hard rock and metallic spikes on its back.<end>
+
+=>a77
+It's called a psimorph, creature that can fuse with whatever it desires and turn it into a part of its body. The ones I saw in Foundry had shells made of hard rock and metallic spikes on its back.<end>
+
+=>q78_original
+Hard-freaking-core! Just... just hardcore. I want it. I want it now!<end>
+
+=>q78
+Hard-freaking-core! Just... just hardcore. I want it. I want it now!<end>
+
+=>q79_original
+I'll call him... hmmm, something cool. Eviscerator! No... Goreworm! No... Hmmm...<end>
+
+=>q79
+I'll call him... hmmm, something cool. Eviscerator! No... Goreworm! No... Hmmm...<end>
+
+=>q80_original
+<end>
+
+=>q80
+<end>
+
+=>a81_original
+If you like it so much, take it. It's yours.<end>
+
+=>a81
+If you like it so much, take it. It's yours.<end>
+
+=>q82_original
+Hardcore! Thank you, zoner. You make me think better of your kind...<end>
+
+=>q82
+Hardcore! Thank you, zoner. You make me think better of your kind...<end>
+
+=>q83_original
+I'm gonna take him home and give him some hardcore name. ::She pauses for a second, watching you. A moment passes, and a product of her thoughts gets presented.:: Hey zoner, um, wanna join me?<end>
+
+=>q83
+I'm gonna take him home and give him some hardcore name. ::She pauses for a second, watching you. A moment passes, and a product of her thoughts gets presented.:: Hey zoner, um, wanna join me?<end>
+
+=>a84_original
+Why not. Where do you live?<end>
+
+=>a84
+Why not. Where do you live?<end>
+
+=>q85_original
+The Talloski Manor. ::She laughs.:: In case you didn't figure it out by now, I'm Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
+
+=>q85
+The Talloski Manor. ::She laughs.:: In case you didn't figure it out by now, I'm Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
+
+=>q86_original
+Our mansion is in the residential area; yeah, it's just by the Praetorian Security building. I'm going there now. If you want to see me and Bloodeater... nah... still not hardcore enough. Anyway, if you wanna come over - feel free to do so. ::She smiles.::
+
+Goodbye for now, zoner.<end>
+
+=>q86
+Our mansion is in the residential area; yeah, it's just by the Praetorian Security building. I'm going there now. If you want to see me and Bloodeater... nah... still not hardcore enough. Anyway, if you wanna come over - feel free to do so. ::She smiles.::
+
+Goodbye for now, zoner.<end>
+
+=>a87_original
+I might stop by. See you, Sophie.<end>
+
+=>a87
+I might stop by. See you, Sophie.<end>
+
+=>a88_original
+I don't know. Maybe you can finally tell me who you really are and I'll see.<end>
+
+=>a88
+I don't know. Maybe you can finally tell me who you really are and I'll see.<end>
+
+=>q89_original
+Fine, I'll tell you, zoner: I am Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
+
+=>q89
+Fine, I'll tell you, zoner: I am Sophia Talloski, daughter of Vlatko Talloski. I'm sure you've heard of us, unless you're a *real* zoner. ::She laughs.::<end>
+
+=>a90_original
+It can be yours for a price.<end>
+
+=>a90
+It can be yours for a price.<end>
+
+=>q91_original
+How much?<end>
+
+=>q91
+How much?<end>
+
+=>a92_original
+Three hundred charons.<end>
+
+=>a92
+Three hundred charons.<end>
+
+=>q93_original
+::She pulls out three hundred charons like it's nothing to her.:: Take it. ::She looks at the creature again.:: This is so hardcore!<end>
+
+=>q93
+::She pulls out three hundred charons like it's nothing to her.:: Take it. ::She looks at the creature again.:: This is so hardcore!<end>
+
+=>a94_original
+::[Mercantile]:: Five hundred. These creatures are very rare. It's a fair price.<end>
+
+=>a94
+::[Mercantile]:: Five hundred. These creatures are very rare. It's a fair price.<end>
+
+=>q95_original
+Whatever - I'm taking it! ::She pulls out five hundred charons like it's nothing to her.:: Take it.<end>
+
+=>q95
+Whatever - I'm taking it! ::She pulls out five hundred charons like it's nothing to her.:: Take it.<end>
+
+=>q96_original
+Five? I think you're asking a bit too much, zoner. <end>
+
+=>q96
+Five? I think you're asking a bit too much, zoner. <end>
+
+=>a97_original
+How about three hundred then?<end>
+
+=>a97
+How about three hundred then?<end>
+
+=>a98_original
+I don't know, I found it in Foundry.<end>
+
+=>a98
+I don't know, I found it in Foundry.<end>
+
+=>q99_original
+Its head is a drill! Hardcore! I like it, I just like it!<end>
+
+=>q99
+Its head is a drill! Hardcore! I like it, I just like it!<end>
+
+=>a100_original
+How about this? ::Show her the captured latcher.::<end>
+
+=>a100
+How about this? ::Show her the captured latcher.::<end>
+
+=>q101_original
+::She takes a long look at the creature, as if hypnotized by its odd appearance. However, her nostrils do not take kindly to the awful smell emanating from the creature.:: I think I'm going to be, like, sick. Ugh, put it away!<end>
+
+=>q101
+::She takes a long look at the creature, as if hypnotized by its odd appearance. However, her nostrils do not take kindly to the awful smell emanating from the creature.:: I think I'm going to be, like, sick. Ugh, put it away!<end>
+
+=>q102_original
+I mean, its cool and all, but... Look, can you, ummm, like, bring something similar that is not going to dominate me with its horrible smell.<end>
+
+=>q102
+I mean, its cool and all, but... Look, can you, ummm, like, bring something similar that is not going to dominate me with its horrible smell.<end>
+
+=>a103_original
+I have a captured hopper. Wanna play with it?<end>
+
+=>a103
+I have a captured hopper. Wanna play with it?<end>
+
+=>q104_original
+::She takes a careful look at the hopper in the cage.:: It's kinda cute...<end>
+
+=>q104
+::She takes a careful look at the hopper in the cage.:: It's kinda cute...<end>
+
+=>q105_original
+I hate cute. Get it away from me. 
+
+Ugh... stupid creatures.<end>
+
+=>q105
+I hate cute. Get it away from me. 
+
+Ugh... stupid creatures.<end>
+
+=>a106_original
+Look what I got: A kitty!<end>
+
+=>a106
+Look what I got: A kitty!<end>
+
+=>q107_original
+Wow, a flea bag! Like I couldn't grab one from the streets myself.<end>
+
+=>q107
+Wow, a flea bag! Like I couldn't grab one from the streets myself.<end>
+
+=>q108_original
+Get it, like, away from me. Ugh...<end>
+
+=>q108
+Get it, like, away from me. Ugh...<end>
+
+=>a109_original
+I'll think of something. Meanwhile, let's talk about something else.<end>
+
+=>a109
+I'll think of something. Meanwhile, let's talk about something else.<end>
+
+=>q110_original
+Whatever...<end>
+
+=>q110
+Whatever...<end>
+
+=>a111_original
+What usually amuses you?<end>
+
+=>a111
+What usually amuses you?<end>
+
+=>q112_original
+I'm hard to amuse...<end>
+
+=>q112
+I'm hard to amuse...<end>
+
+=>q113_original
+::She drifts off into deep thought and remains silent for a while. You open your mouth to say something, but at the exact same moment she turns to you and speaks again.::<end>
+
+=>q113
+::She drifts off into deep thought and remains silent for a while. You open your mouth to say something, but at the exact same moment she turns to you and speaks again.::<end>
+
+=>q114_original
+I was always fascinated with monsters, you know. Proper monsters - weird, spooky, menacing... I had some old books which my dad gave to me when I was little, and they had illustrations of, like, some of the most fascinating creatures I'd ever seen. ::She sighs.:: I wish I could have my own monster so that I could, like, unleash it on people who bore me.<end>
+
+=>q114
+I was always fascinated with monsters, you know. Proper monsters - weird, spooky, menacing... I had some old books which my dad gave to me when I was little, and they had illustrations of, like, some of the most fascinating creatures I'd ever seen. ::She sighs.:: I wish I could have my own monster so that I could, like, unleash it on people who bore me.<end>
+
+=>a115_original
+Aren't you worried about being alone in a bar like this?<end>
+
+=>a115
+Aren't you worried about being alone in a bar like this?<end>
+
+=>q116_original
+Nope. The barman knows my father, and you'd be surprised how well I'm treated here.<end>
+
+=>q116
+Nope. The barman knows my father, and you'd be surprised how well I'm treated here.<end>
+
+=>q117_original
+Some time ago an ugly, fat, disgusting zoner started bothering me. Like - really got on my nerves. Talked like we were on the same level. Once I got, like, bored of his prattling I waved to the barkeeper and the zoner was picked up and tossed out like a rag doll while I watched everything with a smile on my face and a carnage cocktail in my hand. You know, the red and white one.<end>
+
+=>q117
+Some time ago an ugly, fat, disgusting zoner started bothering me. Like - really got on my nerves. Talked like we were on the same level. Once I got, like, bored of his prattling I waved to the barkeeper and the zoner was picked up and tossed out like a rag doll while I watched everything with a smile on my face and a carnage cocktail in my hand. You know, the red and white one.<end>
+
+=>q118_original
+Aaahh... Life dominates when people know who your dad is.<end>
+
+=>q118
+Aaahh... Life dominates when people know who your dad is.<end>
+
+=>a119_original
+Gotta run. See ya.<end>
+
+=>a119
+Gotta run. See ya.<end>
+
+=>a120_original
+Hey there sweetcakes. How's it going?<end>
+
+=>a120
+Hey there sweetcakes. How's it going?<end>
+
+=>q121_original
+Ugh, don't be such a creep. Sweetcakes? Really? Really now?<end>
+
+=>q121
+Ugh, don't be such a creep. Sweetcakes? Really? Really now?<end>
+
+=>a122_original
+I'm sorry, I'm sorry, that's not what I was aiming for. It came out completely wrong. Let's start over: Hi, I'm $(context.player.Name).<end>
+
+=>a122
+I'm sorry, I'm sorry, that's not what I was aiming for. It came out completely wrong. Let's start over: Hi, I'm $(context.player.Name).<end>
+
+=>q123_original
+Whatever. I'm Sophie.
+
+So, what do you want, zoner?<end>
+
+=>q123
+Whatever. I'm Sophie.
+
+So, what do you want, zoner?<end>
+
+=>a124_original
+I'm not just a creep. I'm the... CREEPMAN!<end>
+
+=>a124
+I'm not just a creep. I'm the... CREEPMAN!<end>
+
+=>q125_original
+Whatever, man. Look, you are obviously derailed so how about we, like, don't talk anymore? Hm?
+
+Good. Now bye!<end>
+
+=>q125
+Whatever, man. Look, you are obviously derailed so how about we, like, don't talk anymore? Hm?
+
+Good. Now bye!<end>
+
+=>a126_original
+Nothin' girl. 'Sup with you?<end>
+
+=>a126
+Nothin' girl. 'Sup with you?<end>
+
+=>q127_original
+Nothing. Just chillin'. Like, I'm just hanging out, trying to find some fun.<end>
+
+=>q127
+Nothing. Just chillin'. Like, I'm just hanging out, trying to find some fun.<end>
+
+=>a128_original
+I'm $(context.player.Name). Can I ask you a few questions?<end>
+
+=>a128
+I'm $(context.player.Name). Can I ask you a few questions?<end>
+
+=>q129_original
+It's cool. I'm Sophie.
+
+So, what do you want, zoner?<end>
+
+=>q129
+It's cool. I'm Sophie.
+
+So, what do you want, zoner?<end>
+
+=>a130_original
+That's cool, baby. I'm $(context.player.Name).<end>
+
+=>a130
+That's cool, baby. I'm $(context.player.Name).<end>
+
+=>q131_original
+Don't call me baby. Ever.
+
+So, what do you want, zoner?<end>
+
+=>q131
+Don't call me baby. Ever.
+
+So, what do you want, zoner?<end>
+
+=>a132_original
+Sorry, I thought you were someone else. Goodbye.<end>
+
+=>a132
+Sorry, I thought you were someone else. Goodbye.<end>
+
+=>q133_original
+Hey, zoner.<end>
+
+=>q133
+Hey, zoner.<end>
+

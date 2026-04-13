@@ -1,36 +1,36 @@
-=>q1_original
-::Where would you like to go?::<end>
-
-=>q1
-::Where would you like to go?::<end>
-
-=>a2_original
-::Apex::<end>
-
-=>a2
-::Apex::<end>
-
-=>a3_original
-::Mainframe Floor::<end>
-
-=>a3
-::Mainframe Floor::<end>
-
-=>a4_original
-::Lower Floor::<end>
-
-=>a4
-::Lower Floor::<end>
-
-=>a5_original
-::Storage::<end>
-
-=>a5
-::Storage::<end>
-
-=>a6_original
-::Nowhere::<end>
-
-=>a6
-::Nowhere::<end>
-
+=>q1_original
+::Where would you like to go?::<end>
+
+=>q1
+::Where would you like to go?::<end>
+
+=>a2_original
+::Apex::<end>
+
+=>a2
+::Apex::<end>
+
+=>a3_original
+::Mainframe Floor::<end>
+
+=>a3
+::Mainframe Floor::<end>
+
+=>a4_original
+::Lower Floor::<end>
+
+=>a4
+::Lower Floor::<end>
+
+=>a5_original
+::Storage::<end>
+
+=>a5
+::Storage::<end>
+
+=>a6_original
+::Nowhere::<end>
+
+=>a6
+::Nowhere::<end>
+

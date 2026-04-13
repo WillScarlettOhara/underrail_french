@@ -1,46 +1,46 @@
-=>q1_original
-::Status: Off::
-<end>
-
-=>q1
-::Status: Off::
-<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Turn on.::<end>
-
-=>a3
-::Turn on.::<end>
-
-=>a4_original
-::Turn off.::<end>
-
-=>a4
-::Turn off.::<end>
-
-=>a5_original
-::Leave.::<end>
-
-=>a5
-::Leave.::<end>
-
-=>q6_original
-::Status: On::
-<end>
-
-=>q6
-::Status: On::
-<end>
-
-=>q7_original
-::Electrical circuit damage detected. Shutdown recommended.::<end>
-
-=>q7
-::Electrical circuit damage detected. Shutdown recommended.::<end>
-
+=>q1_original
+::Status: Off::
+<end>
+
+=>q1
+::Status: Off::
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Turn on.::<end>
+
+=>a3
+::Turn on.::<end>
+
+=>a4_original
+::Turn off.::<end>
+
+=>a4
+::Turn off.::<end>
+
+=>a5_original
+::Leave.::<end>
+
+=>a5
+::Leave.::<end>
+
+=>q6_original
+::Status: On::
+<end>
+
+=>q6
+::Status: On::
+<end>
+
+=>q7_original
+::Electrical circuit damage detected. Shutdown recommended.::<end>
+
+=>q7
+::Electrical circuit damage detected. Shutdown recommended.::<end>
+

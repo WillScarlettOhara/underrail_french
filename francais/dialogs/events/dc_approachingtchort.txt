@@ -1,12 +1,12 @@
-=>q1_original
-::Suddenly something tightens deep inside your chest and stomach and you are frozen in place. An overwhelming fear pours over you and you feel your jaw tightening, your heart racing and your knees getting weak. It takes all your mental power not to just collapse right there on the floor.::<end>
-
-=>q1
-::Suddenly something tightens deep inside your chest and stomach and you are frozen in place. An overwhelming fear pours over you and you feel your jaw tightening, your heart racing and your knees getting weak. It takes all your mental power not to just collapse right there on the floor.::<end>
-
-=>q2_original
-::The sensation lasts for minutes, but you refuse to give in. Eventually it starts subsiding. It is as if you can feel the fear traveling through your nerves and out of your skin, dissipating in the air around.::<end>
-
-=>q2
-::The sensation lasts for minutes, but you refuse to give in. Eventually it starts subsiding. It is as if you can feel the fear traveling through your nerves and out of your skin, dissipating in the air around.::<end>
-
+=>q1_original
+::Suddenly something tightens deep inside your chest and stomach and you are frozen in place. An overwhelming fear pours over you and you feel your jaw tightening, your heart racing and your knees getting weak. It takes all your mental power not to just collapse right there on the floor.::<end>
+
+=>q1
+::Suddenly something tightens deep inside your chest and stomach and you are frozen in place. An overwhelming fear pours over you and you feel your jaw tightening, your heart racing and your knees getting weak. It takes all your mental power not to just collapse right there on the floor.::<end>
+
+=>q2_original
+::The sensation lasts for minutes, but you refuse to give in. Eventually it starts subsiding. It is as if you can feel the fear traveling through your nerves and out of your skin, dissipating in the air around.::<end>
+
+=>q2
+::The sensation lasts for minutes, but you refuse to give in. Eventually it starts subsiding. It is as if you can feel the fear traveling through your nerves and out of your skin, dissipating in the air around.::<end>
+

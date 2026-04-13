@@ -1,78 +1,78 @@
-=>q1_original
-Welcome to hydroponics.<end>
-
-=>q1
-Welcome to hydroponics.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-I can't believe Bret is gone...<end>
-
-=>q3
-I can't believe Bret is gone...<end>
-
-=>q4_original
-::Shakes head and sighs.:: <end>
-
-=>q4
-::Shakes head and sighs.:: <end>
-
-=>q5_original
-We grow all kinds of plants here.<end>
-
-=>q5
-We grow all kinds of plants here.<end>
-
-=>q6_original
-Don't touch anything, please.<end>
-
-=>q6
-Don't touch anything, please.<end>
-
-=>q7_original
-Good work saving Newton. That kid's more prone to accidents than a trip to Core City.<end>
-
-=>q7
-Good work saving Newton. That kid's more prone to accidents than a trip to Core City.<end>
-
-=>q8_original
-Did you hear? The Faceless were driven outta Core City.<end>
-
-=>q8
-Did you hear? The Faceless were driven outta Core City.<end>
-
-=>q9_original
-There's no soil here; a mineral-rich solution runs past the plants roots.<end>
-
-=>q9
-There's no soil here; a mineral-rich solution runs past the plants roots.<end>
-
-=>q10_original
-That derailed drunkard got what he deserved.<end>
-
-=>q10
-That derailed drunkard got what he deserved.<end>
-
-=>q11_original
-Poor kid. Maybe Bret wasn't right to send him out so soon.<end>
-
-=>q11
-Poor kid. Maybe Bret wasn't right to send him out so soon.<end>
-
-=>q12_original
-Most of the stuff we produce here we use to feed the animals, but some of it is for our own consumption.<end>
-
-=>q12
-Most of the stuff we produce here we use to feed the animals, but some of it is for our own consumption.<end>
-
-=>q13_original
-Apparently, they've got huge aeroponic farms in North Underrail. Now that's cool.<end>
-
-=>q13
-Apparently, they've got huge aeroponic farms in North Underrail. Now that's cool.<end>
-
+=>q1_original
+Welcome to hydroponics.<end>
+
+=>q1
+Welcome to hydroponics.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+I can't believe Bret is gone...<end>
+
+=>q3
+I can't believe Bret is gone...<end>
+
+=>q4_original
+::Shakes head and sighs.:: <end>
+
+=>q4
+::Shakes head and sighs.:: <end>
+
+=>q5_original
+We grow all kinds of plants here.<end>
+
+=>q5
+We grow all kinds of plants here.<end>
+
+=>q6_original
+Don't touch anything, please.<end>
+
+=>q6
+Don't touch anything, please.<end>
+
+=>q7_original
+Good work saving Newton. That kid's more prone to accidents than a trip to Core City.<end>
+
+=>q7
+Good work saving Newton. That kid's more prone to accidents than a trip to Core City.<end>
+
+=>q8_original
+Did you hear? The Faceless were driven outta Core City.<end>
+
+=>q8
+Did you hear? The Faceless were driven outta Core City.<end>
+
+=>q9_original
+There's no soil here; a mineral-rich solution runs past the plants roots.<end>
+
+=>q9
+There's no soil here; a mineral-rich solution runs past the plants roots.<end>
+
+=>q10_original
+That derailed drunkard got what he deserved.<end>
+
+=>q10
+That derailed drunkard got what he deserved.<end>
+
+=>q11_original
+Poor kid. Maybe Bret wasn't right to send him out so soon.<end>
+
+=>q11
+Poor kid. Maybe Bret wasn't right to send him out so soon.<end>
+
+=>q12_original
+Most of the stuff we produce here we use to feed the animals, but some of it is for our own consumption.<end>
+
+=>q12
+Most of the stuff we produce here we use to feed the animals, but some of it is for our own consumption.<end>
+
+=>q13_original
+Apparently, they've got huge aeroponic farms in North Underrail. Now that's cool.<end>
+
+=>q13
+Apparently, they've got huge aeroponic farms in North Underrail. Now that's cool.<end>
+

@@ -1,150 +1,150 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-I've got no emotions left, right? Or right, left?<end>
-
-=>q2
-I've got no emotions left, right? Or right, left?<end>
-
-=>q3_original
-The less you know, the less it hurts.<end>
-
-=>q3
-The less you know, the less it hurts.<end>
-
-=>q4_original
-Which one of us is the random one?<end>
-
-=>q4
-Which one of us is the random one?<end>
-
-=>q5_original
-I see the sea that swallowed the key. I bend over to get it, and it swallows me.<end>
-
-=>q5
-I see the sea that swallowed the key. I bend over to get it, and it swallows me.<end>
-
-=>q6_original
-Heh... you have that look in your eyes only people have. Marvelous.<end>
-
-=>q6
-Heh... you have that look in your eyes only people have. Marvelous.<end>
-
-=>q7_original
-I used to live in the Drop Zone, but now the Drop Zone dies in me.<end>
-
-=>q7
-I used to live in the Drop Zone, but now the Drop Zone dies in me.<end>
-
-=>q8_original
-Can I feel your soul? I need it.<end>
-
-=>q8
-Can I feel your soul? I need it.<end>
-
-=>q9_original
-I wanted to dominate life; life dominate to wanted I.<end>
-
-=>q9
-I wanted to dominate life; life dominate to wanted I.<end>
-
-=>q10_original
-My inner being escaped me. My outer being is hiding inside me. Yet I still feel the cold...<end>
-
-=>q10
-My inner being escaped me. My outer being is hiding inside me. Yet I still feel the cold...<end>
-
-=>q11_original
-I feel an inner conflict: My minds argue with one another.<end>
-
-=>q11
-I feel an inner conflict: My minds argue with one another.<end>
-
-=>q12_original
-I often dream reality.<end>
-
-=>q12
-I often dream reality.<end>
-
-=>q13_original
-They recommended lobotomy.<end>
-
-=>q13
-They recommended lobotomy.<end>
-
-=>q14_original
-You look...<end>
-
-=>q14
-You look...<end>
-
-=>q15_original
-Don't fear me. I'll fear me.<end>
-
-=>q15
-Don't fear me. I'll fear me.<end>
-
-=>q16_original
-I like the way you sleep. With your eyes closed.<end>
-
-=>q16
-I like the way you sleep. With your eyes closed.<end>
-
-=>q17_original
-When I was a kid, I slept in a dumpster. Now that kid is gone. And the dumpster too.<end>
-
-=>q17
-When I was a kid, I slept in a dumpster. Now that kid is gone. And the dumpster too.<end>
-
-=>q18_original
-I am hardcore enough, yet I am, though.<end>
-
-=>q18
-I am hardcore enough, yet I am, though.<end>
-
-=>q19_original
-I once killed a man. He got away the second time.<end>
-
-=>q19
-I once killed a man. He got away the second time.<end>
-
-=>q20_original
-Never trust yourself. I know I don't trust you.<end>
-
-=>q20
-Never trust yourself. I know I don't trust you.<end>
-
-=>q21_original
-Don't put it on your head.<end>
-
-=>q21
-Don't put it on your head.<end>
-
-=>q22_original
-The things you see when you haven't got your sight...<end>
-
-=>q22
-The things you see when you haven't got your sight...<end>
-
-=>q23_original
-They'd love you too.<end>
-
-=>q23
-They'd love you too.<end>
-
-=>q24_original
-Can you underail a derailed man? Or Underrail?<end>
-
-=>q24
-Can you underail a derailed man? Or Underrail?<end>
-
-=>q25_original
-Save me. Please.<end>
-
-=>q25
-Save me. Please.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I've got no emotions left, right? Or right, left?<end>
+
+=>q2
+I've got no emotions left, right? Or right, left?<end>
+
+=>q3_original
+The less you know, the less it hurts.<end>
+
+=>q3
+The less you know, the less it hurts.<end>
+
+=>q4_original
+Which one of us is the random one?<end>
+
+=>q4
+Which one of us is the random one?<end>
+
+=>q5_original
+I see the sea that swallowed the key. I bend over to get it, and it swallows me.<end>
+
+=>q5
+I see the sea that swallowed the key. I bend over to get it, and it swallows me.<end>
+
+=>q6_original
+Heh... you have that look in your eyes only people have. Marvelous.<end>
+
+=>q6
+Heh... you have that look in your eyes only people have. Marvelous.<end>
+
+=>q7_original
+I used to live in the Drop Zone, but now the Drop Zone dies in me.<end>
+
+=>q7
+I used to live in the Drop Zone, but now the Drop Zone dies in me.<end>
+
+=>q8_original
+Can I feel your soul? I need it.<end>
+
+=>q8
+Can I feel your soul? I need it.<end>
+
+=>q9_original
+I wanted to dominate life; life dominate to wanted I.<end>
+
+=>q9
+I wanted to dominate life; life dominate to wanted I.<end>
+
+=>q10_original
+My inner being escaped me. My outer being is hiding inside me. Yet I still feel the cold...<end>
+
+=>q10
+My inner being escaped me. My outer being is hiding inside me. Yet I still feel the cold...<end>
+
+=>q11_original
+I feel an inner conflict: My minds argue with one another.<end>
+
+=>q11
+I feel an inner conflict: My minds argue with one another.<end>
+
+=>q12_original
+I often dream reality.<end>
+
+=>q12
+I often dream reality.<end>
+
+=>q13_original
+They recommended lobotomy.<end>
+
+=>q13
+They recommended lobotomy.<end>
+
+=>q14_original
+You look...<end>
+
+=>q14
+You look...<end>
+
+=>q15_original
+Don't fear me. I'll fear me.<end>
+
+=>q15
+Don't fear me. I'll fear me.<end>
+
+=>q16_original
+I like the way you sleep. With your eyes closed.<end>
+
+=>q16
+I like the way you sleep. With your eyes closed.<end>
+
+=>q17_original
+When I was a kid, I slept in a dumpster. Now that kid is gone. And the dumpster too.<end>
+
+=>q17
+When I was a kid, I slept in a dumpster. Now that kid is gone. And the dumpster too.<end>
+
+=>q18_original
+I am hardcore enough, yet I am, though.<end>
+
+=>q18
+I am hardcore enough, yet I am, though.<end>
+
+=>q19_original
+I once killed a man. He got away the second time.<end>
+
+=>q19
+I once killed a man. He got away the second time.<end>
+
+=>q20_original
+Never trust yourself. I know I don't trust you.<end>
+
+=>q20
+Never trust yourself. I know I don't trust you.<end>
+
+=>q21_original
+Don't put it on your head.<end>
+
+=>q21
+Don't put it on your head.<end>
+
+=>q22_original
+The things you see when you haven't got your sight...<end>
+
+=>q22
+The things you see when you haven't got your sight...<end>
+
+=>q23_original
+They'd love you too.<end>
+
+=>q23
+They'd love you too.<end>
+
+=>q24_original
+Can you underail a derailed man? Or Underrail?<end>
+
+=>q24
+Can you underail a derailed man? Or Underrail?<end>
+
+=>q25_original
+Save me. Please.<end>
+
+=>q25
+Save me. Please.<end>
+

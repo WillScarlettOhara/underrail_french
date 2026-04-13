@@ -1,1056 +1,1056 @@
-=>q1_original
-I'm busy now, $(#son/woman). Go away.<end>
-
-=>q1
-I'm busy now, $(#son/woman). Go away.<end>
-
-=>q2_original
-You again. Get outta here! Leave me alone.<end>
-
-=>q2
-You again. Get outta here! Leave me alone.<end>
-
-=>q3_original
-::You come up to an old fisherman. Wearing an old jacket and rubber boots, this simply-clothed man watches his rod with great focus and pays no attention to you.::<end>
-
-=>q3
-::You come up to an old fisherman. Wearing an old jacket and rubber boots, this simply-clothed man watches his rod with great focus and pays no attention to you.::<end>
-
-=>a4_original
-Hi there.<end>
-
-=>a4
-Hi there.<end>
-
-=>q5_original
-::The man silences you with a swift gesture of his hand, for his prey is about to bite. The float disappears under the surface, and the rod bends downward. The fisherman grasps it tightly, yanking the rod as if he was expecting to pull a sunken ferry out of the depths. Soon enough, a small light-bluish eel flies through the air and ends its journey in the man's raw-boned hand.::<end>
-
-=>q5
-::The man silences you with a swift gesture of his hand, for his prey is about to bite. The float disappears under the surface, and the rod bends downward. The fisherman grasps it tightly, yanking the rod as if he was expecting to pull a sunken ferry out of the depths. Soon enough, a small light-bluish eel flies through the air and ends its journey in the man's raw-boned hand.::<end>
-
-=>q6_original
-::Disappointed, he unhooks the fish with a single motion and gently releases it back into the water, in which it happily disappears. One of the two men standing nearby begins laughing but immediately stops before his and the old fisherman's stares meet, instead shifting his view to his own rather steady float.::<end>
-
-=>q6
-::Disappointed, he unhooks the fish with a single motion and gently releases it back into the water, in which it happily disappears. One of the two men standing nearby begins laughing but immediately stops before his and the old fisherman's stares meet, instead shifting his view to his own rather steady float.::<end>
-
-=>q7_original
-::The old geezer then resets the rod, and his few steps back and forth reveal a limp in his left leg. Then, he turns to you.::
-
-Who the hell are you?<end>
-
-=>q7
-::The old geezer then resets the rod, and his few steps back and forth reveal a limp in his left leg. Then, he turns to you.::
-
-Who the hell are you?<end>
-
-=>a8_original
-Hi there. Could I ask you a few questions?<end>
-
-=>a8
-Hi there. Could I ask you a few questions?<end>
-
-=>q9_original
-::He turns the left side of his head toward you and leans closer, mouth wide open.::
-
-Didn't catch that. Could you speak up?<end>
-
-=>q9
-::He turns the left side of his head toward you and leans closer, mouth wide open.::
-
-Didn't catch that. Could you speak up?<end>
-
-=>a10_original
-I SAID: HI THERE, COULD I ASK YOU A COUPLE OF QUESTIONS!?<end>
-
-=>a10
-I SAID: HI THERE, COULD I ASK YOU A COUPLE OF QUESTIONS!?<end>
-
-=>q11_original
-What the hell, $(#son/woman)? You didn't have to wreck me ears.<end>
-
-=>q11
-What the hell, $(#son/woman)? You didn't have to wreck me ears.<end>
-
-=>q12_original
-What questions?<end>
-
-=>q12
-What questions?<end>
-
-=>a13_original
-About you.<end>
-
-=>a13
-About you.<end>
-
-=>q14_original
-I don't know you. Unless you a lost $(#son/daughter) of mine I ain't... Well, if you were I especially wouldn't wanna talk to you. 
-
-Erm... are you a spawn of me own?<end>
-
-=>q14
-I don't know you. Unless you a lost $(#son/daughter) of mine I ain't... Well, if you were I especially wouldn't wanna talk to you. 
-
-Erm... are you a spawn of me own?<end>
-
-=>a15_original
-No.<end>
-
-=>a15
-No.<end>
-
-=>q16_original
-Oh. Great. I hate kids.<end>
-
-=>q16
-Oh. Great. I hate kids.<end>
-
-=>a17_original
-How about Junkyard then?<end>
-
-=>a17
-How about Junkyard then?<end>
-
-=>q18_original
-Go annoy someone else with that. I ain't a Junkyard guide. Besides, you wouldn't wanna ask the wrong people some of the questions you might have in the bag, $(#son/woman).<end>
-
-=>q18
-Go annoy someone else with that. I ain't a Junkyard guide. Besides, you wouldn't wanna ask the wrong people some of the questions you might have in the bag, $(#son/woman).<end>
-
-=>a19_original
-How about fishing then?<end>
-
-=>a19
-How about fishing then?<end>
-
-=>q20_original
-::He takes a look at his motionless float.:: The water ain't good right now. I suppose I could spare a few moments.<end>
-
-=>q20
-::He takes a look at his motionless float.:: The water ain't good right now. I suppose I could spare a few moments.<end>
-
-=>a21_original
-Very good. I'm $(context.player.Name), by the way.<end>
-
-=>a21
-Very good. I'm $(context.player.Name), by the way.<end>
-
-=>q22_original
-Geezer Ford. That's what the folks around here call me. But for you - it's Mr. Ford.<end>
-
-=>q22
-Geezer Ford. That's what the folks around here call me. But for you - it's Mr. Ford.<end>
-
-=>a23_original
-Got it, Mr. Ford.<end>
-
-=>a23
-Got it, Mr. Ford.<end>
-
-=>q24_original
-Yeah. Go ahead now, ask your questions.<end>
-
-=>q24
-Yeah. Go ahead now, ask your questions.<end>
-
-=>q25_original
-<end>
-
-=>q25
-<end>
-
-=>a26_original
-About that fishing challenge...<end>
-
-=>a26
-About that fishing challenge...<end>
-
-=>q27_original
-Yeah? I still need to see you catch$(context.npc_jy_ford_whatHeNeeds)<end>
-
-=>q27
-Yeah? I still need to see you catch$(context.npc_jy_ford_whatHeNeeds)<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-I caught an anglerfish.<end>
-
-=>a29
-I caught an anglerfish.<end>
-
-=>q30_original
-::He takes a look at it.:: That's an anglerfish alright. Look at them teeth.<end>
-
-=>q30
-::He takes a look at it.:: That's an anglerfish alright. Look at them teeth.<end>
-
-=>q31_original
-<end>
-
-=>q31
-<end>
-
-=>q32_original
-Well... it appears you've caught them all.<end>
-
-=>q32
-Well... it appears you've caught them all.<end>
-
-=>a33_original
-Well?<end>
-
-=>a33
-Well?<end>
-
-=>q34_original
-::He stares at you.::<end>
-
-=>q34
-::He stares at you.::<end>
-
-=>a35_original
-I'm waiting.<end>
-
-=>a35
-I'm waiting.<end>
-
-=>q36_original
-::He maintains his gaze, but eventually it shifts toward the fishing rod. His hand beckons you to follow him.::
-
-Come 'ere.<end>
-
-=>q36
-::He maintains his gaze, but eventually it shifts toward the fishing rod. His hand beckons you to follow him.::
-
-Come 'ere.<end>
-
-=>a37_original
-::Let him show you the trick.::<end>
-
-=>a37
-::Let him show you the trick.::<end>
-
-=>q38_original
-You still got more to catch. I still need to see$(context.npc_jy_ford_whatHeNeeds)<end>
-
-=>q38
-You still got more to catch. I still need to see$(context.npc_jy_ford_whatHeNeeds)<end>
-
-=>a39_original
-I caught a black dragon.<end>
-
-=>a39
-I caught a black dragon.<end>
-
-=>q40_original
-Black as coal. I know of a guy who caught an albino one in one of them wet caves far south of here. Bastard.<end>
-
-=>q40
-Black as coal. I know of a guy who caught an albino one in one of them wet caves far south of here. Bastard.<end>
-
-=>a41_original
-I caught a demon squid.<end>
-
-=>a41
-I caught a demon squid.<end>
-
-=>q42_original
-::He touches the squid's tentacles a few times before nodding.:: Good. Good. Fine specimen.<end>
-
-=>q42
-::He touches the squid's tentacles a few times before nodding.:: Good. Good. Fine specimen.<end>
-
-=>a43_original
-I caught a ghostface.<end>
-
-=>a43
-I caught a ghostface.<end>
-
-=>q44_original
-Very good, $(#son/woman). I remember when I caught my first ghostface. It was in the cold caves of... khm. Very good.<end>
-
-=>q44
-Very good, $(#son/woman). I remember when I caught my first ghostface. It was in the cold caves of... khm. Very good.<end>
-
-=>a45_original
-I caught a minihead.<end>
-
-=>a45
-I caught a minihead.<end>
-
-=>q46_original
-::He leans forward, mouth open.:: Huh? ::Then he looks at the minihead.:: Oh, oh. Good. Got that one, I see.<end>
-
-=>q46
-::He leans forward, mouth open.:: Huh? ::Then he looks at the minihead.:: Oh, oh. Good. Got that one, I see.<end>
-
-=>a47_original
-I caught a pentapus.<end>
-
-=>a47
-I caught a pentapus.<end>
-
-=>q48_original
-One, two, three, four... Yeah. It is all there. Nice.<end>
-
-=>q48
-One, two, three, four... Yeah. It is all there. Nice.<end>
-
-=>a49_original
-I caught a phantom jelly.<end>
-
-=>a49
-I caught a phantom jelly.<end>
-
-=>q50_original
-This is indeed a real phantom jelly. Some folks can't tell the difference between these and spectre jellies, but it be obvious to anyone who's not a damn rookie. 
-
-Good work.<end>
-
-=>q50
-This is indeed a real phantom jelly. Some folks can't tell the difference between these and spectre jellies, but it be obvious to anyone who's not a damn rookie. 
-
-Good work.<end>
-
-=>a51_original
-I caught a shrimp.<end>
-
-=>a51
-I caught a shrimp.<end>
-
-=>q52_original
-::He takes a careful look at it.:: Yup. You got it. Well done, $(#son/woman).<end>
-
-=>q52
-::He takes a careful look at it.:: Yup. You got it. Well done, $(#son/woman).<end>
-
-=>a53_original
-I caught a slackjaw.<end>
-
-=>a53
-I caught a slackjaw.<end>
-
-=>q54_original
-::He smells the fish, frowning as he does so.:: That's the smell! When you buy these, they mostly don't smell this bad. I don't know what they do to 'em. Still, you caught this one. Good work.<end>
-
-=>q54
-::He smells the fish, frowning as he does so.:: That's the smell! When you buy these, they mostly don't smell this bad. I don't know what they do to 'em. Still, you caught this one. Good work.<end>
-
-=>a55_original
-I caught a walking fish.<end>
-
-=>a55
-I caught a walking fish.<end>
-
-=>q56_original
-::He nods in approval.:: Not bad. Just don't let it walk away. ::He laughs.:: That's a joke. Old but gold.<end>
-
-=>q56
-::He nods in approval.:: Not bad. Just don't let it walk away. ::He laughs.:: That's a joke. Old but gold.<end>
-
-=>a57_original
-Got it. I'm off to do some fishing.<end>
-
-=>a57
-Got it. I'm off to do some fishing.<end>
-
-=>q58_original
-Try not to drown.<end>
-
-=>q58
-Try not to drown.<end>
-
-=>a59_original
-What's your name?<end>
-
-=>a59
-What's your name?<end>
-
-=>a60_original
-Where'd you get that limp?<end>
-
-=>a60
-Where'd you get that limp?<end>
-
-=>q61_original
-That ain't a fishin'-related question.<end>
-
-=>q61
-That ain't a fishin'-related question.<end>
-
-=>a62_original
-It is if you got it while you were fishing.<end>
-
-=>a62
-It is if you got it while you were fishing.<end>
-
-=>q63_original
-::He pauses.:: Ah. Gotcha. But it ain't due to no fishin'. My one leg is shorter. I was born that way.<end>
-
-=>q63
-::He pauses.:: Ah. Gotcha. But it ain't due to no fishin'. My one leg is shorter. I was born that way.<end>
-
-=>q64_original
-There you go, $(#son/woman). You got that one.<end>
-
-=>q64
-There you go, $(#son/woman). You got that one.<end>
-
-=>a65_original
-That is true. Let's talk about fishing then.<end>
-
-=>a65
-That is true. Let's talk about fishing then.<end>
-
-=>q66_original
-Like I'm havin' a conversation with a slackjaw.<end>
-
-=>q66
-Like I'm havin' a conversation with a slackjaw.<end>
-
-=>a67_original
-I changed my mind about doing that challenge you gave me.<end>
-
-=>a67
-I changed my mind about doing that challenge you gave me.<end>
-
-=>q68_original
-Oh, really? Well, $(#son/woman), I told you <end>
-
-=>q68
-Oh, really? Well, $(#son/woman), I told you <end>
-
-=>q69_original
-I betcha couldn't bring me one of each of these: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp, walkin' fish. If you are good enough to do that, if you're an even remotely decent fisherman, then I'm gonna reveal one of my fishin' tricks, one I've never told anyone. Anyone.<end>
-
-=>q69
-I betcha couldn't bring me one of each of these: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp, walkin' fish. If you are good enough to do that, if you're an even remotely decent fisherman, then I'm gonna reveal one of my fishin' tricks, one I've never told anyone. Anyone.<end>
-
-=>a70_original
-I bet you I can catch them all.<end>
-
-=>a70
-I bet you I can catch them all.<end>
-
-=>q71_original
-Then do it. Then do it. But if you lose, you're gonna have to go around Junkyard and say: "Mr. Ford is the best fisherman in the whole South Underrail!", while I blow up harder than two pufferfishes matin'.<end>
-
-=>q71
-Then do it. Then do it. But if you lose, you're gonna have to go around Junkyard and say: "Mr. Ford is the best fisherman in the whole South Underrail!", while I blow up harder than two pufferfishes matin'.<end>
-
-=>a72_original
-Deal.<end>
-
-=>a72
-Deal.<end>
-
-=>q73_original
-Deal. Now you better hurry up unless you want me to die of old age. Go.<end>
-
-=>q73
-Deal. Now you better hurry up unless you want me to die of old age. Go.<end>
-
-=>a74_original
-I already caught something for you.<end>
-
-=>a74
-I already caught something for you.<end>
-
-=>q75_original
-Oh? Well, let's see it then...<end>
-
-=>q75
-Oh? Well, let's see it then...<end>
-
-=>a76_original
-Goodbye, Mr. Ford.<end>
-
-=>a76
-Goodbye, Mr. Ford.<end>
-
-=>a77_original
-::Leave.::<end>
-
-=>a77
-::Leave.::<end>
-
-=>a78_original
-That's a lot to catch.<end>
-
-=>a78
-That's a lot to catch.<end>
-
-=>q79_original
-That's nothin', $(#son/woman), not for a big shot like you.<end>
-
-=>q79
-That's nothin', $(#son/woman), not for a big shot like you.<end>
-
-=>a80_original
-Actually, I don't think I'm willing to do this.<end>
-
-=>a80
-Actually, I don't think I'm willing to do this.<end>
-
-=>q81_original
-Quaker. You scared of puttin' your money where your mouth is. And I ain't askin' for much.<end>
-
-=>q81
-Quaker. You scared of puttin' your money where your mouth is. And I ain't askin' for much.<end>
-
-=>a82_original
-You know what? I'm not going to prove anything to you, old man.<end>
-
-=>a82
-You know what? I'm not going to prove anything to you, old man.<end>
-
-=>a83_original
-So, how's the water here? In general, I mean.<end>
-
-=>a83
-So, how's the water here? In general, I mean.<end>
-
-=>q84_original
-Well, it might seem stupid to someone lookin' from afar, like, what in hell's goddamn railroad are those slackers doin' by that muddy puddle. But, listen, there's an underwater tunnel connectin' to a whole system of caves which are full of 'em eels.<end>
-
-=>q84
-Well, it might seem stupid to someone lookin' from afar, like, what in hell's goddamn railroad are those slackers doin' by that muddy puddle. But, listen, there's an underwater tunnel connectin' to a whole system of caves which are full of 'em eels.<end>
-
-=>q85_original
-::He looks toward the tent and points to the man standing by the barrel.:: See that ugly yo-yo there? His name's Hopper Jim. Quaker at heart. Centipedes, spiders and all kinda bugs scare the livin' ooze out of him. But, man, can he fish like a spawn of siphoner. He caught a fifty kilo eel right 'ere. Mmm-hm.<end>
-
-=>q85
-::He looks toward the tent and points to the man standing by the barrel.:: See that ugly yo-yo there? His name's Hopper Jim. Quaker at heart. Centipedes, spiders and all kinda bugs scare the livin' ooze out of him. But, man, can he fish like a spawn of siphoner. He caught a fifty kilo eel right 'ere. Mmm-hm.<end>
-
-=>a86_original
-Go on...<end>
-
-=>a86
-Go on...<end>
-
-=>q87_original
-Now... it wasn't a regular ol' blue eel. It was a red behemoth with a yellow stripe on its side. I'd never seen anythin' like it before. Now that's a catch! And I, bein' the best fisherman in whole Underrail... South Underrail definitely, ain't gonna let someone like Hopper Jim outdo me.<end>
-
-=>q87
-Now... it wasn't a regular ol' blue eel. It was a red behemoth with a yellow stripe on its side. I'd never seen anythin' like it before. Now that's a catch! And I, bein' the best fisherman in whole Underrail... South Underrail definitely, ain't gonna let someone like Hopper Jim outdo me.<end>
-
-=>a88_original
-What happened to the red eel?<end>
-
-=>a88
-What happened to the red eel?<end>
-
-=>q89_original
-::He leans forward, mouth open.:: Whatcha say?<end>
-
-=>q89
-::He leans forward, mouth open.:: Whatcha say?<end>
-
-=>a90_original
-I said: What happened to the red eel Hopper Jim caught?<end>
-
-=>a90
-I said: What happened to the red eel Hopper Jim caught?<end>
-
-=>q91_original
-He sold it to one of them Northerner wimps. United Stations feller. He weighed less than that eel. ::He laughs.:: Don't know how much he got for it, the bastard wouldn't tell.<end>
-
-=>q91
-He sold it to one of them Northerner wimps. United Stations feller. He weighed less than that eel. ::He laughs.:: Don't know how much he got for it, the bastard wouldn't tell.<end>
-
-=>q92_original
-I think it be hangin' on some wall now, far as I heard.<end>
-
-=>q92
-I think it be hangin' on some wall now, far as I heard.<end>
-
-=>a93_original
-You think you're the best fisherman in Underrail? You?<end>
-
-=>a93
-You think you're the best fisherman in Underrail? You?<end>
-
-=>q94_original
-Yeah. ::He squints at you with one of his eyes, while the other one sharpens up.:: Somethin' botherin' you, $(#son/woman)?<end>
-
-=>q94
-Yeah. ::He squints at you with one of his eyes, while the other one sharpens up.:: Somethin' botherin' you, $(#son/woman)?<end>
-
-=>a95_original
-I'm pretty sure there are better fishermen than you out there, old man.<end>
-
-=>a95
-I'm pretty sure there are better fishermen than you out there, old man.<end>
-
-=>q96_original
-"Pretty sure" my wrinkly old butt, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>q96
-"Pretty sure" my wrinkly old butt, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>q97_original
-What do you know, huh? 'Cause you sure sound like you think you're some kinda big shot, yeah, talkin' to *me*, Geezer Ford, like that. 
-
-You don't... you don't think *you*'re better than me, eh?<end>
-
-=>q97
-What do you know, huh? 'Cause you sure sound like you think you're some kinda big shot, yeah, talkin' to *me*, Geezer Ford, like that. 
-
-You don't... you don't think *you*'re better than me, eh?<end>
-
-=>q98_original
-<end>
-
-=>q98
-<end>
-
-=>a99_original
-Maybe I am.<end>
-
-=>a99
-Maybe I am.<end>
-
-=>q100_original
-Oh? So you do think you're better than me? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
-
-=>q100
-Oh? So you do think you're better than me? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
-
-=>a101_original
-How do you want me to prove it?<end>
-
-=>a101
-How do you want me to prove it?<end>
-
-=>q102_original
-::He turns silent as his mind retreats to envision an appropriate challenge. Eventually, it emerges with one.::
-
-I betcha you couldn't even do the southern tour.<end>
-
-=>q102
-::He turns silent as his mind retreats to envision an appropriate challenge. Eventually, it emerges with one.::
-
-I betcha you couldn't even do the southern tour.<end>
-
-=>a103_original
-I could.<end>
-
-=>a103
-I could.<end>
-
-=>q104_original
-::His suspicious eyes begin to burn you.::
-
-Do you even know what a southern tour is?<end>
-
-=>q104
-::His suspicious eyes begin to burn you.::
-
-Do you even know what a southern tour is?<end>
-
-=>a105_original
-::[Intelligence]:: You travel South Underrail and catch fish.<end>
-
-=>a105
-::[Intelligence]:: You travel South Underrail and catch fish.<end>
-
-=>q106_original
-What fish?<end>
-
-=>q106
-What fish?<end>
-
-=>a107_original
-Only the biggest and rarest you can find.<end>
-
-=>a107
-Only the biggest and rarest you can find.<end>
-
-=>q108_original
-You know nothin'. Phony hopper. Thinkin' you're big shot.<end>
-
-=>q108
-You know nothin'. Phony hopper. Thinkin' you're big shot.<end>
-
-=>q109_original
-A southern tour is when you fish for one of each kind in South Underrail. Now, we ain't talking about one-of-a-kind stuff, like them red eels and stuff, but the more... common species. That don't mean it gonna be easy.<end>
-
-=>q109
-A southern tour is when you fish for one of each kind in South Underrail. Now, we ain't talking about one-of-a-kind stuff, like them red eels and stuff, but the more... common species. That don't mean it gonna be easy.<end>
-
-=>q110_original
-Now, I ain't gonna ask of you to catch exactly every kinda fish there is, that'd take too long. I ain't gonna wait a year for a sorry excuse for a fisherman such as yourself to fish 'em all out.<end>
-
-=>q110
-Now, I ain't gonna ask of you to catch exactly every kinda fish there is, that'd take too long. I ain't gonna wait a year for a sorry excuse for a fisherman such as yourself to fish 'em all out.<end>
-
-=>a111_original
-Red eels only.<end>
-
-=>a111
-Red eels only.<end>
-
-=>a112_original
-It doesn't matter, you just catch as much as you can carry.<end>
-
-=>a112
-It doesn't matter, you just catch as much as you can carry.<end>
-
-=>a113_original
-One of each species.<end>
-
-=>a113
-One of each species.<end>
-
-=>q114_original
-Good. You ain't an absolute slackjaw. But that ain't provin' anythin'.<end>
-
-=>q114
-Good. You ain't an absolute slackjaw. But that ain't provin' anythin'.<end>
-
-=>a115_original
-Any you can find.<end>
-
-=>a115
-Any you can find.<end>
-
-=>a116_original
-Well...<end>
-
-=>a116
-Well...<end>
-
-=>q117_original
-::He explodes with laughter, its echo so loud you feel it manages to reach every ear in Junkyard.::
-
-You ain't nothin' if you've never done a southern tour, $(#son/woman).<end>
-
-=>q117
-::He explodes with laughter, its echo so loud you feel it manages to reach every ear in Junkyard.::
-
-You ain't nothin' if you've never done a southern tour, $(#son/woman).<end>
-
-=>a118_original
-Erm...<end>
-
-=>a118
-Erm...<end>
-
-=>a119_original
-Yeah...<end>
-
-=>a119
-Yeah...<end>
-
-=>a120_original
-I think...<end>
-
-=>a120
-I think...<end>
-
-=>a121_original
-Ehm... what is the southern tour exactly?<end>
-
-=>a121
-Ehm... what is the southern tour exactly?<end>
-
-=>a122_original
-Better, no. Good enough to see you're full of it? That I am.<end>
-
-=>a122
-Better, no. Good enough to see you're full of it? That I am.<end>
-
-=>q123_original
-Good enough? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
-
-=>q123
-Good enough? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
-
-=>a124_original
-No, I don't think I'm better.<end>
-
-=>a124
-No, I don't think I'm better.<end>
-
-=>q125_original
-Then shut your yap. Hell...<end>
-
-=>q125
-Then shut your yap. Hell...<end>
-
-=>q126_original
-'T's like talkin' to a retarded slackjaw.<end>
-
-=>q126
-'T's like talkin' to a retarded slackjaw.<end>
-
-=>a127_original
-Well, Hopper Jim seems to be a better fisherman than you.<end>
-
-=>a127
-Well, Hopper Jim seems to be a better fisherman than you.<end>
-
-=>q128_original
-What? Hopper Jim ain't a better fisherman than Geezer Ford, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>q128
-What? Hopper Jim ain't a better fisherman than Geezer Ford, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>a129_original
-Nothing, nothing. Let me ask you something else.<end>
-
-=>a129
-Nothing, nothing. Let me ask you something else.<end>
-
-=>q130_original
-Don't you be changin' the subject on me, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>q130
-Don't you be changin' the subject on me, $(#you little hopper son of a rail/you brainless baggage). <end>
-
-=>a131_original
-What's your record?<end>
-
-=>a131
-What's your record?<end>
-
-=>q132_original
-It ain't about the weight, if that's whatcha thinking, it about the principle. I've caught bigger fish. Sixty, seventy kilos - no problem. Hell, I was doin' ferry tours before Jim was even fillin' his diapers. I caught the *largest* slackjaw Core City's ever seen. I caught more walkin' fishes than he caught fleas bittin' into his skin. But he caught a fifty-kilo red eel in this pool right 'ere.<end>
-
-=>q132
-It ain't about the weight, if that's whatcha thinking, it about the principle. I've caught bigger fish. Sixty, seventy kilos - no problem. Hell, I was doin' ferry tours before Jim was even fillin' his diapers. I caught the *largest* slackjaw Core City's ever seen. I caught more walkin' fishes than he caught fleas bittin' into his skin. But he caught a fifty-kilo red eel in this pool right 'ere.<end>
-
-=>q133_original
-That means I gotta catch somethin' better and bigger and rub it in his nose. If not a red eel, then somethin' else. That's what it all about, $(#son/woman). That's what it all about.<end>
-
-=>q133
-That means I gotta catch somethin' better and bigger and rub it in his nose. If not a red eel, then somethin' else. That's what it all about, $(#son/woman). That's what it all about.<end>
-
-=>a134_original
-I would like to change the subject.<end>
-
-=>a134
-I would like to change the subject.<end>
-
-=>q135_original
-I'll catch another one of 'em. There's more and I know it. You wait and see.<end>
-
-=>q135
-I'll catch another one of 'em. There's more and I know it. You wait and see.<end>
-
-=>a136_original
-Is this one of *those* fishing stories?<end>
-
-=>a136
-Is this one of *those* fishing stories?<end>
-
-=>q137_original
-No. It was fifty kilos. I swear on me wife's grave.<end>
-
-=>q137
-No. It was fifty kilos. I swear on me wife's grave.<end>
-
-=>a138_original
-Did Hopper Jim beat some kind of record of yours by catching that red eel?<end>
-
-=>a138
-Did Hopper Jim beat some kind of record of yours by catching that red eel?<end>
-
-=>a139_original
-I gotta go. I'll catch you later.<end>
-
-=>a139
-I gotta go. I'll catch you later.<end>
-
-=>a140_original
-Got it, Mr. Ford. I'm $(context.player.Name).<end>
-
-=>a140
-Got it, Mr. Ford. I'm $(context.player.Name).<end>
-
-=>q141_original
-::He nods.::<end>
-
-=>q141
-::He nods.::<end>
-
-=>a142_original
-Geezer Ford. Why do they call you that?<end>
-
-=>a142
-Geezer Ford. Why do they call you that?<end>
-
-=>q143_original
-Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
-
-=>q143
-Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
-
-=>a144_original
-I heard you right, but I'm sticking with Geezer Ford. Suits you better.<end>
-
-=>a144
-I heard you right, but I'm sticking with Geezer Ford. Suits you better.<end>
-
-=>q145_original
-Look here, $(#you little hopper son of a rail/you brainless baggage). I ain't gonna stand here and listen to you disrespectin' me, you dig? Now get lost!<end>
-
-=>q145
-Look here, $(#you little hopper son of a rail/you brainless baggage). I ain't gonna stand here and listen to you disrespectin' me, you dig? Now get lost!<end>
-
-=>a146_original
-Someone's sensitive. Bye, old man.<end>
-
-=>a146
-Someone's sensitive. Bye, old man.<end>
-
-=>a147_original
-Stupid old jerk.<end>
-
-=>a147
-Stupid old jerk.<end>
-
-=>a148_original
-::Nod and leave.::<end>
-
-=>a148
-::Nod and leave.::<end>
-
-=>a149_original
-Let's talk then.<end>
-
-=>a149
-Let's talk then.<end>
-
-=>q150_original
-Yeah.<end>
-
-=>q150
-Yeah.<end>
-
-=>a151_original
-How about you tell me something about yourself?<end>
-
-=>a151
-How about you tell me something about yourself?<end>
-
-=>a152_original
-About Junkyard.<end>
-
-=>a152
-About Junkyard.<end>
-
-=>a153_original
-About fishing.<end>
-
-=>a153
-About fishing.<end>
-
-=>a154_original
-I said: Nice catch.<end>
-
-=>a154
-I said: Nice catch.<end>
-
-=>q155_original
-Wha'? That thing? ::He laughs.:: That ain't good enough to feed a cat, $(#son/woman). If you're tryin' to act nice, then don't, and if you're tryin' to make fun of me then go stick your head in a siphoner's rear, ya dig?<end>
-
-=>q155
-Wha'? That thing? ::He laughs.:: That ain't good enough to feed a cat, $(#son/woman). If you're tryin' to act nice, then don't, and if you're tryin' to make fun of me then go stick your head in a siphoner's rear, ya dig?<end>
-
-=>a156_original
-I didn't mean it in any bad way. Anyway, could I ask you a couple of questions?<end>
-
-=>a156
-I didn't mean it in any bad way. Anyway, could I ask you a couple of questions?<end>
-
-=>a157_original
-Actually, I *was* trying to mock you. That was the lamest catch I've ever seen.<end>
-
-=>a157
-Actually, I *was* trying to mock you. That was the lamest catch I've ever seen.<end>
-
-=>q158_original
-Get outta here, you hopper son of a rail! I ain't gonna listen to you speaking outta your ass, you dig? Get lost!<end>
-
-=>q158
-Get outta here, you hopper son of a rail! I ain't gonna listen to you speaking outta your ass, you dig? Get lost!<end>
-
-=>a159_original
-I said: Why did you release it back to the water?<end>
-
-=>a159
-I said: Why did you release it back to the water?<end>
-
-=>q160_original
-Wha'? The eel? I ain't gonna eat a tiny eel. It's too small to feed a cat. No, you let 'em live and grow, and then you catch them and eat them. Or sell 'em, whatever.<end>
-
-=>q160
-Wha'? The eel? I ain't gonna eat a tiny eel. It's too small to feed a cat. No, you let 'em live and grow, and then you catch them and eat them. Or sell 'em, whatever.<end>
-
-=>a161_original
-I see. Can I ask you a couple of questions?<end>
-
-=>a161
-I see. Can I ask you a couple of questions?<end>
-
-=>a162_original
-::Speak to yourself.:: Yeah, you didn't catch anything good today.<end>
-
-=>a162
-::Speak to yourself.:: Yeah, you didn't catch anything good today.<end>
-
-=>q163_original
-You stop mumbling, $(#son/woman), and speak up.<end>
-
-=>q163
-You stop mumbling, $(#son/woman), and speak up.<end>
-
-=>a164_original
-Nice catch.<end>
-
-=>a164
-Nice catch.<end>
-
-=>a165_original
-Why'd you let it back into the water?<end>
-
-=>a165
-Why'd you let it back into the water?<end>
-
-=>a166_original
-Greetings, old man.<end>
-
-=>a166
-Greetings, old man.<end>
-
-=>a167_original
-Fishing, are we?<end>
-
-=>a167
-Fishing, are we?<end>
-
-=>a168_original
-Can I ask you a few questions?<end>
-
-=>a168
-Can I ask you a few questions?<end>
-
-=>a169_original
-::Leave him alone.::<end>
-
-=>a169
-::Leave him alone.::<end>
-
-=>q170_original
-You again.<end>
-
-=>q170
-You again.<end>
-
+=>q1_original
+I'm busy now, $(#son/woman). Go away.<end>
+
+=>q1
+I'm busy now, $(#son/woman). Go away.<end>
+
+=>q2_original
+You again. Get outta here! Leave me alone.<end>
+
+=>q2
+You again. Get outta here! Leave me alone.<end>
+
+=>q3_original
+::You come up to an old fisherman. Wearing an old jacket and rubber boots, this simply-clothed man watches his rod with great focus and pays no attention to you.::<end>
+
+=>q3
+::You come up to an old fisherman. Wearing an old jacket and rubber boots, this simply-clothed man watches his rod with great focus and pays no attention to you.::<end>
+
+=>a4_original
+Hi there.<end>
+
+=>a4
+Hi there.<end>
+
+=>q5_original
+::The man silences you with a swift gesture of his hand, for his prey is about to bite. The float disappears under the surface, and the rod bends downward. The fisherman grasps it tightly, yanking the rod as if he was expecting to pull a sunken ferry out of the depths. Soon enough, a small light-bluish eel flies through the air and ends its journey in the man's raw-boned hand.::<end>
+
+=>q5
+::The man silences you with a swift gesture of his hand, for his prey is about to bite. The float disappears under the surface, and the rod bends downward. The fisherman grasps it tightly, yanking the rod as if he was expecting to pull a sunken ferry out of the depths. Soon enough, a small light-bluish eel flies through the air and ends its journey in the man's raw-boned hand.::<end>
+
+=>q6_original
+::Disappointed, he unhooks the fish with a single motion and gently releases it back into the water, in which it happily disappears. One of the two men standing nearby begins laughing but immediately stops before his and the old fisherman's stares meet, instead shifting his view to his own rather steady float.::<end>
+
+=>q6
+::Disappointed, he unhooks the fish with a single motion and gently releases it back into the water, in which it happily disappears. One of the two men standing nearby begins laughing but immediately stops before his and the old fisherman's stares meet, instead shifting his view to his own rather steady float.::<end>
+
+=>q7_original
+::The old geezer then resets the rod, and his few steps back and forth reveal a limp in his left leg. Then, he turns to you.::
+
+Who the hell are you?<end>
+
+=>q7
+::The old geezer then resets the rod, and his few steps back and forth reveal a limp in his left leg. Then, he turns to you.::
+
+Who the hell are you?<end>
+
+=>a8_original
+Hi there. Could I ask you a few questions?<end>
+
+=>a8
+Hi there. Could I ask you a few questions?<end>
+
+=>q9_original
+::He turns the left side of his head toward you and leans closer, mouth wide open.::
+
+Didn't catch that. Could you speak up?<end>
+
+=>q9
+::He turns the left side of his head toward you and leans closer, mouth wide open.::
+
+Didn't catch that. Could you speak up?<end>
+
+=>a10_original
+I SAID: HI THERE, COULD I ASK YOU A COUPLE OF QUESTIONS!?<end>
+
+=>a10
+I SAID: HI THERE, COULD I ASK YOU A COUPLE OF QUESTIONS!?<end>
+
+=>q11_original
+What the hell, $(#son/woman)? You didn't have to wreck me ears.<end>
+
+=>q11
+What the hell, $(#son/woman)? You didn't have to wreck me ears.<end>
+
+=>q12_original
+What questions?<end>
+
+=>q12
+What questions?<end>
+
+=>a13_original
+About you.<end>
+
+=>a13
+About you.<end>
+
+=>q14_original
+I don't know you. Unless you a lost $(#son/daughter) of mine I ain't... Well, if you were I especially wouldn't wanna talk to you. 
+
+Erm... are you a spawn of me own?<end>
+
+=>q14
+I don't know you. Unless you a lost $(#son/daughter) of mine I ain't... Well, if you were I especially wouldn't wanna talk to you. 
+
+Erm... are you a spawn of me own?<end>
+
+=>a15_original
+No.<end>
+
+=>a15
+No.<end>
+
+=>q16_original
+Oh. Great. I hate kids.<end>
+
+=>q16
+Oh. Great. I hate kids.<end>
+
+=>a17_original
+How about Junkyard then?<end>
+
+=>a17
+How about Junkyard then?<end>
+
+=>q18_original
+Go annoy someone else with that. I ain't a Junkyard guide. Besides, you wouldn't wanna ask the wrong people some of the questions you might have in the bag, $(#son/woman).<end>
+
+=>q18
+Go annoy someone else with that. I ain't a Junkyard guide. Besides, you wouldn't wanna ask the wrong people some of the questions you might have in the bag, $(#son/woman).<end>
+
+=>a19_original
+How about fishing then?<end>
+
+=>a19
+How about fishing then?<end>
+
+=>q20_original
+::He takes a look at his motionless float.:: The water ain't good right now. I suppose I could spare a few moments.<end>
+
+=>q20
+::He takes a look at his motionless float.:: The water ain't good right now. I suppose I could spare a few moments.<end>
+
+=>a21_original
+Very good. I'm $(context.player.Name), by the way.<end>
+
+=>a21
+Very good. I'm $(context.player.Name), by the way.<end>
+
+=>q22_original
+Geezer Ford. That's what the folks around here call me. But for you - it's Mr. Ford.<end>
+
+=>q22
+Geezer Ford. That's what the folks around here call me. But for you - it's Mr. Ford.<end>
+
+=>a23_original
+Got it, Mr. Ford.<end>
+
+=>a23
+Got it, Mr. Ford.<end>
+
+=>q24_original
+Yeah. Go ahead now, ask your questions.<end>
+
+=>q24
+Yeah. Go ahead now, ask your questions.<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+About that fishing challenge...<end>
+
+=>a26
+About that fishing challenge...<end>
+
+=>q27_original
+Yeah? I still need to see you catch$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q27
+Yeah? I still need to see you catch$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I caught an anglerfish.<end>
+
+=>a29
+I caught an anglerfish.<end>
+
+=>q30_original
+::He takes a look at it.:: That's an anglerfish alright. Look at them teeth.<end>
+
+=>q30
+::He takes a look at it.:: That's an anglerfish alright. Look at them teeth.<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>q32_original
+Well... it appears you've caught them all.<end>
+
+=>q32
+Well... it appears you've caught them all.<end>
+
+=>a33_original
+Well?<end>
+
+=>a33
+Well?<end>
+
+=>q34_original
+::He stares at you.::<end>
+
+=>q34
+::He stares at you.::<end>
+
+=>a35_original
+I'm waiting.<end>
+
+=>a35
+I'm waiting.<end>
+
+=>q36_original
+::He maintains his gaze, but eventually it shifts toward the fishing rod. His hand beckons you to follow him.::
+
+Come 'ere.<end>
+
+=>q36
+::He maintains his gaze, but eventually it shifts toward the fishing rod. His hand beckons you to follow him.::
+
+Come 'ere.<end>
+
+=>a37_original
+::Let him show you the trick.::<end>
+
+=>a37
+::Let him show you the trick.::<end>
+
+=>q38_original
+You still got more to catch. I still need to see$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q38
+You still got more to catch. I still need to see$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>a39_original
+I caught a black dragon.<end>
+
+=>a39
+I caught a black dragon.<end>
+
+=>q40_original
+Black as coal. I know of a guy who caught an albino one in one of them wet caves far south of here. Bastard.<end>
+
+=>q40
+Black as coal. I know of a guy who caught an albino one in one of them wet caves far south of here. Bastard.<end>
+
+=>a41_original
+I caught a demon squid.<end>
+
+=>a41
+I caught a demon squid.<end>
+
+=>q42_original
+::He touches the squid's tentacles a few times before nodding.:: Good. Good. Fine specimen.<end>
+
+=>q42
+::He touches the squid's tentacles a few times before nodding.:: Good. Good. Fine specimen.<end>
+
+=>a43_original
+I caught a ghostface.<end>
+
+=>a43
+I caught a ghostface.<end>
+
+=>q44_original
+Very good, $(#son/woman). I remember when I caught my first ghostface. It was in the cold caves of... khm. Very good.<end>
+
+=>q44
+Very good, $(#son/woman). I remember when I caught my first ghostface. It was in the cold caves of... khm. Very good.<end>
+
+=>a45_original
+I caught a minihead.<end>
+
+=>a45
+I caught a minihead.<end>
+
+=>q46_original
+::He leans forward, mouth open.:: Huh? ::Then he looks at the minihead.:: Oh, oh. Good. Got that one, I see.<end>
+
+=>q46
+::He leans forward, mouth open.:: Huh? ::Then he looks at the minihead.:: Oh, oh. Good. Got that one, I see.<end>
+
+=>a47_original
+I caught a pentapus.<end>
+
+=>a47
+I caught a pentapus.<end>
+
+=>q48_original
+One, two, three, four... Yeah. It is all there. Nice.<end>
+
+=>q48
+One, two, three, four... Yeah. It is all there. Nice.<end>
+
+=>a49_original
+I caught a phantom jelly.<end>
+
+=>a49
+I caught a phantom jelly.<end>
+
+=>q50_original
+This is indeed a real phantom jelly. Some folks can't tell the difference between these and spectre jellies, but it be obvious to anyone who's not a damn rookie. 
+
+Good work.<end>
+
+=>q50
+This is indeed a real phantom jelly. Some folks can't tell the difference between these and spectre jellies, but it be obvious to anyone who's not a damn rookie. 
+
+Good work.<end>
+
+=>a51_original
+I caught a shrimp.<end>
+
+=>a51
+I caught a shrimp.<end>
+
+=>q52_original
+::He takes a careful look at it.:: Yup. You got it. Well done, $(#son/woman).<end>
+
+=>q52
+::He takes a careful look at it.:: Yup. You got it. Well done, $(#son/woman).<end>
+
+=>a53_original
+I caught a slackjaw.<end>
+
+=>a53
+I caught a slackjaw.<end>
+
+=>q54_original
+::He smells the fish, frowning as he does so.:: That's the smell! When you buy these, they mostly don't smell this bad. I don't know what they do to 'em. Still, you caught this one. Good work.<end>
+
+=>q54
+::He smells the fish, frowning as he does so.:: That's the smell! When you buy these, they mostly don't smell this bad. I don't know what they do to 'em. Still, you caught this one. Good work.<end>
+
+=>a55_original
+I caught a walking fish.<end>
+
+=>a55
+I caught a walking fish.<end>
+
+=>q56_original
+::He nods in approval.:: Not bad. Just don't let it walk away. ::He laughs.:: That's a joke. Old but gold.<end>
+
+=>q56
+::He nods in approval.:: Not bad. Just don't let it walk away. ::He laughs.:: That's a joke. Old but gold.<end>
+
+=>a57_original
+Got it. I'm off to do some fishing.<end>
+
+=>a57
+Got it. I'm off to do some fishing.<end>
+
+=>q58_original
+Try not to drown.<end>
+
+=>q58
+Try not to drown.<end>
+
+=>a59_original
+What's your name?<end>
+
+=>a59
+What's your name?<end>
+
+=>a60_original
+Where'd you get that limp?<end>
+
+=>a60
+Where'd you get that limp?<end>
+
+=>q61_original
+That ain't a fishin'-related question.<end>
+
+=>q61
+That ain't a fishin'-related question.<end>
+
+=>a62_original
+It is if you got it while you were fishing.<end>
+
+=>a62
+It is if you got it while you were fishing.<end>
+
+=>q63_original
+::He pauses.:: Ah. Gotcha. But it ain't due to no fishin'. My one leg is shorter. I was born that way.<end>
+
+=>q63
+::He pauses.:: Ah. Gotcha. But it ain't due to no fishin'. My one leg is shorter. I was born that way.<end>
+
+=>q64_original
+There you go, $(#son/woman). You got that one.<end>
+
+=>q64
+There you go, $(#son/woman). You got that one.<end>
+
+=>a65_original
+That is true. Let's talk about fishing then.<end>
+
+=>a65
+That is true. Let's talk about fishing then.<end>
+
+=>q66_original
+Like I'm havin' a conversation with a slackjaw.<end>
+
+=>q66
+Like I'm havin' a conversation with a slackjaw.<end>
+
+=>a67_original
+I changed my mind about doing that challenge you gave me.<end>
+
+=>a67
+I changed my mind about doing that challenge you gave me.<end>
+
+=>q68_original
+Oh, really? Well, $(#son/woman), I told you <end>
+
+=>q68
+Oh, really? Well, $(#son/woman), I told you <end>
+
+=>q69_original
+I betcha couldn't bring me one of each of these: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp, walkin' fish. If you are good enough to do that, if you're an even remotely decent fisherman, then I'm gonna reveal one of my fishin' tricks, one I've never told anyone. Anyone.<end>
+
+=>q69
+I betcha couldn't bring me one of each of these: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp, walkin' fish. If you are good enough to do that, if you're an even remotely decent fisherman, then I'm gonna reveal one of my fishin' tricks, one I've never told anyone. Anyone.<end>
+
+=>a70_original
+I bet you I can catch them all.<end>
+
+=>a70
+I bet you I can catch them all.<end>
+
+=>q71_original
+Then do it. Then do it. But if you lose, you're gonna have to go around Junkyard and say: "Mr. Ford is the best fisherman in the whole South Underrail!", while I blow up harder than two pufferfishes matin'.<end>
+
+=>q71
+Then do it. Then do it. But if you lose, you're gonna have to go around Junkyard and say: "Mr. Ford is the best fisherman in the whole South Underrail!", while I blow up harder than two pufferfishes matin'.<end>
+
+=>a72_original
+Deal.<end>
+
+=>a72
+Deal.<end>
+
+=>q73_original
+Deal. Now you better hurry up unless you want me to die of old age. Go.<end>
+
+=>q73
+Deal. Now you better hurry up unless you want me to die of old age. Go.<end>
+
+=>a74_original
+I already caught something for you.<end>
+
+=>a74
+I already caught something for you.<end>
+
+=>q75_original
+Oh? Well, let's see it then...<end>
+
+=>q75
+Oh? Well, let's see it then...<end>
+
+=>a76_original
+Goodbye, Mr. Ford.<end>
+
+=>a76
+Goodbye, Mr. Ford.<end>
+
+=>a77_original
+::Leave.::<end>
+
+=>a77
+::Leave.::<end>
+
+=>a78_original
+That's a lot to catch.<end>
+
+=>a78
+That's a lot to catch.<end>
+
+=>q79_original
+That's nothin', $(#son/woman), not for a big shot like you.<end>
+
+=>q79
+That's nothin', $(#son/woman), not for a big shot like you.<end>
+
+=>a80_original
+Actually, I don't think I'm willing to do this.<end>
+
+=>a80
+Actually, I don't think I'm willing to do this.<end>
+
+=>q81_original
+Quaker. You scared of puttin' your money where your mouth is. And I ain't askin' for much.<end>
+
+=>q81
+Quaker. You scared of puttin' your money where your mouth is. And I ain't askin' for much.<end>
+
+=>a82_original
+You know what? I'm not going to prove anything to you, old man.<end>
+
+=>a82
+You know what? I'm not going to prove anything to you, old man.<end>
+
+=>a83_original
+So, how's the water here? In general, I mean.<end>
+
+=>a83
+So, how's the water here? In general, I mean.<end>
+
+=>q84_original
+Well, it might seem stupid to someone lookin' from afar, like, what in hell's goddamn railroad are those slackers doin' by that muddy puddle. But, listen, there's an underwater tunnel connectin' to a whole system of caves which are full of 'em eels.<end>
+
+=>q84
+Well, it might seem stupid to someone lookin' from afar, like, what in hell's goddamn railroad are those slackers doin' by that muddy puddle. But, listen, there's an underwater tunnel connectin' to a whole system of caves which are full of 'em eels.<end>
+
+=>q85_original
+::He looks toward the tent and points to the man standing by the barrel.:: See that ugly yo-yo there? His name's Hopper Jim. Quaker at heart. Centipedes, spiders and all kinda bugs scare the livin' ooze out of him. But, man, can he fish like a spawn of siphoner. He caught a fifty kilo eel right 'ere. Mmm-hm.<end>
+
+=>q85
+::He looks toward the tent and points to the man standing by the barrel.:: See that ugly yo-yo there? His name's Hopper Jim. Quaker at heart. Centipedes, spiders and all kinda bugs scare the livin' ooze out of him. But, man, can he fish like a spawn of siphoner. He caught a fifty kilo eel right 'ere. Mmm-hm.<end>
+
+=>a86_original
+Go on...<end>
+
+=>a86
+Go on...<end>
+
+=>q87_original
+Now... it wasn't a regular ol' blue eel. It was a red behemoth with a yellow stripe on its side. I'd never seen anythin' like it before. Now that's a catch! And I, bein' the best fisherman in whole Underrail... South Underrail definitely, ain't gonna let someone like Hopper Jim outdo me.<end>
+
+=>q87
+Now... it wasn't a regular ol' blue eel. It was a red behemoth with a yellow stripe on its side. I'd never seen anythin' like it before. Now that's a catch! And I, bein' the best fisherman in whole Underrail... South Underrail definitely, ain't gonna let someone like Hopper Jim outdo me.<end>
+
+=>a88_original
+What happened to the red eel?<end>
+
+=>a88
+What happened to the red eel?<end>
+
+=>q89_original
+::He leans forward, mouth open.:: Whatcha say?<end>
+
+=>q89
+::He leans forward, mouth open.:: Whatcha say?<end>
+
+=>a90_original
+I said: What happened to the red eel Hopper Jim caught?<end>
+
+=>a90
+I said: What happened to the red eel Hopper Jim caught?<end>
+
+=>q91_original
+He sold it to one of them Northerner wimps. United Stations feller. He weighed less than that eel. ::He laughs.:: Don't know how much he got for it, the bastard wouldn't tell.<end>
+
+=>q91
+He sold it to one of them Northerner wimps. United Stations feller. He weighed less than that eel. ::He laughs.:: Don't know how much he got for it, the bastard wouldn't tell.<end>
+
+=>q92_original
+I think it be hangin' on some wall now, far as I heard.<end>
+
+=>q92
+I think it be hangin' on some wall now, far as I heard.<end>
+
+=>a93_original
+You think you're the best fisherman in Underrail? You?<end>
+
+=>a93
+You think you're the best fisherman in Underrail? You?<end>
+
+=>q94_original
+Yeah. ::He squints at you with one of his eyes, while the other one sharpens up.:: Somethin' botherin' you, $(#son/woman)?<end>
+
+=>q94
+Yeah. ::He squints at you with one of his eyes, while the other one sharpens up.:: Somethin' botherin' you, $(#son/woman)?<end>
+
+=>a95_original
+I'm pretty sure there are better fishermen than you out there, old man.<end>
+
+=>a95
+I'm pretty sure there are better fishermen than you out there, old man.<end>
+
+=>q96_original
+"Pretty sure" my wrinkly old butt, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q96
+"Pretty sure" my wrinkly old butt, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q97_original
+What do you know, huh? 'Cause you sure sound like you think you're some kinda big shot, yeah, talkin' to *me*, Geezer Ford, like that. 
+
+You don't... you don't think *you*'re better than me, eh?<end>
+
+=>q97
+What do you know, huh? 'Cause you sure sound like you think you're some kinda big shot, yeah, talkin' to *me*, Geezer Ford, like that. 
+
+You don't... you don't think *you*'re better than me, eh?<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>a99_original
+Maybe I am.<end>
+
+=>a99
+Maybe I am.<end>
+
+=>q100_original
+Oh? So you do think you're better than me? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>q100
+Oh? So you do think you're better than me? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>a101_original
+How do you want me to prove it?<end>
+
+=>a101
+How do you want me to prove it?<end>
+
+=>q102_original
+::He turns silent as his mind retreats to envision an appropriate challenge. Eventually, it emerges with one.::
+
+I betcha you couldn't even do the southern tour.<end>
+
+=>q102
+::He turns silent as his mind retreats to envision an appropriate challenge. Eventually, it emerges with one.::
+
+I betcha you couldn't even do the southern tour.<end>
+
+=>a103_original
+I could.<end>
+
+=>a103
+I could.<end>
+
+=>q104_original
+::His suspicious eyes begin to burn you.::
+
+Do you even know what a southern tour is?<end>
+
+=>q104
+::His suspicious eyes begin to burn you.::
+
+Do you even know what a southern tour is?<end>
+
+=>a105_original
+::[Intelligence]:: You travel South Underrail and catch fish.<end>
+
+=>a105
+::[Intelligence]:: You travel South Underrail and catch fish.<end>
+
+=>q106_original
+What fish?<end>
+
+=>q106
+What fish?<end>
+
+=>a107_original
+Only the biggest and rarest you can find.<end>
+
+=>a107
+Only the biggest and rarest you can find.<end>
+
+=>q108_original
+You know nothin'. Phony hopper. Thinkin' you're big shot.<end>
+
+=>q108
+You know nothin'. Phony hopper. Thinkin' you're big shot.<end>
+
+=>q109_original
+A southern tour is when you fish for one of each kind in South Underrail. Now, we ain't talking about one-of-a-kind stuff, like them red eels and stuff, but the more... common species. That don't mean it gonna be easy.<end>
+
+=>q109
+A southern tour is when you fish for one of each kind in South Underrail. Now, we ain't talking about one-of-a-kind stuff, like them red eels and stuff, but the more... common species. That don't mean it gonna be easy.<end>
+
+=>q110_original
+Now, I ain't gonna ask of you to catch exactly every kinda fish there is, that'd take too long. I ain't gonna wait a year for a sorry excuse for a fisherman such as yourself to fish 'em all out.<end>
+
+=>q110
+Now, I ain't gonna ask of you to catch exactly every kinda fish there is, that'd take too long. I ain't gonna wait a year for a sorry excuse for a fisherman such as yourself to fish 'em all out.<end>
+
+=>a111_original
+Red eels only.<end>
+
+=>a111
+Red eels only.<end>
+
+=>a112_original
+It doesn't matter, you just catch as much as you can carry.<end>
+
+=>a112
+It doesn't matter, you just catch as much as you can carry.<end>
+
+=>a113_original
+One of each species.<end>
+
+=>a113
+One of each species.<end>
+
+=>q114_original
+Good. You ain't an absolute slackjaw. But that ain't provin' anythin'.<end>
+
+=>q114
+Good. You ain't an absolute slackjaw. But that ain't provin' anythin'.<end>
+
+=>a115_original
+Any you can find.<end>
+
+=>a115
+Any you can find.<end>
+
+=>a116_original
+Well...<end>
+
+=>a116
+Well...<end>
+
+=>q117_original
+::He explodes with laughter, its echo so loud you feel it manages to reach every ear in Junkyard.::
+
+You ain't nothin' if you've never done a southern tour, $(#son/woman).<end>
+
+=>q117
+::He explodes with laughter, its echo so loud you feel it manages to reach every ear in Junkyard.::
+
+You ain't nothin' if you've never done a southern tour, $(#son/woman).<end>
+
+=>a118_original
+Erm...<end>
+
+=>a118
+Erm...<end>
+
+=>a119_original
+Yeah...<end>
+
+=>a119
+Yeah...<end>
+
+=>a120_original
+I think...<end>
+
+=>a120
+I think...<end>
+
+=>a121_original
+Ehm... what is the southern tour exactly?<end>
+
+=>a121
+Ehm... what is the southern tour exactly?<end>
+
+=>a122_original
+Better, no. Good enough to see you're full of it? That I am.<end>
+
+=>a122
+Better, no. Good enough to see you're full of it? That I am.<end>
+
+=>q123_original
+Good enough? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>q123
+Good enough? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>a124_original
+No, I don't think I'm better.<end>
+
+=>a124
+No, I don't think I'm better.<end>
+
+=>q125_original
+Then shut your yap. Hell...<end>
+
+=>q125
+Then shut your yap. Hell...<end>
+
+=>q126_original
+'T's like talkin' to a retarded slackjaw.<end>
+
+=>q126
+'T's like talkin' to a retarded slackjaw.<end>
+
+=>a127_original
+Well, Hopper Jim seems to be a better fisherman than you.<end>
+
+=>a127
+Well, Hopper Jim seems to be a better fisherman than you.<end>
+
+=>q128_original
+What? Hopper Jim ain't a better fisherman than Geezer Ford, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q128
+What? Hopper Jim ain't a better fisherman than Geezer Ford, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>a129_original
+Nothing, nothing. Let me ask you something else.<end>
+
+=>a129
+Nothing, nothing. Let me ask you something else.<end>
+
+=>q130_original
+Don't you be changin' the subject on me, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q130
+Don't you be changin' the subject on me, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>a131_original
+What's your record?<end>
+
+=>a131
+What's your record?<end>
+
+=>q132_original
+It ain't about the weight, if that's whatcha thinking, it about the principle. I've caught bigger fish. Sixty, seventy kilos - no problem. Hell, I was doin' ferry tours before Jim was even fillin' his diapers. I caught the *largest* slackjaw Core City's ever seen. I caught more walkin' fishes than he caught fleas bittin' into his skin. But he caught a fifty-kilo red eel in this pool right 'ere.<end>
+
+=>q132
+It ain't about the weight, if that's whatcha thinking, it about the principle. I've caught bigger fish. Sixty, seventy kilos - no problem. Hell, I was doin' ferry tours before Jim was even fillin' his diapers. I caught the *largest* slackjaw Core City's ever seen. I caught more walkin' fishes than he caught fleas bittin' into his skin. But he caught a fifty-kilo red eel in this pool right 'ere.<end>
+
+=>q133_original
+That means I gotta catch somethin' better and bigger and rub it in his nose. If not a red eel, then somethin' else. That's what it all about, $(#son/woman). That's what it all about.<end>
+
+=>q133
+That means I gotta catch somethin' better and bigger and rub it in his nose. If not a red eel, then somethin' else. That's what it all about, $(#son/woman). That's what it all about.<end>
+
+=>a134_original
+I would like to change the subject.<end>
+
+=>a134
+I would like to change the subject.<end>
+
+=>q135_original
+I'll catch another one of 'em. There's more and I know it. You wait and see.<end>
+
+=>q135
+I'll catch another one of 'em. There's more and I know it. You wait and see.<end>
+
+=>a136_original
+Is this one of *those* fishing stories?<end>
+
+=>a136
+Is this one of *those* fishing stories?<end>
+
+=>q137_original
+No. It was fifty kilos. I swear on me wife's grave.<end>
+
+=>q137
+No. It was fifty kilos. I swear on me wife's grave.<end>
+
+=>a138_original
+Did Hopper Jim beat some kind of record of yours by catching that red eel?<end>
+
+=>a138
+Did Hopper Jim beat some kind of record of yours by catching that red eel?<end>
+
+=>a139_original
+I gotta go. I'll catch you later.<end>
+
+=>a139
+I gotta go. I'll catch you later.<end>
+
+=>a140_original
+Got it, Mr. Ford. I'm $(context.player.Name).<end>
+
+=>a140
+Got it, Mr. Ford. I'm $(context.player.Name).<end>
+
+=>q141_original
+::He nods.::<end>
+
+=>q141
+::He nods.::<end>
+
+=>a142_original
+Geezer Ford. Why do they call you that?<end>
+
+=>a142
+Geezer Ford. Why do they call you that?<end>
+
+=>q143_original
+Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
+
+=>q143
+Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
+
+=>a144_original
+I heard you right, but I'm sticking with Geezer Ford. Suits you better.<end>
+
+=>a144
+I heard you right, but I'm sticking with Geezer Ford. Suits you better.<end>
+
+=>q145_original
+Look here, $(#you little hopper son of a rail/you brainless baggage). I ain't gonna stand here and listen to you disrespectin' me, you dig? Now get lost!<end>
+
+=>q145
+Look here, $(#you little hopper son of a rail/you brainless baggage). I ain't gonna stand here and listen to you disrespectin' me, you dig? Now get lost!<end>
+
+=>a146_original
+Someone's sensitive. Bye, old man.<end>
+
+=>a146
+Someone's sensitive. Bye, old man.<end>
+
+=>a147_original
+Stupid old jerk.<end>
+
+=>a147
+Stupid old jerk.<end>
+
+=>a148_original
+::Nod and leave.::<end>
+
+=>a148
+::Nod and leave.::<end>
+
+=>a149_original
+Let's talk then.<end>
+
+=>a149
+Let's talk then.<end>
+
+=>q150_original
+Yeah.<end>
+
+=>q150
+Yeah.<end>
+
+=>a151_original
+How about you tell me something about yourself?<end>
+
+=>a151
+How about you tell me something about yourself?<end>
+
+=>a152_original
+About Junkyard.<end>
+
+=>a152
+About Junkyard.<end>
+
+=>a153_original
+About fishing.<end>
+
+=>a153
+About fishing.<end>
+
+=>a154_original
+I said: Nice catch.<end>
+
+=>a154
+I said: Nice catch.<end>
+
+=>q155_original
+Wha'? That thing? ::He laughs.:: That ain't good enough to feed a cat, $(#son/woman). If you're tryin' to act nice, then don't, and if you're tryin' to make fun of me then go stick your head in a siphoner's rear, ya dig?<end>
+
+=>q155
+Wha'? That thing? ::He laughs.:: That ain't good enough to feed a cat, $(#son/woman). If you're tryin' to act nice, then don't, and if you're tryin' to make fun of me then go stick your head in a siphoner's rear, ya dig?<end>
+
+=>a156_original
+I didn't mean it in any bad way. Anyway, could I ask you a couple of questions?<end>
+
+=>a156
+I didn't mean it in any bad way. Anyway, could I ask you a couple of questions?<end>
+
+=>a157_original
+Actually, I *was* trying to mock you. That was the lamest catch I've ever seen.<end>
+
+=>a157
+Actually, I *was* trying to mock you. That was the lamest catch I've ever seen.<end>
+
+=>q158_original
+Get outta here, you hopper son of a rail! I ain't gonna listen to you speaking outta your ass, you dig? Get lost!<end>
+
+=>q158
+Get outta here, you hopper son of a rail! I ain't gonna listen to you speaking outta your ass, you dig? Get lost!<end>
+
+=>a159_original
+I said: Why did you release it back to the water?<end>
+
+=>a159
+I said: Why did you release it back to the water?<end>
+
+=>q160_original
+Wha'? The eel? I ain't gonna eat a tiny eel. It's too small to feed a cat. No, you let 'em live and grow, and then you catch them and eat them. Or sell 'em, whatever.<end>
+
+=>q160
+Wha'? The eel? I ain't gonna eat a tiny eel. It's too small to feed a cat. No, you let 'em live and grow, and then you catch them and eat them. Or sell 'em, whatever.<end>
+
+=>a161_original
+I see. Can I ask you a couple of questions?<end>
+
+=>a161
+I see. Can I ask you a couple of questions?<end>
+
+=>a162_original
+::Speak to yourself.:: Yeah, you didn't catch anything good today.<end>
+
+=>a162
+::Speak to yourself.:: Yeah, you didn't catch anything good today.<end>
+
+=>q163_original
+You stop mumbling, $(#son/woman), and speak up.<end>
+
+=>q163
+You stop mumbling, $(#son/woman), and speak up.<end>
+
+=>a164_original
+Nice catch.<end>
+
+=>a164
+Nice catch.<end>
+
+=>a165_original
+Why'd you let it back into the water?<end>
+
+=>a165
+Why'd you let it back into the water?<end>
+
+=>a166_original
+Greetings, old man.<end>
+
+=>a166
+Greetings, old man.<end>
+
+=>a167_original
+Fishing, are we?<end>
+
+=>a167
+Fishing, are we?<end>
+
+=>a168_original
+Can I ask you a few questions?<end>
+
+=>a168
+Can I ask you a few questions?<end>
+
+=>a169_original
+::Leave him alone.::<end>
+
+=>a169
+::Leave him alone.::<end>
+
+=>q170_original
+You again.<end>
+
+=>q170
+You again.<end>
+

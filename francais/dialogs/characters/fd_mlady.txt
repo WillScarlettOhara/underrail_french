@@ -1,514 +1,514 @@
-=>q1_original
-Good luck, $(context.player.Name).<end>
-
-=>q1
-Good luck, $(context.player.Name).<end>
-
-=>q2_original
-::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
-
-=>q2
-::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
-
-=>a3_original
-I did it.<end>
-
-=>a3
-I did it.<end>
-
-=>q4_original
-Yeah, you did - and you did it oh so well. <end>
-
-=>q4
-Yeah, you did - and you did it oh so well. <end>
-
-=>q5_original
-You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
-
-=>q5
-You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
-
-=>a6_original
-Do you always give such lovely speeches to new recruits?<end>
-
-=>a6
-Do you always give such lovely speeches to new recruits?<end>
-
-=>q7_original
-::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
-
-It's time to meet the rest of the family.<end>
-
-=>q7
-::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
-
-It's time to meet the rest of the family.<end>
-
-=>q8_original
-I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
-
-=>q8
-I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
-
-=>a9_original
-Got it. "Delectable."<end>
-
-=>a9
-Got it. "Delectable."<end>
-
-=>q10_original
-Great! Just be careful, the under-passages are full of Lurkers.
-
-I gotta move. Do you have any questions before we depart?<end>
-
-=>q10
-Great! Just be careful, the under-passages are full of Lurkers.
-
-I gotta move. Do you have any questions before we depart?<end>
-
-=>q11_original
-<end>
-
-=>q11
-<end>
-
-=>a12_original
-You mentioned Lurkers. What can you tell me about them?<end>
-
-=>a12
-You mentioned Lurkers. What can you tell me about them?<end>
-
-=>q13_original
-Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
-
-=>q13
-Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
-
-=>q14_original
-Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
-
-=>q14
-Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
-
-=>a15_original
-I never learned your name.<end>
-
-=>a15
-I never learned your name.<end>
-
-=>q16_original
-It's Sarah...<end>
-
-=>q16
-It's Sarah...<end>
-
-=>q17_original
-Sarah Allene. Nice to meet you. ::She smiles.::<end>
-
-=>q17
-Sarah Allene. Nice to meet you. ::She smiles.::<end>
-
-=>a18_original
-What are these "under-passages"?<end>
-
-=>a18
-What are these "under-passages"?<end>
-
-=>q19_original
-Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
-
-=>q19
-Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
-
-=>q20_original
-Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
-
-=>q20
-Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
-
-=>a21_original
-Why do the Free Drones have a base in the under-passages?<end>
-
-=>a21
-Why do the Free Drones have a base in the under-passages?<end>
-
-=>q22_original
-It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
-
-=>q22
-It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
-
-=>q23_original
-Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
-
-=>q23
-Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
-
-=>a24_original
-I have no further questions.<end>
-
-=>a24
-I have no further questions.<end>
-
-=>q25_original
-In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
-
-=>q25
-In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
-
-=>a26_original
-Goodbye.<end>
-
-=>a26
-Goodbye.<end>
-
-=>a27_original
-Stay free.<end>
-
-=>a27
-Stay free.<end>
-
-=>a28_original
-::Let her continue.::<end>
-
-=>a28
-::Let her continue.::<end>
-
-=>q29_original
-Now it's time to meet the rest of the family.<end>
-
-=>q29
-Now it's time to meet the rest of the family.<end>
-
-=>a30_original
-Thank you, thank you. I love you all. ::Bow down.::<end>
-
-=>a30
-Thank you, thank you. I love you all. ::Bow down.::<end>
-
-=>q31_original
-::She laughs.:: Well done! Well done! <end>
-
-=>q31
-::She laughs.:: Well done! Well done! <end>
-
-=>q32_original
-::The woman completely ignores you.::<end>
-
-=>q32
-::The woman completely ignores you.::<end>
-
-=>q33_original
-You better get going, the envoy is not gonna wait for you...<end>
-
-=>q33
-You better get going, the envoy is not gonna wait for you...<end>
-
-=>q34_original
-I'm still waiting for an answer...<end>
-
-=>q34
-I'm still waiting for an answer...<end>
-
-=>a35_original
-Count me in.<end>
-
-=>a35
-Count me in.<end>
-
-=>q36_original
-::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
-
-=>q36
-::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
-
-=>q37_original
-I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
-
-=>q37
-I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
-
-=>q38_original
-In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
-
-=>q38
-In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
-
-=>q39_original
-<end>
-
-=>q39
-<end>
-
-=>a40_original
-You mentioned some cans?<end>
-
-=>a40
-You mentioned some cans?<end>
-
-=>q41_original
-Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
-
-=>q41
-Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
-
-=>q42_original
-You'll be hearing that term *pretty* often from now on, so get used to it.<end>
-
-=>q42
-You'll be hearing that term *pretty* often from now on, so get used to it.<end>
-
-=>a43_original
-What is a Protectorate envoy doing in Rail Crossing?<end>
-
-=>a43
-What is a Protectorate envoy doing in Rail Crossing?<end>
-
-=>q44_original
-Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
-
-=>q44
-Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
-
-=>q45_original
-The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
-
-=>q45
-The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
-
-=>a46_original
-I'm ready to do it.<end>
-
-=>a46
-I'm ready to do it.<end>
-
-=>q47_original
-Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
-
-=>q47
-Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
-
-=>q48_original
-::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
-
-=>q48
-::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
-
-=>a49_original
-I will, goodbye.<end>
-
-=>a49
-I will, goodbye.<end>
-
-=>a50_original
-Yeah, see ya later.<end>
-
-=>a50
-Yeah, see ya later.<end>
-
-=>a51_original
-I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
-
-=>a51
-I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
-
-=>q52_original
-::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
-
-Goodbye. Forever.<end>
-
-=>q52
-::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
-
-Goodbye. Forever.<end>
-
-=>a53_original
-Sorry, I am not interested.<end>
-
-=>a53
-Sorry, I am not interested.<end>
-
-=>q54_original
-It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
-
-=>q54
-It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
-
-=>q55_original
-It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
-
-=>q55
-It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
-
-=>a56_original
-I need to think some more.<end>
-
-=>a56
-I need to think some more.<end>
-
-=>q57_original
-You do that... I'll be here.<end>
-
-=>q57
-You do that... I'll be here.<end>
-
-=>q58_original
-Farewell, $(context.player.Name).<end>
-
-=>q58
-Farewell, $(context.player.Name).<end>
-
-=>q59_original
-::A young woman approaches, cautiously looking around before whispering to you.::
-
-Hey, you... are you $(context.player.Name)?<end>
-
-=>q59
-::A young woman approaches, cautiously looking around before whispering to you.::
-
-Hey, you... are you $(context.player.Name)?<end>
-
-=>a60_original
-Yes, that's me. Who are you?<end>
-
-=>a60
-Yes, that's me. Who are you?<end>
-
-=>q61_original
-How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
-
-=>q61
-How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
-
-=>a62_original
-The Free Drones?<end>
-
-=>a62
-The Free Drones?<end>
-
-=>q63_original
-Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
-
-=>q63
-Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
-
-=>a64_original
-As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
-
-=>a64
-As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
-
-=>q65_original
-::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
-
-=>q65
-::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
-
-=>q66_original
-If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
-
-=>q66
-If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
-
-=>q67_original
-There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
-
-=>q67
-There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
-
-=>q68_original
-<end>
-
-=>q68
-<end>
-
-=>a69_original
-This is a difficult decision. I need some time to think about this.<end>
-
-=>a69
-This is a difficult decision. I need some time to think about this.<end>
-
-=>a70_original
-I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
-
-=>a70
-I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
-
-=>q71_original
-Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
-
-=>q71
-Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
-
-=>q72_original
-Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
-
-=>q72
-Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
-
-=>a73_original
-I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
-
-=>a73
-I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
-
-=>q74_original
-::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
-
-=>q74
-::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
-
-=>a75_original
-I'm not answering your silly question. It's time to leave, missy.<end>
-
-=>a75
-I'm not answering your silly question. It's time to leave, missy.<end>
-
-=>q76_original
-::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
-
-=>q76
-::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
-
-=>q77_original
-<end>
-
-=>q77
-<end>
-
-=>a78_original
-Some random bandits?<end>
-
-=>a78
-Some random bandits?<end>
-
-=>q79_original
-Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
-
-=>q79
-Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
-
-=>a80_original
-No idea. Nope.<end>
-
-=>a80
-No idea. Nope.<end>
-
-=>q81_original
-Come on, $(context.player.Name), think...<end>
-
-=>q81
-Come on, $(context.player.Name), think...<end>
-
-=>a82_original
-Who wants to know?<end>
-
-=>a82
-Who wants to know?<end>
-
-=>a83_original
-Get lost, I'm not interested in anything someone like *you* has to say.<end>
-
-=>a83
-Get lost, I'm not interested in anything someone like *you* has to say.<end>
-
+=>q1_original
+Good luck, $(context.player.Name).<end>
+
+=>q1
+Good luck, $(context.player.Name).<end>
+
+=>q2_original
+::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
+
+=>q2
+::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
+
+=>a3_original
+I did it.<end>
+
+=>a3
+I did it.<end>
+
+=>q4_original
+Yeah, you did - and you did it oh so well. <end>
+
+=>q4
+Yeah, you did - and you did it oh so well. <end>
+
+=>q5_original
+You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
+
+=>q5
+You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
+
+=>a6_original
+Do you always give such lovely speeches to new recruits?<end>
+
+=>a6
+Do you always give such lovely speeches to new recruits?<end>
+
+=>q7_original
+::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
+
+It's time to meet the rest of the family.<end>
+
+=>q7
+::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
+
+It's time to meet the rest of the family.<end>
+
+=>q8_original
+I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
+
+=>q8
+I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
+
+=>a9_original
+Got it. "Delectable."<end>
+
+=>a9
+Got it. "Delectable."<end>
+
+=>q10_original
+Great! Just be careful, the under-passages are full of Lurkers.
+
+I gotta move. Do you have any questions before we depart?<end>
+
+=>q10
+Great! Just be careful, the under-passages are full of Lurkers.
+
+I gotta move. Do you have any questions before we depart?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+You mentioned Lurkers. What can you tell me about them?<end>
+
+=>a12
+You mentioned Lurkers. What can you tell me about them?<end>
+
+=>q13_original
+Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
+
+=>q13
+Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
+
+=>q14_original
+Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
+
+=>q14
+Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
+
+=>a15_original
+I never learned your name.<end>
+
+=>a15
+I never learned your name.<end>
+
+=>q16_original
+It's Sarah...<end>
+
+=>q16
+It's Sarah...<end>
+
+=>q17_original
+Sarah Allene. Nice to meet you. ::She smiles.::<end>
+
+=>q17
+Sarah Allene. Nice to meet you. ::She smiles.::<end>
+
+=>a18_original
+What are these "under-passages"?<end>
+
+=>a18
+What are these "under-passages"?<end>
+
+=>q19_original
+Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
+
+=>q19
+Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
+
+=>q20_original
+Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
+
+=>q20
+Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
+
+=>a21_original
+Why do the Free Drones have a base in the under-passages?<end>
+
+=>a21
+Why do the Free Drones have a base in the under-passages?<end>
+
+=>q22_original
+It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
+
+=>q22
+It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
+
+=>q23_original
+Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
+
+=>q23
+Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
+
+=>a24_original
+I have no further questions.<end>
+
+=>a24
+I have no further questions.<end>
+
+=>q25_original
+In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
+
+=>q25
+In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
+
+=>a26_original
+Goodbye.<end>
+
+=>a26
+Goodbye.<end>
+
+=>a27_original
+Stay free.<end>
+
+=>a27
+Stay free.<end>
+
+=>a28_original
+::Let her continue.::<end>
+
+=>a28
+::Let her continue.::<end>
+
+=>q29_original
+Now it's time to meet the rest of the family.<end>
+
+=>q29
+Now it's time to meet the rest of the family.<end>
+
+=>a30_original
+Thank you, thank you. I love you all. ::Bow down.::<end>
+
+=>a30
+Thank you, thank you. I love you all. ::Bow down.::<end>
+
+=>q31_original
+::She laughs.:: Well done! Well done! <end>
+
+=>q31
+::She laughs.:: Well done! Well done! <end>
+
+=>q32_original
+::The woman completely ignores you.::<end>
+
+=>q32
+::The woman completely ignores you.::<end>
+
+=>q33_original
+You better get going, the envoy is not gonna wait for you...<end>
+
+=>q33
+You better get going, the envoy is not gonna wait for you...<end>
+
+=>q34_original
+I'm still waiting for an answer...<end>
+
+=>q34
+I'm still waiting for an answer...<end>
+
+=>a35_original
+Count me in.<end>
+
+=>a35
+Count me in.<end>
+
+=>q36_original
+::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
+
+=>q36
+::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
+
+=>q37_original
+I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
+
+=>q37
+I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
+
+=>q38_original
+In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
+
+=>q38
+In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+You mentioned some cans?<end>
+
+=>a40
+You mentioned some cans?<end>
+
+=>q41_original
+Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
+
+=>q41
+Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
+
+=>q42_original
+You'll be hearing that term *pretty* often from now on, so get used to it.<end>
+
+=>q42
+You'll be hearing that term *pretty* often from now on, so get used to it.<end>
+
+=>a43_original
+What is a Protectorate envoy doing in Rail Crossing?<end>
+
+=>a43
+What is a Protectorate envoy doing in Rail Crossing?<end>
+
+=>q44_original
+Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
+
+=>q44
+Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
+
+=>q45_original
+The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
+
+=>q45
+The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
+
+=>a46_original
+I'm ready to do it.<end>
+
+=>a46
+I'm ready to do it.<end>
+
+=>q47_original
+Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
+
+=>q47
+Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
+
+=>q48_original
+::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
+
+=>q48
+::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
+
+=>a49_original
+I will, goodbye.<end>
+
+=>a49
+I will, goodbye.<end>
+
+=>a50_original
+Yeah, see ya later.<end>
+
+=>a50
+Yeah, see ya later.<end>
+
+=>a51_original
+I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
+
+=>a51
+I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
+
+=>q52_original
+::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
+
+Goodbye. Forever.<end>
+
+=>q52
+::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
+
+Goodbye. Forever.<end>
+
+=>a53_original
+Sorry, I am not interested.<end>
+
+=>a53
+Sorry, I am not interested.<end>
+
+=>q54_original
+It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>q54
+It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>q55_original
+It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>q55
+It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>a56_original
+I need to think some more.<end>
+
+=>a56
+I need to think some more.<end>
+
+=>q57_original
+You do that... I'll be here.<end>
+
+=>q57
+You do that... I'll be here.<end>
+
+=>q58_original
+Farewell, $(context.player.Name).<end>
+
+=>q58
+Farewell, $(context.player.Name).<end>
+
+=>q59_original
+::A young woman approaches, cautiously looking around before whispering to you.::
+
+Hey, you... are you $(context.player.Name)?<end>
+
+=>q59
+::A young woman approaches, cautiously looking around before whispering to you.::
+
+Hey, you... are you $(context.player.Name)?<end>
+
+=>a60_original
+Yes, that's me. Who are you?<end>
+
+=>a60
+Yes, that's me. Who are you?<end>
+
+=>q61_original
+How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
+
+=>q61
+How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
+
+=>a62_original
+The Free Drones?<end>
+
+=>a62
+The Free Drones?<end>
+
+=>q63_original
+Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>q63
+Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>a64_original
+As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
+
+=>a64
+As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
+
+=>q65_original
+::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
+
+=>q65
+::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
+
+=>q66_original
+If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
+
+=>q66
+If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
+
+=>q67_original
+There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
+
+=>q67
+There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
+
+=>q68_original
+<end>
+
+=>q68
+<end>
+
+=>a69_original
+This is a difficult decision. I need some time to think about this.<end>
+
+=>a69
+This is a difficult decision. I need some time to think about this.<end>
+
+=>a70_original
+I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
+
+=>a70
+I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
+
+=>q71_original
+Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
+
+=>q71
+Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
+
+=>q72_original
+Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
+
+=>q72
+Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
+
+=>a73_original
+I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
+
+=>a73
+I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
+
+=>q74_original
+::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
+
+=>q74
+::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
+
+=>a75_original
+I'm not answering your silly question. It's time to leave, missy.<end>
+
+=>a75
+I'm not answering your silly question. It's time to leave, missy.<end>
+
+=>q76_original
+::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
+
+=>q76
+::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
+
+=>q77_original
+<end>
+
+=>q77
+<end>
+
+=>a78_original
+Some random bandits?<end>
+
+=>a78
+Some random bandits?<end>
+
+=>q79_original
+Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>q79
+Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>a80_original
+No idea. Nope.<end>
+
+=>a80
+No idea. Nope.<end>
+
+=>q81_original
+Come on, $(context.player.Name), think...<end>
+
+=>q81
+Come on, $(context.player.Name), think...<end>
+
+=>a82_original
+Who wants to know?<end>
+
+=>a82
+Who wants to know?<end>
+
+=>a83_original
+Get lost, I'm not interested in anything someone like *you* has to say.<end>
+
+=>a83
+Get lost, I'm not interested in anything someone like *you* has to say.<end>
+

@@ -1,65 +1,65 @@
 ::gameRules_Caption
-Game Rules
+Règles du jeu
 
 ::gameRules
-Set the difficulty and the experience point system for this play-through.
+Définissez la difficulté et le système de points d'expérience pour cette partie.
 
 ::easyDifficulty_Caption
-Easy Difficulty
+Difficulté Facile
 
 ::easyDifficulty
-This is for people who find the combat on normal difficulty a bit too hard for their taste.
+Ceci est pour les joueurs qui trouvent le combat en difficulté normale un peu trop difficile pour leur goût.
 
-- Player character has double the normal amount of health, while medical consumables heal for more and have reduced cooldown.
-- Some encounters have been made easier either in enemy numbers or through other means.
-- NPCs will on occasion act less intelligently than on normal difficulty.
+- Le personnage joueur a le double de la quantité normale de santé, tandis que les consommables médicaux soignent davantage et ont un temps de recharge réduit.
+- Certaines rencontres ont été rendues plus faciles, soit en nombre d'ennemis, soit par d'autres moyens.
+- Les PNJ agiront parfois de manière moins intelligente qu'en difficulté normale.
 
 ::normalDifficulty_Caption
-Normal Difficulty
+Difficulté Normale
 
 ::normalDifficulty
-Provides a lot of challenge to an average hardcore gamer with less room for error in combat. This is the way the game is meant to be played.
+Offre beaucoup de défi à un joueur hardcore moyen avec peu de marge d'erreur en combat. C'est la façon dont le jeu est censé être joué.
 
 ::hardDifficulty_Caption
-Hard Difficulty
+Difficulté Difficile
 
 ::hardDifficulty
-This difficulty is meant for experienced players as it leaves very little room for error.
+Cette difficulté est destinée aux joueurs expérimentés car elle laisse très peu de place à l'erreur.
 
-- Player character has reduced health, while medical consumables heal for less and have increased cooldown.
-- NPCs have their health increased by 50%.
-- Some encounters have been made harder either in enemy numbers or through other means.
-- NPCs will on occasion act more intelligently than on normal difficulty.
-- Items are sold for 50% of their value.
+- Le personnage joueur a une santé réduite, tandis que les consommables médicaux soignent moins et ont un temps de recharge augmenté.
+- Les PNJ ont leur santé augmentée de 50%.
+- Certaines rencontres ont été rendues plus difficiles, soit en nombre d'ennemis, soit par d'autres moyens.
+- Les PNJ agiront parfois de manière plus intelligente qu'en difficulté normale.
+- Les objets sont vendus pour 50% de leur valeur.
 
 ::dominatingDifficulty_Caption
-DOMINATING Difficulty
+Difficulté DOMINANT
 
 ::dominatingDifficulty
-This difficulty is for the Underrail veterans that no longer find the game challenging enough.
+Cette difficulté est pour les vétérans d'Underrail qui ne trouvent plus le jeu assez difficile.
 
-- In addition to player health and cooldown modifications and additional NPC intelligence, it also increases the regular NPC health by 100% and their skill levels by 30% (this bonus is even greater for certain special "boss" NPCs).
-- A lot of encounters have been spiced up with many additional enemies or made extremely hard through other means.
-- Items are sold for 25% of their value.
+- En plus des modifications de santé et de temps de recharge du joueur et de l'intelligence supplémentaire des PNJ, elle augmente également la santé des PNJ normaux de 100% et leurs niveaux de compétence de 30% (ce bonus est encore plus grand pour certains PNJ « boss » spéciaux).
+- Beaucoup de rencontres ont été relevées avec de nombreux ennemis supplémentaires ou rendues extrêmement difficiles par d'autres moyens.
+- Les objets sont vendus pour 25% de leur valeur.
 
-We do not guarantee that the game can be completed in this mode so choose at your own peril.
+Nous ne garantissons pas que le jeu puisse être terminé dans ce mode, donc choisissez à vos risques et périls.
 
 ::oddityXp_Caption
-Oddity XP System
+Système XP Curiosités
 
 ::oddityXp
-You gain experience by collecting "oddities" scattered across Underrail and by completing quests. Higher end oddities are found in progressively more dangerous and hard to access areas. No experience is granted for skill usage or killing (though some oddities are only dropped by creatures).
+Vous gagnez de l'expérience en collectant des « curiosités » dispersées à travers Underrail et en complétant des quêtes. Les curiosités les plus rares se trouvent dans des zones de plus en plus dangereuses et difficiles d'accès. Aucune expérience n'est accordée pour l'utilisation de compétences ou les tueries (bien que certaines curiosités ne soient abandonnées que par des créatures).
 
 ::classicXp_Caption
-Classic XP System
+Système XP Classique
 
 ::classicXp
-You gain experience by killing enemies, completing quests and utilizing certain skills.
+Vous gagnez de l'expérience en tuant des ennemis, en complétant des quêtes et en utilisant certaines compétences.
 
 ::Veteran
-You have reached veteran levels and will no longer gain base ability points.
+Vous avez atteint les niveaux de vétéran et ne gagnerez plus de points de caractéristiques de base.
 
-However, you'll be able to choose previously unavailable veteran feats, in addition to the standard feats.
+Cependant, vous pourrez choisir des talents de vétéran auparavant indisponibles, en plus des talents standards.
 
 ::Specialization
-Your character has gained access to specialization points which can be used to improve your feats.
+Votre personnage a accès à des points de spécialisation qui peuvent être utilisés pour améliorer vos talents.

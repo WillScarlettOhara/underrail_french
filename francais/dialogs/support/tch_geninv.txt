@@ -1,102 +1,102 @@
-=>q1_original
-RUN AWAY!<end>
-
-=>q1
-RUN AWAY!<end>
-
-=>q2_original
-What's all this commotion, huh, $(#brother/sister)?<end>
-
-=>q2
-What's all this commotion, huh, $(#brother/sister)?<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-You messed up real good. Tchort guide you, $(#brother/sister)!<end>
-
-=>q4
-You messed up real good. Tchort guide you, $(#brother/sister)!<end>
-
-=>q5_original
-You better leave, if the PI sees you here...<end>
-
-=>q5
-You better leave, if the PI sees you here...<end>
-
-=>q6_original
-Ouch, even Tchort and Eidein combined couldn't help you now...<end>
-
-=>q6
-Ouch, even Tchort and Eidein combined couldn't help you now...<end>
-
-=>q7_original
-To PI Rista you're like the new Evdok. His words...<end>
-
-=>q7
-To PI Rista you're like the new Evdok. His words...<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-Tchort is evolution.<end>
-
-=>q9
-Tchort is evolution.<end>
-
-=>q10_original
-Cell about to undergo mitosis says to an interested investigator: "I hope I have your divided attention!"<end>
-
-=>q10
-Cell about to undergo mitosis says to an interested investigator: "I hope I have your divided attention!"<end>
-
-=>q11_original
-Try not to make PI Rista angry... please.<end>
-
-=>q11
-Try not to make PI Rista angry... please.<end>
-
-=>q12_original
-You actually went to the Forsaken Island?<end>
-
-=>q12
-You actually went to the Forsaken Island?<end>
-
-=>q13_original
-All pacification procedures seem to have been successful. Tchort's gift.<end>
-
-=>q13
-All pacification procedures seem to have been successful. Tchort's gift.<end>
-
-=>q14_original
-Good job pacifying Psycho! We still don't know how it got out.<end>
-
-=>q14
-Good job pacifying Psycho! We still don't know how it got out.<end>
-
-=>q15_original
-So, that Detritus man was literally waiting outside the Institute? Apex.<end>
-
-=>q15
-So, that Detritus man was literally waiting outside the Institute? Apex.<end>
-
-=>q16_original
-As Eidein once said, "Nothing can be perfect, but it can be perfect enough."<end>
-
-=>q16
-As Eidein once said, "Nothing can be perfect, but it can be perfect enough."<end>
-
-=>q17_original
-Forty-six is the perfect number. Get it?<end>
-
-=>q17
-Forty-six is the perfect number. Get it?<end>
-
+=>q1_original
+RUN AWAY!<end>
+
+=>q1
+RUN AWAY!<end>
+
+=>q2_original
+What's all this commotion, huh, $(#brother/sister)?<end>
+
+=>q2
+What's all this commotion, huh, $(#brother/sister)?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+You messed up real good. Tchort guide you, $(#brother/sister)!<end>
+
+=>q4
+You messed up real good. Tchort guide you, $(#brother/sister)!<end>
+
+=>q5_original
+You better leave, if the PI sees you here...<end>
+
+=>q5
+You better leave, if the PI sees you here...<end>
+
+=>q6_original
+Ouch, even Tchort and Eidein combined couldn't help you now...<end>
+
+=>q6
+Ouch, even Tchort and Eidein combined couldn't help you now...<end>
+
+=>q7_original
+To PI Rista you're like the new Evdok. His words...<end>
+
+=>q7
+To PI Rista you're like the new Evdok. His words...<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+Tchort is evolution.<end>
+
+=>q9
+Tchort is evolution.<end>
+
+=>q10_original
+Cell about to undergo mitosis says to an interested investigator: "I hope I have your divided attention!"<end>
+
+=>q10
+Cell about to undergo mitosis says to an interested investigator: "I hope I have your divided attention!"<end>
+
+=>q11_original
+Try not to make PI Rista angry... please.<end>
+
+=>q11
+Try not to make PI Rista angry... please.<end>
+
+=>q12_original
+You actually went to the Forsaken Island?<end>
+
+=>q12
+You actually went to the Forsaken Island?<end>
+
+=>q13_original
+All pacification procedures seem to have been successful. Tchort's gift.<end>
+
+=>q13
+All pacification procedures seem to have been successful. Tchort's gift.<end>
+
+=>q14_original
+Good job pacifying Psycho! We still don't know how it got out.<end>
+
+=>q14
+Good job pacifying Psycho! We still don't know how it got out.<end>
+
+=>q15_original
+So, that Detritus man was literally waiting outside the Institute? Apex.<end>
+
+=>q15
+So, that Detritus man was literally waiting outside the Institute? Apex.<end>
+
+=>q16_original
+As Eidein once said, "Nothing can be perfect, but it can be perfect enough."<end>
+
+=>q16
+As Eidein once said, "Nothing can be perfect, but it can be perfect enough."<end>
+
+=>q17_original
+Forty-six is the perfect number. Get it?<end>
+
+=>q17
+Forty-six is the perfect number. Get it?<end>
+

@@ -1,390 +1,390 @@
-=>q1_original
-NO!<end>
-
-=>q1
-NO!<end>
-
-=>q2_original
-::An old, bald man welcomes you with a wave and a wide smile. He wears dark glasses which perfectly conceal his eyes; in turn, his smile reveals more than it perhaps should: You notice the man to be almost completely toothless, yet those few teeth still clinging on somehow allow him to speak with surprising clarity. Unfortunately, they do nothing to save his interlocutor from receiving a spit shower every time he opens his mouth, as it happens to you right now.::
-
-Tchort is evolution, $(#brother/sister)! I am Lazy Lal, that's what they call me.<end>
-
-=>q2
-::An old, bald man welcomes you with a wave and a wide smile. He wears dark glasses which perfectly conceal his eyes; in turn, his smile reveals more than it perhaps should: You notice the man to be almost completely toothless, yet those few teeth still clinging on somehow allow him to speak with surprising clarity. Unfortunately, they do nothing to save his interlocutor from receiving a spit shower every time he opens his mouth, as it happens to you right now.::
-
-Tchort is evolution, $(#brother/sister)! I am Lazy Lal, that's what they call me.<end>
-
-=>a3_original
-Evolution is Tchort, brother. I'm $(context.player.Name).<end>
-
-=>a3
-Evolution is Tchort, brother. I'm $(context.player.Name).<end>
-
-=>q4_original
- Cool, cool. I finally got a bed mate!<end>
-
-=>q4
- Cool, cool. I finally got a bed mate!<end>
-
-=>a5_original
-Bed mate?<end>
-
-=>a5
-Bed mate?<end>
-
-=>q6_original
-Yeah. This is our bed! ::He points to the double bed next to him.:: See, this is our bed, bed mate. I've been sleepin' alone for two weeks, and now I have a bed mate! Oh, you want top or bottom? I slept top so far, but if you want top I'll go bottom.<end>
-
-=>q6
-Yeah. This is our bed! ::He points to the double bed next to him.:: See, this is our bed, bed mate. I've been sleepin' alone for two weeks, and now I have a bed mate! Oh, you want top or bottom? I slept top so far, but if you want top I'll go bottom.<end>
-
-=>a7_original
-Bottom. You stay on top, I'm not really picky.<end>
-
-=>a7
-Bottom. You stay on top, I'm not really picky.<end>
-
-=>q8_original
-Whatever you wish, bed mate. Now, wanna chat?<end>
-
-=>q8
-Whatever you wish, bed mate. Now, wanna chat?<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-Why did you join the Institute of Tchort?<end>
-
-=>a10
-Why did you join the Institute of Tchort?<end>
-
-=>q11_original
-Well, bed mate, let me put it this way: If there is a chance you could, how should I say, escape the life of poverty, filth, disease and a couple of loan hounds wantin' to skin ya, would you take it? Of course you would.<end>
-
-=>q11
-Well, bed mate, let me put it this way: If there is a chance you could, how should I say, escape the life of poverty, filth, disease and a couple of loan hounds wantin' to skin ya, would you take it? Of course you would.<end>
-
-=>a12_original
-Don't take this the wrong way, but how did you manage to get accepted? Tchortists seem pretty selective and, erm... you know what I mean.<end>
-
-=>a12
-Don't take this the wrong way, but how did you manage to get accepted? Tchortists seem pretty selective and, erm... you know what I mean.<end>
-
-=>q13_original
-I don't look the part - is that what you're trying to say, bed mate? ::Sighs.:: It's true, I mean just look at my teeth. I could scare burrowers away. But Tchortists don't care for the superficial - they care for what's inside. Yes. I had that interview with the *smokin'* Praepostor Amelia and told her about myself; answered questions, done tests, gave blood and all that. I must've said somethin' right 'cause they just accepted me.<end>
-
-=>q13
-I don't look the part - is that what you're trying to say, bed mate? ::Sighs.:: It's true, I mean just look at my teeth. I could scare burrowers away. But Tchortists don't care for the superficial - they care for what's inside. Yes. I had that interview with the *smokin'* Praepostor Amelia and told her about myself; answered questions, done tests, gave blood and all that. I must've said somethin' right 'cause they just accepted me.<end>
-
-=>a14_original
-So what do you do here at the moment?<end>
-
-=>a14
-So what do you do here at the moment?<end>
-
-=>q15_original
-I am a novitiate still. I have some combat experience, so I might go the Preservation route, but I've attended some lectures and... I don't know, I've still got some thinkin' to do. We will see. We will see.<end>
-
-=>q15
-I am a novitiate still. I have some combat experience, so I might go the Preservation route, but I've attended some lectures and... I don't know, I've still got some thinkin' to do. We will see. We will see.<end>
-
-=>a16_original
-You have a point there. Let me ask you something else.<end>
-
-=>a16
-You have a point there. Let me ask you something else.<end>
-
-=>q17_original
-Sure.<end>
-
-=>q17
-Sure.<end>
-
-=>a18_original
-So, how are you liking the Institute of Tchort after spending some time here?<end>
-
-=>a18
-So, how are you liking the Institute of Tchort after spending some time here?<end>
-
-=>q19_original
-I'm lovin' this place more and more with every passin' day. Once you get used to a few things - everythin' bein' clean is one of those - and as you learn more about Tchortism, you start realizin' how... apex it all really is. I have no doubt that Tchortists are really tryin' to direct the evolution of mankind towards somethin' greater. Look at recombinants for example, yeah. That's the next step.<end>
-
-=>q19
-I'm lovin' this place more and more with every passin' day. Once you get used to a few things - everythin' bein' clean is one of those - and as you learn more about Tchortism, you start realizin' how... apex it all really is. I have no doubt that Tchortists are really tryin' to direct the evolution of mankind towards somethin' greater. Look at recombinants for example, yeah. That's the next step.<end>
-
-=>q20_original
-All in all, I want to be a part of that - I am happy to be a part of that! Tchort is truly... something great. Tchort is evolution, bed mate.<end>
-
-=>q20
-All in all, I want to be a part of that - I am happy to be a part of that! Tchort is truly... something great. Tchort is evolution, bed mate.<end>
-
-=>a21_original
-Why are you called Lazy Lal? Are you really that lazy?<end>
-
-=>a21
-Why are you called Lazy Lal? Are you really that lazy?<end>
-
-=>q22_original
-No, I'm not lazy - my left eye is. ::As soon as he finishes the sentence he removes his shades with an elegant, overemphasized motion, closing his eyes as if he wants to prolong the moment of revelation as much as possible. Then, he slowly opens his right, normal eye, pauses, then opens his left one - the bad one. You look at it; it doesn't look at you, but is slammed so far to the left like it wants to escape the socket and see what lies behind the head. Lazy Lal laughs in his usual, toothless fashion, this time spiced up with the laziest eye you have ever seen, creating a unique image you are unlikely to ever forget.::<end>
-
-=>q22
-No, I'm not lazy - my left eye is. ::As soon as he finishes the sentence he removes his shades with an elegant, overemphasized motion, closing his eyes as if he wants to prolong the moment of revelation as much as possible. Then, he slowly opens his right, normal eye, pauses, then opens his left one - the bad one. You look at it; it doesn't look at you, but is slammed so far to the left like it wants to escape the socket and see what lies behind the head. Lazy Lal laughs in his usual, toothless fashion, this time spiced up with the laziest eye you have ever seen, creating a unique image you are unlikely to ever forget.::<end>
-
-=>q23_original
-::He puts the shades back on.::
-
-And that is why they call me Lazy Lal, bed mate.<end>
-
-=>q23
-::He puts the shades back on.::
-
-And that is why they call me Lazy Lal, bed mate.<end>
-
-=>a24_original
-Can't Tchortists make you a new set of teeth or something?<end>
-
-=>a24
-Can't Tchortists make you a new set of teeth or something?<end>
-
-=>q25_original
-Oh yes! They promised me they'll take care of it. I just have to wait some more... perhaps a week or so.<end>
-
-=>q25
-Oh yes! They promised me they'll take care of it. I just have to wait some more... perhaps a week or so.<end>
-
-=>q26_original
-I mean, these guys are great! I had my doubts when I first saw those robes but... never judge anyone by the way they look. Never! Just look at me. ::He laughs.::<end>
-
-=>q26
-I mean, these guys are great! I had my doubts when I first saw those robes but... never judge anyone by the way they look. Never! Just look at me. ::He laughs.::<end>
-
-=>q27_original
-I'm lucky to be a part of the Institute. Really. It offers so much, bed mate... so much. And I've only just gotten here.<end>
-
-=>q27
-I'm lucky to be a part of the Institute. Really. It offers so much, bed mate... so much. And I've only just gotten here.<end>
-
-=>a28_original
-Can you not call me "bed mate"?<end>
-
-=>a28
-Can you not call me "bed mate"?<end>
-
-=>q29_original
-Why not?<end>
-
-=>q29
-Why not?<end>
-
-=>a30_original
-I see that you've already grown fond of it, but I prefer if you stick to $(#brother/sister).<end>
-
-=>a30
-I see that you've already grown fond of it, but I prefer if you stick to $(#brother/sister).<end>
-
-=>q31_original
-$(#Brother/Sister) it is, bed... $(#beddrer... brodder... brother/bedster... bister... sister)!<end>
-
-=>q31
-$(#Brother/Sister) it is, bed... $(#beddrer... brodder... brother/bedster... bister... sister)!<end>
-
-=>a32_original
-Just stop doing it. I don't have to explain anything to you.<end>
-
-=>a32
-Just stop doing it. I don't have to explain anything to you.<end>
-
-=>q33_original
-Whoa... listen. I'm tryin' to be cool to you and all that, at least you could do in return is to do the same. That tone of voice of yours is uncalled for. Sorry for trying to be friendly!<end>
-
-=>q33
-Whoa... listen. I'm tryin' to be cool to you and all that, at least you could do in return is to do the same. That tone of voice of yours is uncalled for. Sorry for trying to be friendly!<end>
-
-=>a34_original
-I didn't mean to sound rude. It's just that I don't like to be called bed mate.<end>
-
-=>a34
-I didn't mean to sound rude. It's just that I don't like to be called bed mate.<end>
-
-=>q35_original
-I'll try...<end>
-
-=>q35
-I'll try...<end>
-
-=>a36_original
-Whatever... just don't call me bed mate again and I'll be cool and friendly.<end>
-
-=>a36
-Whatever... just don't call me bed mate again and I'll be cool and friendly.<end>
-
-=>a37_original
-It just sounds weird to me.<end>
-
-=>a37
-It just sounds weird to me.<end>
-
-=>q38_original
-Fine, I'll just try to call you $(#brother/sister). It's not a big deal anyway...<end>
-
-=>q38
-Fine, I'll just try to call you $(#brother/sister). It's not a big deal anyway...<end>
-
-=>a39_original
-How'd you lose your teeth? Er... most of them at least.<end>
-
-=>a39
-How'd you lose your teeth? Er... most of them at least.<end>
-
-=>q40_original
-Some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.<end>
-
-=>q40
-Some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.<end>
-
-=>q41_original
-Damn it, Upper Underrail sucks harder than a pack of siphoners. I don't know how anyone could live here... Um, other than Tchortists of course.<end>
-
-=>q41
-Damn it, Upper Underrail sucks harder than a pack of siphoners. I don't know how anyone could live here... Um, other than Tchortists of course.<end>
-
-=>a42_original
-Tchort guide you, Lazy Lal.<end>
-
-=>a42
-Tchort guide you, Lazy Lal.<end>
-
-=>q43_original
-Tchort guide you, bed mate.<end>
-
-=>q43
-Tchort guide you, bed mate.<end>
-
-=>a44_original
-See you around, Lazy Lal.<end>
-
-=>a44
-See you around, Lazy Lal.<end>
-
-=>a45_original
-Top! Top! I want top!<end>
-
-=>a45
-Top! Top! I want top!<end>
-
-=>a46_original
-But... I'm a woman! Aren't we supposed to be separated from... *you*?<end>
-
-=>a46
-But... I'm a woman! Aren't we supposed to be separated from... *you*?<end>
-
-=>q47_original
-Tchortists do not segregate genders - which is unusual! I mean, I too was baffled by it when I got here, but I got used to it quickly.<end>
-
-=>q47
-Tchortists do not segregate genders - which is unusual! I mean, I too was baffled by it when I got here, but I got used to it quickly.<end>
-
-=>a48_original
-I'm sure you did, Lal. And I'm sure it was tough.<end>
-
-=>a48
-I'm sure you did, Lal. And I'm sure it was tough.<end>
-
-=>q49_original
-Um... yeah. ::He continues after an awkward pause.:: Hey, if all that makes you feel uncomfortable, I can close my eyes when you undress.<end>
-
-=>q49
-Um... yeah. ::He continues after an awkward pause.:: Hey, if all that makes you feel uncomfortable, I can close my eyes when you undress.<end>
-
-=>a50_original
-Oh great! So you'd stare like a starved rathound at a bag of meat otherwise?<end>
-
-=>a50
-Oh great! So you'd stare like a starved rathound at a bag of meat otherwise?<end>
-
-=>q51_original
-That's not what I meant... I expressed myself badly... I'm sorry, bed mate.<end>
-
-=>q51
-That's not what I meant... I expressed myself badly... I'm sorry, bed mate.<end>
-
-=>a52_original
-Anyway, to answer your previous question - I'll take the top bed.<end>
-
-=>a52
-Anyway, to answer your previous question - I'll take the top bed.<end>
-
-=>a53_original
-In any case - bottom bed is mine.<end>
-
-=>a53
-In any case - bottom bed is mine.<end>
-
-=>a54_original
-In that case I have no choice. But if you try something funny...<end>
-
-=>a54
-In that case I have no choice. But if you try something funny...<end>
-
-=>q55_original
-I won't. Bed mate's honor!<end>
-
-=>q55
-I won't. Bed mate's honor!<end>
-
-=>a56_original
-Damn, I didn't plan on taking a bath yet... ::Wipe the spit off you.:: $(context.player.Name) is the name.<end>
-
-=>a56
-Damn, I didn't plan on taking a bath yet... ::Wipe the spit off you.:: $(context.player.Name) is the name.<end>
-
-=>q57_original
-Damn it! I'm sorry, some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.
-
-Anyway, I'll try not to spit at you, bed mate.<end>
-
-=>q57
-Damn it! I'm sorry, some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.
-
-Anyway, I'll try not to spit at you, bed mate.<end>
-
-=>a58_original
-Yo. I'm $(context.player.Name). 'Sup?<end>
-
-=>a58
-Yo. I'm $(context.player.Name). 'Sup?<end>
-
-=>q59_original
-::He flashes a toothless grin.:: Nothin' ... 'Sup with you, bed mate?<end>
-
-=>q59
-::He flashes a toothless grin.:: Nothin' ... 'Sup with you, bed mate?<end>
-
-=>a60_original
-I'm $(context.player.Name) - Invictus. I defeated the mighty Carnifex while being watched by the whole Core City! Be impressed with my hardcoreness.<end>
-
-=>a60
-I'm $(context.player.Name) - Invictus. I defeated the mighty Carnifex while being watched by the whole Core City! Be impressed with my hardcoreness.<end>
-
-=>q61_original
-Hey, I don't think so. Everyone knows the Invictus is much taller. But, I see a slight resemblance there, bed mate. You do look a bit like $(#him/her).<end>
-
-=>q61
-Hey, I don't think so. Everyone knows the Invictus is much taller. But, I see a slight resemblance there, bed mate. You do look a bit like $(#him/her).<end>
-
-=>q62_original
-When will these annoyin' tremors stop?<end>
-
-=>q62
-When will these annoyin' tremors stop?<end>
-
-=>q63_original
-What's new, bed mate?<end>
-
-=>q63
-What's new, bed mate?<end>
-
+=>q1_original
+NO!<end>
+
+=>q1
+NO!<end>
+
+=>q2_original
+::An old, bald man welcomes you with a wave and a wide smile. He wears dark glasses which perfectly conceal his eyes; in turn, his smile reveals more than it perhaps should: You notice the man to be almost completely toothless, yet those few teeth still clinging on somehow allow him to speak with surprising clarity. Unfortunately, they do nothing to save his interlocutor from receiving a spit shower every time he opens his mouth, as it happens to you right now.::
+
+Tchort is evolution, $(#brother/sister)! I am Lazy Lal, that's what they call me.<end>
+
+=>q2
+::An old, bald man welcomes you with a wave and a wide smile. He wears dark glasses which perfectly conceal his eyes; in turn, his smile reveals more than it perhaps should: You notice the man to be almost completely toothless, yet those few teeth still clinging on somehow allow him to speak with surprising clarity. Unfortunately, they do nothing to save his interlocutor from receiving a spit shower every time he opens his mouth, as it happens to you right now.::
+
+Tchort is evolution, $(#brother/sister)! I am Lazy Lal, that's what they call me.<end>
+
+=>a3_original
+Evolution is Tchort, brother. I'm $(context.player.Name).<end>
+
+=>a3
+Evolution is Tchort, brother. I'm $(context.player.Name).<end>
+
+=>q4_original
+ Cool, cool. I finally got a bed mate!<end>
+
+=>q4
+ Cool, cool. I finally got a bed mate!<end>
+
+=>a5_original
+Bed mate?<end>
+
+=>a5
+Bed mate?<end>
+
+=>q6_original
+Yeah. This is our bed! ::He points to the double bed next to him.:: See, this is our bed, bed mate. I've been sleepin' alone for two weeks, and now I have a bed mate! Oh, you want top or bottom? I slept top so far, but if you want top I'll go bottom.<end>
+
+=>q6
+Yeah. This is our bed! ::He points to the double bed next to him.:: See, this is our bed, bed mate. I've been sleepin' alone for two weeks, and now I have a bed mate! Oh, you want top or bottom? I slept top so far, but if you want top I'll go bottom.<end>
+
+=>a7_original
+Bottom. You stay on top, I'm not really picky.<end>
+
+=>a7
+Bottom. You stay on top, I'm not really picky.<end>
+
+=>q8_original
+Whatever you wish, bed mate. Now, wanna chat?<end>
+
+=>q8
+Whatever you wish, bed mate. Now, wanna chat?<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+Why did you join the Institute of Tchort?<end>
+
+=>a10
+Why did you join the Institute of Tchort?<end>
+
+=>q11_original
+Well, bed mate, let me put it this way: If there is a chance you could, how should I say, escape the life of poverty, filth, disease and a couple of loan hounds wantin' to skin ya, would you take it? Of course you would.<end>
+
+=>q11
+Well, bed mate, let me put it this way: If there is a chance you could, how should I say, escape the life of poverty, filth, disease and a couple of loan hounds wantin' to skin ya, would you take it? Of course you would.<end>
+
+=>a12_original
+Don't take this the wrong way, but how did you manage to get accepted? Tchortists seem pretty selective and, erm... you know what I mean.<end>
+
+=>a12
+Don't take this the wrong way, but how did you manage to get accepted? Tchortists seem pretty selective and, erm... you know what I mean.<end>
+
+=>q13_original
+I don't look the part - is that what you're trying to say, bed mate? ::Sighs.:: It's true, I mean just look at my teeth. I could scare burrowers away. But Tchortists don't care for the superficial - they care for what's inside. Yes. I had that interview with the *smokin'* Praepostor Amelia and told her about myself; answered questions, done tests, gave blood and all that. I must've said somethin' right 'cause they just accepted me.<end>
+
+=>q13
+I don't look the part - is that what you're trying to say, bed mate? ::Sighs.:: It's true, I mean just look at my teeth. I could scare burrowers away. But Tchortists don't care for the superficial - they care for what's inside. Yes. I had that interview with the *smokin'* Praepostor Amelia and told her about myself; answered questions, done tests, gave blood and all that. I must've said somethin' right 'cause they just accepted me.<end>
+
+=>a14_original
+So what do you do here at the moment?<end>
+
+=>a14
+So what do you do here at the moment?<end>
+
+=>q15_original
+I am a novitiate still. I have some combat experience, so I might go the Preservation route, but I've attended some lectures and... I don't know, I've still got some thinkin' to do. We will see. We will see.<end>
+
+=>q15
+I am a novitiate still. I have some combat experience, so I might go the Preservation route, but I've attended some lectures and... I don't know, I've still got some thinkin' to do. We will see. We will see.<end>
+
+=>a16_original
+You have a point there. Let me ask you something else.<end>
+
+=>a16
+You have a point there. Let me ask you something else.<end>
+
+=>q17_original
+Sure.<end>
+
+=>q17
+Sure.<end>
+
+=>a18_original
+So, how are you liking the Institute of Tchort after spending some time here?<end>
+
+=>a18
+So, how are you liking the Institute of Tchort after spending some time here?<end>
+
+=>q19_original
+I'm lovin' this place more and more with every passin' day. Once you get used to a few things - everythin' bein' clean is one of those - and as you learn more about Tchortism, you start realizin' how... apex it all really is. I have no doubt that Tchortists are really tryin' to direct the evolution of mankind towards somethin' greater. Look at recombinants for example, yeah. That's the next step.<end>
+
+=>q19
+I'm lovin' this place more and more with every passin' day. Once you get used to a few things - everythin' bein' clean is one of those - and as you learn more about Tchortism, you start realizin' how... apex it all really is. I have no doubt that Tchortists are really tryin' to direct the evolution of mankind towards somethin' greater. Look at recombinants for example, yeah. That's the next step.<end>
+
+=>q20_original
+All in all, I want to be a part of that - I am happy to be a part of that! Tchort is truly... something great. Tchort is evolution, bed mate.<end>
+
+=>q20
+All in all, I want to be a part of that - I am happy to be a part of that! Tchort is truly... something great. Tchort is evolution, bed mate.<end>
+
+=>a21_original
+Why are you called Lazy Lal? Are you really that lazy?<end>
+
+=>a21
+Why are you called Lazy Lal? Are you really that lazy?<end>
+
+=>q22_original
+No, I'm not lazy - my left eye is. ::As soon as he finishes the sentence he removes his shades with an elegant, overemphasized motion, closing his eyes as if he wants to prolong the moment of revelation as much as possible. Then, he slowly opens his right, normal eye, pauses, then opens his left one - the bad one. You look at it; it doesn't look at you, but is slammed so far to the left like it wants to escape the socket and see what lies behind the head. Lazy Lal laughs in his usual, toothless fashion, this time spiced up with the laziest eye you have ever seen, creating a unique image you are unlikely to ever forget.::<end>
+
+=>q22
+No, I'm not lazy - my left eye is. ::As soon as he finishes the sentence he removes his shades with an elegant, overemphasized motion, closing his eyes as if he wants to prolong the moment of revelation as much as possible. Then, he slowly opens his right, normal eye, pauses, then opens his left one - the bad one. You look at it; it doesn't look at you, but is slammed so far to the left like it wants to escape the socket and see what lies behind the head. Lazy Lal laughs in his usual, toothless fashion, this time spiced up with the laziest eye you have ever seen, creating a unique image you are unlikely to ever forget.::<end>
+
+=>q23_original
+::He puts the shades back on.::
+
+And that is why they call me Lazy Lal, bed mate.<end>
+
+=>q23
+::He puts the shades back on.::
+
+And that is why they call me Lazy Lal, bed mate.<end>
+
+=>a24_original
+Can't Tchortists make you a new set of teeth or something?<end>
+
+=>a24
+Can't Tchortists make you a new set of teeth or something?<end>
+
+=>q25_original
+Oh yes! They promised me they'll take care of it. I just have to wait some more... perhaps a week or so.<end>
+
+=>q25
+Oh yes! They promised me they'll take care of it. I just have to wait some more... perhaps a week or so.<end>
+
+=>q26_original
+I mean, these guys are great! I had my doubts when I first saw those robes but... never judge anyone by the way they look. Never! Just look at me. ::He laughs.::<end>
+
+=>q26
+I mean, these guys are great! I had my doubts when I first saw those robes but... never judge anyone by the way they look. Never! Just look at me. ::He laughs.::<end>
+
+=>q27_original
+I'm lucky to be a part of the Institute. Really. It offers so much, bed mate... so much. And I've only just gotten here.<end>
+
+=>q27
+I'm lucky to be a part of the Institute. Really. It offers so much, bed mate... so much. And I've only just gotten here.<end>
+
+=>a28_original
+Can you not call me "bed mate"?<end>
+
+=>a28
+Can you not call me "bed mate"?<end>
+
+=>q29_original
+Why not?<end>
+
+=>q29
+Why not?<end>
+
+=>a30_original
+I see that you've already grown fond of it, but I prefer if you stick to $(#brother/sister).<end>
+
+=>a30
+I see that you've already grown fond of it, but I prefer if you stick to $(#brother/sister).<end>
+
+=>q31_original
+$(#Brother/Sister) it is, bed... $(#beddrer... brodder... brother/bedster... bister... sister)!<end>
+
+=>q31
+$(#Brother/Sister) it is, bed... $(#beddrer... brodder... brother/bedster... bister... sister)!<end>
+
+=>a32_original
+Just stop doing it. I don't have to explain anything to you.<end>
+
+=>a32
+Just stop doing it. I don't have to explain anything to you.<end>
+
+=>q33_original
+Whoa... listen. I'm tryin' to be cool to you and all that, at least you could do in return is to do the same. That tone of voice of yours is uncalled for. Sorry for trying to be friendly!<end>
+
+=>q33
+Whoa... listen. I'm tryin' to be cool to you and all that, at least you could do in return is to do the same. That tone of voice of yours is uncalled for. Sorry for trying to be friendly!<end>
+
+=>a34_original
+I didn't mean to sound rude. It's just that I don't like to be called bed mate.<end>
+
+=>a34
+I didn't mean to sound rude. It's just that I don't like to be called bed mate.<end>
+
+=>q35_original
+I'll try...<end>
+
+=>q35
+I'll try...<end>
+
+=>a36_original
+Whatever... just don't call me bed mate again and I'll be cool and friendly.<end>
+
+=>a36
+Whatever... just don't call me bed mate again and I'll be cool and friendly.<end>
+
+=>a37_original
+It just sounds weird to me.<end>
+
+=>a37
+It just sounds weird to me.<end>
+
+=>q38_original
+Fine, I'll just try to call you $(#brother/sister). It's not a big deal anyway...<end>
+
+=>q38
+Fine, I'll just try to call you $(#brother/sister). It's not a big deal anyway...<end>
+
+=>a39_original
+How'd you lose your teeth? Er... most of them at least.<end>
+
+=>a39
+How'd you lose your teeth? Er... most of them at least.<end>
+
+=>q40_original
+Some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.<end>
+
+=>q40
+Some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.<end>
+
+=>q41_original
+Damn it, Upper Underrail sucks harder than a pack of siphoners. I don't know how anyone could live here... Um, other than Tchortists of course.<end>
+
+=>q41
+Damn it, Upper Underrail sucks harder than a pack of siphoners. I don't know how anyone could live here... Um, other than Tchortists of course.<end>
+
+=>a42_original
+Tchort guide you, Lazy Lal.<end>
+
+=>a42
+Tchort guide you, Lazy Lal.<end>
+
+=>q43_original
+Tchort guide you, bed mate.<end>
+
+=>q43
+Tchort guide you, bed mate.<end>
+
+=>a44_original
+See you around, Lazy Lal.<end>
+
+=>a44
+See you around, Lazy Lal.<end>
+
+=>a45_original
+Top! Top! I want top!<end>
+
+=>a45
+Top! Top! I want top!<end>
+
+=>a46_original
+But... I'm a woman! Aren't we supposed to be separated from... *you*?<end>
+
+=>a46
+But... I'm a woman! Aren't we supposed to be separated from... *you*?<end>
+
+=>q47_original
+Tchortists do not segregate genders - which is unusual! I mean, I too was baffled by it when I got here, but I got used to it quickly.<end>
+
+=>q47
+Tchortists do not segregate genders - which is unusual! I mean, I too was baffled by it when I got here, but I got used to it quickly.<end>
+
+=>a48_original
+I'm sure you did, Lal. And I'm sure it was tough.<end>
+
+=>a48
+I'm sure you did, Lal. And I'm sure it was tough.<end>
+
+=>q49_original
+Um... yeah. ::He continues after an awkward pause.:: Hey, if all that makes you feel uncomfortable, I can close my eyes when you undress.<end>
+
+=>q49
+Um... yeah. ::He continues after an awkward pause.:: Hey, if all that makes you feel uncomfortable, I can close my eyes when you undress.<end>
+
+=>a50_original
+Oh great! So you'd stare like a starved rathound at a bag of meat otherwise?<end>
+
+=>a50
+Oh great! So you'd stare like a starved rathound at a bag of meat otherwise?<end>
+
+=>q51_original
+That's not what I meant... I expressed myself badly... I'm sorry, bed mate.<end>
+
+=>q51
+That's not what I meant... I expressed myself badly... I'm sorry, bed mate.<end>
+
+=>a52_original
+Anyway, to answer your previous question - I'll take the top bed.<end>
+
+=>a52
+Anyway, to answer your previous question - I'll take the top bed.<end>
+
+=>a53_original
+In any case - bottom bed is mine.<end>
+
+=>a53
+In any case - bottom bed is mine.<end>
+
+=>a54_original
+In that case I have no choice. But if you try something funny...<end>
+
+=>a54
+In that case I have no choice. But if you try something funny...<end>
+
+=>q55_original
+I won't. Bed mate's honor!<end>
+
+=>q55
+I won't. Bed mate's honor!<end>
+
+=>a56_original
+Damn, I didn't plan on taking a bath yet... ::Wipe the spit off you.:: $(context.player.Name) is the name.<end>
+
+=>a56
+Damn, I didn't plan on taking a bath yet... ::Wipe the spit off you.:: $(context.player.Name) is the name.<end>
+
+=>q57_original
+Damn it! I'm sorry, some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.
+
+Anyway, I'll try not to spit at you, bed mate.<end>
+
+=>q57
+Damn it! I'm sorry, some miserable bandit knocked my teeth out and robbed me as I was goin' toward the Institute. In hindsight, I should have taken the train, but my inner cheapskate ended up leading me into a very nasty situation.
+
+Anyway, I'll try not to spit at you, bed mate.<end>
+
+=>a58_original
+Yo. I'm $(context.player.Name). 'Sup?<end>
+
+=>a58
+Yo. I'm $(context.player.Name). 'Sup?<end>
+
+=>q59_original
+::He flashes a toothless grin.:: Nothin' ... 'Sup with you, bed mate?<end>
+
+=>q59
+::He flashes a toothless grin.:: Nothin' ... 'Sup with you, bed mate?<end>
+
+=>a60_original
+I'm $(context.player.Name) - Invictus. I defeated the mighty Carnifex while being watched by the whole Core City! Be impressed with my hardcoreness.<end>
+
+=>a60
+I'm $(context.player.Name) - Invictus. I defeated the mighty Carnifex while being watched by the whole Core City! Be impressed with my hardcoreness.<end>
+
+=>q61_original
+Hey, I don't think so. Everyone knows the Invictus is much taller. But, I see a slight resemblance there, bed mate. You do look a bit like $(#him/her).<end>
+
+=>q61
+Hey, I don't think so. Everyone knows the Invictus is much taller. But, I see a slight resemblance there, bed mate. You do look a bit like $(#him/her).<end>
+
+=>q62_original
+When will these annoyin' tremors stop?<end>
+
+=>q62
+When will these annoyin' tremors stop?<end>
+
+=>q63_original
+What's new, bed mate?<end>
+
+=>q63
+What's new, bed mate?<end>
+

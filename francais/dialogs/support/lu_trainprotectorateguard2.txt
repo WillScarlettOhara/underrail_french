@@ -1,72 +1,72 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::Salutes you.::<end>
-
-=>q2
-::Salutes you.::<end>
-
-=>q3_original
-The Faceless retreated from Core City. We are connected to North Underrail again.<end>
-
-=>q3
-The Faceless retreated from Core City. We are connected to North Underrail again.<end>
-
-=>q4_original
-$(#Sir/Ma'am)?<end>
-
-=>q4
-$(#Sir/Ma'am)?<end>
-
-=>q5_original
-Need something, Corporal?<end>
-
-=>q5
-Need something, Corporal?<end>
-
-=>q6_original
-What if the Faceless get to Port Zenith? Maybe they'll send us to fight them.<end>
-
-=>q6
-What if the Faceless get to Port Zenith? Maybe they'll send us to fight them.<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>q8_original
-Move along, please.<end>
-
-=>q8
-Move along, please.<end>
-
-=>q9_original
-Yes?<end>
-
-=>q9
-Yes?<end>
-
-=>q10_original
-Can I help you?<end>
-
-=>q10
-Can I help you?<end>
-
-=>q11_original
-::Nods.:: Need something?<end>
-
-=>q11
-::Nods.:: Need something?<end>
-
-=>q12_original
-Do you mind? I'm on duty.<end>
-
-=>q12
-Do you mind? I'm on duty.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Salutes you.::<end>
+
+=>q2
+::Salutes you.::<end>
+
+=>q3_original
+The Faceless retreated from Core City. We are connected to North Underrail again.<end>
+
+=>q3
+The Faceless retreated from Core City. We are connected to North Underrail again.<end>
+
+=>q4_original
+$(#Sir/Ma'am)?<end>
+
+=>q4
+$(#Sir/Ma'am)?<end>
+
+=>q5_original
+Need something, Corporal?<end>
+
+=>q5
+Need something, Corporal?<end>
+
+=>q6_original
+What if the Faceless get to Port Zenith? Maybe they'll send us to fight them.<end>
+
+=>q6
+What if the Faceless get to Port Zenith? Maybe they'll send us to fight them.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Move along, please.<end>
+
+=>q8
+Move along, please.<end>
+
+=>q9_original
+Yes?<end>
+
+=>q9
+Yes?<end>
+
+=>q10_original
+Can I help you?<end>
+
+=>q10
+Can I help you?<end>
+
+=>q11_original
+::Nods.:: Need something?<end>
+
+=>q11
+::Nods.:: Need something?<end>
+
+=>q12_original
+Do you mind? I'm on duty.<end>
+
+=>q12
+Do you mind? I'm on duty.<end>
+

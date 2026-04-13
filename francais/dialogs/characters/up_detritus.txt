@@ -1,526 +1,526 @@
-=>q1_original
-So long, $(context.player.Name). I hope we see each other soon.<end>
-
-=>q1
-So long, $(context.player.Name). I hope we see each other soon.<end>
-
-=>q2_original
-::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::<end>
-
-=>q2
-::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::<end>
-
-=>a3_original
-Admiring the hall, I see.<end>
-
-=>a3
-Admiring the hall, I see.<end>
-
-=>q4_original
-::He lowers his eyes to meet yours.::
-
-This. place. *dominates!* I'm speechless.<end>
-
-=>q4
-::He lowers his eyes to meet yours.::
-
-This. place. *dominates!* I'm speechless.<end>
-
-=>a5_original
-It definitely beats Drop Zone, doesn't it?<end>
-
-=>a5
-It definitely beats Drop Zone, doesn't it?<end>
-
-=>q6_original
-::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!<end>
-
-=>q6
-::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!<end>
-
-=>a7_original
-Why? I wasn't told anything about you being taken to Tchort.<end>
-
-=>a7
-Why? I wasn't told anything about you being taken to Tchort.<end>
-
-=>q8_original
-It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!<end>
-
-=>q8
-It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!<end>
-
-=>q9_original
-Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.<end>
-
-=>q9
-Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.<end>
-
-=>q10_original
-This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... 
-
-Luck sure took its time to say hi again. ::He laughs.::<end>
-
-=>q10
-This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... 
-
-Luck sure took its time to say hi again. ::He laughs.::<end>
-
-=>a11_original
-How are they going to get you to Deep Caverns?<end>
-
-=>a11
-How are they going to get you to Deep Caverns?<end>
-
-=>q12_original
-I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?<end>
-
-=>q12
-I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?<end>
-
-=>a13_original
-No reason. Forget I asked you anything.<end>
-
-=>a13
-No reason. Forget I asked you anything.<end>
-
-=>q14_original
-Oh... never mind then. <end>
-
-=>q14
-Oh... never mind then. <end>
-
-=>q15_original
-I have only one more thing to say to you, friend: Thank you. I will never forget this.
-
-I have to go now, I should be off soon. $(context.player.Name), see you around!<end>
-
-=>q15
-I have only one more thing to say to you, friend: Thank you. I will never forget this.
-
-I have to go now, I should be off soon. $(context.player.Name), see you around!<end>
-
-=>a16_original
-Goodbye, Detritus. Take care.<end>
-
-=>a16
-Goodbye, Detritus. Take care.<end>
-
-=>a17_original
-So long.<end>
-
-=>a17
-So long.<end>
-
-=>a18_original
-I'm relatively new here, so I don't know a lot of the stuff yet.<end>
-
-=>a18
-I'm relatively new here, so I don't know a lot of the stuff yet.<end>
-
-=>a19_original
-I'm really happy for you. I think Tchortists will treat you pretty nice here.<end>
-
-=>a19
-I'm really happy for you. I think Tchortists will treat you pretty nice here.<end>
-
-=>a20_original
-Yeah, cool.<end>
-
-=>a20
-Yeah, cool.<end>
-
-=>a21_original
-What now?<end>
-
-=>a21
-What now?<end>
-
-=>a22_original
-Don't get too attached, you probably won't stay here for too long.<end>
-
-=>a22
-Don't get too attached, you probably won't stay here for too long.<end>
-
-=>q23_original
-About that - Tchortists are gonna to take me down to Tchort.<end>
-
-=>q23
-About that - Tchortists are gonna to take me down to Tchort.<end>
-
-=>a24_original
-Hey, Detritus, how's it going?<end>
-
-=>a24
-Hey, Detritus, how's it going?<end>
-
-=>q25_original
-::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::
-
-Hey... Need somethin'?<end>
-
-=>q25
-::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::
-
-Hey... Need somethin'?<end>
-
-=>a26_original
-Hello. I'm $(context.player.Name) and I had some questions, if you have the time.<end>
-
-=>a26
-Hello. I'm $(context.player.Name) and I had some questions, if you have the time.<end>
-
-=>q27_original
-Nice to meet you, $(context.player.Name). I'm Detritus.
-
-I got nothin' better to do anyway. What did you wanna ask?<end>
-
-=>q27
-Nice to meet you, $(context.player.Name). I'm Detritus.
-
-I got nothin' better to do anyway. What did you wanna ask?<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-What can you tell me about yourself?<end>
-
-=>a29
-What can you tell me about yourself?<end>
-
-=>q30_original
-::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!<end>
-
-=>q30
-::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!<end>
-
-=>a31_original
-Was there anything good about the Zone for you?<end>
-
-=>a31
-Was there anything good about the Zone for you?<end>
-
-=>q32_original
-Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
-
-=>q32
-Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
-
-=>q33_original
-All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.<end>
-
-=>q33
-All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.<end>
-
-=>a34_original
-Plague?<end>
-
-=>a34
-Plague?<end>
-
-=>q35_original
-Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.<end>
-
-=>q35
-Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.<end>
-
-=>a36_original
-You are lucky to be alive.<end>
-
-=>a36
-You are lucky to be alive.<end>
-
-=>q37_original
-Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
-
-=>q37
-Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
-
-=>a38_original
-That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?<end>
-
-=>a38
-That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?<end>
-
-=>q39_original
-::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.
-
-Look at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.<end>
-
-=>q39
-::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.
-
-Look at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.<end>
-
-=>q40_original
-::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?<end>
-
-=>q40
-::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?<end>
-
-=>a41_original
-How about we move onto a different subject?<end>
-
-=>a41
-How about we move onto a different subject?<end>
-
-=>q42_original
-::He shrugs.:: Okay.<end>
-
-=>q42
-::He shrugs.:: Okay.<end>
-
-=>a43_original
-How did you manage to survive?<end>
-
-=>a43
-How did you manage to survive?<end>
-
-=>q44_original
-::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
-
-=>q44
-::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
-
-=>a45_original
-That is really sad. How about we change the subject?<end>
-
-=>a45
-That is really sad. How about we change the subject?<end>
-
-=>a46_original
-I understand, no wonder you left.<end>
-
-=>a46
-I understand, no wonder you left.<end>
-
-=>q47_original
-::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
-
-=>q47
-::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
-
-=>a48_original
-Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.<end>
-
-=>a48
-Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.<end>
-
-=>q49_original
-::He seems surprised by your statement.:: Interested? Why?<end>
-
-=>q49
-::He seems surprised by your statement.:: Interested? Why?<end>
-
-=>a50_original
-Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!<end>
-
-=>a50
-Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!<end>
-
-=>q51_original
-I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?<end>
-
-=>q51
-I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?<end>
-
-=>a52_original
-That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?<end>
-
-=>a52
-That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?<end>
-
-=>q53_original
-::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?<end>
-
-=>q53
-::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?<end>
-
-=>a54_original
-They are going to perform simple tests. They won't hurt you, so don't worry.<end>
-
-=>a54
-They are going to perform simple tests. They won't hurt you, so don't worry.<end>
-
-=>q55_original
-Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.<end>
-
-=>q55
-Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.<end>
-
-=>a56_original
-Great, I'll go talk to the Tchortists. Expect someone to come for you soon.<end>
-
-=>a56
-Great, I'll go talk to the Tchortists. Expect someone to come for you soon.<end>
-
-=>a57_original
-I'll go talk to Tchortists, but I had some questions first.<end>
-
-=>a57
-I'll go talk to Tchortists, but I had some questions first.<end>
-
-=>q58_original
-Yes?<end>
-
-=>q58
-Yes?<end>
-
-=>a59_original
-Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.<end>
-
-=>a59
-Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.<end>
-
-=>a60_original
-Why are you here and what do you know about this place?<end>
-
-=>a60
-Why are you here and what do you know about this place?<end>
-
-=>q61_original
-This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.<end>
-
-=>q61
-This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.<end>
-
-=>q62_original
-Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.<end>
-
-=>q62
-Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.<end>
-
-=>q63_original
-For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.<end>
-
-=>q63
-For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.<end>
-
-=>a64_original
-What do you know about Tchortists?<end>
-
-=>a64
-What do you know about Tchortists?<end>
-
-=>q65_original
-Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.<end>
-
-=>q65
-Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.<end>
-
-=>q66_original
-It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!<end>
-
-=>q66
-It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!<end>
-
-=>q67_original
-I definitely prefer that to rottin' in that stinky Drop Zone.<end>
-
-=>q67
-I definitely prefer that to rottin' in that stinky Drop Zone.<end>
-
-=>a68_original
-Who's the derailed geezer outside?<end>
-
-=>a68
-Who's the derailed geezer outside?<end>
-
-=>q69_original
-Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is "what?"... Just that and nothin' else.<end>
-
-=>q69
-Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is "what?"... Just that and nothin' else.<end>
-
-=>q70_original
-He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.<end>
-
-=>q70
-He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.<end>
-
-=>a71_original
-Rassophores?<end>
-
-=>a71
-Rassophores?<end>
-
-=>q72_original
-That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.<end>
-
-=>q72
-That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.<end>
-
-=>q73_original
-Just stay out of their way and you're good.<end>
-
-=>q73
-Just stay out of their way and you're good.<end>
-
-=>a74_original
-I had other questions?<end>
-
-=>a74
-I had other questions?<end>
-
-=>q75_original
-Yes?<end>
-
-=>q75
-Yes?<end>
-
-=>a76_original
-Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
-
-=>a76
-Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
-
-=>q77_original
-I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.<end>
-
-=>q77
-I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.<end>
-
-=>q78_original
-Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.<end>
-
-=>q78
-Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.<end>
-
-=>a79_original
-Goodbye, Detritus.<end>
-
-=>a79
-Goodbye, Detritus.<end>
-
-=>a80_original
-Hey, good looking! I'm $(context.player.Name). Interested in a little chat?<end>
-
-=>a80
-Hey, good looking! I'm $(context.player.Name). Interested in a little chat?<end>
-
-=>q81_original
-I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).
-
-What did you want to chat about?<end>
-
-=>q81
-I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).
-
-What did you want to chat about?<end>
-
-=>a82_original
-::Leave him alone.::<end>
-
-=>a82
-::Leave him alone.::<end>
-
-=>q83_original
-Hello again.<end>
-
-=>q83
-Hello again.<end>
-
+=>q1_original
+So long, $(context.player.Name). I hope we see each other soon.<end>
+
+=>q1
+So long, $(context.player.Name). I hope we see each other soon.<end>
+
+=>q2_original
+::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::<end>
+
+=>q2
+::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::<end>
+
+=>a3_original
+Admiring the hall, I see.<end>
+
+=>a3
+Admiring the hall, I see.<end>
+
+=>q4_original
+::He lowers his eyes to meet yours.::
+
+This. place. *dominates!* I'm speechless.<end>
+
+=>q4
+::He lowers his eyes to meet yours.::
+
+This. place. *dominates!* I'm speechless.<end>
+
+=>a5_original
+It definitely beats Drop Zone, doesn't it?<end>
+
+=>a5
+It definitely beats Drop Zone, doesn't it?<end>
+
+=>q6_original
+::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!<end>
+
+=>q6
+::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!<end>
+
+=>a7_original
+Why? I wasn't told anything about you being taken to Tchort.<end>
+
+=>a7
+Why? I wasn't told anything about you being taken to Tchort.<end>
+
+=>q8_original
+It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!<end>
+
+=>q8
+It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!<end>
+
+=>q9_original
+Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.<end>
+
+=>q9
+Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.<end>
+
+=>q10_original
+This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... 
+
+Luck sure took its time to say hi again. ::He laughs.::<end>
+
+=>q10
+This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... 
+
+Luck sure took its time to say hi again. ::He laughs.::<end>
+
+=>a11_original
+How are they going to get you to Deep Caverns?<end>
+
+=>a11
+How are they going to get you to Deep Caverns?<end>
+
+=>q12_original
+I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?<end>
+
+=>q12
+I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?<end>
+
+=>a13_original
+No reason. Forget I asked you anything.<end>
+
+=>a13
+No reason. Forget I asked you anything.<end>
+
+=>q14_original
+Oh... never mind then. <end>
+
+=>q14
+Oh... never mind then. <end>
+
+=>q15_original
+I have only one more thing to say to you, friend: Thank you. I will never forget this.
+
+I have to go now, I should be off soon. $(context.player.Name), see you around!<end>
+
+=>q15
+I have only one more thing to say to you, friend: Thank you. I will never forget this.
+
+I have to go now, I should be off soon. $(context.player.Name), see you around!<end>
+
+=>a16_original
+Goodbye, Detritus. Take care.<end>
+
+=>a16
+Goodbye, Detritus. Take care.<end>
+
+=>a17_original
+So long.<end>
+
+=>a17
+So long.<end>
+
+=>a18_original
+I'm relatively new here, so I don't know a lot of the stuff yet.<end>
+
+=>a18
+I'm relatively new here, so I don't know a lot of the stuff yet.<end>
+
+=>a19_original
+I'm really happy for you. I think Tchortists will treat you pretty nice here.<end>
+
+=>a19
+I'm really happy for you. I think Tchortists will treat you pretty nice here.<end>
+
+=>a20_original
+Yeah, cool.<end>
+
+=>a20
+Yeah, cool.<end>
+
+=>a21_original
+What now?<end>
+
+=>a21
+What now?<end>
+
+=>a22_original
+Don't get too attached, you probably won't stay here for too long.<end>
+
+=>a22
+Don't get too attached, you probably won't stay here for too long.<end>
+
+=>q23_original
+About that - Tchortists are gonna to take me down to Tchort.<end>
+
+=>q23
+About that - Tchortists are gonna to take me down to Tchort.<end>
+
+=>a24_original
+Hey, Detritus, how's it going?<end>
+
+=>a24
+Hey, Detritus, how's it going?<end>
+
+=>q25_original
+::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::
+
+Hey... Need somethin'?<end>
+
+=>q25
+::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::
+
+Hey... Need somethin'?<end>
+
+=>a26_original
+Hello. I'm $(context.player.Name) and I had some questions, if you have the time.<end>
+
+=>a26
+Hello. I'm $(context.player.Name) and I had some questions, if you have the time.<end>
+
+=>q27_original
+Nice to meet you, $(context.player.Name). I'm Detritus.
+
+I got nothin' better to do anyway. What did you wanna ask?<end>
+
+=>q27
+Nice to meet you, $(context.player.Name). I'm Detritus.
+
+I got nothin' better to do anyway. What did you wanna ask?<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+What can you tell me about yourself?<end>
+
+=>a29
+What can you tell me about yourself?<end>
+
+=>q30_original
+::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!<end>
+
+=>q30
+::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!<end>
+
+=>a31_original
+Was there anything good about the Zone for you?<end>
+
+=>a31
+Was there anything good about the Zone for you?<end>
+
+=>q32_original
+Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>q32
+Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>q33_original
+All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.<end>
+
+=>q33
+All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.<end>
+
+=>a34_original
+Plague?<end>
+
+=>a34
+Plague?<end>
+
+=>q35_original
+Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.<end>
+
+=>q35
+Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.<end>
+
+=>a36_original
+You are lucky to be alive.<end>
+
+=>a36
+You are lucky to be alive.<end>
+
+=>q37_original
+Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>q37
+Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>a38_original
+That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?<end>
+
+=>a38
+That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?<end>
+
+=>q39_original
+::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.
+
+Look at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.<end>
+
+=>q39
+::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.
+
+Look at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.<end>
+
+=>q40_original
+::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?<end>
+
+=>q40
+::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?<end>
+
+=>a41_original
+How about we move onto a different subject?<end>
+
+=>a41
+How about we move onto a different subject?<end>
+
+=>q42_original
+::He shrugs.:: Okay.<end>
+
+=>q42
+::He shrugs.:: Okay.<end>
+
+=>a43_original
+How did you manage to survive?<end>
+
+=>a43
+How did you manage to survive?<end>
+
+=>q44_original
+::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>q44
+::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>a45_original
+That is really sad. How about we change the subject?<end>
+
+=>a45
+That is really sad. How about we change the subject?<end>
+
+=>a46_original
+I understand, no wonder you left.<end>
+
+=>a46
+I understand, no wonder you left.<end>
+
+=>q47_original
+::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>q47
+::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>a48_original
+Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.<end>
+
+=>a48
+Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.<end>
+
+=>q49_original
+::He seems surprised by your statement.:: Interested? Why?<end>
+
+=>q49
+::He seems surprised by your statement.:: Interested? Why?<end>
+
+=>a50_original
+Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!<end>
+
+=>a50
+Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!<end>
+
+=>q51_original
+I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?<end>
+
+=>q51
+I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?<end>
+
+=>a52_original
+That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?<end>
+
+=>a52
+That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?<end>
+
+=>q53_original
+::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?<end>
+
+=>q53
+::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?<end>
+
+=>a54_original
+They are going to perform simple tests. They won't hurt you, so don't worry.<end>
+
+=>a54
+They are going to perform simple tests. They won't hurt you, so don't worry.<end>
+
+=>q55_original
+Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.<end>
+
+=>q55
+Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.<end>
+
+=>a56_original
+Great, I'll go talk to the Tchortists. Expect someone to come for you soon.<end>
+
+=>a56
+Great, I'll go talk to the Tchortists. Expect someone to come for you soon.<end>
+
+=>a57_original
+I'll go talk to Tchortists, but I had some questions first.<end>
+
+=>a57
+I'll go talk to Tchortists, but I had some questions first.<end>
+
+=>q58_original
+Yes?<end>
+
+=>q58
+Yes?<end>
+
+=>a59_original
+Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.<end>
+
+=>a59
+Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.<end>
+
+=>a60_original
+Why are you here and what do you know about this place?<end>
+
+=>a60
+Why are you here and what do you know about this place?<end>
+
+=>q61_original
+This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.<end>
+
+=>q61
+This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.<end>
+
+=>q62_original
+Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.<end>
+
+=>q62
+Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.<end>
+
+=>q63_original
+For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.<end>
+
+=>q63
+For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.<end>
+
+=>a64_original
+What do you know about Tchortists?<end>
+
+=>a64
+What do you know about Tchortists?<end>
+
+=>q65_original
+Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.<end>
+
+=>q65
+Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.<end>
+
+=>q66_original
+It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!<end>
+
+=>q66
+It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!<end>
+
+=>q67_original
+I definitely prefer that to rottin' in that stinky Drop Zone.<end>
+
+=>q67
+I definitely prefer that to rottin' in that stinky Drop Zone.<end>
+
+=>a68_original
+Who's the derailed geezer outside?<end>
+
+=>a68
+Who's the derailed geezer outside?<end>
+
+=>q69_original
+Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is "what?"... Just that and nothin' else.<end>
+
+=>q69
+Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is "what?"... Just that and nothin' else.<end>
+
+=>q70_original
+He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.<end>
+
+=>q70
+He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.<end>
+
+=>a71_original
+Rassophores?<end>
+
+=>a71
+Rassophores?<end>
+
+=>q72_original
+That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.<end>
+
+=>q72
+That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.<end>
+
+=>q73_original
+Just stay out of their way and you're good.<end>
+
+=>q73
+Just stay out of their way and you're good.<end>
+
+=>a74_original
+I had other questions?<end>
+
+=>a74
+I had other questions?<end>
+
+=>q75_original
+Yes?<end>
+
+=>q75
+Yes?<end>
+
+=>a76_original
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>a76
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>q77_original
+I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.<end>
+
+=>q77
+I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.<end>
+
+=>q78_original
+Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.<end>
+
+=>q78
+Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.<end>
+
+=>a79_original
+Goodbye, Detritus.<end>
+
+=>a79
+Goodbye, Detritus.<end>
+
+=>a80_original
+Hey, good looking! I'm $(context.player.Name). Interested in a little chat?<end>
+
+=>a80
+Hey, good looking! I'm $(context.player.Name). Interested in a little chat?<end>
+
+=>q81_original
+I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).
+
+What did you want to chat about?<end>
+
+=>q81
+I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).
+
+What did you want to chat about?<end>
+
+=>a82_original
+::Leave him alone.::<end>
+
+=>a82
+::Leave him alone.::<end>
+
+=>q83_original
+Hello again.<end>
+
+=>q83
+Hello again.<end>
+

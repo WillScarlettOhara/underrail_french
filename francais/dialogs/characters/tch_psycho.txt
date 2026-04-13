@@ -1,42 +1,42 @@
-=>q1_original
-::The creature is motionless and doesn't react to your presence in any way.::<end>
-
-=>q1
-::The creature is motionless and doesn't react to your presence in any way.::<end>
-
-=>a2_original
-::Leave.::<end>
-
-=>a2
-::Leave.::<end>
-
-=>q3_original
-::The creature seems knocked out for the time being. Now that you have a chance to take a closer look can you truly admire its impressive size. However, it appears that its rough, scarred carapace reveals more than you had expected. This creature is one of extreme age - how old exactly, you are unsure. Miniature landscapes adorn the beetle's back; every scar, scratch or defect on it illustrates a separate story of this being's long past. But time to study it you do not have, however, as the creature could regain consciousness at any moment.::<end>
-
-=>q3
-::The creature seems knocked out for the time being. Now that you have a chance to take a closer look can you truly admire its impressive size. However, it appears that its rough, scarred carapace reveals more than you had expected. This creature is one of extreme age - how old exactly, you are unsure. Miniature landscapes adorn the beetle's back; every scar, scratch or defect on it illustrates a separate story of this being's long past. But time to study it you do not have, however, as the creature could regain consciousness at any moment.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::Use the neural pacifier on the creature.::<end>
-
-=>a5
-::Use the neural pacifier on the creature.::<end>
-
-=>q6_original
-::You perform the procedure as you were instructed: You position the device so that the markers match the carapace opening line of the beetle's head and press the activation button on the neural pacifier. As soon as you do so, you hear the device activating and, after a brief delay, the faint sound of the carapace cracking reaches your ear. You expected some reaction from the creature, twitching or some other motion as a consequence of this probably painful intrusion - but the beetle remains static. Soon, everything quiets down.::<end>
-
-=>q6
-::You perform the procedure as you were instructed: You position the device so that the markers match the carapace opening line of the beetle's head and press the activation button on the neural pacifier. As soon as you do so, you hear the device activating and, after a brief delay, the faint sound of the carapace cracking reaches your ear. You expected some reaction from the creature, twitching or some other motion as a consequence of this probably painful intrusion - but the beetle remains static. Soon, everything quiets down.::<end>
-
-=>q7_original
-::The creature ignores your presence.::<end>
-
-=>q7
-::The creature ignores your presence.::<end>
-
+=>q1_original
+::The creature is motionless and doesn't react to your presence in any way.::<end>
+
+=>q1
+::The creature is motionless and doesn't react to your presence in any way.::<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::The creature seems knocked out for the time being. Now that you have a chance to take a closer look can you truly admire its impressive size. However, it appears that its rough, scarred carapace reveals more than you had expected. This creature is one of extreme age - how old exactly, you are unsure. Miniature landscapes adorn the beetle's back; every scar, scratch or defect on it illustrates a separate story of this being's long past. But time to study it you do not have, however, as the creature could regain consciousness at any moment.::<end>
+
+=>q3
+::The creature seems knocked out for the time being. Now that you have a chance to take a closer look can you truly admire its impressive size. However, it appears that its rough, scarred carapace reveals more than you had expected. This creature is one of extreme age - how old exactly, you are unsure. Miniature landscapes adorn the beetle's back; every scar, scratch or defect on it illustrates a separate story of this being's long past. But time to study it you do not have, however, as the creature could regain consciousness at any moment.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Use the neural pacifier on the creature.::<end>
+
+=>a5
+::Use the neural pacifier on the creature.::<end>
+
+=>q6_original
+::You perform the procedure as you were instructed: You position the device so that the markers match the carapace opening line of the beetle's head and press the activation button on the neural pacifier. As soon as you do so, you hear the device activating and, after a brief delay, the faint sound of the carapace cracking reaches your ear. You expected some reaction from the creature, twitching or some other motion as a consequence of this probably painful intrusion - but the beetle remains static. Soon, everything quiets down.::<end>
+
+=>q6
+::You perform the procedure as you were instructed: You position the device so that the markers match the carapace opening line of the beetle's head and press the activation button on the neural pacifier. As soon as you do so, you hear the device activating and, after a brief delay, the faint sound of the carapace cracking reaches your ear. You expected some reaction from the creature, twitching or some other motion as a consequence of this probably painful intrusion - but the beetle remains static. Soon, everything quiets down.::<end>
+
+=>q7_original
+::The creature ignores your presence.::<end>
+
+=>q7
+::The creature ignores your presence.::<end>
+

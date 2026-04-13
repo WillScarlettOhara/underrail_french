@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Luckily there were no fatalities in the earthquake.<end>
-
-=>q2
-Luckily there were no fatalities in the earthquake.<end>
-
-=>q3_original
-A falling rock smashed his shoulder during the earthquake. If it hit just a few inches to the side, it would have killed him instantly.<end>
-
-=>q3
-A falling rock smashed his shoulder during the earthquake. If it hit just a few inches to the side, it would have killed him instantly.<end>
-
-=>q4_original
-Shh... let him rest.<end>
-
-=>q4
-Shh... let him rest.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Luckily there were no fatalities in the earthquake.<end>
+
+=>q2
+Luckily there were no fatalities in the earthquake.<end>
+
+=>q3_original
+A falling rock smashed his shoulder during the earthquake. If it hit just a few inches to the side, it would have killed him instantly.<end>
+
+=>q3
+A falling rock smashed his shoulder during the earthquake. If it hit just a few inches to the side, it would have killed him instantly.<end>
+
+=>q4_original
+Shh... let him rest.<end>
+
+=>q4
+Shh... let him rest.<end>
+

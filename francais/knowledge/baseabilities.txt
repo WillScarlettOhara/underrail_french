@@ -1,49 +1,49 @@
 ::BaseAbilityScores
-Base Ability Scores
+Caractéristiques de base
 
 ::HeavyWeapons_Full
-sniper and assault rifles, grenade launchers, LMGs, miniguns, rocket launchers, sledgehammers and spears
+fusils de sniper et d'assaut, lance-grenades, mitrailleuses légères, miniguns, lance-roquettes, marteaux et lances
 
 ::HeavyWeapons_HeavyDuty
-sniper and assault rifles, grenade launchers, LMGs, miniguns, rocket launchers, and sledgehammers
+fusils de sniper et d'assaut, lance-grenades, mitrailleuses légères, miniguns, lance-roquettes et marteaux
 
 ::HeavyWeapons_Expedition
-sniper and assault rifles, sledgehammers and spears
+fusils de sniper et d'assaut, marteaux et lances
 
 ::HeavyWeapons_Base
-sniper and assault rifles and sledgehammers
+fusils de sniper et d'assaut et marteaux
 
 ::GeneralInfo
-Base ability scores represent character's core potential. These scores are set at the creation time, but can be evolved later to a certain degree. They affect many things in the game, such as skill levels, and are often found as requirements for feats, studies and psi abilities.
+Les caractéristiques de base représentent le potentiel fondamental du personnage. Ces valeurs sont définies lors de la création, mais peuvent évoluer par la suite dans une certaine mesure. Elles affectent de nombreux aspects du jeu, tels que les niveaux de compétence, et sont souvent requises pour les talents, les études et les capacités psi.
 
 ::Strength
-Strength measures character's muscle power. It affects melee damage and carry capacity. It's also important for characters who intend to use heavier weapons (such as {0}).
+La Force mesure la puissance musculaire du personnage. Elle affecte les dégâts de mêlée et la capacité de transport. Elle est également importante pour les personnages qui comptent utiliser des armes plus lourdes (telles que {0}).
 
 ::Dexterity
-Dexterity measures character's reflexes, hand-eye coordination and finger nimbleness. It affects many things, such as operating locks, thievery, throwing and initiative.
+La Dextérité mesure les réflexes, la coordination œil-main et l'agilité des doigts du personnage. Elle affecte de nombreuses choses, telles que le crochetage, le vol, le lancer et l'initiative.
 
-It increases critical strike chance of melee attacks. High dexterity also reduces action point cost of unarmed and light weapons (pistols, SMGs, knives, throwing knives and fist weapons).
+Elle augmente les chances de coup critique des attaques de mêlée. Une dextérité élevée réduit également le coût en points d'action des attaques à mains nues et des armes légères (pistolets, pistolets mitrailleurs, couteaux, couteaux de lancer et armes de poing).
 
 ::Agility
-Agility represents character's reflexes, fleet-footedness, as well as affinity towards other athletic and acrobatic activities. Among other things it affects dodge, evasion, initiative and movement points. It also allows the character to move more quietly, increasing the stealth performance.
+L'Agilité représente les réflexes, la vivacité et l'affinité du personnage pour les activités athlétiques et acrobatiques. Elle affecte notamment l'esquive, l'évasion, l'initiative et les points de mouvement. Elle permet également au personnage de se déplacer plus silencieusement, améliorant les performances en furtivité.
 
 ::Constitution
-Constitution represents the health and general stamina of your character. It is important for all types of characters, but especially for those who plan on making the armor suit their main defense. It also helps prevent or lessen the effects of poisons and diseases.
+La Constitution représente la santé et l'endurance générale de votre personnage. Elle est importante pour tous les types de personnages, mais surtout pour ceux qui prévoient de faire de l'armure leur défense principale. Elle aide également à prévenir ou à atténuer les effets des poisons et des maladies.
 
 ::Perception
-Perception represents character's ability to discern objects from far away as well as to notice hidden things in their vicinity. It helps the character to use ranged weapons more effectively, as well as detect hidden objects, passages and creatures.
+La Perception représente la capacité du personnage à discerner les objets au loin et à remarquer les choses cachées dans son environnement. Elle aide le personnage à utiliser les armes à distance plus efficacement, ainsi qu'à détecter les objets, passages et créatures cachés.
 
 ::Will
-Will measures character's mental determination to see to his actions regardless of various mental difficulties, such as pain, suggestion and overwhelming odds, as well as to force his will onto others and the environment.
+La Volonté mesure la détermination mentale du personnage à poursuivre ses actions malgré diverses difficultés mentales, telles que la douleur, la suggestion et des chances insurmontables, ainsi qu'à imposer sa volonté aux autres et à l'environnement.
 
-It heavily affects all psi disciplines as well as psi point regeneration.
+Elle affecte fortement toutes les disciplines psi ainsi que la régénération des points psi.
 
 ::Will2
-Will measures character's mental determination to see to his actions regardless of various mental difficulties, such as pain, suggestion and overwhelming odds, as well as to force his will onto others and the environment.
+La Volonté mesure la détermination mentale du personnage à poursuivre ses actions malgré diverses difficultés mentales, telles que la douleur, la suggestion et des chances insurmontables, ainsi qu'à imposer sa volonté aux autres et à l'environnement.
 
-It heavily affects the potency of all psi disciplines, as well as psi point regeneration.
+Elle affecte fortement la puissance de toutes les disciplines psi, ainsi que la régénération des points psi.
 
 ::Intelligence
-Intelligence determines how well the character learns and reasons. Characters with higher intelligence gain levels more quickly. It is an especially important stat for a character that focuses on science as all disciplines are dependent on it.
+L'Intelligence détermine la capacité du personnage à apprendre et à raisonner. Les personnages avec une intelligence plus élevée montent de niveau plus rapidement. C'est une caractéristique particulièrement importante pour un personnage axé sur la science, car toutes les disciplines en dépendent.
 
-It also determines the number of different psi abilities that can be invoked during combat and affects psi point regeneration.
+Elle détermine également le nombre de capacités psi différentes pouvant être invoquées en combat et affecte la régénération des points psi.

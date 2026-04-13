@@ -1,42 +1,42 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-You're not supposed to be here, $(context.player.Name).<end>
-
-=>q2
-You're not supposed to be here, $(context.player.Name).<end>
-
-=>q3_original
-Please leave.<end>
-
-=>q3
-Please leave.<end>
-
-=>q4_original
-Hey, what are you doing here?<end>
-
-=>q4
-Hey, what are you doing here?<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>q6_original
-Not now.<end>
-
-=>q6
-Not now.<end>
-
-=>q7_original
-Can't talk now, $(context.player.Name).<end>
-
-=>q7
-Can't talk now, $(context.player.Name).<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You're not supposed to be here, $(context.player.Name).<end>
+
+=>q2
+You're not supposed to be here, $(context.player.Name).<end>
+
+=>q3_original
+Please leave.<end>
+
+=>q3
+Please leave.<end>
+
+=>q4_original
+Hey, what are you doing here?<end>
+
+=>q4
+Hey, what are you doing here?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Not now.<end>
+
+=>q6
+Not now.<end>
+
+=>q7_original
+Can't talk now, $(context.player.Name).<end>
+
+=>q7
+Can't talk now, $(context.player.Name).<end>
+

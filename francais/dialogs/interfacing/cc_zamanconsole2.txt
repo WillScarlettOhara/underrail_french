@@ -1,82 +1,82 @@
-=>q1_original
-::APB console - Biocorp Core Electronics
-Firmware version - 1.23
-Searching for newer version...
-
-Error 35: No Connection
-Skipping update::<end>
-
-=>q1
-::APB console - Biocorp Core Electronics
-Firmware version - 1.23
-Searching for newer version...
-
-Error 35: No Connection
-Skipping update::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Activate electroshock defence system::<end>
-
-=>a3
-::Activate electroshock defence system::<end>
-
-=>q4_original
-::Activating...
-
-Activation failed
-Unknown error::<end>
-
-=>q4
-::Activating...
-
-Activation failed
-Unknown error::<end>
-
-=>a5_original
-::Back::<end>
-
-=>a5
-::Back::<end>
-
-=>a6_original
-::Activate Main Gate release::<end>
-
-=>a6
-::Activate Main Gate release::<end>
-
-=>q7_original
-::Activating Main Gate release...
-
-Operation successful
-::<end>
-
-=>q7
-::Activating Main Gate release...
-
-Operation successful
-::<end>
-
-=>a8_original
-::Back::<end>
-
-=>a8
-::Back::<end>
-
-=>a9_original
-::Exit::<end>
-
-=>a9
-::Exit::<end>
-
-=>a10_original
-::Exit::<end>
-
-=>a10
-::Exit::<end>
-
+=>q1_original
+::APB console - Biocorp Core Electronics
+Firmware version - 1.23
+Searching for newer version...
+
+Error 35: No Connection
+Skipping update::<end>
+
+=>q1
+::APB console - Biocorp Core Electronics
+Firmware version - 1.23
+Searching for newer version...
+
+Error 35: No Connection
+Skipping update::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Activate electroshock defence system::<end>
+
+=>a3
+::Activate electroshock defence system::<end>
+
+=>q4_original
+::Activating...
+
+Activation failed
+Unknown error::<end>
+
+=>q4
+::Activating...
+
+Activation failed
+Unknown error::<end>
+
+=>a5_original
+::Back::<end>
+
+=>a5
+::Back::<end>
+
+=>a6_original
+::Activate Main Gate release::<end>
+
+=>a6
+::Activate Main Gate release::<end>
+
+=>q7_original
+::Activating Main Gate release...
+
+Operation successful
+::<end>
+
+=>q7
+::Activating Main Gate release...
+
+Operation successful
+::<end>
+
+=>a8_original
+::Back::<end>
+
+=>a8
+::Back::<end>
+
+=>a9_original
+::Exit::<end>
+
+=>a9
+::Exit::<end>
+
+=>a10_original
+::Exit::<end>
+
+=>a10
+::Exit::<end>
+

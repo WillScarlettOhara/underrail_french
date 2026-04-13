@@ -1,24 +1,24 @@
-=>q1_original
-I'll be staying here a while longer.<end>
-
-=>q1
-I'll be staying here a while longer.<end>
-
-=>q2_original
-They're expecting you inside.<end>
-
-=>q2
-They're expecting you inside.<end>
-
-=>q3_original
-Sorry, $(context.player.Name). No one else is allowed inside for now.<end>
-
-=>q3
-Sorry, $(context.player.Name). No one else is allowed inside for now.<end>
-
-=>q4_original
-::He nods.:: $(context.player.Name).<end>
-
-=>q4
-::He nods.:: $(context.player.Name).<end>
-
+=>q1_original
+I'll be staying here a while longer.<end>
+
+=>q1
+I'll be staying here a while longer.<end>
+
+=>q2_original
+They're expecting you inside.<end>
+
+=>q2
+They're expecting you inside.<end>
+
+=>q3_original
+Sorry, $(context.player.Name). No one else is allowed inside for now.<end>
+
+=>q3
+Sorry, $(context.player.Name). No one else is allowed inside for now.<end>
+
+=>q4_original
+::He nods.:: $(context.player.Name).<end>
+
+=>q4
+::He nods.:: $(context.player.Name).<end>
+

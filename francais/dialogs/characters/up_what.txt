@@ -1,102 +1,102 @@
-=>q1_original
-::The filthy and foul-smelling old man gives you a wicked stare akin to a serpent's - but one with a slight mental retardation. Afterwards, he opens his mouth so wide it makes him look like he is just about to vomit. He doesn't, thankfully, but he still holds the expression, saying nothing at any point during his peculiar introduction.::<end>
-
-=>q1
-::The filthy and foul-smelling old man gives you a wicked stare akin to a serpent's - but one with a slight mental retardation. Afterwards, he opens his mouth so wide it makes him look like he is just about to vomit. He doesn't, thankfully, but he still holds the expression, saying nothing at any point during his peculiar introduction.::<end>
-
-=>a2_original
-Hi, I'm $(context.player.Name). Who are you?<end>
-
-=>a2
-Hi, I'm $(context.player.Name). Who are you?<end>
-
-=>q3_original
-::He yells loudly.:: WHAT!?<end>
-
-=>q3
-::He yells loudly.:: WHAT!?<end>
-
-=>a4_original
-Let me repeat that... Hi, I'm $(context.player.Name). Who are you?<end>
-
-=>a4
-Let me repeat that... Hi, I'm $(context.player.Name). Who are you?<end>
-
-=>q5_original
-WHAT!?<end>
-
-=>q5
-WHAT!?<end>
-
-=>a6_original
-Um... can you understand what I'm saying?<end>
-
-=>a6
-Um... can you understand what I'm saying?<end>
-
-=>q7_original
-WHAT!?<end>
-
-=>q7
-WHAT!?<end>
-
-=>a8_original
-I give up... Goodbye.<end>
-
-=>a8
-I give up... Goodbye.<end>
-
-=>q9_original
-WHAT!?<end>
-
-=>q9
-WHAT!?<end>
-
-=>a10_original
-So long, you derailed idiot.<end>
-
-=>a10
-So long, you derailed idiot.<end>
-
-=>a11_original
-What the hell is wrong with you?<end>
-
-=>a11
-What the hell is wrong with you?<end>
-
-=>a12_original
-Are you deaf? Mentally retarded? What's wrong with you?<end>
-
-=>a12
-Are you deaf? Mentally retarded? What's wrong with you?<end>
-
-=>a13_original
-::Leave.::<end>
-
-=>a13
-::Leave.::<end>
-
-=>a14_original
-Um... are you okay?<end>
-
-=>a14
-Um... are you okay?<end>
-
-=>q15_original
-::He yells loudly.:: WHAT!?<end>
-
-=>q15
-::He yells loudly.:: WHAT!?<end>
-
-=>a16_original
-I asked if you were okay?<end>
-
-=>a16
-I asked if you were okay?<end>
-
-=>q17_original
-WHAT!?<end>
-
-=>q17
-WHAT!?<end>
-
+=>q1_original
+::The filthy and foul-smelling old man gives you a wicked stare akin to a serpent's - but one with a slight mental retardation. Afterwards, he opens his mouth so wide it makes him look like he is just about to vomit. He doesn't, thankfully, but he still holds the expression, saying nothing at any point during his peculiar introduction.::<end>
+
+=>q1
+::The filthy and foul-smelling old man gives you a wicked stare akin to a serpent's - but one with a slight mental retardation. Afterwards, he opens his mouth so wide it makes him look like he is just about to vomit. He doesn't, thankfully, but he still holds the expression, saying nothing at any point during his peculiar introduction.::<end>
+
+=>a2_original
+Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>a2
+Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>q3_original
+::He yells loudly.:: WHAT!?<end>
+
+=>q3
+::He yells loudly.:: WHAT!?<end>
+
+=>a4_original
+Let me repeat that... Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>a4
+Let me repeat that... Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>q5_original
+WHAT!?<end>
+
+=>q5
+WHAT!?<end>
+
+=>a6_original
+Um... can you understand what I'm saying?<end>
+
+=>a6
+Um... can you understand what I'm saying?<end>
+
+=>q7_original
+WHAT!?<end>
+
+=>q7
+WHAT!?<end>
+
+=>a8_original
+I give up... Goodbye.<end>
+
+=>a8
+I give up... Goodbye.<end>
+
+=>q9_original
+WHAT!?<end>
+
+=>q9
+WHAT!?<end>
+
+=>a10_original
+So long, you derailed idiot.<end>
+
+=>a10
+So long, you derailed idiot.<end>
+
+=>a11_original
+What the hell is wrong with you?<end>
+
+=>a11
+What the hell is wrong with you?<end>
+
+=>a12_original
+Are you deaf? Mentally retarded? What's wrong with you?<end>
+
+=>a12
+Are you deaf? Mentally retarded? What's wrong with you?<end>
+
+=>a13_original
+::Leave.::<end>
+
+=>a13
+::Leave.::<end>
+
+=>a14_original
+Um... are you okay?<end>
+
+=>a14
+Um... are you okay?<end>
+
+=>q15_original
+::He yells loudly.:: WHAT!?<end>
+
+=>q15
+::He yells loudly.:: WHAT!?<end>
+
+=>a16_original
+I asked if you were okay?<end>
+
+=>a16
+I asked if you were okay?<end>
+
+=>q17_original
+WHAT!?<end>
+
+=>q17
+WHAT!?<end>
+

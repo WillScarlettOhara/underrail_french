@@ -1,54 +1,54 @@
-=>q1_original
-Hide!<end>
-
-=>q1
-Hide!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Theo is a life sustainer! Tchort guide him!<end>
-
-=>q3
-Theo is a life sustainer! Tchort guide him!<end>
-
-=>q4_original
-Hey, novitiate.<end>
-
-=>q4
-Hey, novitiate.<end>
-
-=>q5_original
-I ate so much I can't move!<end>
-
-=>q5
-I ate so much I can't move!<end>
-
-=>q6_original
-Aah, symposium of the hungry has just ended!<end>
-
-=>q6
-Aah, symposium of the hungry has just ended!<end>
-
-=>q7_original
-$(context.player.Name), what brings you here? Er... it's probably hunger. Stupid question...<end>
-
-=>q7
-$(context.player.Name), what brings you here? Er... it's probably hunger. Stupid question...<end>
-
-=>q8_original
-That meal was so apex!<end>
-
-=>q8
-That meal was so apex!<end>
-
-=>q9_original
-Remember: First meal of the day is the most important one.<end>
-
-=>q9
-Remember: First meal of the day is the most important one.<end>
-
+=>q1_original
+Hide!<end>
+
+=>q1
+Hide!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Theo is a life sustainer! Tchort guide him!<end>
+
+=>q3
+Theo is a life sustainer! Tchort guide him!<end>
+
+=>q4_original
+Hey, novitiate.<end>
+
+=>q4
+Hey, novitiate.<end>
+
+=>q5_original
+I ate so much I can't move!<end>
+
+=>q5
+I ate so much I can't move!<end>
+
+=>q6_original
+Aah, symposium of the hungry has just ended!<end>
+
+=>q6
+Aah, symposium of the hungry has just ended!<end>
+
+=>q7_original
+$(context.player.Name), what brings you here? Er... it's probably hunger. Stupid question...<end>
+
+=>q7
+$(context.player.Name), what brings you here? Er... it's probably hunger. Stupid question...<end>
+
+=>q8_original
+That meal was so apex!<end>
+
+=>q8
+That meal was so apex!<end>
+
+=>q9_original
+Remember: First meal of the day is the most important one.<end>
+
+=>q9
+Remember: First meal of the day is the most important one.<end>
+

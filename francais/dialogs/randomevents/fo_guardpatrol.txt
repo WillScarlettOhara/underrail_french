@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-All fear the sentinel.<end>
-
-=>q2
-All fear the sentinel.<end>
-
-=>q3_original
-Greetings, $(context.player.Name). ::Coughs.::<end>
-
-=>q3
-Greetings, $(context.player.Name). ::Coughs.::<end>
-
-=>q4_original
-Yes? ::Coughs.::<end>
-
-=>q4
-Yes? ::Coughs.::<end>
-
-=>q5_original
-We are always on the lookout for Ironhead ambushes.<end>
-
-=>q5
-We are always on the lookout for Ironhead ambushes.<end>
-
-=>q6_original
-Foundry's back to delivering the goods. ::Coughs.::<end>
-
-=>q6
-Foundry's back to delivering the goods. ::Coughs.::<end>
-
-=>q7_original
-The Beast will bother us no more.<end>
-
-=>q7
-The Beast will bother us no more.<end>
-
-=>q8_original
-Seen any Faceless approaching?<end>
-
-=>q8
-Seen any Faceless approaching?<end>
-
-=>q9_original
-We haven't encountered any Ironheads since Balor's death.<end>
-
-=>q9
-We haven't encountered any Ironheads since Balor's death.<end>
-
-=>q10_original
-Bloody Ironheads. They can burn in hell. ::Coughs.::<end>
-
-=>q10
-Bloody Ironheads. They can burn in hell. ::Coughs.::<end>
-
-=>q11_original
-We're heading out to the railway. ::Coughs.::<end>
-
-=>q11
-We're heading out to the railway. ::Coughs.::<end>
-
-=>q12_original
-We're ready for the invaders. Thanks for the warning.<end>
-
-=>q12
-We're ready for the invaders. Thanks for the warning.<end>
-
-=>q13_original
-Did you hear the good news? The Faceless lifted the blockade. ::Coughs.::<end>
-
-=>q13
-Did you hear the good news? The Faceless lifted the blockade. ::Coughs.::<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+All fear the sentinel.<end>
+
+=>q2
+All fear the sentinel.<end>
+
+=>q3_original
+Greetings, $(context.player.Name). ::Coughs.::<end>
+
+=>q3
+Greetings, $(context.player.Name). ::Coughs.::<end>
+
+=>q4_original
+Yes? ::Coughs.::<end>
+
+=>q4
+Yes? ::Coughs.::<end>
+
+=>q5_original
+We are always on the lookout for Ironhead ambushes.<end>
+
+=>q5
+We are always on the lookout for Ironhead ambushes.<end>
+
+=>q6_original
+Foundry's back to delivering the goods. ::Coughs.::<end>
+
+=>q6
+Foundry's back to delivering the goods. ::Coughs.::<end>
+
+=>q7_original
+The Beast will bother us no more.<end>
+
+=>q7
+The Beast will bother us no more.<end>
+
+=>q8_original
+Seen any Faceless approaching?<end>
+
+=>q8
+Seen any Faceless approaching?<end>
+
+=>q9_original
+We haven't encountered any Ironheads since Balor's death.<end>
+
+=>q9
+We haven't encountered any Ironheads since Balor's death.<end>
+
+=>q10_original
+Bloody Ironheads. They can burn in hell. ::Coughs.::<end>
+
+=>q10
+Bloody Ironheads. They can burn in hell. ::Coughs.::<end>
+
+=>q11_original
+We're heading out to the railway. ::Coughs.::<end>
+
+=>q11
+We're heading out to the railway. ::Coughs.::<end>
+
+=>q12_original
+We're ready for the invaders. Thanks for the warning.<end>
+
+=>q12
+We're ready for the invaders. Thanks for the warning.<end>
+
+=>q13_original
+Did you hear the good news? The Faceless lifted the blockade. ::Coughs.::<end>
+
+=>q13
+Did you hear the good news? The Faceless lifted the blockade. ::Coughs.::<end>
+

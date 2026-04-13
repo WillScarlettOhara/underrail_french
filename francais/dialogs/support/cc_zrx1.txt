@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Be very quiet.<end>
-
-=>q2
-Be very quiet.<end>
-
-=>q3_original
-I don't think anyone noticed us yet. Let's keep it that way.<end>
-
-=>q3
-I don't think anyone noticed us yet. Let's keep it that way.<end>
-
-=>q4_original
-Zone Rats yo.<end>
-
-=>q4
-Zone Rats yo.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Be very quiet.<end>
+
+=>q2
+Be very quiet.<end>
+
+=>q3_original
+I don't think anyone noticed us yet. Let's keep it that way.<end>
+
+=>q3
+I don't think anyone noticed us yet. Let's keep it that way.<end>
+
+=>q4_original
+Zone Rats yo.<end>
+
+=>q4
+Zone Rats yo.<end>
+

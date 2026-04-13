@@ -1,30 +1,30 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Check out the traders. They might have something you want.<end>
-
-=>q2
-Check out the traders. They might have something you want.<end>
-
-=>q3_original
-These merchants are under protection of Black Eels.<end>
-
-=>q3
-These merchants are under protection of Black Eels.<end>
-
-=>q4_original
-Behave yourself and there will be no trouble.<end>
-
-=>q4
-Behave yourself and there will be no trouble.<end>
-
-=>q5_original
-Scrappers may be out of commission, but our market is still open.<end>
-
-=>q5
-Scrappers may be out of commission, but our market is still open.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Check out the traders. They might have something you want.<end>
+
+=>q2
+Check out the traders. They might have something you want.<end>
+
+=>q3_original
+These merchants are under protection of Black Eels.<end>
+
+=>q3
+These merchants are under protection of Black Eels.<end>
+
+=>q4_original
+Behave yourself and there will be no trouble.<end>
+
+=>q4
+Behave yourself and there will be no trouble.<end>
+
+=>q5_original
+Scrappers may be out of commission, but our market is still open.<end>
+
+=>q5
+Scrappers may be out of commission, but our market is still open.<end>
+

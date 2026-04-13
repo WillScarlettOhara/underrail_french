@@ -1,60 +1,60 @@
-=>q1_original
-We must protect this institution!<end>
-
-=>q1
-We must protect this institution!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Novitiate?<end>
-
-=>q3
-Novitiate?<end>
-
-=>q4_original
-I just came here to admire the coils.<end>
-
-=>q4
-I just came here to admire the coils.<end>
-
-=>q5_original
-I better get going; I'll be late for my lecture.<end>
-
-=>q5
-I better get going; I'll be late for my lecture.<end>
-
-=>q6_original
-The coils... magnificent...<end>
-
-=>q6
-The coils... magnificent...<end>
-
-=>q7_original
-Tchort is evolution, $(#brother/sister).<end>
-
-=>q7
-Tchort is evolution, $(#brother/sister).<end>
-
-=>q8_original
-How are you liking the Institute, $(#brother/sister)? New discoveries every step of the way...<end>
-
-=>q8
-How are you liking the Institute, $(#brother/sister)? New discoveries every step of the way...<end>
-
-=>q9_original
-I'll have to ask PI Schteff to bring us a pair of these coils in the propagation halls.<end>
-
-=>q9
-I'll have to ask PI Schteff to bring us a pair of these coils in the propagation halls.<end>
-
-=>q10_original
-This is so mesmerizing...<end>
-
-=>q10
-This is so mesmerizing...<end>
-
+=>q1_original
+We must protect this institution!<end>
+
+=>q1
+We must protect this institution!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Novitiate?<end>
+
+=>q3
+Novitiate?<end>
+
+=>q4_original
+I just came here to admire the coils.<end>
+
+=>q4
+I just came here to admire the coils.<end>
+
+=>q5_original
+I better get going; I'll be late for my lecture.<end>
+
+=>q5
+I better get going; I'll be late for my lecture.<end>
+
+=>q6_original
+The coils... magnificent...<end>
+
+=>q6
+The coils... magnificent...<end>
+
+=>q7_original
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q7
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q8_original
+How are you liking the Institute, $(#brother/sister)? New discoveries every step of the way...<end>
+
+=>q8
+How are you liking the Institute, $(#brother/sister)? New discoveries every step of the way...<end>
+
+=>q9_original
+I'll have to ask PI Schteff to bring us a pair of these coils in the propagation halls.<end>
+
+=>q9
+I'll have to ask PI Schteff to bring us a pair of these coils in the propagation halls.<end>
+
+=>q10_original
+This is so mesmerizing...<end>
+
+=>q10
+This is so mesmerizing...<end>
+

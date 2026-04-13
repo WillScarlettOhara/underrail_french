@@ -1,2 +1,2 @@
 ::TNT
-Plants a TNT charge that will detonate after {0} seconds ({1}), dealing {2} and {3} damage to creatures and machines and removing destructible objects.
+Place une charge de TNT qui détonera après {0} secondes ({1}), infligeant {2} et {3} dégâts aux créatures et machines et détruisant les objets destructibles.

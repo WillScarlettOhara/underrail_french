@@ -1,42 +1,42 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Ya ain't gettin' my fishing spot, $(#jack/lady).<end>
-
-=>q2
-Ya ain't gettin' my fishing spot, $(#jack/lady).<end>
-
-=>q3_original
-Eel tastes so much better than rathound. Hell, everythin' tastes better than the bloody rathound.<end>
-
-=>q3
-Eel tastes so much better than rathound. Hell, everythin' tastes better than the bloody rathound.<end>
-
-=>q4_original
-Ya like eels?<end>
-
-=>q4
-Ya like eels?<end>
-
-=>q5_original
-This place's full of slackjaws. The walkin' kind.<end>
-
-=>q5
-This place's full of slackjaws. The walkin' kind.<end>
-
-=>q6_original
-An eel once zapped me with lightnin'. I swear!<end>
-
-=>q6
-An eel once zapped me with lightnin'. I swear!<end>
-
-=>q7_original
-All the bloody fightin' is scaryin' the fish away.<end>
-
-=>q7
-All the bloody fightin' is scaryin' the fish away.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Ya ain't gettin' my fishing spot, $(#jack/lady).<end>
+
+=>q2
+Ya ain't gettin' my fishing spot, $(#jack/lady).<end>
+
+=>q3_original
+Eel tastes so much better than rathound. Hell, everythin' tastes better than the bloody rathound.<end>
+
+=>q3
+Eel tastes so much better than rathound. Hell, everythin' tastes better than the bloody rathound.<end>
+
+=>q4_original
+Ya like eels?<end>
+
+=>q4
+Ya like eels?<end>
+
+=>q5_original
+This place's full of slackjaws. The walkin' kind.<end>
+
+=>q5
+This place's full of slackjaws. The walkin' kind.<end>
+
+=>q6_original
+An eel once zapped me with lightnin'. I swear!<end>
+
+=>q6
+An eel once zapped me with lightnin'. I swear!<end>
+
+=>q7_original
+All the bloody fightin' is scaryin' the fish away.<end>
+
+=>q7
+All the bloody fightin' is scaryin' the fish away.<end>
+

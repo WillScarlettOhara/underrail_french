@@ -1,310 +1,310 @@
-=>q1_original
-Now's not the time to chat, Corps.<end>
-
-=>q1
-Now's not the time to chat, Corps.<end>
-
-=>q2_original
-::From the moment you first saw Dess back when CAU marched into Consul Oliver's office, you felt great discomfort. She didn't strike you as someone who's on the same side of the tracks as you are, and it didn't take long for you to feel her toxic demeanor slithering down your back. Her irritating and constant giggles are, however, the thing that drills into your skull the most.::
-
-Ah, Corps. Hello there. :: She giggles.:: What can good ol' Dess do for you? You had some questions, yes?<end>
-
-=>q2
-::From the moment you first saw Dess back when CAU marched into Consul Oliver's office, you felt great discomfort. She didn't strike you as someone who's on the same side of the tracks as you are, and it didn't take long for you to feel her toxic demeanor slithering down your back. Her irritating and constant giggles are, however, the thing that drills into your skull the most.::
-
-Ah, Corps. Hello there. :: She giggles.:: What can good ol' Dess do for you? You had some questions, yes?<end>
-
-=>a3_original
-As a matter of fact, I did.<end>
-
-=>a3
-As a matter of fact, I did.<end>
-
-=>q4_original
-::She interrupts you mid-sentence with a loud sigh.::
-
-Wait, scrap that, I don't feel like answerin' questions at *this* particular moment. Maybe a few seconds later, but not now. Now... I wanna *ask* questions.
-
-Tell me, Corps, do you enjoy killin' people?<end>
-
-=>q4
-::She interrupts you mid-sentence with a loud sigh.::
-
-Wait, scrap that, I don't feel like answerin' questions at *this* particular moment. Maybe a few seconds later, but not now. Now... I wanna *ask* questions.
-
-Tell me, Corps, do you enjoy killin' people?<end>
-
-=>a5_original
-Hell yeah I do. I'd kill you right now if I could!<end>
-
-=>a5
-Hell yeah I do. I'd kill you right now if I could!<end>
-
-=>q6_original
-::Her full-on laugh is even more exasperating than her giggles, and makes you feel like your eardrums are going to bleed.::
-
-I like your answer, Corps. I really do. ::She giggles.:: I admire everyone who takes pride in takin' lives. Let's face it, Corps - it's what you and me are best at. Killin'! ::She giggles.::
-
-From the moment I saw you, I *knew* you were someone who has taken so many lives to the point of it becomin' a routine thing to do, and I'm happy to know you haven't lost the cravin' for it. One never should, and I'm just the same, Corps. I kill, and I love it. Love it!<end>
-
-=>q6
-::Her full-on laugh is even more exasperating than her giggles, and makes you feel like your eardrums are going to bleed.::
-
-I like your answer, Corps. I really do. ::She giggles.:: I admire everyone who takes pride in takin' lives. Let's face it, Corps - it's what you and me are best at. Killin'! ::She giggles.::
-
-From the moment I saw you, I *knew* you were someone who has taken so many lives to the point of it becomin' a routine thing to do, and I'm happy to know you haven't lost the cravin' for it. One never should, and I'm just the same, Corps. I kill, and I love it. Love it!<end>
-
-=>q7_original
-I think we'll get along just fine, Corpsie.
-
-Well, I'm in the mood to answer questions, so ask away.<end>
-
-=>q7
-I think we'll get along just fine, Corpsie.
-
-Well, I'm in the mood to answer questions, so ask away.<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-Tell me about yourself.<end>
-
-=>a9
-Tell me about yourself.<end>
-
-=>q10_original
-About myself? ::She giggles.:: Well now, I think I'm a smart and pretty girl born in Hexagon - even though you can't tell I'm pretty because of the mask, but trust me - it's true. Aaaand, that I'm a highly efficient murder machine. So far, I've ground exactly ninety-nine targets into dust. Actually, I don't grind... I melt people with my acid bolts.<end>
-
-=>q10
-About myself? ::She giggles.:: Well now, I think I'm a smart and pretty girl born in Hexagon - even though you can't tell I'm pretty because of the mask, but trust me - it's true. Aaaand, that I'm a highly efficient murder machine. So far, I've ground exactly ninety-nine targets into dust. Actually, I don't grind... I melt people with my acid bolts.<end>
-
-=>q11_original
-Do you want me to describe my favourite kill?<end>
-
-=>q11
-Do you want me to describe my favourite kill?<end>
-
-=>a12_original
-Go ahead.<end>
-
-=>a12
-Go ahead.<end>
-
-=>q13_original
-::She giggles.:: Yes! Here it goes...
-
-We were on an assassination mission, the three of us: Cap, Void and I. ::She giggles.:: So, we were supposed to take out this dangerous group of criminals, who were hidin' in a deserted building. We sneaked in through the back entrance, taking out the guards one by one.<end>
-
-=>q13
-::She giggles.:: Yes! Here it goes...
-
-We were on an assassination mission, the three of us: Cap, Void and I. ::She giggles.:: So, we were supposed to take out this dangerous group of criminals, who were hidin' in a deserted building. We sneaked in through the back entrance, taking out the guards one by one.<end>
-
-=>q14_original
-The bastards weren't even to our knees. We crushed them, Corps. And I got the fatal shot on their leader... what was he called... Can't remember, but it doesn't matter anyway.
-
-Here's the fun part: I shot an acid bolt into his eyeball. It pierced through the eye and lodged itself in his brain. The acid quickly started melting the contents of his skull, turning it into a red waterfall which oozed out of his eye socket; his mouth as well.<end>
-
-=>q14
-The bastards weren't even to our knees. We crushed them, Corps. And I got the fatal shot on their leader... what was he called... Can't remember, but it doesn't matter anyway.
-
-Here's the fun part: I shot an acid bolt into his eyeball. It pierced through the eye and lodged itself in his brain. The acid quickly started melting the contents of his skull, turning it into a red waterfall which oozed out of his eye socket; his mouth as well.<end>
-
-=>q15_original
-He stood there for a moment, dying, and then he fell to the ground and twitched for a few good - and I mean good - moments, while his head was slowly turnin' into a bloody mess. Even his mother couldn't recognize him after that.
-
-Aaah, Corps... I felt such satisfaction then. It went through my body like I'd triggered a shock bolt in my belt by accident. ::She laughs.:: Best kill ever.<end>
-
-=>q15
-He stood there for a moment, dying, and then he fell to the ground and twitched for a few good - and I mean good - moments, while his head was slowly turnin' into a bloody mess. Even his mother couldn't recognize him after that.
-
-Aaah, Corps... I felt such satisfaction then. It went through my body like I'd triggered a shock bolt in my belt by accident. ::She laughs.:: Best kill ever.<end>
-
-=>a16_original
-I'm not interested. I better ask you something else.<end>
-
-=>a16
-I'm not interested. I better ask you something else.<end>
-
-=>q17_original
-Come on Corpsie! It was fun and full of gore. But, as you wish.<end>
-
-=>q17
-Come on Corpsie! It was fun and full of gore. But, as you wish.<end>
-
-=>a18_original
-Tell me about Captain Mareth.<end>
-
-=>a18
-Tell me about Captain Mareth.<end>
-
-=>q19_original
-::She giggles.:: Oh, Cap's the unit leader, a man you wouldn't want to mess with. He's strong and... smart. He's skilled and... fearless. CAU without him would be nothin', Corps. Yes, he is the reason we're known and feared among our enemies as the unit that can take on anyone or anythin'.<end>
-
-=>q19
-::She giggles.:: Oh, Cap's the unit leader, a man you wouldn't want to mess with. He's strong and... smart. He's skilled and... fearless. CAU without him would be nothin', Corps. Yes, he is the reason we're known and feared among our enemies as the unit that can take on anyone or anythin'.<end>
-
-=>q20_original
-Just remember his entrance back when we first arrived: Such grace, Corps, such elegance... and such dominance. Aaah...
-
-He even picked us this beautiful office. ::She giggles.::<end>
-
-=>q20
-Just remember his entrance back when we first arrived: Such grace, Corps, such elegance... and such dominance. Aaah...
-
-He even picked us this beautiful office. ::She giggles.::<end>
-
-=>a21_original
-Tell me about Void.<end>
-
-=>a21
-Tell me about Void.<end>
-
-=>q22_original
-Void is a perfect friend. He's a great listener, doesn't talk much and he's big and strong when ya need some assistance. ::She giggles.:: Not that *I* need much assistance. I can take care of my own, Corps.<end>
-
-=>q22
-Void is a perfect friend. He's a great listener, doesn't talk much and he's big and strong when ya need some assistance. ::She giggles.:: Not that *I* need much assistance. I can take care of my own, Corps.<end>
-
-=>a23_original
-Why is he always silent? Is he mute?<end>
-
-=>a23
-Why is he always silent? Is he mute?<end>
-
-=>q24_original
-As a matter of fact... no, he is not. I've never heard him talk, Corpsie, but, since Void joined CAU way before me, Cap told me the two of them once led an interestin' conversation. He never spoke after that again.
-
-He suffered a trauma when he was a kid, poor Void. His father killed his mother in front of his very eyes. Cut her up with a knife. The young boy avenged his mother without a second thought, killin' his father and running away from home.<end>
-
-=>q24
-As a matter of fact... no, he is not. I've never heard him talk, Corpsie, but, since Void joined CAU way before me, Cap told me the two of them once led an interestin' conversation. He never spoke after that again.
-
-He suffered a trauma when he was a kid, poor Void. His father killed his mother in front of his very eyes. Cut her up with a knife. The young boy avenged his mother without a second thought, killin' his father and running away from home.<end>
-
-=>q25_original
-We don't even know his real name. We just call him Void.
-
-::She giggles.:: Which I like very much! Cool name, ain't it, Corps?<end>
-
-=>q25
-We don't even know his real name. We just call him Void.
-
-::She giggles.:: Which I like very much! Cool name, ain't it, Corps?<end>
-
-=>a26_original
-What can you tell me about CAU?<end>
-
-=>a26
-What can you tell me about CAU?<end>
-
-=>q27_original
-Oh, we're the baddest, meanest killin' machines the Protectorate has to offer. Some don't like us, claimin' we're too violent, too brutal. ::She giggles.:: What a load!<end>
-
-=>q27
-Oh, we're the baddest, meanest killin' machines the Protectorate has to offer. Some don't like us, claimin' we're too violent, too brutal. ::She giggles.:: What a load!<end>
-
-=>q28_original
-Too brutal? How else are we supposed to kill our enemies, huh, Corps? By kissin' them to death, what? And what is most interestin' is that those who complain the most always turn to us when dirty work needs to get done. They want the vermin eradicated without liftin' a finger, and then complain about our methods. HA-HA!
-
-Hypocrites.<end>
-
-=>q28
-Too brutal? How else are we supposed to kill our enemies, huh, Corps? By kissin' them to death, what? And what is most interestin' is that those who complain the most always turn to us when dirty work needs to get done. They want the vermin eradicated without liftin' a finger, and then complain about our methods. HA-HA!
-
-Hypocrites.<end>
-
-=>a29_original
-What can you tell me about Free Drones?<end>
-
-=>a29
-What can you tell me about Free Drones?<end>
-
-=>q30_original
-::She giggles.:: Most of them are dead or turned into mutants now.<end>
-
-=>q30
-::She giggles.:: Most of them are dead or turned into mutants now.<end>
-
-=>q31_original
-Sweet work we did there. One of my faves, if I may say so. ::She giggles.::<end>
-
-=>q31
-Sweet work we did there. One of my faves, if I may say so. ::She giggles.::<end>
-
-=>q32_original
-We came up with a nice plan to take care of the anarchists.<end>
-
-=>q32
-We came up with a nice plan to take care of the anarchists.<end>
-
-=>q33_original
-But, I don't want to spoil anythin'. All in due time, Corps. All in due time.<end>
-
-=>q33
-But, I don't want to spoil anythin'. All in due time, Corps. All in due time.<end>
-
-=>a34_original
-Goodbye.<end>
-
-=>a34
-Goodbye.<end>
-
-=>a35_original
-I only kill because I have to, not because I want to.<end>
-
-=>a35
-I only kill because I have to, not because I want to.<end>
-
-=>q36_original
-Oh! What kind of a pansy says somethin' like that!? "I only kill because I have to, where me diaper, whaaa, whaaa!" 
-
-But... you're not really a pansy, aren't you? You've killed tons of people, I can tell. I can tell. It's just that you don't *want* to enjoy it, you think it's wrong to enjoy death. Doncha, Corps?<end>
-
-=>q36
-Oh! What kind of a pansy says somethin' like that!? "I only kill because I have to, where me diaper, whaaa, whaaa!" 
-
-But... you're not really a pansy, aren't you? You've killed tons of people, I can tell. I can tell. It's just that you don't *want* to enjoy it, you think it's wrong to enjoy death. Doncha, Corps?<end>
-
-=>q37_original
-We are programmed to kill. It's true, look at the world around you. Just think of *your* personal bodycount. How many lives have you taken? Huh? So throw those fabricated morals away and embrace the sweet, sweet feelin' of... good killin'. Ah, Corps, don't fight the human nature, enjoy it.
-
-::She giggles.:: You know what... I'm in the mood to answer questions now. Ask away, Corpsie.<end>
-
-=>q37
-We are programmed to kill. It's true, look at the world around you. Just think of *your* personal bodycount. How many lives have you taken? Huh? So throw those fabricated morals away and embrace the sweet, sweet feelin' of... good killin'. Ah, Corps, don't fight the human nature, enjoy it.
-
-::She giggles.:: You know what... I'm in the mood to answer questions now. Ask away, Corpsie.<end>
-
-=>a38_original
-That's not really my preferred topic...<end>
-
-=>a38
-That's not really my preferred topic...<end>
-
-=>q39_original
-So, you kill people but you don't wanna talk about it? I know it, Corps, I know you've taken a lot of lives during your time... I can feel it. I've killed many myself and enjoyed every single one of those frags! It feels good to take a life. It, how should I say... it empowers you.<end>
-
-=>q39
-So, you kill people but you don't wanna talk about it? I know it, Corps, I know you've taken a lot of lives during your time... I can feel it. I've killed many myself and enjoyed every single one of those frags! It feels good to take a life. It, how should I say... it empowers you.<end>
-
-=>q40_original
-I think you know what I'm talkin' about! I think you like killin'. You just don't wanna express it, Corpsie. ::She giggles.:: And I thought you Southerners were much more into it, seein' as how much you're killin' each other. But, whatever...
-
-Well, I'm in the mood to answer some questions now, so ask away.<end>
-
-=>q40
-I think you know what I'm talkin' about! I think you like killin'. You just don't wanna express it, Corpsie. ::She giggles.:: And I thought you Southerners were much more into it, seein' as how much you're killin' each other. But, whatever...
-
-Well, I'm in the mood to answer some questions now, so ask away.<end>
-
-=>q41_original
-Hey Corps, whatcha need? ::She giggles.::<end>
-
-=>q41
-Hey Corps, whatcha need? ::She giggles.::<end>
-
+=>q1_original
+Now's not the time to chat, Corps.<end>
+
+=>q1
+Now's not the time to chat, Corps.<end>
+
+=>q2_original
+::From the moment you first saw Dess back when CAU marched into Consul Oliver's office, you felt great discomfort. She didn't strike you as someone who's on the same side of the tracks as you are, and it didn't take long for you to feel her toxic demeanor slithering down your back. Her irritating and constant giggles are, however, the thing that drills into your skull the most.::
+
+Ah, Corps. Hello there. :: She giggles.:: What can good ol' Dess do for you? You had some questions, yes?<end>
+
+=>q2
+::From the moment you first saw Dess back when CAU marched into Consul Oliver's office, you felt great discomfort. She didn't strike you as someone who's on the same side of the tracks as you are, and it didn't take long for you to feel her toxic demeanor slithering down your back. Her irritating and constant giggles are, however, the thing that drills into your skull the most.::
+
+Ah, Corps. Hello there. :: She giggles.:: What can good ol' Dess do for you? You had some questions, yes?<end>
+
+=>a3_original
+As a matter of fact, I did.<end>
+
+=>a3
+As a matter of fact, I did.<end>
+
+=>q4_original
+::She interrupts you mid-sentence with a loud sigh.::
+
+Wait, scrap that, I don't feel like answerin' questions at *this* particular moment. Maybe a few seconds later, but not now. Now... I wanna *ask* questions.
+
+Tell me, Corps, do you enjoy killin' people?<end>
+
+=>q4
+::She interrupts you mid-sentence with a loud sigh.::
+
+Wait, scrap that, I don't feel like answerin' questions at *this* particular moment. Maybe a few seconds later, but not now. Now... I wanna *ask* questions.
+
+Tell me, Corps, do you enjoy killin' people?<end>
+
+=>a5_original
+Hell yeah I do. I'd kill you right now if I could!<end>
+
+=>a5
+Hell yeah I do. I'd kill you right now if I could!<end>
+
+=>q6_original
+::Her full-on laugh is even more exasperating than her giggles, and makes you feel like your eardrums are going to bleed.::
+
+I like your answer, Corps. I really do. ::She giggles.:: I admire everyone who takes pride in takin' lives. Let's face it, Corps - it's what you and me are best at. Killin'! ::She giggles.::
+
+From the moment I saw you, I *knew* you were someone who has taken so many lives to the point of it becomin' a routine thing to do, and I'm happy to know you haven't lost the cravin' for it. One never should, and I'm just the same, Corps. I kill, and I love it. Love it!<end>
+
+=>q6
+::Her full-on laugh is even more exasperating than her giggles, and makes you feel like your eardrums are going to bleed.::
+
+I like your answer, Corps. I really do. ::She giggles.:: I admire everyone who takes pride in takin' lives. Let's face it, Corps - it's what you and me are best at. Killin'! ::She giggles.::
+
+From the moment I saw you, I *knew* you were someone who has taken so many lives to the point of it becomin' a routine thing to do, and I'm happy to know you haven't lost the cravin' for it. One never should, and I'm just the same, Corps. I kill, and I love it. Love it!<end>
+
+=>q7_original
+I think we'll get along just fine, Corpsie.
+
+Well, I'm in the mood to answer questions, so ask away.<end>
+
+=>q7
+I think we'll get along just fine, Corpsie.
+
+Well, I'm in the mood to answer questions, so ask away.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Tell me about yourself.<end>
+
+=>a9
+Tell me about yourself.<end>
+
+=>q10_original
+About myself? ::She giggles.:: Well now, I think I'm a smart and pretty girl born in Hexagon - even though you can't tell I'm pretty because of the mask, but trust me - it's true. Aaaand, that I'm a highly efficient murder machine. So far, I've ground exactly ninety-nine targets into dust. Actually, I don't grind... I melt people with my acid bolts.<end>
+
+=>q10
+About myself? ::She giggles.:: Well now, I think I'm a smart and pretty girl born in Hexagon - even though you can't tell I'm pretty because of the mask, but trust me - it's true. Aaaand, that I'm a highly efficient murder machine. So far, I've ground exactly ninety-nine targets into dust. Actually, I don't grind... I melt people with my acid bolts.<end>
+
+=>q11_original
+Do you want me to describe my favourite kill?<end>
+
+=>q11
+Do you want me to describe my favourite kill?<end>
+
+=>a12_original
+Go ahead.<end>
+
+=>a12
+Go ahead.<end>
+
+=>q13_original
+::She giggles.:: Yes! Here it goes...
+
+We were on an assassination mission, the three of us: Cap, Void and I. ::She giggles.:: So, we were supposed to take out this dangerous group of criminals, who were hidin' in a deserted building. We sneaked in through the back entrance, taking out the guards one by one.<end>
+
+=>q13
+::She giggles.:: Yes! Here it goes...
+
+We were on an assassination mission, the three of us: Cap, Void and I. ::She giggles.:: So, we were supposed to take out this dangerous group of criminals, who were hidin' in a deserted building. We sneaked in through the back entrance, taking out the guards one by one.<end>
+
+=>q14_original
+The bastards weren't even to our knees. We crushed them, Corps. And I got the fatal shot on their leader... what was he called... Can't remember, but it doesn't matter anyway.
+
+Here's the fun part: I shot an acid bolt into his eyeball. It pierced through the eye and lodged itself in his brain. The acid quickly started melting the contents of his skull, turning it into a red waterfall which oozed out of his eye socket; his mouth as well.<end>
+
+=>q14
+The bastards weren't even to our knees. We crushed them, Corps. And I got the fatal shot on their leader... what was he called... Can't remember, but it doesn't matter anyway.
+
+Here's the fun part: I shot an acid bolt into his eyeball. It pierced through the eye and lodged itself in his brain. The acid quickly started melting the contents of his skull, turning it into a red waterfall which oozed out of his eye socket; his mouth as well.<end>
+
+=>q15_original
+He stood there for a moment, dying, and then he fell to the ground and twitched for a few good - and I mean good - moments, while his head was slowly turnin' into a bloody mess. Even his mother couldn't recognize him after that.
+
+Aaah, Corps... I felt such satisfaction then. It went through my body like I'd triggered a shock bolt in my belt by accident. ::She laughs.:: Best kill ever.<end>
+
+=>q15
+He stood there for a moment, dying, and then he fell to the ground and twitched for a few good - and I mean good - moments, while his head was slowly turnin' into a bloody mess. Even his mother couldn't recognize him after that.
+
+Aaah, Corps... I felt such satisfaction then. It went through my body like I'd triggered a shock bolt in my belt by accident. ::She laughs.:: Best kill ever.<end>
+
+=>a16_original
+I'm not interested. I better ask you something else.<end>
+
+=>a16
+I'm not interested. I better ask you something else.<end>
+
+=>q17_original
+Come on Corpsie! It was fun and full of gore. But, as you wish.<end>
+
+=>q17
+Come on Corpsie! It was fun and full of gore. But, as you wish.<end>
+
+=>a18_original
+Tell me about Captain Mareth.<end>
+
+=>a18
+Tell me about Captain Mareth.<end>
+
+=>q19_original
+::She giggles.:: Oh, Cap's the unit leader, a man you wouldn't want to mess with. He's strong and... smart. He's skilled and... fearless. CAU without him would be nothin', Corps. Yes, he is the reason we're known and feared among our enemies as the unit that can take on anyone or anythin'.<end>
+
+=>q19
+::She giggles.:: Oh, Cap's the unit leader, a man you wouldn't want to mess with. He's strong and... smart. He's skilled and... fearless. CAU without him would be nothin', Corps. Yes, he is the reason we're known and feared among our enemies as the unit that can take on anyone or anythin'.<end>
+
+=>q20_original
+Just remember his entrance back when we first arrived: Such grace, Corps, such elegance... and such dominance. Aaah...
+
+He even picked us this beautiful office. ::She giggles.::<end>
+
+=>q20
+Just remember his entrance back when we first arrived: Such grace, Corps, such elegance... and such dominance. Aaah...
+
+He even picked us this beautiful office. ::She giggles.::<end>
+
+=>a21_original
+Tell me about Void.<end>
+
+=>a21
+Tell me about Void.<end>
+
+=>q22_original
+Void is a perfect friend. He's a great listener, doesn't talk much and he's big and strong when ya need some assistance. ::She giggles.:: Not that *I* need much assistance. I can take care of my own, Corps.<end>
+
+=>q22
+Void is a perfect friend. He's a great listener, doesn't talk much and he's big and strong when ya need some assistance. ::She giggles.:: Not that *I* need much assistance. I can take care of my own, Corps.<end>
+
+=>a23_original
+Why is he always silent? Is he mute?<end>
+
+=>a23
+Why is he always silent? Is he mute?<end>
+
+=>q24_original
+As a matter of fact... no, he is not. I've never heard him talk, Corpsie, but, since Void joined CAU way before me, Cap told me the two of them once led an interestin' conversation. He never spoke after that again.
+
+He suffered a trauma when he was a kid, poor Void. His father killed his mother in front of his very eyes. Cut her up with a knife. The young boy avenged his mother without a second thought, killin' his father and running away from home.<end>
+
+=>q24
+As a matter of fact... no, he is not. I've never heard him talk, Corpsie, but, since Void joined CAU way before me, Cap told me the two of them once led an interestin' conversation. He never spoke after that again.
+
+He suffered a trauma when he was a kid, poor Void. His father killed his mother in front of his very eyes. Cut her up with a knife. The young boy avenged his mother without a second thought, killin' his father and running away from home.<end>
+
+=>q25_original
+We don't even know his real name. We just call him Void.
+
+::She giggles.:: Which I like very much! Cool name, ain't it, Corps?<end>
+
+=>q25
+We don't even know his real name. We just call him Void.
+
+::She giggles.:: Which I like very much! Cool name, ain't it, Corps?<end>
+
+=>a26_original
+What can you tell me about CAU?<end>
+
+=>a26
+What can you tell me about CAU?<end>
+
+=>q27_original
+Oh, we're the baddest, meanest killin' machines the Protectorate has to offer. Some don't like us, claimin' we're too violent, too brutal. ::She giggles.:: What a load!<end>
+
+=>q27
+Oh, we're the baddest, meanest killin' machines the Protectorate has to offer. Some don't like us, claimin' we're too violent, too brutal. ::She giggles.:: What a load!<end>
+
+=>q28_original
+Too brutal? How else are we supposed to kill our enemies, huh, Corps? By kissin' them to death, what? And what is most interestin' is that those who complain the most always turn to us when dirty work needs to get done. They want the vermin eradicated without liftin' a finger, and then complain about our methods. HA-HA!
+
+Hypocrites.<end>
+
+=>q28
+Too brutal? How else are we supposed to kill our enemies, huh, Corps? By kissin' them to death, what? And what is most interestin' is that those who complain the most always turn to us when dirty work needs to get done. They want the vermin eradicated without liftin' a finger, and then complain about our methods. HA-HA!
+
+Hypocrites.<end>
+
+=>a29_original
+What can you tell me about Free Drones?<end>
+
+=>a29
+What can you tell me about Free Drones?<end>
+
+=>q30_original
+::She giggles.:: Most of them are dead or turned into mutants now.<end>
+
+=>q30
+::She giggles.:: Most of them are dead or turned into mutants now.<end>
+
+=>q31_original
+Sweet work we did there. One of my faves, if I may say so. ::She giggles.::<end>
+
+=>q31
+Sweet work we did there. One of my faves, if I may say so. ::She giggles.::<end>
+
+=>q32_original
+We came up with a nice plan to take care of the anarchists.<end>
+
+=>q32
+We came up with a nice plan to take care of the anarchists.<end>
+
+=>q33_original
+But, I don't want to spoil anythin'. All in due time, Corps. All in due time.<end>
+
+=>q33
+But, I don't want to spoil anythin'. All in due time, Corps. All in due time.<end>
+
+=>a34_original
+Goodbye.<end>
+
+=>a34
+Goodbye.<end>
+
+=>a35_original
+I only kill because I have to, not because I want to.<end>
+
+=>a35
+I only kill because I have to, not because I want to.<end>
+
+=>q36_original
+Oh! What kind of a pansy says somethin' like that!? "I only kill because I have to, where me diaper, whaaa, whaaa!" 
+
+But... you're not really a pansy, aren't you? You've killed tons of people, I can tell. I can tell. It's just that you don't *want* to enjoy it, you think it's wrong to enjoy death. Doncha, Corps?<end>
+
+=>q36
+Oh! What kind of a pansy says somethin' like that!? "I only kill because I have to, where me diaper, whaaa, whaaa!" 
+
+But... you're not really a pansy, aren't you? You've killed tons of people, I can tell. I can tell. It's just that you don't *want* to enjoy it, you think it's wrong to enjoy death. Doncha, Corps?<end>
+
+=>q37_original
+We are programmed to kill. It's true, look at the world around you. Just think of *your* personal bodycount. How many lives have you taken? Huh? So throw those fabricated morals away and embrace the sweet, sweet feelin' of... good killin'. Ah, Corps, don't fight the human nature, enjoy it.
+
+::She giggles.:: You know what... I'm in the mood to answer questions now. Ask away, Corpsie.<end>
+
+=>q37
+We are programmed to kill. It's true, look at the world around you. Just think of *your* personal bodycount. How many lives have you taken? Huh? So throw those fabricated morals away and embrace the sweet, sweet feelin' of... good killin'. Ah, Corps, don't fight the human nature, enjoy it.
+
+::She giggles.:: You know what... I'm in the mood to answer questions now. Ask away, Corpsie.<end>
+
+=>a38_original
+That's not really my preferred topic...<end>
+
+=>a38
+That's not really my preferred topic...<end>
+
+=>q39_original
+So, you kill people but you don't wanna talk about it? I know it, Corps, I know you've taken a lot of lives during your time... I can feel it. I've killed many myself and enjoyed every single one of those frags! It feels good to take a life. It, how should I say... it empowers you.<end>
+
+=>q39
+So, you kill people but you don't wanna talk about it? I know it, Corps, I know you've taken a lot of lives during your time... I can feel it. I've killed many myself and enjoyed every single one of those frags! It feels good to take a life. It, how should I say... it empowers you.<end>
+
+=>q40_original
+I think you know what I'm talkin' about! I think you like killin'. You just don't wanna express it, Corpsie. ::She giggles.:: And I thought you Southerners were much more into it, seein' as how much you're killin' each other. But, whatever...
+
+Well, I'm in the mood to answer some questions now, so ask away.<end>
+
+=>q40
+I think you know what I'm talkin' about! I think you like killin'. You just don't wanna express it, Corpsie. ::She giggles.:: And I thought you Southerners were much more into it, seein' as how much you're killin' each other. But, whatever...
+
+Well, I'm in the mood to answer some questions now, so ask away.<end>
+
+=>q41_original
+Hey Corps, whatcha need? ::She giggles.::<end>
+
+=>q41
+Hey Corps, whatcha need? ::She giggles.::<end>
+

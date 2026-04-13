@@ -1,12 +1,12 @@
-=>q1_original
-Eddy says you're allowed into the Old Junkyard now. I unlocked the door for you.<end>
-
-=>q1
-Eddy says you're allowed into the Old Junkyard now. I unlocked the door for you.<end>
-
-=>q2_original
-Sorry, $(#buddy/gal), but only Scrappers are allowed into the Old Junkyard.<end>
-
-=>q2
-Sorry, $(#buddy/gal), but only Scrappers are allowed into the Old Junkyard.<end>
-
+=>q1_original
+Eddy says you're allowed into the Old Junkyard now. I unlocked the door for you.<end>
+
+=>q1
+Eddy says you're allowed into the Old Junkyard now. I unlocked the door for you.<end>
+
+=>q2_original
+Sorry, $(#buddy/gal), but only Scrappers are allowed into the Old Junkyard.<end>
+
+=>q2
+Sorry, $(#buddy/gal), but only Scrappers are allowed into the Old Junkyard.<end>
+

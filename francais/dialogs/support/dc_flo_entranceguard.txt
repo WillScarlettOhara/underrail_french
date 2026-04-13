@@ -1,56 +1,56 @@
-=>q1_original
-::The Faceless silently watches you.::<end>
-
-=>q1
-::The Faceless silently watches you.::<end>
-
-=>q2_original
-::The Faceless gestures you to stop. After a brief pause, he activates his voice and speaks to you.::
-
-You may pass. Enter the building behind me and speak with our commander.<end>
-
-=>q2
-::The Faceless gestures you to stop. After a brief pause, he activates his voice and speaks to you.::
-
-You may pass. Enter the building behind me and speak with our commander.<end>
-
-=>a3_original
-Where can I get some supplies?<end>
-
-=>a3
-Where can I get some supplies?<end>
-
-=>q4_original
-::He repeats the phrase in the same tone of voice before deactivating it.:: 
-
-Speak with our commander.<end>
-
-=>q4
-::He repeats the phrase in the same tone of voice before deactivating it.:: 
-
-Speak with our commander.<end>
-
-=>a5_original
-I will not keep your commander waiting.<end>
-
-=>a5
-I will not keep your commander waiting.<end>
-
-=>q6_original
-::He nods and deactivates his voice.::<end>
-
-=>q6
-::He nods and deactivates his voice.::<end>
-
-=>q7_original
-::The Faceless guard immediately aims his weapon at you.::<end>
-
-=>q7
-::The Faceless guard immediately aims his weapon at you.::<end>
-
-=>a8_original
-::Fight!::<end>
-
-=>a8
-::Fight!::<end>
-
+=>q1_original
+::The Faceless silently watches you.::<end>
+
+=>q1
+::The Faceless silently watches you.::<end>
+
+=>q2_original
+::The Faceless gestures you to stop. After a brief pause, he activates his voice and speaks to you.::
+
+You may pass. Enter the building behind me and speak with our commander.<end>
+
+=>q2
+::The Faceless gestures you to stop. After a brief pause, he activates his voice and speaks to you.::
+
+You may pass. Enter the building behind me and speak with our commander.<end>
+
+=>a3_original
+Where can I get some supplies?<end>
+
+=>a3
+Where can I get some supplies?<end>
+
+=>q4_original
+::He repeats the phrase in the same tone of voice before deactivating it.:: 
+
+Speak with our commander.<end>
+
+=>q4
+::He repeats the phrase in the same tone of voice before deactivating it.:: 
+
+Speak with our commander.<end>
+
+=>a5_original
+I will not keep your commander waiting.<end>
+
+=>a5
+I will not keep your commander waiting.<end>
+
+=>q6_original
+::He nods and deactivates his voice.::<end>
+
+=>q6
+::He nods and deactivates his voice.::<end>
+
+=>q7_original
+::The Faceless guard immediately aims his weapon at you.::<end>
+
+=>q7
+::The Faceless guard immediately aims his weapon at you.::<end>
+
+=>a8_original
+::Fight!::<end>
+
+=>a8
+::Fight!::<end>
+

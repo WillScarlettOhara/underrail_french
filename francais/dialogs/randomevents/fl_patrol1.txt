@@ -1,92 +1,92 @@
-=>q1_original
-::The Faceless reaches for something on the inside of the chin of his mask, makes a twisting motion and speaks to you in a distorted synthesized voice.::
-
-Leave.<end>
-
-=>q1
-::The Faceless reaches for something on the inside of the chin of his mask, makes a twisting motion and speaks to you in a distorted synthesized voice.::
-
-Leave.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-What is going on here?<end>
-
-=>a3
-What is going on here?<end>
-
-=>q4_original
-Leave... or suffer the consequences.<end>
-
-=>q4
-Leave... or suffer the consequences.<end>
-
-=>a5_original
-No one tells me what to do, freak! ::Attack!::<end>
-
-=>a5
-No one tells me what to do, freak! ::Attack!::<end>
-
-=>a6_original
-I'm leaving, I'm leaving!<end>
-
-=>a6
-I'm leaving, I'm leaving!<end>
-
-=>q7_original
-You will not get another warning...
-
-::The Faceless ends the conversation by reaching underneath his mask once again.::<end>
-
-=>q7
-You will not get another warning...
-
-::The Faceless ends the conversation by reaching underneath his mask once again.::<end>
-
-=>a8_original
-Mind if I ask you a few questions?<end>
-
-=>a8
-Mind if I ask you a few questions?<end>
-
-=>a9_original
-That is one awesome-looking machine there.<end>
-
-=>a9
-That is one awesome-looking machine there.<end>
-
-=>a10_original
-Why are you doing all of this?<end>
-
-=>a10
-Why are you doing all of this?<end>
-
-=>a11_original
-Wait, I'm your ally!<end>
-
-=>a11
-Wait, I'm your ally!<end>
-
-=>a12_original
-What if I don't want to leave?<end>
-
-=>a12
-What if I don't want to leave?<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>q14_original
-::Silently watches you.::<end>
-
-=>q14
-::Silently watches you.::<end>
-
+=>q1_original
+::The Faceless reaches for something on the inside of the chin of his mask, makes a twisting motion and speaks to you in a distorted synthesized voice.::
+
+Leave.<end>
+
+=>q1
+::The Faceless reaches for something on the inside of the chin of his mask, makes a twisting motion and speaks to you in a distorted synthesized voice.::
+
+Leave.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What is going on here?<end>
+
+=>a3
+What is going on here?<end>
+
+=>q4_original
+Leave... or suffer the consequences.<end>
+
+=>q4
+Leave... or suffer the consequences.<end>
+
+=>a5_original
+No one tells me what to do, freak! ::Attack!::<end>
+
+=>a5
+No one tells me what to do, freak! ::Attack!::<end>
+
+=>a6_original
+I'm leaving, I'm leaving!<end>
+
+=>a6
+I'm leaving, I'm leaving!<end>
+
+=>q7_original
+You will not get another warning...
+
+::The Faceless ends the conversation by reaching underneath his mask once again.::<end>
+
+=>q7
+You will not get another warning...
+
+::The Faceless ends the conversation by reaching underneath his mask once again.::<end>
+
+=>a8_original
+Mind if I ask you a few questions?<end>
+
+=>a8
+Mind if I ask you a few questions?<end>
+
+=>a9_original
+That is one awesome-looking machine there.<end>
+
+=>a9
+That is one awesome-looking machine there.<end>
+
+=>a10_original
+Why are you doing all of this?<end>
+
+=>a10
+Why are you doing all of this?<end>
+
+=>a11_original
+Wait, I'm your ally!<end>
+
+=>a11
+Wait, I'm your ally!<end>
+
+=>a12_original
+What if I don't want to leave?<end>
+
+=>a12
+What if I don't want to leave?<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+::Silently watches you.::<end>
+
+=>q14
+::Silently watches you.::<end>
+

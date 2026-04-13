@@ -1,152 +1,152 @@
-=>q1_original
-::BCF Security Console
-Biocorp Core Electronics
-Firmware version - 3.4::<end>
-
-=>q1
-::BCF Security Console
-Biocorp Core Electronics
-Firmware version - 3.4::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Check Sector 2 doors status::<end>
-
-=>a3
-::Check Sector 2 doors status::<end>
-
-=>q4_original
-::Sector 2 doors are unlocked::<end>
-
-=>q4
-::Sector 2 doors are unlocked::<end>
-
-=>a5_original
-::Back::<end>
-
-=>a5
-::Back::<end>
-
-=>q6_original
-::Sector 2 Doors are locked::<end>
-
-=>q6
-::Sector 2 Doors are locked::<end>
-
-=>a7_original
-::[Hacking] Unlock Sector 2 doors:: <end>
-
-=>a7
-::[Hacking] Unlock Sector 2 doors:: <end>
-
-=>q8_original
-::Please wait...
-
-Sector 2 doors have been unlocked::<end>
-
-=>q8
-::Please wait...
-
-Sector 2 doors have been unlocked::<end>
-
-=>q9_original
-::Unknown error::<end>
-
-=>q9
-::Unknown error::<end>
-
-=>a10_original
-::Check Sector 1 security status::<end>
-
-=>a10
-::Check Sector 1 security status::<end>
-
-=>q11_original
-::Please wait...::<end>
-
-=>q11
-::Please wait...::<end>
-
-=>q12_original
-::No active security bots detected::<end>
-
-=>q12
-::No active security bots detected::<end>
-
-=>a13_original
-::Check Sector 2 security status::<end>
-
-=>a13
-::Check Sector 2 security status::<end>
-
-=>q14_original
-::Please wait...::<end>
-
-=>q14
-::Please wait...::<end>
-
-=>q15_original
-::No active security bots detected::<end>
-
-=>q15
-::No active security bots detected::<end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>a17_original
-::[Hacking] Disable guard mode for all security bots::<end>
-
-=>a17
-::[Hacking] Disable guard mode for all security bots::<end>
-
-=>q18_original
-::Please wait...
-
-Success: Guard mode has been disabled for all security bots.::<end>
-
-=>q18
-::Please wait...
-
-Success: Guard mode has been disabled for all security bots.::<end>
-
-=>q19_original
-::Unknown error::<end>
-
-=>q19
-::Unknown error::<end>
-
-=>q20_original
-::Detected active security bots in Sector 2.
-
-Guard mode: Disabled::<end>
-
-=>q20
-::Detected active security bots in Sector 2.
-
-Guard mode: Disabled::<end>
-
-=>q21_original
-::Detected active security bots in Sector 2
-
-Guard mode: Enabled::<end>
-
-=>q21
-::Detected active security bots in Sector 2
-
-Guard mode: Enabled::<end>
-
-=>a22_original
-::Exit::<end>
-
-=>a22
-::Exit::<end>
-
+=>q1_original
+::BCF Security Console
+Biocorp Core Electronics
+Firmware version - 3.4::<end>
+
+=>q1
+::BCF Security Console
+Biocorp Core Electronics
+Firmware version - 3.4::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Check Sector 2 doors status::<end>
+
+=>a3
+::Check Sector 2 doors status::<end>
+
+=>q4_original
+::Sector 2 doors are unlocked::<end>
+
+=>q4
+::Sector 2 doors are unlocked::<end>
+
+=>a5_original
+::Back::<end>
+
+=>a5
+::Back::<end>
+
+=>q6_original
+::Sector 2 Doors are locked::<end>
+
+=>q6
+::Sector 2 Doors are locked::<end>
+
+=>a7_original
+::[Hacking] Unlock Sector 2 doors:: <end>
+
+=>a7
+::[Hacking] Unlock Sector 2 doors:: <end>
+
+=>q8_original
+::Please wait...
+
+Sector 2 doors have been unlocked::<end>
+
+=>q8
+::Please wait...
+
+Sector 2 doors have been unlocked::<end>
+
+=>q9_original
+::Unknown error::<end>
+
+=>q9
+::Unknown error::<end>
+
+=>a10_original
+::Check Sector 1 security status::<end>
+
+=>a10
+::Check Sector 1 security status::<end>
+
+=>q11_original
+::Please wait...::<end>
+
+=>q11
+::Please wait...::<end>
+
+=>q12_original
+::No active security bots detected::<end>
+
+=>q12
+::No active security bots detected::<end>
+
+=>a13_original
+::Check Sector 2 security status::<end>
+
+=>a13
+::Check Sector 2 security status::<end>
+
+=>q14_original
+::Please wait...::<end>
+
+=>q14
+::Please wait...::<end>
+
+=>q15_original
+::No active security bots detected::<end>
+
+=>q15
+::No active security bots detected::<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+::[Hacking] Disable guard mode for all security bots::<end>
+
+=>a17
+::[Hacking] Disable guard mode for all security bots::<end>
+
+=>q18_original
+::Please wait...
+
+Success: Guard mode has been disabled for all security bots.::<end>
+
+=>q18
+::Please wait...
+
+Success: Guard mode has been disabled for all security bots.::<end>
+
+=>q19_original
+::Unknown error::<end>
+
+=>q19
+::Unknown error::<end>
+
+=>q20_original
+::Detected active security bots in Sector 2.
+
+Guard mode: Disabled::<end>
+
+=>q20
+::Detected active security bots in Sector 2.
+
+Guard mode: Disabled::<end>
+
+=>q21_original
+::Detected active security bots in Sector 2
+
+Guard mode: Enabled::<end>
+
+=>q21
+::Detected active security bots in Sector 2
+
+Guard mode: Enabled::<end>
+
+=>a22_original
+::Exit::<end>
+
+=>a22
+::Exit::<end>
+

@@ -1,66 +1,66 @@
-=>q1_original
-The Faceless!?<end>
-
-=>q1
-The Faceless!?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Tchort is evolution, $(#brother/sister).<end>
-
-=>q3
-Tchort is evolution, $(#brother/sister).<end>
-
-=>q4_original
-One day I'm going to become a minister. Apex!<end>
-
-=>q4
-One day I'm going to become a minister. Apex!<end>
-
-=>q5_original
-I don't know what us acolytes would do without Eidein's Library. ::Laughs.::<end>
-
-=>q5
-I don't know what us acolytes would do without Eidein's Library. ::Laughs.::<end>
-
-=>q6_original
-What did you do to anger Judicator Azarias so much?<end>
-
-=>q6
-What did you do to anger Judicator Azarias so much?<end>
-
-=>q7_original
-Feeling good, $(#brother/sister)?<end>
-
-=>q7
-Feeling good, $(#brother/sister)?<end>
-
-=>q8_original
-Did you hear Minister Percival is back from Core City?<end>
-
-=>q8
-Did you hear Minister Percival is back from Core City?<end>
-
-=>q9_original
-So, Monsignor Marcial died in year seventy-eight, Monsignor Bradock in ninety...<end>
-
-=>q9
-So, Monsignor Marcial died in year seventy-eight, Monsignor Bradock in ninety...<end>
-
-=>q10_original
-There was this inbred acolyte who never read the Original Report. Magnificent Tchort!<end>
-
-=>q10
-There was this inbred acolyte who never read the Original Report. Magnificent Tchort!<end>
-
-=>q11_original
-"We can and we must!" - said Eidein.<end>
-
-=>q11
-"We can and we must!" - said Eidein.<end>
-
+=>q1_original
+The Faceless!?<end>
+
+=>q1
+The Faceless!?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q3
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q4_original
+One day I'm going to become a minister. Apex!<end>
+
+=>q4
+One day I'm going to become a minister. Apex!<end>
+
+=>q5_original
+I don't know what us acolytes would do without Eidein's Library. ::Laughs.::<end>
+
+=>q5
+I don't know what us acolytes would do without Eidein's Library. ::Laughs.::<end>
+
+=>q6_original
+What did you do to anger Judicator Azarias so much?<end>
+
+=>q6
+What did you do to anger Judicator Azarias so much?<end>
+
+=>q7_original
+Feeling good, $(#brother/sister)?<end>
+
+=>q7
+Feeling good, $(#brother/sister)?<end>
+
+=>q8_original
+Did you hear Minister Percival is back from Core City?<end>
+
+=>q8
+Did you hear Minister Percival is back from Core City?<end>
+
+=>q9_original
+So, Monsignor Marcial died in year seventy-eight, Monsignor Bradock in ninety...<end>
+
+=>q9
+So, Monsignor Marcial died in year seventy-eight, Monsignor Bradock in ninety...<end>
+
+=>q10_original
+There was this inbred acolyte who never read the Original Report. Magnificent Tchort!<end>
+
+=>q10
+There was this inbred acolyte who never read the Original Report. Magnificent Tchort!<end>
+
+=>q11_original
+"We can and we must!" - said Eidein.<end>
+
+=>q11
+"We can and we must!" - said Eidein.<end>
+

@@ -1,54 +1,54 @@
-=>q1_original
-Protect Eidein!<end>
-
-=>q1
-Protect Eidein!<end>
-
-=>q2_original
-You are not supposed to be here!<end>
-
-=>q2
-You are not supposed to be here!<end>
-
-=>q3_original
-Eidein is waiting for you in his office, $(context.player.Name).<end>
-
-=>q3
-Eidein is waiting for you in his office, $(context.player.Name).<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>q5_original
-Tchort is evolution.<end>
-
-=>q5
-Tchort is evolution.<end>
-
-=>q6_original
-$(#Brother/Sister)?<end>
-
-=>q6
-$(#Brother/Sister)?<end>
-
-=>q7_original
-Magnificent Tchort! Did you feel that, $(#brother/sister)?<end>
-
-=>q7
-Magnificent Tchort! Did you feel that, $(#brother/sister)?<end>
-
-=>q8_original
-Eidein is very busy, so try to be brief.<end>
-
-=>q8
-Eidein is very busy, so try to be brief.<end>
-
-=>q9_original
-May I help you?<end>
-
-=>q9
-May I help you?<end>
-
+=>q1_original
+Protect Eidein!<end>
+
+=>q1
+Protect Eidein!<end>
+
+=>q2_original
+You are not supposed to be here!<end>
+
+=>q2
+You are not supposed to be here!<end>
+
+=>q3_original
+Eidein is waiting for you in his office, $(context.player.Name).<end>
+
+=>q3
+Eidein is waiting for you in his office, $(context.player.Name).<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Tchort is evolution.<end>
+
+=>q5
+Tchort is evolution.<end>
+
+=>q6_original
+$(#Brother/Sister)?<end>
+
+=>q6
+$(#Brother/Sister)?<end>
+
+=>q7_original
+Magnificent Tchort! Did you feel that, $(#brother/sister)?<end>
+
+=>q7
+Magnificent Tchort! Did you feel that, $(#brother/sister)?<end>
+
+=>q8_original
+Eidein is very busy, so try to be brief.<end>
+
+=>q8
+Eidein is very busy, so try to be brief.<end>
+
+=>q9_original
+May I help you?<end>
+
+=>q9
+May I help you?<end>
+

@@ -1,66 +1,66 @@
-=>q1_original
-::Where would you like to go?::<end>
-
-=>q1
-::Where would you like to go?::<end>
-
-=>a2_original
-::Level 1 - Lower Underrail Station Platform and Barracks::<end>
-
-=>a2
-::Level 1 - Lower Underrail Station Platform and Barracks::<end>
-
-=>a3_original
-::Level 2 - Armory and Shooting Range::<end>
-
-=>a3
-::Level 2 - Armory and Shooting Range::<end>
-
-=>a4_original
-::Level 3 - Commons and Cantina::<end>
-
-=>a4
-::Level 3 - Commons and Cantina::<end>
-
-=>a5_original
-::Level 4 - Administration and Library::<end>
-
-=>a5
-::Level 4 - Administration and Library::<end>
-
-=>a6_original
-::Level 5 - Private Quarters::<end>
-
-=>a6
-::Level 5 - Private Quarters::<end>
-
-=>a7_original
-::Level 6 - Medical and Psionics::<end>
-
-=>a7
-::Level 6 - Medical and Psionics::<end>
-
-=>a8_original
-::Level 7 - Engineering and Cyber Labs::<end>
-
-=>a8
-::Level 7 - Engineering and Cyber Labs::<end>
-
-=>a9_original
-::Level 8 - Agronomy and Pens::<end>
-
-=>a9
-::Level 8 - Agronomy and Pens::<end>
-
-=>a10_original
-::Level 9 - Cave Tunnel Exit and Docks::<end>
-
-=>a10
-::Level 9 - Cave Tunnel Exit and Docks::<end>
-
-=>a11_original
-::Nowhere::<end>
-
-=>a11
-::Nowhere::<end>
-
+=>q1_original
+::Where would you like to go?::<end>
+
+=>q1
+::Where would you like to go?::<end>
+
+=>a2_original
+::Level 1 - Lower Underrail Station Platform and Barracks::<end>
+
+=>a2
+::Level 1 - Lower Underrail Station Platform and Barracks::<end>
+
+=>a3_original
+::Level 2 - Armory and Shooting Range::<end>
+
+=>a3
+::Level 2 - Armory and Shooting Range::<end>
+
+=>a4_original
+::Level 3 - Commons and Cantina::<end>
+
+=>a4
+::Level 3 - Commons and Cantina::<end>
+
+=>a5_original
+::Level 4 - Administration and Library::<end>
+
+=>a5
+::Level 4 - Administration and Library::<end>
+
+=>a6_original
+::Level 5 - Private Quarters::<end>
+
+=>a6
+::Level 5 - Private Quarters::<end>
+
+=>a7_original
+::Level 6 - Medical and Psionics::<end>
+
+=>a7
+::Level 6 - Medical and Psionics::<end>
+
+=>a8_original
+::Level 7 - Engineering and Cyber Labs::<end>
+
+=>a8
+::Level 7 - Engineering and Cyber Labs::<end>
+
+=>a9_original
+::Level 8 - Agronomy and Pens::<end>
+
+=>a9
+::Level 8 - Agronomy and Pens::<end>
+
+=>a10_original
+::Level 9 - Cave Tunnel Exit and Docks::<end>
+
+=>a10
+::Level 9 - Cave Tunnel Exit and Docks::<end>
+
+=>a11_original
+::Nowhere::<end>
+
+=>a11
+::Nowhere::<end>
+

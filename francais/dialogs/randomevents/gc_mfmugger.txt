@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-N... no...<end>
-
-=>q2
-N... no...<end>
-
-=>q3_original
-Wh-wh-wh-wha... what...<end>
-
-=>q3
-Wh-wh-wh-wha... what...<end>
-
-=>q4_original
-::Stares at you with vacant eyes.::<end>
-
-=>q4
-::Stares at you with vacant eyes.::<end>
-
-=>q5_original
-Mmmmm... he...<end>
-
-=>q5
-Mmmmm... he...<end>
-
-=>q6_original
-AAAAAAAAAAAAAAAAAAAA!<end>
-
-=>q6
-AAAAAAAAAAAAAAAAAAAA!<end>
-
-=>q7_original
-::Scratches his face angrily then hits himself in the head a few times.:: Wh-why?<end>
-
-=>q7
-::Scratches his face angrily then hits himself in the head a few times.:: Wh-why?<end>
-
-=>q8_original
-::Drools.:: Ahghg...<end>
-
-=>q8
-::Drools.:: Ahghg...<end>
-
-=>q9_original
-M-m-man... press-press-ur-e... p-ain...<end>
-
-=>q9
-M-m-man... press-press-ur-e... p-ain...<end>
-
-=>q10_original
-::He cradles his face in his hands and weeps.::<end>
-
-=>q10
-::He cradles his face in his hands and weeps.::<end>
-
-=>q11_original
-H-h-h... hell... hel-p...<end>
-
-=>q11
-H-h-h... hell... hel-p...<end>
-
-=>q12_original
-::He slowly sits down and rapidly gets up.::<end>
-
-=>q12
-::He slowly sits down and rapidly gets up.::<end>
-
-=>q13_original
-Ooooo... oooooh... ngh...<end>
-
-=>q13
-Ooooo... oooooh... ngh...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+N... no...<end>
+
+=>q2
+N... no...<end>
+
+=>q3_original
+Wh-wh-wh-wha... what...<end>
+
+=>q3
+Wh-wh-wh-wha... what...<end>
+
+=>q4_original
+::Stares at you with vacant eyes.::<end>
+
+=>q4
+::Stares at you with vacant eyes.::<end>
+
+=>q5_original
+Mmmmm... he...<end>
+
+=>q5
+Mmmmm... he...<end>
+
+=>q6_original
+AAAAAAAAAAAAAAAAAAAA!<end>
+
+=>q6
+AAAAAAAAAAAAAAAAAAAA!<end>
+
+=>q7_original
+::Scratches his face angrily then hits himself in the head a few times.:: Wh-why?<end>
+
+=>q7
+::Scratches his face angrily then hits himself in the head a few times.:: Wh-why?<end>
+
+=>q8_original
+::Drools.:: Ahghg...<end>
+
+=>q8
+::Drools.:: Ahghg...<end>
+
+=>q9_original
+M-m-man... press-press-ur-e... p-ain...<end>
+
+=>q9
+M-m-man... press-press-ur-e... p-ain...<end>
+
+=>q10_original
+::He cradles his face in his hands and weeps.::<end>
+
+=>q10
+::He cradles his face in his hands and weeps.::<end>
+
+=>q11_original
+H-h-h... hell... hel-p...<end>
+
+=>q11
+H-h-h... hell... hel-p...<end>
+
+=>q12_original
+::He slowly sits down and rapidly gets up.::<end>
+
+=>q12
+::He slowly sits down and rapidly gets up.::<end>
+
+=>q13_original
+Ooooo... oooooh... ngh...<end>
+
+=>q13
+Ooooo... oooooh... ngh...<end>
+

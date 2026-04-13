@@ -1,172 +1,172 @@
-=>q1_original
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Lockdown mode initiated. Please enter security code to proceed.<end>
-
-=>q1
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Lockdown mode initiated. Please enter security code to proceed.<end>
-
-=>a2_original
-::Type something random::<end>
-
-=>a2
-::Type something random::<end>
-
-=>q3_original
-::Invalid security code::<end>
-
-=>q3
-::Invalid security code::<end>
-
-=>a4_original
-::Exit::<end>
-
-=>a4
-::Exit::<end>
-
-=>q5_original
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Checking status...
-1 procedure(s) initialized::<end>
-
-=>q5
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Checking status...
-1 procedure(s) initialized::<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-::Initiate toxic gas disposal procedure::<end>
-
-=>a7
-::Initiate toxic gas disposal procedure::<end>
-
-=>q8_original
-::Initiating procedure...
-Assessing pipeline 1 integrity... passed
-Assessing pipeline 2 integrity...
-
-Warning - Pipeline 2 integrity assessment failed!
-Dangerous breach in section C-3 of Pipeline 2 detected!
-Gas disposal procedure aborted due to safety risks.::<end>
-
-=>q8
-::Initiating procedure...
-Assessing pipeline 1 integrity... passed
-Assessing pipeline 2 integrity...
-
-Warning - Pipeline 2 integrity assessment failed!
-Dangerous breach in section C-3 of Pipeline 2 detected!
-Gas disposal procedure aborted due to safety risks.::<end>
-
-=>a9_original
-::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
-
-=>a9
-::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
-
-=>q10_original
-::Initializing toxic gas disposal procedure...
-
-Procedure initialized successfully.
-
-Warning - gas leak detected!
-
-Chamber lockdown initiated!::<end>
-
-=>q10
-::Initializing toxic gas disposal procedure...
-
-Procedure initialized successfully.
-
-Warning - gas leak detected!
-
-Chamber lockdown initiated!::<end>
-
-=>q11_original
-::Unauthorized access blocked!
-
-Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::<end>
-
-=>q11
-::Unauthorized access blocked!
-
-Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::<end>
-
-=>a12_original
-::Back.::<end>
-
-=>a12
-::Back.::<end>
-
-=>q13_original
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Checking status...
-Waste disposal system is on standby - no procedures in place::<end>
-
-=>q13
-::Utility Station 7 - Terminal 6
-Hazardous waste disposal control
-
-Checking status...
-Waste disposal system is on standby - no procedures in place::<end>
-
-=>a14_original
-::Unlock chamber::<end>
-
-=>a14
-::Unlock chamber::<end>
-
-=>q15_original
-::Chamber unlocked successfully::<end>
-
-=>q15
-::Chamber unlocked successfully::<end>
-
-=>a16_original
-::Toggle emergency shutters::<end>
-
-=>a16
-::Toggle emergency shutters::<end>
-
-=>a17_original
-::Toggle emergency shutters::<end>
-
-=>a17
-::Toggle emergency shutters::<end>
-
-=>q18_original
-::Warning - unable to lower emergency shutters!
-
-::<end>
-
-=>q18
-::Warning - unable to lower emergency shutters!
-
-::<end>
-
-=>q19_original
-::Sending notification to maintenance.
-
-Please wait...::<end>
-
-=>q19
-::Sending notification to maintenance.
-
-Please wait...::<end>
-
+=>q1_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Lockdown mode initiated. Please enter security code to proceed.<end>
+
+=>q1
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Lockdown mode initiated. Please enter security code to proceed.<end>
+
+=>a2_original
+::Type something random::<end>
+
+=>a2
+::Type something random::<end>
+
+=>q3_original
+::Invalid security code::<end>
+
+=>q3
+::Invalid security code::<end>
+
+=>a4_original
+::Exit::<end>
+
+=>a4
+::Exit::<end>
+
+=>q5_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+1 procedure(s) initialized::<end>
+
+=>q5
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+1 procedure(s) initialized::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Initiate toxic gas disposal procedure::<end>
+
+=>a7
+::Initiate toxic gas disposal procedure::<end>
+
+=>q8_original
+::Initiating procedure...
+Assessing pipeline 1 integrity... passed
+Assessing pipeline 2 integrity...
+
+Warning - Pipeline 2 integrity assessment failed!
+Dangerous breach in section C-3 of Pipeline 2 detected!
+Gas disposal procedure aborted due to safety risks.::<end>
+
+=>q8
+::Initiating procedure...
+Assessing pipeline 1 integrity... passed
+Assessing pipeline 2 integrity...
+
+Warning - Pipeline 2 integrity assessment failed!
+Dangerous breach in section C-3 of Pipeline 2 detected!
+Gas disposal procedure aborted due to safety risks.::<end>
+
+=>a9_original
+::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
+
+=>a9
+::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
+
+=>q10_original
+::Initializing toxic gas disposal procedure...
+
+Procedure initialized successfully.
+
+Warning - gas leak detected!
+
+Chamber lockdown initiated!::<end>
+
+=>q10
+::Initializing toxic gas disposal procedure...
+
+Procedure initialized successfully.
+
+Warning - gas leak detected!
+
+Chamber lockdown initiated!::<end>
+
+=>q11_original
+::Unauthorized access blocked!
+
+Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::<end>
+
+=>q11
+::Unauthorized access blocked!
+
+Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::<end>
+
+=>a12_original
+::Back.::<end>
+
+=>a12
+::Back.::<end>
+
+=>q13_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+Waste disposal system is on standby - no procedures in place::<end>
+
+=>q13
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+Waste disposal system is on standby - no procedures in place::<end>
+
+=>a14_original
+::Unlock chamber::<end>
+
+=>a14
+::Unlock chamber::<end>
+
+=>q15_original
+::Chamber unlocked successfully::<end>
+
+=>q15
+::Chamber unlocked successfully::<end>
+
+=>a16_original
+::Toggle emergency shutters::<end>
+
+=>a16
+::Toggle emergency shutters::<end>
+
+=>a17_original
+::Toggle emergency shutters::<end>
+
+=>a17
+::Toggle emergency shutters::<end>
+
+=>q18_original
+::Warning - unable to lower emergency shutters!
+
+::<end>
+
+=>q18
+::Warning - unable to lower emergency shutters!
+
+::<end>
+
+=>q19_original
+::Sending notification to maintenance.
+
+Please wait...::<end>
+
+=>q19
+::Sending notification to maintenance.
+
+Please wait...::<end>
+

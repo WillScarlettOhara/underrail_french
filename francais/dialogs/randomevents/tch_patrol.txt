@@ -1,102 +1,102 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Tchort is evolution.<end>
-
-=>q2
-Tchort is evolution.<end>
-
-=>q3_original
-The Faceless are nothing compared to the Preservation Forces. Proven!<end>
-
-=>q3
-The Faceless are nothing compared to the Preservation Forces. Proven!<end>
-
-=>q4_original
-::Performs a Tchortist salute.::<end>
-
-=>q4
-::Performs a Tchortist salute.::<end>
-
-=>q5_original
-Thank you for returning the Reaching Man, $(#brother/sister).<end>
-
-=>q5
-Thank you for returning the Reaching Man, $(#brother/sister).<end>
-
-=>q6_original
-Join Preservation - if you have the guts.<end>
-
-=>q6
-Join Preservation - if you have the guts.<end>
-
-=>q7_original
-Are there any news from Core City?<end>
-
-=>q7
-Are there any news from Core City?<end>
-
-=>q8_original
-The Lunatics are everywhere! As if something is drawing them toward the Institute.<end>
-
-=>q8
-The Lunatics are everywhere! As if something is drawing them toward the Institute.<end>
-
-=>q9_original
-Adapt and overcome.<end>
-
-=>q9
-Adapt and overcome.<end>
-
-=>q10_original
-With Tchort's guidance we *will* walk the Surface!<end>
-
-=>q10
-With Tchort's guidance we *will* walk the Surface!<end>
-
-=>q11_original
-<end>
-
-=>q11
-<end>
-
-=>q12_original
-We are from the Institute of Tchort, traveler.<end>
-
-=>q12
-We are from the Institute of Tchort, traveler.<end>
-
-=>q13_original
-May I help you, traveler?<end>
-
-=>q13
-May I help you, traveler?<end>
-
-=>q14_original
-All Lunatics shall be culled on sight.<end>
-
-=>q14
-All Lunatics shall be culled on sight.<end>
-
-=>q15_original
-Tchort guide you, traveler.<end>
-
-=>q15
-Tchort guide you, traveler.<end>
-
-=>q16_original
-If you find yourself in Core City, seek our missionaries. There is much you can learn.<end>
-
-=>q16
-If you find yourself in Core City, seek our missionaries. There is much you can learn.<end>
-
-=>q17_original
-No reason to fear us, traveler. We wish you no harm.<end>
-
-=>q17
-No reason to fear us, traveler. We wish you no harm.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Tchort is evolution.<end>
+
+=>q2
+Tchort is evolution.<end>
+
+=>q3_original
+The Faceless are nothing compared to the Preservation Forces. Proven!<end>
+
+=>q3
+The Faceless are nothing compared to the Preservation Forces. Proven!<end>
+
+=>q4_original
+::Performs a Tchortist salute.::<end>
+
+=>q4
+::Performs a Tchortist salute.::<end>
+
+=>q5_original
+Thank you for returning the Reaching Man, $(#brother/sister).<end>
+
+=>q5
+Thank you for returning the Reaching Man, $(#brother/sister).<end>
+
+=>q6_original
+Join Preservation - if you have the guts.<end>
+
+=>q6
+Join Preservation - if you have the guts.<end>
+
+=>q7_original
+Are there any news from Core City?<end>
+
+=>q7
+Are there any news from Core City?<end>
+
+=>q8_original
+The Lunatics are everywhere! As if something is drawing them toward the Institute.<end>
+
+=>q8
+The Lunatics are everywhere! As if something is drawing them toward the Institute.<end>
+
+=>q9_original
+Adapt and overcome.<end>
+
+=>q9
+Adapt and overcome.<end>
+
+=>q10_original
+With Tchort's guidance we *will* walk the Surface!<end>
+
+=>q10
+With Tchort's guidance we *will* walk the Surface!<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+We are from the Institute of Tchort, traveler.<end>
+
+=>q12
+We are from the Institute of Tchort, traveler.<end>
+
+=>q13_original
+May I help you, traveler?<end>
+
+=>q13
+May I help you, traveler?<end>
+
+=>q14_original
+All Lunatics shall be culled on sight.<end>
+
+=>q14
+All Lunatics shall be culled on sight.<end>
+
+=>q15_original
+Tchort guide you, traveler.<end>
+
+=>q15
+Tchort guide you, traveler.<end>
+
+=>q16_original
+If you find yourself in Core City, seek our missionaries. There is much you can learn.<end>
+
+=>q16
+If you find yourself in Core City, seek our missionaries. There is much you can learn.<end>
+
+=>q17_original
+No reason to fear us, traveler. We wish you no harm.<end>
+
+=>q17
+No reason to fear us, traveler. We wish you no harm.<end>
+

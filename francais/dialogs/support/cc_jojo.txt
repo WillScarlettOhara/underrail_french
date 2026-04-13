@@ -1,66 +1,66 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-How long do I have to wait here?<end>
-
-=>q2
-How long do I have to wait here?<end>
-
-=>q3_original
-I just want to join Praetorian Security and help people. ::Sighs.:: Okay, shoot zoners. Just zoners!<end>
-
-=>q3
-I just want to join Praetorian Security and help people. ::Sighs.:: Okay, shoot zoners. Just zoners!<end>
-
-=>q4_original
-What if they don't accept me?<end>
-
-=>q4
-What if they don't accept me?<end>
-
-=>q5_original
-You here to join too? See you in training, $(#buddy/sister)!<end>
-
-=>q5
-You here to join too? See you in training, $(#buddy/sister)!<end>
-
-=>q6_original
-I would've shown those Faceless who's hardcore... if I was an enforcer.<end>
-
-=>q6
-I would've shown those Faceless who's hardcore... if I was an enforcer.<end>
-
-=>q7_original
-What if they find out about my Motion addiction? ::Whispers.:: Shush stupid, not too loud!<end>
-
-=>q7
-What if they find out about my Motion addiction? ::Whispers.:: Shush stupid, not too loud!<end>
-
-=>q8_original
-They do a thorough check on all recruits. ::He pauses.:: Oh, damn!<end>
-
-=>q8
-They do a thorough check on all recruits. ::He pauses.:: Oh, damn!<end>
-
-=>q9_original
-I'm gonna be a hardcore enforcer!<end>
-
-=>q9
-I'm gonna be a hardcore enforcer!<end>
-
-=>q10_original
-I once had a dream where I killed a zoner with his laddle... Why did I say that?<end>
-
-=>q10
-I once had a dream where I killed a zoner with his laddle... Why did I say that?<end>
-
-=>q11_original
-Oh, I hope I'll get the chance to whack a few of them Faceless!<end>
-
-=>q11
-Oh, I hope I'll get the chance to whack a few of them Faceless!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+How long do I have to wait here?<end>
+
+=>q2
+How long do I have to wait here?<end>
+
+=>q3_original
+I just want to join Praetorian Security and help people. ::Sighs.:: Okay, shoot zoners. Just zoners!<end>
+
+=>q3
+I just want to join Praetorian Security and help people. ::Sighs.:: Okay, shoot zoners. Just zoners!<end>
+
+=>q4_original
+What if they don't accept me?<end>
+
+=>q4
+What if they don't accept me?<end>
+
+=>q5_original
+You here to join too? See you in training, $(#buddy/sister)!<end>
+
+=>q5
+You here to join too? See you in training, $(#buddy/sister)!<end>
+
+=>q6_original
+I would've shown those Faceless who's hardcore... if I was an enforcer.<end>
+
+=>q6
+I would've shown those Faceless who's hardcore... if I was an enforcer.<end>
+
+=>q7_original
+What if they find out about my Motion addiction? ::Whispers.:: Shush stupid, not too loud!<end>
+
+=>q7
+What if they find out about my Motion addiction? ::Whispers.:: Shush stupid, not too loud!<end>
+
+=>q8_original
+They do a thorough check on all recruits. ::He pauses.:: Oh, damn!<end>
+
+=>q8
+They do a thorough check on all recruits. ::He pauses.:: Oh, damn!<end>
+
+=>q9_original
+I'm gonna be a hardcore enforcer!<end>
+
+=>q9
+I'm gonna be a hardcore enforcer!<end>
+
+=>q10_original
+I once had a dream where I killed a zoner with his laddle... Why did I say that?<end>
+
+=>q10
+I once had a dream where I killed a zoner with his laddle... Why did I say that?<end>
+
+=>q11_original
+Oh, I hope I'll get the chance to whack a few of them Faceless!<end>
+
+=>q11
+Oh, I hope I'll get the chance to whack a few of them Faceless!<end>
+

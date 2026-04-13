@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-'Sup?<end>
-
-=>q2
-'Sup?<end>
-
-=>q3_original
-Buildin' muscles, $(#man/sis). Them gains.<end>
-
-=>q3
-Buildin' muscles, $(#man/sis). Them gains.<end>
-
-=>q4_original
-Damn... things have gotten a whole lot more interestin' lately.<end>
-
-=>q4
-Damn... things have gotten a whole lot more interestin' lately.<end>
-
-=>q5_original
-Gorsky died in Core City, did you hear?<end>
-
-=>q5
-Gorsky died in Core City, did you hear?<end>
-
-=>q6_original
-What's your macro?<end>
-
-=>q6
-What's your macro?<end>
-
-=>q7_original
-If you wanna use the weights, please put them back on the rack when you're done.<end>
-
-=>q7
-If you wanna use the weights, please put them back on the rack when you're done.<end>
-
-=>q8_original
-Got any news from Core City?<end>
-
-=>q8
-Got any news from Core City?<end>
-
-=>q9_original
-I can hold a brew bottle between my pecs, $(#man/sis).<end>
-
-=>q9
-I can hold a brew bottle between my pecs, $(#man/sis).<end>
-
-=>q10_original
-I don't work my pecs often, but when I do - I hit them hard!<end>
-
-=>q10
-I don't work my pecs often, but when I do - I hit them hard!<end>
-
-=>q11_original
-Finally, them Tunnelers are g-o-n-e! Yeah!<end>
-
-=>q11
-Finally, them Tunnelers are g-o-n-e! Yeah!<end>
-
-=>q12_original
-Never skip chest day.<end>
-
-=>q12
-Never skip chest day.<end>
-
-=>q13_original
-Wanna use those punchin' bags? Let's see how hard you hit, $(#man/sis).<end>
-
-=>q13
-Wanna use those punchin' bags? Let's see how hard you hit, $(#man/sis).<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+'Sup?<end>
+
+=>q2
+'Sup?<end>
+
+=>q3_original
+Buildin' muscles, $(#man/sis). Them gains.<end>
+
+=>q3
+Buildin' muscles, $(#man/sis). Them gains.<end>
+
+=>q4_original
+Damn... things have gotten a whole lot more interestin' lately.<end>
+
+=>q4
+Damn... things have gotten a whole lot more interestin' lately.<end>
+
+=>q5_original
+Gorsky died in Core City, did you hear?<end>
+
+=>q5
+Gorsky died in Core City, did you hear?<end>
+
+=>q6_original
+What's your macro?<end>
+
+=>q6
+What's your macro?<end>
+
+=>q7_original
+If you wanna use the weights, please put them back on the rack when you're done.<end>
+
+=>q7
+If you wanna use the weights, please put them back on the rack when you're done.<end>
+
+=>q8_original
+Got any news from Core City?<end>
+
+=>q8
+Got any news from Core City?<end>
+
+=>q9_original
+I can hold a brew bottle between my pecs, $(#man/sis).<end>
+
+=>q9
+I can hold a brew bottle between my pecs, $(#man/sis).<end>
+
+=>q10_original
+I don't work my pecs often, but when I do - I hit them hard!<end>
+
+=>q10
+I don't work my pecs often, but when I do - I hit them hard!<end>
+
+=>q11_original
+Finally, them Tunnelers are g-o-n-e! Yeah!<end>
+
+=>q11
+Finally, them Tunnelers are g-o-n-e! Yeah!<end>
+
+=>q12_original
+Never skip chest day.<end>
+
+=>q12
+Never skip chest day.<end>
+
+=>q13_original
+Wanna use those punchin' bags? Let's see how hard you hit, $(#man/sis).<end>
+
+=>q13
+Wanna use those punchin' bags? Let's see how hard you hit, $(#man/sis).<end>
+

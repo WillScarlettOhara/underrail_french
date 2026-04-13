@@ -1,36 +1,36 @@
-=>q1_original
-::He signals you to leave.::<end>
-
-=>q1
-::He signals you to leave.::<end>
-
-=>q2_original
-::Your approach to the two Faceless guards is met neither with words of greeting nor a gesture to stop - or even to drive you away - but is met with an immediate outburst of indiscriminate aggression.::<end>
-
-=>q2
-::Your approach to the two Faceless guards is met neither with words of greeting nor a gesture to stop - or even to drive you away - but is met with an immediate outburst of indiscriminate aggression.::<end>
-
-=>a3_original
-::Fight!::<end>
-
-=>a3
-::Fight!::<end>
-
-=>q4_original
-::As soon as your presence becomes known to the two Faceless guards, they raise their weapons in unison, ready to use them. But suddenly, they freeze. The hallway becomes noiseless; even when the two guards lower their weapons you hear no talking nor notice any visible signals between them. Several seconds pass before one of them turns around.::<end>
-
-=>q4
-::As soon as your presence becomes known to the two Faceless guards, they raise their weapons in unison, ready to use them. But suddenly, they freeze. The hallway becomes noiseless; even when the two guards lower their weapons you hear no talking nor notice any visible signals between them. Several seconds pass before one of them turns around.::<end>
-
-=>a5_original
-::Wait and see what happens.::<end>
-
-=>a5
-::Wait and see what happens.::<end>
-
-=>a6_original
-::Attack!::<end>
-
-=>a6
-::Attack!::<end>
-
+=>q1_original
+::He signals you to leave.::<end>
+
+=>q1
+::He signals you to leave.::<end>
+
+=>q2_original
+::Your approach to the two Faceless guards is met neither with words of greeting nor a gesture to stop - or even to drive you away - but is met with an immediate outburst of indiscriminate aggression.::<end>
+
+=>q2
+::Your approach to the two Faceless guards is met neither with words of greeting nor a gesture to stop - or even to drive you away - but is met with an immediate outburst of indiscriminate aggression.::<end>
+
+=>a3_original
+::Fight!::<end>
+
+=>a3
+::Fight!::<end>
+
+=>q4_original
+::As soon as your presence becomes known to the two Faceless guards, they raise their weapons in unison, ready to use them. But suddenly, they freeze. The hallway becomes noiseless; even when the two guards lower their weapons you hear no talking nor notice any visible signals between them. Several seconds pass before one of them turns around.::<end>
+
+=>q4
+::As soon as your presence becomes known to the two Faceless guards, they raise their weapons in unison, ready to use them. But suddenly, they freeze. The hallway becomes noiseless; even when the two guards lower their weapons you hear no talking nor notice any visible signals between them. Several seconds pass before one of them turns around.::<end>
+
+=>a5_original
+::Wait and see what happens.::<end>
+
+=>a5
+::Wait and see what happens.::<end>
+
+=>a6_original
+::Attack!::<end>
+
+=>a6
+::Attack!::<end>
+

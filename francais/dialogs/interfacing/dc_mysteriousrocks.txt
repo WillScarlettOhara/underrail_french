@@ -1,84 +1,84 @@
-=>q1_original
-::The pillars are dormant.::<end>
-
-=>q1
-::The pillars are dormant.::<end>
-
-=>q2_original
-::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
-
-=>q2
-::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
-
-=>a3_original
-::Focus your mind on the pillars.::<end>
-
-=>a3
-::Focus your mind on the pillars.::<end>
-
-=>q4_original
-::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
-
-=>q4
-::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
-
-=>q5_original
-::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
-
-=>q5
-::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
-
-=>q6_original
-::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which alien thoughts pour into you.::<end>
-
-=>q6
-::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which alien thoughts pour into you.::<end>
-
-=>q7_original
-::They gather now around the Machine God. It is not customary to do so, for He is not a god of discovery or hope, but a jailer, a warden... or, at best, a watcher of dark horizons.::<end>
-
-=>q7
-::They gather now around the Machine God. It is not customary to do so, for He is not a god of discovery or hope, but a jailer, a warden... or, at best, a watcher of dark horizons.::<end>
-
-=>q8_original
-::On this day, however, from this point, the Chosen set out onto their greatest journey yet and they need His blessing. The great arch that they'll travel across will take them across to the other side of His walls.::<end>
-
-=>q8
-::On this day, however, from this point, the Chosen set out onto their greatest journey yet and they need His blessing. The great arch that they'll travel across will take them across to the other side of His walls.::<end>
-
-=>q9_original
-::They will lose much of themselves in the process, but, by His Grace, will be made anew. To sail the black seas of infinity but not to submerge and drown - that is the miracle only their great benevolent God of the Machine could perform.::<end>
-
-=>q9
-::They will lose much of themselves in the process, but, by His Grace, will be made anew. To sail the black seas of infinity but not to submerge and drown - that is the miracle only their great benevolent God of the Machine could perform.::<end>
-
-=>q10_original
-::Or so they hope.::<end>
-
-=>q10
-::Or so they hope.::<end>
-
-=>q11_original
-::The stream of alien thoughts ends and you find yourself in the real world again, feeling strangely melancholic.::<end>
-
-=>q11
-::The stream of alien thoughts ends and you find yourself in the real world again, feeling strangely melancholic.::<end>
-
-=>a12_original
-::End Dialog.::<end>
-
-=>a12
-::End Dialog.::<end>
-
-=>q13_original
-::A stream of blurry visions rush through your mind, but you are unable to focus on any of them. Eventually the mental link with the pillars breaks.::<end>
-
-=>q13
-::A stream of blurry visions rush through your mind, but you are unable to focus on any of them. Eventually the mental link with the pillars breaks.::<end>
-
-=>a14_original
-::Leave the pillars alone.::<end>
-
-=>a14
-::Leave the pillars alone.::<end>
-
+=>q1_original
+::The pillars are dormant.::<end>
+
+=>q1
+::The pillars are dormant.::<end>
+
+=>q2_original
+::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
+
+=>q2
+::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
+
+=>a3_original
+::Focus your mind on the pillars.::<end>
+
+=>a3
+::Focus your mind on the pillars.::<end>
+
+=>q4_original
+::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
+
+=>q4
+::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
+
+=>q5_original
+::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
+
+=>q5
+::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
+
+=>q6_original
+::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which alien thoughts pour into you.::<end>
+
+=>q6
+::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which alien thoughts pour into you.::<end>
+
+=>q7_original
+::They gather now around the Machine God. It is not customary to do so, for He is not a god of discovery or hope, but a jailer, a warden... or, at best, a watcher of dark horizons.::<end>
+
+=>q7
+::They gather now around the Machine God. It is not customary to do so, for He is not a god of discovery or hope, but a jailer, a warden... or, at best, a watcher of dark horizons.::<end>
+
+=>q8_original
+::On this day, however, from this point, the Chosen set out onto their greatest journey yet and they need His blessing. The great arch that they'll travel across will take them across to the other side of His walls.::<end>
+
+=>q8
+::On this day, however, from this point, the Chosen set out onto their greatest journey yet and they need His blessing. The great arch that they'll travel across will take them across to the other side of His walls.::<end>
+
+=>q9_original
+::They will lose much of themselves in the process, but, by His Grace, will be made anew. To sail the black seas of infinity but not to submerge and drown - that is the miracle only their great benevolent God of the Machine could perform.::<end>
+
+=>q9
+::They will lose much of themselves in the process, but, by His Grace, will be made anew. To sail the black seas of infinity but not to submerge and drown - that is the miracle only their great benevolent God of the Machine could perform.::<end>
+
+=>q10_original
+::Or so they hope.::<end>
+
+=>q10
+::Or so they hope.::<end>
+
+=>q11_original
+::The stream of alien thoughts ends and you find yourself in the real world again, feeling strangely melancholic.::<end>
+
+=>q11
+::The stream of alien thoughts ends and you find yourself in the real world again, feeling strangely melancholic.::<end>
+
+=>a12_original
+::End Dialog.::<end>
+
+=>a12
+::End Dialog.::<end>
+
+=>q13_original
+::A stream of blurry visions rush through your mind, but you are unable to focus on any of them. Eventually the mental link with the pillars breaks.::<end>
+
+=>q13
+::A stream of blurry visions rush through your mind, but you are unable to focus on any of them. Eventually the mental link with the pillars breaks.::<end>
+
+=>a14_original
+::Leave the pillars alone.::<end>
+
+=>a14
+::Leave the pillars alone.::<end>
+

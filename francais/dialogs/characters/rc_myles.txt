@@ -1,2564 +1,2564 @@
-=>q1_original
-We're closed.<end>
-
-=>q1
-We're closed.<end>
-
-=>q2_original
-Alright, it's up and emitting. Now, if you don't mind, I'm gonna put some distance between it and myself, just in case the Faceless figure out what's going on and decide to plasma-melt it.<end>
-
-=>q2
-Alright, it's up and emitting. Now, if you don't mind, I'm gonna put some distance between it and myself, just in case the Faceless figure out what's going on and decide to plasma-melt it.<end>
-
-=>q3_original
-You have fun now...<end>
-
-=>q3
-You have fun now...<end>
-
-=>q4_original
-Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
-
-=>q4
-Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
-
-=>q5_original
-That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
-
-=>q5
-That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
-
-=>q6_original
-Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
-
-=>q6
-Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>a8_original
-Let me see what you have to trade. ::Barter.::<end>
-
-=>a8
-Let me see what you have to trade. ::Barter.::<end>
-
-=>a9_original
-Did you ever work on old world firearms before?<end>
-
-=>a9
-Did you ever work on old world firearms before?<end>
-
-=>q10_original
-Old world? Yeah, I've worked on a couple during my lifetime. ::His face brightens up as he continues.:: You know, what I love the most about some of them is this material they're made of, this... 
-
-...*wood*.<end>
-
-=>q10
-Old world? Yeah, I've worked on a couple during my lifetime. ::His face brightens up as he continues.:: You know, what I love the most about some of them is this material they're made of, this... 
-
-...*wood*.<end>
-
-=>a11_original
-Wood?<end>
-
-=>a11
-Wood?<end>
-
-=>q12_original
-Wood.<end>
-
-=>q12
-Wood.<end>
-
-=>q13_original
-It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
-
-=>q13
-It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
-
-=>a14_original
-::Show him AKX.:: You mean like here?<end>
-
-=>a14
-::Show him AKX.:: You mean like here?<end>
-
-=>q15_original
-Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
-
-=>q15
-Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
-
-=>q16_original
-::After looking at it for some more, he continues.:: <end>
-
-=>q16
-::After looking at it for some more, he continues.:: <end>
-
-=>q17_original
-Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
-
-=>q17
-Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
-
-=>q18_original
-All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
-
-=>q18
-All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
-
-=>q19_original
-<end>
-
-=>q19
-<end>
-
-=>a20_original
-So, can you take a look at this? ::Give him Dragunov.::<end>
-
-=>a20
-So, can you take a look at this? ::Give him Dragunov.::<end>
-
-=>q21_original
-<end>
-
-=>q21
-<end>
-
-=>q22_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q22
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q23_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Spearhead frame for some spare parts. ::[Quality 110]::
-
-Add to that a high resolution digital scope and you'll end up with one powerful rifle.<end>
-
-=>q23
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Spearhead frame for some spare parts. ::[Quality 110]::
-
-Add to that a high resolution digital scope and you'll end up with one powerful rifle.<end>
-
-=>a24_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a24
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>q25_original
-::He takes everything, including the weapon.:: Alright, time to get started. <end>
-
-=>q25
-::He takes everything, including the weapon.:: Alright, time to get started. <end>
-
-=>q26_original
-I'm... excited, to be honest.<end>
-
-=>q26
-I'm... excited, to be honest.<end>
-
-=>q27_original
-Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
-
-=>q27
-Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
-
-=>q28_original
-Anything else you need before I start?<end>
-
-=>q28
-Anything else you need before I start?<end>
-
-=>q29_original
-Can't tell how long it's gonna take exactly, but it won't be quick. <end>
-
-=>q29
-Can't tell how long it's gonna take exactly, but it won't be quick. <end>
-
-=>q30_original
-<end>
-
-=>q30
-<end>
-
-=>a31_original
-Can we negotiate the price?<end>
-
-=>a31
-Can we negotiate the price?<end>
-
-=>q32_original
-Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
-
-=>q32
-Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
-
-=>a33_original
-You could've just said no.<end>
-
-=>a33
-You could've just said no.<end>
-
-=>q34_original
-*No*.<end>
-
-=>q34
-*No*.<end>
-
-=>q35_original
-But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppose I can lower the price.<end>
-
-=>q35
-But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppose I can lower the price.<end>
-
-=>a36_original
-::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
-
-=>a36
-::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
-
-=>q37_original
-::He waves your idea away.:: No, no. I work with no one. <end>
-
-=>q37
-::He waves your idea away.:: No, no. I work with no one. <end>
-
-=>q38_original
-What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
-
-That'd save me some time, and it'd save you some coins.<end>
-
-=>q38
-What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
-
-That'd save me some time, and it'd save you some coins.<end>
-
-=>q39_original
-<end>
-
-=>q39
-<end>
-
-=>a40_original
-"Old World Firearms." Over thirty thousand technical manuals for, well, old world firearms. ::Put the memory stick on the counter as a full stop to your statement.::<end>
-
-=>a40
-"Old World Firearms." Over thirty thousand technical manuals for, well, old world firearms. ::Put the memory stick on the counter as a full stop to your statement.::<end>
-
-=>q41_original
-::He glances at it, then you, then takes it as if it were made of finest wood.:: Didn't know such a thing even existed...<end>
-
-=>q41
-::He glances at it, then you, then takes it as if it were made of finest wood.:: Didn't know such a thing even existed...<end>
-
-=>a42_original
-You better believe it.<end>
-
-=>a42
-You better believe it.<end>
-
-=>q43_original
-Yeah...<end>
-
-=>q43
-Yeah...<end>
-
-=>q44_original
-Can't wait to check out this little train of goodies here. <end>
-
-=>q44
-Can't wait to check out this little train of goodies here. <end>
-
-=>q45_original
-Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
-
-=>q45
-Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
-
-=>a46_original
-Think that should cover pretty much any firearm I bring to you.<end>
-
-=>a46
-Think that should cover pretty much any firearm I bring to you.<end>
-
-=>a47_original
-I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
-
-=>a47
-I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
-
-=>q48_original
-You... did? That's great! ::He pockets the memory stick after taking a look at it.::<end>
-
-=>q48
-You... did? That's great! ::He pockets the memory stick after taking a look at it.::<end>
-
-=>a49_original
-I found these technical manuals for contemporary and historical rifles and shotguns.<end>
-
-=>a49
-I found these technical manuals for contemporary and historical rifles and shotguns.<end>
-
-=>a50_original
-I found these technical manuals for contemporary and historical machine guns.<end>
-
-=>a50
-I found these technical manuals for contemporary and historical machine guns.<end>
-
-=>a51_original
-I found these technical manuals for contemporary and historical grenade and rocket launchers.<end>
-
-=>a51
-I found these technical manuals for contemporary and historical grenade and rocket launchers.<end>
-
-=>a52_original
-I've got this old world handgun...<end>
-
-=>a52
-I've got this old world handgun...<end>
-
-=>q53_original
-::He eagerly waits for you to continue.::<end>
-
-=>q53
-::He eagerly waits for you to continue.::<end>
-
-=>q54_original
-<end>
-
-=>q54
-<end>
-
-=>a55_original
-::Show him Bieretta 99.::<end>
-
-=>a55
-::Show him Bieretta 99.::<end>
-
-=>q56_original
-<end>
-
-=>q56
-<end>
-
-=>q57_original
-Very nice, very nice. ::He aims the gun at the wall.:: Feels good in the hands, I gotta say. Good sights too. 
-
-::He then checks the barrel end.:: It's threaded. Could add a silencer to it.<end>
-
-=>q57
-Very nice, very nice. ::He aims the gun at the wall.:: Feels good in the hands, I gotta say. Good sights too. 
-
-::He then checks the barrel end.:: It's threaded. Could add a silencer to it.<end>
-
-=>q58_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q58
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q59_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Neo Luger frame for some spare parts. ::[Quality 110]::
-
-Add to that a silencer and an extended mag and you'll end up with a top-tier pistol.<end>
-
-=>q59
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Neo Luger frame for some spare parts. ::[Quality 110]::
-
-Add to that a silencer and an extended mag and you'll end up with a top-tier pistol.<end>
-
-=>a60_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
-
-=>a60
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
-
-=>a61_original
-I have another weapon I wanted to show you...<end>
-
-=>a61
-I have another weapon I wanted to show you...<end>
-
-=>q62_original
-Alright.<end>
-
-=>q62
-Alright.<end>
-
-=>a63_original
-I'll think about it. Meanwhile, there's this unrelated thing...<end>
-
-=>a63
-I'll think about it. Meanwhile, there's this unrelated thing...<end>
-
-=>q64_original
-Ah... Let's hear it then.<end>
-
-=>q64
-Ah... Let's hear it then.<end>
-
-=>a65_original
-::Show him Glück 17.::<end>
-
-=>a65
-::Show him Glück 17.::<end>
-
-=>q66_original
-<end>
-
-=>q66
-<end>
-
-=>q67_original
-*Glück?* ::He comments after reading its name on the side.:: What kind of a name is Glück? ::He handles the pistol for a few moments, then continues.:: Feels very modern, though. Light, good sights... large magazine.<end>
-
-=>q67
-*Glück?* ::He comments after reading its name on the side.:: What kind of a name is Glück? ::He handles the pistol for a few moments, then continues.:: Feels very modern, though. Light, good sights... large magazine.<end>
-
-=>q68_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q68
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q69_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 120]::
-
-Add to that a rapid reloader and an extended mag and you'll end up with a top-tier pistol.<end>
-
-=>q69
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 120]::
-
-Add to that a rapid reloader and an extended mag and you'll end up with a top-tier pistol.<end>
-
-=>a70_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a70
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a71_original
-::Show him TT 3000.::<end>
-
-=>a71
-::Show him TT 3000.::<end>
-
-=>q72_original
-<end>
-
-=>q72
-<end>
-
-=>q73_original
-Looks like a robust pistol. ::He checks the trigger and the slide.:: Unrefined, sure, but looks like an effective weapon. ::He looks down the sights.:: Although... ::He smirks.:: These sights are no good. Bad picture, not illuminated. Hard to shoot this in the dark.<end>
-
-=>q73
-Looks like a robust pistol. ::He checks the trigger and the slide.:: Unrefined, sure, but looks like an effective weapon. ::He looks down the sights.:: Although... ::He smirks.:: These sights are no good. Bad picture, not illuminated. Hard to shoot this in the dark.<end>
-
-=>q74_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q74
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q75_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Hawker frame for some spare parts. ::[Quality 110]::
-
-Add to that a laser sight and you'll end up with a top-tier pistol.<end>
-
-=>q75
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Hawker frame for some spare parts. ::[Quality 110]::
-
-Add to that a laser sight and you'll end up with a top-tier pistol.<end>
-
-=>a76_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a76
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a77_original
-::Show him W&S .44 Magnum.::<end>
-
-=>a77
-::Show him W&S .44 Magnum.::<end>
-
-=>q78_original
-<end>
-
-=>q78
-<end>
-
-=>q79_original
-What a beautiful revolver... A fourty-four, right? ::He spins the cylinder a few times, cocks the hammer, and then dry fires it a few times.:: The trigger's good. ::He extends his arm and aims the gun at a wall.:: Damn, feels like I could blow a guy's head clean off with this beauty.<end>
-
-=>q79
-What a beautiful revolver... A fourty-four, right? ::He spins the cylinder a few times, cocks the hammer, and then dry fires it a few times.:: The trigger's good. ::He extends his arm and aims the gun at a wall.:: Damn, feels like I could blow a guy's head clean off with this beauty.<end>
-
-=>q80_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q80
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q81_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Say yes and I'll turn this beauty into a true beast.<end>
-
-=>q81
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Say yes and I'll turn this beauty into a true beast.<end>
-
-=>a82_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a82
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a83_original
-::Show him Wasteland Hawk.::<end>
-
-=>a83
-::Show him Wasteland Hawk.::<end>
-
-=>q84_original
-<end>
-
-=>q84
-<end>
-
-=>q85_original
-What the...? ::He picks up the handgun, surprised by its weight.:: That's one boulder of a pistol! At least two kilos, if not more.
-
-Doesn't look practical, but I sure as hell wouldn't wanna stare down *that* barrel.<end>
-
-=>q85
-What the...? ::He picks up the handgun, surprised by its weight.:: That's one boulder of a pistol! At least two kilos, if not more.
-
-Doesn't look practical, but I sure as hell wouldn't wanna stare down *that* barrel.<end>
-
-=>q86_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q86
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q87_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hammerer frame for some spare parts. ::[Quality 125]::
-
-You get me that and I'll make this hand cannon even more powerful.<end>
-
-=>q87
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hammerer frame for some spare parts. ::[Quality 125]::
-
-You get me that and I'll make this hand cannon even more powerful.<end>
-
-=>a88_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
-
-=>a88
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
-
-=>a89_original
-::Show him ZC 99.::<end>
-
-=>a89
-::Show him ZC 99.::<end>
-
-=>q90_original
-<end>
-
-=>q90
-<end>
-
-=>q91_original
-Hmmm, hefty gun. ::He pulls the slide.:: Solid steel. Very good.
-
-::He plays with the ambidextrous controls for a bit, tests the trigger and feels with his thumb the loaded chamber indicator pin at the top of the handgun.:: Robust - and remarkably... *authoritative.*<end>
-
-=>q91
-Hmmm, hefty gun. ::He pulls the slide.:: Solid steel. Very good.
-
-::He plays with the ambidextrous controls for a bit, tests the trigger and feels with his thumb the loaded chamber indicator pin at the top of the handgun.:: Robust - and remarkably... *authoritative.*<end>
-
-=>q92_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q92
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q93_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 110]::
-
-Add to that a rapid reloader and you'll end up with a top-tier pistol.<end>
-
-=>q93
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 110]::
-
-Add to that a rapid reloader and you'll end up with a top-tier pistol.<end>
-
-=>a94_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a94
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a95_original
-I have a different kind of weapon in mind.<end>
-
-=>a95
-I have a different kind of weapon in mind.<end>
-
-=>a96_original
-I've got this old world submachine gun...<end>
-
-=>a96
-I've got this old world submachine gun...<end>
-
-=>q97_original
-::He eagerly waits for you to continue.::<end>
-
-=>q97
-::He eagerly waits for you to continue.::<end>
-
-=>q98_original
-<end>
-
-=>q98
-<end>
-
-=>a99_original
-::Show him K&H MP6.::<end>
-
-=>a99
-::Show him K&H MP6.::<end>
-
-=>q100_original
-<end>
-
-=>q100
-<end>
-
-=>q101_original
-Now this is what I call an SMG. ::He flips the fire selector, going from the symbol of a single red bullet, to three, and then finally to seven.:: Very well illustrated. ::He then flips it into its safe position - a crossed out white bullet.::<end>
-
-=>q101
-Now this is what I call an SMG. ::He flips the fire selector, going from the symbol of a single red bullet, to three, and then finally to seven.:: Very well illustrated. ::He then flips it into its safe position - a crossed out white bullet.::<end>
-
-=>q102_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q102
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q103_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Steel Cat frame for some spare parts. ::[Quality 115]::
-
-Add to that a muzzle brake and you'll end up with a mean submachine gun.<end>
-
-=>q103
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Steel Cat frame for some spare parts. ::[Quality 115]::
-
-Add to that a muzzle brake and you'll end up with a mean submachine gun.<end>
-
-=>a104_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a104
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a105_original
-::Show him Mini-Izu.::<end>
-
-=>a105
-::Show him Mini-Izu.::<end>
-
-=>q106_original
-<end>
-
-=>q106
-<end>
-
-=>q107_original
-::He takes the miniature submachine gun.:: Crude little weapon. Short barrel, probably low accuracy.
-
-::He performs a few quick draws.:: But, but... You can come up to someone and just... ::He aims it with one hand.:: ...*unload* and see what happens.<end>
-
-=>q107
-::He takes the miniature submachine gun.:: Crude little weapon. Short barrel, probably low accuracy.
-
-::He performs a few quick draws.:: But, but... You can come up to someone and just... ::He aims it with one hand.:: ...*unload* and see what happens.<end>
-
-=>q108_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q108
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q109_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a decent Jackrabbit frame for some spare parts. ::[Quality 100]::
-
-Add to that a rapid reloader and you'll end up with a mean little submachine gun.<end>
-
-=>q109
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a decent Jackrabbit frame for some spare parts. ::[Quality 100]::
-
-Add to that a rapid reloader and you'll end up with a mean little submachine gun.<end>
-
-=>a110_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a110
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a111_original
-::Show him NF R90.::<end>
-
-=>a111
-::Show him NF R90.::<end>
-
-=>q112_original
-<end>
-
-=>q112
-<end>
-
-=>q113_original
-What an interesting-looking submachine gun... ::He removes the top-loaded magazine and marvels at the design.:: I've seen similar things, but never done like this. Looks very contemporary, and yet oddly at the same time it doesn't...<end>
-
-=>q113
-What an interesting-looking submachine gun... ::He removes the top-loaded magazine and marvels at the design.:: I've seen similar things, but never done like this. Looks very contemporary, and yet oddly at the same time it doesn't...<end>
-
-=>q114_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q114
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q115_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Impala frame for some spare parts. ::[Quality 125]::
-
-You get me that and I'll give you a mean submachine gun.<end>
-
-=>q115
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Impala frame for some spare parts. ::[Quality 125]::
-
-You get me that and I'll give you a mean submachine gun.<end>
-
-=>a116_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a116
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a117_original
-::Show him Syg MPX.::<end>
-
-=>a117
-::Show him Syg MPX.::<end>
-
-=>q118_original
-<end>
-
-=>q118
-<end>
-
-=>q119_original
-Seems like submachine guns have changed very little since their old world counterparts. ::He aims the submachine gun at a wall, raising it and lowering a few times.:: Feels good. Has a rail interface system. Unusual one, but one. With a few tweaks I could add a few attachments...<end>
-
-=>q119
-Seems like submachine guns have changed very little since their old world counterparts. ::He aims the submachine gun at a wall, raising it and lowering a few times.:: Feels good. Has a rail interface system. Unusual one, but one. With a few tweaks I could add a few attachments...<end>
-
-=>q120_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q120
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q121_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Steel Cat frame for some spare parts. ::[Quality 125]::
-
-Add to that a laser sight and an extended magazine and you'll end up with a mean submachine gun.<end>
-
-=>q121
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Steel Cat frame for some spare parts. ::[Quality 125]::
-
-Add to that a laser sight and an extended magazine and you'll end up with a mean submachine gun.<end>
-
-=>a122_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a122
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a123_original
-::Show him Tommy Gun.::<end>
-
-=>a123
-::Show him Tommy Gun.::<end>
-
-=>q124_original
-<end>
-
-=>q124
-<end>
-
-=>q125_original
-What a beauty! ::He feels the wooden furniture, taking a good look at wood's texture.:: Every gun's different. ::He aims it from the hip.:: Oddly empowering. You don't get that with most submachine guns.<end>
-
-=>q125
-What a beauty! ::He feels the wooden furniture, taking a good look at wood's texture.:: Every gun's different. ::He aims it from the hip.:: Oddly empowering. You don't get that with most submachine guns.<end>
-
-=>q126_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q126
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q127_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 120]::
-
-Add to that a compensator to keep it steady and you'll end up with a mean submachine gun.<end>
-
-=>q127
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 120]::
-
-Add to that a compensator to keep it steady and you'll end up with a mean submachine gun.<end>
-
-=>a128_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a128
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a129_original
-::Show him RRCh-42.::<end>
-
-=>a129
-::Show him RRCh-42.::<end>
-
-=>q130_original
-<end>
-
-=>q130
-<end>
-
-=>q131_original
-Ah, it's stock is made of wood. Incredible! ::He inspects the submachine gun visually.:: What a crude design. Seems like it's made from stamped steel. Still, I wouldn't want to get shot with this.<end>
-
-=>q131
-Ah, it's stock is made of wood. Incredible! ::He inspects the submachine gun visually.:: What a crude design. Seems like it's made from stamped steel. Still, I wouldn't want to get shot with this.<end>
-
-=>q132_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q132
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q133_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 115]::
-
-You get me that and I'll give you a mean submachine gun.<end>
-
-=>q133
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 115]::
-
-You get me that and I'll give you a mean submachine gun.<end>
-
-=>a134_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a134
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a135_original
-I've got this old world assault rifle...<end>
-
-=>a135
-I've got this old world assault rifle...<end>
-
-=>q136_original
-::He eagerly waits for you to continue.::<end>
-
-=>q136
-::He eagerly waits for you to continue.::<end>
-
-=>q137_original
-<end>
-
-=>q137
-<end>
-
-=>a138_original
-::Show him AKX.::<end>
-
-=>a138
-::Show him AKX.::<end>
-
-=>q139_original
-<end>
-
-=>q139
-<end>
-
-=>q140_original
-::He takes the rifle, presses it against his shoulder and aims down the sights at a wall.:: Feels like I'm holding so much history in my hands. Incredible.<end>
-
-=>q140
-::He takes the rifle, presses it against his shoulder and aims down the sights at a wall.:: Feels like I'm holding so much history in my hands. Incredible.<end>
-
-=>q141_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q141
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q142_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Huszar frame for some spare parts. ::[Quality 120]::
-
-You get me that and I'll give you one sublime rifle.<end>
-
-=>q142
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Huszar frame for some spare parts. ::[Quality 120]::
-
-You get me that and I'll give you one sublime rifle.<end>
-
-=>a143_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a143
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a144_original
-::Show him K&H KH416.::<end>
-
-=>a144
-::Show him K&H KH416.::<end>
-
-=>q145_original
-<end>
-
-=>q145
-<end>
-
-=>q146_original
-Interesting rifle. Supports accessories, although the rail system is a bit different. Lots of room for various attachments.<end>
-
-=>q146
-Interesting rifle. Supports accessories, although the rail system is a bit different. Lots of room for various attachments.<end>
-
-=>q147_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q147
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q148_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 120]::
-
-Add to that a forward grip and a scope and you'll end up with one sublime rifle.<end>
-
-=>q148
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 120]::
-
-Add to that a forward grip and a scope and you'll end up with one sublime rifle.<end>
-
-=>a149_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a149
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a150_original
-::Show him N16.::<end>
-
-=>a150
-::Show him N16.::<end>
-
-=>q151_original
-<end>
-
-=>q151
-<end>
-
-=>q152_original
-::He holds the rifle, staring at it for a while before speaking.:: You know, it's as if I'm looking at a... at a proto-rifle. Somehow it reminds me of many assault rifles, yet simpler and more elegant somehow.<end>
-
-=>q152
-::He holds the rifle, staring at it for a while before speaking.:: You know, it's as if I'm looking at a... at a proto-rifle. Somehow it reminds me of many assault rifles, yet simpler and more elegant somehow.<end>
-
-=>q153_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q153
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q154_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 130]::
-
-You get me that and I'll give you one sublime rifle.<end>
-
-=>q154
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 130]::
-
-You get me that and I'll give you one sublime rifle.<end>
-
-=>a155_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a155
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a156_original
-::Show him NF F2500.::<end>
-
-=>a156
-::Show him NF F2500.::<end>
-
-=>q157_original
-<end>
-
-=>q157
-<end>
-
-=>q158_original
-Very modern-looking. ::He aims the rifle at a wall for a few seconds, then continues.:: If you hadn't told me this is an old world weapon I would've thought this was just some regular rifle.<end>
-
-=>q158
-Very modern-looking. ::He aims the rifle at a wall for a few seconds, then continues.:: If you hadn't told me this is an old world weapon I would've thought this was just some regular rifle.<end>
-
-=>q159_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q159
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q160_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
-
-Add to that a rapid reloader and you'll end up with one sublime rifle.<end>
-
-=>q160
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
-
-Add to that a rapid reloader and you'll end up with one sublime rifle.<end>
-
-=>a161_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a161
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a162_original
-::Show him Steyr-Auch.::<end>
-
-=>a162
-::Show him Steyr-Auch.::<end>
-
-=>q163_original
-<end>
-
-=>q163
-<end>
-
-=>q164_original
-A bullpup design. Light, very light. Has integrated optics. ::He looks through it.:: Kinda basic but gets the job done. 
-
-::He inspects it again, his eyes lingering on its transparent magazine.:: Striking rifle for sure. Damn.<end>
-
-=>q164
-A bullpup design. Light, very light. Has integrated optics. ::He looks through it.:: Kinda basic but gets the job done. 
-
-::He inspects it again, his eyes lingering on its transparent magazine.:: Striking rifle for sure. Damn.<end>
-
-=>q165_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q165
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q166_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
-
-Add to that an extended magazine and you'll end up with one sublime rifle.<end>
-
-=>q166
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
-
-Add to that an extended magazine and you'll end up with one sublime rifle.<end>
-
-=>a167_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a167
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a168_original
-I've got this old world machine gun...<end>
-
-=>a168
-I've got this old world machine gun...<end>
-
-=>q169_original
-::He eagerly waits for you to continue.::<end>
-
-=>q169
-::He eagerly waits for you to continue.::<end>
-
-=>q170_original
-<end>
-
-=>q170
-<end>
-
-=>a171_original
-::Show him N60 The Warthog.::<end>
-
-=>a171
-::Show him N60 The Warthog.::<end>
-
-=>q172_original
-<end>
-
-=>q172
-<end>
-
-=>q173_original
-Oh, damn - feels like I'm handling a boar. ::He tries resting it against his hip, and thereagainst is where he finds it most comfortable.:: 
-
-Now this... this feels a hell of a lot better. ::He grins with satisfaction.::<end>
-
-=>q173
-Oh, damn - feels like I'm handling a boar. ::He tries resting it against his hip, and thereagainst is where he finds it most comfortable.:: 
-
-Now this... this feels a hell of a lot better. ::He grins with satisfaction.::<end>
-
-=>q174_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q174
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q175_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Guardian frame for some spare parts. ::[Quality 130]::
-
-Add to that an 80-round ammo belt and I'll give you one awe-inspiring machine gun.<end>
-
-=>q175
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Guardian frame for some spare parts. ::[Quality 130]::
-
-Add to that an 80-round ammo belt and I'll give you one awe-inspiring machine gun.<end>
-
-=>a176_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a176
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a177_original
-::Show him MG3-42.::<end>
-
-=>a177
-::Show him MG3-42.::<end>
-
-=>q178_original
-<end>
-
-=>q178
-<end>
-
-=>q179_original
-::He inspects the machine gun in silence, but his progressively brightening expression tells you all you need to know.:: What a piece - what *a* piece. And whoever preserved it did an incredible job at it: Feels almost like a more recent recreation of a proven old world design.<end>
-
-=>q179
-::He inspects the machine gun in silence, but his progressively brightening expression tells you all you need to know.:: What a piece - what *a* piece. And whoever preserved it did an incredible job at it: Feels almost like a more recent recreation of a proven old world design.<end>
-
-=>q180_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q180
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q181_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Ratchet frame for some spare parts. ::[Quality 120]::
-
-Add to that a 100-round ammo belt and an ergonomic handle and I'll give you one awe-inspiring machine gun.<end>
-
-=>q181
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Ratchet frame for some spare parts. ::[Quality 120]::
-
-Add to that a 100-round ammo belt and an ergonomic handle and I'll give you one awe-inspiring machine gun.<end>
-
-=>a182_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a182
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a183_original
-::Show him Brno LMG.::<end>
-
-=>a183
-::Show him Brno LMG.::<end>
-
-=>q184_original
-<end>
-
-=>q184
-<end>
-
-=>q185_original
-Now, that's an unusual place to put the mag. ::He inspects the top-loaded magazine and tries aiming through the sights that are offset to the left.:: Well, if you're left-handed, you're pretty screwed. But it does appear to have been built out of quality materials, so it must've done its job well for someone to hold onto and maintain it all this time.<end>
-
-=>q185
-Now, that's an unusual place to put the mag. ::He inspects the top-loaded magazine and tries aiming through the sights that are offset to the left.:: Well, if you're left-handed, you're pretty screwed. But it does appear to have been built out of quality materials, so it must've done its job well for someone to hold onto and maintain it all this time.<end>
-
-=>q186_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q186
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q187_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Tango frame for some spare parts. ::[Quality 115]::
-
-Add to that a 65-round magazine and a muzzle brake and I'll give you one awe-inspiring machine gun.<end>
-
-=>q187
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Tango frame for some spare parts. ::[Quality 115]::
-
-Add to that a 65-round magazine and a muzzle brake and I'll give you one awe-inspiring machine gun.<end>
-
-=>a188_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a188
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a189_original
-::Show him GlaShaG-9.::<end>
-
-=>a189
-::Show him GlaShaG-9.::<end>
-
-=>q190_original
-<end>
-
-=>q190
-<end>
-
-=>q191_original
-::He looks at it not only as an old-world peculiarity, but as a sort of a puzzle as well.:: Wait, where's the motor? ::He manually turns the barrel assembly, the regularly-spaced clicks amusingly symbolizing the inner workings of his muddled thinking.:: It's self-powered? It's self-powered *and* it can use an external motor? 
-
-Well, well... now I'm getting ideas.<end>
-
-=>q191
-::He looks at it not only as an old-world peculiarity, but as a sort of a puzzle as well.:: Wait, where's the motor? ::He manually turns the barrel assembly, the regularly-spaced clicks amusingly symbolizing the inner workings of his muddled thinking.:: It's self-powered? It's self-powered *and* it can use an external motor? 
-
-Well, well... now I'm getting ideas.<end>
-
-=>q192_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q192
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q193_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Destroyer frame for some spare parts. ::[Quality 125]::
-
-You get me that and a 100-round ammo belt and a Jumpstarter 2 motor and I'll unlock its true hybrid-powered potential.<end>
-
-=>q193
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Destroyer frame for some spare parts. ::[Quality 125]::
-
-You get me that and a 100-round ammo belt and a Jumpstarter 2 motor and I'll unlock its true hybrid-powered potential.<end>
-
-=>a194_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a194
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a195_original
-I've got this old world shotgun...<end>
-
-=>a195
-I've got this old world shotgun...<end>
-
-=>q196_original
-::He eagerly waits for you to continue.::<end>
-
-=>q196
-::He eagerly waits for you to continue.::<end>
-
-=>q197_original
-<end>
-
-=>q197
-<end>
-
-=>a198_original
-::Show him Double-barreled shotgun.::<end>
-
-=>a198
-::Show him Double-barreled shotgun.::<end>
-
-=>q199_original
-<end>
-
-=>q199
-<end>
-
-=>q200_original
-Now, I've seen double-barreled shotguns, but ones with a stock made of wood... Gives the weapon a much different, historic look.<end>
-
-=>q200
-Now, I've seen double-barreled shotguns, but ones with a stock made of wood... Gives the weapon a much different, historic look.<end>
-
-=>q201_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q201
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q202_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. The barrel ends are corroded, so I'll just use one of Travis' machines to cut it a bit shorter. You'll get a bigger spread, which is not always a bad thing, but the gun will definitely work a lot more reliably.
-
-Say yes and you'll be shooting this double-barreled beast with style.<end>
-
-=>q202
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. The barrel ends are corroded, so I'll just use one of Travis' machines to cut it a bit shorter. You'll get a bigger spread, which is not always a bad thing, but the gun will definitely work a lot more reliably.
-
-Say yes and you'll be shooting this double-barreled beast with style.<end>
-
-=>a203_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a203
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a204_original
-::Show him Salvation-13.::<end>
-
-=>a204
-::Show him Salvation-13.::<end>
-
-=>q205_original
-<end>
-
-=>q205
-<end>
-
-=>q206_original
-::He flips the interesting holed stock.:: Never seen anything like it. ::Then he pumps the shotgun, the sound it made provoking him to grin with satisfaction.:: Oh, yeah...<end>
-
-=>q206
-::He flips the interesting holed stock.:: Never seen anything like it. ::Then he pumps the shotgun, the sound it made provoking him to grin with satisfaction.:: Oh, yeah...<end>
-
-=>q207_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q207
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q208_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Despot frame for some spare parts. ::[Quality 135]::
-
-You get me that and I'll give you one powerful shotgun.<end>
-
-=>q208
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Despot frame for some spare parts. ::[Quality 135]::
-
-You get me that and I'll give you one powerful shotgun.<end>
-
-=>a209_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a209
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a210_original
-::Show him Rancor.::<end>
-
-=>a210
-::Show him Rancor.::<end>
-
-=>q211_original
-<end>
-
-=>q211
-<end>
-
-=>q212_original
-This... is a shotgun? ::He takes the shotgun, amazed by its curious design.:: At first glance it looked like it fires grenades or something of that kind. Incredible...<end>
-
-=>q212
-This... is a shotgun? ::He takes the shotgun, amazed by its curious design.:: At first glance it looked like it fires grenades or something of that kind. Incredible...<end>
-
-=>q213_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q213
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q214_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tyranny frame for some spare parts. ::[Quality 135]::
-
-You get me that and I'll give you one powerful shotgun.<end>
-
-=>q214
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tyranny frame for some spare parts. ::[Quality 135]::
-
-You get me that and I'll give you one powerful shotgun.<end>
-
-=>a215_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a215
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a216_original
-I've got this old world sniper rifle...<end>
-
-=>a216
-I've got this old world sniper rifle...<end>
-
-=>q217_original
-::He eagerly waits for you to continue.::<end>
-
-=>q217
-::He eagerly waits for you to continue.::<end>
-
-=>q218_original
-<end>
-
-=>q218
-<end>
-
-=>a219_original
-::Show him AFW.::<end>
-
-=>a219
-::Show him AFW.::<end>
-
-=>q220_original
-<end>
-
-=>q220
-<end>
-
-=>q221_original
-This is one slick sniper rifle. ::He aims it at a wall.:: If only I was in a thousand-meter tunnel. With the right scope, I could pick anyone off - with a headshot. Damn...<end>
-
-=>q221
-This is one slick sniper rifle. ::He aims it at a wall.:: If only I was in a thousand-meter tunnel. With the right scope, I could pick anyone off - with a headshot. Damn...<end>
-
-=>q222_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q222
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q223_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Reaper frame for some spare parts. ::[Quality 120]::
-
-Add to that a bipod and you'll end up with one powerful rifle.<end>
-
-=>q223
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Reaper frame for some spare parts. ::[Quality 120]::
-
-Add to that a bipod and you'll end up with one powerful rifle.<end>
-
-=>a224_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a224
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a225_original
-::Show him Black Arrow.::<end>
-
-=>a225
-::Show him Black Arrow.::<end>
-
-=>q226_original
-<end>
-
-=>q226
-<end>
-
-=>q227_original
-::You drop the rifle on the counter, perpendicular to the latter's length, and the thud sends everything on the counter bouncing a few centimeters into the air.:: Hey, watch it! ::He looks at the gun like a curious child.:: What is this thing made for, anyway? Shooting trains? Damn...<end>
-
-=>q227
-::You drop the rifle on the counter, perpendicular to the latter's length, and the thud sends everything on the counter bouncing a few centimeters into the air.:: Hey, watch it! ::He looks at the gun like a curious child.:: What is this thing made for, anyway? Shooting trains? Damn...<end>
-
-=>q228_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q228
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q229_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Harbinger frame for some spare parts, and some super steel. ::[Both quality 145]:: The super steel is needed to make a few replacement parts, for which I'll need one of Travis' machines. 
-
-You get me all that I'll give you an *absolute* killing machine.<end>
-
-=>q229
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Harbinger frame for some spare parts, and some super steel. ::[Both quality 145]:: The super steel is needed to make a few replacement parts, for which I'll need one of Travis' machines. 
-
-You get me all that I'll give you an *absolute* killing machine.<end>
-
-=>a230_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a230
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a231_original
-::Show him Dragunov.::<end>
-
-=>a231
-::Show him Dragunov.::<end>
-
-=>q232_original
-<end>
-
-=>q232
-<end>
-
-=>q233_original
-Wait a minute - I know this rifle! ::He smiles, clearly appreciating the look of the wooden components.:: What a beauty! Yes, yes, one of Herve's men brought it from somewhere one day, but the rat bastard would never let me touch it. ::Then his face turns serious. His eyes fall upon you, but he decides against commenting any further.::<end>
-
-=>q233
-Wait a minute - I know this rifle! ::He smiles, clearly appreciating the look of the wooden components.:: What a beauty! Yes, yes, one of Herve's men brought it from somewhere one day, but the rat bastard would never let me touch it. ::Then his face turns serious. His eyes fall upon you, but he decides against commenting any further.::<end>
-
-=>q234_original
-<end>
-
-=>q234
-<end>
-
-=>a235_original
-I've got this old world grenade launcher...<end>
-
-=>a235
-I've got this old world grenade launcher...<end>
-
-=>q236_original
-::He eagerly waits for you to continue.::<end>
-
-=>q236
-::He eagerly waits for you to continue.::<end>
-
-=>q237_original
-<end>
-
-=>q237
-<end>
-
-=>a238_original
-::Show him Thumper.::<end>
-
-=>a238
-::Show him Thumper.::<end>
-
-=>q239_original
-<end>
-
-=>q239
-<end>
-
-=>q240_original
-This looks... military. ::He marvels at the wooden stock for a while before elaborating further.:: Most of the shoulder-fired single-shots I see are makeshift tube-with-trigger kind of weapons, so seeing how a military of the past designed these... now that's a novelty. ::He pushes the barrel locking hatch and lets gravity pull the barrel down.:: Could use some love, but otherwise... ::He closes the action.:: ...it's rock solid.<end>
-
-=>q240
-This looks... military. ::He marvels at the wooden stock for a while before elaborating further.:: Most of the shoulder-fired single-shots I see are makeshift tube-with-trigger kind of weapons, so seeing how a military of the past designed these... now that's a novelty. ::He pushes the barrel locking hatch and lets gravity pull the barrel down.:: Could use some love, but otherwise... ::He closes the action.:: ...it's rock solid.<end>
-
-=>q241_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q241
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q242_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Say yes and I'll turn this into an even more rocking grenade launcher.<end>
-
-=>q242
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Say yes and I'll turn this into an even more rocking grenade launcher.<end>
-
-=>a243_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a243
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a244_original
-::Show him Milcore MGL.::<end>
-
-=>a244
-::Show him Milcore MGL.::<end>
-
-=>q245_original
-<end>
-
-=>q245
-<end>
-
-=>q246_original
-Hey, this one's pretty light. And I guess this launcher is proof that simplicity was, is, and always will be a key concept in firearm development. ::He rotates the cylinder.:: The springs are still good. ::He then aims it across the room.:: But I'd still prefer a proper scope on this one. 
-
-Boom!<end>
-
-=>q246
-Hey, this one's pretty light. And I guess this launcher is proof that simplicity was, is, and always will be a key concept in firearm development. ::He rotates the cylinder.:: The springs are still good. ::He then aims it across the room.:: But I'd still prefer a proper scope on this one. 
-
-Boom!<end>
-
-=>q247_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q247
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q248_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Mangonel frame for some spare parts. ::[Quality 125]::
-
-Add to that an 8-shot cylinder and a launcher scope, and I'll give you one rocking grenade launcher.<end>
-
-=>q248
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Mangonel frame for some spare parts. ::[Quality 125]::
-
-Add to that an 8-shot cylinder and a launcher scope, and I'll give you one rocking grenade launcher.<end>
-
-=>a249_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a249
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a250_original
-::Show him Punisher.::<end>
-
-=>a250
-::Show him Punisher.::<end>
-
-=>q251_original
-<end>
-
-=>q251
-<end>
-
-=>q252_original
-This, uh, weights a lot more than I thought it would. And would you look at the calculator on this thing. ::He toys with the targeting controls for a moment before putting it on the counter.:: *Fascinating*. These old target acquisition and fire control systems truly are a sight to behold whenever they show up.<end>
-
-=>q252
-This, uh, weights a lot more than I thought it would. And would you look at the calculator on this thing. ::He toys with the targeting controls for a moment before putting it on the counter.:: *Fascinating*. These old target acquisition and fire control systems truly are a sight to behold whenever they show up.<end>
-
-=>q253_original
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q253
-::After thoroughly inspecting the weapon, he nods and addresses you.::
-
-<end>
-
-=>q254_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tsar frame for some spare parts. ::[Quality 130]::
-
-Add to that a 10-round magazine and a long 25mm barrel, and I'll give you one rocking grenade launcher.<end>
-
-=>q254
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tsar frame for some spare parts. ::[Quality 130]::
-
-Add to that a 10-round magazine and a long 25mm barrel, and I'll give you one rocking grenade launcher.<end>
-
-=>a255_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a255
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
-
-=>a256_original
-I've got this old world rocket launcher...<end>
-
-=>a256
-I've got this old world rocket launcher...<end>
-
-=>q257_original
-::He eagerly waits for you to continue.::<end>
-
-=>q257
-::He eagerly waits for you to continue.::<end>
-
-=>q258_original
-<end>
-
-=>q258
-<end>
-
-=>a259_original
-::Show him N202 Gleam.::<end>
-
-=>a259
-::Show him N202 Gleam.::<end>
-
-=>q260_original
-<end>
-
-=>q260
-<end>
-
-=>q261_original
-::He makes some room on the counter for a weapon of such unapologetic proportions.:: Damn... four tubes. Enough to blow up a station or two. ::Then he looks through each tube.:: Hm. One is damaged. Bent inward. Someone must've dropped it real good. Looks fixable, though.<end>
-
-=>q261
-::He makes some room on the counter for a weapon of such unapologetic proportions.:: Damn... four tubes. Enough to blow up a station or two. ::Then he looks through each tube.:: Hm. One is damaged. Bent inward. Someone must've dropped it real good. Looks fixable, though.<end>
-
-=>q262_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. First I'll need some super steel to fix the tube. ::[Quality 110]:: Guess I could use one of Travis' machines for that.
-
-Add to that a launcher scope and a forward grip, and you'll be causing cave-ins with this thing.<end>
-
-=>q262
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. First I'll need some super steel to fix the tube. ::[Quality 110]:: Guess I could use one of Travis' machines for that.
-
-Add to that a launcher scope and a forward grip, and you'll be causing cave-ins with this thing.<end>
-
-=>a263_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a263
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a264_original
-::Show him Hoatzin-84.::<end>
-
-=>a264
-::Show him Hoatzin-84.::<end>
-
-=>q265_original
-<end>
-
-=>q265
-<end>
-
-=>q266_original
-::He picks up the launcher and aims it around the room, all the while being intently focused on its firing control unit. You take a step back after he nearly hits you in the face with the launcher's rear end.::
-
-Target at, uh, a thousand meters. Ready... Aim... **Fire!** ::Click! And then he puts it down.:: Boom, I guess. Somewhere at the other end of a very long tunnel. Amazing.<end>
-
-=>q266
-::He picks up the launcher and aims it around the room, all the while being intently focused on its firing control unit. You take a step back after he nearly hits you in the face with the launcher's rear end.::
-
-Target at, uh, a thousand meters. Ready... Aim... **Fire!** ::Click! And then he puts it down.:: Boom, I guess. Somewhere at the other end of a very long tunnel. Amazing.<end>
-
-=>q267_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Maul frame for some spare parts. ::[Quality 130]::
-
-Add to that an electromagnetic rail catapult, and you'll be causing cave-ins with this thing.<end>
-
-=>q267
-I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Maul frame for some spare parts. ::[Quality 130]::
-
-Add to that an electromagnetic rail catapult, and you'll be causing cave-ins with this thing.<end>
-
-=>a268_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a268
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a269_original
-::Show him SPG-7.::<end>
-
-=>a269
-::Show him SPG-7.::<end>
-
-=>q270_original
-<end>
-
-=>q270
-<end>
-
-=>q271_original
-Ah, wood and steel. So simple. So elegant. ::He looks at it for a while.:: Smaller caliber, but I guess most of the rocket is outside the tube. Or is it a grenade of some kind? Well, whatever it is, seems straightforward enough.<end>
-
-=>q271
-Ah, wood and steel. So simple. So elegant. ::He looks at it for a while.:: Smaller caliber, but I guess most of the rocket is outside the tube. Or is it a grenade of some kind? Well, whatever it is, seems straightforward enough.<end>
-
-=>q272_original
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Bring me an airburst scope and an ergonomic firing mechanism, and you'll be causing cave-ins with this thing.<end>
-
-=>q272
-I'll do it for $(tempcontext.RefurbishmentPrice) charons.
-
-Bring me an airburst scope and an ergonomic firing mechanism, and you'll be causing cave-ins with this thing.<end>
-
-=>a273_original
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a273
-Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
-
-=>a274_original
-What can you tell me about wood?<end>
-
-=>a274
-What can you tell me about wood?<end>
-
-=>q275_original
-Not much beyond what I told you. I first saw it on this old world rifle a scavenger friend of mine found in some old Biocorp military warehouse. More than half of that thing was made of wood, and the manual that he found with it mentions the name of the material.
-
-*One-piece wooden stock.* Still remember the line.<end>
-
-=>q275
-Not much beyond what I told you. I first saw it on this old world rifle a scavenger friend of mine found in some old Biocorp military warehouse. More than half of that thing was made of wood, and the manual that he found with it mentions the name of the material.
-
-*One-piece wooden stock.* Still remember the line.<end>
-
-=>q276_original
-Interesting rifle that was: It was a semi-auto, loaded from the top with an eight-round clip. Powerful thing, and once you fired all the rounds, the clip flew out with a funny *ping*! Quite funny, but it's only funny until your thumb gets in the way of the bolt as it's chambering the first round of a clip you're pushing in. Both of us got *wood* thumbs - as we called them - before we learned how to properly load the rifle.<end>
-
-=>q276
-Interesting rifle that was: It was a semi-auto, loaded from the top with an eight-round clip. Powerful thing, and once you fired all the rounds, the clip flew out with a funny *ping*! Quite funny, but it's only funny until your thumb gets in the way of the bolt as it's chambering the first round of a clip you're pushing in. Both of us got *wood* thumbs - as we called them - before we learned how to properly load the rifle.<end>
-
-=>a277_original
-Go on.<end>
-
-=>a277
-Go on.<end>
-
-=>q278_original
-All in all, <end>
-
-=>q278
-All in all, <end>
-
-=>q279_original
-I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
-
-=>q279
-I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
-
-=>q280_original
-My guess is that wood was abundant in the days when these weapons were produced. Either the materials it was made from ran out, or the technology to make it was lost. Or... more suitable materials were found. Those guns I saw had no electronics or accessory systems - maybe they predate them.
-
-::He shrugs.:: Who knows. But to me, guns with wooden furniture look the best, the best - no doubt about it.<end>
-
-=>q280
-My guess is that wood was abundant in the days when these weapons were produced. Either the materials it was made from ran out, or the technology to make it was lost. Or... more suitable materials were found. Those guns I saw had no electronics or accessory systems - maybe they predate them.
-
-::He shrugs.:: Who knows. But to me, guns with wooden furniture look the best, the best - no doubt about it.<end>
-
-=>a281_original
-We were discussing the material.<end>
-
-=>a281
-We were discussing the material.<end>
-
-=>q282_original
-I was *just* getting to that. <end>
-
-=>q282
-I was *just* getting to that. <end>
-
-=>a283_original
-I had something else in mind.<end>
-
-=>a283
-I had something else in mind.<end>
-
-=>q284_original
-Alright.<end>
-
-=>q284
-Alright.<end>
-
-=>a285_original
-How can I do that?<end>
-
-=>a285
-How can I do that?<end>
-
-=>a286_original
-I know. But still, can we negotiate the price?<end>
-
-=>a286
-I know. But still, can we negotiate the price?<end>
-
-=>a287_original
-I got some other old world weapons to show you.<end>
-
-=>a287
-I got some other old world weapons to show you.<end>
-
-=>q288_original
-Can't wait.<end>
-
-=>q288
-Can't wait.<end>
-
-=>q289_original
-
-
-So, show me what you had there again.<end>
-
-=>q289
-
-
-So, show me what you had there again.<end>
-
-=>q290_original
-If you got any, I'm all up for it.<end>
-
-=>q290
-If you got any, I'm all up for it.<end>
-
-=>a291_original
-::Show him Tommy Gun.:: You mean like here?<end>
-
-=>a291
-::Show him Tommy Gun.:: You mean like here?<end>
-
-=>a292_original
-::Show him RRCh-42.:: You mean like here?<end>
-
-=>a292
-::Show him RRCh-42.:: You mean like here?<end>
-
-=>a293_original
-::Show him Double-barreled shotgun.:: You mean like here?<end>
-
-=>a293
-::Show him Double-barreled shotgun.:: You mean like here?<end>
-
-=>a294_original
-::Show him Dragunov.:: You mean like here?<end>
-
-=>a294
-::Show him Dragunov.:: You mean like here?<end>
-
-=>q295_original
-<end>
-
-=>q295
-<end>
-
-=>a296_original
-::Show him Thumper.:: You mean like here?<end>
-
-=>a296
-::Show him Thumper.:: You mean like here?<end>
-
-=>a297_original
-::Show him SPG-7.::<end>
-
-=>a297
-::Show him SPG-7.::<end>
-
-=>a298_original
-Never seen such a thing.<end>
-
-=>a298
-Never seen such a thing.<end>
-
-=>a299_original
-What sort of firearms do you repair?<end>
-
-=>a299
-What sort of firearms do you repair?<end>
-
-=>q300_original
-*Junk.* And I'd rather not.<end>
-
-=>q300
-*Junk.* And I'd rather not.<end>
-
-=>q301_original
-So don't come to me unless you've got something worth repairing.<end>
-
-=>q301
-So don't come to me unless you've got something worth repairing.<end>
-
-=>a302_original
-When is my weapon going to be ready?<end>
-
-=>a302
-When is my weapon going to be ready?<end>
-
-=>q303_original
-Hey, I barely even started! Have some patience.<end>
-
-=>q303
-Hey, I barely even started! Have some patience.<end>
-
-=>q304_original
-<end>
-
-=>q304
-<end>
-
-=>q305_original
-Almost done! Just got to do some final polishing and this beauty will be back in your hands.<end>
-
-=>q305
-Almost done! Just got to do some final polishing and this beauty will be back in your hands.<end>
-
-=>q306_original
-I'm done with the internals, and now I'm working on the <end>
-
-=>q306
-I'm done with the internals, and now I'm working on the <end>
-
-=>q307_original
-barrels. <end>
-
-=>q307
-barrels. <end>
-
-=>q308_original
-After that I'll do the cleaning and polishing, and that'll be that.<end>
-
-=>q308
-After that I'll do the cleaning and polishing, and that'll be that.<end>
-
-=>q309_original
-barrel. <end>
-
-=>q309
-barrel. <end>
-
-=>q310_original
-Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
-
-=>q310
-Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
-
-=>a311_original
-About old world weapons...<end>
-
-=>a311
-About old world weapons...<end>
-
-=>q312_original
-Got another one for me?<end>
-
-=>q312
-Got another one for me?<end>
-
-=>q313_original
-Alright, what've you got for me?<end>
-
-=>q313
-Alright, what've you got for me?<end>
-
-=>a314_original
-::[Persuade]:: Why don't we try disabling those plasma walkers anyway? Just in case the Faceless decide to attack.<end>
-
-=>a314
-::[Persuade]:: Why don't we try disabling those plasma walkers anyway? Just in case the Faceless decide to attack.<end>
-
-=>q315_original
-Hmm... I dunno... maybe that wouldn't be a bad move after all.<end>
-
-=>q315
-Hmm... I dunno... maybe that wouldn't be a bad move after all.<end>
-
-=>q316_original
-Alright, listen... take notes or whatever 'cause I'm not going to explain this again.<end>
-
-=>q316
-Alright, listen... take notes or whatever 'cause I'm not going to explain this again.<end>
-
-=>q317_original
-South of Rail Crossing there's an abandoned warehouse. Follow the eastern platform along the tracks, then turn west into the first fenced area to reach it, just after the tracks begin descending into a dark tunnel. I've been there a couple of times before, scavenging. It's not a terribly dangerous place, but it's also pretty well locked up so I couldn't get that much out of it.<end>
-
-=>q317
-South of Rail Crossing there's an abandoned warehouse. Follow the eastern platform along the tracks, then turn west into the first fenced area to reach it, just after the tracks begin descending into a dark tunnel. I've been there a couple of times before, scavenging. It's not a terribly dangerous place, but it's also pretty well locked up so I couldn't get that much out of it.<end>
-
-=>q318_original
-The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
-
-=>q318
-The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
-
-=>q319_original
-I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
-
-=>q319
-I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
-
-=>q320_original
-I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
-
-=>q320
-I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
-
-=>q321_original
-Such as enemy's electronic vehicles and energy weaponry. Which is just perfect for us, because I bet if I mounted that thing on my little emitter over there I could send a pulse so strong it would knock those plasma walkers out completely.<end>
-
-=>q321
-Such as enemy's electronic vehicles and energy weaponry. Which is just perfect for us, because I bet if I mounted that thing on my little emitter over there I could send a pulse so strong it would knock those plasma walkers out completely.<end>
-
-=>q322_original
-All you have to do is go and get that thing.<end>
-
-=>q322
-All you have to do is go and get that thing.<end>
-
-=>q323_original
-<end>
-
-=>q323
-<end>
-
-=>a324_original
-::[Intelligence]:: But there's a catch, right? You're not sure what's going to happen if you remove the capacitor from the pedestal. Otherwise you would have done so already.<end>
-
-=>a324
-::[Intelligence]:: But there's a catch, right? You're not sure what's going to happen if you remove the capacitor from the pedestal. Otherwise you would have done so already.<end>
-
-=>q325_original
-::He smirks and points his finger at you.:: You're a smart $(#boy/girl), aren't you? You're absolutely correct. Who knows what might happen if you pull that thing out. You might get electrocuted, trigger a timed bomb, who knows? It's for you to find out, not me.<end>
-
-=>q325
-::He smirks and points his finger at you.:: You're a smart $(#boy/girl), aren't you? You're absolutely correct. Who knows what might happen if you pull that thing out. You might get electrocuted, trigger a timed bomb, who knows? It's for you to find out, not me.<end>
-
-=>a326_original
-::[Intelligence]:: Wait a second. If the area is not dangerous as you said, why didn't you go back and get the capacitor yourself?<end>
-
-=>a326
-::[Intelligence]:: Wait a second. If the area is not dangerous as you said, why didn't you go back and get the capacitor yourself?<end>
-
-=>q327_original
-Because I have no idea what will happen if I remove it from the pedestal, that's why. And I'm not going to risk getting myself electrocuted.<end>
-
-=>q327
-Because I have no idea what will happen if I remove it from the pedestal, that's why. And I'm not going to risk getting myself electrocuted.<end>
-
-=>a328_original
-Okay, I'll do it.<end>
-
-=>a328
-Okay, I'll do it.<end>
-
-=>q329_original
-Very good. Bring it back to me and I'll get the emitter ready.<end>
-
-=>q329
-Very good. Bring it back to me and I'll get the emitter ready.<end>
-
-=>a330_original
-Catch you later.<end>
-
-=>a330
-Catch you later.<end>
-
-=>a331_original
-You mean this thing right here?<end>
-
-=>a331
-You mean this thing right here?<end>
-
-=>q332_original
-I see you already been to the place... and taking that thing off didn't kill you. Very good.<end>
-
-=>q332
-I see you already been to the place... and taking that thing off didn't kill you. Very good.<end>
-
-=>q333_original
-Give it here and I'll attach it to the emitter.<end>
-
-=>q333
-Give it here and I'll attach it to the emitter.<end>
-
-=>a334_original
-::Give him the device.::<end>
-
-=>a334
-::Give him the device.::<end>
-
-=>q335_original
-::He takes the device.:: Alright. This might take a while...<end>
-
-=>q335
-::He takes the device.:: Alright. This might take a while...<end>
-
-=>a336_original
-::End Dialog.::<end>
-
-=>a336
-::End Dialog.::<end>
-
-=>a337_original
-I'll think about it.<end>
-
-=>a337
-I'll think about it.<end>
-
-=>q338_original
-Be my guest. Not enough of that happening around here.<end>
-
-=>q338
-Be my guest. Not enough of that happening around here.<end>
-
-=>q339_original
-Forget it. I'm not doing anything that might provoke them.<end>
-
-=>q339
-Forget it. I'm not doing anything that might provoke them.<end>
-
-=>a340_original
-Captain mentioned you have an idea how to disable the plasma walkers.<end>
-
-=>a340
-Captain mentioned you have an idea how to disable the plasma walkers.<end>
-
-=>q341_original
-In the case they might move to attack. *Only* in that case. Not to launch another attack.<end>
-
-=>q341
-In the case they might move to attack. *Only* in that case. Not to launch another attack.<end>
-
-=>q342_original
-And no, I don't give a damn about Buzzer! He probably deserves whatever is coming his way. He's constantly bringing trouble to the station. Rail Crossing would be a much safer place without him.<end>
-
-=>q342
-And no, I don't give a damn about Buzzer! He probably deserves whatever is coming his way. He's constantly bringing trouble to the station. Rail Crossing would be a much safer place without him.<end>
-
-=>a343_original
-I brought you that pulse capacitor thing.<end>
-
-=>a343
-I brought you that pulse capacitor thing.<end>
-
-=>q344_original
-And it didn't fry you up in the process, I see.<end>
-
-=>q344
-And it didn't fry you up in the process, I see.<end>
-
-=>a345_original
-Why do you think the Faceless attacked your station?<end>
-
-=>a345
-Why do you think the Faceless attacked your station?<end>
-
-=>q346_original
-Don't tell me you're as stupid as the rest of these yahoos...<end>
-
-=>q346
-Don't tell me you're as stupid as the rest of these yahoos...<end>
-
-=>q347_original
-They didn't attack the station. They invaded the store and the only reason anyone died is because of Captain Triggerhappy.<end>
-
-=>q347
-They didn't attack the station. They invaded the store and the only reason anyone died is because of Captain Triggerhappy.<end>
-
-=>q348_original
-If the Faceless wanted us dead, we'd be dead by now, trust me. They probably just want something from Buzzer's shop. Perhaps he "scavenged" something of theirs or whatever.<end>
-
-=>q348
-If the Faceless wanted us dead, we'd be dead by now, trust me. They probably just want something from Buzzer's shop. Perhaps he "scavenged" something of theirs or whatever.<end>
-
-=>a349_original
-If you help me with the plasma walkers, I'll make it worth your while.<end>
-
-=>a349
-If you help me with the plasma walkers, I'll make it worth your while.<end>
-
-=>q350_original
-Hmm... Very well, I'll help you for two hundred charons. Up front.<end>
-
-=>q350
-Hmm... Very well, I'll help you for two hundred charons. Up front.<end>
-
-=>q351_original
-<end>
-
-=>q351
-<end>
-
-=>a352_original
-Alright, here you go. ::Give him 200 stygian coins.::<end>
-
-=>a352
-Alright, here you go. ::Give him 200 stygian coins.::<end>
-
-=>a353_original
-::[Mercantile]:: I'll give you a hundred and fifty.<end>
-
-=>a353
-::[Mercantile]:: I'll give you a hundred and fifty.<end>
-
-=>q354_original
-Deal.<end>
-
-=>q354
-Deal.<end>
-
-=>q355_original
-No deal. It's two hundred charons. You dig?<end>
-
-=>q355
-No deal. It's two hundred charons. You dig?<end>
-
-=>a356_original
-I don't have that kind of money.<end>
-
-=>a356
-I don't have that kind of money.<end>
-
-=>q357_original
-Well, too bad then. I don't work for free.<end>
-
-=>q357
-Well, too bad then. I don't work for free.<end>
-
-=>a358_original
-I'll think about it.<end>
-
-=>a358
-I'll think about it.<end>
-
-=>q359_original
-::He smirks.:: I'll be here when you're done thinking.<end>
-
-=>q359
-::He smirks.:: I'll be here when you're done thinking.<end>
-
-=>a360_original
-I'll go look for that device you mentioned.<end>
-
-=>a360
-I'll go look for that device you mentioned.<end>
-
-=>a361_original
-I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
-
-=>a361
-I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
-
-=>q362_original
-Nope, not lately.<end>
-
-=>q362
-Nope, not lately.<end>
-
-=>a363_original
-Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
-
-=>a363
-Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
-
-=>q364_original
-His shop's on the other side of the station, and when it comes to customers, I mostly tend to notice the ones that come to me.<end>
-
-=>q364
-His shop's on the other side of the station, and when it comes to customers, I mostly tend to notice the ones that come to me.<end>
-
-=>q365_original
-Speaking of that, and no disrespect to the derailed old fart, but his death's gonna be good for my business. ::A smile escapes him for a moment, after which he turns serious once again.::
-
-Anything else?<end>
-
-=>q365
-Speaking of that, and no disrespect to the derailed old fart, but his death's gonna be good for my business. ::A smile escapes him for a moment, after which he turns serious once again.::
-
-Anything else?<end>
-
-=>q366_original
-::He pauses, shrugs, then continues.:: I don't know. I don't remember anyone I'd pick out, really. Honestly, I'd go check the bar if I was you. That's the best place to go to if you wanna learn what happens around here.<end>
-
-=>q366
-::He pauses, shrugs, then continues.:: I don't know. I don't remember anyone I'd pick out, really. Honestly, I'd go check the bar if I was you. That's the best place to go to if you wanna learn what happens around here.<end>
-
-=>a367_original
-Do you know anything about the Free Drones?<end>
-
-=>a367
-Do you know anything about the Free Drones?<end>
-
-=>q368_original
-Heard of them, but I've got no comments.<end>
-
-=>q368
-Heard of them, but I've got no comments.<end>
-
-=>q369_original
-I don't want to turn into Buzzer; he's the one constantly yapping about them. It's 'cause of him I even heard of them in the first place.<end>
-
-=>q369
-I don't want to turn into Buzzer; he's the one constantly yapping about them. It's 'cause of him I even heard of them in the first place.<end>
-
-=>q370_original
-::The man seems to be busily working on some electronic component, not bothering to look up.:: 
-
-You better be here to buy or sell me something, because I swear if you brought me your old broken pistol to fix, I'll shove it up your...<end>
-
-=>q370
-::The man seems to be busily working on some electronic component, not bothering to look up.:: 
-
-You better be here to buy or sell me something, because I swear if you brought me your old broken pistol to fix, I'll shove it up your...<end>
-
-=>q371_original
-::He raises his head and aborts the statement.:: You're not from around here, eh? Forget what I said then. I'm just tired of fixing broken weapons for the local yokels so they can run off and blast their own feet off.<end>
-
-=>q371
-::He raises his head and aborts the statement.:: You're not from around here, eh? Forget what I said then. I'm just tired of fixing broken weapons for the local yokels so they can run off and blast their own feet off.<end>
-
-=>q372_original
-If you cannot keep your weapon in good condition you have no business shooting anything, I say, least of all the Faceless. 
-
-Anyhow, what do you need?<end>
-
-=>q372
-If you cannot keep your weapon in good condition you have no business shooting anything, I say, least of all the Faceless. 
-
-Anyhow, what do you need?<end>
-
-=>q373_original
-Hey. What do you need?<end>
-
-=>q373
-Hey. What do you need?<end>
-
-=>q374_original
-What do you want?<end>
-
-=>q374
-What do you want?<end>
-
+=>q1_original
+We're closed.<end>
+
+=>q1
+We're closed.<end>
+
+=>q2_original
+Alright, it's up and emitting. Now, if you don't mind, I'm gonna put some distance between it and myself, just in case the Faceless figure out what's going on and decide to plasma-melt it.<end>
+
+=>q2
+Alright, it's up and emitting. Now, if you don't mind, I'm gonna put some distance between it and myself, just in case the Faceless figure out what's going on and decide to plasma-melt it.<end>
+
+=>q3_original
+You have fun now...<end>
+
+=>q3
+You have fun now...<end>
+
+=>q4_original
+Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
+
+=>q4
+Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
+
+=>q5_original
+That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
+
+=>q5
+That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
+
+=>q6_original
+Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
+
+=>q6
+Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Let me see what you have to trade. ::Barter.::<end>
+
+=>a8
+Let me see what you have to trade. ::Barter.::<end>
+
+=>a9_original
+Did you ever work on old world firearms before?<end>
+
+=>a9
+Did you ever work on old world firearms before?<end>
+
+=>q10_original
+Old world? Yeah, I've worked on a couple during my lifetime. ::His face brightens up as he continues.:: You know, what I love the most about some of them is this material they're made of, this... 
+
+...*wood*.<end>
+
+=>q10
+Old world? Yeah, I've worked on a couple during my lifetime. ::His face brightens up as he continues.:: You know, what I love the most about some of them is this material they're made of, this... 
+
+...*wood*.<end>
+
+=>a11_original
+Wood?<end>
+
+=>a11
+Wood?<end>
+
+=>q12_original
+Wood.<end>
+
+=>q12
+Wood.<end>
+
+=>q13_original
+It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
+
+=>q13
+It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
+
+=>a14_original
+::Show him AKX.:: You mean like here?<end>
+
+=>a14
+::Show him AKX.:: You mean like here?<end>
+
+=>q15_original
+Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
+
+=>q15
+Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
+
+=>q16_original
+::After looking at it for some more, he continues.:: <end>
+
+=>q16
+::After looking at it for some more, he continues.:: <end>
+
+=>q17_original
+Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
+
+=>q17
+Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
+
+=>q18_original
+All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
+
+=>q18
+All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+So, can you take a look at this? ::Give him Dragunov.::<end>
+
+=>a20
+So, can you take a look at this? ::Give him Dragunov.::<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q22
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q23_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Spearhead frame for some spare parts. ::[Quality 110]::
+
+Add to that a high resolution digital scope and you'll end up with one powerful rifle.<end>
+
+=>q23
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Spearhead frame for some spare parts. ::[Quality 110]::
+
+Add to that a high resolution digital scope and you'll end up with one powerful rifle.<end>
+
+=>a24_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a24
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>q25_original
+::He takes everything, including the weapon.:: Alright, time to get started. <end>
+
+=>q25
+::He takes everything, including the weapon.:: Alright, time to get started. <end>
+
+=>q26_original
+I'm... excited, to be honest.<end>
+
+=>q26
+I'm... excited, to be honest.<end>
+
+=>q27_original
+Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
+
+=>q27
+Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
+
+=>q28_original
+Anything else you need before I start?<end>
+
+=>q28
+Anything else you need before I start?<end>
+
+=>q29_original
+Can't tell how long it's gonna take exactly, but it won't be quick. <end>
+
+=>q29
+Can't tell how long it's gonna take exactly, but it won't be quick. <end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+Can we negotiate the price?<end>
+
+=>a31
+Can we negotiate the price?<end>
+
+=>q32_original
+Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
+
+=>q32
+Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
+
+=>a33_original
+You could've just said no.<end>
+
+=>a33
+You could've just said no.<end>
+
+=>q34_original
+*No*.<end>
+
+=>q34
+*No*.<end>
+
+=>q35_original
+But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppose I can lower the price.<end>
+
+=>q35
+But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppose I can lower the price.<end>
+
+=>a36_original
+::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
+
+=>a36
+::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
+
+=>q37_original
+::He waves your idea away.:: No, no. I work with no one. <end>
+
+=>q37
+::He waves your idea away.:: No, no. I work with no one. <end>
+
+=>q38_original
+What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
+
+That'd save me some time, and it'd save you some coins.<end>
+
+=>q38
+What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
+
+That'd save me some time, and it'd save you some coins.<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+"Old World Firearms." Over thirty thousand technical manuals for, well, old world firearms. ::Put the memory stick on the counter as a full stop to your statement.::<end>
+
+=>a40
+"Old World Firearms." Over thirty thousand technical manuals for, well, old world firearms. ::Put the memory stick on the counter as a full stop to your statement.::<end>
+
+=>q41_original
+::He glances at it, then you, then takes it as if it were made of finest wood.:: Didn't know such a thing even existed...<end>
+
+=>q41
+::He glances at it, then you, then takes it as if it were made of finest wood.:: Didn't know such a thing even existed...<end>
+
+=>a42_original
+You better believe it.<end>
+
+=>a42
+You better believe it.<end>
+
+=>q43_original
+Yeah...<end>
+
+=>q43
+Yeah...<end>
+
+=>q44_original
+Can't wait to check out this little train of goodies here. <end>
+
+=>q44
+Can't wait to check out this little train of goodies here. <end>
+
+=>q45_original
+Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
+
+=>q45
+Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
+
+=>a46_original
+Think that should cover pretty much any firearm I bring to you.<end>
+
+=>a46
+Think that should cover pretty much any firearm I bring to you.<end>
+
+=>a47_original
+I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
+
+=>a47
+I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
+
+=>q48_original
+You... did? That's great! ::He pockets the memory stick after taking a look at it.::<end>
+
+=>q48
+You... did? That's great! ::He pockets the memory stick after taking a look at it.::<end>
+
+=>a49_original
+I found these technical manuals for contemporary and historical rifles and shotguns.<end>
+
+=>a49
+I found these technical manuals for contemporary and historical rifles and shotguns.<end>
+
+=>a50_original
+I found these technical manuals for contemporary and historical machine guns.<end>
+
+=>a50
+I found these technical manuals for contemporary and historical machine guns.<end>
+
+=>a51_original
+I found these technical manuals for contemporary and historical grenade and rocket launchers.<end>
+
+=>a51
+I found these technical manuals for contemporary and historical grenade and rocket launchers.<end>
+
+=>a52_original
+I've got this old world handgun...<end>
+
+=>a52
+I've got this old world handgun...<end>
+
+=>q53_original
+::He eagerly waits for you to continue.::<end>
+
+=>q53
+::He eagerly waits for you to continue.::<end>
+
+=>q54_original
+<end>
+
+=>q54
+<end>
+
+=>a55_original
+::Show him Bieretta 99.::<end>
+
+=>a55
+::Show him Bieretta 99.::<end>
+
+=>q56_original
+<end>
+
+=>q56
+<end>
+
+=>q57_original
+Very nice, very nice. ::He aims the gun at the wall.:: Feels good in the hands, I gotta say. Good sights too. 
+
+::He then checks the barrel end.:: It's threaded. Could add a silencer to it.<end>
+
+=>q57
+Very nice, very nice. ::He aims the gun at the wall.:: Feels good in the hands, I gotta say. Good sights too. 
+
+::He then checks the barrel end.:: It's threaded. Could add a silencer to it.<end>
+
+=>q58_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q58
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q59_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Neo Luger frame for some spare parts. ::[Quality 110]::
+
+Add to that a silencer and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>q59
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Neo Luger frame for some spare parts. ::[Quality 110]::
+
+Add to that a silencer and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>a60_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a60
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a61_original
+I have another weapon I wanted to show you...<end>
+
+=>a61
+I have another weapon I wanted to show you...<end>
+
+=>q62_original
+Alright.<end>
+
+=>q62
+Alright.<end>
+
+=>a63_original
+I'll think about it. Meanwhile, there's this unrelated thing...<end>
+
+=>a63
+I'll think about it. Meanwhile, there's this unrelated thing...<end>
+
+=>q64_original
+Ah... Let's hear it then.<end>
+
+=>q64
+Ah... Let's hear it then.<end>
+
+=>a65_original
+::Show him Glück 17.::<end>
+
+=>a65
+::Show him Glück 17.::<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>q67_original
+*Glück?* ::He comments after reading its name on the side.:: What kind of a name is Glück? ::He handles the pistol for a few moments, then continues.:: Feels very modern, though. Light, good sights... large magazine.<end>
+
+=>q67
+*Glück?* ::He comments after reading its name on the side.:: What kind of a name is Glück? ::He handles the pistol for a few moments, then continues.:: Feels very modern, though. Light, good sights... large magazine.<end>
+
+=>q68_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q68
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q69_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 120]::
+
+Add to that a rapid reloader and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>q69
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 120]::
+
+Add to that a rapid reloader and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>a70_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a70
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a71_original
+::Show him TT 3000.::<end>
+
+=>a71
+::Show him TT 3000.::<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>q73_original
+Looks like a robust pistol. ::He checks the trigger and the slide.:: Unrefined, sure, but looks like an effective weapon. ::He looks down the sights.:: Although... ::He smirks.:: These sights are no good. Bad picture, not illuminated. Hard to shoot this in the dark.<end>
+
+=>q73
+Looks like a robust pistol. ::He checks the trigger and the slide.:: Unrefined, sure, but looks like an effective weapon. ::He looks down the sights.:: Although... ::He smirks.:: These sights are no good. Bad picture, not illuminated. Hard to shoot this in the dark.<end>
+
+=>q74_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q74
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q75_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Hawker frame for some spare parts. ::[Quality 110]::
+
+Add to that a laser sight and you'll end up with a top-tier pistol.<end>
+
+=>q75
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Hawker frame for some spare parts. ::[Quality 110]::
+
+Add to that a laser sight and you'll end up with a top-tier pistol.<end>
+
+=>a76_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a76
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a77_original
+::Show him W&S .44 Magnum.::<end>
+
+=>a77
+::Show him W&S .44 Magnum.::<end>
+
+=>q78_original
+<end>
+
+=>q78
+<end>
+
+=>q79_original
+What a beautiful revolver... A fourty-four, right? ::He spins the cylinder a few times, cocks the hammer, and then dry fires it a few times.:: The trigger's good. ::He extends his arm and aims the gun at a wall.:: Damn, feels like I could blow a guy's head clean off with this beauty.<end>
+
+=>q79
+What a beautiful revolver... A fourty-four, right? ::He spins the cylinder a few times, cocks the hammer, and then dry fires it a few times.:: The trigger's good. ::He extends his arm and aims the gun at a wall.:: Damn, feels like I could blow a guy's head clean off with this beauty.<end>
+
+=>q80_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q80
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q81_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this beauty into a true beast.<end>
+
+=>q81
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this beauty into a true beast.<end>
+
+=>a82_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a82
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a83_original
+::Show him Wasteland Hawk.::<end>
+
+=>a83
+::Show him Wasteland Hawk.::<end>
+
+=>q84_original
+<end>
+
+=>q84
+<end>
+
+=>q85_original
+What the...? ::He picks up the handgun, surprised by its weight.:: That's one boulder of a pistol! At least two kilos, if not more.
+
+Doesn't look practical, but I sure as hell wouldn't wanna stare down *that* barrel.<end>
+
+=>q85
+What the...? ::He picks up the handgun, surprised by its weight.:: That's one boulder of a pistol! At least two kilos, if not more.
+
+Doesn't look practical, but I sure as hell wouldn't wanna stare down *that* barrel.<end>
+
+=>q86_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q86
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q87_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hammerer frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll make this hand cannon even more powerful.<end>
+
+=>q87
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hammerer frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll make this hand cannon even more powerful.<end>
+
+=>a88_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a88
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a89_original
+::Show him ZC 99.::<end>
+
+=>a89
+::Show him ZC 99.::<end>
+
+=>q90_original
+<end>
+
+=>q90
+<end>
+
+=>q91_original
+Hmmm, hefty gun. ::He pulls the slide.:: Solid steel. Very good.
+
+::He plays with the ambidextrous controls for a bit, tests the trigger and feels with his thumb the loaded chamber indicator pin at the top of the handgun.:: Robust - and remarkably... *authoritative.*<end>
+
+=>q91
+Hmmm, hefty gun. ::He pulls the slide.:: Solid steel. Very good.
+
+::He plays with the ambidextrous controls for a bit, tests the trigger and feels with his thumb the loaded chamber indicator pin at the top of the handgun.:: Robust - and remarkably... *authoritative.*<end>
+
+=>q92_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q92
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q93_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 110]::
+
+Add to that a rapid reloader and you'll end up with a top-tier pistol.<end>
+
+=>q93
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 110]::
+
+Add to that a rapid reloader and you'll end up with a top-tier pistol.<end>
+
+=>a94_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a94
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a95_original
+I have a different kind of weapon in mind.<end>
+
+=>a95
+I have a different kind of weapon in mind.<end>
+
+=>a96_original
+I've got this old world submachine gun...<end>
+
+=>a96
+I've got this old world submachine gun...<end>
+
+=>q97_original
+::He eagerly waits for you to continue.::<end>
+
+=>q97
+::He eagerly waits for you to continue.::<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>a99_original
+::Show him K&H MP6.::<end>
+
+=>a99
+::Show him K&H MP6.::<end>
+
+=>q100_original
+<end>
+
+=>q100
+<end>
+
+=>q101_original
+Now this is what I call an SMG. ::He flips the fire selector, going from the symbol of a single red bullet, to three, and then finally to seven.:: Very well illustrated. ::He then flips it into its safe position - a crossed out white bullet.::<end>
+
+=>q101
+Now this is what I call an SMG. ::He flips the fire selector, going from the symbol of a single red bullet, to three, and then finally to seven.:: Very well illustrated. ::He then flips it into its safe position - a crossed out white bullet.::<end>
+
+=>q102_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q102
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q103_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Steel Cat frame for some spare parts. ::[Quality 115]::
+
+Add to that a muzzle brake and you'll end up with a mean submachine gun.<end>
+
+=>q103
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Steel Cat frame for some spare parts. ::[Quality 115]::
+
+Add to that a muzzle brake and you'll end up with a mean submachine gun.<end>
+
+=>a104_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a104
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a105_original
+::Show him Mini-Izu.::<end>
+
+=>a105
+::Show him Mini-Izu.::<end>
+
+=>q106_original
+<end>
+
+=>q106
+<end>
+
+=>q107_original
+::He takes the miniature submachine gun.:: Crude little weapon. Short barrel, probably low accuracy.
+
+::He performs a few quick draws.:: But, but... You can come up to someone and just... ::He aims it with one hand.:: ...*unload* and see what happens.<end>
+
+=>q107
+::He takes the miniature submachine gun.:: Crude little weapon. Short barrel, probably low accuracy.
+
+::He performs a few quick draws.:: But, but... You can come up to someone and just... ::He aims it with one hand.:: ...*unload* and see what happens.<end>
+
+=>q108_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q108
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q109_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a decent Jackrabbit frame for some spare parts. ::[Quality 100]::
+
+Add to that a rapid reloader and you'll end up with a mean little submachine gun.<end>
+
+=>q109
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a decent Jackrabbit frame for some spare parts. ::[Quality 100]::
+
+Add to that a rapid reloader and you'll end up with a mean little submachine gun.<end>
+
+=>a110_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a110
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a111_original
+::Show him NF R90.::<end>
+
+=>a111
+::Show him NF R90.::<end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>q113_original
+What an interesting-looking submachine gun... ::He removes the top-loaded magazine and marvels at the design.:: I've seen similar things, but never done like this. Looks very contemporary, and yet oddly at the same time it doesn't...<end>
+
+=>q113
+What an interesting-looking submachine gun... ::He removes the top-loaded magazine and marvels at the design.:: I've seen similar things, but never done like this. Looks very contemporary, and yet oddly at the same time it doesn't...<end>
+
+=>q114_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q114
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q115_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Impala frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>q115
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Impala frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>a116_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a116
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a117_original
+::Show him Syg MPX.::<end>
+
+=>a117
+::Show him Syg MPX.::<end>
+
+=>q118_original
+<end>
+
+=>q118
+<end>
+
+=>q119_original
+Seems like submachine guns have changed very little since their old world counterparts. ::He aims the submachine gun at a wall, raising it and lowering a few times.:: Feels good. Has a rail interface system. Unusual one, but one. With a few tweaks I could add a few attachments...<end>
+
+=>q119
+Seems like submachine guns have changed very little since their old world counterparts. ::He aims the submachine gun at a wall, raising it and lowering a few times.:: Feels good. Has a rail interface system. Unusual one, but one. With a few tweaks I could add a few attachments...<end>
+
+=>q120_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q120
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q121_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Steel Cat frame for some spare parts. ::[Quality 125]::
+
+Add to that a laser sight and an extended magazine and you'll end up with a mean submachine gun.<end>
+
+=>q121
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Steel Cat frame for some spare parts. ::[Quality 125]::
+
+Add to that a laser sight and an extended magazine and you'll end up with a mean submachine gun.<end>
+
+=>a122_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a122
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a123_original
+::Show him Tommy Gun.::<end>
+
+=>a123
+::Show him Tommy Gun.::<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>q125_original
+What a beauty! ::He feels the wooden furniture, taking a good look at wood's texture.:: Every gun's different. ::He aims it from the hip.:: Oddly empowering. You don't get that with most submachine guns.<end>
+
+=>q125
+What a beauty! ::He feels the wooden furniture, taking a good look at wood's texture.:: Every gun's different. ::He aims it from the hip.:: Oddly empowering. You don't get that with most submachine guns.<end>
+
+=>q126_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q126
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q127_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 120]::
+
+Add to that a compensator to keep it steady and you'll end up with a mean submachine gun.<end>
+
+=>q127
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 120]::
+
+Add to that a compensator to keep it steady and you'll end up with a mean submachine gun.<end>
+
+=>a128_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a128
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a129_original
+::Show him RRCh-42.::<end>
+
+=>a129
+::Show him RRCh-42.::<end>
+
+=>q130_original
+<end>
+
+=>q130
+<end>
+
+=>q131_original
+Ah, it's stock is made of wood. Incredible! ::He inspects the submachine gun visually.:: What a crude design. Seems like it's made from stamped steel. Still, I wouldn't want to get shot with this.<end>
+
+=>q131
+Ah, it's stock is made of wood. Incredible! ::He inspects the submachine gun visually.:: What a crude design. Seems like it's made from stamped steel. Still, I wouldn't want to get shot with this.<end>
+
+=>q132_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q132
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q133_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 115]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>q133
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 115]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>a134_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a134
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a135_original
+I've got this old world assault rifle...<end>
+
+=>a135
+I've got this old world assault rifle...<end>
+
+=>q136_original
+::He eagerly waits for you to continue.::<end>
+
+=>q136
+::He eagerly waits for you to continue.::<end>
+
+=>q137_original
+<end>
+
+=>q137
+<end>
+
+=>a138_original
+::Show him AKX.::<end>
+
+=>a138
+::Show him AKX.::<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>q140_original
+::He takes the rifle, presses it against his shoulder and aims down the sights at a wall.:: Feels like I'm holding so much history in my hands. Incredible.<end>
+
+=>q140
+::He takes the rifle, presses it against his shoulder and aims down the sights at a wall.:: Feels like I'm holding so much history in my hands. Incredible.<end>
+
+=>q141_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q141
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q142_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Huszar frame for some spare parts. ::[Quality 120]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>q142
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Huszar frame for some spare parts. ::[Quality 120]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>a143_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a143
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a144_original
+::Show him K&H KH416.::<end>
+
+=>a144
+::Show him K&H KH416.::<end>
+
+=>q145_original
+<end>
+
+=>q145
+<end>
+
+=>q146_original
+Interesting rifle. Supports accessories, although the rail system is a bit different. Lots of room for various attachments.<end>
+
+=>q146
+Interesting rifle. Supports accessories, although the rail system is a bit different. Lots of room for various attachments.<end>
+
+=>q147_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q147
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q148_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 120]::
+
+Add to that a forward grip and a scope and you'll end up with one sublime rifle.<end>
+
+=>q148
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 120]::
+
+Add to that a forward grip and a scope and you'll end up with one sublime rifle.<end>
+
+=>a149_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a149
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a150_original
+::Show him N16.::<end>
+
+=>a150
+::Show him N16.::<end>
+
+=>q151_original
+<end>
+
+=>q151
+<end>
+
+=>q152_original
+::He holds the rifle, staring at it for a while before speaking.:: You know, it's as if I'm looking at a... at a proto-rifle. Somehow it reminds me of many assault rifles, yet simpler and more elegant somehow.<end>
+
+=>q152
+::He holds the rifle, staring at it for a while before speaking.:: You know, it's as if I'm looking at a... at a proto-rifle. Somehow it reminds me of many assault rifles, yet simpler and more elegant somehow.<end>
+
+=>q153_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q153
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q154_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 130]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>q154
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 130]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>a155_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a155
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a156_original
+::Show him NF F2500.::<end>
+
+=>a156
+::Show him NF F2500.::<end>
+
+=>q157_original
+<end>
+
+=>q157
+<end>
+
+=>q158_original
+Very modern-looking. ::He aims the rifle at a wall for a few seconds, then continues.:: If you hadn't told me this is an old world weapon I would've thought this was just some regular rifle.<end>
+
+=>q158
+Very modern-looking. ::He aims the rifle at a wall for a few seconds, then continues.:: If you hadn't told me this is an old world weapon I would've thought this was just some regular rifle.<end>
+
+=>q159_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q159
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q160_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that a rapid reloader and you'll end up with one sublime rifle.<end>
+
+=>q160
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that a rapid reloader and you'll end up with one sublime rifle.<end>
+
+=>a161_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a161
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a162_original
+::Show him Steyr-Auch.::<end>
+
+=>a162
+::Show him Steyr-Auch.::<end>
+
+=>q163_original
+<end>
+
+=>q163
+<end>
+
+=>q164_original
+A bullpup design. Light, very light. Has integrated optics. ::He looks through it.:: Kinda basic but gets the job done. 
+
+::He inspects it again, his eyes lingering on its transparent magazine.:: Striking rifle for sure. Damn.<end>
+
+=>q164
+A bullpup design. Light, very light. Has integrated optics. ::He looks through it.:: Kinda basic but gets the job done. 
+
+::He inspects it again, his eyes lingering on its transparent magazine.:: Striking rifle for sure. Damn.<end>
+
+=>q165_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q165
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q166_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that an extended magazine and you'll end up with one sublime rifle.<end>
+
+=>q166
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that an extended magazine and you'll end up with one sublime rifle.<end>
+
+=>a167_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a167
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a168_original
+I've got this old world machine gun...<end>
+
+=>a168
+I've got this old world machine gun...<end>
+
+=>q169_original
+::He eagerly waits for you to continue.::<end>
+
+=>q169
+::He eagerly waits for you to continue.::<end>
+
+=>q170_original
+<end>
+
+=>q170
+<end>
+
+=>a171_original
+::Show him N60 The Warthog.::<end>
+
+=>a171
+::Show him N60 The Warthog.::<end>
+
+=>q172_original
+<end>
+
+=>q172
+<end>
+
+=>q173_original
+Oh, damn - feels like I'm handling a boar. ::He tries resting it against his hip, and thereagainst is where he finds it most comfortable.:: 
+
+Now this... this feels a hell of a lot better. ::He grins with satisfaction.::<end>
+
+=>q173
+Oh, damn - feels like I'm handling a boar. ::He tries resting it against his hip, and thereagainst is where he finds it most comfortable.:: 
+
+Now this... this feels a hell of a lot better. ::He grins with satisfaction.::<end>
+
+=>q174_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q174
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q175_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Guardian frame for some spare parts. ::[Quality 130]::
+
+Add to that an 80-round ammo belt and I'll give you one awe-inspiring machine gun.<end>
+
+=>q175
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Guardian frame for some spare parts. ::[Quality 130]::
+
+Add to that an 80-round ammo belt and I'll give you one awe-inspiring machine gun.<end>
+
+=>a176_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a176
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a177_original
+::Show him MG3-42.::<end>
+
+=>a177
+::Show him MG3-42.::<end>
+
+=>q178_original
+<end>
+
+=>q178
+<end>
+
+=>q179_original
+::He inspects the machine gun in silence, but his progressively brightening expression tells you all you need to know.:: What a piece - what *a* piece. And whoever preserved it did an incredible job at it: Feels almost like a more recent recreation of a proven old world design.<end>
+
+=>q179
+::He inspects the machine gun in silence, but his progressively brightening expression tells you all you need to know.:: What a piece - what *a* piece. And whoever preserved it did an incredible job at it: Feels almost like a more recent recreation of a proven old world design.<end>
+
+=>q180_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q180
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q181_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Ratchet frame for some spare parts. ::[Quality 120]::
+
+Add to that a 100-round ammo belt and an ergonomic handle and I'll give you one awe-inspiring machine gun.<end>
+
+=>q181
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Ratchet frame for some spare parts. ::[Quality 120]::
+
+Add to that a 100-round ammo belt and an ergonomic handle and I'll give you one awe-inspiring machine gun.<end>
+
+=>a182_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a182
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a183_original
+::Show him Brno LMG.::<end>
+
+=>a183
+::Show him Brno LMG.::<end>
+
+=>q184_original
+<end>
+
+=>q184
+<end>
+
+=>q185_original
+Now, that's an unusual place to put the mag. ::He inspects the top-loaded magazine and tries aiming through the sights that are offset to the left.:: Well, if you're left-handed, you're pretty screwed. But it does appear to have been built out of quality materials, so it must've done its job well for someone to hold onto and maintain it all this time.<end>
+
+=>q185
+Now, that's an unusual place to put the mag. ::He inspects the top-loaded magazine and tries aiming through the sights that are offset to the left.:: Well, if you're left-handed, you're pretty screwed. But it does appear to have been built out of quality materials, so it must've done its job well for someone to hold onto and maintain it all this time.<end>
+
+=>q186_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q186
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q187_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Tango frame for some spare parts. ::[Quality 115]::
+
+Add to that a 65-round magazine and a muzzle brake and I'll give you one awe-inspiring machine gun.<end>
+
+=>q187
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Tango frame for some spare parts. ::[Quality 115]::
+
+Add to that a 65-round magazine and a muzzle brake and I'll give you one awe-inspiring machine gun.<end>
+
+=>a188_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a188
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a189_original
+::Show him GlaShaG-9.::<end>
+
+=>a189
+::Show him GlaShaG-9.::<end>
+
+=>q190_original
+<end>
+
+=>q190
+<end>
+
+=>q191_original
+::He looks at it not only as an old-world peculiarity, but as a sort of a puzzle as well.:: Wait, where's the motor? ::He manually turns the barrel assembly, the regularly-spaced clicks amusingly symbolizing the inner workings of his muddled thinking.:: It's self-powered? It's self-powered *and* it can use an external motor? 
+
+Well, well... now I'm getting ideas.<end>
+
+=>q191
+::He looks at it not only as an old-world peculiarity, but as a sort of a puzzle as well.:: Wait, where's the motor? ::He manually turns the barrel assembly, the regularly-spaced clicks amusingly symbolizing the inner workings of his muddled thinking.:: It's self-powered? It's self-powered *and* it can use an external motor? 
+
+Well, well... now I'm getting ideas.<end>
+
+=>q192_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q192
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q193_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Destroyer frame for some spare parts. ::[Quality 125]::
+
+You get me that and a 100-round ammo belt and a Jumpstarter 2 motor and I'll unlock its true hybrid-powered potential.<end>
+
+=>q193
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Destroyer frame for some spare parts. ::[Quality 125]::
+
+You get me that and a 100-round ammo belt and a Jumpstarter 2 motor and I'll unlock its true hybrid-powered potential.<end>
+
+=>a194_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a194
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a195_original
+I've got this old world shotgun...<end>
+
+=>a195
+I've got this old world shotgun...<end>
+
+=>q196_original
+::He eagerly waits for you to continue.::<end>
+
+=>q196
+::He eagerly waits for you to continue.::<end>
+
+=>q197_original
+<end>
+
+=>q197
+<end>
+
+=>a198_original
+::Show him Double-barreled shotgun.::<end>
+
+=>a198
+::Show him Double-barreled shotgun.::<end>
+
+=>q199_original
+<end>
+
+=>q199
+<end>
+
+=>q200_original
+Now, I've seen double-barreled shotguns, but ones with a stock made of wood... Gives the weapon a much different, historic look.<end>
+
+=>q200
+Now, I've seen double-barreled shotguns, but ones with a stock made of wood... Gives the weapon a much different, historic look.<end>
+
+=>q201_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q201
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q202_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. The barrel ends are corroded, so I'll just use one of Travis' machines to cut it a bit shorter. You'll get a bigger spread, which is not always a bad thing, but the gun will definitely work a lot more reliably.
+
+Say yes and you'll be shooting this double-barreled beast with style.<end>
+
+=>q202
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. The barrel ends are corroded, so I'll just use one of Travis' machines to cut it a bit shorter. You'll get a bigger spread, which is not always a bad thing, but the gun will definitely work a lot more reliably.
+
+Say yes and you'll be shooting this double-barreled beast with style.<end>
+
+=>a203_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a203
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a204_original
+::Show him Salvation-13.::<end>
+
+=>a204
+::Show him Salvation-13.::<end>
+
+=>q205_original
+<end>
+
+=>q205
+<end>
+
+=>q206_original
+::He flips the interesting holed stock.:: Never seen anything like it. ::Then he pumps the shotgun, the sound it made provoking him to grin with satisfaction.:: Oh, yeah...<end>
+
+=>q206
+::He flips the interesting holed stock.:: Never seen anything like it. ::Then he pumps the shotgun, the sound it made provoking him to grin with satisfaction.:: Oh, yeah...<end>
+
+=>q207_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q207
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q208_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Despot frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>q208
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Despot frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>a209_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a209
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a210_original
+::Show him Rancor.::<end>
+
+=>a210
+::Show him Rancor.::<end>
+
+=>q211_original
+<end>
+
+=>q211
+<end>
+
+=>q212_original
+This... is a shotgun? ::He takes the shotgun, amazed by its curious design.:: At first glance it looked like it fires grenades or something of that kind. Incredible...<end>
+
+=>q212
+This... is a shotgun? ::He takes the shotgun, amazed by its curious design.:: At first glance it looked like it fires grenades or something of that kind. Incredible...<end>
+
+=>q213_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q213
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q214_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tyranny frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>q214
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tyranny frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>a215_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a215
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a216_original
+I've got this old world sniper rifle...<end>
+
+=>a216
+I've got this old world sniper rifle...<end>
+
+=>q217_original
+::He eagerly waits for you to continue.::<end>
+
+=>q217
+::He eagerly waits for you to continue.::<end>
+
+=>q218_original
+<end>
+
+=>q218
+<end>
+
+=>a219_original
+::Show him AFW.::<end>
+
+=>a219
+::Show him AFW.::<end>
+
+=>q220_original
+<end>
+
+=>q220
+<end>
+
+=>q221_original
+This is one slick sniper rifle. ::He aims it at a wall.:: If only I was in a thousand-meter tunnel. With the right scope, I could pick anyone off - with a headshot. Damn...<end>
+
+=>q221
+This is one slick sniper rifle. ::He aims it at a wall.:: If only I was in a thousand-meter tunnel. With the right scope, I could pick anyone off - with a headshot. Damn...<end>
+
+=>q222_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q222
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q223_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Reaper frame for some spare parts. ::[Quality 120]::
+
+Add to that a bipod and you'll end up with one powerful rifle.<end>
+
+=>q223
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Reaper frame for some spare parts. ::[Quality 120]::
+
+Add to that a bipod and you'll end up with one powerful rifle.<end>
+
+=>a224_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a224
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a225_original
+::Show him Black Arrow.::<end>
+
+=>a225
+::Show him Black Arrow.::<end>
+
+=>q226_original
+<end>
+
+=>q226
+<end>
+
+=>q227_original
+::You drop the rifle on the counter, perpendicular to the latter's length, and the thud sends everything on the counter bouncing a few centimeters into the air.:: Hey, watch it! ::He looks at the gun like a curious child.:: What is this thing made for, anyway? Shooting trains? Damn...<end>
+
+=>q227
+::You drop the rifle on the counter, perpendicular to the latter's length, and the thud sends everything on the counter bouncing a few centimeters into the air.:: Hey, watch it! ::He looks at the gun like a curious child.:: What is this thing made for, anyway? Shooting trains? Damn...<end>
+
+=>q228_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q228
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q229_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Harbinger frame for some spare parts, and some super steel. ::[Both quality 145]:: The super steel is needed to make a few replacement parts, for which I'll need one of Travis' machines. 
+
+You get me all that I'll give you an *absolute* killing machine.<end>
+
+=>q229
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Harbinger frame for some spare parts, and some super steel. ::[Both quality 145]:: The super steel is needed to make a few replacement parts, for which I'll need one of Travis' machines. 
+
+You get me all that I'll give you an *absolute* killing machine.<end>
+
+=>a230_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a230
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a231_original
+::Show him Dragunov.::<end>
+
+=>a231
+::Show him Dragunov.::<end>
+
+=>q232_original
+<end>
+
+=>q232
+<end>
+
+=>q233_original
+Wait a minute - I know this rifle! ::He smiles, clearly appreciating the look of the wooden components.:: What a beauty! Yes, yes, one of Herve's men brought it from somewhere one day, but the rat bastard would never let me touch it. ::Then his face turns serious. His eyes fall upon you, but he decides against commenting any further.::<end>
+
+=>q233
+Wait a minute - I know this rifle! ::He smiles, clearly appreciating the look of the wooden components.:: What a beauty! Yes, yes, one of Herve's men brought it from somewhere one day, but the rat bastard would never let me touch it. ::Then his face turns serious. His eyes fall upon you, but he decides against commenting any further.::<end>
+
+=>q234_original
+<end>
+
+=>q234
+<end>
+
+=>a235_original
+I've got this old world grenade launcher...<end>
+
+=>a235
+I've got this old world grenade launcher...<end>
+
+=>q236_original
+::He eagerly waits for you to continue.::<end>
+
+=>q236
+::He eagerly waits for you to continue.::<end>
+
+=>q237_original
+<end>
+
+=>q237
+<end>
+
+=>a238_original
+::Show him Thumper.::<end>
+
+=>a238
+::Show him Thumper.::<end>
+
+=>q239_original
+<end>
+
+=>q239
+<end>
+
+=>q240_original
+This looks... military. ::He marvels at the wooden stock for a while before elaborating further.:: Most of the shoulder-fired single-shots I see are makeshift tube-with-trigger kind of weapons, so seeing how a military of the past designed these... now that's a novelty. ::He pushes the barrel locking hatch and lets gravity pull the barrel down.:: Could use some love, but otherwise... ::He closes the action.:: ...it's rock solid.<end>
+
+=>q240
+This looks... military. ::He marvels at the wooden stock for a while before elaborating further.:: Most of the shoulder-fired single-shots I see are makeshift tube-with-trigger kind of weapons, so seeing how a military of the past designed these... now that's a novelty. ::He pushes the barrel locking hatch and lets gravity pull the barrel down.:: Could use some love, but otherwise... ::He closes the action.:: ...it's rock solid.<end>
+
+=>q241_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q241
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q242_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this into an even more rocking grenade launcher.<end>
+
+=>q242
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this into an even more rocking grenade launcher.<end>
+
+=>a243_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a243
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a244_original
+::Show him Milcore MGL.::<end>
+
+=>a244
+::Show him Milcore MGL.::<end>
+
+=>q245_original
+<end>
+
+=>q245
+<end>
+
+=>q246_original
+Hey, this one's pretty light. And I guess this launcher is proof that simplicity was, is, and always will be a key concept in firearm development. ::He rotates the cylinder.:: The springs are still good. ::He then aims it across the room.:: But I'd still prefer a proper scope on this one. 
+
+Boom!<end>
+
+=>q246
+Hey, this one's pretty light. And I guess this launcher is proof that simplicity was, is, and always will be a key concept in firearm development. ::He rotates the cylinder.:: The springs are still good. ::He then aims it across the room.:: But I'd still prefer a proper scope on this one. 
+
+Boom!<end>
+
+=>q247_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q247
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q248_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Mangonel frame for some spare parts. ::[Quality 125]::
+
+Add to that an 8-shot cylinder and a launcher scope, and I'll give you one rocking grenade launcher.<end>
+
+=>q248
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Mangonel frame for some spare parts. ::[Quality 125]::
+
+Add to that an 8-shot cylinder and a launcher scope, and I'll give you one rocking grenade launcher.<end>
+
+=>a249_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a249
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a250_original
+::Show him Punisher.::<end>
+
+=>a250
+::Show him Punisher.::<end>
+
+=>q251_original
+<end>
+
+=>q251
+<end>
+
+=>q252_original
+This, uh, weights a lot more than I thought it would. And would you look at the calculator on this thing. ::He toys with the targeting controls for a moment before putting it on the counter.:: *Fascinating*. These old target acquisition and fire control systems truly are a sight to behold whenever they show up.<end>
+
+=>q252
+This, uh, weights a lot more than I thought it would. And would you look at the calculator on this thing. ::He toys with the targeting controls for a moment before putting it on the counter.:: *Fascinating*. These old target acquisition and fire control systems truly are a sight to behold whenever they show up.<end>
+
+=>q253_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q253
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q254_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tsar frame for some spare parts. ::[Quality 130]::
+
+Add to that a 10-round magazine and a long 25mm barrel, and I'll give you one rocking grenade launcher.<end>
+
+=>q254
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tsar frame for some spare parts. ::[Quality 130]::
+
+Add to that a 10-round magazine and a long 25mm barrel, and I'll give you one rocking grenade launcher.<end>
+
+=>a255_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a255
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a256_original
+I've got this old world rocket launcher...<end>
+
+=>a256
+I've got this old world rocket launcher...<end>
+
+=>q257_original
+::He eagerly waits for you to continue.::<end>
+
+=>q257
+::He eagerly waits for you to continue.::<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>a259_original
+::Show him N202 Gleam.::<end>
+
+=>a259
+::Show him N202 Gleam.::<end>
+
+=>q260_original
+<end>
+
+=>q260
+<end>
+
+=>q261_original
+::He makes some room on the counter for a weapon of such unapologetic proportions.:: Damn... four tubes. Enough to blow up a station or two. ::Then he looks through each tube.:: Hm. One is damaged. Bent inward. Someone must've dropped it real good. Looks fixable, though.<end>
+
+=>q261
+::He makes some room on the counter for a weapon of such unapologetic proportions.:: Damn... four tubes. Enough to blow up a station or two. ::Then he looks through each tube.:: Hm. One is damaged. Bent inward. Someone must've dropped it real good. Looks fixable, though.<end>
+
+=>q262_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. First I'll need some super steel to fix the tube. ::[Quality 110]:: Guess I could use one of Travis' machines for that.
+
+Add to that a launcher scope and a forward grip, and you'll be causing cave-ins with this thing.<end>
+
+=>q262
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. First I'll need some super steel to fix the tube. ::[Quality 110]:: Guess I could use one of Travis' machines for that.
+
+Add to that a launcher scope and a forward grip, and you'll be causing cave-ins with this thing.<end>
+
+=>a263_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a263
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a264_original
+::Show him Hoatzin-84.::<end>
+
+=>a264
+::Show him Hoatzin-84.::<end>
+
+=>q265_original
+<end>
+
+=>q265
+<end>
+
+=>q266_original
+::He picks up the launcher and aims it around the room, all the while being intently focused on its firing control unit. You take a step back after he nearly hits you in the face with the launcher's rear end.::
+
+Target at, uh, a thousand meters. Ready... Aim... **Fire!** ::Click! And then he puts it down.:: Boom, I guess. Somewhere at the other end of a very long tunnel. Amazing.<end>
+
+=>q266
+::He picks up the launcher and aims it around the room, all the while being intently focused on its firing control unit. You take a step back after he nearly hits you in the face with the launcher's rear end.::
+
+Target at, uh, a thousand meters. Ready... Aim... **Fire!** ::Click! And then he puts it down.:: Boom, I guess. Somewhere at the other end of a very long tunnel. Amazing.<end>
+
+=>q267_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Maul frame for some spare parts. ::[Quality 130]::
+
+Add to that an electromagnetic rail catapult, and you'll be causing cave-ins with this thing.<end>
+
+=>q267
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Maul frame for some spare parts. ::[Quality 130]::
+
+Add to that an electromagnetic rail catapult, and you'll be causing cave-ins with this thing.<end>
+
+=>a268_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a268
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a269_original
+::Show him SPG-7.::<end>
+
+=>a269
+::Show him SPG-7.::<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+Ah, wood and steel. So simple. So elegant. ::He looks at it for a while.:: Smaller caliber, but I guess most of the rocket is outside the tube. Or is it a grenade of some kind? Well, whatever it is, seems straightforward enough.<end>
+
+=>q271
+Ah, wood and steel. So simple. So elegant. ::He looks at it for a while.:: Smaller caliber, but I guess most of the rocket is outside the tube. Or is it a grenade of some kind? Well, whatever it is, seems straightforward enough.<end>
+
+=>q272_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Bring me an airburst scope and an ergonomic firing mechanism, and you'll be causing cave-ins with this thing.<end>
+
+=>q272
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Bring me an airburst scope and an ergonomic firing mechanism, and you'll be causing cave-ins with this thing.<end>
+
+=>a273_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a273
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a274_original
+What can you tell me about wood?<end>
+
+=>a274
+What can you tell me about wood?<end>
+
+=>q275_original
+Not much beyond what I told you. I first saw it on this old world rifle a scavenger friend of mine found in some old Biocorp military warehouse. More than half of that thing was made of wood, and the manual that he found with it mentions the name of the material.
+
+*One-piece wooden stock.* Still remember the line.<end>
+
+=>q275
+Not much beyond what I told you. I first saw it on this old world rifle a scavenger friend of mine found in some old Biocorp military warehouse. More than half of that thing was made of wood, and the manual that he found with it mentions the name of the material.
+
+*One-piece wooden stock.* Still remember the line.<end>
+
+=>q276_original
+Interesting rifle that was: It was a semi-auto, loaded from the top with an eight-round clip. Powerful thing, and once you fired all the rounds, the clip flew out with a funny *ping*! Quite funny, but it's only funny until your thumb gets in the way of the bolt as it's chambering the first round of a clip you're pushing in. Both of us got *wood* thumbs - as we called them - before we learned how to properly load the rifle.<end>
+
+=>q276
+Interesting rifle that was: It was a semi-auto, loaded from the top with an eight-round clip. Powerful thing, and once you fired all the rounds, the clip flew out with a funny *ping*! Quite funny, but it's only funny until your thumb gets in the way of the bolt as it's chambering the first round of a clip you're pushing in. Both of us got *wood* thumbs - as we called them - before we learned how to properly load the rifle.<end>
+
+=>a277_original
+Go on.<end>
+
+=>a277
+Go on.<end>
+
+=>q278_original
+All in all, <end>
+
+=>q278
+All in all, <end>
+
+=>q279_original
+I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
+
+=>q279
+I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
+
+=>q280_original
+My guess is that wood was abundant in the days when these weapons were produced. Either the materials it was made from ran out, or the technology to make it was lost. Or... more suitable materials were found. Those guns I saw had no electronics or accessory systems - maybe they predate them.
+
+::He shrugs.:: Who knows. But to me, guns with wooden furniture look the best, the best - no doubt about it.<end>
+
+=>q280
+My guess is that wood was abundant in the days when these weapons were produced. Either the materials it was made from ran out, or the technology to make it was lost. Or... more suitable materials were found. Those guns I saw had no electronics or accessory systems - maybe they predate them.
+
+::He shrugs.:: Who knows. But to me, guns with wooden furniture look the best, the best - no doubt about it.<end>
+
+=>a281_original
+We were discussing the material.<end>
+
+=>a281
+We were discussing the material.<end>
+
+=>q282_original
+I was *just* getting to that. <end>
+
+=>q282
+I was *just* getting to that. <end>
+
+=>a283_original
+I had something else in mind.<end>
+
+=>a283
+I had something else in mind.<end>
+
+=>q284_original
+Alright.<end>
+
+=>q284
+Alright.<end>
+
+=>a285_original
+How can I do that?<end>
+
+=>a285
+How can I do that?<end>
+
+=>a286_original
+I know. But still, can we negotiate the price?<end>
+
+=>a286
+I know. But still, can we negotiate the price?<end>
+
+=>a287_original
+I got some other old world weapons to show you.<end>
+
+=>a287
+I got some other old world weapons to show you.<end>
+
+=>q288_original
+Can't wait.<end>
+
+=>q288
+Can't wait.<end>
+
+=>q289_original
+
+
+So, show me what you had there again.<end>
+
+=>q289
+
+
+So, show me what you had there again.<end>
+
+=>q290_original
+If you got any, I'm all up for it.<end>
+
+=>q290
+If you got any, I'm all up for it.<end>
+
+=>a291_original
+::Show him Tommy Gun.:: You mean like here?<end>
+
+=>a291
+::Show him Tommy Gun.:: You mean like here?<end>
+
+=>a292_original
+::Show him RRCh-42.:: You mean like here?<end>
+
+=>a292
+::Show him RRCh-42.:: You mean like here?<end>
+
+=>a293_original
+::Show him Double-barreled shotgun.:: You mean like here?<end>
+
+=>a293
+::Show him Double-barreled shotgun.:: You mean like here?<end>
+
+=>a294_original
+::Show him Dragunov.:: You mean like here?<end>
+
+=>a294
+::Show him Dragunov.:: You mean like here?<end>
+
+=>q295_original
+<end>
+
+=>q295
+<end>
+
+=>a296_original
+::Show him Thumper.:: You mean like here?<end>
+
+=>a296
+::Show him Thumper.:: You mean like here?<end>
+
+=>a297_original
+::Show him SPG-7.::<end>
+
+=>a297
+::Show him SPG-7.::<end>
+
+=>a298_original
+Never seen such a thing.<end>
+
+=>a298
+Never seen such a thing.<end>
+
+=>a299_original
+What sort of firearms do you repair?<end>
+
+=>a299
+What sort of firearms do you repair?<end>
+
+=>q300_original
+*Junk.* And I'd rather not.<end>
+
+=>q300
+*Junk.* And I'd rather not.<end>
+
+=>q301_original
+So don't come to me unless you've got something worth repairing.<end>
+
+=>q301
+So don't come to me unless you've got something worth repairing.<end>
+
+=>a302_original
+When is my weapon going to be ready?<end>
+
+=>a302
+When is my weapon going to be ready?<end>
+
+=>q303_original
+Hey, I barely even started! Have some patience.<end>
+
+=>q303
+Hey, I barely even started! Have some patience.<end>
+
+=>q304_original
+<end>
+
+=>q304
+<end>
+
+=>q305_original
+Almost done! Just got to do some final polishing and this beauty will be back in your hands.<end>
+
+=>q305
+Almost done! Just got to do some final polishing and this beauty will be back in your hands.<end>
+
+=>q306_original
+I'm done with the internals, and now I'm working on the <end>
+
+=>q306
+I'm done with the internals, and now I'm working on the <end>
+
+=>q307_original
+barrels. <end>
+
+=>q307
+barrels. <end>
+
+=>q308_original
+After that I'll do the cleaning and polishing, and that'll be that.<end>
+
+=>q308
+After that I'll do the cleaning and polishing, and that'll be that.<end>
+
+=>q309_original
+barrel. <end>
+
+=>q309
+barrel. <end>
+
+=>q310_original
+Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
+
+=>q310
+Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
+
+=>a311_original
+About old world weapons...<end>
+
+=>a311
+About old world weapons...<end>
+
+=>q312_original
+Got another one for me?<end>
+
+=>q312
+Got another one for me?<end>
+
+=>q313_original
+Alright, what've you got for me?<end>
+
+=>q313
+Alright, what've you got for me?<end>
+
+=>a314_original
+::[Persuade]:: Why don't we try disabling those plasma walkers anyway? Just in case the Faceless decide to attack.<end>
+
+=>a314
+::[Persuade]:: Why don't we try disabling those plasma walkers anyway? Just in case the Faceless decide to attack.<end>
+
+=>q315_original
+Hmm... I dunno... maybe that wouldn't be a bad move after all.<end>
+
+=>q315
+Hmm... I dunno... maybe that wouldn't be a bad move after all.<end>
+
+=>q316_original
+Alright, listen... take notes or whatever 'cause I'm not going to explain this again.<end>
+
+=>q316
+Alright, listen... take notes or whatever 'cause I'm not going to explain this again.<end>
+
+=>q317_original
+South of Rail Crossing there's an abandoned warehouse. Follow the eastern platform along the tracks, then turn west into the first fenced area to reach it, just after the tracks begin descending into a dark tunnel. I've been there a couple of times before, scavenging. It's not a terribly dangerous place, but it's also pretty well locked up so I couldn't get that much out of it.<end>
+
+=>q317
+South of Rail Crossing there's an abandoned warehouse. Follow the eastern platform along the tracks, then turn west into the first fenced area to reach it, just after the tracks begin descending into a dark tunnel. I've been there a couple of times before, scavenging. It's not a terribly dangerous place, but it's also pretty well locked up so I couldn't get that much out of it.<end>
+
+=>q318_original
+The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
+
+=>q318
+The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
+
+=>q319_original
+I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
+
+=>q319
+I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
+
+=>q320_original
+I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
+
+=>q320
+I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
+
+=>q321_original
+Such as enemy's electronic vehicles and energy weaponry. Which is just perfect for us, because I bet if I mounted that thing on my little emitter over there I could send a pulse so strong it would knock those plasma walkers out completely.<end>
+
+=>q321
+Such as enemy's electronic vehicles and energy weaponry. Which is just perfect for us, because I bet if I mounted that thing on my little emitter over there I could send a pulse so strong it would knock those plasma walkers out completely.<end>
+
+=>q322_original
+All you have to do is go and get that thing.<end>
+
+=>q322
+All you have to do is go and get that thing.<end>
+
+=>q323_original
+<end>
+
+=>q323
+<end>
+
+=>a324_original
+::[Intelligence]:: But there's a catch, right? You're not sure what's going to happen if you remove the capacitor from the pedestal. Otherwise you would have done so already.<end>
+
+=>a324
+::[Intelligence]:: But there's a catch, right? You're not sure what's going to happen if you remove the capacitor from the pedestal. Otherwise you would have done so already.<end>
+
+=>q325_original
+::He smirks and points his finger at you.:: You're a smart $(#boy/girl), aren't you? You're absolutely correct. Who knows what might happen if you pull that thing out. You might get electrocuted, trigger a timed bomb, who knows? It's for you to find out, not me.<end>
+
+=>q325
+::He smirks and points his finger at you.:: You're a smart $(#boy/girl), aren't you? You're absolutely correct. Who knows what might happen if you pull that thing out. You might get electrocuted, trigger a timed bomb, who knows? It's for you to find out, not me.<end>
+
+=>a326_original
+::[Intelligence]:: Wait a second. If the area is not dangerous as you said, why didn't you go back and get the capacitor yourself?<end>
+
+=>a326
+::[Intelligence]:: Wait a second. If the area is not dangerous as you said, why didn't you go back and get the capacitor yourself?<end>
+
+=>q327_original
+Because I have no idea what will happen if I remove it from the pedestal, that's why. And I'm not going to risk getting myself electrocuted.<end>
+
+=>q327
+Because I have no idea what will happen if I remove it from the pedestal, that's why. And I'm not going to risk getting myself electrocuted.<end>
+
+=>a328_original
+Okay, I'll do it.<end>
+
+=>a328
+Okay, I'll do it.<end>
+
+=>q329_original
+Very good. Bring it back to me and I'll get the emitter ready.<end>
+
+=>q329
+Very good. Bring it back to me and I'll get the emitter ready.<end>
+
+=>a330_original
+Catch you later.<end>
+
+=>a330
+Catch you later.<end>
+
+=>a331_original
+You mean this thing right here?<end>
+
+=>a331
+You mean this thing right here?<end>
+
+=>q332_original
+I see you already been to the place... and taking that thing off didn't kill you. Very good.<end>
+
+=>q332
+I see you already been to the place... and taking that thing off didn't kill you. Very good.<end>
+
+=>q333_original
+Give it here and I'll attach it to the emitter.<end>
+
+=>q333
+Give it here and I'll attach it to the emitter.<end>
+
+=>a334_original
+::Give him the device.::<end>
+
+=>a334
+::Give him the device.::<end>
+
+=>q335_original
+::He takes the device.:: Alright. This might take a while...<end>
+
+=>q335
+::He takes the device.:: Alright. This might take a while...<end>
+
+=>a336_original
+::End Dialog.::<end>
+
+=>a336
+::End Dialog.::<end>
+
+=>a337_original
+I'll think about it.<end>
+
+=>a337
+I'll think about it.<end>
+
+=>q338_original
+Be my guest. Not enough of that happening around here.<end>
+
+=>q338
+Be my guest. Not enough of that happening around here.<end>
+
+=>q339_original
+Forget it. I'm not doing anything that might provoke them.<end>
+
+=>q339
+Forget it. I'm not doing anything that might provoke them.<end>
+
+=>a340_original
+Captain mentioned you have an idea how to disable the plasma walkers.<end>
+
+=>a340
+Captain mentioned you have an idea how to disable the plasma walkers.<end>
+
+=>q341_original
+In the case they might move to attack. *Only* in that case. Not to launch another attack.<end>
+
+=>q341
+In the case they might move to attack. *Only* in that case. Not to launch another attack.<end>
+
+=>q342_original
+And no, I don't give a damn about Buzzer! He probably deserves whatever is coming his way. He's constantly bringing trouble to the station. Rail Crossing would be a much safer place without him.<end>
+
+=>q342
+And no, I don't give a damn about Buzzer! He probably deserves whatever is coming his way. He's constantly bringing trouble to the station. Rail Crossing would be a much safer place without him.<end>
+
+=>a343_original
+I brought you that pulse capacitor thing.<end>
+
+=>a343
+I brought you that pulse capacitor thing.<end>
+
+=>q344_original
+And it didn't fry you up in the process, I see.<end>
+
+=>q344
+And it didn't fry you up in the process, I see.<end>
+
+=>a345_original
+Why do you think the Faceless attacked your station?<end>
+
+=>a345
+Why do you think the Faceless attacked your station?<end>
+
+=>q346_original
+Don't tell me you're as stupid as the rest of these yahoos...<end>
+
+=>q346
+Don't tell me you're as stupid as the rest of these yahoos...<end>
+
+=>q347_original
+They didn't attack the station. They invaded the store and the only reason anyone died is because of Captain Triggerhappy.<end>
+
+=>q347
+They didn't attack the station. They invaded the store and the only reason anyone died is because of Captain Triggerhappy.<end>
+
+=>q348_original
+If the Faceless wanted us dead, we'd be dead by now, trust me. They probably just want something from Buzzer's shop. Perhaps he "scavenged" something of theirs or whatever.<end>
+
+=>q348
+If the Faceless wanted us dead, we'd be dead by now, trust me. They probably just want something from Buzzer's shop. Perhaps he "scavenged" something of theirs or whatever.<end>
+
+=>a349_original
+If you help me with the plasma walkers, I'll make it worth your while.<end>
+
+=>a349
+If you help me with the plasma walkers, I'll make it worth your while.<end>
+
+=>q350_original
+Hmm... Very well, I'll help you for two hundred charons. Up front.<end>
+
+=>q350
+Hmm... Very well, I'll help you for two hundred charons. Up front.<end>
+
+=>q351_original
+<end>
+
+=>q351
+<end>
+
+=>a352_original
+Alright, here you go. ::Give him 200 stygian coins.::<end>
+
+=>a352
+Alright, here you go. ::Give him 200 stygian coins.::<end>
+
+=>a353_original
+::[Mercantile]:: I'll give you a hundred and fifty.<end>
+
+=>a353
+::[Mercantile]:: I'll give you a hundred and fifty.<end>
+
+=>q354_original
+Deal.<end>
+
+=>q354
+Deal.<end>
+
+=>q355_original
+No deal. It's two hundred charons. You dig?<end>
+
+=>q355
+No deal. It's two hundred charons. You dig?<end>
+
+=>a356_original
+I don't have that kind of money.<end>
+
+=>a356
+I don't have that kind of money.<end>
+
+=>q357_original
+Well, too bad then. I don't work for free.<end>
+
+=>q357
+Well, too bad then. I don't work for free.<end>
+
+=>a358_original
+I'll think about it.<end>
+
+=>a358
+I'll think about it.<end>
+
+=>q359_original
+::He smirks.:: I'll be here when you're done thinking.<end>
+
+=>q359
+::He smirks.:: I'll be here when you're done thinking.<end>
+
+=>a360_original
+I'll go look for that device you mentioned.<end>
+
+=>a360
+I'll go look for that device you mentioned.<end>
+
+=>a361_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a361
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>q362_original
+Nope, not lately.<end>
+
+=>q362
+Nope, not lately.<end>
+
+=>a363_original
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>a363
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>q364_original
+His shop's on the other side of the station, and when it comes to customers, I mostly tend to notice the ones that come to me.<end>
+
+=>q364
+His shop's on the other side of the station, and when it comes to customers, I mostly tend to notice the ones that come to me.<end>
+
+=>q365_original
+Speaking of that, and no disrespect to the derailed old fart, but his death's gonna be good for my business. ::A smile escapes him for a moment, after which he turns serious once again.::
+
+Anything else?<end>
+
+=>q365
+Speaking of that, and no disrespect to the derailed old fart, but his death's gonna be good for my business. ::A smile escapes him for a moment, after which he turns serious once again.::
+
+Anything else?<end>
+
+=>q366_original
+::He pauses, shrugs, then continues.:: I don't know. I don't remember anyone I'd pick out, really. Honestly, I'd go check the bar if I was you. That's the best place to go to if you wanna learn what happens around here.<end>
+
+=>q366
+::He pauses, shrugs, then continues.:: I don't know. I don't remember anyone I'd pick out, really. Honestly, I'd go check the bar if I was you. That's the best place to go to if you wanna learn what happens around here.<end>
+
+=>a367_original
+Do you know anything about the Free Drones?<end>
+
+=>a367
+Do you know anything about the Free Drones?<end>
+
+=>q368_original
+Heard of them, but I've got no comments.<end>
+
+=>q368
+Heard of them, but I've got no comments.<end>
+
+=>q369_original
+I don't want to turn into Buzzer; he's the one constantly yapping about them. It's 'cause of him I even heard of them in the first place.<end>
+
+=>q369
+I don't want to turn into Buzzer; he's the one constantly yapping about them. It's 'cause of him I even heard of them in the first place.<end>
+
+=>q370_original
+::The man seems to be busily working on some electronic component, not bothering to look up.:: 
+
+You better be here to buy or sell me something, because I swear if you brought me your old broken pistol to fix, I'll shove it up your...<end>
+
+=>q370
+::The man seems to be busily working on some electronic component, not bothering to look up.:: 
+
+You better be here to buy or sell me something, because I swear if you brought me your old broken pistol to fix, I'll shove it up your...<end>
+
+=>q371_original
+::He raises his head and aborts the statement.:: You're not from around here, eh? Forget what I said then. I'm just tired of fixing broken weapons for the local yokels so they can run off and blast their own feet off.<end>
+
+=>q371
+::He raises his head and aborts the statement.:: You're not from around here, eh? Forget what I said then. I'm just tired of fixing broken weapons for the local yokels so they can run off and blast their own feet off.<end>
+
+=>q372_original
+If you cannot keep your weapon in good condition you have no business shooting anything, I say, least of all the Faceless. 
+
+Anyhow, what do you need?<end>
+
+=>q372
+If you cannot keep your weapon in good condition you have no business shooting anything, I say, least of all the Faceless. 
+
+Anyhow, what do you need?<end>
+
+=>q373_original
+Hey. What do you need?<end>
+
+=>q373
+Hey. What do you need?<end>
+
+=>q374_original
+What do you want?<end>
+
+=>q374
+What do you want?<end>
+

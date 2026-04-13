@@ -1,30 +1,30 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-All junk all the time.<end>
-
-=>q2
-All junk all the time.<end>
-
-=>q3_original
-I'm busy.<end>
-
-=>q3
-I'm busy.<end>
-
-=>q4_original
-Whatever it is ya brought, I'll look at it later.<end>
-
-=>q4
-Whatever it is ya brought, I'll look at it later.<end>
-
-=>q5_original
-Where did I put that carburetor...?<end>
-
-=>q5
-Where did I put that carburetor...?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+All junk all the time.<end>
+
+=>q2
+All junk all the time.<end>
+
+=>q3_original
+I'm busy.<end>
+
+=>q3
+I'm busy.<end>
+
+=>q4_original
+Whatever it is ya brought, I'll look at it later.<end>
+
+=>q4
+Whatever it is ya brought, I'll look at it later.<end>
+
+=>q5_original
+Where did I put that carburetor...?<end>
+
+=>q5
+Where did I put that carburetor...?<end>
+

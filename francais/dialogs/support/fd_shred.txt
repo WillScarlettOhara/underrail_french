@@ -1,72 +1,72 @@
-=>q1_original
-This area belongs to Free Drones!<end>
-
-=>q1
-This area belongs to Free Drones!<end>
-
-=>q2_original
-The 'Tectorate idiots thought they could stop us!<end>
-
-=>q2
-The 'Tectorate idiots thought they could stop us!<end>
-
-=>a3_original
-Continue with the attack!<end>
-
-=>a3
-Continue with the attack!<end>
-
-=>q4_original
-Right behind you! Death to the Cans!<end>
-
-=>q4
-Right behind you! Death to the Cans!<end>
-
-=>a5_original
-::Attack.::<end>
-
-=>a5
-::Attack.::<end>
-
-=>a6_original
-Wait here, I'll signal you when to proceed.<end>
-
-=>a6
-Wait here, I'll signal you when to proceed.<end>
-
-=>q7_original
-Cool, nothing happened...<end>
-
-=>q7
-Cool, nothing happened...<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-Down with the 'Tectorate!<end>
-
-=>q9
-Down with the 'Tectorate!<end>
-
-=>q10_original
-We'll purge the Cans from South Underrail!<end>
-
-=>q10
-We'll purge the Cans from South Underrail!<end>
-
-=>q11_original
-Metal morons - here I come!<end>
-
-=>q11
-Metal morons - here I come!<end>
-
-=>q12_original
-Shred's about to shred!<end>
-
-=>q12
-Shred's about to shred!<end>
-
+=>q1_original
+This area belongs to Free Drones!<end>
+
+=>q1
+This area belongs to Free Drones!<end>
+
+=>q2_original
+The 'Tectorate idiots thought they could stop us!<end>
+
+=>q2
+The 'Tectorate idiots thought they could stop us!<end>
+
+=>a3_original
+Continue with the attack!<end>
+
+=>a3
+Continue with the attack!<end>
+
+=>q4_original
+Right behind you! Death to the Cans!<end>
+
+=>q4
+Right behind you! Death to the Cans!<end>
+
+=>a5_original
+::Attack.::<end>
+
+=>a5
+::Attack.::<end>
+
+=>a6_original
+Wait here, I'll signal you when to proceed.<end>
+
+=>a6
+Wait here, I'll signal you when to proceed.<end>
+
+=>q7_original
+Cool, nothing happened...<end>
+
+=>q7
+Cool, nothing happened...<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+Down with the 'Tectorate!<end>
+
+=>q9
+Down with the 'Tectorate!<end>
+
+=>q10_original
+We'll purge the Cans from South Underrail!<end>
+
+=>q10
+We'll purge the Cans from South Underrail!<end>
+
+=>q11_original
+Metal morons - here I come!<end>
+
+=>q11
+Metal morons - here I come!<end>
+
+=>q12_original
+Shred's about to shred!<end>
+
+=>q12
+Shred's about to shred!<end>
+

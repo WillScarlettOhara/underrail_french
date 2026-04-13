@@ -1,90 +1,90 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Huh? Whatcha doin' up 'ere?<end>
-
-=>q2
-Huh? Whatcha doin' up 'ere?<end>
-
-=>q3_original
-Eh? Who cares. ::Shrugs.::<end>
-
-=>q3
-Eh? Who cares. ::Shrugs.::<end>
-
-=>q4_original
-Make yo'self at home.<end>
-
-=>q4
-Make yo'self at home.<end>
-
-=>q5_original
-How 'bout some fresh swill? It ain't too bad. ::Giggles.::<end>
-
-=>q5
-How 'bout some fresh swill? It ain't too bad. ::Giggles.::<end>
-
-=>q6_original
-I was dozin' alright? Next thing ya know I'm down 'ere.<end>
-
-=>q6
-I was dozin' alright? Next thing ya know I'm down 'ere.<end>
-
-=>q7_original
-Got thrown in 'ere fo' sure. What does it make me?<end>
-
-=>q7
-Got thrown in 'ere fo' sure. What does it make me?<end>
-
-=>q8_original
-::Scratches lower back.::<end>
-
-=>q8
-::Scratches lower back.::<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>q10_original
-Hey! I just hit up the place.<end>
-
-=>q10
-Hey! I just hit up the place.<end>
-
-=>q11_original
-Where am I?<end>
-
-=>q11
-Where am I?<end>
-
-=>q12_original
-If there's one thing I can smell, it's them muties.<end>
-
-=>q12
-If there's one thing I can smell, it's them muties.<end>
-
-=>q13_original
-So much stuff... <end>
-
-=>q13
-So much stuff... <end>
-
-=>q14_original
-Wish I knew of this crib sooner.<end>
-
-=>q14
-Wish I knew of this crib sooner.<end>
-
-=>q15_original
-Damn pipes. ::Spits aside.:: Almost got pulped gettin' down 'ere.<end>
-
-=>q15
-Damn pipes. ::Spits aside.:: Almost got pulped gettin' down 'ere.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Huh? Whatcha doin' up 'ere?<end>
+
+=>q2
+Huh? Whatcha doin' up 'ere?<end>
+
+=>q3_original
+Eh? Who cares. ::Shrugs.::<end>
+
+=>q3
+Eh? Who cares. ::Shrugs.::<end>
+
+=>q4_original
+Make yo'self at home.<end>
+
+=>q4
+Make yo'self at home.<end>
+
+=>q5_original
+How 'bout some fresh swill? It ain't too bad. ::Giggles.::<end>
+
+=>q5
+How 'bout some fresh swill? It ain't too bad. ::Giggles.::<end>
+
+=>q6_original
+I was dozin' alright? Next thing ya know I'm down 'ere.<end>
+
+=>q6
+I was dozin' alright? Next thing ya know I'm down 'ere.<end>
+
+=>q7_original
+Got thrown in 'ere fo' sure. What does it make me?<end>
+
+=>q7
+Got thrown in 'ere fo' sure. What does it make me?<end>
+
+=>q8_original
+::Scratches lower back.::<end>
+
+=>q8
+::Scratches lower back.::<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+Hey! I just hit up the place.<end>
+
+=>q10
+Hey! I just hit up the place.<end>
+
+=>q11_original
+Where am I?<end>
+
+=>q11
+Where am I?<end>
+
+=>q12_original
+If there's one thing I can smell, it's them muties.<end>
+
+=>q12
+If there's one thing I can smell, it's them muties.<end>
+
+=>q13_original
+So much stuff... <end>
+
+=>q13
+So much stuff... <end>
+
+=>q14_original
+Wish I knew of this crib sooner.<end>
+
+=>q14
+Wish I knew of this crib sooner.<end>
+
+=>q15_original
+Damn pipes. ::Spits aside.:: Almost got pulped gettin' down 'ere.<end>
+
+=>q15
+Damn pipes. ::Spits aside.:: Almost got pulped gettin' down 'ere.<end>
+

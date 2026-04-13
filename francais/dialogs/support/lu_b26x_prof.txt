@@ -1,36 +1,36 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-They call me Prof 'cause I teach people valuable lessons.<end>
-
-=>q2
-They call me Prof 'cause I teach people valuable lessons.<end>
-
-=>q3_original
-Ya don't wanna mess with a mind like this, $(#boy/girl).<end>
-
-=>q3
-Ya don't wanna mess with a mind like this, $(#boy/girl).<end>
-
-=>q4_original
-Eh?<end>
-
-=>q4
-Eh?<end>
-
-=>q5_original
-Keep yer hands where I can see 'em and ya get to keep 'em.<end>
-
-=>q5
-Keep yer hands where I can see 'em and ya get to keep 'em.<end>
-
-=>q6_original
-I can make yer skull explode, $(#boy/girl). ::Leans forward and whispers.:: Boom...<end>
-
-=>q6
-I can make yer skull explode, $(#boy/girl). ::Leans forward and whispers.:: Boom...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+They call me Prof 'cause I teach people valuable lessons.<end>
+
+=>q2
+They call me Prof 'cause I teach people valuable lessons.<end>
+
+=>q3_original
+Ya don't wanna mess with a mind like this, $(#boy/girl).<end>
+
+=>q3
+Ya don't wanna mess with a mind like this, $(#boy/girl).<end>
+
+=>q4_original
+Eh?<end>
+
+=>q4
+Eh?<end>
+
+=>q5_original
+Keep yer hands where I can see 'em and ya get to keep 'em.<end>
+
+=>q5
+Keep yer hands where I can see 'em and ya get to keep 'em.<end>
+
+=>q6_original
+I can make yer skull explode, $(#boy/girl). ::Leans forward and whispers.:: Boom...<end>
+
+=>q6
+I can make yer skull explode, $(#boy/girl). ::Leans forward and whispers.:: Boom...<end>
+

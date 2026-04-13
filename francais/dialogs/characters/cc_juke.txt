@@ -1,322 +1,322 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Shoo...<end>
-
-=>q2
-Shoo...<end>
-
-=>q3_original
-Can you... understand me? ::wheeze::<end>
-
-=>q3
-Can you... understand me? ::wheeze::<end>
-
-=>q4_original
-Did the soup... ::wheeze:: attract you?<end>
-
-=>q4
-Did the soup... ::wheeze:: attract you?<end>
-
-=>q5_original
-::Watches you.::<end>
-
-=>q5
-::Watches you.::<end>
-
-=>q6_original
-::Looks at Doubletap.::<end>
-
-=>q6
-::Looks at Doubletap.::<end>
-
-=>q7_original
-::The horribly mutated human reacts to your presence partially with surprise, partially with anxiety. His off-centered eyes dart over you for any signs of hostility, and it becomes instantly apparent that the duo would bolt it even at a blink too sudden. He speaks after a short delay, concurrently delivering a dangerous dose of his foul, acrid breath to your face; it burns your nostrils as if he was lavaging them with a bottle of ammonia. After the initial distraction, you manage to focus on his words.::
-
-We don't want no trouble and... ::wheeze:: we ain't got nothing... mrrr... ::He coughs.::<end>
-
-=>q7
-::The horribly mutated human reacts to your presence partially with surprise, partially with anxiety. His off-centered eyes dart over you for any signs of hostility, and it becomes instantly apparent that the duo would bolt it even at a blink too sudden. He speaks after a short delay, concurrently delivering a dangerous dose of his foul, acrid breath to your face; it burns your nostrils as if he was lavaging them with a bottle of ammonia. After the initial distraction, you manage to focus on his words.::
-
-We don't want no trouble and... ::wheeze:: we ain't got nothing... mrrr... ::He coughs.::<end>
-
-=>a8_original
-Relax, I'm not here to rob you.<end>
-
-=>a8
-Relax, I'm not here to rob you.<end>
-
-=>q9_original
-::He relaxes a bit and nods.::<end>
-
-=>q9
-::He relaxes a bit and nods.::<end>
-
-=>q10_original
-I'm Juke... ::wheeze:: and this here is Doubletap. :: He coughs violently then spits aside.::<end>
-
-=>q10
-I'm Juke... ::wheeze:: and this here is Doubletap. :: He coughs violently then spits aside.::<end>
-
-=>q11_original
-Feel free to... ::wheeze:: join us for some... ::wheeze:: barrel soup... ::coughs:: when it's done.<end>
-
-=>q11
-Feel free to... ::wheeze:: join us for some... ::wheeze:: barrel soup... ::coughs:: when it's done.<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>a13_original
-What's in the soup?<end>
-
-=>a13
-What's in the soup?<end>
-
-=>q14_original
-Stuff... ::He wheezes.::<end>
-
-=>q14
-Stuff... ::He wheezes.::<end>
-
-=>q15_original
-You do not... ::wheeze:: ask that... ::wheeze:: if you plan on eating it.<end>
-
-=>q15
-You do not... ::wheeze:: ask that... ::wheeze:: if you plan on eating it.<end>
-
-=>a16_original
-What are you guys doing here?<end>
-
-=>a16
-What are you guys doing here?<end>
-
-=>q17_original
-We live here. ::He coughs.::<end>
-
-=>q17
-We live here. ::He coughs.::<end>
-
-=>q18_original
-If you... ::wheeze:: can call it that.<end>
-
-=>q18
-If you... ::wheeze:: can call it that.<end>
-
-=>a19_original
-Why do you live in the sewers?<end>
-
-=>a19
-Why do you live in the sewers?<end>
-
-=>q20_original
-And where should we live? ::He coughs.:: If we go up there... ::wheeze:: they'll shoot us... ::wheeze:: on sight.<end>
-
-=>q20
-And where should we live? ::He coughs.:: If we go up there... ::wheeze:: they'll shoot us... ::wheeze:: on sight.<end>
-
-=>q21_original
-We used to... ::wheeze:: live in Junkyard, but... ::coughs:: scavengers kept busting in... ::wheeze:: killing us and taking our things. ::Coughs.:: Mrrr.... <end>
-
-=>q21
-We used to... ::wheeze:: live in Junkyard, but... ::coughs:: scavengers kept busting in... ::wheeze:: killing us and taking our things. ::Coughs.:: Mrrr.... <end>
-
-=>q22_original
-We came here thinking... ::wheeze:: it would be safer and... ::wheeze:: we could forage for more food.<end>
-
-=>q22
-We came here thinking... ::wheeze:: it would be safer and... ::wheeze:: we could forage for more food.<end>
-
-=>q23_original
-::He coughs violently.:: How wrong we were.<end>
-
-=>q23
-::He coughs violently.:: How wrong we were.<end>
-
-=>a24_original
-Are there more of you... people here?<end>
-
-=>a24
-Are there more of you... people here?<end>
-
-=>q25_original
-There used to be, but... ::wheeze:: Jookhela got them all. Now it's just me and ol' Doubletap. ::He coughs and spits something green aside.::<end>
-
-=>q25
-There used to be, but... ::wheeze:: Jookhela got them all. Now it's just me and ol' Doubletap. ::He coughs and spits something green aside.::<end>
-
-=>a26_original
-Jookhela?<end>
-
-=>a26
-Jookhela?<end>
-
-=>q27_original
-Jookhela is... ::wheeze:: a *demon* rathound.<end>
-
-=>q27
-Jookhela is... ::wheeze:: a *demon* rathound.<end>
-
-=>q28_original
-I know what--... ::coughs.:: what you think... ::wheeze:: you don't believe in demons. ::He coughs violently.:: Mrrr... neither did we before... ::wheeze:: we came here.<end>
-
-=>q28
-I know what--... ::coughs.:: what you think... ::wheeze:: you don't believe in demons. ::He coughs violently.:: Mrrr... neither did we before... ::wheeze:: we came here.<end>
-
-=>q29_original
-This demon is... ::wheeze:: very real. Very. He stalks... ::wheeze:: the sewers, cunning like... ::coughs:: mrrr... Devil himself. <end>
-
-=>q29
-This demon is... ::wheeze:: very real. Very. He stalks... ::wheeze:: the sewers, cunning like... ::coughs:: mrrr... Devil himself. <end>
-
-=>q30_original
-Sometimes he... ::wheeze:: sends his shadows at us. ::Coughs.:: They howl for hours... ::wheeze:: so we cannot sleep.<end>
-
-=>q30
-Sometimes he... ::wheeze:: sends his shadows at us. ::Coughs.:: They howl for hours... ::wheeze:: so we cannot sleep.<end>
-
-=>q31_original
-He paralyzes his... ::wheeze:: victims with his mind... ::wheeze:: before devouring them alive. ::He coughs.:: Mrrr.<end>
-
-=>q31
-He paralyzes his... ::wheeze:: victims with his mind... ::wheeze:: before devouring them alive. ::He coughs.:: Mrrr.<end>
-
-=>a32_original
-How come you guys are still alive yet Jookhela killed everyone else?<end>
-
-=>a32
-How come you guys are still alive yet Jookhela killed everyone else?<end>
-
-=>q33_original
-It's the *joojoo*... ::wheese:: junk incense.<end>
-
-=>q33
-It's the *joojoo*... ::wheese:: junk incense.<end>
-
-=>q34_original
-It is not the joojoo junk... ::Coughs.::<end>
-
-=>q34
-It is not the joojoo junk... ::Coughs.::<end>
-
-=>q35_original
-Mrrr... it is!<end>
-
-=>q35
-Mrrr... it is!<end>
-
-=>q36_original
-If you burn... ::wheeze:: the junk just the right... ::wheeze:: way and.. ::He coughs.:: say all the right words... ::wheeze:: it will ward off the demon.<end>
-
-=>q36
-If you burn... ::wheeze:: the junk just the right... ::wheeze:: way and.. ::He coughs.:: say all the right words... ::wheeze:: it will ward off the demon.<end>
-
-=>a37_original
-I need to get the power going through this part of the sewers again. You got any idea where the power generator is?<end>
-
-=>a37
-I need to get the power going through this part of the sewers again. You got any idea where the power generator is?<end>
-
-=>q38_original
-Yes... ::wheeze:: It's east of here p--... ::He coughs.:: past the gate. But the gate... ::wheeze:: it is locked.<end>
-
-=>q38
-Yes... ::wheeze:: It's east of here p--... ::He coughs.:: past the gate. But the gate... ::wheeze:: it is locked.<end>
-
-=>q39_original
-Grit had the key... ::wheeze:: but we haven't seen him... ::wheeze:: in a while.<end>
-
-=>q39
-Grit had the key... ::wheeze:: but we haven't seen him... ::wheeze:: in a while.<end>
-
-=>q40_original
-Jookhela got him probably. ::He coughs violently and spits aside.::<end>
-
-=>q40
-Jookhela got him probably. ::He coughs violently and spits aside.::<end>
-
-=>a41_original
-I killed Jookhela.<end>
-
-=>a41
-I killed Jookhela.<end>
-
-=>q42_original
-::He looks at you suspiciously.:: You did? If that... ::wheeze:: is the case you... ::wheeze:: might have saved our lives. We have nothing... ::wheeze:: to give you though. ::He coughs.:: Except our thanks.<end>
-
-=>q42
-::He looks at you suspiciously.:: You did? If that... ::wheeze:: is the case you... ::wheeze:: might have saved our lives. We have nothing... ::wheeze:: to give you though. ::He coughs.:: Except our thanks.<end>
-
-=>q43_original
-Demons cannot... ::wheezes:: be killed. Only delayed... ::coughs:: by joojoo!<end>
-
-=>q43
-Demons cannot... ::wheezes:: be killed. Only delayed... ::coughs:: by joojoo!<end>
-
-=>a44_original
-I'll see you guys later.<end>
-
-=>a44
-I'll see you guys later.<end>
-
-=>q45_original
-Beware... ::wheeze:: of *Jookhela*.<end>
-
-=>q45
-Beware... ::wheeze:: of *Jookhela*.<end>
-
-=>a46_original
-Jookhela?<end>
-
-=>a46
-Jookhela?<end>
-
-=>a47_original
-Whatever.<end>
-
-=>a47
-Whatever.<end>
-
-=>q48_original
-Be careful out there... ::Wheezes.:: The traps... ::wheezes:: are for Jookhela... ::coughs:: not you.<end>
-
-=>q48
-Be careful out there... ::Wheezes.:: The traps... ::wheezes:: are for Jookhela... ::coughs:: not you.<end>
-
-=>q49_original
-Careful out there.<end>
-
-=>q49
-Careful out there.<end>
-
-=>a50_original
-I'll be the judge of that. Stand aside - I'm searching this place.<end>
-
-=>a50
-I'll be the judge of that. Stand aside - I'm searching this place.<end>
-
-=>q51_original
-Alright, alright. We won't try... ::wheeze:: to stop you, but there's... ::wheeze:: nothing to take.<end>
-
-=>q51
-Alright, alright. We won't try... ::wheeze:: to stop you, but there's... ::wheeze:: nothing to take.<end>
-
-=>a52_original
-Die, freak!<end>
-
-=>a52
-Die, freak!<end>
-
-=>q53_original
-Mrrr?<end>
-
-=>q53
-Mrrr?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Shoo...<end>
+
+=>q2
+Shoo...<end>
+
+=>q3_original
+Can you... understand me? ::wheeze::<end>
+
+=>q3
+Can you... understand me? ::wheeze::<end>
+
+=>q4_original
+Did the soup... ::wheeze:: attract you?<end>
+
+=>q4
+Did the soup... ::wheeze:: attract you?<end>
+
+=>q5_original
+::Watches you.::<end>
+
+=>q5
+::Watches you.::<end>
+
+=>q6_original
+::Looks at Doubletap.::<end>
+
+=>q6
+::Looks at Doubletap.::<end>
+
+=>q7_original
+::The horribly mutated human reacts to your presence partially with surprise, partially with anxiety. His off-centered eyes dart over you for any signs of hostility, and it becomes instantly apparent that the duo would bolt it even at a blink too sudden. He speaks after a short delay, concurrently delivering a dangerous dose of his foul, acrid breath to your face; it burns your nostrils as if he was lavaging them with a bottle of ammonia. After the initial distraction, you manage to focus on his words.::
+
+We don't want no trouble and... ::wheeze:: we ain't got nothing... mrrr... ::He coughs.::<end>
+
+=>q7
+::The horribly mutated human reacts to your presence partially with surprise, partially with anxiety. His off-centered eyes dart over you for any signs of hostility, and it becomes instantly apparent that the duo would bolt it even at a blink too sudden. He speaks after a short delay, concurrently delivering a dangerous dose of his foul, acrid breath to your face; it burns your nostrils as if he was lavaging them with a bottle of ammonia. After the initial distraction, you manage to focus on his words.::
+
+We don't want no trouble and... ::wheeze:: we ain't got nothing... mrrr... ::He coughs.::<end>
+
+=>a8_original
+Relax, I'm not here to rob you.<end>
+
+=>a8
+Relax, I'm not here to rob you.<end>
+
+=>q9_original
+::He relaxes a bit and nods.::<end>
+
+=>q9
+::He relaxes a bit and nods.::<end>
+
+=>q10_original
+I'm Juke... ::wheeze:: and this here is Doubletap. :: He coughs violently then spits aside.::<end>
+
+=>q10
+I'm Juke... ::wheeze:: and this here is Doubletap. :: He coughs violently then spits aside.::<end>
+
+=>q11_original
+Feel free to... ::wheeze:: join us for some... ::wheeze:: barrel soup... ::coughs:: when it's done.<end>
+
+=>q11
+Feel free to... ::wheeze:: join us for some... ::wheeze:: barrel soup... ::coughs:: when it's done.<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+What's in the soup?<end>
+
+=>a13
+What's in the soup?<end>
+
+=>q14_original
+Stuff... ::He wheezes.::<end>
+
+=>q14
+Stuff... ::He wheezes.::<end>
+
+=>q15_original
+You do not... ::wheeze:: ask that... ::wheeze:: if you plan on eating it.<end>
+
+=>q15
+You do not... ::wheeze:: ask that... ::wheeze:: if you plan on eating it.<end>
+
+=>a16_original
+What are you guys doing here?<end>
+
+=>a16
+What are you guys doing here?<end>
+
+=>q17_original
+We live here. ::He coughs.::<end>
+
+=>q17
+We live here. ::He coughs.::<end>
+
+=>q18_original
+If you... ::wheeze:: can call it that.<end>
+
+=>q18
+If you... ::wheeze:: can call it that.<end>
+
+=>a19_original
+Why do you live in the sewers?<end>
+
+=>a19
+Why do you live in the sewers?<end>
+
+=>q20_original
+And where should we live? ::He coughs.:: If we go up there... ::wheeze:: they'll shoot us... ::wheeze:: on sight.<end>
+
+=>q20
+And where should we live? ::He coughs.:: If we go up there... ::wheeze:: they'll shoot us... ::wheeze:: on sight.<end>
+
+=>q21_original
+We used to... ::wheeze:: live in Junkyard, but... ::coughs:: scavengers kept busting in... ::wheeze:: killing us and taking our things. ::Coughs.:: Mrrr.... <end>
+
+=>q21
+We used to... ::wheeze:: live in Junkyard, but... ::coughs:: scavengers kept busting in... ::wheeze:: killing us and taking our things. ::Coughs.:: Mrrr.... <end>
+
+=>q22_original
+We came here thinking... ::wheeze:: it would be safer and... ::wheeze:: we could forage for more food.<end>
+
+=>q22
+We came here thinking... ::wheeze:: it would be safer and... ::wheeze:: we could forage for more food.<end>
+
+=>q23_original
+::He coughs violently.:: How wrong we were.<end>
+
+=>q23
+::He coughs violently.:: How wrong we were.<end>
+
+=>a24_original
+Are there more of you... people here?<end>
+
+=>a24
+Are there more of you... people here?<end>
+
+=>q25_original
+There used to be, but... ::wheeze:: Jookhela got them all. Now it's just me and ol' Doubletap. ::He coughs and spits something green aside.::<end>
+
+=>q25
+There used to be, but... ::wheeze:: Jookhela got them all. Now it's just me and ol' Doubletap. ::He coughs and spits something green aside.::<end>
+
+=>a26_original
+Jookhela?<end>
+
+=>a26
+Jookhela?<end>
+
+=>q27_original
+Jookhela is... ::wheeze:: a *demon* rathound.<end>
+
+=>q27
+Jookhela is... ::wheeze:: a *demon* rathound.<end>
+
+=>q28_original
+I know what--... ::coughs.:: what you think... ::wheeze:: you don't believe in demons. ::He coughs violently.:: Mrrr... neither did we before... ::wheeze:: we came here.<end>
+
+=>q28
+I know what--... ::coughs.:: what you think... ::wheeze:: you don't believe in demons. ::He coughs violently.:: Mrrr... neither did we before... ::wheeze:: we came here.<end>
+
+=>q29_original
+This demon is... ::wheeze:: very real. Very. He stalks... ::wheeze:: the sewers, cunning like... ::coughs:: mrrr... Devil himself. <end>
+
+=>q29
+This demon is... ::wheeze:: very real. Very. He stalks... ::wheeze:: the sewers, cunning like... ::coughs:: mrrr... Devil himself. <end>
+
+=>q30_original
+Sometimes he... ::wheeze:: sends his shadows at us. ::Coughs.:: They howl for hours... ::wheeze:: so we cannot sleep.<end>
+
+=>q30
+Sometimes he... ::wheeze:: sends his shadows at us. ::Coughs.:: They howl for hours... ::wheeze:: so we cannot sleep.<end>
+
+=>q31_original
+He paralyzes his... ::wheeze:: victims with his mind... ::wheeze:: before devouring them alive. ::He coughs.:: Mrrr.<end>
+
+=>q31
+He paralyzes his... ::wheeze:: victims with his mind... ::wheeze:: before devouring them alive. ::He coughs.:: Mrrr.<end>
+
+=>a32_original
+How come you guys are still alive yet Jookhela killed everyone else?<end>
+
+=>a32
+How come you guys are still alive yet Jookhela killed everyone else?<end>
+
+=>q33_original
+It's the *joojoo*... ::wheese:: junk incense.<end>
+
+=>q33
+It's the *joojoo*... ::wheese:: junk incense.<end>
+
+=>q34_original
+It is not the joojoo junk... ::Coughs.::<end>
+
+=>q34
+It is not the joojoo junk... ::Coughs.::<end>
+
+=>q35_original
+Mrrr... it is!<end>
+
+=>q35
+Mrrr... it is!<end>
+
+=>q36_original
+If you burn... ::wheeze:: the junk just the right... ::wheeze:: way and.. ::He coughs.:: say all the right words... ::wheeze:: it will ward off the demon.<end>
+
+=>q36
+If you burn... ::wheeze:: the junk just the right... ::wheeze:: way and.. ::He coughs.:: say all the right words... ::wheeze:: it will ward off the demon.<end>
+
+=>a37_original
+I need to get the power going through this part of the sewers again. You got any idea where the power generator is?<end>
+
+=>a37
+I need to get the power going through this part of the sewers again. You got any idea where the power generator is?<end>
+
+=>q38_original
+Yes... ::wheeze:: It's east of here p--... ::He coughs.:: past the gate. But the gate... ::wheeze:: it is locked.<end>
+
+=>q38
+Yes... ::wheeze:: It's east of here p--... ::He coughs.:: past the gate. But the gate... ::wheeze:: it is locked.<end>
+
+=>q39_original
+Grit had the key... ::wheeze:: but we haven't seen him... ::wheeze:: in a while.<end>
+
+=>q39
+Grit had the key... ::wheeze:: but we haven't seen him... ::wheeze:: in a while.<end>
+
+=>q40_original
+Jookhela got him probably. ::He coughs violently and spits aside.::<end>
+
+=>q40
+Jookhela got him probably. ::He coughs violently and spits aside.::<end>
+
+=>a41_original
+I killed Jookhela.<end>
+
+=>a41
+I killed Jookhela.<end>
+
+=>q42_original
+::He looks at you suspiciously.:: You did? If that... ::wheeze:: is the case you... ::wheeze:: might have saved our lives. We have nothing... ::wheeze:: to give you though. ::He coughs.:: Except our thanks.<end>
+
+=>q42
+::He looks at you suspiciously.:: You did? If that... ::wheeze:: is the case you... ::wheeze:: might have saved our lives. We have nothing... ::wheeze:: to give you though. ::He coughs.:: Except our thanks.<end>
+
+=>q43_original
+Demons cannot... ::wheezes:: be killed. Only delayed... ::coughs:: by joojoo!<end>
+
+=>q43
+Demons cannot... ::wheezes:: be killed. Only delayed... ::coughs:: by joojoo!<end>
+
+=>a44_original
+I'll see you guys later.<end>
+
+=>a44
+I'll see you guys later.<end>
+
+=>q45_original
+Beware... ::wheeze:: of *Jookhela*.<end>
+
+=>q45
+Beware... ::wheeze:: of *Jookhela*.<end>
+
+=>a46_original
+Jookhela?<end>
+
+=>a46
+Jookhela?<end>
+
+=>a47_original
+Whatever.<end>
+
+=>a47
+Whatever.<end>
+
+=>q48_original
+Be careful out there... ::Wheezes.:: The traps... ::wheezes:: are for Jookhela... ::coughs:: not you.<end>
+
+=>q48
+Be careful out there... ::Wheezes.:: The traps... ::wheezes:: are for Jookhela... ::coughs:: not you.<end>
+
+=>q49_original
+Careful out there.<end>
+
+=>q49
+Careful out there.<end>
+
+=>a50_original
+I'll be the judge of that. Stand aside - I'm searching this place.<end>
+
+=>a50
+I'll be the judge of that. Stand aside - I'm searching this place.<end>
+
+=>q51_original
+Alright, alright. We won't try... ::wheeze:: to stop you, but there's... ::wheeze:: nothing to take.<end>
+
+=>q51
+Alright, alright. We won't try... ::wheeze:: to stop you, but there's... ::wheeze:: nothing to take.<end>
+
+=>a52_original
+Die, freak!<end>
+
+=>a52
+Die, freak!<end>
+
+=>q53_original
+Mrrr?<end>
+
+=>q53
+Mrrr?<end>
+

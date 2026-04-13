@@ -1,60 +1,60 @@
-=>q1_original
-::Welcome Jonathan H.::<end>
-
-=>q1
-::Welcome Jonathan H.::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Mail - Biweekly schedule::<end>
-
-=>a3
-::Mail - Biweekly schedule::<end>
-
-=>q4_original
-::You have 1 new mail: ::<end>
-
-=>q4
-::You have 1 new mail: ::<end>
-
-=>a5_original
-::Open::<end>
-
-=>a5
-::Open::<end>
-
-=>q6_original
-::The deeper they went into the mines, the farther to the east they had to dig. The cost of these operations was raising by the minute, and we expect them to stop soon enough. At least, we hope so. ::<end>
-
-=>q6
-::The deeper they went into the mines, the farther to the east they had to dig. The cost of these operations was raising by the minute, and we expect them to stop soon enough. At least, we hope so. ::<end>
-
-=>a7_original
-::Leave::<end>
-
-=>a7
-::Leave::<end>
-
-=>q8_original
-::I wish I could afford a skimmer jet to sail all the way to the west. It's just so boring out here. I've heard magnificent stories about some places there, and I just can't wait to get going. Oh well, guess I have to keep on making coins doing this stuff and then, who knows...::<end>
-
-=>q8
-::I wish I could afford a skimmer jet to sail all the way to the west. It's just so boring out here. I've heard magnificent stories about some places there, and I just can't wait to get going. Oh well, guess I have to keep on making coins doing this stuff and then, who knows...::<end>
-
-=>q9_original
-::A trip to Junkyard is long and dangerous. Make sure you take all precautionary measures before you venture south as it's quite unpredictable down there. According to our reports, traveling by water seems to be the preferred choice.::<end>
-
-=>q9
-::A trip to Junkyard is long and dangerous. Make sure you take all precautionary measures before you venture south as it's quite unpredictable down there. According to our reports, traveling by water seems to be the preferred choice.::<end>
-
-=>a10_original
-::Exit::<end>
-
-=>a10
-::Exit::<end>
-
+=>q1_original
+::Welcome Jonathan H.::<end>
+
+=>q1
+::Welcome Jonathan H.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Mail - Biweekly schedule::<end>
+
+=>a3
+::Mail - Biweekly schedule::<end>
+
+=>q4_original
+::You have 1 new mail: ::<end>
+
+=>q4
+::You have 1 new mail: ::<end>
+
+=>a5_original
+::Open::<end>
+
+=>a5
+::Open::<end>
+
+=>q6_original
+::The deeper they went into the mines, the farther to the east they had to dig. The cost of these operations was raising by the minute, and we expect them to stop soon enough. At least, we hope so. ::<end>
+
+=>q6
+::The deeper they went into the mines, the farther to the east they had to dig. The cost of these operations was raising by the minute, and we expect them to stop soon enough. At least, we hope so. ::<end>
+
+=>a7_original
+::Leave::<end>
+
+=>a7
+::Leave::<end>
+
+=>q8_original
+::I wish I could afford a skimmer jet to sail all the way to the west. It's just so boring out here. I've heard magnificent stories about some places there, and I just can't wait to get going. Oh well, guess I have to keep on making coins doing this stuff and then, who knows...::<end>
+
+=>q8
+::I wish I could afford a skimmer jet to sail all the way to the west. It's just so boring out here. I've heard magnificent stories about some places there, and I just can't wait to get going. Oh well, guess I have to keep on making coins doing this stuff and then, who knows...::<end>
+
+=>q9_original
+::A trip to Junkyard is long and dangerous. Make sure you take all precautionary measures before you venture south as it's quite unpredictable down there. According to our reports, traveling by water seems to be the preferred choice.::<end>
+
+=>q9
+::A trip to Junkyard is long and dangerous. Make sure you take all precautionary measures before you venture south as it's quite unpredictable down there. According to our reports, traveling by water seems to be the preferred choice.::<end>
+
+=>a10_original
+::Exit::<end>
+
+=>a10
+::Exit::<end>
+

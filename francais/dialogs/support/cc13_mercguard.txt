@@ -1,58 +1,58 @@
-=>q1_original
-Get outta here already!<end>
-
-=>q1
-Get outta here already!<end>
-
-=>q2_original
-::The man raises his hand and signals you to stop.::
-
-Hey, you! This is private property. I *suggest* you turn around.<end>
-
-=>q2
-::The man raises his hand and signals you to stop.::
-
-Hey, you! This is private property. I *suggest* you turn around.<end>
-
-=>a3_original
-What's in there?<end>
-
-=>a3
-What's in there?<end>
-
-=>q4_original
-Pain if you don't get lost. Filthy dropper!<end>
-
-=>q4
-Pain if you don't get lost. Filthy dropper!<end>
-
-=>a5_original
-Pain it is. ::Attack!::<end>
-
-=>a5
-Pain it is. ::Attack!::<end>
-
-=>a6_original
-Fine. Goodbye.<end>
-
-=>a6
-Fine. Goodbye.<end>
-
-=>a7_original
-Who are you?<end>
-
-=>a7
-Who are you?<end>
-
-=>q8_original
-I'll tell you who I'm not - a patient man. Get outta here, you darn dropper!<end>
-
-=>q8
-I'll tell you who I'm not - a patient man. Get outta here, you darn dropper!<end>
-
-=>a9_original
-I don't think so. ::Attack!::<end>
-
-=>a9
-I don't think so. ::Attack!::<end>
-
+=>q1_original
+Get outta here already!<end>
+
+=>q1
+Get outta here already!<end>
+
+=>q2_original
+::The man raises his hand and signals you to stop.::
+
+Hey, you! This is private property. I *suggest* you turn around.<end>
+
+=>q2
+::The man raises his hand and signals you to stop.::
+
+Hey, you! This is private property. I *suggest* you turn around.<end>
+
+=>a3_original
+What's in there?<end>
+
+=>a3
+What's in there?<end>
+
+=>q4_original
+Pain if you don't get lost. Filthy dropper!<end>
+
+=>q4
+Pain if you don't get lost. Filthy dropper!<end>
+
+=>a5_original
+Pain it is. ::Attack!::<end>
+
+=>a5
+Pain it is. ::Attack!::<end>
+
+=>a6_original
+Fine. Goodbye.<end>
+
+=>a6
+Fine. Goodbye.<end>
+
+=>a7_original
+Who are you?<end>
+
+=>a7
+Who are you?<end>
+
+=>q8_original
+I'll tell you who I'm not - a patient man. Get outta here, you darn dropper!<end>
+
+=>q8
+I'll tell you who I'm not - a patient man. Get outta here, you darn dropper!<end>
+
+=>a9_original
+I don't think so. ::Attack!::<end>
+
+=>a9
+I don't think so. ::Attack!::<end>
+

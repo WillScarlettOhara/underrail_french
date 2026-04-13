@@ -1,84 +1,84 @@
-=>q1_original
-I've seen nuthin'. I ain't even here.<end>
-
-=>q1
-I've seen nuthin'. I ain't even here.<end>
-
-=>q2_original
-Why... why did you kill that sorry sap?<end>
-
-=>q2
-Why... why did you kill that sorry sap?<end>
-
-=>a3_original
-That's none of your business.<end>
-
-=>a3
-That's none of your business.<end>
-
-=>q4_original
-You're damn right it isn't. As far as I'm concerned I was never here.<end>
-
-=>q4
-You're damn right it isn't. As far as I'm concerned I was never here.<end>
-
-=>a5_original
-Dibs on the head!<end>
-
-=>a5
-Dibs on the head!<end>
-
-=>q6_original
-You're some kind of sicko, aren't you?<end>
-
-=>q6
-You're some kind of sicko, aren't you?<end>
-
-=>a7_original
-He owed some money to certain people. Poor man couldn't pay up.<end>
-
-=>a7
-He owed some money to certain people. Poor man couldn't pay up.<end>
-
-=>q8_original
-::She nods.:: Figures.<end>
-
-=>q8
-::She nods.:: Figures.<end>
-
-=>a9_original
-Oh, don't worry. You'll be joining him presently. ::Attack Treasa.::<end>
-
-=>a9
-Oh, don't worry. You'll be joining him presently. ::Attack Treasa.::<end>
-
-=>q10_original
-You and I got no damn business. Just stay the heck away from me and we good.<end>
-
-=>q10
-You and I got no damn business. Just stay the heck away from me and we good.<end>
-
-=>q11_original
-<end>
-
-=>q11
-<end>
-
-=>q12_original
-Mind your own business.<end>
-
-=>q12
-Mind your own business.<end>
-
-=>q13_original
-Get lost.<end>
-
-=>q13
-Get lost.<end>
-
-=>q14_original
-Snooping's bad for your health, $(#jack/sister).<end>
-
-=>q14
-Snooping's bad for your health, $(#jack/sister).<end>
-
+=>q1_original
+I've seen nuthin'. I ain't even here.<end>
+
+=>q1
+I've seen nuthin'. I ain't even here.<end>
+
+=>q2_original
+Why... why did you kill that sorry sap?<end>
+
+=>q2
+Why... why did you kill that sorry sap?<end>
+
+=>a3_original
+That's none of your business.<end>
+
+=>a3
+That's none of your business.<end>
+
+=>q4_original
+You're damn right it isn't. As far as I'm concerned I was never here.<end>
+
+=>q4
+You're damn right it isn't. As far as I'm concerned I was never here.<end>
+
+=>a5_original
+Dibs on the head!<end>
+
+=>a5
+Dibs on the head!<end>
+
+=>q6_original
+You're some kind of sicko, aren't you?<end>
+
+=>q6
+You're some kind of sicko, aren't you?<end>
+
+=>a7_original
+He owed some money to certain people. Poor man couldn't pay up.<end>
+
+=>a7
+He owed some money to certain people. Poor man couldn't pay up.<end>
+
+=>q8_original
+::She nods.:: Figures.<end>
+
+=>q8
+::She nods.:: Figures.<end>
+
+=>a9_original
+Oh, don't worry. You'll be joining him presently. ::Attack Treasa.::<end>
+
+=>a9
+Oh, don't worry. You'll be joining him presently. ::Attack Treasa.::<end>
+
+=>q10_original
+You and I got no damn business. Just stay the heck away from me and we good.<end>
+
+=>q10
+You and I got no damn business. Just stay the heck away from me and we good.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+Mind your own business.<end>
+
+=>q12
+Mind your own business.<end>
+
+=>q13_original
+Get lost.<end>
+
+=>q13
+Get lost.<end>
+
+=>q14_original
+Snooping's bad for your health, $(#jack/sister).<end>
+
+=>q14
+Snooping's bad for your health, $(#jack/sister).<end>
+

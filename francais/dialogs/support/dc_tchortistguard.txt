@@ -1,456 +1,456 @@
-=>q1_original
-I knew it! Get out of here before I put a bullet through your skull!<end>
-
-=>q1
-I knew it! Get out of here before I put a bullet through your skull!<end>
-
-=>q2_original
-::One of the rassophores lifts his weapon at the very first sight of your indistinguishable contour, shouting for the rest of the guards.::
-
-The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
-
-=>q2
-::One of the rassophores lifts his weapon at the very first sight of your indistinguishable contour, shouting for the rest of the guards.::
-
-The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
-
-=>q3_original
-::Before he gets the chance to unleash a hail of bullets he seems so keen on unleashing, one of the other, significantly taller rassophore guards stops him.::
-
-Hold it, brother - that could be one of our own!<end>
-
-=>q3
-::Before he gets the chance to unleash a hail of bullets he seems so keen on unleashing, one of the other, significantly taller rassophore guards stops him.::
-
-Hold it, brother - that could be one of our own!<end>
-
-=>q4_original
-::The edgy rassophore slowly lowers his weapon, while his comrade turns to you.::
-
-You there, identify yourself!<end>
-
-=>q4
-::The edgy rassophore slowly lowers his weapon, while his comrade turns to you.::
-
-You there, identify yourself!<end>
-
-=>a5_original
-I am one of you, brothers. I come from the Institute. Didn't the rassophores I helped tell you about me?<end>
-
-=>a5
-I am one of you, brothers. I come from the Institute. Didn't the rassophores I helped tell you about me?<end>
-
-=>q6_original
-::The two of them look at each other.:: 
-
-Yes, but there was only one rassophore. The rest didn't make it. Come closer - but slowly. We can't take any chances.<end>
-
-=>q6
-::The two of them look at each other.:: 
-
-Yes, but there was only one rassophore. The rest didn't make it. Come closer - but slowly. We can't take any chances.<end>
-
-=>a7_original
-::Approach the barricade.::<end>
-
-=>a7
-::Approach the barricade.::<end>
-
-=>q8_original
-::The two of them look at each other.:: 
-
-Yes, they have made it safely. Come closer - but slowly. We can't take any chances.<end>
-
-=>q8
-::The two of them look at each other.:: 
-
-Yes, they have made it safely. Come closer - but slowly. We can't take any chances.<end>
-
-=>a9_original
-I am a Tchortist, brothers, just like you. I come from the Institute.<end>
-
-=>a9
-I am a Tchortist, brothers, just like you. I come from the Institute.<end>
-
-=>q10_original
-::The two of them look at each other.:: 
-
-Come closer, but do so slowly.<end>
-
-=>q10
-::The two of them look at each other.:: 
-
-Come closer, but do so slowly.<end>
-
-=>a11_original
-::Turn around and try to run away.::<end>
-
-=>a11
-::Turn around and try to run away.::<end>
-
-=>q12_original
-::The edgy rassophore raises his weapon.::
-
-I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
-
-=>q12
-::The edgy rassophore raises his weapon.::
-
-I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
-
-=>a13_original
-::Fight!::<end>
-
-=>a13
-::Fight!::<end>
-
-=>a14_original
-I am *not* one of the Faceless. I just need help!<end>
-
-=>a14
-I am *not* one of the Faceless. I just need help!<end>
-
-=>q15_original
-Then you are in the wrong place, whoever you are. We can't help you. Turn away and leave, or we will open fire.<end>
-
-=>q15
-Then you are in the wrong place, whoever you are. We can't help you. Turn away and leave, or we will open fire.<end>
-
-=>a16_original
-You don't understand - I am a Tchortist, and I come from the Institute.<end>
-
-=>a16
-You don't understand - I am a Tchortist, and I come from the Institute.<end>
-
-=>a17_original
-But I need food, medicine and supplies.<end>
-
-=>a17
-But I need food, medicine and supplies.<end>
-
-=>q18_original
-We can't help you. Now - I repeat - leave or we *will* open fire.<end>
-
-=>q18
-We can't help you. Now - I repeat - leave or we *will* open fire.<end>
-
-=>a19_original
-Fine, I understand. I will be leaving now.<end>
-
-=>a19
-Fine, I understand. I will be leaving now.<end>
-
-=>q20_original
-::The edgy rassophore raises his weapon.::
-
-What if this is a diversion? What if the Faceless are watching us RIGHT NOW!?<end>
-
-=>q20
-::The edgy rassophore raises his weapon.::
-
-What if this is a diversion? What if the Faceless are watching us RIGHT NOW!?<end>
-
-=>q21_original
-::One moment of hesitation from the taller rassophore was enough for the edgy one to lose his calm and open fire. Luckily, all bullets harmlessly fly around you, but it becomes clear that talking is no longer an option.::<end>
-
-=>q21
-::One moment of hesitation from the taller rassophore was enough for the edgy one to lose his calm and open fire. Luckily, all bullets harmlessly fly around you, but it becomes clear that talking is no longer an option.::<end>
-
-=>a22_original
-You deluded Tchortists should have taken your shots when you had the chance. Now YOU. WILL. DIE! ::Attack!::<end>
-
-=>a22
-You deluded Tchortists should have taken your shots when you had the chance. Now YOU. WILL. DIE! ::Attack!::<end>
-
-=>a23_original
-I don't want any trouble. I'll be leaving now.<end>
-
-=>a23
-I don't want any trouble. I'll be leaving now.<end>
-
-=>q24_original
-That's good enough! ::As you come to a full stop, all eyes fall on you in an act of great scrutiny.::<end>
-
-=>q24
-That's good enough! ::As you come to a full stop, all eyes fall on you in an act of great scrutiny.::<end>
-
-=>q25_original
-$(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
-
-=>q25
-$(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
-
-=>a26_original
-I would like to talk with whoever is in charge here.<end>
-
-=>a26
-I would like to talk with whoever is in charge here.<end>
-
-=>q27_original
-His Excellency, Harmost Stavros can be found in his office; go straight then left to get to it. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>q27
-His Excellency, Harmost Stavros can be found in his office; go straight then left to get to it. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>q28_original
-Tchort guide you, $(#brother/sister).<end>
-
-=>q28
-Tchort guide you, $(#brother/sister).<end>
-
-=>a29_original
-Tchort guide you too.<end>
-
-=>a29
-Tchort guide you too.<end>
-
-=>a30_original
-See ya.<end>
-
-=>a30
-See ya.<end>
-
-=>a31_original
-I need food, supplies and medical attention, brothers.<end>
-
-=>a31
-I need food, supplies and medical attention, brothers.<end>
-
-=>q32_original
-You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>q32
-You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>q33_original
-Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
-
-=>q33
-Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
-
-=>a34_original
-Yes.<end>
-
-=>a34
-Yes.<end>
-
-=>q35_original
-::The edgy rassophore shouts.:: $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
-
-=>q35
-::The edgy rassophore shouts.:: $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
-
-=>a36_original
-Eidein is great.<end>
-
-=>a36
-Eidein is great.<end>
-
-=>a37_original
-Tchort is evolution.<end>
-
-=>a37
-Tchort is evolution.<end>
-
-=>q38_original
-::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
-
-=>q38
-::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
-
-=>a39_original
-Evolution is Tchort.<end>
-
-=>a39
-Evolution is Tchort.<end>
-
-=>q40_original
-Good! Now, if you ca--<end>
-
-=>q40
-Good! Now, if you ca--<end>
-
-=>q41_original
-I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
-
-=>q41
-I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
-
-=>q42_original
-::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
-
-=>q42
-::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
-
-=>a43_original
-Brandon.<end>
-
-=>a43
-Brandon.<end>
-
-=>q44_original
-See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
-
-=>q44
-See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
-
-=>a45_original
-Bradock.<end>
-
-=>a45
-Bradock.<end>
-
-=>a46_original
-Giacomo.<end>
-
-=>a46
-Giacomo.<end>
-
-=>a47_original
-Marcial.<end>
-
-=>a47
-Marcial.<end>
-
-=>a48_original
-Sagan.<end>
-
-=>a48
-Sagan.<end>
-
-=>q49_original
-That is correct; I think that is all the proof we need. 
-
-You can enter Cytosine Outpost, $(#brother/sister).<end>
-
-=>q49
-That is correct; I think that is all the proof we need. 
-
-You can enter Cytosine Outpost, $(#brother/sister).<end>
-
-=>a50_original
-Finally, it's about time.<end>
-
-=>a50
-Finally, it's about time.<end>
-
-=>q51_original
-$(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>q51
-$(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
-
-=>a52_original
-::[Intelligence]:: Sagan.<end>
-
-=>a52
-::[Intelligence]:: Sagan.<end>
-
-=>a53_original
-Hristofor.<end>
-
-=>a53
-Hristofor.<end>
-
-=>a54_original
-Peter.<end>
-
-=>a54
-Peter.<end>
-
-=>a55_original
-$(context.player.Name).<end>
-
-=>a55
-$(context.player.Name).<end>
-
-=>q56_original
-<end>
-
-=>q56
-<end>
-
-=>a57_original
-Tchort is great.<end>
-
-=>a57
-Tchort is great.<end>
-
-=>a58_original
-Faceless must die!<end>
-
-=>a58
-Faceless must die!<end>
-
-=>a59_original
-Nine.<end>
-
-=>a59
-Nine.<end>
-
-=>q60_original
-Nine? Wha--<end>
-
-=>q60
-Nine? Wha--<end>
-
-=>q61_original
-Where is your robe, $(#brother/sister)?<end>
-
-=>q61
-Where is your robe, $(#brother/sister)?<end>
-
-=>a62_original
-::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
-
-=>a62
-::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
-
-=>q63_original
-That makes sense... Tchort is evolution, $(#brother/sister).<end>
-
-=>q63
-That makes sense... Tchort is evolution, $(#brother/sister).<end>
-
-=>q64_original
-And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
-
-=>q64
-And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
-
-=>a65_original
-I... uh... it's drying.<end>
-
-=>a65
-I... uh... it's drying.<end>
-
-=>q66_original
-<end>
-
-=>q66
-<end>
-
-=>q67_original
-$(#Brother/Sister).<end>
-
-=>q67
-$(#Brother/Sister).<end>
-
-=>q68_original
-<end>
-
-=>q68
-<end>
-
-=>q69_original
-I would've shot you, you know.<end>
-
-=>q69
-I would've shot you, you know.<end>
-
-=>q70_original
-I'm watching you, $(#brother/sister).<end>
-
-=>q70
-I'm watching you, $(#brother/sister).<end>
-
+=>q1_original
+I knew it! Get out of here before I put a bullet through your skull!<end>
+
+=>q1
+I knew it! Get out of here before I put a bullet through your skull!<end>
+
+=>q2_original
+::One of the rassophores lifts his weapon at the very first sight of your indistinguishable contour, shouting for the rest of the guards.::
+
+The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
+
+=>q2
+::One of the rassophores lifts his weapon at the very first sight of your indistinguishable contour, shouting for the rest of the guards.::
+
+The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
+
+=>q3_original
+::Before he gets the chance to unleash a hail of bullets he seems so keen on unleashing, one of the other, significantly taller rassophore guards stops him.::
+
+Hold it, brother - that could be one of our own!<end>
+
+=>q3
+::Before he gets the chance to unleash a hail of bullets he seems so keen on unleashing, one of the other, significantly taller rassophore guards stops him.::
+
+Hold it, brother - that could be one of our own!<end>
+
+=>q4_original
+::The edgy rassophore slowly lowers his weapon, while his comrade turns to you.::
+
+You there, identify yourself!<end>
+
+=>q4
+::The edgy rassophore slowly lowers his weapon, while his comrade turns to you.::
+
+You there, identify yourself!<end>
+
+=>a5_original
+I am one of you, brothers. I come from the Institute. Didn't the rassophores I helped tell you about me?<end>
+
+=>a5
+I am one of you, brothers. I come from the Institute. Didn't the rassophores I helped tell you about me?<end>
+
+=>q6_original
+::The two of them look at each other.:: 
+
+Yes, but there was only one rassophore. The rest didn't make it. Come closer - but slowly. We can't take any chances.<end>
+
+=>q6
+::The two of them look at each other.:: 
+
+Yes, but there was only one rassophore. The rest didn't make it. Come closer - but slowly. We can't take any chances.<end>
+
+=>a7_original
+::Approach the barricade.::<end>
+
+=>a7
+::Approach the barricade.::<end>
+
+=>q8_original
+::The two of them look at each other.:: 
+
+Yes, they have made it safely. Come closer - but slowly. We can't take any chances.<end>
+
+=>q8
+::The two of them look at each other.:: 
+
+Yes, they have made it safely. Come closer - but slowly. We can't take any chances.<end>
+
+=>a9_original
+I am a Tchortist, brothers, just like you. I come from the Institute.<end>
+
+=>a9
+I am a Tchortist, brothers, just like you. I come from the Institute.<end>
+
+=>q10_original
+::The two of them look at each other.:: 
+
+Come closer, but do so slowly.<end>
+
+=>q10
+::The two of them look at each other.:: 
+
+Come closer, but do so slowly.<end>
+
+=>a11_original
+::Turn around and try to run away.::<end>
+
+=>a11
+::Turn around and try to run away.::<end>
+
+=>q12_original
+::The edgy rassophore raises his weapon.::
+
+I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
+
+=>q12
+::The edgy rassophore raises his weapon.::
+
+I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
+
+=>a13_original
+::Fight!::<end>
+
+=>a13
+::Fight!::<end>
+
+=>a14_original
+I am *not* one of the Faceless. I just need help!<end>
+
+=>a14
+I am *not* one of the Faceless. I just need help!<end>
+
+=>q15_original
+Then you are in the wrong place, whoever you are. We can't help you. Turn away and leave, or we will open fire.<end>
+
+=>q15
+Then you are in the wrong place, whoever you are. We can't help you. Turn away and leave, or we will open fire.<end>
+
+=>a16_original
+You don't understand - I am a Tchortist, and I come from the Institute.<end>
+
+=>a16
+You don't understand - I am a Tchortist, and I come from the Institute.<end>
+
+=>a17_original
+But I need food, medicine and supplies.<end>
+
+=>a17
+But I need food, medicine and supplies.<end>
+
+=>q18_original
+We can't help you. Now - I repeat - leave or we *will* open fire.<end>
+
+=>q18
+We can't help you. Now - I repeat - leave or we *will* open fire.<end>
+
+=>a19_original
+Fine, I understand. I will be leaving now.<end>
+
+=>a19
+Fine, I understand. I will be leaving now.<end>
+
+=>q20_original
+::The edgy rassophore raises his weapon.::
+
+What if this is a diversion? What if the Faceless are watching us RIGHT NOW!?<end>
+
+=>q20
+::The edgy rassophore raises his weapon.::
+
+What if this is a diversion? What if the Faceless are watching us RIGHT NOW!?<end>
+
+=>q21_original
+::One moment of hesitation from the taller rassophore was enough for the edgy one to lose his calm and open fire. Luckily, all bullets harmlessly fly around you, but it becomes clear that talking is no longer an option.::<end>
+
+=>q21
+::One moment of hesitation from the taller rassophore was enough for the edgy one to lose his calm and open fire. Luckily, all bullets harmlessly fly around you, but it becomes clear that talking is no longer an option.::<end>
+
+=>a22_original
+You deluded Tchortists should have taken your shots when you had the chance. Now YOU. WILL. DIE! ::Attack!::<end>
+
+=>a22
+You deluded Tchortists should have taken your shots when you had the chance. Now YOU. WILL. DIE! ::Attack!::<end>
+
+=>a23_original
+I don't want any trouble. I'll be leaving now.<end>
+
+=>a23
+I don't want any trouble. I'll be leaving now.<end>
+
+=>q24_original
+That's good enough! ::As you come to a full stop, all eyes fall on you in an act of great scrutiny.::<end>
+
+=>q24
+That's good enough! ::As you come to a full stop, all eyes fall on you in an act of great scrutiny.::<end>
+
+=>q25_original
+$(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
+
+=>q25
+$(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
+
+=>a26_original
+I would like to talk with whoever is in charge here.<end>
+
+=>a26
+I would like to talk with whoever is in charge here.<end>
+
+=>q27_original
+His Excellency, Harmost Stavros can be found in his office; go straight then left to get to it. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>q27
+His Excellency, Harmost Stavros can be found in his office; go straight then left to get to it. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>q28_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q28
+Tchort guide you, $(#brother/sister).<end>
+
+=>a29_original
+Tchort guide you too.<end>
+
+=>a29
+Tchort guide you too.<end>
+
+=>a30_original
+See ya.<end>
+
+=>a30
+See ya.<end>
+
+=>a31_original
+I need food, supplies and medical attention, brothers.<end>
+
+=>a31
+I need food, supplies and medical attention, brothers.<end>
+
+=>q32_original
+You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>q32
+You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>q33_original
+Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
+
+=>q33
+Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
+
+=>a34_original
+Yes.<end>
+
+=>a34
+Yes.<end>
+
+=>q35_original
+::The edgy rassophore shouts.:: $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
+
+=>q35
+::The edgy rassophore shouts.:: $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
+
+=>a36_original
+Eidein is great.<end>
+
+=>a36
+Eidein is great.<end>
+
+=>a37_original
+Tchort is evolution.<end>
+
+=>a37
+Tchort is evolution.<end>
+
+=>q38_original
+::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
+
+=>q38
+::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
+
+=>a39_original
+Evolution is Tchort.<end>
+
+=>a39
+Evolution is Tchort.<end>
+
+=>q40_original
+Good! Now, if you ca--<end>
+
+=>q40
+Good! Now, if you ca--<end>
+
+=>q41_original
+I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
+
+=>q41
+I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
+
+=>q42_original
+::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
+
+=>q42
+::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
+
+=>a43_original
+Brandon.<end>
+
+=>a43
+Brandon.<end>
+
+=>q44_original
+See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
+
+=>q44
+See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
+
+=>a45_original
+Bradock.<end>
+
+=>a45
+Bradock.<end>
+
+=>a46_original
+Giacomo.<end>
+
+=>a46
+Giacomo.<end>
+
+=>a47_original
+Marcial.<end>
+
+=>a47
+Marcial.<end>
+
+=>a48_original
+Sagan.<end>
+
+=>a48
+Sagan.<end>
+
+=>q49_original
+That is correct; I think that is all the proof we need. 
+
+You can enter Cytosine Outpost, $(#brother/sister).<end>
+
+=>q49
+That is correct; I think that is all the proof we need. 
+
+You can enter Cytosine Outpost, $(#brother/sister).<end>
+
+=>a50_original
+Finally, it's about time.<end>
+
+=>a50
+Finally, it's about time.<end>
+
+=>q51_original
+$(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>q51
+$(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
+
+=>a52_original
+::[Intelligence]:: Sagan.<end>
+
+=>a52
+::[Intelligence]:: Sagan.<end>
+
+=>a53_original
+Hristofor.<end>
+
+=>a53
+Hristofor.<end>
+
+=>a54_original
+Peter.<end>
+
+=>a54
+Peter.<end>
+
+=>a55_original
+$(context.player.Name).<end>
+
+=>a55
+$(context.player.Name).<end>
+
+=>q56_original
+<end>
+
+=>q56
+<end>
+
+=>a57_original
+Tchort is great.<end>
+
+=>a57
+Tchort is great.<end>
+
+=>a58_original
+Faceless must die!<end>
+
+=>a58
+Faceless must die!<end>
+
+=>a59_original
+Nine.<end>
+
+=>a59
+Nine.<end>
+
+=>q60_original
+Nine? Wha--<end>
+
+=>q60
+Nine? Wha--<end>
+
+=>q61_original
+Where is your robe, $(#brother/sister)?<end>
+
+=>q61
+Where is your robe, $(#brother/sister)?<end>
+
+=>a62_original
+::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
+
+=>a62
+::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
+
+=>q63_original
+That makes sense... Tchort is evolution, $(#brother/sister).<end>
+
+=>q63
+That makes sense... Tchort is evolution, $(#brother/sister).<end>
+
+=>q64_original
+And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
+
+=>q64
+And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
+
+=>a65_original
+I... uh... it's drying.<end>
+
+=>a65
+I... uh... it's drying.<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>q67_original
+$(#Brother/Sister).<end>
+
+=>q67
+$(#Brother/Sister).<end>
+
+=>q68_original
+<end>
+
+=>q68
+<end>
+
+=>q69_original
+I would've shot you, you know.<end>
+
+=>q69
+I would've shot you, you know.<end>
+
+=>q70_original
+I'm watching you, $(#brother/sister).<end>
+
+=>q70
+I'm watching you, $(#brother/sister).<end>
+

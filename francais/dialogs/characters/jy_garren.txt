@@ -1,520 +1,520 @@
-=>q1_original
-No time to talk now. We must kill Abram.<end>
-
-=>q1
-No time to talk now. We must kill Abram.<end>
-
-=>q2_original
-I have to wrap things up here. If you have any questions they will have to wait until we get back to the embassy.<end>
-
-=>q2
-I have to wrap things up here. If you have any questions they will have to wait until we get back to the embassy.<end>
-
-=>q3_original
-The threat has been neutralized. 
-
-Abram is dead. This was his last job.<end>
-
-=>q3
-The threat has been neutralized. 
-
-Abram is dead. This was his last job.<end>
-
-=>q4_original
-Good work, Corporal. Your work here is done. I apologize for paying you in charons, but that is what I have with me at the moment.<end>
-
-=>q4
-Good work, Corporal. Your work here is done. I apologize for paying you in charons, but that is what I have with me at the moment.<end>
-
-=>q5_original
-Send our regards to Colonel Cathcart when you get back to Fort Apogee. ::He salutes you.::<end>
-
-=>q5
-Send our regards to Colonel Cathcart when you get back to Fort Apogee. ::He salutes you.::<end>
-
-=>q6_original
-The Protectorate will not forget that you've sided with us today. Please take this money as payment for your work.<end>
-
-=>q6
-The Protectorate will not forget that you've sided with us today. Please take this money as payment for your work.<end>
-
-=>q7_original
-Despite what you may have heard of us, you will find that the Protectorate is more civilized and more considerate than any other faction in this unforgiving underworld.<end>
-
-=>q7
-Despite what you may have heard of us, you will find that the Protectorate is more civilized and more considerate than any other faction in this unforgiving underworld.<end>
-
-=>q8_original
-I'm listening.<end>
-
-=>q8
-I'm listening.<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-This guy named Abram that hangs out at the tavern wanted to know some stuff about the embassy.<end>
-
-=>a10
-This guy named Abram that hangs out at the tavern wanted to know some stuff about the embassy.<end>
-
-=>q11_original
-What kind of stuff?<end>
-
-=>q11
-What kind of stuff?<end>
-
-=>a12_original
-I don't know. I didn't want to tell him anything so he didn't specify.<end>
-
-=>a12
-I don't know. I didn't want to tell him anything so he didn't specify.<end>
-
-=>q13_original
-Good. I'll keep an eye on him. <end>
-
-=>q13
-Good. I'll keep an eye on him. <end>
-
-=>q14_original
-You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
-
-=>q14
-You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
-
-=>a15_original
-He wanted to know about its defenses. How many guards are inside and there are dogs or turrets. That sort of stuff.<end>
-
-=>a15
-He wanted to know about its defenses. How many guards are inside and there are dogs or turrets. That sort of stuff.<end>
-
-=>q16_original
-What did you tell him?<end>
-
-=>q16
-What did you tell him?<end>
-
-=>a17_original
-I told him what I saw.<end>
-
-=>a17
-I told him what I saw.<end>
-
-=>q18_original
-You do understand that this effectively makes you an enemy spy. I could terminate you now, but I'm going to let you go if you agree to report anything you might find out about this Abram person's motivations or intentions.<end>
-
-=>q18
-You do understand that this effectively makes you an enemy spy. I could terminate you now, but I'm going to let you go if you agree to report anything you might find out about this Abram person's motivations or intentions.<end>
-
-=>a19_original
-Agreed.<end>
-
-=>a19
-Agreed.<end>
-
-=>q20_original
-I will also be keeping my eyes on you. Do not do anything so foolish again.<end>
-
-=>q20
-I will also be keeping my eyes on you. Do not do anything so foolish again.<end>
-
-=>a21_original
-Was that supposed to be a threat?<end>
-
-=>a21
-Was that supposed to be a threat?<end>
-
-=>q22_original
-::Garren readies his rifle.::<end>
-
-=>q22
-::Garren readies his rifle.::<end>
-
-=>a23_original
-::Fight!::<end>
-
-=>a23
-::Fight!::<end>
-
-=>a24_original
-I fed him as much wrong info as I could.<end>
-
-=>a24
-I fed him as much wrong info as I could.<end>
-
-=>q25_original
-I prefer you had told him nothing, but I guess that is the next best thing. I'll keep an eye on this guy.<end>
-
-=>q25
-I prefer you had told him nothing, but I guess that is the next best thing. I'll keep an eye on this guy.<end>
-
-=>a26_original
-Abram asked me to infiltrate some kind of cybernetic burrower spawn into Embassy's ventilation system.<end>
-
-=>a26
-Abram asked me to infiltrate some kind of cybernetic burrower spawn into Embassy's ventilation system.<end>
-
-=>q27_original
-What did you do with this spawn?<end>
-
-=>q27
-What did you do with this spawn?<end>
-
-=>a28_original
-I've done as he asked.<end>
-
-=>a28
-I've done as he asked.<end>
-
-=>q29_original
-In that case you have outgrown your usefulness, spy. <end>
-
-=>q29
-In that case you have outgrown your usefulness, spy. <end>
-
-=>a30_original
-Nothing. I still have it on me here.<end>
-
-=>a30
-Nothing. I still have it on me here.<end>
-
-=>q31_original
-That's not good. Give it to me.<end>
-
-=>q31
-That's not good. Give it to me.<end>
-
-=>a32_original
-::Give the spawn to him.::<end>
-
-=>a32
-::Give the spawn to him.::<end>
-
-=>q33_original
-Chances are Abram could track your movement and listen to your conversations while you had this on you.<end>
-
-=>q33
-Chances are Abram could track your movement and listen to your conversations while you had this on you.<end>
-
-=>q34_original
-I'll dispose of it. You better watch your back now. Abram surely won't be pleased by your betrayal.<end>
-
-=>q34
-I'll dispose of it. You better watch your back now. Abram surely won't be pleased by your betrayal.<end>
-
-=>a35_original
-Sorry, no can do.<end>
-
-=>a35
-Sorry, no can do.<end>
-
-=>q36_original
-What the hell do you mean no can do?<end>
-
-=>q36
-What the hell do you mean no can do?<end>
-
-=>a37_original
-I'm not giving it to you. It's probably worth something on the market.<end>
-
-=>a37
-I'm not giving it to you. It's probably worth something on the market.<end>
-
-=>a38_original
-I was just kidding, here you go. ::Give the spawn to him.::<end>
-
-=>a38
-I was just kidding, here you go. ::Give the spawn to him.::<end>
-
-=>a39_original
-Nothing. I'm keeping it stashed for now.<end>
-
-=>a39
-Nothing. I'm keeping it stashed for now.<end>
-
-=>q40_original
-Good. If it's cybernatically modified, chances are Abram can track your movement and listen to your conversations while you have it on you.<end>
-
-=>q40
-Good. If it's cybernatically modified, chances are Abram can track your movement and listen to your conversations while you have it on you.<end>
-
-=>q41_original
-I advise you return it to him and tell him you could not accomplish the mission. <end>
-
-=>q41
-I advise you return it to him and tell him you could not accomplish the mission. <end>
-
-=>a42_original
-Abram is in the caves just west of the Junkyard gate and is planning to extract one of your prisoners called Maura through some sort of a tunnel.<end>
-
-=>a42
-Abram is in the caves just west of the Junkyard gate and is planning to extract one of your prisoners called Maura through some sort of a tunnel.<end>
-
-=>q43_original
-This confirms our suspicions then. There's no time to explain, we must move against him now while he's out of position.<end>
-
-=>q43
-This confirms our suspicions then. There's no time to explain, we must move against him now while he's out of position.<end>
-
-=>q44_original
-We will meet you there. Hurry now.<end>
-
-=>q44
-We will meet you there. Hurry now.<end>
-
-=>a45_original
-That's all I got for now.<end>
-
-=>a45
-That's all I got for now.<end>
-
-=>q46_original
-Corporal?<end>
-
-=>q46
-Corporal?<end>
-
-=>q47_original
-<end>
-
-=>q47
-<end>
-
-=>a48_original
-What is this place?<end>
-
-=>a48
-What is this place?<end>
-
-=>q49_original
-This is an Underrail Protectorate outpost. It also houses the United Stations embassy.<end>
-
-=>q49
-This is an Underrail Protectorate outpost. It also houses the United Stations embassy.<end>
-
-=>a50_original
-What is the Protectorate?<end>
-
-=>a50
-What is the Protectorate?<end>
-
-=>q51_original
-We are the most powerful military organization in Underrail, and our primary objective is preservation of humanity as a whole and protection of the civilized world.<end>
-
-=>q51
-We are the most powerful military organization in Underrail, and our primary objective is preservation of humanity as a whole and protection of the civilized world.<end>
-
-=>q52_original
-Our jurisdiction extends to the whole of United Stations, all Biocorp facilities and outposts regardless of their location and all vital Underrail infrastructure.<end>
-
-=>q52
-Our jurisdiction extends to the whole of United Stations, all Biocorp facilities and outposts regardless of their location and all vital Underrail infrastructure.<end>
-
-=>a53_original
-What are the United Stations?<end>
-
-=>a53
-What are the United Stations?<end>
-
-=>q54_original
-It's a confederacy of stations some ways to the north of here. It's the future of the Underrail and we hope to integrate all the station states and other... communities into it. Someday even this place might be part of it.<end>
-
-=>q54
-It's a confederacy of stations some ways to the north of here. It's the future of the Underrail and we hope to integrate all the station states and other... communities into it. Someday even this place might be part of it.<end>
-
-=>a55_original
-Can I see the ambassador?<end>
-
-=>a55
-Can I see the ambassador?<end>
-
-=>q56_original
-You can. Go right in.<end>
-
-=>q56
-You can. Go right in.<end>
-
-=>a57_original
-Thank you.<end>
-
-=>a57
-Thank you.<end>
-
-=>q58_original
-Do you have business with the ambassador? Is he expecting you?<end>
-
-=>q58
-Do you have business with the ambassador? Is he expecting you?<end>
-
-=>a59_original
-No.<end>
-
-=>a59
-No.<end>
-
-=>q60_original
-Then no.<end>
-
-=>q60
-Then no.<end>
-
-=>a61_original
-No, but I really need to see him.<end>
-
-=>a61
-No, but I really need to see him.<end>
-
-=>q62_original
-And you are...?<end>
-
-=>q62
-And you are...?<end>
-
-=>a63_original
-$(context.player.Name) of South Gate Station.<end>
-
-=>a63
-$(context.player.Name) of South Gate Station.<end>
-
-=>q64_original
-::He nods.:: We were expecting you. You may enter the embassy. ::He unlocks the gate behind him.::<end>
-
-=>q64
-::He nods.:: We were expecting you. You may enter the embassy. ::He unlocks the gate behind him.::<end>
-
-=>q65_original
-Well, I'm sorry $(#mister/miss) $(context.player.Name) but you are not on the list and the ambassador is too busy right now to see you. I'll make a note that you've arrived and perhaps you'll be able to get an audience later.<end>
-
-=>q65
-Well, I'm sorry $(#mister/miss) $(context.player.Name) but you are not on the list and the ambassador is too busy right now to see you. I'll make a note that you've arrived and perhaps you'll be able to get an audience later.<end>
-
-=>a66_original
-Actually, never mind, I think I got the wrong embassy.<end>
-
-=>a66
-Actually, never mind, I think I got the wrong embassy.<end>
-
-=>q67_original
-Hmm, yes, that will happen. They're all over this place.<end>
-
-=>q67
-Hmm, yes, that will happen. They're all over this place.<end>
-
-=>a68_original
-Yes, he's expecting me.<end>
-
-=>a68
-Yes, he's expecting me.<end>
-
-=>a69_original
-Can I see the ambassador now?<end>
-
-=>a69
-Can I see the ambassador now?<end>
-
-=>a70_original
-You don't have any jurisdiction over this place, right?<end>
-
-=>a70
-You don't have any jurisdiction over this place, right?<end>
-
-=>q71_original
-The Junkyard is not a part of the Protectorate, no. But be advised that the embassy is sovereign territory of the Protectorate and that I'm allowed and required to act to prevent and/or counteract any action that might endanger it or its staff regardless of jurisdictional boundaries.<end>
-
-=>q71
-The Junkyard is not a part of the Protectorate, no. But be advised that the embassy is sovereign territory of the Protectorate and that I'm allowed and required to act to prevent and/or counteract any action that might endanger it or its staff regardless of jurisdictional boundaries.<end>
-
-=>a72_original
-May I enter the embassy?<end>
-
-=>a72
-May I enter the embassy?<end>
-
-=>q73_original
-Yes, you are allowed passage at any time until further notice.<end>
-
-=>q73
-Yes, you are allowed passage at any time until further notice.<end>
-
-=>a74_original
-I want to report a security threat to the embassy.<end>
-
-=>a74
-I want to report a security threat to the embassy.<end>
-
-=>q75_original
-We best go inside in that case.<end>
-
-=>q75
-We best go inside in that case.<end>
-
-=>a76_original
-::Follow him inside.::<end>
-
-=>a76
-::Follow him inside.::<end>
-
-=>a77_original
-I've got more info about Abram.<end>
-
-=>a77
-I've got more info about Abram.<end>
-
-=>a78_original
-Did you ever find out who Abram was?<end>
-
-=>a78
-Did you ever find out who Abram was?<end>
-
-=>q79_original
-He was a high profile mercenary, that's for sure. He probably works for one of the elite mercenary companies, but I cannot be sure which one.<end>
-
-=>q79
-He was a high profile mercenary, that's for sure. He probably works for one of the elite mercenary companies, but I cannot be sure which one.<end>
-
-=>a80_original
-Who was the prisoner he was trying to liberate?<end>
-
-=>a80
-Who was the prisoner he was trying to liberate?<end>
-
-=>q81_original
-I'm sorry, but I cannot tell you that.<end>
-
-=>q81
-I'm sorry, but I cannot tell you that.<end>
-
-=>a82_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a82
-What are your thoughts on the Faceless invasion?<end>
-
-=>q83_original
-The Protectorate is investigating the matter. Have no fear.<end>
-
-=>q83
-The Protectorate is investigating the matter. Have no fear.<end>
-
-=>a84_original
-I'll be going now.<end>
-
-=>a84
-I'll be going now.<end>
-
-=>q85_original
-Citizen?<end>
-
-=>q85
-Citizen?<end>
-
-=>q86_original
-Halt, citizen. This is a restricted area.<end>
-
-=>q86
-Halt, citizen. This is a restricted area.<end>
-
+=>q1_original
+No time to talk now. We must kill Abram.<end>
+
+=>q1
+No time to talk now. We must kill Abram.<end>
+
+=>q2_original
+I have to wrap things up here. If you have any questions they will have to wait until we get back to the embassy.<end>
+
+=>q2
+I have to wrap things up here. If you have any questions they will have to wait until we get back to the embassy.<end>
+
+=>q3_original
+The threat has been neutralized. 
+
+Abram is dead. This was his last job.<end>
+
+=>q3
+The threat has been neutralized. 
+
+Abram is dead. This was his last job.<end>
+
+=>q4_original
+Good work, Corporal. Your work here is done. I apologize for paying you in charons, but that is what I have with me at the moment.<end>
+
+=>q4
+Good work, Corporal. Your work here is done. I apologize for paying you in charons, but that is what I have with me at the moment.<end>
+
+=>q5_original
+Send our regards to Colonel Cathcart when you get back to Fort Apogee. ::He salutes you.::<end>
+
+=>q5
+Send our regards to Colonel Cathcart when you get back to Fort Apogee. ::He salutes you.::<end>
+
+=>q6_original
+The Protectorate will not forget that you've sided with us today. Please take this money as payment for your work.<end>
+
+=>q6
+The Protectorate will not forget that you've sided with us today. Please take this money as payment for your work.<end>
+
+=>q7_original
+Despite what you may have heard of us, you will find that the Protectorate is more civilized and more considerate than any other faction in this unforgiving underworld.<end>
+
+=>q7
+Despite what you may have heard of us, you will find that the Protectorate is more civilized and more considerate than any other faction in this unforgiving underworld.<end>
+
+=>q8_original
+I'm listening.<end>
+
+=>q8
+I'm listening.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+This guy named Abram that hangs out at the tavern wanted to know some stuff about the embassy.<end>
+
+=>a10
+This guy named Abram that hangs out at the tavern wanted to know some stuff about the embassy.<end>
+
+=>q11_original
+What kind of stuff?<end>
+
+=>q11
+What kind of stuff?<end>
+
+=>a12_original
+I don't know. I didn't want to tell him anything so he didn't specify.<end>
+
+=>a12
+I don't know. I didn't want to tell him anything so he didn't specify.<end>
+
+=>q13_original
+Good. I'll keep an eye on him. <end>
+
+=>q13
+Good. I'll keep an eye on him. <end>
+
+=>q14_original
+You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
+
+=>q14
+You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
+
+=>a15_original
+He wanted to know about its defenses. How many guards are inside and there are dogs or turrets. That sort of stuff.<end>
+
+=>a15
+He wanted to know about its defenses. How many guards are inside and there are dogs or turrets. That sort of stuff.<end>
+
+=>q16_original
+What did you tell him?<end>
+
+=>q16
+What did you tell him?<end>
+
+=>a17_original
+I told him what I saw.<end>
+
+=>a17
+I told him what I saw.<end>
+
+=>q18_original
+You do understand that this effectively makes you an enemy spy. I could terminate you now, but I'm going to let you go if you agree to report anything you might find out about this Abram person's motivations or intentions.<end>
+
+=>q18
+You do understand that this effectively makes you an enemy spy. I could terminate you now, but I'm going to let you go if you agree to report anything you might find out about this Abram person's motivations or intentions.<end>
+
+=>a19_original
+Agreed.<end>
+
+=>a19
+Agreed.<end>
+
+=>q20_original
+I will also be keeping my eyes on you. Do not do anything so foolish again.<end>
+
+=>q20
+I will also be keeping my eyes on you. Do not do anything so foolish again.<end>
+
+=>a21_original
+Was that supposed to be a threat?<end>
+
+=>a21
+Was that supposed to be a threat?<end>
+
+=>q22_original
+::Garren readies his rifle.::<end>
+
+=>q22
+::Garren readies his rifle.::<end>
+
+=>a23_original
+::Fight!::<end>
+
+=>a23
+::Fight!::<end>
+
+=>a24_original
+I fed him as much wrong info as I could.<end>
+
+=>a24
+I fed him as much wrong info as I could.<end>
+
+=>q25_original
+I prefer you had told him nothing, but I guess that is the next best thing. I'll keep an eye on this guy.<end>
+
+=>q25
+I prefer you had told him nothing, but I guess that is the next best thing. I'll keep an eye on this guy.<end>
+
+=>a26_original
+Abram asked me to infiltrate some kind of cybernetic burrower spawn into Embassy's ventilation system.<end>
+
+=>a26
+Abram asked me to infiltrate some kind of cybernetic burrower spawn into Embassy's ventilation system.<end>
+
+=>q27_original
+What did you do with this spawn?<end>
+
+=>q27
+What did you do with this spawn?<end>
+
+=>a28_original
+I've done as he asked.<end>
+
+=>a28
+I've done as he asked.<end>
+
+=>q29_original
+In that case you have outgrown your usefulness, spy. <end>
+
+=>q29
+In that case you have outgrown your usefulness, spy. <end>
+
+=>a30_original
+Nothing. I still have it on me here.<end>
+
+=>a30
+Nothing. I still have it on me here.<end>
+
+=>q31_original
+That's not good. Give it to me.<end>
+
+=>q31
+That's not good. Give it to me.<end>
+
+=>a32_original
+::Give the spawn to him.::<end>
+
+=>a32
+::Give the spawn to him.::<end>
+
+=>q33_original
+Chances are Abram could track your movement and listen to your conversations while you had this on you.<end>
+
+=>q33
+Chances are Abram could track your movement and listen to your conversations while you had this on you.<end>
+
+=>q34_original
+I'll dispose of it. You better watch your back now. Abram surely won't be pleased by your betrayal.<end>
+
+=>q34
+I'll dispose of it. You better watch your back now. Abram surely won't be pleased by your betrayal.<end>
+
+=>a35_original
+Sorry, no can do.<end>
+
+=>a35
+Sorry, no can do.<end>
+
+=>q36_original
+What the hell do you mean no can do?<end>
+
+=>q36
+What the hell do you mean no can do?<end>
+
+=>a37_original
+I'm not giving it to you. It's probably worth something on the market.<end>
+
+=>a37
+I'm not giving it to you. It's probably worth something on the market.<end>
+
+=>a38_original
+I was just kidding, here you go. ::Give the spawn to him.::<end>
+
+=>a38
+I was just kidding, here you go. ::Give the spawn to him.::<end>
+
+=>a39_original
+Nothing. I'm keeping it stashed for now.<end>
+
+=>a39
+Nothing. I'm keeping it stashed for now.<end>
+
+=>q40_original
+Good. If it's cybernatically modified, chances are Abram can track your movement and listen to your conversations while you have it on you.<end>
+
+=>q40
+Good. If it's cybernatically modified, chances are Abram can track your movement and listen to your conversations while you have it on you.<end>
+
+=>q41_original
+I advise you return it to him and tell him you could not accomplish the mission. <end>
+
+=>q41
+I advise you return it to him and tell him you could not accomplish the mission. <end>
+
+=>a42_original
+Abram is in the caves just west of the Junkyard gate and is planning to extract one of your prisoners called Maura through some sort of a tunnel.<end>
+
+=>a42
+Abram is in the caves just west of the Junkyard gate and is planning to extract one of your prisoners called Maura through some sort of a tunnel.<end>
+
+=>q43_original
+This confirms our suspicions then. There's no time to explain, we must move against him now while he's out of position.<end>
+
+=>q43
+This confirms our suspicions then. There's no time to explain, we must move against him now while he's out of position.<end>
+
+=>q44_original
+We will meet you there. Hurry now.<end>
+
+=>q44
+We will meet you there. Hurry now.<end>
+
+=>a45_original
+That's all I got for now.<end>
+
+=>a45
+That's all I got for now.<end>
+
+=>q46_original
+Corporal?<end>
+
+=>q46
+Corporal?<end>
+
+=>q47_original
+<end>
+
+=>q47
+<end>
+
+=>a48_original
+What is this place?<end>
+
+=>a48
+What is this place?<end>
+
+=>q49_original
+This is an Underrail Protectorate outpost. It also houses the United Stations embassy.<end>
+
+=>q49
+This is an Underrail Protectorate outpost. It also houses the United Stations embassy.<end>
+
+=>a50_original
+What is the Protectorate?<end>
+
+=>a50
+What is the Protectorate?<end>
+
+=>q51_original
+We are the most powerful military organization in Underrail, and our primary objective is preservation of humanity as a whole and protection of the civilized world.<end>
+
+=>q51
+We are the most powerful military organization in Underrail, and our primary objective is preservation of humanity as a whole and protection of the civilized world.<end>
+
+=>q52_original
+Our jurisdiction extends to the whole of United Stations, all Biocorp facilities and outposts regardless of their location and all vital Underrail infrastructure.<end>
+
+=>q52
+Our jurisdiction extends to the whole of United Stations, all Biocorp facilities and outposts regardless of their location and all vital Underrail infrastructure.<end>
+
+=>a53_original
+What are the United Stations?<end>
+
+=>a53
+What are the United Stations?<end>
+
+=>q54_original
+It's a confederacy of stations some ways to the north of here. It's the future of the Underrail and we hope to integrate all the station states and other... communities into it. Someday even this place might be part of it.<end>
+
+=>q54
+It's a confederacy of stations some ways to the north of here. It's the future of the Underrail and we hope to integrate all the station states and other... communities into it. Someday even this place might be part of it.<end>
+
+=>a55_original
+Can I see the ambassador?<end>
+
+=>a55
+Can I see the ambassador?<end>
+
+=>q56_original
+You can. Go right in.<end>
+
+=>q56
+You can. Go right in.<end>
+
+=>a57_original
+Thank you.<end>
+
+=>a57
+Thank you.<end>
+
+=>q58_original
+Do you have business with the ambassador? Is he expecting you?<end>
+
+=>q58
+Do you have business with the ambassador? Is he expecting you?<end>
+
+=>a59_original
+No.<end>
+
+=>a59
+No.<end>
+
+=>q60_original
+Then no.<end>
+
+=>q60
+Then no.<end>
+
+=>a61_original
+No, but I really need to see him.<end>
+
+=>a61
+No, but I really need to see him.<end>
+
+=>q62_original
+And you are...?<end>
+
+=>q62
+And you are...?<end>
+
+=>a63_original
+$(context.player.Name) of South Gate Station.<end>
+
+=>a63
+$(context.player.Name) of South Gate Station.<end>
+
+=>q64_original
+::He nods.:: We were expecting you. You may enter the embassy. ::He unlocks the gate behind him.::<end>
+
+=>q64
+::He nods.:: We were expecting you. You may enter the embassy. ::He unlocks the gate behind him.::<end>
+
+=>q65_original
+Well, I'm sorry $(#mister/miss) $(context.player.Name) but you are not on the list and the ambassador is too busy right now to see you. I'll make a note that you've arrived and perhaps you'll be able to get an audience later.<end>
+
+=>q65
+Well, I'm sorry $(#mister/miss) $(context.player.Name) but you are not on the list and the ambassador is too busy right now to see you. I'll make a note that you've arrived and perhaps you'll be able to get an audience later.<end>
+
+=>a66_original
+Actually, never mind, I think I got the wrong embassy.<end>
+
+=>a66
+Actually, never mind, I think I got the wrong embassy.<end>
+
+=>q67_original
+Hmm, yes, that will happen. They're all over this place.<end>
+
+=>q67
+Hmm, yes, that will happen. They're all over this place.<end>
+
+=>a68_original
+Yes, he's expecting me.<end>
+
+=>a68
+Yes, he's expecting me.<end>
+
+=>a69_original
+Can I see the ambassador now?<end>
+
+=>a69
+Can I see the ambassador now?<end>
+
+=>a70_original
+You don't have any jurisdiction over this place, right?<end>
+
+=>a70
+You don't have any jurisdiction over this place, right?<end>
+
+=>q71_original
+The Junkyard is not a part of the Protectorate, no. But be advised that the embassy is sovereign territory of the Protectorate and that I'm allowed and required to act to prevent and/or counteract any action that might endanger it or its staff regardless of jurisdictional boundaries.<end>
+
+=>q71
+The Junkyard is not a part of the Protectorate, no. But be advised that the embassy is sovereign territory of the Protectorate and that I'm allowed and required to act to prevent and/or counteract any action that might endanger it or its staff regardless of jurisdictional boundaries.<end>
+
+=>a72_original
+May I enter the embassy?<end>
+
+=>a72
+May I enter the embassy?<end>
+
+=>q73_original
+Yes, you are allowed passage at any time until further notice.<end>
+
+=>q73
+Yes, you are allowed passage at any time until further notice.<end>
+
+=>a74_original
+I want to report a security threat to the embassy.<end>
+
+=>a74
+I want to report a security threat to the embassy.<end>
+
+=>q75_original
+We best go inside in that case.<end>
+
+=>q75
+We best go inside in that case.<end>
+
+=>a76_original
+::Follow him inside.::<end>
+
+=>a76
+::Follow him inside.::<end>
+
+=>a77_original
+I've got more info about Abram.<end>
+
+=>a77
+I've got more info about Abram.<end>
+
+=>a78_original
+Did you ever find out who Abram was?<end>
+
+=>a78
+Did you ever find out who Abram was?<end>
+
+=>q79_original
+He was a high profile mercenary, that's for sure. He probably works for one of the elite mercenary companies, but I cannot be sure which one.<end>
+
+=>q79
+He was a high profile mercenary, that's for sure. He probably works for one of the elite mercenary companies, but I cannot be sure which one.<end>
+
+=>a80_original
+Who was the prisoner he was trying to liberate?<end>
+
+=>a80
+Who was the prisoner he was trying to liberate?<end>
+
+=>q81_original
+I'm sorry, but I cannot tell you that.<end>
+
+=>q81
+I'm sorry, but I cannot tell you that.<end>
+
+=>a82_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a82
+What are your thoughts on the Faceless invasion?<end>
+
+=>q83_original
+The Protectorate is investigating the matter. Have no fear.<end>
+
+=>q83
+The Protectorate is investigating the matter. Have no fear.<end>
+
+=>a84_original
+I'll be going now.<end>
+
+=>a84
+I'll be going now.<end>
+
+=>q85_original
+Citizen?<end>
+
+=>q85
+Citizen?<end>
+
+=>q86_original
+Halt, citizen. This is a restricted area.<end>
+
+=>q86
+Halt, citizen. This is a restricted area.<end>
+

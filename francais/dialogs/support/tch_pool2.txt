@@ -1,54 +1,54 @@
-=>q1_original
-RUN, $(#brother/sister)!<end>
-
-=>q1
-RUN, $(#brother/sister)!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Tchort is evolution, $(#brother/sister). Wanna watch the game?<end>
-
-=>q3
-Tchort is evolution, $(#brother/sister). Wanna watch the game?<end>
-
-=>q4_original
-Raj takes the game too seriously, while I'm just fooling around... POOLING around. ::Laughs.::<end>
-
-=>q4
-Raj takes the game too seriously, while I'm just fooling around... POOLING around. ::Laughs.::<end>
-
-=>q5_original
-Come on, Raj, speed it up a bit brother.<end>
-
-=>q5
-Come on, Raj, speed it up a bit brother.<end>
-
-=>q6_original
-So, $(#brother/sister), anything new with you?<end>
-
-=>q6
-So, $(#brother/sister), anything new with you?<end>
-
-=>q7_original
-Magnificent Tchort! Will you hit the damn ball already?<end>
-
-=>q7
-Magnificent Tchort! Will you hit the damn ball already?<end>
-
-=>q8_original
-Yes?<end>
-
-=>q8
-Yes?<end>
-
-=>q9_original
-Never play a game of pool with Raj...<end>
-
-=>q9
-Never play a game of pool with Raj...<end>
-
+=>q1_original
+RUN, $(#brother/sister)!<end>
+
+=>q1
+RUN, $(#brother/sister)!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Tchort is evolution, $(#brother/sister). Wanna watch the game?<end>
+
+=>q3
+Tchort is evolution, $(#brother/sister). Wanna watch the game?<end>
+
+=>q4_original
+Raj takes the game too seriously, while I'm just fooling around... POOLING around. ::Laughs.::<end>
+
+=>q4
+Raj takes the game too seriously, while I'm just fooling around... POOLING around. ::Laughs.::<end>
+
+=>q5_original
+Come on, Raj, speed it up a bit brother.<end>
+
+=>q5
+Come on, Raj, speed it up a bit brother.<end>
+
+=>q6_original
+So, $(#brother/sister), anything new with you?<end>
+
+=>q6
+So, $(#brother/sister), anything new with you?<end>
+
+=>q7_original
+Magnificent Tchort! Will you hit the damn ball already?<end>
+
+=>q7
+Magnificent Tchort! Will you hit the damn ball already?<end>
+
+=>q8_original
+Yes?<end>
+
+=>q8
+Yes?<end>
+
+=>q9_original
+Never play a game of pool with Raj...<end>
+
+=>q9
+Never play a game of pool with Raj...<end>
+

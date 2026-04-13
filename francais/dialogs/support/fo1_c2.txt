@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Good to see you, $(context.player.Name). You're a boss.<end>
-
-=>q2
-Good to see you, $(context.player.Name). You're a boss.<end>
-
-=>q3_original
-I'm hungry.<end>
-
-=>q3
-I'm hungry.<end>
-
-=>q4_original
-Hello.<end>
-
-=>q4
-Hello.<end>
-
-=>q5_original
-Living here is not *that* bad, you have to get used to the foul air though. And death.<end>
-
-=>q5
-Living here is not *that* bad, you have to get used to the foul air though. And death.<end>
-
-=>q6_original
-Whoa, I heard that the Faceless are planning an invasion on Foundry! I hope that's not true.<end>
-
-=>q6
-Whoa, I heard that the Faceless are planning an invasion on Foundry! I hope that's not true.<end>
-
-=>q7_original
-Those damn rocky monsters are killing our miners. Someone's gotta put a stop to all this muck!<end>
-
-=>q7
-Those damn rocky monsters are killing our miners. Someone's gotta put a stop to all this muck!<end>
-
-=>q8_original
-Victory is ours! ::Raises a clenched fist.::<end>
-
-=>q8
-Victory is ours! ::Raises a clenched fist.::<end>
-
-=>q9_original
-Statistically speaking, Foundry is a station with the highest mortality rate in the whole South Underrail. But I'm not worried.<end>
-
-=>q9
-Statistically speaking, Foundry is a station with the highest mortality rate in the whole South Underrail. But I'm not worried.<end>
-
-=>q10_original
-How's it rolling?<end>
-
-=>q10
-How's it rolling?<end>
-
-=>q11_original
-Heard about that merchant that got shot?<end>
-
-=>q11
-Heard about that merchant that got shot?<end>
-
-=>q12_original
-Messer told me that Hathor had a burrower infestation problem recently. Muck...<end>
-
-=>q12
-Messer told me that Hathor had a burrower infestation problem recently. Muck...<end>
-
-=>q13_original
-Even our prison isn't safe anymore!<end>
-
-=>q13
-Even our prison isn't safe anymore!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Good to see you, $(context.player.Name). You're a boss.<end>
+
+=>q2
+Good to see you, $(context.player.Name). You're a boss.<end>
+
+=>q3_original
+I'm hungry.<end>
+
+=>q3
+I'm hungry.<end>
+
+=>q4_original
+Hello.<end>
+
+=>q4
+Hello.<end>
+
+=>q5_original
+Living here is not *that* bad, you have to get used to the foul air though. And death.<end>
+
+=>q5
+Living here is not *that* bad, you have to get used to the foul air though. And death.<end>
+
+=>q6_original
+Whoa, I heard that the Faceless are planning an invasion on Foundry! I hope that's not true.<end>
+
+=>q6
+Whoa, I heard that the Faceless are planning an invasion on Foundry! I hope that's not true.<end>
+
+=>q7_original
+Those damn rocky monsters are killing our miners. Someone's gotta put a stop to all this muck!<end>
+
+=>q7
+Those damn rocky monsters are killing our miners. Someone's gotta put a stop to all this muck!<end>
+
+=>q8_original
+Victory is ours! ::Raises a clenched fist.::<end>
+
+=>q8
+Victory is ours! ::Raises a clenched fist.::<end>
+
+=>q9_original
+Statistically speaking, Foundry is a station with the highest mortality rate in the whole South Underrail. But I'm not worried.<end>
+
+=>q9
+Statistically speaking, Foundry is a station with the highest mortality rate in the whole South Underrail. But I'm not worried.<end>
+
+=>q10_original
+How's it rolling?<end>
+
+=>q10
+How's it rolling?<end>
+
+=>q11_original
+Heard about that merchant that got shot?<end>
+
+=>q11
+Heard about that merchant that got shot?<end>
+
+=>q12_original
+Messer told me that Hathor had a burrower infestation problem recently. Muck...<end>
+
+=>q12
+Messer told me that Hathor had a burrower infestation problem recently. Muck...<end>
+
+=>q13_original
+Even our prison isn't safe anymore!<end>
+
+=>q13
+Even our prison isn't safe anymore!<end>
+

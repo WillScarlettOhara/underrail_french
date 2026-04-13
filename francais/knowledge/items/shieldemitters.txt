@@ -1,5 +1,5 @@
-::Base
-This is {0} energy shield emitter.
-
-::SecondaryModulator
-It's augmented with a secondary {0} modulator.
+::Base
+This is {0} energy shield emitter.
+
+::SecondaryModulator
+It's augmented with a secondary {0} modulator.

@@ -1,218 +1,218 @@
 ::SGS
-You broke the station's most basic rules of conduct - so the station broke you.
+Vous avez enfreint les règles de conduite les plus élémentaires de la station - alors la station vous a brisé.
 
 ::CrossroadCaves
-The caves surrounding South Gate Station are quite dangerous - especially for unprepared spelunkers.
+Les grottes entourant la station South Gate sont assez dangereuses - surtout pour les spéléologues imprévoyants.
 
 ::ForlornStations
-You've become a fitting addition to this forlorn scenery.
+Vous êtes devenu un ajout approprié à ce décor abandonné.
 
 ::Caves
-At least your remains will feed the local fungi and fauna.
+Au moins vos restes nourriront les champignons et la faune locaux.
 
 ::GMSCompound
-Seems like you've joined the dead denizens of this place.
+On dirait que vous avez rejoint les résidents morts de cet endroit.
 
 ::CampHathor
-Looks like you ended up being the hunted one.
+On dirait que c'est vous qui êtes devenu le gibier.
 
 ::HathorMine
-The mine will remain closed.
+La mine restera fermée.
 
 ::RathoundKingLair
-These royal rathounds will surely enjoy gnawing on your bones.
+Ces ratchiens royaux apprécieront sûrement de ronger vos os.
 
 ::BatteryRecyclingPlant
-Only batteries are recycled here. You're single-use.
+Seules les batteries sont recyclées ici. Vous êtes à usage unique.
 
 ::MushroomCove
-The Mushroom Cove - a peaceful place for peaceful sleep.
+La Crique aux Champignons - un endroit paisible pour un sommeil paisible.
 
 ::Junkyard
-In Junkyard, danger lurks behind every corner.
+À Junkyard, le danger guette à chaque coin de rue.
 
 ::OldJunkyard
-These caustic grounds have claimed yet another victim.
+Ces terrains caustiques ont revendiqué une autre victime.
 
 ::CoreCity
-Looks like you weren't hardcore enough.
+On dirait que vous n'étiez pas assez hardcore.
 
 ::Foundry
-Days without (occupational) fatalities: 0.
+Jours sans accidents (mortels) : 0.
 
 ::FoundryMine
-Another one bites the dust.
+Un autre qui mord la poussière.
 
 ::UpperUnderrail
-You've reached your final destination.
+Vous avez atteint votre destination finale.
 
 ::InstituteofTchort
-Tchort guides you... to death.
+Tchort vous guide... vers la mort.
 
 ::EmporionShoppingMall
-The last thing you heard were cries and laughter of utter lunacy.
+La dernière chose que vous avez entendue était des cris et des rires de folie absolue.
 
 ::GenericFacility
-Exploring forsaken places comes with great risks...
+Explorer des lieux abandonnés comporte de grands risques...
 
 ::FortApogee
-Hostile neutralized.
+Hostile neutralisé.
 
 ::LowerUnderrail
-You've reached your final destination.
+Vous avez atteint votre destination finale.
 
 ::SouthRailroadOutpost
-Hostile neutralized.
+Hostile neutralisé.
 
 ::HijackedTrainLocation
-You've found the train and your death.
+Vous avez trouvé le train et votre mort.
 
 ::RailCrossing
-Welcome to Rail Crossing. Population: diminishing.
+Bienvenue à Rail Crossing. Population : en baisse.
 
 ::WarehouseBlockBeta
-The Ironheads have a no-mercy policy for trespassers.
+Les Ironheads n'ont aucune pitié pour les intrus.
 
 ::HecateResearchOutpost
-Lights out. Forever.
+Extinction des feux. Pour toujours.
 
 ::LowerPassages
-The under-passages are some of the most dangerous sections of South Underrail. Your demise was just a matter of time.
+Les passages inférieurs sont parmi les sections les plus dangereuses du Sud d'Underrail. Votre trépas n'était qu'une question de temps.
 
 ::Oculus
-The all-seeing eye is watching you die.
+L'œil omnivoyant vous regarde mourir.
 
 ::HephaestusResearch
-Your corpse will provide a nice, cozy place for the burrowers to lay their eggs in.
+Votre cadavre fournira un bel endroit confortable pour que les fouisseurs y pondent leurs œufs.
 
 ::HangingRat
-Unless your body gets dumped in the abyss it just might end up turning into this place's mascot.
+À moins que votre corps ne soit jeté dans l'abîme, il pourrait bien devenir la mascotte de cet endroit.
 
 ::Tchort
-The God will have his meal, even if it is a mangy railrat.
+Le Dieu aura son repas, même s'il s'agit d'un railrat morveux.
 
 ::MutagenTanks
-Your biomass will not go to waste.
+Votre biomasse ne sera pas gaspillée.
 
 ::HollowEarth
-The city of the dead just got another resident.
+La ville des morts vient d'accueillir un nouveau résident.
 
 ::TithonusLab
-At least you won't be haunting these hallways like them. Not in the same sense anyway.
+Au moins vous ne hanterez pas ces couloirs comme eux. Pas dans le même sens en tout cas.
 
 ::StrangeShack
-Get out!
+Sortez !
 
 ::ArkePowerStation
-Intruder has been terminated.
+L'intrus a été éliminé.
 
 ::DeepCaverns-WarehouseBlock2
-Cleanup on isle six.
+Nettoyage sur l'allée six.
 
 ::TalosOutpost
-Are you truly dead, or will you wake up as one of the Faceless?
+Êtes-vous vraiment mort, ou allez-vous vous réveiller comme l'un des Sans-Visage ?
 
 ::CaerusResidential
-There is not a living human soul in these apartments. Your presence changes nothing.
+Il n'y a pas une seule âme humaine vivante dans ces appartements. Votre présence n'y change rien.
 
 ::Labyrinth
-No way out of the labyrinth.
+Pas de sortie du labyrinthe.
 
 ::MushroomForest
-Your corpse will enrich the soil of this grand fungal forest.
+Votre cadavre enrichira le sol de cette grande forêt fongique.
 
 ::DeepCaverns
-Abandon hope, all ye who enter the Deep Caverns.
+Abandonnez tout espoir, vous qui entrez dans les Profondeurs.
 
 ::FreeDronesBase
-Only death is free.
+Seule la mort est gratuite.
 
 ::BlackSea
-Your existence ends here - in the Hell's Gut.
+Votre existence s'arrête ici - dans les Boyaux de l'Enfer.
 
 ::SørmirbærenVillage
-Your body, or what's left of it, will surely be put on display as a warning to anyone foolish enough to repeat your mistake.
+Votre corps, ou ce qu'il en reste, sera sûrement exposé en guise d'avertissement pour quiconque est assez fou pour répéter votre erreur.
 
 ::SørmirbærenTemple
-You've desecrated this holy temple and its hallowed waters with your mere presence. You had to pay for your sins.
+Vous avez profané ce temple sacré et ses eaux bénites par votre simple présence. Vous avez dû payer pour vos péchés.
 
 ::MutieRefuge
-It's a refuge for muties, not for you.
+C'est un refuge pour les muties, pas pour vous.
 
 ::BlackSeaRapids
-Few can survive these rapids. Looks like you're not one of them.
+Rares sont ceux qui survivent à ces rapides. On dirait que vous n'en faites pas partie.
 
 ::BlackSeaExpeditionCamp
-Expedition is over.
+L'expédition est terminée.
 
 ::CrimsonMeadowHorticultureCenter
-A fresh batch of fertilizer has just been delivered.
+Un nouveau lot d'engrais vient d'être livré.
 
 ::Boneyard
-Fresh bones for the boneyard.
+Des os frais pour le cimetière.
 
 ::SørmirbærenGraveyard
-Those who disturb the dead might just join them.
+Ceux qui dérangent les morts pourraient bien les rejoindre.
 
 ::PortCeto-Destroyer
-You won't be walking the plank, if nothing else.
+Vous ne marcherez pas sur la planche, en tout cas.
 
 ::Pirates
-Your corpse will not go unplundered.
+Votre cadavre ne restera pas sans être pillé.
 
 ::LEMCO
-You perished in a graveyard of open, empty crates - coffins for the newly deceased.
+Vous avez péri dans un cimetière de caisses ouvertes et vides - cercueils pour les nouvellement décédés.
 
 ::BasaltCave
-Your remains will be slowly swallowed by the abrasive sands... and the creatures underneath.
+Vos restes seront lentement engloutis par les sables abrasifs... et les créatures en dessous.
 
 ::FetidMarsh
-You shouldn't have come here.
+Vous n'auriez pas dû venir ici.
 
 ::NexusofTechnology
-Now entering: Nexus of the Dead.
+Entrée : Nexus des Morts.
 
 ::BlisteringShores
-Maybe the thick mud might preserve your body for some future explorer to discover.
+Peut-être que la boue épaisse préservera votre corps pour qu'un futur explorateur le découvre.
 
 ::BlisteringShoresResearchFacility
-The literal corner of the Black Sea, your resting place.
+Le coin littéral de la Mer Noire, votre dernière demeure.
 
 ::GiantCreeperLair
-Many years from now there's a chance that someone might discover your skull in one of these giant cobwebs.
+De nombreuses années plus tard, il y a une chance que quelqu'un découvre votre crâne dans l'une de ces gigantesques toiles d'araignée.
 
 ::JointSecurityHeadquarters
-Security breached: Please remain still as to simplify the disposal procedure.
+Breach de sécurité : Veuillez rester immobile pour faciliter la procédure d'élimination.
 
 ::OldIb'sHomestead
-No trespassing.
+Accès interdit.
 
 ::TheRig
-The Rig's reputation is such for a good reason. It takes a bullet to the head for many to realize that, and only during that final split second.
+La réputation du Rig est telle pour une bonne raison. Il faut une balle dans la tête pour que beaucoup le réalisent, et seulement lors de cette dernière fraction de seconde.
 
 ::Waterways
-You're fish food now.
+Vous êtes de la nourriture à poissons maintenant.
 
 ::Chancer'sBay
-No second chance for you.
+Pas de deuxième chance pour vous.
 
 ::AbandonedWaterwayFacility
-Looks like this was a one-way trip after all.
+On dirait que c'était un aller simple après tout.
 
 ::Hopperdrome
-The race is over for you.
+La course est terminée pour vous.
 
 ::UtilityTowerIcy
-Your remains will be well-preserved in this lofty, frigid coffin.
+Vos restes seront bien conservés dans ce cercueil élevé et glacial.
 
 ::GrayArmyBase
 Sagledaschnlk utepan.
 
 ::Submarine
-Rigged for the final dive.
+Prêt pour la dernière plongée.
 
 ::AbyssalStationZero
-Beneath the deep you'll remain, never to be seen again.
+Sous les profondeurs vous resterez, pour ne plus jamais être revu.
 
 ::Exobase
-They may not rest, but you sure must.
+Eux peuvent ne pas reposer, mais vous, vous le devez sûrement.

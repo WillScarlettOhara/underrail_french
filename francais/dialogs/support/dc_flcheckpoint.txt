@@ -1,162 +1,162 @@
-=>q1_original
-You may pass.<end>
-
-=>q1
-You may pass.<end>
-
-=>q2_original
-You may not pass. Be on your way.<end>
-
-=>q2
-You may not pass. Be on your way.<end>
-
-=>q3_original
-::Flawlessly synchronized aiming between the bots and the Faceless effectively accomplishes its intended goal of making you stop right in your tracks. An instant later, one of the Faceless soldiers, still firmly holding his weapon in one hand uses the other one to reach underneath his mask; one twist of the wrist activates his synthesized voice.::
-
-Remain still.<end>
-
-=>q3
-::Flawlessly synchronized aiming between the bots and the Faceless effectively accomplishes its intended goal of making you stop right in your tracks. An instant later, one of the Faceless soldiers, still firmly holding his weapon in one hand uses the other one to reach underneath his mask; one twist of the wrist activates his synthesized voice.::
-
-Remain still.<end>
-
-=>a4_original
-::Do as you've been told.::<end>
-
-=>a4
-::Do as you've been told.::<end>
-
-=>q5_original
-::Time passes by in silence, barring the occasional echo or the barely audible sound of cracking as it slithers out of the walls around you. Both parties motionlessly eye each other until the very same Faceless who spoke to you does so again.::
-
-<end>
-
-=>q5
-::Time passes by in silence, barring the occasional echo or the barely audible sound of cracking as it slithers out of the walls around you. Both parties motionlessly eye each other until the very same Faceless who spoke to you does so again.::
-
-<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>q7_original
-You may pass. Take the east exit out of this area and follow the road to the warehouses. Once past it, head east at the first intersection and walk until you reach an outpost.<end>
-
-=>q7
-You may pass. Take the east exit out of this area and follow the road to the warehouses. Once past it, head east at the first intersection and walk until you reach an outpost.<end>
-
-=>q8_original
-There you will be sent to our commander; he requested to speak to you. While on our territory you may not interfere in any way with our matters. You may carry visible weapons, but be aware that you will be confronted should you show any signs of hostility.
-
-Now go.<end>
-
-=>q8
-There you will be sent to our commander; he requested to speak to you. While on our territory you may not interfere in any way with our matters. You may carry visible weapons, but be aware that you will be confronted should you show any signs of hostility.
-
-Now go.<end>
-
-=>a9_original
-Why are you letting me through?<end>
-
-=>a9
-Why are you letting me through?<end>
-
-=>q10_original
-All will be explained to you.<end>
-
-=>q10
-All will be explained to you.<end>
-
-=>a11_original
-I will go to your commander at once.<end>
-
-=>a11
-I will go to your commander at once.<end>
-
-=>q12_original
-::He nods.::<end>
-
-=>q12
-::He nods.::<end>
-
-=>a13_original
-Thank you very much for letting me pass. I'll be on my way now.<end>
-
-=>a13
-Thank you very much for letting me pass. I'll be on my way now.<end>
-
-=>a14_original
-Yeah, yeah. Bye.<end>
-
-=>a14
-Yeah, yeah. Bye.<end>
-
-=>q15_original
-You may pass. Go north, through the warehouses. At the first intersection go east until you reach an outpost. <end>
-
-=>q15
-You may pass. Go north, through the warehouses. At the first intersection go east until you reach an outpost. <end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>q17_original
-You may not enter our territory. Turn around and leave.<end>
-
-=>q17
-You may not enter our territory. Turn around and leave.<end>
-
-=>a18_original
-And if I don't do that?<end>
-
-=>a18
-And if I don't do that?<end>
-
-=>q19_original
-Then we would have to confront you. Be on your way now.<end>
-
-=>q19
-Then we would have to confront you. Be on your way now.<end>
-
-=>a20_original
-Why not?<end>
-
-=>a20
-Why not?<end>
-
-=>q21_original
-That is your warning. Should you make any attempt at passing any of the checkpoints we will confront you. Be on your way now.<end>
-
-=>q21
-That is your warning. Should you make any attempt at passing any of the checkpoints we will confront you. Be on your way now.<end>
-
-=>a22_original
-Very well. ::Leave.::<end>
-
-=>a22
-Very well. ::Leave.::<end>
-
-=>q23_original
-::He nods but does not remove his sight from you just yet.::<end>
-
-=>q23
-::He nods but does not remove his sight from you just yet.::<end>
-
-=>a24_original
-Or, you remain still so I can kill you more easily! ::Attack!::<end>
-
-=>a24
-Or, you remain still so I can kill you more easily! ::Attack!::<end>
-
-=>a25_original
-Or, you remain still so I can kill you more easily! ::Attack!::<end>
-
-=>a25
-Or, you remain still so I can kill you more easily! ::Attack!::<end>
-
+=>q1_original
+You may pass.<end>
+
+=>q1
+You may pass.<end>
+
+=>q2_original
+You may not pass. Be on your way.<end>
+
+=>q2
+You may not pass. Be on your way.<end>
+
+=>q3_original
+::Flawlessly synchronized aiming between the bots and the Faceless effectively accomplishes its intended goal of making you stop right in your tracks. An instant later, one of the Faceless soldiers, still firmly holding his weapon in one hand uses the other one to reach underneath his mask; one twist of the wrist activates his synthesized voice.::
+
+Remain still.<end>
+
+=>q3
+::Flawlessly synchronized aiming between the bots and the Faceless effectively accomplishes its intended goal of making you stop right in your tracks. An instant later, one of the Faceless soldiers, still firmly holding his weapon in one hand uses the other one to reach underneath his mask; one twist of the wrist activates his synthesized voice.::
+
+Remain still.<end>
+
+=>a4_original
+::Do as you've been told.::<end>
+
+=>a4
+::Do as you've been told.::<end>
+
+=>q5_original
+::Time passes by in silence, barring the occasional echo or the barely audible sound of cracking as it slithers out of the walls around you. Both parties motionlessly eye each other until the very same Faceless who spoke to you does so again.::
+
+<end>
+
+=>q5
+::Time passes by in silence, barring the occasional echo or the barely audible sound of cracking as it slithers out of the walls around you. Both parties motionlessly eye each other until the very same Faceless who spoke to you does so again.::
+
+<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+You may pass. Take the east exit out of this area and follow the road to the warehouses. Once past it, head east at the first intersection and walk until you reach an outpost.<end>
+
+=>q7
+You may pass. Take the east exit out of this area and follow the road to the warehouses. Once past it, head east at the first intersection and walk until you reach an outpost.<end>
+
+=>q8_original
+There you will be sent to our commander; he requested to speak to you. While on our territory you may not interfere in any way with our matters. You may carry visible weapons, but be aware that you will be confronted should you show any signs of hostility.
+
+Now go.<end>
+
+=>q8
+There you will be sent to our commander; he requested to speak to you. While on our territory you may not interfere in any way with our matters. You may carry visible weapons, but be aware that you will be confronted should you show any signs of hostility.
+
+Now go.<end>
+
+=>a9_original
+Why are you letting me through?<end>
+
+=>a9
+Why are you letting me through?<end>
+
+=>q10_original
+All will be explained to you.<end>
+
+=>q10
+All will be explained to you.<end>
+
+=>a11_original
+I will go to your commander at once.<end>
+
+=>a11
+I will go to your commander at once.<end>
+
+=>q12_original
+::He nods.::<end>
+
+=>q12
+::He nods.::<end>
+
+=>a13_original
+Thank you very much for letting me pass. I'll be on my way now.<end>
+
+=>a13
+Thank you very much for letting me pass. I'll be on my way now.<end>
+
+=>a14_original
+Yeah, yeah. Bye.<end>
+
+=>a14
+Yeah, yeah. Bye.<end>
+
+=>q15_original
+You may pass. Go north, through the warehouses. At the first intersection go east until you reach an outpost. <end>
+
+=>q15
+You may pass. Go north, through the warehouses. At the first intersection go east until you reach an outpost. <end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+You may not enter our territory. Turn around and leave.<end>
+
+=>q17
+You may not enter our territory. Turn around and leave.<end>
+
+=>a18_original
+And if I don't do that?<end>
+
+=>a18
+And if I don't do that?<end>
+
+=>q19_original
+Then we would have to confront you. Be on your way now.<end>
+
+=>q19
+Then we would have to confront you. Be on your way now.<end>
+
+=>a20_original
+Why not?<end>
+
+=>a20
+Why not?<end>
+
+=>q21_original
+That is your warning. Should you make any attempt at passing any of the checkpoints we will confront you. Be on your way now.<end>
+
+=>q21
+That is your warning. Should you make any attempt at passing any of the checkpoints we will confront you. Be on your way now.<end>
+
+=>a22_original
+Very well. ::Leave.::<end>
+
+=>a22
+Very well. ::Leave.::<end>
+
+=>q23_original
+::He nods but does not remove his sight from you just yet.::<end>
+
+=>q23
+::He nods but does not remove his sight from you just yet.::<end>
+
+=>a24_original
+Or, you remain still so I can kill you more easily! ::Attack!::<end>
+
+=>a24
+Or, you remain still so I can kill you more easily! ::Attack!::<end>
+
+=>a25_original
+Or, you remain still so I can kill you more easily! ::Attack!::<end>
+
+=>a25
+Or, you remain still so I can kill you more easily! ::Attack!::<end>
+

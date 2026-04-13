@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-We are considering to settle around here for a while. Not sure if we are up to the place such as this one, though.<end>
-
-=>q2
-We are considering to settle around here for a while. Not sure if we are up to the place such as this one, though.<end>
-
-=>q3_original
-That green sofa right there. Ahh.. I can only imagine.<end>
-
-=>q3
-That green sofa right there. Ahh.. I can only imagine.<end>
-
-=>q4_original
-Hmm, how about... ah, I can't make up my mind.<end>
-
-=>q4
-Hmm, how about... ah, I can't make up my mind.<end>
-
-=>q5_original
-We were planning for so many adventures and now, it's all gone.<end>
-
-=>q5
-We were planning for so many adventures and now, it's all gone.<end>
-
-=>q6_original
-I'll never forget what we've been through.<end>
-
-=>q6
-I'll never forget what we've been through.<end>
-
-=>q7_original
-We would've been toast without you. Thank you.<end>
-
-=>q7
-We would've been toast without you. Thank you.<end>
-
-=>q8_original
-We, ugh... I... I have failed.<end>
-
-=>q8
-We, ugh... I... I have failed.<end>
-
-=>q9_original
-Get ready. They're coming!<end>
-
-=>q9
-Get ready. They're coming!<end>
-
-=>q10_original
-With or without you.<end>
-
-=>q10
-With or without you.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+We are considering to settle around here for a while. Not sure if we are up to the place such as this one, though.<end>
+
+=>q2
+We are considering to settle around here for a while. Not sure if we are up to the place such as this one, though.<end>
+
+=>q3_original
+That green sofa right there. Ahh.. I can only imagine.<end>
+
+=>q3
+That green sofa right there. Ahh.. I can only imagine.<end>
+
+=>q4_original
+Hmm, how about... ah, I can't make up my mind.<end>
+
+=>q4
+Hmm, how about... ah, I can't make up my mind.<end>
+
+=>q5_original
+We were planning for so many adventures and now, it's all gone.<end>
+
+=>q5
+We were planning for so many adventures and now, it's all gone.<end>
+
+=>q6_original
+I'll never forget what we've been through.<end>
+
+=>q6
+I'll never forget what we've been through.<end>
+
+=>q7_original
+We would've been toast without you. Thank you.<end>
+
+=>q7
+We would've been toast without you. Thank you.<end>
+
+=>q8_original
+We, ugh... I... I have failed.<end>
+
+=>q8
+We, ugh... I... I have failed.<end>
+
+=>q9_original
+Get ready. They're coming!<end>
+
+=>q9
+Get ready. They're coming!<end>
+
+=>q10_original
+With or without you.<end>
+
+=>q10
+With or without you.<end>
+

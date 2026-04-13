@@ -1,42 +1,42 @@
-=>q1_original
-::The rocks pile up high, but not all the way to the cave ceiling. Perhaps you would be able to climb over.::<end>
-
-=>q1
-::The rocks pile up high, but not all the way to the cave ceiling. Perhaps you would be able to climb over.::<end>
-
-=>a2_original
-::[Agility] Try to climb over.::<end>
-
-=>a2
-::[Agility] Try to climb over.::<end>
-
-=>q3_original
-::You manage to climb the rocks and reach the other side.::<end>
-
-=>q3
-::You manage to climb the rocks and reach the other side.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>q6_original
-::You attempt to climb the rock pile, but it's just too steep.::<end>
-
-=>q6
-::You attempt to climb the rock pile, but it's just too steep.::<end>
-
-=>a7_original
-::Leave.::<end>
-
-=>a7
-::Leave.::<end>
-
+=>q1_original
+::The rocks pile up high, but not all the way to the cave ceiling. Perhaps you would be able to climb over.::<end>
+
+=>q1
+::The rocks pile up high, but not all the way to the cave ceiling. Perhaps you would be able to climb over.::<end>
+
+=>a2_original
+::[Agility] Try to climb over.::<end>
+
+=>a2
+::[Agility] Try to climb over.::<end>
+
+=>q3_original
+::You manage to climb the rocks and reach the other side.::<end>
+
+=>q3
+::You manage to climb the rocks and reach the other side.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+::You attempt to climb the rock pile, but it's just too steep.::<end>
+
+=>q6
+::You attempt to climb the rock pile, but it's just too steep.::<end>
+
+=>a7_original
+::Leave.::<end>
+
+=>a7
+::Leave.::<end>
+

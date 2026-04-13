@@ -1,96 +1,96 @@
-=>q1_original
-Not now!<end>
-
-=>q1
-Not now!<end>
-
-=>q2_original
-Ya here to do business? ::He says from behind a long, large-caliber barrel.::<end>
-
-=>q2
-Ya here to do business? ::He says from behind a long, large-caliber barrel.::<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-::Nod.::<end>
-
-=>a4
-::Nod.::<end>
-
-=>q5_original
-Then pass. He's over by the shack.
-
-::He steps aside.::
-
-I'm watching you.<end>
-
-=>q5
-Then pass. He's over by the shack.
-
-::He steps aside.::
-
-I'm watching you.<end>
-
-=>a6_original
-I'm here to do business alright.<end>
-
-=>a6
-I'm here to do business alright.<end>
-
-=>a7_original
-Business? What kind of business?<end>
-
-=>a7
-Business? What kind of business?<end>
-
-=>q8_original
-I suggest ya get $(#lost, jack/yer pretty tushie outta here). ::He signals you away with his rifle.::<end>
-
-=>q8
-I suggest ya get $(#lost, jack/yer pretty tushie outta here). ::He signals you away with his rifle.::<end>
-
-=>a9_original
-Not really.<end>
-
-=>a9
-Not really.<end>
-
-=>q10_original
-Then <end>
-
-=>q10
-Then <end>
-
-=>a11_original
-Whoops, wrong place. I'll get going now.<end>
-
-=>a11
-Whoops, wrong place. I'll get going now.<end>
-
-=>a12_original
-Killing is my business... and business is good! ::Attack!::<end>
-
-=>a12
-Killing is my business... and business is good! ::Attack!::<end>
-
-=>q13_original
-You again.
-
-Here to do business?<end>
-
-=>q13
-You again.
-
-Here to do business?<end>
-
-=>q14_original
-::Gestures that he's watching you.::<end>
-
-=>q14
-::Gestures that he's watching you.::<end>
-
+=>q1_original
+Not now!<end>
+
+=>q1
+Not now!<end>
+
+=>q2_original
+Ya here to do business? ::He says from behind a long, large-caliber barrel.::<end>
+
+=>q2
+Ya here to do business? ::He says from behind a long, large-caliber barrel.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Nod.::<end>
+
+=>a4
+::Nod.::<end>
+
+=>q5_original
+Then pass. He's over by the shack.
+
+::He steps aside.::
+
+I'm watching you.<end>
+
+=>q5
+Then pass. He's over by the shack.
+
+::He steps aside.::
+
+I'm watching you.<end>
+
+=>a6_original
+I'm here to do business alright.<end>
+
+=>a6
+I'm here to do business alright.<end>
+
+=>a7_original
+Business? What kind of business?<end>
+
+=>a7
+Business? What kind of business?<end>
+
+=>q8_original
+I suggest ya get $(#lost, jack/yer pretty tushie outta here). ::He signals you away with his rifle.::<end>
+
+=>q8
+I suggest ya get $(#lost, jack/yer pretty tushie outta here). ::He signals you away with his rifle.::<end>
+
+=>a9_original
+Not really.<end>
+
+=>a9
+Not really.<end>
+
+=>q10_original
+Then <end>
+
+=>q10
+Then <end>
+
+=>a11_original
+Whoops, wrong place. I'll get going now.<end>
+
+=>a11
+Whoops, wrong place. I'll get going now.<end>
+
+=>a12_original
+Killing is my business... and business is good! ::Attack!::<end>
+
+=>a12
+Killing is my business... and business is good! ::Attack!::<end>
+
+=>q13_original
+You again.
+
+Here to do business?<end>
+
+=>q13
+You again.
+
+Here to do business?<end>
+
+=>q14_original
+::Gestures that he's watching you.::<end>
+
+=>q14
+::Gestures that he's watching you.::<end>
+

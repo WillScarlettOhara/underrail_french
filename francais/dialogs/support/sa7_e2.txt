@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Is your key card working alright? I had to re-encode your door's lock.<end>
-
-=>q2
-Is your key card working alright? I had to re-encode your door's lock.<end>
-
-=>q3_original
-If I run this script it'll make all the sentry bots spin around and play techno music. He-he.<end>
-
-=>q3
-If I run this script it'll make all the sentry bots spin around and play techno music. He-he.<end>
-
-=>q4_original
-We used to be able to take direct control over auto-turrets, but Tanner revoked that for "safety reasons."<end>
-
-=>q4
-We used to be able to take direct control over auto-turrets, but Tanner revoked that for "safety reasons."<end>
-
-=>q5_original
-Yes?<end>
-
-=>q5
-Yes?<end>
-
-=>q6_original
-Talk to Ezra if you need something important.<end>
-
-=>q6
-Talk to Ezra if you need something important.<end>
-
-=>q7_original
-I've got my eyes on the monitors. Gotta stay alert in case the Faceless sneak up on us. He-he.<end>
-
-=>q7
-I've got my eyes on the monitors. Gotta stay alert in case the Faceless sneak up on us. He-he.<end>
-
-=>q8_original
-Tanner was a strange man, alright. But he sure was smart.<end>
-
-=>q8
-Tanner was a strange man, alright. But he sure was smart.<end>
-
-=>q9_original
-I feel bad about Newton. He was clumsy as a one-legged hopper, sure, but he didn't seem like a bad guy.<end>
-
-=>q9
-I feel bad about Newton. He was clumsy as a one-legged hopper, sure, but he didn't seem like a bad guy.<end>
-
-=>q10_original
-Um... if you like watching the Arena, me and a couple of guys meet to watch it together, he-he.<end>
-
-=>q10
-Um... if you like watching the Arena, me and a couple of guys meet to watch it together, he-he.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Is your key card working alright? I had to re-encode your door's lock.<end>
+
+=>q2
+Is your key card working alright? I had to re-encode your door's lock.<end>
+
+=>q3_original
+If I run this script it'll make all the sentry bots spin around and play techno music. He-he.<end>
+
+=>q3
+If I run this script it'll make all the sentry bots spin around and play techno music. He-he.<end>
+
+=>q4_original
+We used to be able to take direct control over auto-turrets, but Tanner revoked that for "safety reasons."<end>
+
+=>q4
+We used to be able to take direct control over auto-turrets, but Tanner revoked that for "safety reasons."<end>
+
+=>q5_original
+Yes?<end>
+
+=>q5
+Yes?<end>
+
+=>q6_original
+Talk to Ezra if you need something important.<end>
+
+=>q6
+Talk to Ezra if you need something important.<end>
+
+=>q7_original
+I've got my eyes on the monitors. Gotta stay alert in case the Faceless sneak up on us. He-he.<end>
+
+=>q7
+I've got my eyes on the monitors. Gotta stay alert in case the Faceless sneak up on us. He-he.<end>
+
+=>q8_original
+Tanner was a strange man, alright. But he sure was smart.<end>
+
+=>q8
+Tanner was a strange man, alright. But he sure was smart.<end>
+
+=>q9_original
+I feel bad about Newton. He was clumsy as a one-legged hopper, sure, but he didn't seem like a bad guy.<end>
+
+=>q9
+I feel bad about Newton. He was clumsy as a one-legged hopper, sure, but he didn't seem like a bad guy.<end>
+
+=>q10_original
+Um... if you like watching the Arena, me and a couple of guys meet to watch it together, he-he.<end>
+
+=>q10
+Um... if you like watching the Arena, me and a couple of guys meet to watch it together, he-he.<end>
+

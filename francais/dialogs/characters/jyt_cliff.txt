@@ -1,300 +1,300 @@
-=>q1_original
-::It doesn't take long before the bleeding begins to subside.::
-
-I'll be damned - it worked!<end>
-
-=>q1
-::It doesn't take long before the bleeding begins to subside.::
-
-I'll be damned - it worked!<end>
-
-=>q2_original
-Thanks for the help, $(#buddy/sis). I was startin' to think I might end up donatin' one more dead body to these ruins. <end>
-
-=>q2
-Thanks for the help, $(#buddy/sis). I was startin' to think I might end up donatin' one more dead body to these ruins. <end>
-
-=>q3_original
-The name's Cliff. As you mighta noticed, I'm in a bit of a predicament 'ere.<end>
-
-=>q3
-The name's Cliff. As you mighta noticed, I'm in a bit of a predicament 'ere.<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-What happened to you?<end>
-
-=>a5
-What happened to you?<end>
-
-=>q6_original
-::He nods towards the trap door.:: Bad scavengin' run, $(#buddy/sis). Me girl and I found a key to this place and figured there might be sumthin' valuable there still if it was kept locked for a good while.<end>
-
-=>q6
-::He nods towards the trap door.:: Bad scavengin' run, $(#buddy/sis). Me girl and I found a key to this place and figured there might be sumthin' valuable there still if it was kept locked for a good while.<end>
-
-=>q7_original
-We weren't entirely wrong, but that's not all we found. Wretched ass burrowers... we shoulda turned back at the first sign of their slimy eggs, but we were too greedy.<end>
-
-=>q7
-We weren't entirely wrong, but that's not all we found. Wretched ass burrowers... we shoulda turned back at the first sign of their slimy eggs, but we were too greedy.<end>
-
-=>q8_original
-And greed will get ya in Underrail... Sooner or later, it'll get you killed.<end>
-
-=>q8
-And greed will get ya in Underrail... Sooner or later, it'll get you killed.<end>
-
-=>a9_original
-What happened to your girlfriend?<end>
-
-=>a9
-What happened to your girlfriend?<end>
-
-=>q10_original
-Ah, we got separated as we fled. I'd go and look for 'er but I'm feelin' too weak to even climb down the wretched ladders.<end>
-
-=>q10
-Ah, we got separated as we fled. I'd go and look for 'er but I'm feelin' too weak to even climb down the wretched ladders.<end>
-
-=>q11_original
-<end>
-
-=>q11
-<end>
-
-=>q12_original
-If you're thinkin' of goin' down there for whatever reason, I'd appreciate it if ya could look for 'er. I'd be willin' to give ya sumethin' that might help ya both. Ya interested?<end>
-
-=>q12
-If you're thinkin' of goin' down there for whatever reason, I'd appreciate it if ya could look for 'er. I'd be willin' to give ya sumethin' that might help ya both. Ya interested?<end>
-
-=>a13_original
-Sure.<end>
-
-=>a13
-Sure.<end>
-
-=>q14_original
-'Ere, take these antidotes with ya. Hopefully it'll help ya save Jenny's life and hold on to yer own as well. <end>
-
-=>q14
-'Ere, take these antidotes with ya. Hopefully it'll help ya save Jenny's life and hold on to yer own as well. <end>
-
-=>a15_original
-Not right now, no.<end>
-
-=>a15
-Not right now, no.<end>
-
-=>q16_original
-I don't blame ya for not wantin' to go down there. If ya change yer mind lemme know. Hopefully it won't be too late by then.<end>
-
-=>q16
-I don't blame ya for not wantin' to go down there. If ya change yer mind lemme know. Hopefully it won't be too late by then.<end>
-
-=>a17_original
-What are burrowers?<end>
-
-=>a17
-What are burrowers?<end>
-
-=>q18_original
-Dangerous ass bugs. Not ass bugs but... ::He waves away.:: There are lots of little ones in there that'll bite yer ankles, but what ya really gotta look out for are the big ones. They'll shoot these wretched spikes at yer face. And if that doesn't kill ya, the spikes are poisoned to boot.<end>
-
-=>q18
-Dangerous ass bugs. Not ass bugs but... ::He waves away.:: There are lots of little ones in there that'll bite yer ankles, but what ya really gotta look out for are the big ones. They'll shoot these wretched spikes at yer face. And if that doesn't kill ya, the spikes are poisoned to boot.<end>
-
-=>a19_original
-I'll go look for your girlfriend.<end>
-
-=>a19
-I'll go look for your girlfriend.<end>
-
-=>q20_original
-I really appreciate that, though I ain't got no way to pay ya for it. <end>
-
-=>q20
-I really appreciate that, though I ain't got no way to pay ya for it. <end>
-
-=>a21_original
-Would healing hypos help you recover?<end>
-
-=>a21
-Would healing hypos help you recover?<end>
-
-=>q22_original
-Tried that, $(#buddy/sis). Didn't work. Shot myself up with everthin' I had, but I keep bleedin' all over the place.
-
-I'm hurt bad, too bad. I need a doc... and fast.<end>
-
-=>q22
-Tried that, $(#buddy/sis). Didn't work. Shot myself up with everthin' I had, but I keep bleedin' all over the place.
-
-I'm hurt bad, too bad. I need a doc... and fast.<end>
-
-=>a23_original
-This should stop the bleeding. ::Give him a coagulation shot.::<end>
-
-=>a23
-This should stop the bleeding. ::Give him a coagulation shot.::<end>
-
-=>q24_original
-::You see in his eyes the kind of distrust you'd expect from anyone presented with a syringe filled with an unknown substance.::
-
-Hell... Ain't got nuthin' to lose.<end>
-
-=>q24
-::You see in his eyes the kind of distrust you'd expect from anyone presented with a syringe filled with an unknown substance.::
-
-Hell... Ain't got nuthin' to lose.<end>
-
-=>a25_original
-::Wait.::<end>
-
-=>a25
-::Wait.::<end>
-
-=>a26_original
-I'm sorry, man, but Jenny didn't make it.<end>
-
-=>a26
-I'm sorry, man, but Jenny didn't make it.<end>
-
-=>q27_original
-::He sighs deeply and slightly bows his head.:: I guessed as much, but kept hopin' it was... She...::He waves away.:: Thanks for lookin' for 'er. 
-
-I'd like to be alone now.<end>
-
-=>q27
-::He sighs deeply and slightly bows his head.:: I guessed as much, but kept hopin' it was... She...::He waves away.:: Thanks for lookin' for 'er. 
-
-I'd like to be alone now.<end>
-
-=>a28_original
-Keep still. I want to try something.<end>
-
-=>a28
-Keep still. I want to try something.<end>
-
-=>a29_original
-I have to get going.<end>
-
-=>a29
-I have to get going.<end>
-
-=>q30_original
-
-
-I was wonderin' what typa rat would come first to take a bite of my remains. ::He raises his smg and points it at you.:: Ya came a bit too soon, though, $(#buddy/sis).<end>
-
-=>q30
-
-
-I was wonderin' what typa rat would come first to take a bite of my remains. ::He raises his smg and points it at you.:: Ya came a bit too soon, though, $(#buddy/sis).<end>
-
-=>a31_original
-::[Persuade]:: Take it easy. I'm not here to hurt or loot anyone.<end>
-
-=>a31
-::[Persuade]:: Take it easy. I'm not here to hurt or loot anyone.<end>
-
-=>q32_original
-What else would ya be doin' 'ere in this hole, then? There ain't much left to do for us but loot the dead: dead folks... dead buildings... dead civilizations.<end>
-
-=>q32
-What else would ya be doin' 'ere in this hole, then? There ain't much left to do for us but loot the dead: dead folks... dead buildings... dead civilizations.<end>
-
-=>q33_original
-::He lowers his weapon.:: But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best.<end>
-
-=>q33
-::He lowers his weapon.:: But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best.<end>
-
-=>q34_original
-But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best. 
-
-But not before I make sure ya join 'em as well!<end>
-
-=>q34
-But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best. 
-
-But not before I make sure ya join 'em as well!<end>
-
-=>a35_original
-::Fight!::<end>
-
-=>a35
-::Fight!::<end>
-
-=>a36_original
-::[Intimidate]:: Are you really in that much of a hurry to die? By the time you muster the strength to squeeze that trigger I could kill you five times over.<end>
-
-=>a36
-::[Intimidate]:: Are you really in that much of a hurry to die? By the time you muster the strength to squeeze that trigger I could kill you five times over.<end>
-
-=>q37_original
-::He lowers his weapon.:: Let's neither of us waste ammo then. I'll be dead soon anyway.<end>
-
-=>q37
-::He lowers his weapon.:: Let's neither of us waste ammo then. I'll be dead soon anyway.<end>
-
-=>q38_original
-Still sounds better than waitin' to bleed to death.<end>
-
-=>q38
-Still sounds better than waitin' to bleed to death.<end>
-
-=>a39_original
-::Fight!::<end>
-
-=>a39
-::Fight!::<end>
-
-=>a40_original
-::Fight!::<end>
-
-=>a40
-::Fight!::<end>
-
-=>q41_original
-::This man is badly wounded. A number of large bony spines have pierced his leather armor and lodged themselves into the flesh beneath. Bloody pieces of torn cloth lie around him, as well as a couple of extracted spines, some broken, others whole.:: <end>
-
-=>q41
-::This man is badly wounded. A number of large bony spines have pierced his leather armor and lodged themselves into the flesh beneath. Bloody pieces of torn cloth lie around him, as well as a couple of extracted spines, some broken, others whole.:: <end>
-
-=>q42_original
-<end>
-
-=>q42
-<end>
-
-=>q43_original
-Leave me to my misery.<end>
-
-=>q43
-Leave me to my misery.<end>
-
-=>q44_original
-Any luck findin' Jenny?<end>
-
-=>q44
-Any luck findin' Jenny?<end>
-
-=>q45_original
-Ya still 'ere?<end>
-
-=>q45
-Ya still 'ere?<end>
-
-=>q46_original
-Can't a man die in peace?<end>
-
-=>q46
-Can't a man die in peace?<end>
-
+=>q1_original
+::It doesn't take long before the bleeding begins to subside.::
+
+I'll be damned - it worked!<end>
+
+=>q1
+::It doesn't take long before the bleeding begins to subside.::
+
+I'll be damned - it worked!<end>
+
+=>q2_original
+Thanks for the help, $(#buddy/sis). I was startin' to think I might end up donatin' one more dead body to these ruins. <end>
+
+=>q2
+Thanks for the help, $(#buddy/sis). I was startin' to think I might end up donatin' one more dead body to these ruins. <end>
+
+=>q3_original
+The name's Cliff. As you mighta noticed, I'm in a bit of a predicament 'ere.<end>
+
+=>q3
+The name's Cliff. As you mighta noticed, I'm in a bit of a predicament 'ere.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+What happened to you?<end>
+
+=>a5
+What happened to you?<end>
+
+=>q6_original
+::He nods towards the trap door.:: Bad scavengin' run, $(#buddy/sis). Me girl and I found a key to this place and figured there might be sumthin' valuable there still if it was kept locked for a good while.<end>
+
+=>q6
+::He nods towards the trap door.:: Bad scavengin' run, $(#buddy/sis). Me girl and I found a key to this place and figured there might be sumthin' valuable there still if it was kept locked for a good while.<end>
+
+=>q7_original
+We weren't entirely wrong, but that's not all we found. Wretched ass burrowers... we shoulda turned back at the first sign of their slimy eggs, but we were too greedy.<end>
+
+=>q7
+We weren't entirely wrong, but that's not all we found. Wretched ass burrowers... we shoulda turned back at the first sign of their slimy eggs, but we were too greedy.<end>
+
+=>q8_original
+And greed will get ya in Underrail... Sooner or later, it'll get you killed.<end>
+
+=>q8
+And greed will get ya in Underrail... Sooner or later, it'll get you killed.<end>
+
+=>a9_original
+What happened to your girlfriend?<end>
+
+=>a9
+What happened to your girlfriend?<end>
+
+=>q10_original
+Ah, we got separated as we fled. I'd go and look for 'er but I'm feelin' too weak to even climb down the wretched ladders.<end>
+
+=>q10
+Ah, we got separated as we fled. I'd go and look for 'er but I'm feelin' too weak to even climb down the wretched ladders.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+If you're thinkin' of goin' down there for whatever reason, I'd appreciate it if ya could look for 'er. I'd be willin' to give ya sumethin' that might help ya both. Ya interested?<end>
+
+=>q12
+If you're thinkin' of goin' down there for whatever reason, I'd appreciate it if ya could look for 'er. I'd be willin' to give ya sumethin' that might help ya both. Ya interested?<end>
+
+=>a13_original
+Sure.<end>
+
+=>a13
+Sure.<end>
+
+=>q14_original
+'Ere, take these antidotes with ya. Hopefully it'll help ya save Jenny's life and hold on to yer own as well. <end>
+
+=>q14
+'Ere, take these antidotes with ya. Hopefully it'll help ya save Jenny's life and hold on to yer own as well. <end>
+
+=>a15_original
+Not right now, no.<end>
+
+=>a15
+Not right now, no.<end>
+
+=>q16_original
+I don't blame ya for not wantin' to go down there. If ya change yer mind lemme know. Hopefully it won't be too late by then.<end>
+
+=>q16
+I don't blame ya for not wantin' to go down there. If ya change yer mind lemme know. Hopefully it won't be too late by then.<end>
+
+=>a17_original
+What are burrowers?<end>
+
+=>a17
+What are burrowers?<end>
+
+=>q18_original
+Dangerous ass bugs. Not ass bugs but... ::He waves away.:: There are lots of little ones in there that'll bite yer ankles, but what ya really gotta look out for are the big ones. They'll shoot these wretched spikes at yer face. And if that doesn't kill ya, the spikes are poisoned to boot.<end>
+
+=>q18
+Dangerous ass bugs. Not ass bugs but... ::He waves away.:: There are lots of little ones in there that'll bite yer ankles, but what ya really gotta look out for are the big ones. They'll shoot these wretched spikes at yer face. And if that doesn't kill ya, the spikes are poisoned to boot.<end>
+
+=>a19_original
+I'll go look for your girlfriend.<end>
+
+=>a19
+I'll go look for your girlfriend.<end>
+
+=>q20_original
+I really appreciate that, though I ain't got no way to pay ya for it. <end>
+
+=>q20
+I really appreciate that, though I ain't got no way to pay ya for it. <end>
+
+=>a21_original
+Would healing hypos help you recover?<end>
+
+=>a21
+Would healing hypos help you recover?<end>
+
+=>q22_original
+Tried that, $(#buddy/sis). Didn't work. Shot myself up with everthin' I had, but I keep bleedin' all over the place.
+
+I'm hurt bad, too bad. I need a doc... and fast.<end>
+
+=>q22
+Tried that, $(#buddy/sis). Didn't work. Shot myself up with everthin' I had, but I keep bleedin' all over the place.
+
+I'm hurt bad, too bad. I need a doc... and fast.<end>
+
+=>a23_original
+This should stop the bleeding. ::Give him a coagulation shot.::<end>
+
+=>a23
+This should stop the bleeding. ::Give him a coagulation shot.::<end>
+
+=>q24_original
+::You see in his eyes the kind of distrust you'd expect from anyone presented with a syringe filled with an unknown substance.::
+
+Hell... Ain't got nuthin' to lose.<end>
+
+=>q24
+::You see in his eyes the kind of distrust you'd expect from anyone presented with a syringe filled with an unknown substance.::
+
+Hell... Ain't got nuthin' to lose.<end>
+
+=>a25_original
+::Wait.::<end>
+
+=>a25
+::Wait.::<end>
+
+=>a26_original
+I'm sorry, man, but Jenny didn't make it.<end>
+
+=>a26
+I'm sorry, man, but Jenny didn't make it.<end>
+
+=>q27_original
+::He sighs deeply and slightly bows his head.:: I guessed as much, but kept hopin' it was... She...::He waves away.:: Thanks for lookin' for 'er. 
+
+I'd like to be alone now.<end>
+
+=>q27
+::He sighs deeply and slightly bows his head.:: I guessed as much, but kept hopin' it was... She...::He waves away.:: Thanks for lookin' for 'er. 
+
+I'd like to be alone now.<end>
+
+=>a28_original
+Keep still. I want to try something.<end>
+
+=>a28
+Keep still. I want to try something.<end>
+
+=>a29_original
+I have to get going.<end>
+
+=>a29
+I have to get going.<end>
+
+=>q30_original
+
+
+I was wonderin' what typa rat would come first to take a bite of my remains. ::He raises his smg and points it at you.:: Ya came a bit too soon, though, $(#buddy/sis).<end>
+
+=>q30
+
+
+I was wonderin' what typa rat would come first to take a bite of my remains. ::He raises his smg and points it at you.:: Ya came a bit too soon, though, $(#buddy/sis).<end>
+
+=>a31_original
+::[Persuade]:: Take it easy. I'm not here to hurt or loot anyone.<end>
+
+=>a31
+::[Persuade]:: Take it easy. I'm not here to hurt or loot anyone.<end>
+
+=>q32_original
+What else would ya be doin' 'ere in this hole, then? There ain't much left to do for us but loot the dead: dead folks... dead buildings... dead civilizations.<end>
+
+=>q32
+What else would ya be doin' 'ere in this hole, then? There ain't much left to do for us but loot the dead: dead folks... dead buildings... dead civilizations.<end>
+
+=>q33_original
+::He lowers his weapon.:: But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best.<end>
+
+=>q33
+::He lowers his weapon.:: But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best.<end>
+
+=>q34_original
+But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best. 
+
+But not before I make sure ya join 'em as well!<end>
+
+=>q34
+But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best. 
+
+But not before I make sure ya join 'em as well!<end>
+
+=>a35_original
+::Fight!::<end>
+
+=>a35
+::Fight!::<end>
+
+=>a36_original
+::[Intimidate]:: Are you really in that much of a hurry to die? By the time you muster the strength to squeeze that trigger I could kill you five times over.<end>
+
+=>a36
+::[Intimidate]:: Are you really in that much of a hurry to die? By the time you muster the strength to squeeze that trigger I could kill you five times over.<end>
+
+=>q37_original
+::He lowers his weapon.:: Let's neither of us waste ammo then. I'll be dead soon anyway.<end>
+
+=>q37
+::He lowers his weapon.:: Let's neither of us waste ammo then. I'll be dead soon anyway.<end>
+
+=>q38_original
+Still sounds better than waitin' to bleed to death.<end>
+
+=>q38
+Still sounds better than waitin' to bleed to death.<end>
+
+=>a39_original
+::Fight!::<end>
+
+=>a39
+::Fight!::<end>
+
+=>a40_original
+::Fight!::<end>
+
+=>a40
+::Fight!::<end>
+
+=>q41_original
+::This man is badly wounded. A number of large bony spines have pierced his leather armor and lodged themselves into the flesh beneath. Bloody pieces of torn cloth lie around him, as well as a couple of extracted spines, some broken, others whole.:: <end>
+
+=>q41
+::This man is badly wounded. A number of large bony spines have pierced his leather armor and lodged themselves into the flesh beneath. Bloody pieces of torn cloth lie around him, as well as a couple of extracted spines, some broken, others whole.:: <end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>q43_original
+Leave me to my misery.<end>
+
+=>q43
+Leave me to my misery.<end>
+
+=>q44_original
+Any luck findin' Jenny?<end>
+
+=>q44
+Any luck findin' Jenny?<end>
+
+=>q45_original
+Ya still 'ere?<end>
+
+=>q45
+Ya still 'ere?<end>
+
+=>q46_original
+Can't a man die in peace?<end>
+
+=>q46
+Can't a man die in peace?<end>
+

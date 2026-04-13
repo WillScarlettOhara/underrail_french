@@ -1,186 +1,186 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Move along.<end>
-
-=>q2
-Move along.<end>
-
-=>q3_original
-Not now.<end>
-
-=>q3
-Not now.<end>
-
-=>q4_original
-::Ignores you.::<end>
-
-=>q4
-::Ignores you.::<end>
-
-=>q5_original
-Reporting back to base.<end>
-
-=>q5
-Reporting back to base.<end>
-
-=>q6_original
-::He salutes you.:: Take caution, $(#sir/miss). We have a dangerous criminal in here.<end>
-
-=>q6
-::He salutes you.:: Take caution, $(#sir/miss). We have a dangerous criminal in here.<end>
-
-=>a7_original
-Who would that be?<end>
-
-=>a7
-Who would that be?<end>
-
-=>q8_original
-The identity of this person is not know to me, $(#sir/miss). My duty here is to ensure that order is preserved. ::He nods at you.::<end>
-
-=>q8
-The identity of this person is not know to me, $(#sir/miss). My duty here is to ensure that order is preserved. ::He nods at you.::<end>
-
-=>a9_original
-Of what crime was this person accused?<end>
-
-=>a9
-Of what crime was this person accused?<end>
-
-=>q10_original
-This man is a threat to the entirety of Core City. He was involved in numerous power outage sabotages as well as countless spying activities. On top of that, we have reasons to believe that he's the forger we've been looking for responsible for creation of copious amounts of counterfeit metro tickets.<end>
-
-=>q10
-This man is a threat to the entirety of Core City. He was involved in numerous power outage sabotages as well as countless spying activities. On top of that, we have reasons to believe that he's the forger we've been looking for responsible for creation of copious amounts of counterfeit metro tickets.<end>
-
-=>a11_original
-Can I see this man?<end>
-
-=>a11
-Can I see this man?<end>
-
-=>q12_original
-::He nods at you.:: Yes, but stay alert. Keep a close look at his every move. There's no telling what he could do to you.<end>
-
-=>q12
-::He nods at you.:: Yes, but stay alert. Keep a close look at his every move. There's no telling what he could do to you.<end>
-
-=>a13_original
-I was instructed by the HQ to take over the guard duty. You did your job well, enforcer. <end>
-
-=>a13
-I was instructed by the HQ to take over the guard duty. You did your job well, enforcer. <end>
-
-=>q14_original
-::He lowers his weapon and shakes his head, side to side.:: Finally, some rest. Going back to the base, then. Good luck, $(#sir/miss). Order through strength. ::He takes his leave.::<end>
-
-=>q14
-::He lowers his weapon and shakes his head, side to side.:: Finally, some rest. Going back to the base, then. Good luck, $(#sir/miss). Order through strength. ::He takes his leave.::<end>
-
-=>a15_original
-Order through strength.<end>
-
-=>a15
-Order through strength.<end>
-
-=>a16_original
-::Watch him leave.::<end>
-
-=>a16
-::Watch him leave.::<end>
-
-=>a17_original
-I'll be taking over the custody of this man. ::Show him your rank within the organization.::<end>
-
-=>a17
-I'll be taking over the custody of this man. ::Show him your rank within the organization.::<end>
-
-=>q18_original
-::He salutes you.:: Order through strength. ::For a moment he stands awkwardly waiting for you approval, but then decides to leave on his own.::<end>
-
-=>q18
-::He salutes you.:: Order through strength. ::For a moment he stands awkwardly waiting for you approval, but then decides to leave on his own.::<end>
-
-=>a19_original
-Thank you. Order through strength. ::Leave.::<end>
-
-=>a19
-Thank you. Order through strength. ::Leave.::<end>
-
-=>a20_original
-::Salute him and leave.::<end>
-
-=>a20
-::Salute him and leave.::<end>
-
-=>a21_original
-What do you mean, exactly?<end>
-
-=>a21
-What do you mean, exactly?<end>
-
-=>a22_original
-Order through strength. ::Leave.::<end>
-
-=>a22
-Order through strength. ::Leave.::<end>
-
-=>a23_original
-::Turn around and leave.::<end>
-
-=>a23
-::Turn around and leave.::<end>
-
-=>q24_original
-<end>
-
-=>q24
-<end>
-
-=>q25_original
-Order through strength.<end>
-
-=>q25
-Order through strength.<end>
-
-=>q26_original
-Business as usual.<end>
-
-=>q26
-Business as usual.<end>
-
-=>q27_original
-Keeping a lookout.<end>
-
-=>q27
-Keeping a lookout.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>q29_original
-The patient's room is off limits.<end>
-
-=>q29
-The patient's room is off limits.<end>
-
-=>q30_original
-There's a situation inside, stay clear.<end>
-
-=>q30
-There's a situation inside, stay clear.<end>
-
-=>q31_original
-Keep safe distance away from medical room.<end>
-
-=>q31
-Keep safe distance away from medical room.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Move along.<end>
+
+=>q2
+Move along.<end>
+
+=>q3_original
+Not now.<end>
+
+=>q3
+Not now.<end>
+
+=>q4_original
+::Ignores you.::<end>
+
+=>q4
+::Ignores you.::<end>
+
+=>q5_original
+Reporting back to base.<end>
+
+=>q5
+Reporting back to base.<end>
+
+=>q6_original
+::He salutes you.:: Take caution, $(#sir/miss). We have a dangerous criminal in here.<end>
+
+=>q6
+::He salutes you.:: Take caution, $(#sir/miss). We have a dangerous criminal in here.<end>
+
+=>a7_original
+Who would that be?<end>
+
+=>a7
+Who would that be?<end>
+
+=>q8_original
+The identity of this person is not know to me, $(#sir/miss). My duty here is to ensure that order is preserved. ::He nods at you.::<end>
+
+=>q8
+The identity of this person is not know to me, $(#sir/miss). My duty here is to ensure that order is preserved. ::He nods at you.::<end>
+
+=>a9_original
+Of what crime was this person accused?<end>
+
+=>a9
+Of what crime was this person accused?<end>
+
+=>q10_original
+This man is a threat to the entirety of Core City. He was involved in numerous power outage sabotages as well as countless spying activities. On top of that, we have reasons to believe that he's the forger we've been looking for responsible for creation of copious amounts of counterfeit metro tickets.<end>
+
+=>q10
+This man is a threat to the entirety of Core City. He was involved in numerous power outage sabotages as well as countless spying activities. On top of that, we have reasons to believe that he's the forger we've been looking for responsible for creation of copious amounts of counterfeit metro tickets.<end>
+
+=>a11_original
+Can I see this man?<end>
+
+=>a11
+Can I see this man?<end>
+
+=>q12_original
+::He nods at you.:: Yes, but stay alert. Keep a close look at his every move. There's no telling what he could do to you.<end>
+
+=>q12
+::He nods at you.:: Yes, but stay alert. Keep a close look at his every move. There's no telling what he could do to you.<end>
+
+=>a13_original
+I was instructed by the HQ to take over the guard duty. You did your job well, enforcer. <end>
+
+=>a13
+I was instructed by the HQ to take over the guard duty. You did your job well, enforcer. <end>
+
+=>q14_original
+::He lowers his weapon and shakes his head, side to side.:: Finally, some rest. Going back to the base, then. Good luck, $(#sir/miss). Order through strength. ::He takes his leave.::<end>
+
+=>q14
+::He lowers his weapon and shakes his head, side to side.:: Finally, some rest. Going back to the base, then. Good luck, $(#sir/miss). Order through strength. ::He takes his leave.::<end>
+
+=>a15_original
+Order through strength.<end>
+
+=>a15
+Order through strength.<end>
+
+=>a16_original
+::Watch him leave.::<end>
+
+=>a16
+::Watch him leave.::<end>
+
+=>a17_original
+I'll be taking over the custody of this man. ::Show him your rank within the organization.::<end>
+
+=>a17
+I'll be taking over the custody of this man. ::Show him your rank within the organization.::<end>
+
+=>q18_original
+::He salutes you.:: Order through strength. ::For a moment he stands awkwardly waiting for you approval, but then decides to leave on his own.::<end>
+
+=>q18
+::He salutes you.:: Order through strength. ::For a moment he stands awkwardly waiting for you approval, but then decides to leave on his own.::<end>
+
+=>a19_original
+Thank you. Order through strength. ::Leave.::<end>
+
+=>a19
+Thank you. Order through strength. ::Leave.::<end>
+
+=>a20_original
+::Salute him and leave.::<end>
+
+=>a20
+::Salute him and leave.::<end>
+
+=>a21_original
+What do you mean, exactly?<end>
+
+=>a21
+What do you mean, exactly?<end>
+
+=>a22_original
+Order through strength. ::Leave.::<end>
+
+=>a22
+Order through strength. ::Leave.::<end>
+
+=>a23_original
+::Turn around and leave.::<end>
+
+=>a23
+::Turn around and leave.::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+Order through strength.<end>
+
+=>q25
+Order through strength.<end>
+
+=>q26_original
+Business as usual.<end>
+
+=>q26
+Business as usual.<end>
+
+=>q27_original
+Keeping a lookout.<end>
+
+=>q27
+Keeping a lookout.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+The patient's room is off limits.<end>
+
+=>q29
+The patient's room is off limits.<end>
+
+=>q30_original
+There's a situation inside, stay clear.<end>
+
+=>q30
+There's a situation inside, stay clear.<end>
+
+=>q31_original
+Keep safe distance away from medical room.<end>
+
+=>q31
+Keep safe distance away from medical room.<end>
+

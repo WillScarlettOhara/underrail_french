@@ -1,10 +1,10 @@
 ::MovementPoints
-These points can only be used for movement.
+Ces points ne peuvent être utilisés que pour le déplacement.
 
 ::ActionPoints
-These points can be used for performing actions or for movement if there are no movement points left. You can carry over up to {0} unspent action points to the next turn.
+Ces points peuvent être utilisés pour effectuer des actions ou pour le déplacement s'il ne reste plus de points de mouvement. Vous pouvez reporter jusqu'à {0} points d'action non dépensés au tour suivant.
 
 ::Innervate
-Applies the changes made to the psi ability selection. This will instantly drain all of your psi points and reserves.
+Applique les modifications apportées à la sélection de capacités psi. Cela drainera instantanément tous vos points psi et réserves psi.
 
-This can only be done out of combat.
+Cela ne peut être fait qu'en dehors du combat.

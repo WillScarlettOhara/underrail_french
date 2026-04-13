@@ -1,842 +1,842 @@
-=>q1_original
-::Upon stepping into the office, you see a smiling man of average height, watching you and filling the room with thick cigar smoke. His sizable belly pours out of his - without a doubt - expensive suit, drawing eyes away from the suit's high-class design, effectively ruining it. Looking up does not result in a much prettier sight either, for age and lack of care have truly taken a toll on this man's appearance. Regardless, he smiles. He removes the cigar from his mouth and fills the room again, now with his voice.::
-
-Agent $(context.player.Name), welcome to my office. Please make yourself comfortable. I'm Mr. Rupert Simmons - your boss. ::He laughs.:: How are you feeling today?<end>
-
-=>q1
-::Upon stepping into the office, you see a smiling man of average height, watching you and filling the room with thick cigar smoke. His sizable belly pours out of his - without a doubt - expensive suit, drawing eyes away from the suit's high-class design, effectively ruining it. Looking up does not result in a much prettier sight either, for age and lack of care have truly taken a toll on this man's appearance. Regardless, he smiles. He removes the cigar from his mouth and fills the room again, now with his voice.::
-
-Agent $(context.player.Name), welcome to my office. Please make yourself comfortable. I'm Mr. Rupert Simmons - your boss. ::He laughs.:: How are you feeling today?<end>
-
-=>a2_original
-Now that I'm here, excellent!<end>
-
-=>a2
-Now that I'm here, excellent!<end>
-
-=>q3_original
-Beautiful, that's what I like to hear, son! You'll feel even better after I tell you why I called you up here.<end>
-
-=>q3
-Beautiful, that's what I like to hear, son! You'll feel even better after I tell you why I called you up here.<end>
-
-=>a4_original
-Son? But, I'm a woman...<end>
-
-=>a4
-Son? But, I'm a woman...<end>
-
-=>q5_original
-::He laughs.:: That's how I call everyone younger than me! It's not meant to be taken literally. But, we're not here to talk about that. I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, a great agent, and I've seen how you fight in the Arena! I loved it!<end>
-
-=>q5
-::He laughs.:: That's how I call everyone younger than me! It's not meant to be taken literally. But, we're not here to talk about that. I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, a great agent, and I've seen how you fight in the Arena! I loved it!<end>
-
-=>q6_original
-To have *the* Invictus working for Coretech, now that is just astonishing, son! Let me tell you something, son - you really earned this promotion!<end>
-
-=>q6
-To have *the* Invictus working for Coretech, now that is just astonishing, son! Let me tell you something, son - you really earned this promotion!<end>
-
-=>a7_original
-Thank you, sir!<end>
-
-=>a7
-Thank you, sir!<end>
-
-=>q8_original
-Thank you for being such a good employee! Son, with this promotion, you become my personal agent, which also comes with a fatter pay. You will answer to me - and me only. If someone asks you where you're going or what you're doing, you can just say: "Mr. Simmons says that's none of your damn business!" ::He laughs.::<end>
-
-=>q8
-Thank you for being such a good employee! Son, with this promotion, you become my personal agent, which also comes with a fatter pay. You will answer to me - and me only. If someone asks you where you're going or what you're doing, you can just say: "Mr. Simmons says that's none of your damn business!" ::He laughs.::<end>
-
-=>q9_original
-Also, you gain access to our internal store. Talk to Harlan about that. 
-
-There. That is all wanted to tell you, son!<end>
-
-=>q9
-Also, you gain access to our internal store. Talk to Harlan about that. 
-
-There. That is all wanted to tell you, son!<end>
-
-=>q10_original
-::He pauses.:: Actually, maybe that's not all... I don't know if you've heard by now, but Edmund Knight was murdered recently.<end>
-
-=>q10
-::He pauses.:: Actually, maybe that's not all... I don't know if you've heard by now, but Edmund Knight was murdered recently.<end>
-
-=>a11_original
-Edmund Knight?<end>
-
-=>a11
-Edmund Knight?<end>
-
-=>q12_original
-Edmund is the son of Archibald Knight, chief of Praetorian Security, one of the Oligarchs, and a dear friend of mine. Edmund was an intelligent, ambitious, solid as steel, and quite a handsome young man. His life had to be taken away at an early age by these... these evil, monstrous... barbarians. These... These Acid Hunters! Led by a man known only as Cornell.<end>
-
-=>q12
-Edmund is the son of Archibald Knight, chief of Praetorian Security, one of the Oligarchs, and a dear friend of mine. Edmund was an intelligent, ambitious, solid as steel, and quite a handsome young man. His life had to be taken away at an early age by these... these evil, monstrous... barbarians. These... These Acid Hunters! Led by a man known only as Cornell.<end>
-
-=>a13_original
-I've heard of them before.<end>
-
-=>a13
-I've heard of them before.<end>
-
-=>q14_original
-Then I'm sure you are not surprised by what I'm telling you. I don't think you've heard anything good about these lowlifes, scum - barbarians! They deserve the most severe punishment for what they did, and that's where you come in, son.<end>
-
-=>q14
-Then I'm sure you are not surprised by what I'm telling you. I don't think you've heard anything good about these lowlifes, scum - barbarians! They deserve the most severe punishment for what they did, and that's where you come in, son.<end>
-
-=>q15_original
-We have tracked down these animals. They are hiding in the sewers beneath Core City.<end>
-
-=>q15
-We have tracked down these animals. They are hiding in the sewers beneath Core City.<end>
-
-=>a16_original
-How did you manage to do that?<end>
-
-=>a16
-How did you manage to do that?<end>
-
-=>q17_original
-Listen, son, Coretech is the most powerful company in Core City. We have our ways. Let's just say those rathounds left giant footprints, just waiting to be tracked.<end>
-
-=>q17
-Listen, son, Coretech is the most powerful company in Core City. We have our ways. Let's just say those rathounds left giant footprints, just waiting to be tracked.<end>
-
-=>a18_original
-What do you want me to do?<end>
-
-=>a18
-What do you want me to do?<end>
-
-=>q19_original
-Kill Cornell, and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
-
-=>q19
-Kill Cornell, and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
-
-=>a20_original
-I've already been to their hideout.<end>
-
-=>a20
-I've already been to their hideout.<end>
-
-=>q21_original
-::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
-
-And what did you find, son?<end>
-
-=>q21
-::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
-
-And what did you find, son?<end>
-
-=>q22_original
-<end>
-
-=>q22
-<end>
-
-=>a23_original
-Oh, I did. ::Show him Cornell's head.::<end>
-
-=>a23
-Oh, I did. ::Show him Cornell's head.::<end>
-
-=>q24_original
-::He takes a look into the bag, moving the cigar from one side of his mouth to the other. His face - as if he was inspecting a train schedule.:: 
-
-Beautiful! Beautiful! Ha! Justice is served! I knew I could count on you, son.<end>
-
-=>q24
-::He takes a look into the bag, moving the cigar from one side of his mouth to the other. His face - as if he was inspecting a train schedule.:: 
-
-Beautiful! Beautiful! Ha! Justice is served! I knew I could count on you, son.<end>
-
-=>q25_original
-You have done great service to Core City.<end>
-
-=>q25
-You have done great service to Core City.<end>
-
-=>a26_original
-There is just this little thing about Edmund's death...<end>
-
-=>a26
-There is just this little thing about Edmund's death...<end>
-
-=>q27_original
-And what is that, son?<end>
-
-=>q27
-And what is that, son?<end>
-
-=>a28_original
-Cornell told me your son, Miland, killed him.<end>
-
-=>a28
-Cornell told me your son, Miland, killed him.<end>
-
-=>q29_original
-You trust that animal? Son... don't disappoint me like this. He was trying to trick you, trick you into not killing him! It didn't work, judging by this head of his. ::He takes another peek into the bag.:: What an ugly bastard...
-
-Hell, why are you mentioning this if you have already done your duty?<end>
-
-=>q29
-You trust that animal? Son... don't disappoint me like this. He was trying to trick you, trick you into not killing him! It didn't work, judging by this head of his. ::He takes another peek into the bag.:: What an ugly bastard...
-
-Hell, why are you mentioning this if you have already done your duty?<end>
-
-=>a30_original
-::[Persuade]:: You tricked me. Only after killing Cornell did I find evidence that proves your son killed Edmund.<end>
-
-=>a30
-::[Persuade]:: You tricked me. Only after killing Cornell did I find evidence that proves your son killed Edmund.<end>
-
-=>q31_original
-::He removes the cigar from his mouth, extinguishing it with one slow motion.:: It's true. What Cornell told you is true. Miland killed Edmund. My son. He confessed everything. I wanted Cornell dead not only to protect my son, but to protect Core City. If Knight was to do something foolish in his rage... it would spell the end for, for all this we've worked hard to build. And if you value the lives of the people that reside here - you'll shut your damn mouth!
-
-::He pauses.:: Here's for bringing me that head. ::He gives you 600 charons.:: <end>
-
-=>q31
-::He removes the cigar from his mouth, extinguishing it with one slow motion.:: It's true. What Cornell told you is true. Miland killed Edmund. My son. He confessed everything. I wanted Cornell dead not only to protect my son, but to protect Core City. If Knight was to do something foolish in his rage... it would spell the end for, for all this we've worked hard to build. And if you value the lives of the people that reside here - you'll shut your damn mouth!
-
-::He pauses.:: Here's for bringing me that head. ::He gives you 600 charons.:: <end>
-
-=>q32_original
-<end>
-
-=>q32
-<end>
-
-=>q33_original
-I have more work for you.<end>
-
-=>q33
-I have more work for you.<end>
-
-=>q34_original
-Now, what I'm about to tell you son, is highly confidential. You are to mention what I'll be telling you to no one, in or out of Coretech. Get it? Beautiful!<end>
-
-=>q34
-Now, what I'm about to tell you son, is highly confidential. You are to mention what I'll be telling you to no one, in or out of Coretech. Get it? Beautiful!<end>
-
-=>q35_original
-We have recently acquired a rare and strange artifact of unknown origin. We believe that, if we were to unlock its powers, we will be able to launch Coretech into a whole new era of technological advancement! Imagine that, son!<end>
-
-=>q35
-We have recently acquired a rare and strange artifact of unknown origin. We believe that, if we were to unlock its powers, we will be able to launch Coretech into a whole new era of technological advancement! Imagine that, son!<end>
-
-=>q36_original
-I also believe, and with full support from my advisors, that this little thing of power is precisely the reason why these Faceless are here. I want this object secured son, at all costs. And I want you to make sure of it.<end>
-
-=>q36
-I also believe, and with full support from my advisors, that this little thing of power is precisely the reason why these Faceless are here. I want this object secured son, at all costs. And I want you to make sure of it.<end>
-
-=>a37_original
-It will be done sir.<end>
-
-=>a37
-It will be done sir.<end>
-
-=>q38_original
-Beautiful! This is where you need to go: On the lower level of Core City, near one of the under-passage exits in Drop Zone you will find a locked door. Behind it lies the passageway leading to a facility of ours. Use this keycard to unlock the door; this pass must be worn at all times so that the security bots don't rip you to shreds. ::He gives you the keycard.::<end>
-
-=>q38
-Beautiful! This is where you need to go: On the lower level of Core City, near one of the under-passage exits in Drop Zone you will find a locked door. Behind it lies the passageway leading to a facility of ours. Use this keycard to unlock the door; this pass must be worn at all times so that the security bots don't rip you to shreds. ::He gives you the keycard.::<end>
-
-=>q39_original
-That would be bad, son. ::He laughs.:: There will be a few scientists there, but other than them *no one* else is allowed. I'm counting on you. Keep that artifact safe and sound. For Coretech, for our future.<end>
-
-=>q39
-That would be bad, son. ::He laughs.:: There will be a few scientists there, but other than them *no one* else is allowed. I'm counting on you. Keep that artifact safe and sound. For Coretech, for our future.<end>
-
-=>q40_original
-<end>
-
-=>q40
-<end>
-
-=>a41_original
-I've already been to this facility. It's not as secure as you think it is.<end>
-
-=>a41
-I've already been to this facility. It's not as secure as you think it is.<end>
-
-=>q42_original
-What? You... you cannot be serious, son!?<end>
-
-=>q42
-What? You... you cannot be serious, son!?<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-The Tchortists stormed in, killed the scientists and fled with the artifact. There was nothing I could have done.<end>
-
-=>a44
-The Tchortists stormed in, killed the scientists and fled with the artifact. There was nothing I could have done.<end>
-
-=>q45_original
-Tchortists! TCHORTISTS! ::His clenched fist strikes the table, making you flinch from the sheer volume of the sound produced.:: Curse them, curse them all! Those lying bastards, they... We should never have let the bastards into the city!<end>
-
-=>q45
-Tchortists! TCHORTISTS! ::His clenched fist strikes the table, making you flinch from the sheer volume of the sound produced.:: Curse them, curse them all! Those lying bastards, they... We should never have let the bastards into the city!<end>
-
-=>q46_original
-::He bows his head, letting it hang above his desk while his fist remains in contact with the table.:: 
-
-All went down the pipes... Sons of rats.<end>
-
-=>q46
-::He bows his head, letting it hang above his desk while his fist remains in contact with the table.:: 
-
-All went down the pipes... Sons of rats.<end>
-
-=>q47_original
-::He lifts his head and adjusts his suit. A steady motion of his hand as it slides across his receding hair seems to have a calming effect on him.::
- 
-I need to be alone now.<end>
-
-=>q47
-::He lifts his head and adjusts his suit. A steady motion of his hand as it slides across his receding hair seems to have a calming effect on him.::
- 
-I need to be alone now.<end>
-
-=>a48_original
-Goodby--<end>
-
-=>a48
-Goodby--<end>
-
-=>q49_original
-Wait, wait... 
-
-Talk to Harlan. Now leave me.<end>
-
-=>q49
-Wait, wait... 
-
-Talk to Harlan. Now leave me.<end>
-
-=>a50_original
-I will. Goodbye, Mr. Simmons.<end>
-
-=>a50
-I will. Goodbye, Mr. Simmons.<end>
-
-=>a51_original
-As you wi--<end>
-
-=>a51
-As you wi--<end>
-
-=>a52_original
-::Nod.::<end>
-
-=>a52
-::Nod.::<end>
-
-=>a53_original
-I understand.<end>
-
-=>a53
-I understand.<end>
-
-=>q54_original
-Beautiful! That's it, son. Get going.<end>
-
-=>q54
-Beautiful! That's it, son. Get going.<end>
-
-=>q55_original
-<end>
-
-=>q55
-<end>
-
-=>a56_original
-How do I find the Acid Hunters again?<end>
-
-=>a56
-How do I find the Acid Hunters again?<end>
-
-=>q57_original
-Don't disappoint me like this, son! Pay attention! 
-
-Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.<end>
-
-=>q57
-Don't disappoint me like this, son! Pay attention! 
-
-Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.<end>
-
-=>q58_original
-You catch all that - good.<end>
-
-=>q58
-You catch all that - good.<end>
-
-=>a59_original
-About the Acid Hunters...<end>
-
-=>a59
-About the Acid Hunters...<end>
-
-=>q60_original
-::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
-
-Did you get them, son?<end>
-
-=>q60
-::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
-
-Did you get them, son?<end>
-
-=>a61_original
-How do I get to that research facility again?<end>
-
-=>a61
-How do I get to that research facility again?<end>
-
-=>q62_original
-I'll explain again. On the lower level of Core City, near one of the under-passages exits in the Drop Zone you will find a locked door. Behind it lies the passageway leading to the facility. Use the keycard I gave you to unlock the door; the pass must be worn at all times so that the security bots don't rip you to shreds.<end>
-
-=>q62
-I'll explain again. On the lower level of Core City, near one of the under-passages exits in the Drop Zone you will find a locked door. Behind it lies the passageway leading to the facility. Use the keycard I gave you to unlock the door; the pass must be worn at all times so that the security bots don't rip you to shreds.<end>
-
-=>q63_original
-That's it! Easy to remember.<end>
-
-=>q63
-That's it! Easy to remember.<end>
-
-=>a64_original
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>a64
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>q65_original
-Acorn? What's that?<end>
-
-=>q65
-Acorn? What's that?<end>
-
-=>q66_original
-<end>
-
-=>q66
-<end>
-
-=>a67_original
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could prove to be a great asset to our company.<end>
-
-=>a67
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could prove to be a great asset to our company.<end>
-
-=>q68_original
-Hm. ::He bites into his cigar.:: Look, son, in <end>
-
-=>q68
-Hm. ::He bites into his cigar.:: Look, son, in <end>
-
-=>q69_original
-all my years of doing this business I've never heard of anything like this thing you mentioned. What is it? Biocorp technology?<end>
-
-=>q69
-all my years of doing this business I've never heard of anything like this thing you mentioned. What is it? Biocorp technology?<end>
-
-=>q70_original
-But... ::He shakes his head.:: Forget it. I can't deal with that right now. <end>
-
-=>q70
-But... ::He shakes his head.:: Forget it. I can't deal with that right now. <end>
-
-=>q71_original
-We've got the Faceless all around us<end>
-
-=>q71
-We've got the Faceless all around us<end>
-
-=>q72_original
-, we have to secure our research facility, and we've got a bevy of other issues to deal with. <end>
-
-=>q72
-, we have to secure our research facility, and we've got a bevy of other issues to deal with. <end>
-
-=>q73_original
-As soon as we're done with all of that we'll return to this Acorn thing of yours, eh, son. ::He puffs some smoke.:: 
-
-There. Now...<end>
-
-=>q73
-As soon as we're done with all of that we'll return to this Acorn thing of yours, eh, son. ::He puffs some smoke.:: 
-
-There. Now...<end>
-
-=>q74_original
-, these Acid Hunters<end>
-
-=>q74
-, these Acid Hunters<end>
-
-=>q75_original
- and a bevy of other problems plaguing this city.<end>
-
-=>q75
- and a bevy of other problems plaguing this city.<end>
-
-=>q76_original
-::But he then shakes his head.:: Look, son, forget it. I can't deal with that now. <end>
-
-=>q76
-::But he then shakes his head.:: Look, son, forget it. I can't deal with that now. <end>
-
-=>a77_original
-All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could prove to be a great asset to our company.<end>
-
-=>a77
-All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could prove to be a great asset to our company.<end>
-
-=>a78_original
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>a78
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>q79_original
-What the...? ::He takes the cigar out of his mouth.:: In <end>
-
-=>q79
-What the...? ::He takes the cigar out of his mouth.:: In <end>
-
-=>a80_original
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>a80
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>a81_original
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>a81
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
-
-=>a82_original
-Never mind. There was something else I wanted to ask you.<end>
-
-=>a82
-Never mind. There was something else I wanted to ask you.<end>
-
-=>q83_original
-::He puffs some smoke.:: Well?<end>
-
-=>q83
-::He puffs some smoke.:: Well?<end>
-
-=>a84_original
-About the Acorn again...<end>
-
-=>a84
-About the Acorn again...<end>
-
-=>q85_original
-That again?<end>
-
-=>q85
-That again?<end>
-
-=>a86_original
-I've been to the facility.<end>
-
-=>a86
-I've been to the facility.<end>
-
-=>q87_original
-Returned? Did... did something happen to the artifact? Did the Faceless get to it? Tell me what happened, son, damn it!<end>
-
-=>q87
-Returned? Did... did something happen to the artifact? Did the Faceless get to it? Tell me what happened, son, damn it!<end>
-
-=>a88_original
-Can you tell me how the Oligarchy came to be?<end>
-
-=>a88
-Can you tell me how the Oligarchy came to be?<end>
-
-=>q89_original
-A long time ago, Archie and I were employed at Biocorp. If you're unfamiliar with its history, it used to be a supercorporation which owned everything in Underrail. Understand, son? *Everything*. They had full control over military, economy, scientific research, politics... *Everything*. But unfortunately, once you grow to that size, you need to make sure you can support all that weight. And Biocorp had a rotten core.<end>
-
-=>q89
-A long time ago, Archie and I were employed at Biocorp. If you're unfamiliar with its history, it used to be a supercorporation which owned everything in Underrail. Understand, son? *Everything*. They had full control over military, economy, scientific research, politics... *Everything*. But unfortunately, once you grow to that size, you need to make sure you can support all that weight. And Biocorp had a rotten core.<end>
-
-=>q90_original
-Due to internal conflicts and other external problems, Biocorp fell apart. Then it reformed. Then the cracks appeared again. When the Protectorate came fifteen years ago, Biocorp was no match. No, no. They took out their headquarters in North Underrail, and that was the final blow. Damn it all, we used to be beautiful! Core City belonged to Biocorp. Top scientists lived and worked here. All began to fall apart after that, and Archie and I tried to keep this place together. 
-
-He was the chief of security while I was the head of research department here in Core City - a technocrat, as we used to call ourselves. He formed Praetorian Security; I formed Coretech with the help of my colleagues, in an attempt to continue what Biocorp began.<end>
-
-=>q90
-Due to internal conflicts and other external problems, Biocorp fell apart. Then it reformed. Then the cracks appeared again. When the Protectorate came fifteen years ago, Biocorp was no match. No, no. They took out their headquarters in North Underrail, and that was the final blow. Damn it all, we used to be beautiful! Core City belonged to Biocorp. Top scientists lived and worked here. All began to fall apart after that, and Archie and I tried to keep this place together. 
-
-He was the chief of security while I was the head of research department here in Core City - a technocrat, as we used to call ourselves. He formed Praetorian Security; I formed Coretech with the help of my colleagues, in an attempt to continue what Biocorp began.<end>
-
-=>q91_original
-Son, it was difficult, but the Arena saved us all. It brought in so much money to Core City. Truthfully, Edstrom should be partially thanked for that, as he was the one who raised its popularity to a whole new level. He was an outsider, so he had the connections, and he had the brains to make everything go his way! ::He laughs.::
-
-That pretty much sums it up, son.<end>
-
-=>q91
-Son, it was difficult, but the Arena saved us all. It brought in so much money to Core City. Truthfully, Edstrom should be partially thanked for that, as he was the one who raised its popularity to a whole new level. He was an outsider, so he had the connections, and he had the brains to make everything go his way! ::He laughs.::
-
-That pretty much sums it up, son.<end>
-
-=>a92_original
-Goodbye, Mr. Simmons.<end>
-
-=>a92
-Goodbye, Mr. Simmons.<end>
-
-=>q93_original
-::He removes the cigar from his mouth, extinguishing it with one angry motion.:: Son, I'll pretend you never said that. I don't care what evidence you found nor what that savage told you. Cornell killed Edmund! That's the truth! Take this and shut the hell up! ::He gives you 600 charons.::
-
-::He calms down.:: Damn it, son. You've done so well so far, why tarnish it, why bite the hand that feeds you. 
-
-<end>
-
-=>q93
-::He removes the cigar from his mouth, extinguishing it with one angry motion.:: Son, I'll pretend you never said that. I don't care what evidence you found nor what that savage told you. Cornell killed Edmund! That's the truth! Take this and shut the hell up! ::He gives you 600 charons.::
-
-::He calms down.:: Damn it, son. You've done so well so far, why tarnish it, why bite the hand that feeds you. 
-
-<end>
-
-=>a94_original
-It all seemed *very* suspicious.<end>
-
-=>a94
-It all seemed *very* suspicious.<end>
-
-=>q95_original
-::He laughs.:: Son, you were loyal to Coretech from your first day. Don't tarnish it now. But, I understand, I understand. We all have moments like this. Here's something to help you... calm down. ::He gives you 600 charons.:: 
-
-<end>
-
-=>q95
-::He laughs.:: Son, you were loyal to Coretech from your first day. Don't tarnish it now. But, I understand, I understand. We all have moments like this. Here's something to help you... calm down. ::He gives you 600 charons.:: 
-
-<end>
-
-=>a96_original
-Thank you, sir. I was just doing my job.<end>
-
-=>a96
-Thank you, sir. I was just doing my job.<end>
-
-=>q97_original
-You most definitely were. ::He laughs.::<end>
-
-=>q97
-You most definitely were. ::He laughs.::<end>
-
-=>q98_original
-::He gives you 600 charons.:: Take this. <end>
-
-=>q98
-::He gives you 600 charons.:: Take this. <end>
-
-=>a99_original
-::Show him Cornell's head.:: He was guilty of some other crimes as well.<end>
-
-=>a99
-::Show him Cornell's head.:: He was guilty of some other crimes as well.<end>
-
-=>a100_original
-They weren't there. I searched everything, but no trace of Acid Hunters.<end>
-
-=>a100
-They weren't there. I searched everything, but no trace of Acid Hunters.<end>
-
-=>q101_original
-So, they escaped... ::He removes the cigar from his mouth, extinguishing it with one swift motion.:: That is disappointing... Not your fault, of course. Your results have been outstanding so far, so I'm assured you did everything within your powers. I'll inform all our forces of this situation; maybe those rats still haven't managed to leave Core City.<end>
-
-=>q101
-So, they escaped... ::He removes the cigar from his mouth, extinguishing it with one swift motion.:: That is disappointing... Not your fault, of course. Your results have been outstanding so far, so I'm assured you did everything within your powers. I'll inform all our forces of this situation; maybe those rats still haven't managed to leave Core City.<end>
-
-=>a102_original
-No, but I will.<end>
-
-=>a102
-No, but I will.<end>
-
-=>q103_original
-Don't be a zoner, son! Stop fooling around and get to work. We have to get to those animals *before* they escape.<end>
-
-=>q103
-Don't be a zoner, son! Stop fooling around and get to work. We have to get to those animals *before* they escape.<end>
-
-=>a104_original
-What about capturing them? Can't you put them on a trial or something?<end>
-
-=>a104
-What about capturing them? Can't you put them on a trial or something?<end>
-
-=>q105_original
-Listen, son, let's not lie to each other. I'm not an evil man. Angry, definitely, but evil? No. There is a reason why they must die; we've all already discussed this - I mean, the Oligarchs - and we came to a conclusion that for a crime this severe - death is the only punishment. All evidence points to them, son, all of it.<end>
-
-=>q105
-Listen, son, let's not lie to each other. I'm not an evil man. Angry, definitely, but evil? No. There is a reason why they must die; we've all already discussed this - I mean, the Oligarchs - and we came to a conclusion that for a crime this severe - death is the only punishment. All evidence points to them, son, all of it.<end>
-
-=>a106_original
-I'll do as you ask. How do I get to them?<end>
-
-=>a106
-I'll do as you ask. How do I get to them?<end>
-
-=>q107_original
-That's what I like to hear, son! This is the info we have... Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed. That's exactly how I've been told.<end>
-
-=>q107
-That's what I like to hear, son! This is the info we have... Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed. That's exactly how I've been told.<end>
-
-=>a108_original
-Are you sure that's true?<end>
-
-=>a108
-Are you sure that's true?<end>
-
-=>q109_original
-Of course, son! Who do you take me for? ::He laughs.:: Now go, bring me Cornell's head.<end>
-
-=>q109
-Of course, son! Who do you take me for? ::He laughs.:: Now go, bring me Cornell's head.<end>
-
-=>a110_original
-I'm on the job.<end>
-
-=>a110
-I'm on the job.<end>
-
-=>q111_original
-One more thing: Put the head in a leak-proof bag or something, son, as I don't want blood all over my office. You got that - good.<end>
-
-=>q111
-One more thing: Put the head in a leak-proof bag or something, son, as I don't want blood all over my office. You got that - good.<end>
-
-=>a112_original
-So, you want them dead?<end>
-
-=>a112
-So, you want them dead?<end>
-
-=>q113_original
-That's it son! I want you to kill Cornell and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
-
-=>q113
-That's it son! I want you to kill Cornell and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
-
-=>a114_original
-I'm quite familiar with them.<end>
-
-=>a114
-I'm quite familiar with them.<end>
-
-=>a115_original
-Who are these Acid Hunters?<end>
-
-=>a115
-Who are these Acid Hunters?<end>
-
-=>q116_original
-Lowlife scum, barbarians! This Cornell and his band of rats deserve nothing but the most severe punishment for what they did, so that's where you come in, son!<end>
-
-=>q116
-Lowlife scum, barbarians! This Cornell and his band of rats deserve nothing but the most severe punishment for what they did, so that's where you come in, son!<end>
-
-=>a117_original
-That's horrible, but I'm not sure I know who that is.<end>
-
-=>a117
-That's horrible, but I'm not sure I know who that is.<end>
-
-=>q118_original
-You deserve some rest, and I'll call you when I need the best agent in Coretech. ::Laughs.:: See you again, son.<end>
-
-=>q118
-You deserve some rest, and I'll call you when I need the best agent in Coretech. ::Laughs.:: See you again, son.<end>
-
-=>a119_original
-What do I get with this promotion?<end>
-
-=>a119
-What do I get with this promotion?<end>
-
-=>q120_original
-Straight to the point, I like that, son! I most certainly do. Son, with this promotion, you become my personal agent! You will answer to me, and me only. If someone asks you where you're going and what you're doing, you can just say: "Mr. Simmons says that's none of your damn business." ::He laughs.::<end>
-
-=>q120
-Straight to the point, I like that, son! I most certainly do. Son, with this promotion, you become my personal agent! You will answer to me, and me only. If someone asks you where you're going and what you're doing, you can just say: "Mr. Simmons says that's none of your damn business." ::He laughs.::<end>
-
-=>q121_original
-With the way you've been fighting in there, son, I'm sure you can become invictus one day! If you do, having the invictus working for Coretech would be astonishing! Let me tell you something, son - you really earned this promotion!<end>
-
-=>q121
-With the way you've been fighting in there, son, I'm sure you can become invictus one day! If you do, having the invictus working for Coretech would be astonishing! Let me tell you something, son - you really earned this promotion!<end>
-
-=>a122_original
-Can't wait to hear it, sir.<end>
-
-=>a122
-Can't wait to hear it, sir.<end>
-
-=>q123_original
-Beautiful! I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, and I've seen how you fight in the Arena!<end>
-
-=>q123
-Beautiful! I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, and I've seen how you fight in the Arena!<end>
-
-=>a124_original
-Pretty darn good.<end>
-
-=>a124
-Pretty darn good.<end>
-
-=>a125_original
-I've been having these leg cramps for quite some time now.<end>
-
-=>a125
-I've been having these leg cramps for quite some time now.<end>
-
-=>q126_original
-Oh, I'm sure it'll go away, son. Especially after I tell you why I called you up here.<end>
-
-=>q126
-Oh, I'm sure it'll go away, son. Especially after I tell you why I called you up here.<end>
-
-=>q127_original
-Son. I need to talk to you about something very important. I don't know if you've heard, but Edmund Knight was killed just recently.<end>
-
-=>q127
-Son. I need to talk to you about something very important. I don't know if you've heard, but Edmund Knight was killed just recently.<end>
-
-=>q128_original
-I need to be alone for a while.<end>
-
-=>q128
-I need to be alone for a while.<end>
-
-=>q129_original
-Ah, son, you are here. What've you got for me?<end>
-
-=>q129
-Ah, son, you are here. What've you got for me?<end>
-
+=>q1_original
+::Upon stepping into the office, you see a smiling man of average height, watching you and filling the room with thick cigar smoke. His sizable belly pours out of his - without a doubt - expensive suit, drawing eyes away from the suit's high-class design, effectively ruining it. Looking up does not result in a much prettier sight either, for age and lack of care have truly taken a toll on this man's appearance. Regardless, he smiles. He removes the cigar from his mouth and fills the room again, now with his voice.::
+
+Agent $(context.player.Name), welcome to my office. Please make yourself comfortable. I'm Mr. Rupert Simmons - your boss. ::He laughs.:: How are you feeling today?<end>
+
+=>q1
+::Upon stepping into the office, you see a smiling man of average height, watching you and filling the room with thick cigar smoke. His sizable belly pours out of his - without a doubt - expensive suit, drawing eyes away from the suit's high-class design, effectively ruining it. Looking up does not result in a much prettier sight either, for age and lack of care have truly taken a toll on this man's appearance. Regardless, he smiles. He removes the cigar from his mouth and fills the room again, now with his voice.::
+
+Agent $(context.player.Name), welcome to my office. Please make yourself comfortable. I'm Mr. Rupert Simmons - your boss. ::He laughs.:: How are you feeling today?<end>
+
+=>a2_original
+Now that I'm here, excellent!<end>
+
+=>a2
+Now that I'm here, excellent!<end>
+
+=>q3_original
+Beautiful, that's what I like to hear, son! You'll feel even better after I tell you why I called you up here.<end>
+
+=>q3
+Beautiful, that's what I like to hear, son! You'll feel even better after I tell you why I called you up here.<end>
+
+=>a4_original
+Son? But, I'm a woman...<end>
+
+=>a4
+Son? But, I'm a woman...<end>
+
+=>q5_original
+::He laughs.:: That's how I call everyone younger than me! It's not meant to be taken literally. But, we're not here to talk about that. I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, a great agent, and I've seen how you fight in the Arena! I loved it!<end>
+
+=>q5
+::He laughs.:: That's how I call everyone younger than me! It's not meant to be taken literally. But, we're not here to talk about that. I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, a great agent, and I've seen how you fight in the Arena! I loved it!<end>
+
+=>q6_original
+To have *the* Invictus working for Coretech, now that is just astonishing, son! Let me tell you something, son - you really earned this promotion!<end>
+
+=>q6
+To have *the* Invictus working for Coretech, now that is just astonishing, son! Let me tell you something, son - you really earned this promotion!<end>
+
+=>a7_original
+Thank you, sir!<end>
+
+=>a7
+Thank you, sir!<end>
+
+=>q8_original
+Thank you for being such a good employee! Son, with this promotion, you become my personal agent, which also comes with a fatter pay. You will answer to me - and me only. If someone asks you where you're going or what you're doing, you can just say: "Mr. Simmons says that's none of your damn business!" ::He laughs.::<end>
+
+=>q8
+Thank you for being such a good employee! Son, with this promotion, you become my personal agent, which also comes with a fatter pay. You will answer to me - and me only. If someone asks you where you're going or what you're doing, you can just say: "Mr. Simmons says that's none of your damn business!" ::He laughs.::<end>
+
+=>q9_original
+Also, you gain access to our internal store. Talk to Harlan about that. 
+
+There. That is all wanted to tell you, son!<end>
+
+=>q9
+Also, you gain access to our internal store. Talk to Harlan about that. 
+
+There. That is all wanted to tell you, son!<end>
+
+=>q10_original
+::He pauses.:: Actually, maybe that's not all... I don't know if you've heard by now, but Edmund Knight was murdered recently.<end>
+
+=>q10
+::He pauses.:: Actually, maybe that's not all... I don't know if you've heard by now, but Edmund Knight was murdered recently.<end>
+
+=>a11_original
+Edmund Knight?<end>
+
+=>a11
+Edmund Knight?<end>
+
+=>q12_original
+Edmund is the son of Archibald Knight, chief of Praetorian Security, one of the Oligarchs, and a dear friend of mine. Edmund was an intelligent, ambitious, solid as steel, and quite a handsome young man. His life had to be taken away at an early age by these... these evil, monstrous... barbarians. These... These Acid Hunters! Led by a man known only as Cornell.<end>
+
+=>q12
+Edmund is the son of Archibald Knight, chief of Praetorian Security, one of the Oligarchs, and a dear friend of mine. Edmund was an intelligent, ambitious, solid as steel, and quite a handsome young man. His life had to be taken away at an early age by these... these evil, monstrous... barbarians. These... These Acid Hunters! Led by a man known only as Cornell.<end>
+
+=>a13_original
+I've heard of them before.<end>
+
+=>a13
+I've heard of them before.<end>
+
+=>q14_original
+Then I'm sure you are not surprised by what I'm telling you. I don't think you've heard anything good about these lowlifes, scum - barbarians! They deserve the most severe punishment for what they did, and that's where you come in, son.<end>
+
+=>q14
+Then I'm sure you are not surprised by what I'm telling you. I don't think you've heard anything good about these lowlifes, scum - barbarians! They deserve the most severe punishment for what they did, and that's where you come in, son.<end>
+
+=>q15_original
+We have tracked down these animals. They are hiding in the sewers beneath Core City.<end>
+
+=>q15
+We have tracked down these animals. They are hiding in the sewers beneath Core City.<end>
+
+=>a16_original
+How did you manage to do that?<end>
+
+=>a16
+How did you manage to do that?<end>
+
+=>q17_original
+Listen, son, Coretech is the most powerful company in Core City. We have our ways. Let's just say those rathounds left giant footprints, just waiting to be tracked.<end>
+
+=>q17
+Listen, son, Coretech is the most powerful company in Core City. We have our ways. Let's just say those rathounds left giant footprints, just waiting to be tracked.<end>
+
+=>a18_original
+What do you want me to do?<end>
+
+=>a18
+What do you want me to do?<end>
+
+=>q19_original
+Kill Cornell, and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>q19
+Kill Cornell, and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>a20_original
+I've already been to their hideout.<end>
+
+=>a20
+I've already been to their hideout.<end>
+
+=>q21_original
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+And what did you find, son?<end>
+
+=>q21
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+And what did you find, son?<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+Oh, I did. ::Show him Cornell's head.::<end>
+
+=>a23
+Oh, I did. ::Show him Cornell's head.::<end>
+
+=>q24_original
+::He takes a look into the bag, moving the cigar from one side of his mouth to the other. His face - as if he was inspecting a train schedule.:: 
+
+Beautiful! Beautiful! Ha! Justice is served! I knew I could count on you, son.<end>
+
+=>q24
+::He takes a look into the bag, moving the cigar from one side of his mouth to the other. His face - as if he was inspecting a train schedule.:: 
+
+Beautiful! Beautiful! Ha! Justice is served! I knew I could count on you, son.<end>
+
+=>q25_original
+You have done great service to Core City.<end>
+
+=>q25
+You have done great service to Core City.<end>
+
+=>a26_original
+There is just this little thing about Edmund's death...<end>
+
+=>a26
+There is just this little thing about Edmund's death...<end>
+
+=>q27_original
+And what is that, son?<end>
+
+=>q27
+And what is that, son?<end>
+
+=>a28_original
+Cornell told me your son, Miland, killed him.<end>
+
+=>a28
+Cornell told me your son, Miland, killed him.<end>
+
+=>q29_original
+You trust that animal? Son... don't disappoint me like this. He was trying to trick you, trick you into not killing him! It didn't work, judging by this head of his. ::He takes another peek into the bag.:: What an ugly bastard...
+
+Hell, why are you mentioning this if you have already done your duty?<end>
+
+=>q29
+You trust that animal? Son... don't disappoint me like this. He was trying to trick you, trick you into not killing him! It didn't work, judging by this head of his. ::He takes another peek into the bag.:: What an ugly bastard...
+
+Hell, why are you mentioning this if you have already done your duty?<end>
+
+=>a30_original
+::[Persuade]:: You tricked me. Only after killing Cornell did I find evidence that proves your son killed Edmund.<end>
+
+=>a30
+::[Persuade]:: You tricked me. Only after killing Cornell did I find evidence that proves your son killed Edmund.<end>
+
+=>q31_original
+::He removes the cigar from his mouth, extinguishing it with one slow motion.:: It's true. What Cornell told you is true. Miland killed Edmund. My son. He confessed everything. I wanted Cornell dead not only to protect my son, but to protect Core City. If Knight was to do something foolish in his rage... it would spell the end for, for all this we've worked hard to build. And if you value the lives of the people that reside here - you'll shut your damn mouth!
+
+::He pauses.:: Here's for bringing me that head. ::He gives you 600 charons.:: <end>
+
+=>q31
+::He removes the cigar from his mouth, extinguishing it with one slow motion.:: It's true. What Cornell told you is true. Miland killed Edmund. My son. He confessed everything. I wanted Cornell dead not only to protect my son, but to protect Core City. If Knight was to do something foolish in his rage... it would spell the end for, for all this we've worked hard to build. And if you value the lives of the people that reside here - you'll shut your damn mouth!
+
+::He pauses.:: Here's for bringing me that head. ::He gives you 600 charons.:: <end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+I have more work for you.<end>
+
+=>q33
+I have more work for you.<end>
+
+=>q34_original
+Now, what I'm about to tell you son, is highly confidential. You are to mention what I'll be telling you to no one, in or out of Coretech. Get it? Beautiful!<end>
+
+=>q34
+Now, what I'm about to tell you son, is highly confidential. You are to mention what I'll be telling you to no one, in or out of Coretech. Get it? Beautiful!<end>
+
+=>q35_original
+We have recently acquired a rare and strange artifact of unknown origin. We believe that, if we were to unlock its powers, we will be able to launch Coretech into a whole new era of technological advancement! Imagine that, son!<end>
+
+=>q35
+We have recently acquired a rare and strange artifact of unknown origin. We believe that, if we were to unlock its powers, we will be able to launch Coretech into a whole new era of technological advancement! Imagine that, son!<end>
+
+=>q36_original
+I also believe, and with full support from my advisors, that this little thing of power is precisely the reason why these Faceless are here. I want this object secured son, at all costs. And I want you to make sure of it.<end>
+
+=>q36
+I also believe, and with full support from my advisors, that this little thing of power is precisely the reason why these Faceless are here. I want this object secured son, at all costs. And I want you to make sure of it.<end>
+
+=>a37_original
+It will be done sir.<end>
+
+=>a37
+It will be done sir.<end>
+
+=>q38_original
+Beautiful! This is where you need to go: On the lower level of Core City, near one of the under-passage exits in Drop Zone you will find a locked door. Behind it lies the passageway leading to a facility of ours. Use this keycard to unlock the door; this pass must be worn at all times so that the security bots don't rip you to shreds. ::He gives you the keycard.::<end>
+
+=>q38
+Beautiful! This is where you need to go: On the lower level of Core City, near one of the under-passage exits in Drop Zone you will find a locked door. Behind it lies the passageway leading to a facility of ours. Use this keycard to unlock the door; this pass must be worn at all times so that the security bots don't rip you to shreds. ::He gives you the keycard.::<end>
+
+=>q39_original
+That would be bad, son. ::He laughs.:: There will be a few scientists there, but other than them *no one* else is allowed. I'm counting on you. Keep that artifact safe and sound. For Coretech, for our future.<end>
+
+=>q39
+That would be bad, son. ::He laughs.:: There will be a few scientists there, but other than them *no one* else is allowed. I'm counting on you. Keep that artifact safe and sound. For Coretech, for our future.<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+I've already been to this facility. It's not as secure as you think it is.<end>
+
+=>a41
+I've already been to this facility. It's not as secure as you think it is.<end>
+
+=>q42_original
+What? You... you cannot be serious, son!?<end>
+
+=>q42
+What? You... you cannot be serious, son!?<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+The Tchortists stormed in, killed the scientists and fled with the artifact. There was nothing I could have done.<end>
+
+=>a44
+The Tchortists stormed in, killed the scientists and fled with the artifact. There was nothing I could have done.<end>
+
+=>q45_original
+Tchortists! TCHORTISTS! ::His clenched fist strikes the table, making you flinch from the sheer volume of the sound produced.:: Curse them, curse them all! Those lying bastards, they... We should never have let the bastards into the city!<end>
+
+=>q45
+Tchortists! TCHORTISTS! ::His clenched fist strikes the table, making you flinch from the sheer volume of the sound produced.:: Curse them, curse them all! Those lying bastards, they... We should never have let the bastards into the city!<end>
+
+=>q46_original
+::He bows his head, letting it hang above his desk while his fist remains in contact with the table.:: 
+
+All went down the pipes... Sons of rats.<end>
+
+=>q46
+::He bows his head, letting it hang above his desk while his fist remains in contact with the table.:: 
+
+All went down the pipes... Sons of rats.<end>
+
+=>q47_original
+::He lifts his head and adjusts his suit. A steady motion of his hand as it slides across his receding hair seems to have a calming effect on him.::
+ 
+I need to be alone now.<end>
+
+=>q47
+::He lifts his head and adjusts his suit. A steady motion of his hand as it slides across his receding hair seems to have a calming effect on him.::
+ 
+I need to be alone now.<end>
+
+=>a48_original
+Goodby--<end>
+
+=>a48
+Goodby--<end>
+
+=>q49_original
+Wait, wait... 
+
+Talk to Harlan. Now leave me.<end>
+
+=>q49
+Wait, wait... 
+
+Talk to Harlan. Now leave me.<end>
+
+=>a50_original
+I will. Goodbye, Mr. Simmons.<end>
+
+=>a50
+I will. Goodbye, Mr. Simmons.<end>
+
+=>a51_original
+As you wi--<end>
+
+=>a51
+As you wi--<end>
+
+=>a52_original
+::Nod.::<end>
+
+=>a52
+::Nod.::<end>
+
+=>a53_original
+I understand.<end>
+
+=>a53
+I understand.<end>
+
+=>q54_original
+Beautiful! That's it, son. Get going.<end>
+
+=>q54
+Beautiful! That's it, son. Get going.<end>
+
+=>q55_original
+<end>
+
+=>q55
+<end>
+
+=>a56_original
+How do I find the Acid Hunters again?<end>
+
+=>a56
+How do I find the Acid Hunters again?<end>
+
+=>q57_original
+Don't disappoint me like this, son! Pay attention! 
+
+Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.<end>
+
+=>q57
+Don't disappoint me like this, son! Pay attention! 
+
+Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.<end>
+
+=>q58_original
+You catch all that - good.<end>
+
+=>q58
+You catch all that - good.<end>
+
+=>a59_original
+About the Acid Hunters...<end>
+
+=>a59
+About the Acid Hunters...<end>
+
+=>q60_original
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+Did you get them, son?<end>
+
+=>q60
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+Did you get them, son?<end>
+
+=>a61_original
+How do I get to that research facility again?<end>
+
+=>a61
+How do I get to that research facility again?<end>
+
+=>q62_original
+I'll explain again. On the lower level of Core City, near one of the under-passages exits in the Drop Zone you will find a locked door. Behind it lies the passageway leading to the facility. Use the keycard I gave you to unlock the door; the pass must be worn at all times so that the security bots don't rip you to shreds.<end>
+
+=>q62
+I'll explain again. On the lower level of Core City, near one of the under-passages exits in the Drop Zone you will find a locked door. Behind it lies the passageway leading to the facility. Use the keycard I gave you to unlock the door; the pass must be worn at all times so that the security bots don't rip you to shreds.<end>
+
+=>q63_original
+That's it! Easy to remember.<end>
+
+=>q63
+That's it! Easy to remember.<end>
+
+=>a64_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a64
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q65_original
+Acorn? What's that?<end>
+
+=>q65
+Acorn? What's that?<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>a67_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could prove to be a great asset to our company.<end>
+
+=>a67
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could prove to be a great asset to our company.<end>
+
+=>q68_original
+Hm. ::He bites into his cigar.:: Look, son, in <end>
+
+=>q68
+Hm. ::He bites into his cigar.:: Look, son, in <end>
+
+=>q69_original
+all my years of doing this business I've never heard of anything like this thing you mentioned. What is it? Biocorp technology?<end>
+
+=>q69
+all my years of doing this business I've never heard of anything like this thing you mentioned. What is it? Biocorp technology?<end>
+
+=>q70_original
+But... ::He shakes his head.:: Forget it. I can't deal with that right now. <end>
+
+=>q70
+But... ::He shakes his head.:: Forget it. I can't deal with that right now. <end>
+
+=>q71_original
+We've got the Faceless all around us<end>
+
+=>q71
+We've got the Faceless all around us<end>
+
+=>q72_original
+, we have to secure our research facility, and we've got a bevy of other issues to deal with. <end>
+
+=>q72
+, we have to secure our research facility, and we've got a bevy of other issues to deal with. <end>
+
+=>q73_original
+As soon as we're done with all of that we'll return to this Acorn thing of yours, eh, son. ::He puffs some smoke.:: 
+
+There. Now...<end>
+
+=>q73
+As soon as we're done with all of that we'll return to this Acorn thing of yours, eh, son. ::He puffs some smoke.:: 
+
+There. Now...<end>
+
+=>q74_original
+, these Acid Hunters<end>
+
+=>q74
+, these Acid Hunters<end>
+
+=>q75_original
+ and a bevy of other problems plaguing this city.<end>
+
+=>q75
+ and a bevy of other problems plaguing this city.<end>
+
+=>q76_original
+::But he then shakes his head.:: Look, son, forget it. I can't deal with that now. <end>
+
+=>q76
+::But he then shakes his head.:: Look, son, forget it. I can't deal with that now. <end>
+
+=>a77_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could prove to be a great asset to our company.<end>
+
+=>a77
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could prove to be a great asset to our company.<end>
+
+=>a78_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a78
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>q79_original
+What the...? ::He takes the cigar out of his mouth.:: In <end>
+
+=>q79
+What the...? ::He takes the cigar out of his mouth.:: In <end>
+
+=>a80_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a80
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a81_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a81
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a82_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a82
+Never mind. There was something else I wanted to ask you.<end>
+
+=>q83_original
+::He puffs some smoke.:: Well?<end>
+
+=>q83
+::He puffs some smoke.:: Well?<end>
+
+=>a84_original
+About the Acorn again...<end>
+
+=>a84
+About the Acorn again...<end>
+
+=>q85_original
+That again?<end>
+
+=>q85
+That again?<end>
+
+=>a86_original
+I've been to the facility.<end>
+
+=>a86
+I've been to the facility.<end>
+
+=>q87_original
+Returned? Did... did something happen to the artifact? Did the Faceless get to it? Tell me what happened, son, damn it!<end>
+
+=>q87
+Returned? Did... did something happen to the artifact? Did the Faceless get to it? Tell me what happened, son, damn it!<end>
+
+=>a88_original
+Can you tell me how the Oligarchy came to be?<end>
+
+=>a88
+Can you tell me how the Oligarchy came to be?<end>
+
+=>q89_original
+A long time ago, Archie and I were employed at Biocorp. If you're unfamiliar with its history, it used to be a supercorporation which owned everything in Underrail. Understand, son? *Everything*. They had full control over military, economy, scientific research, politics... *Everything*. But unfortunately, once you grow to that size, you need to make sure you can support all that weight. And Biocorp had a rotten core.<end>
+
+=>q89
+A long time ago, Archie and I were employed at Biocorp. If you're unfamiliar with its history, it used to be a supercorporation which owned everything in Underrail. Understand, son? *Everything*. They had full control over military, economy, scientific research, politics... *Everything*. But unfortunately, once you grow to that size, you need to make sure you can support all that weight. And Biocorp had a rotten core.<end>
+
+=>q90_original
+Due to internal conflicts and other external problems, Biocorp fell apart. Then it reformed. Then the cracks appeared again. When the Protectorate came fifteen years ago, Biocorp was no match. No, no. They took out their headquarters in North Underrail, and that was the final blow. Damn it all, we used to be beautiful! Core City belonged to Biocorp. Top scientists lived and worked here. All began to fall apart after that, and Archie and I tried to keep this place together. 
+
+He was the chief of security while I was the head of research department here in Core City - a technocrat, as we used to call ourselves. He formed Praetorian Security; I formed Coretech with the help of my colleagues, in an attempt to continue what Biocorp began.<end>
+
+=>q90
+Due to internal conflicts and other external problems, Biocorp fell apart. Then it reformed. Then the cracks appeared again. When the Protectorate came fifteen years ago, Biocorp was no match. No, no. They took out their headquarters in North Underrail, and that was the final blow. Damn it all, we used to be beautiful! Core City belonged to Biocorp. Top scientists lived and worked here. All began to fall apart after that, and Archie and I tried to keep this place together. 
+
+He was the chief of security while I was the head of research department here in Core City - a technocrat, as we used to call ourselves. He formed Praetorian Security; I formed Coretech with the help of my colleagues, in an attempt to continue what Biocorp began.<end>
+
+=>q91_original
+Son, it was difficult, but the Arena saved us all. It brought in so much money to Core City. Truthfully, Edstrom should be partially thanked for that, as he was the one who raised its popularity to a whole new level. He was an outsider, so he had the connections, and he had the brains to make everything go his way! ::He laughs.::
+
+That pretty much sums it up, son.<end>
+
+=>q91
+Son, it was difficult, but the Arena saved us all. It brought in so much money to Core City. Truthfully, Edstrom should be partially thanked for that, as he was the one who raised its popularity to a whole new level. He was an outsider, so he had the connections, and he had the brains to make everything go his way! ::He laughs.::
+
+That pretty much sums it up, son.<end>
+
+=>a92_original
+Goodbye, Mr. Simmons.<end>
+
+=>a92
+Goodbye, Mr. Simmons.<end>
+
+=>q93_original
+::He removes the cigar from his mouth, extinguishing it with one angry motion.:: Son, I'll pretend you never said that. I don't care what evidence you found nor what that savage told you. Cornell killed Edmund! That's the truth! Take this and shut the hell up! ::He gives you 600 charons.::
+
+::He calms down.:: Damn it, son. You've done so well so far, why tarnish it, why bite the hand that feeds you. 
+
+<end>
+
+=>q93
+::He removes the cigar from his mouth, extinguishing it with one angry motion.:: Son, I'll pretend you never said that. I don't care what evidence you found nor what that savage told you. Cornell killed Edmund! That's the truth! Take this and shut the hell up! ::He gives you 600 charons.::
+
+::He calms down.:: Damn it, son. You've done so well so far, why tarnish it, why bite the hand that feeds you. 
+
+<end>
+
+=>a94_original
+It all seemed *very* suspicious.<end>
+
+=>a94
+It all seemed *very* suspicious.<end>
+
+=>q95_original
+::He laughs.:: Son, you were loyal to Coretech from your first day. Don't tarnish it now. But, I understand, I understand. We all have moments like this. Here's something to help you... calm down. ::He gives you 600 charons.:: 
+
+<end>
+
+=>q95
+::He laughs.:: Son, you were loyal to Coretech from your first day. Don't tarnish it now. But, I understand, I understand. We all have moments like this. Here's something to help you... calm down. ::He gives you 600 charons.:: 
+
+<end>
+
+=>a96_original
+Thank you, sir. I was just doing my job.<end>
+
+=>a96
+Thank you, sir. I was just doing my job.<end>
+
+=>q97_original
+You most definitely were. ::He laughs.::<end>
+
+=>q97
+You most definitely were. ::He laughs.::<end>
+
+=>q98_original
+::He gives you 600 charons.:: Take this. <end>
+
+=>q98
+::He gives you 600 charons.:: Take this. <end>
+
+=>a99_original
+::Show him Cornell's head.:: He was guilty of some other crimes as well.<end>
+
+=>a99
+::Show him Cornell's head.:: He was guilty of some other crimes as well.<end>
+
+=>a100_original
+They weren't there. I searched everything, but no trace of Acid Hunters.<end>
+
+=>a100
+They weren't there. I searched everything, but no trace of Acid Hunters.<end>
+
+=>q101_original
+So, they escaped... ::He removes the cigar from his mouth, extinguishing it with one swift motion.:: That is disappointing... Not your fault, of course. Your results have been outstanding so far, so I'm assured you did everything within your powers. I'll inform all our forces of this situation; maybe those rats still haven't managed to leave Core City.<end>
+
+=>q101
+So, they escaped... ::He removes the cigar from his mouth, extinguishing it with one swift motion.:: That is disappointing... Not your fault, of course. Your results have been outstanding so far, so I'm assured you did everything within your powers. I'll inform all our forces of this situation; maybe those rats still haven't managed to leave Core City.<end>
+
+=>a102_original
+No, but I will.<end>
+
+=>a102
+No, but I will.<end>
+
+=>q103_original
+Don't be a zoner, son! Stop fooling around and get to work. We have to get to those animals *before* they escape.<end>
+
+=>q103
+Don't be a zoner, son! Stop fooling around and get to work. We have to get to those animals *before* they escape.<end>
+
+=>a104_original
+What about capturing them? Can't you put them on a trial or something?<end>
+
+=>a104
+What about capturing them? Can't you put them on a trial or something?<end>
+
+=>q105_original
+Listen, son, let's not lie to each other. I'm not an evil man. Angry, definitely, but evil? No. There is a reason why they must die; we've all already discussed this - I mean, the Oligarchs - and we came to a conclusion that for a crime this severe - death is the only punishment. All evidence points to them, son, all of it.<end>
+
+=>q105
+Listen, son, let's not lie to each other. I'm not an evil man. Angry, definitely, but evil? No. There is a reason why they must die; we've all already discussed this - I mean, the Oligarchs - and we came to a conclusion that for a crime this severe - death is the only punishment. All evidence points to them, son, all of it.<end>
+
+=>a106_original
+I'll do as you ask. How do I get to them?<end>
+
+=>a106
+I'll do as you ask. How do I get to them?<end>
+
+=>q107_original
+That's what I like to hear, son! This is the info we have... Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed. That's exactly how I've been told.<end>
+
+=>q107
+That's what I like to hear, son! This is the info we have... Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed. That's exactly how I've been told.<end>
+
+=>a108_original
+Are you sure that's true?<end>
+
+=>a108
+Are you sure that's true?<end>
+
+=>q109_original
+Of course, son! Who do you take me for? ::He laughs.:: Now go, bring me Cornell's head.<end>
+
+=>q109
+Of course, son! Who do you take me for? ::He laughs.:: Now go, bring me Cornell's head.<end>
+
+=>a110_original
+I'm on the job.<end>
+
+=>a110
+I'm on the job.<end>
+
+=>q111_original
+One more thing: Put the head in a leak-proof bag or something, son, as I don't want blood all over my office. You got that - good.<end>
+
+=>q111
+One more thing: Put the head in a leak-proof bag or something, son, as I don't want blood all over my office. You got that - good.<end>
+
+=>a112_original
+So, you want them dead?<end>
+
+=>a112
+So, you want them dead?<end>
+
+=>q113_original
+That's it son! I want you to kill Cornell and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>q113
+That's it son! I want you to kill Cornell and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>a114_original
+I'm quite familiar with them.<end>
+
+=>a114
+I'm quite familiar with them.<end>
+
+=>a115_original
+Who are these Acid Hunters?<end>
+
+=>a115
+Who are these Acid Hunters?<end>
+
+=>q116_original
+Lowlife scum, barbarians! This Cornell and his band of rats deserve nothing but the most severe punishment for what they did, so that's where you come in, son!<end>
+
+=>q116
+Lowlife scum, barbarians! This Cornell and his band of rats deserve nothing but the most severe punishment for what they did, so that's where you come in, son!<end>
+
+=>a117_original
+That's horrible, but I'm not sure I know who that is.<end>
+
+=>a117
+That's horrible, but I'm not sure I know who that is.<end>
+
+=>q118_original
+You deserve some rest, and I'll call you when I need the best agent in Coretech. ::Laughs.:: See you again, son.<end>
+
+=>q118
+You deserve some rest, and I'll call you when I need the best agent in Coretech. ::Laughs.:: See you again, son.<end>
+
+=>a119_original
+What do I get with this promotion?<end>
+
+=>a119
+What do I get with this promotion?<end>
+
+=>q120_original
+Straight to the point, I like that, son! I most certainly do. Son, with this promotion, you become my personal agent! You will answer to me, and me only. If someone asks you where you're going and what you're doing, you can just say: "Mr. Simmons says that's none of your damn business." ::He laughs.::<end>
+
+=>q120
+Straight to the point, I like that, son! I most certainly do. Son, with this promotion, you become my personal agent! You will answer to me, and me only. If someone asks you where you're going and what you're doing, you can just say: "Mr. Simmons says that's none of your damn business." ::He laughs.::<end>
+
+=>q121_original
+With the way you've been fighting in there, son, I'm sure you can become invictus one day! If you do, having the invictus working for Coretech would be astonishing! Let me tell you something, son - you really earned this promotion!<end>
+
+=>q121
+With the way you've been fighting in there, son, I'm sure you can become invictus one day! If you do, having the invictus working for Coretech would be astonishing! Let me tell you something, son - you really earned this promotion!<end>
+
+=>a122_original
+Can't wait to hear it, sir.<end>
+
+=>a122
+Can't wait to hear it, sir.<end>
+
+=>q123_original
+Beautiful! I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, and I've seen how you fight in the Arena!<end>
+
+=>q123
+Beautiful! I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, and I've seen how you fight in the Arena!<end>
+
+=>a124_original
+Pretty darn good.<end>
+
+=>a124
+Pretty darn good.<end>
+
+=>a125_original
+I've been having these leg cramps for quite some time now.<end>
+
+=>a125
+I've been having these leg cramps for quite some time now.<end>
+
+=>q126_original
+Oh, I'm sure it'll go away, son. Especially after I tell you why I called you up here.<end>
+
+=>q126
+Oh, I'm sure it'll go away, son. Especially after I tell you why I called you up here.<end>
+
+=>q127_original
+Son. I need to talk to you about something very important. I don't know if you've heard, but Edmund Knight was killed just recently.<end>
+
+=>q127
+Son. I need to talk to you about something very important. I don't know if you've heard, but Edmund Knight was killed just recently.<end>
+
+=>q128_original
+I need to be alone for a while.<end>
+
+=>q128
+I need to be alone for a while.<end>
+
+=>q129_original
+Ah, son, you are here. What've you got for me?<end>
+
+=>q129
+Ah, son, you are here. What've you got for me?<end>
+

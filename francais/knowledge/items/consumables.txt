@@ -1,121 +1,121 @@
-::PsiBooster
-Immediately restores {0} psi.
-
-::PsiBooster2
-Immediately restores {0} psi points from the reserves. If the reserves lack enough points, those missing points are generated at {1}% efficency.
-
-::AdrenalineShot
-Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.
-After the effect expires, the consumer will be worn out.
-
-::AdrenalineShot-Old
-Increases movement speed by {0}%, decreases time between attacks by {1}%, and increases dodge and evasion by {2}% for {3} seconds, temporarily removing any fatigue.
-After the effect expires, the consumer will be worn out.
-
-::MindDart
-Immediately restores {0} psi and additional {1} psi each turn for {2}. Stacks up {3} times. 
-
-Causes psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.
-
-::MindDart-Old
-Increases psi regeneration by {0}% plus {1} for {2} seconds. Stacks up {3} times. 
-
-Causes psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.
-
-::RestoreItemEnergy
-Recharges an item with {0} energy.
-
-::RestoreWeaponEnergy
-Recharges the current energy-based weapon with {0} energy.
-
-::RestoreObjectEnergy
-Recharges a large energy storage object with {0} energy.
-
-::Antidote
-Removes up to {0} stacks of poison.
-
-::Bandage
-Restores {0} health points over {1} seconds. Health must be over {2}% in order for bandages to be effective.
-
-::MorphineHypo
-Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.
-
-::Nervosomnifer
-Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.
-
-::Irongut
-Reduces all biological damage taken by {0}% for {1}.
-
-::Trance
-Increases critical damage bonus of psi abilities by {0}% and psi cost by {1}% for {2}.
-
-::Aegis
-Reduces all damage taken by {0}% for {1}.
-
-::FocusStim
-Increases critical chance with weapons, unarmed combat and psionics by {0}% for {1}.
-
-::JumpingBean
-Increases dodge and evasion by {0}%. Also increases movement points by {1} while not in stealth. Lasts {2}.
-
-::Hercules
-Increases strength, dexterity, agility, and constitution by {0} for {1}... but at what cost?
-
-::Bullhead
-Grants stun, daze, and incapacitation immunity for {0}.
-
-::PsiReinvigorator
-Removes psionic inhibition.
-
-::RegenerativeMixture
-Regenerates {0} health each turn for {1}.
-
-::SupersoldierDrug
-Increases strength, dexterity, agility, constitution, and perception by {0} and all combat skills by {1}% for {2}.
-
-::TheJuice
-Increases perception by {0} and grants the character the gift of second sight.
-
-::PsionicAccelerator
-Increases psi regeneration by {0}% for {1}.
-
-::Hypercerebrix
-Increases intelligence by {0} for {1}.
-
-::CoagulationShot
-Removes up to {0} bleeding wounds.
-
-::Twitch
-Increases initiative by {0} for {1}.
-
-::ThirdEye
-Increases detection by {0}% and perception by {1} for the purpose of detecting hidden passages and other secrets for {2}.
-
-::HealingSalve
-Instantly restores {0} health points and then additional {1} health points each turn for {2}.
-
-Unfortunately, it also slightly blurs the vision and numbs the fingers, reducing perception and dexterity by {3} for {4}.
-
-::SpiritPotion
-Instantly restores {0} psi points and then additional {1} psi points each turn for {2}.
-
-Unfortunately, it also puts an unwholesome burden on the mind, reducing will by {3} and resolve by {4}% for {5}.
-
-::VitalityPowder
-Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.
-After the effect expires, the consumer will be worn out and also lose {4} health each turn for {5}.
-
-::BioluminousSwampHoney
-Increases perception by {0} and regenerates {1} health points each turn for {2}. Also makes the consumer glow.
-
-::Cigar
-Increases psi regeneration by {0}, but reduces constitution by {1} for {2} minutes. Requires a lighter.
-
-::PsionicInhalant
-Restores {0} reserve psi points and {1} psi points over {2} seconds.
-
-::PsiReconstructivePill
-Permanently removes the {0} feat, making you depend on your intelligence base ability for the number of psi slots.
-
-::StatBooster
-Permanently increases {0} by 1.
+::PsiBooster
+Immediately restores {0} psi.
+
+::PsiBooster2
+Immediately restores {0} psi points from the reserves. If the reserves lack enough points, those missing points are generated at {1}% efficency.
+
+::AdrenalineShot
+Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.
+After the effect expires, the consumer will be worn out.
+
+::AdrenalineShot-Old
+Increases movement speed by {0}%, decreases time between attacks by {1}%, and increases dodge and evasion by {2}% for {3} seconds, temporarily removing any fatigue.
+After the effect expires, the consumer will be worn out.
+
+::MindDart
+Immediately restores {0} psi and additional {1} psi each turn for {2}. Stacks up {3} times. 
+
+Causes psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.
+
+::MindDart-Old
+Increases psi regeneration by {0}% plus {1} for {2} seconds. Stacks up {3} times. 
+
+Causes psionic withdrawal effect when it expires. Intensity of this effect depends on the number of stacks as well as if the user was already under its effect before new consumation.
+
+::RestoreItemEnergy
+Recharges an item with {0} energy.
+
+::RestoreWeaponEnergy
+Recharges the current energy-based weapon with {0} energy.
+
+::RestoreObjectEnergy
+Recharges a large energy storage object with {0} energy.
+
+::Antidote
+Removes up to {0} stacks of poison.
+
+::Bandage
+Restores {0} health points over {1} seconds. Health must be over {2}% in order for bandages to be effective.
+
+::MorphineHypo
+Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.
+
+::Nervosomnifer
+Reduces damage taken from all sources by {0}% for {1}. After the effect expires the character takes damage equal to {2}% of their missing health.
+
+::Irongut
+Reduces all biological damage taken by {0}% for {1}.
+
+::Trance
+Increases critical damage bonus of psi abilities by {0}% and psi cost by {1}% for {2}.
+
+::Aegis
+Reduces all damage taken by {0}% for {1}.
+
+::FocusStim
+Increases critical chance with weapons, unarmed combat and psionics by {0}% for {1}.
+
+::JumpingBean
+Increases dodge and evasion by {0}%. Also increases movement points by {1} while not in stealth. Lasts {2}.
+
+::Hercules
+Increases strength, dexterity, agility, and constitution by {0} for {1}... but at what cost?
+
+::Bullhead
+Grants stun, daze, and incapacitation immunity for {0}.
+
+::PsiReinvigorator
+Removes psionic inhibition.
+
+::RegenerativeMixture
+Regenerates {0} health each turn for {1}.
+
+::SupersoldierDrug
+Increases strength, dexterity, agility, constitution, and perception by {0} and all combat skills by {1}% for {2}.
+
+::TheJuice
+Increases perception by {0} and grants the character the gift of second sight.
+
+::PsionicAccelerator
+Increases psi regeneration by {0}% for {1}.
+
+::Hypercerebrix
+Increases intelligence by {0} for {1}.
+
+::CoagulationShot
+Removes up to {0} bleeding wounds.
+
+::Twitch
+Increases initiative by {0} for {1}.
+
+::ThirdEye
+Increases detection by {0}% and perception by {1} for the purpose of detecting hidden passages and other secrets for {2}.
+
+::HealingSalve
+Instantly restores {0} health points and then additional {1} health points each turn for {2}.
+
+Unfortunately, it also slightly blurs the vision and numbs the fingers, reducing perception and dexterity by {3} for {4}.
+
+::SpiritPotion
+Instantly restores {0} psi points and then additional {1} psi points each turn for {2}.
+
+Unfortunately, it also puts an unwholesome burden on the mind, reducing will by {3} and resolve by {4}% for {5}.
+
+::VitalityPowder
+Increases action points by {0}, dodge and evasion by {1}% and strength by {2} for {3}, temporarily removing any fatigue.
+After the effect expires, the consumer will be worn out and also lose {4} health each turn for {5}.
+
+::BioluminousSwampHoney
+Increases perception by {0} and regenerates {1} health points each turn for {2}. Also makes the consumer glow.
+
+::Cigar
+Increases psi regeneration by {0}, but reduces constitution by {1} for {2} minutes. Requires a lighter.
+
+::PsionicInhalant
+Restores {0} reserve psi points and {1} psi points over {2} seconds.
+
+::PsiReconstructivePill
+Permanently removes the {0} feat, making you depend on your intelligence base ability for the number of psi slots.
+
+::StatBooster
+Permanently increases {0} by 1.

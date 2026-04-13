@@ -1,490 +1,490 @@
-=>q1_original
-::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.
-
-I must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.<end>
-
-=>q1
-::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.
-
-I must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.<end>
-
-=>a2_original
-How do you know my name?<end>
-
-=>a2
-How do you know my name?<end>
-
-=>q3_original
-Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
-
-=>q3
-Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
-
-=>q4_original
-Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
-
-=>q4
-Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
-
-=>a5_original
-Oh, well, nice to meet you. I suppose.<end>
-
-=>a5
-Oh, well, nice to meet you. I suppose.<end>
-
-=>q6_original
-To tell you the truth, I'm just glad you didn't say something akin to: "Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!" It just gets... tiresome after a while.<end>
-
-=>q6
-To tell you the truth, I'm just glad you didn't say something akin to: "Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!" It just gets... tiresome after a while.<end>
-
-=>q7_original
-Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::<end>
-
-=>q7
-Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-How did you know my name?<end>
-
-=>a9
-How did you know my name?<end>
-
-=>q10_original
-Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
-
-=>q10
-Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
-
-=>q11_original
-Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
-
-=>q11
-Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
-
-=>a12_original
-I'd like to know your opinion on city-related matters.<end>
-
-=>a12
-I'd like to know your opinion on city-related matters.<end>
-
-=>q13_original
-Ah, why not!<end>
-
-=>q13
-Ah, why not!<end>
-
-=>q14_original
-<end>
-
-=>q14
-<end>
-
-=>a15_original
-What can you tell me about Drop Zone?<end>
-
-=>a15
-What can you tell me about Drop Zone?<end>
-
-=>q16_original
-The Drop Zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.<end>
-
-=>q16
-The Drop Zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.<end>
-
-=>q17_original
-Where the name for it comes from is apparent to you, I hope. You've probably heard terms like "dropping off" or "zoning out." That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.
-
-Oh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::<end>
-
-=>q17
-Where the name for it comes from is apparent to you, I hope. You've probably heard terms like "dropping off" or "zoning out." That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.
-
-Oh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::<end>
-
-=>a18_original
-What can you tell me about the Arena?<end>
-
-=>a18
-What can you tell me about the Arena?<end>
-
-=>q19_original
-The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!<end>
-
-=>q19
-The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!<end>
-
-=>q20_original
-Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.<end>
-
-=>q20
-Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.<end>
-
-=>q21_original
-Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::<end>
-
-=>q21
-Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::<end>
-
-=>a22_original
-What can you tell me about the Gauntlet?<end>
-
-=>a22
-What can you tell me about the Gauntlet?<end>
-
-=>q23_original
-Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::<end>
-
-=>q23
-Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::<end>
-
-=>q24_original
-Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, "beautiful" carnage is just too strong.<end>
-
-=>q24
-Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, "beautiful" carnage is just too strong.<end>
-
-=>a25_original
-What can you tell me about the Oligarchy?<end>
-
-=>a25
-What can you tell me about the Oligarchy?<end>
-
-=>q26_original
-The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.<end>
-
-=>q26
-The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.<end>
-
-=>q27_original
-Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::<end>
-
-=>q27
-Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::<end>
-
-=>a28_original
-What can you tell me about Coretech?<end>
-
-=>a28
-What can you tell me about Coretech?<end>
-
-=>q29_original
-::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...<end>
-
-=>q29
-::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...<end>
-
-=>q30_original
-Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::<end>
-
-=>q30
-Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::<end>
-
-=>a31_original
-What can you tell me about JKK?<end>
-
-=>a31
-What can you tell me about JKK?<end>
-
-=>q32_original
-Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!<end>
-
-=>q32
-Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!<end>
-
-=>q33_original
-Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::<end>
-
-=>q33
-Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::<end>
-
-=>a34_original
-What can you tell me about Praetorian Security?<end>
-
-=>a34
-What can you tell me about Praetorian Security?<end>
-
-=>q35_original
-::Snorts.:: "Security." ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.<end>
-
-=>q35
-::Snorts.:: "Security." ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.<end>
-
-=>q36_original
-::Snorts.:: It's very sad, is it not?<end>
-
-=>q36
-::Snorts.:: It's very sad, is it not?<end>
-
-=>a37_original
-What can you tell me about Hardcore City Bar?<end>
-
-=>a37
-What can you tell me about Hardcore City Bar?<end>
-
-=>q38_original
-I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...<end>
-
-=>q38
-I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...<end>
-
-=>q39_original
-That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::<end>
-
-=>q39
-That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::<end>
-
-=>a40_original
-What can you tell me about Tchortists?<end>
-
-=>a40
-What can you tell me about Tchortists?<end>
-
-=>q41_original
-What? I'm sorry, I don't know anything about "Tchortists."<end>
-
-=>q41
-What? I'm sorry, I don't know anything about "Tchortists."<end>
-
-=>q42_original
-Is it edible? ::Snorts.::<end>
-
-=>q42
-Is it edible? ::Snorts.::<end>
-
-=>a43_original
-Maybe we should discuss something else.<end>
-
-=>a43
-Maybe we should discuss something else.<end>
-
-=>q44_original
-I accept your proposal. ::Snorts.::<end>
-
-=>q44
-I accept your proposal. ::Snorts.::<end>
-
-=>a45_original
-What can you tell me about Ditch?<end>
-
-=>a45
-What can you tell me about Ditch?<end>
-
-=>q46_original
-Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::
-
-These tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to "get" what he's all about.<end>
-
-=>q46
-Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::
-
-These tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to "get" what he's all about.<end>
-
-=>a47_original
-How did you end up with him?<end>
-
-=>a47
-How did you end up with him?<end>
-
-=>q48_original
-Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!<end>
-
-=>q48
-Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!<end>
-
-=>q49_original
-What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.<end>
-
-=>q49
-What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.<end>
-
-=>q50_original
-And because he protects me from hungry humans. Indeed.<end>
-
-=>q50
-And because he protects me from hungry humans. Indeed.<end>
-
-=>a51_original
-Let's discuss something else.<end>
-
-=>a51
-Let's discuss something else.<end>
-
-=>q52_original
-Sure. ::Snorts.::<end>
-
-=>q52
-Sure. ::Snorts.::<end>
-
-=>a53_original
-Aren't you supposed to be dead?<end>
-
-=>a53
-Aren't you supposed to be dead?<end>
-
-=>q54_original
-Yes, your point is?<end>
-
-=>q54
-Yes, your point is?<end>
-
-=>a55_original
-Dead creatures don't talk.<end>
-
-=>a55
-Dead creatures don't talk.<end>
-
-=>q56_original
-Well now, apparently they do, human. What is wrong with you, have you been taking something funny?<end>
-
-=>q56
-Well now, apparently they do, human. What is wrong with you, have you been taking something funny?<end>
-
-=>q57_original
-Get a hold of yourself, $(#man/woman)!<end>
-
-=>q57
-Get a hold of yourself, $(#man/woman)!<end>
-
-=>a58_original
-Never mind.<end>
-
-=>a58
-Never mind.<end>
-
-=>q59_original
-That was a strange question...<end>
-
-=>q59
-That was a strange question...<end>
-
-=>a60_original
-How do you feel about the Faceless invasion?<end>
-
-=>a60
-How do you feel about the Faceless invasion?<end>
-
-=>q61_original
-Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: "Faceless! Faceless!" but I thought they were just killing some other zoner human and ripping his face off. It happens.<end>
-
-=>q61
-Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: "Faceless! Faceless!" but I thought they were just killing some other zoner human and ripping his face off. It happens.<end>
-
-=>q62_original
-::Snorts.:: Silly zoner humans...<end>
-
-=>q62
-::Snorts.:: Silly zoner humans...<end>
-
-=>a63_original
-See you later, Oinko.<end>
-
-=>a63
-See you later, Oinko.<end>
-
-=>q64_original
-See you later, human.<end>
-
-=>q64
-See you later, human.<end>
-
-=>a65_original
-You can talk!?<end>
-
-=>a65
-You can talk!?<end>
-
-=>q66_original
-Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.<end>
-
-=>q66
-Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.<end>
-
-=>a67_original
-No need to be a jerk about it. I never had the chance to talk to a pig before.<end>
-
-=>a67
-No need to be a jerk about it. I never had the chance to talk to a pig before.<end>
-
-=>q68_original
-Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?<end>
-
-=>q68
-Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?<end>
-
-=>q69_original
-I'm sure we can find better topics to discuss.<end>
-
-=>q69
-I'm sure we can find better topics to discuss.<end>
-
-=>a70_original
-I apologize, it's just that I've never talked to a pig.<end>
-
-=>a70
-I apologize, it's just that I've never talked to a pig.<end>
-
-=>q71_original
-Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?<end>
-
-=>q71
-Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?<end>
-
-=>a72_original
-A talking pig? Is this some kind of trick!?<end>
-
-=>a72
-A talking pig? Is this some kind of trick!?<end>
-
-=>q73_original
-"A talking human? Is this some trick?" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...<end>
-
-=>q73
-"A talking human? Is this some trick?" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...<end>
-
-=>a74_original
-I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::<end>
-
-=>a74
-I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::<end>
-
-=>q75_original
-::Horrified eyes begin a nervous dance.::
-
-Oink!<end>
-
-=>q75
-::Horrified eyes begin a nervous dance.::
-
-Oink!<end>
-
-=>a76_original
-::Attack!::<end>
-
-=>a76
-::Attack!::<end>
-
-=>a77_original
-Nice to meet you. I suppose...<end>
-
-=>a77
-Nice to meet you. I suppose...<end>
-
-=>q78_original
-Ah, back for more chatting, human?<end>
-
-=>q78
-Ah, back for more chatting, human?<end>
-
-=>q79_original
-Snort!<end>
-
-=>q79
-Snort!<end>
-
+=>q1_original
+::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.
+
+I must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.<end>
+
+=>q1
+::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.
+
+I must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.<end>
+
+=>a2_original
+How do you know my name?<end>
+
+=>a2
+How do you know my name?<end>
+
+=>q3_original
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q3
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q4_original
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>q4
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>a5_original
+Oh, well, nice to meet you. I suppose.<end>
+
+=>a5
+Oh, well, nice to meet you. I suppose.<end>
+
+=>q6_original
+To tell you the truth, I'm just glad you didn't say something akin to: "Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!" It just gets... tiresome after a while.<end>
+
+=>q6
+To tell you the truth, I'm just glad you didn't say something akin to: "Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!" It just gets... tiresome after a while.<end>
+
+=>q7_original
+Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::<end>
+
+=>q7
+Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+How did you know my name?<end>
+
+=>a9
+How did you know my name?<end>
+
+=>q10_original
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q10
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q11_original
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>q11
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>a12_original
+I'd like to know your opinion on city-related matters.<end>
+
+=>a12
+I'd like to know your opinion on city-related matters.<end>
+
+=>q13_original
+Ah, why not!<end>
+
+=>q13
+Ah, why not!<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+What can you tell me about Drop Zone?<end>
+
+=>a15
+What can you tell me about Drop Zone?<end>
+
+=>q16_original
+The Drop Zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.<end>
+
+=>q16
+The Drop Zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.<end>
+
+=>q17_original
+Where the name for it comes from is apparent to you, I hope. You've probably heard terms like "dropping off" or "zoning out." That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.
+
+Oh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::<end>
+
+=>q17
+Where the name for it comes from is apparent to you, I hope. You've probably heard terms like "dropping off" or "zoning out." That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.
+
+Oh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::<end>
+
+=>a18_original
+What can you tell me about the Arena?<end>
+
+=>a18
+What can you tell me about the Arena?<end>
+
+=>q19_original
+The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!<end>
+
+=>q19
+The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!<end>
+
+=>q20_original
+Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.<end>
+
+=>q20
+Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.<end>
+
+=>q21_original
+Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::<end>
+
+=>q21
+Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::<end>
+
+=>a22_original
+What can you tell me about the Gauntlet?<end>
+
+=>a22
+What can you tell me about the Gauntlet?<end>
+
+=>q23_original
+Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::<end>
+
+=>q23
+Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::<end>
+
+=>q24_original
+Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, "beautiful" carnage is just too strong.<end>
+
+=>q24
+Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, "beautiful" carnage is just too strong.<end>
+
+=>a25_original
+What can you tell me about the Oligarchy?<end>
+
+=>a25
+What can you tell me about the Oligarchy?<end>
+
+=>q26_original
+The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.<end>
+
+=>q26
+The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.<end>
+
+=>q27_original
+Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::<end>
+
+=>q27
+Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::<end>
+
+=>a28_original
+What can you tell me about Coretech?<end>
+
+=>a28
+What can you tell me about Coretech?<end>
+
+=>q29_original
+::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...<end>
+
+=>q29
+::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...<end>
+
+=>q30_original
+Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::<end>
+
+=>q30
+Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::<end>
+
+=>a31_original
+What can you tell me about JKK?<end>
+
+=>a31
+What can you tell me about JKK?<end>
+
+=>q32_original
+Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!<end>
+
+=>q32
+Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!<end>
+
+=>q33_original
+Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::<end>
+
+=>q33
+Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::<end>
+
+=>a34_original
+What can you tell me about Praetorian Security?<end>
+
+=>a34
+What can you tell me about Praetorian Security?<end>
+
+=>q35_original
+::Snorts.:: "Security." ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.<end>
+
+=>q35
+::Snorts.:: "Security." ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.<end>
+
+=>q36_original
+::Snorts.:: It's very sad, is it not?<end>
+
+=>q36
+::Snorts.:: It's very sad, is it not?<end>
+
+=>a37_original
+What can you tell me about Hardcore City Bar?<end>
+
+=>a37
+What can you tell me about Hardcore City Bar?<end>
+
+=>q38_original
+I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...<end>
+
+=>q38
+I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...<end>
+
+=>q39_original
+That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::<end>
+
+=>q39
+That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::<end>
+
+=>a40_original
+What can you tell me about Tchortists?<end>
+
+=>a40
+What can you tell me about Tchortists?<end>
+
+=>q41_original
+What? I'm sorry, I don't know anything about "Tchortists."<end>
+
+=>q41
+What? I'm sorry, I don't know anything about "Tchortists."<end>
+
+=>q42_original
+Is it edible? ::Snorts.::<end>
+
+=>q42
+Is it edible? ::Snorts.::<end>
+
+=>a43_original
+Maybe we should discuss something else.<end>
+
+=>a43
+Maybe we should discuss something else.<end>
+
+=>q44_original
+I accept your proposal. ::Snorts.::<end>
+
+=>q44
+I accept your proposal. ::Snorts.::<end>
+
+=>a45_original
+What can you tell me about Ditch?<end>
+
+=>a45
+What can you tell me about Ditch?<end>
+
+=>q46_original
+Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::
+
+These tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to "get" what he's all about.<end>
+
+=>q46
+Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::
+
+These tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to "get" what he's all about.<end>
+
+=>a47_original
+How did you end up with him?<end>
+
+=>a47
+How did you end up with him?<end>
+
+=>q48_original
+Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!<end>
+
+=>q48
+Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!<end>
+
+=>q49_original
+What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.<end>
+
+=>q49
+What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.<end>
+
+=>q50_original
+And because he protects me from hungry humans. Indeed.<end>
+
+=>q50
+And because he protects me from hungry humans. Indeed.<end>
+
+=>a51_original
+Let's discuss something else.<end>
+
+=>a51
+Let's discuss something else.<end>
+
+=>q52_original
+Sure. ::Snorts.::<end>
+
+=>q52
+Sure. ::Snorts.::<end>
+
+=>a53_original
+Aren't you supposed to be dead?<end>
+
+=>a53
+Aren't you supposed to be dead?<end>
+
+=>q54_original
+Yes, your point is?<end>
+
+=>q54
+Yes, your point is?<end>
+
+=>a55_original
+Dead creatures don't talk.<end>
+
+=>a55
+Dead creatures don't talk.<end>
+
+=>q56_original
+Well now, apparently they do, human. What is wrong with you, have you been taking something funny?<end>
+
+=>q56
+Well now, apparently they do, human. What is wrong with you, have you been taking something funny?<end>
+
+=>q57_original
+Get a hold of yourself, $(#man/woman)!<end>
+
+=>q57
+Get a hold of yourself, $(#man/woman)!<end>
+
+=>a58_original
+Never mind.<end>
+
+=>a58
+Never mind.<end>
+
+=>q59_original
+That was a strange question...<end>
+
+=>q59
+That was a strange question...<end>
+
+=>a60_original
+How do you feel about the Faceless invasion?<end>
+
+=>a60
+How do you feel about the Faceless invasion?<end>
+
+=>q61_original
+Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: "Faceless! Faceless!" but I thought they were just killing some other zoner human and ripping his face off. It happens.<end>
+
+=>q61
+Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: "Faceless! Faceless!" but I thought they were just killing some other zoner human and ripping his face off. It happens.<end>
+
+=>q62_original
+::Snorts.:: Silly zoner humans...<end>
+
+=>q62
+::Snorts.:: Silly zoner humans...<end>
+
+=>a63_original
+See you later, Oinko.<end>
+
+=>a63
+See you later, Oinko.<end>
+
+=>q64_original
+See you later, human.<end>
+
+=>q64
+See you later, human.<end>
+
+=>a65_original
+You can talk!?<end>
+
+=>a65
+You can talk!?<end>
+
+=>q66_original
+Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.<end>
+
+=>q66
+Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.<end>
+
+=>a67_original
+No need to be a jerk about it. I never had the chance to talk to a pig before.<end>
+
+=>a67
+No need to be a jerk about it. I never had the chance to talk to a pig before.<end>
+
+=>q68_original
+Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?<end>
+
+=>q68
+Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?<end>
+
+=>q69_original
+I'm sure we can find better topics to discuss.<end>
+
+=>q69
+I'm sure we can find better topics to discuss.<end>
+
+=>a70_original
+I apologize, it's just that I've never talked to a pig.<end>
+
+=>a70
+I apologize, it's just that I've never talked to a pig.<end>
+
+=>q71_original
+Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?<end>
+
+=>q71
+Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?<end>
+
+=>a72_original
+A talking pig? Is this some kind of trick!?<end>
+
+=>a72
+A talking pig? Is this some kind of trick!?<end>
+
+=>q73_original
+"A talking human? Is this some trick?" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...<end>
+
+=>q73
+"A talking human? Is this some trick?" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...<end>
+
+=>a74_original
+I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::<end>
+
+=>a74
+I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::<end>
+
+=>q75_original
+::Horrified eyes begin a nervous dance.::
+
+Oink!<end>
+
+=>q75
+::Horrified eyes begin a nervous dance.::
+
+Oink!<end>
+
+=>a76_original
+::Attack!::<end>
+
+=>a76
+::Attack!::<end>
+
+=>a77_original
+Nice to meet you. I suppose...<end>
+
+=>a77
+Nice to meet you. I suppose...<end>
+
+=>q78_original
+Ah, back for more chatting, human?<end>
+
+=>q78
+Ah, back for more chatting, human?<end>
+
+=>q79_original
+Snort!<end>
+
+=>q79
+Snort!<end>
+

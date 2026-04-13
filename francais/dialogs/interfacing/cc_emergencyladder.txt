@@ -1,48 +1,48 @@
-=>q1_original
-::Biiig laaaaduuuhhh... hmmm...::<end>
-
-=>q1
-::Biiig laaaaduuuhhh... hmmm...::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-::Ascend to the top.::<end>
-
-=>a4
-::Ascend to the top.::<end>
-
-=>a5_original
-::Go to the sewers.::<end>
-
-=>a5
-::Go to the sewers.::<end>
-
-=>a6_original
-::Descend into the sewer pit.::<end>
-
-=>a6
-::Descend into the sewer pit.::<end>
-
-=>a7_original
-::Leave.::<end>
-
-=>a7
-::Leave.::<end>
-
-=>q8_original
-::Where would you like to go?::<end>
-
-=>q8
-::Where would you like to go?::<end>
-
+=>q1_original
+::Biiig laaaaduuuhhh... hmmm...::<end>
+
+=>q1
+::Biiig laaaaduuuhhh... hmmm...::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Ascend to the top.::<end>
+
+=>a4
+::Ascend to the top.::<end>
+
+=>a5_original
+::Go to the sewers.::<end>
+
+=>a5
+::Go to the sewers.::<end>
+
+=>a6_original
+::Descend into the sewer pit.::<end>
+
+=>a6
+::Descend into the sewer pit.::<end>
+
+=>a7_original
+::Leave.::<end>
+
+=>a7
+::Leave.::<end>
+
+=>q8_original
+::Where would you like to go?::<end>
+
+=>q8
+::Where would you like to go?::<end>
+

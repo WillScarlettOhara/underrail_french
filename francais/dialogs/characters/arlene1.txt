@@ -1,824 +1,824 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-He's... dead?<end>
-
-=>q2
-He's... dead?<end>
-
-=>a3_original
-Pretty much.<end>
-
-=>a3
-Pretty much.<end>
-
-=>q4_original
-::She takes a moment to regain her composure.:: Gorsky's bound to be here any moment now. Knowing Gorsky, I suggest you go clear this up with Tanner first.<end>
-
-=>q4
-::She takes a moment to regain her composure.:: Gorsky's bound to be here any moment now. Knowing Gorsky, I suggest you go clear this up with Tanner first.<end>
-
-=>a5_original
-I need a drink first. ::Barter.::<end>
-
-=>a5
-I need a drink first. ::Barter.::<end>
-
-=>a6_original
-Don't you worry about me. Now, what was that I wanted to ask you...<end>
-
-=>a6
-Don't you worry about me. Now, what was that I wanted to ask you...<end>
-
-=>q7_original
-::She stares at you in silence.::<end>
-
-=>q7
-::She stares at you in silence.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-I'd like to order something... ::Barter.::<end>
-
-=>a9
-I'd like to order something... ::Barter.::<end>
-
-=>a10_original
-Ezra suggested you might know more about this. ::Show her the necklace.::<end>
-
-=>a10
-Ezra suggested you might know more about this. ::Show her the necklace.::<end>
-
-=>q11_original
-Wh--... Where did you get this?<end>
-
-=>q11
-Wh--... Where did you get this?<end>
-
-=>a12_original
-I fished it out near Junkyard.<end>
-
-=>a12
-I fished it out near Junkyard.<end>
-
-=>q13_original
-::Arlene pauses for a moment and sighs deeply.::<end>
-
-=>q13
-::Arlene pauses for a moment and sighs deeply.::<end>
-
-=>q14_original
-This used to belong to my late husband Redd. We each had one of these... ::She pulls out her necklace from beneath her shirt.:: He commissioned them from Ezra... said we'd never lose each other as long as we have them.<end>
-
-=>q14
-This used to belong to my late husband Redd. We each had one of these... ::She pulls out her necklace from beneath her shirt.:: He commissioned them from Ezra... said we'd never lose each other as long as we have them.<end>
-
-=>a15_original
-What happened?<end>
-
-=>a15
-What happened?<end>
-
-=>q16_original
-He was killed in the Mushroom Cove during the war with the Omega Station. Jonas, who witnessed it, said he took a round to the chest and fell into the water.<end>
-
-=>q16
-He was killed in the Mushroom Cove during the war with the Omega Station. Jonas, who witnessed it, said he took a round to the chest and fell into the water.<end>
-
-=>q17_original
-Even though I wasn't there, I instantly knew something was wrong when I could no longer read his signal. We never found his body.<end>
-
-=>q17
-Even though I wasn't there, I instantly knew something was wrong when I could no longer read his signal. We never found his body.<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>q19_original
-Can I have his amulet back?<end>
-
-=>q19
-Can I have his amulet back?<end>
-
-=>q20_original
-<end>
-
-=>q20
-<end>
-
-=>a21_original
-Sure, here you go.<end>
-
-=>a21
-Sure, here you go.<end>
-
-=>q22_original
-Thank you.<end>
-
-=>q22
-Thank you.<end>
-
-=>a23_original
-If you'll pay 100 credits to cover the finder's fee.<end>
-
-=>a23
-If you'll pay 100 credits to cover the finder's fee.<end>
-
-=>q24_original
-::She sighs.:: Nothing is free, right? Very well.<end>
-
-=>q24
-::She sighs.:: Nothing is free, right? Very well.<end>
-
-=>a25_original
-I think I'll hold onto it, it might come in handy if I get lost.<end>
-
-=>a25
-I think I'll hold onto it, it might come in handy if I get lost.<end>
-
-=>q26_original
-Maybe. Or maybe you'll end up like the previous owner.<end>
-
-=>q26
-Maybe. Or maybe you'll end up like the previous owner.<end>
-
-=>a27_original
-I didn't mean to stir up painful memories.<end>
-
-=>a27
-I didn't mean to stir up painful memories.<end>
-
-=>a28_original
-I don't really have time to listen to this. Perhaps some other time.<end>
-
-=>a28
-I don't really have time to listen to this. Perhaps some other time.<end>
-
-=>q29_original
-Can I at least have the amulet back?<end>
-
-=>q29
-Can I at least have the amulet back?<end>
-
-=>a30_original
-Ezra suggested you might know more about this. ::Show her the necklace.::<end>
-
-=>a30
-Ezra suggested you might know more about this. ::Show her the necklace.::<end>
-
-=>a31_original
-Who's that dandy over there?<end>
-
-=>a31
-Who's that dandy over there?<end>
-
-=>q32_original
-Over there? That's Ethan Lanford.<end>
-
-=>q32
-Over there? That's Ethan Lanford.<end>
-
-=>a33_original
-What can you tell me about him?<end>
-
-=>a33
-What can you tell me about him?<end>
-
-=>q34_original
-<end>
-
-=>q34
-<end>
-
-=>q35_original
-It's that man over there. ::She points to the well-dressed young man standing at the bar.:: <end>
-
-=>q35
-It's that man over there. ::She points to the well-dressed young man standing at the bar.:: <end>
-
-=>q36_original
-He's a... handsome man, heh. Comes to SGS from time to time, always dressed as sharp as a razor. He's always flirting with the ladies - no exceptions. I've seen him entertain quite a number of them - well, myself included - with some unusual psionic tricks.<end>
-
-=>q36
-He's a... handsome man, heh. Comes to SGS from time to time, always dressed as sharp as a razor. He's always flirting with the ladies - no exceptions. I've seen him entertain quite a number of them - well, myself included - with some unusual psionic tricks.<end>
-
-=>a37_original
-Tricks?<end>
-
-=>a37
-Tricks?<end>
-
-=>q38_original
-Well, he's a... whatcha call it - a temporal manipulator. It's one of those psi abilities, disciplines, whatcha-call-it, but the thing he does I've never seen anyone else do before. He can manipulate time, but only for specific objects, like slowing down a fly so it moves its wings in slow motion, or making things hover in air, that sort of stuff.<end>
-
-=>q38
-Well, he's a... whatcha call it - a temporal manipulator. It's one of those psi abilities, disciplines, whatcha-call-it, but the thing he does I've never seen anyone else do before. He can manipulate time, but only for specific objects, like slowing down a fly so it moves its wings in slow motion, or making things hover in air, that sort of stuff.<end>
-
-=>q39_original
-It's all parlor tricks - fun and unusual, good to attract the ladies. His good looks and charisma makes them stick around, though. That's his real magic, mmm.<end>
-
-=>q39
-It's all parlor tricks - fun and unusual, good to attract the ladies. His good looks and charisma makes them stick around, though. That's his real magic, mmm.<end>
-
-=>a40_original
-Know anything else about him? Where he's from, what does he do?<end>
-
-=>a40
-Know anything else about him? Where he's from, what does he do?<end>
-
-=>q41_original
-Not much. He's talkative but reveals little about himself, when you think about it. No one knows where he's from or what he does. He usually comes alone, maybe leaves with a girl, maybe not. Depends. Always drinks fizzy water, yes. Has that Temporal Manipulation thing going for him...
-
-And that's all I know, really. Oh yeah, dresses as sharp as-- Oh, wait, I said that already.<end>
-
-=>q41
-Not much. He's talkative but reveals little about himself, when you think about it. No one knows where he's from or what he does. He usually comes alone, maybe leaves with a girl, maybe not. Depends. Always drinks fizzy water, yes. Has that Temporal Manipulation thing going for him...
-
-And that's all I know, really. Oh yeah, dresses as sharp as-- Oh, wait, I said that already.<end>
-
-=>a42_original
-Thank you. There was something else I wanted to ask you.<end>
-
-=>a42
-Thank you. There was something else I wanted to ask you.<end>
-
-=>q43_original
-Yes?<end>
-
-=>q43
-Yes?<end>
-
-=>a44_original
-Hey, do you know where I can find Ethan?<end>
-
-=>a44
-Hey, do you know where I can find Ethan?<end>
-
-=>q45_original
-I'm not sure. He was talking about Core City right before he left, so maybe he went there. Or maybe he was just talking about it.<end>
-
-=>q45
-I'm not sure. He was talking about Core City right before he left, so maybe he went there. Or maybe he was just talking about it.<end>
-
-=>q46_original
-He left a good tip, though.<end>
-
-=>q46
-He left a good tip, though.<end>
-
-=>a47_original
-Thanks. I have to go now.<end>
-
-=>a47
-Thanks. I have to go now.<end>
-
-=>a48_original
-What do you know about Ethan Lanford?<end>
-
-=>a48
-What do you know about Ethan Lanford?<end>
-
-=>a49_original
-Do you know what this is? ::Show her the necklace.::<end>
-
-=>a49
-Do you know what this is? ::Show her the necklace.::<end>
-
-=>a50_original
-So how bad was it - the earthquake?<end>
-
-=>a50
-So how bad was it - the earthquake?<end>
-
-=>q51_original
-For us, not that bad. The South Tunnel collapsed, so the train is out for a while.
-
-The station itself didn't suffer any major damage as far as I know.<end>
-
-=>q51
-For us, not that bad. The South Tunnel collapsed, so the train is out for a while.
-
-The station itself didn't suffer any major damage as far as I know.<end>
-
-=>q52_original
-I heard it's much worse up north. Something about a Union's freighter crashing and getting buried on a side rail near Core City. $(#Man/Girl), I can already imagine all the vermin crawling out of their holes to take a bite of that cake; and I'm not talking about rathounds.<end>
-
-=>q52
-I heard it's much worse up north. Something about a Union's freighter crashing and getting buried on a side rail near Core City. $(#Man/Girl), I can already imagine all the vermin crawling out of their holes to take a bite of that cake; and I'm not talking about rathounds.<end>
-
-=>a53_original
-So what else is new, besides the earthquake?<end>
-
-=>a53
-So what else is new, besides the earthquake?<end>
-
-=>q54_original
-Gorsky's gathering up his squad. Don't know what they're up to, but they're armed.<end>
-
-=>q54
-Gorsky's gathering up his squad. Don't know what they're up to, but they're armed.<end>
-
-=>a55_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a55
-What do you know about Patrick Pierce's death?<end>
-
-=>q56_original
-Looking at his brother over there, I wish I knew more. But I can only tell you what we all know: Pat died in his sleep. Thinking about it, what if Pasquale found out what killed Pat, and it turned out it was agonizingly painful and that he was struggling the whole time?<end>
-
-=>q56
-Looking at his brother over there, I wish I knew more. But I can only tell you what we all know: Pat died in his sleep. Thinking about it, what if Pasquale found out what killed Pat, and it turned out it was agonizingly painful and that he was struggling the whole time?<end>
-
-=>q57_original
-Would you like to learn something like that? I don't know what's better of the two, I really don't.<end>
-
-=>q57
-Would you like to learn something like that? I don't know what's better of the two, I really don't.<end>
-
-=>a58_original
-Can you tell me what he was like as a person?<end>
-
-=>a58
-Can you tell me what he was like as a person?<end>
-
-=>q59_original
-::She smiles.:: Pretty sweet actually, we used to chat a lot whenever he showed up. He talked about his horrible past in Core City, how he survived the riots. He felt he did some bad things back then, how he's finally found a way to atone for what he did by leading a more peaceful life.<end>
-
-=>q59
-::She smiles.:: Pretty sweet actually, we used to chat a lot whenever he showed up. He talked about his horrible past in Core City, how he survived the riots. He felt he did some bad things back then, how he's finally found a way to atone for what he did by leading a more peaceful life.<end>
-
-=>q60_original
-Then Big Bret comes along and starts nagging about those stupid heaters for his hoppers. <end>
-
-=>q60
-Then Big Bret comes along and starts nagging about those stupid heaters for his hoppers. <end>
-
-=>a61_original
-So what happened to your husband Redd?<end>
-
-=>a61
-So what happened to your husband Redd?<end>
-
-=>a62_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a62
-What are your thoughts on the Faceless invasion?<end>
-
-=>q63_original
-I am very worried about the whole situation. It's not that we don't get station wars often, but they never involved the Faceless so far.<end>
-
-=>q63
-I am very worried about the whole situation. It's not that we don't get station wars often, but they never involved the Faceless so far.<end>
-
-=>q64_original
-My late husband was a scavenger and he encountered the Faceless occasionally. They are not like us, you know. You can't negotiate or reason with them like you can with a human enemy. You don't know what motivates them.<end>
-
-=>q64
-My late husband was a scavenger and he encountered the Faceless occasionally. They are not like us, you know. You can't negotiate or reason with them like you can with a human enemy. You don't know what motivates them.<end>
-
-=>a65_original
-What are your thoughts on the Faceless retreat from Core City?<end>
-
-=>a65
-What are your thoughts on the Faceless retreat from Core City?<end>
-
-=>q66_original
-Good riddance.<end>
-
-=>q66
-Good riddance.<end>
-
-=>q67_original
-Want a drink to celebrate?<end>
-
-=>q67
-Want a drink to celebrate?<end>
-
-=>a68_original
-Heard any good rumors?<end>
-
-=>a68
-Heard any good rumors?<end>
-
-=>q69_original
-<end>
-
-=>q69
-<end>
-
-=>q70_original
-No one knows who's the $(context.frag_dun_wasteWater_corpseGender) that's been found in Mushroom Cove. Think Pasquale's still examining the body.<end>
-
-=>q70
-No one knows who's the $(context.frag_dun_wasteWater_corpseGender) that's been found in Mushroom Cove. Think Pasquale's still examining the body.<end>
-
-=>q71_original
-A Junkyarder named Chester Royce came here recently to collect the body of that dead $(context.frag_dun_wasteWater_corpseGender) from Mushroom Cove, claiming to be <end>
-
-=>q71
-A Junkyarder named Chester Royce came here recently to collect the body of that dead $(context.frag_dun_wasteWater_corpseGender) from Mushroom Cove, claiming to be <end>
-
-=>q72_original
-his brother. Apparently his name was *Joshua* Royce.<end>
-
-=>q72
-his brother. Apparently his name was *Joshua* Royce.<end>
-
-=>q73_original
-her brother. Apparently her name was *Jennifer* Royce.<end>
-
-=>q73
-her brother. Apparently her name was *Jennifer* Royce.<end>
-
-=>q74_original
-I guess Junkyard still hasn't gotten rid of Ol' Chopper. One more victim found in pieces.<end>
-
-=>q74
-I guess Junkyard still hasn't gotten rid of Ol' Chopper. One more victim found in pieces.<end>
-
-=>q75_original
-Rumor has it that there are quite a number of people sitting outside United Stations embassy in Junkyard. Guess they've been feeding them good.<end>
-
-=>q75
-Rumor has it that there are quite a number of people sitting outside United Stations embassy in Junkyard. Guess they've been feeding them good.<end>
-
-=>q76_original
-There's been very little pirate activity lately. The Black Eels seem to be doing a damn fine job. <end>
-
-=>q76
-There's been very little pirate activity lately. The Black Eels seem to be doing a damn fine job. <end>
-
-=>q77_original
-The pirates have struck again. Captured a few merchant ferries in Dreadpool.<end>
-
-=>q77
-The pirates have struck again. Captured a few merchant ferries in Dreadpool.<end>
-
-=>q78_original
-The pirates have captured a fully-armed Protectorate ship. No one's safe anymore.<end>
-
-=>q78
-The pirates have captured a fully-armed Protectorate ship. No one's safe anymore.<end>
-
-=>q79_original
-There's been some fighting on the Rig recently. <end>
-
-=>q79
-There's been some fighting on the Rig recently. <end>
-
-=>q80_original
-Lots of people got killed, I hear, and it seemed like a deliberate attack on the Black Eels.<end>
-
-=>q80
-Lots of people got killed, I hear, and it seemed like a deliberate attack on the Black Eels.<end>
-
-=>q81_original
-Not your regular tavern brawls, no. This was something that caused the whole Rig to go on alert.<end>
-
-=>q81
-Not your regular tavern brawls, no. This was something that caused the whole Rig to go on alert.<end>
-
-=>q82_original
-The Rig's been attacked. I've been told no Black Eels were left alive. <end>
-
-=>q82
-The Rig's been attacked. I've been told no Black Eels were left alive. <end>
-
-=>q83_original
-It's gotta be the pirates!<end>
-
-=>q83
-It's gotta be the pirates!<end>
-
-=>q84_original
-Could it be that the pirates have returned?<end>
-
-=>q84
-Could it be that the pirates have returned?<end>
-
-=>q85_original
-Harland told me he's started seeing more and more Lurkers near the under-passages exit.<end>
-
-=>q85
-Harland told me he's started seeing more and more Lurkers near the under-passages exit.<end>
-
-=>q86_original
-Apparently, the Free Drones are becoming more and more active in South Underrail. Some even say they have a hideout in Junkyard.<end>
-
-=>q86
-Apparently, the Free Drones are becoming more and more active in South Underrail. Some even say they have a hideout in Junkyard.<end>
-
-=>q87_original
-Captain Svana recently told me about another poor soul sailing to Silent Isle. Haven't seen him since.<end>
-
-=>q87
-Captain Svana recently told me about another poor soul sailing to Silent Isle. Haven't seen him since.<end>
-
-=>q88_original
-I heard Mordre's been acquiring some quality cigars lately. Wonder who's his supplier.<end>
-
-=>q88
-I heard Mordre's been acquiring some quality cigars lately. Wonder who's his supplier.<end>
-
-=>q89_original
-A Protectorate squad was killed at the Rail Crossing station. Ironheads - or someone else?<end>
-
-=>q89
-A Protectorate squad was killed at the Rail Crossing station. Ironheads - or someone else?<end>
-
-=>q90_original
-No Faceless in sight since the blockade was lifted.<end>
-
-=>q90
-No Faceless in sight since the blockade was lifted.<end>
-
-=>q91_original
-The Faceless have been spotted near Rail Crossing and Foundry.<end>
-
-=>q91
-The Faceless have been spotted near Rail Crossing and Foundry.<end>
-
-=>a92_original
-Gotta run.<end>
-
-=>a92
-Gotta run.<end>
-
-=>a93_original
-I'll do that.<end>
-
-=>a93
-I'll do that.<end>
-
-=>a94_original
-I'm going to be in a lot of trouble, aren't I?<end>
-
-=>a94
-I'm going to be in a lot of trouble, aren't I?<end>
-
-=>a95_original
-Of course. The bastard attacked me.<end>
-
-=>a95
-Of course. The bastard attacked me.<end>
-
-=>a96_original
-::Say nothing.::<end>
-
-=>a96
-::Say nothing.::<end>
-
-=>q97_original
-What... did just happen?<end>
-
-=>q97
-What... did just happen?<end>
-
-=>a98_original
-Not so handsome anymore, is he?<end>
-
-=>a98
-Not so handsome anymore, is he?<end>
-
-=>q99_original
-Khm. The <end>
-
-=>q99
-Khm. The <end>
-
-=>q100_original
-news about this is going to spread across the station in no time. Expect a call from Gorsky or Tanner.<end>
-
-=>q100
-news about this is going to spread across the station in no time. Expect a call from Gorsky or Tanner.<end>
-
-=>a101_original
-I will. But now that I'm here, I'd like to order something... ::Barter.::<end>
-
-=>a101
-I will. But now that I'm here, I'd like to order something... ::Barter.::<end>
-
-=>a102_original
-Hmm, I better go see Tanner and clear this up straight away.<end>
-
-=>a102
-Hmm, I better go see Tanner and clear this up straight away.<end>
-
-=>a103_original
-Ethan turned into an old man.<end>
-
-=>a103
-Ethan turned into an old man.<end>
-
-=>q104_original
-Well, the <end>
-
-=>q104
-Well, the <end>
-
-=>a105_original
-Just exposing a fraud.<end>
-
-=>a105
-Just exposing a fraud.<end>
-
-=>a106_original
-I'm not sure myself.<end>
-
-=>a106
-I'm not sure myself.<end>
-
-=>q107_original
-No news regarding Tanner yet, huh? I think Vera and Ezra are going to dig out a lot of secrets now that the man himself is gone. It's gonna be good gossip, if nothing else.<end>
-
-=>q107
-No news regarding Tanner yet, huh? I think Vera and Ezra are going to dig out a lot of secrets now that the man himself is gone. It's gonna be good gossip, if nothing else.<end>
-
-=>q108_original
-::You see Arlene rubbing her temples.:: Hey. How'd your conversation with Tanner go?<end>
-
-=>q108
-::You see Arlene rubbing her temples.:: Hey. How'd your conversation with Tanner go?<end>
-
-=>a109_original
-Didn't get to speak to him yet.<end>
-
-=>a109
-Didn't get to speak to him yet.<end>
-
-=>q110_original
-<end>
-
-=>q110
-<end>
-
-=>q111_original
-::She nods.:: Good, good. <end>
-
-=>q111
-::She nods.:: Good, good. <end>
-
-=>q112_original
-Wanna drink to calm the nerves?<end>
-
-=>q112
-Wanna drink to calm the nerves?<end>
-
-=>q113_original
-<end>
-
-=>q113
-<end>
-
-=>a114_original
-You betcha. ::Barter.::<end>
-
-=>a114
-You betcha. ::Barter.::<end>
-
-=>a115_original
-Not now. I wanted to talk to you about something.<end>
-
-=>a115
-Not now. I wanted to talk to you about something.<end>
-
-=>a116_original
-Nah. I'll get going. Bye.<end>
-
-=>a116
-Nah. I'll get going. Bye.<end>
-
-=>q117_original
-Great. <end>
-
-=>q117
-Great. <end>
-
-=>a118_original
-Excellent, considering the circumstances.<end>
-
-=>a118
-Excellent, considering the circumstances.<end>
-
-=>a119_original
-It went good.<end>
-
-=>a119
-It went good.<end>
-
-=>a120_original
-So-so.<end>
-
-=>a120
-So-so.<end>
-
-=>q121_original
-Oh... Wanna drink?<end>
-
-=>q121
-Oh... Wanna drink?<end>
-
-=>a122_original
-Well, at least I'm still a part of the station.<end>
-
-=>a122
-Well, at least I'm still a part of the station.<end>
-
-=>a123_original
-I need a drink. ::Barter.::<end>
-
-=>a123
-I need a drink. ::Barter.::<end>
-
-=>q124_original
-Hey, see that guy in the corner? The one that looks like a train-wreck? That's Lenox Pierce. Try not to disturb the poor fellow, okay? Come to the bar if all the other seats are taken, just... leave his table alone.
-
-Now, what are you having?<end>
-
-=>q124
-Hey, see that guy in the corner? The one that looks like a train-wreck? That's Lenox Pierce. Try not to disturb the poor fellow, okay? Come to the bar if all the other seats are taken, just... leave his table alone.
-
-Now, what are you having?<end>
-
-=>q125_original
-Everyone's talking about our boys going to Junkyard. I'm surprised the council decided to intervene. But, that's what we got now. We'll see what happens.<end>
-
-=>q125
-Everyone's talking about our boys going to Junkyard. I'm surprised the council decided to intervene. But, that's what we got now. We'll see what happens.<end>
-
-=>q126_original
-<end>
-
-=>q126
-<end>
-
-=>q127_original
-Hey. Bret told me about Newton. Seemed like a nice guy, but I never thought he was fit for field work. I guess Bret thought differenty.<end>
-
-=>q127
-Hey. Bret told me about Newton. Seemed like a nice guy, but I never thought he was fit for field work. I guess Bret thought differenty.<end>
-
-=>q128_original
-Hey. Bret told me about Newton. Glad to hear all he left there was some of his blood and not a corpse.<end>
-
-=>q128
-Hey. Bret told me about Newton. Glad to hear all he left there was some of his blood and not a corpse.<end>
-
-=>q129_original
-Back for a drink?<end>
-
-=>q129
-Back for a drink?<end>
-
-=>q130_original
-::You met Arlene during your testing period. She's in charge of food preparation and rationing.:: 
-
-Ha! We used to make fun of Tanner's stupidly high standards when admitting new people. Not the end of the world if we get someone imperfect, we said. And here you are, bringing us earthquakes on day one.<end>
-
-=>q130
-::You met Arlene during your testing period. She's in charge of food preparation and rationing.:: 
-
-Ha! We used to make fun of Tanner's stupidly high standards when admitting new people. Not the end of the world if we get someone imperfect, we said. And here you are, bringing us earthquakes on day one.<end>
-
-=>a131_original
-::[Persuade]:: Hey, couldn't have been me. I *am* perfect. So, do I get to eat some real food now that I'm a citizen?<end>
-
-=>a131
-::[Persuade]:: Hey, couldn't have been me. I *am* perfect. So, do I get to eat some real food now that I'm a citizen?<end>
-
-=>q132_original
-Well, aren't you a joker? Don't remember hearing you complain before.
-
-So what do you need?<end>
-
-=>q132
-Well, aren't you a joker? Don't remember hearing you complain before.
-
-So what do you need?<end>
-
-=>a133_original
-Very funny, Arlene.<end>
-
-=>a133
-Very funny, Arlene.<end>
-
-=>q134_original
-I was only kidding; don't take it too seriously. Anyway, what do you need?<end>
-
-=>q134
-I was only kidding; don't take it too seriously. Anyway, what do you need?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+He's... dead?<end>
+
+=>q2
+He's... dead?<end>
+
+=>a3_original
+Pretty much.<end>
+
+=>a3
+Pretty much.<end>
+
+=>q4_original
+::She takes a moment to regain her composure.:: Gorsky's bound to be here any moment now. Knowing Gorsky, I suggest you go clear this up with Tanner first.<end>
+
+=>q4
+::She takes a moment to regain her composure.:: Gorsky's bound to be here any moment now. Knowing Gorsky, I suggest you go clear this up with Tanner first.<end>
+
+=>a5_original
+I need a drink first. ::Barter.::<end>
+
+=>a5
+I need a drink first. ::Barter.::<end>
+
+=>a6_original
+Don't you worry about me. Now, what was that I wanted to ask you...<end>
+
+=>a6
+Don't you worry about me. Now, what was that I wanted to ask you...<end>
+
+=>q7_original
+::She stares at you in silence.::<end>
+
+=>q7
+::She stares at you in silence.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+I'd like to order something... ::Barter.::<end>
+
+=>a9
+I'd like to order something... ::Barter.::<end>
+
+=>a10_original
+Ezra suggested you might know more about this. ::Show her the necklace.::<end>
+
+=>a10
+Ezra suggested you might know more about this. ::Show her the necklace.::<end>
+
+=>q11_original
+Wh--... Where did you get this?<end>
+
+=>q11
+Wh--... Where did you get this?<end>
+
+=>a12_original
+I fished it out near Junkyard.<end>
+
+=>a12
+I fished it out near Junkyard.<end>
+
+=>q13_original
+::Arlene pauses for a moment and sighs deeply.::<end>
+
+=>q13
+::Arlene pauses for a moment and sighs deeply.::<end>
+
+=>q14_original
+This used to belong to my late husband Redd. We each had one of these... ::She pulls out her necklace from beneath her shirt.:: He commissioned them from Ezra... said we'd never lose each other as long as we have them.<end>
+
+=>q14
+This used to belong to my late husband Redd. We each had one of these... ::She pulls out her necklace from beneath her shirt.:: He commissioned them from Ezra... said we'd never lose each other as long as we have them.<end>
+
+=>a15_original
+What happened?<end>
+
+=>a15
+What happened?<end>
+
+=>q16_original
+He was killed in the Mushroom Cove during the war with the Omega Station. Jonas, who witnessed it, said he took a round to the chest and fell into the water.<end>
+
+=>q16
+He was killed in the Mushroom Cove during the war with the Omega Station. Jonas, who witnessed it, said he took a round to the chest and fell into the water.<end>
+
+=>q17_original
+Even though I wasn't there, I instantly knew something was wrong when I could no longer read his signal. We never found his body.<end>
+
+=>q17
+Even though I wasn't there, I instantly knew something was wrong when I could no longer read his signal. We never found his body.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>q19_original
+Can I have his amulet back?<end>
+
+=>q19
+Can I have his amulet back?<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+Sure, here you go.<end>
+
+=>a21
+Sure, here you go.<end>
+
+=>q22_original
+Thank you.<end>
+
+=>q22
+Thank you.<end>
+
+=>a23_original
+If you'll pay 100 credits to cover the finder's fee.<end>
+
+=>a23
+If you'll pay 100 credits to cover the finder's fee.<end>
+
+=>q24_original
+::She sighs.:: Nothing is free, right? Very well.<end>
+
+=>q24
+::She sighs.:: Nothing is free, right? Very well.<end>
+
+=>a25_original
+I think I'll hold onto it, it might come in handy if I get lost.<end>
+
+=>a25
+I think I'll hold onto it, it might come in handy if I get lost.<end>
+
+=>q26_original
+Maybe. Or maybe you'll end up like the previous owner.<end>
+
+=>q26
+Maybe. Or maybe you'll end up like the previous owner.<end>
+
+=>a27_original
+I didn't mean to stir up painful memories.<end>
+
+=>a27
+I didn't mean to stir up painful memories.<end>
+
+=>a28_original
+I don't really have time to listen to this. Perhaps some other time.<end>
+
+=>a28
+I don't really have time to listen to this. Perhaps some other time.<end>
+
+=>q29_original
+Can I at least have the amulet back?<end>
+
+=>q29
+Can I at least have the amulet back?<end>
+
+=>a30_original
+Ezra suggested you might know more about this. ::Show her the necklace.::<end>
+
+=>a30
+Ezra suggested you might know more about this. ::Show her the necklace.::<end>
+
+=>a31_original
+Who's that dandy over there?<end>
+
+=>a31
+Who's that dandy over there?<end>
+
+=>q32_original
+Over there? That's Ethan Lanford.<end>
+
+=>q32
+Over there? That's Ethan Lanford.<end>
+
+=>a33_original
+What can you tell me about him?<end>
+
+=>a33
+What can you tell me about him?<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>q35_original
+It's that man over there. ::She points to the well-dressed young man standing at the bar.:: <end>
+
+=>q35
+It's that man over there. ::She points to the well-dressed young man standing at the bar.:: <end>
+
+=>q36_original
+He's a... handsome man, heh. Comes to SGS from time to time, always dressed as sharp as a razor. He's always flirting with the ladies - no exceptions. I've seen him entertain quite a number of them - well, myself included - with some unusual psionic tricks.<end>
+
+=>q36
+He's a... handsome man, heh. Comes to SGS from time to time, always dressed as sharp as a razor. He's always flirting with the ladies - no exceptions. I've seen him entertain quite a number of them - well, myself included - with some unusual psionic tricks.<end>
+
+=>a37_original
+Tricks?<end>
+
+=>a37
+Tricks?<end>
+
+=>q38_original
+Well, he's a... whatcha call it - a temporal manipulator. It's one of those psi abilities, disciplines, whatcha-call-it, but the thing he does I've never seen anyone else do before. He can manipulate time, but only for specific objects, like slowing down a fly so it moves its wings in slow motion, or making things hover in air, that sort of stuff.<end>
+
+=>q38
+Well, he's a... whatcha call it - a temporal manipulator. It's one of those psi abilities, disciplines, whatcha-call-it, but the thing he does I've never seen anyone else do before. He can manipulate time, but only for specific objects, like slowing down a fly so it moves its wings in slow motion, or making things hover in air, that sort of stuff.<end>
+
+=>q39_original
+It's all parlor tricks - fun and unusual, good to attract the ladies. His good looks and charisma makes them stick around, though. That's his real magic, mmm.<end>
+
+=>q39
+It's all parlor tricks - fun and unusual, good to attract the ladies. His good looks and charisma makes them stick around, though. That's his real magic, mmm.<end>
+
+=>a40_original
+Know anything else about him? Where he's from, what does he do?<end>
+
+=>a40
+Know anything else about him? Where he's from, what does he do?<end>
+
+=>q41_original
+Not much. He's talkative but reveals little about himself, when you think about it. No one knows where he's from or what he does. He usually comes alone, maybe leaves with a girl, maybe not. Depends. Always drinks fizzy water, yes. Has that Temporal Manipulation thing going for him...
+
+And that's all I know, really. Oh yeah, dresses as sharp as-- Oh, wait, I said that already.<end>
+
+=>q41
+Not much. He's talkative but reveals little about himself, when you think about it. No one knows where he's from or what he does. He usually comes alone, maybe leaves with a girl, maybe not. Depends. Always drinks fizzy water, yes. Has that Temporal Manipulation thing going for him...
+
+And that's all I know, really. Oh yeah, dresses as sharp as-- Oh, wait, I said that already.<end>
+
+=>a42_original
+Thank you. There was something else I wanted to ask you.<end>
+
+=>a42
+Thank you. There was something else I wanted to ask you.<end>
+
+=>q43_original
+Yes?<end>
+
+=>q43
+Yes?<end>
+
+=>a44_original
+Hey, do you know where I can find Ethan?<end>
+
+=>a44
+Hey, do you know where I can find Ethan?<end>
+
+=>q45_original
+I'm not sure. He was talking about Core City right before he left, so maybe he went there. Or maybe he was just talking about it.<end>
+
+=>q45
+I'm not sure. He was talking about Core City right before he left, so maybe he went there. Or maybe he was just talking about it.<end>
+
+=>q46_original
+He left a good tip, though.<end>
+
+=>q46
+He left a good tip, though.<end>
+
+=>a47_original
+Thanks. I have to go now.<end>
+
+=>a47
+Thanks. I have to go now.<end>
+
+=>a48_original
+What do you know about Ethan Lanford?<end>
+
+=>a48
+What do you know about Ethan Lanford?<end>
+
+=>a49_original
+Do you know what this is? ::Show her the necklace.::<end>
+
+=>a49
+Do you know what this is? ::Show her the necklace.::<end>
+
+=>a50_original
+So how bad was it - the earthquake?<end>
+
+=>a50
+So how bad was it - the earthquake?<end>
+
+=>q51_original
+For us, not that bad. The South Tunnel collapsed, so the train is out for a while.
+
+The station itself didn't suffer any major damage as far as I know.<end>
+
+=>q51
+For us, not that bad. The South Tunnel collapsed, so the train is out for a while.
+
+The station itself didn't suffer any major damage as far as I know.<end>
+
+=>q52_original
+I heard it's much worse up north. Something about a Union's freighter crashing and getting buried on a side rail near Core City. $(#Man/Girl), I can already imagine all the vermin crawling out of their holes to take a bite of that cake; and I'm not talking about rathounds.<end>
+
+=>q52
+I heard it's much worse up north. Something about a Union's freighter crashing and getting buried on a side rail near Core City. $(#Man/Girl), I can already imagine all the vermin crawling out of their holes to take a bite of that cake; and I'm not talking about rathounds.<end>
+
+=>a53_original
+So what else is new, besides the earthquake?<end>
+
+=>a53
+So what else is new, besides the earthquake?<end>
+
+=>q54_original
+Gorsky's gathering up his squad. Don't know what they're up to, but they're armed.<end>
+
+=>q54
+Gorsky's gathering up his squad. Don't know what they're up to, but they're armed.<end>
+
+=>a55_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a55
+What do you know about Patrick Pierce's death?<end>
+
+=>q56_original
+Looking at his brother over there, I wish I knew more. But I can only tell you what we all know: Pat died in his sleep. Thinking about it, what if Pasquale found out what killed Pat, and it turned out it was agonizingly painful and that he was struggling the whole time?<end>
+
+=>q56
+Looking at his brother over there, I wish I knew more. But I can only tell you what we all know: Pat died in his sleep. Thinking about it, what if Pasquale found out what killed Pat, and it turned out it was agonizingly painful and that he was struggling the whole time?<end>
+
+=>q57_original
+Would you like to learn something like that? I don't know what's better of the two, I really don't.<end>
+
+=>q57
+Would you like to learn something like that? I don't know what's better of the two, I really don't.<end>
+
+=>a58_original
+Can you tell me what he was like as a person?<end>
+
+=>a58
+Can you tell me what he was like as a person?<end>
+
+=>q59_original
+::She smiles.:: Pretty sweet actually, we used to chat a lot whenever he showed up. He talked about his horrible past in Core City, how he survived the riots. He felt he did some bad things back then, how he's finally found a way to atone for what he did by leading a more peaceful life.<end>
+
+=>q59
+::She smiles.:: Pretty sweet actually, we used to chat a lot whenever he showed up. He talked about his horrible past in Core City, how he survived the riots. He felt he did some bad things back then, how he's finally found a way to atone for what he did by leading a more peaceful life.<end>
+
+=>q60_original
+Then Big Bret comes along and starts nagging about those stupid heaters for his hoppers. <end>
+
+=>q60
+Then Big Bret comes along and starts nagging about those stupid heaters for his hoppers. <end>
+
+=>a61_original
+So what happened to your husband Redd?<end>
+
+=>a61
+So what happened to your husband Redd?<end>
+
+=>a62_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a62
+What are your thoughts on the Faceless invasion?<end>
+
+=>q63_original
+I am very worried about the whole situation. It's not that we don't get station wars often, but they never involved the Faceless so far.<end>
+
+=>q63
+I am very worried about the whole situation. It's not that we don't get station wars often, but they never involved the Faceless so far.<end>
+
+=>q64_original
+My late husband was a scavenger and he encountered the Faceless occasionally. They are not like us, you know. You can't negotiate or reason with them like you can with a human enemy. You don't know what motivates them.<end>
+
+=>q64
+My late husband was a scavenger and he encountered the Faceless occasionally. They are not like us, you know. You can't negotiate or reason with them like you can with a human enemy. You don't know what motivates them.<end>
+
+=>a65_original
+What are your thoughts on the Faceless retreat from Core City?<end>
+
+=>a65
+What are your thoughts on the Faceless retreat from Core City?<end>
+
+=>q66_original
+Good riddance.<end>
+
+=>q66
+Good riddance.<end>
+
+=>q67_original
+Want a drink to celebrate?<end>
+
+=>q67
+Want a drink to celebrate?<end>
+
+=>a68_original
+Heard any good rumors?<end>
+
+=>a68
+Heard any good rumors?<end>
+
+=>q69_original
+<end>
+
+=>q69
+<end>
+
+=>q70_original
+No one knows who's the $(context.frag_dun_wasteWater_corpseGender) that's been found in Mushroom Cove. Think Pasquale's still examining the body.<end>
+
+=>q70
+No one knows who's the $(context.frag_dun_wasteWater_corpseGender) that's been found in Mushroom Cove. Think Pasquale's still examining the body.<end>
+
+=>q71_original
+A Junkyarder named Chester Royce came here recently to collect the body of that dead $(context.frag_dun_wasteWater_corpseGender) from Mushroom Cove, claiming to be <end>
+
+=>q71
+A Junkyarder named Chester Royce came here recently to collect the body of that dead $(context.frag_dun_wasteWater_corpseGender) from Mushroom Cove, claiming to be <end>
+
+=>q72_original
+his brother. Apparently his name was *Joshua* Royce.<end>
+
+=>q72
+his brother. Apparently his name was *Joshua* Royce.<end>
+
+=>q73_original
+her brother. Apparently her name was *Jennifer* Royce.<end>
+
+=>q73
+her brother. Apparently her name was *Jennifer* Royce.<end>
+
+=>q74_original
+I guess Junkyard still hasn't gotten rid of Ol' Chopper. One more victim found in pieces.<end>
+
+=>q74
+I guess Junkyard still hasn't gotten rid of Ol' Chopper. One more victim found in pieces.<end>
+
+=>q75_original
+Rumor has it that there are quite a number of people sitting outside United Stations embassy in Junkyard. Guess they've been feeding them good.<end>
+
+=>q75
+Rumor has it that there are quite a number of people sitting outside United Stations embassy in Junkyard. Guess they've been feeding them good.<end>
+
+=>q76_original
+There's been very little pirate activity lately. The Black Eels seem to be doing a damn fine job. <end>
+
+=>q76
+There's been very little pirate activity lately. The Black Eels seem to be doing a damn fine job. <end>
+
+=>q77_original
+The pirates have struck again. Captured a few merchant ferries in Dreadpool.<end>
+
+=>q77
+The pirates have struck again. Captured a few merchant ferries in Dreadpool.<end>
+
+=>q78_original
+The pirates have captured a fully-armed Protectorate ship. No one's safe anymore.<end>
+
+=>q78
+The pirates have captured a fully-armed Protectorate ship. No one's safe anymore.<end>
+
+=>q79_original
+There's been some fighting on the Rig recently. <end>
+
+=>q79
+There's been some fighting on the Rig recently. <end>
+
+=>q80_original
+Lots of people got killed, I hear, and it seemed like a deliberate attack on the Black Eels.<end>
+
+=>q80
+Lots of people got killed, I hear, and it seemed like a deliberate attack on the Black Eels.<end>
+
+=>q81_original
+Not your regular tavern brawls, no. This was something that caused the whole Rig to go on alert.<end>
+
+=>q81
+Not your regular tavern brawls, no. This was something that caused the whole Rig to go on alert.<end>
+
+=>q82_original
+The Rig's been attacked. I've been told no Black Eels were left alive. <end>
+
+=>q82
+The Rig's been attacked. I've been told no Black Eels were left alive. <end>
+
+=>q83_original
+It's gotta be the pirates!<end>
+
+=>q83
+It's gotta be the pirates!<end>
+
+=>q84_original
+Could it be that the pirates have returned?<end>
+
+=>q84
+Could it be that the pirates have returned?<end>
+
+=>q85_original
+Harland told me he's started seeing more and more Lurkers near the under-passages exit.<end>
+
+=>q85
+Harland told me he's started seeing more and more Lurkers near the under-passages exit.<end>
+
+=>q86_original
+Apparently, the Free Drones are becoming more and more active in South Underrail. Some even say they have a hideout in Junkyard.<end>
+
+=>q86
+Apparently, the Free Drones are becoming more and more active in South Underrail. Some even say they have a hideout in Junkyard.<end>
+
+=>q87_original
+Captain Svana recently told me about another poor soul sailing to Silent Isle. Haven't seen him since.<end>
+
+=>q87
+Captain Svana recently told me about another poor soul sailing to Silent Isle. Haven't seen him since.<end>
+
+=>q88_original
+I heard Mordre's been acquiring some quality cigars lately. Wonder who's his supplier.<end>
+
+=>q88
+I heard Mordre's been acquiring some quality cigars lately. Wonder who's his supplier.<end>
+
+=>q89_original
+A Protectorate squad was killed at the Rail Crossing station. Ironheads - or someone else?<end>
+
+=>q89
+A Protectorate squad was killed at the Rail Crossing station. Ironheads - or someone else?<end>
+
+=>q90_original
+No Faceless in sight since the blockade was lifted.<end>
+
+=>q90
+No Faceless in sight since the blockade was lifted.<end>
+
+=>q91_original
+The Faceless have been spotted near Rail Crossing and Foundry.<end>
+
+=>q91
+The Faceless have been spotted near Rail Crossing and Foundry.<end>
+
+=>a92_original
+Gotta run.<end>
+
+=>a92
+Gotta run.<end>
+
+=>a93_original
+I'll do that.<end>
+
+=>a93
+I'll do that.<end>
+
+=>a94_original
+I'm going to be in a lot of trouble, aren't I?<end>
+
+=>a94
+I'm going to be in a lot of trouble, aren't I?<end>
+
+=>a95_original
+Of course. The bastard attacked me.<end>
+
+=>a95
+Of course. The bastard attacked me.<end>
+
+=>a96_original
+::Say nothing.::<end>
+
+=>a96
+::Say nothing.::<end>
+
+=>q97_original
+What... did just happen?<end>
+
+=>q97
+What... did just happen?<end>
+
+=>a98_original
+Not so handsome anymore, is he?<end>
+
+=>a98
+Not so handsome anymore, is he?<end>
+
+=>q99_original
+Khm. The <end>
+
+=>q99
+Khm. The <end>
+
+=>q100_original
+news about this is going to spread across the station in no time. Expect a call from Gorsky or Tanner.<end>
+
+=>q100
+news about this is going to spread across the station in no time. Expect a call from Gorsky or Tanner.<end>
+
+=>a101_original
+I will. But now that I'm here, I'd like to order something... ::Barter.::<end>
+
+=>a101
+I will. But now that I'm here, I'd like to order something... ::Barter.::<end>
+
+=>a102_original
+Hmm, I better go see Tanner and clear this up straight away.<end>
+
+=>a102
+Hmm, I better go see Tanner and clear this up straight away.<end>
+
+=>a103_original
+Ethan turned into an old man.<end>
+
+=>a103
+Ethan turned into an old man.<end>
+
+=>q104_original
+Well, the <end>
+
+=>q104
+Well, the <end>
+
+=>a105_original
+Just exposing a fraud.<end>
+
+=>a105
+Just exposing a fraud.<end>
+
+=>a106_original
+I'm not sure myself.<end>
+
+=>a106
+I'm not sure myself.<end>
+
+=>q107_original
+No news regarding Tanner yet, huh? I think Vera and Ezra are going to dig out a lot of secrets now that the man himself is gone. It's gonna be good gossip, if nothing else.<end>
+
+=>q107
+No news regarding Tanner yet, huh? I think Vera and Ezra are going to dig out a lot of secrets now that the man himself is gone. It's gonna be good gossip, if nothing else.<end>
+
+=>q108_original
+::You see Arlene rubbing her temples.:: Hey. How'd your conversation with Tanner go?<end>
+
+=>q108
+::You see Arlene rubbing her temples.:: Hey. How'd your conversation with Tanner go?<end>
+
+=>a109_original
+Didn't get to speak to him yet.<end>
+
+=>a109
+Didn't get to speak to him yet.<end>
+
+=>q110_original
+<end>
+
+=>q110
+<end>
+
+=>q111_original
+::She nods.:: Good, good. <end>
+
+=>q111
+::She nods.:: Good, good. <end>
+
+=>q112_original
+Wanna drink to calm the nerves?<end>
+
+=>q112
+Wanna drink to calm the nerves?<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+You betcha. ::Barter.::<end>
+
+=>a114
+You betcha. ::Barter.::<end>
+
+=>a115_original
+Not now. I wanted to talk to you about something.<end>
+
+=>a115
+Not now. I wanted to talk to you about something.<end>
+
+=>a116_original
+Nah. I'll get going. Bye.<end>
+
+=>a116
+Nah. I'll get going. Bye.<end>
+
+=>q117_original
+Great. <end>
+
+=>q117
+Great. <end>
+
+=>a118_original
+Excellent, considering the circumstances.<end>
+
+=>a118
+Excellent, considering the circumstances.<end>
+
+=>a119_original
+It went good.<end>
+
+=>a119
+It went good.<end>
+
+=>a120_original
+So-so.<end>
+
+=>a120
+So-so.<end>
+
+=>q121_original
+Oh... Wanna drink?<end>
+
+=>q121
+Oh... Wanna drink?<end>
+
+=>a122_original
+Well, at least I'm still a part of the station.<end>
+
+=>a122
+Well, at least I'm still a part of the station.<end>
+
+=>a123_original
+I need a drink. ::Barter.::<end>
+
+=>a123
+I need a drink. ::Barter.::<end>
+
+=>q124_original
+Hey, see that guy in the corner? The one that looks like a train-wreck? That's Lenox Pierce. Try not to disturb the poor fellow, okay? Come to the bar if all the other seats are taken, just... leave his table alone.
+
+Now, what are you having?<end>
+
+=>q124
+Hey, see that guy in the corner? The one that looks like a train-wreck? That's Lenox Pierce. Try not to disturb the poor fellow, okay? Come to the bar if all the other seats are taken, just... leave his table alone.
+
+Now, what are you having?<end>
+
+=>q125_original
+Everyone's talking about our boys going to Junkyard. I'm surprised the council decided to intervene. But, that's what we got now. We'll see what happens.<end>
+
+=>q125
+Everyone's talking about our boys going to Junkyard. I'm surprised the council decided to intervene. But, that's what we got now. We'll see what happens.<end>
+
+=>q126_original
+<end>
+
+=>q126
+<end>
+
+=>q127_original
+Hey. Bret told me about Newton. Seemed like a nice guy, but I never thought he was fit for field work. I guess Bret thought differenty.<end>
+
+=>q127
+Hey. Bret told me about Newton. Seemed like a nice guy, but I never thought he was fit for field work. I guess Bret thought differenty.<end>
+
+=>q128_original
+Hey. Bret told me about Newton. Glad to hear all he left there was some of his blood and not a corpse.<end>
+
+=>q128
+Hey. Bret told me about Newton. Glad to hear all he left there was some of his blood and not a corpse.<end>
+
+=>q129_original
+Back for a drink?<end>
+
+=>q129
+Back for a drink?<end>
+
+=>q130_original
+::You met Arlene during your testing period. She's in charge of food preparation and rationing.:: 
+
+Ha! We used to make fun of Tanner's stupidly high standards when admitting new people. Not the end of the world if we get someone imperfect, we said. And here you are, bringing us earthquakes on day one.<end>
+
+=>q130
+::You met Arlene during your testing period. She's in charge of food preparation and rationing.:: 
+
+Ha! We used to make fun of Tanner's stupidly high standards when admitting new people. Not the end of the world if we get someone imperfect, we said. And here you are, bringing us earthquakes on day one.<end>
+
+=>a131_original
+::[Persuade]:: Hey, couldn't have been me. I *am* perfect. So, do I get to eat some real food now that I'm a citizen?<end>
+
+=>a131
+::[Persuade]:: Hey, couldn't have been me. I *am* perfect. So, do I get to eat some real food now that I'm a citizen?<end>
+
+=>q132_original
+Well, aren't you a joker? Don't remember hearing you complain before.
+
+So what do you need?<end>
+
+=>q132
+Well, aren't you a joker? Don't remember hearing you complain before.
+
+So what do you need?<end>
+
+=>a133_original
+Very funny, Arlene.<end>
+
+=>a133
+Very funny, Arlene.<end>
+
+=>q134_original
+I was only kidding; don't take it too seriously. Anyway, what do you need?<end>
+
+=>q134
+I was only kidding; don't take it too seriously. Anyway, what do you need?<end>
+

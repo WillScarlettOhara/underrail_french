@@ -1,338 +1,338 @@
-=>q1_original
-::You stop in front of a long counter, its front side as filthy as the ground you are standing on, and look at the woman behind it. The accented lines on her face spell fatigue from every possible angle, and after a noticeable delay she introduces herself with a confused stare which gets squeezed out by her heavy eyelids, after which a verbal reintroduction ensues. At least, as soon as she manages to summon the appropriate words.::
-
-What? I mean, good day... and how may I help you?<end>
-
-=>q1
-::You stop in front of a long counter, its front side as filthy as the ground you are standing on, and look at the woman behind it. The accented lines on her face spell fatigue from every possible angle, and after a noticeable delay she introduces herself with a confused stare which gets squeezed out by her heavy eyelids, after which a verbal reintroduction ensues. At least, as soon as she manages to summon the appropriate words.::
-
-What? I mean, good day... and how may I help you?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-I came to collect my reward.<end>
-
-=>a3
-I came to collect my reward.<end>
-
-=>q4_original
-Um, yeah, congratulations. ::She yawns.:: That was a good run. Here is your money; two thousand as promised. ::She gives you 2000 stygian coins.:: All your stuff is in the middle locker behind me. There. ::She points at the locker, but also doesn't at the same time. More like, she swings her arm in the general direction of the locker.::<end>
-
-=>q4
-Um, yeah, congratulations. ::She yawns.:: That was a good run. Here is your money; two thousand as promised. ::She gives you 2000 stygian coins.:: All your stuff is in the middle locker behind me. There. ::She points at the locker, but also doesn't at the same time. More like, she swings her arm in the general direction of the locker.::<end>
-
-=>q5_original
-You are one of the rare ones who get to take their money. ::A short delay ensues.:: Um, what I meant was - have a nice day.<end>
-
-=>q5
-You are one of the rare ones who get to take their money. ::A short delay ensues.:: Um, what I meant was - have a nice day.<end>
-
-=>a6_original
-I'm ready to start the Gauntlet.<end>
-
-=>a6
-I'm ready to start the Gauntlet.<end>
-
-=>q7_original
-Um, good. ::She yawns.:: The other two runners are ready... and stuff like that. ::She stares at a spot in the wall for several seconds.:: Um, yeah, sorry, please wait for the broadcast to be set up, and then we'll start the show.
-
-You also need to turn in all your gear and put on a runner suit. Then once you're past the gate you can choose from a selection of, um, weapons and equipment before stepping into the elevator. 
-
-After you're, um, done, come see me about the reward and your stuff. Yeah.<end>
-
-=>q7
-Um, good. ::She yawns.:: The other two runners are ready... and stuff like that. ::She stares at a spot in the wall for several seconds.:: Um, yeah, sorry, please wait for the broadcast to be set up, and then we'll start the show.
-
-You also need to turn in all your gear and put on a runner suit. Then once you're past the gate you can choose from a selection of, um, weapons and equipment before stepping into the elevator. 
-
-After you're, um, done, come see me about the reward and your stuff. Yeah.<end>
-
-=>a8_original
-::Start the Gauntlet.::<end>
-
-=>a8
-::Start the Gauntlet.::<end>
-
-=>a9_original
-What is this place?<end>
-
-=>a9
-What is this place?<end>
-
-=>q10_original
-What does it look like? ::She sighs.:: Sorry, what I wanted to say was, this is the entrance to the Gauntlet. All runners apply here... and stuff like that.<end>
-
-=>q10
-What does it look like? ::She sighs.:: Sorry, what I wanted to say was, this is the entrance to the Gauntlet. All runners apply here... and stuff like that.<end>
-
-=>q11_original
-Um, I'm sorry, I haven't slept in... in...<end>
-
-=>q11
-Um, I'm sorry, I haven't slept in... in...<end>
-
-=>q12_original
-Never mind. Are you here to, um, apply?<end>
-
-=>q12
-Never mind. Are you here to, um, apply?<end>
-
-=>a13_original
-I would like to apply for the Gauntlet.<end>
-
-=>a13
-I would like to apply for the Gauntlet.<end>
-
-=>q14_original
-::Her fatigued eyes have trouble inspecting the person in front of her - you. Eventually she does manage to process who you actually are.:: 
-
-Invictus! I'm... I'm sorry, um, I didn't recognize you there. Yes, yes, you can apply! It's very rare for an invictus to actually come here to apply personally.<end>
-
-=>q14
-::Her fatigued eyes have trouble inspecting the person in front of her - you. Eventually she does manage to process who you actually are.:: 
-
-Invictus! I'm... I'm sorry, um, I didn't recognize you there. Yes, yes, you can apply! It's very rare for an invictus to actually come here to apply personally.<end>
-
-=>q15_original
-Let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q15
-Let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q16_original
-I'm sure the Invictus, um - you - knows how a run through the Gauntlet works, but let's go through that again. Okay. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
-
-=>q16
-I'm sure the Invictus, um - you - knows how a run through the Gauntlet works, but let's go through that again. Okay. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
-
-=>q17_original
-Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners nor the viewers know which room comes next.<end>
-
-=>q17
-Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners nor the viewers know which room comes next.<end>
-
-=>q18_original
-That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
-
-=>q18
-That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
-
-=>q19_original
-Oh, yeah, the more time you spend in one room, the more difficult next ones will become. *But,* in some rooms you can find keys which you can use during the final stretch, um, the final room, to unlock doors which enable you to use shortcuts to the end. So it's up to you to choose the way you run the Gauntlet.<end>
-
-=>q19
-Oh, yeah, the more time you spend in one room, the more difficult next ones will become. *But,* in some rooms you can find keys which you can use during the final stretch, um, the final room, to unlock doors which enable you to use shortcuts to the end. So it's up to you to choose the way you run the Gauntlet.<end>
-
-=>q20_original
-And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. Um, so do you have more questions or are you ready to start? We need only one more runner.<end>
-
-=>q20
-And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. Um, so do you have more questions or are you ready to start? We need only one more runner.<end>
-
-=>q21_original
-Are you the gladiator Lanista called about? Um, $(context.playerArenaTitle)?<end>
-
-=>q21
-Are you the gladiator Lanista called about? Um, $(context.playerArenaTitle)?<end>
-
-=>a22_original
-Yes, I am.<end>
-
-=>a22
-Yes, I am.<end>
-
-=>q23_original
-Good, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q23
-Good, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q24_original
-Um, I don't know how familiar you are with how a run, through the Gauntlet that is, works. I'll just explain it all. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
-
-=>q24
-Um, I don't know how familiar you are with how a run, through the Gauntlet that is, works. I'll just explain it all. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
-
-=>a25_original
-I guess I'm not famous enough. Yes, I am the one.<end>
-
-=>a25
-I guess I'm not famous enough. Yes, I am the one.<end>
-
-=>q26_original
-Guess not, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q26
-Guess not, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
-
-=>q27_original
-You can't just walk in her-- ::She makes a pause, yawns, then continues.:: What I meant was, only challengers and gladiators who earned the right to apply for the Gaunlet can... Um, one must fight in the Arena and be really good and...<end>
-
-=>q27
-You can't just walk in her-- ::She makes a pause, yawns, then continues.:: What I meant was, only challengers and gladiators who earned the right to apply for the Gaunlet can... Um, one must fight in the Arena and be really good and...<end>
-
-=>q28_original
-You just can't... apply. I hope you understood. I'm not sure I did...<end>
-
-=>q28
-You just can't... apply. I hope you understood. I'm not sure I did...<end>
-
-=>a29_original
-I have some questions about the Gauntlet.<end>
-
-=>a29
-I have some questions about the Gauntlet.<end>
-
-=>q30_original
-Um, why not. It's not like I'll get some rest soon. I mean, what do you want to know?<end>
-
-=>q30
-Um, why not. It's not like I'll get some rest soon. I mean, what do you want to know?<end>
-
-=>q31_original
-<end>
-
-=>q31
-<end>
-
-=>a32_original
-Can you tell me the basics of the Gauntlet again?<end>
-
-=>a32
-Can you tell me the basics of the Gauntlet again?<end>
-
-=>q33_original
-Um, okay, here we go again.<end>
-
-=>q33
-Um, okay, here we go again.<end>
-
-=>q34_original
-Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners or the viewers don't know which room comes next.<end>
-
-=>q34
-Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners or the viewers don't know which room comes next.<end>
-
-=>q35_original
-That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
-
-=>q35
-That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
-
-=>q36_original
-Oh, yeah, the more time you spend in one room, the more difficult next ones will be. Will be, but in some rooms you can find keys which you can use during the final strech, um, the final room, to unlock doors and use shortcuts. So it's up to you to choose how you run the Gauntlet.<end>
-
-=>q36
-Oh, yeah, the more time you spend in one room, the more difficult next ones will be. Will be, but in some rooms you can find keys which you can use during the final strech, um, the final room, to unlock doors and use shortcuts. So it's up to you to choose how you run the Gauntlet.<end>
-
-=>q37_original
-And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. That's really all there is to it.<end>
-
-=>q37
-And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. That's really all there is to it.<end>
-
-=>a38_original
-What is the reward for completing the Gauntlet?<end>
-
-=>a38
-What is the reward for completing the Gauntlet?<end>
-
-=>q39_original
-Didn't I mention this? Um, it's two thousand charons. That's *two* *thousand.*<end>
-
-=>q39
-Didn't I mention this? Um, it's two thousand charons. That's *two* *thousand.*<end>
-
-=>q40_original
-That's important, I probably mentioned it. ::She yawns.::<end>
-
-=>q40
-That's important, I probably mentioned it. ::She yawns.::<end>
-
-=>a41_original
-What is the Gauntlet?<end>
-
-=>a41
-What is the Gauntlet?<end>
-
-=>q42_original
-Um, the Gauntlet... the Gauntlet is a very recent and increasingly popular, um, event in which contestants called runners compete in overcoming multiple challenging and dangerous rooms. The goal is to, well, survive the rooms *and* get to the end before the other runners do. Its growing popularity is, um, largely due to JKK making sure it's being broadcasted throughout the whole Underrail.<end>
-
-=>q42
-Um, the Gauntlet... the Gauntlet is a very recent and increasingly popular, um, event in which contestants called runners compete in overcoming multiple challenging and dangerous rooms. The goal is to, well, survive the rooms *and* get to the end before the other runners do. Its growing popularity is, um, largely due to JKK making sure it's being broadcasted throughout the whole Underrail.<end>
-
-=>q43_original
-Oh, and since the majority of runners don't survive... ::She pauses.:: What I *really* meant was, it's held once a week.<end>
-
-=>q43
-Oh, and since the majority of runners don't survive... ::She pauses.:: What I *really* meant was, it's held once a week.<end>
-
-=>a44_original
-Let's discuss something else.<end>
-
-=>a44
-Let's discuss something else.<end>
-
-=>q45_original
-::She gives you a tired nod.::<end>
-
-=>q45
-::She gives you a tired nod.::<end>
-
-=>a46_original
-Why don't you get some rest?<end>
-
-=>a46
-Why don't you get some rest?<end>
-
-=>q47_original
-Do you think I don't want to? Um, what I meant was, I wish, oh, how I wish. I long - I yearn for a warm bed. One that will embrace me tightly, love me, caress me and let me sleep for seven days straight - and make the fatigue, the blurred vision and all of that go away...<end>
-
-=>q47
-Do you think I don't want to? Um, what I meant was, I wish, oh, how I wish. I long - I yearn for a warm bed. One that will embrace me tightly, love me, caress me and let me sleep for seven days straight - and make the fatigue, the blurred vision and all of that go away...<end>
-
-=>q48_original
-::She sighs.:: But, I can't. Not now. It's a long story.<end>
-
-=>q48
-::She sighs.:: But, I can't. Not now. It's a long story.<end>
-
-=>a49_original
-See you some other time.<end>
-
-=>a49
-See you some other time.<end>
-
-=>a50_original
-So long. Get some rest.<end>
-
-=>a50
-So long. Get some rest.<end>
-
-=>q51_original
-I would if I could. ::She sighs, yawns and waves at you.:: Bye.<end>
-
-=>q51
-I would if I could. ::She sighs, yawns and waves at you.:: Bye.<end>
-
-=>a52_original
-Bye.<end>
-
-=>a52
-Bye.<end>
-
-=>q53_original
-::Andrea stands there with her eyes closed but quickly opens them wide as soon as you come near.:: I'm awake! I'm awake! I was just resting my eyes! 
-
-Um, what do you need?<end>
-
-=>q53
-::Andrea stands there with her eyes closed but quickly opens them wide as soon as you come near.:: I'm awake! I'm awake! I was just resting my eyes! 
-
-Um, what do you need?<end>
-
+=>q1_original
+::You stop in front of a long counter, its front side as filthy as the ground you are standing on, and look at the woman behind it. The accented lines on her face spell fatigue from every possible angle, and after a noticeable delay she introduces herself with a confused stare which gets squeezed out by her heavy eyelids, after which a verbal reintroduction ensues. At least, as soon as she manages to summon the appropriate words.::
+
+What? I mean, good day... and how may I help you?<end>
+
+=>q1
+::You stop in front of a long counter, its front side as filthy as the ground you are standing on, and look at the woman behind it. The accented lines on her face spell fatigue from every possible angle, and after a noticeable delay she introduces herself with a confused stare which gets squeezed out by her heavy eyelids, after which a verbal reintroduction ensues. At least, as soon as she manages to summon the appropriate words.::
+
+What? I mean, good day... and how may I help you?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I came to collect my reward.<end>
+
+=>a3
+I came to collect my reward.<end>
+
+=>q4_original
+Um, yeah, congratulations. ::She yawns.:: That was a good run. Here is your money; two thousand as promised. ::She gives you 2000 stygian coins.:: All your stuff is in the middle locker behind me. There. ::She points at the locker, but also doesn't at the same time. More like, she swings her arm in the general direction of the locker.::<end>
+
+=>q4
+Um, yeah, congratulations. ::She yawns.:: That was a good run. Here is your money; two thousand as promised. ::She gives you 2000 stygian coins.:: All your stuff is in the middle locker behind me. There. ::She points at the locker, but also doesn't at the same time. More like, she swings her arm in the general direction of the locker.::<end>
+
+=>q5_original
+You are one of the rare ones who get to take their money. ::A short delay ensues.:: Um, what I meant was - have a nice day.<end>
+
+=>q5
+You are one of the rare ones who get to take their money. ::A short delay ensues.:: Um, what I meant was - have a nice day.<end>
+
+=>a6_original
+I'm ready to start the Gauntlet.<end>
+
+=>a6
+I'm ready to start the Gauntlet.<end>
+
+=>q7_original
+Um, good. ::She yawns.:: The other two runners are ready... and stuff like that. ::She stares at a spot in the wall for several seconds.:: Um, yeah, sorry, please wait for the broadcast to be set up, and then we'll start the show.
+
+You also need to turn in all your gear and put on a runner suit. Then once you're past the gate you can choose from a selection of, um, weapons and equipment before stepping into the elevator. 
+
+After you're, um, done, come see me about the reward and your stuff. Yeah.<end>
+
+=>q7
+Um, good. ::She yawns.:: The other two runners are ready... and stuff like that. ::She stares at a spot in the wall for several seconds.:: Um, yeah, sorry, please wait for the broadcast to be set up, and then we'll start the show.
+
+You also need to turn in all your gear and put on a runner suit. Then once you're past the gate you can choose from a selection of, um, weapons and equipment before stepping into the elevator. 
+
+After you're, um, done, come see me about the reward and your stuff. Yeah.<end>
+
+=>a8_original
+::Start the Gauntlet.::<end>
+
+=>a8
+::Start the Gauntlet.::<end>
+
+=>a9_original
+What is this place?<end>
+
+=>a9
+What is this place?<end>
+
+=>q10_original
+What does it look like? ::She sighs.:: Sorry, what I wanted to say was, this is the entrance to the Gauntlet. All runners apply here... and stuff like that.<end>
+
+=>q10
+What does it look like? ::She sighs.:: Sorry, what I wanted to say was, this is the entrance to the Gauntlet. All runners apply here... and stuff like that.<end>
+
+=>q11_original
+Um, I'm sorry, I haven't slept in... in...<end>
+
+=>q11
+Um, I'm sorry, I haven't slept in... in...<end>
+
+=>q12_original
+Never mind. Are you here to, um, apply?<end>
+
+=>q12
+Never mind. Are you here to, um, apply?<end>
+
+=>a13_original
+I would like to apply for the Gauntlet.<end>
+
+=>a13
+I would like to apply for the Gauntlet.<end>
+
+=>q14_original
+::Her fatigued eyes have trouble inspecting the person in front of her - you. Eventually she does manage to process who you actually are.:: 
+
+Invictus! I'm... I'm sorry, um, I didn't recognize you there. Yes, yes, you can apply! It's very rare for an invictus to actually come here to apply personally.<end>
+
+=>q14
+::Her fatigued eyes have trouble inspecting the person in front of her - you. Eventually she does manage to process who you actually are.:: 
+
+Invictus! I'm... I'm sorry, um, I didn't recognize you there. Yes, yes, you can apply! It's very rare for an invictus to actually come here to apply personally.<end>
+
+=>q15_original
+Let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q15
+Let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q16_original
+I'm sure the Invictus, um - you - knows how a run through the Gauntlet works, but let's go through that again. Okay. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
+
+=>q16
+I'm sure the Invictus, um - you - knows how a run through the Gauntlet works, but let's go through that again. Okay. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
+
+=>q17_original
+Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners nor the viewers know which room comes next.<end>
+
+=>q17
+Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners nor the viewers know which room comes next.<end>
+
+=>q18_original
+That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
+
+=>q18
+That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
+
+=>q19_original
+Oh, yeah, the more time you spend in one room, the more difficult next ones will become. *But,* in some rooms you can find keys which you can use during the final stretch, um, the final room, to unlock doors which enable you to use shortcuts to the end. So it's up to you to choose the way you run the Gauntlet.<end>
+
+=>q19
+Oh, yeah, the more time you spend in one room, the more difficult next ones will become. *But,* in some rooms you can find keys which you can use during the final stretch, um, the final room, to unlock doors which enable you to use shortcuts to the end. So it's up to you to choose the way you run the Gauntlet.<end>
+
+=>q20_original
+And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. Um, so do you have more questions or are you ready to start? We need only one more runner.<end>
+
+=>q20
+And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. Um, so do you have more questions or are you ready to start? We need only one more runner.<end>
+
+=>q21_original
+Are you the gladiator Lanista called about? Um, $(context.playerArenaTitle)?<end>
+
+=>q21
+Are you the gladiator Lanista called about? Um, $(context.playerArenaTitle)?<end>
+
+=>a22_original
+Yes, I am.<end>
+
+=>a22
+Yes, I am.<end>
+
+=>q23_original
+Good, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q23
+Good, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q24_original
+Um, I don't know how familiar you are with how a run, through the Gauntlet that is, works. I'll just explain it all. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
+
+=>q24
+Um, I don't know how familiar you are with how a run, through the Gauntlet that is, works. I'll just explain it all. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
+
+=>a25_original
+I guess I'm not famous enough. Yes, I am the one.<end>
+
+=>a25
+I guess I'm not famous enough. Yes, I am the one.<end>
+
+=>q26_original
+Guess not, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q26
+Guess not, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
+
+=>q27_original
+You can't just walk in her-- ::She makes a pause, yawns, then continues.:: What I meant was, only challengers and gladiators who earned the right to apply for the Gaunlet can... Um, one must fight in the Arena and be really good and...<end>
+
+=>q27
+You can't just walk in her-- ::She makes a pause, yawns, then continues.:: What I meant was, only challengers and gladiators who earned the right to apply for the Gaunlet can... Um, one must fight in the Arena and be really good and...<end>
+
+=>q28_original
+You just can't... apply. I hope you understood. I'm not sure I did...<end>
+
+=>q28
+You just can't... apply. I hope you understood. I'm not sure I did...<end>
+
+=>a29_original
+I have some questions about the Gauntlet.<end>
+
+=>a29
+I have some questions about the Gauntlet.<end>
+
+=>q30_original
+Um, why not. It's not like I'll get some rest soon. I mean, what do you want to know?<end>
+
+=>q30
+Um, why not. It's not like I'll get some rest soon. I mean, what do you want to know?<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Can you tell me the basics of the Gauntlet again?<end>
+
+=>a32
+Can you tell me the basics of the Gauntlet again?<end>
+
+=>q33_original
+Um, okay, here we go again.<end>
+
+=>q33
+Um, okay, here we go again.<end>
+
+=>q34_original
+Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners or the viewers don't know which room comes next.<end>
+
+=>q34
+Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners or the viewers don't know which room comes next.<end>
+
+=>q35_original
+That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
+
+=>q35
+That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
+
+=>q36_original
+Oh, yeah, the more time you spend in one room, the more difficult next ones will be. Will be, but in some rooms you can find keys which you can use during the final strech, um, the final room, to unlock doors and use shortcuts. So it's up to you to choose how you run the Gauntlet.<end>
+
+=>q36
+Oh, yeah, the more time you spend in one room, the more difficult next ones will be. Will be, but in some rooms you can find keys which you can use during the final strech, um, the final room, to unlock doors and use shortcuts. So it's up to you to choose how you run the Gauntlet.<end>
+
+=>q37_original
+And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. That's really all there is to it.<end>
+
+=>q37
+And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. That's really all there is to it.<end>
+
+=>a38_original
+What is the reward for completing the Gauntlet?<end>
+
+=>a38
+What is the reward for completing the Gauntlet?<end>
+
+=>q39_original
+Didn't I mention this? Um, it's two thousand charons. That's *two* *thousand.*<end>
+
+=>q39
+Didn't I mention this? Um, it's two thousand charons. That's *two* *thousand.*<end>
+
+=>q40_original
+That's important, I probably mentioned it. ::She yawns.::<end>
+
+=>q40
+That's important, I probably mentioned it. ::She yawns.::<end>
+
+=>a41_original
+What is the Gauntlet?<end>
+
+=>a41
+What is the Gauntlet?<end>
+
+=>q42_original
+Um, the Gauntlet... the Gauntlet is a very recent and increasingly popular, um, event in which contestants called runners compete in overcoming multiple challenging and dangerous rooms. The goal is to, well, survive the rooms *and* get to the end before the other runners do. Its growing popularity is, um, largely due to JKK making sure it's being broadcasted throughout the whole Underrail.<end>
+
+=>q42
+Um, the Gauntlet... the Gauntlet is a very recent and increasingly popular, um, event in which contestants called runners compete in overcoming multiple challenging and dangerous rooms. The goal is to, well, survive the rooms *and* get to the end before the other runners do. Its growing popularity is, um, largely due to JKK making sure it's being broadcasted throughout the whole Underrail.<end>
+
+=>q43_original
+Oh, and since the majority of runners don't survive... ::She pauses.:: What I *really* meant was, it's held once a week.<end>
+
+=>q43
+Oh, and since the majority of runners don't survive... ::She pauses.:: What I *really* meant was, it's held once a week.<end>
+
+=>a44_original
+Let's discuss something else.<end>
+
+=>a44
+Let's discuss something else.<end>
+
+=>q45_original
+::She gives you a tired nod.::<end>
+
+=>q45
+::She gives you a tired nod.::<end>
+
+=>a46_original
+Why don't you get some rest?<end>
+
+=>a46
+Why don't you get some rest?<end>
+
+=>q47_original
+Do you think I don't want to? Um, what I meant was, I wish, oh, how I wish. I long - I yearn for a warm bed. One that will embrace me tightly, love me, caress me and let me sleep for seven days straight - and make the fatigue, the blurred vision and all of that go away...<end>
+
+=>q47
+Do you think I don't want to? Um, what I meant was, I wish, oh, how I wish. I long - I yearn for a warm bed. One that will embrace me tightly, love me, caress me and let me sleep for seven days straight - and make the fatigue, the blurred vision and all of that go away...<end>
+
+=>q48_original
+::She sighs.:: But, I can't. Not now. It's a long story.<end>
+
+=>q48
+::She sighs.:: But, I can't. Not now. It's a long story.<end>
+
+=>a49_original
+See you some other time.<end>
+
+=>a49
+See you some other time.<end>
+
+=>a50_original
+So long. Get some rest.<end>
+
+=>a50
+So long. Get some rest.<end>
+
+=>q51_original
+I would if I could. ::She sighs, yawns and waves at you.:: Bye.<end>
+
+=>q51
+I would if I could. ::She sighs, yawns and waves at you.:: Bye.<end>
+
+=>a52_original
+Bye.<end>
+
+=>a52
+Bye.<end>
+
+=>q53_original
+::Andrea stands there with her eyes closed but quickly opens them wide as soon as you come near.:: I'm awake! I'm awake! I was just resting my eyes! 
+
+Um, what do you need?<end>
+
+=>q53
+::Andrea stands there with her eyes closed but quickly opens them wide as soon as you come near.:: I'm awake! I'm awake! I was just resting my eyes! 
+
+Um, what do you need?<end>
+

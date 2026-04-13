@@ -1,144 +1,144 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Can't believe someone's been killed in SGS.<end>
-
-=>q3
-Can't believe someone's been killed in SGS.<end>
-
-=>q4_original
-What's up?<end>
-
-=>q4
-What's up?<end>
-
-=>q5_original
-You must be the new $(#guy/girl). Welcome.<end>
-
-=>q5
-You must be the new $(#guy/girl). Welcome.<end>
-
-=>q6_original
-How's it going, $(context.player.Name)?<end>
-
-=>q6
-How's it going, $(context.player.Name)?<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-Did you hear about what happened in Core City?<end>
-
-=>q9
-Did you hear about what happened in Core City?<end>
-
-=>q10_original
-I could use a drink.<end>
-
-=>q10
-I could use a drink.<end>
-
-=>q11_original
-Did Newton ever buy you a drink for saving his butt?<end>
-
-=>q11
-Did Newton ever buy you a drink for saving his butt?<end>
-
-=>q12_original
-Does anyone around here actually know what is going on with Tanner?<end>
-
-=>q12
-Does anyone around here actually know what is going on with Tanner?<end>
-
-=>q13_original
-What the heck are we doing in Junkyard?<end>
-
-=>q13
-What the heck are we doing in Junkyard?<end>
-
-=>q14_original
-Lenox is back...<end>
-
-=>q14
-Lenox is back...<end>
-
-=>q15_original
-The Faceless have been defeated!<end>
-
-=>q15
-The Faceless have been defeated!<end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>q18_original
-$(#Man/Damn, sister), wouldn't wanna go out like that Mushroom Cove scavenger. ::Shudders.::<end>
-
-=>q18
-$(#Man/Damn, sister), wouldn't wanna go out like that Mushroom Cove scavenger. ::Shudders.::<end>
-
-=>q19_original
-Did that man... just turn into a grandpa?<end>
-
-=>q19
-Did that man... just turn into a grandpa?<end>
-
-=>q20_original
-Did you sleep through the earthquake?<end>
-
-=>q20
-Did you sleep through the earthquake?<end>
-
-=>q21_original
-I hear the South Tunnel has collapsed for miles. I guess all the visitors are stuck here for a while.<end>
-
-=>q21
-I hear the South Tunnel has collapsed for miles. I guess all the visitors are stuck here for a while.<end>
-
-=>q22_original
-I knew that guy wasn't gonna make it far.<end>
-
-=>q22
-I knew that guy wasn't gonna make it far.<end>
-
-=>q23_original
-My shift starts soon.<end>
-
-=>q23
-My shift starts soon.<end>
-
-=>q24_original
-Good job with the outposts.<end>
-
-=>q24
-Good job with the outposts.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Can't believe someone's been killed in SGS.<end>
+
+=>q3
+Can't believe someone's been killed in SGS.<end>
+
+=>q4_original
+What's up?<end>
+
+=>q4
+What's up?<end>
+
+=>q5_original
+You must be the new $(#guy/girl). Welcome.<end>
+
+=>q5
+You must be the new $(#guy/girl). Welcome.<end>
+
+=>q6_original
+How's it going, $(context.player.Name)?<end>
+
+=>q6
+How's it going, $(context.player.Name)?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+Did you hear about what happened in Core City?<end>
+
+=>q9
+Did you hear about what happened in Core City?<end>
+
+=>q10_original
+I could use a drink.<end>
+
+=>q10
+I could use a drink.<end>
+
+=>q11_original
+Did Newton ever buy you a drink for saving his butt?<end>
+
+=>q11
+Did Newton ever buy you a drink for saving his butt?<end>
+
+=>q12_original
+Does anyone around here actually know what is going on with Tanner?<end>
+
+=>q12
+Does anyone around here actually know what is going on with Tanner?<end>
+
+=>q13_original
+What the heck are we doing in Junkyard?<end>
+
+=>q13
+What the heck are we doing in Junkyard?<end>
+
+=>q14_original
+Lenox is back...<end>
+
+=>q14
+Lenox is back...<end>
+
+=>q15_original
+The Faceless have been defeated!<end>
+
+=>q15
+The Faceless have been defeated!<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+$(#Man/Damn, sister), wouldn't wanna go out like that Mushroom Cove scavenger. ::Shudders.::<end>
+
+=>q18
+$(#Man/Damn, sister), wouldn't wanna go out like that Mushroom Cove scavenger. ::Shudders.::<end>
+
+=>q19_original
+Did that man... just turn into a grandpa?<end>
+
+=>q19
+Did that man... just turn into a grandpa?<end>
+
+=>q20_original
+Did you sleep through the earthquake?<end>
+
+=>q20
+Did you sleep through the earthquake?<end>
+
+=>q21_original
+I hear the South Tunnel has collapsed for miles. I guess all the visitors are stuck here for a while.<end>
+
+=>q21
+I hear the South Tunnel has collapsed for miles. I guess all the visitors are stuck here for a while.<end>
+
+=>q22_original
+I knew that guy wasn't gonna make it far.<end>
+
+=>q22
+I knew that guy wasn't gonna make it far.<end>
+
+=>q23_original
+My shift starts soon.<end>
+
+=>q23
+My shift starts soon.<end>
+
+=>q24_original
+Good job with the outposts.<end>
+
+=>q24
+Good job with the outposts.<end>
+

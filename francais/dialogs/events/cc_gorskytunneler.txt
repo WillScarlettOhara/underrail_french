@@ -1,62 +1,62 @@
-=>q1_original
-Hey, jerk! Are you trying to have some fun without your old pal?<end>
-
-=>q1
-Hey, jerk! Are you trying to have some fun without your old pal?<end>
-
-=>q2_original
-What? Who... Bloody hell... Is it really you? Dan, you slob! What are you doing here?<end>
-
-=>q2
-What? Who... Bloody hell... Is it really you? Dan, you slob! What are you doing here?<end>
-
-=>q3_original
-Hey, I've improved. I'm not *that* lazy anymore. ::He laughs.:: But you, jerk, you disappoint me. Where's the welcoming party, huh? Huh? Where's the gun salute? Explosions? Scantily clothed chicks? And why aren't you standing on a pile of corpses? What the hell, man? 
-
-Also, you look older than Billy Toxic, by the way. Remember him, grandpa?<end>
-
-=>q3
-Hey, I've improved. I'm not *that* lazy anymore. ::He laughs.:: But you, jerk, you disappoint me. Where's the welcoming party, huh? Huh? Where's the gun salute? Explosions? Scantily clothed chicks? And why aren't you standing on a pile of corpses? What the hell, man? 
-
-Also, you look older than Billy Toxic, by the way. Remember him, grandpa?<end>
-
-=>q4_original
-Billy Toxic? That is low. You're the one who is old, man, 'cause your eyes aren't working as well as they should. Don't you see this huge bloody tunneler? I've got all I need. And what've you got, a rusty armor and a toothpick shooter?<end>
-
-=>q4
-Billy Toxic? That is low. You're the one who is old, man, 'cause your eyes aren't working as well as they should. Don't you see this huge bloody tunneler? I've got all I need. And what've you got, a rusty armor and a toothpick shooter?<end>
-
-=>q5_original
-Hey! This tootpi-- this rifle saved me from boredom on so many occasions. I've committed genocide on bottles and barrels. 
-
-Still, I do like this tunneler of yours. I approve.<end>
-
-=>q5
-Hey! This tootpi-- this rifle saved me from boredom on so many occasions. I've committed genocide on bottles and barrels. 
-
-Still, I do like this tunneler of yours. I approve.<end>
-
-=>q6_original
-Good to see you again, man.<end>
-
-=>q6
-Good to see you again, man.<end>
-
-=>q7_original
-Yeah, you too. It's been a while. Hey, do you still cry yourself to sleep?<end>
-
-=>q7
-Yeah, you too. It's been a while. Hey, do you still cry yourself to sleep?<end>
-
-=>q8_original
-::He laughs.:: You bastard! Shut up and get in the bloody tunneler.<end>
-
-=>q8
-::He laughs.:: You bastard! Shut up and get in the bloody tunneler.<end>
-
-=>a9_original
-::End Dialog.::<end>
-
-=>a9
-::End Dialog.::<end>
-
+=>q1_original
+Hey, jerk! Are you trying to have some fun without your old pal?<end>
+
+=>q1
+Hey, jerk! Are you trying to have some fun without your old pal?<end>
+
+=>q2_original
+What? Who... Bloody hell... Is it really you? Dan, you slob! What are you doing here?<end>
+
+=>q2
+What? Who... Bloody hell... Is it really you? Dan, you slob! What are you doing here?<end>
+
+=>q3_original
+Hey, I've improved. I'm not *that* lazy anymore. ::He laughs.:: But you, jerk, you disappoint me. Where's the welcoming party, huh? Huh? Where's the gun salute? Explosions? Scantily clothed chicks? And why aren't you standing on a pile of corpses? What the hell, man? 
+
+Also, you look older than Billy Toxic, by the way. Remember him, grandpa?<end>
+
+=>q3
+Hey, I've improved. I'm not *that* lazy anymore. ::He laughs.:: But you, jerk, you disappoint me. Where's the welcoming party, huh? Huh? Where's the gun salute? Explosions? Scantily clothed chicks? And why aren't you standing on a pile of corpses? What the hell, man? 
+
+Also, you look older than Billy Toxic, by the way. Remember him, grandpa?<end>
+
+=>q4_original
+Billy Toxic? That is low. You're the one who is old, man, 'cause your eyes aren't working as well as they should. Don't you see this huge bloody tunneler? I've got all I need. And what've you got, a rusty armor and a toothpick shooter?<end>
+
+=>q4
+Billy Toxic? That is low. You're the one who is old, man, 'cause your eyes aren't working as well as they should. Don't you see this huge bloody tunneler? I've got all I need. And what've you got, a rusty armor and a toothpick shooter?<end>
+
+=>q5_original
+Hey! This tootpi-- this rifle saved me from boredom on so many occasions. I've committed genocide on bottles and barrels. 
+
+Still, I do like this tunneler of yours. I approve.<end>
+
+=>q5
+Hey! This tootpi-- this rifle saved me from boredom on so many occasions. I've committed genocide on bottles and barrels. 
+
+Still, I do like this tunneler of yours. I approve.<end>
+
+=>q6_original
+Good to see you again, man.<end>
+
+=>q6
+Good to see you again, man.<end>
+
+=>q7_original
+Yeah, you too. It's been a while. Hey, do you still cry yourself to sleep?<end>
+
+=>q7
+Yeah, you too. It's been a while. Hey, do you still cry yourself to sleep?<end>
+
+=>q8_original
+::He laughs.:: You bastard! Shut up and get in the bloody tunneler.<end>
+
+=>q8
+::He laughs.:: You bastard! Shut up and get in the bloody tunneler.<end>
+
+=>a9_original
+::End Dialog.::<end>
+
+=>a9
+::End Dialog.::<end>
+

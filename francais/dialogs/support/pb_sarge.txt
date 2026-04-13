@@ -1,66 +1,66 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Whoever said the pen is mightier than the sword obviously never encountered automatic weapons.<end>
-
-=>q2
-Whoever said the pen is mightier than the sword obviously never encountered automatic weapons.<end>
-
-=>q3_original
-It is fatal to enter a war without the will to win it.<end>
-
-=>q3
-It is fatal to enter a war without the will to win it.<end>
-
-=>q4_original
-Rank does not confer privilege or give power. It imposes responsibility.<end>
-
-=>q4
-Rank does not confer privilege or give power. It imposes responsibility.<end>
-
-=>q5_original
-It doesn't take a hero to order men into battle. It takes a hero to be one of those men who goes into battle.<end>
-
-=>q5
-It doesn't take a hero to order men into battle. It takes a hero to be one of those men who goes into battle.<end>
-
-=>q6_original
-Only our individual faith in freedom can keep us free.<end>
-
-=>q6
-Only our individual faith in freedom can keep us free.<end>
-
-=>q7_original
-No guts, no glory.<end>
-
-=>q7
-No guts, no glory.<end>
-
-=>q8_original
-The truth of the matter is that you always know the right thing to do. The hard part is doing it.<end>
-
-=>q8
-The truth of the matter is that you always know the right thing to do. The hard part is doing it.<end>
-
-=>q9_original
-What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.<end>
-
-=>q9
-What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.<end>
-
-=>q10_original
-You must not fight too often with one enemy, or you will teach him all your art of war.<end>
-
-=>q10
-You must not fight too often with one enemy, or you will teach him all your art of war.<end>
-
-=>q11_original
-Accept the challenges so that you can feel the exhilaration of victory.<end>
-
-=>q11
-Accept the challenges so that you can feel the exhilaration of victory.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Whoever said the pen is mightier than the sword obviously never encountered automatic weapons.<end>
+
+=>q2
+Whoever said the pen is mightier than the sword obviously never encountered automatic weapons.<end>
+
+=>q3_original
+It is fatal to enter a war without the will to win it.<end>
+
+=>q3
+It is fatal to enter a war without the will to win it.<end>
+
+=>q4_original
+Rank does not confer privilege or give power. It imposes responsibility.<end>
+
+=>q4
+Rank does not confer privilege or give power. It imposes responsibility.<end>
+
+=>q5_original
+It doesn't take a hero to order men into battle. It takes a hero to be one of those men who goes into battle.<end>
+
+=>q5
+It doesn't take a hero to order men into battle. It takes a hero to be one of those men who goes into battle.<end>
+
+=>q6_original
+Only our individual faith in freedom can keep us free.<end>
+
+=>q6
+Only our individual faith in freedom can keep us free.<end>
+
+=>q7_original
+No guts, no glory.<end>
+
+=>q7
+No guts, no glory.<end>
+
+=>q8_original
+The truth of the matter is that you always know the right thing to do. The hard part is doing it.<end>
+
+=>q8
+The truth of the matter is that you always know the right thing to do. The hard part is doing it.<end>
+
+=>q9_original
+What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.<end>
+
+=>q9
+What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.<end>
+
+=>q10_original
+You must not fight too often with one enemy, or you will teach him all your art of war.<end>
+
+=>q10
+You must not fight too often with one enemy, or you will teach him all your art of war.<end>
+
+=>q11_original
+Accept the challenges so that you can feel the exhilaration of victory.<end>
+
+=>q11
+Accept the challenges so that you can feel the exhilaration of victory.<end>
+

@@ -1,90 +1,90 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Did you just create a tear in the universe? For me? Awww, $(#Dad/Mom), you're the best!<end>
-
-=>q2
-Did you just create a tear in the universe? For me? Awww, $(#Dad/Mom), you're the best!<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-$(#Dad/Mom)? I thought you died...<end>
-
-=>q4
-$(#Dad/Mom)? I thought you died...<end>
-
-=>q5_original
-I'm not a drug addict, $(#Dad/Mom) - it's only Motion.<end>
-
-=>q5
-I'm not a drug addict, $(#Dad/Mom) - it's only Motion.<end>
-
-=>q6_original
-Why'd you name me Rash? I rarely have rashes.<end>
-
-=>q6
-Why'd you name me Rash? I rarely have rashes.<end>
-
-=>q7_original
-The monsters came out of the wall, $(#Dad/Mom). I'm scared.<end>
-
-=>q7
-The monsters came out of the wall, $(#Dad/Mom). I'm scared.<end>
-
-=>q8_original
-My life turned to pipeworks after you both died. Nasty pipeworks.<end>
-
-=>q8
-My life turned to pipeworks after you both died. Nasty pipeworks.<end>
-
-=>q9_original
-It's good to see you again, $(#Dad/Mom). I really missed you.<end>
-
-=>q9
-It's good to see you again, $(#Dad/Mom). I really missed you.<end>
-
-=>q10_original
-Motion relaxes me. It draws my mind away from... horrors.<end>
-
-=>q10
-Motion relaxes me. It draws my mind away from... horrors.<end>
-
-=>q11_original
-You're looking younger than me, $(#Dad/Mom)! What creme are you using?<end>
-
-=>q11
-You're looking younger than me, $(#Dad/Mom)! What creme are you using?<end>
-
-=>q12_original
-I'm cold, $(#Dad/Mom). Could you... hug me?<end>
-
-=>q12
-I'm cold, $(#Dad/Mom). Could you... hug me?<end>
-
-=>q13_original
-When I get myself in Motion my farts stink differently. More sweet and... less like something died in there.<end>
-
-=>q13
-When I get myself in Motion my farts stink differently. More sweet and... less like something died in there.<end>
-
-=>q14_original
-Are the Facelifters going to kill us all?<end>
-
-=>q14
-Are the Facelifters going to kill us all?<end>
-
-=>q15_original
-$(#Dad/Mom)... could you bring me some shroom juice? Please.<end>
-
-=>q15
-$(#Dad/Mom)... could you bring me some shroom juice? Please.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Did you just create a tear in the universe? For me? Awww, $(#Dad/Mom), you're the best!<end>
+
+=>q2
+Did you just create a tear in the universe? For me? Awww, $(#Dad/Mom), you're the best!<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+$(#Dad/Mom)? I thought you died...<end>
+
+=>q4
+$(#Dad/Mom)? I thought you died...<end>
+
+=>q5_original
+I'm not a drug addict, $(#Dad/Mom) - it's only Motion.<end>
+
+=>q5
+I'm not a drug addict, $(#Dad/Mom) - it's only Motion.<end>
+
+=>q6_original
+Why'd you name me Rash? I rarely have rashes.<end>
+
+=>q6
+Why'd you name me Rash? I rarely have rashes.<end>
+
+=>q7_original
+The monsters came out of the wall, $(#Dad/Mom). I'm scared.<end>
+
+=>q7
+The monsters came out of the wall, $(#Dad/Mom). I'm scared.<end>
+
+=>q8_original
+My life turned to pipeworks after you both died. Nasty pipeworks.<end>
+
+=>q8
+My life turned to pipeworks after you both died. Nasty pipeworks.<end>
+
+=>q9_original
+It's good to see you again, $(#Dad/Mom). I really missed you.<end>
+
+=>q9
+It's good to see you again, $(#Dad/Mom). I really missed you.<end>
+
+=>q10_original
+Motion relaxes me. It draws my mind away from... horrors.<end>
+
+=>q10
+Motion relaxes me. It draws my mind away from... horrors.<end>
+
+=>q11_original
+You're looking younger than me, $(#Dad/Mom)! What creme are you using?<end>
+
+=>q11
+You're looking younger than me, $(#Dad/Mom)! What creme are you using?<end>
+
+=>q12_original
+I'm cold, $(#Dad/Mom). Could you... hug me?<end>
+
+=>q12
+I'm cold, $(#Dad/Mom). Could you... hug me?<end>
+
+=>q13_original
+When I get myself in Motion my farts stink differently. More sweet and... less like something died in there.<end>
+
+=>q13
+When I get myself in Motion my farts stink differently. More sweet and... less like something died in there.<end>
+
+=>q14_original
+Are the Facelifters going to kill us all?<end>
+
+=>q14
+Are the Facelifters going to kill us all?<end>
+
+=>q15_original
+$(#Dad/Mom)... could you bring me some shroom juice? Please.<end>
+
+=>q15
+$(#Dad/Mom)... could you bring me some shroom juice? Please.<end>
+

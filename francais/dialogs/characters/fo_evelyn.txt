@@ -1,366 +1,366 @@
-=>q1_original
-::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::<end>
-
-=>q1
-::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::<end>
-
-=>q2_original
-::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. 
-
-The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
-
-=>q2
-::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. 
-
-The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
-
-=>q3_original
-::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
-
-Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
-
-=>q3
-::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
-
-Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
-
-=>a4_original
-::End Dialog.::<end>
-
-=>a4
-::End Dialog.::<end>
-
-=>q5_original
-::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. 
-
-She is the first one to speak.::
-
-Good day. May I help you somehow?<end>
-
-=>q5
-::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. 
-
-She is the first one to speak.::
-
-Good day. May I help you somehow?<end>
-
-=>a6_original
-Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.<end>
-
-=>a6
-Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.<end>
-
-=>q7_original
-::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?<end>
-
-=>q7
-::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-Who are you and what do you do around here?<end>
-
-=>a9
-Who are you and what do you do around here?<end>
-
-=>q10_original
-Ah, I don't think it would be very smart of me to discuss personal information with strangers... but you seem like an honest guy. Different than the ones I'm usually surrounded with.<end>
-
-=>q10
-Ah, I don't think it would be very smart of me to discuss personal information with strangers... but you seem like an honest guy. Different than the ones I'm usually surrounded with.<end>
-
-=>q11_original
-I don't know what to say about myself... Well, I was the wife of the former Foundry Guard chief, Michael Ingram. You might have heard of him. Sadly, he died some time ago from a heart attack, leaving me... all alone.<end>
-
-=>q11
-I don't know what to say about myself... Well, I was the wife of the former Foundry Guard chief, Michael Ingram. You might have heard of him. Sadly, he died some time ago from a heart attack, leaving me... all alone.<end>
-
-=>a12_original
-I'm very sorry to hear that.<end>
-
-=>a12
-I'm very sorry to hear that.<end>
-
-=>q13_original
-I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the "quality" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.<end>
-
-=>q13
-I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the "quality" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.<end>
-
-=>q14_original
-Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
-
-=>q14
-Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
-
-=>q15_original
-::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
-
-=>q15
-::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
-
-=>a16_original
-I'm sorry. Maybe we should change the subject.<end>
-
-=>a16
-I'm sorry. Maybe we should change the subject.<end>
-
-=>q17_original
-Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...<end>
-
-=>q17
-Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...<end>
-
-=>q18_original
-Excuse me? I just met you and I'm not comfortable talking about private things with strangers.<end>
-
-=>q18
-Excuse me? I just met you and I'm not comfortable talking about private things with strangers.<end>
-
-=>q19_original
-If you're going to ask me direct personal questions like that - I suggest you find someone else to interrogate.<end>
-
-=>q19
-If you're going to ask me direct personal questions like that - I suggest you find someone else to interrogate.<end>
-
-=>a20_original
-A beautiful woman like you should not be forced to sit alone in her home and wither away. I can make you company, if you don't have a problem with that.<end>
-
-=>a20
-A beautiful woman like you should not be forced to sit alone in her home and wither away. I can make you company, if you don't have a problem with that.<end>
-
-=>q21_original
-::A charming smile slowly appears on her face.:: Not at all. Thank you for the compliment, but I don't consider myself *that* beautiful. Pretty seems more appropriate. But, you are right about me being alone... that is true, sadly.
-
-::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?<end>
-
-=>q21
-::A charming smile slowly appears on her face.:: Not at all. Thank you for the compliment, but I don't consider myself *that* beautiful. Pretty seems more appropriate. But, you are right about me being alone... that is true, sadly.
-
-::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?<end>
-
-=>a22_original
-::Have a drink with Evelyn.::<end>
-
-=>a22
-::Have a drink with Evelyn.::<end>
-
-=>a23_original
-A drink? Are you sure this isn't a misunderstanding?<end>
-
-=>a23
-A drink? Are you sure this isn't a misunderstanding?<end>
-
-=>q24_original
-Well, let's see now... ::She smiles.:: First, I would like for you to have a nice drink with me, or several. After that... well, who knows, we'll see what happens after that, if you understand what I... mean.<end>
-
-=>q24
-Well, let's see now... ::She smiles.:: First, I would like for you to have a nice drink with me, or several. After that... well, who knows, we'll see what happens after that, if you understand what I... mean.<end>
-
-=>a25_original
-Sorry, but I'm going to have to say no.<end>
-
-=>a25
-Sorry, but I'm going to have to say no.<end>
-
-=>q26_original
-::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
-
-=>q26
-::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
-
-=>q27_original
-Anyway, is there anything else you wanted or are we done?<end>
-
-=>q27
-Anyway, is there anything else you wanted or are we done?<end>
-
-=>a28_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a28
-How do you feel now that the mine has been reopened?<end>
-
-=>q29_original
-Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
-
-=>q29
-Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
-
-=>q30_original
-I'd really love to hear it.<end>
-
-=>q30
-I'd really love to hear it.<end>
-
-=>q31_original
-I heard people talking about it. I'm glad it was over quickly.<end>
-
-=>q31
-I heard people talking about it. I'm glad it was over quickly.<end>
-
-=>q32_original
-Good news.<end>
-
-=>q32
-Good news.<end>
-
-=>a33_original
-What can you tell me about Foundry?<end>
-
-=>a33
-What can you tell me about Foundry?<end>
-
-=>q34_original
-About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
-
-=>q34
-About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
-
-=>q35_original
-To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
-
-=>q35
-To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
-
-=>q36_original
-You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.<end>
-
-=>q36
-You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.<end>
-
-=>q37_original
-That's all there is to it.<end>
-
-=>q37
-That's all there is to it.<end>
-
-=>a38_original
-What was I thinking! I'd like to have a drink with you - if the offer still stands?<end>
-
-=>a38
-What was I thinking! I'd like to have a drink with you - if the offer still stands?<end>
-
-=>q39_original
-::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
-
-=>q39
-::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
-
-=>a40_original
-Yes.<end>
-
-=>a40
-Yes.<end>
-
-=>q41_original
-::She pauses for several seconds, alternately looking at you then away as she considers your words. Finally, she speaks.::
- 
-I think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...<end>
-
-=>q41
-::She pauses for several seconds, alternately looking at you then away as she considers your words. Finally, she speaks.::
- 
-I think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...<end>
-
-=>a42_original
-Well, no. You are right to be mad.<end>
-
-=>a42
-Well, no. You are right to be mad.<end>
-
-=>a43_original
-I'm really, really sorry. I'll be good this time.<end>
-
-=>a43
-I'm really, really sorry. I'll be good this time.<end>
-
-=>a44_original
-Do you know anything about creatures from the mine?<end>
-
-=>a44
-Do you know anything about creatures from the mine?<end>
-
-=>q45_original
-Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
-
-=>q45
-Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
-
-=>q46_original
-And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
-
-=>q46
-And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
-
-=>a47_original
-Are you bothered by those people from the slums? I mean, you live right next to them.<end>
-
-=>a47
-Are you bothered by those people from the slums? I mean, you live right next to them.<end>
-
-=>q48_original
-Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
-
-=>q48
-Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
-
-=>q49_original
-And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>
-
-=>q49
-And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>
-
-=>q50_original
-You seem pretty nice too. ::She smiles.::<end>
-
-=>q50
-You seem pretty nice too. ::She smiles.::<end>
-
-=>a51_original
-I need to go. Bye.<end>
-
-=>a51
-I need to go. Bye.<end>
-
-=>q52_original
-See you again. Bye.<end>
-
-=>q52
-See you again. Bye.<end>
-
-=>q53_original
-Goodbye.<end>
-
-=>q53
-Goodbye.<end>
-
-=>q54_original
-Nice to meet you. I'm Evelyn. What do you need?<end>
-
-=>q54
-Nice to meet you. I'm Evelyn. What do you need?<end>
-
-=>a55_original
-Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.<end>
-
-=>a55
-Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.<end>
-
-=>q56_original
-Hello. I was just thinking about you, $(context.player.Name).<end>
-
-=>q56
-Hello. I was just thinking about you, $(context.player.Name).<end>
-
-=>q57_original
-What is it?<end>
-
-=>q57
-What is it?<end>
-
+=>q1_original
+::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::<end>
+
+=>q1
+::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::<end>
+
+=>q2_original
+::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. 
+
+The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
+
+=>q2
+::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. 
+
+The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
+
+=>q3_original
+::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
+
+Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
+
+=>q3
+::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
+
+Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
+
+=>a4_original
+::End Dialog.::<end>
+
+=>a4
+::End Dialog.::<end>
+
+=>q5_original
+::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. 
+
+She is the first one to speak.::
+
+Good day. May I help you somehow?<end>
+
+=>q5
+::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. 
+
+She is the first one to speak.::
+
+Good day. May I help you somehow?<end>
+
+=>a6_original
+Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.<end>
+
+=>a6
+Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.<end>
+
+=>q7_original
+::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?<end>
+
+=>q7
+::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Who are you and what do you do around here?<end>
+
+=>a9
+Who are you and what do you do around here?<end>
+
+=>q10_original
+Ah, I don't think it would be very smart of me to discuss personal information with strangers... but you seem like an honest guy. Different than the ones I'm usually surrounded with.<end>
+
+=>q10
+Ah, I don't think it would be very smart of me to discuss personal information with strangers... but you seem like an honest guy. Different than the ones I'm usually surrounded with.<end>
+
+=>q11_original
+I don't know what to say about myself... Well, I was the wife of the former Foundry Guard chief, Michael Ingram. You might have heard of him. Sadly, he died some time ago from a heart attack, leaving me... all alone.<end>
+
+=>q11
+I don't know what to say about myself... Well, I was the wife of the former Foundry Guard chief, Michael Ingram. You might have heard of him. Sadly, he died some time ago from a heart attack, leaving me... all alone.<end>
+
+=>a12_original
+I'm very sorry to hear that.<end>
+
+=>a12
+I'm very sorry to hear that.<end>
+
+=>q13_original
+I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the "quality" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.<end>
+
+=>q13
+I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the "quality" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.<end>
+
+=>q14_original
+Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
+
+=>q14
+Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
+
+=>q15_original
+::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
+
+=>q15
+::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
+
+=>a16_original
+I'm sorry. Maybe we should change the subject.<end>
+
+=>a16
+I'm sorry. Maybe we should change the subject.<end>
+
+=>q17_original
+Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...<end>
+
+=>q17
+Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...<end>
+
+=>q18_original
+Excuse me? I just met you and I'm not comfortable talking about private things with strangers.<end>
+
+=>q18
+Excuse me? I just met you and I'm not comfortable talking about private things with strangers.<end>
+
+=>q19_original
+If you're going to ask me direct personal questions like that - I suggest you find someone else to interrogate.<end>
+
+=>q19
+If you're going to ask me direct personal questions like that - I suggest you find someone else to interrogate.<end>
+
+=>a20_original
+A beautiful woman like you should not be forced to sit alone in her home and wither away. I can make you company, if you don't have a problem with that.<end>
+
+=>a20
+A beautiful woman like you should not be forced to sit alone in her home and wither away. I can make you company, if you don't have a problem with that.<end>
+
+=>q21_original
+::A charming smile slowly appears on her face.:: Not at all. Thank you for the compliment, but I don't consider myself *that* beautiful. Pretty seems more appropriate. But, you are right about me being alone... that is true, sadly.
+
+::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?<end>
+
+=>q21
+::A charming smile slowly appears on her face.:: Not at all. Thank you for the compliment, but I don't consider myself *that* beautiful. Pretty seems more appropriate. But, you are right about me being alone... that is true, sadly.
+
+::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?<end>
+
+=>a22_original
+::Have a drink with Evelyn.::<end>
+
+=>a22
+::Have a drink with Evelyn.::<end>
+
+=>a23_original
+A drink? Are you sure this isn't a misunderstanding?<end>
+
+=>a23
+A drink? Are you sure this isn't a misunderstanding?<end>
+
+=>q24_original
+Well, let's see now... ::She smiles.:: First, I would like for you to have a nice drink with me, or several. After that... well, who knows, we'll see what happens after that, if you understand what I... mean.<end>
+
+=>q24
+Well, let's see now... ::She smiles.:: First, I would like for you to have a nice drink with me, or several. After that... well, who knows, we'll see what happens after that, if you understand what I... mean.<end>
+
+=>a25_original
+Sorry, but I'm going to have to say no.<end>
+
+=>a25
+Sorry, but I'm going to have to say no.<end>
+
+=>q26_original
+::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
+
+=>q26
+::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
+
+=>q27_original
+Anyway, is there anything else you wanted or are we done?<end>
+
+=>q27
+Anyway, is there anything else you wanted or are we done?<end>
+
+=>a28_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a28
+How do you feel now that the mine has been reopened?<end>
+
+=>q29_original
+Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
+
+=>q29
+Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
+
+=>q30_original
+I'd really love to hear it.<end>
+
+=>q30
+I'd really love to hear it.<end>
+
+=>q31_original
+I heard people talking about it. I'm glad it was over quickly.<end>
+
+=>q31
+I heard people talking about it. I'm glad it was over quickly.<end>
+
+=>q32_original
+Good news.<end>
+
+=>q32
+Good news.<end>
+
+=>a33_original
+What can you tell me about Foundry?<end>
+
+=>a33
+What can you tell me about Foundry?<end>
+
+=>q34_original
+About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
+
+=>q34
+About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
+
+=>q35_original
+To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
+
+=>q35
+To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
+
+=>q36_original
+You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.<end>
+
+=>q36
+You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.<end>
+
+=>q37_original
+That's all there is to it.<end>
+
+=>q37
+That's all there is to it.<end>
+
+=>a38_original
+What was I thinking! I'd like to have a drink with you - if the offer still stands?<end>
+
+=>a38
+What was I thinking! I'd like to have a drink with you - if the offer still stands?<end>
+
+=>q39_original
+::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
+
+=>q39
+::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
+
+=>a40_original
+Yes.<end>
+
+=>a40
+Yes.<end>
+
+=>q41_original
+::She pauses for several seconds, alternately looking at you then away as she considers your words. Finally, she speaks.::
+ 
+I think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...<end>
+
+=>q41
+::She pauses for several seconds, alternately looking at you then away as she considers your words. Finally, she speaks.::
+ 
+I think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...<end>
+
+=>a42_original
+Well, no. You are right to be mad.<end>
+
+=>a42
+Well, no. You are right to be mad.<end>
+
+=>a43_original
+I'm really, really sorry. I'll be good this time.<end>
+
+=>a43
+I'm really, really sorry. I'll be good this time.<end>
+
+=>a44_original
+Do you know anything about creatures from the mine?<end>
+
+=>a44
+Do you know anything about creatures from the mine?<end>
+
+=>q45_original
+Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
+
+=>q45
+Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
+
+=>q46_original
+And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
+
+=>q46
+And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
+
+=>a47_original
+Are you bothered by those people from the slums? I mean, you live right next to them.<end>
+
+=>a47
+Are you bothered by those people from the slums? I mean, you live right next to them.<end>
+
+=>q48_original
+Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
+
+=>q48
+Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
+
+=>q49_original
+And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>
+
+=>q49
+And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>
+
+=>q50_original
+You seem pretty nice too. ::She smiles.::<end>
+
+=>q50
+You seem pretty nice too. ::She smiles.::<end>
+
+=>a51_original
+I need to go. Bye.<end>
+
+=>a51
+I need to go. Bye.<end>
+
+=>q52_original
+See you again. Bye.<end>
+
+=>q52
+See you again. Bye.<end>
+
+=>q53_original
+Goodbye.<end>
+
+=>q53
+Goodbye.<end>
+
+=>q54_original
+Nice to meet you. I'm Evelyn. What do you need?<end>
+
+=>q54
+Nice to meet you. I'm Evelyn. What do you need?<end>
+
+=>a55_original
+Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.<end>
+
+=>a55
+Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.<end>
+
+=>q56_original
+Hello. I was just thinking about you, $(context.player.Name).<end>
+
+=>q56
+Hello. I was just thinking about you, $(context.player.Name).<end>
+
+=>q57_original
+What is it?<end>
+
+=>q57
+What is it?<end>
+

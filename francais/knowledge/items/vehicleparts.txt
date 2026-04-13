@@ -1,10 +1,10 @@
-::Frame
-        
-::Engine
-The more powerful the engine, the faster the vehicle can move under greater loads.
-
-::Battery
-The bigger the battery, the longer the vehicle can move at normal speed.
-
-::JetskiSuspension
-The better the suspension system, the easier the driver can fight and perform other actions that require balancing.
+::Frame
+        
+::Engine
+The more powerful the engine, the faster the vehicle can move under greater loads.
+
+::Battery
+The bigger the battery, the longer the vehicle can move at normal speed.
+
+::JetskiSuspension
+The better the suspension system, the easier the driver can fight and perform other actions that require balancing.

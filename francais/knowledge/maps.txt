@@ -1,320 +1,320 @@
-::SGS
-This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves.
-
-::SouthGateStation
-This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves.
-
-::CrossroadCaves
-Cave tunnels connecting SGS with the lower caves.
-
-::SouthGateOutposts
-Caves containing series of small outposts once used by South Gate Station.
-
-::Caves
-There is an intricate network of cave tunnels below, above and all around the Underrail metro system.
-
-::sgs-l2
-You can purchase weapons and armors from Lucas at the armory here, and also practice your gun skills at the shooting range.
-
-::sgs-l3
-Purchase food and gossip around in the cantina. Tanner's office is also on this level.
-
-::sgs-l4
-Vera's office is on this level.
-
-::sgs-l5
-This level contains the private quarters of many of the stations inhabitants, including yours.
-
-::sgs-l6
-You can get medical and psionic attention here.
-
-::sgs-l7
-This is where mechanical, electronic and computer engineering takes place. You can purchase related equipment here.
-
-::sgs-l8
-This is where the animals are kept and plants and fungi are grown. You can purchase various biological components here.
-
-::sgs-l9
-You can exit into the caves here or go to the docks.
-
-::GMSCompound
-The GMS compound used to belong to Omega station, before it was abandoned.
-
-::CampHathor
-Old coal mining outpost that turned into a hunting camp.
-
-::HathorMine
-Old coal mine.
-
-::RathoundKingLair
-You have a creepy feeling that someone is staring at you intensely from some dark corner as you move through these caves.
-
-::BatteryRecyclingPlant
-An old abandoned battery recycling plant.
-
-::SGSDocks
-From here you can set sail to Junkyard, Camp Hathor, and Core City.
-
-::MushroomCove
-Many smaller rivers and streams converge here to create one large body of water from which the river Celeritas springs.
-
-::SiphonerPools
-You can hear the sound of water bubbling up all around you.
-
-::Junkyard
-A scrappy settlement off the grid, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs.
-
-::JunkyardDocks
-Controlled by ruthless Black Eels. From here you can set sail to South Gate Station, Camp Hathor and Core City.
-
-::Junkyard-DepotA
-The original junkyard. Now a dangerous place overrun by mutants.
-
-::JunkyardGate
-Gate to the settlement known as Junkyard.
-
-::CoreCity
-The largest city of the South Underrail. Formerly a Biocorp megalopolis, now ruled by an independent oligarchy.
-
-::CoreCityGates
-Gates to Core City.
-
-::FoundryEntrance
-Entrance to the industrial town of Foundry.
-
-::Foundry
-This industrial complex, in addition of being a foundry, also houses its workers, as well as a number of traders and the renowned Foundry Guard.
-
-::FoundryMine
-People of Foundry extract valuable ore from these caverns.
-
-::UpperUnderrail
-Upper metro system of South Underrail. It used to connect mostly commercial, research and educational facilities.
-
-::GatestoInstituteofTchort
-Entrance to the Institute of Tchort, an esoteric sciento-religious community.
-
-::InstituteofTchort
-An esoteric sciento-religious community.
-
-::EmporionShoppingMall
-An old decrepit shopping center.
-
-::EpioneLab
-Old research lab, now used for... other purposes.
-
-::PanaceaLabEntrance
-Entrance to an old research lab.
-
-::PanaceaLab
-Old research lab, now used for... other purposes.
-
-::FortApogee
-Biggest Protectorate outpost in South Underrail.
-
-::LowerUnderrail
-Lower metro system of South Underrail. It used to connect mostly industrial facilities.
-
-::SouthRailroadOutpost
-Protectorate's outpost in the farthest south of Underrail.
-
-::HijackedTrainLocation
-A secluded metro station.
-
-::RailCrossing
-A small peaceful community.
-
-::WarehouseBlockBeta
-This storage block is now occupied by Ironheads.
-
-::HecateResearchOutpost
-Old research lab, now used for... other purposes.
-
-::LowerPassages
-A network of utility passages sprawling underneath the lower metro system.
-
-::Oculus
-The eye of Underrail.
-
-::HephaestusResearch
-Old research lab, now used for... other purposes.
-
-::HangingRat
-A weird out-of-the-way inn.
-
-::Tchort
-Abominable thing...
-
-::MutagenTanks
-Large, often badly damaged, mutagen tanks litter this area.
-
-::HollowEarth
-Old decrepit Biocorp research complex. It seems to have met a gruesome end.
-
-::DeepCavernPassage
-Caved-in passage.
-
-::CytosineOutpost
-Tchortists outpost in Deep Cavern.
-
-::TithonusLab
-Something very wrong seems to be going on in this lab.
-
-::StrangeShack
-What is this scrappy shack doing in this secluded part of Deep Caverns.
-
-::ArkePowerStation
-It seems to be still working in some capacity.
-
-::DeepCaverns-WarehouseBlock2
-A series of storage facilities.
-
-::TalosOutpost
-This old outpost has new residents.
-
-::CaerusResidential
-There is a number of ruined residential buildings here.
-
-::RathoundLair
-Red beedy eyes in the darkness.
-
-::Labyrinth
-A system of small caves connected with narrow tunnels.
-
-::MushroomForest
-This is not right. Mushrooms should not be this big.
-
-::DeepCaverns
-So it is true, there is a system of large caverns deep beneath Underrail.
-
-::LowerUnderrailFacility
-Old abandoned Biocorp facility.
-
-::FreeDronesBase
-This is the base of operations for Free Drones.
-
-::Unknown
-You're not sure where you are...
-
-::BlackSea
-Black Sea is a giant lake resting in the equally big cavern. This area is also known as Hell's Gut.
-
-::BlackSeaGrotto
-A secluded grotto.
-
-::SørmirbærenVillage
-There's a village of savage Black Sea natives here.
-
-::SørmirbærenTemple
-Something that you can only describe as an aura of evil weighs heavily upon you in this place.
-
-::MutieRefuge
-This island is now home to a community of muties.
-
-::BlackSeaRapids
-The waters here are very quick and treacherous.
-
-::Jaws
-The numerous stalagmites and stalactites here give jaw-like appearance to this passageway that leads to the Black Sea.
-
-::BlackSeaExpeditionCamp
-A group of Northerners have set up camp here.
-
-::PortCeto-Skidrow
-This large makeshift port is home to the Black Sea pirates.
-
-::PortCeto
-This large makeshift port is home to the Black Sea pirates.
-
-::PortCeto-Katya'sHomestead
-This large makeshift port is home to the Black Sea pirates.
-
-::PortCeto-Destroyer
-This large makeshift port is home to the Black Sea pirates. It seems to have been built around an old decrepit battleship.
-
-::CrimsonMeadowHorticultureCenter
-It's overgrown with some type of reddish weed.
-
-::Boneyard
-It's hard to image the creatures these bones once belonged to. Surely nothing this big exists anymore in the Black Sea.
-
-::SørmirbærenGraveyard
-One can indubitably sense a restless and malicious numen here.
-
-::PirateOutskirts
-There be pirates here.
-
-::PortCrag
-The smaller of the two pirate ports.
-
-::LEMCO
-Large waterfront of an old industrial complex.
-
-::BasaltCave
-A natural basalt cave.
-
-::FetidMarsh
-This foul-smelling marsh is overrun with insects, snakes and other undesirables.
-
-::NexusofTechnology
-Entrance to some sort of high-tech facility.
-
-::BlisteringShores
-The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers.
-
-::BlisteringShoresResearchFacility
-The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers. There's a facility here, though.
-
-::GiantCreeperLair
-You can hear skittering all around you.
-
-::JointSecurityHeadquarters
-Due to all the automated combat machinery, you can also surmise that this is some sort of a military base.
-
-::OldIb'sHomestead
-It appears someone is living here.
-
-::CoreCitySewerExit
-Even by Core City standards this place is really stinky.
-
-::CoreRing
-The circular waterway near the Core City is popularly called Core Ring.
-
-::CoreRingProtectorateOutpost
-The circular waterway near the Core City is popularly called Core Ring. Protectorate likes to set up its outposts there.
-
-::RigPeriphery
-Too close to the Rig for pirates, but too far from it to get drawn into a bar fight - probably the safest part of any sail.
-
-::OmegaPass
-This pass separates the Core Ring from the Dreadpool.
-
-::BlackStrait
-This is as far as most people would dare sail.
-
-::Isaac'sRiver
-This is the longest known navigable river in the south.
-
-::HuntingGrounds
-There are large numbers of hoppers and boars in these here caves.
-
-::TheRig
-Large platform made by Black Eels to control the nearby waterways and facilitate Junkyard trade.
-
-::Dreadpool
-Look out for pirates.
-
-::ScrappyNarrow
-All the scrap that is traded out from Junkyard passes this way.
-
-::Chancer'sBay
-The infamous bay where the pirates fence off their stolen goods.
-
-::AbandonedWaterwayFacility
-The remains of an old naval facility, intersected by numerous waterways.
-
-::Hopperdrome
-The place for all your hopper racing needs!
-
-::UtilityTowerIcy
-A soaring, abandoned, deep-frozen tower.
+::SGS
+This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves.
+
+::SouthGateStation
+This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves.
+
+::CrossroadCaves
+Cave tunnels connecting SGS with the lower caves.
+
+::SouthGateOutposts
+Caves containing series of small outposts once used by South Gate Station.
+
+::Caves
+There is an intricate network of cave tunnels below, above and all around the Underrail metro system.
+
+::sgs-l2
+You can purchase weapons and armors from Lucas at the armory here, and also practice your gun skills at the shooting range.
+
+::sgs-l3
+Purchase food and gossip around in the cantina. Tanner's office is also on this level.
+
+::sgs-l4
+Vera's office is on this level.
+
+::sgs-l5
+This level contains the private quarters of many of the stations inhabitants, including yours.
+
+::sgs-l6
+You can get medical and psionic attention here.
+
+::sgs-l7
+This is where mechanical, electronic and computer engineering takes place. You can purchase related equipment here.
+
+::sgs-l8
+This is where the animals are kept and plants and fungi are grown. You can purchase various biological components here.
+
+::sgs-l9
+You can exit into the caves here or go to the docks.
+
+::GMSCompound
+The GMS compound used to belong to Omega station, before it was abandoned.
+
+::CampHathor
+Old coal mining outpost that turned into a hunting camp.
+
+::HathorMine
+Old coal mine.
+
+::RathoundKingLair
+You have a creepy feeling that someone is staring at you intensely from some dark corner as you move through these caves.
+
+::BatteryRecyclingPlant
+An old abandoned battery recycling plant.
+
+::SGSDocks
+From here you can set sail to Junkyard, Camp Hathor, and Core City.
+
+::MushroomCove
+Many smaller rivers and streams converge here to create one large body of water from which the river Celeritas springs.
+
+::SiphonerPools
+You can hear the sound of water bubbling up all around you.
+
+::Junkyard
+A scrappy settlement off the grid, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs.
+
+::JunkyardDocks
+Controlled by ruthless Black Eels. From here you can set sail to South Gate Station, Camp Hathor and Core City.
+
+::Junkyard-DepotA
+The original junkyard. Now a dangerous place overrun by mutants.
+
+::JunkyardGate
+Gate to the settlement known as Junkyard.
+
+::CoreCity
+The largest city of the South Underrail. Formerly a Biocorp megalopolis, now ruled by an independent oligarchy.
+
+::CoreCityGates
+Gates to Core City.
+
+::FoundryEntrance
+Entrance to the industrial town of Foundry.
+
+::Foundry
+This industrial complex, in addition of being a foundry, also houses its workers, as well as a number of traders and the renowned Foundry Guard.
+
+::FoundryMine
+People of Foundry extract valuable ore from these caverns.
+
+::UpperUnderrail
+Upper metro system of South Underrail. It used to connect mostly commercial, research and educational facilities.
+
+::GatestoInstituteofTchort
+Entrance to the Institute of Tchort, an esoteric sciento-religious community.
+
+::InstituteofTchort
+An esoteric sciento-religious community.
+
+::EmporionShoppingMall
+An old decrepit shopping center.
+
+::EpioneLab
+Old research lab, now used for... other purposes.
+
+::PanaceaLabEntrance
+Entrance to an old research lab.
+
+::PanaceaLab
+Old research lab, now used for... other purposes.
+
+::FortApogee
+Biggest Protectorate outpost in South Underrail.
+
+::LowerUnderrail
+Lower metro system of South Underrail. It used to connect mostly industrial facilities.
+
+::SouthRailroadOutpost
+Protectorate's outpost in the farthest south of Underrail.
+
+::HijackedTrainLocation
+A secluded metro station.
+
+::RailCrossing
+A small peaceful community.
+
+::WarehouseBlockBeta
+This storage block is now occupied by Ironheads.
+
+::HecateResearchOutpost
+Old research lab, now used for... other purposes.
+
+::LowerPassages
+A network of utility passages sprawling underneath the lower metro system.
+
+::Oculus
+The eye of Underrail.
+
+::HephaestusResearch
+Old research lab, now used for... other purposes.
+
+::HangingRat
+A weird out-of-the-way inn.
+
+::Tchort
+Abominable thing...
+
+::MutagenTanks
+Large, often badly damaged, mutagen tanks litter this area.
+
+::HollowEarth
+Old decrepit Biocorp research complex. It seems to have met a gruesome end.
+
+::DeepCavernPassage
+Caved-in passage.
+
+::CytosineOutpost
+Tchortists outpost in Deep Cavern.
+
+::TithonusLab
+Something very wrong seems to be going on in this lab.
+
+::StrangeShack
+What is this scrappy shack doing in this secluded part of Deep Caverns.
+
+::ArkePowerStation
+It seems to be still working in some capacity.
+
+::DeepCaverns-WarehouseBlock2
+A series of storage facilities.
+
+::TalosOutpost
+This old outpost has new residents.
+
+::CaerusResidential
+There is a number of ruined residential buildings here.
+
+::RathoundLair
+Red beedy eyes in the darkness.
+
+::Labyrinth
+A system of small caves connected with narrow tunnels.
+
+::MushroomForest
+This is not right. Mushrooms should not be this big.
+
+::DeepCaverns
+So it is true, there is a system of large caverns deep beneath Underrail.
+
+::LowerUnderrailFacility
+Old abandoned Biocorp facility.
+
+::FreeDronesBase
+This is the base of operations for Free Drones.
+
+::Unknown
+You're not sure where you are...
+
+::BlackSea
+Black Sea is a giant lake resting in the equally big cavern. This area is also known as Hell's Gut.
+
+::BlackSeaGrotto
+A secluded grotto.
+
+::SørmirbærenVillage
+There's a village of savage Black Sea natives here.
+
+::SørmirbærenTemple
+Something that you can only describe as an aura of evil weighs heavily upon you in this place.
+
+::MutieRefuge
+This island is now home to a community of muties.
+
+::BlackSeaRapids
+The waters here are very quick and treacherous.
+
+::Jaws
+The numerous stalagmites and stalactites here give jaw-like appearance to this passageway that leads to the Black Sea.
+
+::BlackSeaExpeditionCamp
+A group of Northerners have set up camp here.
+
+::PortCeto-Skidrow
+This large makeshift port is home to the Black Sea pirates.
+
+::PortCeto
+This large makeshift port is home to the Black Sea pirates.
+
+::PortCeto-Katya'sHomestead
+This large makeshift port is home to the Black Sea pirates.
+
+::PortCeto-Destroyer
+This large makeshift port is home to the Black Sea pirates. It seems to have been built around an old decrepit battleship.
+
+::CrimsonMeadowHorticultureCenter
+It's overgrown with some type of reddish weed.
+
+::Boneyard
+It's hard to image the creatures these bones once belonged to. Surely nothing this big exists anymore in the Black Sea.
+
+::SørmirbærenGraveyard
+One can indubitably sense a restless and malicious numen here.
+
+::PirateOutskirts
+There be pirates here.
+
+::PortCrag
+The smaller of the two pirate ports.
+
+::LEMCO
+Large waterfront of an old industrial complex.
+
+::BasaltCave
+A natural basalt cave.
+
+::FetidMarsh
+This foul-smelling marsh is overrun with insects, snakes and other undesirables.
+
+::NexusofTechnology
+Entrance to some sort of high-tech facility.
+
+::BlisteringShores
+The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers.
+
+::BlisteringShoresResearchFacility
+The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers. There's a facility here, though.
+
+::GiantCreeperLair
+You can hear skittering all around you.
+
+::JointSecurityHeadquarters
+Due to all the automated combat machinery, you can also surmise that this is some sort of a military base.
+
+::OldIb'sHomestead
+It appears someone is living here.
+
+::CoreCitySewerExit
+Even by Core City standards this place is really stinky.
+
+::CoreRing
+The circular waterway near the Core City is popularly called Core Ring.
+
+::CoreRingProtectorateOutpost
+The circular waterway near the Core City is popularly called Core Ring. Protectorate likes to set up its outposts there.
+
+::RigPeriphery
+Too close to the Rig for pirates, but too far from it to get drawn into a bar fight - probably the safest part of any sail.
+
+::OmegaPass
+This pass separates the Core Ring from the Dreadpool.
+
+::BlackStrait
+This is as far as most people would dare sail.
+
+::Isaac'sRiver
+This is the longest known navigable river in the south.
+
+::HuntingGrounds
+There are large numbers of hoppers and boars in these here caves.
+
+::TheRig
+Large platform made by Black Eels to control the nearby waterways and facilitate Junkyard trade.
+
+::Dreadpool
+Look out for pirates.
+
+::ScrappyNarrow
+All the scrap that is traded out from Junkyard passes this way.
+
+::Chancer'sBay
+The infamous bay where the pirates fence off their stolen goods.
+
+::AbandonedWaterwayFacility
+The remains of an old naval facility, intersected by numerous waterways.
+
+::Hopperdrome
+The place for all your hopper racing needs!
+
+::UtilityTowerIcy
+A soaring, abandoned, deep-frozen tower.

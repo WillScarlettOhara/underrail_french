@@ -1,156 +1,156 @@
-=>q1_original
-::A forlorn grandpa stares at you with foggy eyes, but more out of habit, it seems, rather than because he can actually see much of you.::
-
-Ah... Do you have a coin, sir or ma'am? I... I am but a frail old man who cannot work no more. Please be kind. One coin, that's all I'm asking.<end>
-
-=>q1
-::A forlorn grandpa stares at you with foggy eyes, but more out of habit, it seems, rather than because he can actually see much of you.::
-
-Ah... Do you have a coin, sir or ma'am? I... I am but a frail old man who cannot work no more. Please be kind. One coin, that's all I'm asking.<end>
-
-=>a2_original
-Here you go, old man. ::Give him one stygian coin.::<end>
-
-=>a2
-Here you go, old man. ::Give him one stygian coin.::<end>
-
-=>q3_original
-Oh, thank you, thank you. You're so kind. May good fortune always be with you!<end>
-
-=>q3
-Oh, thank you, thank you. You're so kind. May good fortune always be with you!<end>
-
-=>a4_original
-Take care, old man. So long.<end>
-
-=>a4
-Take care, old man. So long.<end>
-
-=>a5_original
-Here's five. ::Give him five stygian coins.::<end>
-
-=>a5
-Here's five. ::Give him five stygian coins.::<end>
-
-=>a6_original
-You can't get anything with one coin. Take this. ::Give him ten stygian coins.::<end>
-
-=>a6
-You can't get anything with one coin. Take this. ::Give him ten stygian coins.::<end>
-
-=>q7_original
-Oh, thank you - thank you! There are still kind people in Underrail after all. May good fortune always be with you!<end>
-
-=>q7
-Oh, thank you - thank you! There are still kind people in Underrail after all. May good fortune always be with you!<end>
-
-=>a8_original
-Go and get something good to eat. ::Give him twenty stygian coins.::<end>
-
-=>a8
-Go and get something good to eat. ::Give him twenty stygian coins.::<end>
-
-=>a9_original
-How about this? ::Give him fifty stygian coins.::<end>
-
-=>a9
-How about this? ::Give him fifty stygian coins.::<end>
-
-=>q10_original
-::Visibly astonished by your generosity, the man feels the pile of coins in his hands for a few moments before expressing his gratitude.::
-
-My! I've never met a human being more kind and good and, and... I don't know how can I possibly thank you for... ::His murky eye sheds a lone tear, a tear which travels across his wrinkly face and hits the top of the coin pile in his hands.:: May... may life be as kind to you as you were to me! Thank you. Thank you!<end>
-
-=>q10
-::Visibly astonished by your generosity, the man feels the pile of coins in his hands for a few moments before expressing his gratitude.::
-
-My! I've never met a human being more kind and good and, and... I don't know how can I possibly thank you for... ::His murky eye sheds a lone tear, a tear which travels across his wrinkly face and hits the top of the coin pile in his hands.:: May... may life be as kind to you as you were to me! Thank you. Thank you!<end>
-
-=>a11_original
-I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
-
-=>a11
-I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
-
-=>a12_original
-Sorry, got nothing.<end>
-
-=>a12
-Sorry, got nothing.<end>
-
-=>q13_original
-That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
-
-=>q13
-That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
-
-=>a14_original
-You'll be dead soon anyway, so why waste perfectly good money on your deteriorating ass?<end>
-
-=>a14
-You'll be dead soon anyway, so why waste perfectly good money on your deteriorating ass?<end>
-
-=>q15_original
-::His face contorts in disgust, and his pale hands squeeze into two bony fists.::
-
-How can you say that, you monster? Have you no heart, no heart at all? If I was younger... ugh... I'd show you! Cruel, heartless bastard!<end>
-
-=>q15
-::His face contorts in disgust, and his pale hands squeeze into two bony fists.::
-
-How can you say that, you monster? Have you no heart, no heart at all? If I was younger... ugh... I'd show you! Cruel, heartless bastard!<end>
-
-=>a16_original
-If you were younger, you'd be working instead of begging for money.<end>
-
-=>a16
-If you were younger, you'd be working instead of begging for money.<end>
-
-=>q17_original
-Bastard, heartless bastard. May life be as kind to you as you are to me right now, you ratbag!<end>
-
-=>q17
-Bastard, heartless bastard. May life be as kind to you as you are to me right now, you ratbag!<end>
-
-=>a18_original
-Keep on barking, old fart. Keep on barking.<end>
-
-=>a18
-Keep on barking, old fart. Keep on barking.<end>
-
-=>a19_original
-I'm gone. I'm not wasting a moment more on you.<end>
-
-=>a19
-I'm gone. I'm not wasting a moment more on you.<end>
-
-=>a20_original
-::Leave without saying anything.::<end>
-
-=>a20
-::Leave without saying anything.::<end>
-
-=>q21_original
-Oh. Goodbye.<end>
-
-=>q21
-Oh. Goodbye.<end>
-
-=>q22_original
-Burn in hell.<end>
-
-=>q22
-Burn in hell.<end>
-
-=>q23_original
-May good fortune be with you, $(#sir/ma'am).<end>
-
-=>q23
-May good fortune be with you, $(#sir/ma'am).<end>
-
-=>q24_original
-Oh, my aching old bones...<end>
-
-=>q24
-Oh, my aching old bones...<end>
-
+=>q1_original
+::A forlorn grandpa stares at you with foggy eyes, but more out of habit, it seems, rather than because he can actually see much of you.::
+
+Ah... Do you have a coin, sir or ma'am? I... I am but a frail old man who cannot work no more. Please be kind. One coin, that's all I'm asking.<end>
+
+=>q1
+::A forlorn grandpa stares at you with foggy eyes, but more out of habit, it seems, rather than because he can actually see much of you.::
+
+Ah... Do you have a coin, sir or ma'am? I... I am but a frail old man who cannot work no more. Please be kind. One coin, that's all I'm asking.<end>
+
+=>a2_original
+Here you go, old man. ::Give him one stygian coin.::<end>
+
+=>a2
+Here you go, old man. ::Give him one stygian coin.::<end>
+
+=>q3_original
+Oh, thank you, thank you. You're so kind. May good fortune always be with you!<end>
+
+=>q3
+Oh, thank you, thank you. You're so kind. May good fortune always be with you!<end>
+
+=>a4_original
+Take care, old man. So long.<end>
+
+=>a4
+Take care, old man. So long.<end>
+
+=>a5_original
+Here's five. ::Give him five stygian coins.::<end>
+
+=>a5
+Here's five. ::Give him five stygian coins.::<end>
+
+=>a6_original
+You can't get anything with one coin. Take this. ::Give him ten stygian coins.::<end>
+
+=>a6
+You can't get anything with one coin. Take this. ::Give him ten stygian coins.::<end>
+
+=>q7_original
+Oh, thank you - thank you! There are still kind people in Underrail after all. May good fortune always be with you!<end>
+
+=>q7
+Oh, thank you - thank you! There are still kind people in Underrail after all. May good fortune always be with you!<end>
+
+=>a8_original
+Go and get something good to eat. ::Give him twenty stygian coins.::<end>
+
+=>a8
+Go and get something good to eat. ::Give him twenty stygian coins.::<end>
+
+=>a9_original
+How about this? ::Give him fifty stygian coins.::<end>
+
+=>a9
+How about this? ::Give him fifty stygian coins.::<end>
+
+=>q10_original
+::Visibly astonished by your generosity, the man feels the pile of coins in his hands for a few moments before expressing his gratitude.::
+
+My! I've never met a human being more kind and good and, and... I don't know how can I possibly thank you for... ::His murky eye sheds a lone tear, a tear which travels across his wrinkly face and hits the top of the coin pile in his hands.:: May... may life be as kind to you as you were to me! Thank you. Thank you!<end>
+
+=>q10
+::Visibly astonished by your generosity, the man feels the pile of coins in his hands for a few moments before expressing his gratitude.::
+
+My! I've never met a human being more kind and good and, and... I don't know how can I possibly thank you for... ::His murky eye sheds a lone tear, a tear which travels across his wrinkly face and hits the top of the coin pile in his hands.:: May... may life be as kind to you as you were to me! Thank you. Thank you!<end>
+
+=>a11_original
+I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
+
+=>a11
+I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
+
+=>a12_original
+Sorry, got nothing.<end>
+
+=>a12
+Sorry, got nothing.<end>
+
+=>q13_original
+That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
+
+=>q13
+That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
+
+=>a14_original
+You'll be dead soon anyway, so why waste perfectly good money on your deteriorating ass?<end>
+
+=>a14
+You'll be dead soon anyway, so why waste perfectly good money on your deteriorating ass?<end>
+
+=>q15_original
+::His face contorts in disgust, and his pale hands squeeze into two bony fists.::
+
+How can you say that, you monster? Have you no heart, no heart at all? If I was younger... ugh... I'd show you! Cruel, heartless bastard!<end>
+
+=>q15
+::His face contorts in disgust, and his pale hands squeeze into two bony fists.::
+
+How can you say that, you monster? Have you no heart, no heart at all? If I was younger... ugh... I'd show you! Cruel, heartless bastard!<end>
+
+=>a16_original
+If you were younger, you'd be working instead of begging for money.<end>
+
+=>a16
+If you were younger, you'd be working instead of begging for money.<end>
+
+=>q17_original
+Bastard, heartless bastard. May life be as kind to you as you are to me right now, you ratbag!<end>
+
+=>q17
+Bastard, heartless bastard. May life be as kind to you as you are to me right now, you ratbag!<end>
+
+=>a18_original
+Keep on barking, old fart. Keep on barking.<end>
+
+=>a18
+Keep on barking, old fart. Keep on barking.<end>
+
+=>a19_original
+I'm gone. I'm not wasting a moment more on you.<end>
+
+=>a19
+I'm gone. I'm not wasting a moment more on you.<end>
+
+=>a20_original
+::Leave without saying anything.::<end>
+
+=>a20
+::Leave without saying anything.::<end>
+
+=>q21_original
+Oh. Goodbye.<end>
+
+=>q21
+Oh. Goodbye.<end>
+
+=>q22_original
+Burn in hell.<end>
+
+=>q22
+Burn in hell.<end>
+
+=>q23_original
+May good fortune be with you, $(#sir/ma'am).<end>
+
+=>q23
+May good fortune be with you, $(#sir/ma'am).<end>
+
+=>q24_original
+Oh, my aching old bones...<end>
+
+=>q24
+Oh, my aching old bones...<end>
+

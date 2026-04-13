@@ -1,40 +1,40 @@
-=>q1_original
-Bzzzztt? Nuu...<end>
-
-=>q1
-Bzzzztt? Nuu...<end>
-
-=>a2_original
-::Leave.::<end>
-
-=>a2
-::Leave.::<end>
-
-=>q3_original
-::An exposed section of the metal wall reveals many cables inside, all thick as an arm. A layer of black dust covers most of the electronics except the select few, which were cleaned up by human hands evident by fingerprints remains.:: <end>
-
-=>q3
-::An exposed section of the metal wall reveals many cables inside, all thick as an arm. A layer of black dust covers most of the electronics except the select few, which were cleaned up by human hands evident by fingerprints remains.:: <end>
-
-=>a4_original
-::Assemble and enable the High Voltage Penetrator.::<end>
-
-=>a4
-::Assemble and enable the High Voltage Penetrator.::<end>
-
-=>q5_original
-::You plant down the core on to the ground and turn it around so that its exposed part faces the power grid. On the core's back side, you find the plugin spot where you easily insert the remote controller device. As soon as you did that, the device starts on its own, producing a tame magnetic sound which slowly fades away into silence. 
-
-High Voltage Penetrator is now fully assembled and active.::<end>
-
-=>q5
-::You plant down the core on to the ground and turn it around so that its exposed part faces the power grid. On the core's back side, you find the plugin spot where you easily insert the remote controller device. As soon as you did that, the device starts on its own, producing a tame magnetic sound which slowly fades away into silence. 
-
-High Voltage Penetrator is now fully assembled and active.::<end>
-
-=>a6_original
-::Leave.::<end>
-
-=>a6
-::Leave.::<end>
-
+=>q1_original
+Bzzzztt? Nuu...<end>
+
+=>q1
+Bzzzztt? Nuu...<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::An exposed section of the metal wall reveals many cables inside, all thick as an arm. A layer of black dust covers most of the electronics except the select few, which were cleaned up by human hands evident by fingerprints remains.:: <end>
+
+=>q3
+::An exposed section of the metal wall reveals many cables inside, all thick as an arm. A layer of black dust covers most of the electronics except the select few, which were cleaned up by human hands evident by fingerprints remains.:: <end>
+
+=>a4_original
+::Assemble and enable the High Voltage Penetrator.::<end>
+
+=>a4
+::Assemble and enable the High Voltage Penetrator.::<end>
+
+=>q5_original
+::You plant down the core on to the ground and turn it around so that its exposed part faces the power grid. On the core's back side, you find the plugin spot where you easily insert the remote controller device. As soon as you did that, the device starts on its own, producing a tame magnetic sound which slowly fades away into silence. 
+
+High Voltage Penetrator is now fully assembled and active.::<end>
+
+=>q5
+::You plant down the core on to the ground and turn it around so that its exposed part faces the power grid. On the core's back side, you find the plugin spot where you easily insert the remote controller device. As soon as you did that, the device starts on its own, producing a tame magnetic sound which slowly fades away into silence. 
+
+High Voltage Penetrator is now fully assembled and active.::<end>
+
+=>a6_original
+::Leave.::<end>
+
+=>a6
+::Leave.::<end>
+

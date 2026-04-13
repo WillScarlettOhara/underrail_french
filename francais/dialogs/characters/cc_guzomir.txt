@@ -1,344 +1,344 @@
-=>q1_original
-::As you approach the masked man he proceeds to wipe off some of the dirt from his lenses before taking a look at you. His stained clothes seem a few sizes too big for him; either he had suddenly lost a lot of weight or they were, perhaps, too big for him in the first place. Whatever the case, you stop thinking of it and focus on following his muffled voice.::
-
-<end>
-
-=>q1
-::As you approach the masked man he proceeds to wipe off some of the dirt from his lenses before taking a look at you. His stained clothes seem a few sizes too big for him; either he had suddenly lost a lot of weight or they were, perhaps, too big for him in the first place. Whatever the case, you stop thinking of it and focus on following his muffled voice.::
-
-<end>
-
-=>q2_original
-Hello, officer $(#sir/ma'am). <end>
-
-=>q2
-Hello, officer $(#sir/ma'am). <end>
-
-=>q3_original
-Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
-
-=>q3
-Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-I'm looking for two men called Bogdan and Slavomir. Do you know where I can find them?<end>
-
-=>a5
-I'm looking for two men called Bogdan and Slavomir. Do you know where I can find them?<end>
-
-=>q6_original
-Never heard of them. I swear, bre.<end>
-
-=>q6
-Never heard of them. I swear, bre.<end>
-
-=>q7_original
-That all?<end>
-
-=>q7
-That all?<end>
-
-=>a8_original
-So, how's life?<end>
-
-=>a8
-So, how's life?<end>
-
-=>q9_original
-Well, not that bad, to tell you the truth. Not dominating - but not too bad. We got a, you know, you dig, a small community here. Community of us "foreigners," bre! Hah. Sticking together is the best way to not get dominated around these parts. 
-
-Hey, I'm telling it like it is.<end>
-
-=>q9
-Well, not that bad, to tell you the truth. Not dominating - but not too bad. We got a, you know, you dig, a small community here. Community of us "foreigners," bre! Hah. Sticking together is the best way to not get dominated around these parts. 
-
-Hey, I'm telling it like it is.<end>
-
-=>q10_original
-Also, listen... we got a couple of *good* barrels. For the soup, I mean, barrel soup. Each of these barrels has its own unique, *dominating* flavor, bre, so if you wanna rent one, lemme know. Only, listen, bre, you can't take them away; you can only use them here. Dig, bre? I recommend the *Biocorp Oil* barrel. The bright red one. It adds a... punchy sour note to everything you put in it. 
-
-Yeah, man, it's so, bre, mmmm... ::He drools off.::<end>
-
-=>q10
-Also, listen... we got a couple of *good* barrels. For the soup, I mean, barrel soup. Each of these barrels has its own unique, *dominating* flavor, bre, so if you wanna rent one, lemme know. Only, listen, bre, you can't take them away; you can only use them here. Dig, bre? I recommend the *Biocorp Oil* barrel. The bright red one. It adds a... punchy sour note to everything you put in it. 
-
-Yeah, man, it's so, bre, mmmm... ::He drools off.::<end>
-
-=>a11_original
-Have any of those been approved by the Core City health organization, if there is one?<end>
-
-=>a11
-Have any of those been approved by the Core City health organization, if there is one?<end>
-
-=>q12_original
-::Muffled laughter fills his gas mask.:: You've got a fine sense of humor, bre, $(#brother/sister), you do.<end>
-
-=>q12
-::Muffled laughter fills his gas mask.:: You've got a fine sense of humor, bre, $(#brother/sister), you do.<end>
-
-=>a13_original
-I'll think about it.<end>
-
-=>a13
-I'll think about it.<end>
-
-=>q14_original
-Sure, bre, $(#brother/sister). Take your time.<end>
-
-=>q14
-Sure, bre, $(#brother/sister). Take your time.<end>
-
-=>a15_original
-Bre?<end>
-
-=>a15
-Bre?<end>
-
-=>q16_original
-"Bre" what, bre?<end>
-
-=>q16
-"Bre" what, bre?<end>
-
-=>a17_original
-What does "bre" mean?<end>
-
-=>a17
-What does "bre" mean?<end>
-
-=>q18_original
-Eh... It can't be translated. No, no, it can't. On it's own it means nothing, it just, you know, gives more emotion to what you say... draws more attention to it. ::He pauses.::
-
-Example: When you say "No." that means an ordinary no. But "No, bre!" means don't even think about it, bre.
-
-"Hello." - means hello. "Hello, bre!" - it means I'm real happy to see you, $(#brother/sister).
-
-You can also use bre as a standalone word, you dig, but the meaning, again, depends on the context. Like in, let's see... One person is being stupid and doing something over and over. Another person can just say "Bre!" to draw attention to his stupidity.<end>
-
-=>q18
-Eh... It can't be translated. No, no, it can't. On it's own it means nothing, it just, you know, gives more emotion to what you say... draws more attention to it. ::He pauses.::
-
-Example: When you say "No." that means an ordinary no. But "No, bre!" means don't even think about it, bre.
-
-"Hello." - means hello. "Hello, bre!" - it means I'm real happy to see you, $(#brother/sister).
-
-You can also use bre as a standalone word, you dig, but the meaning, again, depends on the context. Like in, let's see... One person is being stupid and doing something over and over. Another person can just say "Bre!" to draw attention to his stupidity.<end>
-
-=>q19_original
-You dig any of this?<end>
-
-=>q19
-You dig any of this?<end>
-
-=>a20_original
-Yes, bre!<end>
-
-=>a20
-Yes, bre!<end>
-
-=>q21_original
-Alright, bre!<end>
-
-=>q21
-Alright, bre!<end>
-
-=>a22_original
-Yes.<end>
-
-=>a22
-Yes.<end>
-
-=>q23_original
-Eh...<end>
-
-=>q23
-Eh...<end>
-
-=>a24_original
-Not really.<end>
-
-=>a24
-Not really.<end>
-
-=>q25_original
-Breeeee!<end>
-
-=>q25
-Breeeee!<end>
-
-=>a26_original
-Where are you people from?<end>
-
-=>a26
-Where are you people from?<end>
-
-=>q27_original
-West. Southwest, actually. It's a long story.<end>
-
-=>q27
-West. Southwest, actually. It's a long story.<end>
-
-=>q28_original
-There was this... war... and, you know, some of us had to move away and... 
-
-It's a long story, bre.<end>
-
-=>q28
-There was this... war... and, you know, some of us had to move away and... 
-
-It's a long story, bre.<end>
-
-=>q29_original
-We're here now. ::He nods.:: We're here.<end>
-
-=>q29
-We're here now. ::He nods.:: We're here.<end>
-
-=>a30_original
-Goodbye and take care.<end>
-
-=>a30
-Goodbye and take care.<end>
-
-=>q31_original
-One moment: Eh, that uniform... where'd you get it?<end>
-
-=>q31
-One moment: Eh, that uniform... where'd you get it?<end>
-
-=>a32_original
-::[Tailoring]:: I made it myself, actually. Saw the design somewhere and fell in love with it.<end>
-
-=>a32
-::[Tailoring]:: I made it myself, actually. Saw the design somewhere and fell in love with it.<end>
-
-=>q33_original
-Hardcore, bre! It does look... *authentic*. <end>
-
-=>q33
-Hardcore, bre! It does look... *authentic*. <end>
-
-=>a34_original
-Sure does. Any particular reason why you're asking?<end>
-
-=>a34
-Sure does. Any particular reason why you're asking?<end>
-
-=>q35_original
-No reason, bre. Just asking... 
-
-...just asking. Bye.<end>
-
-=>q35
-No reason, bre. Just asking... 
-
-...just asking. Bye.<end>
-
-=>a36_original
-Well, see ya.<end>
-
-=>a36
-Well, see ya.<end>
-
-=>q37_original
-Yeah.<end>
-
-=>q37
-Yeah.<end>
-
-=>a38_original
-::Nod and leave.::<end>
-
-=>a38
-::Nod and leave.::<end>
-
-=>a39_original
-Found it.<end>
-
-=>a39
-Found it.<end>
-
-=>q40_original
-::He nods ::<end>
-
-=>q40
-::He nods ::<end>
-
-=>q41_original
-::but curiously doesn't say anything further.::<end>
-
-=>q41
-::but curiously doesn't say anything further.::<end>
-
-=>a42_original
-Why?<end>
-
-=>a42
-Why?<end>
-
-=>a43_original
-::Leave.::<end>
-
-=>a43
-::Leave.::<end>
-
-=>a44_original
-Bought it.<end>
-
-=>a44
-Bought it.<end>
-
-=>a45_original
-It was a gift.<end>
-
-=>a45
-It was a gift.<end>
-
-=>a46_original
-Had to kill a man for it.<end>
-
-=>a46
-Had to kill a man for it.<end>
-
-=>q47_original
-::He slightly lowers and shakes his head ::<end>
-
-=>q47
-::He slightly lowers and shakes his head ::<end>
-
-=>a48_original
-Can't say.<end>
-
-=>a48
-Can't say.<end>
-
-=>q49_original
-Never mind then. Bye.<end>
-
-=>q49
-Never mind then. Bye.<end>
-
-=>a50_original
-None of your business.<end>
-
-=>a50
-None of your business.<end>
-
-=>q51_original
-Hello... whoever you are. <end>
-
-=>q51
-Hello... whoever you are. <end>
-
-=>q52_original
-Hello. Watch your step.<end>
-
-=>q52
-Hello. Watch your step.<end>
-
+=>q1_original
+::As you approach the masked man he proceeds to wipe off some of the dirt from his lenses before taking a look at you. His stained clothes seem a few sizes too big for him; either he had suddenly lost a lot of weight or they were, perhaps, too big for him in the first place. Whatever the case, you stop thinking of it and focus on following his muffled voice.::
+
+<end>
+
+=>q1
+::As you approach the masked man he proceeds to wipe off some of the dirt from his lenses before taking a look at you. His stained clothes seem a few sizes too big for him; either he had suddenly lost a lot of weight or they were, perhaps, too big for him in the first place. Whatever the case, you stop thinking of it and focus on following his muffled voice.::
+
+<end>
+
+=>q2_original
+Hello, officer $(#sir/ma'am). <end>
+
+=>q2
+Hello, officer $(#sir/ma'am). <end>
+
+=>q3_original
+Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
+
+=>q3
+Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I'm looking for two men called Bogdan and Slavomir. Do you know where I can find them?<end>
+
+=>a5
+I'm looking for two men called Bogdan and Slavomir. Do you know where I can find them?<end>
+
+=>q6_original
+Never heard of them. I swear, bre.<end>
+
+=>q6
+Never heard of them. I swear, bre.<end>
+
+=>q7_original
+That all?<end>
+
+=>q7
+That all?<end>
+
+=>a8_original
+So, how's life?<end>
+
+=>a8
+So, how's life?<end>
+
+=>q9_original
+Well, not that bad, to tell you the truth. Not dominating - but not too bad. We got a, you know, you dig, a small community here. Community of us "foreigners," bre! Hah. Sticking together is the best way to not get dominated around these parts. 
+
+Hey, I'm telling it like it is.<end>
+
+=>q9
+Well, not that bad, to tell you the truth. Not dominating - but not too bad. We got a, you know, you dig, a small community here. Community of us "foreigners," bre! Hah. Sticking together is the best way to not get dominated around these parts. 
+
+Hey, I'm telling it like it is.<end>
+
+=>q10_original
+Also, listen... we got a couple of *good* barrels. For the soup, I mean, barrel soup. Each of these barrels has its own unique, *dominating* flavor, bre, so if you wanna rent one, lemme know. Only, listen, bre, you can't take them away; you can only use them here. Dig, bre? I recommend the *Biocorp Oil* barrel. The bright red one. It adds a... punchy sour note to everything you put in it. 
+
+Yeah, man, it's so, bre, mmmm... ::He drools off.::<end>
+
+=>q10
+Also, listen... we got a couple of *good* barrels. For the soup, I mean, barrel soup. Each of these barrels has its own unique, *dominating* flavor, bre, so if you wanna rent one, lemme know. Only, listen, bre, you can't take them away; you can only use them here. Dig, bre? I recommend the *Biocorp Oil* barrel. The bright red one. It adds a... punchy sour note to everything you put in it. 
+
+Yeah, man, it's so, bre, mmmm... ::He drools off.::<end>
+
+=>a11_original
+Have any of those been approved by the Core City health organization, if there is one?<end>
+
+=>a11
+Have any of those been approved by the Core City health organization, if there is one?<end>
+
+=>q12_original
+::Muffled laughter fills his gas mask.:: You've got a fine sense of humor, bre, $(#brother/sister), you do.<end>
+
+=>q12
+::Muffled laughter fills his gas mask.:: You've got a fine sense of humor, bre, $(#brother/sister), you do.<end>
+
+=>a13_original
+I'll think about it.<end>
+
+=>a13
+I'll think about it.<end>
+
+=>q14_original
+Sure, bre, $(#brother/sister). Take your time.<end>
+
+=>q14
+Sure, bre, $(#brother/sister). Take your time.<end>
+
+=>a15_original
+Bre?<end>
+
+=>a15
+Bre?<end>
+
+=>q16_original
+"Bre" what, bre?<end>
+
+=>q16
+"Bre" what, bre?<end>
+
+=>a17_original
+What does "bre" mean?<end>
+
+=>a17
+What does "bre" mean?<end>
+
+=>q18_original
+Eh... It can't be translated. No, no, it can't. On it's own it means nothing, it just, you know, gives more emotion to what you say... draws more attention to it. ::He pauses.::
+
+Example: When you say "No." that means an ordinary no. But "No, bre!" means don't even think about it, bre.
+
+"Hello." - means hello. "Hello, bre!" - it means I'm real happy to see you, $(#brother/sister).
+
+You can also use bre as a standalone word, you dig, but the meaning, again, depends on the context. Like in, let's see... One person is being stupid and doing something over and over. Another person can just say "Bre!" to draw attention to his stupidity.<end>
+
+=>q18
+Eh... It can't be translated. No, no, it can't. On it's own it means nothing, it just, you know, gives more emotion to what you say... draws more attention to it. ::He pauses.::
+
+Example: When you say "No." that means an ordinary no. But "No, bre!" means don't even think about it, bre.
+
+"Hello." - means hello. "Hello, bre!" - it means I'm real happy to see you, $(#brother/sister).
+
+You can also use bre as a standalone word, you dig, but the meaning, again, depends on the context. Like in, let's see... One person is being stupid and doing something over and over. Another person can just say "Bre!" to draw attention to his stupidity.<end>
+
+=>q19_original
+You dig any of this?<end>
+
+=>q19
+You dig any of this?<end>
+
+=>a20_original
+Yes, bre!<end>
+
+=>a20
+Yes, bre!<end>
+
+=>q21_original
+Alright, bre!<end>
+
+=>q21
+Alright, bre!<end>
+
+=>a22_original
+Yes.<end>
+
+=>a22
+Yes.<end>
+
+=>q23_original
+Eh...<end>
+
+=>q23
+Eh...<end>
+
+=>a24_original
+Not really.<end>
+
+=>a24
+Not really.<end>
+
+=>q25_original
+Breeeee!<end>
+
+=>q25
+Breeeee!<end>
+
+=>a26_original
+Where are you people from?<end>
+
+=>a26
+Where are you people from?<end>
+
+=>q27_original
+West. Southwest, actually. It's a long story.<end>
+
+=>q27
+West. Southwest, actually. It's a long story.<end>
+
+=>q28_original
+There was this... war... and, you know, some of us had to move away and... 
+
+It's a long story, bre.<end>
+
+=>q28
+There was this... war... and, you know, some of us had to move away and... 
+
+It's a long story, bre.<end>
+
+=>q29_original
+We're here now. ::He nods.:: We're here.<end>
+
+=>q29
+We're here now. ::He nods.:: We're here.<end>
+
+=>a30_original
+Goodbye and take care.<end>
+
+=>a30
+Goodbye and take care.<end>
+
+=>q31_original
+One moment: Eh, that uniform... where'd you get it?<end>
+
+=>q31
+One moment: Eh, that uniform... where'd you get it?<end>
+
+=>a32_original
+::[Tailoring]:: I made it myself, actually. Saw the design somewhere and fell in love with it.<end>
+
+=>a32
+::[Tailoring]:: I made it myself, actually. Saw the design somewhere and fell in love with it.<end>
+
+=>q33_original
+Hardcore, bre! It does look... *authentic*. <end>
+
+=>q33
+Hardcore, bre! It does look... *authentic*. <end>
+
+=>a34_original
+Sure does. Any particular reason why you're asking?<end>
+
+=>a34
+Sure does. Any particular reason why you're asking?<end>
+
+=>q35_original
+No reason, bre. Just asking... 
+
+...just asking. Bye.<end>
+
+=>q35
+No reason, bre. Just asking... 
+
+...just asking. Bye.<end>
+
+=>a36_original
+Well, see ya.<end>
+
+=>a36
+Well, see ya.<end>
+
+=>q37_original
+Yeah.<end>
+
+=>q37
+Yeah.<end>
+
+=>a38_original
+::Nod and leave.::<end>
+
+=>a38
+::Nod and leave.::<end>
+
+=>a39_original
+Found it.<end>
+
+=>a39
+Found it.<end>
+
+=>q40_original
+::He nods ::<end>
+
+=>q40
+::He nods ::<end>
+
+=>q41_original
+::but curiously doesn't say anything further.::<end>
+
+=>q41
+::but curiously doesn't say anything further.::<end>
+
+=>a42_original
+Why?<end>
+
+=>a42
+Why?<end>
+
+=>a43_original
+::Leave.::<end>
+
+=>a43
+::Leave.::<end>
+
+=>a44_original
+Bought it.<end>
+
+=>a44
+Bought it.<end>
+
+=>a45_original
+It was a gift.<end>
+
+=>a45
+It was a gift.<end>
+
+=>a46_original
+Had to kill a man for it.<end>
+
+=>a46
+Had to kill a man for it.<end>
+
+=>q47_original
+::He slightly lowers and shakes his head ::<end>
+
+=>q47
+::He slightly lowers and shakes his head ::<end>
+
+=>a48_original
+Can't say.<end>
+
+=>a48
+Can't say.<end>
+
+=>q49_original
+Never mind then. Bye.<end>
+
+=>q49
+Never mind then. Bye.<end>
+
+=>a50_original
+None of your business.<end>
+
+=>a50
+None of your business.<end>
+
+=>q51_original
+Hello... whoever you are. <end>
+
+=>q51
+Hello... whoever you are. <end>
+
+=>q52_original
+Hello. Watch your step.<end>
+
+=>q52
+Hello. Watch your step.<end>
+

@@ -1,326 +1,326 @@
-=>q1_original
-Look, uhm, leave me be, aight?<end>
-
-=>q1
-Look, uhm, leave me be, aight?<end>
-
-=>q2_original
-Uhm, good luck I guess.<end>
-
-=>q2
-Uhm, good luck I guess.<end>
-
-=>q3_original
-::As you come closer, you gaze upon a visibly nervous person. His clothing is dirty and wrinkly, most notably his goggles, which are damaged to the point of making them a clear obstruction to the wearer. 
-
-Once he notices you, he lifts them up to reveal his bloodshot eyes.::
-
-<end>
-
-=>q3
-::As you come closer, you gaze upon a visibly nervous person. His clothing is dirty and wrinkly, most notably his goggles, which are damaged to the point of making them a clear obstruction to the wearer. 
-
-Once he notices you, he lifts them up to reveal his bloodshot eyes.::
-
-<end>
-
-=>q4_original
-Hey, uhm. Come 'ere, I've got a lil' challenge for ya. ::He speaks with quavering voice.::<end>
-
-=>q4
-Hey, uhm. Come 'ere, I've got a lil' challenge for ya. ::He speaks with quavering voice.::<end>
-
-=>a5_original
-Okay, let me hear it.<end>
-
-=>a5
-Okay, let me hear it.<end>
-
-=>q6_original
-I'm Noz and, uhm, I was tryna get into the storeroom down the hallway, ya know.<end>
-
-=>q6
-I'm Noz and, uhm, I was tryna get into the storeroom down the hallway, ya know.<end>
-
-=>a7_original
-What has prevented you?<end>
-
-=>a7
-What has prevented you?<end>
-
-=>q8_original
-Ya see, I, uhm, I already have the keycard to get in there 'n' all, but when I was gettin' close I heard uhm-- ::His left hand suddenly twitches.:: a crawler, a cursed crawler in there.<end>
-
-=>q8
-Ya see, I, uhm, I already have the keycard to get in there 'n' all, but when I was gettin' close I heard uhm-- ::His left hand suddenly twitches.:: a crawler, a cursed crawler in there.<end>
-
-=>a9_original
-So instead you want *me* to get into that storeroom?<end>
-
-=>a9
-So instead you want *me* to get into that storeroom?<end>
-
-=>q10_original
-Uhm, I guess challenge wasn't the right word for the lil' trouble we've got here. ::He rubs his eyes.:: <end>
-
-=>q10
-Uhm, I guess challenge wasn't the right word for the lil' trouble we've got here. ::He rubs his eyes.:: <end>
-
-=>q11_original
-Look, I'll give you this keycard and you get in there, grab all ya want and, uhm, promise to leave something in there for me, aight? ::He scratches his left eyebrow.::<end>
-
-=>q11
-Look, I'll give you this keycard and you get in there, grab all ya want and, uhm, promise to leave something in there for me, aight? ::He scratches his left eyebrow.::<end>
-
-=>a12_original
-Alright, sounds good. I'll hit you up when I'm done.<end>
-
-=>a12
-Alright, sounds good. I'll hit you up when I'm done.<end>
-
-=>q13_original
-Uhm, give me a, uhm, second I was sure I had it on me just a, uhh, moment ago. ::After initially reaching for his right pocket, he frantically starts searching through all of his pockets, trying to find the keycard.::
-<end>
-
-=>q13
-Uhm, give me a, uhm, second I was sure I had it on me just a, uhh, moment ago. ::After initially reaching for his right pocket, he frantically starts searching through all of his pockets, trying to find the keycard.::
-<end>
-
-=>q14_original
-::His chaotic search turns into a sudden realization after a few moments.::
-
-Raaah! You stole it from me! Time to die!<end>
-
-=>q14
-::His chaotic search turns into a sudden realization after a few moments.::
-
-Raaah! You stole it from me! Time to die!<end>
-
-=>a15_original
-::Fight.::<end>
-
-=>a15
-::Fight.::<end>
-
-=>q16_original
-'Ere you go. ::Hands you over the keycard.::<end>
-
-=>q16
-'Ere you go. ::Hands you over the keycard.::<end>
-
-=>a17_original
-::[Intelligence]:: Why are you still here if those crawlers are as fearsome as you say? Shouldn't you be running scared?<end>
-
-=>a17
-::[Intelligence]:: Why are you still here if those crawlers are as fearsome as you say? Shouldn't you be running scared?<end>
-
-=>q18_original
-I-I, umm, uhm, I, ... ::His shaking hands move slowly towards his waist.::<end>
-
-=>q18
-I-I, umm, uhm, I, ... ::His shaking hands move slowly towards his waist.::<end>
-
-=>a19_original
-Listen here, I'll be doing things on my own now, get it?<end>
-
-=>a19
-Listen here, I'll be doing things on my own now, get it?<end>
-
-=>q20_original
-Whatever. <end>
-
-=>q20
-Whatever. <end>
-
-=>a21_original
-The jig is up - time to die! ::Attack!::<end>
-
-=>a21
-The jig is up - time to die! ::Attack!::<end>
-
-=>a22_original
-::[Perception]:: Why are you not tagging along with me? Are you trying to backstab me?<end>
-
-=>a22
-::[Perception]:: Why are you not tagging along with me? Are you trying to backstab me?<end>
-
-=>a23_original
-Tell me about those crawlers.<end>
-
-=>a23
-Tell me about those crawlers.<end>
-
-=>q24_original
-Yeah, uhm, those fiendish monsters. Ya sure you haven't heard of 'em before? Everybody knows about 'em.<end>
-
-=>q24
-Yeah, uhm, those fiendish monsters. Ya sure you haven't heard of 'em before? Everybody knows about 'em.<end>
-
-=>a25_original
-Nevermind, I actually did hear of them them before.<end>
-
-=>a25
-Nevermind, I actually did hear of them them before.<end>
-
-=>a26_original
-No, tell me more about them.<end>
-
-=>a26
-No, tell me more about them.<end>
-
-=>q27_original
-::His body twitches.:: 
-
-I've only heard about 'em from others. Ya see, uhm, they are the fiends of your worst dreams. They be creepin' the walls in darkness like spiders or somethin' and they said once you see em' ya ain't gettin' away, ::As he speaks, his pronunciation shifts back and forth.::<end>
-
-=>q27
-::His body twitches.:: 
-
-I've only heard about 'em from others. Ya see, uhm, they are the fiends of your worst dreams. They be creepin' the walls in darkness like spiders or somethin' and they said once you see em' ya ain't gettin' away, ::As he speaks, his pronunciation shifts back and forth.::<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-::[Perception]:: Your accent, you seem to be struggling with it. What's up with that?<end>
-
-=>a29
-::[Perception]:: Your accent, you seem to be struggling with it. What's up with that?<end>
-
-=>q30_original
-Umm, uhh, wha' do y-ya mean? ::He stands back a little. ::<end>
-
-=>q30
-Umm, uhh, wha' do y-ya mean? ::He stands back a little. ::<end>
-
-=>a31_original
-::[Intelligence]:: You are faking it aren't you, just like this whole story of yours?<end>
-
-=>a31
-::[Intelligence]:: You are faking it aren't you, just like this whole story of yours?<end>
-
-=>a32_original
-I think I'll just do things on my own from here.<end>
-
-=>a32
-I think I'll just do things on my own from here.<end>
-
-=>a33_original
-I just find it a little bit odd, that's all.<end>
-
-=>a33
-I just find it a little bit odd, that's all.<end>
-
-=>q34_original
-::He clears some sweat from his forhead.::
-
-<end>
-
-=>q34
-::He clears some sweat from his forhead.::
-
-<end>
-
-=>q35_original
-<end>
-
-=>q35
-<end>
-
-=>a36_original
-I fear nothing, nor do I care. You want me to get into the storeroom and clear the mess for you?<end>
-
-=>a36
-I fear nothing, nor do I care. You want me to get into the storeroom and clear the mess for you?<end>
-
-=>a37_original
-I've hacked my way in there already. You are lying to me.<end>
-
-=>a37
-I've hacked my way in there already. You are lying to me.<end>
-
-=>a38_original
-I don't need help from the likes of you.<end>
-
-=>a38
-I don't need help from the likes of you.<end>
-
-=>a39_original
-Let me think about it.<end>
-
-=>a39
-Let me think about it.<end>
-
-=>a40_original
-I'll just take everything! ::Attack!::<end>
-
-=>a40
-I'll just take everything! ::Attack!::<end>
-
-=>a41_original
-Are you scared?<end>
-
-=>a41
-Are you scared?<end>
-
-=>a42_original
-::Keep listening.::<end>
-
-=>a42
-::Keep listening.::<end>
-
-=>a43_original
-Wait, who are you?<end>
-
-=>a43
-Wait, who are you?<end>
-
-=>a44_original
-What challenge?<end>
-
-=>a44
-What challenge?<end>
-
-=>q45_original
-Whoa, whoa - hold your train up. ::His eyes open up as he's surprised by your direct approach.:: 
-
-<end>
-
-=>q45
-Whoa, whoa - hold your train up. ::His eyes open up as he's surprised by your direct approach.:: 
-
-<end>
-
-=>a46_original
-::Turn around and leave.::<end>
-
-=>a46
-::Turn around and leave.::<end>
-
-=>q47_original
-So, uhm, changed ya mind?<end>
-
-=>q47
-So, uhm, changed ya mind?<end>
-
-=>a48_original
-Yeah, im listening.<end>
-
-=>a48
-Yeah, im listening.<end>
-
-=>a49_original
-Hmm, yeah, let's hear it.<end>
-
-=>a49
-Hmm, yeah, let's hear it.<end>
-
-=>a50_original
-::Turn around and leave.::<end>
-
-=>a50
-::Turn around and leave.::<end>
-
+=>q1_original
+Look, uhm, leave me be, aight?<end>
+
+=>q1
+Look, uhm, leave me be, aight?<end>
+
+=>q2_original
+Uhm, good luck I guess.<end>
+
+=>q2
+Uhm, good luck I guess.<end>
+
+=>q3_original
+::As you come closer, you gaze upon a visibly nervous person. His clothing is dirty and wrinkly, most notably his goggles, which are damaged to the point of making them a clear obstruction to the wearer. 
+
+Once he notices you, he lifts them up to reveal his bloodshot eyes.::
+
+<end>
+
+=>q3
+::As you come closer, you gaze upon a visibly nervous person. His clothing is dirty and wrinkly, most notably his goggles, which are damaged to the point of making them a clear obstruction to the wearer. 
+
+Once he notices you, he lifts them up to reveal his bloodshot eyes.::
+
+<end>
+
+=>q4_original
+Hey, uhm. Come 'ere, I've got a lil' challenge for ya. ::He speaks with quavering voice.::<end>
+
+=>q4
+Hey, uhm. Come 'ere, I've got a lil' challenge for ya. ::He speaks with quavering voice.::<end>
+
+=>a5_original
+Okay, let me hear it.<end>
+
+=>a5
+Okay, let me hear it.<end>
+
+=>q6_original
+I'm Noz and, uhm, I was tryna get into the storeroom down the hallway, ya know.<end>
+
+=>q6
+I'm Noz and, uhm, I was tryna get into the storeroom down the hallway, ya know.<end>
+
+=>a7_original
+What has prevented you?<end>
+
+=>a7
+What has prevented you?<end>
+
+=>q8_original
+Ya see, I, uhm, I already have the keycard to get in there 'n' all, but when I was gettin' close I heard uhm-- ::His left hand suddenly twitches.:: a crawler, a cursed crawler in there.<end>
+
+=>q8
+Ya see, I, uhm, I already have the keycard to get in there 'n' all, but when I was gettin' close I heard uhm-- ::His left hand suddenly twitches.:: a crawler, a cursed crawler in there.<end>
+
+=>a9_original
+So instead you want *me* to get into that storeroom?<end>
+
+=>a9
+So instead you want *me* to get into that storeroom?<end>
+
+=>q10_original
+Uhm, I guess challenge wasn't the right word for the lil' trouble we've got here. ::He rubs his eyes.:: <end>
+
+=>q10
+Uhm, I guess challenge wasn't the right word for the lil' trouble we've got here. ::He rubs his eyes.:: <end>
+
+=>q11_original
+Look, I'll give you this keycard and you get in there, grab all ya want and, uhm, promise to leave something in there for me, aight? ::He scratches his left eyebrow.::<end>
+
+=>q11
+Look, I'll give you this keycard and you get in there, grab all ya want and, uhm, promise to leave something in there for me, aight? ::He scratches his left eyebrow.::<end>
+
+=>a12_original
+Alright, sounds good. I'll hit you up when I'm done.<end>
+
+=>a12
+Alright, sounds good. I'll hit you up when I'm done.<end>
+
+=>q13_original
+Uhm, give me a, uhm, second I was sure I had it on me just a, uhh, moment ago. ::After initially reaching for his right pocket, he frantically starts searching through all of his pockets, trying to find the keycard.::
+<end>
+
+=>q13
+Uhm, give me a, uhm, second I was sure I had it on me just a, uhh, moment ago. ::After initially reaching for his right pocket, he frantically starts searching through all of his pockets, trying to find the keycard.::
+<end>
+
+=>q14_original
+::His chaotic search turns into a sudden realization after a few moments.::
+
+Raaah! You stole it from me! Time to die!<end>
+
+=>q14
+::His chaotic search turns into a sudden realization after a few moments.::
+
+Raaah! You stole it from me! Time to die!<end>
+
+=>a15_original
+::Fight.::<end>
+
+=>a15
+::Fight.::<end>
+
+=>q16_original
+'Ere you go. ::Hands you over the keycard.::<end>
+
+=>q16
+'Ere you go. ::Hands you over the keycard.::<end>
+
+=>a17_original
+::[Intelligence]:: Why are you still here if those crawlers are as fearsome as you say? Shouldn't you be running scared?<end>
+
+=>a17
+::[Intelligence]:: Why are you still here if those crawlers are as fearsome as you say? Shouldn't you be running scared?<end>
+
+=>q18_original
+I-I, umm, uhm, I, ... ::His shaking hands move slowly towards his waist.::<end>
+
+=>q18
+I-I, umm, uhm, I, ... ::His shaking hands move slowly towards his waist.::<end>
+
+=>a19_original
+Listen here, I'll be doing things on my own now, get it?<end>
+
+=>a19
+Listen here, I'll be doing things on my own now, get it?<end>
+
+=>q20_original
+Whatever. <end>
+
+=>q20
+Whatever. <end>
+
+=>a21_original
+The jig is up - time to die! ::Attack!::<end>
+
+=>a21
+The jig is up - time to die! ::Attack!::<end>
+
+=>a22_original
+::[Perception]:: Why are you not tagging along with me? Are you trying to backstab me?<end>
+
+=>a22
+::[Perception]:: Why are you not tagging along with me? Are you trying to backstab me?<end>
+
+=>a23_original
+Tell me about those crawlers.<end>
+
+=>a23
+Tell me about those crawlers.<end>
+
+=>q24_original
+Yeah, uhm, those fiendish monsters. Ya sure you haven't heard of 'em before? Everybody knows about 'em.<end>
+
+=>q24
+Yeah, uhm, those fiendish monsters. Ya sure you haven't heard of 'em before? Everybody knows about 'em.<end>
+
+=>a25_original
+Nevermind, I actually did hear of them them before.<end>
+
+=>a25
+Nevermind, I actually did hear of them them before.<end>
+
+=>a26_original
+No, tell me more about them.<end>
+
+=>a26
+No, tell me more about them.<end>
+
+=>q27_original
+::His body twitches.:: 
+
+I've only heard about 'em from others. Ya see, uhm, they are the fiends of your worst dreams. They be creepin' the walls in darkness like spiders or somethin' and they said once you see em' ya ain't gettin' away, ::As he speaks, his pronunciation shifts back and forth.::<end>
+
+=>q27
+::His body twitches.:: 
+
+I've only heard about 'em from others. Ya see, uhm, they are the fiends of your worst dreams. They be creepin' the walls in darkness like spiders or somethin' and they said once you see em' ya ain't gettin' away, ::As he speaks, his pronunciation shifts back and forth.::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+::[Perception]:: Your accent, you seem to be struggling with it. What's up with that?<end>
+
+=>a29
+::[Perception]:: Your accent, you seem to be struggling with it. What's up with that?<end>
+
+=>q30_original
+Umm, uhh, wha' do y-ya mean? ::He stands back a little. ::<end>
+
+=>q30
+Umm, uhh, wha' do y-ya mean? ::He stands back a little. ::<end>
+
+=>a31_original
+::[Intelligence]:: You are faking it aren't you, just like this whole story of yours?<end>
+
+=>a31
+::[Intelligence]:: You are faking it aren't you, just like this whole story of yours?<end>
+
+=>a32_original
+I think I'll just do things on my own from here.<end>
+
+=>a32
+I think I'll just do things on my own from here.<end>
+
+=>a33_original
+I just find it a little bit odd, that's all.<end>
+
+=>a33
+I just find it a little bit odd, that's all.<end>
+
+=>q34_original
+::He clears some sweat from his forhead.::
+
+<end>
+
+=>q34
+::He clears some sweat from his forhead.::
+
+<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+I fear nothing, nor do I care. You want me to get into the storeroom and clear the mess for you?<end>
+
+=>a36
+I fear nothing, nor do I care. You want me to get into the storeroom and clear the mess for you?<end>
+
+=>a37_original
+I've hacked my way in there already. You are lying to me.<end>
+
+=>a37
+I've hacked my way in there already. You are lying to me.<end>
+
+=>a38_original
+I don't need help from the likes of you.<end>
+
+=>a38
+I don't need help from the likes of you.<end>
+
+=>a39_original
+Let me think about it.<end>
+
+=>a39
+Let me think about it.<end>
+
+=>a40_original
+I'll just take everything! ::Attack!::<end>
+
+=>a40
+I'll just take everything! ::Attack!::<end>
+
+=>a41_original
+Are you scared?<end>
+
+=>a41
+Are you scared?<end>
+
+=>a42_original
+::Keep listening.::<end>
+
+=>a42
+::Keep listening.::<end>
+
+=>a43_original
+Wait, who are you?<end>
+
+=>a43
+Wait, who are you?<end>
+
+=>a44_original
+What challenge?<end>
+
+=>a44
+What challenge?<end>
+
+=>q45_original
+Whoa, whoa - hold your train up. ::His eyes open up as he's surprised by your direct approach.:: 
+
+<end>
+
+=>q45
+Whoa, whoa - hold your train up. ::His eyes open up as he's surprised by your direct approach.:: 
+
+<end>
+
+=>a46_original
+::Turn around and leave.::<end>
+
+=>a46
+::Turn around and leave.::<end>
+
+=>q47_original
+So, uhm, changed ya mind?<end>
+
+=>q47
+So, uhm, changed ya mind?<end>
+
+=>a48_original
+Yeah, im listening.<end>
+
+=>a48
+Yeah, im listening.<end>
+
+=>a49_original
+Hmm, yeah, let's hear it.<end>
+
+=>a49
+Hmm, yeah, let's hear it.<end>
+
+=>a50_original
+::Turn around and leave.::<end>
+
+=>a50
+::Turn around and leave.::<end>
+

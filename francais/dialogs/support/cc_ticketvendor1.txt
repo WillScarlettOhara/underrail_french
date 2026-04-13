@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Please wait your turn, $(#sir/ma'am).<end>
-
-=>q2
-Please wait your turn, $(#sir/ma'am).<end>
-
-=>q3_original
-No queue jumping!<end>
-
-=>q3
-No queue jumping!<end>
-
-=>q4_original
-Stop cutting the line!<end>
-
-=>q4
-Stop cutting the line!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Please wait your turn, $(#sir/ma'am).<end>
+
+=>q2
+Please wait your turn, $(#sir/ma'am).<end>
+
+=>q3_original
+No queue jumping!<end>
+
+=>q3
+No queue jumping!<end>
+
+=>q4_original
+Stop cutting the line!<end>
+
+=>q4
+Stop cutting the line!<end>
+

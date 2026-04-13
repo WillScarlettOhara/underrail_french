@@ -1,284 +1,284 @@
-=>q1_original
-I'm glad this is over. I... I didn't think I would survive... but so many died.<end>
-
-=>q1
-I'm glad this is over. I... I didn't think I would survive... but so many died.<end>
-
-=>q2_original
-I've got nothing worth taking.<end>
-
-=>q2
-I've got nothing worth taking.<end>
-
-=>a3_original
-There's a sealed door at the first level, how do I open them?<end>
-
-=>a3
-There's a sealed door at the first level, how do I open them?<end>
-
-=>q4_original
-I... I don't know.<end>
-
-=>q4
-I... I don't know.<end>
-
-=>a5_original
-::[Intimidate]:: Don't lie to me! One of you bastards must have sealed it off.<end>
-
-=>a5
-::[Intimidate]:: Don't lie to me! One of you bastards must have sealed it off.<end>
-
-=>q6_original
-I don't know, I swear! Maybe Bloomberg knows... but they killed him. Or Sully... I don't know...<end>
-
-=>q6
-I don't know, I swear! Maybe Bloomberg knows... but they killed him. Or Sully... I don't know...<end>
-
-=>a7_original
-::Leave him alone::<end>
-
-=>a7
-::Leave him alone::<end>
-
-=>a8_original
-::Leave him alone.::<end>
-
-=>a8
-::Leave him alone.::<end>
-
-=>q9_original
-Be careful. There's more of them about...<end>
-
-=>q9
-Be careful. There's more of them about...<end>
-
-=>q10_original
-Thank you for killing those bastards. But I'm afraid there's more of them.<end>
-
-=>q10
-Thank you for killing those bastards. But I'm afraid there's more of them.<end>
-
-=>a11_original
-What is going on here exactly?<end>
-
-=>a11
-What is going on here exactly?<end>
-
-=>q12_original
-They stormed our barricade... they killed some. The others are held hostage in the dining hall.<end>
-
-=>q12
-They stormed our barricade... they killed some. The others are held hostage in the dining hall.<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>a14_original
-Who are they?<end>
-
-=>a14
-Who are they?<end>
-
-=>q15_original
-I don't know... slavers maybe, or just common bandits. I didn't hear them say what they want before I was dragged here to help them access the upper levels.<end>
-
-=>q15
-I don't know... slavers maybe, or just common bandits. I didn't hear them say what they want before I was dragged here to help them access the upper levels.<end>
-
-=>a16_original
-Are they well armed?<end>
-
-=>a16
-Are they well armed?<end>
-
-=>q17_original
-Most of them have pistols. There might be more of them with crossbows... Oh, and there's this guy with a sledgehammer.
-They don't have much armor on as far as I could tell, though.
-<end>
-
-=>q17
-Most of them have pistols. There might be more of them with crossbows... Oh, and there's this guy with a sledgehammer.
-They don't have much armor on as far as I could tell, though.
-<end>
-
-=>a18_original
-Barricade?<end>
-
-=>a18
-Barricade?<end>
-
-=>q19_original
-There's a breach that leads to the caves. Don't know how long it was there, it's how we migrated here. We set up a barricade with an auto-turret to protect it... but it didn't do us much good today.<end>
-
-=>q19
-There's a breach that leads to the caves. Don't know how long it was there, it's how we migrated here. We set up a barricade with an auto-turret to protect it... but it didn't do us much good today.<end>
-
-=>a20_original
-So what do you propose we do?<end>
-
-=>a20
-So what do you propose we do?<end>
-
-=>q21_original
-I have an idea. They destroyed the auto-turret at the barricade because they were ready for it, but there's still another deactivated one near the elevator.<end>
-
-=>q21
-I have an idea. They destroyed the auto-turret at the barricade because they were ready for it, but there's still another deactivated one near the elevator.<end>
-
-=>q22_original
-If you could activate that turret while they are not expecting it, it'll rip them to shreds!
-
-At least those out in the hallway. It'll make dealing with the rest of them easier.<end>
-
-=>q22
-If you could activate that turret while they are not expecting it, it'll rip them to shreds!
-
-At least those out in the hallway. It'll make dealing with the rest of them easier.<end>
-
-=>a23_original
-So how do I activate the turret?<end>
-
-=>a23
-So how do I activate the turret?<end>
-
-=>q24_original
-Just left of the elevator, there's a surveillance room. Security console is there as well. The problem is, it's locked. Maybe Sully has the keycard, but I think he's being held hostage in the dining hall. You'll have to hack your way into the surveillance room and then hack the console to gain access to auto-turret controls.<end>
-
-=>q24
-Just left of the elevator, there's a surveillance room. Security console is there as well. The problem is, it's locked. Maybe Sully has the keycard, but I think he's being held hostage in the dining hall. You'll have to hack your way into the surveillance room and then hack the console to gain access to auto-turret controls.<end>
-
-=>a25_original
-Forget it. I'm not too good at hacking. I'll have to find another way.<end>
-
-=>a25
-Forget it. I'm not too good at hacking. I'll have to find another way.<end>
-
-=>q26_original
-::He nods.:: Alright.<end>
-
-=>q26
-::He nods.:: Alright.<end>
-
-=>q27_original
-<end>
-
-=>q27
-<end>
-
-=>a28_original
-Alright, got it. You stay here.<end>
-
-=>a28
-Alright, got it. You stay here.<end>
-
-=>q29_original
-Good luck.... Oh, and by the way, be sure to turn the turret off afterwards. It might think you're an intruder as well and shoot you down if you come near it.<end>
-
-=>q29
-Good luck.... Oh, and by the way, be sure to turn the turret off afterwards. It might think you're an intruder as well and shoot you down if you come near it.<end>
-
-=>a30_original
-Forget it. I'll take them out my own way.<end>
-
-=>a30
-Forget it. I'll take them out my own way.<end>
-
-=>q31_original
-Alright, if you think you can take them.<end>
-
-=>q31
-Alright, if you think you can take them.<end>
-
-=>a32_original
-Alright, wait here, I'll take care of them.<end>
-
-=>a32
-Alright, wait here, I'll take care of them.<end>
-
-=>q33_original
-Wait! <end>
-
-=>q33
-Wait! <end>
-
-=>a34_original
-Not my problem. If you want your freedom, fight for it.<end>
-
-=>a34
-Not my problem. If you want your freedom, fight for it.<end>
-
-=>q35_original
-<end>
-
-=>q35
-<end>
-
-=>a36_original
-Don't be thanking me, pops, you're next. ::Attack!::<end>
-
-=>a36
-Don't be thanking me, pops, you're next. ::Attack!::<end>
-
-=>q37_original
-<end>
-
-=>q37
-<end>
-
-=>a38_original
-There's a sealed door at the first level, how do I open them?<end>
-
-=>a38
-There's a sealed door at the first level, how do I open them?<end>
-
-=>a39_original
-Yeah, whatever, just get out of my way.<end>
-
-=>a39
-Yeah, whatever, just get out of my way.<end>
-
-=>q40_original
-Please, you need to help my friends.<end>
-
-=>q40
-Please, you need to help my friends.<end>
-
-=>q41_original
-<end>
-
-=>q41
-<end>
-
-=>a42_original
-Tell me what's going on here.<end>
-
-=>a42
-Tell me what's going on here.<end>
-
-=>a43_original
-On second thought, I better kill you too. Just in case. ::Attack::<end>
-
-=>a43
-On second thought, I better kill you too. Just in case. ::Attack::<end>
-
-=>a44_original
-I'm not to play hero. Sorry, paps.<end>
-
-=>a44
-I'm not to play hero. Sorry, paps.<end>
-
-=>q45_original
-How can I help?<end>
-
-=>q45
-How can I help?<end>
-
-=>q46_original
-I don't have anything of value.<end>
-
-=>q46
-I don't have anything of value.<end>
-
+=>q1_original
+I'm glad this is over. I... I didn't think I would survive... but so many died.<end>
+
+=>q1
+I'm glad this is over. I... I didn't think I would survive... but so many died.<end>
+
+=>q2_original
+I've got nothing worth taking.<end>
+
+=>q2
+I've got nothing worth taking.<end>
+
+=>a3_original
+There's a sealed door at the first level, how do I open them?<end>
+
+=>a3
+There's a sealed door at the first level, how do I open them?<end>
+
+=>q4_original
+I... I don't know.<end>
+
+=>q4
+I... I don't know.<end>
+
+=>a5_original
+::[Intimidate]:: Don't lie to me! One of you bastards must have sealed it off.<end>
+
+=>a5
+::[Intimidate]:: Don't lie to me! One of you bastards must have sealed it off.<end>
+
+=>q6_original
+I don't know, I swear! Maybe Bloomberg knows... but they killed him. Or Sully... I don't know...<end>
+
+=>q6
+I don't know, I swear! Maybe Bloomberg knows... but they killed him. Or Sully... I don't know...<end>
+
+=>a7_original
+::Leave him alone::<end>
+
+=>a7
+::Leave him alone::<end>
+
+=>a8_original
+::Leave him alone.::<end>
+
+=>a8
+::Leave him alone.::<end>
+
+=>q9_original
+Be careful. There's more of them about...<end>
+
+=>q9
+Be careful. There's more of them about...<end>
+
+=>q10_original
+Thank you for killing those bastards. But I'm afraid there's more of them.<end>
+
+=>q10
+Thank you for killing those bastards. But I'm afraid there's more of them.<end>
+
+=>a11_original
+What is going on here exactly?<end>
+
+=>a11
+What is going on here exactly?<end>
+
+=>q12_original
+They stormed our barricade... they killed some. The others are held hostage in the dining hall.<end>
+
+=>q12
+They stormed our barricade... they killed some. The others are held hostage in the dining hall.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+Who are they?<end>
+
+=>a14
+Who are they?<end>
+
+=>q15_original
+I don't know... slavers maybe, or just common bandits. I didn't hear them say what they want before I was dragged here to help them access the upper levels.<end>
+
+=>q15
+I don't know... slavers maybe, or just common bandits. I didn't hear them say what they want before I was dragged here to help them access the upper levels.<end>
+
+=>a16_original
+Are they well armed?<end>
+
+=>a16
+Are they well armed?<end>
+
+=>q17_original
+Most of them have pistols. There might be more of them with crossbows... Oh, and there's this guy with a sledgehammer.
+They don't have much armor on as far as I could tell, though.
+<end>
+
+=>q17
+Most of them have pistols. There might be more of them with crossbows... Oh, and there's this guy with a sledgehammer.
+They don't have much armor on as far as I could tell, though.
+<end>
+
+=>a18_original
+Barricade?<end>
+
+=>a18
+Barricade?<end>
+
+=>q19_original
+There's a breach that leads to the caves. Don't know how long it was there, it's how we migrated here. We set up a barricade with an auto-turret to protect it... but it didn't do us much good today.<end>
+
+=>q19
+There's a breach that leads to the caves. Don't know how long it was there, it's how we migrated here. We set up a barricade with an auto-turret to protect it... but it didn't do us much good today.<end>
+
+=>a20_original
+So what do you propose we do?<end>
+
+=>a20
+So what do you propose we do?<end>
+
+=>q21_original
+I have an idea. They destroyed the auto-turret at the barricade because they were ready for it, but there's still another deactivated one near the elevator.<end>
+
+=>q21
+I have an idea. They destroyed the auto-turret at the barricade because they were ready for it, but there's still another deactivated one near the elevator.<end>
+
+=>q22_original
+If you could activate that turret while they are not expecting it, it'll rip them to shreds!
+
+At least those out in the hallway. It'll make dealing with the rest of them easier.<end>
+
+=>q22
+If you could activate that turret while they are not expecting it, it'll rip them to shreds!
+
+At least those out in the hallway. It'll make dealing with the rest of them easier.<end>
+
+=>a23_original
+So how do I activate the turret?<end>
+
+=>a23
+So how do I activate the turret?<end>
+
+=>q24_original
+Just left of the elevator, there's a surveillance room. Security console is there as well. The problem is, it's locked. Maybe Sully has the keycard, but I think he's being held hostage in the dining hall. You'll have to hack your way into the surveillance room and then hack the console to gain access to auto-turret controls.<end>
+
+=>q24
+Just left of the elevator, there's a surveillance room. Security console is there as well. The problem is, it's locked. Maybe Sully has the keycard, but I think he's being held hostage in the dining hall. You'll have to hack your way into the surveillance room and then hack the console to gain access to auto-turret controls.<end>
+
+=>a25_original
+Forget it. I'm not too good at hacking. I'll have to find another way.<end>
+
+=>a25
+Forget it. I'm not too good at hacking. I'll have to find another way.<end>
+
+=>q26_original
+::He nods.:: Alright.<end>
+
+=>q26
+::He nods.:: Alright.<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+Alright, got it. You stay here.<end>
+
+=>a28
+Alright, got it. You stay here.<end>
+
+=>q29_original
+Good luck.... Oh, and by the way, be sure to turn the turret off afterwards. It might think you're an intruder as well and shoot you down if you come near it.<end>
+
+=>q29
+Good luck.... Oh, and by the way, be sure to turn the turret off afterwards. It might think you're an intruder as well and shoot you down if you come near it.<end>
+
+=>a30_original
+Forget it. I'll take them out my own way.<end>
+
+=>a30
+Forget it. I'll take them out my own way.<end>
+
+=>q31_original
+Alright, if you think you can take them.<end>
+
+=>q31
+Alright, if you think you can take them.<end>
+
+=>a32_original
+Alright, wait here, I'll take care of them.<end>
+
+=>a32
+Alright, wait here, I'll take care of them.<end>
+
+=>q33_original
+Wait! <end>
+
+=>q33
+Wait! <end>
+
+=>a34_original
+Not my problem. If you want your freedom, fight for it.<end>
+
+=>a34
+Not my problem. If you want your freedom, fight for it.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+Don't be thanking me, pops, you're next. ::Attack!::<end>
+
+=>a36
+Don't be thanking me, pops, you're next. ::Attack!::<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>a38_original
+There's a sealed door at the first level, how do I open them?<end>
+
+=>a38
+There's a sealed door at the first level, how do I open them?<end>
+
+=>a39_original
+Yeah, whatever, just get out of my way.<end>
+
+=>a39
+Yeah, whatever, just get out of my way.<end>
+
+=>q40_original
+Please, you need to help my friends.<end>
+
+=>q40
+Please, you need to help my friends.<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>a42_original
+Tell me what's going on here.<end>
+
+=>a42
+Tell me what's going on here.<end>
+
+=>a43_original
+On second thought, I better kill you too. Just in case. ::Attack::<end>
+
+=>a43
+On second thought, I better kill you too. Just in case. ::Attack::<end>
+
+=>a44_original
+I'm not to play hero. Sorry, paps.<end>
+
+=>a44
+I'm not to play hero. Sorry, paps.<end>
+
+=>q45_original
+How can I help?<end>
+
+=>q45
+How can I help?<end>
+
+=>q46_original
+I don't have anything of value.<end>
+
+=>q46
+I don't have anything of value.<end>
+

@@ -1,84 +1,84 @@
-=>q1_original
-What you've done ain't right, you know.<end>
-
-=>q1
-What you've done ain't right, you know.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Hi there, stranger, where are you from?<end>
-
-=>q3
-Hi there, stranger, where are you from?<end>
-
-=>q4_original
-Damn it, if only we hadn't lost Buzzer.<end>
-
-=>q4
-Damn it, if only we hadn't lost Buzzer.<end>
-
-=>q5_original
-If all the gangs around Rail Crossing weren't enough, now the Faceless are giving us trouble.<end>
-
-=>q5
-If all the gangs around Rail Crossing weren't enough, now the Faceless are giving us trouble.<end>
-
-=>q6_original
-Dude is a pretty odd guy, if you ask me.<end>
-
-=>q6
-Dude is a pretty odd guy, if you ask me.<end>
-
-=>q7_original
-::Whistles a somewhat familiar tune.::<end>
-
-=>q7
-::Whistles a somewhat familiar tune.::<end>
-
-=>q8_original
-Faceless be damned for killing Buzzer.<end>
-
-=>q8
-Faceless be damned for killing Buzzer.<end>
-
-=>q9_original
-Believe me, there are worse places to live in than Rail Crossing.<end>
-
-=>q9
-Believe me, there are worse places to live in than Rail Crossing.<end>
-
-=>q10_original
-I need new shoes.<end>
-
-=>q10
-I need new shoes.<end>
-
-=>q11_original
-Ah, $(context.player.Name), great to see you again.<end>
-
-=>q11
-Ah, $(context.player.Name), great to see you again.<end>
-
-=>q12_original
-Get outta here, monsters! And don't come back!<end>
-
-=>q12
-Get outta here, monsters! And don't come back!<end>
-
-=>q13_original
-Buzzer made it, thanks to you.<end>
-
-=>q13
-Buzzer made it, thanks to you.<end>
-
-=>q14_original
-Praise the Protectorate!<end>
-
-=>q14
-Praise the Protectorate!<end>
-
+=>q1_original
+What you've done ain't right, you know.<end>
+
+=>q1
+What you've done ain't right, you know.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Hi there, stranger, where are you from?<end>
+
+=>q3
+Hi there, stranger, where are you from?<end>
+
+=>q4_original
+Damn it, if only we hadn't lost Buzzer.<end>
+
+=>q4
+Damn it, if only we hadn't lost Buzzer.<end>
+
+=>q5_original
+If all the gangs around Rail Crossing weren't enough, now the Faceless are giving us trouble.<end>
+
+=>q5
+If all the gangs around Rail Crossing weren't enough, now the Faceless are giving us trouble.<end>
+
+=>q6_original
+Dude is a pretty odd guy, if you ask me.<end>
+
+=>q6
+Dude is a pretty odd guy, if you ask me.<end>
+
+=>q7_original
+::Whistles a somewhat familiar tune.::<end>
+
+=>q7
+::Whistles a somewhat familiar tune.::<end>
+
+=>q8_original
+Faceless be damned for killing Buzzer.<end>
+
+=>q8
+Faceless be damned for killing Buzzer.<end>
+
+=>q9_original
+Believe me, there are worse places to live in than Rail Crossing.<end>
+
+=>q9
+Believe me, there are worse places to live in than Rail Crossing.<end>
+
+=>q10_original
+I need new shoes.<end>
+
+=>q10
+I need new shoes.<end>
+
+=>q11_original
+Ah, $(context.player.Name), great to see you again.<end>
+
+=>q11
+Ah, $(context.player.Name), great to see you again.<end>
+
+=>q12_original
+Get outta here, monsters! And don't come back!<end>
+
+=>q12
+Get outta here, monsters! And don't come back!<end>
+
+=>q13_original
+Buzzer made it, thanks to you.<end>
+
+=>q13
+Buzzer made it, thanks to you.<end>
+
+=>q14_original
+Praise the Protectorate!<end>
+
+=>q14
+Praise the Protectorate!<end>
+

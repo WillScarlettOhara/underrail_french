@@ -1,126 +1,126 @@
-=>q1_original
-Trenton, no... What will we do now?<end>
-
-=>q1
-Trenton, no... What will we do now?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Stay vicious, $(context.player.Name).<end>
-
-=>q3
-Stay vicious, $(context.player.Name).<end>
-
-=>q4_original
-Death to Protectorate!<end>
-
-=>q4
-Death to Protectorate!<end>
-
-=>q5_original
-For Freedom.<end>
-
-=>q5
-For Freedom.<end>
-
-=>q6_original
-Ya won't bring oppression here, Protectorate bastards!<end>
-
-=>q6
-Ya won't bring oppression here, Protectorate bastards!<end>
-
-=>q7_original
-The new girl's a spittin' image of our very own Izumi.<end>
-
-=>q7
-The new girl's a spittin' image of our very own Izumi.<end>
-
-=>q8_original
-Life here ain't *that* bad, ya just gotta watch out for the Lurkers.<end>
-
-=>q8
-Life here ain't *that* bad, ya just gotta watch out for the Lurkers.<end>
-
-=>q9_original
-We'll make the bastards pay for killin' Shred!<end>
-
-=>q9
-We'll make the bastards pay for killin' Shred!<end>
-
-=>q10_original
-United Stations? Pfft - deceptions!<end>
-
-=>q10
-United Stations? Pfft - deceptions!<end>
-
-=>q11_original
-He died for the Free Drones - Kokoschka, a true warrior!<end>
-
-=>q11
-He died for the Free Drones - Kokoschka, a true warrior!<end>
-
-=>q12_original
-South Railroad Outpost belongs to us now! Burn!<end>
-
-=>q12
-South Railroad Outpost belongs to us now! Burn!<end>
-
-=>q13_original
-Can't believe it! Bate was a Protectorate spy!<end>
-
-=>q13
-Can't believe it! Bate was a Protectorate spy!<end>
-
-=>q14_original
-Talk to Becket if ya need supplies.<end>
-
-=>q14
-Talk to Becket if ya need supplies.<end>
-
-=>q15_original
-Heard about the rescue. Good job, $(context.player.Name)!<end>
-
-=>q15
-Heard about the rescue. Good job, $(context.player.Name)!<end>
-
-=>q16_original
-Can't wait to smash some Cans!<end>
-
-=>q16
-Can't wait to smash some Cans!<end>
-
-=>q17_original
-Anarchy!<end>
-
-=>q17
-Anarchy!<end>
-
-=>q18_original
-One day, Fort Apogee will burn!<end>
-
-=>q18
-One day, Fort Apogee will burn!<end>
-
-=>q19_original
-Wish we could watch the Arena in here...<end>
-
-=>q19
-Wish we could watch the Arena in here...<end>
-
-=>q20_original
-No... Not Hutch! Protectorate scum will pay for this!<end>
-
-=>q20
-No... Not Hutch! Protectorate scum will pay for this!<end>
-
-=>q21_original
-That son of a rat killed Marcella!<end>
-
-=>q21
-That son of a rat killed Marcella!<end>
-
+=>q1_original
+Trenton, no... What will we do now?<end>
+
+=>q1
+Trenton, no... What will we do now?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Stay vicious, $(context.player.Name).<end>
+
+=>q3
+Stay vicious, $(context.player.Name).<end>
+
+=>q4_original
+Death to Protectorate!<end>
+
+=>q4
+Death to Protectorate!<end>
+
+=>q5_original
+For Freedom.<end>
+
+=>q5
+For Freedom.<end>
+
+=>q6_original
+Ya won't bring oppression here, Protectorate bastards!<end>
+
+=>q6
+Ya won't bring oppression here, Protectorate bastards!<end>
+
+=>q7_original
+The new girl's a spittin' image of our very own Izumi.<end>
+
+=>q7
+The new girl's a spittin' image of our very own Izumi.<end>
+
+=>q8_original
+Life here ain't *that* bad, ya just gotta watch out for the Lurkers.<end>
+
+=>q8
+Life here ain't *that* bad, ya just gotta watch out for the Lurkers.<end>
+
+=>q9_original
+We'll make the bastards pay for killin' Shred!<end>
+
+=>q9
+We'll make the bastards pay for killin' Shred!<end>
+
+=>q10_original
+United Stations? Pfft - deceptions!<end>
+
+=>q10
+United Stations? Pfft - deceptions!<end>
+
+=>q11_original
+He died for the Free Drones - Kokoschka, a true warrior!<end>
+
+=>q11
+He died for the Free Drones - Kokoschka, a true warrior!<end>
+
+=>q12_original
+South Railroad Outpost belongs to us now! Burn!<end>
+
+=>q12
+South Railroad Outpost belongs to us now! Burn!<end>
+
+=>q13_original
+Can't believe it! Bate was a Protectorate spy!<end>
+
+=>q13
+Can't believe it! Bate was a Protectorate spy!<end>
+
+=>q14_original
+Talk to Becket if ya need supplies.<end>
+
+=>q14
+Talk to Becket if ya need supplies.<end>
+
+=>q15_original
+Heard about the rescue. Good job, $(context.player.Name)!<end>
+
+=>q15
+Heard about the rescue. Good job, $(context.player.Name)!<end>
+
+=>q16_original
+Can't wait to smash some Cans!<end>
+
+=>q16
+Can't wait to smash some Cans!<end>
+
+=>q17_original
+Anarchy!<end>
+
+=>q17
+Anarchy!<end>
+
+=>q18_original
+One day, Fort Apogee will burn!<end>
+
+=>q18
+One day, Fort Apogee will burn!<end>
+
+=>q19_original
+Wish we could watch the Arena in here...<end>
+
+=>q19
+Wish we could watch the Arena in here...<end>
+
+=>q20_original
+No... Not Hutch! Protectorate scum will pay for this!<end>
+
+=>q20
+No... Not Hutch! Protectorate scum will pay for this!<end>
+
+=>q21_original
+That son of a rat killed Marcella!<end>
+
+=>q21
+That son of a rat killed Marcella!<end>
+

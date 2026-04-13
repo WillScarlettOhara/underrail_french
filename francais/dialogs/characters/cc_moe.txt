@@ -1,460 +1,460 @@
-=>q1_original
-I'm out of celebration burgers, just so you know, friend. They were so delicious I sold them out in mere hours. Maybe if we get invaded again I'll make some more. ::He laughs.::<end>
-
-=>q1
-I'm out of celebration burgers, just so you know, friend. They were so delicious I sold them out in mere hours. Maybe if we get invaded again I'll make some more. ::He laughs.::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-I wanna try something... ::Barter.::<end>
-
-=>a3
-I wanna try something... ::Barter.::<end>
-
-=>a4_original
-Can I ask for some directions?<end>
-
-=>a4
-Can I ask for some directions?<end>
-
-=>q5_original
-I don't see why not.<end>
-
-=>q5
-I don't see why not.<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Who runs this place?<end>
-
-=>a7
-Who runs this place?<end>
-
-=>q8_original
-Core City is run by the Oligarchs; Two of them used to work for Biocorp before it got zoned out, while the third one is a businessman from afar. They own nearly everything in Core City. Well, you could say they don't exactly *own* Drop Zone, which is sort of... how should I say...<end>
-
-=>q8
-Core City is run by the Oligarchs; Two of them used to work for Biocorp before it got zoned out, while the third one is a businessman from afar. They own nearly everything in Core City. Well, you could say they don't exactly *own* Drop Zone, which is sort of... how should I say...<end>
-
-=>q9_original
-Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless wanted to go there. ::He laughs.::<end>
-
-=>q9
-Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless wanted to go there. ::He laughs.::<end>
-
-=>q10_original
-Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless would wanna go there. ::He laughs.::<end>
-
-=>q10
-Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless would wanna go there. ::He laughs.::<end>
-
-=>a11_original
-Where can I find some merchants?<end>
-
-=>a11
-Where can I find some merchants?<end>
-
-=>q12_original
-Take the main elevator and go to the level above this one.<end>
-
-=>q12
-Take the main elevator and go to the level above this one.<end>
-
-=>q13_original
-You'll find lots of merchants there, and if you get tired, just visit the Hardcore City Bar. It's the best place in Core City to have some hardcore fun! Other than the Arena, of course, which is also nearby, just west of the bar.<end>
-
-=>q13
-You'll find lots of merchants there, and if you get tired, just visit the Hardcore City Bar. It's the best place in Core City to have some hardcore fun! Other than the Arena, of course, which is also nearby, just west of the bar.<end>
-
-=>a14_original
-Is there a doctor around here?<end>
-
-=>a14
-Is there a doctor around here?<end>
-
-=>q15_original
-Sure, take the elevator to the level above this one and in the main square you'll find Dr. Gratz's office.<end>
-
-=>q15
-Sure, take the elevator to the level above this one and in the main square you'll find Dr. Gratz's office.<end>
-
-=>q16_original
-Now, listen, she might seem... strange, even scary at times, but she's the best doctor I've ever seen. Trust me.<end>
-
-=>q16
-Now, listen, she might seem... strange, even scary at times, but she's the best doctor I've ever seen. Trust me.<end>
-
-=>a17_original
-Should I avoid anything or anyone?<end>
-
-=>a17
-Should I avoid anything or anyone?<end>
-
-=>q18_original
-Avoid Drop Zone. Lowlifes, gangsters and who knows what else lives there. Sewers too are a no-no, but why anyone would go there in the first place is beyond me. ::He laughs.::<end>
-
-=>q18
-Avoid Drop Zone. Lowlifes, gangsters and who knows what else lives there. Sewers too are a no-no, but why anyone would go there in the first place is beyond me. ::He laughs.::<end>
-
-=>q19_original
-Last but not least, have you seen those robed guys? They call themselves Tchortists, and I don't exactly buy into their fairy-tales. I'd avoid them if I were you.<end>
-
-=>q19
-Last but not least, have you seen those robed guys? They call themselves Tchortists, and I don't exactly buy into their fairy-tales. I'd avoid them if I were you.<end>
-
-=>a20_original
-I'm looking for some work.<end>
-
-=>a20
-I'm looking for some work.<end>
-
-=>q21_original
-Work, you say? I'm not offering any jobs here at my stall, if that's what you're asking. ::He laughs.:: But no, seriously, maybe JKK, Coretech or Praetorian Security are looking for someone.<end>
-
-=>q21
-Work, you say? I'm not offering any jobs here at my stall, if that's what you're asking. ::He laughs.:: But no, seriously, maybe JKK, Coretech or Praetorian Security are looking for someone.<end>
-
-=>q22_original
-Take the elevator to the upper level and you'll be right outside Coretech; JKK is to the west from the elevator, and Praetorian Security to the east.<end>
-
-=>q22
-Take the elevator to the upper level and you'll be right outside Coretech; JKK is to the west from the elevator, and Praetorian Security to the east.<end>
-
-=>a23_original
-Can we talk about something else?<end>
-
-=>a23
-Can we talk about something else?<end>
-
-=>q24_original
-May I recommend a topic?<end>
-
-=>q24
-May I recommend a topic?<end>
-
-=>q25_original
-Food.<end>
-
-=>q25
-Food.<end>
-
-=>a26_original
-Do you know anything about Jon the Beautiful?<end>
-
-=>a26
-Do you know anything about Jon the Beautiful?<end>
-
-=>q27_original
-Do I? If he continues with his food for information thing going, I'll be rolling in charons with the rest of the fat rats in Core City! Bless him, I want him to live forever.<end>
-
-=>q27
-Do I? If he continues with his food for information thing going, I'll be rolling in charons with the rest of the fat rats in Core City! Bless him, I want him to live forever.<end>
-
-=>q28_original
-No, really. Bless him!<end>
-
-=>q28
-No, really. Bless him!<end>
-
-=>a29_original
-What can you tell me about the Arena?<end>
-
-=>a29
-What can you tell me about the Arena?<end>
-
-=>q30_original
-Hey, you have to go and experience the bloodbath *live.* I mean, you can watch it on JKK's ArenaNow, but it's just not the same.<end>
-
-=>q30
-Hey, you have to go and experience the bloodbath *live.* I mean, you can watch it on JKK's ArenaNow, but it's just not the same.<end>
-
-=>q31_original
-Take my advice, buy a ticket and enjoy the carnage. Folks from all over Underrail come here just for the Arena.<end>
-
-=>q31
-Take my advice, buy a ticket and enjoy the carnage. Folks from all over Underrail come here just for the Arena.<end>
-
-=>a32_original
-I'd like to order one Jon's special.<end>
-
-=>a32
-I'd like to order one Jon's special.<end>
-
-=>q33_original
-Bless him! You got, eh, two hundred charons ready?<end>
-
-=>q33
-Bless him! You got, eh, two hundred charons ready?<end>
-
-=>a34_original
-Two hundred? Do you put gold in that thing?<end>
-
-=>a34
-Two hundred? Do you put gold in that thing?<end>
-
-=>q35_original
-Jon's special requires some *expensive* ingredients. He likes it made that way, not only for the better taste - but also "for the better conversation," as he phrased it himself.
-
-He never hesitated sending someone to buy it for him, so the price is not the issue, apparently.<end>
-
-=>q35
-Jon's special requires some *expensive* ingredients. He likes it made that way, not only for the better taste - but also "for the better conversation," as he phrased it himself.
-
-He never hesitated sending someone to buy it for him, so the price is not the issue, apparently.<end>
-
-=>a36_original
-Can I get a discount?<end>
-
-=>a36
-Can I get a discount?<end>
-
-=>q37_original
-I'm afraid not. The ingredients themselves are what makes it so expensive, *especially* the spices. 
-
-The price is two hundred charons, and not a charon less.<end>
-
-=>q37
-I'm afraid not. The ingredients themselves are what makes it so expensive, *especially* the spices. 
-
-The price is two hundred charons, and not a charon less.<end>
-
-=>a38_original
-Here are the coins. ::Give him 200 charons.::<end>
-
-=>a38
-Here are the coins. ::Give him 200 charons.::<end>
-
-=>q39_original
-Hardcore! Please wait while I prepare the dish. It won't take too long.<end>
-
-=>q39
-Hardcore! Please wait while I prepare the dish. It won't take too long.<end>
-
-=>q40_original
-::It took a while for Moe to prepare the special, more than he suggested at first. Still, you've never seen someone prepare a dish with so many different and, to you, exotic-looking spices: Different kinds of meat, some removed from the vertical skewer at the stall, some from the grill, with the addition of five kinds of mushrooms, roots and of course - *spices*. The scent is so strong it could make a person feel full without even touching the food.
-
-And finally, the dish is ready.::<end>
-
-=>q40
-::It took a while for Moe to prepare the special, more than he suggested at first. Still, you've never seen someone prepare a dish with so many different and, to you, exotic-looking spices: Different kinds of meat, some removed from the vertical skewer at the stall, some from the grill, with the addition of five kinds of mushrooms, roots and of course - *spices*. The scent is so strong it could make a person feel full without even touching the food.
-
-And finally, the dish is ready.::<end>
-
-=>q41_original
-Here you go. Tell Jon I said hi.<end>
-
-=>q41
-Here you go. Tell Jon I said hi.<end>
-
-=>a42_original
-Can I get some more Jon's specials?<end>
-
-=>a42
-Can I get some more Jon's specials?<end>
-
-=>q43_original
-Of course! But I can only make so many at a time. It's the spices, you know - they're really hard to come by<end>
-
-=>q43
-Of course! But I can only make so many at a time. It's the spices, you know - they're really hard to come by<end>
-
-=>q44_original
-. <end>
-
-=>q44
-. <end>
-
-=>q45_original
-But as long as you got the charons...<end>
-
-=>q45
-But as long as you got the charons...<end>
-
-=>a46_original
-::Shake your coin pouch.:: Them I got, Moe. ::Barter.::<end>
-
-=>a46
-::Shake your coin pouch.:: Them I got, Moe. ::Barter.::<end>
-
-=>a47_original
-Understood. Now, the specials... ::Barter.::<end>
-
-=>a47
-Understood. Now, the specials... ::Barter.::<end>
-
-=>q48_original
-, especially now. <end>
-
-=>q48
-, especially now. <end>
-
-=>a49_original
-I will. Goodbye, Moe.<end>
-
-=>a49
-I will. Goodbye, Moe.<end>
-
-=>a50_original
-::Leave.::<end>
-
-=>a50
-::Leave.::<end>
-
-=>a51_original
-Yeah, about that... I'll be back later.<end>
-
-=>a51
-Yeah, about that... I'll be back later.<end>
-
-=>q52_original
-Oh... okay...<end>
-
-=>q52
-Oh... okay...<end>
-
-=>a53_original
-You mentioned "barrel soup." What is that?<end>
-
-=>a53
-You mentioned "barrel soup." What is that?<end>
-
-=>q54_original
-::He laughs.:: Barrel soup is a type of soup that originated in Drop Zone, and it's been around for a long time. The recipe is simple - take whatever's edible and put it in a barrel full of water, heat it up and eat when it's ready! That's all there is to it. A full barrel can last a long time and feed a lot of zoners.<end>
-
-=>q54
-::He laughs.:: Barrel soup is a type of soup that originated in Drop Zone, and it's been around for a long time. The recipe is simple - take whatever's edible and put it in a barrel full of water, heat it up and eat when it's ready! That's all there is to it. A full barrel can last a long time and feed a lot of zoners.<end>
-
-=>a55_original
-But, why barrels?<end>
-
-=>a55
-But, why barrels?<end>
-
-=>q56_original
-Beats me, maybe they didn't have anything else to use. But apparently, from what I've heard, each barrel adds a different and unique taste to the soup. Yes, you heard me right. I often hear zoners talking about the best barrels to use - some of them even refuse to eat from a different barrel! They just add water and ingredients to the single one they think is the most hardcore... and eat from it.<end>
-
-=>q56
-Beats me, maybe they didn't have anything else to use. But apparently, from what I've heard, each barrel adds a different and unique taste to the soup. Yes, you heard me right. I often hear zoners talking about the best barrels to use - some of them even refuse to eat from a different barrel! They just add water and ingredients to the single one they think is the most hardcore... and eat from it.<end>
-
-=>a57_original
-Did you ever try it?<end>
-
-=>a57
-Did you ever try it?<end>
-
-=>q58_original
-NO! I... NO! Why would you even think... NO!
-
-I value my life, and if you value yours, don't ever try barrel soup. Not even a sip.<end>
-
-=>q58
-NO! I... NO! Why would you even think... NO!
-
-I value my life, and if you value yours, don't ever try barrel soup. Not even a sip.<end>
-
-=>a59_original
-Okay... I had some other questions.<end>
-
-=>a59
-Okay... I had some other questions.<end>
-
-=>q60_original
-Is it food related?<end>
-
-=>q60
-Is it food related?<end>
-
-=>a61_original
-What can you tell me about Zilla?<end>
-
-=>a61
-What can you tell me about Zilla?<end>
-
-=>q62_original
-Oh... Zilla... <end>
-
-=>q62
-Oh... Zilla... <end>
-
-=>q63_original
-There's not much to say about that derailed woman. She used to have a stall just across from mine. I don't even know why she chose that location since I already had mine set up here. She had nothing special to offer, and yet she wanted to compete!<end>
-
-=>q63
-There's not much to say about that derailed woman. She used to have a stall just across from mine. I don't even know why she chose that location since I already had mine set up here. She had nothing special to offer, and yet she wanted to compete!<end>
-
-=>q64_original
-I had more customers, naturally - because my food doesn't taste like it was soaked in siphoner fat, but that crooked-teeth nightmare started acting all derailed! She yelled at me for somehow "stealing" her customers. I mean, what? She didn't pass the opportunity to kick my stall a couple of times!<end>
-
-=>q64
-I had more customers, naturally - because my food doesn't taste like it was soaked in siphoner fat, but that crooked-teeth nightmare started acting all derailed! She yelled at me for somehow "stealing" her customers. I mean, what? She didn't pass the opportunity to kick my stall a couple of times!<end>
-
-=>q65_original
-The Praetorian Security enforcers got her out of here soon after that. All hardcore. So she had to move to the Upper Underrail station from what have I heard. Meh, I don't care anyway. Good riddance!<end>
-
-=>q65
-The Praetorian Security enforcers got her out of here soon after that. All hardcore. So she had to move to the Upper Underrail station from what have I heard. Meh, I don't care anyway. Good riddance!<end>
-
-=>a66_original
-Nothing for me now. Goodbye.<end>
-
-=>a66
-Nothing for me now. Goodbye.<end>
-
-=>q67_original
-<end>
-
-=>q67
-<end>
-
-=>q68_original
-You look hungry, traveler. How about something warm and tasty to fill your belly?<end>
-
-=>q68
-You look hungry, traveler. How about something warm and tasty to fill your belly?<end>
-
-=>q69_original
-Everyone likes eating at Moe's!<end>
-
-=>q69
-Everyone likes eating at Moe's!<end>
-
-=>q70_original
-The Arena can satisfy your hunger for blood, but I can satisfy your hunger. ::He pauses.:: What'll it be?<end>
-
-=>q70
-The Arena can satisfy your hunger for blood, but I can satisfy your hunger. ::He pauses.:: What'll it be?<end>
-
-=>q71_original
-Something sure smells good. Well look at that - it's Moe's food! Want some?<end>
-
-=>q71
-Something sure smells good. Well look at that - it's Moe's food! Want some?<end>
-
-=>q72_original
-Let's face it: People need to eat, otherwise they die, right? So what are you waiting for?<end>
-
-=>q72
-Let's face it: People need to eat, otherwise they die, right? So what are you waiting for?<end>
-
-=>q73_original
-An old traveler once came to my stall and tasted some of my food. He's not traveling around anymore.<end>
-
-=>q73
-An old traveler once came to my stall and tasted some of my food. He's not traveling around anymore.<end>
-
-=>q74_original
-Only zoners eat disgusting barrel soup. Real men and women eat at Moe's!<end>
-
-=>q74
-Only zoners eat disgusting barrel soup. Real men and women eat at Moe's!<end>
-
+=>q1_original
+I'm out of celebration burgers, just so you know, friend. They were so delicious I sold them out in mere hours. Maybe if we get invaded again I'll make some more. ::He laughs.::<end>
+
+=>q1
+I'm out of celebration burgers, just so you know, friend. They were so delicious I sold them out in mere hours. Maybe if we get invaded again I'll make some more. ::He laughs.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I wanna try something... ::Barter.::<end>
+
+=>a3
+I wanna try something... ::Barter.::<end>
+
+=>a4_original
+Can I ask for some directions?<end>
+
+=>a4
+Can I ask for some directions?<end>
+
+=>q5_original
+I don't see why not.<end>
+
+=>q5
+I don't see why not.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Who runs this place?<end>
+
+=>a7
+Who runs this place?<end>
+
+=>q8_original
+Core City is run by the Oligarchs; Two of them used to work for Biocorp before it got zoned out, while the third one is a businessman from afar. They own nearly everything in Core City. Well, you could say they don't exactly *own* Drop Zone, which is sort of... how should I say...<end>
+
+=>q8
+Core City is run by the Oligarchs; Two of them used to work for Biocorp before it got zoned out, while the third one is a businessman from afar. They own nearly everything in Core City. Well, you could say they don't exactly *own* Drop Zone, which is sort of... how should I say...<end>
+
+=>q9_original
+Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless wanted to go there. ::He laughs.::<end>
+
+=>q9
+Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless wanted to go there. ::He laughs.::<end>
+
+=>q10_original
+Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless would wanna go there. ::He laughs.::<end>
+
+=>q10
+Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless would wanna go there. ::He laughs.::<end>
+
+=>a11_original
+Where can I find some merchants?<end>
+
+=>a11
+Where can I find some merchants?<end>
+
+=>q12_original
+Take the main elevator and go to the level above this one.<end>
+
+=>q12
+Take the main elevator and go to the level above this one.<end>
+
+=>q13_original
+You'll find lots of merchants there, and if you get tired, just visit the Hardcore City Bar. It's the best place in Core City to have some hardcore fun! Other than the Arena, of course, which is also nearby, just west of the bar.<end>
+
+=>q13
+You'll find lots of merchants there, and if you get tired, just visit the Hardcore City Bar. It's the best place in Core City to have some hardcore fun! Other than the Arena, of course, which is also nearby, just west of the bar.<end>
+
+=>a14_original
+Is there a doctor around here?<end>
+
+=>a14
+Is there a doctor around here?<end>
+
+=>q15_original
+Sure, take the elevator to the level above this one and in the main square you'll find Dr. Gratz's office.<end>
+
+=>q15
+Sure, take the elevator to the level above this one and in the main square you'll find Dr. Gratz's office.<end>
+
+=>q16_original
+Now, listen, she might seem... strange, even scary at times, but she's the best doctor I've ever seen. Trust me.<end>
+
+=>q16
+Now, listen, she might seem... strange, even scary at times, but she's the best doctor I've ever seen. Trust me.<end>
+
+=>a17_original
+Should I avoid anything or anyone?<end>
+
+=>a17
+Should I avoid anything or anyone?<end>
+
+=>q18_original
+Avoid Drop Zone. Lowlifes, gangsters and who knows what else lives there. Sewers too are a no-no, but why anyone would go there in the first place is beyond me. ::He laughs.::<end>
+
+=>q18
+Avoid Drop Zone. Lowlifes, gangsters and who knows what else lives there. Sewers too are a no-no, but why anyone would go there in the first place is beyond me. ::He laughs.::<end>
+
+=>q19_original
+Last but not least, have you seen those robed guys? They call themselves Tchortists, and I don't exactly buy into their fairy-tales. I'd avoid them if I were you.<end>
+
+=>q19
+Last but not least, have you seen those robed guys? They call themselves Tchortists, and I don't exactly buy into their fairy-tales. I'd avoid them if I were you.<end>
+
+=>a20_original
+I'm looking for some work.<end>
+
+=>a20
+I'm looking for some work.<end>
+
+=>q21_original
+Work, you say? I'm not offering any jobs here at my stall, if that's what you're asking. ::He laughs.:: But no, seriously, maybe JKK, Coretech or Praetorian Security are looking for someone.<end>
+
+=>q21
+Work, you say? I'm not offering any jobs here at my stall, if that's what you're asking. ::He laughs.:: But no, seriously, maybe JKK, Coretech or Praetorian Security are looking for someone.<end>
+
+=>q22_original
+Take the elevator to the upper level and you'll be right outside Coretech; JKK is to the west from the elevator, and Praetorian Security to the east.<end>
+
+=>q22
+Take the elevator to the upper level and you'll be right outside Coretech; JKK is to the west from the elevator, and Praetorian Security to the east.<end>
+
+=>a23_original
+Can we talk about something else?<end>
+
+=>a23
+Can we talk about something else?<end>
+
+=>q24_original
+May I recommend a topic?<end>
+
+=>q24
+May I recommend a topic?<end>
+
+=>q25_original
+Food.<end>
+
+=>q25
+Food.<end>
+
+=>a26_original
+Do you know anything about Jon the Beautiful?<end>
+
+=>a26
+Do you know anything about Jon the Beautiful?<end>
+
+=>q27_original
+Do I? If he continues with his food for information thing going, I'll be rolling in charons with the rest of the fat rats in Core City! Bless him, I want him to live forever.<end>
+
+=>q27
+Do I? If he continues with his food for information thing going, I'll be rolling in charons with the rest of the fat rats in Core City! Bless him, I want him to live forever.<end>
+
+=>q28_original
+No, really. Bless him!<end>
+
+=>q28
+No, really. Bless him!<end>
+
+=>a29_original
+What can you tell me about the Arena?<end>
+
+=>a29
+What can you tell me about the Arena?<end>
+
+=>q30_original
+Hey, you have to go and experience the bloodbath *live.* I mean, you can watch it on JKK's ArenaNow, but it's just not the same.<end>
+
+=>q30
+Hey, you have to go and experience the bloodbath *live.* I mean, you can watch it on JKK's ArenaNow, but it's just not the same.<end>
+
+=>q31_original
+Take my advice, buy a ticket and enjoy the carnage. Folks from all over Underrail come here just for the Arena.<end>
+
+=>q31
+Take my advice, buy a ticket and enjoy the carnage. Folks from all over Underrail come here just for the Arena.<end>
+
+=>a32_original
+I'd like to order one Jon's special.<end>
+
+=>a32
+I'd like to order one Jon's special.<end>
+
+=>q33_original
+Bless him! You got, eh, two hundred charons ready?<end>
+
+=>q33
+Bless him! You got, eh, two hundred charons ready?<end>
+
+=>a34_original
+Two hundred? Do you put gold in that thing?<end>
+
+=>a34
+Two hundred? Do you put gold in that thing?<end>
+
+=>q35_original
+Jon's special requires some *expensive* ingredients. He likes it made that way, not only for the better taste - but also "for the better conversation," as he phrased it himself.
+
+He never hesitated sending someone to buy it for him, so the price is not the issue, apparently.<end>
+
+=>q35
+Jon's special requires some *expensive* ingredients. He likes it made that way, not only for the better taste - but also "for the better conversation," as he phrased it himself.
+
+He never hesitated sending someone to buy it for him, so the price is not the issue, apparently.<end>
+
+=>a36_original
+Can I get a discount?<end>
+
+=>a36
+Can I get a discount?<end>
+
+=>q37_original
+I'm afraid not. The ingredients themselves are what makes it so expensive, *especially* the spices. 
+
+The price is two hundred charons, and not a charon less.<end>
+
+=>q37
+I'm afraid not. The ingredients themselves are what makes it so expensive, *especially* the spices. 
+
+The price is two hundred charons, and not a charon less.<end>
+
+=>a38_original
+Here are the coins. ::Give him 200 charons.::<end>
+
+=>a38
+Here are the coins. ::Give him 200 charons.::<end>
+
+=>q39_original
+Hardcore! Please wait while I prepare the dish. It won't take too long.<end>
+
+=>q39
+Hardcore! Please wait while I prepare the dish. It won't take too long.<end>
+
+=>q40_original
+::It took a while for Moe to prepare the special, more than he suggested at first. Still, you've never seen someone prepare a dish with so many different and, to you, exotic-looking spices: Different kinds of meat, some removed from the vertical skewer at the stall, some from the grill, with the addition of five kinds of mushrooms, roots and of course - *spices*. The scent is so strong it could make a person feel full without even touching the food.
+
+And finally, the dish is ready.::<end>
+
+=>q40
+::It took a while for Moe to prepare the special, more than he suggested at first. Still, you've never seen someone prepare a dish with so many different and, to you, exotic-looking spices: Different kinds of meat, some removed from the vertical skewer at the stall, some from the grill, with the addition of five kinds of mushrooms, roots and of course - *spices*. The scent is so strong it could make a person feel full without even touching the food.
+
+And finally, the dish is ready.::<end>
+
+=>q41_original
+Here you go. Tell Jon I said hi.<end>
+
+=>q41
+Here you go. Tell Jon I said hi.<end>
+
+=>a42_original
+Can I get some more Jon's specials?<end>
+
+=>a42
+Can I get some more Jon's specials?<end>
+
+=>q43_original
+Of course! But I can only make so many at a time. It's the spices, you know - they're really hard to come by<end>
+
+=>q43
+Of course! But I can only make so many at a time. It's the spices, you know - they're really hard to come by<end>
+
+=>q44_original
+. <end>
+
+=>q44
+. <end>
+
+=>q45_original
+But as long as you got the charons...<end>
+
+=>q45
+But as long as you got the charons...<end>
+
+=>a46_original
+::Shake your coin pouch.:: Them I got, Moe. ::Barter.::<end>
+
+=>a46
+::Shake your coin pouch.:: Them I got, Moe. ::Barter.::<end>
+
+=>a47_original
+Understood. Now, the specials... ::Barter.::<end>
+
+=>a47
+Understood. Now, the specials... ::Barter.::<end>
+
+=>q48_original
+, especially now. <end>
+
+=>q48
+, especially now. <end>
+
+=>a49_original
+I will. Goodbye, Moe.<end>
+
+=>a49
+I will. Goodbye, Moe.<end>
+
+=>a50_original
+::Leave.::<end>
+
+=>a50
+::Leave.::<end>
+
+=>a51_original
+Yeah, about that... I'll be back later.<end>
+
+=>a51
+Yeah, about that... I'll be back later.<end>
+
+=>q52_original
+Oh... okay...<end>
+
+=>q52
+Oh... okay...<end>
+
+=>a53_original
+You mentioned "barrel soup." What is that?<end>
+
+=>a53
+You mentioned "barrel soup." What is that?<end>
+
+=>q54_original
+::He laughs.:: Barrel soup is a type of soup that originated in Drop Zone, and it's been around for a long time. The recipe is simple - take whatever's edible and put it in a barrel full of water, heat it up and eat when it's ready! That's all there is to it. A full barrel can last a long time and feed a lot of zoners.<end>
+
+=>q54
+::He laughs.:: Barrel soup is a type of soup that originated in Drop Zone, and it's been around for a long time. The recipe is simple - take whatever's edible and put it in a barrel full of water, heat it up and eat when it's ready! That's all there is to it. A full barrel can last a long time and feed a lot of zoners.<end>
+
+=>a55_original
+But, why barrels?<end>
+
+=>a55
+But, why barrels?<end>
+
+=>q56_original
+Beats me, maybe they didn't have anything else to use. But apparently, from what I've heard, each barrel adds a different and unique taste to the soup. Yes, you heard me right. I often hear zoners talking about the best barrels to use - some of them even refuse to eat from a different barrel! They just add water and ingredients to the single one they think is the most hardcore... and eat from it.<end>
+
+=>q56
+Beats me, maybe they didn't have anything else to use. But apparently, from what I've heard, each barrel adds a different and unique taste to the soup. Yes, you heard me right. I often hear zoners talking about the best barrels to use - some of them even refuse to eat from a different barrel! They just add water and ingredients to the single one they think is the most hardcore... and eat from it.<end>
+
+=>a57_original
+Did you ever try it?<end>
+
+=>a57
+Did you ever try it?<end>
+
+=>q58_original
+NO! I... NO! Why would you even think... NO!
+
+I value my life, and if you value yours, don't ever try barrel soup. Not even a sip.<end>
+
+=>q58
+NO! I... NO! Why would you even think... NO!
+
+I value my life, and if you value yours, don't ever try barrel soup. Not even a sip.<end>
+
+=>a59_original
+Okay... I had some other questions.<end>
+
+=>a59
+Okay... I had some other questions.<end>
+
+=>q60_original
+Is it food related?<end>
+
+=>q60
+Is it food related?<end>
+
+=>a61_original
+What can you tell me about Zilla?<end>
+
+=>a61
+What can you tell me about Zilla?<end>
+
+=>q62_original
+Oh... Zilla... <end>
+
+=>q62
+Oh... Zilla... <end>
+
+=>q63_original
+There's not much to say about that derailed woman. She used to have a stall just across from mine. I don't even know why she chose that location since I already had mine set up here. She had nothing special to offer, and yet she wanted to compete!<end>
+
+=>q63
+There's not much to say about that derailed woman. She used to have a stall just across from mine. I don't even know why she chose that location since I already had mine set up here. She had nothing special to offer, and yet she wanted to compete!<end>
+
+=>q64_original
+I had more customers, naturally - because my food doesn't taste like it was soaked in siphoner fat, but that crooked-teeth nightmare started acting all derailed! She yelled at me for somehow "stealing" her customers. I mean, what? She didn't pass the opportunity to kick my stall a couple of times!<end>
+
+=>q64
+I had more customers, naturally - because my food doesn't taste like it was soaked in siphoner fat, but that crooked-teeth nightmare started acting all derailed! She yelled at me for somehow "stealing" her customers. I mean, what? She didn't pass the opportunity to kick my stall a couple of times!<end>
+
+=>q65_original
+The Praetorian Security enforcers got her out of here soon after that. All hardcore. So she had to move to the Upper Underrail station from what have I heard. Meh, I don't care anyway. Good riddance!<end>
+
+=>q65
+The Praetorian Security enforcers got her out of here soon after that. All hardcore. So she had to move to the Upper Underrail station from what have I heard. Meh, I don't care anyway. Good riddance!<end>
+
+=>a66_original
+Nothing for me now. Goodbye.<end>
+
+=>a66
+Nothing for me now. Goodbye.<end>
+
+=>q67_original
+<end>
+
+=>q67
+<end>
+
+=>q68_original
+You look hungry, traveler. How about something warm and tasty to fill your belly?<end>
+
+=>q68
+You look hungry, traveler. How about something warm and tasty to fill your belly?<end>
+
+=>q69_original
+Everyone likes eating at Moe's!<end>
+
+=>q69
+Everyone likes eating at Moe's!<end>
+
+=>q70_original
+The Arena can satisfy your hunger for blood, but I can satisfy your hunger. ::He pauses.:: What'll it be?<end>
+
+=>q70
+The Arena can satisfy your hunger for blood, but I can satisfy your hunger. ::He pauses.:: What'll it be?<end>
+
+=>q71_original
+Something sure smells good. Well look at that - it's Moe's food! Want some?<end>
+
+=>q71
+Something sure smells good. Well look at that - it's Moe's food! Want some?<end>
+
+=>q72_original
+Let's face it: People need to eat, otherwise they die, right? So what are you waiting for?<end>
+
+=>q72
+Let's face it: People need to eat, otherwise they die, right? So what are you waiting for?<end>
+
+=>q73_original
+An old traveler once came to my stall and tasted some of my food. He's not traveling around anymore.<end>
+
+=>q73
+An old traveler once came to my stall and tasted some of my food. He's not traveling around anymore.<end>
+
+=>q74_original
+Only zoners eat disgusting barrel soup. Real men and women eat at Moe's!<end>
+
+=>q74
+Only zoners eat disgusting barrel soup. Real men and women eat at Moe's!<end>
+

@@ -1,48 +1,48 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Need a bullet popped out?<end>
-
-=>q2
-Need a bullet popped out?<end>
-
-=>q3_original
-If you want to buy something, talk to Pasquale. I'm busy.<end>
-
-=>q3
-If you want to buy something, talk to Pasquale. I'm busy.<end>
-
-=>q4_original
-Huh? What?<end>
-
-=>q4
-Huh? What?<end>
-
-=>q5_original
-You shouldn't be in here without a mask.<end>
-
-=>q5
-You shouldn't be in here without a mask.<end>
-
-=>q6_original
-The lights are flickering again. Not now... they surprise ya.<end>
-
-=>q6
-The lights are flickering again. Not now... they surprise ya.<end>
-
-=>q7_original
-More dead bodies...<end>
-
-=>q7
-More dead bodies...<end>
-
-=>q8_original
-Damn... what horrible way to go.<end>
-
-=>q8
-Damn... what horrible way to go.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Need a bullet popped out?<end>
+
+=>q2
+Need a bullet popped out?<end>
+
+=>q3_original
+If you want to buy something, talk to Pasquale. I'm busy.<end>
+
+=>q3
+If you want to buy something, talk to Pasquale. I'm busy.<end>
+
+=>q4_original
+Huh? What?<end>
+
+=>q4
+Huh? What?<end>
+
+=>q5_original
+You shouldn't be in here without a mask.<end>
+
+=>q5
+You shouldn't be in here without a mask.<end>
+
+=>q6_original
+The lights are flickering again. Not now... they surprise ya.<end>
+
+=>q6
+The lights are flickering again. Not now... they surprise ya.<end>
+
+=>q7_original
+More dead bodies...<end>
+
+=>q7
+More dead bodies...<end>
+
+=>q8_original
+Damn... what horrible way to go.<end>
+
+=>q8
+Damn... what horrible way to go.<end>
+

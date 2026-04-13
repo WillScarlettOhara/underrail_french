@@ -1,30 +1,30 @@
-=>q1_original
-Erm... don't kill me! Please?<end>
-
-=>q1
-Erm... don't kill me! Please?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-GET OUT!<end>
-
-=>q3
-GET OUT!<end>
-
-=>q4_original
-Wha-- GET LOST, MORON!<end>
-
-=>q4
-Wha-- GET LOST, MORON!<end>
-
-=>q5_original
-HEY, I'M BUSY HERE!<end>
-
-=>q5
-HEY, I'M BUSY HERE!<end>
-
+=>q1_original
+Erm... don't kill me! Please?<end>
+
+=>q1
+Erm... don't kill me! Please?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+GET OUT!<end>
+
+=>q3
+GET OUT!<end>
+
+=>q4_original
+Wha-- GET LOST, MORON!<end>
+
+=>q4
+Wha-- GET LOST, MORON!<end>
+
+=>q5_original
+HEY, I'M BUSY HERE!<end>
+
+=>q5
+HEY, I'M BUSY HERE!<end>
+

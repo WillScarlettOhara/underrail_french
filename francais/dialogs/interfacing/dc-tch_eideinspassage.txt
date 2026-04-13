@@ -1,46 +1,46 @@
-=>q1_original
-::Welcome back, Eidein
-
-Please confirm your identity to proceed: ::<end>
-
-=>q1
-::Welcome back, Eidein
-
-Please confirm your identity to proceed: ::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Inspect the terminal.::<end>
-
-=>a3
-::Inspect the terminal.::<end>
-
-=>q4_original
-::This console has numerous keys marked with strange symbols consisting of nothing but dots and dashes. You've never seen anything like it before and don't understand what they mean.::<end>
-
-=>q4
-::This console has numerous keys marked with strange symbols consisting of nothing but dots and dashes. You've never seen anything like it before and don't understand what they mean.::<end>
-
-=>a5_original
-::Type something random.::<end>
-
-=>a5
-::Type something random.::<end>
-
-=>q6_original
-::Sequence incorrect.::<end>
-
-=>q6
-::Sequence incorrect.::<end>
-
-=>a7_original
-::Leave.::<end>
-
-=>a7
-::Leave.::<end>
-
+=>q1_original
+::Welcome back, Eidein
+
+Please confirm your identity to proceed: ::<end>
+
+=>q1
+::Welcome back, Eidein
+
+Please confirm your identity to proceed: ::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Inspect the terminal.::<end>
+
+=>a3
+::Inspect the terminal.::<end>
+
+=>q4_original
+::This console has numerous keys marked with strange symbols consisting of nothing but dots and dashes. You've never seen anything like it before and don't understand what they mean.::<end>
+
+=>q4
+::This console has numerous keys marked with strange symbols consisting of nothing but dots and dashes. You've never seen anything like it before and don't understand what they mean.::<end>
+
+=>a5_original
+::Type something random.::<end>
+
+=>a5
+::Type something random.::<end>
+
+=>q6_original
+::Sequence incorrect.::<end>
+
+=>q6
+::Sequence incorrect.::<end>
+
+=>a7_original
+::Leave.::<end>
+
+=>a7
+::Leave.::<end>
+

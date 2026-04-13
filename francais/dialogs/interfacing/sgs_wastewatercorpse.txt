@@ -1,162 +1,162 @@
-=>q1_original
-::Before you is a body of a young $(context.frag_dun_wasteWater_corpseGender) scavenger.::<end>
-
-=>q1
-::Before you is a body of a young $(context.frag_dun_wasteWater_corpseGender) scavenger.::<end>
-
-=>a2_original
-::Inspect the body.::<end>
-
-=>a2
-::Inspect the body.::<end>
-
-=>q3_original
-::It's a corpse, and no longer edible.::<end>
-
-=>q3
-::It's a corpse, and no longer edible.::<end>
-
-=>a4_original
-::Leave it alone.::<end>
-
-=>a4
-::Leave it alone.::<end>
-
-=>q5_original
-::Before you is a body of a young scavenger, a $(context.frag_dun_wasteWater_corpseGender) barely over twenty, if over at all; you have some difficulty telling the age, as the ::<end>
-
-=>q5
-::Before you is a body of a young scavenger, a $(context.frag_dun_wasteWater_corpseGender) barely over twenty, if over at all; you have some difficulty telling the age, as the ::<end>
-
-=>q6_original
-::state the body's in ::<end>
-
-=>q6
-::state the body's in ::<end>
-
-=>q7_original
-::really undermines your perception.::<end>
-
-=>q7
-::really undermines your perception.::<end>
-
-=>a8_original
-::Inspect the deceased.::<end>
-
-=>a8
-::Inspect the deceased.::<end>
-
-=>q9_original
-::His ::<end>
-
-=>q9
-::His ::<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>q11_original
-::somewhat deformed body is covered in small, pox-sized green tumors from whose base thin, mycelium-like tendrils grow over and into the pale skin. You also notice what appear to be several needle marks, mostly on the arms, but there's one on the neck as well.::<end>
-
-=>q11
-::somewhat deformed body is covered in small, pox-sized green tumors from whose base thin, mycelium-like tendrils grow over and into the pale skin. You also notice what appear to be several needle marks, mostly on the arms, but there's one on the neck as well.::<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>q13_original
-::[Biology] The body's pale and cold, and pretty stiff, meaning rigor mortis has set in. You take a look at some of the exposed back and notice moderate suggillation - that is, the pooling of blood inside the body. The amount of pooled blood and its location, combined with what you deduced so far, tells you that death occured no more than six hours ago.::<end>
-
-=>q13
-::[Biology] The body's pale and cold, and pretty stiff, meaning rigor mortis has set in. You take a look at some of the exposed back and notice moderate suggillation - that is, the pooling of blood inside the body. The amount of pooled blood and its location, combined with what you deduced so far, tells you that death occured no more than six hours ago.::<end>
-
-=>q14_original
-::[Chemistry] Additionally, the body reeks of rotten hopper eggs and ammonia - essentially sewage. Looking at the muck on the deceased's clothes confirms that this person has indeed ventured into some rather foul place or places.::<end>
-
-=>q14
-::[Chemistry] Additionally, the body reeks of rotten hopper eggs and ammonia - essentially sewage. Looking at the muck on the deceased's clothes confirms that this person has indeed ventured into some rather foul place or places.::<end>
-
-=>q15_original
-::[Perception] And lastly, ::<end>
-
-=>q15
-::[Perception] And lastly, ::<end>
-
-=>q16_original
-::one of the fingers on the left hand exhibits a single ring mark.::<end>
-
-=>q16
-::one of the fingers on the left hand exhibits a single ring mark.::<end>
-
-=>q17_original
-::Unfortunately, that's everything useful you're able to determine from inspecting the body.::<end>
-
-=>q17
-::Unfortunately, that's everything useful you're able to determine from inspecting the body.::<end>
-
-=>a18_original
-::Leave.::<end>
-
-=>a18
-::Leave.::<end>
-
-=>q19_original
-::[Perception] Also, ::<end>
-
-=>q19
-::[Perception] Also, ::<end>
-
-=>q20_original
-::body is severely burned, with sagging, melted skin almost running down the $(context.frag_dun_wasteWater_corpseGender)'s face and exposed arms. You notice several strange symbols burned into the skin, mostly the arms and chest, but there is also a single one on the forehead - shaped like a flaming drop of liquid. Also, the wrists are bruised and cut, as if they were tied with something and the victim was trying to break loose.::<end>
-
-=>q20
-::body is severely burned, with sagging, melted skin almost running down the $(context.frag_dun_wasteWater_corpseGender)'s face and exposed arms. You notice several strange symbols burned into the skin, mostly the arms and chest, but there is also a single one on the forehead - shaped like a flaming drop of liquid. Also, the wrists are bruised and cut, as if they were tied with something and the victim was trying to break loose.::<end>
-
-=>q21_original
-::body shows signs of electrocution, namely burn marks stretching between the limbs and the face, haloed in large hematomas in several spots along the way. Three distinct areas of the body have suffered the most damage: The first area is the feet - each sole has a single burned hole in the middle; the second is the knees - as if the $(context.frag_dun_wasteWater_corpseGender) has, hypothetically, dropped to them after the first strike and suffered another; and lastly, the hands - which are charred and missing several fingers.::<end>
-
-=>q21
-::body shows signs of electrocution, namely burn marks stretching between the limbs and the face, haloed in large hematomas in several spots along the way. Three distinct areas of the body have suffered the most damage: The first area is the feet - each sole has a single burned hole in the middle; the second is the knees - as if the $(context.frag_dun_wasteWater_corpseGender) has, hypothetically, dropped to them after the first strike and suffered another; and lastly, the hands - which are charred and missing several fingers.::<end>
-
-=>q22_original
-::body is full of bullet wounds from all sides, some of which form groups consisting of small entry wounds mixed in with large exit wounds. What is striking, however, is that the relative locations of some of these entry and exit wounds suggests that the $(context.frag_dun_wasteWater_corpseGender) was shot either from a low position - or by some very short shooters.::<end>
-
-=>q22
-::body is full of bullet wounds from all sides, some of which form groups consisting of small entry wounds mixed in with large exit wounds. What is striking, however, is that the relative locations of some of these entry and exit wounds suggests that the $(context.frag_dun_wasteWater_corpseGender) was shot either from a low position - or by some very short shooters.::<end>
-
-=>q23_original
-::body is covered in bite marks, with several fingers and bits of face and arms chewed off, revealing the bones underneath. You notice numerous canine teeth puncture wounds, but the bite marks appear too small to have been made by rathounds, you think.::<end>
-
-=>q23
-::body is covered in bite marks, with several fingers and bits of face and arms chewed off, revealing the bones underneath. You notice numerous canine teeth puncture wounds, but the bite marks appear too small to have been made by rathounds, you think.::<end>
-
-=>q24_original
-::head is missing patches of hair which were ripped out of the scalp, and what's left underneath has been severely clawed, exposing the whiteness of the skull underneath. As to who did it, the answer reveals itself when you look at the $(context.frag_dun_wasteWater_corpseGender)'s fingertips: The nails - where they're still present - are mostly broken, with bits of flesh and bloodied hair underneath them.::<end>
-
-=>q24
-::head is missing patches of hair which were ripped out of the scalp, and what's left underneath has been severely clawed, exposing the whiteness of the skull underneath. As to who did it, the answer reveals itself when you look at the $(context.frag_dun_wasteWater_corpseGender)'s fingertips: The nails - where they're still present - are mostly broken, with bits of flesh and bloodied hair underneath them.::<end>
-
-=>q25_original
-::Her ::<end>
-
-=>q25
-::Her ::<end>
-
-=>q26_original
-::damage the head has suffered ::<end>
-
-=>q26
-::damage the head has suffered ::<end>
-
-=>q27_original
-::damage the body has suffered ::<end>
-
-=>q27
-::damage the body has suffered ::<end>
-
+=>q1_original
+::Before you is a body of a young $(context.frag_dun_wasteWater_corpseGender) scavenger.::<end>
+
+=>q1
+::Before you is a body of a young $(context.frag_dun_wasteWater_corpseGender) scavenger.::<end>
+
+=>a2_original
+::Inspect the body.::<end>
+
+=>a2
+::Inspect the body.::<end>
+
+=>q3_original
+::It's a corpse, and no longer edible.::<end>
+
+=>q3
+::It's a corpse, and no longer edible.::<end>
+
+=>a4_original
+::Leave it alone.::<end>
+
+=>a4
+::Leave it alone.::<end>
+
+=>q5_original
+::Before you is a body of a young scavenger, a $(context.frag_dun_wasteWater_corpseGender) barely over twenty, if over at all; you have some difficulty telling the age, as the ::<end>
+
+=>q5
+::Before you is a body of a young scavenger, a $(context.frag_dun_wasteWater_corpseGender) barely over twenty, if over at all; you have some difficulty telling the age, as the ::<end>
+
+=>q6_original
+::state the body's in ::<end>
+
+=>q6
+::state the body's in ::<end>
+
+=>q7_original
+::really undermines your perception.::<end>
+
+=>q7
+::really undermines your perception.::<end>
+
+=>a8_original
+::Inspect the deceased.::<end>
+
+=>a8
+::Inspect the deceased.::<end>
+
+=>q9_original
+::His ::<end>
+
+=>q9
+::His ::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+::somewhat deformed body is covered in small, pox-sized green tumors from whose base thin, mycelium-like tendrils grow over and into the pale skin. You also notice what appear to be several needle marks, mostly on the arms, but there's one on the neck as well.::<end>
+
+=>q11
+::somewhat deformed body is covered in small, pox-sized green tumors from whose base thin, mycelium-like tendrils grow over and into the pale skin. You also notice what appear to be several needle marks, mostly on the arms, but there's one on the neck as well.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+::[Biology] The body's pale and cold, and pretty stiff, meaning rigor mortis has set in. You take a look at some of the exposed back and notice moderate suggillation - that is, the pooling of blood inside the body. The amount of pooled blood and its location, combined with what you deduced so far, tells you that death occured no more than six hours ago.::<end>
+
+=>q13
+::[Biology] The body's pale and cold, and pretty stiff, meaning rigor mortis has set in. You take a look at some of the exposed back and notice moderate suggillation - that is, the pooling of blood inside the body. The amount of pooled blood and its location, combined with what you deduced so far, tells you that death occured no more than six hours ago.::<end>
+
+=>q14_original
+::[Chemistry] Additionally, the body reeks of rotten hopper eggs and ammonia - essentially sewage. Looking at the muck on the deceased's clothes confirms that this person has indeed ventured into some rather foul place or places.::<end>
+
+=>q14
+::[Chemistry] Additionally, the body reeks of rotten hopper eggs and ammonia - essentially sewage. Looking at the muck on the deceased's clothes confirms that this person has indeed ventured into some rather foul place or places.::<end>
+
+=>q15_original
+::[Perception] And lastly, ::<end>
+
+=>q15
+::[Perception] And lastly, ::<end>
+
+=>q16_original
+::one of the fingers on the left hand exhibits a single ring mark.::<end>
+
+=>q16
+::one of the fingers on the left hand exhibits a single ring mark.::<end>
+
+=>q17_original
+::Unfortunately, that's everything useful you're able to determine from inspecting the body.::<end>
+
+=>q17
+::Unfortunately, that's everything useful you're able to determine from inspecting the body.::<end>
+
+=>a18_original
+::Leave.::<end>
+
+=>a18
+::Leave.::<end>
+
+=>q19_original
+::[Perception] Also, ::<end>
+
+=>q19
+::[Perception] Also, ::<end>
+
+=>q20_original
+::body is severely burned, with sagging, melted skin almost running down the $(context.frag_dun_wasteWater_corpseGender)'s face and exposed arms. You notice several strange symbols burned into the skin, mostly the arms and chest, but there is also a single one on the forehead - shaped like a flaming drop of liquid. Also, the wrists are bruised and cut, as if they were tied with something and the victim was trying to break loose.::<end>
+
+=>q20
+::body is severely burned, with sagging, melted skin almost running down the $(context.frag_dun_wasteWater_corpseGender)'s face and exposed arms. You notice several strange symbols burned into the skin, mostly the arms and chest, but there is also a single one on the forehead - shaped like a flaming drop of liquid. Also, the wrists are bruised and cut, as if they were tied with something and the victim was trying to break loose.::<end>
+
+=>q21_original
+::body shows signs of electrocution, namely burn marks stretching between the limbs and the face, haloed in large hematomas in several spots along the way. Three distinct areas of the body have suffered the most damage: The first area is the feet - each sole has a single burned hole in the middle; the second is the knees - as if the $(context.frag_dun_wasteWater_corpseGender) has, hypothetically, dropped to them after the first strike and suffered another; and lastly, the hands - which are charred and missing several fingers.::<end>
+
+=>q21
+::body shows signs of electrocution, namely burn marks stretching between the limbs and the face, haloed in large hematomas in several spots along the way. Three distinct areas of the body have suffered the most damage: The first area is the feet - each sole has a single burned hole in the middle; the second is the knees - as if the $(context.frag_dun_wasteWater_corpseGender) has, hypothetically, dropped to them after the first strike and suffered another; and lastly, the hands - which are charred and missing several fingers.::<end>
+
+=>q22_original
+::body is full of bullet wounds from all sides, some of which form groups consisting of small entry wounds mixed in with large exit wounds. What is striking, however, is that the relative locations of some of these entry and exit wounds suggests that the $(context.frag_dun_wasteWater_corpseGender) was shot either from a low position - or by some very short shooters.::<end>
+
+=>q22
+::body is full of bullet wounds from all sides, some of which form groups consisting of small entry wounds mixed in with large exit wounds. What is striking, however, is that the relative locations of some of these entry and exit wounds suggests that the $(context.frag_dun_wasteWater_corpseGender) was shot either from a low position - or by some very short shooters.::<end>
+
+=>q23_original
+::body is covered in bite marks, with several fingers and bits of face and arms chewed off, revealing the bones underneath. You notice numerous canine teeth puncture wounds, but the bite marks appear too small to have been made by rathounds, you think.::<end>
+
+=>q23
+::body is covered in bite marks, with several fingers and bits of face and arms chewed off, revealing the bones underneath. You notice numerous canine teeth puncture wounds, but the bite marks appear too small to have been made by rathounds, you think.::<end>
+
+=>q24_original
+::head is missing patches of hair which were ripped out of the scalp, and what's left underneath has been severely clawed, exposing the whiteness of the skull underneath. As to who did it, the answer reveals itself when you look at the $(context.frag_dun_wasteWater_corpseGender)'s fingertips: The nails - where they're still present - are mostly broken, with bits of flesh and bloodied hair underneath them.::<end>
+
+=>q24
+::head is missing patches of hair which were ripped out of the scalp, and what's left underneath has been severely clawed, exposing the whiteness of the skull underneath. As to who did it, the answer reveals itself when you look at the $(context.frag_dun_wasteWater_corpseGender)'s fingertips: The nails - where they're still present - are mostly broken, with bits of flesh and bloodied hair underneath them.::<end>
+
+=>q25_original
+::Her ::<end>
+
+=>q25
+::Her ::<end>
+
+=>q26_original
+::damage the head has suffered ::<end>
+
+=>q26
+::damage the head has suffered ::<end>
+
+=>q27_original
+::damage the body has suffered ::<end>
+
+=>q27
+::damage the body has suffered ::<end>
+

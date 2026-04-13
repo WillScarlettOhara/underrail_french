@@ -1,744 +1,744 @@
-=>q1_original
-I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
-
-=>q1
-I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
-
-=>q2_original
-Yeah?<end>
-
-=>q2
-Yeah?<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-Show me what you've got for trade. ::Barter.::<end>
-
-=>a4
-Show me what you've got for trade. ::Barter.::<end>
-
-=>a5_original
-I have done everything you asked. Now what?<end>
-
-=>a5
-I have done everything you asked. Now what?<end>
-
-=>q6_original
-Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
-
-=>q6
-Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
-
-=>a7_original
-All right, see you later then.<end>
-
-=>a7
-All right, see you later then.<end>
-
-=>q8_original
-Sure. See you later...<end>
-
-=>q8
-Sure. See you later...<end>
-
-=>a9_original
-How will you contact me?<end>
-
-=>a9
-How will you contact me?<end>
-
-=>q10_original
-You ask me a question like that after all you've been through? 
-
-See you around, $(context.player.Name).<end>
-
-=>q10
-You ask me a question like that after all you've been through? 
-
-See you around, $(context.player.Name).<end>
-
-=>a11_original
-I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
-
-=>a11
-I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
-
-=>q12_original
-Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
-
-=>q12
-Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
-
-=>q13_original
-Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
-
-=>q13
-Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
-
-=>q14_original
-There's someone who wishes to speak with you.<end>
-
-=>q14
-There's someone who wishes to speak with you.<end>
-
-=>q15_original
-Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
-
-=>q15
-Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>a17_original
-Who is Azif?<end>
-
-=>a17
-Who is Azif?<end>
-
-=>q18_original
-You'll find out.<end>
-
-=>q18
-You'll find out.<end>
-
-=>a19_original
-How do I find this place?<end>
-
-=>a19
-How do I find this place?<end>
-
-=>q20_original
-::He smirks.:: By being resourceful, as you were so far.<end>
-
-=>q20
-::He smirks.:: By being resourceful, as you were so far.<end>
-
-=>q21_original
-Enter the caves from the Rail Crossing station and start your search from there.<end>
-
-=>q21
-Enter the caves from the Rail Crossing station and start your search from there.<end>
-
-=>a22_original
-Alright. I'll look for Azif.<end>
-
-=>a22
-Alright. I'll look for Azif.<end>
-
-=>q23_original
-::He nods.::<end>
-
-=>q23
-::He nods.::<end>
-
-=>a24_original
-I'll think about it.<end>
-
-=>a24
-I'll think about it.<end>
-
-=>q25_original
-::He nods.:: Take your time.<end>
-
-=>q25
-::He nods.:: Take your time.<end>
-
-=>a26_original
-Forget it. I have more important things to do then wonder aimlessly through caves.<end>
-
-=>a26
-Forget it. I have more important things to do then wonder aimlessly through caves.<end>
-
-=>q27_original
-Still, if you change your mind, you should make your way there.<end>
-
-=>q27
-Still, if you change your mind, you should make your way there.<end>
-
-=>a28_original
-I'm done with Everard's assignment.<end>
-
-=>a28
-I'm done with Everard's assignment.<end>
-
-=>q29_original
-I've been informed. ::He gives you 400 stygian coins.::<end>
-
-=>q29
-I've been informed. ::He gives you 400 stygian coins.::<end>
-
-=>q30_original
-There you go. Anything else?<end>
-
-=>q30
-There you go. Anything else?<end>
-
-=>a31_original
-I'm done with Xander's assignment.<end>
-
-=>a31
-I'm done with Xander's assignment.<end>
-
-=>q32_original
-Indeed you are. ::He gives you 400 stygian coins.::<end>
-
-=>q32
-Indeed you are. ::He gives you 400 stygian coins.::<end>
-
-=>a33_original
-I'm done with Pierce's assignment.<end>
-
-=>a33
-I'm done with Pierce's assignment.<end>
-
-=>q34_original
-As I hoped. ::He gives you 400 stygian coins.::<end>
-
-=>q34
-As I hoped. ::He gives you 400 stygian coins.::<end>
-
-=>a35_original
-I'd like to know more about the organization you're working for.<end>
-
-=>a35
-I'd like to know more about the organization you're working for.<end>
-
-=>q36_original
-Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
-
-=>q36
-Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
-
-=>q37_original
-But don't worry, just be patient.<end>
-
-=>q37
-But don't worry, just be patient.<end>
-
-=>a38_original
-I need some help with the assignments you gave me.<end>
-
-=>a38
-I need some help with the assignments you gave me.<end>
-
-=>q39_original
-$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
-
-=>q39
-$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
-
-=>q40_original
-And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
-
-=>q40
-And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
-
-=>q41_original
-That's enough of Jack's wisdom for now. ::He smiles.::<end>
-
-=>q41
-That's enough of Jack's wisdom for now. ::He smiles.::<end>
-
-=>a42_original
-Catch you later, Jack.<end>
-
-=>a42
-Catch you later, Jack.<end>
-
-=>q43_original
-Maybe I should order another drink...<end>
-
-=>q43
-Maybe I should order another drink...<end>
-
-=>q44_original
-Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
-
-=>q44
-Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
-
-=>q45_original
-<end>
-
-=>q45
-<end>
-
-=>q46_original
-$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
-
-=>q46
-$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
-
-=>a47_original
-What was the meaning of all that?<end>
-
-=>a47
-What was the meaning of all that?<end>
-
-=>q48_original
-I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
-
-=>q48
-I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
-
-=>q49_original
-I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
-
-=>q49
-I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
-
-=>q50_original
-Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
-
-=>q50
-Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
-
-=>q51_original
-Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q51
-Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q52_original
-We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
-
-=>q52
-We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
-
-=>q53_original
-Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
-
-=>q53
-Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
-
-=>q54_original
-Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
-
-You get it, don't you?<end>
-
-=>q54
-Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
-
-You get it, don't you?<end>
-
-=>q55_original
-I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
-
-First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
-
-=>q55
-I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
-
-First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
-
-=>a56_original
-How do I find the cell?<end>
-
-=>a56
-How do I find the cell?<end>
-
-=>q57_original
-$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
-
-=>q57
-$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
-
-=>q58_original
-Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
-
-=>q58
-Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
-
-=>a59_original
-And what's the third assignment?<end>
-
-=>a59
-And what's the third assignment?<end>
-
-=>q60_original
-The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
-
-Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
-
-=>q60
-The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
-
-Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
-
-=>q61_original
-<end>
-
-=>q61
-<end>
-
-=>a62_original
-I got it, what's the second assignment.<end>
-
-=>a62
-I got it, what's the second assignment.<end>
-
-=>a63_original
-You used me as a decoy.<end>
-
-=>a63
-You used me as a decoy.<end>
-
-=>q64_original
-That I did. Guilty as charged.<end>
-
-=>q64
-That I did. Guilty as charged.<end>
-
-=>q65_original
-I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
-
-=>q65
-I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
-
-=>q66_original
-Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
-
-=>q66
-Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
-
-=>q67_original
-So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q67
-So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q68_original
-...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
-
-=>q68
-...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
-
-=>q69_original
-Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q69
-Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q70_original
-Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q70
-Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
-
-=>q71_original
-Yeah?<end>
-
-=>q71
-Yeah?<end>
-
-=>q72_original
-<end>
-
-=>q72
-<end>
-
-=>a73_original
-Let's barter. ::Barter.::<end>
-
-=>a73
-Let's barter. ::Barter.::<end>
-
-=>a74_original
-Where are you from, Jack?<end>
-
-=>a74
-Where are you from, Jack?<end>
-
-=>q75_original
-I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
-
-=>q75
-I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
-
-=>a76_original
-What brought you here in the first place?<end>
-
-=>a76
-What brought you here in the first place?<end>
-
-=>q77_original
-A lucrative business opportunity. But it slipped past me, unfortunately.<end>
-
-=>q77
-A lucrative business opportunity. But it slipped past me, unfortunately.<end>
-
-=>a78_original
-What do you do for living? Are you a trader?<end>
-
-=>a78
-What do you do for living? Are you a trader?<end>
-
-=>q79_original
-Among other things, yeah. Are you looking to trade?<end>
-
-=>q79
-Among other things, yeah. Are you looking to trade?<end>
-
-=>a80_original
-Show me what you got. ::Barter.::<end>
-
-=>a80
-Show me what you got. ::Barter.::<end>
-
-=>a81_original
-Maybe later.<end>
-
-=>a81
-Maybe later.<end>
-
-=>q82_original
-I'll be here for a little while longer.<end>
-
-=>q82
-I'll be here for a little while longer.<end>
-
-=>a83_original
-What happened with that business opportunity?<end>
-
-=>a83
-What happened with that business opportunity?<end>
-
-=>q84_original
-It's a business secret.<end>
-
-=>q84
-It's a business secret.<end>
-
-=>q85_original
-If you're interested in doing some work, though, that's something I can arrange.<end>
-
-=>q85
-If you're interested in doing some work, though, that's something I can arrange.<end>
-
-=>a86_original
-What kind of work?<end>
-
-=>a86
-What kind of work?<end>
-
-=>q87_original
-Package delivery. I'll pay you in SGS credits. Hundred pieces.
-
-<end>
-
-=>q87
-Package delivery. I'll pay you in SGS credits. Hundred pieces.
-
-<end>
-
-=>q88_original
-You interested?<end>
-
-=>q88
-You interested?<end>
-
-=>q89_original
-<end>
-
-=>q89
-<end>
-
-=>a90_original
-Yeah. Tell me the details.<end>
-
-=>a90
-Yeah. Tell me the details.<end>
-
-=>q91_original
-::He beckons you closer.:: You know where the GMS warehouse block is?<end>
-
-=>q91
-::He beckons you closer.:: You know where the GMS warehouse block is?<end>
-
-=>a92_original
-Yes.<end>
-
-=>a92
-Yes.<end>
-
-=>q93_original
-First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
-
-=>q93
-First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
-
-=>q94_original
-Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
-
-=>q94
-Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
-
-=>a95_original
-Alright.<end>
-
-=>a95
-Alright.<end>
-
-=>q96_original
-We will not speak of this again until the job is done.<end>
-
-=>q96
-We will not speak of this again until the job is done.<end>
-
-=>a97_original
-Why don't you just take the package yourself?<end>
-
-=>a97
-Why don't you just take the package yourself?<end>
-
-=>q98_original
-No questions. <end>
-
-=>q98
-No questions. <end>
-
-=>a99_original
-Actually I changed my mind.<end>
-
-=>a99
-Actually I changed my mind.<end>
-
-=>q100_original
-Too late for that now. <end>
-
-=>q100
-Too late for that now. <end>
-
-=>a101_original
-No.<end>
-
-=>a101
-No.<end>
-
-=>q102_original
-Never mind then. Can't risk you getting lost with the package.<end>
-
-=>q102
-Never mind then. Can't risk you getting lost with the package.<end>
-
-=>a103_original
-Maybe later.<end>
-
-=>a103
-Maybe later.<end>
-
-=>a104_original
-What's the pay?<end>
-
-=>a104
-What's the pay?<end>
-
-=>q105_original
-I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
-
-<end>
-
-=>q105
-I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
-
-<end>
-
-=>a106_original
-Perhaps later.<end>
-
-=>a106
-Perhaps later.<end>
-
-=>q107_original
-::He nods.::<end>
-
-=>q107
-::He nods.::<end>
-
-=>a108_original
-Tell me about that job you mentioned earlier again.<end>
-
-=>a108
-Tell me about that job you mentioned earlier again.<end>
-
-=>a109_original
-Catch you later, Jack.<end>
-
-=>a109
-Catch you later, Jack.<end>
-
-=>q110_original
-Or maybe I'll catch you.<end>
-
-=>q110
-Or maybe I'll catch you.<end>
-
-=>q111_original
-Haven't seen you around here before. You stuck in this hole now as well?<end>
-
-=>q111
-Haven't seen you around here before. You stuck in this hole now as well?<end>
-
-=>a112_original
-No, actually, I'm new here.<end>
-
-=>a112
-No, actually, I'm new here.<end>
-
-=>q113_original
-Name's Jack Quicksilver.<end>
-
-=>q113
-Name's Jack Quicksilver.<end>
-
-=>q114_original
- Who're you?<end>
-
-=>q114
- Who're you?<end>
-
-=>a115_original
-My name is $(context.player.Name).<end>
-
-=>a115
-My name is $(context.player.Name).<end>
-
-=>q116_original
-::He just nods in confirmation.::<end>
-
-=>q116
-::He just nods in confirmation.::<end>
-
-=>a117_original
-Why would I be stuck?<end>
-
-=>a117
-Why would I be stuck?<end>
-
-=>q118_original
-Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
-
-=>q118
-Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
-
-=>a119_original
-Who wants to know?<end>
-
-=>a119
-Who wants to know?<end>
-
-=>q120_original
-Don't answer a question with a question. It's irritating.<end>
-
-=>q120
-Don't answer a question with a question. It's irritating.<end>
-
+=>q1_original
+I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
+
+=>q1
+I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
+
+=>q2_original
+Yeah?<end>
+
+=>q2
+Yeah?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you've got for trade. ::Barter.::<end>
+
+=>a4
+Show me what you've got for trade. ::Barter.::<end>
+
+=>a5_original
+I have done everything you asked. Now what?<end>
+
+=>a5
+I have done everything you asked. Now what?<end>
+
+=>q6_original
+Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
+
+=>q6
+Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
+
+=>a7_original
+All right, see you later then.<end>
+
+=>a7
+All right, see you later then.<end>
+
+=>q8_original
+Sure. See you later...<end>
+
+=>q8
+Sure. See you later...<end>
+
+=>a9_original
+How will you contact me?<end>
+
+=>a9
+How will you contact me?<end>
+
+=>q10_original
+You ask me a question like that after all you've been through? 
+
+See you around, $(context.player.Name).<end>
+
+=>q10
+You ask me a question like that after all you've been through? 
+
+See you around, $(context.player.Name).<end>
+
+=>a11_original
+I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
+
+=>a11
+I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
+
+=>q12_original
+Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
+
+=>q12
+Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
+
+=>q13_original
+Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
+
+=>q13
+Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
+
+=>q14_original
+There's someone who wishes to speak with you.<end>
+
+=>q14
+There's someone who wishes to speak with you.<end>
+
+=>q15_original
+Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
+
+=>q15
+Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+Who is Azif?<end>
+
+=>a17
+Who is Azif?<end>
+
+=>q18_original
+You'll find out.<end>
+
+=>q18
+You'll find out.<end>
+
+=>a19_original
+How do I find this place?<end>
+
+=>a19
+How do I find this place?<end>
+
+=>q20_original
+::He smirks.:: By being resourceful, as you were so far.<end>
+
+=>q20
+::He smirks.:: By being resourceful, as you were so far.<end>
+
+=>q21_original
+Enter the caves from the Rail Crossing station and start your search from there.<end>
+
+=>q21
+Enter the caves from the Rail Crossing station and start your search from there.<end>
+
+=>a22_original
+Alright. I'll look for Azif.<end>
+
+=>a22
+Alright. I'll look for Azif.<end>
+
+=>q23_original
+::He nods.::<end>
+
+=>q23
+::He nods.::<end>
+
+=>a24_original
+I'll think about it.<end>
+
+=>a24
+I'll think about it.<end>
+
+=>q25_original
+::He nods.:: Take your time.<end>
+
+=>q25
+::He nods.:: Take your time.<end>
+
+=>a26_original
+Forget it. I have more important things to do then wonder aimlessly through caves.<end>
+
+=>a26
+Forget it. I have more important things to do then wonder aimlessly through caves.<end>
+
+=>q27_original
+Still, if you change your mind, you should make your way there.<end>
+
+=>q27
+Still, if you change your mind, you should make your way there.<end>
+
+=>a28_original
+I'm done with Everard's assignment.<end>
+
+=>a28
+I'm done with Everard's assignment.<end>
+
+=>q29_original
+I've been informed. ::He gives you 400 stygian coins.::<end>
+
+=>q29
+I've been informed. ::He gives you 400 stygian coins.::<end>
+
+=>q30_original
+There you go. Anything else?<end>
+
+=>q30
+There you go. Anything else?<end>
+
+=>a31_original
+I'm done with Xander's assignment.<end>
+
+=>a31
+I'm done with Xander's assignment.<end>
+
+=>q32_original
+Indeed you are. ::He gives you 400 stygian coins.::<end>
+
+=>q32
+Indeed you are. ::He gives you 400 stygian coins.::<end>
+
+=>a33_original
+I'm done with Pierce's assignment.<end>
+
+=>a33
+I'm done with Pierce's assignment.<end>
+
+=>q34_original
+As I hoped. ::He gives you 400 stygian coins.::<end>
+
+=>q34
+As I hoped. ::He gives you 400 stygian coins.::<end>
+
+=>a35_original
+I'd like to know more about the organization you're working for.<end>
+
+=>a35
+I'd like to know more about the organization you're working for.<end>
+
+=>q36_original
+Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
+
+=>q36
+Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
+
+=>q37_original
+But don't worry, just be patient.<end>
+
+=>q37
+But don't worry, just be patient.<end>
+
+=>a38_original
+I need some help with the assignments you gave me.<end>
+
+=>a38
+I need some help with the assignments you gave me.<end>
+
+=>q39_original
+$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
+
+=>q39
+$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
+
+=>q40_original
+And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
+
+=>q40
+And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
+
+=>q41_original
+That's enough of Jack's wisdom for now. ::He smiles.::<end>
+
+=>q41
+That's enough of Jack's wisdom for now. ::He smiles.::<end>
+
+=>a42_original
+Catch you later, Jack.<end>
+
+=>a42
+Catch you later, Jack.<end>
+
+=>q43_original
+Maybe I should order another drink...<end>
+
+=>q43
+Maybe I should order another drink...<end>
+
+=>q44_original
+Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
+
+=>q44
+Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
+
+=>q46
+$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
+
+=>a47_original
+What was the meaning of all that?<end>
+
+=>a47
+What was the meaning of all that?<end>
+
+=>q48_original
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q48
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q49_original
+I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
+
+=>q49
+I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
+
+=>q50_original
+Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
+
+=>q50
+Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
+
+=>q51_original
+Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q51
+Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q52_original
+We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
+
+=>q52
+We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
+
+=>q53_original
+Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
+
+=>q53
+Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
+
+=>q54_original
+Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
+
+You get it, don't you?<end>
+
+=>q54
+Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
+
+You get it, don't you?<end>
+
+=>q55_original
+I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
+
+First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
+
+=>q55
+I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
+
+First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
+
+=>a56_original
+How do I find the cell?<end>
+
+=>a56
+How do I find the cell?<end>
+
+=>q57_original
+$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
+
+=>q57
+$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
+
+=>q58_original
+Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
+
+=>q58
+Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
+
+=>a59_original
+And what's the third assignment?<end>
+
+=>a59
+And what's the third assignment?<end>
+
+=>q60_original
+The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
+
+Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
+
+=>q60
+The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
+
+Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+I got it, what's the second assignment.<end>
+
+=>a62
+I got it, what's the second assignment.<end>
+
+=>a63_original
+You used me as a decoy.<end>
+
+=>a63
+You used me as a decoy.<end>
+
+=>q64_original
+That I did. Guilty as charged.<end>
+
+=>q64
+That I did. Guilty as charged.<end>
+
+=>q65_original
+I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
+
+=>q65
+I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
+
+=>q66_original
+Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
+
+=>q66
+Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
+
+=>q67_original
+So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q67
+So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q68_original
+...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
+
+=>q68
+...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
+
+=>q69_original
+Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q69
+Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q70_original
+Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q70
+Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q71_original
+Yeah?<end>
+
+=>q71
+Yeah?<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>a73_original
+Let's barter. ::Barter.::<end>
+
+=>a73
+Let's barter. ::Barter.::<end>
+
+=>a74_original
+Where are you from, Jack?<end>
+
+=>a74
+Where are you from, Jack?<end>
+
+=>q75_original
+I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
+
+=>q75
+I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
+
+=>a76_original
+What brought you here in the first place?<end>
+
+=>a76
+What brought you here in the first place?<end>
+
+=>q77_original
+A lucrative business opportunity. But it slipped past me, unfortunately.<end>
+
+=>q77
+A lucrative business opportunity. But it slipped past me, unfortunately.<end>
+
+=>a78_original
+What do you do for living? Are you a trader?<end>
+
+=>a78
+What do you do for living? Are you a trader?<end>
+
+=>q79_original
+Among other things, yeah. Are you looking to trade?<end>
+
+=>q79
+Among other things, yeah. Are you looking to trade?<end>
+
+=>a80_original
+Show me what you got. ::Barter.::<end>
+
+=>a80
+Show me what you got. ::Barter.::<end>
+
+=>a81_original
+Maybe later.<end>
+
+=>a81
+Maybe later.<end>
+
+=>q82_original
+I'll be here for a little while longer.<end>
+
+=>q82
+I'll be here for a little while longer.<end>
+
+=>a83_original
+What happened with that business opportunity?<end>
+
+=>a83
+What happened with that business opportunity?<end>
+
+=>q84_original
+It's a business secret.<end>
+
+=>q84
+It's a business secret.<end>
+
+=>q85_original
+If you're interested in doing some work, though, that's something I can arrange.<end>
+
+=>q85
+If you're interested in doing some work, though, that's something I can arrange.<end>
+
+=>a86_original
+What kind of work?<end>
+
+=>a86
+What kind of work?<end>
+
+=>q87_original
+Package delivery. I'll pay you in SGS credits. Hundred pieces.
+
+<end>
+
+=>q87
+Package delivery. I'll pay you in SGS credits. Hundred pieces.
+
+<end>
+
+=>q88_original
+You interested?<end>
+
+=>q88
+You interested?<end>
+
+=>q89_original
+<end>
+
+=>q89
+<end>
+
+=>a90_original
+Yeah. Tell me the details.<end>
+
+=>a90
+Yeah. Tell me the details.<end>
+
+=>q91_original
+::He beckons you closer.:: You know where the GMS warehouse block is?<end>
+
+=>q91
+::He beckons you closer.:: You know where the GMS warehouse block is?<end>
+
+=>a92_original
+Yes.<end>
+
+=>a92
+Yes.<end>
+
+=>q93_original
+First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
+
+=>q93
+First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
+
+=>q94_original
+Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
+
+=>q94
+Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
+
+=>a95_original
+Alright.<end>
+
+=>a95
+Alright.<end>
+
+=>q96_original
+We will not speak of this again until the job is done.<end>
+
+=>q96
+We will not speak of this again until the job is done.<end>
+
+=>a97_original
+Why don't you just take the package yourself?<end>
+
+=>a97
+Why don't you just take the package yourself?<end>
+
+=>q98_original
+No questions. <end>
+
+=>q98
+No questions. <end>
+
+=>a99_original
+Actually I changed my mind.<end>
+
+=>a99
+Actually I changed my mind.<end>
+
+=>q100_original
+Too late for that now. <end>
+
+=>q100
+Too late for that now. <end>
+
+=>a101_original
+No.<end>
+
+=>a101
+No.<end>
+
+=>q102_original
+Never mind then. Can't risk you getting lost with the package.<end>
+
+=>q102
+Never mind then. Can't risk you getting lost with the package.<end>
+
+=>a103_original
+Maybe later.<end>
+
+=>a103
+Maybe later.<end>
+
+=>a104_original
+What's the pay?<end>
+
+=>a104
+What's the pay?<end>
+
+=>q105_original
+I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
+
+<end>
+
+=>q105
+I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
+
+<end>
+
+=>a106_original
+Perhaps later.<end>
+
+=>a106
+Perhaps later.<end>
+
+=>q107_original
+::He nods.::<end>
+
+=>q107
+::He nods.::<end>
+
+=>a108_original
+Tell me about that job you mentioned earlier again.<end>
+
+=>a108
+Tell me about that job you mentioned earlier again.<end>
+
+=>a109_original
+Catch you later, Jack.<end>
+
+=>a109
+Catch you later, Jack.<end>
+
+=>q110_original
+Or maybe I'll catch you.<end>
+
+=>q110
+Or maybe I'll catch you.<end>
+
+=>q111_original
+Haven't seen you around here before. You stuck in this hole now as well?<end>
+
+=>q111
+Haven't seen you around here before. You stuck in this hole now as well?<end>
+
+=>a112_original
+No, actually, I'm new here.<end>
+
+=>a112
+No, actually, I'm new here.<end>
+
+=>q113_original
+Name's Jack Quicksilver.<end>
+
+=>q113
+Name's Jack Quicksilver.<end>
+
+=>q114_original
+ Who're you?<end>
+
+=>q114
+ Who're you?<end>
+
+=>a115_original
+My name is $(context.player.Name).<end>
+
+=>a115
+My name is $(context.player.Name).<end>
+
+=>q116_original
+::He just nods in confirmation.::<end>
+
+=>q116
+::He just nods in confirmation.::<end>
+
+=>a117_original
+Why would I be stuck?<end>
+
+=>a117
+Why would I be stuck?<end>
+
+=>q118_original
+Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
+
+=>q118
+Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
+
+=>a119_original
+Who wants to know?<end>
+
+=>a119
+Who wants to know?<end>
+
+=>q120_original
+Don't answer a question with a question. It's irritating.<end>
+
+=>q120
+Don't answer a question with a question. It's irritating.<end>
+

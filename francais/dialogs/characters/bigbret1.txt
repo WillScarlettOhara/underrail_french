@@ -1,1116 +1,1116 @@
-=>q1_original
-Hey, $(context.player.Name). Did you see that mail I sent you? About Camp Hathor?<end>
-
-=>q1
-Hey, $(context.player.Name). Did you see that mail I sent you? About Camp Hathor?<end>
-
-=>a2_original
-Yes.<end>
-
-=>a2
-Yes.<end>
-
-=>q3_original
-Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
-
-=>q3
-Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
-
-=>q4_original
- you've heard of Camp Hathor, right?<end>
-
-=>q4
- you've heard of Camp Hathor, right?<end>
-
-=>a5_original
-Yeah. In fact, I've been there recently.<end>
-
-=>a5
-Yeah. In fact, I've been there recently.<end>
-
-=>q6_original
-Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
-
-=>q6
-Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
-
-=>a7_original
-Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
-
-=>a7
-Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
-
-=>q8_original
-Great, glad to hear everything is alright. It's all set then. You've done your part.<end>
-
-=>q8
-Great, glad to hear everything is alright. It's all set then. You've done your part.<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>a11_original
-Do you have anything to trade? ::Barter.::<end>
-
-=>a11
-Do you have anything to trade? ::Barter.::<end>
-
-=>a12_original
-I've got your hoppers.<end>
-
-=>a12
-I've got your hoppers.<end>
-
-=>q13_original
-Alright. Give 'em here. Here's your payment.<end>
-
-=>q13
-Alright. Give 'em here. Here's your payment.<end>
-
-=>q14_original
-<end>
-
-=>q14
-<end>
-
-=>q15_original
-Oh, and what about Newton?<end>
-
-=>q15
-Oh, and what about Newton?<end>
-
-=>a16_original
-He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.<end>
-
-=>a16
-He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.<end>
-
-=>q17_original
-I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.<end>
-
-=>q17
-I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>a19_original
-I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.<end>
-
-=>a19
-I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.<end>
-
-=>q20_original
-Damn it, he should have listened to me! I told him not to wander off. Those caves can be dangerous if one's not careful. ::He pauses for a moment, then continues talking.:: Anyway, thank you for looking for him; there's nothing you could've done. Go back to Tanner, and I'll take care of this.<end>
-
-=>q20
-Damn it, he should have listened to me! I told him not to wander off. Those caves can be dangerous if one's not careful. ::He pauses for a moment, then continues talking.:: Anyway, thank you for looking for him; there's nothing you could've done. Go back to Tanner, and I'll take care of this.<end>
-
-=>a21_original
-He's dead, Bret. Psi beetles got him.<end>
-
-=>a21
-He's dead, Bret. Psi beetles got him.<end>
-
-=>a22_original
-He's dead, Bret. There was nothing I could do.<end>
-
-=>a22
-He's dead, Bret. There was nothing I could do.<end>
-
-=>a23_original
-I didn't see him.<end>
-
-=>a23
-I didn't see him.<end>
-
-=>q24_original
-Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.<end>
-
-=>q24
-Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.<end>
-
-=>a25_original
-I will. See you later.<end>
-
-=>a25
-I will. See you later.<end>
-
-=>q26_original
-Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. Same place as you - to the Mushroom Cove. It's been a while, and he should've been back by now.<end>
-
-=>q26
-Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. Same place as you - to the Mushroom Cove. It's been a while, and he should've been back by now.<end>
-
-=>q27_original
-Excellent work! Here's your payment. So would you like to name them?<end>
-
-=>q27
-Excellent work! Here's your payment. So would you like to name them?<end>
-
-=>a28_original
-You're kidding, right?<end>
-
-=>a28
-You're kidding, right?<end>
-
-=>q29_original
-I have to name them anyway so I can keep track of them.<end>
-
-=>q29
-I have to name them anyway so I can keep track of them.<end>
-
-=>q30_original
-<end>
-
-=>q30
-<end>
-
-=>a31_original
-Alright then.<end>
-
-=>a31
-Alright then.<end>
-
-=>q32_original
-So what's it gonna be?<end>
-
-=>q32
-So what's it gonna be?<end>
-
-=>a33_original
-Breakfast, Lunch, and Dinner.<end>
-
-=>a33
-Breakfast, Lunch, and Dinner.<end>
-
-=>q34_original
-::Bret chuckles heartily.:: So be it!<end>
-
-=>q34
-::Bret chuckles heartily.:: So be it!<end>
-
-=>a35_original
-Huey, Dewey, and Louie.<end>
-
-=>a35
-Huey, Dewey, and Louie.<end>
-
-=>q36_original
-So be it!<end>
-
-=>q36
-So be it!<end>
-
-=>a37_original
-Athos, Porthos, and Aramis.<end>
-
-=>a37
-Athos, Porthos, and Aramis.<end>
-
-=>q38_original
-So be it!<end>
-
-=>q38
-So be it!<end>
-
-=>a39_original
-Epicurus, Schopenhauer, and Nietzsche.<end>
-
-=>a39
-Epicurus, Schopenhauer, and Nietzsche.<end>
-
-=>q40_original
-A little weird, but so be it.<end>
-
-=>q40
-A little weird, but so be it.<end>
-
-=>a41_original
-Actually, forget it.<end>
-
-=>a41
-Actually, forget it.<end>
-
-=>q42_original
-Suit yourself.<end>
-
-=>q42
-Suit yourself.<end>
-
-=>a43_original
-I'll pass anyway.<end>
-
-=>a43
-I'll pass anyway.<end>
-
-=>a44_original
-Aren't we just going to eat them eventually?<end>
-
-=>a44
-Aren't we just going to eat them eventually?<end>
-
-=>q45_original
-Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.<end>
-
-=>q45
-Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.<end>
-
-=>a46_original
-Sure.<end>
-
-=>a46
-Sure.<end>
-
-=>a47_original
-No thanks.<end>
-
-=>a47
-No thanks.<end>
-
-=>a48_original
-I changed my mind and went to check out what's going on at Camp Hathor.<end>
-
-=>a48
-I changed my mind and went to check out what's going on at Camp Hathor.<end>
-
-=>q49_original
-Glad to hear that. So, what's happening at Camp Hathor?<end>
-
-=>q49
-Glad to hear that. So, what's happening at Camp Hathor?<end>
-
-=>a50_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a50
-What do you know about Patrick Pierce's death?<end>
-
-=>q51_original
-Yeah, I remember it alright. He seemed healthy and well, but then, one day, he didn't leave his room for almost the entire day. When they went to check up on him, they found him dead in his bed. Poor guy.<end>
-
-=>q51
-Yeah, I remember it alright. He seemed healthy and well, but then, one day, he didn't leave his room for almost the entire day. When they went to check up on him, they found him dead in his bed. Poor guy.<end>
-
-=>a52_original
-Can you tell me what he was like as a person?<end>
-
-=>a52
-Can you tell me what he was like as a person?<end>
-
-=>q53_original
-I liked Pat, he was a good person, even though we had some disagreements. For example, I asked him to install some heaters for my hoppers. He did so, and everything was supposed to be automatic. Fine. I come back, my hoppers are lying on their sides with their tongues out! It felt like I entered a furnace.<end>
-
-=>q53
-I liked Pat, he was a good person, even though we had some disagreements. For example, I asked him to install some heaters for my hoppers. He did so, and everything was supposed to be automatic. Fine. I come back, my hoppers are lying on their sides with their tongues out! It felt like I entered a furnace.<end>
-
-=>q54_original
-I don't know how he messed up, but I specifically told him to test it and to be careful, like a hundred times. Make sure it freakin' worked before you fire it up. My hoppers nearly died because of it!
-
-::He sighs.:: I know it sounds like I'm overreacting, but this is serious work. I'm feeding the station, for crying out loud!<end>
-
-=>q54
-I don't know how he messed up, but I specifically told him to test it and to be careful, like a hundred times. Make sure it freakin' worked before you fire it up. My hoppers nearly died because of it!
-
-::He sighs.:: I know it sounds like I'm overreacting, but this is serious work. I'm feeding the station, for crying out loud!<end>
-
-=>a55_original
-Tell me about Camp Hathor again...<end>
-
-=>a55
-Tell me about Camp Hathor again...<end>
-
-=>q56_original
-Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
-
-=>q56
-Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
-
-=>q57_original
-All clear?<end>
-
-=>q57
-All clear?<end>
-
-=>q58_original
-The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
-
-=>q58
-The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
-
-=>a59_original
-Sure, I'll check it out.<end>
-
-=>a59
-Sure, I'll check it out.<end>
-
-=>q60_original
-Excellent. You know where to find me.<end>
-
-=>q60
-Excellent. You know where to find me.<end>
-
-=>q61_original
-<end>
-
-=>q61
-<end>
-
-=>a62_original
-I'll see what I can do.<end>
-
-=>a62
-I'll see what I can do.<end>
-
-=>q63_original
-Okay. You know where to find me.<end>
-
-=>q63
-Okay. You know where to find me.<end>
-
-=>a64_original
-Meh, not interested. Find someone else.<end>
-
-=>a64
-Meh, not interested. Find someone else.<end>
-
-=>q65_original
-Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
-
-=>q65
-Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
-
-=>a66_original
-I went to Camp Hathor.<end>
-
-=>a66
-I went to Camp Hathor.<end>
-
-=>q67_original
-Ah, good. And? What's happening there?<end>
-
-=>q67
-Ah, good. And? What's happening there?<end>
-
-=>a68_original
-They're mostly alright. The camp itself wasn't damaged during the earthquake, but they have some burrower related issues. Those things are coming from the mines and attacking the camp. Until they deal with that, the camp won't be functioning as usual. <end>
-
-=>a68
-They're mostly alright. The camp itself wasn't damaged during the earthquake, but they have some burrower related issues. Those things are coming from the mines and attacking the camp. Until they deal with that, the camp won't be functioning as usual. <end>
-
-=>q69_original
-Well, at least the earthquake didn't do any damage. I hope they'll deal with those burrowers soon. <end>
-
-=>q69
-Well, at least the earthquake didn't do any damage. I hope they'll deal with those burrowers soon. <end>
-
-=>q70_original
-Anyway, thanks for the info, we'll take over from here.<end>
-
-=>q70
-Anyway, thanks for the info, we'll take over from here.<end>
-
-=>a71_original
-They're fine. Nothing out of the ordinary at Camp Hathor.<end>
-
-=>a71
-They're fine. Nothing out of the ordinary at Camp Hathor.<end>
-
-=>q72_original
-Well... glad to hear that. Hope they get their comms up and running soon. <end>
-
-=>q72
-Well... glad to hear that. Hope they get their comms up and running soon. <end>
-
-=>a73_original
-About Newton...<end>
-
-=>a73
-About Newton...<end>
-
-=>q74_original
-Yes? Did you see him down there?<end>
-
-=>q74
-Yes? Did you see him down there?<end>
-
-=>a75_original
-Why do you need more hoppers? Looks like you have plenty back there.<end>
-
-=>a75
-Why do you need more hoppers? Looks like you have plenty back there.<end>
-
-=>q76_original
-Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
-
-=>q76
-Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
-
-=>a77_original
-What is the Mushroom Cove?<end>
-
-=>a77
-What is the Mushroom Cove?<end>
-
-=>q78_original
-It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
-
-Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sold on that.<end>
-
-=>q78
-It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
-
-Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sold on that.<end>
-
-=>a79_original
-I've been tasked with helping you with the "hopper round up."<end>
-
-=>a79
-I've been tasked with helping you with the "hopper round up."<end>
-
-=>q80_original
-Very good. So, say, have you ever captured a hopper?<end>
-
-=>q80
-Very good. So, say, have you ever captured a hopper?<end>
-
-=>a81_original
-Yes. In fact, I have some right here.<end>
-
-=>a81
-Yes. In fact, I have some right here.<end>
-
-=>a82_original
-Yes, I have. Just point me to the gear.<end>
-
-=>a82
-Yes, I have. Just point me to the gear.<end>
-
-=>q83_original
-A fellow hunter, I see.
-
-It's in the storage room. That's the room with two double-doored entrances just across the hallway. You'll find everything you need there.<end>
-
-=>q83
-A fellow hunter, I see.
-
-It's in the storage room. That's the room with two double-doored entrances just across the hallway. You'll find everything you need there.<end>
-
-=>q84_original
-Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
-
-=>q84
-Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
-
-=>q85_original
-Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.<end>
-
-=>q85
-Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.<end>
-
-=>q86_original
-<end>
-
-=>q86
-<end>
-
-=>a87_original
-Why do you need more hoppers? Looks like you have plenty back there.<end>
-
-=>a87
-Why do you need more hoppers? Looks like you have plenty back there.<end>
-
-=>q88_original
-Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
-
-=>q88
-Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
-
-=>a89_original
-What is the Mushroom Cove?<end>
-
-=>a89
-What is the Mushroom Cove?<end>
-
-=>q90_original
-It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
-
-Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.<end>
-
-=>q90
-It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
-
-Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.<end>
-
-=>a91_original
-Who's Newton?<end>
-
-=>a91
-Who's Newton?<end>
-
-=>q92_original
-Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.<end>
-
-=>q92
-Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.<end>
-
-=>q93_original
-So please, look for him while you're there.<end>
-
-=>q93
-So please, look for him while you're there.<end>
-
-=>a94_original
-I'll get right on it.<end>
-
-=>a94
-I'll get right on it.<end>
-
-=>a95_original
-I have a feeling this is going to be a long day.<end>
-
-=>a95
-I have a feeling this is going to be a long day.<end>
-
-=>a96_original
-I don't think this is a right job for me. Is there maybe something else I could do?<end>
-
-=>a96
-I don't think this is a right job for me. Is there maybe something else I could do?<end>
-
-=>q97_original
-And why is that?<end>
-
-=>q97
-And why is that?<end>
-
-=>a98_original
-I think my skill could be put to better use than this.<end>
-
-=>a98
-I think my skill could be put to better use than this.<end>
-
-=>q99_original
-::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.
-
-So get going and don't come back without those hoppers. And see what's Newton been up to.<end>
-
-=>q99
-::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.
-
-So get going and don't come back without those hoppers. And see what's Newton been up to.<end>
-
-=>a100_original
-Hunting is not really my thing.<end>
-
-=>a100
-Hunting is not really my thing.<end>
-
-=>q101_original
-::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.<end>
-
-=>q101
-::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.<end>
-
-=>a102_original
-Never mind.<end>
-
-=>a102
-Never mind.<end>
-
-=>q103_original
-Anything else?<end>
-
-=>q103
-Anything else?<end>
-
-=>a104_original
-No.<end>
-
-=>a104
-No.<end>
-
-=>q105_original
-Ah. <end>
-
-=>q105
-Ah. <end>
-
-=>q106_original
-First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.<end>
-
-=>q106
-First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.<end>
-
-=>q107_original
-Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.<end>
-
-=>q107
-Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.<end>
-
-=>q108_original
-Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.
-
-Now, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.<end>
-
-=>q108
-Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.
-
-Now, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.<end>
-
-=>a109_original
-I don't even know what that is.<end>
-
-=>a109
-I don't even know what that is.<end>
-
-=>q110_original
-Look over there in the pen. Those are cave hoppers; hoppers for short.
-
-They are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.<end>
-
-=>q110
-Look over there in the pen. Those are cave hoppers; hoppers for short.
-
-They are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.<end>
-
-=>q111_original
-Anyway, here's what you need to do to capture some hoppers.
-
-<end>
-
-=>q111
-Anyway, here's what you need to do to capture some hoppers.
-
-<end>
-
-=>a112_original
-No, but I did shoot a few.<end>
-
-=>a112
-No, but I did shoot a few.<end>
-
-=>q113_original
-Well, catching them alive is a lot harder.<end>
-
-=>q113
-Well, catching them alive is a lot harder.<end>
-
-=>a114_original
-What is this place?<end>
-
-=>a114
-What is this place?<end>
-
-=>q115_original
-This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.<end>
-
-=>q115
-This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.<end>
-
-=>a116_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a116
-What are your thoughts on the Faceless invasion?<end>
-
-=>q117_original
-I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
-
-=>q117
-I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
-
-=>q118_original
-That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
-
-=>q118
-That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
-
-=>q119_original
-So now they revealed themselves in full power, then back whence they came and the rest of us can only wonder what the hell was going on.<end>
-
-=>q119
-So now they revealed themselves in full power, then back whence they came and the rest of us can only wonder what the hell was going on.<end>
-
-=>q120_original
-Maybe now they're finally feeling strong enough to take us all on.<end>
-
-=>q120
-Maybe now they're finally feeling strong enough to take us all on.<end>
-
-=>a121_original
-If that's the case - do you think they might succeed?<end>
-
-=>a121
-If that's the case - do you think they might succeed?<end>
-
-=>q122_original
-I don't know, but what I do know is we aren't going down without a fight.<end>
-
-=>q122
-I don't know, but what I do know is we aren't going down without a fight.<end>
-
-=>a123_original
-That makes sense.<end>
-
-=>a123
-That makes sense.<end>
-
-=>q124_original
-::He nods ominously.::<end>
-
-=>q124
-::He nods ominously.::<end>
-
-=>a125_original
-What is your opinion on Tanner's disappearance?<end>
-
-=>a125
-What is your opinion on Tanner's disappearance?<end>
-
-=>q126_original
-You don't want to know.<end>
-
-=>q126
-You don't want to know.<end>
-
-=>a127_original
-Maybe I do.<end>
-
-=>a127
-Maybe I do.<end>
-
-=>q128_original
-Well, in that case, I think Tanner is one lying son of a hopper's ass who's been deceiving us all these years. Yeah, yeah, he's an odd character, but there's no shortage of those in here. Look at Ezra, look at *you.* But I actually thought that bastard of a man was caring about this station, and I'm not someone who trusts easily.<end>
-
-=>q128
-Well, in that case, I think Tanner is one lying son of a hopper's ass who's been deceiving us all these years. Yeah, yeah, he's an odd character, but there's no shortage of those in here. Look at Ezra, look at *you.* But I actually thought that bastard of a man was caring about this station, and I'm not someone who trusts easily.<end>
-
-=>q129_original
-Wherever he is, I hope it turns to hell for him.<end>
-
-=>q129
-Wherever he is, I hope it turns to hell for him.<end>
-
-=>a130_original
-Maybe I don't.<end>
-
-=>a130
-Maybe I don't.<end>
-
-=>q131_original
-::He nods.::<end>
-
-=>q131
-::He nods.::<end>
-
-=>a132_original
-Must be going.<end>
-
-=>a132
-Must be going.<end>
-
-=>a133_original
-Yes, I have.<end>
-
-=>a133
-Yes, I have.<end>
-
-=>q134_original
-Good. So, you must know that they supply us with a good chunk of the meat we consume here?<end>
-
-=>q134
-Good. So, you must know that they supply us with a good chunk of the meat we consume here?<end>
-
-=>a135_original
-Yes, I do.<end>
-
-=>a135
-Yes, I do.<end>
-
-=>q136_original
-Excellent, you are well informed, I see. <end>
-
-=>q136
-Excellent, you are well informed, I see. <end>
-
-=>a137_original
-No, wait, you're talking about *that* Camp Hathor? I know nothing about that.<end>
-
-=>a137
-No, wait, you're talking about *that* Camp Hathor? I know nothing about that.<end>
-
-=>a138_original
-No, I haven't.<end>
-
-=>a138
-No, I haven't.<end>
-
-=>a139_original
-No, what mail?<end>
-
-=>a139
-No, what mail?<end>
-
-=>q140_original
-Why not? You should check your mail. You might miss *something* important. Anyway,<end>
-
-=>q140
-Why not? You should check your mail. You might miss *something* important. Anyway,<end>
-
-=>a141_original
-Maybe. Can't remember right now.<end>
-
-=>a141
-Maybe. Can't remember right now.<end>
-
-=>q142_original
-Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
-
-=>q142
-Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
-
-=>a143_original
-What mail? I received nothing concerning Camp Hathor from you.<end>
-
-=>a143
-What mail? I received nothing concerning Camp Hathor from you.<end>
-
-=>q144_original
-I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
-
-=>q144
-I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
-
-=>q145_original
-The things that happen in this station... <end>
-
-=>q145
-The things that happen in this station... <end>
-
-=>q146_original
-You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
-
-=>q146
-You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
-
-=>q147_original
-Did you see that? That madman Lenox tried to kill me! That idiot! Damn it, I thought he was gonna get me...<end>
-
-=>q147
-Did you see that? That madman Lenox tried to kill me! That idiot! Damn it, I thought he was gonna get me...<end>
-
-=>q148_original
-I just came back from med. Lora's still unconscious, but Pasquale told me she'll pull through.<end>
-
-=>q148
-I just came back from med. Lora's still unconscious, but Pasquale told me she'll pull through.<end>
-
-=>q149_original
-Yeah?<end>
-
-=>q149
-Yeah?<end>
-
-=>q150_original
-Hi, $(context.player.Name). Need anything?<end>
-
-=>q150
-Hi, $(context.player.Name). Need anything?<end>
-
-=>q151_original
-What can I do you for?<end>
-
-=>q151
-What can I do you for?<end>
-
-=>q152_original
-You must be $(context.player.Name). They call me Big Bret.
-
-So you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.<end>
-
-=>q152
-You must be $(context.player.Name). They call me Big Bret.
-
-So you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.<end>
-
-=>a153_original
-They were pretty hard but I like challenges.<end>
-
-=>a153
-They were pretty hard but I like challenges.<end>
-
-=>q154_original
-You're going to love it here then. So what brings you to the Pens?<end>
-
-=>q154
-You're going to love it here then. So what brings you to the Pens?<end>
-
-=>a155_original
-I'm just really glad I made it.<end>
-
-=>a155
-I'm just really glad I made it.<end>
-
-=>q156_original
-In that case we're glad to have you!
-
-So anyway, what can I do you for?<end>
-
-=>q156
-In that case we're glad to have you!
-
-So anyway, what can I do you for?<end>
-
-=>a157_original
-I think they were just the right difficulty. You wouldn't want just anyone here, right?<end>
-
-=>a157
-I think they were just the right difficulty. You wouldn't want just anyone here, right?<end>
-
-=>q158_original
-You're right. Indeed we don't.
-
-So anyway, what can I do you for?<end>
-
-=>q158
-You're right. Indeed we don't.
-
-So anyway, what can I do you for?<end>
-
-=>a159_original
-It was a breeze.<end>
-
-=>a159
-It was a breeze.<end>
-
-=>q160_original
-::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.<end>
-
-=>q160
-::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.<end>
-
-=>a161_original
-I'm just kidding.<end>
-
-=>a161
-I'm just kidding.<end>
-
-=>q162_original
-Figured you've must've had. 
-
-So what can I do you for, citizen?<end>
-
-=>q162
-Figured you've must've had. 
-
-So what can I do you for, citizen?<end>
-
-=>a163_original
-I see Tanner is well respected here?<end>
-
-=>a163
-I see Tanner is well respected here?<end>
-
-=>q164_original
-Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.<end>
-
-=>q164
-Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.<end>
-
-=>a165_original
-Impressive.<end>
-
-=>a165
-Impressive.<end>
-
-=>q166_original
-Indeed. So what can I do you for?<end>
-
-=>q166
-Indeed. So what can I do you for?<end>
-
-=>a167_original
-I see.<end>
-
-=>a167
-I see.<end>
-
-=>q168_original
-So what can I do you for?<end>
-
-=>q168
-So what can I do you for?<end>
-
-=>a169_original
-Alright, alright. Sorry I asked.<end>
-
-=>a169
-Alright, alright. Sorry I asked.<end>
-
-=>q170_original
-Anyway, let's get down to business. That's why you're here for, right?<end>
-
-=>q170
-Anyway, let's get down to business. That's why you're here for, right?<end>
-
-=>a171_original
-No really, it was pretty easy.<end>
-
-=>a171
-No really, it was pretty easy.<end>
-
-=>q172_original
-Right. So what can I do you for?<end>
-
-=>q172
-Right. So what can I do you for?<end>
-
-=>a173_original
-They could've at least given me a day off. I've been running their tests for weeks.<end>
-
-=>a173
-They could've at least given me a day off. I've been running their tests for weeks.<end>
-
-=>q174_original
-Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.<end>
-
-=>q174
-Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.<end>
-
-=>a175_original
-What exactly are you talking about?<end>
-
-=>a175
-What exactly are you talking about?<end>
-
-=>q176_original
-Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.<end>
-
-=>q176
-Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.<end>
-
-=>q177_original
-So anyway, what can I do you for?<end>
-
-=>q177
-So anyway, what can I do you for?<end>
-
-=>a178_original
-I understand.<end>
-
-=>a178
-I understand.<end>
-
+=>q1_original
+Hey, $(context.player.Name). Did you see that mail I sent you? About Camp Hathor?<end>
+
+=>q1
+Hey, $(context.player.Name). Did you see that mail I sent you? About Camp Hathor?<end>
+
+=>a2_original
+Yes.<end>
+
+=>a2
+Yes.<end>
+
+=>q3_original
+Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
+
+=>q3
+Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
+
+=>q4_original
+ you've heard of Camp Hathor, right?<end>
+
+=>q4
+ you've heard of Camp Hathor, right?<end>
+
+=>a5_original
+Yeah. In fact, I've been there recently.<end>
+
+=>a5
+Yeah. In fact, I've been there recently.<end>
+
+=>q6_original
+Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
+
+=>q6
+Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
+
+=>a7_original
+Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
+
+=>a7
+Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
+
+=>q8_original
+Great, glad to hear everything is alright. It's all set then. You've done your part.<end>
+
+=>q8
+Great, glad to hear everything is alright. It's all set then. You've done your part.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a11
+Do you have anything to trade? ::Barter.::<end>
+
+=>a12_original
+I've got your hoppers.<end>
+
+=>a12
+I've got your hoppers.<end>
+
+=>q13_original
+Alright. Give 'em here. Here's your payment.<end>
+
+=>q13
+Alright. Give 'em here. Here's your payment.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+Oh, and what about Newton?<end>
+
+=>q15
+Oh, and what about Newton?<end>
+
+=>a16_original
+He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.<end>
+
+=>a16
+He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.<end>
+
+=>q17_original
+I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.<end>
+
+=>q17
+I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.<end>
+
+=>a19
+I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.<end>
+
+=>q20_original
+Damn it, he should have listened to me! I told him not to wander off. Those caves can be dangerous if one's not careful. ::He pauses for a moment, then continues talking.:: Anyway, thank you for looking for him; there's nothing you could've done. Go back to Tanner, and I'll take care of this.<end>
+
+=>q20
+Damn it, he should have listened to me! I told him not to wander off. Those caves can be dangerous if one's not careful. ::He pauses for a moment, then continues talking.:: Anyway, thank you for looking for him; there's nothing you could've done. Go back to Tanner, and I'll take care of this.<end>
+
+=>a21_original
+He's dead, Bret. Psi beetles got him.<end>
+
+=>a21
+He's dead, Bret. Psi beetles got him.<end>
+
+=>a22_original
+He's dead, Bret. There was nothing I could do.<end>
+
+=>a22
+He's dead, Bret. There was nothing I could do.<end>
+
+=>a23_original
+I didn't see him.<end>
+
+=>a23
+I didn't see him.<end>
+
+=>q24_original
+Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.<end>
+
+=>q24
+Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.<end>
+
+=>a25_original
+I will. See you later.<end>
+
+=>a25
+I will. See you later.<end>
+
+=>q26_original
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. Same place as you - to the Mushroom Cove. It's been a while, and he should've been back by now.<end>
+
+=>q26
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. Same place as you - to the Mushroom Cove. It's been a while, and he should've been back by now.<end>
+
+=>q27_original
+Excellent work! Here's your payment. So would you like to name them?<end>
+
+=>q27
+Excellent work! Here's your payment. So would you like to name them?<end>
+
+=>a28_original
+You're kidding, right?<end>
+
+=>a28
+You're kidding, right?<end>
+
+=>q29_original
+I have to name them anyway so I can keep track of them.<end>
+
+=>q29
+I have to name them anyway so I can keep track of them.<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+Alright then.<end>
+
+=>a31
+Alright then.<end>
+
+=>q32_original
+So what's it gonna be?<end>
+
+=>q32
+So what's it gonna be?<end>
+
+=>a33_original
+Breakfast, Lunch, and Dinner.<end>
+
+=>a33
+Breakfast, Lunch, and Dinner.<end>
+
+=>q34_original
+::Bret chuckles heartily.:: So be it!<end>
+
+=>q34
+::Bret chuckles heartily.:: So be it!<end>
+
+=>a35_original
+Huey, Dewey, and Louie.<end>
+
+=>a35
+Huey, Dewey, and Louie.<end>
+
+=>q36_original
+So be it!<end>
+
+=>q36
+So be it!<end>
+
+=>a37_original
+Athos, Porthos, and Aramis.<end>
+
+=>a37
+Athos, Porthos, and Aramis.<end>
+
+=>q38_original
+So be it!<end>
+
+=>q38
+So be it!<end>
+
+=>a39_original
+Epicurus, Schopenhauer, and Nietzsche.<end>
+
+=>a39
+Epicurus, Schopenhauer, and Nietzsche.<end>
+
+=>q40_original
+A little weird, but so be it.<end>
+
+=>q40
+A little weird, but so be it.<end>
+
+=>a41_original
+Actually, forget it.<end>
+
+=>a41
+Actually, forget it.<end>
+
+=>q42_original
+Suit yourself.<end>
+
+=>q42
+Suit yourself.<end>
+
+=>a43_original
+I'll pass anyway.<end>
+
+=>a43
+I'll pass anyway.<end>
+
+=>a44_original
+Aren't we just going to eat them eventually?<end>
+
+=>a44
+Aren't we just going to eat them eventually?<end>
+
+=>q45_original
+Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.<end>
+
+=>q45
+Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.<end>
+
+=>a46_original
+Sure.<end>
+
+=>a46
+Sure.<end>
+
+=>a47_original
+No thanks.<end>
+
+=>a47
+No thanks.<end>
+
+=>a48_original
+I changed my mind and went to check out what's going on at Camp Hathor.<end>
+
+=>a48
+I changed my mind and went to check out what's going on at Camp Hathor.<end>
+
+=>q49_original
+Glad to hear that. So, what's happening at Camp Hathor?<end>
+
+=>q49
+Glad to hear that. So, what's happening at Camp Hathor?<end>
+
+=>a50_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a50
+What do you know about Patrick Pierce's death?<end>
+
+=>q51_original
+Yeah, I remember it alright. He seemed healthy and well, but then, one day, he didn't leave his room for almost the entire day. When they went to check up on him, they found him dead in his bed. Poor guy.<end>
+
+=>q51
+Yeah, I remember it alright. He seemed healthy and well, but then, one day, he didn't leave his room for almost the entire day. When they went to check up on him, they found him dead in his bed. Poor guy.<end>
+
+=>a52_original
+Can you tell me what he was like as a person?<end>
+
+=>a52
+Can you tell me what he was like as a person?<end>
+
+=>q53_original
+I liked Pat, he was a good person, even though we had some disagreements. For example, I asked him to install some heaters for my hoppers. He did so, and everything was supposed to be automatic. Fine. I come back, my hoppers are lying on their sides with their tongues out! It felt like I entered a furnace.<end>
+
+=>q53
+I liked Pat, he was a good person, even though we had some disagreements. For example, I asked him to install some heaters for my hoppers. He did so, and everything was supposed to be automatic. Fine. I come back, my hoppers are lying on their sides with their tongues out! It felt like I entered a furnace.<end>
+
+=>q54_original
+I don't know how he messed up, but I specifically told him to test it and to be careful, like a hundred times. Make sure it freakin' worked before you fire it up. My hoppers nearly died because of it!
+
+::He sighs.:: I know it sounds like I'm overreacting, but this is serious work. I'm feeding the station, for crying out loud!<end>
+
+=>q54
+I don't know how he messed up, but I specifically told him to test it and to be careful, like a hundred times. Make sure it freakin' worked before you fire it up. My hoppers nearly died because of it!
+
+::He sighs.:: I know it sounds like I'm overreacting, but this is serious work. I'm feeding the station, for crying out loud!<end>
+
+=>a55_original
+Tell me about Camp Hathor again...<end>
+
+=>a55
+Tell me about Camp Hathor again...<end>
+
+=>q56_original
+Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
+
+=>q56
+Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
+
+=>q57_original
+All clear?<end>
+
+=>q57
+All clear?<end>
+
+=>q58_original
+The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
+
+=>q58
+The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
+
+=>a59_original
+Sure, I'll check it out.<end>
+
+=>a59
+Sure, I'll check it out.<end>
+
+=>q60_original
+Excellent. You know where to find me.<end>
+
+=>q60
+Excellent. You know where to find me.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+I'll see what I can do.<end>
+
+=>a62
+I'll see what I can do.<end>
+
+=>q63_original
+Okay. You know where to find me.<end>
+
+=>q63
+Okay. You know where to find me.<end>
+
+=>a64_original
+Meh, not interested. Find someone else.<end>
+
+=>a64
+Meh, not interested. Find someone else.<end>
+
+=>q65_original
+Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
+
+=>q65
+Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
+
+=>a66_original
+I went to Camp Hathor.<end>
+
+=>a66
+I went to Camp Hathor.<end>
+
+=>q67_original
+Ah, good. And? What's happening there?<end>
+
+=>q67
+Ah, good. And? What's happening there?<end>
+
+=>a68_original
+They're mostly alright. The camp itself wasn't damaged during the earthquake, but they have some burrower related issues. Those things are coming from the mines and attacking the camp. Until they deal with that, the camp won't be functioning as usual. <end>
+
+=>a68
+They're mostly alright. The camp itself wasn't damaged during the earthquake, but they have some burrower related issues. Those things are coming from the mines and attacking the camp. Until they deal with that, the camp won't be functioning as usual. <end>
+
+=>q69_original
+Well, at least the earthquake didn't do any damage. I hope they'll deal with those burrowers soon. <end>
+
+=>q69
+Well, at least the earthquake didn't do any damage. I hope they'll deal with those burrowers soon. <end>
+
+=>q70_original
+Anyway, thanks for the info, we'll take over from here.<end>
+
+=>q70
+Anyway, thanks for the info, we'll take over from here.<end>
+
+=>a71_original
+They're fine. Nothing out of the ordinary at Camp Hathor.<end>
+
+=>a71
+They're fine. Nothing out of the ordinary at Camp Hathor.<end>
+
+=>q72_original
+Well... glad to hear that. Hope they get their comms up and running soon. <end>
+
+=>q72
+Well... glad to hear that. Hope they get their comms up and running soon. <end>
+
+=>a73_original
+About Newton...<end>
+
+=>a73
+About Newton...<end>
+
+=>q74_original
+Yes? Did you see him down there?<end>
+
+=>q74
+Yes? Did you see him down there?<end>
+
+=>a75_original
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>a75
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>q76_original
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>q76
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>a77_original
+What is the Mushroom Cove?<end>
+
+=>a77
+What is the Mushroom Cove?<end>
+
+=>q78_original
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sold on that.<end>
+
+=>q78
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sold on that.<end>
+
+=>a79_original
+I've been tasked with helping you with the "hopper round up."<end>
+
+=>a79
+I've been tasked with helping you with the "hopper round up."<end>
+
+=>q80_original
+Very good. So, say, have you ever captured a hopper?<end>
+
+=>q80
+Very good. So, say, have you ever captured a hopper?<end>
+
+=>a81_original
+Yes. In fact, I have some right here.<end>
+
+=>a81
+Yes. In fact, I have some right here.<end>
+
+=>a82_original
+Yes, I have. Just point me to the gear.<end>
+
+=>a82
+Yes, I have. Just point me to the gear.<end>
+
+=>q83_original
+A fellow hunter, I see.
+
+It's in the storage room. That's the room with two double-doored entrances just across the hallway. You'll find everything you need there.<end>
+
+=>q83
+A fellow hunter, I see.
+
+It's in the storage room. That's the room with two double-doored entrances just across the hallway. You'll find everything you need there.<end>
+
+=>q84_original
+Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
+
+=>q84
+Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
+
+=>q85_original
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.<end>
+
+=>q85
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.<end>
+
+=>q86_original
+<end>
+
+=>q86
+<end>
+
+=>a87_original
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>a87
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>q88_original
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>q88
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>a89_original
+What is the Mushroom Cove?<end>
+
+=>a89
+What is the Mushroom Cove?<end>
+
+=>q90_original
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.<end>
+
+=>q90
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.<end>
+
+=>a91_original
+Who's Newton?<end>
+
+=>a91
+Who's Newton?<end>
+
+=>q92_original
+Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.<end>
+
+=>q92
+Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.<end>
+
+=>q93_original
+So please, look for him while you're there.<end>
+
+=>q93
+So please, look for him while you're there.<end>
+
+=>a94_original
+I'll get right on it.<end>
+
+=>a94
+I'll get right on it.<end>
+
+=>a95_original
+I have a feeling this is going to be a long day.<end>
+
+=>a95
+I have a feeling this is going to be a long day.<end>
+
+=>a96_original
+I don't think this is a right job for me. Is there maybe something else I could do?<end>
+
+=>a96
+I don't think this is a right job for me. Is there maybe something else I could do?<end>
+
+=>q97_original
+And why is that?<end>
+
+=>q97
+And why is that?<end>
+
+=>a98_original
+I think my skill could be put to better use than this.<end>
+
+=>a98
+I think my skill could be put to better use than this.<end>
+
+=>q99_original
+::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.
+
+So get going and don't come back without those hoppers. And see what's Newton been up to.<end>
+
+=>q99
+::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.
+
+So get going and don't come back without those hoppers. And see what's Newton been up to.<end>
+
+=>a100_original
+Hunting is not really my thing.<end>
+
+=>a100
+Hunting is not really my thing.<end>
+
+=>q101_original
+::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.<end>
+
+=>q101
+::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.<end>
+
+=>a102_original
+Never mind.<end>
+
+=>a102
+Never mind.<end>
+
+=>q103_original
+Anything else?<end>
+
+=>q103
+Anything else?<end>
+
+=>a104_original
+No.<end>
+
+=>a104
+No.<end>
+
+=>q105_original
+Ah. <end>
+
+=>q105
+Ah. <end>
+
+=>q106_original
+First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.<end>
+
+=>q106
+First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.<end>
+
+=>q107_original
+Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.<end>
+
+=>q107
+Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.<end>
+
+=>q108_original
+Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.
+
+Now, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.<end>
+
+=>q108
+Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.
+
+Now, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.<end>
+
+=>a109_original
+I don't even know what that is.<end>
+
+=>a109
+I don't even know what that is.<end>
+
+=>q110_original
+Look over there in the pen. Those are cave hoppers; hoppers for short.
+
+They are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.<end>
+
+=>q110
+Look over there in the pen. Those are cave hoppers; hoppers for short.
+
+They are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.<end>
+
+=>q111_original
+Anyway, here's what you need to do to capture some hoppers.
+
+<end>
+
+=>q111
+Anyway, here's what you need to do to capture some hoppers.
+
+<end>
+
+=>a112_original
+No, but I did shoot a few.<end>
+
+=>a112
+No, but I did shoot a few.<end>
+
+=>q113_original
+Well, catching them alive is a lot harder.<end>
+
+=>q113
+Well, catching them alive is a lot harder.<end>
+
+=>a114_original
+What is this place?<end>
+
+=>a114
+What is this place?<end>
+
+=>q115_original
+This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.<end>
+
+=>q115
+This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.<end>
+
+=>a116_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a116
+What are your thoughts on the Faceless invasion?<end>
+
+=>q117_original
+I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
+
+=>q117
+I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
+
+=>q118_original
+That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
+
+=>q118
+That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
+
+=>q119_original
+So now they revealed themselves in full power, then back whence they came and the rest of us can only wonder what the hell was going on.<end>
+
+=>q119
+So now they revealed themselves in full power, then back whence they came and the rest of us can only wonder what the hell was going on.<end>
+
+=>q120_original
+Maybe now they're finally feeling strong enough to take us all on.<end>
+
+=>q120
+Maybe now they're finally feeling strong enough to take us all on.<end>
+
+=>a121_original
+If that's the case - do you think they might succeed?<end>
+
+=>a121
+If that's the case - do you think they might succeed?<end>
+
+=>q122_original
+I don't know, but what I do know is we aren't going down without a fight.<end>
+
+=>q122
+I don't know, but what I do know is we aren't going down without a fight.<end>
+
+=>a123_original
+That makes sense.<end>
+
+=>a123
+That makes sense.<end>
+
+=>q124_original
+::He nods ominously.::<end>
+
+=>q124
+::He nods ominously.::<end>
+
+=>a125_original
+What is your opinion on Tanner's disappearance?<end>
+
+=>a125
+What is your opinion on Tanner's disappearance?<end>
+
+=>q126_original
+You don't want to know.<end>
+
+=>q126
+You don't want to know.<end>
+
+=>a127_original
+Maybe I do.<end>
+
+=>a127
+Maybe I do.<end>
+
+=>q128_original
+Well, in that case, I think Tanner is one lying son of a hopper's ass who's been deceiving us all these years. Yeah, yeah, he's an odd character, but there's no shortage of those in here. Look at Ezra, look at *you.* But I actually thought that bastard of a man was caring about this station, and I'm not someone who trusts easily.<end>
+
+=>q128
+Well, in that case, I think Tanner is one lying son of a hopper's ass who's been deceiving us all these years. Yeah, yeah, he's an odd character, but there's no shortage of those in here. Look at Ezra, look at *you.* But I actually thought that bastard of a man was caring about this station, and I'm not someone who trusts easily.<end>
+
+=>q129_original
+Wherever he is, I hope it turns to hell for him.<end>
+
+=>q129
+Wherever he is, I hope it turns to hell for him.<end>
+
+=>a130_original
+Maybe I don't.<end>
+
+=>a130
+Maybe I don't.<end>
+
+=>q131_original
+::He nods.::<end>
+
+=>q131
+::He nods.::<end>
+
+=>a132_original
+Must be going.<end>
+
+=>a132
+Must be going.<end>
+
+=>a133_original
+Yes, I have.<end>
+
+=>a133
+Yes, I have.<end>
+
+=>q134_original
+Good. So, you must know that they supply us with a good chunk of the meat we consume here?<end>
+
+=>q134
+Good. So, you must know that they supply us with a good chunk of the meat we consume here?<end>
+
+=>a135_original
+Yes, I do.<end>
+
+=>a135
+Yes, I do.<end>
+
+=>q136_original
+Excellent, you are well informed, I see. <end>
+
+=>q136
+Excellent, you are well informed, I see. <end>
+
+=>a137_original
+No, wait, you're talking about *that* Camp Hathor? I know nothing about that.<end>
+
+=>a137
+No, wait, you're talking about *that* Camp Hathor? I know nothing about that.<end>
+
+=>a138_original
+No, I haven't.<end>
+
+=>a138
+No, I haven't.<end>
+
+=>a139_original
+No, what mail?<end>
+
+=>a139
+No, what mail?<end>
+
+=>q140_original
+Why not? You should check your mail. You might miss *something* important. Anyway,<end>
+
+=>q140
+Why not? You should check your mail. You might miss *something* important. Anyway,<end>
+
+=>a141_original
+Maybe. Can't remember right now.<end>
+
+=>a141
+Maybe. Can't remember right now.<end>
+
+=>q142_original
+Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
+
+=>q142
+Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
+
+=>a143_original
+What mail? I received nothing concerning Camp Hathor from you.<end>
+
+=>a143
+What mail? I received nothing concerning Camp Hathor from you.<end>
+
+=>q144_original
+I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
+
+=>q144
+I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
+
+=>q145_original
+The things that happen in this station... <end>
+
+=>q145
+The things that happen in this station... <end>
+
+=>q146_original
+You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
+
+=>q146
+You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
+
+=>q147_original
+Did you see that? That madman Lenox tried to kill me! That idiot! Damn it, I thought he was gonna get me...<end>
+
+=>q147
+Did you see that? That madman Lenox tried to kill me! That idiot! Damn it, I thought he was gonna get me...<end>
+
+=>q148_original
+I just came back from med. Lora's still unconscious, but Pasquale told me she'll pull through.<end>
+
+=>q148
+I just came back from med. Lora's still unconscious, but Pasquale told me she'll pull through.<end>
+
+=>q149_original
+Yeah?<end>
+
+=>q149
+Yeah?<end>
+
+=>q150_original
+Hi, $(context.player.Name). Need anything?<end>
+
+=>q150
+Hi, $(context.player.Name). Need anything?<end>
+
+=>q151_original
+What can I do you for?<end>
+
+=>q151
+What can I do you for?<end>
+
+=>q152_original
+You must be $(context.player.Name). They call me Big Bret.
+
+So you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.<end>
+
+=>q152
+You must be $(context.player.Name). They call me Big Bret.
+
+So you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.<end>
+
+=>a153_original
+They were pretty hard but I like challenges.<end>
+
+=>a153
+They were pretty hard but I like challenges.<end>
+
+=>q154_original
+You're going to love it here then. So what brings you to the Pens?<end>
+
+=>q154
+You're going to love it here then. So what brings you to the Pens?<end>
+
+=>a155_original
+I'm just really glad I made it.<end>
+
+=>a155
+I'm just really glad I made it.<end>
+
+=>q156_original
+In that case we're glad to have you!
+
+So anyway, what can I do you for?<end>
+
+=>q156
+In that case we're glad to have you!
+
+So anyway, what can I do you for?<end>
+
+=>a157_original
+I think they were just the right difficulty. You wouldn't want just anyone here, right?<end>
+
+=>a157
+I think they were just the right difficulty. You wouldn't want just anyone here, right?<end>
+
+=>q158_original
+You're right. Indeed we don't.
+
+So anyway, what can I do you for?<end>
+
+=>q158
+You're right. Indeed we don't.
+
+So anyway, what can I do you for?<end>
+
+=>a159_original
+It was a breeze.<end>
+
+=>a159
+It was a breeze.<end>
+
+=>q160_original
+::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.<end>
+
+=>q160
+::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.<end>
+
+=>a161_original
+I'm just kidding.<end>
+
+=>a161
+I'm just kidding.<end>
+
+=>q162_original
+Figured you've must've had. 
+
+So what can I do you for, citizen?<end>
+
+=>q162
+Figured you've must've had. 
+
+So what can I do you for, citizen?<end>
+
+=>a163_original
+I see Tanner is well respected here?<end>
+
+=>a163
+I see Tanner is well respected here?<end>
+
+=>q164_original
+Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.<end>
+
+=>q164
+Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.<end>
+
+=>a165_original
+Impressive.<end>
+
+=>a165
+Impressive.<end>
+
+=>q166_original
+Indeed. So what can I do you for?<end>
+
+=>q166
+Indeed. So what can I do you for?<end>
+
+=>a167_original
+I see.<end>
+
+=>a167
+I see.<end>
+
+=>q168_original
+So what can I do you for?<end>
+
+=>q168
+So what can I do you for?<end>
+
+=>a169_original
+Alright, alright. Sorry I asked.<end>
+
+=>a169
+Alright, alright. Sorry I asked.<end>
+
+=>q170_original
+Anyway, let's get down to business. That's why you're here for, right?<end>
+
+=>q170
+Anyway, let's get down to business. That's why you're here for, right?<end>
+
+=>a171_original
+No really, it was pretty easy.<end>
+
+=>a171
+No really, it was pretty easy.<end>
+
+=>q172_original
+Right. So what can I do you for?<end>
+
+=>q172
+Right. So what can I do you for?<end>
+
+=>a173_original
+They could've at least given me a day off. I've been running their tests for weeks.<end>
+
+=>a173
+They could've at least given me a day off. I've been running their tests for weeks.<end>
+
+=>q174_original
+Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.<end>
+
+=>q174
+Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.<end>
+
+=>a175_original
+What exactly are you talking about?<end>
+
+=>a175
+What exactly are you talking about?<end>
+
+=>q176_original
+Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.<end>
+
+=>q176
+Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.<end>
+
+=>q177_original
+So anyway, what can I do you for?<end>
+
+=>q177
+So anyway, what can I do you for?<end>
+
+=>a178_original
+I understand.<end>
+
+=>a178
+I understand.<end>
+

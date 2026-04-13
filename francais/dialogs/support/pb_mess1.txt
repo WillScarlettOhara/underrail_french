@@ -1,42 +1,42 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Stew again? Yuck.<end>
-
-=>q2
-Stew again? Yuck.<end>
-
-=>q3_original
-Nice! Fresh hopper.<end>
-
-=>q3
-Nice! Fresh hopper.<end>
-
-=>q4_original
-Mushroom salad...? Meh.<end>
-
-=>q4
-Mushroom salad...? Meh.<end>
-
-=>q5_original
-Alright! Burrower eggs!<end>
-
-=>q5
-Alright! Burrower eggs!<end>
-
-=>q6_original
-Fried siphoner tong-- No, no, no!<end>
-
-=>q6
-Fried siphoner tong-- No, no, no!<end>
-
-=>q7_original
-Grilled eels... Eh, why not.<end>
-
-=>q7
-Grilled eels... Eh, why not.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Stew again? Yuck.<end>
+
+=>q2
+Stew again? Yuck.<end>
+
+=>q3_original
+Nice! Fresh hopper.<end>
+
+=>q3
+Nice! Fresh hopper.<end>
+
+=>q4_original
+Mushroom salad...? Meh.<end>
+
+=>q4
+Mushroom salad...? Meh.<end>
+
+=>q5_original
+Alright! Burrower eggs!<end>
+
+=>q5
+Alright! Burrower eggs!<end>
+
+=>q6_original
+Fried siphoner tong-- No, no, no!<end>
+
+=>q6
+Fried siphoner tong-- No, no, no!<end>
+
+=>q7_original
+Grilled eels... Eh, why not.<end>
+
+=>q7
+Grilled eels... Eh, why not.<end>
+

@@ -1,972 +1,972 @@
-=>q1_original
-::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::<end>
-
-=>q1
-::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::<end>
-
-=>q2_original
-You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
-
-=>q2
-You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
-
-=>q3_original
-Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
-
-=>q3
-Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
-
-=>q4_original
-We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.<end>
-
-=>q4
-We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-I talked to the Faceless.<end>
-
-=>a6
-I talked to the Faceless.<end>
-
-=>q7_original
-It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::<end>
-
-=>q7
-It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-You talked to them? What did you find out?<end>
-
-=>q9
-You talked to them? What did you find out?<end>
-
-=>a10_original
-They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.<end>
-
-=>a10
-They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.<end>
-
-=>q11_original
-We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>q11
-We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>a12_original
-They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.<end>
-
-=>a12
-They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.<end>
-
-=>q13_original
-Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>q13
-Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>a14_original
-They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.<end>
-
-=>a14
-They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.<end>
-
-=>q15_original
-Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>q15
-Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
-
-=>a16_original
-They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
-
-=>a16
-They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
-
-=>q17_original
-Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::<end>
-
-=>q17
-Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::<end>
-
-=>a18_original
-I killed the Faceless near Foundry.<end>
-
-=>a18
-I killed the Faceless near Foundry.<end>
-
-=>q19_original
-Alone? Did they attack you?<end>
-
-=>q19
-Alone? Did they attack you?<end>
-
-=>a20_original
-Yes.<end>
-
-=>a20
-Yes.<end>
-
-=>q21_original
-<end>
-
-=>q21
-<end>
-
-=>q22_original
-It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.<end>
-
-=>q22
-It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.<end>
-
-=>a23_original
-And... about my reward?<end>
-
-=>a23
-And... about my reward?<end>
-
-=>q24_original
-For what? You failed to provide me the information at the time, so you will not receive a reward.<end>
-
-=>q24
-For what? You failed to provide me the information at the time, so you will not receive a reward.<end>
-
-=>a25_original
-The most important things is that they didn't attack Foundry.<end>
-
-=>a25
-The most important things is that they didn't attack Foundry.<end>
-
-=>q26_original
-That is truly the case, $(context.player.Name).<end>
-
-=>q26
-That is truly the case, $(context.player.Name).<end>
-
-=>q27_original
-::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.<end>
-
-=>q27
-::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.<end>
-
-=>a28_original
-No, I just attacked them on sight. They didn't look like the friendliest bunch.<end>
-
-=>a28
-No, I just attacked them on sight. They didn't look like the friendliest bunch.<end>
-
-=>a29_original
-The Faceless left before I had the chance to discover their intentions.<end>
-
-=>a29
-The Faceless left before I had the chance to discover their intentions.<end>
-
-=>a30_original
-I need to talk to you about a prisoner called Todor Sallywatch.<end>
-
-=>a30
-I need to talk to you about a prisoner called Todor Sallywatch.<end>
-
-=>q31_original
-Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
-
-=>q31
-Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
-
-=>q32_original
-<end>
-
-=>q32
-<end>
-
-=>a33_original
-I have the weapon that was used to kill Bolivar Daud.<end>
-
-=>a33
-I have the weapon that was used to kill Bolivar Daud.<end>
-
-=>q34_original
-::Chief takes a careful look at the rifle.:: What've you got?<end>
-
-=>q34
-::Chief takes a careful look at the rifle.:: What've you got?<end>
-
-=>a35_original
-I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.<end>
-
-=>a35
-I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.<end>
-
-=>q36_original
-Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.<end>
-
-=>q36
-Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.<end>
-
-=>a37_original
-Well, you have no evidence on Sallywatch either.<end>
-
-=>a37
-Well, you have no evidence on Sallywatch either.<end>
-
-=>q38_original
-I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.<end>
-
-=>q38
-I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.<end>
-
-=>a39_original
-::Give him the sniper rifle.::<end>
-
-=>a39
-::Give him the sniper rifle.::<end>
-
-=>q40_original
-That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.<end>
-
-=>q40
-That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.<end>
-
-=>a41_original
-Got it. See you.<end>
-
-=>a41
-Got it. See you.<end>
-
-=>a42_original
-Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.<end>
-
-=>a42
-Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.<end>
-
-=>a43_original
-Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.<end>
-
-=>a43
-Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.<end>
-
-=>q44_original
-::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
-
-=>q44
-::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
-
-=>a45_original
-I need to do some more investigating.<end>
-
-=>a45
-I need to do some more investigating.<end>
-
-=>a46_original
-I believe he is innocent and should be released.<end>
-
-=>a46
-I believe he is innocent and should be released.<end>
-
-=>q47_original
-$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.
-
-The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
-
-=>q47
-$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.
-
-The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
-
-=>a48_original
-It's a deal. I'll be back with some evidence.<end>
-
-=>a48
-It's a deal. I'll be back with some evidence.<end>
-
-=>q49_original
-I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.
-
-Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
-
-=>q49
-I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.
-
-Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
-
-=>a50_original
-I see. I'll be back.<end>
-
-=>a50
-I see. I'll be back.<end>
-
-=>a51_original
-I think I've proven to you that I can be trusted. I want to help with the Daud murder case.<end>
-
-=>a51
-I think I've proven to you that I can be trusted. I want to help with the Daud murder case.<end>
-
-=>q52_original
-That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
-
-=>q52
-That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
-
-=>a53_original
-I already have what I believe is the murder weapon.<end>
-
-=>a53
-I already have what I believe is the murder weapon.<end>
-
-=>a54_original
-Actually, let's talk about something else.<end>
-
-=>a54
-Actually, let's talk about something else.<end>
-
-=>q55_original
-Let's.<end>
-
-=>q55
-Let's.<end>
-
-=>q56_original
-Yes?<end>
-
-=>q56
-Yes?<end>
-
-=>a57_original
-Are there any jobs available around here?<end>
-
-=>a57
-Are there any jobs available around here?<end>
-
-=>q58_original
-Hm. As a matter of fact, I believe I might have something for you.<end>
-
-=>q58
-Hm. As a matter of fact, I believe I might have something for you.<end>
-
-=>a59_original
-Let's hear it.<end>
-
-=>a59
-Let's hear it.<end>
-
-=>q60_original
-Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
-
-=>q60
-Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
-
-=>q61_original
-We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
-
-=>q61
-We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
-
-=>q62_original
-<end>
-
-=>q62
-<end>
-
-=>a63_original
-I'll do it.<end>
-
-=>a63
-I'll do it.<end>
-
-=>q64_original
-Very good. Best of luck. And remember - bring me his eye as proof.<end>
-
-=>q64
-Very good. Best of luck. And remember - bring me his eye as proof.<end>
-
-=>q65_original
-<end>
-
-=>q65
-<end>
-
-=>a66_original
-::Give him the cybernetic eye without saying anything.::<end>
-
-=>a66
-::Give him the cybernetic eye without saying anything.::<end>
-
-=>q67_original
-::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
-
-=>q67
-::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
-
-=>q68_original
-You earned this. Well done.<end>
-
-=>q68
-You earned this. Well done.<end>
-
-=>a69_original
-What else can you tell me about this Balor guy and where I can find him?<end>
-
-=>a69
-What else can you tell me about this Balor guy and where I can find him?<end>
-
-=>q70_original
-Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
-
-=>q70
-Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
-
-=>q71_original
-As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
-
-=>q71
-As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
-
-=>a72_original
-How do I get to this Warehouse Block Beta?<end>
-
-=>a72
-How do I get to this Warehouse Block Beta?<end>
-
-=>q73_original
-It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.<end>
-
-=>q73
-It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.<end>
-
-=>q74_original
-Both ways lead to the warehouse block, and both should be well defended.<end>
-
-=>q74
-Both ways lead to the warehouse block, and both should be well defended.<end>
-
-=>q75_original
-<end>
-
-=>q75
-<end>
-
-=>a76_original
-I'll find and kill Balor.<end>
-
-=>a76
-I'll find and kill Balor.<end>
-
-=>a77_original
-I have his eye right here. ::Give him the eye.::<end>
-
-=>a77
-I have his eye right here. ::Give him the eye.::<end>
-
-=>q78_original
-::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
-
-=>q78
-::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
-
-=>a79_original
-What can you tell me about these Ironheads?<end>
-
-=>a79
-What can you tell me about these Ironheads?<end>
-
-=>q80_original
-They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
-
-=>q80
-They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
-
-=>q81_original
-We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
-
-=>q81
-We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
-
-=>q82_original
-Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.<end>
-
-=>q82
-Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.<end>
-
-=>a83_original
-Let's talk about something else.<end>
-
-=>a83
-Let's talk about something else.<end>
-
-=>a84_original
-Let me think about it. Meanwhile, let's talk about something else.<end>
-
-=>a84
-Let me think about it. Meanwhile, let's talk about something else.<end>
-
-=>a85_original
-I changed my mind. Let's talk about something else.<end>
-
-=>a85
-I changed my mind. Let's talk about something else.<end>
-
-=>q86_original
-Like what?<end>
-
-=>q86
-Like what?<end>
-
-=>a87_original
-About Balor...<end>
-
-=>a87
-About Balor...<end>
-
-=>q88_original
-Yes?<end>
-
-=>q88
-Yes?<end>
-
-=>a89_original
-I would like to report a planning of a murder.<end>
-
-=>a89
-I would like to report a planning of a murder.<end>
-
-=>q90_original
-I'm listening.<end>
-
-=>q90
-I'm listening.<end>
-
-=>a91_original
-::Explain how Nicolas wanted you to kill Olivia.::<end>
-
-=>a91
-::Explain how Nicolas wanted you to kill Olivia.::<end>
-
-=>a92_original
-::Explain how Olivia wanted you to kill Nicolas.::<end>
-
-=>a92
-::Explain how Olivia wanted you to kill Nicolas.::<end>
-
-=>a93_original
-::Explain how both Olivia and Nicolas wanted you to kill the other.::<end>
-
-=>a93
-::Explain how both Olivia and Nicolas wanted you to kill the other.::<end>
-
-=>a94_original
-Sorry, I've made a mistake. Forget I said anything.<end>
-
-=>a94
-Sorry, I've made a mistake. Forget I said anything.<end>
-
-=>q95_original
-These things are serious, $(context.player.Name). Making mistakes could have serious consequences.<end>
-
-=>q95
-These things are serious, $(context.player.Name). Making mistakes could have serious consequences.<end>
-
-=>a96_original
-One of your residents is being held captive by some bandits. They're in a camp near Foundry.<end>
-
-=>a96
-One of your residents is being held captive by some bandits. They're in a camp near Foundry.<end>
-
-=>q97_original
-I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. <end>
-
-=>q97
-I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. <end>
-
-=>a98_original
-Would it do any good if I talked to him?<end>
-
-=>a98
-Would it do any good if I talked to him?<end>
-
-=>q99_original
-You can try, but I am certain that will not acomplish anything.<end>
-
-=>q99
-You can try, but I am certain that will not acomplish anything.<end>
-
-=>a100_original
-Well, thanks a lot!<end>
-
-=>a100
-Well, thanks a lot!<end>
-
-=>q101_original
-::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
-
-=>q101
-::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
-
-=>a102_original
-I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
-
-=>a102
-I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
-
-=>q103_original
-Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.<end>
-
-=>q103
-Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.<end>
-
-=>q104_original
-In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.<end>
-
-=>q104
-In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.<end>
-
-=>a105_original
-What do you know about this Institute?<end>
-
-=>a105
-What do you know about this Institute?<end>
-
-=>q106_original
-::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
-
-=>q106
-::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
-
-=>a107_original
-What do you know about the mine creatures?<end>
-
-=>a107
-What do you know about the mine creatures?<end>
-
-=>q108_original
-I cannot discuss that with you. I'm sorry. That is classified information.<end>
-
-=>q108
-I cannot discuss that with you. I'm sorry. That is classified information.<end>
-
-=>q109_original
-Anything else?<end>
-
-=>q109
-Anything else?<end>
-
-=>a110_original
-I noticed that one of your investigators has a strange speech disorder.<end>
-
-=>a110
-I noticed that one of your investigators has a strange speech disorder.<end>
-
-=>q111_original
-Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.<end>
-
-=>q111
-Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.<end>
-
-=>q112_original
-Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.<end>
-
-=>q112
-Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.<end>
-
-=>a113_original
-I'd like to talk about Evelyn Ingram.<end>
-
-=>a113
-I'd like to talk about Evelyn Ingram.<end>
-
-=>q114_original
-::He pauses for a moment.:: Yes? What about her?<end>
-
-=>q114
-::He pauses for a moment.:: Yes? What about her?<end>
-
-=>a115_original
-I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::<end>
-
-=>a115
-I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::<end>
-
-=>q116_original
-::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: 
-
-This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
-
-=>q116
-::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: 
-
-This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
-
-=>a117_original
-She's dead. I had to kill her in self defence.<end>
-
-=>a117
-She's dead. I had to kill her in self defence.<end>
-
-=>q118_original
-I'll send some men to see what's going on. You wait here with me.<end>
-
-=>q118
-I'll send some men to see what's going on. You wait here with me.<end>
-
-=>a119_original
-::Wait.::<end>
-
-=>a119
-::Wait.::<end>
-
-=>a120_original
-Stupid woman attacked me, I had to kill her!<end>
-
-=>a120
-Stupid woman attacked me, I had to kill her!<end>
-
-=>a121_original
-No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.<end>
-
-=>a121
-No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.<end>
-
-=>q122_original
-I'll send a few men now. You wait here with me.<end>
-
-=>q122
-I'll send a few men now. You wait here with me.<end>
-
-=>a123_original
-That is all I know.<end>
-
-=>a123
-That is all I know.<end>
-
-=>q124_original
-Good. I'll send a few men now. You wait here with me.<end>
-
-=>q124
-Good. I'll send a few men now. You wait here with me.<end>
-
-=>a125_original
-That derailed witch drugged me and tried to kill me!<end>
-
-=>a125
-That derailed witch drugged me and tried to kill me!<end>
-
-=>q126_original
-You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.<end>
-
-=>q126
-You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.<end>
-
-=>a127_original
-I'm serious. I had to kill her in self defence!<end>
-
-=>a127
-I'm serious. I had to kill her in self defence!<end>
-
-=>q128_original
-I see. I'll send a few men to her home at once. You wait here with me.<end>
-
-=>q128
-I see. I'll send a few men to her home at once. You wait here with me.<end>
-
-=>a129_original
-I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!<end>
-
-=>a129
-I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!<end>
-
-=>q130_original
-Very well. I'll send a few men to her home at once. You wait here with me.<end>
-
-=>q130
-Very well. I'll send a few men to her home at once. You wait here with me.<end>
-
-=>a131_original
-On second thought, I'd like to talk about something else.<end>
-
-=>a131
-On second thought, I'd like to talk about something else.<end>
-
-=>q132_original
-I'm listening.<end>
-
-=>q132
-I'm listening.<end>
-
-=>a133_original
-Can you tell me something about Foundry?<end>
-
-=>a133
-Can you tell me something about Foundry?<end>
-
-=>q134_original
-I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
-
-=>q134
-I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
-
-=>q135_original
-Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
-
-=>q135
-Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
-
-=>a136_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a136
-How do you feel now that the mine has been reopened?<end>
-
-=>q137_original
-I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.<end>
-
-=>q137
-I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.<end>
-
-=>q138_original
-If the Faceless dare attack, they'll find themselves in a world of hurt.<end>
-
-=>q138
-If the Faceless dare attack, they'll find themselves in a world of hurt.<end>
-
-=>q139_original
-Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.<end>
-
-=>q139
-Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.<end>
-
-=>q140_original
-We cannot be touched.<end>
-
-=>q140
-We cannot be touched.<end>
-
-=>a141_original
-I need to go. See you later.<end>
-
-=>a141
-I need to go. See you later.<end>
-
-=>q142_original
-<end>
-
-=>q142
-<end>
-
-=>q143_original
-What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.<end>
-
-=>q143
-What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.<end>
-
-=>q144_original
-In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.<end>
-
-=>q144
-In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.<end>
-
-=>q145_original
-<end>
-
-=>q145
-<end>
-
-=>q146_original
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
-
-=>q146
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
-
-=>q147_original
-Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
-
-=>q147
-Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
-
-=>q148_original
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
-
-=>q148
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
-
-=>q149_original
-You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
-
-=>q149
-You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
-
-=>q150_original
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
-
-=>q150
-Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
-
-=>q151_original
-You are free to go.<end>
-
-=>q151
-You are free to go.<end>
-
-=>q152_original
-$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
-
-=>q152
-$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
-
-=>q153_original
-The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
-
-=>q153
-The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
-
-=>q154_original
-We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.<end>
-
-=>q154
-We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.<end>
-
-=>a155_original
-Actually, I already talked to them.<end>
-
-=>a155
-Actually, I already talked to them.<end>
-
-=>a156_original
-I took care of them. They are all dead.<end>
-
-=>a156
-I took care of them. They are all dead.<end>
-
-=>a157_original
-I wanted to talk to you about something first.<end>
-
-=>a157
-I wanted to talk to you about something first.<end>
-
-=>q158_original
-Go ahead.<end>
-
-=>q158
-Go ahead.<end>
-
-=>a159_original
-Understood. I'm on my way.<end>
-
-=>a159
-Understood. I'm on my way.<end>
-
-=>q160_original
-Yes?<end>
-
-=>q160
-Yes?<end>
-
+=>q1_original
+::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::<end>
+
+=>q1
+::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::<end>
+
+=>q2_original
+You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
+
+=>q2
+You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
+
+=>q3_original
+Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
+
+=>q3
+Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
+
+=>q4_original
+We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.<end>
+
+=>q4
+We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I talked to the Faceless.<end>
+
+=>a6
+I talked to the Faceless.<end>
+
+=>q7_original
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::<end>
+
+=>q7
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+You talked to them? What did you find out?<end>
+
+=>q9
+You talked to them? What did you find out?<end>
+
+=>a10_original
+They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.<end>
+
+=>a10
+They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.<end>
+
+=>q11_original
+We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q11
+We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>a12_original
+They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.<end>
+
+=>a12
+They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.<end>
+
+=>q13_original
+Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q13
+Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>a14_original
+They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.<end>
+
+=>a14
+They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.<end>
+
+=>q15_original
+Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q15
+Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>a16_original
+They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
+
+=>a16
+They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
+
+=>q17_original
+Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::<end>
+
+=>q17
+Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::<end>
+
+=>a18_original
+I killed the Faceless near Foundry.<end>
+
+=>a18
+I killed the Faceless near Foundry.<end>
+
+=>q19_original
+Alone? Did they attack you?<end>
+
+=>q19
+Alone? Did they attack you?<end>
+
+=>a20_original
+Yes.<end>
+
+=>a20
+Yes.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.<end>
+
+=>q22
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.<end>
+
+=>a23_original
+And... about my reward?<end>
+
+=>a23
+And... about my reward?<end>
+
+=>q24_original
+For what? You failed to provide me the information at the time, so you will not receive a reward.<end>
+
+=>q24
+For what? You failed to provide me the information at the time, so you will not receive a reward.<end>
+
+=>a25_original
+The most important things is that they didn't attack Foundry.<end>
+
+=>a25
+The most important things is that they didn't attack Foundry.<end>
+
+=>q26_original
+That is truly the case, $(context.player.Name).<end>
+
+=>q26
+That is truly the case, $(context.player.Name).<end>
+
+=>q27_original
+::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.<end>
+
+=>q27
+::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.<end>
+
+=>a28_original
+No, I just attacked them on sight. They didn't look like the friendliest bunch.<end>
+
+=>a28
+No, I just attacked them on sight. They didn't look like the friendliest bunch.<end>
+
+=>a29_original
+The Faceless left before I had the chance to discover their intentions.<end>
+
+=>a29
+The Faceless left before I had the chance to discover their intentions.<end>
+
+=>a30_original
+I need to talk to you about a prisoner called Todor Sallywatch.<end>
+
+=>a30
+I need to talk to you about a prisoner called Todor Sallywatch.<end>
+
+=>q31_original
+Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
+
+=>q31
+Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>a33_original
+I have the weapon that was used to kill Bolivar Daud.<end>
+
+=>a33
+I have the weapon that was used to kill Bolivar Daud.<end>
+
+=>q34_original
+::Chief takes a careful look at the rifle.:: What've you got?<end>
+
+=>q34
+::Chief takes a careful look at the rifle.:: What've you got?<end>
+
+=>a35_original
+I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.<end>
+
+=>a35
+I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.<end>
+
+=>q36_original
+Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.<end>
+
+=>q36
+Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.<end>
+
+=>a37_original
+Well, you have no evidence on Sallywatch either.<end>
+
+=>a37
+Well, you have no evidence on Sallywatch either.<end>
+
+=>q38_original
+I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.<end>
+
+=>q38
+I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.<end>
+
+=>a39_original
+::Give him the sniper rifle.::<end>
+
+=>a39
+::Give him the sniper rifle.::<end>
+
+=>q40_original
+That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.<end>
+
+=>q40
+That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.<end>
+
+=>a41_original
+Got it. See you.<end>
+
+=>a41
+Got it. See you.<end>
+
+=>a42_original
+Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.<end>
+
+=>a42
+Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.<end>
+
+=>a43_original
+Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.<end>
+
+=>a43
+Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.<end>
+
+=>q44_original
+::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
+
+=>q44
+::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
+
+=>a45_original
+I need to do some more investigating.<end>
+
+=>a45
+I need to do some more investigating.<end>
+
+=>a46_original
+I believe he is innocent and should be released.<end>
+
+=>a46
+I believe he is innocent and should be released.<end>
+
+=>q47_original
+$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.
+
+The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>q47
+$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.
+
+The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>a48_original
+It's a deal. I'll be back with some evidence.<end>
+
+=>a48
+It's a deal. I'll be back with some evidence.<end>
+
+=>q49_original
+I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.
+
+Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
+
+=>q49
+I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.
+
+Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
+
+=>a50_original
+I see. I'll be back.<end>
+
+=>a50
+I see. I'll be back.<end>
+
+=>a51_original
+I think I've proven to you that I can be trusted. I want to help with the Daud murder case.<end>
+
+=>a51
+I think I've proven to you that I can be trusted. I want to help with the Daud murder case.<end>
+
+=>q52_original
+That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>q52
+That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>a53_original
+I already have what I believe is the murder weapon.<end>
+
+=>a53
+I already have what I believe is the murder weapon.<end>
+
+=>a54_original
+Actually, let's talk about something else.<end>
+
+=>a54
+Actually, let's talk about something else.<end>
+
+=>q55_original
+Let's.<end>
+
+=>q55
+Let's.<end>
+
+=>q56_original
+Yes?<end>
+
+=>q56
+Yes?<end>
+
+=>a57_original
+Are there any jobs available around here?<end>
+
+=>a57
+Are there any jobs available around here?<end>
+
+=>q58_original
+Hm. As a matter of fact, I believe I might have something for you.<end>
+
+=>q58
+Hm. As a matter of fact, I believe I might have something for you.<end>
+
+=>a59_original
+Let's hear it.<end>
+
+=>a59
+Let's hear it.<end>
+
+=>q60_original
+Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
+
+=>q60
+Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
+
+=>q61_original
+We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
+
+=>q61
+We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>a63_original
+I'll do it.<end>
+
+=>a63
+I'll do it.<end>
+
+=>q64_original
+Very good. Best of luck. And remember - bring me his eye as proof.<end>
+
+=>q64
+Very good. Best of luck. And remember - bring me his eye as proof.<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+::Give him the cybernetic eye without saying anything.::<end>
+
+=>a66
+::Give him the cybernetic eye without saying anything.::<end>
+
+=>q67_original
+::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
+
+=>q67
+::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
+
+=>q68_original
+You earned this. Well done.<end>
+
+=>q68
+You earned this. Well done.<end>
+
+=>a69_original
+What else can you tell me about this Balor guy and where I can find him?<end>
+
+=>a69
+What else can you tell me about this Balor guy and where I can find him?<end>
+
+=>q70_original
+Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
+
+=>q70
+Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
+
+=>q71_original
+As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
+
+=>q71
+As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
+
+=>a72_original
+How do I get to this Warehouse Block Beta?<end>
+
+=>a72
+How do I get to this Warehouse Block Beta?<end>
+
+=>q73_original
+It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.<end>
+
+=>q73
+It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.<end>
+
+=>q74_original
+Both ways lead to the warehouse block, and both should be well defended.<end>
+
+=>q74
+Both ways lead to the warehouse block, and both should be well defended.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+I'll find and kill Balor.<end>
+
+=>a76
+I'll find and kill Balor.<end>
+
+=>a77_original
+I have his eye right here. ::Give him the eye.::<end>
+
+=>a77
+I have his eye right here. ::Give him the eye.::<end>
+
+=>q78_original
+::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
+
+=>q78
+::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
+
+=>a79_original
+What can you tell me about these Ironheads?<end>
+
+=>a79
+What can you tell me about these Ironheads?<end>
+
+=>q80_original
+They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
+
+=>q80
+They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
+
+=>q81_original
+We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
+
+=>q81
+We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
+
+=>q82_original
+Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.<end>
+
+=>q82
+Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.<end>
+
+=>a83_original
+Let's talk about something else.<end>
+
+=>a83
+Let's talk about something else.<end>
+
+=>a84_original
+Let me think about it. Meanwhile, let's talk about something else.<end>
+
+=>a84
+Let me think about it. Meanwhile, let's talk about something else.<end>
+
+=>a85_original
+I changed my mind. Let's talk about something else.<end>
+
+=>a85
+I changed my mind. Let's talk about something else.<end>
+
+=>q86_original
+Like what?<end>
+
+=>q86
+Like what?<end>
+
+=>a87_original
+About Balor...<end>
+
+=>a87
+About Balor...<end>
+
+=>q88_original
+Yes?<end>
+
+=>q88
+Yes?<end>
+
+=>a89_original
+I would like to report a planning of a murder.<end>
+
+=>a89
+I would like to report a planning of a murder.<end>
+
+=>q90_original
+I'm listening.<end>
+
+=>q90
+I'm listening.<end>
+
+=>a91_original
+::Explain how Nicolas wanted you to kill Olivia.::<end>
+
+=>a91
+::Explain how Nicolas wanted you to kill Olivia.::<end>
+
+=>a92_original
+::Explain how Olivia wanted you to kill Nicolas.::<end>
+
+=>a92
+::Explain how Olivia wanted you to kill Nicolas.::<end>
+
+=>a93_original
+::Explain how both Olivia and Nicolas wanted you to kill the other.::<end>
+
+=>a93
+::Explain how both Olivia and Nicolas wanted you to kill the other.::<end>
+
+=>a94_original
+Sorry, I've made a mistake. Forget I said anything.<end>
+
+=>a94
+Sorry, I've made a mistake. Forget I said anything.<end>
+
+=>q95_original
+These things are serious, $(context.player.Name). Making mistakes could have serious consequences.<end>
+
+=>q95
+These things are serious, $(context.player.Name). Making mistakes could have serious consequences.<end>
+
+=>a96_original
+One of your residents is being held captive by some bandits. They're in a camp near Foundry.<end>
+
+=>a96
+One of your residents is being held captive by some bandits. They're in a camp near Foundry.<end>
+
+=>q97_original
+I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. <end>
+
+=>q97
+I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. <end>
+
+=>a98_original
+Would it do any good if I talked to him?<end>
+
+=>a98
+Would it do any good if I talked to him?<end>
+
+=>q99_original
+You can try, but I am certain that will not acomplish anything.<end>
+
+=>q99
+You can try, but I am certain that will not acomplish anything.<end>
+
+=>a100_original
+Well, thanks a lot!<end>
+
+=>a100
+Well, thanks a lot!<end>
+
+=>q101_original
+::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
+
+=>q101
+::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
+
+=>a102_original
+I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
+
+=>a102
+I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
+
+=>q103_original
+Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.<end>
+
+=>q103
+Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.<end>
+
+=>q104_original
+In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.<end>
+
+=>q104
+In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.<end>
+
+=>a105_original
+What do you know about this Institute?<end>
+
+=>a105
+What do you know about this Institute?<end>
+
+=>q106_original
+::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
+
+=>q106
+::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
+
+=>a107_original
+What do you know about the mine creatures?<end>
+
+=>a107
+What do you know about the mine creatures?<end>
+
+=>q108_original
+I cannot discuss that with you. I'm sorry. That is classified information.<end>
+
+=>q108
+I cannot discuss that with you. I'm sorry. That is classified information.<end>
+
+=>q109_original
+Anything else?<end>
+
+=>q109
+Anything else?<end>
+
+=>a110_original
+I noticed that one of your investigators has a strange speech disorder.<end>
+
+=>a110
+I noticed that one of your investigators has a strange speech disorder.<end>
+
+=>q111_original
+Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.<end>
+
+=>q111
+Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.<end>
+
+=>q112_original
+Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.<end>
+
+=>q112
+Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.<end>
+
+=>a113_original
+I'd like to talk about Evelyn Ingram.<end>
+
+=>a113
+I'd like to talk about Evelyn Ingram.<end>
+
+=>q114_original
+::He pauses for a moment.:: Yes? What about her?<end>
+
+=>q114
+::He pauses for a moment.:: Yes? What about her?<end>
+
+=>a115_original
+I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::<end>
+
+=>a115
+I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::<end>
+
+=>q116_original
+::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: 
+
+This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
+
+=>q116
+::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: 
+
+This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
+
+=>a117_original
+She's dead. I had to kill her in self defence.<end>
+
+=>a117
+She's dead. I had to kill her in self defence.<end>
+
+=>q118_original
+I'll send some men to see what's going on. You wait here with me.<end>
+
+=>q118
+I'll send some men to see what's going on. You wait here with me.<end>
+
+=>a119_original
+::Wait.::<end>
+
+=>a119
+::Wait.::<end>
+
+=>a120_original
+Stupid woman attacked me, I had to kill her!<end>
+
+=>a120
+Stupid woman attacked me, I had to kill her!<end>
+
+=>a121_original
+No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.<end>
+
+=>a121
+No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.<end>
+
+=>q122_original
+I'll send a few men now. You wait here with me.<end>
+
+=>q122
+I'll send a few men now. You wait here with me.<end>
+
+=>a123_original
+That is all I know.<end>
+
+=>a123
+That is all I know.<end>
+
+=>q124_original
+Good. I'll send a few men now. You wait here with me.<end>
+
+=>q124
+Good. I'll send a few men now. You wait here with me.<end>
+
+=>a125_original
+That derailed witch drugged me and tried to kill me!<end>
+
+=>a125
+That derailed witch drugged me and tried to kill me!<end>
+
+=>q126_original
+You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.<end>
+
+=>q126
+You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.<end>
+
+=>a127_original
+I'm serious. I had to kill her in self defence!<end>
+
+=>a127
+I'm serious. I had to kill her in self defence!<end>
+
+=>q128_original
+I see. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>q128
+I see. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>a129_original
+I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!<end>
+
+=>a129
+I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!<end>
+
+=>q130_original
+Very well. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>q130
+Very well. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>a131_original
+On second thought, I'd like to talk about something else.<end>
+
+=>a131
+On second thought, I'd like to talk about something else.<end>
+
+=>q132_original
+I'm listening.<end>
+
+=>q132
+I'm listening.<end>
+
+=>a133_original
+Can you tell me something about Foundry?<end>
+
+=>a133
+Can you tell me something about Foundry?<end>
+
+=>q134_original
+I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
+
+=>q134
+I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
+
+=>q135_original
+Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
+
+=>q135
+Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
+
+=>a136_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a136
+How do you feel now that the mine has been reopened?<end>
+
+=>q137_original
+I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.<end>
+
+=>q137
+I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.<end>
+
+=>q138_original
+If the Faceless dare attack, they'll find themselves in a world of hurt.<end>
+
+=>q138
+If the Faceless dare attack, they'll find themselves in a world of hurt.<end>
+
+=>q139_original
+Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.<end>
+
+=>q139
+Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.<end>
+
+=>q140_original
+We cannot be touched.<end>
+
+=>q140
+We cannot be touched.<end>
+
+=>a141_original
+I need to go. See you later.<end>
+
+=>a141
+I need to go. See you later.<end>
+
+=>q142_original
+<end>
+
+=>q142
+<end>
+
+=>q143_original
+What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.<end>
+
+=>q143
+What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.<end>
+
+=>q144_original
+In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.<end>
+
+=>q144
+In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.<end>
+
+=>q145_original
+<end>
+
+=>q145
+<end>
+
+=>q146_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
+
+=>q146
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
+
+=>q147_original
+Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q147
+Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q148_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
+
+=>q148
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
+
+=>q149_original
+You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q149
+You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q150_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
+
+=>q150
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
+
+=>q151_original
+You are free to go.<end>
+
+=>q151
+You are free to go.<end>
+
+=>q152_original
+$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
+
+=>q152
+$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
+
+=>q153_original
+The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
+
+=>q153
+The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
+
+=>q154_original
+We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.<end>
+
+=>q154
+We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.<end>
+
+=>a155_original
+Actually, I already talked to them.<end>
+
+=>a155
+Actually, I already talked to them.<end>
+
+=>a156_original
+I took care of them. They are all dead.<end>
+
+=>a156
+I took care of them. They are all dead.<end>
+
+=>a157_original
+I wanted to talk to you about something first.<end>
+
+=>a157
+I wanted to talk to you about something first.<end>
+
+=>q158_original
+Go ahead.<end>
+
+=>q158
+Go ahead.<end>
+
+=>a159_original
+Understood. I'm on my way.<end>
+
+=>a159
+Understood. I'm on my way.<end>
+
+=>q160_original
+Yes?<end>
+
+=>q160
+Yes?<end>
+

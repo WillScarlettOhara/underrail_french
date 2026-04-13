@@ -1,196 +1,196 @@
-=>q1_original
-Leave.<end>
-
-=>q1
-Leave.<end>
-
-=>q2_original
-Speak to His Excellency, Harmost Stavros.<end>
-
-=>q2
-Speak to His Excellency, Harmost Stavros.<end>
-
-=>q3_original
-::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
-
-=>q3
-::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
-
-=>a4_original
-Can I, um, take a look at what you have available, brother?<end>
-
-=>a4
-Can I, um, take a look at what you have available, brother?<end>
-
-=>q5_original
-::He nods after a short delay.::<end>
-
-=>q5
-::He nods after a short delay.::<end>
-
-=>a6_original
-::Barter.::<end>
-
-=>a6
-::Barter.::<end>
-
-=>a7_original
-Tchort guide you, brother.<end>
-
-=>a7
-Tchort guide you, brother.<end>
-
-=>a8_original
-::Leave without saying anything.::<end>
-
-=>a8
-::Leave without saying anything.::<end>
-
-=>q9_original
-::Rassophore Prevlic slowly lifts his right arm and places it on his chest in an effort to greet you, while his left arm remains dangling lifelessly by his side. His face may be invisible to you, but you sense that there is a certain aura of bleakness surrounding him, expressed by his motions and speech, accented by his pendulous arm, and you're certain that it would be deeply reflected in his eyes were they not hidden behind the mask.::
-
-Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
-
-=>q9
-::Rassophore Prevlic slowly lifts his right arm and places it on his chest in an effort to greet you, while his left arm remains dangling lifelessly by his side. His face may be invisible to you, but you sense that there is a certain aura of bleakness surrounding him, expressed by his motions and speech, accented by his pendulous arm, and you're certain that it would be deeply reflected in his eyes were they not hidden behind the mask.::
-
-Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>a11_original
-What do you have for trade? ::Barter.::<end>
-
-=>a11
-What do you have for trade? ::Barter.::<end>
-
-=>a12_original
-I would like to ask you some questions about Cytosine Outpost and the recent Faceless attacks.<end>
-
-=>a12
-I would like to ask you some questions about Cytosine Outpost and the recent Faceless attacks.<end>
-
-=>q13_original
-I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
-
-=>q13
-I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
-
-=>q14_original
-::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
-
-=>q14
-::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
-
-=>a15_original
-What is wrong with your arm?<end>
-
-=>a15
-What is wrong with your arm?<end>
-
-=>q16_original
-::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
-
-=>q16
-::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
-
-=>q17_original
-::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
-
-=>q17
-::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
-
-=>a18_original
-::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
-
-=>a18
-::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
-
-=>q19_original
-::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
-
-=>q19
-::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
-
-=>q20_original
-::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
-
-Yes, we have to be strong. Thank you, $(#brother/sister), your... your words mean a lot to me.<end>
-
-=>q20
-::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
-
-Yes, we have to be strong. Thank you, $(#brother/sister), your... your words mean a lot to me.<end>
-
-=>q21_original
-No, no, no - the Faceless are strong, they will overrun us... They...<end>
-
-=>q21
-No, no, no - the Faceless are strong, they will overrun us... They...<end>
-
-=>q22_original
-::He snaps out of it just before losing it completely.:: Calm down... calm down... ah...
-
-Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
-
-=>q22
-::He snaps out of it just before losing it completely.:: Calm down... calm down... ah...
-
-Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
-
-=>a23_original
-Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
-
-=>a23
-Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
-
-=>q24_original
-::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
-
-Leave...<end>
-
-=>q24
-::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
-
-Leave...<end>
-
-=>a25_original
-Yeah... um...<end>
-
-=>a25
-Yeah... um...<end>
-
-=>a26_original
-I'll be leaving you. See ya.<end>
-
-=>a26
-I'll be leaving you. See ya.<end>
-
-=>a27_original
-Tchort guide you, brother.<end>
-
-=>a27
-Tchort guide you, brother.<end>
-
-=>q28_original
-Tchort guide you.<end>
-
-=>q28
-Tchort guide you.<end>
-
-=>a29_original
-See you later, Prevlic.<end>
-
-=>a29
-See you later, Prevlic.<end>
-
-=>q30_original
-Yes, $(#brother/sister)?<end>
-
-=>q30
-Yes, $(#brother/sister)?<end>
-
+=>q1_original
+Leave.<end>
+
+=>q1
+Leave.<end>
+
+=>q2_original
+Speak to His Excellency, Harmost Stavros.<end>
+
+=>q2
+Speak to His Excellency, Harmost Stavros.<end>
+
+=>q3_original
+::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
+
+=>q3
+::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
+
+=>a4_original
+Can I, um, take a look at what you have available, brother?<end>
+
+=>a4
+Can I, um, take a look at what you have available, brother?<end>
+
+=>q5_original
+::He nods after a short delay.::<end>
+
+=>q5
+::He nods after a short delay.::<end>
+
+=>a6_original
+::Barter.::<end>
+
+=>a6
+::Barter.::<end>
+
+=>a7_original
+Tchort guide you, brother.<end>
+
+=>a7
+Tchort guide you, brother.<end>
+
+=>a8_original
+::Leave without saying anything.::<end>
+
+=>a8
+::Leave without saying anything.::<end>
+
+=>q9_original
+::Rassophore Prevlic slowly lifts his right arm and places it on his chest in an effort to greet you, while his left arm remains dangling lifelessly by his side. His face may be invisible to you, but you sense that there is a certain aura of bleakness surrounding him, expressed by his motions and speech, accented by his pendulous arm, and you're certain that it would be deeply reflected in his eyes were they not hidden behind the mask.::
+
+Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
+
+=>q9
+::Rassophore Prevlic slowly lifts his right arm and places it on his chest in an effort to greet you, while his left arm remains dangling lifelessly by his side. His face may be invisible to you, but you sense that there is a certain aura of bleakness surrounding him, expressed by his motions and speech, accented by his pendulous arm, and you're certain that it would be deeply reflected in his eyes were they not hidden behind the mask.::
+
+Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+What do you have for trade? ::Barter.::<end>
+
+=>a11
+What do you have for trade? ::Barter.::<end>
+
+=>a12_original
+I would like to ask you some questions about Cytosine Outpost and the recent Faceless attacks.<end>
+
+=>a12
+I would like to ask you some questions about Cytosine Outpost and the recent Faceless attacks.<end>
+
+=>q13_original
+I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
+
+=>q13
+I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
+
+=>q14_original
+::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
+
+=>q14
+::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
+
+=>a15_original
+What is wrong with your arm?<end>
+
+=>a15
+What is wrong with your arm?<end>
+
+=>q16_original
+::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
+
+=>q16
+::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
+
+=>q17_original
+::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
+
+=>q17
+::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
+
+=>a18_original
+::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
+
+=>a18
+::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
+
+=>q19_original
+::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
+
+=>q19
+::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
+
+=>q20_original
+::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
+
+Yes, we have to be strong. Thank you, $(#brother/sister), your... your words mean a lot to me.<end>
+
+=>q20
+::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
+
+Yes, we have to be strong. Thank you, $(#brother/sister), your... your words mean a lot to me.<end>
+
+=>q21_original
+No, no, no - the Faceless are strong, they will overrun us... They...<end>
+
+=>q21
+No, no, no - the Faceless are strong, they will overrun us... They...<end>
+
+=>q22_original
+::He snaps out of it just before losing it completely.:: Calm down... calm down... ah...
+
+Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
+
+=>q22
+::He snaps out of it just before losing it completely.:: Calm down... calm down... ah...
+
+Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
+
+=>a23_original
+Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
+
+=>a23
+Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
+
+=>q24_original
+::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
+
+Leave...<end>
+
+=>q24
+::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
+
+Leave...<end>
+
+=>a25_original
+Yeah... um...<end>
+
+=>a25
+Yeah... um...<end>
+
+=>a26_original
+I'll be leaving you. See ya.<end>
+
+=>a26
+I'll be leaving you. See ya.<end>
+
+=>a27_original
+Tchort guide you, brother.<end>
+
+=>a27
+Tchort guide you, brother.<end>
+
+=>q28_original
+Tchort guide you.<end>
+
+=>q28
+Tchort guide you.<end>
+
+=>a29_original
+See you later, Prevlic.<end>
+
+=>a29
+See you later, Prevlic.<end>
+
+=>q30_original
+Yes, $(#brother/sister)?<end>
+
+=>q30
+Yes, $(#brother/sister)?<end>
+

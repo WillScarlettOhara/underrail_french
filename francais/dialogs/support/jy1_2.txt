@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Mind your own business.<end>
-
-=>q2
-Mind your own business.<end>
-
-=>q3_original
-Get lost.<end>
-
-=>q3
-Get lost.<end>
-
-=>q4_original
-Snooping's bad for your health, $(#jack/lady).<end>
-
-=>q4
-Snooping's bad for your health, $(#jack/lady).<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Mind your own business.<end>
+
+=>q2
+Mind your own business.<end>
+
+=>q3_original
+Get lost.<end>
+
+=>q3
+Get lost.<end>
+
+=>q4_original
+Snooping's bad for your health, $(#jack/lady).<end>
+
+=>q4
+Snooping's bad for your health, $(#jack/lady).<end>
+

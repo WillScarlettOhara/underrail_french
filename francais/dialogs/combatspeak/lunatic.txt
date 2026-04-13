@@ -1,1932 +1,1932 @@
-=>q1_original
-What was that? Did you hit me?<end>
-
-=>q1
-What was that? Did you hit me?<end>
-
-=>q2_original
-Heh...<end>
-
-=>q2
-Heh...<end>
-
-=>q3_original
-Hehe, that tickles.<end>
-
-=>q3
-Hehe, that tickles.<end>
-
-=>q4_original
-Nope! Didn't feel that at all.<end>
-
-=>q4
-Nope! Didn't feel that at all.<end>
-
-=>q5_original
-You're kind of a wimp aren't you?<end>
-
-=>q5
-You're kind of a wimp aren't you?<end>
-
-=>q6_original
-::Laughs maniacally.:: You fool.<end>
-
-=>q6
-::Laughs maniacally.:: You fool.<end>
-
-=>q7_original
-Are you done?<end>
-
-=>q7
-Are you done?<end>
-
-=>q8_original
-Shield of Zandor!<end>
-
-=>q8
-Shield of Zandor!<end>
-
-=>q9_original
-Color protects me!<end>
-
-=>q9
-Color protects me!<end>
-
-=>q10_original
-Denied!<end>
-
-=>q10
-Denied!<end>
-
-=>q11_original
-HA!<end>
-
-=>q11
-HA!<end>
-
-=>q12_original
-Whoa, not today!<end>
-
-=>q12
-Whoa, not today!<end>
-
-=>q13_original
-Ouch!<end>
-
-=>q13
-Ouch!<end>
-
-=>q14_original
-Arrgh!<end>
-
-=>q14
-Arrgh!<end>
-
-=>q15_original
-Ugh!<end>
-
-=>q15
-Ugh!<end>
-
-=>q16_original
-Hey, that hurt!<end>
-
-=>q16
-Hey, that hurt!<end>
-
-=>q17_original
-Stop it!<end>
-
-=>q17
-Stop it!<end>
-
-=>q18_original
-Ow!<end>
-
-=>q18
-Ow!<end>
-
-=>q19_original
-I'll bite your fingers off!<end>
-
-=>q19
-I'll bite your fingers off!<end>
-
-=>q20_original
-Go to hell!<end>
-
-=>q20
-Go to hell!<end>
-
-=>q21_original
-Eat bugs, bug-eater!<end>
-
-=>q21
-Eat bugs, bug-eater!<end>
-
-=>q22_original
-AAARGH! I can't feel my tail anymore!<end>
-
-=>q22
-AAARGH! I can't feel my tail anymore!<end>
-
-=>q23_original
-Argh! That's gonna leave a big scar...<end>
-
-=>q23
-Argh! That's gonna leave a big scar...<end>
-
-=>q24_original
-::Pukes blood.:: I'll... laugh about this... tomorrow...<end>
-
-=>q24
-::Pukes blood.:: I'll... laugh about this... tomorrow...<end>
-
-=>q25_original
-My face!<end>
-
-=>q25
-My face!<end>
-
-=>q26_original
-The pain...<end>
-
-=>q26
-The pain...<end>
-
-=>q27_original
-This is not happening... this is not happening...<end>
-
-=>q27
-This is not happening... this is not happening...<end>
-
-=>q28_original
-::Gasps for air.:: You knocked... my... air... out...<end>
-
-=>q28
-::Gasps for air.:: You knocked... my... air... out...<end>
-
-=>q29_original
-Ugh... I think that broke something...<end>
-
-=>q29
-Ugh... I think that broke something...<end>
-
-=>q30_original
-Damn it, you hit hard...<end>
-
-=>q30
-Damn it, you hit hard...<end>
-
-=>q31_original
-Argh, I'm leaking red.<end>
-
-=>q31
-Argh, I'm leaking red.<end>
-
-=>q32_original
-That thing is bloody sharp!<end>
-
-=>q32
-That thing is bloody sharp!<end>
-
-=>q33_original
-I hope that didn't hit any of the important bits...<end>
-
-=>q33
-I hope that didn't hit any of the important bits...<end>
-
-=>q34_original
-AAAAAAH! It burns!<end>
-
-=>q34
-AAAAAAH! It burns!<end>
-
-=>q35_original
-Ow, ow, ow, ow!<end>
-
-=>q35
-Ow, ow, ow, ow!<end>
-
-=>q36_original
-AAARGH! Make it stop!<end>
-
-=>q36
-AAARGH! Make it stop!<end>
-
-=>q37_original
-Cold... so... cold...<end>
-
-=>q37
-Cold... so... cold...<end>
-
-=>q38_original
-Cold-cold-cold...<end>
-
-=>q38
-Cold-cold-cold...<end>
-
-=>q39_original
-The cold... Grr-rrr...<end>
-
-=>q39
-The cold... Grr-rrr...<end>
-
-=>q40_original
-I can't... move... I... I... Hnnnn...<end>
-
-=>q40
-I can't... move... I... I... Hnnnn...<end>
-
-=>q41_original
-Mmm... hmhmh...<end>
-
-=>q41
-Mmm... hmhmh...<end>
-
-=>q42_original
-I feel... the... cold... in... my... bones...<end>
-
-=>q42
-I feel... the... cold... in... my... bones...<end>
-
-=>q43_original
-Oh, I feel so numb...<end>
-
-=>q43
-Oh, I feel so numb...<end>
-
-=>q44_original
-I feel dizzy...<end>
-
-=>q44
-I feel dizzy...<end>
-
-=>q45_original
-I can't fweel muh fwace...<end>
-
-=>q45
-I can't fweel muh fwace...<end>
-
-=>q46_original
-Sleepy... so sleepy...<end>
-
-=>q46
-Sleepy... so sleepy...<end>
-
-=>q47_original
-I can't see! Aaaarghhh!<end>
-
-=>q47
-I can't see! Aaaarghhh!<end>
-
-=>q48_original
-It's time! The world has ended!<end>
-
-=>q48
-It's time! The world has ended!<end>
-
-=>q49_original
-Stop messing with my brain!<end>
-
-=>q49
-Stop messing with my brain!<end>
-
-=>q50_original
-My head is expanding!<end>
-
-=>q50
-My head is expanding!<end>
-
-=>q51_original
-My brain juices are being squeezed out!<end>
-
-=>q51
-My brain juices are being squeezed out!<end>
-
-=>q52_original
-::Grabs head.:: AAAARRGH! Stop it!<end>
-
-=>q52
-::Grabs head.:: AAAARRGH! Stop it!<end>
-
-=>q53_original
-Stop poking me!<end>
-
-=>q53
-Stop poking me!<end>
-
-=>q54_original
-Ugh! That hurt...<end>
-
-=>q54
-Ugh! That hurt...<end>
-
-=>q55_original
-Ouch! Aim that crossbow elsewhere!<end>
-
-=>q55
-Ouch! Aim that crossbow elsewhere!<end>
-
-=>q56_original
-My knee!<end>
-
-=>q56
-My knee!<end>
-
-=>q57_original
-That's a low blow...<end>
-
-=>q57
-That's a low blow...<end>
-
-=>q58_original
-No... My legs don't work right...<end>
-
-=>q58
-No... My legs don't work right...<end>
-
-=>q59_original
-My boots feel weird.<end>
-
-=>q59
-My boots feel weird.<end>
-
-=>q60_original
-Ouch, the ground is getting sharp!<end>
-
-=>q60
-Ouch, the ground is getting sharp!<end>
-
-=>q61_original
-AAAAAARRGH! I think I can see the bone!<end>
-
-=>q61
-AAAAAARRGH! I think I can see the bone!<end>
-
-=>q62_original
-Ugh! Ugh! My leg... Aaah!<end>
-
-=>q62
-Ugh! Ugh! My leg... Aaah!<end>
-
-=>q63_original
-I'm crippled!<end>
-
-=>q63
-I'm crippled!<end>
-
-=>q64_original
-No! Ow... The ground is biting!<end>
-
-=>q64
-No! Ow... The ground is biting!<end>
-
-=>q65_original
-::Coughs.::<end>
-
-=>q65
-::Coughs.::<end>
-
-=>q66_original
-It's so stuffy in here... ::Coughs.::<end>
-
-=>q66
-It's so stuffy in here... ::Coughs.::<end>
-
-=>q67_original
-Aaaah... can't... breathe...<end>
-
-=>q67
-Aaaah... can't... breathe...<end>
-
-=>q68_original
-::Gasps for air.::<end>
-
-=>q68
-::Gasps for air.::<end>
-
-=>q69_original
-I can see the light...<end>
-
-=>q69
-I can see the light...<end>
-
-=>q70_original
-Mom, is that you?<end>
-
-=>q70
-Mom, is that you?<end>
-
-=>q71_original
-I knew this day would come... <end>
-
-=>q71
-I knew this day would come... <end>
-
-=>q72_original
-Ha! Death will only make me stronger!<end>
-
-=>q72
-Ha! Death will only make me stronger!<end>
-
-=>q73_original
-I will haunt you forever!<end>
-
-=>q73
-I will haunt you forever!<end>
-
-=>q74_original
-I'm so thirsty...<end>
-
-=>q74
-I'm so thirsty...<end>
-
-=>q75_original
-Stop, drop, roll... STOP, DROP, ROLL!<end>
-
-=>q75
-Stop, drop, roll... STOP, DROP, ROLL!<end>
-
-=>q76_original
-It burns! Make it stop! Arrrgh!<end>
-
-=>q76
-It burns! Make it stop! Arrrgh!<end>
-
-=>q77_original
-NOOOOO! I'M ON FIRE!<end>
-
-=>q77
-NOOOOO! I'M ON FIRE!<end>
-
-=>q78_original
-Put it out! Put it out!<end>
-
-=>q78
-Put it out! Put it out!<end>
-
-=>q79_original
-It feels so different on this side!<end>
-
-=>q79
-It feels so different on this side!<end>
-
-=>q80_original
-I can see it now - the world will burn!<end>
-
-=>q80
-I can see it now - the world will burn!<end>
-
-=>q81_original
-I can...barely... move...<end>
-
-=>q81
-I can...barely... move...<end>
-
-=>q82_original
-Brrrrr... Cold...<end>
-
-=>q82
-Brrrrr... Cold...<end>
-
-=>q83_original
-::Shivers.:: Damn... I feel so cold...<end>
-
-=>q83
-::Shivers.:: Damn... I feel so cold...<end>
-
-=>q84_original
-Darn it, I'm stuck!<end>
-
-=>q84
-Darn it, I'm stuck!<end>
-
-=>q85_original
-I can't move!<end>
-
-=>q85
-I can't move!<end>
-
-=>q86_original
-::Struggles to move.::<end>
-
-=>q86
-::Struggles to move.::<end>
-
-=>q87_original
-Let me go!<end>
-
-=>q87
-Let me go!<end>
-
-=>q88_original
-::Sings:: Die! Die! Die! Diiie!<end>
-
-=>q88
-::Sings:: Die! Die! Die! Diiie!<end>
-
-=>q89_original
-I'll kill you, and you, and you...<end>
-
-=>q89
-I'll kill you, and you, and you...<end>
-
-=>q90_original
-Everything must die!<end>
-
-=>q90
-Everything must die!<end>
-
-=>q91_original
-Oooh! I don't feel so good...<end>
-
-=>q91
-Oooh! I don't feel so good...<end>
-
-=>q92_original
-My tongue tastes funny.<end>
-
-=>q92
-My tongue tastes funny.<end>
-
-=>q93_original
-Uh-oh, it's belly-spilling time...<end>
-
-=>q93
-Uh-oh, it's belly-spilling time...<end>
-
-=>q94_original
-Don't kill me, I'm important!<end>
-
-=>q94
-Don't kill me, I'm important!<end>
-
-=>q95_original
-No, no, no, no, no...<end>
-
-=>q95
-No, no, no, no, no...<end>
-
-=>q96_original
-Spare my life, the universe needs me.<end>
-
-=>q96
-Spare my life, the universe needs me.<end>
-
-=>q97_original
-I'm getting outta dodge.<end>
-
-=>q97
-I'm getting outta dodge.<end>
-
-=>q98_original
-How many ribs are you supposed to have?<end>
-
-=>q98
-How many ribs are you supposed to have?<end>
-
-=>q99_original
-Ouch... It hurts like pain. ::Grabs chest.::<end>
-
-=>q99
-Ouch... It hurts like pain. ::Grabs chest.::<end>
-
-=>q100_original
-Arrgh... my ribs!<end>
-
-=>q100
-Arrgh... my ribs!<end>
-
-=>q101_original
-Get out of my head! It's not safe there.<end>
-
-=>q101
-Get out of my head! It's not safe there.<end>
-
-=>q102_original
-Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
-
-=>q102
-Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
-
-=>q103_original
-Spiders in my hair...<end>
-
-=>q103
-Spiders in my hair...<end>
-
-=>q104_original
-Uh-oh, I'm leaking that stuff again...<end>
-
-=>q104
-Uh-oh, I'm leaking that stuff again...<end>
-
-=>q105_original
-Someone get me a bucket. I'm leaking.<end>
-
-=>q105
-Someone get me a bucket. I'm leaking.<end>
-
-=>q106_original
-Mmm.. tastes like metal.<end>
-
-=>q106
-Mmm.. tastes like metal.<end>
-
-=>q107_original
-Didn't I kill you yesterday?<end>
-
-=>q107
-Didn't I kill you yesterday?<end>
-
-=>q108_original
-You smell purple.<end>
-
-=>q108
-You smell purple.<end>
-
-=>q109_original
-Are you... a figment of my imagination?<end>
-
-=>q109
-Are you... a figment of my imagination?<end>
-
-=>q110_original
-Come here, little talking mushroom.<end>
-
-=>q110
-Come here, little talking mushroom.<end>
-
-=>q111_original
-Are you lost?<end>
-
-=>q111
-Are you lost?<end>
-
-=>q112_original
-Oh no, I dreamt of this. We both die in the end...<end>
-
-=>q112
-Oh no, I dreamt of this. We both die in the end...<end>
-
-=>q113_original
-It's all in my head.<end>
-
-=>q113
-It's all in my head.<end>
-
-=>q114_original
-Don't worry, it'll all be over soon...<end>
-
-=>q114
-Don't worry, it'll all be over soon...<end>
-
-=>q115_original
-You will die...<end>
-
-=>q115
-You will die...<end>
-
-=>q116_original
-You look terrible.<end>
-
-=>q116
-You look terrible.<end>
-
-=>q117_original
-I'll tell them you fought bravely.<end>
-
-=>q117
-I'll tell them you fought bravely.<end>
-
-=>q118_original
-::Sings:: Die, die! Die, die, die, die, die... DIE!<end>
-
-=>q118
-::Sings:: Die, die! Die, die, die, die, die... DIE!<end>
-
-=>q119_original
-I hope you have something good on you.<end>
-
-=>q119
-I hope you have something good on you.<end>
-
-=>q120_original
-You caught some cool.<end>
-
-=>q120
-You caught some cool.<end>
-
-=>q121_original
-I like when they tremble.<end>
-
-=>q121
-I like when they tremble.<end>
-
-=>q122_original
-Frostyyyyyyy!<end>
-
-=>q122
-Frostyyyyyyy!<end>
-
-=>q123_original
-Shiver!<end>
-
-=>q123
-Shiver!<end>
-
-=>q124_original
-Chilly!<end>
-
-=>q124
-Chilly!<end>
-
-=>q125_original
-Ice!<end>
-
-=>q125
-Ice!<end>
-
-=>q126_original
-Immolation!<end>
-
-=>q126
-Immolation!<end>
-
-=>q127_original
-Pretty lights of pain...<end>
-
-=>q127
-Pretty lights of pain...<end>
-
-=>q128_original
-Wanna evaporate bright colors?<end>
-
-=>q128
-Wanna evaporate bright colors?<end>
-
-=>q129_original
-You burn like no other.<end>
-
-=>q129
-You burn like no other.<end>
-
-=>q130_original
-Let it burn. It's magnificent.<end>
-
-=>q130
-Let it burn. It's magnificent.<end>
-
-=>q131_original
-Need a light?<end>
-
-=>q131
-Need a light?<end>
-
-=>q132_original
-Barbecue! Yay!<end>
-
-=>q132
-Barbecue! Yay!<end>
-
-=>q133_original
-Who wants to be incinerated?<end>
-
-=>q133
-Who wants to be incinerated?<end>
-
-=>q134_original
-Where do you think you're going?<end>
-
-=>q134
-Where do you think you're going?<end>
-
-=>q135_original
-Ha! You're not going anywhere!<end>
-
-=>q135
-Ha! You're not going anywhere!<end>
-
-=>q136_original
-Stay put!<end>
-
-=>q136
-Stay put!<end>
-
-=>q137_original
-Stand still, will ya? ::Laughs.::<end>
-
-=>q137
-Stand still, will ya? ::Laughs.::<end>
-
-=>q138_original
-Come on, you're not gonna sleep now, are you?<end>
-
-=>q138
-Come on, you're not gonna sleep now, are you?<end>
-
-=>q139_original
-Wake up, sleepy!<end>
-
-=>q139
-Wake up, sleepy!<end>
-
-=>q140_original
-Come on, play with me!<end>
-
-=>q140
-Come on, play with me!<end>
-
-=>q141_original
-You're turning a bit green...<end>
-
-=>q141
-You're turning a bit green...<end>
-
-=>q142_original
-You sick?<end>
-
-=>q142
-You sick?<end>
-
-=>q143_original
-You got no-no stuff in your blood? Yay!<end>
-
-=>q143
-You got no-no stuff in your blood? Yay!<end>
-
-=>q144_original
-You don't look well... Ha!<end>
-
-=>q144
-You don't look well... Ha!<end>
-
-=>q145_original
-You're leaking. Ha! How embarrassing.<end>
-
-=>q145
-You're leaking. Ha! How embarrassing.<end>
-
-=>q146_original
-You got red coming out of you.<end>
-
-=>q146
-You got red coming out of you.<end>
-
-=>q147_original
-Red is my favorite color... No, wait, it's yellow!<end>
-
-=>q147
-Red is my favorite color... No, wait, it's yellow!<end>
-
-=>q148_original
-Missed me! Ha!<end>
-
-=>q148
-Missed me! Ha!<end>
-
-=>q149_original
-Can't you do better than that?<end>
-
-=>q149
-Can't you do better than that?<end>
-
-=>q150_original
-You suck!<end>
-
-=>q150
-You suck!<end>
-
-=>q151_original
-Noob!<end>
-
-=>q151
-Noob!<end>
-
-=>q152_original
-Learn to aim...<end>
-
-=>q152
-Learn to aim...<end>
-
-=>q153_original
-You missed, loser!<end>
-
-=>q153
-You missed, loser!<end>
-
-=>q154_original
-He-he-he. Much better...<end>
-
-=>q154
-He-he-he. Much better...<end>
-
-=>q155_original
-Aaahh, that's the stuff...<end>
-
-=>q155
-Aaahh, that's the stuff...<end>
-
-=>q156_original
-I feel, ooooooooooh - so much better!<end>
-
-=>q156
-I feel, ooooooooooh - so much better!<end>
-
-=>q157_original
-All patched up.<end>
-
-=>q157
-All patched up.<end>
-
-=>q158_original
-That's the stuff...<end>
-
-=>q158
-That's the stuff...<end>
-
-=>q159_original
-Aaah, I needed this...<end>
-
-=>q159
-Aaah, I needed this...<end>
-
-=>q160_original
-Oh, yes... I'm back in action!<end>
-
-=>q160
-Oh, yes... I'm back in action!<end>
-
-=>q161_original
-Life feels better...<end>
-
-=>q161
-Life feels better...<end>
-
-=>q162_original
-Aaah, I needed this...<end>
-
-=>q162
-Aaah, I needed this...<end>
-
-=>q163_original
-Yeah... that's better...<end>
-
-=>q163
-Yeah... that's better...<end>
-
-=>q164_original
-Mmm... brain juice of gods.<end>
-
-=>q164
-Mmm... brain juice of gods.<end>
-
-=>q165_original
-Ahh... blue is the tastiest of colors.<end>
-
-=>q165
-Ahh... blue is the tastiest of colors.<end>
-
-=>q166_original
-Whoo, let's get it on!<end>
-
-=>q166
-Whoo, let's get it on!<end>
-
-=>q167_original
-Oh, yeah!<end>
-
-=>q167
-Oh, yeah!<end>
-
-=>q168_original
-Sweet mind juice...<end>
-
-=>q168
-Sweet mind juice...<end>
-
-=>q169_original
-Let's keep the brain working!<end>
-
-=>q169
-Let's keep the brain working!<end>
-
-=>q170_original
-Power overwhelming!<end>
-
-=>q170
-Power overwhelming!<end>
-
-=>q171_original
-Oh, yes!<end>
-
-=>q171
-Oh, yes!<end>
-
-=>q172_original
-Mmmmm, more brainpower!<end>
-
-=>q172
-Mmmmm, more brainpower!<end>
-
-=>q173_original
-Ugh!<end>
-
-=>q173
-Ugh!<end>
-
-=>q174_original
-Aaargh!<end>
-
-=>q174
-Aaargh!<end>
-
-=>q175_original
-N-- No...<end>
-
-=>q175
-N-- No...<end>
-
-=>q176_original
-Aaaaah!<end>
-
-=>q176
-Aaaaah!<end>
-
-=>q177_original
-I... I...<end>
-
-=>q177
-I... I...<end>
-
-=>q178_original
-Hnnnn... Ugh...<end>
-
-=>q178
-Hnnnn... Ugh...<end>
-
-=>q179_original
-You...<end>
-
-=>q179
-You...<end>
-
-=>q180_original
-Not like this...<end>
-
-=>q180
-Not like this...<end>
-
-=>q181_original
-Chilled!<end>
-
-=>q181
-Chilled!<end>
-
-=>q182_original
-Burn-burn-burn!<end>
-
-=>q182
-Burn-burn-burn!<end>
-
-=>q183_original
-Die, hologram!<end>
-
-=>q183
-Die, hologram!<end>
-
-=>q184_original
-AAAAAAAA!<end>
-
-=>q184
-AAAAAAAA!<end>
-
-=>q185_original
-You are not real!<end>
-
-=>q185
-You are not real!<end>
-
-=>q186_original
-Let's go!<end>
-
-=>q186
-Let's go!<end>
-
-=>q187_original
-You shouldn't be here.<end>
-
-=>q187
-You shouldn't be here.<end>
-
-=>q188_original
-Die!<end>
-
-=>q188
-Die!<end>
-
-=>q189_original
-Happy deathday!<end>
-
-=>q189
-Happy deathday!<end>
-
-=>q190_original
-Someone ordered a knuckle sandwich?<end>
-
-=>q190
-Someone ordered a knuckle sandwich?<end>
-
-=>q191_original
-Eat fist!<end>
-
-=>q191
-Eat fist!<end>
-
-=>q192_original
-I'll beat you to a nice red pulp. Nice...<end>
-
-=>q192
-I'll beat you to a nice red pulp. Nice...<end>
-
-=>q193_original
-Pow-pow-pow!<end>
-
-=>q193
-Pow-pow-pow!<end>
-
-=>q194_original
-Thunk! You're it!<end>
-
-=>q194
-Thunk! You're it!<end>
-
-=>q195_original
-Hammer likes you.<end>
-
-=>q195
-Hammer likes you.<end>
-
-=>q196_original
-This is just like whack-a-psi bug!<end>
-
-=>q196
-This is just like whack-a-psi bug!<end>
-
-=>q197_original
-It tells me to break your skull.<end>
-
-=>q197
-It tells me to break your skull.<end>
-
-=>q198_original
-Bones are overrated anyway...<end>
-
-=>q198
-Bones are overrated anyway...<end>
-
-=>q199_original
-Hammer says hi!<end>
-
-=>q199
-Hammer says hi!<end>
-
-=>q200_original
-Smash!<end>
-
-=>q200
-Smash!<end>
-
-=>q201_original
-I'll carve you up like a mushroom cake!<end>
-
-=>q201
-I'll carve you up like a mushroom cake!<end>
-
-=>q202_original
-Do you like sliced meat?<end>
-
-=>q202
-Do you like sliced meat?<end>
-
-=>q203_original
-Red smiles are nice...<end>
-
-=>q203
-Red smiles are nice...<end>
-
-=>q204_original
-Feel the cold steel!<end>
-
-=>q204
-Feel the cold steel!<end>
-
-=>q205_original
-Let's play surgery!<end>
-
-=>q205
-Let's play surgery!<end>
-
-=>q206_original
-Slicin' time!<end>
-
-=>q206
-Slicin' time!<end>
-
-=>q207_original
-Bam!<end>
-
-=>q207
-Bam!<end>
-
-=>q208_original
-Eat lead!<end>
-
-=>q208
-Eat lead!<end>
-
-=>q209_original
-No one can outrun bullets!<end>
-
-=>q209
-No one can outrun bullets!<end>
-
-=>q210_original
-Fire!<end>
-
-=>q210
-Fire!<end>
-
-=>q211_original
-Say hello to my little friend!<end>
-
-=>q211
-Say hello to my little friend!<end>
-
-=>q212_original
-This bullet's got your name on it!<end>
-
-=>q212
-This bullet's got your name on it!<end>
-
-=>q213_original
-Time for some target practice...<end>
-
-=>q213
-Time for some target practice...<end>
-
-=>q214_original
-Here, have some bullets!<end>
-
-=>q214
-Here, have some bullets!<end>
-
-=>q215_original
-Aaaaaaaah! Yeah!<end>
-
-=>q215
-Aaaaaaaah! Yeah!<end>
-
-=>q216_original
-Say hello to my little friends!<end>
-
-=>q216
-Say hello to my little friends!<end>
-
-=>q217_original
-Eeeeeeeyaaaaah!<end>
-
-=>q217
-Eeeeeeeyaaaaah!<end>
-
-=>q218_original
-Feel the zap.<end>
-
-=>q218
-Feel the zap.<end>
-
-=>q219_original
-You'll be gone in a puff of smoke! ::Laughs.::<end>
-
-=>q219
-You'll be gone in a puff of smoke! ::Laughs.::<end>
-
-=>q220_original
-Poof! He-he...<end>
-
-=>q220
-Poof! He-he...<end>
-
-=>q221_original
-Check out my zapper!<end>
-
-=>q221
-Check out my zapper!<end>
-
-=>q222_original
-Zap!<end>
-
-=>q222
-Zap!<end>
-
-=>q223_original
-This'll tickle your atoms!<end>
-
-=>q223
-This'll tickle your atoms!<end>
-
-=>q224_original
-Green is nice.<end>
-
-=>q224
-Green is nice.<end>
-
-=>q225_original
-Let's melt something! He-he!<end>
-
-=>q225
-Let's melt something! He-he!<end>
-
-=>q226_original
-Like melting a choco-hopper!<end>
-
-=>q226
-Like melting a choco-hopper!<end>
-
-=>q227_original
-Does it tickle your insides?<end>
-
-=>q227
-Does it tickle your insides?<end>
-
-=>q228_original
-Liquefying!<end>
-
-=>q228
-Liquefying!<end>
-
-=>q229_original
-Whooooaaaaaa...<end>
-
-=>q229
-Whooooaaaaaa...<end>
-
-=>q230_original
-It's sludge-tastic!<end>
-
-=>q230
-It's sludge-tastic!<end>
-
-=>q231_original
-Catch!<end>
-
-=>q231
-Catch!<end>
-
-=>q232_original
-Get outta this one!<end>
-
-=>q232
-Get outta this one!<end>
-
-=>q233_original
-BOOOOOM!<end>
-
-=>q233
-BOOOOOM!<end>
-
-=>q234_original
-Here, hold this for me!<end>
-
-=>q234
-Here, hold this for me!<end>
-
-=>q235_original
-Boom in the hole!<end>
-
-=>q235
-Boom in the hole!<end>
-
-=>q236_original
-Hey, you! Catch!<end>
-
-=>q236
-Hey, you! Catch!<end>
-
-=>q237_original
-Bathe in the glow!<end>
-
-=>q237
-Bathe in the glow!<end>
-
-=>q238_original
-Immolation, te-he!<end>
-
-=>q238
-Immolation, te-he!<end>
-
-=>q239_original
-Wanna see a glowing carpet of no-walkie!?<end>
-
-=>q239
-Wanna see a glowing carpet of no-walkie!?<end>
-
-=>q240_original
-Lights out!<end>
-
-=>q240
-Lights out!<end>
-
-=>q241_original
-HA! You're powerless!<end>
-
-=>q241
-HA! You're powerless!<end>
-
-=>q242_original
-Let's turn the lights off!<end>
-
-=>q242
-Let's turn the lights off!<end>
-
-=>q243_original
-See if you can catch this!<end>
-
-=>q243
-See if you can catch this!<end>
-
-=>q244_original
-You might feel a sting...<end>
-
-=>q244
-You might feel a sting...<end>
-
-=>q245_original
-Another insect for my collection!<end>
-
-=>q245
-Another insect for my collection!<end>
-
-=>q246_original
-This is like darts, but with more death.<end>
-
-=>q246
-This is like darts, but with more death.<end>
-
-=>q247_original
-I'll put you on a wall, te-he!<end>
-
-=>q247
-I'll put you on a wall, te-he!<end>
-
-=>q248_original
-You wanna mind-dance with me?<end>
-
-=>q248
-You wanna mind-dance with me?<end>
-
-=>q249_original
-Brains! Brains!<end>
-
-=>q249
-Brains! Brains!<end>
-
-=>q250_original
-The power of brainpower, te-he!<end>
-
-=>q250
-The power of brainpower, te-he!<end>
-
-=>q251_original
-My mind can kick your mind's ass!<end>
-
-=>q251
-My mind can kick your mind's ass!<end>
-
-=>q252_original
-Lemme play with your mind...<end>
-
-=>q252
-Lemme play with your mind...<end>
-
-=>q253_original
-I'll make your neurons pop, te-he!<end>
-
-=>q253
-I'll make your neurons pop, te-he!<end>
-
-=>q254_original
-I'll turn your brain to mushy-mush!<end>
-
-=>q254
-I'll turn your brain to mushy-mush!<end>
-
-=>q255_original
-Mind fry!<end>
-
-=>q255
-Mind fry!<end>
-
-=>q256_original
-I'm gonna mind-slap you from here to Overrail!<end>
-
-=>q256
-I'm gonna mind-slap you from here to Overrail!<end>
-
-=>q257_original
-Mind punch! Ha!<end>
-
-=>q257
-Mind punch! Ha!<end>
-
-=>q258_original
-Ha! Try blocking *this*!<end>
-
-=>q258
-Ha! Try blocking *this*!<end>
-
-=>q259_original
-Dodge that!<end>
-
-=>q259
-Dodge that!<end>
-
-=>q260_original
-Paaaaaain incoming!<end>
-
-=>q260
-Paaaaaain incoming!<end>
-
-=>q261_original
-Feel the blow!<end>
-
-=>q261
-Feel the blow!<end>
-
-=>q262_original
-High voltage fun! Fun!<end>
-
-=>q262
-High voltage fun! Fun!<end>
-
-=>q263_original
-Get ready for some shakin'!<end>
-
-=>q263
-Get ready for some shakin'!<end>
-
-=>q264_original
-Bzzt! Bzzt!<end>
-
-=>q264
-Bzzt! Bzzt!<end>
-
-=>q265_original
-Lick the power!<end>
-
-=>q265
-Lick the power!<end>
-
-=>q266_original
-The lights...<end>
-
-=>q266
-The lights...<end>
-
-=>q267_original
-This'll jiggle your innards, heh!<end>
-
-=>q267
-This'll jiggle your innards, heh!<end>
-
-=>q268_original
-Need a charge?<end>
-
-=>q268
-Need a charge?<end>
-
-=>q269_original
-Charging up!<end>
-
-=>q269
-Charging up!<end>
-
-=>q270_original
-Here's something for your tick-tock!<end>
-
-=>q270
-Here's something for your tick-tock!<end>
-
-=>q271_original
-Now you don't see me, he-he-he.<end>
-
-=>q271
-Now you don't see me, he-he-he.<end>
-
-=>q272_original
-Watch this carefully!<end>
-
-=>q272
-Watch this carefully!<end>
-
-=>q273_original
-Look at this, look!<end>
-
-=>q273
-Look at this, look!<end>
-
-=>q274_original
-Nighty-night!<end>
-
-=>q274
-Nighty-night!<end>
-
-=>q275_original
-Hope you like frostybite, he-he-he!<end>
-
-=>q275
-Hope you like frostybite, he-he-he!<end>
-
-=>q276_original
-Frozen fingers easily break off...<end>
-
-=>q276
-Frozen fingers easily break off...<end>
-
-=>q277_original
-Cool it!<end>
-
-=>q277
-Cool it!<end>
-
-=>q278_original
-Do you like your bones iced or frozen?<end>
-
-=>q278
-Do you like your bones iced or frozen?<end>
-
-=>q279_original
-Behave icely!<end>
-
-=>q279
-Behave icely!<end>
-
-=>q280_original
-Freeze! Te-he!<end>
-
-=>q280
-Freeze! Te-he!<end>
-
-=>q281_original
-Helloooooooo? Can you hear me in there?<end>
-
-=>q281
-Helloooooooo? Can you hear me in there?<end>
-
-=>q282_original
-You are gonna be so cool, te-he.<end>
-
-=>q282
-You are gonna be so cool, te-he.<end>
-
-=>q283_original
-Iciness!<end>
-
-=>q283
-Iciness!<end>
-
-=>q284_original
-Let's start a fire!<end>
-
-=>q284
-Let's start a fire!<end>
-
-=>q285_original
-Here - fire!<end>
-
-=>q285
-Here - fire!<end>
-
-=>q286_original
-Look, an unlit torch!<end>
-
-=>q286
-Look, an unlit torch!<end>
-
-=>q287_original
-How about I burn that smile off your face!?<end>
-
-=>q287
-How about I burn that smile off your face!?<end>
-
-=>q288_original
-Temperature goes up!<end>
-
-=>q288
-Temperature goes up!<end>
-
-=>q289_original
-You could use some more fire.<end>
-
-=>q289
-You could use some more fire.<end>
-
-=>q290_original
-Scorchy time!<end>
-
-=>q290
-Scorchy time!<end>
-
-=>q291_original
-Lemme warm you up.<end>
-
-=>q291
-Lemme warm you up.<end>
-
-=>q292_original
-You are on fire!<end>
-
-=>q292
-You are on fire!<end>
-
-=>q293_original
-I brought ice.<end>
-
-=>q293
-I brought ice.<end>
-
-=>q294_original
-You're gonna burn-burn-burn!<end>
-
-=>q294
-You're gonna burn-burn-burn!<end>
-
-=>q295_original
-Cold is gold!<end>
-
-=>q295
-Cold is gold!<end>
-
-=>q296_original
-Destroy the machine thing!<end>
-
-=>q296
-Destroy the machine thing!<end>
-
-=>q297_original
-I'll unplug you.<end>
-
-=>q297
-I'll unplug you.<end>
-
-=>q298_original
-Die, metal creature!<end>
-
-=>q298
-Die, metal creature!<end>
-
-=>q299_original
-Off to the scrapyard!<end>
-
-=>q299
-Off to the scrapyard!<end>
-
-=>q300_original
-Stop resisting. You're food.<end>
-
-=>q300
-Stop resisting. You're food.<end>
-
-=>q301_original
-I hate you, creature.<end>
-
-=>q301
-I hate you, creature.<end>
-
-=>q302_original
-Outta my world, animal!<end>
-
-=>q302
-Outta my world, animal!<end>
-
-=>q303_original
-There's people here. I don't know if they're real, but send help.<end>
-
-=>q303
-There's people here. I don't know if they're real, but send help.<end>
-
-=>q304_original
-Everyone! We got company!<end>
-
-=>q304
-Everyone! We got company!<end>
-
-=>q305_original
-Help!<end>
-
-=>q305
-Help!<end>
-
-=>q306_original
-The One has come! Help!<end>
-
-=>q306
-The One has come! Help!<end>
-
-=>q307_original
-I need some help over here! It's $(#him/her)!<end>
-
-=>q307
-I need some help over here! It's $(#him/her)!<end>
-
-=>q308_original
-Must be the wind...<end>
-
-=>q308
-Must be the wind...<end>
-
-=>q309_original
-Probably just rats, but let's check anyway.<end>
-
-=>q309
-Probably just rats, but let's check anyway.<end>
-
-=>q310_original
-Who's there?<end>
-
-=>q310
-Who's there?<end>
-
-=>q311_original
-Everything... is... moving... so...<end>
-
-=>q311
-Everything... is... moving... so...<end>
-
-=>q312_original
-My hands can twist the universe!<end>
-
-=>q312
-My hands can twist the universe!<end>
-
-=>q313_original
-Time, what is time?<end>
-
-=>q313
-Time, what is time?<end>
-
-=>q314_original
-Open wide!<end>
-
-=>q314
-Open wide!<end>
-
-=>q315_original
-Stab, stab, stab!<end>
-
-=>q315
-Stab, stab, stab!<end>
-
-=>q316_original
-Embrace the Spear of Destiny!<end>
-
-=>q316
-Embrace the Spear of Destiny!<end>
-
-=>q317_original
-I'm gonna chop you into tiny pieces!<end>
-
-=>q317
-I'm gonna chop you into tiny pieces!<end>
-
-=>q318_original
-Your head is gonna roll! Rooool!<end>
-
-=>q318
-Your head is gonna roll! Rooool!<end>
-
-=>q319_original
-One, two - no limbs for you!<end>
-
-=>q319
-One, two - no limbs for you!<end>
-
-=>q320_original
-Boom! Headshot!<end>
-
-=>q320
-Boom! Headshot!<end>
-
-=>q321_original
-This is my boomstick!<end>
-
-=>q321
-This is my boomstick!<end>
-
-=>q322_original
-It feels like punching someone from a distance.<end>
-
-=>q322
-It feels like punching someone from a distance.<end>
-
+=>q1_original
+What was that? Did you hit me?<end>
+
+=>q1
+What was that? Did you hit me?<end>
+
+=>q2_original
+Heh...<end>
+
+=>q2
+Heh...<end>
+
+=>q3_original
+Hehe, that tickles.<end>
+
+=>q3
+Hehe, that tickles.<end>
+
+=>q4_original
+Nope! Didn't feel that at all.<end>
+
+=>q4
+Nope! Didn't feel that at all.<end>
+
+=>q5_original
+You're kind of a wimp aren't you?<end>
+
+=>q5
+You're kind of a wimp aren't you?<end>
+
+=>q6_original
+::Laughs maniacally.:: You fool.<end>
+
+=>q6
+::Laughs maniacally.:: You fool.<end>
+
+=>q7_original
+Are you done?<end>
+
+=>q7
+Are you done?<end>
+
+=>q8_original
+Shield of Zandor!<end>
+
+=>q8
+Shield of Zandor!<end>
+
+=>q9_original
+Color protects me!<end>
+
+=>q9
+Color protects me!<end>
+
+=>q10_original
+Denied!<end>
+
+=>q10
+Denied!<end>
+
+=>q11_original
+HA!<end>
+
+=>q11
+HA!<end>
+
+=>q12_original
+Whoa, not today!<end>
+
+=>q12
+Whoa, not today!<end>
+
+=>q13_original
+Ouch!<end>
+
+=>q13
+Ouch!<end>
+
+=>q14_original
+Arrgh!<end>
+
+=>q14
+Arrgh!<end>
+
+=>q15_original
+Ugh!<end>
+
+=>q15
+Ugh!<end>
+
+=>q16_original
+Hey, that hurt!<end>
+
+=>q16
+Hey, that hurt!<end>
+
+=>q17_original
+Stop it!<end>
+
+=>q17
+Stop it!<end>
+
+=>q18_original
+Ow!<end>
+
+=>q18
+Ow!<end>
+
+=>q19_original
+I'll bite your fingers off!<end>
+
+=>q19
+I'll bite your fingers off!<end>
+
+=>q20_original
+Go to hell!<end>
+
+=>q20
+Go to hell!<end>
+
+=>q21_original
+Eat bugs, bug-eater!<end>
+
+=>q21
+Eat bugs, bug-eater!<end>
+
+=>q22_original
+AAARGH! I can't feel my tail anymore!<end>
+
+=>q22
+AAARGH! I can't feel my tail anymore!<end>
+
+=>q23_original
+Argh! That's gonna leave a big scar...<end>
+
+=>q23
+Argh! That's gonna leave a big scar...<end>
+
+=>q24_original
+::Pukes blood.:: I'll... laugh about this... tomorrow...<end>
+
+=>q24
+::Pukes blood.:: I'll... laugh about this... tomorrow...<end>
+
+=>q25_original
+My face!<end>
+
+=>q25
+My face!<end>
+
+=>q26_original
+The pain...<end>
+
+=>q26
+The pain...<end>
+
+=>q27_original
+This is not happening... this is not happening...<end>
+
+=>q27
+This is not happening... this is not happening...<end>
+
+=>q28_original
+::Gasps for air.:: You knocked... my... air... out...<end>
+
+=>q28
+::Gasps for air.:: You knocked... my... air... out...<end>
+
+=>q29_original
+Ugh... I think that broke something...<end>
+
+=>q29
+Ugh... I think that broke something...<end>
+
+=>q30_original
+Damn it, you hit hard...<end>
+
+=>q30
+Damn it, you hit hard...<end>
+
+=>q31_original
+Argh, I'm leaking red.<end>
+
+=>q31
+Argh, I'm leaking red.<end>
+
+=>q32_original
+That thing is bloody sharp!<end>
+
+=>q32
+That thing is bloody sharp!<end>
+
+=>q33_original
+I hope that didn't hit any of the important bits...<end>
+
+=>q33
+I hope that didn't hit any of the important bits...<end>
+
+=>q34_original
+AAAAAAH! It burns!<end>
+
+=>q34
+AAAAAAH! It burns!<end>
+
+=>q35_original
+Ow, ow, ow, ow!<end>
+
+=>q35
+Ow, ow, ow, ow!<end>
+
+=>q36_original
+AAARGH! Make it stop!<end>
+
+=>q36
+AAARGH! Make it stop!<end>
+
+=>q37_original
+Cold... so... cold...<end>
+
+=>q37
+Cold... so... cold...<end>
+
+=>q38_original
+Cold-cold-cold...<end>
+
+=>q38
+Cold-cold-cold...<end>
+
+=>q39_original
+The cold... Grr-rrr...<end>
+
+=>q39
+The cold... Grr-rrr...<end>
+
+=>q40_original
+I can't... move... I... I... Hnnnn...<end>
+
+=>q40
+I can't... move... I... I... Hnnnn...<end>
+
+=>q41_original
+Mmm... hmhmh...<end>
+
+=>q41
+Mmm... hmhmh...<end>
+
+=>q42_original
+I feel... the... cold... in... my... bones...<end>
+
+=>q42
+I feel... the... cold... in... my... bones...<end>
+
+=>q43_original
+Oh, I feel so numb...<end>
+
+=>q43
+Oh, I feel so numb...<end>
+
+=>q44_original
+I feel dizzy...<end>
+
+=>q44
+I feel dizzy...<end>
+
+=>q45_original
+I can't fweel muh fwace...<end>
+
+=>q45
+I can't fweel muh fwace...<end>
+
+=>q46_original
+Sleepy... so sleepy...<end>
+
+=>q46
+Sleepy... so sleepy...<end>
+
+=>q47_original
+I can't see! Aaaarghhh!<end>
+
+=>q47
+I can't see! Aaaarghhh!<end>
+
+=>q48_original
+It's time! The world has ended!<end>
+
+=>q48
+It's time! The world has ended!<end>
+
+=>q49_original
+Stop messing with my brain!<end>
+
+=>q49
+Stop messing with my brain!<end>
+
+=>q50_original
+My head is expanding!<end>
+
+=>q50
+My head is expanding!<end>
+
+=>q51_original
+My brain juices are being squeezed out!<end>
+
+=>q51
+My brain juices are being squeezed out!<end>
+
+=>q52_original
+::Grabs head.:: AAAARRGH! Stop it!<end>
+
+=>q52
+::Grabs head.:: AAAARRGH! Stop it!<end>
+
+=>q53_original
+Stop poking me!<end>
+
+=>q53
+Stop poking me!<end>
+
+=>q54_original
+Ugh! That hurt...<end>
+
+=>q54
+Ugh! That hurt...<end>
+
+=>q55_original
+Ouch! Aim that crossbow elsewhere!<end>
+
+=>q55
+Ouch! Aim that crossbow elsewhere!<end>
+
+=>q56_original
+My knee!<end>
+
+=>q56
+My knee!<end>
+
+=>q57_original
+That's a low blow...<end>
+
+=>q57
+That's a low blow...<end>
+
+=>q58_original
+No... My legs don't work right...<end>
+
+=>q58
+No... My legs don't work right...<end>
+
+=>q59_original
+My boots feel weird.<end>
+
+=>q59
+My boots feel weird.<end>
+
+=>q60_original
+Ouch, the ground is getting sharp!<end>
+
+=>q60
+Ouch, the ground is getting sharp!<end>
+
+=>q61_original
+AAAAAARRGH! I think I can see the bone!<end>
+
+=>q61
+AAAAAARRGH! I think I can see the bone!<end>
+
+=>q62_original
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q62
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q63_original
+I'm crippled!<end>
+
+=>q63
+I'm crippled!<end>
+
+=>q64_original
+No! Ow... The ground is biting!<end>
+
+=>q64
+No! Ow... The ground is biting!<end>
+
+=>q65_original
+::Coughs.::<end>
+
+=>q65
+::Coughs.::<end>
+
+=>q66_original
+It's so stuffy in here... ::Coughs.::<end>
+
+=>q66
+It's so stuffy in here... ::Coughs.::<end>
+
+=>q67_original
+Aaaah... can't... breathe...<end>
+
+=>q67
+Aaaah... can't... breathe...<end>
+
+=>q68_original
+::Gasps for air.::<end>
+
+=>q68
+::Gasps for air.::<end>
+
+=>q69_original
+I can see the light...<end>
+
+=>q69
+I can see the light...<end>
+
+=>q70_original
+Mom, is that you?<end>
+
+=>q70
+Mom, is that you?<end>
+
+=>q71_original
+I knew this day would come... <end>
+
+=>q71
+I knew this day would come... <end>
+
+=>q72_original
+Ha! Death will only make me stronger!<end>
+
+=>q72
+Ha! Death will only make me stronger!<end>
+
+=>q73_original
+I will haunt you forever!<end>
+
+=>q73
+I will haunt you forever!<end>
+
+=>q74_original
+I'm so thirsty...<end>
+
+=>q74
+I'm so thirsty...<end>
+
+=>q75_original
+Stop, drop, roll... STOP, DROP, ROLL!<end>
+
+=>q75
+Stop, drop, roll... STOP, DROP, ROLL!<end>
+
+=>q76_original
+It burns! Make it stop! Arrrgh!<end>
+
+=>q76
+It burns! Make it stop! Arrrgh!<end>
+
+=>q77_original
+NOOOOO! I'M ON FIRE!<end>
+
+=>q77
+NOOOOO! I'M ON FIRE!<end>
+
+=>q78_original
+Put it out! Put it out!<end>
+
+=>q78
+Put it out! Put it out!<end>
+
+=>q79_original
+It feels so different on this side!<end>
+
+=>q79
+It feels so different on this side!<end>
+
+=>q80_original
+I can see it now - the world will burn!<end>
+
+=>q80
+I can see it now - the world will burn!<end>
+
+=>q81_original
+I can...barely... move...<end>
+
+=>q81
+I can...barely... move...<end>
+
+=>q82_original
+Brrrrr... Cold...<end>
+
+=>q82
+Brrrrr... Cold...<end>
+
+=>q83_original
+::Shivers.:: Damn... I feel so cold...<end>
+
+=>q83
+::Shivers.:: Damn... I feel so cold...<end>
+
+=>q84_original
+Darn it, I'm stuck!<end>
+
+=>q84
+Darn it, I'm stuck!<end>
+
+=>q85_original
+I can't move!<end>
+
+=>q85
+I can't move!<end>
+
+=>q86_original
+::Struggles to move.::<end>
+
+=>q86
+::Struggles to move.::<end>
+
+=>q87_original
+Let me go!<end>
+
+=>q87
+Let me go!<end>
+
+=>q88_original
+::Sings:: Die! Die! Die! Diiie!<end>
+
+=>q88
+::Sings:: Die! Die! Die! Diiie!<end>
+
+=>q89_original
+I'll kill you, and you, and you...<end>
+
+=>q89
+I'll kill you, and you, and you...<end>
+
+=>q90_original
+Everything must die!<end>
+
+=>q90
+Everything must die!<end>
+
+=>q91_original
+Oooh! I don't feel so good...<end>
+
+=>q91
+Oooh! I don't feel so good...<end>
+
+=>q92_original
+My tongue tastes funny.<end>
+
+=>q92
+My tongue tastes funny.<end>
+
+=>q93_original
+Uh-oh, it's belly-spilling time...<end>
+
+=>q93
+Uh-oh, it's belly-spilling time...<end>
+
+=>q94_original
+Don't kill me, I'm important!<end>
+
+=>q94
+Don't kill me, I'm important!<end>
+
+=>q95_original
+No, no, no, no, no...<end>
+
+=>q95
+No, no, no, no, no...<end>
+
+=>q96_original
+Spare my life, the universe needs me.<end>
+
+=>q96
+Spare my life, the universe needs me.<end>
+
+=>q97_original
+I'm getting outta dodge.<end>
+
+=>q97
+I'm getting outta dodge.<end>
+
+=>q98_original
+How many ribs are you supposed to have?<end>
+
+=>q98
+How many ribs are you supposed to have?<end>
+
+=>q99_original
+Ouch... It hurts like pain. ::Grabs chest.::<end>
+
+=>q99
+Ouch... It hurts like pain. ::Grabs chest.::<end>
+
+=>q100_original
+Arrgh... my ribs!<end>
+
+=>q100
+Arrgh... my ribs!<end>
+
+=>q101_original
+Get out of my head! It's not safe there.<end>
+
+=>q101
+Get out of my head! It's not safe there.<end>
+
+=>q102_original
+Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
+
+=>q102
+Oh, you won't have me. You! Won't! Have! Meeeee-heheh!<end>
+
+=>q103_original
+Spiders in my hair...<end>
+
+=>q103
+Spiders in my hair...<end>
+
+=>q104_original
+Uh-oh, I'm leaking that stuff again...<end>
+
+=>q104
+Uh-oh, I'm leaking that stuff again...<end>
+
+=>q105_original
+Someone get me a bucket. I'm leaking.<end>
+
+=>q105
+Someone get me a bucket. I'm leaking.<end>
+
+=>q106_original
+Mmm.. tastes like metal.<end>
+
+=>q106
+Mmm.. tastes like metal.<end>
+
+=>q107_original
+Didn't I kill you yesterday?<end>
+
+=>q107
+Didn't I kill you yesterday?<end>
+
+=>q108_original
+You smell purple.<end>
+
+=>q108
+You smell purple.<end>
+
+=>q109_original
+Are you... a figment of my imagination?<end>
+
+=>q109
+Are you... a figment of my imagination?<end>
+
+=>q110_original
+Come here, little talking mushroom.<end>
+
+=>q110
+Come here, little talking mushroom.<end>
+
+=>q111_original
+Are you lost?<end>
+
+=>q111
+Are you lost?<end>
+
+=>q112_original
+Oh no, I dreamt of this. We both die in the end...<end>
+
+=>q112
+Oh no, I dreamt of this. We both die in the end...<end>
+
+=>q113_original
+It's all in my head.<end>
+
+=>q113
+It's all in my head.<end>
+
+=>q114_original
+Don't worry, it'll all be over soon...<end>
+
+=>q114
+Don't worry, it'll all be over soon...<end>
+
+=>q115_original
+You will die...<end>
+
+=>q115
+You will die...<end>
+
+=>q116_original
+You look terrible.<end>
+
+=>q116
+You look terrible.<end>
+
+=>q117_original
+I'll tell them you fought bravely.<end>
+
+=>q117
+I'll tell them you fought bravely.<end>
+
+=>q118_original
+::Sings:: Die, die! Die, die, die, die, die... DIE!<end>
+
+=>q118
+::Sings:: Die, die! Die, die, die, die, die... DIE!<end>
+
+=>q119_original
+I hope you have something good on you.<end>
+
+=>q119
+I hope you have something good on you.<end>
+
+=>q120_original
+You caught some cool.<end>
+
+=>q120
+You caught some cool.<end>
+
+=>q121_original
+I like when they tremble.<end>
+
+=>q121
+I like when they tremble.<end>
+
+=>q122_original
+Frostyyyyyyy!<end>
+
+=>q122
+Frostyyyyyyy!<end>
+
+=>q123_original
+Shiver!<end>
+
+=>q123
+Shiver!<end>
+
+=>q124_original
+Chilly!<end>
+
+=>q124
+Chilly!<end>
+
+=>q125_original
+Ice!<end>
+
+=>q125
+Ice!<end>
+
+=>q126_original
+Immolation!<end>
+
+=>q126
+Immolation!<end>
+
+=>q127_original
+Pretty lights of pain...<end>
+
+=>q127
+Pretty lights of pain...<end>
+
+=>q128_original
+Wanna evaporate bright colors?<end>
+
+=>q128
+Wanna evaporate bright colors?<end>
+
+=>q129_original
+You burn like no other.<end>
+
+=>q129
+You burn like no other.<end>
+
+=>q130_original
+Let it burn. It's magnificent.<end>
+
+=>q130
+Let it burn. It's magnificent.<end>
+
+=>q131_original
+Need a light?<end>
+
+=>q131
+Need a light?<end>
+
+=>q132_original
+Barbecue! Yay!<end>
+
+=>q132
+Barbecue! Yay!<end>
+
+=>q133_original
+Who wants to be incinerated?<end>
+
+=>q133
+Who wants to be incinerated?<end>
+
+=>q134_original
+Where do you think you're going?<end>
+
+=>q134
+Where do you think you're going?<end>
+
+=>q135_original
+Ha! You're not going anywhere!<end>
+
+=>q135
+Ha! You're not going anywhere!<end>
+
+=>q136_original
+Stay put!<end>
+
+=>q136
+Stay put!<end>
+
+=>q137_original
+Stand still, will ya? ::Laughs.::<end>
+
+=>q137
+Stand still, will ya? ::Laughs.::<end>
+
+=>q138_original
+Come on, you're not gonna sleep now, are you?<end>
+
+=>q138
+Come on, you're not gonna sleep now, are you?<end>
+
+=>q139_original
+Wake up, sleepy!<end>
+
+=>q139
+Wake up, sleepy!<end>
+
+=>q140_original
+Come on, play with me!<end>
+
+=>q140
+Come on, play with me!<end>
+
+=>q141_original
+You're turning a bit green...<end>
+
+=>q141
+You're turning a bit green...<end>
+
+=>q142_original
+You sick?<end>
+
+=>q142
+You sick?<end>
+
+=>q143_original
+You got no-no stuff in your blood? Yay!<end>
+
+=>q143
+You got no-no stuff in your blood? Yay!<end>
+
+=>q144_original
+You don't look well... Ha!<end>
+
+=>q144
+You don't look well... Ha!<end>
+
+=>q145_original
+You're leaking. Ha! How embarrassing.<end>
+
+=>q145
+You're leaking. Ha! How embarrassing.<end>
+
+=>q146_original
+You got red coming out of you.<end>
+
+=>q146
+You got red coming out of you.<end>
+
+=>q147_original
+Red is my favorite color... No, wait, it's yellow!<end>
+
+=>q147
+Red is my favorite color... No, wait, it's yellow!<end>
+
+=>q148_original
+Missed me! Ha!<end>
+
+=>q148
+Missed me! Ha!<end>
+
+=>q149_original
+Can't you do better than that?<end>
+
+=>q149
+Can't you do better than that?<end>
+
+=>q150_original
+You suck!<end>
+
+=>q150
+You suck!<end>
+
+=>q151_original
+Noob!<end>
+
+=>q151
+Noob!<end>
+
+=>q152_original
+Learn to aim...<end>
+
+=>q152
+Learn to aim...<end>
+
+=>q153_original
+You missed, loser!<end>
+
+=>q153
+You missed, loser!<end>
+
+=>q154_original
+He-he-he. Much better...<end>
+
+=>q154
+He-he-he. Much better...<end>
+
+=>q155_original
+Aaahh, that's the stuff...<end>
+
+=>q155
+Aaahh, that's the stuff...<end>
+
+=>q156_original
+I feel, ooooooooooh - so much better!<end>
+
+=>q156
+I feel, ooooooooooh - so much better!<end>
+
+=>q157_original
+All patched up.<end>
+
+=>q157
+All patched up.<end>
+
+=>q158_original
+That's the stuff...<end>
+
+=>q158
+That's the stuff...<end>
+
+=>q159_original
+Aaah, I needed this...<end>
+
+=>q159
+Aaah, I needed this...<end>
+
+=>q160_original
+Oh, yes... I'm back in action!<end>
+
+=>q160
+Oh, yes... I'm back in action!<end>
+
+=>q161_original
+Life feels better...<end>
+
+=>q161
+Life feels better...<end>
+
+=>q162_original
+Aaah, I needed this...<end>
+
+=>q162
+Aaah, I needed this...<end>
+
+=>q163_original
+Yeah... that's better...<end>
+
+=>q163
+Yeah... that's better...<end>
+
+=>q164_original
+Mmm... brain juice of gods.<end>
+
+=>q164
+Mmm... brain juice of gods.<end>
+
+=>q165_original
+Ahh... blue is the tastiest of colors.<end>
+
+=>q165
+Ahh... blue is the tastiest of colors.<end>
+
+=>q166_original
+Whoo, let's get it on!<end>
+
+=>q166
+Whoo, let's get it on!<end>
+
+=>q167_original
+Oh, yeah!<end>
+
+=>q167
+Oh, yeah!<end>
+
+=>q168_original
+Sweet mind juice...<end>
+
+=>q168
+Sweet mind juice...<end>
+
+=>q169_original
+Let's keep the brain working!<end>
+
+=>q169
+Let's keep the brain working!<end>
+
+=>q170_original
+Power overwhelming!<end>
+
+=>q170
+Power overwhelming!<end>
+
+=>q171_original
+Oh, yes!<end>
+
+=>q171
+Oh, yes!<end>
+
+=>q172_original
+Mmmmm, more brainpower!<end>
+
+=>q172
+Mmmmm, more brainpower!<end>
+
+=>q173_original
+Ugh!<end>
+
+=>q173
+Ugh!<end>
+
+=>q174_original
+Aaargh!<end>
+
+=>q174
+Aaargh!<end>
+
+=>q175_original
+N-- No...<end>
+
+=>q175
+N-- No...<end>
+
+=>q176_original
+Aaaaah!<end>
+
+=>q176
+Aaaaah!<end>
+
+=>q177_original
+I... I...<end>
+
+=>q177
+I... I...<end>
+
+=>q178_original
+Hnnnn... Ugh...<end>
+
+=>q178
+Hnnnn... Ugh...<end>
+
+=>q179_original
+You...<end>
+
+=>q179
+You...<end>
+
+=>q180_original
+Not like this...<end>
+
+=>q180
+Not like this...<end>
+
+=>q181_original
+Chilled!<end>
+
+=>q181
+Chilled!<end>
+
+=>q182_original
+Burn-burn-burn!<end>
+
+=>q182
+Burn-burn-burn!<end>
+
+=>q183_original
+Die, hologram!<end>
+
+=>q183
+Die, hologram!<end>
+
+=>q184_original
+AAAAAAAA!<end>
+
+=>q184
+AAAAAAAA!<end>
+
+=>q185_original
+You are not real!<end>
+
+=>q185
+You are not real!<end>
+
+=>q186_original
+Let's go!<end>
+
+=>q186
+Let's go!<end>
+
+=>q187_original
+You shouldn't be here.<end>
+
+=>q187
+You shouldn't be here.<end>
+
+=>q188_original
+Die!<end>
+
+=>q188
+Die!<end>
+
+=>q189_original
+Happy deathday!<end>
+
+=>q189
+Happy deathday!<end>
+
+=>q190_original
+Someone ordered a knuckle sandwich?<end>
+
+=>q190
+Someone ordered a knuckle sandwich?<end>
+
+=>q191_original
+Eat fist!<end>
+
+=>q191
+Eat fist!<end>
+
+=>q192_original
+I'll beat you to a nice red pulp. Nice...<end>
+
+=>q192
+I'll beat you to a nice red pulp. Nice...<end>
+
+=>q193_original
+Pow-pow-pow!<end>
+
+=>q193
+Pow-pow-pow!<end>
+
+=>q194_original
+Thunk! You're it!<end>
+
+=>q194
+Thunk! You're it!<end>
+
+=>q195_original
+Hammer likes you.<end>
+
+=>q195
+Hammer likes you.<end>
+
+=>q196_original
+This is just like whack-a-psi bug!<end>
+
+=>q196
+This is just like whack-a-psi bug!<end>
+
+=>q197_original
+It tells me to break your skull.<end>
+
+=>q197
+It tells me to break your skull.<end>
+
+=>q198_original
+Bones are overrated anyway...<end>
+
+=>q198
+Bones are overrated anyway...<end>
+
+=>q199_original
+Hammer says hi!<end>
+
+=>q199
+Hammer says hi!<end>
+
+=>q200_original
+Smash!<end>
+
+=>q200
+Smash!<end>
+
+=>q201_original
+I'll carve you up like a mushroom cake!<end>
+
+=>q201
+I'll carve you up like a mushroom cake!<end>
+
+=>q202_original
+Do you like sliced meat?<end>
+
+=>q202
+Do you like sliced meat?<end>
+
+=>q203_original
+Red smiles are nice...<end>
+
+=>q203
+Red smiles are nice...<end>
+
+=>q204_original
+Feel the cold steel!<end>
+
+=>q204
+Feel the cold steel!<end>
+
+=>q205_original
+Let's play surgery!<end>
+
+=>q205
+Let's play surgery!<end>
+
+=>q206_original
+Slicin' time!<end>
+
+=>q206
+Slicin' time!<end>
+
+=>q207_original
+Bam!<end>
+
+=>q207
+Bam!<end>
+
+=>q208_original
+Eat lead!<end>
+
+=>q208
+Eat lead!<end>
+
+=>q209_original
+No one can outrun bullets!<end>
+
+=>q209
+No one can outrun bullets!<end>
+
+=>q210_original
+Fire!<end>
+
+=>q210
+Fire!<end>
+
+=>q211_original
+Say hello to my little friend!<end>
+
+=>q211
+Say hello to my little friend!<end>
+
+=>q212_original
+This bullet's got your name on it!<end>
+
+=>q212
+This bullet's got your name on it!<end>
+
+=>q213_original
+Time for some target practice...<end>
+
+=>q213
+Time for some target practice...<end>
+
+=>q214_original
+Here, have some bullets!<end>
+
+=>q214
+Here, have some bullets!<end>
+
+=>q215_original
+Aaaaaaaah! Yeah!<end>
+
+=>q215
+Aaaaaaaah! Yeah!<end>
+
+=>q216_original
+Say hello to my little friends!<end>
+
+=>q216
+Say hello to my little friends!<end>
+
+=>q217_original
+Eeeeeeeyaaaaah!<end>
+
+=>q217
+Eeeeeeeyaaaaah!<end>
+
+=>q218_original
+Feel the zap.<end>
+
+=>q218
+Feel the zap.<end>
+
+=>q219_original
+You'll be gone in a puff of smoke! ::Laughs.::<end>
+
+=>q219
+You'll be gone in a puff of smoke! ::Laughs.::<end>
+
+=>q220_original
+Poof! He-he...<end>
+
+=>q220
+Poof! He-he...<end>
+
+=>q221_original
+Check out my zapper!<end>
+
+=>q221
+Check out my zapper!<end>
+
+=>q222_original
+Zap!<end>
+
+=>q222
+Zap!<end>
+
+=>q223_original
+This'll tickle your atoms!<end>
+
+=>q223
+This'll tickle your atoms!<end>
+
+=>q224_original
+Green is nice.<end>
+
+=>q224
+Green is nice.<end>
+
+=>q225_original
+Let's melt something! He-he!<end>
+
+=>q225
+Let's melt something! He-he!<end>
+
+=>q226_original
+Like melting a choco-hopper!<end>
+
+=>q226
+Like melting a choco-hopper!<end>
+
+=>q227_original
+Does it tickle your insides?<end>
+
+=>q227
+Does it tickle your insides?<end>
+
+=>q228_original
+Liquefying!<end>
+
+=>q228
+Liquefying!<end>
+
+=>q229_original
+Whooooaaaaaa...<end>
+
+=>q229
+Whooooaaaaaa...<end>
+
+=>q230_original
+It's sludge-tastic!<end>
+
+=>q230
+It's sludge-tastic!<end>
+
+=>q231_original
+Catch!<end>
+
+=>q231
+Catch!<end>
+
+=>q232_original
+Get outta this one!<end>
+
+=>q232
+Get outta this one!<end>
+
+=>q233_original
+BOOOOOM!<end>
+
+=>q233
+BOOOOOM!<end>
+
+=>q234_original
+Here, hold this for me!<end>
+
+=>q234
+Here, hold this for me!<end>
+
+=>q235_original
+Boom in the hole!<end>
+
+=>q235
+Boom in the hole!<end>
+
+=>q236_original
+Hey, you! Catch!<end>
+
+=>q236
+Hey, you! Catch!<end>
+
+=>q237_original
+Bathe in the glow!<end>
+
+=>q237
+Bathe in the glow!<end>
+
+=>q238_original
+Immolation, te-he!<end>
+
+=>q238
+Immolation, te-he!<end>
+
+=>q239_original
+Wanna see a glowing carpet of no-walkie!?<end>
+
+=>q239
+Wanna see a glowing carpet of no-walkie!?<end>
+
+=>q240_original
+Lights out!<end>
+
+=>q240
+Lights out!<end>
+
+=>q241_original
+HA! You're powerless!<end>
+
+=>q241
+HA! You're powerless!<end>
+
+=>q242_original
+Let's turn the lights off!<end>
+
+=>q242
+Let's turn the lights off!<end>
+
+=>q243_original
+See if you can catch this!<end>
+
+=>q243
+See if you can catch this!<end>
+
+=>q244_original
+You might feel a sting...<end>
+
+=>q244
+You might feel a sting...<end>
+
+=>q245_original
+Another insect for my collection!<end>
+
+=>q245
+Another insect for my collection!<end>
+
+=>q246_original
+This is like darts, but with more death.<end>
+
+=>q246
+This is like darts, but with more death.<end>
+
+=>q247_original
+I'll put you on a wall, te-he!<end>
+
+=>q247
+I'll put you on a wall, te-he!<end>
+
+=>q248_original
+You wanna mind-dance with me?<end>
+
+=>q248
+You wanna mind-dance with me?<end>
+
+=>q249_original
+Brains! Brains!<end>
+
+=>q249
+Brains! Brains!<end>
+
+=>q250_original
+The power of brainpower, te-he!<end>
+
+=>q250
+The power of brainpower, te-he!<end>
+
+=>q251_original
+My mind can kick your mind's ass!<end>
+
+=>q251
+My mind can kick your mind's ass!<end>
+
+=>q252_original
+Lemme play with your mind...<end>
+
+=>q252
+Lemme play with your mind...<end>
+
+=>q253_original
+I'll make your neurons pop, te-he!<end>
+
+=>q253
+I'll make your neurons pop, te-he!<end>
+
+=>q254_original
+I'll turn your brain to mushy-mush!<end>
+
+=>q254
+I'll turn your brain to mushy-mush!<end>
+
+=>q255_original
+Mind fry!<end>
+
+=>q255
+Mind fry!<end>
+
+=>q256_original
+I'm gonna mind-slap you from here to Overrail!<end>
+
+=>q256
+I'm gonna mind-slap you from here to Overrail!<end>
+
+=>q257_original
+Mind punch! Ha!<end>
+
+=>q257
+Mind punch! Ha!<end>
+
+=>q258_original
+Ha! Try blocking *this*!<end>
+
+=>q258
+Ha! Try blocking *this*!<end>
+
+=>q259_original
+Dodge that!<end>
+
+=>q259
+Dodge that!<end>
+
+=>q260_original
+Paaaaaain incoming!<end>
+
+=>q260
+Paaaaaain incoming!<end>
+
+=>q261_original
+Feel the blow!<end>
+
+=>q261
+Feel the blow!<end>
+
+=>q262_original
+High voltage fun! Fun!<end>
+
+=>q262
+High voltage fun! Fun!<end>
+
+=>q263_original
+Get ready for some shakin'!<end>
+
+=>q263
+Get ready for some shakin'!<end>
+
+=>q264_original
+Bzzt! Bzzt!<end>
+
+=>q264
+Bzzt! Bzzt!<end>
+
+=>q265_original
+Lick the power!<end>
+
+=>q265
+Lick the power!<end>
+
+=>q266_original
+The lights...<end>
+
+=>q266
+The lights...<end>
+
+=>q267_original
+This'll jiggle your innards, heh!<end>
+
+=>q267
+This'll jiggle your innards, heh!<end>
+
+=>q268_original
+Need a charge?<end>
+
+=>q268
+Need a charge?<end>
+
+=>q269_original
+Charging up!<end>
+
+=>q269
+Charging up!<end>
+
+=>q270_original
+Here's something for your tick-tock!<end>
+
+=>q270
+Here's something for your tick-tock!<end>
+
+=>q271_original
+Now you don't see me, he-he-he.<end>
+
+=>q271
+Now you don't see me, he-he-he.<end>
+
+=>q272_original
+Watch this carefully!<end>
+
+=>q272
+Watch this carefully!<end>
+
+=>q273_original
+Look at this, look!<end>
+
+=>q273
+Look at this, look!<end>
+
+=>q274_original
+Nighty-night!<end>
+
+=>q274
+Nighty-night!<end>
+
+=>q275_original
+Hope you like frostybite, he-he-he!<end>
+
+=>q275
+Hope you like frostybite, he-he-he!<end>
+
+=>q276_original
+Frozen fingers easily break off...<end>
+
+=>q276
+Frozen fingers easily break off...<end>
+
+=>q277_original
+Cool it!<end>
+
+=>q277
+Cool it!<end>
+
+=>q278_original
+Do you like your bones iced or frozen?<end>
+
+=>q278
+Do you like your bones iced or frozen?<end>
+
+=>q279_original
+Behave icely!<end>
+
+=>q279
+Behave icely!<end>
+
+=>q280_original
+Freeze! Te-he!<end>
+
+=>q280
+Freeze! Te-he!<end>
+
+=>q281_original
+Helloooooooo? Can you hear me in there?<end>
+
+=>q281
+Helloooooooo? Can you hear me in there?<end>
+
+=>q282_original
+You are gonna be so cool, te-he.<end>
+
+=>q282
+You are gonna be so cool, te-he.<end>
+
+=>q283_original
+Iciness!<end>
+
+=>q283
+Iciness!<end>
+
+=>q284_original
+Let's start a fire!<end>
+
+=>q284
+Let's start a fire!<end>
+
+=>q285_original
+Here - fire!<end>
+
+=>q285
+Here - fire!<end>
+
+=>q286_original
+Look, an unlit torch!<end>
+
+=>q286
+Look, an unlit torch!<end>
+
+=>q287_original
+How about I burn that smile off your face!?<end>
+
+=>q287
+How about I burn that smile off your face!?<end>
+
+=>q288_original
+Temperature goes up!<end>
+
+=>q288
+Temperature goes up!<end>
+
+=>q289_original
+You could use some more fire.<end>
+
+=>q289
+You could use some more fire.<end>
+
+=>q290_original
+Scorchy time!<end>
+
+=>q290
+Scorchy time!<end>
+
+=>q291_original
+Lemme warm you up.<end>
+
+=>q291
+Lemme warm you up.<end>
+
+=>q292_original
+You are on fire!<end>
+
+=>q292
+You are on fire!<end>
+
+=>q293_original
+I brought ice.<end>
+
+=>q293
+I brought ice.<end>
+
+=>q294_original
+You're gonna burn-burn-burn!<end>
+
+=>q294
+You're gonna burn-burn-burn!<end>
+
+=>q295_original
+Cold is gold!<end>
+
+=>q295
+Cold is gold!<end>
+
+=>q296_original
+Destroy the machine thing!<end>
+
+=>q296
+Destroy the machine thing!<end>
+
+=>q297_original
+I'll unplug you.<end>
+
+=>q297
+I'll unplug you.<end>
+
+=>q298_original
+Die, metal creature!<end>
+
+=>q298
+Die, metal creature!<end>
+
+=>q299_original
+Off to the scrapyard!<end>
+
+=>q299
+Off to the scrapyard!<end>
+
+=>q300_original
+Stop resisting. You're food.<end>
+
+=>q300
+Stop resisting. You're food.<end>
+
+=>q301_original
+I hate you, creature.<end>
+
+=>q301
+I hate you, creature.<end>
+
+=>q302_original
+Outta my world, animal!<end>
+
+=>q302
+Outta my world, animal!<end>
+
+=>q303_original
+There's people here. I don't know if they're real, but send help.<end>
+
+=>q303
+There's people here. I don't know if they're real, but send help.<end>
+
+=>q304_original
+Everyone! We got company!<end>
+
+=>q304
+Everyone! We got company!<end>
+
+=>q305_original
+Help!<end>
+
+=>q305
+Help!<end>
+
+=>q306_original
+The One has come! Help!<end>
+
+=>q306
+The One has come! Help!<end>
+
+=>q307_original
+I need some help over here! It's $(#him/her)!<end>
+
+=>q307
+I need some help over here! It's $(#him/her)!<end>
+
+=>q308_original
+Must be the wind...<end>
+
+=>q308
+Must be the wind...<end>
+
+=>q309_original
+Probably just rats, but let's check anyway.<end>
+
+=>q309
+Probably just rats, but let's check anyway.<end>
+
+=>q310_original
+Who's there?<end>
+
+=>q310
+Who's there?<end>
+
+=>q311_original
+Everything... is... moving... so...<end>
+
+=>q311
+Everything... is... moving... so...<end>
+
+=>q312_original
+My hands can twist the universe!<end>
+
+=>q312
+My hands can twist the universe!<end>
+
+=>q313_original
+Time, what is time?<end>
+
+=>q313
+Time, what is time?<end>
+
+=>q314_original
+Open wide!<end>
+
+=>q314
+Open wide!<end>
+
+=>q315_original
+Stab, stab, stab!<end>
+
+=>q315
+Stab, stab, stab!<end>
+
+=>q316_original
+Embrace the Spear of Destiny!<end>
+
+=>q316
+Embrace the Spear of Destiny!<end>
+
+=>q317_original
+I'm gonna chop you into tiny pieces!<end>
+
+=>q317
+I'm gonna chop you into tiny pieces!<end>
+
+=>q318_original
+Your head is gonna roll! Rooool!<end>
+
+=>q318
+Your head is gonna roll! Rooool!<end>
+
+=>q319_original
+One, two - no limbs for you!<end>
+
+=>q319
+One, two - no limbs for you!<end>
+
+=>q320_original
+Boom! Headshot!<end>
+
+=>q320
+Boom! Headshot!<end>
+
+=>q321_original
+This is my boomstick!<end>
+
+=>q321
+This is my boomstick!<end>
+
+=>q322_original
+It feels like punching someone from a distance.<end>
+
+=>q322
+It feels like punching someone from a distance.<end>
+

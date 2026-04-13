@@ -1,66 +1,66 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-It's end of the line for this little guy. Yup.<end>
-
-=>q2
-It's end of the line for this little guy. Yup.<end>
-
-=>q3_original
-Did you know that this particular model has a built-in taser? It was removed in the later models.<end>
-
-=>q3
-Did you know that this particular model has a built-in taser? It was removed in the later models.<end>
-
-=>q4_original
-I hope the energy core is intact.<end>
-
-=>q4
-I hope the energy core is intact.<end>
-
-=>q5_original
-You ever seen those power suits Protectorate's got? Gimme!<end>
-
-=>q5
-You ever seen those power suits Protectorate's got? Gimme!<end>
-
-=>q6_original
-Is Goran watching that thing again?<end>
-
-=>q6
-Is Goran watching that thing again?<end>
-
-=>q7_original
-Harold seems really pleased by that battery data you brought him. Yup.<end>
-
-=>q7
-Harold seems really pleased by that battery data you brought him. Yup.<end>
-
-=>q8_original
-There are some bots with designated AI core slots, but those are hard to find.<end>
-
-=>q8
-There are some bots with designated AI core slots, but those are hard to find.<end>
-
-=>q9_original
-This thing with Tanner... I don't understand what's happening.<end>
-
-=>q9
-This thing with Tanner... I don't understand what's happening.<end>
-
-=>q10_original
-I hope we'll acquire a few plasma sentry bots. That's some major firepower.<end>
-
-=>q10
-I hope we'll acquire a few plasma sentry bots. That's some major firepower.<end>
-
-=>q11_original
-If Core City falls, we could be next.<end>
-
-=>q11
-If Core City falls, we could be next.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+It's end of the line for this little guy. Yup.<end>
+
+=>q2
+It's end of the line for this little guy. Yup.<end>
+
+=>q3_original
+Did you know that this particular model has a built-in taser? It was removed in the later models.<end>
+
+=>q3
+Did you know that this particular model has a built-in taser? It was removed in the later models.<end>
+
+=>q4_original
+I hope the energy core is intact.<end>
+
+=>q4
+I hope the energy core is intact.<end>
+
+=>q5_original
+You ever seen those power suits Protectorate's got? Gimme!<end>
+
+=>q5
+You ever seen those power suits Protectorate's got? Gimme!<end>
+
+=>q6_original
+Is Goran watching that thing again?<end>
+
+=>q6
+Is Goran watching that thing again?<end>
+
+=>q7_original
+Harold seems really pleased by that battery data you brought him. Yup.<end>
+
+=>q7
+Harold seems really pleased by that battery data you brought him. Yup.<end>
+
+=>q8_original
+There are some bots with designated AI core slots, but those are hard to find.<end>
+
+=>q8
+There are some bots with designated AI core slots, but those are hard to find.<end>
+
+=>q9_original
+This thing with Tanner... I don't understand what's happening.<end>
+
+=>q9
+This thing with Tanner... I don't understand what's happening.<end>
+
+=>q10_original
+I hope we'll acquire a few plasma sentry bots. That's some major firepower.<end>
+
+=>q10
+I hope we'll acquire a few plasma sentry bots. That's some major firepower.<end>
+
+=>q11_original
+If Core City falls, we could be next.<end>
+
+=>q11
+If Core City falls, we could be next.<end>
+

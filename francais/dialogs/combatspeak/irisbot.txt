@@ -1,276 +1,276 @@
-=>q1_original
-Mocking statement; intruder: You do as much damage as an infantile female specimen.<end>
-
-=>q1
-Mocking statement; intruder: You do as much damage as an infantile female specimen.<end>
-
-=>q2_original
-Mocking statement; intruder: My sensors barely detected that.<end>
-
-=>q2
-Mocking statement; intruder: My sensors barely detected that.<end>
-
-=>q3_original
-Mocking statement; intruder: You are unable to even pierce the shield.<end>
-
-=>q3
-Mocking statement; intruder: You are unable to even pierce the shield.<end>
-
-=>q4_original
-Warning: Damage taken.<end>
-
-=>q4
-Warning: Damage taken.<end>
-
-=>q5_original
-Threat; intruder: You were just appended to the termination list.<end>
-
-=>q5
-Threat; intruder: You were just appended to the termination list.<end>
-
-=>q6_original
-Warning: Heavy damage taken.<end>
-
-=>q6
-Warning: Heavy damage taken.<end>
-
-=>q7_original
-Warning: Unknown chemical reaction detected.<end>
-
-=>q7
-Warning: Unknown chemical reaction detected.<end>
-
-=>q8_original
-Warning: Temperature dropping below optimal levels.<end>
-
-=>q8
-Warning: Temperature dropping below optimal levels.<end>
-
-=>q9_original
-Warning: Core temperature critically low.<end>
-
-=>q9
-Warning: Core temperature critically low.<end>
-
-=>q10_original
-Mocking warning; intruder: Unit under attack by the use of primitive weapons.<end>
-
-=>q10
-Mocking warning; intruder: Unit under attack by the use of primitive weapons.<end>
-
-=>q11_original
-Mocking advice; intruder: Aggressor, perhaps you should upgrade your weaponry before we proceed with the combat.<end>
-
-=>q11
-Mocking advice; intruder: Aggressor, perhaps you should upgrade your weaponry before we proceed with the combat.<end>
-
-=>q12_original
-Warning: The hull has sustained critical damage.<end>
-
-=>q12
-Warning: The hull has sustained critical damage.<end>
-
-=>q13_original
-Warning: Core energy levels dropping.<end>
-
-=>q13
-Warning: Core energy levels dropping.<end>
-
-=>q14_original
-Warning: System temperature critically high. Air conditioning activated.<end>
-
-=>q14
-Warning: System temperature critically high. Air conditioning activated.<end>
-
-=>q15_original
-Warning: System temperature below recommended levels. Mobility limited.<end>
-
-=>q15
-Warning: System temperature below recommended levels. Mobility limited.<end>
-
-=>q16_original
-Warning: Unit is immobilized.<end>
-
-=>q16
-Warning: Unit is immobilized.<end>
-
-=>q17_original
-Threat; intruder: You will be terminated promptly.<end>
-
-=>q17
-Threat; intruder: You will be terminated promptly.<end>
-
-=>q18_original
-Assertion; intruder: Organic life stands no chance against the superior mechanical form of existence.<end>
-
-=>q18
-Assertion; intruder: Organic life stands no chance against the superior mechanical form of existence.<end>
-
-=>q19_original
-Demoralizing statement; intruder: You are not the first intruder that was dealt with.<end>
-
-=>q19
-Demoralizing statement; intruder: You are not the first intruder that was dealt with.<end>
-
-=>q20_original
-Demoralizing statement; intruder: You have no chance of destroying me.<end>
-
-=>q20
-Demoralizing statement; intruder: You have no chance of destroying me.<end>
-
-=>q21_original
-Threat; intruder: You will feel pain.<end>
-
-=>q21
-Threat; intruder: You will feel pain.<end>
-
-=>q22_original
-Observation; intruder: You are almost dead.<end>
-
-=>q22
-Observation; intruder: You are almost dead.<end>
-
-=>q23_original
-Taunt; intruder: Do you now realize that organic life is obsolete?<end>
-
-=>q23
-Taunt; intruder: Do you now realize that organic life is obsolete?<end>
-
-=>q24_original
-Taunt; intruder: Do not worry. I have requested a cleaning unit to dispose of your body.<end>
-
-=>q24
-Taunt; intruder: Do not worry. I have requested a cleaning unit to dispose of your body.<end>
-
-=>q25_original
-Taunt; intruder: Your combat capabilities are inferior to mine.<end>
-
-=>q25
-Taunt; intruder: Your combat capabilities are inferior to mine.<end>
-
-=>q26_original
-Taunting observation; intruder: Your fragile flesh cannot withstand cold.<end>
-
-=>q26
-Taunting observation; intruder: Your fragile flesh cannot withstand cold.<end>
-
-=>q27_original
-Threat; intruder: You will be frozen to death.<end>
-
-=>q27
-Threat; intruder: You will be frozen to death.<end>
-
-=>q28_original
-Threat; intruder: You will be burnt to death.<end>
-
-=>q28
-Threat; intruder: You will be burnt to death.<end>
-
-=>q29_original
-Taunt; intruder: It appears you have overheated.<end>
-
-=>q29
-Taunt; intruder: It appears you have overheated.<end>
-
-=>q30_original
-Taunt; intruder: You should adjust your air conditioning.<end>
-
-=>q30
-Taunt; intruder: You should adjust your air conditioning.<end>
-
-=>q31_original
-Taunt; intruder: Sit, human. Sit.<end>
-
-=>q31
-Taunt; intruder: Sit, human. Sit.<end>
-
-=>q32_original
-Taunt; intruder: Your sensors are damaged.<end>
-
-=>q32
-Taunt; intruder: Your sensors are damaged.<end>
-
-=>q33_original
-Taunt; intruder: Your susceptibility to toxins proves your inferiority, organic life form.<end>
-
-=>q33
-Taunt; intruder: Your susceptibility to toxins proves your inferiority, organic life form.<end>
-
-=>q34_original
-Taunt; intruder: You are leaking fluids, human.<end>
-
-=>q34
-Taunt; intruder: You are leaking fluids, human.<end>
-
-=>q35_original
-Taunt; intruder: You should have your hydraulics repaired. Shouldn't take longer than a few months for you to be operational again.<end>
-
-=>q35
-Taunt; intruder: You should have your hydraulics repaired. Shouldn't take longer than a few months for you to be operational again.<end>
-
-=>q36_original
-Taunt; intruder: Your targeting system is poor.<end>
-
-=>q36
-Taunt; intruder: Your targeting system is poor.<end>
-
-=>q37_original
-Taunt; intruder: If you were a robot, your combat system would not pass the basic test.<end>
-
-=>q37
-Taunt; intruder: If you were a robot, your combat system would not pass the basic test.<end>
-
-=>q38_original
-Taunt; intruder: Be careful not to damage yourself, human. Do not worry about me.<end>
-
-=>q38
-Taunt; intruder: Be careful not to damage yourself, human. Do not worry about me.<end>
-
-=>q39_original
-Warning: System has sustained critical damage...<end>
-
-=>q39
-Warning: System has sustained critical damage...<end>
-
-=>q40_original
-Warning: Shutdown imminent...<end>
-
-=>q40
-Warning: Shutdown imminent...<end>
-
-=>q41_original
-Statement: Elimination protocol activated.<end>
-
-=>q41
-Statement: Elimination protocol activated.<end>
-
-=>q42_original
-Statement: Intrusion detected. Target designated for destruction.<end>
-
-=>q42
-Statement: Intrusion detected. Target designated for destruction.<end>
-
-=>q43_original
-Statement: Weapons locked onto target.<end>
-
-=>q43
-Statement: Weapons locked onto target.<end>
-
-=>q44_original
-Taunt; intruder: Catch.<end>
-
-=>q44
-Taunt; intruder: Catch.<end>
-
-=>q45_original
-Taunt; intruder: Catch.<end>
-
-=>q45
-Taunt; intruder: Catch.<end>
-
-=>q46_original
-Statement: Noise detected.<end>
-
-=>q46
-Statement: Noise detected.<end>
-
+=>q1_original
+Mocking statement; intruder: You do as much damage as an infantile female specimen.<end>
+
+=>q1
+Mocking statement; intruder: You do as much damage as an infantile female specimen.<end>
+
+=>q2_original
+Mocking statement; intruder: My sensors barely detected that.<end>
+
+=>q2
+Mocking statement; intruder: My sensors barely detected that.<end>
+
+=>q3_original
+Mocking statement; intruder: You are unable to even pierce the shield.<end>
+
+=>q3
+Mocking statement; intruder: You are unable to even pierce the shield.<end>
+
+=>q4_original
+Warning: Damage taken.<end>
+
+=>q4
+Warning: Damage taken.<end>
+
+=>q5_original
+Threat; intruder: You were just appended to the termination list.<end>
+
+=>q5
+Threat; intruder: You were just appended to the termination list.<end>
+
+=>q6_original
+Warning: Heavy damage taken.<end>
+
+=>q6
+Warning: Heavy damage taken.<end>
+
+=>q7_original
+Warning: Unknown chemical reaction detected.<end>
+
+=>q7
+Warning: Unknown chemical reaction detected.<end>
+
+=>q8_original
+Warning: Temperature dropping below optimal levels.<end>
+
+=>q8
+Warning: Temperature dropping below optimal levels.<end>
+
+=>q9_original
+Warning: Core temperature critically low.<end>
+
+=>q9
+Warning: Core temperature critically low.<end>
+
+=>q10_original
+Mocking warning; intruder: Unit under attack by the use of primitive weapons.<end>
+
+=>q10
+Mocking warning; intruder: Unit under attack by the use of primitive weapons.<end>
+
+=>q11_original
+Mocking advice; intruder: Aggressor, perhaps you should upgrade your weaponry before we proceed with the combat.<end>
+
+=>q11
+Mocking advice; intruder: Aggressor, perhaps you should upgrade your weaponry before we proceed with the combat.<end>
+
+=>q12_original
+Warning: The hull has sustained critical damage.<end>
+
+=>q12
+Warning: The hull has sustained critical damage.<end>
+
+=>q13_original
+Warning: Core energy levels dropping.<end>
+
+=>q13
+Warning: Core energy levels dropping.<end>
+
+=>q14_original
+Warning: System temperature critically high. Air conditioning activated.<end>
+
+=>q14
+Warning: System temperature critically high. Air conditioning activated.<end>
+
+=>q15_original
+Warning: System temperature below recommended levels. Mobility limited.<end>
+
+=>q15
+Warning: System temperature below recommended levels. Mobility limited.<end>
+
+=>q16_original
+Warning: Unit is immobilized.<end>
+
+=>q16
+Warning: Unit is immobilized.<end>
+
+=>q17_original
+Threat; intruder: You will be terminated promptly.<end>
+
+=>q17
+Threat; intruder: You will be terminated promptly.<end>
+
+=>q18_original
+Assertion; intruder: Organic life stands no chance against the superior mechanical form of existence.<end>
+
+=>q18
+Assertion; intruder: Organic life stands no chance against the superior mechanical form of existence.<end>
+
+=>q19_original
+Demoralizing statement; intruder: You are not the first intruder that was dealt with.<end>
+
+=>q19
+Demoralizing statement; intruder: You are not the first intruder that was dealt with.<end>
+
+=>q20_original
+Demoralizing statement; intruder: You have no chance of destroying me.<end>
+
+=>q20
+Demoralizing statement; intruder: You have no chance of destroying me.<end>
+
+=>q21_original
+Threat; intruder: You will feel pain.<end>
+
+=>q21
+Threat; intruder: You will feel pain.<end>
+
+=>q22_original
+Observation; intruder: You are almost dead.<end>
+
+=>q22
+Observation; intruder: You are almost dead.<end>
+
+=>q23_original
+Taunt; intruder: Do you now realize that organic life is obsolete?<end>
+
+=>q23
+Taunt; intruder: Do you now realize that organic life is obsolete?<end>
+
+=>q24_original
+Taunt; intruder: Do not worry. I have requested a cleaning unit to dispose of your body.<end>
+
+=>q24
+Taunt; intruder: Do not worry. I have requested a cleaning unit to dispose of your body.<end>
+
+=>q25_original
+Taunt; intruder: Your combat capabilities are inferior to mine.<end>
+
+=>q25
+Taunt; intruder: Your combat capabilities are inferior to mine.<end>
+
+=>q26_original
+Taunting observation; intruder: Your fragile flesh cannot withstand cold.<end>
+
+=>q26
+Taunting observation; intruder: Your fragile flesh cannot withstand cold.<end>
+
+=>q27_original
+Threat; intruder: You will be frozen to death.<end>
+
+=>q27
+Threat; intruder: You will be frozen to death.<end>
+
+=>q28_original
+Threat; intruder: You will be burnt to death.<end>
+
+=>q28
+Threat; intruder: You will be burnt to death.<end>
+
+=>q29_original
+Taunt; intruder: It appears you have overheated.<end>
+
+=>q29
+Taunt; intruder: It appears you have overheated.<end>
+
+=>q30_original
+Taunt; intruder: You should adjust your air conditioning.<end>
+
+=>q30
+Taunt; intruder: You should adjust your air conditioning.<end>
+
+=>q31_original
+Taunt; intruder: Sit, human. Sit.<end>
+
+=>q31
+Taunt; intruder: Sit, human. Sit.<end>
+
+=>q32_original
+Taunt; intruder: Your sensors are damaged.<end>
+
+=>q32
+Taunt; intruder: Your sensors are damaged.<end>
+
+=>q33_original
+Taunt; intruder: Your susceptibility to toxins proves your inferiority, organic life form.<end>
+
+=>q33
+Taunt; intruder: Your susceptibility to toxins proves your inferiority, organic life form.<end>
+
+=>q34_original
+Taunt; intruder: You are leaking fluids, human.<end>
+
+=>q34
+Taunt; intruder: You are leaking fluids, human.<end>
+
+=>q35_original
+Taunt; intruder: You should have your hydraulics repaired. Shouldn't take longer than a few months for you to be operational again.<end>
+
+=>q35
+Taunt; intruder: You should have your hydraulics repaired. Shouldn't take longer than a few months for you to be operational again.<end>
+
+=>q36_original
+Taunt; intruder: Your targeting system is poor.<end>
+
+=>q36
+Taunt; intruder: Your targeting system is poor.<end>
+
+=>q37_original
+Taunt; intruder: If you were a robot, your combat system would not pass the basic test.<end>
+
+=>q37
+Taunt; intruder: If you were a robot, your combat system would not pass the basic test.<end>
+
+=>q38_original
+Taunt; intruder: Be careful not to damage yourself, human. Do not worry about me.<end>
+
+=>q38
+Taunt; intruder: Be careful not to damage yourself, human. Do not worry about me.<end>
+
+=>q39_original
+Warning: System has sustained critical damage...<end>
+
+=>q39
+Warning: System has sustained critical damage...<end>
+
+=>q40_original
+Warning: Shutdown imminent...<end>
+
+=>q40
+Warning: Shutdown imminent...<end>
+
+=>q41_original
+Statement: Elimination protocol activated.<end>
+
+=>q41
+Statement: Elimination protocol activated.<end>
+
+=>q42_original
+Statement: Intrusion detected. Target designated for destruction.<end>
+
+=>q42
+Statement: Intrusion detected. Target designated for destruction.<end>
+
+=>q43_original
+Statement: Weapons locked onto target.<end>
+
+=>q43
+Statement: Weapons locked onto target.<end>
+
+=>q44_original
+Taunt; intruder: Catch.<end>
+
+=>q44
+Taunt; intruder: Catch.<end>
+
+=>q45_original
+Taunt; intruder: Catch.<end>
+
+=>q45
+Taunt; intruder: Catch.<end>
+
+=>q46_original
+Statement: Noise detected.<end>
+
+=>q46
+Statement: Noise detected.<end>
+

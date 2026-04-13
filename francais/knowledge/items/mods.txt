@@ -1,35 +1,35 @@
-::electroshockSledgehammer
-This weapon is also equipped with an electroshock generator that discharges electricity on impact that strikes multiple targets.
-
-::electroshockSpear
-This weapon is also equipped with an electroshock generator that discharges electricity when it connects that strikes multiple targets.
-
-::electroshockGloves
-The electroshock generator mounted on the gloves discharges electricity on impact that strikes multiple targets.
-
-::pneumaticGloves
-The pneumatic hammer unit mounted on the gloves will, when powered, occasionally inflict additional damage and even knock targets out.
-
-::electroshockKnife
-The electroshock generator mounted on the {0} discharges electricity on impact that strikes multiple targets.
-
-::electroshockMachete
-The electricity that's discharged from the electroshock generator, mounted on the blade, on impact may strike multiple targets.
-
-::energyEdgeKnife
-Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
-
-::energyEdgeMachete
-Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
-
-::energyEdgeSpear
-Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
-
-::wingedSpear
-The stabilization wings mounted on the sides allows the spear to fly farther and faster when thrown.
-
-::spikedSledgehammer
-The hammer's head is lined up with vicious spikes for extra mayhem.
-
-::bladedSledgehammer
-The serrated blade worked into the hammer's head can inflict deadly bleeding wounds.
+::electroshockSledgehammer
+This weapon is also equipped with an electroshock generator that discharges electricity on impact that strikes multiple targets.
+
+::electroshockSpear
+This weapon is also equipped with an electroshock generator that discharges electricity when it connects that strikes multiple targets.
+
+::electroshockGloves
+The electroshock generator mounted on the gloves discharges electricity on impact that strikes multiple targets.
+
+::pneumaticGloves
+The pneumatic hammer unit mounted on the gloves will, when powered, occasionally inflict additional damage and even knock targets out.
+
+::electroshockKnife
+The electroshock generator mounted on the {0} discharges electricity on impact that strikes multiple targets.
+
+::electroshockMachete
+The electricity that's discharged from the electroshock generator, mounted on the blade, on impact may strike multiple targets.
+
+::energyEdgeKnife
+Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
+
+::energyEdgeMachete
+Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
+
+::energyEdgeSpear
+Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy.
+
+::wingedSpear
+The stabilization wings mounted on the sides allows the spear to fly farther and faster when thrown.
+
+::spikedSledgehammer
+The hammer's head is lined up with vicious spikes for extra mayhem.
+
+::bladedSledgehammer
+The serrated blade worked into the hammer's head can inflict deadly bleeding wounds.

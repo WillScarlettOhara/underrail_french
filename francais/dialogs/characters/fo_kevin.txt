@@ -1,286 +1,286 @@
-=>q1_original
-::The man clears his throat before speaking.::
-
-Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
-
-=>q1
-::The man clears his throat before speaking.::
-
-Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
-
-=>a3
-You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
-
-=>q4_original
-I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
-
-=>q4
-I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
-
-=>a5_original
-::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
-
-=>a5
-::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
-
-=>q6_original
-Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
-
-=>q6
-Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
-
-=>a7_original
-Show me what you've got. ::Barter.::<end>
-
-=>a7
-Show me what you've got. ::Barter.::<end>
-
-=>q8_original
-Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
-
-=>q8
-Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
-
-=>a9_original
-::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
-
-=>a9
-::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
-
-=>q10_original
-Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
-
-=>q10
-Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
-
-=>q11_original
-I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
-
-=>q11
-I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
-
-=>a12_original
-Oh well. In that case, I'd like to ask you something else.<end>
-
-=>a12
-Oh well. In that case, I'd like to ask you something else.<end>
-
-=>q13_original
-Like what?<end>
-
-=>q13
-Like what?<end>
-
-=>a14_original
-::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
-
-=>a14
-::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
-
-=>q15_original
-<end>
-
-=>q15
-<end>
-
-=>q16_original
-Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
-
-=>q16
-Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
-
-=>q17_original
-Alright. Check this out.<end>
-
-=>q17
-Alright. Check this out.<end>
-
-=>a18_original
-::Barter.::<end>
-
-=>a18
-::Barter.::<end>
-
-=>q19_original
-What you see is what you get. I've got nothing else to show you.<end>
-
-=>q19
-What you see is what you get. I've got nothing else to show you.<end>
-
-=>a20_original
-Where do you get all these weapons, if I may ask?<end>
-
-=>a20
-Where do you get all these weapons, if I may ask?<end>
-
-=>q21_original
-That is none of your business.<end>
-
-=>q21
-That is none of your business.<end>
-
-=>q22_original
-I'll pretend you never asked me this question.<end>
-
-=>q22
-I'll pretend you never asked me this question.<end>
-
-=>a23_original
-What does an overseer do?<end>
-
-=>a23
-What does an overseer do?<end>
-
-=>q24_original
-Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
-
-=>q24
-Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
-
-=>q25_original
-Any more questions?<end>
-
-=>q25
-Any more questions?<end>
-
-=>a26_original
-Do you remember anyone coming to you with any strange items? Anything really striking?<end>
-
-=>a26
-Do you remember anyone coming to you with any strange items? Anything really striking?<end>
-
-=>q27_original
-Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
-
-=>q27
-Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
-
-=>q28_original
-Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
-
-=>q28
-Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
-
-=>a29_original
-What can you tell me about Foundry?<end>
-
-=>a29
-What can you tell me about Foundry?<end>
-
-=>q30_original
-Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
-
-=>q30
-Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
-
-=>q31_original
-Although, maybe you can take care of yourself just fine.<end>
-
-=>q31
-Although, maybe you can take care of yourself just fine.<end>
-
-=>q32_original
-One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
-
-=>q32
-One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
-
-=>q33_original
-That's all you need to know for now. Take care.<end>
-
-=>q33
-That's all you need to know for now. Take care.<end>
-
-=>a34_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a34
-How do you feel now that the mine has been reopened?<end>
-
-=>q35_original
-You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
-
-=>q35
-You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
-
-=>q36_original
-On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
-
-=>q36
-On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
-
-=>a37_original
-Do you know anything about the mine creatures?<end>
-
-=>a37
-Do you know anything about the mine creatures?<end>
-
-=>q38_original
-Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
-
-=>q38
-Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
-
-=>q39_original
-The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
-
-=>q39
-The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
-
-=>a40_original
-Why didn't someone already arrest that derailed robed dude?<end>
-
-=>a40
-Why didn't someone already arrest that derailed robed dude?<end>
-
-=>q41_original
-You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
-
-=>q41
-You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
-
-=>q42_original
-And he never gets tired! Unbelievable...<end>
-
-=>q42
-And he never gets tired! Unbelievable...<end>
-
-=>a43_original
-I have to go. See you later.<end>
-
-=>a43
-I have to go. See you later.<end>
-
-=>q44_original
-Hey - just in time. Check out the new stuff I just got.<end>
-
-=>q44
-Hey - just in time. Check out the new stuff I just got.<end>
-
-=>a45_original
-Maybe later. I came here for other reasons.<end>
-
-=>a45
-Maybe later. I came here for other reasons.<end>
-
-=>q46_original
-What other reasons?<end>
-
-=>q46
-What other reasons?<end>
-
-=>q47_original
-Need something?<end>
-
-=>q47
-Need something?<end>
-
+=>q1_original
+::The man clears his throat before speaking.::
+
+Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
+
+=>q1
+::The man clears his throat before speaking.::
+
+Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
+
+=>a3
+You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
+
+=>q4_original
+I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
+
+=>q4
+I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
+
+=>a5_original
+::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
+
+=>a5
+::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
+
+=>q6_original
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>q6
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>a7_original
+Show me what you've got. ::Barter.::<end>
+
+=>a7
+Show me what you've got. ::Barter.::<end>
+
+=>q8_original
+Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
+
+=>q8
+Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
+
+=>a9_original
+::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
+
+=>a9
+::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
+
+=>q10_original
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>q10
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>q11_original
+I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
+
+=>q11
+I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
+
+=>a12_original
+Oh well. In that case, I'd like to ask you something else.<end>
+
+=>a12
+Oh well. In that case, I'd like to ask you something else.<end>
+
+=>q13_original
+Like what?<end>
+
+=>q13
+Like what?<end>
+
+=>a14_original
+::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
+
+=>a14
+::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
+
+=>q16
+Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
+
+=>q17_original
+Alright. Check this out.<end>
+
+=>q17
+Alright. Check this out.<end>
+
+=>a18_original
+::Barter.::<end>
+
+=>a18
+::Barter.::<end>
+
+=>q19_original
+What you see is what you get. I've got nothing else to show you.<end>
+
+=>q19
+What you see is what you get. I've got nothing else to show you.<end>
+
+=>a20_original
+Where do you get all these weapons, if I may ask?<end>
+
+=>a20
+Where do you get all these weapons, if I may ask?<end>
+
+=>q21_original
+That is none of your business.<end>
+
+=>q21
+That is none of your business.<end>
+
+=>q22_original
+I'll pretend you never asked me this question.<end>
+
+=>q22
+I'll pretend you never asked me this question.<end>
+
+=>a23_original
+What does an overseer do?<end>
+
+=>a23
+What does an overseer do?<end>
+
+=>q24_original
+Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
+
+=>q24
+Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
+
+=>q25_original
+Any more questions?<end>
+
+=>q25
+Any more questions?<end>
+
+=>a26_original
+Do you remember anyone coming to you with any strange items? Anything really striking?<end>
+
+=>a26
+Do you remember anyone coming to you with any strange items? Anything really striking?<end>
+
+=>q27_original
+Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
+
+=>q27
+Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
+
+=>q28_original
+Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
+
+=>q28
+Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
+
+=>a29_original
+What can you tell me about Foundry?<end>
+
+=>a29
+What can you tell me about Foundry?<end>
+
+=>q30_original
+Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
+
+=>q30
+Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
+
+=>q31_original
+Although, maybe you can take care of yourself just fine.<end>
+
+=>q31
+Although, maybe you can take care of yourself just fine.<end>
+
+=>q32_original
+One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
+
+=>q32
+One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
+
+=>q33_original
+That's all you need to know for now. Take care.<end>
+
+=>q33
+That's all you need to know for now. Take care.<end>
+
+=>a34_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a34
+How do you feel now that the mine has been reopened?<end>
+
+=>q35_original
+You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
+
+=>q35
+You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
+
+=>q36_original
+On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
+
+=>q36
+On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
+
+=>a37_original
+Do you know anything about the mine creatures?<end>
+
+=>a37
+Do you know anything about the mine creatures?<end>
+
+=>q38_original
+Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
+
+=>q38
+Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
+
+=>q39_original
+The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
+
+=>q39
+The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
+
+=>a40_original
+Why didn't someone already arrest that derailed robed dude?<end>
+
+=>a40
+Why didn't someone already arrest that derailed robed dude?<end>
+
+=>q41_original
+You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
+
+=>q41
+You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
+
+=>q42_original
+And he never gets tired! Unbelievable...<end>
+
+=>q42
+And he never gets tired! Unbelievable...<end>
+
+=>a43_original
+I have to go. See you later.<end>
+
+=>a43
+I have to go. See you later.<end>
+
+=>q44_original
+Hey - just in time. Check out the new stuff I just got.<end>
+
+=>q44
+Hey - just in time. Check out the new stuff I just got.<end>
+
+=>a45_original
+Maybe later. I came here for other reasons.<end>
+
+=>a45
+Maybe later. I came here for other reasons.<end>
+
+=>q46_original
+What other reasons?<end>
+
+=>q46
+What other reasons?<end>
+
+=>q47_original
+Need something?<end>
+
+=>q47
+Need something?<end>
+

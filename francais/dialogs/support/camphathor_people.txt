@@ -1,132 +1,132 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-The river's good for drownin' worms. ::Laughs.::<end>
-
-=>q2
-The river's good for drownin' worms. ::Laughs.::<end>
-
-=>q3_original
-Hey, hey, $(context.player.Name), how's it goin'?<end>
-
-=>q3
-Hey, hey, $(context.player.Name), how's it goin'?<end>
-
-=>q4_original
-Truce with the Rathound King? What? I never even dreamed somethin' like that was possible.<end>
-
-=>q4
-Truce with the Rathound King? What? I never even dreamed somethin' like that was possible.<end>
-
-=>q5_original
-Plenty of fresh meat on our market. Best stuff.<end>
-
-=>q5
-Plenty of fresh meat on our market. Best stuff.<end>
-
-=>q6_original
-The Rathound King is finally pushin' the dirt. What a relief!<end>
-
-=>q6
-The Rathound King is finally pushin' the dirt. What a relief!<end>
-
-=>q7_original
-We'll be a bit safer from now on, but we gotta keep our eyes open at all times.<end>
-
-=>q7
-We'll be a bit safer from now on, but we gotta keep our eyes open at all times.<end>
-
-=>q8_original
-Yay, the burrowers will bug us no more!<end>
-
-=>q8
-Yay, the burrowers will bug us no more!<end>
-
-=>q9_original
-Bill's really doin' good work with his mushroom farm.<end>
-
-=>q9
-Bill's really doin' good work with his mushroom farm.<end>
-
-=>q10_original
-Hi there.<end>
-
-=>q10
-Hi there.<end>
-
-=>q11_original
-The only good thing about the burrower invasion is that there's lotsa burrower burgers now.<end>
-
-=>q11
-The only good thing about the burrower invasion is that there's lotsa burrower burgers now.<end>
-
-=>q12_original
-We've lost our beloved Edgar.<end>
-
-=>q12
-We've lost our beloved Edgar.<end>
-
-=>q13_original
-I hope Tunnelers don't find us here.<end>
-
-=>q13
-I hope Tunnelers don't find us here.<end>
-
-=>q14_original
-You're always welcome in Camp Hathor.<end>
-
-=>q14
-You're always welcome in Camp Hathor.<end>
-
-=>q15_original
-Damn burrowers! How many do we have to kill before they stop coming?<end>
-
-=>q15
-Damn burrowers! How many do we have to kill before they stop coming?<end>
-
-=>q16_original
-Only the best hunters in Camp Hathor can hunt crawlers. Them creatures are wall hangers.<end>
-
-=>q16
-Only the best hunters in Camp Hathor can hunt crawlers. Them creatures are wall hangers.<end>
-
-=>q17_original
-We usually cross the river to hunt. There's an abundance of hoppers and wild pigs there.<end>
-
-=>q17
-We usually cross the river to hunt. There's an abundance of hoppers and wild pigs there.<end>
-
-=>q18_original
-Here, we value strength and courage.<end>
-
-=>q18
-Here, we value strength and courage.<end>
-
-=>q19_original
-I ain't seen Sarine in quite a while. Maybe she finally left with Beck.<end>
-
-=>q19
-I ain't seen Sarine in quite a while. Maybe she finally left with Beck.<end>
-
-=>q20_original
-What... what if the Rathound King ain't really dead?<end>
-
-=>q20
-What... what if the Rathound King ain't really dead?<end>
-
-=>q21_original
-Just when we thought the Eels could keep us safe from the pirates...<end>
-
-=>q21
-Just when we thought the Eels could keep us safe from the pirates...<end>
-
-=>q22_original
-The pirates never raided the camp itself, but after hearin' about what they've been doin' lately...<end>
-
-=>q22
-The pirates never raided the camp itself, but after hearin' about what they've been doin' lately...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+The river's good for drownin' worms. ::Laughs.::<end>
+
+=>q2
+The river's good for drownin' worms. ::Laughs.::<end>
+
+=>q3_original
+Hey, hey, $(context.player.Name), how's it goin'?<end>
+
+=>q3
+Hey, hey, $(context.player.Name), how's it goin'?<end>
+
+=>q4_original
+Truce with the Rathound King? What? I never even dreamed somethin' like that was possible.<end>
+
+=>q4
+Truce with the Rathound King? What? I never even dreamed somethin' like that was possible.<end>
+
+=>q5_original
+Plenty of fresh meat on our market. Best stuff.<end>
+
+=>q5
+Plenty of fresh meat on our market. Best stuff.<end>
+
+=>q6_original
+The Rathound King is finally pushin' the dirt. What a relief!<end>
+
+=>q6
+The Rathound King is finally pushin' the dirt. What a relief!<end>
+
+=>q7_original
+We'll be a bit safer from now on, but we gotta keep our eyes open at all times.<end>
+
+=>q7
+We'll be a bit safer from now on, but we gotta keep our eyes open at all times.<end>
+
+=>q8_original
+Yay, the burrowers will bug us no more!<end>
+
+=>q8
+Yay, the burrowers will bug us no more!<end>
+
+=>q9_original
+Bill's really doin' good work with his mushroom farm.<end>
+
+=>q9
+Bill's really doin' good work with his mushroom farm.<end>
+
+=>q10_original
+Hi there.<end>
+
+=>q10
+Hi there.<end>
+
+=>q11_original
+The only good thing about the burrower invasion is that there's lotsa burrower burgers now.<end>
+
+=>q11
+The only good thing about the burrower invasion is that there's lotsa burrower burgers now.<end>
+
+=>q12_original
+We've lost our beloved Edgar.<end>
+
+=>q12
+We've lost our beloved Edgar.<end>
+
+=>q13_original
+I hope Tunnelers don't find us here.<end>
+
+=>q13
+I hope Tunnelers don't find us here.<end>
+
+=>q14_original
+You're always welcome in Camp Hathor.<end>
+
+=>q14
+You're always welcome in Camp Hathor.<end>
+
+=>q15_original
+Damn burrowers! How many do we have to kill before they stop coming?<end>
+
+=>q15
+Damn burrowers! How many do we have to kill before they stop coming?<end>
+
+=>q16_original
+Only the best hunters in Camp Hathor can hunt crawlers. Them creatures are wall hangers.<end>
+
+=>q16
+Only the best hunters in Camp Hathor can hunt crawlers. Them creatures are wall hangers.<end>
+
+=>q17_original
+We usually cross the river to hunt. There's an abundance of hoppers and wild pigs there.<end>
+
+=>q17
+We usually cross the river to hunt. There's an abundance of hoppers and wild pigs there.<end>
+
+=>q18_original
+Here, we value strength and courage.<end>
+
+=>q18
+Here, we value strength and courage.<end>
+
+=>q19_original
+I ain't seen Sarine in quite a while. Maybe she finally left with Beck.<end>
+
+=>q19
+I ain't seen Sarine in quite a while. Maybe she finally left with Beck.<end>
+
+=>q20_original
+What... what if the Rathound King ain't really dead?<end>
+
+=>q20
+What... what if the Rathound King ain't really dead?<end>
+
+=>q21_original
+Just when we thought the Eels could keep us safe from the pirates...<end>
+
+=>q21
+Just when we thought the Eels could keep us safe from the pirates...<end>
+
+=>q22_original
+The pirates never raided the camp itself, but after hearin' about what they've been doin' lately...<end>
+
+=>q22
+The pirates never raided the camp itself, but after hearin' about what they've been doin' lately...<end>
+

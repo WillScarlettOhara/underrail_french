@@ -1,830 +1,830 @@
-=>q1_original
-::The woman seems to be counting charons, but she swipes them from the counter and into her hand and then into her pocket as soon as you come near. She leans on the counter with both of her arms and gives you a friendly smile. She is somewhat short, but lean and healthy-looking, yet her voice, while light, exhibits a noticeable degree of harshness.::
-
-Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
-
-=>q1
-::The woman seems to be counting charons, but she swipes them from the counter and into her hand and then into her pocket as soon as you come near. She leans on the counter with both of her arms and gives you a friendly smile. She is somewhat short, but lean and healthy-looking, yet her voice, while light, exhibits a noticeable degree of harshness.::
-
-Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Let me see what you have to offer. ::Barter.::<end>
-
-=>a3
-Let me see what you have to offer. ::Barter.::<end>
-
-=>q4_original
-I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
-
-=>q4
-I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
-
-=>a5_original
-::Barter.::<end>
-
-=>a5
-::Barter.::<end>
-
-=>q6_original
-Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
-
-=>q6
-Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
-
-=>a7_original
-Are my steel plates ready?<end>
-
-=>a7
-Are my steel plates ready?<end>
-
-=>q8_original
-Not yet. Patience, patience.<end>
-
-=>q8
-Not yet. Patience, patience.<end>
-
-=>q9_original
-Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
-
-=>q9
-Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
-
-=>q10_original
-::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
-
-=>q10
-::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
-
-=>q11_original
-If you want a new batch, you know where to find me.<end>
-
-=>q11
-If you want a new batch, you know where to find me.<end>
-
-=>q12_original
-:: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
-
-That should be all of them.<end>
-
-=>q12
-:: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
-
-That should be all of them.<end>
-
-=>q13_original
-<end>
-
-=>q13
-<end>
-
-=>q14_original
-<end>
-
-=>q14
-<end>
-
-=>q15_original
-<end>
-
-=>q15
-<end>
-
-=>q16_original
-<end>
-
-=>q16
-<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>q18_original
-<end>
-
-=>q18
-<end>
-
-=>q19_original
-<end>
-
-=>q19
-<end>
-
-=>q20_original
-<end>
-
-=>q20
-<end>
-
-=>q21_original
-<end>
-
-=>q21
-<end>
-
-=>a22_original
-I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
-
-=>a22
-I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
-
-=>q23_original
-I don't deal in scrap metal, sorry. ::She shrugs.::<end>
-
-=>q23
-I don't deal in scrap metal, sorry. ::She shrugs.::<end>
-
-=>q24_original
-We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
-
-=>q24
-We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
-
-=>a25_original
-Why is the mine closed?<end>
-
-=>a25
-Why is the mine closed?<end>
-
-=>q26_original
-There was an incident.<end>
-
-=>q26
-There was an incident.<end>
-
-=>a27_original
-What kind of incident?<end>
-
-=>a27
-What kind of incident?<end>
-
-=>q28_original
-Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
-
-=>q28
-Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
-
-=>a29_original
-I ain't got time to waste, woman. Just skip to the chase.<end>
-
-=>a29
-I ain't got time to waste, woman. Just skip to the chase.<end>
-
-=>q30_original
-Don't you talk to me like that. See those guards over there? Anyhow...<end>
-
-=>q30
-Don't you talk to me like that. See those guards over there? Anyhow...<end>
-
-=>a31_original
-Here we go again...<end>
-
-=>a31
-Here we go again...<end>
-
-=>q32_original
-What?<end>
-
-=>q32
-What?<end>
-
-=>a33_original
-Never mind. What kind of incident?<end>
-
-=>a33
-Never mind. What kind of incident?<end>
-
-=>a34_original
-Just tell me what was the incident, woman. I ain't got time to waste.<end>
-
-=>a34
-Just tell me what was the incident, woman. I ain't got time to waste.<end>
-
-=>a35_original
-Very well. I wanted to ask you something else before I move on.<end>
-
-=>a35
-Very well. I wanted to ask you something else before I move on.<end>
-
-=>q36_original
-No problem.<end>
-
-=>q36
-No problem.<end>
-
-=>a37_original
-Guess I'll try elsewhere. Bye.<end>
-
-=>a37
-Guess I'll try elsewhere. Bye.<end>
-
-=>q38_original
-But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
-
-=>q38
-But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
-
-=>a39_original
-I like the sound of that.<end>
-
-=>a39
-I like the sound of that.<end>
-
-=>q40_original
-You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
-
-=>q40
-You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
-
-=>a41_original
-::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
-
-=>a41
-::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
-
-=>q42_original
-::She puts on a glove and sifts through the sundry scraplets with her fingers.::
-
-Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... ::Her voice becomes quieter and quieter.:: ...mostly, so that's gonna go in a steel furnace... 
-
-...purification, well... ::She shrugs.::
-
-...mold... press...<end>
-
-=>q42
-::She puts on a glove and sifts through the sundry scraplets with her fingers.::
-
-Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... ::Her voice becomes quieter and quieter.:: ...mostly, so that's gonna go in a steel furnace... 
-
-...purification, well... ::She shrugs.::
-
-...mold... press...<end>
-
-=>a43_original
-Leonie?<end>
-
-=>a43
-Leonie?<end>
-
-=>q44_original
-Shush, I'm calculating!
-
-<end>
-
-=>q44
-Shush, I'm calculating!
-
-<end>
-
-=>q45_original
-::And then she brings out a small calculator with mostly worn out buttons, and a scale. She types in a few numbers, *hmms* once, then reenters them again and is more pleased with the follow-up result.
-
-She then puts the metal scraps on the scale.::<end>
-
-=>q45
-::And then she brings out a small calculator with mostly worn out buttons, and a scale. She types in a few numbers, *hmms* once, then reenters them again and is more pleased with the follow-up result.
-
-She then puts the metal scraps on the scale.::<end>
-
-=>q46_original
-::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
-
-Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
-
-=>q46
-::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
-
-Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
-
-=>q47_original
-::She then taps the screen, pointing to her previous calculation, resulting in "30."::
-
-And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
-
-::She leans on the counter.:: So, boss, how about it?<end>
-
-=>q47
-::She then taps the screen, pointing to her previous calculation, resulting in "30."::
-
-And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
-
-::She leans on the counter.:: So, boss, how about it?<end>
-
-=>a48_original
-When can we start?<end>
-
-=>a48
-When can we start?<end>
-
-=>q49_original
-Now. How much scrap have you got?<end>
-
-=>q49
-Now. How much scrap have you got?<end>
-
-=>q50_original
-<end>
-
-=>q50
-<end>
-
-=>a51_original
-I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
-
-=>a51
-I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
-
-=>q52_original
-::She puts the scrap behind the counter.::
-
-I'll have some nipper take this to get processed. And you, you come back a bit later and the plates will be ready.<end>
-
-=>q52
-::She puts the scrap behind the counter.::
-
-I'll have some nipper take this to get processed. And you, you come back a bit later and the plates will be ready.<end>
-
-=>a53_original
-I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
-
-=>a53
-I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
-
-=>a54_original
-I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
-
-=>a54
-I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
-
-=>a55_original
-I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
-
-=>a55
-I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
-
-=>q56_original
-That's quite a lot of scrap. <end>
-
-=>q56
-That's quite a lot of scrap. <end>
-
-=>a57_original
-I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
-
-=>a57
-I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
-
-=>a58_original
-I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
-
-=>a58
-I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
-
-=>a59_original
-I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
-
-=>a59
-I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
-
-=>a60_original
-I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
-
-=>a60
-I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
-
-=>q61_original
-Damn, that's gonna be a lot of plates! <end>
-
-=>q61
-Damn, that's gonna be a lot of plates! <end>
-
-=>a62_original
-I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
-
-=>a62
-I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
-
-=>a63_original
-I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
-
-=>a63
-I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
-
-=>a64_original
-Not enough, I guess. I'll come back when I do.<end>
-
-=>a64
-Not enough, I guess. I'll come back when I do.<end>
-
-=>a65_original
-I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
-
-=>a65
-I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
-
-=>a66_original
-I'll be back with some more scrap. See ya.<end>
-
-=>a66
-I'll be back with some more scrap. See ya.<end>
-
-=>a67_original
-::Say nothing.::<end>
-
-=>a67
-::Say nothing.::<end>
-
-=>q68_original
-That should be it, yes.
-
-<end>
-
-=>q68
-That should be it, yes.
-
-<end>
-
-=>a69_original
-Tell me, how much scrap would I need to get a decent set of plates?<end>
-
-=>a69
-Tell me, how much scrap would I need to get a decent set of plates?<end>
-
-=>q70_original
-Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
-
-=>q70
-Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
-
-=>a71_original
-Go on.<end>
-
-=>a71
-Go on.<end>
-
-=>a72_original
-I'd like to turn some scrap into metal plates.<end>
-
-=>a72
-I'd like to turn some scrap into metal plates.<end>
-
-=>q73_original
-Can do. How much have you got? 
-
-Don't forget - a hundred bags of scrap and thirty charons per set.<end>
-
-=>q73
-Can do. How much have you got? 
-
-Don't forget - a hundred bags of scrap and thirty charons per set.<end>
-
-=>a74_original
-I got some super steel that needs shaping.<end>
-
-=>a74
-I got some super steel that needs shaping.<end>
-
-=>q75_original
-I see. So what do you want me to do with it?<end>
-
-=>q75
-I see. So what do you want me to do with it?<end>
-
-=>a76_original
-I want you to create super steel fiber. ::Give her 100 charons.::<end>
-
-=>a76
-I want you to create super steel fiber. ::Give her 100 charons.::<end>
-
-=>q77_original
-No problem. I'll get to work. 
-
-I'll put the products in the container when I'm done.<end>
-
-=>q77
-No problem. I'll get to work. 
-
-I'll put the products in the container when I'm done.<end>
-
-=>a78_original
-::Wait.::<end>
-
-=>a78
-::Wait.::<end>
-
-=>a79_original
-I want you to create super steel sheet. ::Give her 100 charons.::<end>
-
-=>a79
-I want you to create super steel sheet. ::Give her 100 charons.::<end>
-
-=>a80_original
-Actually, never mind. I've changed my mind.<end>
-
-=>a80
-Actually, never mind. I've changed my mind.<end>
-
-=>q81_original
-::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
-
-Put it in here. Let's see what we're working with.<end>
-
-=>q81
-::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
-
-Put it in here. Let's see what we're working with.<end>
-
-=>a82_original
-Understood. Before I do that, I had more questions.<end>
-
-=>a82
-Understood. Before I do that, I had more questions.<end>
-
-=>a83_original
-Got it.<end>
-
-=>a83
-Got it.<end>
-
-=>q84_original
-Put it in the container on the counter and let me see what we're working with.<end>
-
-=>q84
-Put it in the container on the counter and let me see what we're working with.<end>
-
-=>a85_original
-Bernard told me you can work with super steel...<end>
-
-=>a85
-Bernard told me you can work with super steel...<end>
-
-=>q86_original
-Ben sent you here? <end>
-
-=>q86
-Ben sent you here? <end>
-
-=>q87_original
-You actually got some?<end>
-
-=>q87
-You actually got some?<end>
-
-=>a88_original
-Yes. ::Show her your super steel.::<end>
-
-=>a88
-Yes. ::Show her your super steel.::<end>
-
-=>q89_original
-Wow, so the old coot wasn't kidding. <end>
-
-=>q89
-Wow, so the old coot wasn't kidding. <end>
-
-=>q90_original
-Yeah, I can work it.<end>
-
-=>q90
-Yeah, I can work it.<end>
-
-=>q91_original
-I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
-
-=>q91
-I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
-
-=>q92_original
-Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
-
-=>q92
-Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
-
-=>q93_original
-Either of these services will cost you a hundred charons per set of plates.<end>
-
-=>q93
-Either of these services will cost you a hundred charons per set of plates.<end>
-
-=>a94_original
-Not at the moment, no.<end>
-
-=>a94
-Not at the moment, no.<end>
-
-=>q95_original
-Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
-
-=>q95
-Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
-
-=>a96_original
-Is there anyone around here that can work with super steel?<end>
-
-=>a96
-Is there anyone around here that can work with super steel?<end>
-
-=>q97_original
-Well, well... <end>
-
-=>q97
-Well, well... <end>
-
-=>a98_original
-You seem to be working here alone with all this heavy stuff.<end>
-
-=>a98
-You seem to be working here alone with all this heavy stuff.<end>
-
-=>q99_original
-Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
-
-=>q99
-Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
-
-=>q100_original
-Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
-
-=>q100
-Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
-
-=>q101_original
-Us women aren't as friable as you may think.<end>
-
-=>q101
-Us women aren't as friable as you may think.<end>
-
-=>a102_original
-What do you sell here?<end>
-
-=>a102
-What do you sell here?<end>
-
-=>q103_original
-Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
-
-Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
-
-=>q103
-Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
-
-Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
-
-=>a104_original
-What can you tell me about TiChrome?<end>
-
-=>a104
-What can you tell me about TiChrome?<end>
-
-=>q105_original
-Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
-
-=>q105
-Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
-
-=>q106_original
-We have it in store if you'd like to take a look.<end>
-
-=>q106
-We have it in store if you'd like to take a look.<end>
-
-=>q107_original
-Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
-
-=>q107
-Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
-
-=>a108_original
-Thanks, I had more questions.<end>
-
-=>a108
-Thanks, I had more questions.<end>
-
-=>q109_original
-I'm listening...<end>
-
-=>q109
-I'm listening...<end>
-
-=>a110_original
-How do you feel now that the mine has been reopened?<end>
-
-=>a110
-How do you feel now that the mine has been reopened?<end>
-
-=>q111_original
-A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
-
-=>q111
-A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
-
-=>q112_original
-More precisely, those who *survive* life in Foundry, they get used to the security.<end>
-
-=>q112
-More precisely, those who *survive* life in Foundry, they get used to the security.<end>
-
-=>a113_original
-What can you tell me about Foundry?<end>
-
-=>a113
-What can you tell me about Foundry?<end>
-
-=>q114_original
-It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
-
-=>q114
-It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
-
-=>q115_original
-There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
-
-=>q115
-There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
-
-=>q116_original
-My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
-
-So, are you buying something?<end>
-
-=>q116
-My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
-
-So, are you buying something?<end>
-
-=>a117_original
-Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
-
-=>a117
-Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
-
-=>q118_original
-I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
-
-=>q118
-I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
-
-=>a119_original
-Do you know who they were?<end>
-
-=>a119
-Do you know who they were?<end>
-
-=>q120_original
-No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
-
-=>q120
-No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
-
-=>a121_original
-Thank you, that's all I wanted to know.<end>
-
-=>a121
-Thank you, that's all I wanted to know.<end>
-
-=>q122_original
-No problem.<end>
-
-=>q122
-No problem.<end>
-
-=>a123_original
-Do you know anything about the mine creatures?<end>
-
-=>a123
-Do you know anything about the mine creatures?<end>
-
-=>q124_original
-::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
-
-=>q124
-::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
-
-=>q125_original
-I hope that was helpful.<end>
-
-=>q125
-I hope that was helpful.<end>
-
-=>a126_original
-Thank you and goodbye.<end>
-
-=>a126
-Thank you and goodbye.<end>
-
-=>q127_original
-Welcome again. What can I get you?<end>
-
-=>q127
-Welcome again. What can I get you?<end>
-
+=>q1_original
+::The woman seems to be counting charons, but she swipes them from the counter and into her hand and then into her pocket as soon as you come near. She leans on the counter with both of her arms and gives you a friendly smile. She is somewhat short, but lean and healthy-looking, yet her voice, while light, exhibits a noticeable degree of harshness.::
+
+Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
+
+=>q1
+::The woman seems to be counting charons, but she swipes them from the counter and into her hand and then into her pocket as soon as you come near. She leans on the counter with both of her arms and gives you a friendly smile. She is somewhat short, but lean and healthy-looking, yet her voice, while light, exhibits a noticeable degree of harshness.::
+
+Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Let me see what you have to offer. ::Barter.::<end>
+
+=>a3
+Let me see what you have to offer. ::Barter.::<end>
+
+=>q4_original
+I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
+
+=>q4
+I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
+
+=>a5_original
+::Barter.::<end>
+
+=>a5
+::Barter.::<end>
+
+=>q6_original
+Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
+
+=>q6
+Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
+
+=>a7_original
+Are my steel plates ready?<end>
+
+=>a7
+Are my steel plates ready?<end>
+
+=>q8_original
+Not yet. Patience, patience.<end>
+
+=>q8
+Not yet. Patience, patience.<end>
+
+=>q9_original
+Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
+
+=>q9
+Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
+
+=>q10_original
+::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
+
+=>q10
+::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
+
+=>q11_original
+If you want a new batch, you know where to find me.<end>
+
+=>q11
+If you want a new batch, you know where to find me.<end>
+
+=>q12_original
+:: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
+
+That should be all of them.<end>
+
+=>q12
+:: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
+
+That should be all of them.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
+
+=>a22
+I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
+
+=>q23_original
+I don't deal in scrap metal, sorry. ::She shrugs.::<end>
+
+=>q23
+I don't deal in scrap metal, sorry. ::She shrugs.::<end>
+
+=>q24_original
+We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
+
+=>q24
+We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
+
+=>a25_original
+Why is the mine closed?<end>
+
+=>a25
+Why is the mine closed?<end>
+
+=>q26_original
+There was an incident.<end>
+
+=>q26
+There was an incident.<end>
+
+=>a27_original
+What kind of incident?<end>
+
+=>a27
+What kind of incident?<end>
+
+=>q28_original
+Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
+
+=>q28
+Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
+
+=>a29_original
+I ain't got time to waste, woman. Just skip to the chase.<end>
+
+=>a29
+I ain't got time to waste, woman. Just skip to the chase.<end>
+
+=>q30_original
+Don't you talk to me like that. See those guards over there? Anyhow...<end>
+
+=>q30
+Don't you talk to me like that. See those guards over there? Anyhow...<end>
+
+=>a31_original
+Here we go again...<end>
+
+=>a31
+Here we go again...<end>
+
+=>q32_original
+What?<end>
+
+=>q32
+What?<end>
+
+=>a33_original
+Never mind. What kind of incident?<end>
+
+=>a33
+Never mind. What kind of incident?<end>
+
+=>a34_original
+Just tell me what was the incident, woman. I ain't got time to waste.<end>
+
+=>a34
+Just tell me what was the incident, woman. I ain't got time to waste.<end>
+
+=>a35_original
+Very well. I wanted to ask you something else before I move on.<end>
+
+=>a35
+Very well. I wanted to ask you something else before I move on.<end>
+
+=>q36_original
+No problem.<end>
+
+=>q36
+No problem.<end>
+
+=>a37_original
+Guess I'll try elsewhere. Bye.<end>
+
+=>a37
+Guess I'll try elsewhere. Bye.<end>
+
+=>q38_original
+But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
+
+=>q38
+But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
+
+=>a39_original
+I like the sound of that.<end>
+
+=>a39
+I like the sound of that.<end>
+
+=>q40_original
+You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
+
+=>q40
+You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
+
+=>a41_original
+::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
+
+=>a41
+::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
+
+=>q42_original
+::She puts on a glove and sifts through the sundry scraplets with her fingers.::
+
+Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... ::Her voice becomes quieter and quieter.:: ...mostly, so that's gonna go in a steel furnace... 
+
+...purification, well... ::She shrugs.::
+
+...mold... press...<end>
+
+=>q42
+::She puts on a glove and sifts through the sundry scraplets with her fingers.::
+
+Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... ::Her voice becomes quieter and quieter.:: ...mostly, so that's gonna go in a steel furnace... 
+
+...purification, well... ::She shrugs.::
+
+...mold... press...<end>
+
+=>a43_original
+Leonie?<end>
+
+=>a43
+Leonie?<end>
+
+=>q44_original
+Shush, I'm calculating!
+
+<end>
+
+=>q44
+Shush, I'm calculating!
+
+<end>
+
+=>q45_original
+::And then she brings out a small calculator with mostly worn out buttons, and a scale. She types in a few numbers, *hmms* once, then reenters them again and is more pleased with the follow-up result.
+
+She then puts the metal scraps on the scale.::<end>
+
+=>q45
+::And then she brings out a small calculator with mostly worn out buttons, and a scale. She types in a few numbers, *hmms* once, then reenters them again and is more pleased with the follow-up result.
+
+She then puts the metal scraps on the scale.::<end>
+
+=>q46_original
+::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
+
+Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
+
+=>q46
+::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
+
+Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
+
+=>q47_original
+::She then taps the screen, pointing to her previous calculation, resulting in "30."::
+
+And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
+
+::She leans on the counter.:: So, boss, how about it?<end>
+
+=>q47
+::She then taps the screen, pointing to her previous calculation, resulting in "30."::
+
+And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
+
+::She leans on the counter.:: So, boss, how about it?<end>
+
+=>a48_original
+When can we start?<end>
+
+=>a48
+When can we start?<end>
+
+=>q49_original
+Now. How much scrap have you got?<end>
+
+=>q49
+Now. How much scrap have you got?<end>
+
+=>q50_original
+<end>
+
+=>q50
+<end>
+
+=>a51_original
+I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
+
+=>a51
+I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
+
+=>q52_original
+::She puts the scrap behind the counter.::
+
+I'll have some nipper take this to get processed. And you, you come back a bit later and the plates will be ready.<end>
+
+=>q52
+::She puts the scrap behind the counter.::
+
+I'll have some nipper take this to get processed. And you, you come back a bit later and the plates will be ready.<end>
+
+=>a53_original
+I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
+
+=>a53
+I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
+
+=>a54_original
+I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
+
+=>a54
+I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
+
+=>a55_original
+I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
+
+=>a55
+I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
+
+=>q56_original
+That's quite a lot of scrap. <end>
+
+=>q56
+That's quite a lot of scrap. <end>
+
+=>a57_original
+I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
+
+=>a57
+I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
+
+=>a58_original
+I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
+
+=>a58
+I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
+
+=>a59_original
+I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
+
+=>a59
+I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
+
+=>a60_original
+I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
+
+=>a60
+I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
+
+=>q61_original
+Damn, that's gonna be a lot of plates! <end>
+
+=>q61
+Damn, that's gonna be a lot of plates! <end>
+
+=>a62_original
+I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
+
+=>a62
+I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
+
+=>a63_original
+I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
+
+=>a63
+I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
+
+=>a64_original
+Not enough, I guess. I'll come back when I do.<end>
+
+=>a64
+Not enough, I guess. I'll come back when I do.<end>
+
+=>a65_original
+I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
+
+=>a65
+I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
+
+=>a66_original
+I'll be back with some more scrap. See ya.<end>
+
+=>a66
+I'll be back with some more scrap. See ya.<end>
+
+=>a67_original
+::Say nothing.::<end>
+
+=>a67
+::Say nothing.::<end>
+
+=>q68_original
+That should be it, yes.
+
+<end>
+
+=>q68
+That should be it, yes.
+
+<end>
+
+=>a69_original
+Tell me, how much scrap would I need to get a decent set of plates?<end>
+
+=>a69
+Tell me, how much scrap would I need to get a decent set of plates?<end>
+
+=>q70_original
+Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
+
+=>q70
+Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
+
+=>a71_original
+Go on.<end>
+
+=>a71
+Go on.<end>
+
+=>a72_original
+I'd like to turn some scrap into metal plates.<end>
+
+=>a72
+I'd like to turn some scrap into metal plates.<end>
+
+=>q73_original
+Can do. How much have you got? 
+
+Don't forget - a hundred bags of scrap and thirty charons per set.<end>
+
+=>q73
+Can do. How much have you got? 
+
+Don't forget - a hundred bags of scrap and thirty charons per set.<end>
+
+=>a74_original
+I got some super steel that needs shaping.<end>
+
+=>a74
+I got some super steel that needs shaping.<end>
+
+=>q75_original
+I see. So what do you want me to do with it?<end>
+
+=>q75
+I see. So what do you want me to do with it?<end>
+
+=>a76_original
+I want you to create super steel fiber. ::Give her 100 charons.::<end>
+
+=>a76
+I want you to create super steel fiber. ::Give her 100 charons.::<end>
+
+=>q77_original
+No problem. I'll get to work. 
+
+I'll put the products in the container when I'm done.<end>
+
+=>q77
+No problem. I'll get to work. 
+
+I'll put the products in the container when I'm done.<end>
+
+=>a78_original
+::Wait.::<end>
+
+=>a78
+::Wait.::<end>
+
+=>a79_original
+I want you to create super steel sheet. ::Give her 100 charons.::<end>
+
+=>a79
+I want you to create super steel sheet. ::Give her 100 charons.::<end>
+
+=>a80_original
+Actually, never mind. I've changed my mind.<end>
+
+=>a80
+Actually, never mind. I've changed my mind.<end>
+
+=>q81_original
+::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
+
+Put it in here. Let's see what we're working with.<end>
+
+=>q81
+::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
+
+Put it in here. Let's see what we're working with.<end>
+
+=>a82_original
+Understood. Before I do that, I had more questions.<end>
+
+=>a82
+Understood. Before I do that, I had more questions.<end>
+
+=>a83_original
+Got it.<end>
+
+=>a83
+Got it.<end>
+
+=>q84_original
+Put it in the container on the counter and let me see what we're working with.<end>
+
+=>q84
+Put it in the container on the counter and let me see what we're working with.<end>
+
+=>a85_original
+Bernard told me you can work with super steel...<end>
+
+=>a85
+Bernard told me you can work with super steel...<end>
+
+=>q86_original
+Ben sent you here? <end>
+
+=>q86
+Ben sent you here? <end>
+
+=>q87_original
+You actually got some?<end>
+
+=>q87
+You actually got some?<end>
+
+=>a88_original
+Yes. ::Show her your super steel.::<end>
+
+=>a88
+Yes. ::Show her your super steel.::<end>
+
+=>q89_original
+Wow, so the old coot wasn't kidding. <end>
+
+=>q89
+Wow, so the old coot wasn't kidding. <end>
+
+=>q90_original
+Yeah, I can work it.<end>
+
+=>q90
+Yeah, I can work it.<end>
+
+=>q91_original
+I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
+
+=>q91
+I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
+
+=>q92_original
+Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
+
+=>q92
+Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
+
+=>q93_original
+Either of these services will cost you a hundred charons per set of plates.<end>
+
+=>q93
+Either of these services will cost you a hundred charons per set of plates.<end>
+
+=>a94_original
+Not at the moment, no.<end>
+
+=>a94
+Not at the moment, no.<end>
+
+=>q95_original
+Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
+
+=>q95
+Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
+
+=>a96_original
+Is there anyone around here that can work with super steel?<end>
+
+=>a96
+Is there anyone around here that can work with super steel?<end>
+
+=>q97_original
+Well, well... <end>
+
+=>q97
+Well, well... <end>
+
+=>a98_original
+You seem to be working here alone with all this heavy stuff.<end>
+
+=>a98
+You seem to be working here alone with all this heavy stuff.<end>
+
+=>q99_original
+Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
+
+=>q99
+Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
+
+=>q100_original
+Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
+
+=>q100
+Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
+
+=>q101_original
+Us women aren't as friable as you may think.<end>
+
+=>q101
+Us women aren't as friable as you may think.<end>
+
+=>a102_original
+What do you sell here?<end>
+
+=>a102
+What do you sell here?<end>
+
+=>q103_original
+Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
+
+Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
+
+=>q103
+Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
+
+Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
+
+=>a104_original
+What can you tell me about TiChrome?<end>
+
+=>a104
+What can you tell me about TiChrome?<end>
+
+=>q105_original
+Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
+
+=>q105
+Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
+
+=>q106_original
+We have it in store if you'd like to take a look.<end>
+
+=>q106
+We have it in store if you'd like to take a look.<end>
+
+=>q107_original
+Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
+
+=>q107
+Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
+
+=>a108_original
+Thanks, I had more questions.<end>
+
+=>a108
+Thanks, I had more questions.<end>
+
+=>q109_original
+I'm listening...<end>
+
+=>q109
+I'm listening...<end>
+
+=>a110_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a110
+How do you feel now that the mine has been reopened?<end>
+
+=>q111_original
+A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
+
+=>q111
+A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
+
+=>q112_original
+More precisely, those who *survive* life in Foundry, they get used to the security.<end>
+
+=>q112
+More precisely, those who *survive* life in Foundry, they get used to the security.<end>
+
+=>a113_original
+What can you tell me about Foundry?<end>
+
+=>a113
+What can you tell me about Foundry?<end>
+
+=>q114_original
+It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
+
+=>q114
+It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
+
+=>q115_original
+There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
+
+=>q115
+There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
+
+=>q116_original
+My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
+
+So, are you buying something?<end>
+
+=>q116
+My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
+
+So, are you buying something?<end>
+
+=>a117_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a117
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>q118_original
+I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
+
+=>q118
+I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
+
+=>a119_original
+Do you know who they were?<end>
+
+=>a119
+Do you know who they were?<end>
+
+=>q120_original
+No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
+
+=>q120
+No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
+
+=>a121_original
+Thank you, that's all I wanted to know.<end>
+
+=>a121
+Thank you, that's all I wanted to know.<end>
+
+=>q122_original
+No problem.<end>
+
+=>q122
+No problem.<end>
+
+=>a123_original
+Do you know anything about the mine creatures?<end>
+
+=>a123
+Do you know anything about the mine creatures?<end>
+
+=>q124_original
+::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
+
+=>q124
+::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
+
+=>q125_original
+I hope that was helpful.<end>
+
+=>q125
+I hope that was helpful.<end>
+
+=>a126_original
+Thank you and goodbye.<end>
+
+=>a126
+Thank you and goodbye.<end>
+
+=>q127_original
+Welcome again. What can I get you?<end>
+
+=>q127
+Welcome again. What can I get you?<end>
+

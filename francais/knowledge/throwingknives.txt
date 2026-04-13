@@ -1,29 +1,29 @@
-::Regular
-Throw the knife dealing {0} damage if it hits the target. This damage incurs {2}% of target's mechanical resistance and threshold, but the damage that passes armor is increased by {3}% against living targets. Damage and precision scale with the throwing skill. When throwing a knife while in melee range of an enemy, you suffer {1}% hit chance penalty.
-
-::BurrowerPoison
-If target takes damage it is also afflicted with burrower poison that deals {0} damage each turn for up to {1}. Stacks {2} times.
-
-::CaveEarPoison
-If target takes damage it is also afflicted with cave ear poison that increases all biological damage taken by {0}% and reduces perception by {1}. Lasts up to {2}.
-
-::CrawlerPoison
-If target takes damage it is also afflicted with crawler poison that deals {0} damage each turn for {1}. If the poison is not removed before it expires it will stun the victim for {2}.
-
-::BlackDragonPoison
-If target takes damage it is also afflicted with black dragon poison which causes psionic inhibition, preventing the victim from invoking psi abilities or regenerating psi points. Lasts {0}.
-
-::SpiritPoison
-If target takes damage it is also afflicted with spirit poison that deals {0} damage per turn each turn for {1} and reduces resolve by {2}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.
-
-::BlindingPoison
-If target takes damage it is also afflicted with blinding poison that deals {0} damage each turn for up to {1} and reduces perception by {2}. Stacks {3} times.
-
-::LeperPoison
-If target takes damage it is also afflicted with leper poison that deals {0} damage each turn for up to {1} and increases all mechanical damage taken by {2}%. Stacks {3} times.
-
-::HeartbreakPoison
-If target takes damage it is also afflicted with heartbreak poison that deals {0} damage each turn for up to {1}. Stacks {2} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.
-
-::ShockShuriken
-Throw the shuriken dealing {0} damage (incurring {3}% of target's mechanical resistance and threshold) and {1} damage if it hits the target. If any electrical damage is dealt, there's a {4}% chance to stun or short-circuit the target for one turn. When throwing while in melee range of an enemy, you suffer {2}% hit chance penalty.
+::Regular
+Throw the knife dealing {0} damage if it hits the target. This damage incurs {2}% of target's mechanical resistance and threshold, but the damage that passes armor is increased by {3}% against living targets. Damage and precision scale with the throwing skill. When throwing a knife while in melee range of an enemy, you suffer {1}% hit chance penalty.
+
+::BurrowerPoison
+If target takes damage it is also afflicted with burrower poison that deals {0} damage each turn for up to {1}. Stacks {2} times.
+
+::CaveEarPoison
+If target takes damage it is also afflicted with cave ear poison that increases all biological damage taken by {0}% and reduces perception by {1}. Lasts up to {2}.
+
+::CrawlerPoison
+If target takes damage it is also afflicted with crawler poison that deals {0} damage each turn for {1}. If the poison is not removed before it expires it will stun the victim for {2}.
+
+::BlackDragonPoison
+If target takes damage it is also afflicted with black dragon poison which causes psionic inhibition, preventing the victim from invoking psi abilities or regenerating psi points. Lasts {0}.
+
+::SpiritPoison
+If target takes damage it is also afflicted with spirit poison that deals {0} damage per turn each turn for {1} and reduces resolve by {2}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's humanoid.
+
+::BlindingPoison
+If target takes damage it is also afflicted with blinding poison that deals {0} damage each turn for up to {1} and reduces perception by {2}. Stacks {3} times.
+
+::LeperPoison
+If target takes damage it is also afflicted with leper poison that deals {0} damage each turn for up to {1} and increases all mechanical damage taken by {2}%. Stacks {3} times.
+
+::HeartbreakPoison
+If target takes damage it is also afflicted with heartbreak poison that deals {0} damage each turn for up to {1}. Stacks {2} times. If this poison is allowed the expire naturally it will then deal a great amount of damage which increases ever more rapidly with each stack.
+
+::ShockShuriken
+Throw the shuriken dealing {0} damage (incurring {3}% of target's mechanical resistance and threshold) and {1} damage if it hits the target. If any electrical damage is dealt, there's a {4}% chance to stun or short-circuit the target for one turn. When throwing while in melee range of an enemy, you suffer {2}% hit chance penalty.

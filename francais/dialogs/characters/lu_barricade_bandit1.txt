@@ -1,174 +1,174 @@
-=>q1_original
-Alright, move along...<end>
-
-=>q1
-Alright, move along...<end>
-
-=>q2_original
-Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
-
-=>q2
-Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
-
-=>q3_original
-Um.. um... $(#jack/sister), just... go. You can pass...<end>
-
-=>q3
-Um.. um... $(#jack/sister), just... go. You can pass...<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>q5_original
-Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_bandit1_toll) charons!<end>
-
-=>q5
-Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_bandit1_toll) charons!<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Just take it and leave me alone. ::Give him 20 charons.::<end>
-
-=>a7
-Just take it and leave me alone. ::Give him 20 charons.::<end>
-
-=>q8_original
-::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
-
-=>q8
-::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
-
-=>a9_original
-Here's 5 charons. ::Give him 5 charons::<end>
-
-=>a9
-Here's 5 charons. ::Give him 5 charons::<end>
-
-=>q10_original
-Alright, what are you waiting for? Hop along little hopper, hop!<end>
-
-=>q10
-Alright, what are you waiting for? Hop along little hopper, hop!<end>
-
-=>a11_original
-Just take it and leave me alone. ::Give him 30 charons.::<end>
-
-=>a11
-Just take it and leave me alone. ::Give him 30 charons.::<end>
-
-=>a12_original
-You wont get even one charon out from me!<end>
-
-=>a12
-You wont get even one charon out from me!<end>
-
-=>q13_original
-We'll see about that! Maggot! ::He readies his weapon.::<end>
-
-=>q13
-We'll see about that! Maggot! ::He readies his weapon.::<end>
-
-=>a14_original
-::Fight!::<end>
-
-=>a14
-::Fight!::<end>
-
-=>a15_original
-::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
-
-=>a15
-::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
-
-=>q16_original
-Um... calm down, take what you need, okay? We were just messing around.<end>
-
-=>q16
-Um... calm down, take what you need, okay? We were just messing around.<end>
-
-=>q17_original
-Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
-
-=>q17
-Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
-
-=>q18_original
-Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
-
-=>q18
-Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
-
-=>a19_original
-::Fight!::<end>
-
-=>a19
-::Fight!::<end>
-
-=>a20_original
-::[Persuade]:: Look sweetie, I just want to pass.<end>
-
-=>a20
-::[Persuade]:: Look sweetie, I just want to pass.<end>
-
-=>q21_original
-Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
-
-=>q21
-Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
-
-=>q22_original
-I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
-
-=>q22
-I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
-
-=>a23_original
-Ok, I'll pay. ::Give him 5 charons.::<end>
-
-=>a23
-Ok, I'll pay. ::Give him 5 charons.::<end>
-
-=>a24_original
-Sounds good, but I'll just have to come back later.<end>
-
-=>a24
-Sounds good, but I'll just have to come back later.<end>
-
-=>q25_original
-Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
-
-=>q25
-Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
-
-=>a26_original
-Looks like I need to find another way around.<end>
-
-=>a26
-Looks like I need to find another way around.<end>
-
-=>q27_original
-Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
-
-=>q27
-Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>q29_original
-You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
-
-=>q29
-You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
-
+=>q1_original
+Alright, move along...<end>
+
+=>q1
+Alright, move along...<end>
+
+=>q2_original
+Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
+
+=>q2
+Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
+
+=>q3_original
+Um.. um... $(#jack/sister), just... go. You can pass...<end>
+
+=>q3
+Um.. um... $(#jack/sister), just... go. You can pass...<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_bandit1_toll) charons!<end>
+
+=>q5
+Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_bandit1_toll) charons!<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Just take it and leave me alone. ::Give him 20 charons.::<end>
+
+=>a7
+Just take it and leave me alone. ::Give him 20 charons.::<end>
+
+=>q8_original
+::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
+
+=>q8
+::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
+
+=>a9_original
+Here's 5 charons. ::Give him 5 charons::<end>
+
+=>a9
+Here's 5 charons. ::Give him 5 charons::<end>
+
+=>q10_original
+Alright, what are you waiting for? Hop along little hopper, hop!<end>
+
+=>q10
+Alright, what are you waiting for? Hop along little hopper, hop!<end>
+
+=>a11_original
+Just take it and leave me alone. ::Give him 30 charons.::<end>
+
+=>a11
+Just take it and leave me alone. ::Give him 30 charons.::<end>
+
+=>a12_original
+You wont get even one charon out from me!<end>
+
+=>a12
+You wont get even one charon out from me!<end>
+
+=>q13_original
+We'll see about that! Maggot! ::He readies his weapon.::<end>
+
+=>q13
+We'll see about that! Maggot! ::He readies his weapon.::<end>
+
+=>a14_original
+::Fight!::<end>
+
+=>a14
+::Fight!::<end>
+
+=>a15_original
+::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
+
+=>a15
+::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
+
+=>q16_original
+Um... calm down, take what you need, okay? We were just messing around.<end>
+
+=>q16
+Um... calm down, take what you need, okay? We were just messing around.<end>
+
+=>q17_original
+Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
+
+=>q17
+Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
+
+=>q18_original
+Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
+
+=>q18
+Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
+
+=>a19_original
+::Fight!::<end>
+
+=>a19
+::Fight!::<end>
+
+=>a20_original
+::[Persuade]:: Look sweetie, I just want to pass.<end>
+
+=>a20
+::[Persuade]:: Look sweetie, I just want to pass.<end>
+
+=>q21_original
+Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
+
+=>q21
+Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
+
+=>q22_original
+I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
+
+=>q22
+I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
+
+=>a23_original
+Ok, I'll pay. ::Give him 5 charons.::<end>
+
+=>a23
+Ok, I'll pay. ::Give him 5 charons.::<end>
+
+=>a24_original
+Sounds good, but I'll just have to come back later.<end>
+
+=>a24
+Sounds good, but I'll just have to come back later.<end>
+
+=>q25_original
+Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
+
+=>q25
+Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
+
+=>a26_original
+Looks like I need to find another way around.<end>
+
+=>a26
+Looks like I need to find another way around.<end>
+
+=>q27_original
+Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
+
+=>q27
+Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
+
+=>q29
+You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
+

@@ -1,178 +1,178 @@
-=>q1_original
-::A thin young woman speaks to you with a quiet voice, almost a whisper.::
-
-Got any spare change? A coin or two?
-
-::The small, malnourished dog stares at you, reaffirming its master's plead.::<end>
-
-=>q1
-::A thin young woman speaks to you with a quiet voice, almost a whisper.::
-
-Got any spare change? A coin or two?
-
-::The small, malnourished dog stares at you, reaffirming its master's plead.::<end>
-
-=>a2_original
-Take this. ::Give her one stygian coin.::<end>
-
-=>a2
-Take this. ::Give her one stygian coin.::<end>
-
-=>q3_original
-::She smiles at you.:: Thanks. Every coin means a lot. Bless you.<end>
-
-=>q3
-::She smiles at you.:: Thanks. Every coin means a lot. Bless you.<end>
-
-=>a4_original
-You watch yourself. Bye.<end>
-
-=>a4
-You watch yourself. Bye.<end>
-
-=>a5_original
-Why not. ::Give her five stygian coins.::<end>
-
-=>a5
-Why not. ::Give her five stygian coins.::<end>
-
-=>a6_original
-Here's ten coins for you. ::Give her ten stygian coins.::<end>
-
-=>a6
-Here's ten coins for you. ::Give her ten stygian coins.::<end>
-
-=>q7_original
-::She smiles at you.:: That's a lot more than what I usually get. Look, Kirby, we're gonna eat something nice today.<end>
-
-=>q7
-::She smiles at you.:: That's a lot more than what I usually get. Look, Kirby, we're gonna eat something nice today.<end>
-
-=>q8_original
-::It wiggles its tail happily.:: Woof!<end>
-
-=>q8
-::It wiggles its tail happily.:: Woof!<end>
-
-=>q9_original
-Thanks again. Bless you.<end>
-
-=>q9
-Thanks again. Bless you.<end>
-
-=>a10_original
-A coin or two isn't gonna feed both of you. Take this. ::Give her twenty stygian coins.::<end>
-
-=>a10
-A coin or two isn't gonna feed both of you. Take this. ::Give her twenty stygian coins.::<end>
-
-=>a11_original
-Here's fifty charons. For you and the pooch. ::Give her fifty stygian coins.::<end>
-
-=>a11
-Here's fifty charons. For you and the pooch. ::Give her fifty stygian coins.::<end>
-
-=>q12_original
-::She is silent for a moment, wondering if what she heard was real or not. But after a pile of coins shines before her eyes, she then becomes certain that her senses still haven't faltered from hunger.::
-
-I can't, I can't believe this. Thank you... thank you so much! <end>
-
-=>q12
-::She is silent for a moment, wondering if what she heard was real or not. But after a pile of coins shines before her eyes, she then becomes certain that her senses still haven't faltered from hunger.::
-
-I can't, I can't believe this. Thank you... thank you so much! <end>
-
-=>q13_original
-Kirby, say your thanks to this kind $(#gentleman/lady).<end>
-
-=>q13
-Kirby, say your thanks to this kind $(#gentleman/lady).<end>
-
-=>a14_original
-Here. You need this more than I do. ::Give her one hundred stygian coins.::<end>
-
-=>a14
-Here. You need this more than I do. ::Give her one hundred stygian coins.::<end>
-
-=>a15_original
-I'm sorry, but my pockets are empty.<end>
-
-=>a15
-I'm sorry, but my pockets are empty.<end>
-
-=>q16_original
-::She nods sadly and places her small hands above the fire.::<end>
-
-=>q16
-::She nods sadly and places her small hands above the fire.::<end>
-
-=>a17_original
-How about you *earn* those few coins, eh, honey? You know, the good ol' way.<end>
-
-=>a17
-How about you *earn* those few coins, eh, honey? You know, the good ol' way.<end>
-
-=>q18_original
-::Repulsed by your suggestions, the woman turns her eyes away from you. Her dog responds too by snarling at you.::
-
-Shame on you. Leave me alone.<end>
-
-=>q18
-::Repulsed by your suggestions, the woman turns her eyes away from you. Her dog responds too by snarling at you.::
-
-Shame on you. Leave me alone.<end>
-
-=>a19_original
-Hey, an offer is an offer. Think about it.<end>
-
-=>a19
-Hey, an offer is an offer. Think about it.<end>
-
-=>q20_original
-::She remains quiet; her dog, on the other hand...::<end>
-
-=>q20
-::She remains quiet; her dog, on the other hand...::<end>
-
-=>q21_original
-Grrrrrrrrrrrr! Woof! GRRRRRR!<end>
-
-=>q21
-Grrrrrrrrrrrr! Woof! GRRRRRR!<end>
-
-=>a22_original
-Come on, this most certainly isn't the first time someone mentioned this to you?<end>
-
-=>a22
-Come on, this most certainly isn't the first time someone mentioned this to you?<end>
-
-=>a23_original
-::Laugh at her and leave.::<end>
-
-=>a23
-::Laugh at her and leave.::<end>
-
-=>a24_original
-There's a way for you to earn money; I can get you some customers if you need help with that. But ditch that smelly mutt first.<end>
-
-=>a24
-There's a way for you to earn money; I can get you some customers if you need help with that. But ditch that smelly mutt first.<end>
-
-=>q25_original
-::She ignores you completely.::<end>
-
-=>q25
-::She ignores you completely.::<end>
-
-=>q26_original
-Bless you.<end>
-
-=>q26
-Bless you.<end>
-
-=>q27_original
-My hands are cold...<end>
-
-=>q27
-My hands are cold...<end>
-
+=>q1_original
+::A thin young woman speaks to you with a quiet voice, almost a whisper.::
+
+Got any spare change? A coin or two?
+
+::The small, malnourished dog stares at you, reaffirming its master's plead.::<end>
+
+=>q1
+::A thin young woman speaks to you with a quiet voice, almost a whisper.::
+
+Got any spare change? A coin or two?
+
+::The small, malnourished dog stares at you, reaffirming its master's plead.::<end>
+
+=>a2_original
+Take this. ::Give her one stygian coin.::<end>
+
+=>a2
+Take this. ::Give her one stygian coin.::<end>
+
+=>q3_original
+::She smiles at you.:: Thanks. Every coin means a lot. Bless you.<end>
+
+=>q3
+::She smiles at you.:: Thanks. Every coin means a lot. Bless you.<end>
+
+=>a4_original
+You watch yourself. Bye.<end>
+
+=>a4
+You watch yourself. Bye.<end>
+
+=>a5_original
+Why not. ::Give her five stygian coins.::<end>
+
+=>a5
+Why not. ::Give her five stygian coins.::<end>
+
+=>a6_original
+Here's ten coins for you. ::Give her ten stygian coins.::<end>
+
+=>a6
+Here's ten coins for you. ::Give her ten stygian coins.::<end>
+
+=>q7_original
+::She smiles at you.:: That's a lot more than what I usually get. Look, Kirby, we're gonna eat something nice today.<end>
+
+=>q7
+::She smiles at you.:: That's a lot more than what I usually get. Look, Kirby, we're gonna eat something nice today.<end>
+
+=>q8_original
+::It wiggles its tail happily.:: Woof!<end>
+
+=>q8
+::It wiggles its tail happily.:: Woof!<end>
+
+=>q9_original
+Thanks again. Bless you.<end>
+
+=>q9
+Thanks again. Bless you.<end>
+
+=>a10_original
+A coin or two isn't gonna feed both of you. Take this. ::Give her twenty stygian coins.::<end>
+
+=>a10
+A coin or two isn't gonna feed both of you. Take this. ::Give her twenty stygian coins.::<end>
+
+=>a11_original
+Here's fifty charons. For you and the pooch. ::Give her fifty stygian coins.::<end>
+
+=>a11
+Here's fifty charons. For you and the pooch. ::Give her fifty stygian coins.::<end>
+
+=>q12_original
+::She is silent for a moment, wondering if what she heard was real or not. But after a pile of coins shines before her eyes, she then becomes certain that her senses still haven't faltered from hunger.::
+
+I can't, I can't believe this. Thank you... thank you so much! <end>
+
+=>q12
+::She is silent for a moment, wondering if what she heard was real or not. But after a pile of coins shines before her eyes, she then becomes certain that her senses still haven't faltered from hunger.::
+
+I can't, I can't believe this. Thank you... thank you so much! <end>
+
+=>q13_original
+Kirby, say your thanks to this kind $(#gentleman/lady).<end>
+
+=>q13
+Kirby, say your thanks to this kind $(#gentleman/lady).<end>
+
+=>a14_original
+Here. You need this more than I do. ::Give her one hundred stygian coins.::<end>
+
+=>a14
+Here. You need this more than I do. ::Give her one hundred stygian coins.::<end>
+
+=>a15_original
+I'm sorry, but my pockets are empty.<end>
+
+=>a15
+I'm sorry, but my pockets are empty.<end>
+
+=>q16_original
+::She nods sadly and places her small hands above the fire.::<end>
+
+=>q16
+::She nods sadly and places her small hands above the fire.::<end>
+
+=>a17_original
+How about you *earn* those few coins, eh, honey? You know, the good ol' way.<end>
+
+=>a17
+How about you *earn* those few coins, eh, honey? You know, the good ol' way.<end>
+
+=>q18_original
+::Repulsed by your suggestions, the woman turns her eyes away from you. Her dog responds too by snarling at you.::
+
+Shame on you. Leave me alone.<end>
+
+=>q18
+::Repulsed by your suggestions, the woman turns her eyes away from you. Her dog responds too by snarling at you.::
+
+Shame on you. Leave me alone.<end>
+
+=>a19_original
+Hey, an offer is an offer. Think about it.<end>
+
+=>a19
+Hey, an offer is an offer. Think about it.<end>
+
+=>q20_original
+::She remains quiet; her dog, on the other hand...::<end>
+
+=>q20
+::She remains quiet; her dog, on the other hand...::<end>
+
+=>q21_original
+Grrrrrrrrrrrr! Woof! GRRRRRR!<end>
+
+=>q21
+Grrrrrrrrrrrr! Woof! GRRRRRR!<end>
+
+=>a22_original
+Come on, this most certainly isn't the first time someone mentioned this to you?<end>
+
+=>a22
+Come on, this most certainly isn't the first time someone mentioned this to you?<end>
+
+=>a23_original
+::Laugh at her and leave.::<end>
+
+=>a23
+::Laugh at her and leave.::<end>
+
+=>a24_original
+There's a way for you to earn money; I can get you some customers if you need help with that. But ditch that smelly mutt first.<end>
+
+=>a24
+There's a way for you to earn money; I can get you some customers if you need help with that. But ditch that smelly mutt first.<end>
+
+=>q25_original
+::She ignores you completely.::<end>
+
+=>q25
+::She ignores you completely.::<end>
+
+=>q26_original
+Bless you.<end>
+
+=>q26
+Bless you.<end>
+
+=>q27_original
+My hands are cold...<end>
+
+=>q27
+My hands are cold...<end>
+

@@ -1,84 +1,84 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Hi, $(context.player.Name).<end>
-
-=>q2
-Hi, $(context.player.Name).<end>
-
-=>q3_original
-So how do you like your new home so far?<end>
-
-=>q3
-So how do you like your new home so far?<end>
-
-=>q4_original
-Any news on Lora's condition?<end>
-
-=>q4
-Any news on Lora's condition?<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>q6_original
-Did someone get murdered at the bar?<end>
-
-=>q6
-Did someone get murdered at the bar?<end>
-
-=>q7_original
-What's that about a psionic turning old in front of everybody at the bar?<end>
-
-=>q7
-What's that about a psionic turning old in front of everybody at the bar?<end>
-
-=>q8_original
-If you're having trouble finding some info, best speak with Vera.<end>
-
-=>q8
-If you're having trouble finding some info, best speak with Vera.<end>
-
-=>q9_original
-Did you hear? Newton got killed by psi-beetles.<end>
-
-=>q9
-Did you hear? Newton got killed by psi-beetles.<end>
-
-=>q10_original
-It's nice and quiet here.<end>
-
-=>q10
-It's nice and quiet here.<end>
-
-=>q11_original
-How did it go at the outposts?<end>
-
-=>q11
-How did it go at the outposts?<end>
-
-=>q12_original
-Is it true we're deploying our forces to Junkyard?<end>
-
-=>q12
-Is it true we're deploying our forces to Junkyard?<end>
-
-=>q13_original
-Sorry, no time to chat. Gotta get some work done.<end>
-
-=>q13
-Sorry, no time to chat. Gotta get some work done.<end>
-
-=>q14_original
-Apparently that drunk moron thought Big Bret killed Patrick! What a...<end>
-
-=>q14
-Apparently that drunk moron thought Big Bret killed Patrick! What a...<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Hi, $(context.player.Name).<end>
+
+=>q2
+Hi, $(context.player.Name).<end>
+
+=>q3_original
+So how do you like your new home so far?<end>
+
+=>q3
+So how do you like your new home so far?<end>
+
+=>q4_original
+Any news on Lora's condition?<end>
+
+=>q4
+Any news on Lora's condition?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Did someone get murdered at the bar?<end>
+
+=>q6
+Did someone get murdered at the bar?<end>
+
+=>q7_original
+What's that about a psionic turning old in front of everybody at the bar?<end>
+
+=>q7
+What's that about a psionic turning old in front of everybody at the bar?<end>
+
+=>q8_original
+If you're having trouble finding some info, best speak with Vera.<end>
+
+=>q8
+If you're having trouble finding some info, best speak with Vera.<end>
+
+=>q9_original
+Did you hear? Newton got killed by psi-beetles.<end>
+
+=>q9
+Did you hear? Newton got killed by psi-beetles.<end>
+
+=>q10_original
+It's nice and quiet here.<end>
+
+=>q10
+It's nice and quiet here.<end>
+
+=>q11_original
+How did it go at the outposts?<end>
+
+=>q11
+How did it go at the outposts?<end>
+
+=>q12_original
+Is it true we're deploying our forces to Junkyard?<end>
+
+=>q12
+Is it true we're deploying our forces to Junkyard?<end>
+
+=>q13_original
+Sorry, no time to chat. Gotta get some work done.<end>
+
+=>q13
+Sorry, no time to chat. Gotta get some work done.<end>
+
+=>q14_original
+Apparently that drunk moron thought Big Bret killed Patrick! What a...<end>
+
+=>q14
+Apparently that drunk moron thought Big Bret killed Patrick! What a...<end>
+

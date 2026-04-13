@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Stay away from rathound, I heard the newest batch is extra mangy.<end>
-
-=>q2
-Stay away from rathound, I heard the newest batch is extra mangy.<end>
-
-=>q3_original
-Try the eels, they're good for ya.<end>
-
-=>q3
-Try the eels, they're good for ya.<end>
-
-=>q4_original
-The food's not as bad as it smells. It's worse.<end>
-
-=>q4
-The food's not as bad as it smells. It's worse.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Stay away from rathound, I heard the newest batch is extra mangy.<end>
+
+=>q2
+Stay away from rathound, I heard the newest batch is extra mangy.<end>
+
+=>q3_original
+Try the eels, they're good for ya.<end>
+
+=>q3
+Try the eels, they're good for ya.<end>
+
+=>q4_original
+The food's not as bad as it smells. It's worse.<end>
+
+=>q4
+The food's not as bad as it smells. It's worse.<end>
+

@@ -1,66 +1,66 @@
-=>q1_original
-Get lost, traitor.<end>
-
-=>q1
-Get lost, traitor.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-His Excellency is waiting for you in his office. Go straight, then left.<end>
-
-=>q3
-His Excellency is waiting for you in his office. Go straight, then left.<end>
-
-=>q4_original
-If you need supplies, speak to Prevlic in the armory.<end>
-
-=>q4
-If you need supplies, speak to Prevlic in the armory.<end>
-
-=>q5_original
-I'm sure now that there are more of us alive. We can defeat the Faceless!<end>
-
-=>q5
-I'm sure now that there are more of us alive. We can defeat the Faceless!<end>
-
-=>q6_original
-I knew Eidein wouldn't fall to the Faceless!<end>
-
-=>q6
-I knew Eidein wouldn't fall to the Faceless!<end>
-
-=>q7_original
-Are we all that's left?<end>
-
-=>q7
-Are we all that's left?<end>
-
-=>q8_original
-The Faceless will pay for all the lives they took!<end>
-
-=>q8
-The Faceless will pay for all the lives they took!<end>
-
-=>q9_original
-We will protect Tchort until our last breath, $(#brother/sister).<end>
-
-=>q9
-We will protect Tchort until our last breath, $(#brother/sister).<end>
-
-=>q10_original
-$(#Brother/Sister)?<end>
-
-=>q10
-$(#Brother/Sister)?<end>
-
-=>q11_original
-We've heard the good news! We just need to hold on a bit longer.<end>
-
-=>q11
-We've heard the good news! We just need to hold on a bit longer.<end>
-
+=>q1_original
+Get lost, traitor.<end>
+
+=>q1
+Get lost, traitor.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+His Excellency is waiting for you in his office. Go straight, then left.<end>
+
+=>q3
+His Excellency is waiting for you in his office. Go straight, then left.<end>
+
+=>q4_original
+If you need supplies, speak to Prevlic in the armory.<end>
+
+=>q4
+If you need supplies, speak to Prevlic in the armory.<end>
+
+=>q5_original
+I'm sure now that there are more of us alive. We can defeat the Faceless!<end>
+
+=>q5
+I'm sure now that there are more of us alive. We can defeat the Faceless!<end>
+
+=>q6_original
+I knew Eidein wouldn't fall to the Faceless!<end>
+
+=>q6
+I knew Eidein wouldn't fall to the Faceless!<end>
+
+=>q7_original
+Are we all that's left?<end>
+
+=>q7
+Are we all that's left?<end>
+
+=>q8_original
+The Faceless will pay for all the lives they took!<end>
+
+=>q8
+The Faceless will pay for all the lives they took!<end>
+
+=>q9_original
+We will protect Tchort until our last breath, $(#brother/sister).<end>
+
+=>q9
+We will protect Tchort until our last breath, $(#brother/sister).<end>
+
+=>q10_original
+$(#Brother/Sister)?<end>
+
+=>q10
+$(#Brother/Sister)?<end>
+
+=>q11_original
+We've heard the good news! We just need to hold on a bit longer.<end>
+
+=>q11
+We've heard the good news! We just need to hold on a bit longer.<end>
+

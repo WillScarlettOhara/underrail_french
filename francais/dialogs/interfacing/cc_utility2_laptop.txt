@@ -1,496 +1,496 @@
-=>q1_original
-Mhhhnnn? Hnnnn...<end>
-
-=>q1
-Mhhhnnn? Hnnnn...<end>
-
-=>a2_original
-::Leave.::<end>
-
-=>a2
-::Leave.::<end>
-
-=>q3_original
-::BPTD ver. 3.0.::
-
-::The computer has restricted access to most of its programs, only revealing a small portion of its data. In addition, all available information is of recent origin, indicated by obnoxious notification system.::<end>
-
-=>q3
-::BPTD ver. 3.0.::
-
-::The computer has restricted access to most of its programs, only revealing a small portion of its data. In addition, all available information is of recent origin, indicated by obnoxious notification system.::<end>
-
-=>a4_original
-::New device attached! (Remote Controller - HVPC)::<end>
-
-=>a4
-::New device attached! (Remote Controller - HVPC)::<end>
-
-=>q5_original
-::Reestablishing connection with compatible remote devices, please wait...::<end>
-
-=>q5
-::Reestablishing connection with compatible remote devices, please wait...::<end>
-
-=>q6_original
-::HVPC connected and online. Voltage control established. Penetration target: High-end.::<end>
-
-=>q6
-::HVPC connected and online. Voltage control established. Penetration target: High-end.::<end>
-
-=>a7_original
-::Energizing options.::<end>
-
-=>a7
-::Energizing options.::<end>
-
-=>q8_original
-::Insufficient vulnerability achieved. Compliling solutions, please wait...::<end>
-
-=>q8
-::Insufficient vulnerability achieved. Compliling solutions, please wait...::<end>
-
-=>q9_original
-::Detected potential weak spots. Cooling facility capabilities unexplored. Overcharge function available and not employed. Location: down-east. Seek further destabilization near the cooling source.::<end>
-
-=>q9
-::Detected potential weak spots. Cooling facility capabilities unexplored. Overcharge function available and not employed. Location: down-east. Seek further destabilization near the cooling source.::<end>
-
-=>a10_original
-::Go back::<end>
-
-=>a10
-::Go back::<end>
-
-=>a11_original
-::Leave.::<end>
-
-=>a11
-::Leave.::<end>
-
-=>q12_original
-::HVPC fully engaged. Ionizing radiation data to be generated.::<end>
-
-=>q12
-::HVPC fully engaged. Ionizing radiation data to be generated.::<end>
-
-=>a13_original
-::Go back.::<end>
-
-=>a13
-::Go back.::<end>
-
-=>q14_original
-::RCEG disconnected, missing designated owner. Safety mode engaged.
-
-Biometrics disabled. Remote control disabled. Short range ionization disabled.
-
-Battery recharging enabled. Digital assistance enabled.::<end>
-
-=>q14
-::RCEG disconnected, missing designated owner. Safety mode engaged.
-
-Biometrics disabled. Remote control disabled. Short range ionization disabled.
-
-Battery recharging enabled. Digital assistance enabled.::<end>
-
-=>a15_original
-::Notes::<end>
-
-=>a15
-::Notes::<end>
-
-=>q16_original
-::There are a few options available, the rest are unselectable.::<end>
-
-=>q16
-::There are a few options available, the rest are unselectable.::<end>
-
-=>a17_original
-::Hot spots. NEW!::<end>
-
-=>a17
-::Hot spots. NEW!::<end>
-
-=>q18_original
-::Only three options can be viewed.::<end>
-
-=>q18
-::Only three options can be viewed.::<end>
-
-=>a19_original
-::Steel anchor. (-)::<end>
-
-=>a19
-::Steel anchor. (-)::<end>
-
-=>a20_original
-::Armor museum. (-)::<end>
-
-=>a20
-::Armor museum. (-)::<end>
-
-=>a21_original
-::Evesdropping zone. (-)::<end>
-
-=>a21
-::Evesdropping zone. (-)::<end>
-
-=>a22_original
-::Dust stash. (+)::<end>
-
-=>a22
-::Dust stash. (+)::<end>
-
-=>q23_original
-::Boxes... boxes of filled with nothing and more...::<end>
-
-=>q23
-::Boxes... boxes of filled with nothing and more...::<end>
-
-=>a24_original
-::Go back.::<end>
-
-=>a24
-::Go back.::<end>
-
-=>a25_original
-::Coil plateau. (-)::<end>
-
-=>a25
-::Coil plateau. (-)::<end>
-
-=>a26_original
-::Probing shack. (-) NEW!::<end>
-
-=>a26
-::Probing shack. (-) NEW!::<end>
-
-=>q27_original
-::The magnet tracker leads to there, without a doubt. Has it been removed, idk, but I have no other option than to crunch my way in there. It looks abandoned, anyway. The box inside is worth it. That research lab must have something in there worth a look.::<end>
-
-=>q27
-::The magnet tracker leads to there, without a doubt. Has it been removed, idk, but I have no other option than to crunch my way in there. It looks abandoned, anyway. The box inside is worth it. That research lab must have something in there worth a look.::<end>
-
-=>a28_original
-::Gizmos needed?::<end>
-
-=>a28
-::Gizmos needed?::<end>
-
-=>q29_original
-::High Voltage Penetrator Core. It's disassembled, and its pieces are all over the damn place.::<end>
-
-=>q29
-::High Voltage Penetrator Core. It's disassembled, and its pieces are all over the damn place.::<end>
-
-=>q30_original
-<end>
-
-=>q30
-<end>
-
-=>a31_original
-::Sewage hole.::<end>
-
-=>a31
-::Sewage hole.::<end>
-
-=>q32_original
-::Northwest city sewers. Hidden lever, second hole.::
-
-::Heavily Compromised!!!::
-
-::A single available option reads: ::
-
-::Acid Hunters::<end>
-
-=>q32
-::Northwest city sewers. Hidden lever, second hole.::
-
-::Heavily Compromised!!!::
-
-::A single available option reads: ::
-
-::Acid Hunters::<end>
-
-=>a33_original
-::Read the message::<end>
-
-=>a33
-::Read the message::<end>
-
-=>q34_original
-::Gizmos brought an even bigger gizmo. BIG, BIG DEAL. A box with something strange inside. Has many shapes, lights, and markings, unlike anything else. Questionable origin. A Power source?! Charged an arm for it, no coin. Box tracked, lost trail at the Ctech research lab? Probe there *next*!
-
-Now AHs came back to the sewers (shaft 2), three of them took over the hole while afk. Hostile intentions? Maybe ghost them.::<end>
-
-=>q34
-::Gizmos brought an even bigger gizmo. BIG, BIG DEAL. A box with something strange inside. Has many shapes, lights, and markings, unlike anything else. Questionable origin. A Power source?! Charged an arm for it, no coin. Box tracked, lost trail at the Ctech research lab? Probe there *next*!
-
-Now AHs came back to the sewers (shaft 2), three of them took over the hole while afk. Hostile intentions? Maybe ghost them.::<end>
-
-=>a35_original
-::Degradation store.::<end>
-
-=>a35
-::Degradation store.::<end>
-
-=>q36_original
-::Orange box, nearby store shelves. South of the Institute of T.::
-
-::Moderately compromised.::<end>
-
-=>q36
-::Orange box, nearby store shelves. South of the Institute of T.::
-
-::Moderately compromised.::<end>
-
-=>a37_original
-::Echoing warehouse.::<end>
-
-=>a37
-::Echoing warehouse.::<end>
-
-=>q38_original
-::Orange box, nearby service room. North of the Fort A.::
-
-::Moderately compromised.::<end>
-
-=>q38
-::Orange box, nearby service room. North of the Fort A.::
-
-::Moderately compromised.::<end>
-
-=>a39_original
-::The Orange Box.::<end>
-
-=>a39
-::The Orange Box.::<end>
-
-=>q40_original
-::Emergency buzzers. Plug it in and play back the sounds it asks for. Three sequences in a row without a mistake. Colors of progression - red, green, blue, I think... If fail, start over.<end>
-
-=>q40
-::Emergency buzzers. Plug it in and play back the sounds it asks for. Three sequences in a row without a mistake. Colors of progression - red, green, blue, I think... If fail, start over.<end>
-
-=>a41_original
-::Go back.::<end>
-
-=>a41
-::Go back.::<end>
-
-=>q42_original
-::Select an option.::<end>
-
-=>q42
-::Select an option.::<end>
-
-=>a43_original
-::Full gig.::<end>
-
-=>a43
-::Full gig.::<end>
-
-=>q44_original
-::Make HVPC, charge the big grid at CC. Facility below has emergency EXIT, should lead close to Ctech stash, or something else entirely.
-
-Need cables, core and controller. Cables in the sewers. Core and controller in Upper Metro. Last two need Orange box. Play them sounds at emergency buzzers.
-
-Heat up grid, then if needed heat up boilers down below.::<end>
-
-=>q44
-::Make HVPC, charge the big grid at CC. Facility below has emergency EXIT, should lead close to Ctech stash, or something else entirely.
-
-Need cables, core and controller. Cables in the sewers. Core and controller in Upper Metro. Last two need Orange box. Play them sounds at emergency buzzers.
-
-Heat up grid, then if needed heat up boilers down below.::<end>
-
-=>q45_original
-<end>
-
-=>q45
-<end>
-
-=>q46_original
-<end>
-
-=>q46
-<end>
-
-=>q47_original
-<end>
-
-=>q47
-<end>
-
-=>a48_original
-::The blood pit. (+)::<end>
-
-=>a48
-::The blood pit. (+)::<end>
-
-=>a49_original
-::Contraptions galore. (+)::<end>
-
-=>a49
-::Contraptions galore. (+)::<end>
-
-=>q50_original
-::Elevator speed. Tested, undetectable. Runner gets a few minutes more than the others.::<end>
-
-=>q50
-::Elevator speed. Tested, undetectable. Runner gets a few minutes more than the others.::<end>
-
-=>a51_original
-::Personals.::<end>
-
-=>a51
-::Personals.::<end>
-
-=>a52_original
-::Gizmos.::<end>
-
-=>a52
-::Gizmos.::<end>
-
-=>q53_original
-::Batch of CACS.::<end>
-
-=>q53
-::Batch of CACS.::<end>
-
-=>a54_original
-::Read more::<end>
-
-=>a54
-::Read more::<end>
-
-=>q55_original
-::Missing batteries. No new shipments coming along any time soon.::<end>
-
-=>q55
-::Missing batteries. No new shipments coming along any time soon.::<end>
-
-=>a56_original
-::New.::<end>
-
-=>a56
-::New.::<end>
-
-=>q57_original
-::Pwr grid stats.::<end>
-
-=>q57
-::Pwr grid stats.::<end>
-
-=>a58_original
-::Read more::<end>
-
-=>a58
-::Read more::<end>
-
-=>q59_original
-::Done everything so far, todo overcharing. Gizmos needed.::<end>
-
-=>q59
-::Done everything so far, todo overcharing. Gizmos needed.::<end>
-
-=>a60_original
-::Crunches.::<end>
-
-=>a60
-::Crunches.::<end>
-
-=>a61_original
-::EPs.::<end>
-
-=>a61
-::EPs.::<end>
-
-=>a62_original
-::TODO.::<end>
-
-=>a62
-::TODO.::<end>
-
-=>q63_original
-::Free Rides.::<end>
-
-=>q63
-::Free Rides.::<end>
-
-=>a64_original
-::Read more::<end>
-
-=>a64
-::Read more::<end>
-
-=>q65_original
-::Update needed? Idk, will try a redo. Worked fine as far as I can tell...::<end>
-
-=>q65
-::Update needed? Idk, will try a redo. Worked fine as far as I can tell...::<end>
-
-=>a66_original
-::SUSF::<end>
-
-=>a66
-::SUSF::<end>
-
-=>q67_original
-::Sound of emptiness.::<end>
-
-=>q67
-::Sound of emptiness.::<end>
-
-=>a68_original
-::Read more::<end>
-
-=>a68
-::Read more::<end>
-
-=>q69_original
-::Ironheads, Faceless and other pipeworkers obstructing trains? Pipes and barrels.::<end>
-
-=>q69
-::Ironheads, Faceless and other pipeworkers obstructing trains? Pipes and barrels.::<end>
-
-=>a70_original
-::Dumpster gigs.::<end>
-
-=>a70
-::Dumpster gigs.::<end>
-
-=>a71_original
-::Connection Status::<end>
-
-=>a71
-::Connection Status::<end>
-
-=>a72_original
-::Unlock the front door.::<end>
-
-=>a72
-::Unlock the front door.::<end>
-
-=>q73_original
-::Doors unlocked.::
-
-<end>
-
-=>q73
-::Doors unlocked.::
-
-<end>
-
-=>q74_original
-::This strange computer flashes its screen with a message: ::
-
-::Access denied!::<end>
-
-=>q74
-::This strange computer flashes its screen with a message: ::
-
-::Access denied!::<end>
-
+=>q1_original
+Mhhhnnn? Hnnnn...<end>
+
+=>q1
+Mhhhnnn? Hnnnn...<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::BPTD ver. 3.0.::
+
+::The computer has restricted access to most of its programs, only revealing a small portion of its data. In addition, all available information is of recent origin, indicated by obnoxious notification system.::<end>
+
+=>q3
+::BPTD ver. 3.0.::
+
+::The computer has restricted access to most of its programs, only revealing a small portion of its data. In addition, all available information is of recent origin, indicated by obnoxious notification system.::<end>
+
+=>a4_original
+::New device attached! (Remote Controller - HVPC)::<end>
+
+=>a4
+::New device attached! (Remote Controller - HVPC)::<end>
+
+=>q5_original
+::Reestablishing connection with compatible remote devices, please wait...::<end>
+
+=>q5
+::Reestablishing connection with compatible remote devices, please wait...::<end>
+
+=>q6_original
+::HVPC connected and online. Voltage control established. Penetration target: High-end.::<end>
+
+=>q6
+::HVPC connected and online. Voltage control established. Penetration target: High-end.::<end>
+
+=>a7_original
+::Energizing options.::<end>
+
+=>a7
+::Energizing options.::<end>
+
+=>q8_original
+::Insufficient vulnerability achieved. Compliling solutions, please wait...::<end>
+
+=>q8
+::Insufficient vulnerability achieved. Compliling solutions, please wait...::<end>
+
+=>q9_original
+::Detected potential weak spots. Cooling facility capabilities unexplored. Overcharge function available and not employed. Location: down-east. Seek further destabilization near the cooling source.::<end>
+
+=>q9
+::Detected potential weak spots. Cooling facility capabilities unexplored. Overcharge function available and not employed. Location: down-east. Seek further destabilization near the cooling source.::<end>
+
+=>a10_original
+::Go back::<end>
+
+=>a10
+::Go back::<end>
+
+=>a11_original
+::Leave.::<end>
+
+=>a11
+::Leave.::<end>
+
+=>q12_original
+::HVPC fully engaged. Ionizing radiation data to be generated.::<end>
+
+=>q12
+::HVPC fully engaged. Ionizing radiation data to be generated.::<end>
+
+=>a13_original
+::Go back.::<end>
+
+=>a13
+::Go back.::<end>
+
+=>q14_original
+::RCEG disconnected, missing designated owner. Safety mode engaged.
+
+Biometrics disabled. Remote control disabled. Short range ionization disabled.
+
+Battery recharging enabled. Digital assistance enabled.::<end>
+
+=>q14
+::RCEG disconnected, missing designated owner. Safety mode engaged.
+
+Biometrics disabled. Remote control disabled. Short range ionization disabled.
+
+Battery recharging enabled. Digital assistance enabled.::<end>
+
+=>a15_original
+::Notes::<end>
+
+=>a15
+::Notes::<end>
+
+=>q16_original
+::There are a few options available, the rest are unselectable.::<end>
+
+=>q16
+::There are a few options available, the rest are unselectable.::<end>
+
+=>a17_original
+::Hot spots. NEW!::<end>
+
+=>a17
+::Hot spots. NEW!::<end>
+
+=>q18_original
+::Only three options can be viewed.::<end>
+
+=>q18
+::Only three options can be viewed.::<end>
+
+=>a19_original
+::Steel anchor. (-)::<end>
+
+=>a19
+::Steel anchor. (-)::<end>
+
+=>a20_original
+::Armor museum. (-)::<end>
+
+=>a20
+::Armor museum. (-)::<end>
+
+=>a21_original
+::Evesdropping zone. (-)::<end>
+
+=>a21
+::Evesdropping zone. (-)::<end>
+
+=>a22_original
+::Dust stash. (+)::<end>
+
+=>a22
+::Dust stash. (+)::<end>
+
+=>q23_original
+::Boxes... boxes of filled with nothing and more...::<end>
+
+=>q23
+::Boxes... boxes of filled with nothing and more...::<end>
+
+=>a24_original
+::Go back.::<end>
+
+=>a24
+::Go back.::<end>
+
+=>a25_original
+::Coil plateau. (-)::<end>
+
+=>a25
+::Coil plateau. (-)::<end>
+
+=>a26_original
+::Probing shack. (-) NEW!::<end>
+
+=>a26
+::Probing shack. (-) NEW!::<end>
+
+=>q27_original
+::The magnet tracker leads to there, without a doubt. Has it been removed, idk, but I have no other option than to crunch my way in there. It looks abandoned, anyway. The box inside is worth it. That research lab must have something in there worth a look.::<end>
+
+=>q27
+::The magnet tracker leads to there, without a doubt. Has it been removed, idk, but I have no other option than to crunch my way in there. It looks abandoned, anyway. The box inside is worth it. That research lab must have something in there worth a look.::<end>
+
+=>a28_original
+::Gizmos needed?::<end>
+
+=>a28
+::Gizmos needed?::<end>
+
+=>q29_original
+::High Voltage Penetrator Core. It's disassembled, and its pieces are all over the damn place.::<end>
+
+=>q29
+::High Voltage Penetrator Core. It's disassembled, and its pieces are all over the damn place.::<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+::Sewage hole.::<end>
+
+=>a31
+::Sewage hole.::<end>
+
+=>q32_original
+::Northwest city sewers. Hidden lever, second hole.::
+
+::Heavily Compromised!!!::
+
+::A single available option reads: ::
+
+::Acid Hunters::<end>
+
+=>q32
+::Northwest city sewers. Hidden lever, second hole.::
+
+::Heavily Compromised!!!::
+
+::A single available option reads: ::
+
+::Acid Hunters::<end>
+
+=>a33_original
+::Read the message::<end>
+
+=>a33
+::Read the message::<end>
+
+=>q34_original
+::Gizmos brought an even bigger gizmo. BIG, BIG DEAL. A box with something strange inside. Has many shapes, lights, and markings, unlike anything else. Questionable origin. A Power source?! Charged an arm for it, no coin. Box tracked, lost trail at the Ctech research lab? Probe there *next*!
+
+Now AHs came back to the sewers (shaft 2), three of them took over the hole while afk. Hostile intentions? Maybe ghost them.::<end>
+
+=>q34
+::Gizmos brought an even bigger gizmo. BIG, BIG DEAL. A box with something strange inside. Has many shapes, lights, and markings, unlike anything else. Questionable origin. A Power source?! Charged an arm for it, no coin. Box tracked, lost trail at the Ctech research lab? Probe there *next*!
+
+Now AHs came back to the sewers (shaft 2), three of them took over the hole while afk. Hostile intentions? Maybe ghost them.::<end>
+
+=>a35_original
+::Degradation store.::<end>
+
+=>a35
+::Degradation store.::<end>
+
+=>q36_original
+::Orange box, nearby store shelves. South of the Institute of T.::
+
+::Moderately compromised.::<end>
+
+=>q36
+::Orange box, nearby store shelves. South of the Institute of T.::
+
+::Moderately compromised.::<end>
+
+=>a37_original
+::Echoing warehouse.::<end>
+
+=>a37
+::Echoing warehouse.::<end>
+
+=>q38_original
+::Orange box, nearby service room. North of the Fort A.::
+
+::Moderately compromised.::<end>
+
+=>q38
+::Orange box, nearby service room. North of the Fort A.::
+
+::Moderately compromised.::<end>
+
+=>a39_original
+::The Orange Box.::<end>
+
+=>a39
+::The Orange Box.::<end>
+
+=>q40_original
+::Emergency buzzers. Plug it in and play back the sounds it asks for. Three sequences in a row without a mistake. Colors of progression - red, green, blue, I think... If fail, start over.<end>
+
+=>q40
+::Emergency buzzers. Plug it in and play back the sounds it asks for. Three sequences in a row without a mistake. Colors of progression - red, green, blue, I think... If fail, start over.<end>
+
+=>a41_original
+::Go back.::<end>
+
+=>a41
+::Go back.::<end>
+
+=>q42_original
+::Select an option.::<end>
+
+=>q42
+::Select an option.::<end>
+
+=>a43_original
+::Full gig.::<end>
+
+=>a43
+::Full gig.::<end>
+
+=>q44_original
+::Make HVPC, charge the big grid at CC. Facility below has emergency EXIT, should lead close to Ctech stash, or something else entirely.
+
+Need cables, core and controller. Cables in the sewers. Core and controller in Upper Metro. Last two need Orange box. Play them sounds at emergency buzzers.
+
+Heat up grid, then if needed heat up boilers down below.::<end>
+
+=>q44
+::Make HVPC, charge the big grid at CC. Facility below has emergency EXIT, should lead close to Ctech stash, or something else entirely.
+
+Need cables, core and controller. Cables in the sewers. Core and controller in Upper Metro. Last two need Orange box. Play them sounds at emergency buzzers.
+
+Heat up grid, then if needed heat up boilers down below.::<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+<end>
+
+=>q46
+<end>
+
+=>q47_original
+<end>
+
+=>q47
+<end>
+
+=>a48_original
+::The blood pit. (+)::<end>
+
+=>a48
+::The blood pit. (+)::<end>
+
+=>a49_original
+::Contraptions galore. (+)::<end>
+
+=>a49
+::Contraptions galore. (+)::<end>
+
+=>q50_original
+::Elevator speed. Tested, undetectable. Runner gets a few minutes more than the others.::<end>
+
+=>q50
+::Elevator speed. Tested, undetectable. Runner gets a few minutes more than the others.::<end>
+
+=>a51_original
+::Personals.::<end>
+
+=>a51
+::Personals.::<end>
+
+=>a52_original
+::Gizmos.::<end>
+
+=>a52
+::Gizmos.::<end>
+
+=>q53_original
+::Batch of CACS.::<end>
+
+=>q53
+::Batch of CACS.::<end>
+
+=>a54_original
+::Read more::<end>
+
+=>a54
+::Read more::<end>
+
+=>q55_original
+::Missing batteries. No new shipments coming along any time soon.::<end>
+
+=>q55
+::Missing batteries. No new shipments coming along any time soon.::<end>
+
+=>a56_original
+::New.::<end>
+
+=>a56
+::New.::<end>
+
+=>q57_original
+::Pwr grid stats.::<end>
+
+=>q57
+::Pwr grid stats.::<end>
+
+=>a58_original
+::Read more::<end>
+
+=>a58
+::Read more::<end>
+
+=>q59_original
+::Done everything so far, todo overcharing. Gizmos needed.::<end>
+
+=>q59
+::Done everything so far, todo overcharing. Gizmos needed.::<end>
+
+=>a60_original
+::Crunches.::<end>
+
+=>a60
+::Crunches.::<end>
+
+=>a61_original
+::EPs.::<end>
+
+=>a61
+::EPs.::<end>
+
+=>a62_original
+::TODO.::<end>
+
+=>a62
+::TODO.::<end>
+
+=>q63_original
+::Free Rides.::<end>
+
+=>q63
+::Free Rides.::<end>
+
+=>a64_original
+::Read more::<end>
+
+=>a64
+::Read more::<end>
+
+=>q65_original
+::Update needed? Idk, will try a redo. Worked fine as far as I can tell...::<end>
+
+=>q65
+::Update needed? Idk, will try a redo. Worked fine as far as I can tell...::<end>
+
+=>a66_original
+::SUSF::<end>
+
+=>a66
+::SUSF::<end>
+
+=>q67_original
+::Sound of emptiness.::<end>
+
+=>q67
+::Sound of emptiness.::<end>
+
+=>a68_original
+::Read more::<end>
+
+=>a68
+::Read more::<end>
+
+=>q69_original
+::Ironheads, Faceless and other pipeworkers obstructing trains? Pipes and barrels.::<end>
+
+=>q69
+::Ironheads, Faceless and other pipeworkers obstructing trains? Pipes and barrels.::<end>
+
+=>a70_original
+::Dumpster gigs.::<end>
+
+=>a70
+::Dumpster gigs.::<end>
+
+=>a71_original
+::Connection Status::<end>
+
+=>a71
+::Connection Status::<end>
+
+=>a72_original
+::Unlock the front door.::<end>
+
+=>a72
+::Unlock the front door.::<end>
+
+=>q73_original
+::Doors unlocked.::
+
+<end>
+
+=>q73
+::Doors unlocked.::
+
+<end>
+
+=>q74_original
+::This strange computer flashes its screen with a message: ::
+
+::Access denied!::<end>
+
+=>q74
+::This strange computer flashes its screen with a message: ::
+
+::Access denied!::<end>
+

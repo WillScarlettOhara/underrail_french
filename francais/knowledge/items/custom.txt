@@ -1,32 +1,32 @@
-::EmitterTrackerNecklaceActivation
-Attempt to track the signal of necklace's counterpart.
-
-::ReleaseAbramsCyberneticSpawn-Old
-Attempt to release Abram's cybernetic spawn into the ventilation ducts of United Stations embassy. You must either be inside the ducts yourself or standing next to a ventilation shaft.
-
-::ReleaseAbramsCyberneticSpawn
-Attempt to release cybernetic spawn into the ventilation ducts. You must either be inside the ducts yourself or standing next to a ventilation shaft.
-
-::RigOldJunkyardCavern
-Plant the explosives in the cavern beneath the Old Junkyard gate.
-
-::PlacePsiAmplifier
-Place the psi amplifier on the floor in preparation to lure the Beast. (Must be below the arc furnace)
-
-::CoretechTrackingDeviceActivation
-Attempt to track the signal from the runaway Coretech employee.
-
-::PlaceC4ExplosiveCharge
-Place the charge on a load-bearing pillar in Epione Lab.
-
-::DetonateEpioneLabCharges
-Detonate explosive charges in Epione Lab. All five charges need to be set up first.
-
-::DismountDreadnought
-Power off and exit the dreadnought. Must be out of combat.
-
-::Disembark
-Disembark the vessel to the targeted place on the shore.
-
-::InsertSkerderGraveCrank
-Insert the crank in its slot.
+::EmitterTrackerNecklaceActivation
+Attempt to track the signal of necklace's counterpart.
+
+::ReleaseAbramsCyberneticSpawn-Old
+Attempt to release Abram's cybernetic spawn into the ventilation ducts of United Stations embassy. You must either be inside the ducts yourself or standing next to a ventilation shaft.
+
+::ReleaseAbramsCyberneticSpawn
+Attempt to release cybernetic spawn into the ventilation ducts. You must either be inside the ducts yourself or standing next to a ventilation shaft.
+
+::RigOldJunkyardCavern
+Plant the explosives in the cavern beneath the Old Junkyard gate.
+
+::PlacePsiAmplifier
+Place the psi amplifier on the floor in preparation to lure the Beast. (Must be below the arc furnace)
+
+::CoretechTrackingDeviceActivation
+Attempt to track the signal from the runaway Coretech employee.
+
+::PlaceC4ExplosiveCharge
+Place the charge on a load-bearing pillar in Epione Lab.
+
+::DetonateEpioneLabCharges
+Detonate explosive charges in Epione Lab. All five charges need to be set up first.
+
+::DismountDreadnought
+Power off and exit the dreadnought. Must be out of combat.
+
+::Disembark
+Disembark the vessel to the targeted place on the shore.
+
+::InsertSkerderGraveCrank
+Insert the crank in its slot.

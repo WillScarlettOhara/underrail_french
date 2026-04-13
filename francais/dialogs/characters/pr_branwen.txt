@@ -1,210 +1,210 @@
-=>q1_original
-::She ignores you.::<end>
-
-=>q1
-::She ignores you.::<end>
-
-=>q2_original
-::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
-
-=>q2
-::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>a4_original
-::Salute her.:: Corporal $(context.player.Name) reporting in.<end>
-
-=>a4
-::Salute her.:: Corporal $(context.player.Name) reporting in.<end>
-
-=>q5_original
-::She salutes back and replies in a direct, unyielding and very official tone of voice.::
-
-At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
-
-=>q5
-::She salutes back and replies in a direct, unyielding and very official tone of voice.::
-
-At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Any changes, ma'am?<end>
-
-=>a7
-Any changes, ma'am?<end>
-
-=>q8_original
-Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
-
-=>q8
-Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
-
-=>q9_original
-That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
-
-=>q9
-That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
-
-=>a10_original
-Yes, ma'am, I will. ::Salute and leave.::<end>
-
-=>a10
-Yes, ma'am, I will. ::Salute and leave.::<end>
-
-=>a11_original
-I am here to check on the development of the current situation, ma'am.<end>
-
-=>a11
-I am here to check on the development of the current situation, ma'am.<end>
-
-=>q12_original
-Were you sent by Colonel Cathcart?<end>
-
-=>q12
-Were you sent by Colonel Cathcart?<end>
-
-=>a13_original
-Yes, he personally sent me here.<end>
-
-=>a13
-Yes, he personally sent me here.<end>
-
-=>q14_original
-Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
-
-=>q14
-Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
-
-=>a15_original
-No, no one sent me.<end>
-
-=>a15
-No, no one sent me.<end>
-
-=>q16_original
-::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
-
-=>q16
-::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
-
-=>a17_original
-Yes, ma'am. ::Salute and leave.::<end>
-
-=>a17
-Yes, ma'am. ::Salute and leave.::<end>
-
-=>a18_original
-::Leave.::<end>
-
-=>a18
-::Leave.::<end>
-
-=>a19_original
-::Salute and leave.::<end>
-
-=>a19
-::Salute and leave.::<end>
-
-=>a20_original
-::Leave.::<end>
-
-=>a20
-::Leave.::<end>
-
-=>q21_original
-You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
-
-=>q21
-You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
-
-=>a22_original
-I had some questions about what is happening here.<end>
-
-=>a22
-I had some questions about what is happening here.<end>
-
-=>q23_original
-::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
-
-=>q23
-::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
-
-=>a24_original
-But I *really* need to know what is going on here.<end>
-
-=>a24
-But I *really* need to know what is going on here.<end>
-
-=>q25_original
-::She interrupts you mid sentence.:: 
-
-Not a word more. *Leave.*
-
-::She turns her back to you.::<end>
-
-=>q25
-::She interrupts you mid sentence.:: 
-
-Not a word more. *Leave.*
-
-::She turns her back to you.::<end>
-
-=>a26_original
-No one speaks to me like that, you stupid woman...<end>
-
-=>a26
-No one speaks to me like that, you stupid woman...<end>
-
-=>q27_original
-::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
-
-=>q27
-::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
-
-=>a28_original
-::Fight!::<end>
-
-=>a28
-::Fight!::<end>
-
-=>a29_original
-::Leave without saying anything.::<end>
-
-=>a29
-::Leave without saying anything.::<end>
-
-=>a30_original
-I guess not... I better go.<end>
-
-=>a30
-I guess not... I better go.<end>
-
-=>a31_original
-My business is your death, Protectorate swine! ::Attack!::<end>
-
-=>a31
-My business is your death, Protectorate swine! ::Attack!::<end>
-
-=>a32_original
-I won't bother you anymore. Goodbye.<end>
-
-=>a32
-I won't bother you anymore. Goodbye.<end>
-
-=>q33_original
-Corporal.<end>
-
-=>q33
-Corporal.<end>
-
+=>q1_original
+::She ignores you.::<end>
+
+=>q1
+::She ignores you.::<end>
+
+=>q2_original
+::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
+
+=>q2
+::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Salute her.:: Corporal $(context.player.Name) reporting in.<end>
+
+=>a4
+::Salute her.:: Corporal $(context.player.Name) reporting in.<end>
+
+=>q5_original
+::She salutes back and replies in a direct, unyielding and very official tone of voice.::
+
+At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
+
+=>q5
+::She salutes back and replies in a direct, unyielding and very official tone of voice.::
+
+At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Any changes, ma'am?<end>
+
+=>a7
+Any changes, ma'am?<end>
+
+=>q8_original
+Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
+
+=>q8
+Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
+
+=>q9_original
+That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
+
+=>q9
+That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
+
+=>a10_original
+Yes, ma'am, I will. ::Salute and leave.::<end>
+
+=>a10
+Yes, ma'am, I will. ::Salute and leave.::<end>
+
+=>a11_original
+I am here to check on the development of the current situation, ma'am.<end>
+
+=>a11
+I am here to check on the development of the current situation, ma'am.<end>
+
+=>q12_original
+Were you sent by Colonel Cathcart?<end>
+
+=>q12
+Were you sent by Colonel Cathcart?<end>
+
+=>a13_original
+Yes, he personally sent me here.<end>
+
+=>a13
+Yes, he personally sent me here.<end>
+
+=>q14_original
+Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
+
+=>q14
+Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
+
+=>a15_original
+No, no one sent me.<end>
+
+=>a15
+No, no one sent me.<end>
+
+=>q16_original
+::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
+
+=>q16
+::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
+
+=>a17_original
+Yes, ma'am. ::Salute and leave.::<end>
+
+=>a17
+Yes, ma'am. ::Salute and leave.::<end>
+
+=>a18_original
+::Leave.::<end>
+
+=>a18
+::Leave.::<end>
+
+=>a19_original
+::Salute and leave.::<end>
+
+=>a19
+::Salute and leave.::<end>
+
+=>a20_original
+::Leave.::<end>
+
+=>a20
+::Leave.::<end>
+
+=>q21_original
+You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
+
+=>q21
+You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
+
+=>a22_original
+I had some questions about what is happening here.<end>
+
+=>a22
+I had some questions about what is happening here.<end>
+
+=>q23_original
+::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
+
+=>q23
+::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
+
+=>a24_original
+But I *really* need to know what is going on here.<end>
+
+=>a24
+But I *really* need to know what is going on here.<end>
+
+=>q25_original
+::She interrupts you mid sentence.:: 
+
+Not a word more. *Leave.*
+
+::She turns her back to you.::<end>
+
+=>q25
+::She interrupts you mid sentence.:: 
+
+Not a word more. *Leave.*
+
+::She turns her back to you.::<end>
+
+=>a26_original
+No one speaks to me like that, you stupid woman...<end>
+
+=>a26
+No one speaks to me like that, you stupid woman...<end>
+
+=>q27_original
+::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
+
+=>q27
+::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
+
+=>a28_original
+::Fight!::<end>
+
+=>a28
+::Fight!::<end>
+
+=>a29_original
+::Leave without saying anything.::<end>
+
+=>a29
+::Leave without saying anything.::<end>
+
+=>a30_original
+I guess not... I better go.<end>
+
+=>a30
+I guess not... I better go.<end>
+
+=>a31_original
+My business is your death, Protectorate swine! ::Attack!::<end>
+
+=>a31
+My business is your death, Protectorate swine! ::Attack!::<end>
+
+=>a32_original
+I won't bother you anymore. Goodbye.<end>
+
+=>a32
+I won't bother you anymore. Goodbye.<end>
+
+=>q33_original
+Corporal.<end>
+
+=>q33
+Corporal.<end>
+

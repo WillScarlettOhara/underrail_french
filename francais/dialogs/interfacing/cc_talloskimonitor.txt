@@ -1,66 +1,66 @@
-=>q1_original
-::Big screen.::<end>
-
-=>q1
-::Big screen.::<end>
-
-=>a2_original
-::Leave it.::<end>
-
-=>a2
-::Leave it.::<end>
-
-=>q3_original
-::You look at this big monitor and imagine how it would look in your living room.::<end>
-
-=>q3
-::You look at this big monitor and imagine how it would look in your living room.::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::[Electronics] Attempt to repair the monitor:: <end>
-
-=>a5
-::[Electronics] Attempt to repair the monitor:: <end>
-
-=>q6_original
-::After spending some time working on the monitor you manage to return it to an operational state. When you turn it on to test its functionality, you are greeted by the image of a man being beheaded in the Arena. As his lifeless body drops down in slow motion, blood squirts from his severed jugulars and paints the wall behind him red. The shot ends with the aforementioned corpse lying in an expanding pool of blood as the triumphant victor is kicking his opponent's mangled head at the ecstatic audience; protective fence shields them from impact, but blood still ends up spattering many fans.::<end>
-
-=>q6
-::After spending some time working on the monitor you manage to return it to an operational state. When you turn it on to test its functionality, you are greeted by the image of a man being beheaded in the Arena. As his lifeless body drops down in slow motion, blood squirts from his severed jugulars and paints the wall behind him red. The shot ends with the aforementioned corpse lying in an expanding pool of blood as the triumphant victor is kicking his opponent's mangled head at the ecstatic audience; protective fence shields them from impact, but blood still ends up spattering many fans.::<end>
-
-=>q7_original
-::You turn off the monitor. Vlatko will be pleased.::<end>
-
-=>q7
-::You turn off the monitor. Vlatko will be pleased.::<end>
-
-=>q8_original
-::No matter what you do, you just cannot fix the monitor.::<end>
-
-=>q8
-::No matter what you do, you just cannot fix the monitor.::<end>
-
-=>q9_original
-::In that moment you realize fixing this thing is not going to be as easy as you have thought.::<end>
-
-=>q9
-::In that moment you realize fixing this thing is not going to be as easy as you have thought.::<end>
-
-=>q10_original
-::You look at this big monitor and imagine how it would look in your room in South Gate Station.::<end>
-
-=>q10
-::You look at this big monitor and imagine how it would look in your room in South Gate Station.::<end>
-
-=>q11_original
-::The monitor seems to be working just fine.::<end>
-
-=>q11
-::The monitor seems to be working just fine.::<end>
-
+=>q1_original
+::Big screen.::<end>
+
+=>q1
+::Big screen.::<end>
+
+=>a2_original
+::Leave it.::<end>
+
+=>a2
+::Leave it.::<end>
+
+=>q3_original
+::You look at this big monitor and imagine how it would look in your living room.::<end>
+
+=>q3
+::You look at this big monitor and imagine how it would look in your living room.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::[Electronics] Attempt to repair the monitor:: <end>
+
+=>a5
+::[Electronics] Attempt to repair the monitor:: <end>
+
+=>q6_original
+::After spending some time working on the monitor you manage to return it to an operational state. When you turn it on to test its functionality, you are greeted by the image of a man being beheaded in the Arena. As his lifeless body drops down in slow motion, blood squirts from his severed jugulars and paints the wall behind him red. The shot ends with the aforementioned corpse lying in an expanding pool of blood as the triumphant victor is kicking his opponent's mangled head at the ecstatic audience; protective fence shields them from impact, but blood still ends up spattering many fans.::<end>
+
+=>q6
+::After spending some time working on the monitor you manage to return it to an operational state. When you turn it on to test its functionality, you are greeted by the image of a man being beheaded in the Arena. As his lifeless body drops down in slow motion, blood squirts from his severed jugulars and paints the wall behind him red. The shot ends with the aforementioned corpse lying in an expanding pool of blood as the triumphant victor is kicking his opponent's mangled head at the ecstatic audience; protective fence shields them from impact, but blood still ends up spattering many fans.::<end>
+
+=>q7_original
+::You turn off the monitor. Vlatko will be pleased.::<end>
+
+=>q7
+::You turn off the monitor. Vlatko will be pleased.::<end>
+
+=>q8_original
+::No matter what you do, you just cannot fix the monitor.::<end>
+
+=>q8
+::No matter what you do, you just cannot fix the monitor.::<end>
+
+=>q9_original
+::In that moment you realize fixing this thing is not going to be as easy as you have thought.::<end>
+
+=>q9
+::In that moment you realize fixing this thing is not going to be as easy as you have thought.::<end>
+
+=>q10_original
+::You look at this big monitor and imagine how it would look in your room in South Gate Station.::<end>
+
+=>q10
+::You look at this big monitor and imagine how it would look in your room in South Gate Station.::<end>
+
+=>q11_original
+::The monitor seems to be working just fine.::<end>
+
+=>q11
+::The monitor seems to be working just fine.::<end>
+

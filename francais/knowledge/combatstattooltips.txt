@@ -1,172 +1,172 @@
 ::Health
-Shows current and maximum health points. When your current health points reach zero, you die.
+Affiche les points de vie actuels et maximums. Lorsque vos points de vie actuels atteignent zéro, vous mourez.
 
 ::HealingEffectiveness
-Shows the number by which any incoming healing will be modified.
+Affiche le nombre par lequel tout soin reçu sera modifié.
 
 ::Shield
-Shows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on.
+Affiche les points de bouclier actuels et maximums. Lorsque vous êtes touché, le bouclier absorbe une certaine quantité de dégâts en fonction de la vitesse d'impact de l'attaque, tant que vous avez des points de bouclier restants. Le bouclier s'épuise également lentement de lui-même lorsqu'il est activé.
 
 ::Psi
-Shows current and maximum psi points, as well as psi regeneration per turn. Psi is used to invoke psionic abilities.
+Affiche les points psi actuels et maximums, ainsi que la régénération psi par tour. Le psi est utilisé pour invoquer des capacités psioniques.
 
 ::PsiReserve
-Shows current and maximum psi point reserves. These points are used to naturally regenerate regular psi points over time.
+Affiche les réserves de points psi actuelles et maximums. Ces points sont utilisés pour régénérer naturellement les points psi réguliers au fil du temps.
 
 ::Dodge
-Increases your chance to avoid melee attacks.
+Augmente vos chances d'esquiver les attaques de mêlée.
 
 ::Evasion
-Increases your chance to avoid ranged weapon attacks and also decreases the damage taken from area of effect attacks.
+Augmente vos chances d'esquiver les attaques d'armes à distance et réduit également les dégâts subis par les attaques à zone d'effet.
 
 ::Fortitude
-Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by direct physical trauma. Also increases poison resistance.
+Augmente les chances de résister à certains effets négatifs, tels que l'étourdissement et l'incapacitation, causés par un traumatisme physique direct. Augmente également la résistance au poison.
 
 ::Resolve
-Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by mental stress and also reduces damage or duration of certain psionic attacks that target the mind directly.
+Augmente les chances de résister à certains effets négatifs, tels que l'étourdissement et l'incapacitation, causés par le stress mental et réduit également les dégâts ou la durée de certaines attaques psioniques ciblant l'esprit directement.
 
 ::ToGetWeaponCritChanceMod
-Modifies the chance you'll get critically hit with weapons and unarmed attacks.
+Modifie les chances de recevoir un coup critique avec des armes et des attaques à mains nues.
 
 ::ToGetPsiCritChanceMod
-Modifies the chance you'll get critically hit with psi abilities.
+Modifie les chances de recevoir un coup critique avec des capacités psi.
 
 ::ArmorPenalty
-Reduces dodge, evasion, stealth and movement points.
+Réduit l'esquive, l'évasion, la furtivité et les points de mouvement.
 
 ::ShieldCapacity
-The total amount of damage the shield can absorb when fully charged.
+La quantité totale de dégâts que le bouclier peut absorber lorsqu'il est pleinement chargé.
 
 ::ShieldingDescription
-Keep in mind that certain attacks can ignore a percentage of the shielding amount, or even ignore the shielding altogether.
+Gardez à l'esprit que certaines attaques peuvent ignorer un pourcentage du montant du bouclier, ou même ignorer le bouclier entièrement.
 
 ::ShieldingVeryLow
-Maximum amount of damage that the shield can absorb per attack from very low impact speed attacks (such as melee weapon attacks).
+Quantité maximale de dégâts que le bouclier peut absorber par attaque d'impact à très basse vitesse (telles que les attaques d'armes de mêlée).
 
 ::ShieldingLow
-Maximum amount of damage that the shield can absorb per attack from low impact speed attacks (such as crossbow bolts).
+Quantité maximale de dégâts que le bouclier peut absorber par attaque d'impact à basse vitesse (telles que les carreaux d'arbalète).
 
 ::ShieldingMedium
-Maximum amount of damage that the shield can absorb per attack from medium impact speed attacks (such as regular firearms).
+Quantité maximale de dégâts que le bouclier peut absorber par attaque d'impact à vitesse moyenne (telles que les armes à feu classiques).
 
 ::ShieldingHigh
-Maximum amount of damage that the shield can absorb per attack from high impact speed attacks (such as sniper rifles).
+Quantité maximale de dégâts que le bouclier peut absorber par attaque d'impact à haute vitesse (telles que les fusils de sniper).
 
 ::ShieldingVeryHigh
-Maximum amount of damage that the shield can absorb per attack from very high impact speed attacks (such as energy weapons).
+Quantité maximale de dégâts que le bouclier peut absorber par attaque d'impact à très haute vitesse (telles que les armes à énergie).
 
 ::ResistanceDescription
-The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. Keep in mind that certain damages (such as poison or direct mind damage, completely ignore armor).
+L'armure absorbe soit la quantité indiquée par le pourcentage, SOIT le nombre fixe, selon celui qui résultera en plus de dégâts absorbés. Gardez à l'esprit que certains dégâts (tels que le poison ou les dégâts directs à l'esprit) ignorent complètement l'armure.
 
-The number in the brackets is the percentage by which the damage that goes through the shield and the resistance is modified.
+Le nombre entre crochets est le pourcentage par lequel les dégâts traversant le bouclier et la résistance sont modifiés.
 
 ::ResistanceMechanical
-The amount of mechanical damage your armor can absorb.
+La quantité de dégâts mécaniques que votre armure peut absorber.
 
 ::ResistanceHeat
-The amount of heat damage your armor can absorb.
+La quantité de dégâts thermiques que votre armure peut absorber.
 
 ::ResistanceCold
-The amount of cold damage your armor can absorb.
+La quantité de dégâts de froid que votre armure peut absorber.
 
 ::ResistanceElectricity
-The amount of electrical damage your armor can absorb.
+La quantité de dégâts électriques que votre armure peut absorber.
 
 ::ResistanceAcid
-The amount of acid damage your armor can absorb.
+La quantité de dégâts d'acide que votre armure peut absorber.
 
 ::ResistanceEnergy
-The amount of energy damage your armor can absorb.
+La quantité de dégâts d'énergie que votre armure peut absorber.
 
 ::ResistanceBio
-The amount of bio damage your armor can absorb.
+La quantité de dégâts biologiques que votre armure peut absorber.
 
 ::Stealth
-Indicates how well you can move undetected. The higher your stealth rating is in comparison to enemy's the longer it will take for you to be discovered. If your stealth is much too lower than the detection rating, you will be discovered instantly at maximum range.
+Indique dans quelle mesure vous pouvez vous déplacer sans être détecté. Plus votre score de furtivité est élevé par rapport à celui de l'ennemi, plus il faudra de temps pour être découvert. Si votre furtivité est bien trop inférieure au score de détection, vous serez découvert instantanément à portée maximale.
 
 ::Detection
-Indicates how quickly you discover hidden characters.
+Indique la vitesse à laquelle vous découvrez les personnages cachés.
 
 ::TrapDetection
-Indicates how well you discover traps. It's derived from your detection rating and traps skill.
+Indique dans quelle mesure vous découvrez les pièges. Dérivé de votre score de détection et de votre compétence en pièges.
 
 ::WeaponDamage
-Current weapon normal attack damage range. Only includes bonuses from skill level and strength (for melee weapons).
+Plage de dégâts d'attaque normale de l'arme actuelle. N'inclut que les bonus du niveau de compétence et de la force (pour les armes de mêlée).
 
 ::WeaponActionPointCost
-Action points required to perform a normal attack with the current weapon.
+Points d'action requis pour effectuer une attaque normale avec l'arme actuelle.
 
 ::WeaponImpactSpeed
-Impact speed of the weapon attack.
+Vitesse d'impact de l'attaque de l'arme.
 
 ::WeaponCritChance
-Chance to score a critical hit with a normal attack of the current weapon.
+Chances de porter un coup critique avec une attaque normale de l'arme actuelle.
 
 ::WeaponCritBonus
-Damage bonus applied when the current weapon scores a critical hit.
+Bonus de dégâts appliqué lorsque l'arme actuelle porte un coup critique.
 
 ::Initiative
-Influences how quickly you'll get your turn when the combat starts.
+Influence la vitesse à laquelle vous obtiendrez votre tour au début du combat.
 
 ::WeaponMaxRange
-Maximum range of the current weapon.
+Portée maximale de l'arme actuelle.
 
 ::WeaponOptimalRange
-Optimal range of the current weapon. Beyond this point the precision starts dropping more quickly.
+Portée optimale de l'arme actuelle. Au-delà de ce point, la précision commence à diminuer plus rapidement.
 
 ::MetathermicsSkill
-Effective skill level when invoking metathermic psionic abilities.
+Niveau de compétence effectif lors de l'invocation de capacités psioniques métathermiques.
 
 ::MetathermicsCritChance
-Chance to score a critical hit when invoking metathermic psionic abilities.
+Chances de porter un coup critique lors de l'invocation de capacités psioniques métathermiques.
 
 ::MetathermicsCritBonus
-Damage bonus applied when you score a critical hit with a metathermic psionic ability.
+Bonus de dégâts appliqué lorsque vous portez un coup critique avec une capacité psionique métathermique.
 
 ::MetathermicsPsiCost
-Base psi point cost modifier for metathermic psi abilities.
+Modificateur de coût en points psi de base pour les capacités psi métathermiques.
 
 ::PsychokinesisSkill
-Effective skill level when invoking psychokinetic psionic abilities.
+Niveau de compétence effectif lors de l'invocation de capacités psioniques psychokinétiques.
 
 ::PsychokinesisCritChance
-Chance to score a critical hit when invoking psychokinetic psionic abilities.
+Chances de porter un coup critique lors de l'invocation de capacités psioniques psychokinétiques.
 
 ::PsychokinesisCritBonus
-Damage bonus applied when you score a critical hit with a psychokinetic psionic ability.
+Bonus de dégâts appliqué lorsque vous portez un coup critique avec une capacité psionique psychokinétique.
 
 ::PsychokinesisPsiCost
-Base psi point cost modifier for psychokinetic psi abilities.
+Modificateur de coût en points psi de base pour les capacités psi psychokinétiques.
 
 ::ThoughtControlSkill
-Effective skill level when invoking thought control psionic abilities.
+Niveau de compétence effectif lors de l'invocation de capacités psioniques de contrôle mental.
 
 ::ThoughtControlCritChance
-Chance to score a critical hit when invoking thought control psionic abilities.
+Chances de porter un coup critique lors de l'invocation de capacités psioniques de contrôle mental.
 
 ::ThoughtControlCritBonus
-Damage bonus applied when you score a critical hit with a thought control psionic ability.
+Bonus de dégâts appliqué lorsque vous portez un coup critique avec une capacité psionique de contrôle mental.
 
 ::ThoughtControlPsiCost
-Base psi point cost modifier for thought control psi abilities.
+Modificateur de coût en points psi de base pour les capacités psi de contrôle mental.
 
 ::TemporalManipulationSkill
-Effective skill level when invoking temporal manipulation psionic abilities.
+Niveau de compétence effectif lors de l'invocation de capacités psioniques de manipulation temporelle.
 
 ::TemporalManipulationCritChance
-Chance to score a critical hit when invoking temporal manipulation psionic abilities.
+Chances de porter un coup critique lors de l'invocation de capacités psioniques de manipulation temporelle.
 
 ::TemporalManipulationCritBonus
-Damage bonus applied when you score a critical hit with a temporal manipulation psionic ability.
+Bonus de dégâts appliqué lorsque vous portez un coup critique avec une capacité psionique de manipulation temporelle.
 
 ::TemporalManipulationPsiCost
-Base psi point cost modifier for temporal manipulation psi abilities.
+Modificateur de coût en points psi de base pour les capacités psi de manipulation temporelle.
 
 ::SpecialAttackBonusDamage
-Increases the damage done by special weapon or unarmed attacks. This does not affect unconditional special attacks.
+Augmente les dégâts infligés par les attaques spéciales avec une arme ou à mains nues. Cela n'affecte pas les attaques spéciales inconditionnelles.
 
 ::ActionPoints
-Number of action points the character has at the beginning of their turn. These points can be used for performing any kind of action, including movement.
+Nombre de points d'action que le personnage a au début de son tour. Ces points peuvent être utilisés pour effectuer toute sorte d'action, y compris le déplacement.
 
 ::MovementPoints
-Number of movement points the character has at the beginning of their turn. These points can only be used for movement.
+Nombre de points de mouvement que le personnage a au début de son tour. Ces points ne peuvent être utilisés que pour le déplacement.

@@ -1,66 +1,66 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Just one step, Sammy... just one more step will end all your problems!<end>
-
-=>q2
-Just one step, Sammy... just one more step will end all your problems!<end>
-
-=>q3_original
-::Sighs.::<end>
-
-=>q3
-::Sighs.::<end>
-
-=>q4_original
-Okay, next train, Sammy... the next train is yours! You can do this...<end>
-
-=>q4
-Okay, next train, Sammy... the next train is yours! You can do this...<end>
-
-=>q5_original
-I'm gonna miss the Arena...<end>
-
-=>q5
-I'm gonna miss the Arena...<end>
-
-=>q6_original
-I wish I was never born...<end>
-
-=>q6
-I wish I was never born...<end>
-
-=>q7_original
-::Sighs.::<end>
-
-=>q7
-::Sighs.::<end>
-
-=>q8_original
-Damn it, Sammy! Do it, you stupid zoner!<end>
-
-=>q8
-Damn it, Sammy! Do it, you stupid zoner!<end>
-
-=>q9_original
-JUMP! No... no... not yet! Damn it...<end>
-
-=>q9
-JUMP! No... no... not yet! Damn it...<end>
-
-=>q10_original
-Okay... Okay... Okay... Aaaand... Wait... Okay....<end>
-
-=>q10
-Okay... Okay... Okay... Aaaand... Wait... Okay....<end>
-
-=>q11_original
-Sammy! Sammy! Be a man for once in your miserable life and end it now!<end>
-
-=>q11
-Sammy! Sammy! Be a man for once in your miserable life and end it now!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Just one step, Sammy... just one more step will end all your problems!<end>
+
+=>q2
+Just one step, Sammy... just one more step will end all your problems!<end>
+
+=>q3_original
+::Sighs.::<end>
+
+=>q3
+::Sighs.::<end>
+
+=>q4_original
+Okay, next train, Sammy... the next train is yours! You can do this...<end>
+
+=>q4
+Okay, next train, Sammy... the next train is yours! You can do this...<end>
+
+=>q5_original
+I'm gonna miss the Arena...<end>
+
+=>q5
+I'm gonna miss the Arena...<end>
+
+=>q6_original
+I wish I was never born...<end>
+
+=>q6
+I wish I was never born...<end>
+
+=>q7_original
+::Sighs.::<end>
+
+=>q7
+::Sighs.::<end>
+
+=>q8_original
+Damn it, Sammy! Do it, you stupid zoner!<end>
+
+=>q8
+Damn it, Sammy! Do it, you stupid zoner!<end>
+
+=>q9_original
+JUMP! No... no... not yet! Damn it...<end>
+
+=>q9
+JUMP! No... no... not yet! Damn it...<end>
+
+=>q10_original
+Okay... Okay... Okay... Aaaand... Wait... Okay....<end>
+
+=>q10
+Okay... Okay... Okay... Aaaand... Wait... Okay....<end>
+
+=>q11_original
+Sammy! Sammy! Be a man for once in your miserable life and end it now!<end>
+
+=>q11
+Sammy! Sammy! Be a man for once in your miserable life and end it now!<end>
+

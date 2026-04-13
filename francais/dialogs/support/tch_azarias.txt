@@ -1,60 +1,60 @@
-=>q1_original
-Begone, dystrophic Faceless!<end>
-
-=>q1
-Begone, dystrophic Faceless!<end>
-
-=>q2_original
-Wha-- Who do you think you are?<end>
-
-=>q2
-Wha-- Who do you think you are?<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-Magnificent Tchort! I've never seen such insolence.<end>
-
-=>q4
-Magnificent Tchort! I've never seen such insolence.<end>
-
-=>q5_original
-Will you leave already?<end>
-
-=>q5
-Will you leave already?<end>
-
-=>q6_original
-Provost Vladan already asked you to leave us alone.<end>
-
-=>q6
-Provost Vladan already asked you to leave us alone.<end>
-
-=>q7_original
-Why must you be so disrespectful?<end>
-
-=>q7
-Why must you be so disrespectful?<end>
-
-=>q8_original
-Such feral behavior...<end>
-
-=>q8
-Such feral behavior...<end>
-
-=>q9_original
-You barged in as if you were one of the monsignors.<end>
-
-=>q9
-You barged in as if you were one of the monsignors.<end>
-
-=>q10_original
-Are your ears vestigial by any chance? We are busy!<end>
-
-=>q10
-Are your ears vestigial by any chance? We are busy!<end>
-
+=>q1_original
+Begone, dystrophic Faceless!<end>
+
+=>q1
+Begone, dystrophic Faceless!<end>
+
+=>q2_original
+Wha-- Who do you think you are?<end>
+
+=>q2
+Wha-- Who do you think you are?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Magnificent Tchort! I've never seen such insolence.<end>
+
+=>q4
+Magnificent Tchort! I've never seen such insolence.<end>
+
+=>q5_original
+Will you leave already?<end>
+
+=>q5
+Will you leave already?<end>
+
+=>q6_original
+Provost Vladan already asked you to leave us alone.<end>
+
+=>q6
+Provost Vladan already asked you to leave us alone.<end>
+
+=>q7_original
+Why must you be so disrespectful?<end>
+
+=>q7
+Why must you be so disrespectful?<end>
+
+=>q8_original
+Such feral behavior...<end>
+
+=>q8
+Such feral behavior...<end>
+
+=>q9_original
+You barged in as if you were one of the monsignors.<end>
+
+=>q9
+You barged in as if you were one of the monsignors.<end>
+
+=>q10_original
+Are your ears vestigial by any chance? We are busy!<end>
+
+=>q10
+Are your ears vestigial by any chance? We are busy!<end>
+

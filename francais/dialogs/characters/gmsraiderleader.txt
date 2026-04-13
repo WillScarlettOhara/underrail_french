@@ -1,256 +1,256 @@
-=>q1_original
-We got nothing more to talk about. Get what you need and leave.<end>
-
-=>q1
-We got nothing more to talk about. Get what you need and leave.<end>
-
-=>q2_original
-Who the hell is this?<end>
-
-=>q2
-Who the hell is this?<end>
-
-=>q3_original
-We caught $(#him/her) sneaking down from the upper level, boss. <end>
-
-=>q3
-We caught $(#him/her) sneaking down from the upper level, boss. <end>
-
-=>q4_original
-$(#His/Her) name is Adahn. <end>
-
-=>q4
-$(#His/Her) name is Adahn. <end>
-
-=>q5_original
-$(#He/She)'s with the SGS.<end>
-
-=>q5
-$(#He/She)'s with the SGS.<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>q7_original
-Didn't I send Max up there? What happened?<end>
-
-=>q7
-Didn't I send Max up there? What happened?<end>
-
-=>q8_original
-$(#He/She) says that he's dead. That a sentry got him.<end>
-
-=>q8
-$(#He/She) says that he's dead. That a sentry got him.<end>
-
-=>q9_original
-::He narrows his eyes on you.:: Is that so? And what were you hoping to find down here?<end>
-
-=>q9
-::He narrows his eyes on you.:: Is that so? And what were you hoping to find down here?<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>a11_original
-I'm looking for a way to open a secured door on the first level.<end>
-
-=>a11
-I'm looking for a way to open a secured door on the first level.<end>
-
-=>q12_original
-And what's behind this door that you would risk your neck trying to open it?<end>
-
-=>q12
-And what's behind this door that you would risk your neck trying to open it?<end>
-
-=>a13_original
-I don't know.<end>
-
-=>a13
-I don't know.<end>
-
-=>q14_original
-::He chuckles.:: So you just decided that today was a good day to risk your life for a random locked door. You're either very stupid, or you're lying.<end>
-
-=>q14
-::He chuckles.:: So you just decided that today was a good day to risk your life for a random locked door. You're either very stupid, or you're lying.<end>
-
-=>a15_original
-I don't know what's in there exactly, but I have reason to believe it's something valuable.<end>
-
-=>a15
-I don't know what's in there exactly, but I have reason to believe it's something valuable.<end>
-
-=>q16_original
-Well thank you for that piece of information. We might just take a look at this door ourselves later.
-
-::He motions his guards.:: Get rid of $(#him/her).<end>
-
-=>q16
-Well thank you for that piece of information. We might just take a look at this door ourselves later.
-
-::He motions his guards.:: Get rid of $(#him/her).<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>a18_original
-::[Intimidate]:: If I don't check back in soon, my friends from South Gate Station will come looking for me.<end>
-
-=>a18
-::[Intimidate]:: If I don't check back in soon, my friends from South Gate Station will come looking for me.<end>
-
-=>q19_original
-And suppose I let you live, what do you intend to do?<end>
-
-=>q19
-And suppose I let you live, what do you intend to do?<end>
-
-=>a20_original
-I'll look for a key or another way to open that door. I won't interfere with... whatever it is that you're doing here.<end>
-
-=>a20
-I'll look for a key or another way to open that door. I won't interfere with... whatever it is that you're doing here.<end>
-
-=>q21_original
-::He taps his chin, considering you offer.::<end>
-
-=>q21
-::He taps his chin, considering you offer.::<end>
-
-=>q22_original
-Alright, I'm in a good mood today. You may go about your business, see if any of this rabble knows how your door work.<end>
-
-=>q22
-Alright, I'm in a good mood today. You may go about your business, see if any of this rabble knows how your door work.<end>
-
-=>q23_original
-But listen carefully because this is the only warning that you'll get: If you get in our way - we will waste you.<end>
-
-=>q23
-But listen carefully because this is the only warning that you'll get: If you get in our way - we will waste you.<end>
-
-=>a24_original
-I'd still demand that you let these people go.<end>
-
-=>a24
-I'd still demand that you let these people go.<end>
-
-=>q25_original
-::He smirks at you.:: Wrong answer.<end>
-
-=>q25
-::He smirks at you.:: Wrong answer.<end>
-
-=>q26_original
-<end>
-
-=>q26
-<end>
-
-=>q27_original
-We'll tell them you said "hi."<end>
-
-=>q27
-We'll tell them you said "hi."<end>
-
-=>a28_original
-::Fight!::<end>
-
-=>a28
-::Fight!::<end>
-
-=>a29_original
-I'm very stupid.<end>
-
-=>a29
-I'm very stupid.<end>
-
-=>q30_original
-I agree, and coming here was the biggest mistake you ever made. Waste this idiot.<end>
-
-=>q30
-I agree, and coming here was the biggest mistake you ever made. Waste this idiot.<end>
-
-=>a31_original
-Who are you calling stupid, you rathound loving--<end>
-
-=>a31
-Who are you calling stupid, you rathound loving--<end>
-
-=>q32_original
-I've heard enough. Waste this fool.<end>
-
-=>q32
-I've heard enough. Waste this fool.<end>
-
-=>a33_original
-My business is my own.<end>
-
-=>a33
-My business is my own.<end>
-
-=>q34_original
-I had enough of you. Waste this idiot!<end>
-
-=>q34
-I had enough of you. Waste this idiot!<end>
-
-=>q35_original
-Look around you. You are greatly outnumbered. I suggest you start being more cooperative or you won't be leaving this room alive.<end>
-
-=>q35
-Look around you. You are greatly outnumbered. I suggest you start being more cooperative or you won't be leaving this room alive.<end>
-
-=>a36_original
-I demand that you set these people free.<end>
-
-=>a36
-I demand that you set these people free.<end>
-
-=>q37_original
-I had enough of you. Waste this idiot!<end>
-
-=>q37
-I had enough of you. Waste this idiot!<end>
-
-=>q38_original
-Very funny, but you're in no position to demand anything. <end>
-
-=>q38
-Very funny, but you're in no position to demand anything. <end>
-
-=>a39_original
-Some more target practice and it looks like I hit a jackpot. ::Attack::<end>
-
-=>a39
-Some more target practice and it looks like I hit a jackpot. ::Attack::<end>
-
-=>q40_original
-Claims $(#he/she) didn't see him.<end>
-
-=>q40
-Claims $(#he/she) didn't see him.<end>
-
-=>q41_original
-$(#His/Her) name is $(context.player.Name). <end>
-
-=>q41
-$(#His/Her) name is $(context.player.Name). <end>
-
-=>q42_original
-I don't know who the hell you are, but you chose a wrong party to crash, punk. Waste $(#him/her)!<end>
-
-=>q42
-I don't know who the hell you are, but you chose a wrong party to crash, punk. Waste $(#him/her)!<end>
-
+=>q1_original
+We got nothing more to talk about. Get what you need and leave.<end>
+
+=>q1
+We got nothing more to talk about. Get what you need and leave.<end>
+
+=>q2_original
+Who the hell is this?<end>
+
+=>q2
+Who the hell is this?<end>
+
+=>q3_original
+We caught $(#him/her) sneaking down from the upper level, boss. <end>
+
+=>q3
+We caught $(#him/her) sneaking down from the upper level, boss. <end>
+
+=>q4_original
+$(#His/Her) name is Adahn. <end>
+
+=>q4
+$(#His/Her) name is Adahn. <end>
+
+=>q5_original
+$(#He/She)'s with the SGS.<end>
+
+=>q5
+$(#He/She)'s with the SGS.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+Didn't I send Max up there? What happened?<end>
+
+=>q7
+Didn't I send Max up there? What happened?<end>
+
+=>q8_original
+$(#He/She) says that he's dead. That a sentry got him.<end>
+
+=>q8
+$(#He/She) says that he's dead. That a sentry got him.<end>
+
+=>q9_original
+::He narrows his eyes on you.:: Is that so? And what were you hoping to find down here?<end>
+
+=>q9
+::He narrows his eyes on you.:: Is that so? And what were you hoping to find down here?<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+I'm looking for a way to open a secured door on the first level.<end>
+
+=>a11
+I'm looking for a way to open a secured door on the first level.<end>
+
+=>q12_original
+And what's behind this door that you would risk your neck trying to open it?<end>
+
+=>q12
+And what's behind this door that you would risk your neck trying to open it?<end>
+
+=>a13_original
+I don't know.<end>
+
+=>a13
+I don't know.<end>
+
+=>q14_original
+::He chuckles.:: So you just decided that today was a good day to risk your life for a random locked door. You're either very stupid, or you're lying.<end>
+
+=>q14
+::He chuckles.:: So you just decided that today was a good day to risk your life for a random locked door. You're either very stupid, or you're lying.<end>
+
+=>a15_original
+I don't know what's in there exactly, but I have reason to believe it's something valuable.<end>
+
+=>a15
+I don't know what's in there exactly, but I have reason to believe it's something valuable.<end>
+
+=>q16_original
+Well thank you for that piece of information. We might just take a look at this door ourselves later.
+
+::He motions his guards.:: Get rid of $(#him/her).<end>
+
+=>q16
+Well thank you for that piece of information. We might just take a look at this door ourselves later.
+
+::He motions his guards.:: Get rid of $(#him/her).<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+::[Intimidate]:: If I don't check back in soon, my friends from South Gate Station will come looking for me.<end>
+
+=>a18
+::[Intimidate]:: If I don't check back in soon, my friends from South Gate Station will come looking for me.<end>
+
+=>q19_original
+And suppose I let you live, what do you intend to do?<end>
+
+=>q19
+And suppose I let you live, what do you intend to do?<end>
+
+=>a20_original
+I'll look for a key or another way to open that door. I won't interfere with... whatever it is that you're doing here.<end>
+
+=>a20
+I'll look for a key or another way to open that door. I won't interfere with... whatever it is that you're doing here.<end>
+
+=>q21_original
+::He taps his chin, considering you offer.::<end>
+
+=>q21
+::He taps his chin, considering you offer.::<end>
+
+=>q22_original
+Alright, I'm in a good mood today. You may go about your business, see if any of this rabble knows how your door work.<end>
+
+=>q22
+Alright, I'm in a good mood today. You may go about your business, see if any of this rabble knows how your door work.<end>
+
+=>q23_original
+But listen carefully because this is the only warning that you'll get: If you get in our way - we will waste you.<end>
+
+=>q23
+But listen carefully because this is the only warning that you'll get: If you get in our way - we will waste you.<end>
+
+=>a24_original
+I'd still demand that you let these people go.<end>
+
+=>a24
+I'd still demand that you let these people go.<end>
+
+=>q25_original
+::He smirks at you.:: Wrong answer.<end>
+
+=>q25
+::He smirks at you.:: Wrong answer.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+We'll tell them you said "hi."<end>
+
+=>q27
+We'll tell them you said "hi."<end>
+
+=>a28_original
+::Fight!::<end>
+
+=>a28
+::Fight!::<end>
+
+=>a29_original
+I'm very stupid.<end>
+
+=>a29
+I'm very stupid.<end>
+
+=>q30_original
+I agree, and coming here was the biggest mistake you ever made. Waste this idiot.<end>
+
+=>q30
+I agree, and coming here was the biggest mistake you ever made. Waste this idiot.<end>
+
+=>a31_original
+Who are you calling stupid, you rathound loving--<end>
+
+=>a31
+Who are you calling stupid, you rathound loving--<end>
+
+=>q32_original
+I've heard enough. Waste this fool.<end>
+
+=>q32
+I've heard enough. Waste this fool.<end>
+
+=>a33_original
+My business is my own.<end>
+
+=>a33
+My business is my own.<end>
+
+=>q34_original
+I had enough of you. Waste this idiot!<end>
+
+=>q34
+I had enough of you. Waste this idiot!<end>
+
+=>q35_original
+Look around you. You are greatly outnumbered. I suggest you start being more cooperative or you won't be leaving this room alive.<end>
+
+=>q35
+Look around you. You are greatly outnumbered. I suggest you start being more cooperative or you won't be leaving this room alive.<end>
+
+=>a36_original
+I demand that you set these people free.<end>
+
+=>a36
+I demand that you set these people free.<end>
+
+=>q37_original
+I had enough of you. Waste this idiot!<end>
+
+=>q37
+I had enough of you. Waste this idiot!<end>
+
+=>q38_original
+Very funny, but you're in no position to demand anything. <end>
+
+=>q38
+Very funny, but you're in no position to demand anything. <end>
+
+=>a39_original
+Some more target practice and it looks like I hit a jackpot. ::Attack::<end>
+
+=>a39
+Some more target practice and it looks like I hit a jackpot. ::Attack::<end>
+
+=>q40_original
+Claims $(#he/she) didn't see him.<end>
+
+=>q40
+Claims $(#he/she) didn't see him.<end>
+
+=>q41_original
+$(#His/Her) name is $(context.player.Name). <end>
+
+=>q41
+$(#His/Her) name is $(context.player.Name). <end>
+
+=>q42_original
+I don't know who the hell you are, but you chose a wrong party to crash, punk. Waste $(#him/her)!<end>
+
+=>q42
+I don't know who the hell you are, but you chose a wrong party to crash, punk. Waste $(#him/her)!<end>
+

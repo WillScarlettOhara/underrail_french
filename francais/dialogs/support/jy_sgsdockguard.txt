@@ -1,24 +1,24 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-All's quiet.<end>
-
-=>q2
-All's quiet.<end>
-
-=>q3_original
-::Nods.:: $(context.player.Name).<end>
-
-=>q3
-::Nods.:: $(context.player.Name).<end>
-
-=>q4_original
-I got your back.<end>
-
-=>q4
-I got your back.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+All's quiet.<end>
+
+=>q2
+All's quiet.<end>
+
+=>q3_original
+::Nods.:: $(context.player.Name).<end>
+
+=>q3
+::Nods.:: $(context.player.Name).<end>
+
+=>q4_original
+I got your back.<end>
+
+=>q4
+I got your back.<end>
+

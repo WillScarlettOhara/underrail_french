@@ -1,72 +1,72 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-What's up?<end>
-
-=>q2
-What's up?<end>
-
-=>q3_original
-No one has ever managed to escape from here. No one ever will.<end>
-
-=>q3
-No one has ever managed to escape from here. No one ever will.<end>
-
-=>q4_original
-The whole facility is in lockdown mode. You've got no business here.<end>
-
-=>q4
-The whole facility is in lockdown mode. You've got no business here.<end>
-
-=>q5_original
-These prisoners don't get their food for free, you know. They'll be back in the mine as soon as it gets reopened.<end>
-
-=>q5
-These prisoners don't get their food for free, you know. They'll be back in the mine as soon as it gets reopened.<end>
-
-=>q6_original
-These prisoners don't get their food for free, you know. We send them to the mine. ::Laughs.::<end>
-
-=>q6
-These prisoners don't get their food for free, you know. We send them to the mine. ::Laughs.::<end>
-
-=>q7_original
-I haven't fired my gun in who knows how long.<end>
-
-=>q7
-I haven't fired my gun in who knows how long.<end>
-
-=>q8_original
-Something... was in Todor's cell with him. A shadow.<end>
-
-=>q8
-Something... was in Todor's cell with him. A shadow.<end>
-
-=>q9_original
-Greetings.<end>
-
-=>q9
-Greetings.<end>
-
-=>q10_original
-Hey, $(context.player.Name).<end>
-
-=>q10
-Hey, $(context.player.Name).<end>
-
-=>q11_original
-Prison duty gets a bit boring, but life can be worse. Much worse...<end>
-
-=>q11
-Prison duty gets a bit boring, but life can be worse. Much worse...<end>
-
-=>q12_original
-I never knew Mrs. Ingram was such a derailed psycho.<end>
-
-=>q12
-I never knew Mrs. Ingram was such a derailed psycho.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+What's up?<end>
+
+=>q2
+What's up?<end>
+
+=>q3_original
+No one has ever managed to escape from here. No one ever will.<end>
+
+=>q3
+No one has ever managed to escape from here. No one ever will.<end>
+
+=>q4_original
+The whole facility is in lockdown mode. You've got no business here.<end>
+
+=>q4
+The whole facility is in lockdown mode. You've got no business here.<end>
+
+=>q5_original
+These prisoners don't get their food for free, you know. They'll be back in the mine as soon as it gets reopened.<end>
+
+=>q5
+These prisoners don't get their food for free, you know. They'll be back in the mine as soon as it gets reopened.<end>
+
+=>q6_original
+These prisoners don't get their food for free, you know. We send them to the mine. ::Laughs.::<end>
+
+=>q6
+These prisoners don't get their food for free, you know. We send them to the mine. ::Laughs.::<end>
+
+=>q7_original
+I haven't fired my gun in who knows how long.<end>
+
+=>q7
+I haven't fired my gun in who knows how long.<end>
+
+=>q8_original
+Something... was in Todor's cell with him. A shadow.<end>
+
+=>q8
+Something... was in Todor's cell with him. A shadow.<end>
+
+=>q9_original
+Greetings.<end>
+
+=>q9
+Greetings.<end>
+
+=>q10_original
+Hey, $(context.player.Name).<end>
+
+=>q10
+Hey, $(context.player.Name).<end>
+
+=>q11_original
+Prison duty gets a bit boring, but life can be worse. Much worse...<end>
+
+=>q11
+Prison duty gets a bit boring, but life can be worse. Much worse...<end>
+
+=>q12_original
+I never knew Mrs. Ingram was such a derailed psycho.<end>
+
+=>q12
+I never knew Mrs. Ingram was such a derailed psycho.<end>
+

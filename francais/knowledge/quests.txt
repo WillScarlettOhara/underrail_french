@@ -1,837 +1,837 @@
-::dutycalls
-Talk to Councilor Tanner in his office in the commons (level three).
-
-::targetpractice
-Talk to Gorsky at the shooting range and have a practice session.
-
-::targetpracticeb
-Start the practice session at the shooting range, score ten hits, end the session and report to Tanner.
-
-::targetpracticec
-Return to Tanner and let him know you've done some target practice.
-
-::getfluxcontroller
-Talk to Harold on the engineering level to find out how to reactivate the power generator in the outposts to the north.
-
-::retakingoldoutposts
-Reactivate the power generator and retake the outposts in the cave tunnels to the north. There are total of five outposts, and you'll need to activate at least three of them.
-
-::jonaswatch
-Find Old Jonas's watch in the caves north of South Gate Station.
-
-::bretquestfortanner
-Complete tasks Bret gives you and return to Tanner.
-
-::gorskyquestfortanner
-Complete tasks Gorsky gives you and return to Tanner.
-
-::hopperroundupquest
-Capture three cave hoppers for Big Bret.
-
-::findnewton
-A young man named Newton was sent by Big Bret to catch cave hoppers in the Mushroom Cove, but he hasn't returned yet. See what's taking him so long.
-
-::hungryeels
-Get some raw meat for Mordre at the Mushroom Cove.
-
-::thevault
-Find a way to open the sealed door in the GMS compound.
-
-::drpasquale
-Talk to Pasquale on the medical level.
-
-::talktobretforroundup
-Talk to Bret at the agronomy concerning his 'hopper round up.'
-
-::talktogorskyatgms
-Travel to GMS compound and talk to Gorsky (Essie at the Lower Underrail exit can instruct you on how to get there).
-
-::quintonpsitask
-Shoot a rathound with a bolt Quinton gave you and collect a tissue sample.
-
-::packagedelivery
-Retrieve the package from the barracks at SGS station platform near the tunnel and take it to the warehouse south of GMS compound.
-
-::findrotor
-Travel to Junkyard and search for Armadillo class drill rotor circuit board (one of the merchants might have it or know where to find it).
-
-::talktoveraaboutdocs
-Talk to Vera on the administration level about trading documents that need to be delivered to United Stations embassy in Junkyard.
-
-::delivertradingdocs
-Deliver trading documents to the United Stations ambassador in Junkyard.
-
-::assistrailcrossing
-Tanner wants you to find out what is happening in Rail Crossing and assist them with their problem.
-
-::meetgorskyincore
-Meet Gorsky in Core City. Look for him in the Hardcore City Bar.
-
-::findmissingmerchants
-Vera wants you to find out what happened to merchants Terry and Lora Baker (They were last heard from when they were in Core City and they might have stopped by Rail Crossing later).
-
-::findcornell
-Look for Cornell and his Acid Hunters gang in the Core City and report your findings to Tanner.
-
-::findoutwhatfacelesswant
-Find out what the Faceless are searching for.
-
-::bigbretcamphathor
-Big Bret told you that SGS has lost contact with Camp Hathor after the earthquake, he wants you to go there and see what's happening. It's located in the caves east of SGS.
-
-::haroldneedsbatteries
-Harold wants you to check out an old battery recycling plant located in the caves, straight to the east from SGS. See if you can find some optoelectric nuclear cells, related equipment, blueprints or similar and bring it to him.
-
-::haroldyouaresosmrat
-You've discussed some really advanced battery stuff with Harold. Where did you learn all this stuff?
-
-::getcube
-Find the mysterious Cube the Faceless are looking for and return it to Tanner.
-
-::infiltratechurchoftchort
-Infiltrate the Institute of Tchort and track down the stolen Cube.
-
-::returntosgs
-Return to South Gate Station and talk to the councilors about Tanner.
-
-::searchtannersroom
-Search Tanner's room for clues. Talk to Ezra about unlocking the room for you.
-
-::gameover
-Talk to Vera or take the train to North Underrail.
-
-::dun_wastewater_body
-Learn more about what led to the brutal death of the $(context.frag_dun_wasteWater_corpseGender) whose body lies in the medical level's operating room.
-
-::dun_wastewater_ring
-You've found a ring with the initials JR engraved in them in an abandoned water treatment plant near Junkyard. Someone might want this...
-
-::dun_lup-a_lucassent
-Talk to Harland about his request for an extra auto-turret and more ammunition. He can be reached by going to the SGS metro station, then entering the under-passages from there.
-
-::dun_lup-a_harlandsquest
-Someone's taken down one of Harland's under-passage cameras, and he thinks it's in preparation of an attack on his guard post. Investigate what is going on.
-
-::dun_lup-a_harlandwantsbot
-Harland wants you to go talk with Harold about fixing up a bot which will help you explore the dark cave near his guard post.
-
-::jy_luckyknife
-Retrieve Kohlmeier's lucky knife from his former house in the east part of the residential area and return it to him in the slums.
-
-::jy_savejenny
-Save Cliff's girlfriend from the ruins southwest of Junkyard.
-
-::jy_petdelivery
-Sneak Abram's cybernetic spawn into ventilation ducts of United Stations embassy in Junkyard.
-
-::jy_rescuemission
-Rescue Maura from the Protectorate prison in Junkyard for Abram (you can access the prison through a hole in caves north of Junkyard gate).
-
-::jy_garrenabramshowdown
-Help Garren defeat Abram in the caves west of Junkyard gate (Garren must survive).
-
-::jy_groversplan
-Meet Grover and Treasa in the back alley behind Grover's shack north of the tavern for a showdown.
-
-::jy_fishing
-Prove to Geezer Ford that you're a capable fisherman. He wants you to bring him one of each of the following: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp and walking fish.
-
-::jy_groversdebt
-Find Grover in his shack north of the tavern and next to Len's shop and collect his debt to Dockmaster Silas or his head.
-
-::jy_lostcargo
-Sail with captain Broderick to the island where he believes the lost cargo washed up and retrieve it for Dockmaster Silas.
-
-::jy_findblaine
-Find Blaine and find out if there's an alternative way into Scrappers HQ from Old Junkyard.
-
-::jy_getsupportforeels
-Get either SGS or United Stations/Protectorate to help the Black Eels take down the Scrappers.
-
-::jy_rigthecavern
-Take the explosive charges from Colton and place them on the ceiling of the cavern below the Old Junkyard gate; you can access this cavern through the ventilation ducts of the lower level of Old Junkyard.
-
-::jy_eelsattack
-Help Silas and the Black Eels take over Scrappers HQ.
-
-::jy_getkeycard
-Look for a guy named Elwood in the gambling house in the back alley on north side of the slums and get his keycard off him somehow; then bring it to Eddy at Depot B.
-
-::jy_elwoodbreakin
-Eddy from Depot B wants you to use Elwood's key card to enter his house in the back alley north of the tavern and search for a strange disk shaped object.
-
-::jy_findwormhole
-Eddy the scrapper boss wants you to find out how the Black Eels are sneaking into the Old Junkyard.
-
-::rc_getridoffaceless
-Captain Herve wants you to get rid of the Faceless, one way or another.
-
-::rc_savebuzzer
-Captain Herve wants you to save Buzzer, who he believes is being held prisoner in his shop.
-
-::rc_findempdevice
-Retrieve the strange electronic device from the abandoned warehouse south of Rail Crossing and bring it to Myles. It can be reached by following the eastern platform along the tracks south of Rail Crossing, then turning west into the first fenced area.
-
-::rc_dudesbrew
-Dude had a strange vision where he saw you get something really important from a locker, located in a warehouse east of Rail Crossing. He wants you to bring him that important item.
-
-::rc_thethief
-Someone's been stealing medical supplies from Doctor Boudreau's supply locker. Try to catch the thief in the act.
-
-::rc_trainheist
-Captain Herve wants you to help him find out what happened with a Protectorate train that was expected to bring supplies to Rail Crossing, but never arrived. The train was supposed to set off from South Railroad Outpost.
-
-::rc_checkwhentrainisarriving
-Captain Herve is being impatient about the arrival of the recovered supplies. He asked you to go back to South Railroad Outpost and learn when the supplies will be leaving for Rail Crossing.
-
-::ch_burrowereradication
-Burrowers have emerged from the abandoned mine following the earthquake and are endangering Camp Hathor. Go into the mine and see if there is any way to stop them.
-
-::ch_killrathoundking
-A mysterious man who calls himself the Rathound King is causing trouble to Camp Hathor. He is described as a strong and cunning foe who can control rathounds. Find him, kill him and bring his head to Edgar.
-
-::ch_rathoundkingmakepeace
-You managed to convince Rathound King to negotiate with Camp Hathor, but he wants you to be the negotiator. Talk to him and Edgar and try to work out a truce between them.
-
-::ch_rathoundkingsqueen
-Rathound King wants you to kidnap Sarine, a female hunter from Camp Hathor. Bring her to the Rathound King's lair whether she likes it or not.
-
-::trackernecklace
-Find the source of the signal the strange necklace is tuned to track.
-
-::trackernecklace2
-Talk to Arlene about the strange necklace you found.
-
-::lux_miltonskey
-A lone guy in the caves needs a footlocker key which was carried by two men supposedly located somewhere in the cave area. Find the key and bring it to him.
-
-::fo_tilldeathdouspartnicolas
-Nicolas wants you to kill his wife Olivia, but only if you make it look like a work related accident. Otherwise, he'll refuse to pay you. You'll find her working in an explosives warehouse near the mine entrance.
-
-::fo_tilldeathdouspartolivia
-Olivia wants you to kill her husband Nicolas, but only if you make it look like a work related accident. Otherwise, she'll refuse to pay you. You'll find him in the metalworks.
-
-::fo_killbalor
-Chief Banner wants you to kill Balor, the leader of Ironheads, and bring him his red cybernetic eye. He is probably located in the warehouse complex south of Foundry.
-
-::fo_evelynchase
-Evelyn Ingram wants to kill you. Find a way to escape and warn the authorities.
-
-::fo_evelynevidence
-You found evidence that Evelyn Ingram is a serial murderer. You should report her to the authorities.
-
-::fo_facelessrecon
-Faceless in the caves west of Foundry want you to help them locate a mysterious object that was stolen from them. You should inquire with the Foundry merchants.
-
-::fo_reportmurderblack
-You told Chief Banner about the potential murder situation between Olivia and Nicolas.
-
-::fo_mainquestpart1
-Find a way to stop the big creature that, along with its smaller cousins, threatens Foundry. Start by going to the mine and talking to Marcos, the mining supervisor, and Saban, a guard that survived the encounter with the Beast.
-
-::fo_discoverpsimorphs
-Learn more about the strange creatures that inhabit Foundry's mine.
-
-::fo_psimorphbiologist
-You are going to need some help if you want to learn more about the Foundry mine creatures. Find an expert biologist and bring him either samples from or, if possible, the creatures themselves.
-
-::fo_bringlarvatoezra
-Bring the captured borer to Ezra. Hopefully he'll be able to tell you more about it.
-
-::fo_bringbladelingpiecetoezra
-Ezra wants you to bring him a sample from one of the bladelings to analyze, like a shell piece, back blade - anything of the sort. Only then will he be able to tell you how to defeat the Beast.
-
-::fo_fixthefurnace
-Repair the large smelting furnace in Foundry.
-
-::fo_loadthefurnace
-You need to load the furnace before you can use it to kill the Beast. (Find 30 impure chromium blades)
-
-::fo_mainquestpart2
-Find a different way to kill the Beast. Or...
-
-::fo_chiefinvestigatefaceless
-Chief Banner wants you to investigate a small group of Faceless that was spotted west of Foundry. Find out why they're there and report to the chief.
-
-::fo_improvesupersteel
-Bernard wants you to bring him data on super steel refining techniques so that Foundry can produce higher quality super steel. The more data you bring, the better the quality.
-
-::cc_recovertunneler
-Gorsky wants you to find a way to recover a tunneler that's been stranded in Drop Zone, on the middle level of Core City.
-
-::cc_raidprotwarehouse
-Gorsky wants you to find a way to enter the Protectorate warehouse at the Core City Docks and recover a shipment of energy shield emitters. Sneaky might have some clue as how to get in.
-
-::cc_raidprotwarehouse_collectothershields
-Gorsky needs ten high-quality energy shields of any kind. His measure of high-quality is that they should be worth over two hundred charons, and optionally you could prioritize the ones with high-frequency modulators. Once you have them, stash them in the locker in the corner of the room.
-
-::cc_retakeoutpostforgorsky
-Help Gorsky attack the Black Crawler camp. Meet him near the tunneler when you are ready.
-
-::cc_ct_findraul
-Harlan wants you to find a Coretech agent Raul that has gone missing recently. He was last spotted entering the Core City sewer system.
-
-::cc_ct_findicpd
-Harlan told you about a Coretech employee who is suspected to have stolen an important device, the so-called ICPD, from one of Coretech's labs. Find him, deal with him and retrieve this device.
-
-::cc_ct_defendwarehouse
-One of Coretech's warehouses is under attack. Go there and eliminate the opposition. The warehouse is located just west of the main city entrance.
-
-::cc_ct_acidhunters
-The Acid Hunters have killed Edmund Knight, son of Archibald Knight, chief of Praetorian Security. Mr. Simmons wants you to kill Cornell and bring him his head.
-
-::cc_ct_researchfacility
-Mr. Simmons wants you to go to a secret Coretech research facility and make sure the artifact that is kept there stays there. It's located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
-
-::cc_ps_killdepacino
-Locate a mercenary group in Core City lead by Joe De Pacino. Eliminate him and report to Stratford.
-
-::cc_ps_sewerpower
-Lieutenant Stratford wants you to investigate and repair a generator that went out in the sewers. There is a high probability that the Faceless are responsible, so if you see any signs of their presence, inform Lieutenant Stratford as soon as possible.
-
-::cc_ps_clearwarehouse
-A warehouse in Core City was attacked by mercenaries. Go there, eliminate all opposition and see if you can find any clues about the attack.
-
-::cc_ps_acidhunters
-Archibald Knight wants you to seek the Acid Hunters and find out if Cornell is the actual murderer of his son Edmund. If he is, kill him and bring his head to Knight.
-
-::cc_ps_researchfacility
-Chief Knight wants you to go to Coretech's hidden research facility and learn all you can about what's inside it and if it's somehow connected to the Faceless. It's located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
-
-::cc_jkk_findbogdan
-Vivian wants you to find an operative called Bogdan Stravohodnik who supposedly turned derailed and is nowhere to be found. The only clue regarding his whereabouts - he was last seen visiting Hardcore City Bar.
-
-::cc_jkk_disablesecurity
-JKK needs your help with rescuing hostages which are being held in a Core City warehouse. You need to disable the security system so that JKK operatives can storm the warehouse and rescue the hostages. Talk to Ola and follow his instructions.
-
-::cc_jkk_acidhunters
-Gunnar Edstrom wants you to find the Acid Hunters and talk to them about the device and the murder of Edmund Knight.
-
-::cc_jkk_helpvivianrepairs
-Escort Vivian and protect her while she repairs a power generator in an abandoned facility.
-
-::cc_jkk_researchfacility
-Gunnar Edstrom wants you to acquire a device previously owned by the Acid Hunters, now in possession of Coretech. It's held in a secret research facility owned by Coretech, located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
-
-::cc_arenamessenger_jkk
-A messenger has informed you that Ola Halidorson of JKK wants to speak to you about an urgent matter. See him as soon as possible.
-
-::cc_arenamessenger_ct
-A messenger has informed you that Joseph Harlan of Coretech wants to speak to you about an urgent matter. See him as soon as possible.
-
-::cc_arenamessenger_ps
-A messenger has informed you that Lieutenant Stratford of Praetorian Security wants to speak to you about an urgent matter. See him as soon as possible.
-
-::cc_acidmessenger_jkk
-A messenger has informed you that Gunnar Edstrom wants to speak to you. See him in his office as soon as possible.
-
-::cc_acidmessenger_ct
-A messenger has informed you that Rupert Simmons wants to speak to you. See him in his office as soon as possible.
-
-::cc_acidmessenger_ps
-A messenger has informed you that Archibald Knight wants to speak to you. See him in his office as soon as possible.
-
-::boughtelectrobench
-You purchased an electronics workbench from West in Foundry. Go to Core City Housing Corporation and have them transport it to your house.
-
-::boughtmechbench
-You purchased a mechanics workbench from Travis in Rail Crossing. Go to Core City Housing Corporation and have them transport it to your house.
-
-::boughtchembench
-You purchased a workbench for chemistry and biology from Fixer in Junkyard. Go to Core City Housing Corporation and have them transport it to your house.
-
-::boughttailoringbench
-You purchased a tailoring workbench from Fredd in Camp Hathor. Go to Core City Housing Corporation and have them transport it to your house.
-
-::cc_housing_jkk
-Speak with Ola Halidorson.
-
-::cc_housing_ct
-Speak with Joseph Harlan.
-
-::cc_housing_ps
-Speak with Lieutenant Stratford.
-
-::cc_housing_morgan
-A man called Samuel Morgan will be waiting for you in front of your residence in the easternmost section of the Core City residential district.
-
-::cc_corecityarena
-Defeat all your opponents in the Arena.
-
-::cc_startgauntlet
-Apply for and successfully finish the Gauntlet.
-
-::cc_forger_noname
-Find more information about the shady dealings operated through the metro's emergency phones.
-
-::cc_forger_name
-Search for more clues about the whereabouts of a hacker known as Phreak.
-
-::cc_forgerfindhvcables
-Phreak wants you to head into the sewers, all the way to the northwest, and find a lever that will lead to one of his hideouts. Once there, deal with the Acid Hunters and bring him back his High Voltage Power Cables.
-
-::cc_forgertickettesting
-Phreak has given you his forged metro tickets for a test run. Take at least one train ride to anywhere you like and then report back to him.
-
-::cc_forgerhvpenetratorassembly
-Phreak has tasked you with finding the remaining two components needed for assembly of a device he's working on. Both pieces are located in the Upper Underrail Metro within his secluded hideouts. Plug in the Orange Box into any emergency phone booth you find and seek out a way to gain access to his hidden shelters.
-
-::cc_forgeroverchargefacility
-Now that the High Voltage Penetrator is assembled, Phreak wants you to aid him in overcharging the entire facility, by enabling the water boilers of the nearby facility, located on the level below and then east from where Phreak himself is. Once done, find a nearby console to further overburden the system.
-
-::cc_forgerdeadassemblehpv
-Pick up the Orange Box and find all three components needed to assemble the High Voltage Penetrator. You will need its core and controller both of which are somewhere in the Upper Underrail Metro, and high voltage power cables which are located in the Core City Sewers. Assemble the components at the power grid and power it up.
-
-::cc_forgerdeadassemblehpvwoc
-Pick up the Orange Box and find the remaining two components needed to assemble the High Voltage Penetrator. Interact with the emergency phones of Upper Underrail Metro and recover the device's core and controler. Assemble the components at the power grid and power it up.
-
-::cc_forgerdeadoverchargefacility
-Now that the High Voltage Penetrator is assembled and active, find a way to further overcharge the entire facility.
-
-::cc_meetabram
-Meet Abram in Core City.
-
-::wa_vlatkosmonitor
-Vlatko Talloski needs his 8460p monitor repaired so that he can watch ArenaNow in all its glory.
-
-::wa_findfoundrycell
-Jack wants you to go to Foundry and locate one of their cells there. There, Everard will give you an assignment. The answer to the question, "Who goes there?" is "The neophyte."
-
-::wa_talktoohadxander
-Meet Ohad Xander at the Lower Underrail train station, in Core City.
-
-::wa_talktolenoxpierce
-Meet Lenox Pierce in South Gate Station.
-
-::wa_reporttojack
-Talk to Jack Quicksilver after you've finished all three assignments.
-
-::wa_danielarda
-Ohad Xander suspects that Daniel Arda, a trader currently visiting Core City, is selling a fake combat enhancement drug called Hercules. He wants you to expose this fraud to everyone in Core City once you have the appropriate evidence.
-
-::wa_foundryprison
-Todor Sallywatch, one of Everard's men, was caught at the murder scene and is being held in Foundry prison. He is to be liberated before he reveals something about the cell. If not, then find another way to make sure he doesn't talk.
-
-::wa_deathinsgs
-Patrick Pierce, a mechanic who resided in SGS was found dead in his room some time ago. Cause of death is unknown, but Lenox, Pat's brother is not pleased with the response from SGS and wants you to investigate and learn how Pat died.
-
-::wa_meetazif
-Travel to the caves beneath Lower Underrail and look for Azif in a place called 'Hanging Rat.'
-
-::wa_oldmannosek
-Locate former Biocorp researcher Wit Nosek, dead or alive, and find out what it was he discovered while working on 'The Ark' project.
-
-::fd_killenvoy
-A Protectorate envoy with escort is visiting Rail Crossing. Wait for them at the train station and assassinate the envoy. After that, report to the mysterious lady near Junkyard's south entrance.
-
-::fd_lurkerescape
-Check out the Lurker encampment east of the Free Drones base. Search for the captives and rescue them if they're alive.
-
-::fd_findbase
-Find the Free Drones base in the under-passages. Enter the under-passages entrance near Rail Crossing and, once inside, go west until come up to a door with an intercom. The passcode is "delectable."
-
-::fd_getequipmentfromjunkyard
-Find Free Drones hideout in Junkyard and bring some equipment back to under-passages base. Slowly knock four times on the western door in the alley north of Kareem's bar.
-
-::fd_sabotageelevator
-Destroy the Protectorate troop elevator located in Epione Lab, Upper Underrail. It lies east of Core City, between it and Fort Apogee, and can be reached by following the blue metro line. Your task is to infiltrate Epione lab, plant C4 charges on lab's load-bearing pillars and detonate them.
-
-::fd_attacksro
-Meet your squad in the area south of GMS and then lead the assault at South Railroad Outpost. Once the base has been cleared of enemy troops, report back to Trenton.
-
-::fd_revealspy
-You revealed that Alvin Bate was a spy working for the Protectorate.
-
-::pr_speakwithathanas
-Ambassador Athanas wishes to speak with you about your role in the recovery of the hijacked train. You can find him in his office in the Junkyard embassy.
-
-::pr_speakwitholiver
-Ambassador Athanas told you to see Consul Oliver in Fort Apogee, Upper Underrail, if you are interested in joining the Underrail Protectorate.
-
-::pr_helpepionelab
-Colonel Cathcart wants you to go to Epione Lab in Upper Underrail and talk to Captain Blackwall, who has the mission details. Once you help Blackwall, return to Colonel Cathcart.
-
-::pr_investigatearoundepione
-Captain Blackwall at Epione Lab wants you to investigate the surrounding areas and report your findings to him.
-
-::pr_hephaestuscrew
-Colonel Cathcart told you about a Protectorate expedition that hasn't reported back since the earthquake. Find Hephaestus Research facility in Lower Underrail caves and locate the missing team.
-
-::pr_getmutagen
-Captain Mareth sent you to find at least two cans of mutagen which is to be used against the Free Drones. He mentioned a facility that might have it, but doesn't know its location, other than it's in the cave system north of Rail Crossing.
-
-::pr_gasfreedrones
-Captain Mareth told you to find someone in Fort Apogee that will rig the mutagen cans to release the gas with a delay. Afterwards, you are to find the entrance to under-passages, just south of Rail Crossing and link up with CAU.
-
-::pr_renegadesoldiers
-Consul Oliver asked you to negotiate with a renegade Protectorate squad that had left Fort Apogee for unknown reasons. The renegades are being led by Sergeant First Class Timothy Holloway, and are located at Dolos Center station, west Upper Underrail. Report back to the consul once the situation has been resolved.
-
-::tch_findfigurine
-Efreitor Denzil wants you to find a missing figurine he suspects was stolen by the Lunatics. The figurine is made of metal and depicts a man reaching up for the surface.
-
-::tch_getinterviewd
-Wait for the praepostor to arrive to interview you for your admission to the Institute of Tchort.
-
-::tch_pr_clearlunatics
-Mediant Samuel asked you to go to Utility Station 7 that can be accessed through a breached wall in the lower levels of the Institute. Once there, you are to make sure that the area is secured and then return to the mediant.
-
-::tch_pr_findmissingefreitor
-Mediant Samuel wants you to find a Preservation combat unit that was dispatched to the West Wing around five days ago but never returned or contacted back. Find them or what is left of them and report to Mediant Samuel.
-
-::tch_pr_killmateo
-Kill Efreitor Mateo and report back to Mediant Samuel.
-
-::tch_pr_killmateoandbringhead
-Kill Efreitor Mateo and bring his head to Mediant Samuel.
-
-::tch_pr_trackdownnevil
-Mediant Samuel wants you to locate a rassophore named Nevil who has disappeared and cannot be found anywhere within the Institute of Tchort. He was last spotted near Eidein's Library.
-
-::tch_ch_testchemweapon
-Principal Investigator Georgis needs you to help him field test an experimental chemical pistol - XAL-001. Use the pistol in combat until you are sure there are no problems with its design and then return to Georgis.
-
-::tch_ch_findresearchdata
-Principal Investigator Georgis wants you to go to Hecate Research Outpost and see if you can find and retrieve research data on protein design. The facility is located in Lower Underrail, not too far to the east of Core City.
-
-::tch_ch_alcoholtesting
-Principal Investigator Georgis needs a volunteer who will test alcoholic drinks he has been making. It requires dedication, patience, a good sense of taste and smell - and a strong stomach.
-
-::tch_gen_capturebeetle
-Psycho, one of the dangerous NPS specimens has escaped its enclosure at the Institute of Tchort. You are given a portable neural pacifier to use on the creature, but you can only do so after you weaken and incapacitate it. If Psycho is accidentally killed, the consequences will be dire.
-
-::tch_gen_investigateforsakenisland
-Principal Investigator Rista wants you to go to Forsaken Island and try to find the so-called Behemoth, a large and potentially dangerous creature that is rumored to inhabit the island. If you are able to find it, try to bring some sample of its tissue or similar.
-
-::tch_gen_findhealth
-Principal Investigator Rista needs you to go to Institute of Tchort courtyard and find out if any of them had a history of surviving dangerous illnesses or diseases that would be deadly to most.
-
-::tch_phy_locatepavel
-A rassophore named Pavel was sent to the Institute of Tchort West Wing two days ago to plant a T-ray emitter for Principal Investigator Schteff and hasn't returned yet. Find out what happened to him and bring him back if he is still alive.
-
-::tch_phy_planttrayfirst
-Principal Investigator Schteff wants you to deploy a T-ray emitter somewhere on Harpocrates Station just below the Institute building. He also gave you a comm device which you can use to speak to him. Find a location where the emitter signal is the strongest, deploy it then return back to the Institute.
-
-::tch_phy_planttraysecond
-Principal Investigator Schteff wants you to deploy one more T-ray emitter, but this time at Core City Upper Underrail station. Find a secluded place where no one could find it and deploy it there.
-
-::tch_findsourceoftremors
-Strange tremors have begun shaking the Institute of Tchort. Maybe you should investigate the cause.
-
-::tch_learnfacelessinvasion
-Find out why the Faceless have appeared in the West Wing.
-
-::tch_escapetheinstitute
-Escape Institute of Tchort before the Faceless overrun it!
-
-::tch_talktolydia
-Her Eminence, Episkopos Lydia seeks audience with you in her office at the top floor of the Institute of Tchort. See her as soon as you are able to.
-
-::tch_meeteidein
-A meeting with Eidein has been arranged for you. See him in his office at the top floor of the Institute of Tchort, behind the double doors opposite the stairs leading from the main hall. Do not keep him waiting.
-
-::tch_joininvestigation
-Investigation, one of the three divisions of the Institute of Tchort, has its three departments located in the Institute's east wing. Each department has its own principal investigator with whom you should speak if you seek work for the respective department.
-
-::tch_joinpreservation
-Speak to Mediant Samuel about joining Preservation, one of the divisions of the Institute of Tchort.
-
-::tch_hannavathosphore
-See Efreitor Hanna about your ceremonial uniform.
-
-::dc_leavedeepcaverns
-Find a way out of Deep Caverns
-
-::dc_tchortistrecon
-Harmost Stavros wants you to perform reconnaissance of the Hollow Earth cavern and the areas east of it. Also, he suspects that the Faceless have probably set up one or more bases of operations where they might hold rassophores captured during the fighting. Scout them out and help any rassophores you might find.
-
-::dc_tchortistcaptives
-Harmost Stavros wants you to liberate the captured rassophores you saw at the Faceless base. Get as many of them as you can out of there and report back to His Excellency.
-
-::dc_leosknife
-Leo wants you to find his knife which he had lost during an encounter with a Tchortist patrol about six-seven days ago. He told you the whole event happened west of the warehouse block, right at the entrance to the "big city."
-
-::dc_repairgate
-In order to repair the mechanism operating one of the large gates in the area, you would need the following: one hydro-pneumatic accumulator, one hydraulic pump drive shaft, three canisters of hydraulic fluid, one hydraulic system control valve. You would also need tools if doing the job yourself, or you could use a repair bot to perform the repairs for you.
-
-::dc_repairbot
-There is a disabled repair bot in the room housing the mechanism operating one of the gates in the area. If you can figure out a way to fix it, it might prove useful to you.
-
-::dc_killtchort
-Destroy Tchort.
-
-::dc_getpastgate
-Find a way to open the large metal gate leading to Tchort.
-
-::dc_removeentanglement
-There seems to be some strange organic mass covering the large gate leading to Tchort. Find a way to remove it.
-
-::cc_otto_findjeteater
-Find Otto the hunter near the cave entrance at the northwest section of Core City Ring. He wants you to help him get rid of his nightmares
-
-::cc_otto_killjeteater
-Otto wants you to aid him in overcoming his greatest challenge. Slay the Jet Eater, and help him claim it as his trophy.
-
-::cc_matriussdevice
-Matriuss Ludenlof wants you to retrieve his personal news tracking device. It is located in an office building in the northern section of the Core City residential area
-
-::xpbl_ojyc_kayainvestigation
-Ion from The Rig wants you to find out what has happened to the group they've dispatched to explore an abandoned waterway facility, recently opened up after the earthquake. He mentioned that you should sail all the way to the west from The Rig and look for an opening in the southern walls.
-
-::xpbl_ojyc_altkayainvestigation
-Ion is pleased to learn the fate of the group they've dispatched to explore an abandoned waterway facility west from The Rig, which was recently opened up after the earthquake.
-
-::dudesotherquest
-Dude had another vision...
-
-::dudecc
-Help Dude search his old home in Core City.
-
-::dudeup
-Help Dude search his old home in Upper Underrail.
-
-::dudelux
-Help Dude search his old home in some cave in Lower Underrail.
-
-::dudeingredients
-Dude needs two mushroom brews, two measures of unsaturated psionic catalysts, two of morphine, and two of gyromitrin to make the Juice for you and him. Speak to him when you're ready to continue the journey.
-
-::dudeoil
-Dude needs you to find any kind of mineral oil you can find in this base. It is the only way for you to return back whence you came.
-
-::bringdudetwentybrew
-Dude needs twenty bottles of mushroom brew so that you two could prepare your minds for what is to come.
-
-::dudesjuicedeal
-Picking mushrooms and plants to make Juice is too time-consuming. Find someone who will supply Dude with all the necessary ingredients and let him know.
-
-::xpbl_hearddockexpedition
-Find out what is going on at the eastern section of the Core City docks.
-
-::xpbl_knowdockexpedition
-There's work to be had at the eastern section of the Core City docks. Apparently, it's an expedition of some kind. You should find out more about it.
-
-::xpbl_talkwithbriggs
-Speak with Chief Briggs about joining the expedition. He can be found at the eastern docks in Core City.
-
-::xpbl_proveyourworthtobriggs
-Chief Briggs of Aegis Incorporated will not let you join their expedition to the Black Sea unless you can prove to him you are worthy. Judging by his demeanor, it seems like nothing short of a truly impressive feat will do the trick.
-
-::xpbl_joinexpedition
-Chief Briggs is waiting for your response about joining their expedition to the Black Sea.
-
-::xpbl_meetninja
-A man known only as Aran wants to meet you in the Dominating bar, located in Core City's residential area, upper level. He was described to be wearing a black and red cloak and an unusual sword.
-
-::xpbl_meetoldfield
-Speak with Professor Oldfield. You can find his tent in the middle of the camp.
-
-::xpbl_defendtheisland
-The camp is under attack! Follow Yahota to the island's southeastern beach and defend your position against the invaders. Return to the professor once the coast is clear.
-
-::xpbl_getgear
-See Marcus about collecting your gear. His tent is just across from Professor Oldfield's.
-
-::xpbl_talktoseeger
-Professor Oldfield wants you to speak to a man called Jeremy Seeger about some NFT data he had managed to recover. His tent is just to the east from the medical tent. Report to the professor once you're done.
-
-::xpbl_briggsbriefing
-See Chief Briggs about your briefing. His tent is just north of the kitchen.
-
-::xpbl_jenkins
-Go to the camp dock and speak to Sec-trooper Jenkins about getting a jet ski.
-
-::xpbl_investigatemuties
-You have been assigned to investigate the West Storage Depot, a storage facility located at coordinates B7, in order to find a working A-RFID microchip; all NFT personnel have been implanted with these, most commonly in the right hand. Report either to Chief Briggs or Professor Oldfield once you've found it.
-
-::xpbl_rescuetheprofessor
-Professor Oldfield has been kidnapped. Find him and return him to the camp if he is still alive.
-
-::xpbl_startoldfieldliberation
-Liberate the professor either through negotiating with the pirates or by infiltrating their base. There is a patrol at coordinates F4 in case of the former. Whatever happens, Aegis Incorporated is ready to move in.
-
-::xpbl_briggsprofessorkidnapping
-Speak with Chief Briggs about Professor Oldfield's kidnapping.
-
-::xpbl_briggsfailedpirateattack
-Speak with Chief Briggs about the firefight with the pirates in the Keep.
-
-::xpbl_professorprivatetalk
-Professor Oldfield wants to speak to you about something urgent. Meet him in the camp.
-
-::xpbl_investigatenexus
-Investigate Nexus of Technology, located at coordinates K7. Report your findings to Professor Oldfield.
-
-::xpbl_investigatehorticulture
-Investigate Crimson Meadow Horticulture Center, located at coordinates H7. Report your findings to Professor Oldfield.
-
-::xpbl_investigatemedical
-Investigate Lemurian Health Center, located at coordinates I1. Report your findings to Professor Oldfield.
-
-::xpbl_investigatecompound
-Investigate Joint Security Headquarters, located at coordinates F12. Report your findings to Professor Oldfield.
-
-::xpbl_investigateabyss
-Professor Oldfield wants you to go to Abyssal Station Zero, located in the Black Sea's southeastern bay. Once there - find the Acorn.
-
-::xpbl_campdefenses
-The camp is under persistent attacks and any improvements to its defenses would be welcome. Marcus suggests trying to learn about and activate the island's latent security systems or recovering any useful equipment.
-
-::xpbl_camp_mines
-You've discovered functional naval mines which could be deployed around the camp island. You only need someone to ferry them there.
-
-::xpbl_camp_naga
-The statues found in and outside NFT facilities are in fact latent bots which possess combat abilities to varying degrees. Perhaps some can be used in bolstering the camp's defenses.
-
-::xpbl_camp_turrets
-You've found a way to activate the Arch Keep's defense turrets.
-
-::grimmainquest
-Captain Grim wants you to discover what knowledge and loot lie in the sequestered facilities of the Black Sea and report your findings to him. You are left entirely to your own devices, so stay sharp and be on the lookout for any clues which could help you.
-
-::razorsalvation
-Razor wants you to find a unique old world shotgun that was owned by one of his pirate mates who went missing in the Fetid Marsh and is presumed dead. He'll pay you for the shotgun if you manage to bring it to him.
-
-::raidmerchantshipparty
-A merchant ferry is headed from Core City to Camp Hathor. The Grim Jetters are planning to intercept it in Dreadpool, and your job is to secure the loot even if it means killing everyone aboard. Report to Captain Grim once the ship's been raided.
-
-::raidmerchantshipalone
-A merchant ferry is headed from Core City to Camp Hathor. You volunteered to secure the ship yourself, and you will do so even if it means killing everyone aboard. Report to Captain Grim once the ship's been raided.
-
-::raidprotectorateship_seerazor
-Captain Grim wants you to talk to Razor. He can be found at Port Crag, just northeast from Port Ceto.
-
-::raidprotectorateship_seegrim
-Return to Captain Grim.
-
-::raidprotectorateship
-The UPCCS Armstrong has almost finished its long voyage from North Underrail to Core City. Meet up with Razor in a cove at the mid-western part of the Core Ring, and from there proceed north and raid the ship before it reaches Port Zenith, preferably ridding the world of all its sailors. Report to Captain Grim afterwards.
-
-::therigsonarparty
-The Black Eels have been using an advanced sonar system to detect and thwart pirate raiding parties, and it is located at the Eel-controlled Rig. Go there and investigate all you can about the Rig, its defenses and the sonar's exact location. Meet up with Cruzer's party at the ruins at the mid-eastern part of the Core Ring, north of a Protectorate outpost, after you've done so and continue with the plan.
-
-::therigsonarpartyturrets
-Cruzer and his crew will attack as soon the turrets have been disabled. Don't take too long, however, as the Black Eel guards might become suspicious and start snooping around.
-
-::therigsonaralone
-The Black Eels have been using some kind of advanced sonar to detect and thwart pirate raiding parties, and it is located at the Eel-controlled Rig. Go there, find and destroy this sonar no matter what it takes. Report to Captain Grim afterwards.
-
-::defendceto
-Aegis are attacking Port Ceto! They have broken through one of the northern walls but have not penetrated deeper into the port. Secure the area between the Shop and the main gate and return to Captain Grim.
-
-::pir_takeoutaegispatrols
-Hunt down Aegis Incorporated jet ski patrols and kill them until there are no more patrollers coming to reinforce their fallen breathren. Report to Captain Grim after you're done.
-
-::xpbl_expeditionwithoutyou
-There is some kind of an expedition at the Black Sea, and it seems like you've missed the opportunity to join in. Find out what they're after.
-
-::xpbl_expeditionfired
-You've been fired from the Black Sea Expedition. However, there's nothing preventing you from continuing to discover the secrets of the Black Sea, hired to do so or not.
-
-::xpbl_expeditionnomore
-The Black Sea Expedition is no more. Despite this, there's nothing preventing you from continuing to discover the secrets of the Black Sea on your own.
-
-::xpbl_foundphilsarm_notjoined
-You've found an old, severed arm in whose glove you feel something solid to the touch, right between the index finger and the thumb...
-
-::xpbl_foundfortcoordinates
-You've discovered coordinates to several other facilities on a console inside the Arch Keep.
-
-::xpbl_hc_removeroots
-A gate in Crimson Meadow Horticulture Center is blocking your path. There is a console next to it, but it is covered in thick roots whose removal by burning or brute force might damage the console. Find some other way to get rid of this overgrowth.
-
-::xpbl_foundhorticulturecoordinates
-You've discovered coordinates to several other facilities on a console inside Crimson Meadow Horticulture Center.
-
-::xpbl_foundnexusmicrochipencoder
-You've discovered a microchip implant encoder inside Nexus of Technology. Perhaps you can somehow use it on Phil Bridges' microchip implant.
-
-::xpbl_mc_implanternote
-You've found a microchip implantation/extraction unit in the Lemurian Health Center. Find out if it's still functional.
-
-::xpbl_implantedchipinmedical
-You've implanted Phil Bridges' microchip implant into your arm at the Lemurian Health Center. You're inseparable, for now.
-
-::xpbl_findacorn
-You've learned that something called the Acorn (ACoNR) may exist somewhere in Lemuria. While you don't know exactly what it does or looks like, it does seem to be rather important...
-
-::xpbl_foundacorn
-You've found the Acorn - but not a way to open or use it. You can hand it over to someone who perhaps can... or you could keep it for yourself.
-
-::xpbl_sc_getgearback
-All of your belongings have been transferred to a decontamination room somewhere inside Joint Security Headquarters. Snoop around and find a way to retrieve them. They can't be far away...
-
-::xpbl_sc_scanning
-You can't pass the authentication check during the bioscanning procedure at the Joint Security Headquarters. It seems like you need to find a way to retain the microchip implant when removing your items...
-
-::xpbl_as_unlockr&d
-The gate leading to Abyssal Station Zero's Research and Development dome cannot be opened with Phil Bridges' microchip implant. Find another way, or another implant.
-
-::xpbl_sawsubmarine
-You've located a submarine in one of the Black Sea facilities. Perhaps it could be used to explore the sea's depths.
-
-::xpbl_investigatedsubmarine
-The submarine you discovered at Blistering Shores uses the Course automated docking system to guide the submarine to a facility's submarine docking bay. For this to work you'd need docking coordinates, and - due to the submarine's damaged thrusters - a means to tow it to the chosen diving location.
-
-::xpbl_submarinedockingcoordinates
-You've obtained Abyssal Station Zero's two-dimensional geographic coordinates (L2) as well as the docking coordinates for the Course system (020 476 118 263 2115).
-
-::xpbl_submarinedescentintoabyss
-Use the submarine to descend to Abyssal Station Zero.
-
-::xpbl_playermutated
-You are a mutant. Memories are growing distant, thinking slower, emotions wild... Find someone who can help you, if such exists.
-
-::xpbl_mutant_destroyedsewerobstacle
-The sewer obstacle now lies in ruins but not without its toll. In the same time, it makes you feel... drawn closer to something.
-
-::xpbl_mutant_turnongeneratorforvitek
-Vitek wants you to turn on the facility's main generator, located in the utility section below. The green console controls it, but to enable it you must first switch on the four blue ones.
-
-::xpbl_mutant_turnedongenerator
-You have restored the power to Kharon's facility.
-
-::xpbl_mutant_findvitek
-Find Vitek, Kharon's good friend.
-
-::xpbl_mutant_aidjuraj
-Figure out a way to restore power to the facility. Juraj mentioned a generator room in the ventilation section, below you.
-
-::xpbl_mutant_killkharon
-Join Juraj and his gang in defeating your new common enemy, Kharon.
-
-::xpbl_mutant_followkharon
-Follow Kharon to the mutie refuge.
-
-::xpbl_mutant_ending
-You have found your sanctuary, the mutie refuge, deep within the Black Sea. With memories fleeting away, you can only hope that the pain and suffering you endure will follow suit.
-
-::xpbl_mutant_bringvitekssuit
-Vitek wants his suit. It's in the vault, somewhere on the far side of the hallway.
-
-::xpbl_mutant_bringmanssuit
-The man in the tank-machine wants his suit. It's in the vault, somewhere on the far side of the hallway.
-
-::xphw_heardaboutnimble
-It appears that someone called Nimble is looking to assemble a crew of some kind. Look for him in Upper Underrail and see what all of that is about.
-
-::xphw_tripnorth
-You've been hired by Buck Nimble to help him find the coveted alternate route to North Underrail. Protect the crew and the railcar named Marjorie.
-
-::xphw_findwayback
-Your journey to North Underrail has come to a screeching halt. You're going to need help navigating back home through the labyrinthian dark territory, and Marjorie is the best place to start looking for the solution to that problem.
-
-::xphw_studieddarkterritorymap
-You've studied the map of the dark territory north of Upper Underrail.
-
-::xphw_investigateexobase
-Investigate The Compound.
-
-::xphw_voidbattle
-Help the Cognator defeat the invaders from the void.
-
-::xphw_gunslingerteamup
-You've teamed up with the Gunslinger. Help each other survive this ordeal.
-
-::xphw_meetgunslingerend
-Meet the Gunslinger at the Core City station in Upper Underrail, by Zilla's food stall.
-
+::dutycalls
+Talk to Councilor Tanner in his office in the commons (level three).
+
+::targetpractice
+Talk to Gorsky at the shooting range and have a practice session.
+
+::targetpracticeb
+Start the practice session at the shooting range, score ten hits, end the session and report to Tanner.
+
+::targetpracticec
+Return to Tanner and let him know you've done some target practice.
+
+::getfluxcontroller
+Talk to Harold on the engineering level to find out how to reactivate the power generator in the outposts to the north.
+
+::retakingoldoutposts
+Reactivate the power generator and retake the outposts in the cave tunnels to the north. There are total of five outposts, and you'll need to activate at least three of them.
+
+::jonaswatch
+Find Old Jonas's watch in the caves north of South Gate Station.
+
+::bretquestfortanner
+Complete tasks Bret gives you and return to Tanner.
+
+::gorskyquestfortanner
+Complete tasks Gorsky gives you and return to Tanner.
+
+::hopperroundupquest
+Capture three cave hoppers for Big Bret.
+
+::findnewton
+A young man named Newton was sent by Big Bret to catch cave hoppers in the Mushroom Cove, but he hasn't returned yet. See what's taking him so long.
+
+::hungryeels
+Get some raw meat for Mordre at the Mushroom Cove.
+
+::thevault
+Find a way to open the sealed door in the GMS compound.
+
+::drpasquale
+Talk to Pasquale on the medical level.
+
+::talktobretforroundup
+Talk to Bret at the agronomy concerning his 'hopper round up.'
+
+::talktogorskyatgms
+Travel to GMS compound and talk to Gorsky (Essie at the Lower Underrail exit can instruct you on how to get there).
+
+::quintonpsitask
+Shoot a rathound with a bolt Quinton gave you and collect a tissue sample.
+
+::packagedelivery
+Retrieve the package from the barracks at SGS station platform near the tunnel and take it to the warehouse south of GMS compound.
+
+::findrotor
+Travel to Junkyard and search for Armadillo class drill rotor circuit board (one of the merchants might have it or know where to find it).
+
+::talktoveraaboutdocs
+Talk to Vera on the administration level about trading documents that need to be delivered to United Stations embassy in Junkyard.
+
+::delivertradingdocs
+Deliver trading documents to the United Stations ambassador in Junkyard.
+
+::assistrailcrossing
+Tanner wants you to find out what is happening in Rail Crossing and assist them with their problem.
+
+::meetgorskyincore
+Meet Gorsky in Core City. Look for him in the Hardcore City Bar.
+
+::findmissingmerchants
+Vera wants you to find out what happened to merchants Terry and Lora Baker (They were last heard from when they were in Core City and they might have stopped by Rail Crossing later).
+
+::findcornell
+Look for Cornell and his Acid Hunters gang in the Core City and report your findings to Tanner.
+
+::findoutwhatfacelesswant
+Find out what the Faceless are searching for.
+
+::bigbretcamphathor
+Big Bret told you that SGS has lost contact with Camp Hathor after the earthquake, he wants you to go there and see what's happening. It's located in the caves east of SGS.
+
+::haroldneedsbatteries
+Harold wants you to check out an old battery recycling plant located in the caves, straight to the east from SGS. See if you can find some optoelectric nuclear cells, related equipment, blueprints or similar and bring it to him.
+
+::haroldyouaresosmrat
+You've discussed some really advanced battery stuff with Harold. Where did you learn all this stuff?
+
+::getcube
+Find the mysterious Cube the Faceless are looking for and return it to Tanner.
+
+::infiltratechurchoftchort
+Infiltrate the Institute of Tchort and track down the stolen Cube.
+
+::returntosgs
+Return to South Gate Station and talk to the councilors about Tanner.
+
+::searchtannersroom
+Search Tanner's room for clues. Talk to Ezra about unlocking the room for you.
+
+::gameover
+Talk to Vera or take the train to North Underrail.
+
+::dun_wastewater_body
+Learn more about what led to the brutal death of the $(context.frag_dun_wasteWater_corpseGender) whose body lies in the medical level's operating room.
+
+::dun_wastewater_ring
+You've found a ring with the initials JR engraved in them in an abandoned water treatment plant near Junkyard. Someone might want this...
+
+::dun_lup-a_lucassent
+Talk to Harland about his request for an extra auto-turret and more ammunition. He can be reached by going to the SGS metro station, then entering the under-passages from there.
+
+::dun_lup-a_harlandsquest
+Someone's taken down one of Harland's under-passage cameras, and he thinks it's in preparation of an attack on his guard post. Investigate what is going on.
+
+::dun_lup-a_harlandwantsbot
+Harland wants you to go talk with Harold about fixing up a bot which will help you explore the dark cave near his guard post.
+
+::jy_luckyknife
+Retrieve Kohlmeier's lucky knife from his former house in the east part of the residential area and return it to him in the slums.
+
+::jy_savejenny
+Save Cliff's girlfriend from the ruins southwest of Junkyard.
+
+::jy_petdelivery
+Sneak Abram's cybernetic spawn into ventilation ducts of United Stations embassy in Junkyard.
+
+::jy_rescuemission
+Rescue Maura from the Protectorate prison in Junkyard for Abram (you can access the prison through a hole in caves north of Junkyard gate).
+
+::jy_garrenabramshowdown
+Help Garren defeat Abram in the caves west of Junkyard gate (Garren must survive).
+
+::jy_groversplan
+Meet Grover and Treasa in the back alley behind Grover's shack north of the tavern for a showdown.
+
+::jy_fishing
+Prove to Geezer Ford that you're a capable fisherman. He wants you to bring him one of each of the following: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp and walking fish.
+
+::jy_groversdebt
+Find Grover in his shack north of the tavern and next to Len's shop and collect his debt to Dockmaster Silas or his head.
+
+::jy_lostcargo
+Sail with captain Broderick to the island where he believes the lost cargo washed up and retrieve it for Dockmaster Silas.
+
+::jy_findblaine
+Find Blaine and find out if there's an alternative way into Scrappers HQ from Old Junkyard.
+
+::jy_getsupportforeels
+Get either SGS or United Stations/Protectorate to help the Black Eels take down the Scrappers.
+
+::jy_rigthecavern
+Take the explosive charges from Colton and place them on the ceiling of the cavern below the Old Junkyard gate; you can access this cavern through the ventilation ducts of the lower level of Old Junkyard.
+
+::jy_eelsattack
+Help Silas and the Black Eels take over Scrappers HQ.
+
+::jy_getkeycard
+Look for a guy named Elwood in the gambling house in the back alley on north side of the slums and get his keycard off him somehow; then bring it to Eddy at Depot B.
+
+::jy_elwoodbreakin
+Eddy from Depot B wants you to use Elwood's key card to enter his house in the back alley north of the tavern and search for a strange disk shaped object.
+
+::jy_findwormhole
+Eddy the scrapper boss wants you to find out how the Black Eels are sneaking into the Old Junkyard.
+
+::rc_getridoffaceless
+Captain Herve wants you to get rid of the Faceless, one way or another.
+
+::rc_savebuzzer
+Captain Herve wants you to save Buzzer, who he believes is being held prisoner in his shop.
+
+::rc_findempdevice
+Retrieve the strange electronic device from the abandoned warehouse south of Rail Crossing and bring it to Myles. It can be reached by following the eastern platform along the tracks south of Rail Crossing, then turning west into the first fenced area.
+
+::rc_dudesbrew
+Dude had a strange vision where he saw you get something really important from a locker, located in a warehouse east of Rail Crossing. He wants you to bring him that important item.
+
+::rc_thethief
+Someone's been stealing medical supplies from Doctor Boudreau's supply locker. Try to catch the thief in the act.
+
+::rc_trainheist
+Captain Herve wants you to help him find out what happened with a Protectorate train that was expected to bring supplies to Rail Crossing, but never arrived. The train was supposed to set off from South Railroad Outpost.
+
+::rc_checkwhentrainisarriving
+Captain Herve is being impatient about the arrival of the recovered supplies. He asked you to go back to South Railroad Outpost and learn when the supplies will be leaving for Rail Crossing.
+
+::ch_burrowereradication
+Burrowers have emerged from the abandoned mine following the earthquake and are endangering Camp Hathor. Go into the mine and see if there is any way to stop them.
+
+::ch_killrathoundking
+A mysterious man who calls himself the Rathound King is causing trouble to Camp Hathor. He is described as a strong and cunning foe who can control rathounds. Find him, kill him and bring his head to Edgar.
+
+::ch_rathoundkingmakepeace
+You managed to convince Rathound King to negotiate with Camp Hathor, but he wants you to be the negotiator. Talk to him and Edgar and try to work out a truce between them.
+
+::ch_rathoundkingsqueen
+Rathound King wants you to kidnap Sarine, a female hunter from Camp Hathor. Bring her to the Rathound King's lair whether she likes it or not.
+
+::trackernecklace
+Find the source of the signal the strange necklace is tuned to track.
+
+::trackernecklace2
+Talk to Arlene about the strange necklace you found.
+
+::lux_miltonskey
+A lone guy in the caves needs a footlocker key which was carried by two men supposedly located somewhere in the cave area. Find the key and bring it to him.
+
+::fo_tilldeathdouspartnicolas
+Nicolas wants you to kill his wife Olivia, but only if you make it look like a work related accident. Otherwise, he'll refuse to pay you. You'll find her working in an explosives warehouse near the mine entrance.
+
+::fo_tilldeathdouspartolivia
+Olivia wants you to kill her husband Nicolas, but only if you make it look like a work related accident. Otherwise, she'll refuse to pay you. You'll find him in the metalworks.
+
+::fo_killbalor
+Chief Banner wants you to kill Balor, the leader of Ironheads, and bring him his red cybernetic eye. He is probably located in the warehouse complex south of Foundry.
+
+::fo_evelynchase
+Evelyn Ingram wants to kill you. Find a way to escape and warn the authorities.
+
+::fo_evelynevidence
+You found evidence that Evelyn Ingram is a serial murderer. You should report her to the authorities.
+
+::fo_facelessrecon
+Faceless in the caves west of Foundry want you to help them locate a mysterious object that was stolen from them. You should inquire with the Foundry merchants.
+
+::fo_reportmurderblack
+You told Chief Banner about the potential murder situation between Olivia and Nicolas.
+
+::fo_mainquestpart1
+Find a way to stop the big creature that, along with its smaller cousins, threatens Foundry. Start by going to the mine and talking to Marcos, the mining supervisor, and Saban, a guard that survived the encounter with the Beast.
+
+::fo_discoverpsimorphs
+Learn more about the strange creatures that inhabit Foundry's mine.
+
+::fo_psimorphbiologist
+You are going to need some help if you want to learn more about the Foundry mine creatures. Find an expert biologist and bring him either samples from or, if possible, the creatures themselves.
+
+::fo_bringlarvatoezra
+Bring the captured borer to Ezra. Hopefully he'll be able to tell you more about it.
+
+::fo_bringbladelingpiecetoezra
+Ezra wants you to bring him a sample from one of the bladelings to analyze, like a shell piece, back blade - anything of the sort. Only then will he be able to tell you how to defeat the Beast.
+
+::fo_fixthefurnace
+Repair the large smelting furnace in Foundry.
+
+::fo_loadthefurnace
+You need to load the furnace before you can use it to kill the Beast. (Find 30 impure chromium blades)
+
+::fo_mainquestpart2
+Find a different way to kill the Beast. Or...
+
+::fo_chiefinvestigatefaceless
+Chief Banner wants you to investigate a small group of Faceless that was spotted west of Foundry. Find out why they're there and report to the chief.
+
+::fo_improvesupersteel
+Bernard wants you to bring him data on super steel refining techniques so that Foundry can produce higher quality super steel. The more data you bring, the better the quality.
+
+::cc_recovertunneler
+Gorsky wants you to find a way to recover a tunneler that's been stranded in Drop Zone, on the middle level of Core City.
+
+::cc_raidprotwarehouse
+Gorsky wants you to find a way to enter the Protectorate warehouse at the Core City Docks and recover a shipment of energy shield emitters. Sneaky might have some clue as how to get in.
+
+::cc_raidprotwarehouse_collectothershields
+Gorsky needs ten high-quality energy shields of any kind. His measure of high-quality is that they should be worth over two hundred charons, and optionally you could prioritize the ones with high-frequency modulators. Once you have them, stash them in the locker in the corner of the room.
+
+::cc_retakeoutpostforgorsky
+Help Gorsky attack the Black Crawler camp. Meet him near the tunneler when you are ready.
+
+::cc_ct_findraul
+Harlan wants you to find a Coretech agent Raul that has gone missing recently. He was last spotted entering the Core City sewer system.
+
+::cc_ct_findicpd
+Harlan told you about a Coretech employee who is suspected to have stolen an important device, the so-called ICPD, from one of Coretech's labs. Find him, deal with him and retrieve this device.
+
+::cc_ct_defendwarehouse
+One of Coretech's warehouses is under attack. Go there and eliminate the opposition. The warehouse is located just west of the main city entrance.
+
+::cc_ct_acidhunters
+The Acid Hunters have killed Edmund Knight, son of Archibald Knight, chief of Praetorian Security. Mr. Simmons wants you to kill Cornell and bring him his head.
+
+::cc_ct_researchfacility
+Mr. Simmons wants you to go to a secret Coretech research facility and make sure the artifact that is kept there stays there. It's located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
+
+::cc_ps_killdepacino
+Locate a mercenary group in Core City lead by Joe De Pacino. Eliminate him and report to Stratford.
+
+::cc_ps_sewerpower
+Lieutenant Stratford wants you to investigate and repair a generator that went out in the sewers. There is a high probability that the Faceless are responsible, so if you see any signs of their presence, inform Lieutenant Stratford as soon as possible.
+
+::cc_ps_clearwarehouse
+A warehouse in Core City was attacked by mercenaries. Go there, eliminate all opposition and see if you can find any clues about the attack.
+
+::cc_ps_acidhunters
+Archibald Knight wants you to seek the Acid Hunters and find out if Cornell is the actual murderer of his son Edmund. If he is, kill him and bring his head to Knight.
+
+::cc_ps_researchfacility
+Chief Knight wants you to go to Coretech's hidden research facility and learn all you can about what's inside it and if it's somehow connected to the Faceless. It's located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
+
+::cc_jkk_findbogdan
+Vivian wants you to find an operative called Bogdan Stravohodnik who supposedly turned derailed and is nowhere to be found. The only clue regarding his whereabouts - he was last seen visiting Hardcore City Bar.
+
+::cc_jkk_disablesecurity
+JKK needs your help with rescuing hostages which are being held in a Core City warehouse. You need to disable the security system so that JKK operatives can storm the warehouse and rescue the hostages. Talk to Ola and follow his instructions.
+
+::cc_jkk_acidhunters
+Gunnar Edstrom wants you to find the Acid Hunters and talk to them about the device and the murder of Edmund Knight.
+
+::cc_jkk_helpvivianrepairs
+Escort Vivian and protect her while she repairs a power generator in an abandoned facility.
+
+::cc_jkk_researchfacility
+Gunnar Edstrom wants you to acquire a device previously owned by the Acid Hunters, now in possession of Coretech. It's held in a secret research facility owned by Coretech, located behind a locked door on the lower level section of the Drop Zone, near an under-passages exit.
+
+::cc_arenamessenger_jkk
+A messenger has informed you that Ola Halidorson of JKK wants to speak to you about an urgent matter. See him as soon as possible.
+
+::cc_arenamessenger_ct
+A messenger has informed you that Joseph Harlan of Coretech wants to speak to you about an urgent matter. See him as soon as possible.
+
+::cc_arenamessenger_ps
+A messenger has informed you that Lieutenant Stratford of Praetorian Security wants to speak to you about an urgent matter. See him as soon as possible.
+
+::cc_acidmessenger_jkk
+A messenger has informed you that Gunnar Edstrom wants to speak to you. See him in his office as soon as possible.
+
+::cc_acidmessenger_ct
+A messenger has informed you that Rupert Simmons wants to speak to you. See him in his office as soon as possible.
+
+::cc_acidmessenger_ps
+A messenger has informed you that Archibald Knight wants to speak to you. See him in his office as soon as possible.
+
+::boughtelectrobench
+You purchased an electronics workbench from West in Foundry. Go to Core City Housing Corporation and have them transport it to your house.
+
+::boughtmechbench
+You purchased a mechanics workbench from Travis in Rail Crossing. Go to Core City Housing Corporation and have them transport it to your house.
+
+::boughtchembench
+You purchased a workbench for chemistry and biology from Fixer in Junkyard. Go to Core City Housing Corporation and have them transport it to your house.
+
+::boughttailoringbench
+You purchased a tailoring workbench from Fredd in Camp Hathor. Go to Core City Housing Corporation and have them transport it to your house.
+
+::cc_housing_jkk
+Speak with Ola Halidorson.
+
+::cc_housing_ct
+Speak with Joseph Harlan.
+
+::cc_housing_ps
+Speak with Lieutenant Stratford.
+
+::cc_housing_morgan
+A man called Samuel Morgan will be waiting for you in front of your residence in the easternmost section of the Core City residential district.
+
+::cc_corecityarena
+Defeat all your opponents in the Arena.
+
+::cc_startgauntlet
+Apply for and successfully finish the Gauntlet.
+
+::cc_forger_noname
+Find more information about the shady dealings operated through the metro's emergency phones.
+
+::cc_forger_name
+Search for more clues about the whereabouts of a hacker known as Phreak.
+
+::cc_forgerfindhvcables
+Phreak wants you to head into the sewers, all the way to the northwest, and find a lever that will lead to one of his hideouts. Once there, deal with the Acid Hunters and bring him back his High Voltage Power Cables.
+
+::cc_forgertickettesting
+Phreak has given you his forged metro tickets for a test run. Take at least one train ride to anywhere you like and then report back to him.
+
+::cc_forgerhvpenetratorassembly
+Phreak has tasked you with finding the remaining two components needed for assembly of a device he's working on. Both pieces are located in the Upper Underrail Metro within his secluded hideouts. Plug in the Orange Box into any emergency phone booth you find and seek out a way to gain access to his hidden shelters.
+
+::cc_forgeroverchargefacility
+Now that the High Voltage Penetrator is assembled, Phreak wants you to aid him in overcharging the entire facility, by enabling the water boilers of the nearby facility, located on the level below and then east from where Phreak himself is. Once done, find a nearby console to further overburden the system.
+
+::cc_forgerdeadassemblehpv
+Pick up the Orange Box and find all three components needed to assemble the High Voltage Penetrator. You will need its core and controller both of which are somewhere in the Upper Underrail Metro, and high voltage power cables which are located in the Core City Sewers. Assemble the components at the power grid and power it up.
+
+::cc_forgerdeadassemblehpvwoc
+Pick up the Orange Box and find the remaining two components needed to assemble the High Voltage Penetrator. Interact with the emergency phones of Upper Underrail Metro and recover the device's core and controler. Assemble the components at the power grid and power it up.
+
+::cc_forgerdeadoverchargefacility
+Now that the High Voltage Penetrator is assembled and active, find a way to further overcharge the entire facility.
+
+::cc_meetabram
+Meet Abram in Core City.
+
+::wa_vlatkosmonitor
+Vlatko Talloski needs his 8460p monitor repaired so that he can watch ArenaNow in all its glory.
+
+::wa_findfoundrycell
+Jack wants you to go to Foundry and locate one of their cells there. There, Everard will give you an assignment. The answer to the question, "Who goes there?" is "The neophyte."
+
+::wa_talktoohadxander
+Meet Ohad Xander at the Lower Underrail train station, in Core City.
+
+::wa_talktolenoxpierce
+Meet Lenox Pierce in South Gate Station.
+
+::wa_reporttojack
+Talk to Jack Quicksilver after you've finished all three assignments.
+
+::wa_danielarda
+Ohad Xander suspects that Daniel Arda, a trader currently visiting Core City, is selling a fake combat enhancement drug called Hercules. He wants you to expose this fraud to everyone in Core City once you have the appropriate evidence.
+
+::wa_foundryprison
+Todor Sallywatch, one of Everard's men, was caught at the murder scene and is being held in Foundry prison. He is to be liberated before he reveals something about the cell. If not, then find another way to make sure he doesn't talk.
+
+::wa_deathinsgs
+Patrick Pierce, a mechanic who resided in SGS was found dead in his room some time ago. Cause of death is unknown, but Lenox, Pat's brother is not pleased with the response from SGS and wants you to investigate and learn how Pat died.
+
+::wa_meetazif
+Travel to the caves beneath Lower Underrail and look for Azif in a place called 'Hanging Rat.'
+
+::wa_oldmannosek
+Locate former Biocorp researcher Wit Nosek, dead or alive, and find out what it was he discovered while working on 'The Ark' project.
+
+::fd_killenvoy
+A Protectorate envoy with escort is visiting Rail Crossing. Wait for them at the train station and assassinate the envoy. After that, report to the mysterious lady near Junkyard's south entrance.
+
+::fd_lurkerescape
+Check out the Lurker encampment east of the Free Drones base. Search for the captives and rescue them if they're alive.
+
+::fd_findbase
+Find the Free Drones base in the under-passages. Enter the under-passages entrance near Rail Crossing and, once inside, go west until come up to a door with an intercom. The passcode is "delectable."
+
+::fd_getequipmentfromjunkyard
+Find Free Drones hideout in Junkyard and bring some equipment back to under-passages base. Slowly knock four times on the western door in the alley north of Kareem's bar.
+
+::fd_sabotageelevator
+Destroy the Protectorate troop elevator located in Epione Lab, Upper Underrail. It lies east of Core City, between it and Fort Apogee, and can be reached by following the blue metro line. Your task is to infiltrate Epione lab, plant C4 charges on lab's load-bearing pillars and detonate them.
+
+::fd_attacksro
+Meet your squad in the area south of GMS and then lead the assault at South Railroad Outpost. Once the base has been cleared of enemy troops, report back to Trenton.
+
+::fd_revealspy
+You revealed that Alvin Bate was a spy working for the Protectorate.
+
+::pr_speakwithathanas
+Ambassador Athanas wishes to speak with you about your role in the recovery of the hijacked train. You can find him in his office in the Junkyard embassy.
+
+::pr_speakwitholiver
+Ambassador Athanas told you to see Consul Oliver in Fort Apogee, Upper Underrail, if you are interested in joining the Underrail Protectorate.
+
+::pr_helpepionelab
+Colonel Cathcart wants you to go to Epione Lab in Upper Underrail and talk to Captain Blackwall, who has the mission details. Once you help Blackwall, return to Colonel Cathcart.
+
+::pr_investigatearoundepione
+Captain Blackwall at Epione Lab wants you to investigate the surrounding areas and report your findings to him.
+
+::pr_hephaestuscrew
+Colonel Cathcart told you about a Protectorate expedition that hasn't reported back since the earthquake. Find Hephaestus Research facility in Lower Underrail caves and locate the missing team.
+
+::pr_getmutagen
+Captain Mareth sent you to find at least two cans of mutagen which is to be used against the Free Drones. He mentioned a facility that might have it, but doesn't know its location, other than it's in the cave system north of Rail Crossing.
+
+::pr_gasfreedrones
+Captain Mareth told you to find someone in Fort Apogee that will rig the mutagen cans to release the gas with a delay. Afterwards, you are to find the entrance to under-passages, just south of Rail Crossing and link up with CAU.
+
+::pr_renegadesoldiers
+Consul Oliver asked you to negotiate with a renegade Protectorate squad that had left Fort Apogee for unknown reasons. The renegades are being led by Sergeant First Class Timothy Holloway, and are located at Dolos Center station, west Upper Underrail. Report back to the consul once the situation has been resolved.
+
+::tch_findfigurine
+Efreitor Denzil wants you to find a missing figurine he suspects was stolen by the Lunatics. The figurine is made of metal and depicts a man reaching up for the surface.
+
+::tch_getinterviewd
+Wait for the praepostor to arrive to interview you for your admission to the Institute of Tchort.
+
+::tch_pr_clearlunatics
+Mediant Samuel asked you to go to Utility Station 7 that can be accessed through a breached wall in the lower levels of the Institute. Once there, you are to make sure that the area is secured and then return to the mediant.
+
+::tch_pr_findmissingefreitor
+Mediant Samuel wants you to find a Preservation combat unit that was dispatched to the West Wing around five days ago but never returned or contacted back. Find them or what is left of them and report to Mediant Samuel.
+
+::tch_pr_killmateo
+Kill Efreitor Mateo and report back to Mediant Samuel.
+
+::tch_pr_killmateoandbringhead
+Kill Efreitor Mateo and bring his head to Mediant Samuel.
+
+::tch_pr_trackdownnevil
+Mediant Samuel wants you to locate a rassophore named Nevil who has disappeared and cannot be found anywhere within the Institute of Tchort. He was last spotted near Eidein's Library.
+
+::tch_ch_testchemweapon
+Principal Investigator Georgis needs you to help him field test an experimental chemical pistol - XAL-001. Use the pistol in combat until you are sure there are no problems with its design and then return to Georgis.
+
+::tch_ch_findresearchdata
+Principal Investigator Georgis wants you to go to Hecate Research Outpost and see if you can find and retrieve research data on protein design. The facility is located in Lower Underrail, not too far to the east of Core City.
+
+::tch_ch_alcoholtesting
+Principal Investigator Georgis needs a volunteer who will test alcoholic drinks he has been making. It requires dedication, patience, a good sense of taste and smell - and a strong stomach.
+
+::tch_gen_capturebeetle
+Psycho, one of the dangerous NPS specimens has escaped its enclosure at the Institute of Tchort. You are given a portable neural pacifier to use on the creature, but you can only do so after you weaken and incapacitate it. If Psycho is accidentally killed, the consequences will be dire.
+
+::tch_gen_investigateforsakenisland
+Principal Investigator Rista wants you to go to Forsaken Island and try to find the so-called Behemoth, a large and potentially dangerous creature that is rumored to inhabit the island. If you are able to find it, try to bring some sample of its tissue or similar.
+
+::tch_gen_findhealth
+Principal Investigator Rista needs you to go to Institute of Tchort courtyard and find out if any of them had a history of surviving dangerous illnesses or diseases that would be deadly to most.
+
+::tch_phy_locatepavel
+A rassophore named Pavel was sent to the Institute of Tchort West Wing two days ago to plant a T-ray emitter for Principal Investigator Schteff and hasn't returned yet. Find out what happened to him and bring him back if he is still alive.
+
+::tch_phy_planttrayfirst
+Principal Investigator Schteff wants you to deploy a T-ray emitter somewhere on Harpocrates Station just below the Institute building. He also gave you a comm device which you can use to speak to him. Find a location where the emitter signal is the strongest, deploy it then return back to the Institute.
+
+::tch_phy_planttraysecond
+Principal Investigator Schteff wants you to deploy one more T-ray emitter, but this time at Core City Upper Underrail station. Find a secluded place where no one could find it and deploy it there.
+
+::tch_findsourceoftremors
+Strange tremors have begun shaking the Institute of Tchort. Maybe you should investigate the cause.
+
+::tch_learnfacelessinvasion
+Find out why the Faceless have appeared in the West Wing.
+
+::tch_escapetheinstitute
+Escape Institute of Tchort before the Faceless overrun it!
+
+::tch_talktolydia
+Her Eminence, Episkopos Lydia seeks audience with you in her office at the top floor of the Institute of Tchort. See her as soon as you are able to.
+
+::tch_meeteidein
+A meeting with Eidein has been arranged for you. See him in his office at the top floor of the Institute of Tchort, behind the double doors opposite the stairs leading from the main hall. Do not keep him waiting.
+
+::tch_joininvestigation
+Investigation, one of the three divisions of the Institute of Tchort, has its three departments located in the Institute's east wing. Each department has its own principal investigator with whom you should speak if you seek work for the respective department.
+
+::tch_joinpreservation
+Speak to Mediant Samuel about joining Preservation, one of the divisions of the Institute of Tchort.
+
+::tch_hannavathosphore
+See Efreitor Hanna about your ceremonial uniform.
+
+::dc_leavedeepcaverns
+Find a way out of Deep Caverns
+
+::dc_tchortistrecon
+Harmost Stavros wants you to perform reconnaissance of the Hollow Earth cavern and the areas east of it. Also, he suspects that the Faceless have probably set up one or more bases of operations where they might hold rassophores captured during the fighting. Scout them out and help any rassophores you might find.
+
+::dc_tchortistcaptives
+Harmost Stavros wants you to liberate the captured rassophores you saw at the Faceless base. Get as many of them as you can out of there and report back to His Excellency.
+
+::dc_leosknife
+Leo wants you to find his knife which he had lost during an encounter with a Tchortist patrol about six-seven days ago. He told you the whole event happened west of the warehouse block, right at the entrance to the "big city."
+
+::dc_repairgate
+In order to repair the mechanism operating one of the large gates in the area, you would need the following: one hydro-pneumatic accumulator, one hydraulic pump drive shaft, three canisters of hydraulic fluid, one hydraulic system control valve. You would also need tools if doing the job yourself, or you could use a repair bot to perform the repairs for you.
+
+::dc_repairbot
+There is a disabled repair bot in the room housing the mechanism operating one of the gates in the area. If you can figure out a way to fix it, it might prove useful to you.
+
+::dc_killtchort
+Destroy Tchort.
+
+::dc_getpastgate
+Find a way to open the large metal gate leading to Tchort.
+
+::dc_removeentanglement
+There seems to be some strange organic mass covering the large gate leading to Tchort. Find a way to remove it.
+
+::cc_otto_findjeteater
+Find Otto the hunter near the cave entrance at the northwest section of Core City Ring. He wants you to help him get rid of his nightmares
+
+::cc_otto_killjeteater
+Otto wants you to aid him in overcoming his greatest challenge. Slay the Jet Eater, and help him claim it as his trophy.
+
+::cc_matriussdevice
+Matriuss Ludenlof wants you to retrieve his personal news tracking device. It is located in an office building in the northern section of the Core City residential area
+
+::xpbl_ojyc_kayainvestigation
+Ion from The Rig wants you to find out what has happened to the group they've dispatched to explore an abandoned waterway facility, recently opened up after the earthquake. He mentioned that you should sail all the way to the west from The Rig and look for an opening in the southern walls.
+
+::xpbl_ojyc_altkayainvestigation
+Ion is pleased to learn the fate of the group they've dispatched to explore an abandoned waterway facility west from The Rig, which was recently opened up after the earthquake.
+
+::dudesotherquest
+Dude had another vision...
+
+::dudecc
+Help Dude search his old home in Core City.
+
+::dudeup
+Help Dude search his old home in Upper Underrail.
+
+::dudelux
+Help Dude search his old home in some cave in Lower Underrail.
+
+::dudeingredients
+Dude needs two mushroom brews, two measures of unsaturated psionic catalysts, two of morphine, and two of gyromitrin to make the Juice for you and him. Speak to him when you're ready to continue the journey.
+
+::dudeoil
+Dude needs you to find any kind of mineral oil you can find in this base. It is the only way for you to return back whence you came.
+
+::bringdudetwentybrew
+Dude needs twenty bottles of mushroom brew so that you two could prepare your minds for what is to come.
+
+::dudesjuicedeal
+Picking mushrooms and plants to make Juice is too time-consuming. Find someone who will supply Dude with all the necessary ingredients and let him know.
+
+::xpbl_hearddockexpedition
+Find out what is going on at the eastern section of the Core City docks.
+
+::xpbl_knowdockexpedition
+There's work to be had at the eastern section of the Core City docks. Apparently, it's an expedition of some kind. You should find out more about it.
+
+::xpbl_talkwithbriggs
+Speak with Chief Briggs about joining the expedition. He can be found at the eastern docks in Core City.
+
+::xpbl_proveyourworthtobriggs
+Chief Briggs of Aegis Incorporated will not let you join their expedition to the Black Sea unless you can prove to him you are worthy. Judging by his demeanor, it seems like nothing short of a truly impressive feat will do the trick.
+
+::xpbl_joinexpedition
+Chief Briggs is waiting for your response about joining their expedition to the Black Sea.
+
+::xpbl_meetninja
+A man known only as Aran wants to meet you in the Dominating bar, located in Core City's residential area, upper level. He was described to be wearing a black and red cloak and an unusual sword.
+
+::xpbl_meetoldfield
+Speak with Professor Oldfield. You can find his tent in the middle of the camp.
+
+::xpbl_defendtheisland
+The camp is under attack! Follow Yahota to the island's southeastern beach and defend your position against the invaders. Return to the professor once the coast is clear.
+
+::xpbl_getgear
+See Marcus about collecting your gear. His tent is just across from Professor Oldfield's.
+
+::xpbl_talktoseeger
+Professor Oldfield wants you to speak to a man called Jeremy Seeger about some NFT data he had managed to recover. His tent is just to the east from the medical tent. Report to the professor once you're done.
+
+::xpbl_briggsbriefing
+See Chief Briggs about your briefing. His tent is just north of the kitchen.
+
+::xpbl_jenkins
+Go to the camp dock and speak to Sec-trooper Jenkins about getting a jet ski.
+
+::xpbl_investigatemuties
+You have been assigned to investigate the West Storage Depot, a storage facility located at coordinates B7, in order to find a working A-RFID microchip; all NFT personnel have been implanted with these, most commonly in the right hand. Report either to Chief Briggs or Professor Oldfield once you've found it.
+
+::xpbl_rescuetheprofessor
+Professor Oldfield has been kidnapped. Find him and return him to the camp if he is still alive.
+
+::xpbl_startoldfieldliberation
+Liberate the professor either through negotiating with the pirates or by infiltrating their base. There is a patrol at coordinates F4 in case of the former. Whatever happens, Aegis Incorporated is ready to move in.
+
+::xpbl_briggsprofessorkidnapping
+Speak with Chief Briggs about Professor Oldfield's kidnapping.
+
+::xpbl_briggsfailedpirateattack
+Speak with Chief Briggs about the firefight with the pirates in the Keep.
+
+::xpbl_professorprivatetalk
+Professor Oldfield wants to speak to you about something urgent. Meet him in the camp.
+
+::xpbl_investigatenexus
+Investigate Nexus of Technology, located at coordinates K7. Report your findings to Professor Oldfield.
+
+::xpbl_investigatehorticulture
+Investigate Crimson Meadow Horticulture Center, located at coordinates H7. Report your findings to Professor Oldfield.
+
+::xpbl_investigatemedical
+Investigate Lemurian Health Center, located at coordinates I1. Report your findings to Professor Oldfield.
+
+::xpbl_investigatecompound
+Investigate Joint Security Headquarters, located at coordinates F12. Report your findings to Professor Oldfield.
+
+::xpbl_investigateabyss
+Professor Oldfield wants you to go to Abyssal Station Zero, located in the Black Sea's southeastern bay. Once there - find the Acorn.
+
+::xpbl_campdefenses
+The camp is under persistent attacks and any improvements to its defenses would be welcome. Marcus suggests trying to learn about and activate the island's latent security systems or recovering any useful equipment.
+
+::xpbl_camp_mines
+You've discovered functional naval mines which could be deployed around the camp island. You only need someone to ferry them there.
+
+::xpbl_camp_naga
+The statues found in and outside NFT facilities are in fact latent bots which possess combat abilities to varying degrees. Perhaps some can be used in bolstering the camp's defenses.
+
+::xpbl_camp_turrets
+You've found a way to activate the Arch Keep's defense turrets.
+
+::grimmainquest
+Captain Grim wants you to discover what knowledge and loot lie in the sequestered facilities of the Black Sea and report your findings to him. You are left entirely to your own devices, so stay sharp and be on the lookout for any clues which could help you.
+
+::razorsalvation
+Razor wants you to find a unique old world shotgun that was owned by one of his pirate mates who went missing in the Fetid Marsh and is presumed dead. He'll pay you for the shotgun if you manage to bring it to him.
+
+::raidmerchantshipparty
+A merchant ferry is headed from Core City to Camp Hathor. The Grim Jetters are planning to intercept it in Dreadpool, and your job is to secure the loot even if it means killing everyone aboard. Report to Captain Grim once the ship's been raided.
+
+::raidmerchantshipalone
+A merchant ferry is headed from Core City to Camp Hathor. You volunteered to secure the ship yourself, and you will do so even if it means killing everyone aboard. Report to Captain Grim once the ship's been raided.
+
+::raidprotectorateship_seerazor
+Captain Grim wants you to talk to Razor. He can be found at Port Crag, just northeast from Port Ceto.
+
+::raidprotectorateship_seegrim
+Return to Captain Grim.
+
+::raidprotectorateship
+The UPCCS Armstrong has almost finished its long voyage from North Underrail to Core City. Meet up with Razor in a cove at the mid-western part of the Core Ring, and from there proceed north and raid the ship before it reaches Port Zenith, preferably ridding the world of all its sailors. Report to Captain Grim afterwards.
+
+::therigsonarparty
+The Black Eels have been using an advanced sonar system to detect and thwart pirate raiding parties, and it is located at the Eel-controlled Rig. Go there and investigate all you can about the Rig, its defenses and the sonar's exact location. Meet up with Cruzer's party at the ruins at the mid-eastern part of the Core Ring, north of a Protectorate outpost, after you've done so and continue with the plan.
+
+::therigsonarpartyturrets
+Cruzer and his crew will attack as soon the turrets have been disabled. Don't take too long, however, as the Black Eel guards might become suspicious and start snooping around.
+
+::therigsonaralone
+The Black Eels have been using some kind of advanced sonar to detect and thwart pirate raiding parties, and it is located at the Eel-controlled Rig. Go there, find and destroy this sonar no matter what it takes. Report to Captain Grim afterwards.
+
+::defendceto
+Aegis are attacking Port Ceto! They have broken through one of the northern walls but have not penetrated deeper into the port. Secure the area between the Shop and the main gate and return to Captain Grim.
+
+::pir_takeoutaegispatrols
+Hunt down Aegis Incorporated jet ski patrols and kill them until there are no more patrollers coming to reinforce their fallen breathren. Report to Captain Grim after you're done.
+
+::xpbl_expeditionwithoutyou
+There is some kind of an expedition at the Black Sea, and it seems like you've missed the opportunity to join in. Find out what they're after.
+
+::xpbl_expeditionfired
+You've been fired from the Black Sea Expedition. However, there's nothing preventing you from continuing to discover the secrets of the Black Sea, hired to do so or not.
+
+::xpbl_expeditionnomore
+The Black Sea Expedition is no more. Despite this, there's nothing preventing you from continuing to discover the secrets of the Black Sea on your own.
+
+::xpbl_foundphilsarm_notjoined
+You've found an old, severed arm in whose glove you feel something solid to the touch, right between the index finger and the thumb...
+
+::xpbl_foundfortcoordinates
+You've discovered coordinates to several other facilities on a console inside the Arch Keep.
+
+::xpbl_hc_removeroots
+A gate in Crimson Meadow Horticulture Center is blocking your path. There is a console next to it, but it is covered in thick roots whose removal by burning or brute force might damage the console. Find some other way to get rid of this overgrowth.
+
+::xpbl_foundhorticulturecoordinates
+You've discovered coordinates to several other facilities on a console inside Crimson Meadow Horticulture Center.
+
+::xpbl_foundnexusmicrochipencoder
+You've discovered a microchip implant encoder inside Nexus of Technology. Perhaps you can somehow use it on Phil Bridges' microchip implant.
+
+::xpbl_mc_implanternote
+You've found a microchip implantation/extraction unit in the Lemurian Health Center. Find out if it's still functional.
+
+::xpbl_implantedchipinmedical
+You've implanted Phil Bridges' microchip implant into your arm at the Lemurian Health Center. You're inseparable, for now.
+
+::xpbl_findacorn
+You've learned that something called the Acorn (ACoNR) may exist somewhere in Lemuria. While you don't know exactly what it does or looks like, it does seem to be rather important...
+
+::xpbl_foundacorn
+You've found the Acorn - but not a way to open or use it. You can hand it over to someone who perhaps can... or you could keep it for yourself.
+
+::xpbl_sc_getgearback
+All of your belongings have been transferred to a decontamination room somewhere inside Joint Security Headquarters. Snoop around and find a way to retrieve them. They can't be far away...
+
+::xpbl_sc_scanning
+You can't pass the authentication check during the bioscanning procedure at the Joint Security Headquarters. It seems like you need to find a way to retain the microchip implant when removing your items...
+
+::xpbl_as_unlockr&d
+The gate leading to Abyssal Station Zero's Research and Development dome cannot be opened with Phil Bridges' microchip implant. Find another way, or another implant.
+
+::xpbl_sawsubmarine
+You've located a submarine in one of the Black Sea facilities. Perhaps it could be used to explore the sea's depths.
+
+::xpbl_investigatedsubmarine
+The submarine you discovered at Blistering Shores uses the Course automated docking system to guide the submarine to a facility's submarine docking bay. For this to work you'd need docking coordinates, and - due to the submarine's damaged thrusters - a means to tow it to the chosen diving location.
+
+::xpbl_submarinedockingcoordinates
+You've obtained Abyssal Station Zero's two-dimensional geographic coordinates (L2) as well as the docking coordinates for the Course system (020 476 118 263 2115).
+
+::xpbl_submarinedescentintoabyss
+Use the submarine to descend to Abyssal Station Zero.
+
+::xpbl_playermutated
+You are a mutant. Memories are growing distant, thinking slower, emotions wild... Find someone who can help you, if such exists.
+
+::xpbl_mutant_destroyedsewerobstacle
+The sewer obstacle now lies in ruins but not without its toll. In the same time, it makes you feel... drawn closer to something.
+
+::xpbl_mutant_turnongeneratorforvitek
+Vitek wants you to turn on the facility's main generator, located in the utility section below. The green console controls it, but to enable it you must first switch on the four blue ones.
+
+::xpbl_mutant_turnedongenerator
+You have restored the power to Kharon's facility.
+
+::xpbl_mutant_findvitek
+Find Vitek, Kharon's good friend.
+
+::xpbl_mutant_aidjuraj
+Figure out a way to restore power to the facility. Juraj mentioned a generator room in the ventilation section, below you.
+
+::xpbl_mutant_killkharon
+Join Juraj and his gang in defeating your new common enemy, Kharon.
+
+::xpbl_mutant_followkharon
+Follow Kharon to the mutie refuge.
+
+::xpbl_mutant_ending
+You have found your sanctuary, the mutie refuge, deep within the Black Sea. With memories fleeting away, you can only hope that the pain and suffering you endure will follow suit.
+
+::xpbl_mutant_bringvitekssuit
+Vitek wants his suit. It's in the vault, somewhere on the far side of the hallway.
+
+::xpbl_mutant_bringmanssuit
+The man in the tank-machine wants his suit. It's in the vault, somewhere on the far side of the hallway.
+
+::xphw_heardaboutnimble
+It appears that someone called Nimble is looking to assemble a crew of some kind. Look for him in Upper Underrail and see what all of that is about.
+
+::xphw_tripnorth
+You've been hired by Buck Nimble to help him find the coveted alternate route to North Underrail. Protect the crew and the railcar named Marjorie.
+
+::xphw_findwayback
+Your journey to North Underrail has come to a screeching halt. You're going to need help navigating back home through the labyrinthian dark territory, and Marjorie is the best place to start looking for the solution to that problem.
+
+::xphw_studieddarkterritorymap
+You've studied the map of the dark territory north of Upper Underrail.
+
+::xphw_investigateexobase
+Investigate The Compound.
+
+::xphw_voidbattle
+Help the Cognator defeat the invaders from the void.
+
+::xphw_gunslingerteamup
+You've teamed up with the Gunslinger. Help each other survive this ordeal.
+
+::xphw_meetgunslingerend
+Meet the Gunslinger at the Core City station in Upper Underrail, by Zilla's food stall.
+

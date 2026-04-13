@@ -1,72 +1,72 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Some matches can get pretty darn messy, especially if beasts are involved.<end>
-
-=>q2
-Some matches can get pretty darn messy, especially if beasts are involved.<end>
-
-=>q3_original
-I clean the field after the events.<end>
-
-=>q3
-I clean the field after the events.<end>
-
-=>q4_original
-My father also used to be a cleaner, just like me now. Rest in peace, Dad.<end>
-
-=>q4
-My father also used to be a cleaner, just like me now. Rest in peace, Dad.<end>
-
-=>q5_original
-There is only one rule when disposing of crawler carcasses - have someone else do it. Heh, he!<end>
-
-=>q5
-There is only one rule when disposing of crawler carcasses - have someone else do it. Heh, he!<end>
-
-=>q6_original
-Why, hello there.<end>
-
-=>q6
-Why, hello there.<end>
-
-=>q7_original
-Greetings, $(context.playerArenaTitle).<end>
-
-=>q7
-Greetings, $(context.playerArenaTitle).<end>
-
-=>q8_original
-Working with mutilated carcasses, tons of blood and reeks from Hell feels horrible at first, but you get used to it after a while.<end>
-
-=>q8
-Working with mutilated carcasses, tons of blood and reeks from Hell feels horrible at first, but you get used to it after a while.<end>
-
-=>q9_original
-Carnifex used to be my favorite gladiator, no doubts about it.<end>
-
-=>q9
-Carnifex used to be my favorite gladiator, no doubts about it.<end>
-
-=>q10_original
-Ahem, I remember one bloke who was pretending to be dead but got up when we came in. He was the fastest one-legged man I've seen in my life!<end>
-
-=>q10
-Ahem, I remember one bloke who was pretending to be dead but got up when we came in. He was the fastest one-legged man I've seen in my life!<end>
-
-=>q11_original
-Have you seen the match between the Desolator and twelve crawlers? That one was a blast to watch, heh. Heh, he!<end>
-
-=>q11
-Have you seen the match between the Desolator and twelve crawlers? That one was a blast to watch, heh. Heh, he!<end>
-
-=>q12_original
-Imagine a match between some Free Drones and Protectorate soldiers! That would dominate! Heh, he!<end>
-
-=>q12
-Imagine a match between some Free Drones and Protectorate soldiers! That would dominate! Heh, he!<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Some matches can get pretty darn messy, especially if beasts are involved.<end>
+
+=>q2
+Some matches can get pretty darn messy, especially if beasts are involved.<end>
+
+=>q3_original
+I clean the field after the events.<end>
+
+=>q3
+I clean the field after the events.<end>
+
+=>q4_original
+My father also used to be a cleaner, just like me now. Rest in peace, Dad.<end>
+
+=>q4
+My father also used to be a cleaner, just like me now. Rest in peace, Dad.<end>
+
+=>q5_original
+There is only one rule when disposing of crawler carcasses - have someone else do it. Heh, he!<end>
+
+=>q5
+There is only one rule when disposing of crawler carcasses - have someone else do it. Heh, he!<end>
+
+=>q6_original
+Why, hello there.<end>
+
+=>q6
+Why, hello there.<end>
+
+=>q7_original
+Greetings, $(context.playerArenaTitle).<end>
+
+=>q7
+Greetings, $(context.playerArenaTitle).<end>
+
+=>q8_original
+Working with mutilated carcasses, tons of blood and reeks from Hell feels horrible at first, but you get used to it after a while.<end>
+
+=>q8
+Working with mutilated carcasses, tons of blood and reeks from Hell feels horrible at first, but you get used to it after a while.<end>
+
+=>q9_original
+Carnifex used to be my favorite gladiator, no doubts about it.<end>
+
+=>q9
+Carnifex used to be my favorite gladiator, no doubts about it.<end>
+
+=>q10_original
+Ahem, I remember one bloke who was pretending to be dead but got up when we came in. He was the fastest one-legged man I've seen in my life!<end>
+
+=>q10
+Ahem, I remember one bloke who was pretending to be dead but got up when we came in. He was the fastest one-legged man I've seen in my life!<end>
+
+=>q11_original
+Have you seen the match between the Desolator and twelve crawlers? That one was a blast to watch, heh. Heh, he!<end>
+
+=>q11
+Have you seen the match between the Desolator and twelve crawlers? That one was a blast to watch, heh. Heh, he!<end>
+
+=>q12_original
+Imagine a match between some Free Drones and Protectorate soldiers! That would dominate! Heh, he!<end>
+
+=>q12
+Imagine a match between some Free Drones and Protectorate soldiers! That would dominate! Heh, he!<end>
+

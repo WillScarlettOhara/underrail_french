@@ -1,1390 +1,1390 @@
-=>q1_original
-Tchort must be protected.<end>
-
-=>q1
-Tchort must be protected.<end>
-
-=>q2_original
-::Both Eidein and Mediant Samuel acknowledge your presence with a quick nod. Soon after, Eidein turns to the mediant once more.::
-
-Those are my instructions. I have full confidence that you will perform your duty with utmost commitment. You have been selected a mediant for a good reason, Samuel; you will *not* let Tchort down, of that I am certain.<end>
-
-=>q2
-::Both Eidein and Mediant Samuel acknowledge your presence with a quick nod. Soon after, Eidein turns to the mediant once more.::
-
-Those are my instructions. I have full confidence that you will perform your duty with utmost commitment. You have been selected a mediant for a good reason, Samuel; you will *not* let Tchort down, of that I am certain.<end>
-
-=>q3_original
-::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
-
-I wouldn't even dream of disappointing you or abandoning Tchort - no Tchortist would! You taught us to adapt and overcome, you taught us that Tchort will guide us to a better future, no? This is survival of the fittest - and the inbred, devolved - dystrophic Faceless aren't even worthy of licking the ground we tread on.<end>
-
-=>q3
-::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
-
-I wouldn't even dream of disappointing you or abandoning Tchort - no Tchortist would! You taught us to adapt and overcome, you taught us that Tchort will guide us to a better future, no? This is survival of the fittest - and the inbred, devolved - dystrophic Faceless aren't even worthy of licking the ground we tread on.<end>
-
-=>q4_original
-::Eidein puts his hand on Mediant's shoulder and nods.::
-
-Most excellent, Mediant. Now the time has come for me to summon the elevator; every passing second brings Tchort closer to danger, and that is something we cannot risk. You know what to do. Tchort guide you.<end>
-
-=>q4
-::Eidein puts his hand on Mediant's shoulder and nods.::
-
-Most excellent, Mediant. Now the time has come for me to summon the elevator; every passing second brings Tchort closer to danger, and that is something we cannot risk. You know what to do. Tchort guide you.<end>
-
-=>q5_original
-Tchort guide you too. I will not fail you, Eidein.<end>
-
-=>q5
-Tchort guide you too. I will not fail you, Eidein.<end>
-
-=>q6_original
-::Eidein turns his head toward you with a single elegant motion. He stares at you for an instant, not saying a word. You still have no idea what lies behind the sinister mask, and if he does descend into Deep Caverns you may never be able to find out, you think to yourself. But once again, your thoughts are brought to a halt by his deep, muffled voice.::
-
-You started your Tchortist journey by challenging the devolved and successfully besting them. I only hope that your journey doesn't end with the devolved besting you. Soon they will arrive, hungry for Tchortist flesh, thirsty for Tchortist blood. Do not let them taste it.<end>
-
-=>q6
-::Eidein turns his head toward you with a single elegant motion. He stares at you for an instant, not saying a word. You still have no idea what lies behind the sinister mask, and if he does descend into Deep Caverns you may never be able to find out, you think to yourself. But once again, your thoughts are brought to a halt by his deep, muffled voice.::
-
-You started your Tchortist journey by challenging the devolved and successfully besting them. I only hope that your journey doesn't end with the devolved besting you. Soon they will arrive, hungry for Tchortist flesh, thirsty for Tchortist blood. Do not let them taste it.<end>
-
-=>a7_original
-I want to go to Deep Caverns with you.<end>
-
-=>a7
-I want to go to Deep Caverns with you.<end>
-
-=>q8_original
-::His response is immediate.::
-
-No. You must stay here - that is my will; it is nonnegotiable.<end>
-
-=>q8
-::His response is immediate.::
-
-No. You must stay here - that is my will; it is nonnegotiable.<end>
-
-=>a9_original
-But why not?<end>
-
-=>a9
-But why not?<end>
-
-=>q10_original
-While I do respect your contributions to the Institute, of which there were many, I must go down *without* you, $(context.player.Name). My decision is final.<end>
-
-=>q10
-While I do respect your contributions to the Institute, of which there were many, I must go down *without* you, $(context.player.Name). My decision is final.<end>
-
-=>a11_original
-I will stay here then, Eidein. Tchort guide you.<end>
-
-=>a11
-I will stay here then, Eidein. Tchort guide you.<end>
-
-=>q12_original
-::Eidein nods slowly.::
-
-Tchort guide you, $(context.player.Name).<end>
-
-=>q12
-::Eidein nods slowly.::
-
-Tchort guide you, $(context.player.Name).<end>
-
-=>a13_original
-::Watch Eidein call the elevator.::<end>
-
-=>a13
-::Watch Eidein call the elevator.::<end>
-
-=>a14_original
-Well, you can shove your will where the light don't shine, Eidein - 'cause I'm going to Deep Caverns whether you like it or not! ::Attack!::<end>
-
-=>a14
-Well, you can shove your will where the light don't shine, Eidein - 'cause I'm going to Deep Caverns whether you like it or not! ::Attack!::<end>
-
-=>a15_original
-If the Faceless dare even show their deformed bodies here - I will cull them like worthless rats that they are!<end>
-
-=>a15
-If the Faceless dare even show their deformed bodies here - I will cull them like worthless rats that they are!<end>
-
-=>q16_original
-I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
-
-=>q16
-I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
-
-=>a17_original
-I am sorry if I bothered you. Tchort guide you.<end>
-
-=>a17
-I am sorry if I bothered you. Tchort guide you.<end>
-
-=>q18_original
-Tchort guide us all, $(context.player.Name).<end>
-
-=>q18
-Tchort guide us all, $(context.player.Name).<end>
-
-=>a19_original
-I will not disturb you. So long.<end>
-
-=>a19
-I will not disturb you. So long.<end>
-
-=>q20_original
-Tchort guide you, $(context.player.Name).<end>
-
-=>q20
-Tchort guide you, $(context.player.Name).<end>
-
-=>q21_original
-I apologize, but I cannot speak to you at this time: I am currently overwhelmed with other, important matters - but I am sure we will speak again when time allows.<end>
-
-=>q21
-I apologize, but I cannot speak to you at this time: I am currently overwhelmed with other, important matters - but I am sure we will speak again when time allows.<end>
-
-=>q22_original
-I apologize, but I cannot speak to you at this time: I am pondering some difficult questions. The fountain has a relaxing effect on me and aids my thinking. I am sure we will converse again at a more appropriate time.<end>
-
-=>q22
-I apologize, but I cannot speak to you at this time: I am pondering some difficult questions. The fountain has a relaxing effect on me and aids my thinking. I am sure we will converse again at a more appropriate time.<end>
-
-=>q23_original
-I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
-
-=>q23
-I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
-
-=>q24_original
-::Once the tremors die down, Eidein drops his gaze back to you.::
-
-That was surprising; I received no warning from Investigation regarding potential seismic activity.<end>
-
-=>q24
-::Once the tremors die down, Eidein drops his gaze back to you.::
-
-That was surprising; I received no warning from Investigation regarding potential seismic activity.<end>
-
-=>q25_original
-Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
-
-=>q25
-Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
-
-=>q26_original
-<end>
-
-=>q26
-<end>
-
-=>a27_original
-Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
-
-=>a27
-Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
-
-=>q28_original
-::He answers without delay.:: That is the cause of these tremors - Faceless.
-
-Speak quickly, $(context.player.Name), what other information do you have for me?<end>
-
-=>q28
-::He answers without delay.:: That is the cause of these tremors - Faceless.
-
-Speak quickly, $(context.player.Name), what other information do you have for me?<end>
-
-=>a29_original
-Well, I killed the whole tunneler crew.<end>
-
-=>a29
-Well, I killed the whole tunneler crew.<end>
-
-=>q30_original
-Most excellent, $(context.player.Name). The corrupted Faceless should never be sympathized with - but culled whenever the opportunity arises.<end>
-
-=>q30
-Most excellent, $(context.player.Name). The corrupted Faceless should never be sympathized with - but culled whenever the opportunity arises.<end>
-
-=>q31_original
-However, were you able see or hear anything regarding the motives behind their arrival?<end>
-
-=>q31
-However, were you able see or hear anything regarding the motives behind their arrival?<end>
-
-=>a32_original
-I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
-
-=>a32
-I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
-
-=>q33_original
-::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
-
-You were warned about the invasion? I find that highly implausible: Why would the Faceless willingly reveal their plans? Even conversing with someone not of their kin is difficult to comprehend, as proven by their corrupted nature. However, I have no reason to doubt you however strange the situation might seem.<end>
-
-=>q33
-::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
-
-You were warned about the invasion? I find that highly implausible: Why would the Faceless willingly reveal their plans? Even conversing with someone not of their kin is difficult to comprehend, as proven by their corrupted nature. However, I have no reason to doubt you however strange the situation might seem.<end>
-
-=>q34_original
-Was there anything else?<end>
-
-=>q34
-Was there anything else?<end>
-
-=>a35_original
-I even managed to sneak by them and confirm it with my own eyes: I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
-
-=>a35
-I even managed to sneak by them and confirm it with my own eyes: I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
-
-=>q36_original
-That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
-
-=>q36
-That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
-
-=>a37_original
-What happens now?<end>
-
-=>a37
-What happens now?<end>
-
-=>q38_original
-Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
-
-=>q38
-Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
-
-=>q39_original
-It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
-
-=>q39
-It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
-
-=>a40_original
-How will you go to Deep Caverns?<end>
-
-=>a40
-How will you go to Deep Caverns?<end>
-
-=>q41_original
-This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
-
-=>q41
-This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
-
-=>q42_original
-The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
-
-Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
-
-=>q42
-The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
-
-Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
-
-=>a43_original
-I am ready to go, illustrious Eidein. I am ready to stand by your side!<end>
-
-=>a43
-I am ready to go, illustrious Eidein. I am ready to stand by your side!<end>
-
-=>q44_original
-Most excellent. I will meet you in the chamber below. Do not take long.<end>
-
-=>q44
-Most excellent. I will meet you in the chamber below. Do not take long.<end>
-
-=>a45_original
-::Wait for Eidein to leave.::<end>
-
-=>a45
-::Wait for Eidein to leave.::<end>
-
-=>a46_original
-I am ready to go.<end>
-
-=>a46
-I am ready to go.<end>
-
-=>a47_original
-I need to do something first.<end>
-
-=>a47
-I need to do something first.<end>
-
-=>q48_original
-Do not take too long. I will wait for you by the elevator, in the chamber below.<end>
-
-=>q48
-Do not take too long. I will wait for you by the elevator, in the chamber below.<end>
-
-=>a49_original
-That is all I know. What happens now?<end>
-
-=>a49
-That is all I know. What happens now?<end>
-
-=>a50_original
-Before I killed them they told me the Faceless are planning an invasion on Institute of Tchort soon!<end>
-
-=>a50
-Before I killed them they told me the Faceless are planning an invasion on Institute of Tchort soon!<end>
-
-=>a51_original
-There was a hole in one of the walls, made by a tunneler. I took a peek and saw a large number of Faceless, arming and readying for combat.<end>
-
-=>a51
-There was a hole in one of the walls, made by a tunneler. I took a peek and saw a large number of Faceless, arming and readying for combat.<end>
-
-=>q52_original
-::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
-
-That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
-
-=>q52
-::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
-
-That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
-
-=>a53_original
-Not really...<end>
-
-=>a53
-Not really...<end>
-
-=>q54_original
-I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
-
-=>q54
-I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
-
-=>a55_original
-I will not fail you, illustrious Eidein. Tchort guide you.<end>
-
-=>a55
-I will not fail you, illustrious Eidein. Tchort guide you.<end>
-
-=>q56_original
-I have no doubt you will accomplish your task. Tchort guide you, $(context.player.Name).<end>
-
-=>q56
-I have no doubt you will accomplish your task. Tchort guide you, $(context.player.Name).<end>
-
-=>a57_original
-I will, Eidein. So long.<end>
-
-=>a57
-I will, Eidein. So long.<end>
-
-=>a58_original
-I had spied on them before leaving. I don't think they saw me.<end>
-
-=>a58
-I had spied on them before leaving. I don't think they saw me.<end>
-
-=>q59_original
-If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
-
-=>q59
-If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
-
-=>a60_original
-I initiated combat, but had to retreat and seek help.<end>
-
-=>a60
-I initiated combat, but had to retreat and seek help.<end>
-
-=>q61_original
-The Faceless have no mercy - no emotion; they don't take prisoners and are not to be taken as ones. You did nothing wrong - you survived, and that is of paramount importance right now.<end>
-
-=>q61
-The Faceless have no mercy - no emotion; they don't take prisoners and are not to be taken as ones. You did nothing wrong - you survived, and that is of paramount importance right now.<end>
-
-=>a62_original
-I didn't fight them even though they saw me. In fact, they told me they were going to invade the Institute!<end>
-
-=>a62
-I didn't fight them even though they saw me. In fact, they told me they were going to invade the Institute!<end>
-
-=>a63_original
-I was sent here by Mediant Samuel to talk to you about becoming an official member of Preservation Forces.<end>
-
-=>a63
-I was sent here by Mediant Samuel to talk to you about becoming an official member of Preservation Forces.<end>
-
-=>q64_original
-Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
-
-=>q64
-Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
-
-=>q65_original
-If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
-
-=>q65
-If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
-
-=>q66_original
-If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
-
-=>q66
-If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
-
-=>a67_original
-This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
-
-=>a67
-This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
-
-=>q68_original
-Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with outstanding zeal, for your actions had already spoken of your exceptional dedication.<end>
-
-=>q68
-Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with outstanding zeal, for your actions had already spoken of your exceptional dedication.<end>
-
-=>q69_original
-However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
-
-=>q69
-However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
-
-=>a70_original
-I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
-
-=>a70
-I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
-
-=>q71_original
-Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
-
-=>q71
-Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
-
-=>q72_original
-In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
-
-=>q72
-In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
-
-=>a73_original
-Thank you very much, Eidein. I can't wait for the ceremony.<end>
-
-=>a73
-Thank you very much, Eidein. I can't wait for the ceremony.<end>
-
-=>q74_original
-I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to get your ceremonial uniform ahead of the schedule.
-
-To get accustomed to it.<end>
-
-=>q74
-I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to get your ceremonial uniform ahead of the schedule.
-
-To get accustomed to it.<end>
-
-=>q75_original
-I believe there is nothing more to be said regarding this matter. You will be notified when--<end>
-
-=>q75
-I believe there is nothing more to be said regarding this matter. You will be notified when--<end>
-
-=>q76_original
-::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
-
-=>q76
-::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
-
-=>a77_original
-::Wait.::<end>
-
-=>a77
-::Wait.::<end>
-
-=>a78_original
-Now that you've mentioned it, maybe I should still think about it.<end>
-
-=>a78
-Now that you've mentioned it, maybe I should still think about it.<end>
-
-=>q79_original
-That is not a problem; there are other ways one can serve this institution. If you need time, time you will have.<end>
-
-=>q79
-That is not a problem; there are other ways one can serve this institution. If you need time, time you will have.<end>
-
-=>q80_original
-Rest, consider, decide - then see me once you are certain.
-
-Would that be all, $(context.player.Name)?<end>
-
-=>q80
-Rest, consider, decide - then see me once you are certain.
-
-Would that be all, $(context.player.Name)?<end>
-
-=>a81_original
-I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
-
-=>a81
-I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
-
-=>q82_original
-Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
-
-=>q82
-Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
-
-=>q83_original
-If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
-
-The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
-
-=>q83
-If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
-
-The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
-
-=>q84_original
-If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
-
-=>q84
-If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
-
-=>a85_original
-That is what I want, and I can't wait to start working on my first project!<end>
-
-=>a85
-That is what I want, and I can't wait to start working on my first project!<end>
-
-=>q86_original
-Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
-
-=>q86
-Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
-
-=>q87_original
-Before we end the conversation, do tell me which department are you most interested in working for?<end>
-
-=>q87
-Before we end the conversation, do tell me which department are you most interested in working for?<end>
-
-=>a88_original
-To be honest, my wish is to work near Tchort in Deep Caverns.<end>
-
-=>a88
-To be honest, my wish is to work near Tchort in Deep Caverns.<end>
-
-=>q89_original
-To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
-
-=>q89
-To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
-
-=>q90_original
-Other than working in Nucleus, however, what department are you most interested in?<end>
-
-=>q90
-Other than working in Nucleus, however, what department are you most interested in?<end>
-
-=>a91_original
-Department of Physics.<end>
-
-=>a91
-Department of Physics.<end>
-
-=>q92_original
-I will remember what you said, $(context.player.Name). It will be taken care of.<end>
-
-=>q92
-I will remember what you said, $(context.player.Name). It will be taken care of.<end>
-
-=>q93_original
-You are free to go now, $(context.player.Name). I will discuss this matter with Episkopos Lydia and you'll be notified wh--<end>
-
-=>q93
-You are free to go now, $(context.player.Name). I will discuss this matter with Episkopos Lydia and you'll be notified wh--<end>
-
-=>a94_original
-Department of Genetics.<end>
-
-=>a94
-Department of Genetics.<end>
-
-=>q95_original
-Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
-
-<end>
-
-=>q95
-Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
-
-<end>
-
-=>a96_original
-Department of Chemistry.<end>
-
-=>a96
-Department of Chemistry.<end>
-
-=>a97_original
-Well, maybe I should still think about it.<end>
-
-=>a97
-Well, maybe I should still think about it.<end>
-
-=>a98_original
-I have decided: I want to become an assistant investigator.<end>
-
-=>a98
-I have decided: I want to become an assistant investigator.<end>
-
-=>a99_original
-I have made my decision: I want to be a rassophore.<end>
-
-=>a99
-I have made my decision: I want to be a rassophore.<end>
-
-=>a100_original
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>a100
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>q101_original
-Acorn. I know what the word means, but the other one, ACoNR, implies this to be about something else.<end>
-
-=>q101
-Acorn. I know what the word means, but the other one, ACoNR, implies this to be about something else.<end>
-
-=>q102_original
-<end>
-
-=>q102
-<end>
-
-=>a103_original
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
-
-=>a103
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
-
-=>q104_original
-Intriguing. <end>
-
-=>q104
-Intriguing. <end>
-
-=>q105_original
-While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
-
-=>q105
-While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
-
-=>q106_original
-Do you have it? The Acorn?<end>
-
-=>q106
-Do you have it? The Acorn?<end>
-
-=>a107_original
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>a107
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>q108_original
-::He observes it briefly.:: This symbol...<end>
-
-=>q108
-::He observes it briefly.:: This symbol...<end>
-
-=>a109_original
-What about it?<end>
-
-=>a109
-What about it?<end>
-
-=>q110_original
-::His visage turns to you.:: 
-
-May I have the Acorn, $(context.player.Name)?<end>
-
-=>q110
-::His visage turns to you.:: 
-
-May I have the Acorn, $(context.player.Name)?<end>
-
-=>a111_original
-::Give him the Acorn.::<end>
-
-=>a111
-::Give him the Acorn.::<end>
-
-=>q112_original
-Most excellent. Do you know what the word acorn means, $(context.player.Name)? Granted, it is a word rarely used in recent times.<end>
-
-=>q112
-Most excellent. Do you know what the word acorn means, $(context.player.Name)? Granted, it is a word rarely used in recent times.<end>
-
-=>a113_original
-I can only guess at its meaning, but I haven't heard the word before.<end>
-
-=>a113
-I can only guess at its meaning, but I haven't heard the word before.<end>
-
-=>q114_original
-An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
-
-=>q114
-An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
-
-=>q115_original
-::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
-
-It is possible, $(context.player.Name), that with Tchort's guidance, the strong oak, and strong they were, that will emerge from the Acorn's impenetrable shell will bridge this and the former world of oaks.
-
-That is: Underrail and the Surface.<end>
-
-=>q115
-::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
-
-It is possible, $(context.player.Name), that with Tchort's guidance, the strong oak, and strong they were, that will emerge from the Acorn's impenetrable shell will bridge this and the former world of oaks.
-
-That is: Underrail and the Surface.<end>
-
-=>q116_original
-::He hands the Acorn to a rassophore and gestures him to take it away.::
-
-Most excellent, $(context.player.Name). Know that your contribution to our evolution will not be forgotten.<end>
-
-=>q116
-::He hands the Acorn to a rassophore and gestures him to take it away.::
-
-Most excellent, $(context.player.Name). Know that your contribution to our evolution will not be forgotten.<end>
-
-=>a117_original
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>a117
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>q118_original
-How much are you asking for?<end>
-
-=>q118
-How much are you asking for?<end>
-
-=>q119_original
-<end>
-
-=>q119
-<end>
-
-=>a120_original
-::[Mercantile]:: Six thousand charons.<end>
-
-=>a120
-::[Mercantile]:: Six thousand charons.<end>
-
-=>q121_original
-<end>
-
-=>q121
-<end>
-
-=>q122_original
-For something like this... it is acceptable.
-
-<end>
-
-=>q122
-For something like this... it is acceptable.
-
-<end>
-
-=>q123_original
-::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
-
-=>q123
-::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
-
-=>q124_original
-::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
-
-<end>
-
-=>q124
-::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
-
-<end>
-
-=>q125_original
-You wish for too much, $(context.player.Name).<end>
-
-=>q125
-You wish for too much, $(context.player.Name).<end>
-
-=>a126_original
-::[Mercantile]:: Five thousand charons.<end>
-
-=>a126
-::[Mercantile]:: Five thousand charons.<end>
-
-=>q127_original
-<end>
-
-=>q127
-<end>
-
-=>a128_original
-::[Mercantile]:: Four thousand charons.<end>
-
-=>a128
-::[Mercantile]:: Four thousand charons.<end>
-
-=>q129_original
-<end>
-
-=>q129
-<end>
-
-=>a130_original
-::[Mercantile]:: Three thousand charons.<end>
-
-=>a130
-::[Mercantile]:: Three thousand charons.<end>
-
-=>q131_original
-<end>
-
-=>q131
-<end>
-
-=>a132_original
-Two thousand charons.<end>
-
-=>a132
-Two thousand charons.<end>
-
-=>q133_original
-That is acceptable.
-
-<end>
-
-=>q133
-That is acceptable.
-
-<end>
-
-=>a134_original
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a134
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a135_original
-Not yet, but I'm working on obtaining it.<end>
-
-=>a135
-Not yet, but I'm working on obtaining it.<end>
-
-=>q136_original
-In that case, Tchort guide you, $(context.player.Name). See me when you do.<end>
-
-=>q136
-In that case, Tchort guide you, $(context.player.Name). See me when you do.<end>
-
-=>a137_original
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>a137
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>q138_original
-I do not. But may Tchort guide you toward it, $(context.player.Name), toward the Acorn. If you do find it, I'd very much like to see it.<end>
-
-=>q138
-I do not. But may Tchort guide you toward it, $(context.player.Name), toward the Acorn. If you do find it, I'd very much like to see it.<end>
-
-=>a139_original
-All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
-
-=>a139
-All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
-
-=>q140_original
-The Surface? That is most intriguing, $(context.player.Name). <end>
-
-=>q140
-The Surface? That is most intriguing, $(context.player.Name). <end>
-
-=>a141_original
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
-
-=>a141
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
-
-=>q142_original
-Most intriguing. <end>
-
-=>q142
-Most intriguing. <end>
-
-=>a143_original
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
-
-=>a143
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
-
-=>q144_original
-That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
-
-=>q144
-That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
-
-=>a145_original
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
-
-=>a145
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
-
-=>a146_original
-Never mind. There was something else I wanted to ask you.<end>
-
-=>a146
-Never mind. There was something else I wanted to ask you.<end>
-
-=>q147_original
-I am a busy man, $(context.player.Name).<end>
-
-=>q147
-I am a busy man, $(context.player.Name).<end>
-
-=>a148_original
-About the Acorn again...<end>
-
-=>a148
-About the Acorn again...<end>
-
-=>q149_original
-What about it?<end>
-
-=>q149
-What about it?<end>
-
-=>a150_original
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a150
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a151_original
-You mentioned that the figurine was a part of some set. Can you tell me more about that?<end>
-
-=>a151
-You mentioned that the figurine was a part of some set. Can you tell me more about that?<end>
-
-=>q152_original
-I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
-
-=>q152
-I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
-
-=>a153_original
-Can you tell me more about that anniversary celebration?<end>
-
-=>a153
-Can you tell me more about that anniversary celebration?<end>
-
-=>q154_original
-Mentioning any details would spoil the surprise. Just know that it will be magnificent; our institution deserves nothing less.<end>
-
-=>q154
-Mentioning any details would spoil the surprise. Just know that it will be magnificent; our institution deserves nothing less.<end>
-
-=>q155_original
-Some of the details are unknown even to me, for I too deserve to be surprised from time to time, do I not?<end>
-
-=>q155
-Some of the details are unknown even to me, for I too deserve to be surprised from time to time, do I not?<end>
-
-=>a156_original
-I had other questions.<end>
-
-=>a156
-I had other questions.<end>
-
-=>q157_original
-I will answer your questions, but remember that I am a busy man.<end>
-
-=>q157
-I will answer your questions, but remember that I am a busy man.<end>
-
-=>a158_original
-Can you describe Tchort to me?<end>
-
-=>a158
-Can you describe Tchort to me?<end>
-
-=>q159_original
-It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
-
-=>q159
-It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
-
-=>a160_original
-Is there a picture of it, at least?<end>
-
-=>a160
-Is there a picture of it, at least?<end>
-
-=>q161_original
-No.<end>
-
-=>q161
-No.<end>
-
-=>a162_original
-So, no one but you have ever seen it? How were you able to prove to people that it existed back when you first formed Institute of Tchort?<end>
-
-=>a162
-So, no one but you have ever seen it? How were you able to prove to people that it existed back when you first formed Institute of Tchort?<end>
-
-=>q163_original
-Many weren't willing to believe it unless they saw it with their very own eyes. Concrete evidence and knowledge, however, that I had brought with me from Deep Caverns was enough to convince most... most. Over the years we have proven every claim time and time again, and we still continue to absorb more knowledge from Tchort.<end>
-
-=>q163
-Many weren't willing to believe it unless they saw it with their very own eyes. Concrete evidence and knowledge, however, that I had brought with me from Deep Caverns was enough to convince most... most. Over the years we have proven every claim time and time again, and we still continue to absorb more knowledge from Tchort.<end>
-
-=>a164_original
-I understand. Allow me to ask you something else.<end>
-
-=>a164
-I understand. Allow me to ask you something else.<end>
-
-=>a165_original
-Can you tell me more about the Surface? Have you seen it, what's it like there?<end>
-
-=>a165
-Can you tell me more about the Surface? Have you seen it, what's it like there?<end>
-
-=>q166_original
-No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
-
-=>q166
-No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
-
-=>q167_original
-Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
-
-=>q167
-Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
-
-=>a168_original
-How old are you exactly?<end>
-
-=>a168
-How old are you exactly?<end>
-
-=>q169_original
-::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
-
-=>q169
-::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
-
-=>a170_original
-Actually, I was just about to ask you that.<end>
-
-=>a170
-Actually, I was just about to ask you that.<end>
-
-=>q171_original
-My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
-
-=>q171
-My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
-
-=>a172_original
-So, is everyone in the Institute going to live to be as old as you?<end>
-
-=>a172
-So, is everyone in the Institute going to live to be as old as you?<end>
-
-=>q173_original
-Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
-
-=>q173
-Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
-
-=>q174_original
-In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
-
-I hope that was a satisfying response.<end>
-
-=>q174
-In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
-
-I hope that was a satisfying response.<end>
-
-=>a175_original
-Nope, I was simply interested in your exact age. I would now like to ask you something else.<end>
-
-=>a175
-Nope, I was simply interested in your exact age. I would now like to ask you something else.<end>
-
-=>a176_original
-Are you the only one that can communicate to Tchort?<end>
-
-=>a176
-Are you the only one that can communicate to Tchort?<end>
-
-=>q177_original
-Yes. I am the only one that can enter its chamber in Nucleus without greatly disturbing it. Despite being unable to speak to me in any conventional way, we are able to communicate on a very basic level through a... let's call it a telepathic link, but it is far from such; it's difficult to describe to someone who has never experienced it.<end>
-
-=>q177
-Yes. I am the only one that can enter its chamber in Nucleus without greatly disturbing it. Despite being unable to speak to me in any conventional way, we are able to communicate on a very basic level through a... let's call it a telepathic link, but it is far from such; it's difficult to describe to someone who has never experienced it.<end>
-
-=>q178_original
-While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
-
-=>q178
-While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
-
-=>a179_original
-How do you go to Deep Caverns?<end>
-
-=>a179
-How do you go to Deep Caverns?<end>
-
-=>q180_original
-We have a way.<end>
-
-=>q180
-We have a way.<end>
-
-=>a181_original
-Why can't you move Tchort here, closer to you? Wouldn't it be safer here?<end>
-
-=>a181
-Why can't you move Tchort here, closer to you? Wouldn't it be safer here?<end>
-
-=>q182_original
-It would be simpler to defend, true, but trying to move it in its current state, however, would be stressful and could potentially be damaging to Tchort. Besides, due to its size our current means of transportation to Deep Caverns would provide inadequate.<end>
-
-=>q182
-It would be simpler to defend, true, but trying to move it in its current state, however, would be stressful and could potentially be damaging to Tchort. Besides, due to its size our current means of transportation to Deep Caverns would provide inadequate.<end>
-
-=>a183_original
-I noticed everyone calls you just "Eidein" without ever mentioning any title like with everyone else. Why is that?<end>
-
-=>a183
-I noticed everyone calls you just "Eidein" without ever mentioning any title like with everyone else. Why is that?<end>
-
-=>q184_original
-Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
-
-=>q184
-Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
-
-=>q185_original
-The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
-
-=>q185
-The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
-
-=>a186_original
-What was your real name then?<end>
-
-=>a186
-What was your real name then?<end>
-
-=>q187_original
-Reread the Original Report. That is all I'm going to say.<end>
-
-=>q187
-Reread the Original Report. That is all I'm going to say.<end>
-
-=>a188_original
-How do you feel about the Protectorate presence in Upper Underrail?<end>
-
-=>a188
-How do you feel about the Protectorate presence in Upper Underrail?<end>
-
-=>q189_original
-Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
-
-=>q189
-Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
-
-=>q190_original
-The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
-
-It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
-
-=>q190
-The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
-
-It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
-
-=>a191_original
-What is your opinion of the Free Drones?<end>
-
-=>a191
-What is your opinion of the Free Drones?<end>
-
-=>q192_original
-They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
-
-=>q192
-They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
-
-=>q193_original
-But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
-
-=>q193
-But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
-
-=>a194_original
-Thank you. I had other questions for you.<end>
-
-=>a194
-Thank you. I had other questions for you.<end>
-
-=>a195_original
-Tchort guide you, Eidein.<end>
-
-=>a195
-Tchort guide you, Eidein.<end>
-
-=>a196_original
-I have to leave now. Goodbye.<end>
-
-=>a196
-I have to leave now. Goodbye.<end>
-
-=>q197_original
-::A nightmarish visage stares at you with its barren eyes; tentacle-like extensions hanging from the lower part of the mask only add to the already intimidating sight. While it is only that, a mask, it seems natural to wonder if what is beneath it could be even more frightening. This tall, imposing figure is Eidein - founder of Institute of Tchort, there is no doubt about it. He wears a long, decorated robe that exhibits a ghastly flow with every move he makes, all of which are controlled and deliberate; also, a symbol of an eye with five tentacles growing out of it stamps the robe with the highest rank you've seen any of the Tchortists have.
-
-He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
-
-=>q197
-::A nightmarish visage stares at you with its barren eyes; tentacle-like extensions hanging from the lower part of the mask only add to the already intimidating sight. While it is only that, a mask, it seems natural to wonder if what is beneath it could be even more frightening. This tall, imposing figure is Eidein - founder of Institute of Tchort, there is no doubt about it. He wears a long, decorated robe that exhibits a ghastly flow with every move he makes, all of which are controlled and deliberate; also, a symbol of an eye with five tentacles growing out of it stamps the robe with the highest rank you've seen any of the Tchortists have.
-
-He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
-
-=>q198_original
-Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
-
-=>q198
-Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
-
-=>a199_original
-Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
-
-=>a199
-Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
-
-=>q200_original
-In that I have no doubt, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
-
-=>q200
-In that I have no doubt, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
-
-=>q201_original
-::He pauses.:: <end>
-
-=>q201
-::He pauses.:: <end>
-
-=>q202_original
-Make yourself comfortable and let us begin. What do you seek of me?<end>
-
-=>q202
-Make yourself comfortable and let us begin. What do you seek of me?<end>
-
-=>q203_original
-<end>
-
-=>q203
-<end>
-
-=>a204_original
-Hey, I got the chance to deliver some pain to those derailed freaks *and* join Institute of Tchort. Pure win!<end>
-
-=>a204
-Hey, I got the chance to deliver some pain to those derailed freaks *and* join Institute of Tchort. Pure win!<end>
-
-=>q205_original
-I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
-
-=>q205
-I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
-
-=>a206_original
-It was nothing but pleasure.<end>
-
-=>a206
-It was nothing but pleasure.<end>
-
-=>q207_original
-Most excellent, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution, and I sincerely hope you have more surprises in store for us.<end>
-
-=>q207
-Most excellent, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution, and I sincerely hope you have more surprises in store for us.<end>
-
-=>a208_original
-Now is the time for me to finally end the existence of this twisted cult - one corpse at a time! ::Attack!::<end>
-
-=>a208
-Now is the time for me to finally end the existence of this twisted cult - one corpse at a time! ::Attack!::<end>
-
-=>q209_original
-The Faceless - did you learn anything new?<end>
-
-=>q209
-The Faceless - did you learn anything new?<end>
-
-=>a210_original
-I actually managed to talk to the Faceless: I found out they are planning an invasion on Institute of Tchort soon!<end>
-
-=>a210
-I actually managed to talk to the Faceless: I found out they are planning an invasion on Institute of Tchort soon!<end>
-
-=>a211_original
-I remembered something: Before I killed the Faceless they told me that they are planning an invasion on Institute of Tchort!<end>
-
-=>a211
-I remembered something: Before I killed the Faceless they told me that they are planning an invasion on Institute of Tchort!<end>
-
-=>a212_original
-I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
-
-=>a212
-I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
-
-=>a213_original
-Not yet, Eidein.<end>
-
-=>a213
-Not yet, Eidein.<end>
-
-=>q214_original
-Return once you do, $(context.player.Name). Tchort guide you.<end>
-
-=>q214
-Return once you do, $(context.player.Name). Tchort guide you.<end>
-
-=>q215_original
-Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
-
-=>q215
-Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
-
+=>q1_original
+Tchort must be protected.<end>
+
+=>q1
+Tchort must be protected.<end>
+
+=>q2_original
+::Both Eidein and Mediant Samuel acknowledge your presence with a quick nod. Soon after, Eidein turns to the mediant once more.::
+
+Those are my instructions. I have full confidence that you will perform your duty with utmost commitment. You have been selected a mediant for a good reason, Samuel; you will *not* let Tchort down, of that I am certain.<end>
+
+=>q2
+::Both Eidein and Mediant Samuel acknowledge your presence with a quick nod. Soon after, Eidein turns to the mediant once more.::
+
+Those are my instructions. I have full confidence that you will perform your duty with utmost commitment. You have been selected a mediant for a good reason, Samuel; you will *not* let Tchort down, of that I am certain.<end>
+
+=>q3_original
+::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
+
+I wouldn't even dream of disappointing you or abandoning Tchort - no Tchortist would! You taught us to adapt and overcome, you taught us that Tchort will guide us to a better future, no? This is survival of the fittest - and the inbred, devolved - dystrophic Faceless aren't even worthy of licking the ground we tread on.<end>
+
+=>q3
+::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
+
+I wouldn't even dream of disappointing you or abandoning Tchort - no Tchortist would! You taught us to adapt and overcome, you taught us that Tchort will guide us to a better future, no? This is survival of the fittest - and the inbred, devolved - dystrophic Faceless aren't even worthy of licking the ground we tread on.<end>
+
+=>q4_original
+::Eidein puts his hand on Mediant's shoulder and nods.::
+
+Most excellent, Mediant. Now the time has come for me to summon the elevator; every passing second brings Tchort closer to danger, and that is something we cannot risk. You know what to do. Tchort guide you.<end>
+
+=>q4
+::Eidein puts his hand on Mediant's shoulder and nods.::
+
+Most excellent, Mediant. Now the time has come for me to summon the elevator; every passing second brings Tchort closer to danger, and that is something we cannot risk. You know what to do. Tchort guide you.<end>
+
+=>q5_original
+Tchort guide you too. I will not fail you, Eidein.<end>
+
+=>q5
+Tchort guide you too. I will not fail you, Eidein.<end>
+
+=>q6_original
+::Eidein turns his head toward you with a single elegant motion. He stares at you for an instant, not saying a word. You still have no idea what lies behind the sinister mask, and if he does descend into Deep Caverns you may never be able to find out, you think to yourself. But once again, your thoughts are brought to a halt by his deep, muffled voice.::
+
+You started your Tchortist journey by challenging the devolved and successfully besting them. I only hope that your journey doesn't end with the devolved besting you. Soon they will arrive, hungry for Tchortist flesh, thirsty for Tchortist blood. Do not let them taste it.<end>
+
+=>q6
+::Eidein turns his head toward you with a single elegant motion. He stares at you for an instant, not saying a word. You still have no idea what lies behind the sinister mask, and if he does descend into Deep Caverns you may never be able to find out, you think to yourself. But once again, your thoughts are brought to a halt by his deep, muffled voice.::
+
+You started your Tchortist journey by challenging the devolved and successfully besting them. I only hope that your journey doesn't end with the devolved besting you. Soon they will arrive, hungry for Tchortist flesh, thirsty for Tchortist blood. Do not let them taste it.<end>
+
+=>a7_original
+I want to go to Deep Caverns with you.<end>
+
+=>a7
+I want to go to Deep Caverns with you.<end>
+
+=>q8_original
+::His response is immediate.::
+
+No. You must stay here - that is my will; it is nonnegotiable.<end>
+
+=>q8
+::His response is immediate.::
+
+No. You must stay here - that is my will; it is nonnegotiable.<end>
+
+=>a9_original
+But why not?<end>
+
+=>a9
+But why not?<end>
+
+=>q10_original
+While I do respect your contributions to the Institute, of which there were many, I must go down *without* you, $(context.player.Name). My decision is final.<end>
+
+=>q10
+While I do respect your contributions to the Institute, of which there were many, I must go down *without* you, $(context.player.Name). My decision is final.<end>
+
+=>a11_original
+I will stay here then, Eidein. Tchort guide you.<end>
+
+=>a11
+I will stay here then, Eidein. Tchort guide you.<end>
+
+=>q12_original
+::Eidein nods slowly.::
+
+Tchort guide you, $(context.player.Name).<end>
+
+=>q12
+::Eidein nods slowly.::
+
+Tchort guide you, $(context.player.Name).<end>
+
+=>a13_original
+::Watch Eidein call the elevator.::<end>
+
+=>a13
+::Watch Eidein call the elevator.::<end>
+
+=>a14_original
+Well, you can shove your will where the light don't shine, Eidein - 'cause I'm going to Deep Caverns whether you like it or not! ::Attack!::<end>
+
+=>a14
+Well, you can shove your will where the light don't shine, Eidein - 'cause I'm going to Deep Caverns whether you like it or not! ::Attack!::<end>
+
+=>a15_original
+If the Faceless dare even show their deformed bodies here - I will cull them like worthless rats that they are!<end>
+
+=>a15
+If the Faceless dare even show their deformed bodies here - I will cull them like worthless rats that they are!<end>
+
+=>q16_original
+I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
+
+=>q16
+I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
+
+=>a17_original
+I am sorry if I bothered you. Tchort guide you.<end>
+
+=>a17
+I am sorry if I bothered you. Tchort guide you.<end>
+
+=>q18_original
+Tchort guide us all, $(context.player.Name).<end>
+
+=>q18
+Tchort guide us all, $(context.player.Name).<end>
+
+=>a19_original
+I will not disturb you. So long.<end>
+
+=>a19
+I will not disturb you. So long.<end>
+
+=>q20_original
+Tchort guide you, $(context.player.Name).<end>
+
+=>q20
+Tchort guide you, $(context.player.Name).<end>
+
+=>q21_original
+I apologize, but I cannot speak to you at this time: I am currently overwhelmed with other, important matters - but I am sure we will speak again when time allows.<end>
+
+=>q21
+I apologize, but I cannot speak to you at this time: I am currently overwhelmed with other, important matters - but I am sure we will speak again when time allows.<end>
+
+=>q22_original
+I apologize, but I cannot speak to you at this time: I am pondering some difficult questions. The fountain has a relaxing effect on me and aids my thinking. I am sure we will converse again at a more appropriate time.<end>
+
+=>q22
+I apologize, but I cannot speak to you at this time: I am pondering some difficult questions. The fountain has a relaxing effect on me and aids my thinking. I am sure we will converse again at a more appropriate time.<end>
+
+=>q23_original
+I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
+
+=>q23
+I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
+
+=>q24_original
+::Once the tremors die down, Eidein drops his gaze back to you.::
+
+That was surprising; I received no warning from Investigation regarding potential seismic activity.<end>
+
+=>q24
+::Once the tremors die down, Eidein drops his gaze back to you.::
+
+That was surprising; I received no warning from Investigation regarding potential seismic activity.<end>
+
+=>q25_original
+Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
+
+=>q25
+Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
+
+=>a27
+Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
+
+=>q28_original
+::He answers without delay.:: That is the cause of these tremors - Faceless.
+
+Speak quickly, $(context.player.Name), what other information do you have for me?<end>
+
+=>q28
+::He answers without delay.:: That is the cause of these tremors - Faceless.
+
+Speak quickly, $(context.player.Name), what other information do you have for me?<end>
+
+=>a29_original
+Well, I killed the whole tunneler crew.<end>
+
+=>a29
+Well, I killed the whole tunneler crew.<end>
+
+=>q30_original
+Most excellent, $(context.player.Name). The corrupted Faceless should never be sympathized with - but culled whenever the opportunity arises.<end>
+
+=>q30
+Most excellent, $(context.player.Name). The corrupted Faceless should never be sympathized with - but culled whenever the opportunity arises.<end>
+
+=>q31_original
+However, were you able see or hear anything regarding the motives behind their arrival?<end>
+
+=>q31
+However, were you able see or hear anything regarding the motives behind their arrival?<end>
+
+=>a32_original
+I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>a32
+I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>q33_original
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+You were warned about the invasion? I find that highly implausible: Why would the Faceless willingly reveal their plans? Even conversing with someone not of their kin is difficult to comprehend, as proven by their corrupted nature. However, I have no reason to doubt you however strange the situation might seem.<end>
+
+=>q33
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+You were warned about the invasion? I find that highly implausible: Why would the Faceless willingly reveal their plans? Even conversing with someone not of their kin is difficult to comprehend, as proven by their corrupted nature. However, I have no reason to doubt you however strange the situation might seem.<end>
+
+=>q34_original
+Was there anything else?<end>
+
+=>q34
+Was there anything else?<end>
+
+=>a35_original
+I even managed to sneak by them and confirm it with my own eyes: I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>a35
+I even managed to sneak by them and confirm it with my own eyes: I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>q36_original
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>q36
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>a37_original
+What happens now?<end>
+
+=>a37
+What happens now?<end>
+
+=>q38_original
+Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
+
+=>q38
+Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
+
+=>q39_original
+It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
+
+=>q39
+It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
+
+=>a40_original
+How will you go to Deep Caverns?<end>
+
+=>a40
+How will you go to Deep Caverns?<end>
+
+=>q41_original
+This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
+
+=>q41
+This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
+
+=>q42_original
+The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
+
+Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
+
+=>q42
+The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
+
+Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
+
+=>a43_original
+I am ready to go, illustrious Eidein. I am ready to stand by your side!<end>
+
+=>a43
+I am ready to go, illustrious Eidein. I am ready to stand by your side!<end>
+
+=>q44_original
+Most excellent. I will meet you in the chamber below. Do not take long.<end>
+
+=>q44
+Most excellent. I will meet you in the chamber below. Do not take long.<end>
+
+=>a45_original
+::Wait for Eidein to leave.::<end>
+
+=>a45
+::Wait for Eidein to leave.::<end>
+
+=>a46_original
+I am ready to go.<end>
+
+=>a46
+I am ready to go.<end>
+
+=>a47_original
+I need to do something first.<end>
+
+=>a47
+I need to do something first.<end>
+
+=>q48_original
+Do not take too long. I will wait for you by the elevator, in the chamber below.<end>
+
+=>q48
+Do not take too long. I will wait for you by the elevator, in the chamber below.<end>
+
+=>a49_original
+That is all I know. What happens now?<end>
+
+=>a49
+That is all I know. What happens now?<end>
+
+=>a50_original
+Before I killed them they told me the Faceless are planning an invasion on Institute of Tchort soon!<end>
+
+=>a50
+Before I killed them they told me the Faceless are planning an invasion on Institute of Tchort soon!<end>
+
+=>a51_original
+There was a hole in one of the walls, made by a tunneler. I took a peek and saw a large number of Faceless, arming and readying for combat.<end>
+
+=>a51
+There was a hole in one of the walls, made by a tunneler. I took a peek and saw a large number of Faceless, arming and readying for combat.<end>
+
+=>q52_original
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>q52
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>a53_original
+Not really...<end>
+
+=>a53
+Not really...<end>
+
+=>q54_original
+I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
+
+=>q54
+I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
+
+=>a55_original
+I will not fail you, illustrious Eidein. Tchort guide you.<end>
+
+=>a55
+I will not fail you, illustrious Eidein. Tchort guide you.<end>
+
+=>q56_original
+I have no doubt you will accomplish your task. Tchort guide you, $(context.player.Name).<end>
+
+=>q56
+I have no doubt you will accomplish your task. Tchort guide you, $(context.player.Name).<end>
+
+=>a57_original
+I will, Eidein. So long.<end>
+
+=>a57
+I will, Eidein. So long.<end>
+
+=>a58_original
+I had spied on them before leaving. I don't think they saw me.<end>
+
+=>a58
+I had spied on them before leaving. I don't think they saw me.<end>
+
+=>q59_original
+If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
+
+=>q59
+If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
+
+=>a60_original
+I initiated combat, but had to retreat and seek help.<end>
+
+=>a60
+I initiated combat, but had to retreat and seek help.<end>
+
+=>q61_original
+The Faceless have no mercy - no emotion; they don't take prisoners and are not to be taken as ones. You did nothing wrong - you survived, and that is of paramount importance right now.<end>
+
+=>q61
+The Faceless have no mercy - no emotion; they don't take prisoners and are not to be taken as ones. You did nothing wrong - you survived, and that is of paramount importance right now.<end>
+
+=>a62_original
+I didn't fight them even though they saw me. In fact, they told me they were going to invade the Institute!<end>
+
+=>a62
+I didn't fight them even though they saw me. In fact, they told me they were going to invade the Institute!<end>
+
+=>a63_original
+I was sent here by Mediant Samuel to talk to you about becoming an official member of Preservation Forces.<end>
+
+=>a63
+I was sent here by Mediant Samuel to talk to you about becoming an official member of Preservation Forces.<end>
+
+=>q64_original
+Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
+
+=>q64
+Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
+
+=>q65_original
+If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
+
+=>q65
+If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
+
+=>q66_original
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>q66
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>a67_original
+This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
+
+=>a67
+This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
+
+=>q68_original
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with outstanding zeal, for your actions had already spoken of your exceptional dedication.<end>
+
+=>q68
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with outstanding zeal, for your actions had already spoken of your exceptional dedication.<end>
+
+=>q69_original
+However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
+
+=>q69
+However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
+
+=>a70_original
+I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
+
+=>a70
+I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
+
+=>q71_original
+Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
+
+=>q71
+Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
+
+=>q72_original
+In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
+
+=>q72
+In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
+
+=>a73_original
+Thank you very much, Eidein. I can't wait for the ceremony.<end>
+
+=>a73
+Thank you very much, Eidein. I can't wait for the ceremony.<end>
+
+=>q74_original
+I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to get your ceremonial uniform ahead of the schedule.
+
+To get accustomed to it.<end>
+
+=>q74
+I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to get your ceremonial uniform ahead of the schedule.
+
+To get accustomed to it.<end>
+
+=>q75_original
+I believe there is nothing more to be said regarding this matter. You will be notified when--<end>
+
+=>q75
+I believe there is nothing more to be said regarding this matter. You will be notified when--<end>
+
+=>q76_original
+::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
+
+=>q76
+::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
+
+=>a77_original
+::Wait.::<end>
+
+=>a77
+::Wait.::<end>
+
+=>a78_original
+Now that you've mentioned it, maybe I should still think about it.<end>
+
+=>a78
+Now that you've mentioned it, maybe I should still think about it.<end>
+
+=>q79_original
+That is not a problem; there are other ways one can serve this institution. If you need time, time you will have.<end>
+
+=>q79
+That is not a problem; there are other ways one can serve this institution. If you need time, time you will have.<end>
+
+=>q80_original
+Rest, consider, decide - then see me once you are certain.
+
+Would that be all, $(context.player.Name)?<end>
+
+=>q80
+Rest, consider, decide - then see me once you are certain.
+
+Would that be all, $(context.player.Name)?<end>
+
+=>a81_original
+I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
+
+=>a81
+I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
+
+=>q82_original
+Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
+
+=>q82
+Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
+
+=>q83_original
+If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
+
+The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
+
+=>q83
+If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
+
+The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
+
+=>q84_original
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>q84
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>a85_original
+That is what I want, and I can't wait to start working on my first project!<end>
+
+=>a85
+That is what I want, and I can't wait to start working on my first project!<end>
+
+=>q86_original
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
+
+=>q86
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
+
+=>q87_original
+Before we end the conversation, do tell me which department are you most interested in working for?<end>
+
+=>q87
+Before we end the conversation, do tell me which department are you most interested in working for?<end>
+
+=>a88_original
+To be honest, my wish is to work near Tchort in Deep Caverns.<end>
+
+=>a88
+To be honest, my wish is to work near Tchort in Deep Caverns.<end>
+
+=>q89_original
+To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
+
+=>q89
+To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
+
+=>q90_original
+Other than working in Nucleus, however, what department are you most interested in?<end>
+
+=>q90
+Other than working in Nucleus, however, what department are you most interested in?<end>
+
+=>a91_original
+Department of Physics.<end>
+
+=>a91
+Department of Physics.<end>
+
+=>q92_original
+I will remember what you said, $(context.player.Name). It will be taken care of.<end>
+
+=>q92
+I will remember what you said, $(context.player.Name). It will be taken care of.<end>
+
+=>q93_original
+You are free to go now, $(context.player.Name). I will discuss this matter with Episkopos Lydia and you'll be notified wh--<end>
+
+=>q93
+You are free to go now, $(context.player.Name). I will discuss this matter with Episkopos Lydia and you'll be notified wh--<end>
+
+=>a94_original
+Department of Genetics.<end>
+
+=>a94
+Department of Genetics.<end>
+
+=>q95_original
+Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
+
+<end>
+
+=>q95
+Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
+
+<end>
+
+=>a96_original
+Department of Chemistry.<end>
+
+=>a96
+Department of Chemistry.<end>
+
+=>a97_original
+Well, maybe I should still think about it.<end>
+
+=>a97
+Well, maybe I should still think about it.<end>
+
+=>a98_original
+I have decided: I want to become an assistant investigator.<end>
+
+=>a98
+I have decided: I want to become an assistant investigator.<end>
+
+=>a99_original
+I have made my decision: I want to be a rassophore.<end>
+
+=>a99
+I have made my decision: I want to be a rassophore.<end>
+
+=>a100_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a100
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q101_original
+Acorn. I know what the word means, but the other one, ACoNR, implies this to be about something else.<end>
+
+=>q101
+Acorn. I know what the word means, but the other one, ACoNR, implies this to be about something else.<end>
+
+=>q102_original
+<end>
+
+=>q102
+<end>
+
+=>a103_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>a103
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>q104_original
+Intriguing. <end>
+
+=>q104
+Intriguing. <end>
+
+=>q105_original
+While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
+
+=>q105
+While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
+
+=>q106_original
+Do you have it? The Acorn?<end>
+
+=>q106
+Do you have it? The Acorn?<end>
+
+=>a107_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a107
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>q108_original
+::He observes it briefly.:: This symbol...<end>
+
+=>q108
+::He observes it briefly.:: This symbol...<end>
+
+=>a109_original
+What about it?<end>
+
+=>a109
+What about it?<end>
+
+=>q110_original
+::His visage turns to you.:: 
+
+May I have the Acorn, $(context.player.Name)?<end>
+
+=>q110
+::His visage turns to you.:: 
+
+May I have the Acorn, $(context.player.Name)?<end>
+
+=>a111_original
+::Give him the Acorn.::<end>
+
+=>a111
+::Give him the Acorn.::<end>
+
+=>q112_original
+Most excellent. Do you know what the word acorn means, $(context.player.Name)? Granted, it is a word rarely used in recent times.<end>
+
+=>q112
+Most excellent. Do you know what the word acorn means, $(context.player.Name)? Granted, it is a word rarely used in recent times.<end>
+
+=>a113_original
+I can only guess at its meaning, but I haven't heard the word before.<end>
+
+=>a113
+I can only guess at its meaning, but I haven't heard the word before.<end>
+
+=>q114_original
+An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
+
+=>q114
+An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
+
+=>q115_original
+::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
+
+It is possible, $(context.player.Name), that with Tchort's guidance, the strong oak, and strong they were, that will emerge from the Acorn's impenetrable shell will bridge this and the former world of oaks.
+
+That is: Underrail and the Surface.<end>
+
+=>q115
+::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
+
+It is possible, $(context.player.Name), that with Tchort's guidance, the strong oak, and strong they were, that will emerge from the Acorn's impenetrable shell will bridge this and the former world of oaks.
+
+That is: Underrail and the Surface.<end>
+
+=>q116_original
+::He hands the Acorn to a rassophore and gestures him to take it away.::
+
+Most excellent, $(context.player.Name). Know that your contribution to our evolution will not be forgotten.<end>
+
+=>q116
+::He hands the Acorn to a rassophore and gestures him to take it away.::
+
+Most excellent, $(context.player.Name). Know that your contribution to our evolution will not be forgotten.<end>
+
+=>a117_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a117
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>q118_original
+How much are you asking for?<end>
+
+=>q118
+How much are you asking for?<end>
+
+=>q119_original
+<end>
+
+=>q119
+<end>
+
+=>a120_original
+::[Mercantile]:: Six thousand charons.<end>
+
+=>a120
+::[Mercantile]:: Six thousand charons.<end>
+
+=>q121_original
+<end>
+
+=>q121
+<end>
+
+=>q122_original
+For something like this... it is acceptable.
+
+<end>
+
+=>q122
+For something like this... it is acceptable.
+
+<end>
+
+=>q123_original
+::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
+
+=>q123
+::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
+
+=>q124_original
+::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
+
+<end>
+
+=>q124
+::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
+
+<end>
+
+=>q125_original
+You wish for too much, $(context.player.Name).<end>
+
+=>q125
+You wish for too much, $(context.player.Name).<end>
+
+=>a126_original
+::[Mercantile]:: Five thousand charons.<end>
+
+=>a126
+::[Mercantile]:: Five thousand charons.<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>a128_original
+::[Mercantile]:: Four thousand charons.<end>
+
+=>a128
+::[Mercantile]:: Four thousand charons.<end>
+
+=>q129_original
+<end>
+
+=>q129
+<end>
+
+=>a130_original
+::[Mercantile]:: Three thousand charons.<end>
+
+=>a130
+::[Mercantile]:: Three thousand charons.<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>a132_original
+Two thousand charons.<end>
+
+=>a132
+Two thousand charons.<end>
+
+=>q133_original
+That is acceptable.
+
+<end>
+
+=>q133
+That is acceptable.
+
+<end>
+
+=>a134_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a134
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a135_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a135
+Not yet, but I'm working on obtaining it.<end>
+
+=>q136_original
+In that case, Tchort guide you, $(context.player.Name). See me when you do.<end>
+
+=>q136
+In that case, Tchort guide you, $(context.player.Name). See me when you do.<end>
+
+=>a137_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a137
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>q138_original
+I do not. But may Tchort guide you toward it, $(context.player.Name), toward the Acorn. If you do find it, I'd very much like to see it.<end>
+
+=>q138
+I do not. But may Tchort guide you toward it, $(context.player.Name), toward the Acorn. If you do find it, I'd very much like to see it.<end>
+
+=>a139_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>a139
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>q140_original
+The Surface? That is most intriguing, $(context.player.Name). <end>
+
+=>q140
+The Surface? That is most intriguing, $(context.player.Name). <end>
+
+=>a141_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>a141
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>q142_original
+Most intriguing. <end>
+
+=>q142
+Most intriguing. <end>
+
+=>a143_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a143
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>q144_original
+That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
+
+=>q144
+That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
+
+=>a145_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a145
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a146_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a146
+Never mind. There was something else I wanted to ask you.<end>
+
+=>q147_original
+I am a busy man, $(context.player.Name).<end>
+
+=>q147
+I am a busy man, $(context.player.Name).<end>
+
+=>a148_original
+About the Acorn again...<end>
+
+=>a148
+About the Acorn again...<end>
+
+=>q149_original
+What about it?<end>
+
+=>q149
+What about it?<end>
+
+=>a150_original
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a150
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a151_original
+You mentioned that the figurine was a part of some set. Can you tell me more about that?<end>
+
+=>a151
+You mentioned that the figurine was a part of some set. Can you tell me more about that?<end>
+
+=>q152_original
+I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
+
+=>q152
+I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
+
+=>a153_original
+Can you tell me more about that anniversary celebration?<end>
+
+=>a153
+Can you tell me more about that anniversary celebration?<end>
+
+=>q154_original
+Mentioning any details would spoil the surprise. Just know that it will be magnificent; our institution deserves nothing less.<end>
+
+=>q154
+Mentioning any details would spoil the surprise. Just know that it will be magnificent; our institution deserves nothing less.<end>
+
+=>q155_original
+Some of the details are unknown even to me, for I too deserve to be surprised from time to time, do I not?<end>
+
+=>q155
+Some of the details are unknown even to me, for I too deserve to be surprised from time to time, do I not?<end>
+
+=>a156_original
+I had other questions.<end>
+
+=>a156
+I had other questions.<end>
+
+=>q157_original
+I will answer your questions, but remember that I am a busy man.<end>
+
+=>q157
+I will answer your questions, but remember that I am a busy man.<end>
+
+=>a158_original
+Can you describe Tchort to me?<end>
+
+=>a158
+Can you describe Tchort to me?<end>
+
+=>q159_original
+It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
+
+=>q159
+It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
+
+=>a160_original
+Is there a picture of it, at least?<end>
+
+=>a160
+Is there a picture of it, at least?<end>
+
+=>q161_original
+No.<end>
+
+=>q161
+No.<end>
+
+=>a162_original
+So, no one but you have ever seen it? How were you able to prove to people that it existed back when you first formed Institute of Tchort?<end>
+
+=>a162
+So, no one but you have ever seen it? How were you able to prove to people that it existed back when you first formed Institute of Tchort?<end>
+
+=>q163_original
+Many weren't willing to believe it unless they saw it with their very own eyes. Concrete evidence and knowledge, however, that I had brought with me from Deep Caverns was enough to convince most... most. Over the years we have proven every claim time and time again, and we still continue to absorb more knowledge from Tchort.<end>
+
+=>q163
+Many weren't willing to believe it unless they saw it with their very own eyes. Concrete evidence and knowledge, however, that I had brought with me from Deep Caverns was enough to convince most... most. Over the years we have proven every claim time and time again, and we still continue to absorb more knowledge from Tchort.<end>
+
+=>a164_original
+I understand. Allow me to ask you something else.<end>
+
+=>a164
+I understand. Allow me to ask you something else.<end>
+
+=>a165_original
+Can you tell me more about the Surface? Have you seen it, what's it like there?<end>
+
+=>a165
+Can you tell me more about the Surface? Have you seen it, what's it like there?<end>
+
+=>q166_original
+No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
+
+=>q166
+No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
+
+=>q167_original
+Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
+
+=>q167
+Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
+
+=>a168_original
+How old are you exactly?<end>
+
+=>a168
+How old are you exactly?<end>
+
+=>q169_original
+::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
+
+=>q169
+::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
+
+=>a170_original
+Actually, I was just about to ask you that.<end>
+
+=>a170
+Actually, I was just about to ask you that.<end>
+
+=>q171_original
+My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
+
+=>q171
+My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
+
+=>a172_original
+So, is everyone in the Institute going to live to be as old as you?<end>
+
+=>a172
+So, is everyone in the Institute going to live to be as old as you?<end>
+
+=>q173_original
+Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
+
+=>q173
+Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
+
+=>q174_original
+In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
+
+I hope that was a satisfying response.<end>
+
+=>q174
+In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
+
+I hope that was a satisfying response.<end>
+
+=>a175_original
+Nope, I was simply interested in your exact age. I would now like to ask you something else.<end>
+
+=>a175
+Nope, I was simply interested in your exact age. I would now like to ask you something else.<end>
+
+=>a176_original
+Are you the only one that can communicate to Tchort?<end>
+
+=>a176
+Are you the only one that can communicate to Tchort?<end>
+
+=>q177_original
+Yes. I am the only one that can enter its chamber in Nucleus without greatly disturbing it. Despite being unable to speak to me in any conventional way, we are able to communicate on a very basic level through a... let's call it a telepathic link, but it is far from such; it's difficult to describe to someone who has never experienced it.<end>
+
+=>q177
+Yes. I am the only one that can enter its chamber in Nucleus without greatly disturbing it. Despite being unable to speak to me in any conventional way, we are able to communicate on a very basic level through a... let's call it a telepathic link, but it is far from such; it's difficult to describe to someone who has never experienced it.<end>
+
+=>q178_original
+While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
+
+=>q178
+While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
+
+=>a179_original
+How do you go to Deep Caverns?<end>
+
+=>a179
+How do you go to Deep Caverns?<end>
+
+=>q180_original
+We have a way.<end>
+
+=>q180
+We have a way.<end>
+
+=>a181_original
+Why can't you move Tchort here, closer to you? Wouldn't it be safer here?<end>
+
+=>a181
+Why can't you move Tchort here, closer to you? Wouldn't it be safer here?<end>
+
+=>q182_original
+It would be simpler to defend, true, but trying to move it in its current state, however, would be stressful and could potentially be damaging to Tchort. Besides, due to its size our current means of transportation to Deep Caverns would provide inadequate.<end>
+
+=>q182
+It would be simpler to defend, true, but trying to move it in its current state, however, would be stressful and could potentially be damaging to Tchort. Besides, due to its size our current means of transportation to Deep Caverns would provide inadequate.<end>
+
+=>a183_original
+I noticed everyone calls you just "Eidein" without ever mentioning any title like with everyone else. Why is that?<end>
+
+=>a183
+I noticed everyone calls you just "Eidein" without ever mentioning any title like with everyone else. Why is that?<end>
+
+=>q184_original
+Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
+
+=>q184
+Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
+
+=>q185_original
+The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
+
+=>q185
+The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
+
+=>a186_original
+What was your real name then?<end>
+
+=>a186
+What was your real name then?<end>
+
+=>q187_original
+Reread the Original Report. That is all I'm going to say.<end>
+
+=>q187
+Reread the Original Report. That is all I'm going to say.<end>
+
+=>a188_original
+How do you feel about the Protectorate presence in Upper Underrail?<end>
+
+=>a188
+How do you feel about the Protectorate presence in Upper Underrail?<end>
+
+=>q189_original
+Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
+
+=>q189
+Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
+
+=>q190_original
+The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
+
+It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
+
+=>q190
+The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
+
+It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
+
+=>a191_original
+What is your opinion of the Free Drones?<end>
+
+=>a191
+What is your opinion of the Free Drones?<end>
+
+=>q192_original
+They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
+
+=>q192
+They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
+
+=>q193_original
+But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
+
+=>q193
+But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
+
+=>a194_original
+Thank you. I had other questions for you.<end>
+
+=>a194
+Thank you. I had other questions for you.<end>
+
+=>a195_original
+Tchort guide you, Eidein.<end>
+
+=>a195
+Tchort guide you, Eidein.<end>
+
+=>a196_original
+I have to leave now. Goodbye.<end>
+
+=>a196
+I have to leave now. Goodbye.<end>
+
+=>q197_original
+::A nightmarish visage stares at you with its barren eyes; tentacle-like extensions hanging from the lower part of the mask only add to the already intimidating sight. While it is only that, a mask, it seems natural to wonder if what is beneath it could be even more frightening. This tall, imposing figure is Eidein - founder of Institute of Tchort, there is no doubt about it. He wears a long, decorated robe that exhibits a ghastly flow with every move he makes, all of which are controlled and deliberate; also, a symbol of an eye with five tentacles growing out of it stamps the robe with the highest rank you've seen any of the Tchortists have.
+
+He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
+
+=>q197
+::A nightmarish visage stares at you with its barren eyes; tentacle-like extensions hanging from the lower part of the mask only add to the already intimidating sight. While it is only that, a mask, it seems natural to wonder if what is beneath it could be even more frightening. This tall, imposing figure is Eidein - founder of Institute of Tchort, there is no doubt about it. He wears a long, decorated robe that exhibits a ghastly flow with every move he makes, all of which are controlled and deliberate; also, a symbol of an eye with five tentacles growing out of it stamps the robe with the highest rank you've seen any of the Tchortists have.
+
+He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
+
+=>q198_original
+Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
+
+=>q198
+Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
+
+=>a199_original
+Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
+
+=>a199
+Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
+
+=>q200_original
+In that I have no doubt, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>q200
+In that I have no doubt, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>q201_original
+::He pauses.:: <end>
+
+=>q201
+::He pauses.:: <end>
+
+=>q202_original
+Make yourself comfortable and let us begin. What do you seek of me?<end>
+
+=>q202
+Make yourself comfortable and let us begin. What do you seek of me?<end>
+
+=>q203_original
+<end>
+
+=>q203
+<end>
+
+=>a204_original
+Hey, I got the chance to deliver some pain to those derailed freaks *and* join Institute of Tchort. Pure win!<end>
+
+=>a204
+Hey, I got the chance to deliver some pain to those derailed freaks *and* join Institute of Tchort. Pure win!<end>
+
+=>q205_original
+I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>q205
+I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>a206_original
+It was nothing but pleasure.<end>
+
+=>a206
+It was nothing but pleasure.<end>
+
+=>q207_original
+Most excellent, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution, and I sincerely hope you have more surprises in store for us.<end>
+
+=>q207
+Most excellent, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution, and I sincerely hope you have more surprises in store for us.<end>
+
+=>a208_original
+Now is the time for me to finally end the existence of this twisted cult - one corpse at a time! ::Attack!::<end>
+
+=>a208
+Now is the time for me to finally end the existence of this twisted cult - one corpse at a time! ::Attack!::<end>
+
+=>q209_original
+The Faceless - did you learn anything new?<end>
+
+=>q209
+The Faceless - did you learn anything new?<end>
+
+=>a210_original
+I actually managed to talk to the Faceless: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>a210
+I actually managed to talk to the Faceless: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>a211_original
+I remembered something: Before I killed the Faceless they told me that they are planning an invasion on Institute of Tchort!<end>
+
+=>a211
+I remembered something: Before I killed the Faceless they told me that they are planning an invasion on Institute of Tchort!<end>
+
+=>a212_original
+I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>a212
+I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>a213_original
+Not yet, Eidein.<end>
+
+=>a213
+Not yet, Eidein.<end>
+
+=>q214_original
+Return once you do, $(context.player.Name). Tchort guide you.<end>
+
+=>q214
+Return once you do, $(context.player.Name). Tchort guide you.<end>
+
+=>q215_original
+Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
+
+=>q215
+Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
+

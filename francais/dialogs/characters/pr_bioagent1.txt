@@ -1,766 +1,766 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::Captain Mareth seems surprised to see you.::
-
-Corporal... You're alive. I thought we'd lost you. ::He pauses as he takes a good look at you.::
-
-I see you're not a revolting green husk of your former self... which is a positive thing.<end>
-
-=>q2
-::Captain Mareth seems surprised to see you.::
-
-Corporal... You're alive. I thought we'd lost you. ::He pauses as he takes a good look at you.::
-
-I see you're not a revolting green husk of your former self... which is a positive thing.<end>
-
-=>a3_original
-You left me there to die, Captain. Is that how you treat everyone, or just us Southerners?<end>
-
-=>a3
-You left me there to die, Captain. Is that how you treat everyone, or just us Southerners?<end>
-
-=>q4_original
-Calm down, Corporal. Remember who you're talking to. It's your fault you let an incompetent mongrel rig those gas cans. If everything had been properly done, we could have avoided that mishap easily and wouldn't be having this conversation.
-
-What matters the most is that the Free Drones are gone. Well, not all of them, sure, as some are still scattered throughout South Underrail. But their main... lair is gone for good. No one would want to go there anymore.<end>
-
-=>q4
-Calm down, Corporal. Remember who you're talking to. It's your fault you let an incompetent mongrel rig those gas cans. If everything had been properly done, we could have avoided that mishap easily and wouldn't be having this conversation.
-
-What matters the most is that the Free Drones are gone. Well, not all of them, sure, as some are still scattered throughout South Underrail. But their main... lair is gone for good. No one would want to go there anymore.<end>
-
-=>q5_original
-As for us, we were just saying goodbye. Our work here is done. Right, Dess?<end>
-
-=>q5
-As for us, we were just saying goodbye. Our work here is done. Right, Dess?<end>
-
-=>q6_original
-::She giggles.:: I want to get as far away from these ratters as I can. I feel like I'm gonna get a... disease or somethin'.<end>
-
-=>q6
-::She giggles.:: I want to get as far away from these ratters as I can. I feel like I'm gonna get a... disease or somethin'.<end>
-
-=>q7_original
-Charming, isn't she?
-
-Oh, and would you mind telling me the name of that idiot that rigged the mutagen? So that we can make sure he doesn't make the same mistake again?<end>
-
-=>q7
-Charming, isn't she?
-
-Oh, and would you mind telling me the name of that idiot that rigged the mutagen? So that we can make sure he doesn't make the same mistake again?<end>
-
-=>a8_original
-Actually, someone from outside Fort Apogee did it.<end>
-
-=>a8
-Actually, someone from outside Fort Apogee did it.<end>
-
-=>q9_original
-Oh? Why would you... Never mind, I hope you've learned from your mistakes.<end>
-
-=>q9
-Oh? Why would you... Never mind, I hope you've learned from your mistakes.<end>
-
-=>q10_original
-Are we leaving, Julius?<end>
-
-=>q10
-Are we leaving, Julius?<end>
-
-=>q11_original
-The lady is impatient. We have to move on, I'm afraid. ::He chuckles.:: No rest for the wicked.
-
-So, do you have any more questions before we leave?<end>
-
-=>q11
-The lady is impatient. We have to move on, I'm afraid. ::He chuckles.:: No rest for the wicked.
-
-So, do you have any more questions before we leave?<end>
-
-=>q12_original
-<end>
-
-=>q12
-<end>
-
-=>a13_original
-You said you needed to see me?<end>
-
-=>a13
-You said you needed to see me?<end>
-
-=>q14_original
-Yes, I did say that. You know, Corporal, there are two reasons why I picked you to help me with our little problem: The first one is, well, because you've demonstrated that you can get things done, and quite efficiently; you being a local also helps, as I've already explained earlier. The second reason... ::He pauses.::
-
-No, I won't reveal that - not yet, at least.<end>
-
-=>q14
-Yes, I did say that. You know, Corporal, there are two reasons why I picked you to help me with our little problem: The first one is, well, because you've demonstrated that you can get things done, and quite efficiently; you being a local also helps, as I've already explained earlier. The second reason... ::He pauses.::
-
-No, I won't reveal that - not yet, at least.<end>
-
-=>q15_original
-No rest for the wicked, Corporal - let's talk business! These mongrels, the Free Drones, they are going to pay dearly for their insolence. They are going to suffer, for it will be their punishment and a sign to their comrades in the North as to what awaits them too should they continue with their meaningless efforts.<end>
-
-=>q15
-No rest for the wicked, Corporal - let's talk business! These mongrels, the Free Drones, they are going to pay dearly for their insolence. They are going to suffer, for it will be their punishment and a sign to their comrades in the North as to what awaits them too should they continue with their meaningless efforts.<end>
-
-=>q16_original
-::He pauses to observe you for a moment, then continues.:: People say that CAU, or chems, how we're often called, is a unit characterized with inhumanness and brutality. We melt our enemies, we gas them - burn them. But they are wrong on one important point, and that is that we have never killed a single human being. We've only dealt with dogs, mongrels. And their lives certainly cannot be valued the same as ours.<end>
-
-=>q16
-::He pauses to observe you for a moment, then continues.:: People say that CAU, or chems, how we're often called, is a unit characterized with inhumanness and brutality. We melt our enemies, we gas them - burn them. But they are wrong on one important point, and that is that we have never killed a single human being. We've only dealt with dogs, mongrels. And their lives certainly cannot be valued the same as ours.<end>
-
-=>a17_original
-There are numerous problems with what you just said.<end>
-
-=>a17
-There are numerous problems with what you just said.<end>
-
-=>q18_original
-I see none, Corporal. ::He laughs.::<end>
-
-=>q18
-I see none, Corporal. ::He laughs.::<end>
-
-=>q19_original
-As I've said - no rest for the wicked. Time for the dogs to be put down.
-
-The plan is ready. There is one component missing, though, one that we need to spice things up, Corporal, to really show those anarchist mongrels who they're up against.
-
-We need mutagen.<end>
-
-=>q19
-As I've said - no rest for the wicked. Time for the dogs to be put down.
-
-The plan is ready. There is one component missing, though, one that we need to spice things up, Corporal, to really show those anarchist mongrels who they're up against.
-
-We need mutagen.<end>
-
-=>a20_original
-Mutagen?<end>
-
-=>a20
-Mutagen?<end>
-
-=>q21_original
-Yes, Corporal, mutagen. We will use it to strike at the Free Drones hideout. From what I understand, they are hidden in some... passages, under-passages, whatever it is. That's narrow space, confined.<end>
-
-=>q21
-Yes, Corporal, mutagen. We will use it to strike at the Free Drones hideout. From what I understand, they are hidden in some... passages, under-passages, whatever it is. That's narrow space, confined.<end>
-
-=>a22_original
-You're going to gas them? What is this mutagen going to do to them exactly?<end>
-
-=>a22
-You're going to gas them? What is this mutagen going to do to them exactly?<end>
-
-=>q23_original
-::He laughs.:: Don't be so soft, Corporal. Do you think they cared about any of our soldiers when they blew up Epione Lab? Of course not. Killing is one thing in life that has no rules, and whoever tries to impose any is a fool. Besides, the Drones also used biochemical weapons in the past. Do you not know?
-
-So, relax and let them get a taste of their past misbehavior.<end>
-
-=>q23
-::He laughs.:: Don't be so soft, Corporal. Do you think they cared about any of our soldiers when they blew up Epione Lab? Of course not. Killing is one thing in life that has no rules, and whoever tries to impose any is a fool. Besides, the Drones also used biochemical weapons in the past. Do you not know?
-
-So, relax and let them get a taste of their past misbehavior.<end>
-
-=>a24_original
-So, you want me to obtain some mutagen for you?<end>
-
-=>a24
-So, you want me to obtain some mutagen for you?<end>
-
-=>q25_original
-Indeed. We'll need at least two standard mutagen cans. Just to be on the safe side. 
-
-Obtaining it, well, could be a problem; however, we do know of *one* location where this mutagen could possibly be found.<end>
-
-=>q25
-Indeed. We'll need at least two standard mutagen cans. Just to be on the safe side. 
-
-Obtaining it, well, could be a problem; however, we do know of *one* location where this mutagen could possibly be found.<end>
-
-=>a26_original
-Is this it? ::Show him the two mutagen cans.::<end>
-
-=>a26
-Is this it? ::Show him the two mutagen cans.::<end>
-
-=>q27_original
-::He takes the mutagen cans from you, holding one in each hand and inspecting them.:: I'm impressed, Corporal. This is what we need. What else do you carry around with you? Do you happen to have some secret super weapon humanity is yet unaware of? ::He laughs.::<end>
-
-=>q27
-::He takes the mutagen cans from you, holding one in each hand and inspecting them.:: I'm impressed, Corporal. This is what we need. What else do you carry around with you? Do you happen to have some secret super weapon humanity is yet unaware of? ::He laughs.::<end>
-
-=>q28_original
-Yes, these will do just fine. D5 - perfect! That is perfect, Corporal. Exactly what we need. 
-
-Oh... those dogs *will* suffer.<end>
-
-=>q28
-Yes, these will do just fine. D5 - perfect! That is perfect, Corporal. Exactly what we need. 
-
-Oh... those dogs *will* suffer.<end>
-
-=>a29_original
-What happens next?<end>
-
-=>a29
-What happens next?<end>
-
-=>q30_original
-Now we just need to prepare the mutagen, as we can't use it like this. We need a mechanism that will release the gas after a delay, after we're... far away. ::He smiles.::
-
-One minute should do the trick, got it?<end>
-
-=>q30
-Now we just need to prepare the mutagen, as we can't use it like this. We need a mechanism that will release the gas after a delay, after we're... far away. ::He smiles.::
-
-One minute should do the trick, got it?<end>
-
-=>a31_original
-Who can do something like that?<end>
-
-=>a31
-Who can do something like that?<end>
-
-=>q32_original
-I'm sure there's someone in Fort Apogee competent enough to perform this job. Actually, I *hope* there is.<end>
-
-=>q32
-I'm sure there's someone in Fort Apogee competent enough to perform this job. Actually, I *hope* there is.<end>
-
-=>a33_original
-I'll go find someone.<end>
-
-=>a33
-I'll go find someone.<end>
-
-=>q34_original
-Go, Corporal. We believe in you. ::He laughs.::<end>
-
-=>q34
-Go, Corporal. We believe in you. ::He laughs.::<end>
-
-=>q35_original
-Once you have everything ready, go to the Rail Crossing under-passage entrance. We are headed there immediately to scout the area before you arrive.
-
-What are you waiting for, Corporal? Get your Southerner legs moving.<end>
-
-=>q35
-Once you have everything ready, go to the Rail Crossing under-passage entrance. We are headed there immediately to scout the area before you arrive.
-
-What are you waiting for, Corporal? Get your Southerner legs moving.<end>
-
-=>a36_original
-Will do.<end>
-
-=>a36
-Will do.<end>
-
-=>a37_original
-Why do *I* have to do all the hard work?<end>
-
-=>a37
-Why do *I* have to do all the hard work?<end>
-
-=>q38_original
-Because *I* said so. Must I remind you of my rank, must I remind you who sent me here and why? 
-
-Really... Corporal. Now go!<end>
-
-=>q38
-Because *I* said so. Must I remind you of my rank, must I remind you who sent me here and why? 
-
-Really... Corporal. Now go!<end>
-
-=>a39_original
-What does "D5" mean?<end>
-
-=>a39
-What does "D5" mean?<end>
-
-=>q40_original
-It's a type of mutagen. A very nice type, I must say. I don't want to spoil anything. You'll see it in action soon enough.<end>
-
-=>q40
-It's a type of mutagen. A very nice type, I must say. I don't want to spoil anything. You'll see it in action soon enough.<end>
-
-=>a41_original
-You are really enjoying all of this, aren't you?<end>
-
-=>a41
-You are really enjoying all of this, aren't you?<end>
-
-=>q42_original
-Every second of it, yes. Got anything against it, Corporal? Don't you want to see the Drones gone, Corporal?
-
-I'm just doing my duty... with a wicked smile on my face.<end>
-
-=>q42
-Every second of it, yes. Got anything against it, Corporal? Don't you want to see the Drones gone, Corporal?
-
-I'm just doing my duty... with a wicked smile on my face.<end>
-
-=>a43_original
-Where is that?<end>
-
-=>a43
-Where is that?<end>
-
-=>q44_original
-It's some... ancient facility, long abandoned, as they all are. One of Biocorp's disposal facilities. I mean... they have these little outposts, bases, installations all over Underrail. Who knows what gems still remain hidden?<end>
-
-=>q44
-It's some... ancient facility, long abandoned, as they all are. One of Biocorp's disposal facilities. I mean... they have these little outposts, bases, installations all over Underrail. Who knows what gems still remain hidden?<end>
-
-=>a45_original
-How do I find it and what kind of mutagen am I looking for?<end>
-
-=>a45
-How do I find it and what kind of mutagen am I looking for?<end>
-
-=>q46_original
-The only thing I know it's in the cave system north of Rail Crossing. The rest is up to you. You're the Southerner, you know how to get around better than I do.<end>
-
-=>q46
-The only thing I know it's in the cave system north of Rail Crossing. The rest is up to you. You're the Southerner, you know how to get around better than I do.<end>
-
-=>q47_original
-As for what you need, mutagen marked as *D4* or *D5* is what we need. 
-
-Now go, Corporal, go. No rest for the wicked.<end>
-
-=>q47
-As for what you need, mutagen marked as *D4* or *D5* is what we need. 
-
-Now go, Corporal, go. No rest for the wicked.<end>
-
-=>a48_original
-::Salute and leave.::<end>
-
-=>a48
-::Salute and leave.::<end>
-
-=>a49_original
-There are a lot of mutants in Old Junkyard. Is that what you meant?<end>
-
-=>a49
-There are a lot of mutants in Old Junkyard. Is that what you meant?<end>
-
-=>q50_original
-I know little about it. Never went that far south. No, we located a different place. <end>
-
-=>q50
-I know little about it. Never went that far south. No, we located a different place. <end>
-
-=>a51_original
-I see the distinction you're making.<end>
-
-=>a51
-I see the distinction you're making.<end>
-
-=>q52_original
-I'm glad, Corporal, and I'll remember that you do. It is important.<end>
-
-=>q52
-I'm glad, Corporal, and I'll remember that you do. It is important.<end>
-
-=>a53_original
-Dogs are humans too!<end>
-
-=>a53
-Dogs are humans too!<end>
-
-=>q54_original
-I prefer it the other way - humans are dogs! Not all, true, but a lot of them... are.<end>
-
-=>q54
-I prefer it the other way - humans are dogs! Not all, true, but a lot of them... are.<end>
-
-=>a55_original
-I found the mutagen. ::Show him the two canisters.::<end>
-
-=>a55
-I found the mutagen. ::Show him the two canisters.::<end>
-
-=>a56_original
-Where is the Free Drones base, exactly?<end>
-
-=>a56
-Where is the Free Drones base, exactly?<end>
-
-=>q57_original
-If the intel Colonel gave me - which came from the snitch that went silent before Epione was attacked - is correct, they are hiding in these... passages, under-passage, whatever it's called. You're local, you know it better than I do, Corporal.<end>
-
-=>q57
-If the intel Colonel gave me - which came from the snitch that went silent before Epione was attacked - is correct, they are hiding in these... passages, under-passage, whatever it's called. You're local, you know it better than I do, Corporal.<end>
-
-=>q58_original
-The mutts have a lair over there. They think it's safe. Soon enough, though, we'll show them not to show their teeth to Underrail Protectorate. We can bite harder.<end>
-
-=>q58
-The mutts have a lair over there. They think it's safe. Soon enough, though, we'll show them not to show their teeth to Underrail Protectorate. We can bite harder.<end>
-
-=>a59_original
-How do you plan to use the mutagen against the Free Drones?<end>
-
-=>a59
-How do you plan to use the mutagen against the Free Drones?<end>
-
-=>q60_original
-Do you really want me to spoil it? It might be better to wait and enjoy it for yourself. I think it's more exciting that way, Corporal, and Dess often agrees with me.<end>
-
-=>q60
-Do you really want me to spoil it? It might be better to wait and enjoy it for yourself. I think it's more exciting that way, Corporal, and Dess often agrees with me.<end>
-
-=>a61_original
-Tell me anyway.<end>
-
-=>a61
-Tell me anyway.<end>
-
-=>q62_original
-Suit yourself. Well, we plan to introduce the deadly mutagen into the Free Drones lair through a convenient ventilation system present throughout these passages. The mutagen we'll be using is in gaseous form, so with the right placement the mongrels will find themselves trapped, unable to escape the gas around them. After they come in contact with the gas they will suffer horrific mutations. What kinds of mutations? That I won't spoil.<end>
-
-=>q62
-Suit yourself. Well, we plan to introduce the deadly mutagen into the Free Drones lair through a convenient ventilation system present throughout these passages. The mutagen we'll be using is in gaseous form, so with the right placement the mongrels will find themselves trapped, unable to escape the gas around them. After they come in contact with the gas they will suffer horrific mutations. What kinds of mutations? That I won't spoil.<end>
-
-=>q63_original
-It'll serve the mutts right; they'd do it to us if they could. Now, I think it's fairly obvious we can't just stroll into their territory and do our business. Therefore, I still need to study these plans I've been given to find the most appropriate location from which to enter the ventilation system. I'll know more once I do so.<end>
-
-=>q63
-It'll serve the mutts right; they'd do it to us if they could. Now, I think it's fairly obvious we can't just stroll into their territory and do our business. Therefore, I still need to study these plans I've been given to find the most appropriate location from which to enter the ventilation system. I'll know more once I do so.<end>
-
-=>a64_original
-Actually, I'll wait and see.<end>
-
-=>a64
-Actually, I'll wait and see.<end>
-
-=>q65_original
-::He nods.::<end>
-
-=>q65
-::He nods.::<end>
-
-=>a66_original
-Tell me about Dess.<end>
-
-=>a66
-Tell me about Dess.<end>
-
-=>q67_original
-Dess? Corporal, Dess completes the unit. She's young and very enthusiastic about being a part of CAU, unlike anyone else I've worked with so far; Void doesn't really show it as much, although his actions speak for him. Now Dess, she is one proficient and efficient assassin. She is obedient and I've never had to worry that she will second-guess any order or back away from anything.<end>
-
-=>q67
-Dess? Corporal, Dess completes the unit. She's young and very enthusiastic about being a part of CAU, unlike anyone else I've worked with so far; Void doesn't really show it as much, although his actions speak for him. Now Dess, she is one proficient and efficient assassin. She is obedient and I've never had to worry that she will second-guess any order or back away from anything.<end>
-
-=>q68_original
-::Surprisingly, his tone turns serious.:: With that said, she can sometimes get a bit too carried away. I mean, I have no sympathy for the dogs we usually deal with, but there were a few instances where her... overzealousness almost cost us our lives.
-
-It all lies in her past, Corporal.<end>
-
-=>q68
-::Surprisingly, his tone turns serious.:: With that said, she can sometimes get a bit too carried away. I mean, I have no sympathy for the dogs we usually deal with, but there were a few instances where her... overzealousness almost cost us our lives.
-
-It all lies in her past, Corporal.<end>
-
-=>a69_original
-In her past?<end>
-
-=>a69
-In her past?<end>
-
-=>q70_original
-::He hesitates a bit but continues.:: I think you'll find this hard to believe, Corporal, but, she used to be a math teacher in one private school in Hexagon. She never told me that herself, I read that from her record. Most exemplary citizen she was, and one of the best teachers the school has ever had. I don't know what happened, but one day she didn't show up for work. Two days later, she was found stabbing her ex husband not too far from Dis.<end>
-
-=>q70
-::He hesitates a bit but continues.:: I think you'll find this hard to believe, Corporal, but, she used to be a math teacher in one private school in Hexagon. She never told me that herself, I read that from her record. Most exemplary citizen she was, and one of the best teachers the school has ever had. I don't know what happened, but one day she didn't show up for work. Two days later, she was found stabbing her ex husband not too far from Dis.<end>
-
-=>q71_original
-Whatever triggered the transformation, no one knows. And many wondered. Now, she is with us - and everyone is happy. 
-
-We'll be changing the subject now, Corporal.<end>
-
-=>q71
-Whatever triggered the transformation, no one knows. And many wondered. Now, she is with us - and everyone is happy. 
-
-We'll be changing the subject now, Corporal.<end>
-
-=>a72_original
-Interesting. I had other questions.<end>
-
-=>a72
-Interesting. I had other questions.<end>
-
-=>q73_original
-Let's hear it, Corporal.<end>
-
-=>q73
-Let's hear it, Corporal.<end>
-
-=>a74_original
-Tell me about Void.<end>
-
-=>a74
-Tell me about Void.<end>
-
-=>q75_original
-He is my right hand man. His actions can be as silent as his speech, but when he wants to make noise, he can be deafening. He's perfect for our unit.<end>
-
-=>q75
-He is my right hand man. His actions can be as silent as his speech, but when he wants to make noise, he can be deafening. He's perfect for our unit.<end>
-
-=>a76_original
-Is Void his real name?<end>
-
-=>a76
-Is Void his real name?<end>
-
-=>q77_original
-No, it is not, Corporal. He never told me his real name. He can speak, though, he just chooses not to most of the time. We call him Void because that's the only thing you see when you look at his eyes.
-
-He never objected to the name.<end>
-
-=>q77
-No, it is not, Corporal. He never told me his real name. He can speak, though, he just chooses not to most of the time. We call him Void because that's the only thing you see when you look at his eyes.
-
-He never objected to the name.<end>
-
-=>a78_original
-What can you tell me about the Chemical Assault Unit?<end>
-
-=>a78
-What can you tell me about the Chemical Assault Unit?<end>
-
-=>q79_original
-We do the dirty work, Corporal. Unfortunately, when mess like the one with Epione happens, someone has to clear it all up. Now, we can't repair the damage that's been done, unfortunately for us, but... we can make sure that those dogs, the Free Drones, never make the same mistake.<end>
-
-=>q79
-We do the dirty work, Corporal. Unfortunately, when mess like the one with Epione happens, someone has to clear it all up. Now, we can't repair the damage that's been done, unfortunately for us, but... we can make sure that those dogs, the Free Drones, never make the same mistake.<end>
-
-=>a80_original
-What mistake?<end>
-
-=>a80
-What mistake?<end>
-
-=>q81_original
-::He laughs.:: The mistake of making us come here.<end>
-
-=>q81
-::He laughs.:: The mistake of making us come here.<end>
-
-=>a82_original
-::Salute and leave.::<end>
-
-=>a82
-::Salute and leave.::<end>
-
-=>a83_original
-It was Will, one of the mechanics.<end>
-
-=>a83
-It was Will, one of the mechanics.<end>
-
-=>q84_original
-Never heard of him... Will... stupid name. Like Todd. 
-
-We'll take care of it, Corporal, don't worry.<end>
-
-=>q84
-Never heard of him... Will... stupid name. Like Todd. 
-
-We'll take care of it, Corporal, don't worry.<end>
-
-=>a85_original
-I did it myself, actually.<end>
-
-=>a85
-I did it myself, actually.<end>
-
-=>q86_original
-::Captain bursts out laughing.::
-
-Forget I... ::He continues laughing.:: forget I said anything... Ah, Corporal, life's can be so amazing sometimes. Isn't it true?<end>
-
-=>q86
-::Captain bursts out laughing.::
-
-Forget I... ::He continues laughing.:: forget I said anything... Ah, Corporal, life's can be so amazing sometimes. Isn't it true?<end>
-
-=>a87_original
-That's because I'm the Invictus. I am invincible.<end>
-
-=>a87
-That's because I'm the Invictus. I am invincible.<end>
-
-=>q88_original
-Oh, it must be some southern thing I don't understand. Oh wait... you're talking about... the Arena? ::He laughs.::
-
-Whatever you say, Corporal; you are really amusing.<end>
-
-=>q88
-Oh, it must be some southern thing I don't understand. Oh wait... you're talking about... the Arena? ::He laughs.::
-
-Whatever you say, Corporal; you are really amusing.<end>
-
-=>q89_original
-In the end, what matters the most is that the Free Drones are gone. Well, not all of them, some are scattered throughout South Underrail, but their main... lair is gone for good.<end>
-
-=>q89
-In the end, what matters the most is that the Free Drones are gone. Well, not all of them, some are scattered throughout South Underrail, but their main... lair is gone for good.<end>
-
-=>a90_original
-I'm not a dog, Captain. I'm a $(#man/woman).<end>
-
-=>a90
-I'm not a dog, Captain. I'm a $(#man/woman).<end>
-
-=>q91_original
-I like your choice of words, Corporal. I really do. You have proven to be quite resilient. As our cowardly consul would say - bravo!<end>
-
-=>q91
-I like your choice of words, Corporal. I really do. You have proven to be quite resilient. As our cowardly consul would say - bravo!<end>
-
-=>a92_original
-Meh... Not a challenge for me...<end>
-
-=>a92
-Meh... Not a challenge for me...<end>
-
-=>q93_original
-You weren't so confident in those vents... but whatever you say, Corporal. In all honesty, you have proven to be quite resilient. As our cowardly consul would say - bravo!
-<end>
-
-=>q93
-You weren't so confident in those vents... but whatever you say, Corporal. In all honesty, you have proven to be quite resilient. As our cowardly consul would say - bravo!
-<end>
-
-=>q94_original
-It's always a pleasure, Corporal.<end>
-
-=>q94
-It's always a pleasure, Corporal.<end>
-
-=>q95_original
-<end>
-
-=>q95
-<end>
-
-=>q96_original
-<end>
-
-=>q96
-<end>
-
-=>q97_original
-Follow me.<end>
-
-=>q97
-Follow me.<end>
-
-=>q98_original
-::Captain Mareth awaits you with obvious impatience.:: You sure took your time, Corporal. Did you do as I ordered?<end>
-
-=>q98
-::Captain Mareth awaits you with obvious impatience.:: You sure took your time, Corporal. Did you do as I ordered?<end>
-
-=>a99_original
-Yes, sir. Here it is. ::Show him the rigged mutagen cans.::<end>
-
-=>a99
-Yes, sir. Here it is. ::Show him the rigged mutagen cans.::<end>
-
-=>q100_original
-Good enough. Corporal, the show's almost starting - so get ready.<end>
-
-=>q100
-Good enough. Corporal, the show's almost starting - so get ready.<end>
-
-=>q101_original
-The plan is simple: We've studied the maps we've managed to gather, and located the perfect spot to release the mutagen. It's in the ventilation system right behind this door. Once placed, the gas will find its way right into the lair of those hounds and... exterminate them.<end>
-
-=>q101
-The plan is simple: We've studied the maps we've managed to gather, and located the perfect spot to release the mutagen. It's in the ventilation system right behind this door. Once placed, the gas will find its way right into the lair of those hounds and... exterminate them.<end>
-
-=>q102_original
-I think everything is clear. ::He turns to Void.::
-
-Void, open the gate.<end>
-
-=>q102
-I think everything is clear. ::He turns to Void.::
-
-Void, open the gate.<end>
-
-=>a103_original
-I'm ready to go, Captain.<end>
-
-=>a103
-I'm ready to go, Captain.<end>
-
-=>q104_original
-::He motions Void to open the gate.::<end>
-
-=>q104
-::He motions Void to open the gate.::<end>
-
-=>a105_original
-::Watch.::<end>
-
-=>a105
-::Watch.::<end>
-
-=>a106_original
-Wait... I'm not ready.<end>
-
-=>a106
-Wait... I'm not ready.<end>
-
-=>q107_original
-::He chuckles, then motions Void to open the gate.::<end>
-
-=>q107
-::He chuckles, then motions Void to open the gate.::<end>
-
-=>a108_original
-Not yet, I'll be back later.<end>
-
-=>a108
-Not yet, I'll be back later.<end>
-
-=>q109_original
-No pressure, Corporal. Take *all* the time in the world...<end>
-
-=>q109
-No pressure, Corporal. Take *all* the time in the world...<end>
-
-=>q110_original
-<end>
-
-=>q110
-<end>
-
-=>q111_original
-Go ahead, Corporal. You know what to do.<end>
-
-=>q111
-Go ahead, Corporal. You know what to do.<end>
-
-=>q112_original
-Good luck, Corporal.<end>
-
-=>q112
-Good luck, Corporal.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Captain Mareth seems surprised to see you.::
+
+Corporal... You're alive. I thought we'd lost you. ::He pauses as he takes a good look at you.::
+
+I see you're not a revolting green husk of your former self... which is a positive thing.<end>
+
+=>q2
+::Captain Mareth seems surprised to see you.::
+
+Corporal... You're alive. I thought we'd lost you. ::He pauses as he takes a good look at you.::
+
+I see you're not a revolting green husk of your former self... which is a positive thing.<end>
+
+=>a3_original
+You left me there to die, Captain. Is that how you treat everyone, or just us Southerners?<end>
+
+=>a3
+You left me there to die, Captain. Is that how you treat everyone, or just us Southerners?<end>
+
+=>q4_original
+Calm down, Corporal. Remember who you're talking to. It's your fault you let an incompetent mongrel rig those gas cans. If everything had been properly done, we could have avoided that mishap easily and wouldn't be having this conversation.
+
+What matters the most is that the Free Drones are gone. Well, not all of them, sure, as some are still scattered throughout South Underrail. But their main... lair is gone for good. No one would want to go there anymore.<end>
+
+=>q4
+Calm down, Corporal. Remember who you're talking to. It's your fault you let an incompetent mongrel rig those gas cans. If everything had been properly done, we could have avoided that mishap easily and wouldn't be having this conversation.
+
+What matters the most is that the Free Drones are gone. Well, not all of them, sure, as some are still scattered throughout South Underrail. But their main... lair is gone for good. No one would want to go there anymore.<end>
+
+=>q5_original
+As for us, we were just saying goodbye. Our work here is done. Right, Dess?<end>
+
+=>q5
+As for us, we were just saying goodbye. Our work here is done. Right, Dess?<end>
+
+=>q6_original
+::She giggles.:: I want to get as far away from these ratters as I can. I feel like I'm gonna get a... disease or somethin'.<end>
+
+=>q6
+::She giggles.:: I want to get as far away from these ratters as I can. I feel like I'm gonna get a... disease or somethin'.<end>
+
+=>q7_original
+Charming, isn't she?
+
+Oh, and would you mind telling me the name of that idiot that rigged the mutagen? So that we can make sure he doesn't make the same mistake again?<end>
+
+=>q7
+Charming, isn't she?
+
+Oh, and would you mind telling me the name of that idiot that rigged the mutagen? So that we can make sure he doesn't make the same mistake again?<end>
+
+=>a8_original
+Actually, someone from outside Fort Apogee did it.<end>
+
+=>a8
+Actually, someone from outside Fort Apogee did it.<end>
+
+=>q9_original
+Oh? Why would you... Never mind, I hope you've learned from your mistakes.<end>
+
+=>q9
+Oh? Why would you... Never mind, I hope you've learned from your mistakes.<end>
+
+=>q10_original
+Are we leaving, Julius?<end>
+
+=>q10
+Are we leaving, Julius?<end>
+
+=>q11_original
+The lady is impatient. We have to move on, I'm afraid. ::He chuckles.:: No rest for the wicked.
+
+So, do you have any more questions before we leave?<end>
+
+=>q11
+The lady is impatient. We have to move on, I'm afraid. ::He chuckles.:: No rest for the wicked.
+
+So, do you have any more questions before we leave?<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+You said you needed to see me?<end>
+
+=>a13
+You said you needed to see me?<end>
+
+=>q14_original
+Yes, I did say that. You know, Corporal, there are two reasons why I picked you to help me with our little problem: The first one is, well, because you've demonstrated that you can get things done, and quite efficiently; you being a local also helps, as I've already explained earlier. The second reason... ::He pauses.::
+
+No, I won't reveal that - not yet, at least.<end>
+
+=>q14
+Yes, I did say that. You know, Corporal, there are two reasons why I picked you to help me with our little problem: The first one is, well, because you've demonstrated that you can get things done, and quite efficiently; you being a local also helps, as I've already explained earlier. The second reason... ::He pauses.::
+
+No, I won't reveal that - not yet, at least.<end>
+
+=>q15_original
+No rest for the wicked, Corporal - let's talk business! These mongrels, the Free Drones, they are going to pay dearly for their insolence. They are going to suffer, for it will be their punishment and a sign to their comrades in the North as to what awaits them too should they continue with their meaningless efforts.<end>
+
+=>q15
+No rest for the wicked, Corporal - let's talk business! These mongrels, the Free Drones, they are going to pay dearly for their insolence. They are going to suffer, for it will be their punishment and a sign to their comrades in the North as to what awaits them too should they continue with their meaningless efforts.<end>
+
+=>q16_original
+::He pauses to observe you for a moment, then continues.:: People say that CAU, or chems, how we're often called, is a unit characterized with inhumanness and brutality. We melt our enemies, we gas them - burn them. But they are wrong on one important point, and that is that we have never killed a single human being. We've only dealt with dogs, mongrels. And their lives certainly cannot be valued the same as ours.<end>
+
+=>q16
+::He pauses to observe you for a moment, then continues.:: People say that CAU, or chems, how we're often called, is a unit characterized with inhumanness and brutality. We melt our enemies, we gas them - burn them. But they are wrong on one important point, and that is that we have never killed a single human being. We've only dealt with dogs, mongrels. And their lives certainly cannot be valued the same as ours.<end>
+
+=>a17_original
+There are numerous problems with what you just said.<end>
+
+=>a17
+There are numerous problems with what you just said.<end>
+
+=>q18_original
+I see none, Corporal. ::He laughs.::<end>
+
+=>q18
+I see none, Corporal. ::He laughs.::<end>
+
+=>q19_original
+As I've said - no rest for the wicked. Time for the dogs to be put down.
+
+The plan is ready. There is one component missing, though, one that we need to spice things up, Corporal, to really show those anarchist mongrels who they're up against.
+
+We need mutagen.<end>
+
+=>q19
+As I've said - no rest for the wicked. Time for the dogs to be put down.
+
+The plan is ready. There is one component missing, though, one that we need to spice things up, Corporal, to really show those anarchist mongrels who they're up against.
+
+We need mutagen.<end>
+
+=>a20_original
+Mutagen?<end>
+
+=>a20
+Mutagen?<end>
+
+=>q21_original
+Yes, Corporal, mutagen. We will use it to strike at the Free Drones hideout. From what I understand, they are hidden in some... passages, under-passages, whatever it is. That's narrow space, confined.<end>
+
+=>q21
+Yes, Corporal, mutagen. We will use it to strike at the Free Drones hideout. From what I understand, they are hidden in some... passages, under-passages, whatever it is. That's narrow space, confined.<end>
+
+=>a22_original
+You're going to gas them? What is this mutagen going to do to them exactly?<end>
+
+=>a22
+You're going to gas them? What is this mutagen going to do to them exactly?<end>
+
+=>q23_original
+::He laughs.:: Don't be so soft, Corporal. Do you think they cared about any of our soldiers when they blew up Epione Lab? Of course not. Killing is one thing in life that has no rules, and whoever tries to impose any is a fool. Besides, the Drones also used biochemical weapons in the past. Do you not know?
+
+So, relax and let them get a taste of their past misbehavior.<end>
+
+=>q23
+::He laughs.:: Don't be so soft, Corporal. Do you think they cared about any of our soldiers when they blew up Epione Lab? Of course not. Killing is one thing in life that has no rules, and whoever tries to impose any is a fool. Besides, the Drones also used biochemical weapons in the past. Do you not know?
+
+So, relax and let them get a taste of their past misbehavior.<end>
+
+=>a24_original
+So, you want me to obtain some mutagen for you?<end>
+
+=>a24
+So, you want me to obtain some mutagen for you?<end>
+
+=>q25_original
+Indeed. We'll need at least two standard mutagen cans. Just to be on the safe side. 
+
+Obtaining it, well, could be a problem; however, we do know of *one* location where this mutagen could possibly be found.<end>
+
+=>q25
+Indeed. We'll need at least two standard mutagen cans. Just to be on the safe side. 
+
+Obtaining it, well, could be a problem; however, we do know of *one* location where this mutagen could possibly be found.<end>
+
+=>a26_original
+Is this it? ::Show him the two mutagen cans.::<end>
+
+=>a26
+Is this it? ::Show him the two mutagen cans.::<end>
+
+=>q27_original
+::He takes the mutagen cans from you, holding one in each hand and inspecting them.:: I'm impressed, Corporal. This is what we need. What else do you carry around with you? Do you happen to have some secret super weapon humanity is yet unaware of? ::He laughs.::<end>
+
+=>q27
+::He takes the mutagen cans from you, holding one in each hand and inspecting them.:: I'm impressed, Corporal. This is what we need. What else do you carry around with you? Do you happen to have some secret super weapon humanity is yet unaware of? ::He laughs.::<end>
+
+=>q28_original
+Yes, these will do just fine. D5 - perfect! That is perfect, Corporal. Exactly what we need. 
+
+Oh... those dogs *will* suffer.<end>
+
+=>q28
+Yes, these will do just fine. D5 - perfect! That is perfect, Corporal. Exactly what we need. 
+
+Oh... those dogs *will* suffer.<end>
+
+=>a29_original
+What happens next?<end>
+
+=>a29
+What happens next?<end>
+
+=>q30_original
+Now we just need to prepare the mutagen, as we can't use it like this. We need a mechanism that will release the gas after a delay, after we're... far away. ::He smiles.::
+
+One minute should do the trick, got it?<end>
+
+=>q30
+Now we just need to prepare the mutagen, as we can't use it like this. We need a mechanism that will release the gas after a delay, after we're... far away. ::He smiles.::
+
+One minute should do the trick, got it?<end>
+
+=>a31_original
+Who can do something like that?<end>
+
+=>a31
+Who can do something like that?<end>
+
+=>q32_original
+I'm sure there's someone in Fort Apogee competent enough to perform this job. Actually, I *hope* there is.<end>
+
+=>q32
+I'm sure there's someone in Fort Apogee competent enough to perform this job. Actually, I *hope* there is.<end>
+
+=>a33_original
+I'll go find someone.<end>
+
+=>a33
+I'll go find someone.<end>
+
+=>q34_original
+Go, Corporal. We believe in you. ::He laughs.::<end>
+
+=>q34
+Go, Corporal. We believe in you. ::He laughs.::<end>
+
+=>q35_original
+Once you have everything ready, go to the Rail Crossing under-passage entrance. We are headed there immediately to scout the area before you arrive.
+
+What are you waiting for, Corporal? Get your Southerner legs moving.<end>
+
+=>q35
+Once you have everything ready, go to the Rail Crossing under-passage entrance. We are headed there immediately to scout the area before you arrive.
+
+What are you waiting for, Corporal? Get your Southerner legs moving.<end>
+
+=>a36_original
+Will do.<end>
+
+=>a36
+Will do.<end>
+
+=>a37_original
+Why do *I* have to do all the hard work?<end>
+
+=>a37
+Why do *I* have to do all the hard work?<end>
+
+=>q38_original
+Because *I* said so. Must I remind you of my rank, must I remind you who sent me here and why? 
+
+Really... Corporal. Now go!<end>
+
+=>q38
+Because *I* said so. Must I remind you of my rank, must I remind you who sent me here and why? 
+
+Really... Corporal. Now go!<end>
+
+=>a39_original
+What does "D5" mean?<end>
+
+=>a39
+What does "D5" mean?<end>
+
+=>q40_original
+It's a type of mutagen. A very nice type, I must say. I don't want to spoil anything. You'll see it in action soon enough.<end>
+
+=>q40
+It's a type of mutagen. A very nice type, I must say. I don't want to spoil anything. You'll see it in action soon enough.<end>
+
+=>a41_original
+You are really enjoying all of this, aren't you?<end>
+
+=>a41
+You are really enjoying all of this, aren't you?<end>
+
+=>q42_original
+Every second of it, yes. Got anything against it, Corporal? Don't you want to see the Drones gone, Corporal?
+
+I'm just doing my duty... with a wicked smile on my face.<end>
+
+=>q42
+Every second of it, yes. Got anything against it, Corporal? Don't you want to see the Drones gone, Corporal?
+
+I'm just doing my duty... with a wicked smile on my face.<end>
+
+=>a43_original
+Where is that?<end>
+
+=>a43
+Where is that?<end>
+
+=>q44_original
+It's some... ancient facility, long abandoned, as they all are. One of Biocorp's disposal facilities. I mean... they have these little outposts, bases, installations all over Underrail. Who knows what gems still remain hidden?<end>
+
+=>q44
+It's some... ancient facility, long abandoned, as they all are. One of Biocorp's disposal facilities. I mean... they have these little outposts, bases, installations all over Underrail. Who knows what gems still remain hidden?<end>
+
+=>a45_original
+How do I find it and what kind of mutagen am I looking for?<end>
+
+=>a45
+How do I find it and what kind of mutagen am I looking for?<end>
+
+=>q46_original
+The only thing I know it's in the cave system north of Rail Crossing. The rest is up to you. You're the Southerner, you know how to get around better than I do.<end>
+
+=>q46
+The only thing I know it's in the cave system north of Rail Crossing. The rest is up to you. You're the Southerner, you know how to get around better than I do.<end>
+
+=>q47_original
+As for what you need, mutagen marked as *D4* or *D5* is what we need. 
+
+Now go, Corporal, go. No rest for the wicked.<end>
+
+=>q47
+As for what you need, mutagen marked as *D4* or *D5* is what we need. 
+
+Now go, Corporal, go. No rest for the wicked.<end>
+
+=>a48_original
+::Salute and leave.::<end>
+
+=>a48
+::Salute and leave.::<end>
+
+=>a49_original
+There are a lot of mutants in Old Junkyard. Is that what you meant?<end>
+
+=>a49
+There are a lot of mutants in Old Junkyard. Is that what you meant?<end>
+
+=>q50_original
+I know little about it. Never went that far south. No, we located a different place. <end>
+
+=>q50
+I know little about it. Never went that far south. No, we located a different place. <end>
+
+=>a51_original
+I see the distinction you're making.<end>
+
+=>a51
+I see the distinction you're making.<end>
+
+=>q52_original
+I'm glad, Corporal, and I'll remember that you do. It is important.<end>
+
+=>q52
+I'm glad, Corporal, and I'll remember that you do. It is important.<end>
+
+=>a53_original
+Dogs are humans too!<end>
+
+=>a53
+Dogs are humans too!<end>
+
+=>q54_original
+I prefer it the other way - humans are dogs! Not all, true, but a lot of them... are.<end>
+
+=>q54
+I prefer it the other way - humans are dogs! Not all, true, but a lot of them... are.<end>
+
+=>a55_original
+I found the mutagen. ::Show him the two canisters.::<end>
+
+=>a55
+I found the mutagen. ::Show him the two canisters.::<end>
+
+=>a56_original
+Where is the Free Drones base, exactly?<end>
+
+=>a56
+Where is the Free Drones base, exactly?<end>
+
+=>q57_original
+If the intel Colonel gave me - which came from the snitch that went silent before Epione was attacked - is correct, they are hiding in these... passages, under-passage, whatever it's called. You're local, you know it better than I do, Corporal.<end>
+
+=>q57
+If the intel Colonel gave me - which came from the snitch that went silent before Epione was attacked - is correct, they are hiding in these... passages, under-passage, whatever it's called. You're local, you know it better than I do, Corporal.<end>
+
+=>q58_original
+The mutts have a lair over there. They think it's safe. Soon enough, though, we'll show them not to show their teeth to Underrail Protectorate. We can bite harder.<end>
+
+=>q58
+The mutts have a lair over there. They think it's safe. Soon enough, though, we'll show them not to show their teeth to Underrail Protectorate. We can bite harder.<end>
+
+=>a59_original
+How do you plan to use the mutagen against the Free Drones?<end>
+
+=>a59
+How do you plan to use the mutagen against the Free Drones?<end>
+
+=>q60_original
+Do you really want me to spoil it? It might be better to wait and enjoy it for yourself. I think it's more exciting that way, Corporal, and Dess often agrees with me.<end>
+
+=>q60
+Do you really want me to spoil it? It might be better to wait and enjoy it for yourself. I think it's more exciting that way, Corporal, and Dess often agrees with me.<end>
+
+=>a61_original
+Tell me anyway.<end>
+
+=>a61
+Tell me anyway.<end>
+
+=>q62_original
+Suit yourself. Well, we plan to introduce the deadly mutagen into the Free Drones lair through a convenient ventilation system present throughout these passages. The mutagen we'll be using is in gaseous form, so with the right placement the mongrels will find themselves trapped, unable to escape the gas around them. After they come in contact with the gas they will suffer horrific mutations. What kinds of mutations? That I won't spoil.<end>
+
+=>q62
+Suit yourself. Well, we plan to introduce the deadly mutagen into the Free Drones lair through a convenient ventilation system present throughout these passages. The mutagen we'll be using is in gaseous form, so with the right placement the mongrels will find themselves trapped, unable to escape the gas around them. After they come in contact with the gas they will suffer horrific mutations. What kinds of mutations? That I won't spoil.<end>
+
+=>q63_original
+It'll serve the mutts right; they'd do it to us if they could. Now, I think it's fairly obvious we can't just stroll into their territory and do our business. Therefore, I still need to study these plans I've been given to find the most appropriate location from which to enter the ventilation system. I'll know more once I do so.<end>
+
+=>q63
+It'll serve the mutts right; they'd do it to us if they could. Now, I think it's fairly obvious we can't just stroll into their territory and do our business. Therefore, I still need to study these plans I've been given to find the most appropriate location from which to enter the ventilation system. I'll know more once I do so.<end>
+
+=>a64_original
+Actually, I'll wait and see.<end>
+
+=>a64
+Actually, I'll wait and see.<end>
+
+=>q65_original
+::He nods.::<end>
+
+=>q65
+::He nods.::<end>
+
+=>a66_original
+Tell me about Dess.<end>
+
+=>a66
+Tell me about Dess.<end>
+
+=>q67_original
+Dess? Corporal, Dess completes the unit. She's young and very enthusiastic about being a part of CAU, unlike anyone else I've worked with so far; Void doesn't really show it as much, although his actions speak for him. Now Dess, she is one proficient and efficient assassin. She is obedient and I've never had to worry that she will second-guess any order or back away from anything.<end>
+
+=>q67
+Dess? Corporal, Dess completes the unit. She's young and very enthusiastic about being a part of CAU, unlike anyone else I've worked with so far; Void doesn't really show it as much, although his actions speak for him. Now Dess, she is one proficient and efficient assassin. She is obedient and I've never had to worry that she will second-guess any order or back away from anything.<end>
+
+=>q68_original
+::Surprisingly, his tone turns serious.:: With that said, she can sometimes get a bit too carried away. I mean, I have no sympathy for the dogs we usually deal with, but there were a few instances where her... overzealousness almost cost us our lives.
+
+It all lies in her past, Corporal.<end>
+
+=>q68
+::Surprisingly, his tone turns serious.:: With that said, she can sometimes get a bit too carried away. I mean, I have no sympathy for the dogs we usually deal with, but there were a few instances where her... overzealousness almost cost us our lives.
+
+It all lies in her past, Corporal.<end>
+
+=>a69_original
+In her past?<end>
+
+=>a69
+In her past?<end>
+
+=>q70_original
+::He hesitates a bit but continues.:: I think you'll find this hard to believe, Corporal, but, she used to be a math teacher in one private school in Hexagon. She never told me that herself, I read that from her record. Most exemplary citizen she was, and one of the best teachers the school has ever had. I don't know what happened, but one day she didn't show up for work. Two days later, she was found stabbing her ex husband not too far from Dis.<end>
+
+=>q70
+::He hesitates a bit but continues.:: I think you'll find this hard to believe, Corporal, but, she used to be a math teacher in one private school in Hexagon. She never told me that herself, I read that from her record. Most exemplary citizen she was, and one of the best teachers the school has ever had. I don't know what happened, but one day she didn't show up for work. Two days later, she was found stabbing her ex husband not too far from Dis.<end>
+
+=>q71_original
+Whatever triggered the transformation, no one knows. And many wondered. Now, she is with us - and everyone is happy. 
+
+We'll be changing the subject now, Corporal.<end>
+
+=>q71
+Whatever triggered the transformation, no one knows. And many wondered. Now, she is with us - and everyone is happy. 
+
+We'll be changing the subject now, Corporal.<end>
+
+=>a72_original
+Interesting. I had other questions.<end>
+
+=>a72
+Interesting. I had other questions.<end>
+
+=>q73_original
+Let's hear it, Corporal.<end>
+
+=>q73
+Let's hear it, Corporal.<end>
+
+=>a74_original
+Tell me about Void.<end>
+
+=>a74
+Tell me about Void.<end>
+
+=>q75_original
+He is my right hand man. His actions can be as silent as his speech, but when he wants to make noise, he can be deafening. He's perfect for our unit.<end>
+
+=>q75
+He is my right hand man. His actions can be as silent as his speech, but when he wants to make noise, he can be deafening. He's perfect for our unit.<end>
+
+=>a76_original
+Is Void his real name?<end>
+
+=>a76
+Is Void his real name?<end>
+
+=>q77_original
+No, it is not, Corporal. He never told me his real name. He can speak, though, he just chooses not to most of the time. We call him Void because that's the only thing you see when you look at his eyes.
+
+He never objected to the name.<end>
+
+=>q77
+No, it is not, Corporal. He never told me his real name. He can speak, though, he just chooses not to most of the time. We call him Void because that's the only thing you see when you look at his eyes.
+
+He never objected to the name.<end>
+
+=>a78_original
+What can you tell me about the Chemical Assault Unit?<end>
+
+=>a78
+What can you tell me about the Chemical Assault Unit?<end>
+
+=>q79_original
+We do the dirty work, Corporal. Unfortunately, when mess like the one with Epione happens, someone has to clear it all up. Now, we can't repair the damage that's been done, unfortunately for us, but... we can make sure that those dogs, the Free Drones, never make the same mistake.<end>
+
+=>q79
+We do the dirty work, Corporal. Unfortunately, when mess like the one with Epione happens, someone has to clear it all up. Now, we can't repair the damage that's been done, unfortunately for us, but... we can make sure that those dogs, the Free Drones, never make the same mistake.<end>
+
+=>a80_original
+What mistake?<end>
+
+=>a80
+What mistake?<end>
+
+=>q81_original
+::He laughs.:: The mistake of making us come here.<end>
+
+=>q81
+::He laughs.:: The mistake of making us come here.<end>
+
+=>a82_original
+::Salute and leave.::<end>
+
+=>a82
+::Salute and leave.::<end>
+
+=>a83_original
+It was Will, one of the mechanics.<end>
+
+=>a83
+It was Will, one of the mechanics.<end>
+
+=>q84_original
+Never heard of him... Will... stupid name. Like Todd. 
+
+We'll take care of it, Corporal, don't worry.<end>
+
+=>q84
+Never heard of him... Will... stupid name. Like Todd. 
+
+We'll take care of it, Corporal, don't worry.<end>
+
+=>a85_original
+I did it myself, actually.<end>
+
+=>a85
+I did it myself, actually.<end>
+
+=>q86_original
+::Captain bursts out laughing.::
+
+Forget I... ::He continues laughing.:: forget I said anything... Ah, Corporal, life's can be so amazing sometimes. Isn't it true?<end>
+
+=>q86
+::Captain bursts out laughing.::
+
+Forget I... ::He continues laughing.:: forget I said anything... Ah, Corporal, life's can be so amazing sometimes. Isn't it true?<end>
+
+=>a87_original
+That's because I'm the Invictus. I am invincible.<end>
+
+=>a87
+That's because I'm the Invictus. I am invincible.<end>
+
+=>q88_original
+Oh, it must be some southern thing I don't understand. Oh wait... you're talking about... the Arena? ::He laughs.::
+
+Whatever you say, Corporal; you are really amusing.<end>
+
+=>q88
+Oh, it must be some southern thing I don't understand. Oh wait... you're talking about... the Arena? ::He laughs.::
+
+Whatever you say, Corporal; you are really amusing.<end>
+
+=>q89_original
+In the end, what matters the most is that the Free Drones are gone. Well, not all of them, some are scattered throughout South Underrail, but their main... lair is gone for good.<end>
+
+=>q89
+In the end, what matters the most is that the Free Drones are gone. Well, not all of them, some are scattered throughout South Underrail, but their main... lair is gone for good.<end>
+
+=>a90_original
+I'm not a dog, Captain. I'm a $(#man/woman).<end>
+
+=>a90
+I'm not a dog, Captain. I'm a $(#man/woman).<end>
+
+=>q91_original
+I like your choice of words, Corporal. I really do. You have proven to be quite resilient. As our cowardly consul would say - bravo!<end>
+
+=>q91
+I like your choice of words, Corporal. I really do. You have proven to be quite resilient. As our cowardly consul would say - bravo!<end>
+
+=>a92_original
+Meh... Not a challenge for me...<end>
+
+=>a92
+Meh... Not a challenge for me...<end>
+
+=>q93_original
+You weren't so confident in those vents... but whatever you say, Corporal. In all honesty, you have proven to be quite resilient. As our cowardly consul would say - bravo!
+<end>
+
+=>q93
+You weren't so confident in those vents... but whatever you say, Corporal. In all honesty, you have proven to be quite resilient. As our cowardly consul would say - bravo!
+<end>
+
+=>q94_original
+It's always a pleasure, Corporal.<end>
+
+=>q94
+It's always a pleasure, Corporal.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>q96_original
+<end>
+
+=>q96
+<end>
+
+=>q97_original
+Follow me.<end>
+
+=>q97
+Follow me.<end>
+
+=>q98_original
+::Captain Mareth awaits you with obvious impatience.:: You sure took your time, Corporal. Did you do as I ordered?<end>
+
+=>q98
+::Captain Mareth awaits you with obvious impatience.:: You sure took your time, Corporal. Did you do as I ordered?<end>
+
+=>a99_original
+Yes, sir. Here it is. ::Show him the rigged mutagen cans.::<end>
+
+=>a99
+Yes, sir. Here it is. ::Show him the rigged mutagen cans.::<end>
+
+=>q100_original
+Good enough. Corporal, the show's almost starting - so get ready.<end>
+
+=>q100
+Good enough. Corporal, the show's almost starting - so get ready.<end>
+
+=>q101_original
+The plan is simple: We've studied the maps we've managed to gather, and located the perfect spot to release the mutagen. It's in the ventilation system right behind this door. Once placed, the gas will find its way right into the lair of those hounds and... exterminate them.<end>
+
+=>q101
+The plan is simple: We've studied the maps we've managed to gather, and located the perfect spot to release the mutagen. It's in the ventilation system right behind this door. Once placed, the gas will find its way right into the lair of those hounds and... exterminate them.<end>
+
+=>q102_original
+I think everything is clear. ::He turns to Void.::
+
+Void, open the gate.<end>
+
+=>q102
+I think everything is clear. ::He turns to Void.::
+
+Void, open the gate.<end>
+
+=>a103_original
+I'm ready to go, Captain.<end>
+
+=>a103
+I'm ready to go, Captain.<end>
+
+=>q104_original
+::He motions Void to open the gate.::<end>
+
+=>q104
+::He motions Void to open the gate.::<end>
+
+=>a105_original
+::Watch.::<end>
+
+=>a105
+::Watch.::<end>
+
+=>a106_original
+Wait... I'm not ready.<end>
+
+=>a106
+Wait... I'm not ready.<end>
+
+=>q107_original
+::He chuckles, then motions Void to open the gate.::<end>
+
+=>q107
+::He chuckles, then motions Void to open the gate.::<end>
+
+=>a108_original
+Not yet, I'll be back later.<end>
+
+=>a108
+Not yet, I'll be back later.<end>
+
+=>q109_original
+No pressure, Corporal. Take *all* the time in the world...<end>
+
+=>q109
+No pressure, Corporal. Take *all* the time in the world...<end>
+
+=>q110_original
+<end>
+
+=>q110
+<end>
+
+=>q111_original
+Go ahead, Corporal. You know what to do.<end>
+
+=>q111
+Go ahead, Corporal. You know what to do.<end>
+
+=>q112_original
+Good luck, Corporal.<end>
+
+=>q112
+Good luck, Corporal.<end>
+

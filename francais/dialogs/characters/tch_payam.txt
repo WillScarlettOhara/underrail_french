@@ -1,484 +1,484 @@
-=>q1_original
-I will cull every single one of them! Tchort is evolution!<end>
-
-=>q1
-I will cull every single one of them! Tchort is evolution!<end>
-
-=>q2_original
-Move along.<end>
-
-=>q2
-Move along.<end>
-
-=>q3_original
-::The rassophore turns to you and silently watches you for a few moments, as if expecting you to say something first.::<end>
-
-=>q3
-::The rassophore turns to you and silently watches you for a few moments, as if expecting you to say something first.::<end>
-
-=>a4_original
-Tchort is Evolution, brother.<end>
-
-=>a4
-Tchort is Evolution, brother.<end>
-
-=>q5_original
-::His raises his head just slightly and answers with a slow, unhurried voice.::
-
-<end>
-
-=>q5
-::His raises his head just slightly and answers with a slow, unhurried voice.::
-
-<end>
-
-=>q6_original
-You are supposed to greet a Tchortist with "Tchort is evolution," not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
-
-=>q6
-You are supposed to greet a Tchortist with "Tchort is evolution," not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
-
-=>q7_original
-I am Rassophore Payam and I am in charge of monitoring and security. What can I do for you?<end>
-
-=>q7
-I am Rassophore Payam and I am in charge of monitoring and security. What can I do for you?<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>a9_original
-Can you open the gate for me?<end>
-
-=>a9
-Can you open the gate for me?<end>
-
-=>q10_original
-::He nods.:: Tchort guide you.<end>
-
-=>q10
-::He nods.:: Tchort guide you.<end>
-
-=>a11_original
-Tchort guide you too, brother.<end>
-
-=>a11
-Tchort guide you too, brother.<end>
-
-=>a12_original
-I need to leave the Institute building.<end>
-
-=>a12
-I need to leave the Institute building.<end>
-
-=>q13_original
-What is the reason for your egress, $(#brother/sister)?<end>
-
-=>q13
-What is the reason for your egress, $(#brother/sister)?<end>
-
-=>q14_original
-<end>
-
-=>q14
-<end>
-
-=>a15_original
-I'm on official Institute business.<end>
-
-=>a15
-I'm on official Institute business.<end>
-
-=>q16_original
-Official business? On whose authority?<end>
-
-=>q16
-Official business? On whose authority?<end>
-
-=>a17_original
-Principal Investigator Rista.<end>
-
-=>a17
-Principal Investigator Rista.<end>
-
-=>q18_original
-Yes, I have been informed of that, $(#brother/sister).<end>
-
-=>q18
-Yes, I have been informed of that, $(#brother/sister).<end>
-
-=>a19_original
-Oh, and I might need to take several trips back and forth.<end>
-
-=>a19
-Oh, and I might need to take several trips back and forth.<end>
-
-=>q20_original
-::He nods.:: I will note that. Tchort guide you, $(#brother/sister).<end>
-
-=>q20
-::He nods.:: I will note that. Tchort guide you, $(#brother/sister).<end>
-
-=>a21_original
-Principal Investigator Georgis.<end>
-
-=>a21
-Principal Investigator Georgis.<end>
-
-=>a22_original
-Principal Investigator Schteff.<end>
-
-=>a22
-Principal Investigator Schteff.<end>
-
-=>a23_original
-Uh...<end>
-
-=>a23
-Uh...<end>
-
-=>q24_original
-I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
-
-=>q24
-I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
-
-=>a25_original
-It's a private matter.<end>
-
-=>a25
-It's a private matter.<end>
-
-=>q26_original
-What kind of a private matter?<end>
-
-=>q26
-What kind of a private matter?<end>
-
-=>a27_original
-It's very personal.<end>
-
-=>a27
-It's very personal.<end>
-
-=>q28_original
-How long will you be out?<end>
-
-=>q28
-How long will you be out?<end>
-
-=>a29_original
-I'll be back quickly.<end>
-
-=>a29
-I'll be back quickly.<end>
-
-=>q30_original
-Everything you said has been noted. I will open the gate for you now, $(#brother/sister). Tchort guide you.<end>
-
-=>q30
-Everything you said has been noted. I will open the gate for you now, $(#brother/sister). Tchort guide you.<end>
-
-=>a31_original
-Not soon, that's for sure.<end>
-
-=>a31
-Not soon, that's for sure.<end>
-
-=>a32_original
-I have no idea.<end>
-
-=>a32
-I have no idea.<end>
-
-=>a33_original
-I need to meet someone.<end>
-
-=>a33
-I need to meet someone.<end>
-
-=>a34_original
-To roam South Underrail.<end>
-
-=>a34
-To roam South Underrail.<end>
-
-=>a35_original
-I need to visit my station.<end>
-
-=>a35
-I need to visit my station.<end>
-
-=>a36_original
-Nothing important, I'm just going to the courtyard.<end>
-
-=>a36
-Nothing important, I'm just going to the courtyard.<end>
-
-=>q37_original
-What for?<end>
-
-=>q37
-What for?<end>
-
-=>a38_original
-Just to stretch my legs.<end>
-
-=>a38
-Just to stretch my legs.<end>
-
-=>a39_original
-To talk to some of the people out front.<end>
-
-=>a39
-To talk to some of the people out front.<end>
-
-=>a40_original
-Could you just let me go without all these questions?<end>
-
-=>a40
-Could you just let me go without all these questions?<end>
-
-=>q41_original
-Please answer my question, $(#brother/sister); I'm simply following the proper procedure.<end>
-
-=>q41
-Please answer my question, $(#brother/sister); I'm simply following the proper procedure.<end>
-
-=>a42_original
-Are you in charge of opening the main gate?<end>
-
-=>a42
-Are you in charge of opening the main gate?<end>
-
-=>q43_original
-Yes, that is correct. All arrivals and departures are carefully monitored from this very room and if you, for instance, wished to leave the building, you'd have to use that intercom there and state the reason for your movement.<end>
-
-=>q43
-Yes, that is correct. All arrivals and departures are carefully monitored from this very room and if you, for instance, wished to leave the building, you'd have to use that intercom there and state the reason for your movement.<end>
-
-=>a44_original
-So every time someone wants to enter or leave has to answer to you?<end>
-
-=>a44
-So every time someone wants to enter or leave has to answer to you?<end>
-
-=>q45_original
-Well, I am most certainly not going to question notability regarding their reasons for leaving or entering the Institute building; magnificent Tchort, no. But we can't have, for instance, a novitiate like you simply stroll in and out however $(#he/she) pleases without answering to anyone.<end>
-
-=>q45
-Well, I am most certainly not going to question notability regarding their reasons for leaving or entering the Institute building; magnificent Tchort, no. But we can't have, for instance, a novitiate like you simply stroll in and out however $(#he/she) pleases without answering to anyone.<end>
-
-=>q46_original
-The procedures are there to be followed and respected, and if it is bothering you, you better adapt to it.<end>
-
-=>q46
-The procedures are there to be followed and respected, and if it is bothering you, you better adapt to it.<end>
-
-=>a47_original
-Gotcha. Now let me ask you something else.<end>
-
-=>a47
-Gotcha. Now let me ask you something else.<end>
-
-=>q48_original
-Right, but keep it short, $(#brother/sister).<end>
-
-=>q48
-Right, but keep it short, $(#brother/sister).<end>
-
-=>a49_original
-I would like to ask you several questions about Tchortism.<end>
-
-=>a49
-I would like to ask you several questions about Tchortism.<end>
-
-=>q50_original
-I am sorry, but I'm busy at the moment. My recommendation would be to either visit Eidein's Library or talk to someone from Propagation - Praepostor Amelia, for instance.<end>
-
-=>q50
-I am sorry, but I'm busy at the moment. My recommendation would be to either visit Eidein's Library or talk to someone from Propagation - Praepostor Amelia, for instance.<end>
-
-=>q51_original
-Of course, reading the Original Report should be your priority, if you haven't done so already. Anything else?<end>
-
-=>q51
-Of course, reading the Original Report should be your priority, if you haven't done so already. Anything else?<end>
-
-=>a52_original
-What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
-
-=>a52
-What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
-
-=>q53_original
-::He responds in his usual, slow manner of talking.::
-
-Excuse me, $(#brother/sister)? Why are you telling me this?<end>
-
-=>q53
-::He responds in his usual, slow manner of talking.::
-
-Excuse me, $(#brother/sister)? Why are you telling me this?<end>
-
-=>a54_original
-It's a joke!<end>
-
-=>a54
-It's a joke!<end>
-
-=>q55_original
-A joke?<end>
-
-=>q55
-A joke?<end>
-
-=>a56_original
-Yeah, you know. Mitosis is a form of cell division... divided attention... get it?<end>
-
-=>a56
-Yeah, you know. Mitosis is a form of cell division... divided attention... get it?<end>
-
-=>q57_original
-::Your statement is met with a statue-like stillness. The awkward moment doesn't last long, however.::
-
-I know what mitosis is, I just don't understand why you think the "joke" you told me is so funny?<end>
-
-=>q57
-::Your statement is met with a statue-like stillness. The awkward moment doesn't last long, however.::
-
-I know what mitosis is, I just don't understand why you think the "joke" you told me is so funny?<end>
-
-=>a58_original
-Forget it. Just forget it.<end>
-
-=>a58
-Forget it. Just forget it.<end>
-
-=>q59_original
-::He shrugs.:: Anything else?<end>
-
-=>q59
-::He shrugs.:: Anything else?<end>
-
-=>a60_original
-Do fights or shootouts ever occur between people right outside the main gate?<end>
-
-=>a60
-Do fights or shootouts ever occur between people right outside the main gate?<end>
-
-=>q61_original
-Fights - rarely; shootings - never. Sometimes a brawl would break out, but mostly between inbreds who aren't worthy of our attention in the first place and had just arrived to cause trouble. Still, when these things do occur, we usually react quickly and deal with the situation.<end>
-
-=>q61
-Fights - rarely; shootings - never. Sometimes a brawl would break out, but mostly between inbreds who aren't worthy of our attention in the first place and had just arrived to cause trouble. Still, when these things do occur, we usually react quickly and deal with the situation.<end>
-
-=>q62_original
-Excluding those, incidents are rare in the Institute courtyard. Visitors feel safe here, and that's how we intend them to.<end>
-
-=>q62
-Excluding those, incidents are rare in the Institute courtyard. Visitors feel safe here, and that's how we intend them to.<end>
-
-=>a63_original
-I am looking for Rassophore Nevil; did he perhaps leave through the front gate?<end>
-
-=>a63
-I am looking for Rassophore Nevil; did he perhaps leave through the front gate?<end>
-
-=>q64_original
-Negative, he couldn't get past without me knowing it.<end>
-
-=>q64
-Negative, he couldn't get past without me knowing it.<end>
-
-=>q65_original
-I was informed and asked about the commotion regarding Rassophore Nevil's disappearance and I can confirm that he didn't pass through the main gate.<end>
-
-=>q65
-I was informed and asked about the commotion regarding Rassophore Nevil's disappearance and I can confirm that he didn't pass through the main gate.<end>
-
-=>a66_original
-Goodbye, Payam.<end>
-
-=>a66
-Goodbye, Payam.<end>
-
-=>q67_original
-It's "Tchort guide you." Tchort guide you, $(#brother/sister).<end>
-
-=>q67
-It's "Tchort guide you." Tchort guide you, $(#brother/sister).<end>
-
-=>a68_original
-Tchort guide you, brother.<end>
-
-=>a68
-Tchort guide you, brother.<end>
-
-=>q69_original
-Tchort guide you, $(#brother/sister).<end>
-
-=>q69
-Tchort guide you, $(#brother/sister).<end>
-
-=>q70_original
-Evolution is Tchort, $(#brother/sister). <end>
-
-=>q70
-Evolution is Tchort, $(#brother/sister). <end>
-
-=>a71_original
-Hey there.<end>
-
-=>a71
-Hey there.<end>
-
-=>a72_original
-::Remain silent.::<end>
-
-=>a72
-::Remain silent.::<end>
-
-=>q73_original
-::He waits for several more seconds before slightly raising his head and speaking in a slow, unhurried voice.::
-
-<end>
-
-=>q73
-::He waits for several more seconds before slightly raising his head and speaking in a slow, unhurried voice.::
-
-<end>
-
-=>q74_original
-Tchort is evolution, $(#brother/sister).<end>
-
-=>q74
-Tchort is evolution, $(#brother/sister).<end>
-
-=>a75_original
-Hey there.<end>
-
-=>a75
-Hey there.<end>
-
-=>q76_original
-When a Tchortist greets you with "Tchort is evolution," you reply with "Evolution is Tchort" and not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
-
-=>q76
-When a Tchortist greets you with "Tchort is evolution," you reply with "Evolution is Tchort" and not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
-
-=>a77_original
-Evolution is Tchort, brother.<end>
-
-=>a77
-Evolution is Tchort, brother.<end>
-
-=>q78_original
-Tchort is evolution. What can I do for you?<end>
-
-=>q78
-Tchort is evolution. What can I do for you?<end>
-
+=>q1_original
+I will cull every single one of them! Tchort is evolution!<end>
+
+=>q1
+I will cull every single one of them! Tchort is evolution!<end>
+
+=>q2_original
+Move along.<end>
+
+=>q2
+Move along.<end>
+
+=>q3_original
+::The rassophore turns to you and silently watches you for a few moments, as if expecting you to say something first.::<end>
+
+=>q3
+::The rassophore turns to you and silently watches you for a few moments, as if expecting you to say something first.::<end>
+
+=>a4_original
+Tchort is Evolution, brother.<end>
+
+=>a4
+Tchort is Evolution, brother.<end>
+
+=>q5_original
+::His raises his head just slightly and answers with a slow, unhurried voice.::
+
+<end>
+
+=>q5
+::His raises his head just slightly and answers with a slow, unhurried voice.::
+
+<end>
+
+=>q6_original
+You are supposed to greet a Tchortist with "Tchort is evolution," not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
+
+=>q6
+You are supposed to greet a Tchortist with "Tchort is evolution," not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
+
+=>q7_original
+I am Rassophore Payam and I am in charge of monitoring and security. What can I do for you?<end>
+
+=>q7
+I am Rassophore Payam and I am in charge of monitoring and security. What can I do for you?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Can you open the gate for me?<end>
+
+=>a9
+Can you open the gate for me?<end>
+
+=>q10_original
+::He nods.:: Tchort guide you.<end>
+
+=>q10
+::He nods.:: Tchort guide you.<end>
+
+=>a11_original
+Tchort guide you too, brother.<end>
+
+=>a11
+Tchort guide you too, brother.<end>
+
+=>a12_original
+I need to leave the Institute building.<end>
+
+=>a12
+I need to leave the Institute building.<end>
+
+=>q13_original
+What is the reason for your egress, $(#brother/sister)?<end>
+
+=>q13
+What is the reason for your egress, $(#brother/sister)?<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+I'm on official Institute business.<end>
+
+=>a15
+I'm on official Institute business.<end>
+
+=>q16_original
+Official business? On whose authority?<end>
+
+=>q16
+Official business? On whose authority?<end>
+
+=>a17_original
+Principal Investigator Rista.<end>
+
+=>a17
+Principal Investigator Rista.<end>
+
+=>q18_original
+Yes, I have been informed of that, $(#brother/sister).<end>
+
+=>q18
+Yes, I have been informed of that, $(#brother/sister).<end>
+
+=>a19_original
+Oh, and I might need to take several trips back and forth.<end>
+
+=>a19
+Oh, and I might need to take several trips back and forth.<end>
+
+=>q20_original
+::He nods.:: I will note that. Tchort guide you, $(#brother/sister).<end>
+
+=>q20
+::He nods.:: I will note that. Tchort guide you, $(#brother/sister).<end>
+
+=>a21_original
+Principal Investigator Georgis.<end>
+
+=>a21
+Principal Investigator Georgis.<end>
+
+=>a22_original
+Principal Investigator Schteff.<end>
+
+=>a22
+Principal Investigator Schteff.<end>
+
+=>a23_original
+Uh...<end>
+
+=>a23
+Uh...<end>
+
+=>q24_original
+I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
+
+=>q24
+I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
+
+=>a25_original
+It's a private matter.<end>
+
+=>a25
+It's a private matter.<end>
+
+=>q26_original
+What kind of a private matter?<end>
+
+=>q26
+What kind of a private matter?<end>
+
+=>a27_original
+It's very personal.<end>
+
+=>a27
+It's very personal.<end>
+
+=>q28_original
+How long will you be out?<end>
+
+=>q28
+How long will you be out?<end>
+
+=>a29_original
+I'll be back quickly.<end>
+
+=>a29
+I'll be back quickly.<end>
+
+=>q30_original
+Everything you said has been noted. I will open the gate for you now, $(#brother/sister). Tchort guide you.<end>
+
+=>q30
+Everything you said has been noted. I will open the gate for you now, $(#brother/sister). Tchort guide you.<end>
+
+=>a31_original
+Not soon, that's for sure.<end>
+
+=>a31
+Not soon, that's for sure.<end>
+
+=>a32_original
+I have no idea.<end>
+
+=>a32
+I have no idea.<end>
+
+=>a33_original
+I need to meet someone.<end>
+
+=>a33
+I need to meet someone.<end>
+
+=>a34_original
+To roam South Underrail.<end>
+
+=>a34
+To roam South Underrail.<end>
+
+=>a35_original
+I need to visit my station.<end>
+
+=>a35
+I need to visit my station.<end>
+
+=>a36_original
+Nothing important, I'm just going to the courtyard.<end>
+
+=>a36
+Nothing important, I'm just going to the courtyard.<end>
+
+=>q37_original
+What for?<end>
+
+=>q37
+What for?<end>
+
+=>a38_original
+Just to stretch my legs.<end>
+
+=>a38
+Just to stretch my legs.<end>
+
+=>a39_original
+To talk to some of the people out front.<end>
+
+=>a39
+To talk to some of the people out front.<end>
+
+=>a40_original
+Could you just let me go without all these questions?<end>
+
+=>a40
+Could you just let me go without all these questions?<end>
+
+=>q41_original
+Please answer my question, $(#brother/sister); I'm simply following the proper procedure.<end>
+
+=>q41
+Please answer my question, $(#brother/sister); I'm simply following the proper procedure.<end>
+
+=>a42_original
+Are you in charge of opening the main gate?<end>
+
+=>a42
+Are you in charge of opening the main gate?<end>
+
+=>q43_original
+Yes, that is correct. All arrivals and departures are carefully monitored from this very room and if you, for instance, wished to leave the building, you'd have to use that intercom there and state the reason for your movement.<end>
+
+=>q43
+Yes, that is correct. All arrivals and departures are carefully monitored from this very room and if you, for instance, wished to leave the building, you'd have to use that intercom there and state the reason for your movement.<end>
+
+=>a44_original
+So every time someone wants to enter or leave has to answer to you?<end>
+
+=>a44
+So every time someone wants to enter or leave has to answer to you?<end>
+
+=>q45_original
+Well, I am most certainly not going to question notability regarding their reasons for leaving or entering the Institute building; magnificent Tchort, no. But we can't have, for instance, a novitiate like you simply stroll in and out however $(#he/she) pleases without answering to anyone.<end>
+
+=>q45
+Well, I am most certainly not going to question notability regarding their reasons for leaving or entering the Institute building; magnificent Tchort, no. But we can't have, for instance, a novitiate like you simply stroll in and out however $(#he/she) pleases without answering to anyone.<end>
+
+=>q46_original
+The procedures are there to be followed and respected, and if it is bothering you, you better adapt to it.<end>
+
+=>q46
+The procedures are there to be followed and respected, and if it is bothering you, you better adapt to it.<end>
+
+=>a47_original
+Gotcha. Now let me ask you something else.<end>
+
+=>a47
+Gotcha. Now let me ask you something else.<end>
+
+=>q48_original
+Right, but keep it short, $(#brother/sister).<end>
+
+=>q48
+Right, but keep it short, $(#brother/sister).<end>
+
+=>a49_original
+I would like to ask you several questions about Tchortism.<end>
+
+=>a49
+I would like to ask you several questions about Tchortism.<end>
+
+=>q50_original
+I am sorry, but I'm busy at the moment. My recommendation would be to either visit Eidein's Library or talk to someone from Propagation - Praepostor Amelia, for instance.<end>
+
+=>q50
+I am sorry, but I'm busy at the moment. My recommendation would be to either visit Eidein's Library or talk to someone from Propagation - Praepostor Amelia, for instance.<end>
+
+=>q51_original
+Of course, reading the Original Report should be your priority, if you haven't done so already. Anything else?<end>
+
+=>q51
+Of course, reading the Original Report should be your priority, if you haven't done so already. Anything else?<end>
+
+=>a52_original
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>a52
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>q53_original
+::He responds in his usual, slow manner of talking.::
+
+Excuse me, $(#brother/sister)? Why are you telling me this?<end>
+
+=>q53
+::He responds in his usual, slow manner of talking.::
+
+Excuse me, $(#brother/sister)? Why are you telling me this?<end>
+
+=>a54_original
+It's a joke!<end>
+
+=>a54
+It's a joke!<end>
+
+=>q55_original
+A joke?<end>
+
+=>q55
+A joke?<end>
+
+=>a56_original
+Yeah, you know. Mitosis is a form of cell division... divided attention... get it?<end>
+
+=>a56
+Yeah, you know. Mitosis is a form of cell division... divided attention... get it?<end>
+
+=>q57_original
+::Your statement is met with a statue-like stillness. The awkward moment doesn't last long, however.::
+
+I know what mitosis is, I just don't understand why you think the "joke" you told me is so funny?<end>
+
+=>q57
+::Your statement is met with a statue-like stillness. The awkward moment doesn't last long, however.::
+
+I know what mitosis is, I just don't understand why you think the "joke" you told me is so funny?<end>
+
+=>a58_original
+Forget it. Just forget it.<end>
+
+=>a58
+Forget it. Just forget it.<end>
+
+=>q59_original
+::He shrugs.:: Anything else?<end>
+
+=>q59
+::He shrugs.:: Anything else?<end>
+
+=>a60_original
+Do fights or shootouts ever occur between people right outside the main gate?<end>
+
+=>a60
+Do fights or shootouts ever occur between people right outside the main gate?<end>
+
+=>q61_original
+Fights - rarely; shootings - never. Sometimes a brawl would break out, but mostly between inbreds who aren't worthy of our attention in the first place and had just arrived to cause trouble. Still, when these things do occur, we usually react quickly and deal with the situation.<end>
+
+=>q61
+Fights - rarely; shootings - never. Sometimes a brawl would break out, but mostly between inbreds who aren't worthy of our attention in the first place and had just arrived to cause trouble. Still, when these things do occur, we usually react quickly and deal with the situation.<end>
+
+=>q62_original
+Excluding those, incidents are rare in the Institute courtyard. Visitors feel safe here, and that's how we intend them to.<end>
+
+=>q62
+Excluding those, incidents are rare in the Institute courtyard. Visitors feel safe here, and that's how we intend them to.<end>
+
+=>a63_original
+I am looking for Rassophore Nevil; did he perhaps leave through the front gate?<end>
+
+=>a63
+I am looking for Rassophore Nevil; did he perhaps leave through the front gate?<end>
+
+=>q64_original
+Negative, he couldn't get past without me knowing it.<end>
+
+=>q64
+Negative, he couldn't get past without me knowing it.<end>
+
+=>q65_original
+I was informed and asked about the commotion regarding Rassophore Nevil's disappearance and I can confirm that he didn't pass through the main gate.<end>
+
+=>q65
+I was informed and asked about the commotion regarding Rassophore Nevil's disappearance and I can confirm that he didn't pass through the main gate.<end>
+
+=>a66_original
+Goodbye, Payam.<end>
+
+=>a66
+Goodbye, Payam.<end>
+
+=>q67_original
+It's "Tchort guide you." Tchort guide you, $(#brother/sister).<end>
+
+=>q67
+It's "Tchort guide you." Tchort guide you, $(#brother/sister).<end>
+
+=>a68_original
+Tchort guide you, brother.<end>
+
+=>a68
+Tchort guide you, brother.<end>
+
+=>q69_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q69
+Tchort guide you, $(#brother/sister).<end>
+
+=>q70_original
+Evolution is Tchort, $(#brother/sister). <end>
+
+=>q70
+Evolution is Tchort, $(#brother/sister). <end>
+
+=>a71_original
+Hey there.<end>
+
+=>a71
+Hey there.<end>
+
+=>a72_original
+::Remain silent.::<end>
+
+=>a72
+::Remain silent.::<end>
+
+=>q73_original
+::He waits for several more seconds before slightly raising his head and speaking in a slow, unhurried voice.::
+
+<end>
+
+=>q73
+::He waits for several more seconds before slightly raising his head and speaking in a slow, unhurried voice.::
+
+<end>
+
+=>q74_original
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q74
+Tchort is evolution, $(#brother/sister).<end>
+
+=>a75_original
+Hey there.<end>
+
+=>a75
+Hey there.<end>
+
+=>q76_original
+When a Tchortist greets you with "Tchort is evolution," you reply with "Evolution is Tchort" and not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
+
+=>q76
+When a Tchortist greets you with "Tchort is evolution," you reply with "Evolution is Tchort" and not "hey, there." Just so you know for future reference $(#brother/sister), or someone might take offense.<end>
+
+=>a77_original
+Evolution is Tchort, brother.<end>
+
+=>a77
+Evolution is Tchort, brother.<end>
+
+=>q78_original
+Tchort is evolution. What can I do for you?<end>
+
+=>q78
+Tchort is evolution. What can I do for you?<end>
+

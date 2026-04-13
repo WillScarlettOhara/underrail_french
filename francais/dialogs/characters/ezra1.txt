@@ -1,1898 +1,1898 @@
-=>q1_original
-::As you step out of the picture you are startled to see Ezra staring at you.::
-
-I see you have found something interesting.<end>
-
-=>q1
-::As you step out of the picture you are startled to see Ezra staring at you.::
-
-I see you have found something interesting.<end>
-
-=>a2_original
-Damn it, Ezra, don't do that anymore.<end>
-
-=>a2
-Damn it, Ezra, don't do that anymore.<end>
-
-=>q3_original
-We have an agreement. ::The corner of his lip twists into a barely perceptible smile.::<end>
-
-=>q3
-We have an agreement. ::The corner of his lip twists into a barely perceptible smile.::<end>
-
-=>a4_original
-Wait, did you know about this picture?<end>
-
-=>a4
-Wait, did you know about this picture?<end>
-
-=>q5_original
-No. And still calling it a picture seems rather inadequate, based on what I've just seen. Tell me, $(context.player.Name), what was on the other side of this... portal?<end>
-
-=>q5
-No. And still calling it a picture seems rather inadequate, based on what I've just seen. Tell me, $(context.player.Name), what was on the other side of this... portal?<end>
-
-=>a6_original
-A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
-
-=>a6
-A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
-
-=>q7_original
-::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
-
-=>q7
-::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
-
-=>a8_original
-You know something, Ezra.<end>
-
-=>a8
-You know something, Ezra.<end>
-
-=>q9_original
-The things you describe are familiar to me. Over the years, there were a few instances where I was able to peer into Tanner's mind. Faint shapes of what you described was what I saw. I was quickly... expunged, however, in every single one of these instances, so I know nothing of the purpose or meaning of those things.<end>
-
-=>q9
-The things you describe are familiar to me. Over the years, there were a few instances where I was able to peer into Tanner's mind. Faint shapes of what you described was what I saw. I was quickly... expunged, however, in every single one of these instances, so I know nothing of the purpose or meaning of those things.<end>
-
-=>q10_original
-Tanner's disappearance is a mystery to me as it is to you, $(context.player.Name), and now I believe is the time to share your findings with the rest of the council.<end>
-
-=>q10
-Tanner's disappearance is a mystery to me as it is to you, $(context.player.Name), and now I believe is the time to share your findings with the rest of the council.<end>
-
-=>a11_original
-Let's go see them.<end>
-
-=>a11
-Let's go see them.<end>
-
-=>a12_original
-Why are you silent?<end>
-
-=>a12
-Why are you silent?<end>
-
-=>a13_original
-I thought you were going to wait for me outside.<end>
-
-=>a13
-I thought you were going to wait for me outside.<end>
-
-=>q14_original
-I thought so too, but something drew me in.<end>
-
-=>q14
-I thought so too, but something drew me in.<end>
-
-=>a15_original
-You would not believe what I just saw there.<end>
-
-=>a15
-You would not believe what I just saw there.<end>
-
-=>q16_original
-Maybe I would. I have seen plenty of things during my lifetime.<end>
-
-=>q16
-Maybe I would. I have seen plenty of things during my lifetime.<end>
-
-=>q17_original
-::Ezra stares at you.:: Well?<end>
-
-=>q17
-::Ezra stares at you.:: Well?<end>
-
-=>q18_original
-There. I will wait here while you inspect Tanner's room.<end>
-
-=>q18
-There. I will wait here while you inspect Tanner's room.<end>
-
-=>a19_original
-Won't you help me?<end>
-
-=>a19
-Won't you help me?<end>
-
-=>q20_original
-I wouldn't want to get in your way, $(context.player.Name).<end>
-
-=>q20
-I wouldn't want to get in your way, $(context.player.Name).<end>
-
-=>a21_original
-Okay. I'm going to take a look inside.<end>
-
-=>a21
-Okay. I'm going to take a look inside.<end>
-
-=>q22_original
-And... be cautious. Just in case.<end>
-
-=>q22
-And... be cautious. Just in case.<end>
-
-=>a23_original
-Do you know something I don't?<end>
-
-=>a23
-Do you know something I don't?<end>
-
-=>q24_original
-If I did, I would've told you by now.<end>
-
-=>q24
-If I did, I would've told you by now.<end>
-
-=>a25_original
-Right, I'm going inside.<end>
-
-=>a25
-Right, I'm going inside.<end>
-
-=>a26_original
-I will.<end>
-
-=>a26
-I will.<end>
-
-=>a27_original
-You do that. I'm going to take a look inside.<end>
-
-=>a27
-You do that. I'm going to take a look inside.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>q29_original
-::Ezra returns shortly.::
-
-Just as I suspected.<end>
-
-=>q29
-::Ezra returns shortly.::
-
-Just as I suspected.<end>
-
-=>a30_original
-Discovered anything interesting?<end>
-
-=>a30
-Discovered anything interesting?<end>
-
-=>q31_original
-I've managed to analyze the composition of this *impure* chromium blade, and I emphasize this because over ninety percent of it is indeed chromium. But that you knew already. However, what you didn't know is that it is the other ten percent that which differentiates vermin from a walking apocalypse: Foundry is very unfortunate in having their surrounding rock made up of some of the hardest minerals in nature, for it is these materials which together form the living armor of these creatures. And I am not just talking about their shell, no - it is their whole bodies which are composed of these metals and minerals, albeit in varying quantities depending on the section, of course.<end>
-
-=>q31
-I've managed to analyze the composition of this *impure* chromium blade, and I emphasize this because over ninety percent of it is indeed chromium. But that you knew already. However, what you didn't know is that it is the other ten percent that which differentiates vermin from a walking apocalypse: Foundry is very unfortunate in having their surrounding rock made up of some of the hardest minerals in nature, for it is these materials which together form the living armor of these creatures. And I am not just talking about their shell, no - it is their whole bodies which are composed of these metals and minerals, albeit in varying quantities depending on the section, of course.<end>
-
-=>q32_original
-Chromium is in itself a resistant metal, but its strength lies in its high heat resistance. The rest of the materials serve to counteract mechanical forces acting upon the organism. It appears that in small creatures, this robustness can be overcome by conventional means, if barely; in the Beast, I'd suggest you return to Foundry and tell them to collapse the cave where it lives and abandon them altogether. But that isn't an option, or else you wouldn't be here.<end>
-
-=>q32
-Chromium is in itself a resistant metal, but its strength lies in its high heat resistance. The rest of the materials serve to counteract mechanical forces acting upon the organism. It appears that in small creatures, this robustness can be overcome by conventional means, if barely; in the Beast, I'd suggest you return to Foundry and tell them to collapse the cave where it lives and abandon them altogether. But that isn't an option, or else you wouldn't be here.<end>
-
-=>q33_original
-Luckily, there is a way. By my calculations, and I've taken all the approximate constituent elements found inside the sample into consideration, the temperature necessary to melt these creatures' shell should be at least two thousand five hundred degrees centigrade.<end>
-
-=>q33
-Luckily, there is a way. By my calculations, and I've taken all the approximate constituent elements found inside the sample into consideration, the temperature necessary to melt these creatures' shell should be at least two thousand five hundred degrees centigrade.<end>
-
-=>q34_original
-Ironically, considering chromium is practically the essence of these creatures, this seems to be the most realistic way to defeat it, as Foundry is likely to have some means - be it a furnace or something else - which can melt chromium, hence producing temperatures this high.<end>
-
-=>q34
-Ironically, considering chromium is practically the essence of these creatures, this seems to be the most realistic way to defeat it, as Foundry is likely to have some means - be it a furnace or something else - which can melt chromium, hence producing temperatures this high.<end>
-
-=>q35_original
-<end>
-
-=>q35
-<end>
-
-=>a36_original
-So, it seems that I'm going to need a way to lure the Beast into Foundry and kill it there. Anything you can do to help me with the luring part?<end>
-
-=>a36
-So, it seems that I'm going to need a way to lure the Beast into Foundry and kill it there. Anything you can do to help me with the luring part?<end>
-
-=>q37_original
-And what will you do once it's in Foundry? Do you have a plan?<end>
-
-=>q37
-And what will you do once it's in Foundry? Do you have a plan?<end>
-
-=>a38_original
-Foundry has this old, large smelting furnace near the mine entrance. I could use that to pour molten metal onto the Beast and kill it.<end>
-
-=>a38
-Foundry has this old, large smelting furnace near the mine entrance. I could use that to pour molten metal onto the Beast and kill it.<end>
-
-=>q39_original
-That seems plausible.<end>
-
-=>q39
-That seems plausible.<end>
-
-=>q40_original
-I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
-
-=>q40
-I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
-
-=>a41_original
-What do you mean "it should"?<end>
-
-=>a41
-What do you mean "it should"?<end>
-
-=>q42_original
-This is an improvised device that I'm making out of components I have at hand. Things can go awry; maybe it'll summon the creature you want, maybe it'll summon something else. You won't know until you press the button.<end>
-
-=>q42
-This is an improvised device that I'm making out of components I have at hand. Things can go awry; maybe it'll summon the creature you want, maybe it'll summon something else. You won't know until you press the button.<end>
-
-=>q43_original
-Making the device shouldn't take long, though. I believe I already have all the necessary components right here. 
-
-Wait some more, would you.<end>
-
-=>q43
-Making the device shouldn't take long, though. I believe I already have all the necessary components right here. 
-
-Wait some more, would you.<end>
-
-=>a44_original
-::Wait.::<end>
-
-=>a44
-::Wait.::<end>
-
-=>a45_original
-Yeah, yeah, just make the stupid device.<end>
-
-=>a45
-Yeah, yeah, just make the stupid device.<end>
-
-=>q46_original
-I see you are quite impatient. ::He pauses briefly.:: <end>
-
-=>q46
-I see you are quite impatient. ::He pauses briefly.:: <end>
-
-=>a47_original
-I don't know exactly - *yet*. But the fact of the matter is that I still need to lure it somehow. I don't have many other options.<end>
-
-=>a47
-I don't know exactly - *yet*. But the fact of the matter is that I still need to lure it somehow. I don't have many other options.<end>
-
-=>q48_original
-Remember what I told you. The composition of minerals and metals in its shell makes it highly resistant to mechanical forces and high temperature. However, I'm sure you'll be able to find something there that will produce more than two and a half thousand degrees necessary to kill it. It is Foundry after all.<end>
-
-=>q48
-Remember what I told you. The composition of minerals and metals in its shell makes it highly resistant to mechanical forces and high temperature. However, I'm sure you'll be able to find something there that will produce more than two and a half thousand degrees necessary to kill it. It is Foundry after all.<end>
-
-=>a49_original
-What about plasma weapons? How come these are ineffective against the Beast when plasma can reach insane temperatures?<end>
-
-=>a49
-What about plasma weapons? How come these are ineffective against the Beast when plasma can reach insane temperatures?<end>
-
-=>q50_original
-When all molecules are ionized, yes, plasma can reach - theoretically - temperatures in the range of billions of degrees. However, most conventional plasma weapons we have today use plasma where only a fraction of gas molecules are ionized.<end>
-
-=>q50
-When all molecules are ionized, yes, plasma can reach - theoretically - temperatures in the range of billions of degrees. However, most conventional plasma weapons we have today use plasma where only a fraction of gas molecules are ionized.<end>
-
-=>q51_original
-There are three primary reasons for this: First one is the technological limitation, the second is power consumption, and the third is the fact that the shooter does not want to be evaporated together with everything else around him when firing his weapon.<end>
-
-=>q51
-There are three primary reasons for this: First one is the technological limitation, the second is power consumption, and the third is the fact that the shooter does not want to be evaporated together with everything else around him when firing his weapon.<end>
-
-=>a52_original
-I have a piece of one right here.<end>
-
-=>a52
-I have a piece of one right here.<end>
-
-=>q53_original
-Let me see it. I will be right back. ::He takes the sample from you and leaves the room.::<end>
-
-=>q53
-Let me see it. I will be right back. ::He takes the sample from you and leaves the room.::<end>
-
-=>a54_original
-::Wait for him to return.::<end>
-
-=>a54
-::Wait for him to return.::<end>
-
-=>a55_original
-How come you know so much about these creatures? Knowledge like this does not arrive with merely "encountering" something.<end>
-
-=>a55
-How come you know so much about these creatures? Knowledge like this does not arrive with merely "encountering" something.<end>
-
-=>q56_original
-I've learned quite a few things throughout the years.<end>
-
-=>q56
-I've learned quite a few things throughout the years.<end>
-
-=>q57_original
-There are bits and pieces of knowledge and history everywhere you look, and over time things simply accumulate.<end>
-
-=>q57
-There are bits and pieces of knowledge and history everywhere you look, and over time things simply accumulate.<end>
-
-=>a58_original
-You are awfully mysterious, Ezra. First you tell me you don't know anything about Wyatt Pear, and now this. And yet, you seem like you have an answer for everything else I ask you.<end>
-
-=>a58
-You are awfully mysterious, Ezra. First you tell me you don't know anything about Wyatt Pear, and now this. And yet, you seem like you have an answer for everything else I ask you.<end>
-
-=>q59_original
-No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
-
-=>q59
-No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
-
-=>q60_original
-I'd like to return to the topic at hand now.<end>
-
-=>q60
-I'd like to return to the topic at hand now.<end>
-
-=>a61_original
-Does Biocorp have anything to do with it?<end>
-
-=>a61
-Does Biocorp have anything to do with it?<end>
-
-=>q62_original
-I may have come across some of their research. It is hard to remember.<end>
-
-=>q62
-I may have come across some of their research. It is hard to remember.<end>
-
-=>a63_original
-In that case, let me ask you something else.<end>
-
-=>a63
-In that case, let me ask you something else.<end>
-
-=>q64_original
-::He nods in silence.::<end>
-
-=>q64
-::He nods in silence.::<end>
-
-=>q65_original
-<end>
-
-=>q65
-<end>
-
-=>a66_original
-Do you have anything to trade? ::Barter.::<end>
-
-=>a66
-Do you have anything to trade? ::Barter.::<end>
-
-=>a67_original
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>a67
-Have you ever heard of the Acorn, a.k.a ACoNR?<end>
-
-=>q68_original
-::He stares at you.:: Acorn?<end>
-
-=>q68
-::He stares at you.:: Acorn?<end>
-
-=>q69_original
-<end>
-
-=>q69
-<end>
-
-=>a70_original
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
-
-=>a70
-I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
-
-=>q71_original
-::He continues staring.:: <end>
-
-=>q71
-::He continues staring.:: <end>
-
-=>q72_original
-It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
-
-=>q72
-It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
-
-=>q73_original
-know as much as you do about it is surprising, to say the least.<end>
-
-=>q73
-know as much as you do about it is surprising, to say the least.<end>
-
-=>q74_original
-<end>
-
-=>q74
-<end>
-
-=>a75_original
-Let's say I've done some digging around.<end>
-
-=>a75
-Let's say I've done some digging around.<end>
-
-=>q76_original
-Very good. <end>
-
-=>q76
-Very good. <end>
-
-=>q77_original
-But did you find it, the Acorn itself?<end>
-
-=>q77
-But did you find it, the Acorn itself?<end>
-
-=>a78_original
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>a78
-Yes. Right here. ::Show him the Acorn.::<end>
-
-=>q79_original
-::He stares at it, his eye revealing nothing.:: Can you open it?<end>
-
-=>q79
-::He stares at it, his eye revealing nothing.:: Can you open it?<end>
-
-=>a80_original
-I know it needs the coded signal, but I don't have it.<end>
-
-=>a80
-I know it needs the coded signal, but I don't have it.<end>
-
-=>q81_original
-Then it is unusable. <end>
-
-=>q81
-Then it is unusable. <end>
-
-=>q82_original
-Its quantum near-field lock cannot be unlocked without a corresponding coded signal. <end>
-
-=>q82
-Its quantum near-field lock cannot be unlocked without a corresponding coded signal. <end>
-
-=>a83_original
-Can they be beaten?<end>
-
-=>a83
-Can they be beaten?<end>
-
-=>q84_original
-They cannot...<end>
-
-=>q84
-They cannot...<end>
-
-=>q85_original
-However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
-
-=>q85
-However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
-
-=>a86_original
-Here. You can take it. ::Give him the Acorn.::<end>
-
-=>a86
-Here. You can take it. ::Give him the Acorn.::<end>
-
-=>q87_original
-::Like a lens of a scanner his eye passes over the Acorn, analyzing its every feature.:: It's going to stay here with me in Engineering. 
-
-::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
-
-=>q87
-::Like a lens of a scanner his eye passes over the Acorn, analyzing its every feature.:: It's going to stay here with me in Engineering. 
-
-::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
-
-=>a88_original
-::[Intelligence]:: Tanner?<end>
-
-=>a88
-::[Intelligence]:: Tanner?<end>
-
-=>q89_original
-Tanner.<end>
-
-=>q89
-Tanner.<end>
-
-=>a90_original
-Tanner knew about the Acorn too?<end>
-
-=>a90
-Tanner knew about the Acorn too?<end>
-
-=>q91_original
-That I do not know. But if he knew, he wouldn't miss the opportunity to take it with him. If he didn't, which I think is the less likely case of the two, he would've quickly realized its value. 
-
-As you've learned yourself, he is not to be underestimated.<end>
-
-=>q91
-That I do not know. But if he knew, he wouldn't miss the opportunity to take it with him. If he didn't, which I think is the less likely case of the two, he would've quickly realized its value. 
-
-As you've learned yourself, he is not to be underestimated.<end>
-
-=>a92_original
-I'd like to know more about the Acorn.<end>
-
-=>a92
-I'd like to know more about the Acorn.<end>
-
-=>q93_original
-::He nods.:: Certainly.<end>
-
-=>q93
-::He nods.:: Certainly.<end>
-
-=>q94_original
-<end>
-
-=>q94
-<end>
-
-=>a95_original
-What does the Acorn do exactly?<end>
-
-=>a95
-What does the Acorn do exactly?<end>
-
-=>q96_original
-It creates whatever it's been instructed to create, all on its own.<end>
-
-=>q96
-It creates whatever it's been instructed to create, all on its own.<end>
-
-=>a97_original
-Can you describe how it works?<end>
-
-=>a97
-Can you describe how it works?<end>
-
-=>q98_original
-Do not ask for details; I don't know them. But I have learned the basics of how the Acorn functions: At its core is an artificial intelligence that controls billions and billions of nanobots which it has at its disposal. Its purpose is to create, and what that is is defined by a preloaded blueprint.
-
-At this point there is something that needs to be said: There is more than one Acorn. Each one is made to build a specific thing, and then they are distributed, waiting for the moment of their activation, protected by as yet undefeated quantum near-field locks.<end>
-
-=>q98
-Do not ask for details; I don't know them. But I have learned the basics of how the Acorn functions: At its core is an artificial intelligence that controls billions and billions of nanobots which it has at its disposal. Its purpose is to create, and what that is is defined by a preloaded blueprint.
-
-At this point there is something that needs to be said: There is more than one Acorn. Each one is made to build a specific thing, and then they are distributed, waiting for the moment of their activation, protected by as yet undefeated quantum near-field locks.<end>
-
-=>q99_original
-Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
-
-Because within the Acorn there exists a mind that can realize.<end>
-
-=>q99
-Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
-
-Because within the Acorn there exists a mind that can realize.<end>
-
-=>q100_original
-Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
-
-=>q100
-Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
-
-=>q101_original
-But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
-
-It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
-
-=>q101
-But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
-
-It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
-
-=>q102_original
-It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
-
-=>q102
-It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
-
-=>a103_original
-Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
-
-=>a103
-Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
-
-=>q104_original
-They did *make* them, build them. But the idea, the design - the concept: To the minds of New Frontier Technology that is *inconceivable*. To Biocorp... I'd dare say even more so. The artificial intelligence employed by the Acorn is far too advanced, even for the likes of Bionic Institute... ::He pauses.:: And the nanotechnology...<end>
-
-=>q104
-They did *make* them, build them. But the idea, the design - the concept: To the minds of New Frontier Technology that is *inconceivable*. To Biocorp... I'd dare say even more so. The artificial intelligence employed by the Acorn is far too advanced, even for the likes of Bionic Institute... ::He pauses.:: And the nanotechnology...<end>
-
-=>a105_original
-Bionic Institute?<end>
-
-=>a105
-Bionic Institute?<end>
-
-=>q106_original
-A supercorporation from the past. But in this discussion unimportant.<end>
-
-=>q106
-A supercorporation from the past. But in this discussion unimportant.<end>
-
-=>q107_original
-::He continues after a pause.:: No... the technology of the Acorn comes from different minds. But whose? That I'd rather not speculate.<end>
-
-=>q107
-::He continues after a pause.:: No... the technology of the Acorn comes from different minds. But whose? That I'd rather not speculate.<end>
-
-=>a108_original
-Where could the other ones be?<end>
-
-=>a108
-Where could the other ones be?<end>
-
-=>q109_original
-Biocorp had one, at least one confirmed. Knowing the history between the two supercorporations I always wondered whether it was stolen from New Frontier Technologies.<end>
-
-=>q109
-Biocorp had one, at least one confirmed. Knowing the history between the two supercorporations I always wondered whether it was stolen from New Frontier Technologies.<end>
-
-=>q110_original
-But then again, the relations between supercorporations were fickle, impermanent. It is known that New Frontier Technologies manufactured units for other supercorporations, so Biocorp may have been one of those. 
-
-There aren't many Acorns out there, that is for certain, but they are probably still out there.<end>
-
-=>q110
-But then again, the relations between supercorporations were fickle, impermanent. It is known that New Frontier Technologies manufactured units for other supercorporations, so Biocorp may have been one of those. 
-
-There aren't many Acorns out there, that is for certain, but they are probably still out there.<end>
-
-=>a111_original
-What's going to happen with the Acorn now?<end>
-
-=>a111
-What's going to happen with the Acorn now?<end>
-
-=>q112_original
-Without the coded signal it is unusable. We can scan it, study it - see what we can extrapolate from observation and measurement. But the signal, that is the only key we know of.<end>
-
-=>q112
-Without the coded signal it is unusable. We can scan it, study it - see what we can extrapolate from observation and measurement. But the signal, that is the only key we know of.<end>
-
-=>a113_original
-What would happen if you tried forcing it open?<end>
-
-=>a113
-What would happen if you tried forcing it open?<end>
-
-=>q114_original
-It would destroy itself. Did you really think the creators of a technology so advanced would allow themselves such an oversight?<end>
-
-=>q114
-It would destroy itself. Did you really think the creators of a technology so advanced would allow themselves such an oversight?<end>
-
-=>q115_original
-It would destroy itself. And maybe the whole station alongside it.<end>
-
-=>q115
-It would destroy itself. And maybe the whole station alongside it.<end>
-
-=>a116_original
-How do you know all of this?<end>
-
-=>a116
-How do you know all of this?<end>
-
-=>q117_original
-I've learned a lot during my lifetime.<end>
-
-=>q117
-I've learned a lot during my lifetime.<end>
-
-=>q118_original
-Acorn being one of those things. ::He ends his sentence with a piercing stare.::<end>
-
-=>q118
-Acorn being one of those things. ::He ends his sentence with a piercing stare.::<end>
-
-=>a119_original
-Let's talk about something else.<end>
-
-=>a119
-Let's talk about something else.<end>
-
-=>a120_original
-I wanted to talk to you about something unrelated to this.<end>
-
-=>a120
-I wanted to talk to you about something unrelated to this.<end>
-
-=>a121_original
-Why is that?<end>
-
-=>a121
-Why is that?<end>
-
-=>a122_original
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>a122
-It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
-
-=>q123_original
-And you have a sum in mind...<end>
-
-=>q123
-And you have a sum in mind...<end>
-
-=>q124_original
-<end>
-
-=>q124
-<end>
-
-=>a125_original
-::[Mercantile]:: Eighteen thousand credits.<end>
-
-=>a125
-::[Mercantile]:: Eighteen thousand credits.<end>
-
-=>q126_original
-<end>
-
-=>q126
-<end>
-
-=>q127_original
-::He nods.:: Done.<end>
-
-=>q127
-::He nods.:: Done.<end>
-
-=>q128_original
-::After counting and handing you a hefty sum of SGS credits, he takes the Acorn.:: <end>
-
-=>q128
-::After counting and handing you a hefty sum of SGS credits, he takes the Acorn.:: <end>
-
-=>q129_original
-You and I know the Acorn's worth, but the other council members do not. They will never allow such kind of money to be spent on it.<end>
-
-=>q129
-You and I know the Acorn's worth, but the other council members do not. They will never allow such kind of money to be spent on it.<end>
-
-=>a130_original
-::[Mercantile]:: Fifteen thousand credits.<end>
-
-=>a130
-::[Mercantile]:: Fifteen thousand credits.<end>
-
-=>q131_original
-<end>
-
-=>q131
-<end>
-
-=>a132_original
-::[Mercantile]:: Twelve thousand credits.<end>
-
-=>a132
-::[Mercantile]:: Twelve thousand credits.<end>
-
-=>q133_original
-<end>
-
-=>q133
-<end>
-
-=>a134_original
-::[Mercantile]:: Nine thousand credits.<end>
-
-=>a134
-::[Mercantile]:: Nine thousand credits.<end>
-
-=>q135_original
-<end>
-
-=>q135
-<end>
-
-=>a136_original
-Six thousand credits.<end>
-
-=>a136
-Six thousand credits.<end>
-
-=>a137_original
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a137
-You know what? Take it. ::Give him the Acorn.::<end>
-
-=>a138_original
-I don't know how.<end>
-
-=>a138
-I don't know how.<end>
-
-=>a139_original
-I haven't found a way to open it yet. I thought someone else would know more.<end>
-
-=>a139
-I haven't found a way to open it yet. I thought someone else would know more.<end>
-
-=>a140_original
-Not yet, but I'm working on obtaining it.<end>
-
-=>a140
-Not yet, but I'm working on obtaining it.<end>
-
-=>q141_original
-I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
-
-=>q141
-I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
-
-=>a142_original
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>a142
-No. I just heard about it and wondered if you knew something that could help me.<end>
-
-=>a143_original
-I learned about it during a trip to the Black Sea.<end>
-
-=>a143
-I learned about it during a trip to the Black Sea.<end>
-
-=>q144_original
-Black Sea? Makes sense. <end>
-
-=>q144
-Black Sea? Makes sense. <end>
-
-=>a145_original
-I learned about it during an expedition to the Black Sea.<end>
-
-=>a145
-I learned about it during an expedition to the Black Sea.<end>
-
-=>a146_original
-Underrail holds many secrets, but they're not secret enough for me.<end>
-
-=>a146
-Underrail holds many secrets, but they're not secret enough for me.<end>
-
-=>q147_original
-even know about it is a rare thing, to say the least.<end>
-
-=>q147
-even know about it is a rare thing, to say the least.<end>
-
-=>a148_original
-All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
-
-=>a148
-All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
-
-=>q149_original
-Surface. <end>
-
-=>q149
-Surface. <end>
-
-=>a150_original
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
-
-=>a150
-It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
-
-=>q151_original
-::He continues staring.:: You seem to know a lot about this Acorn. <end>
-
-=>q151
-::He continues staring.:: You seem to know a lot about this Acorn. <end>
-
-=>q152_original
-A lot more than one would expect from someone like you.<end>
-
-=>q152
-A lot more than one would expect from someone like you.<end>
-
-=>q153_original
-You seem to know a lot about it. <end>
-
-=>q153
-You seem to know a lot about it. <end>
-
-=>a154_original
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a154
-It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a155_original
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a155
-It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
-
-=>a156_original
-Never mind, then. There was something else I wanted to ask you.<end>
-
-=>a156
-Never mind, then. There was something else I wanted to ask you.<end>
-
-=>q157_original
-::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
-
-=>q157
-::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
-
-=>a158_original
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a158
-I have the Acorn. ::Show him the Acorn.::<end>
-
-=>a159_original
-How does the device you gave me exactly work?<end>
-
-=>a159
-How does the device you gave me exactly work?<end>
-
-=>q160_original
-The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
-
-=>q160
-The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
-
-=>q161_original
-It's complicated, but it should work if my calculations are right.<end>
-
-=>q161
-It's complicated, but it should work if my calculations are right.<end>
-
-=>a162_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a162
-What do you know about Patrick Pierce's death?<end>
-
-=>q163_original
-His death occured not too long ago, before you came to SGS, if I'm not mistaken. It's unusual.<end>
-
-=>q163
-His death occured not too long ago, before you came to SGS, if I'm not mistaken. It's unusual.<end>
-
-=>a164_original
-What do you mean by "unusual"?<end>
-
-=>a164
-What do you mean by "unusual"?<end>
-
-=>q165_original
-Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
-
-=>q165
-Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
-
-=>a166_original
-Can you tell me what he was like as a person?<end>
-
-=>a166
-Can you tell me what he was like as a person?<end>
-
-=>q167_original
-Patrick? Decent. Good in his field of work.<end>
-
-=>q167
-Patrick? Decent. Good in his field of work.<end>
-
-=>q168_original
-That's all I have to say.<end>
-
-=>q168
-That's all I have to say.<end>
-
-=>a169_original
-Could you take a look at this for me?<end>
-
-=>a169
-Could you take a look at this for me?<end>
-
-=>q170_original
-::Ezra looks at the restless creature, now at the apex of its aggravation. He focuses on it in silence, and as moments pass the creature becomes more and more calm; slowly but surely it reaches a point of complete tranquility and motionlessness, on account of which one could easily mistake it for being dead.::<end>
-
-=>q170
-::Ezra looks at the restless creature, now at the apex of its aggravation. He focuses on it in silence, and as moments pass the creature becomes more and more calm; slowly but surely it reaches a point of complete tranquility and motionlessness, on account of which one could easily mistake it for being dead.::<end>
-
-=>a171_original
-Ezra?<end>
-
-=>a171
-Ezra?<end>
-
-=>q172_original
-::He turns to you.:: Where did you find this creature?<end>
-
-=>q172
-::He turns to you.:: Where did you find this creature?<end>
-
-=>a173_original
-In a mine in Foundry. But I've also seen suspiciously similar creatures in Deep Caverns. I suspect they may be related.<end>
-
-=>a173
-In a mine in Foundry. But I've also seen suspiciously similar creatures in Deep Caverns. I suspect they may be related.<end>
-
-=>q174_original
-Interesting. And are there any other creatures living among or in close proximity to these?<end>
-
-=>q174
-Interesting. And are there any other creatures living among or in close proximity to these?<end>
-
-=>a175_original
-Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know. Again, similar thing in Deep Caverns, only that there I saw beings covered in mushrooms; they didn't look anything like the creatures in Foundry, but there are far too many odd similarities to ignore.<end>
-
-=>a175
-Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know. Again, similar thing in Deep Caverns, only that there I saw beings covered in mushrooms; they didn't look anything like the creatures in Foundry, but there are far too many odd similarities to ignore.<end>
-
-=>q176_original
-::He speaks, but more to himself than you.:: I see; another adaptation; it makes sense. 
-
-And you, why are you so interested in this subject?<end>
-
-=>q176
-::He speaks, but more to himself than you.:: I see; another adaptation; it makes sense. 
-
-And you, why are you so interested in this subject?<end>
-
-=>a177_original
-Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
-
-=>a177
-Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
-
-=>q178_original
-So you want to find a way to kill it. Very well. I understand everything now. 
-
-I'll tell you what you need to know.<end>
-
-=>q178
-So you want to find a way to kill it. Very well. I understand everything now. 
-
-I'll tell you what you need to know.<end>
-
-=>q179_original
-The creature you brought me is actually the larval form of the rock creature you described. As strange as that may seem, yes - these are their larvae. I've encountered them in the past - in different forms, though. Regardless, I can help you find this adaptation's weakness, but for that you will have to bring me some part of the creature to analyze. Try to bring me a piece of its shell or back blades if you can; if not, then bring whatever you are able to acquire.<end>
-
-=>q179
-The creature you brought me is actually the larval form of the rock creature you described. As strange as that may seem, yes - these are their larvae. I've encountered them in the past - in different forms, though. Regardless, I can help you find this adaptation's weakness, but for that you will have to bring me some part of the creature to analyze. Try to bring me a piece of its shell or back blades if you can; if not, then bring whatever you are able to acquire.<end>
-
-=>a180_original
-Come on, man, enough with the questions, just speak to me. You know something, and I want to know what you know.<end>
-
-=>a180
-Come on, man, enough with the questions, just speak to me. You know something, and I want to know what you know.<end>
-
-=>q181_original
-I told you once already, if you want my help, you will answer my questions. Why are you so interested in this subject?<end>
-
-=>q181
-I told you once already, if you want my help, you will answer my questions. Why are you so interested in this subject?<end>
-
-=>q182_original
-If you want my help, you will answer my questions. Now, why are you so interested in this subject?<end>
-
-=>q182
-If you want my help, you will answer my questions. Now, why are you so interested in this subject?<end>
-
-=>a183_original
-Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know.<end>
-
-=>a183
-Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know.<end>
-
-=>a184_original
-In a mine in Foundry.<end>
-
-=>a184
-In a mine in Foundry.<end>
-
-=>a185_original
-What do you care? I should be the one asking questions, not you.<end>
-
-=>a185
-What do you care? I should be the one asking questions, not you.<end>
-
-=>q186_original
-If you need my help, you'll tell me where you found it.<end>
-
-=>q186
-If you need my help, you'll tell me where you found it.<end>
-
-=>a187_original
-Are you there?<end>
-
-=>a187
-Are you there?<end>
-
-=>a188_original
-About the rock creatures...<end>
-
-=>a188
-About the rock creatures...<end>
-
-=>q189_original
-::He nods.::<end>
-
-=>q189
-::He nods.::<end>
-
-=>a190_original
-Are you blind, Ezra?<end>
-
-=>a190
-Are you blind, Ezra?<end>
-
-=>q191_original
-::Ezra raises his hand slowly and extends it towards you. He holds two of his fingers in front of your face for a moment, each pointing at one of your eyes, before retracting the hand.::<end>
-
-=>q191
-::Ezra raises his hand slowly and extends it towards you. He holds two of his fingers in front of your face for a moment, each pointing at one of your eyes, before retracting the hand.::<end>
-
-=>a192_original
-What is it exactly that you do here?<end>
-
-=>a192
-What is it exactly that you do here?<end>
-
-=>q193_original
-Me specifically, the cyber department or the engineering sector?<end>
-
-=>q193
-Me specifically, the cyber department or the engineering sector?<end>
-
-=>a194_original
-I meant you.<end>
-
-=>a194
-I meant you.<end>
-
-=>q195_original
-I make sure that all parts of the station's internal network are communicating properly and securely and that all the scripts are running as they should.<end>
-
-=>q195
-I make sure that all parts of the station's internal network are communicating properly and securely and that all the scripts are running as they should.<end>
-
-=>q196_original
-I also oversee all operations of the engineering sector.<end>
-
-=>q196
-I also oversee all operations of the engineering sector.<end>
-
-=>q197_original
-<end>
-
-=>q197
-<end>
-
-=>a198_original
-And what do you do specifically?<end>
-
-=>a198
-And what do you do specifically?<end>
-
-=>a199_original
-How about the cyber department?<end>
-
-=>a199
-How about the cyber department?<end>
-
-=>q200_original
-We maintain and improve the station's internal network. We write programs for all automated systems in the station.<end>
-
-=>q200
-We maintain and improve the station's internal network. We write programs for all automated systems in the station.<end>
-
-=>a201_original
-What does the engineering sector do in general?<end>
-
-=>a201
-What does the engineering sector do in general?<end>
-
-=>q202_original
-We construct, deconstruct, research, upgrade. Listing all the specific things we do would take too much of my time. Go around and talk to people working here. They might be willing to let you know the details of their projects.<end>
-
-=>q202
-We construct, deconstruct, research, upgrade. Listing all the specific things we do would take too much of my time. Go around and talk to people working here. They might be willing to let you know the details of their projects.<end>
-
-=>a203_original
-Let's talk about something else.<end>
-
-=>a203
-Let's talk about something else.<end>
-
-=>q204_original
-Such as?<end>
-
-=>q204
-Such as?<end>
-
-=>a205_original
-The cyber department.<end>
-
-=>a205
-The cyber department.<end>
-
-=>a206_original
-The engineering sector.<end>
-
-=>a206
-The engineering sector.<end>
-
-=>a207_original
-I hear you are a powerful mind controller. Is this true?<end>
-
-=>a207
-I hear you are a powerful mind controller. Is this true?<end>
-
-=>q208_original
-::Ezra remains silent and just stares at you.::<end>
-
-=>q208
-::Ezra remains silent and just stares at you.::<end>
-
-=>a209_original
-If this is true I'd like to learn from you.<end>
-
-=>a209
-If this is true I'd like to learn from you.<end>
-
-=>q210_original
-::He just keeps staring at you.::<end>
-
-=>q210
-::He just keeps staring at you.::<end>
-
-=>a211_original
-::Stare back at him.::<end>
-
-=>a211
-::Stare back at him.::<end>
-
-=>q212_original
-::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
-
-=>q212
-::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
-
-=>q213_original
-::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
-
-=>q213
-::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
-
-=>a214_original
-::[Will] Try to wrestle back the control of your body.::<end>
-
-=>a214
-::[Will] Try to wrestle back the control of your body.::<end>
-
-=>q215_original
-::You feel Ezra's surprise as you fight back and for a moment you are able to break his grip on you.::<end>
-
-=>q215
-::You feel Ezra's surprise as you fight back and for a moment you are able to break his grip on you.::<end>
-
-=>a216_original
-::Continue focusing and attempt to take control of him.::<end>
-
-=>a216
-::Continue focusing and attempt to take control of him.::<end>
-
-=>q217_original
-::You attempt to reach out for him with your mind, but the element of surprise is gone. Ezra's will wraps around you and crushes your consciousness.::<end>
-
-=>q217
-::You attempt to reach out for him with your mind, but the element of surprise is gone. Ezra's will wraps around you and crushes your consciousness.::<end>
-
-=>a218_original
-::Continue::<end>
-
-=>a218
-::Continue::<end>
-
-=>a219_original
-::Break off eye contact and attempt to disengage.::<end>
-
-=>a219
-::Break off eye contact and attempt to disengage.::<end>
-
-=>q220_original
-Your will is stronger than I expected, $(context.player.Name). Consider this your first lesson.<end>
-
-=>q220
-Your will is stronger than I expected, $(context.player.Name). Consider this your first lesson.<end>
-
-=>a221_original
-::Quickly reach for your weapon and attack before he can take control again.::<end>
-
-=>a221
-::Quickly reach for your weapon and attack before he can take control again.::<end>
-
-=>q222_original
-::You try to fight the intrusion, but Ezra's will is too strong. ::<end>
-
-=>q222
-::You try to fight the intrusion, but Ezra's will is too strong. ::<end>
-
-=>q223_original
-::You stand there for a few moments, held like a prisoner in your own body, and then the world disappears.::<end>
-
-=>q223
-::You stand there for a few moments, held like a prisoner in your own body, and then the world disappears.::<end>
-
-=>a224_original
-::Continue::<end>
-
-=>a224
-::Continue::<end>
-
-=>a225_original
-::Give in and let Ezra take over.::<end>
-
-=>a225
-::Give in and let Ezra take over.::<end>
-
-=>a226_original
-This is pointless. ::Leave.::<end>
-
-=>a226
-This is pointless. ::Leave.::<end>
-
-=>a227_original
-Forget I asked.<end>
-
-=>a227
-Forget I asked.<end>
-
-=>a228_original
-What did you do to me? Where's my stuff?<end>
-
-=>a228
-What did you do to me? Where's my stuff?<end>
-
-=>q229_original
-Only what you wanted. Consider that first lesson free of charge.<end>
-
-=>q229
-Only what you wanted. Consider that first lesson free of charge.<end>
-
-=>q230_original
-
-
-Your belongings are in the footlocker next to my desk.<end>
-
-=>q230
-
-
-Your belongings are in the footlocker next to my desk.<end>
-
-=>a231_original
-What did you do to me?<end>
-
-=>a231
-What did you do to me?<end>
-
-=>a232_original
-I want to learn more psi abilities.<end>
-
-=>a232
-I want to learn more psi abilities.<end>
-
-=>q233_original
-I can teach you how to short-circuit the brains of others, instill fear in them or break their minds.<end>
-
-=>q233
-I can teach you how to short-circuit the brains of others, instill fear in them or break their minds.<end>
-
-=>q234_original
-<end>
-
-=>q234
-<end>
-
-=>a235_original
-I want to learn how to scare others. ::[Requires: Thought Control 30]::<end>
-
-=>a235
-I want to learn how to scare others. ::[Requires: Thought Control 30]::<end>
-
-=>q236_original
-Very well. This will cost you 100 credits.<end>
-
-=>q236
-Very well. This will cost you 100 credits.<end>
-
-=>a237_original
-Agreed. Here you go.<end>
-
-=>a237
-Agreed. Here you go.<end>
-
-=>q238_original
-Let us begin then...<end>
-
-=>q238
-Let us begin then...<end>
-
-=>a239_original
-::Continue::<end>
-
-=>a239
-::Continue::<end>
-
-=>a240_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a240
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a241_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a241
-On second thought, I'd rather spend my money on something else.<end>
-
-=>q242_original
-And what is that?<end>
-
-=>q242
-And what is that?<end>
-
-=>q243_original
-You are not ready for that yet.<end>
-
-=>q243
-You are not ready for that yet.<end>
-
-=>a244_original
-I want to learn how to break their minds. ::[Requires: Thought Control 45]::<end>
-
-=>a244
-I want to learn how to break their minds. ::[Requires: Thought Control 45]::<end>
-
-=>q245_original
-Very well. This will cost you 250 credits.<end>
-
-=>q245
-Very well. This will cost you 250 credits.<end>
-
-=>a246_original
-Agreed. Here you go.<end>
-
-=>a246
-Agreed. Here you go.<end>
-
-=>q247_original
-Let us begin then...<end>
-
-=>q247
-Let us begin then...<end>
-
-=>a248_original
-::Continue::<end>
-
-=>a248
-::Continue::<end>
-
-=>a249_original
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a249
-I don't have that kind of money right now. What else can you teach me?<end>
-
-=>a250_original
-On second thought, I'd rather spend my money on something else.<end>
-
-=>a250
-On second thought, I'd rather spend my money on something else.<end>
-
-=>q251_original
-You are not ready for that yet.<end>
-
-=>q251
-You are not ready for that yet.<end>
-
-=>a252_original
-Never mind. Let me ask you something else.<end>
-
-=>a252
-Never mind. Let me ask you something else.<end>
-
-=>q253_original
-Yes?<end>
-
-=>q253
-Yes?<end>
-
-=>a254_original
-Do you know what this is? ::Show him the damaged necklace.::<end>
-
-=>a254
-Do you know what this is? ::Show him the damaged necklace.::<end>
-
-=>q255_original
-::Ezra watches the necklace silently for a moment.:: It's a broken tracker-emitter necklace, one of a pair.<end>
-
-=>q255
-::Ezra watches the necklace silently for a moment.:: It's a broken tracker-emitter necklace, one of a pair.<end>
-
-=>q256_original
-Its cross shaped shield is made of medium carbon steel. The lower section houses the emitter while the horizontal segment holds the receiver. It's decorated with painted pieces for bone and chitinous carapace. The amulet is made of silver plated mild steel.<end>
-
-=>q256
-Its cross shaped shield is made of medium carbon steel. The lower section houses the emitter while the horizontal segment holds the receiver. It's decorated with painted pieces for bone and chitinous carapace. The amulet is made of silver plated mild steel.<end>
-
-=>q257_original
-<end>
-
-=>q257
-<end>
-
-=>a258_original
-You can tell all that just from looking at it?<end>
-
-=>a258
-You can tell all that just from looking at it?<end>
-
-=>q259_original
-No, I can tell all that because I made it.<end>
-
-=>q259
-No, I can tell all that because I made it.<end>
-
-=>q260_original
-I could even make a guess as to where you found it, but that is not my concern. If you want to know more about the necklace, you should speak with Arlene in the commons.<end>
-
-=>q260
-I could even make a guess as to where you found it, but that is not my concern. If you want to know more about the necklace, you should speak with Arlene in the commons.<end>
-
-=>a261_original
-Can you repair it?<end>
-
-=>a261
-Can you repair it?<end>
-
-=>q262_original
-No.<end>
-
-=>q262
-No.<end>
-
-=>a263_original
-You sure?<end>
-
-=>a263
-You sure?<end>
-
-=>q264_original
-Yes.<end>
-
-=>q264
-Yes.<end>
-
-=>a265_original
-Alright.<end>
-
-=>a265
-Alright.<end>
-
-=>a266_original
-I've got to get going.<end>
-
-=>a266
-I've got to get going.<end>
-
-=>a267_original
-About this necklace...<end>
-
-=>a267
-About this necklace...<end>
-
-=>q268_original
-What about it?<end>
-
-=>q268
-What about it?<end>
-
-=>a269_original
-About the Acorn...<end>
-
-=>a269
-About the Acorn...<end>
-
-=>q270_original
-::He nods.::<end>
-
-=>q270
-::He nods.::<end>
-
-=>a271_original
-Do you know a man called Wyatt Pear?<end>
-
-=>a271
-Do you know a man called Wyatt Pear?<end>
-
-=>q272_original
-::His eye stares at you, but reveals nothing.::
-
-No.<end>
-
-=>q272
-::His eye stares at you, but reveals nothing.::
-
-No.<end>
-
-=>a273_original
-Interesting. Cause he told me he was visited by two men many years ago in Old Junkyard - one of which looked very much like yourself, Ezra, based on his description. It was around the time of that mutagen disaster.<end>
-
-=>a273
-Interesting. Cause he told me he was visited by two men many years ago in Old Junkyard - one of which looked very much like yourself, Ezra, based on his description. It was around the time of that mutagen disaster.<end>
-
-=>q274_original
-You are speaking to the wrong man, $(context.player.Name). I suggest you seek that *doppelganger* of mine and continue this conversation with him, because I can't help you.<end>
-
-=>q274
-You are speaking to the wrong man, $(context.player.Name). I suggest you seek that *doppelganger* of mine and continue this conversation with him, because I can't help you.<end>
-
-=>q275_original
-Was that all you wanted to ask me?<end>
-
-=>q275
-Was that all you wanted to ask me?<end>
-
-=>a276_original
-He lives in Old Junkyard. I got the impression you two know each other from way back. He described you fairly accurately. You sure you don't know him? <end>
-
-=>a276
-He lives in Old Junkyard. I got the impression you two know each other from way back. He described you fairly accurately. You sure you don't know him? <end>
-
-=>q277_original
-I don't know him.<end>
-
-=>q277
-I don't know him.<end>
-
-=>a278_original
-Never mind, forget I said anything. I had other questions.<end>
-
-=>a278
-Never mind, forget I said anything. I had other questions.<end>
-
-=>q279_original
-::Ezra remains silent.::<end>
-
-=>q279
-::Ezra remains silent.::<end>
-
-=>a280_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a280
-What are your thoughts on the Faceless invasion?<end>
-
-=>q281_original
-It is hard to determine motivations of their kind. People will be getting hysterical in fear, thinking that the Faceless have come to conquer or destroy our civilization.<end>
-
-=>q281
-It is hard to determine motivations of their kind. People will be getting hysterical in fear, thinking that the Faceless have come to conquer or destroy our civilization.<end>
-
-=>q282_original
-While in truth, the nature of this conflict is probably much less serious. The Core poked their sticky fingers a bit too deep underground and is about to lose an arm for it.<end>
-
-=>q282
-While in truth, the nature of this conflict is probably much less serious. The Core poked their sticky fingers a bit too deep underground and is about to lose an arm for it.<end>
-
-=>a283_original
-See you later.<end>
-
-=>a283
-See you later.<end>
-
-=>a284_original
-You mentioned something about adaptation. What did you mean, precisely?<end>
-
-=>a284
-You mentioned something about adaptation. What did you mean, precisely?<end>
-
-=>q285_original
-You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
-
-=>q285
-You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
-
-=>a286_original
-Are they not, by any chance, called psimorphs?<end>
-
-=>a286
-Are they not, by any chance, called psimorphs?<end>
-
-=>q287_original
-::His answer is usually unemotional, despite the fact that naming the creatures should provoke some kind of reaction. But no, his response is as flat as an ironed shirt.:: Yes. <end>
-
-=>q287
-::His answer is usually unemotional, despite the fact that naming the creatures should provoke some kind of reaction. But no, his response is as flat as an ironed shirt.:: Yes. <end>
-
-=>q288_original
-Psi-enhanced polymorphic organisms, or psimorphs, for short.<end>
-
-=>q288
-Psi-enhanced polymorphic organisms, or psimorphs, for short.<end>
-
-=>a289_original
-Do you know what these creatures are called?<end>
-
-=>a289
-Do you know what these creatures are called?<end>
-
-=>a290_original
-I'll get going.<end>
-
-=>a290
-I'll get going.<end>
-
-=>q291_original
-::He nods and returns to his work.::<end>
-
-=>q291
-::He nods and returns to his work.::<end>
-
-=>a292_original
-Yes?<end>
-
-=>a292
-Yes?<end>
-
-=>q293_original
-Vera wants to see you urgently, $(context.player.Name). Talk to her first, then we'll talk later.<end>
-
-=>q293
-Vera wants to see you urgently, $(context.player.Name). Talk to her first, then we'll talk later.<end>
-
-=>q294_original
-::He returns with the gift he promised.::
-
-Here it is. Try your best not to disturb the larva within the device too much. You need it to be alive for the device to function properly.<end>
-
-=>q294
-::He returns with the gift he promised.::
-
-Here it is. Try your best not to disturb the larva within the device too much. You need it to be alive for the device to function properly.<end>
-
-=>q295_original
-::Ezra looks at you with his one good eye and speaks in his usual calm and even fashion.::
-
-Have you spoken to Vera?<end>
-
-=>q295
-::Ezra looks at you with his one good eye and speaks in his usual calm and even fashion.::
-
-Have you spoken to Vera?<end>
-
-=>a296_original
-Yes.<end>
-
-=>a296
-Yes.<end>
-
-=>q297_original
-::Ezra presents the keycard to Tanner's room.::
-
-Follow me.<end>
-
-=>q297
-::Ezra presents the keycard to Tanner's room.::
-
-Follow me.<end>
-
-=>a298_original
-::Follow Ezra.::<end>
-
-=>a298
-::Follow Ezra.::<end>
-
-=>a299_original
-That is why I'm here. I am ready to go to Tanner's room.<end>
-
-=>a299
-That is why I'm here. I am ready to go to Tanner's room.<end>
-
-=>q300_original
-::He observes you somewhat more purposefully than usual.::
-
-Yes?<end>
-
-=>q300
-::He observes you somewhat more purposefully than usual.::
-
-Yes?<end>
-
-=>q301_original
-I have some new equipment, if you are interested.<end>
-
-=>q301
-I have some new equipment, if you are interested.<end>
-
-=>q302_original
-Harold seems pleased with that battery data you gave him. ::He nods.:: Very good.<end>
-
-=>q302
-Harold seems pleased with that battery data you gave him. ::He nods.:: Very good.<end>
-
-=>q303_original
-$(context.player.Name).<end>
-
-=>q303
-$(context.player.Name).<end>
-
-=>q304_original
-::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
-
-=>q304
-::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
-
-=>q305_original
-::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
-
-=>q305
-::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
-
+=>q1_original
+::As you step out of the picture you are startled to see Ezra staring at you.::
+
+I see you have found something interesting.<end>
+
+=>q1
+::As you step out of the picture you are startled to see Ezra staring at you.::
+
+I see you have found something interesting.<end>
+
+=>a2_original
+Damn it, Ezra, don't do that anymore.<end>
+
+=>a2
+Damn it, Ezra, don't do that anymore.<end>
+
+=>q3_original
+We have an agreement. ::The corner of his lip twists into a barely perceptible smile.::<end>
+
+=>q3
+We have an agreement. ::The corner of his lip twists into a barely perceptible smile.::<end>
+
+=>a4_original
+Wait, did you know about this picture?<end>
+
+=>a4
+Wait, did you know about this picture?<end>
+
+=>q5_original
+No. And still calling it a picture seems rather inadequate, based on what I've just seen. Tell me, $(context.player.Name), what was on the other side of this... portal?<end>
+
+=>q5
+No. And still calling it a picture seems rather inadequate, based on what I've just seen. Tell me, $(context.player.Name), what was on the other side of this... portal?<end>
+
+=>a6_original
+A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
+
+=>a6
+A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
+
+=>q7_original
+::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
+
+=>q7
+::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
+
+=>a8_original
+You know something, Ezra.<end>
+
+=>a8
+You know something, Ezra.<end>
+
+=>q9_original
+The things you describe are familiar to me. Over the years, there were a few instances where I was able to peer into Tanner's mind. Faint shapes of what you described was what I saw. I was quickly... expunged, however, in every single one of these instances, so I know nothing of the purpose or meaning of those things.<end>
+
+=>q9
+The things you describe are familiar to me. Over the years, there were a few instances where I was able to peer into Tanner's mind. Faint shapes of what you described was what I saw. I was quickly... expunged, however, in every single one of these instances, so I know nothing of the purpose or meaning of those things.<end>
+
+=>q10_original
+Tanner's disappearance is a mystery to me as it is to you, $(context.player.Name), and now I believe is the time to share your findings with the rest of the council.<end>
+
+=>q10
+Tanner's disappearance is a mystery to me as it is to you, $(context.player.Name), and now I believe is the time to share your findings with the rest of the council.<end>
+
+=>a11_original
+Let's go see them.<end>
+
+=>a11
+Let's go see them.<end>
+
+=>a12_original
+Why are you silent?<end>
+
+=>a12
+Why are you silent?<end>
+
+=>a13_original
+I thought you were going to wait for me outside.<end>
+
+=>a13
+I thought you were going to wait for me outside.<end>
+
+=>q14_original
+I thought so too, but something drew me in.<end>
+
+=>q14
+I thought so too, but something drew me in.<end>
+
+=>a15_original
+You would not believe what I just saw there.<end>
+
+=>a15
+You would not believe what I just saw there.<end>
+
+=>q16_original
+Maybe I would. I have seen plenty of things during my lifetime.<end>
+
+=>q16
+Maybe I would. I have seen plenty of things during my lifetime.<end>
+
+=>q17_original
+::Ezra stares at you.:: Well?<end>
+
+=>q17
+::Ezra stares at you.:: Well?<end>
+
+=>q18_original
+There. I will wait here while you inspect Tanner's room.<end>
+
+=>q18
+There. I will wait here while you inspect Tanner's room.<end>
+
+=>a19_original
+Won't you help me?<end>
+
+=>a19
+Won't you help me?<end>
+
+=>q20_original
+I wouldn't want to get in your way, $(context.player.Name).<end>
+
+=>q20
+I wouldn't want to get in your way, $(context.player.Name).<end>
+
+=>a21_original
+Okay. I'm going to take a look inside.<end>
+
+=>a21
+Okay. I'm going to take a look inside.<end>
+
+=>q22_original
+And... be cautious. Just in case.<end>
+
+=>q22
+And... be cautious. Just in case.<end>
+
+=>a23_original
+Do you know something I don't?<end>
+
+=>a23
+Do you know something I don't?<end>
+
+=>q24_original
+If I did, I would've told you by now.<end>
+
+=>q24
+If I did, I would've told you by now.<end>
+
+=>a25_original
+Right, I'm going inside.<end>
+
+=>a25
+Right, I'm going inside.<end>
+
+=>a26_original
+I will.<end>
+
+=>a26
+I will.<end>
+
+=>a27_original
+You do that. I'm going to take a look inside.<end>
+
+=>a27
+You do that. I'm going to take a look inside.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+::Ezra returns shortly.::
+
+Just as I suspected.<end>
+
+=>q29
+::Ezra returns shortly.::
+
+Just as I suspected.<end>
+
+=>a30_original
+Discovered anything interesting?<end>
+
+=>a30
+Discovered anything interesting?<end>
+
+=>q31_original
+I've managed to analyze the composition of this *impure* chromium blade, and I emphasize this because over ninety percent of it is indeed chromium. But that you knew already. However, what you didn't know is that it is the other ten percent that which differentiates vermin from a walking apocalypse: Foundry is very unfortunate in having their surrounding rock made up of some of the hardest minerals in nature, for it is these materials which together form the living armor of these creatures. And I am not just talking about their shell, no - it is their whole bodies which are composed of these metals and minerals, albeit in varying quantities depending on the section, of course.<end>
+
+=>q31
+I've managed to analyze the composition of this *impure* chromium blade, and I emphasize this because over ninety percent of it is indeed chromium. But that you knew already. However, what you didn't know is that it is the other ten percent that which differentiates vermin from a walking apocalypse: Foundry is very unfortunate in having their surrounding rock made up of some of the hardest minerals in nature, for it is these materials which together form the living armor of these creatures. And I am not just talking about their shell, no - it is their whole bodies which are composed of these metals and minerals, albeit in varying quantities depending on the section, of course.<end>
+
+=>q32_original
+Chromium is in itself a resistant metal, but its strength lies in its high heat resistance. The rest of the materials serve to counteract mechanical forces acting upon the organism. It appears that in small creatures, this robustness can be overcome by conventional means, if barely; in the Beast, I'd suggest you return to Foundry and tell them to collapse the cave where it lives and abandon them altogether. But that isn't an option, or else you wouldn't be here.<end>
+
+=>q32
+Chromium is in itself a resistant metal, but its strength lies in its high heat resistance. The rest of the materials serve to counteract mechanical forces acting upon the organism. It appears that in small creatures, this robustness can be overcome by conventional means, if barely; in the Beast, I'd suggest you return to Foundry and tell them to collapse the cave where it lives and abandon them altogether. But that isn't an option, or else you wouldn't be here.<end>
+
+=>q33_original
+Luckily, there is a way. By my calculations, and I've taken all the approximate constituent elements found inside the sample into consideration, the temperature necessary to melt these creatures' shell should be at least two thousand five hundred degrees centigrade.<end>
+
+=>q33
+Luckily, there is a way. By my calculations, and I've taken all the approximate constituent elements found inside the sample into consideration, the temperature necessary to melt these creatures' shell should be at least two thousand five hundred degrees centigrade.<end>
+
+=>q34_original
+Ironically, considering chromium is practically the essence of these creatures, this seems to be the most realistic way to defeat it, as Foundry is likely to have some means - be it a furnace or something else - which can melt chromium, hence producing temperatures this high.<end>
+
+=>q34
+Ironically, considering chromium is practically the essence of these creatures, this seems to be the most realistic way to defeat it, as Foundry is likely to have some means - be it a furnace or something else - which can melt chromium, hence producing temperatures this high.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+So, it seems that I'm going to need a way to lure the Beast into Foundry and kill it there. Anything you can do to help me with the luring part?<end>
+
+=>a36
+So, it seems that I'm going to need a way to lure the Beast into Foundry and kill it there. Anything you can do to help me with the luring part?<end>
+
+=>q37_original
+And what will you do once it's in Foundry? Do you have a plan?<end>
+
+=>q37
+And what will you do once it's in Foundry? Do you have a plan?<end>
+
+=>a38_original
+Foundry has this old, large smelting furnace near the mine entrance. I could use that to pour molten metal onto the Beast and kill it.<end>
+
+=>a38
+Foundry has this old, large smelting furnace near the mine entrance. I could use that to pour molten metal onto the Beast and kill it.<end>
+
+=>q39_original
+That seems plausible.<end>
+
+=>q39
+That seems plausible.<end>
+
+=>q40_original
+I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
+
+=>q40
+I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
+
+=>a41_original
+What do you mean "it should"?<end>
+
+=>a41
+What do you mean "it should"?<end>
+
+=>q42_original
+This is an improvised device that I'm making out of components I have at hand. Things can go awry; maybe it'll summon the creature you want, maybe it'll summon something else. You won't know until you press the button.<end>
+
+=>q42
+This is an improvised device that I'm making out of components I have at hand. Things can go awry; maybe it'll summon the creature you want, maybe it'll summon something else. You won't know until you press the button.<end>
+
+=>q43_original
+Making the device shouldn't take long, though. I believe I already have all the necessary components right here. 
+
+Wait some more, would you.<end>
+
+=>q43
+Making the device shouldn't take long, though. I believe I already have all the necessary components right here. 
+
+Wait some more, would you.<end>
+
+=>a44_original
+::Wait.::<end>
+
+=>a44
+::Wait.::<end>
+
+=>a45_original
+Yeah, yeah, just make the stupid device.<end>
+
+=>a45
+Yeah, yeah, just make the stupid device.<end>
+
+=>q46_original
+I see you are quite impatient. ::He pauses briefly.:: <end>
+
+=>q46
+I see you are quite impatient. ::He pauses briefly.:: <end>
+
+=>a47_original
+I don't know exactly - *yet*. But the fact of the matter is that I still need to lure it somehow. I don't have many other options.<end>
+
+=>a47
+I don't know exactly - *yet*. But the fact of the matter is that I still need to lure it somehow. I don't have many other options.<end>
+
+=>q48_original
+Remember what I told you. The composition of minerals and metals in its shell makes it highly resistant to mechanical forces and high temperature. However, I'm sure you'll be able to find something there that will produce more than two and a half thousand degrees necessary to kill it. It is Foundry after all.<end>
+
+=>q48
+Remember what I told you. The composition of minerals and metals in its shell makes it highly resistant to mechanical forces and high temperature. However, I'm sure you'll be able to find something there that will produce more than two and a half thousand degrees necessary to kill it. It is Foundry after all.<end>
+
+=>a49_original
+What about plasma weapons? How come these are ineffective against the Beast when plasma can reach insane temperatures?<end>
+
+=>a49
+What about plasma weapons? How come these are ineffective against the Beast when plasma can reach insane temperatures?<end>
+
+=>q50_original
+When all molecules are ionized, yes, plasma can reach - theoretically - temperatures in the range of billions of degrees. However, most conventional plasma weapons we have today use plasma where only a fraction of gas molecules are ionized.<end>
+
+=>q50
+When all molecules are ionized, yes, plasma can reach - theoretically - temperatures in the range of billions of degrees. However, most conventional plasma weapons we have today use plasma where only a fraction of gas molecules are ionized.<end>
+
+=>q51_original
+There are three primary reasons for this: First one is the technological limitation, the second is power consumption, and the third is the fact that the shooter does not want to be evaporated together with everything else around him when firing his weapon.<end>
+
+=>q51
+There are three primary reasons for this: First one is the technological limitation, the second is power consumption, and the third is the fact that the shooter does not want to be evaporated together with everything else around him when firing his weapon.<end>
+
+=>a52_original
+I have a piece of one right here.<end>
+
+=>a52
+I have a piece of one right here.<end>
+
+=>q53_original
+Let me see it. I will be right back. ::He takes the sample from you and leaves the room.::<end>
+
+=>q53
+Let me see it. I will be right back. ::He takes the sample from you and leaves the room.::<end>
+
+=>a54_original
+::Wait for him to return.::<end>
+
+=>a54
+::Wait for him to return.::<end>
+
+=>a55_original
+How come you know so much about these creatures? Knowledge like this does not arrive with merely "encountering" something.<end>
+
+=>a55
+How come you know so much about these creatures? Knowledge like this does not arrive with merely "encountering" something.<end>
+
+=>q56_original
+I've learned quite a few things throughout the years.<end>
+
+=>q56
+I've learned quite a few things throughout the years.<end>
+
+=>q57_original
+There are bits and pieces of knowledge and history everywhere you look, and over time things simply accumulate.<end>
+
+=>q57
+There are bits and pieces of knowledge and history everywhere you look, and over time things simply accumulate.<end>
+
+=>a58_original
+You are awfully mysterious, Ezra. First you tell me you don't know anything about Wyatt Pear, and now this. And yet, you seem like you have an answer for everything else I ask you.<end>
+
+=>a58
+You are awfully mysterious, Ezra. First you tell me you don't know anything about Wyatt Pear, and now this. And yet, you seem like you have an answer for everything else I ask you.<end>
+
+=>q59_original
+No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
+
+=>q59
+No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
+
+=>q60_original
+I'd like to return to the topic at hand now.<end>
+
+=>q60
+I'd like to return to the topic at hand now.<end>
+
+=>a61_original
+Does Biocorp have anything to do with it?<end>
+
+=>a61
+Does Biocorp have anything to do with it?<end>
+
+=>q62_original
+I may have come across some of their research. It is hard to remember.<end>
+
+=>q62
+I may have come across some of their research. It is hard to remember.<end>
+
+=>a63_original
+In that case, let me ask you something else.<end>
+
+=>a63
+In that case, let me ask you something else.<end>
+
+=>q64_original
+::He nods in silence.::<end>
+
+=>q64
+::He nods in silence.::<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a66
+Do you have anything to trade? ::Barter.::<end>
+
+=>a67_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a67
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q68_original
+::He stares at you.:: Acorn?<end>
+
+=>q68
+::He stares at you.:: Acorn?<end>
+
+=>q69_original
+<end>
+
+=>q69
+<end>
+
+=>a70_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
+
+=>a70
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
+
+=>q71_original
+::He continues staring.:: <end>
+
+=>q71
+::He continues staring.:: <end>
+
+=>q72_original
+It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
+
+=>q72
+It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
+
+=>q73_original
+know as much as you do about it is surprising, to say the least.<end>
+
+=>q73
+know as much as you do about it is surprising, to say the least.<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>a75_original
+Let's say I've done some digging around.<end>
+
+=>a75
+Let's say I've done some digging around.<end>
+
+=>q76_original
+Very good. <end>
+
+=>q76
+Very good. <end>
+
+=>q77_original
+But did you find it, the Acorn itself?<end>
+
+=>q77
+But did you find it, the Acorn itself?<end>
+
+=>a78_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a78
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>q79_original
+::He stares at it, his eye revealing nothing.:: Can you open it?<end>
+
+=>q79
+::He stares at it, his eye revealing nothing.:: Can you open it?<end>
+
+=>a80_original
+I know it needs the coded signal, but I don't have it.<end>
+
+=>a80
+I know it needs the coded signal, but I don't have it.<end>
+
+=>q81_original
+Then it is unusable. <end>
+
+=>q81
+Then it is unusable. <end>
+
+=>q82_original
+Its quantum near-field lock cannot be unlocked without a corresponding coded signal. <end>
+
+=>q82
+Its quantum near-field lock cannot be unlocked without a corresponding coded signal. <end>
+
+=>a83_original
+Can they be beaten?<end>
+
+=>a83
+Can they be beaten?<end>
+
+=>q84_original
+They cannot...<end>
+
+=>q84
+They cannot...<end>
+
+=>q85_original
+However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
+
+=>q85
+However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
+
+=>a86_original
+Here. You can take it. ::Give him the Acorn.::<end>
+
+=>a86
+Here. You can take it. ::Give him the Acorn.::<end>
+
+=>q87_original
+::Like a lens of a scanner his eye passes over the Acorn, analyzing its every feature.:: It's going to stay here with me in Engineering. 
+
+::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
+
+=>q87
+::Like a lens of a scanner his eye passes over the Acorn, analyzing its every feature.:: It's going to stay here with me in Engineering. 
+
+::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
+
+=>a88_original
+::[Intelligence]:: Tanner?<end>
+
+=>a88
+::[Intelligence]:: Tanner?<end>
+
+=>q89_original
+Tanner.<end>
+
+=>q89
+Tanner.<end>
+
+=>a90_original
+Tanner knew about the Acorn too?<end>
+
+=>a90
+Tanner knew about the Acorn too?<end>
+
+=>q91_original
+That I do not know. But if he knew, he wouldn't miss the opportunity to take it with him. If he didn't, which I think is the less likely case of the two, he would've quickly realized its value. 
+
+As you've learned yourself, he is not to be underestimated.<end>
+
+=>q91
+That I do not know. But if he knew, he wouldn't miss the opportunity to take it with him. If he didn't, which I think is the less likely case of the two, he would've quickly realized its value. 
+
+As you've learned yourself, he is not to be underestimated.<end>
+
+=>a92_original
+I'd like to know more about the Acorn.<end>
+
+=>a92
+I'd like to know more about the Acorn.<end>
+
+=>q93_original
+::He nods.:: Certainly.<end>
+
+=>q93
+::He nods.:: Certainly.<end>
+
+=>q94_original
+<end>
+
+=>q94
+<end>
+
+=>a95_original
+What does the Acorn do exactly?<end>
+
+=>a95
+What does the Acorn do exactly?<end>
+
+=>q96_original
+It creates whatever it's been instructed to create, all on its own.<end>
+
+=>q96
+It creates whatever it's been instructed to create, all on its own.<end>
+
+=>a97_original
+Can you describe how it works?<end>
+
+=>a97
+Can you describe how it works?<end>
+
+=>q98_original
+Do not ask for details; I don't know them. But I have learned the basics of how the Acorn functions: At its core is an artificial intelligence that controls billions and billions of nanobots which it has at its disposal. Its purpose is to create, and what that is is defined by a preloaded blueprint.
+
+At this point there is something that needs to be said: There is more than one Acorn. Each one is made to build a specific thing, and then they are distributed, waiting for the moment of their activation, protected by as yet undefeated quantum near-field locks.<end>
+
+=>q98
+Do not ask for details; I don't know them. But I have learned the basics of how the Acorn functions: At its core is an artificial intelligence that controls billions and billions of nanobots which it has at its disposal. Its purpose is to create, and what that is is defined by a preloaded blueprint.
+
+At this point there is something that needs to be said: There is more than one Acorn. Each one is made to build a specific thing, and then they are distributed, waiting for the moment of their activation, protected by as yet undefeated quantum near-field locks.<end>
+
+=>q99_original
+Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
+
+Because within the Acorn there exists a mind that can realize.<end>
+
+=>q99
+Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
+
+Because within the Acorn there exists a mind that can realize.<end>
+
+=>q100_original
+Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
+
+=>q100
+Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
+
+=>q101_original
+But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
+
+It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
+
+=>q101
+But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
+
+It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
+
+=>q102_original
+It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
+
+=>q102
+It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
+
+=>a103_original
+Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
+
+=>a103
+Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
+
+=>q104_original
+They did *make* them, build them. But the idea, the design - the concept: To the minds of New Frontier Technology that is *inconceivable*. To Biocorp... I'd dare say even more so. The artificial intelligence employed by the Acorn is far too advanced, even for the likes of Bionic Institute... ::He pauses.:: And the nanotechnology...<end>
+
+=>q104
+They did *make* them, build them. But the idea, the design - the concept: To the minds of New Frontier Technology that is *inconceivable*. To Biocorp... I'd dare say even more so. The artificial intelligence employed by the Acorn is far too advanced, even for the likes of Bionic Institute... ::He pauses.:: And the nanotechnology...<end>
+
+=>a105_original
+Bionic Institute?<end>
+
+=>a105
+Bionic Institute?<end>
+
+=>q106_original
+A supercorporation from the past. But in this discussion unimportant.<end>
+
+=>q106
+A supercorporation from the past. But in this discussion unimportant.<end>
+
+=>q107_original
+::He continues after a pause.:: No... the technology of the Acorn comes from different minds. But whose? That I'd rather not speculate.<end>
+
+=>q107
+::He continues after a pause.:: No... the technology of the Acorn comes from different minds. But whose? That I'd rather not speculate.<end>
+
+=>a108_original
+Where could the other ones be?<end>
+
+=>a108
+Where could the other ones be?<end>
+
+=>q109_original
+Biocorp had one, at least one confirmed. Knowing the history between the two supercorporations I always wondered whether it was stolen from New Frontier Technologies.<end>
+
+=>q109
+Biocorp had one, at least one confirmed. Knowing the history between the two supercorporations I always wondered whether it was stolen from New Frontier Technologies.<end>
+
+=>q110_original
+But then again, the relations between supercorporations were fickle, impermanent. It is known that New Frontier Technologies manufactured units for other supercorporations, so Biocorp may have been one of those. 
+
+There aren't many Acorns out there, that is for certain, but they are probably still out there.<end>
+
+=>q110
+But then again, the relations between supercorporations were fickle, impermanent. It is known that New Frontier Technologies manufactured units for other supercorporations, so Biocorp may have been one of those. 
+
+There aren't many Acorns out there, that is for certain, but they are probably still out there.<end>
+
+=>a111_original
+What's going to happen with the Acorn now?<end>
+
+=>a111
+What's going to happen with the Acorn now?<end>
+
+=>q112_original
+Without the coded signal it is unusable. We can scan it, study it - see what we can extrapolate from observation and measurement. But the signal, that is the only key we know of.<end>
+
+=>q112
+Without the coded signal it is unusable. We can scan it, study it - see what we can extrapolate from observation and measurement. But the signal, that is the only key we know of.<end>
+
+=>a113_original
+What would happen if you tried forcing it open?<end>
+
+=>a113
+What would happen if you tried forcing it open?<end>
+
+=>q114_original
+It would destroy itself. Did you really think the creators of a technology so advanced would allow themselves such an oversight?<end>
+
+=>q114
+It would destroy itself. Did you really think the creators of a technology so advanced would allow themselves such an oversight?<end>
+
+=>q115_original
+It would destroy itself. And maybe the whole station alongside it.<end>
+
+=>q115
+It would destroy itself. And maybe the whole station alongside it.<end>
+
+=>a116_original
+How do you know all of this?<end>
+
+=>a116
+How do you know all of this?<end>
+
+=>q117_original
+I've learned a lot during my lifetime.<end>
+
+=>q117
+I've learned a lot during my lifetime.<end>
+
+=>q118_original
+Acorn being one of those things. ::He ends his sentence with a piercing stare.::<end>
+
+=>q118
+Acorn being one of those things. ::He ends his sentence with a piercing stare.::<end>
+
+=>a119_original
+Let's talk about something else.<end>
+
+=>a119
+Let's talk about something else.<end>
+
+=>a120_original
+I wanted to talk to you about something unrelated to this.<end>
+
+=>a120
+I wanted to talk to you about something unrelated to this.<end>
+
+=>a121_original
+Why is that?<end>
+
+=>a121
+Why is that?<end>
+
+=>a122_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a122
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>q123_original
+And you have a sum in mind...<end>
+
+=>q123
+And you have a sum in mind...<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>a125_original
+::[Mercantile]:: Eighteen thousand credits.<end>
+
+=>a125
+::[Mercantile]:: Eighteen thousand credits.<end>
+
+=>q126_original
+<end>
+
+=>q126
+<end>
+
+=>q127_original
+::He nods.:: Done.<end>
+
+=>q127
+::He nods.:: Done.<end>
+
+=>q128_original
+::After counting and handing you a hefty sum of SGS credits, he takes the Acorn.:: <end>
+
+=>q128
+::After counting and handing you a hefty sum of SGS credits, he takes the Acorn.:: <end>
+
+=>q129_original
+You and I know the Acorn's worth, but the other council members do not. They will never allow such kind of money to be spent on it.<end>
+
+=>q129
+You and I know the Acorn's worth, but the other council members do not. They will never allow such kind of money to be spent on it.<end>
+
+=>a130_original
+::[Mercantile]:: Fifteen thousand credits.<end>
+
+=>a130
+::[Mercantile]:: Fifteen thousand credits.<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>a132_original
+::[Mercantile]:: Twelve thousand credits.<end>
+
+=>a132
+::[Mercantile]:: Twelve thousand credits.<end>
+
+=>q133_original
+<end>
+
+=>q133
+<end>
+
+=>a134_original
+::[Mercantile]:: Nine thousand credits.<end>
+
+=>a134
+::[Mercantile]:: Nine thousand credits.<end>
+
+=>q135_original
+<end>
+
+=>q135
+<end>
+
+=>a136_original
+Six thousand credits.<end>
+
+=>a136
+Six thousand credits.<end>
+
+=>a137_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a137
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a138_original
+I don't know how.<end>
+
+=>a138
+I don't know how.<end>
+
+=>a139_original
+I haven't found a way to open it yet. I thought someone else would know more.<end>
+
+=>a139
+I haven't found a way to open it yet. I thought someone else would know more.<end>
+
+=>a140_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a140
+Not yet, but I'm working on obtaining it.<end>
+
+=>q141_original
+I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
+
+=>q141
+I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
+
+=>a142_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a142
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a143_original
+I learned about it during a trip to the Black Sea.<end>
+
+=>a143
+I learned about it during a trip to the Black Sea.<end>
+
+=>q144_original
+Black Sea? Makes sense. <end>
+
+=>q144
+Black Sea? Makes sense. <end>
+
+=>a145_original
+I learned about it during an expedition to the Black Sea.<end>
+
+=>a145
+I learned about it during an expedition to the Black Sea.<end>
+
+=>a146_original
+Underrail holds many secrets, but they're not secret enough for me.<end>
+
+=>a146
+Underrail holds many secrets, but they're not secret enough for me.<end>
+
+=>q147_original
+even know about it is a rare thing, to say the least.<end>
+
+=>q147
+even know about it is a rare thing, to say the least.<end>
+
+=>a148_original
+All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
+
+=>a148
+All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
+
+=>q149_original
+Surface. <end>
+
+=>q149
+Surface. <end>
+
+=>a150_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
+
+=>a150
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
+
+=>q151_original
+::He continues staring.:: You seem to know a lot about this Acorn. <end>
+
+=>q151
+::He continues staring.:: You seem to know a lot about this Acorn. <end>
+
+=>q152_original
+A lot more than one would expect from someone like you.<end>
+
+=>q152
+A lot more than one would expect from someone like you.<end>
+
+=>q153_original
+You seem to know a lot about it. <end>
+
+=>q153
+You seem to know a lot about it. <end>
+
+=>a154_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a154
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a155_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a155
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a156_original
+Never mind, then. There was something else I wanted to ask you.<end>
+
+=>a156
+Never mind, then. There was something else I wanted to ask you.<end>
+
+=>q157_original
+::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
+
+=>q157
+::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
+
+=>a158_original
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a158
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a159_original
+How does the device you gave me exactly work?<end>
+
+=>a159
+How does the device you gave me exactly work?<end>
+
+=>q160_original
+The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
+
+=>q160
+The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
+
+=>q161_original
+It's complicated, but it should work if my calculations are right.<end>
+
+=>q161
+It's complicated, but it should work if my calculations are right.<end>
+
+=>a162_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a162
+What do you know about Patrick Pierce's death?<end>
+
+=>q163_original
+His death occured not too long ago, before you came to SGS, if I'm not mistaken. It's unusual.<end>
+
+=>q163
+His death occured not too long ago, before you came to SGS, if I'm not mistaken. It's unusual.<end>
+
+=>a164_original
+What do you mean by "unusual"?<end>
+
+=>a164
+What do you mean by "unusual"?<end>
+
+=>q165_original
+Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
+
+=>q165
+Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
+
+=>a166_original
+Can you tell me what he was like as a person?<end>
+
+=>a166
+Can you tell me what he was like as a person?<end>
+
+=>q167_original
+Patrick? Decent. Good in his field of work.<end>
+
+=>q167
+Patrick? Decent. Good in his field of work.<end>
+
+=>q168_original
+That's all I have to say.<end>
+
+=>q168
+That's all I have to say.<end>
+
+=>a169_original
+Could you take a look at this for me?<end>
+
+=>a169
+Could you take a look at this for me?<end>
+
+=>q170_original
+::Ezra looks at the restless creature, now at the apex of its aggravation. He focuses on it in silence, and as moments pass the creature becomes more and more calm; slowly but surely it reaches a point of complete tranquility and motionlessness, on account of which one could easily mistake it for being dead.::<end>
+
+=>q170
+::Ezra looks at the restless creature, now at the apex of its aggravation. He focuses on it in silence, and as moments pass the creature becomes more and more calm; slowly but surely it reaches a point of complete tranquility and motionlessness, on account of which one could easily mistake it for being dead.::<end>
+
+=>a171_original
+Ezra?<end>
+
+=>a171
+Ezra?<end>
+
+=>q172_original
+::He turns to you.:: Where did you find this creature?<end>
+
+=>q172
+::He turns to you.:: Where did you find this creature?<end>
+
+=>a173_original
+In a mine in Foundry. But I've also seen suspiciously similar creatures in Deep Caverns. I suspect they may be related.<end>
+
+=>a173
+In a mine in Foundry. But I've also seen suspiciously similar creatures in Deep Caverns. I suspect they may be related.<end>
+
+=>q174_original
+Interesting. And are there any other creatures living among or in close proximity to these?<end>
+
+=>q174
+Interesting. And are there any other creatures living among or in close proximity to these?<end>
+
+=>a175_original
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know. Again, similar thing in Deep Caverns, only that there I saw beings covered in mushrooms; they didn't look anything like the creatures in Foundry, but there are far too many odd similarities to ignore.<end>
+
+=>a175
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know. Again, similar thing in Deep Caverns, only that there I saw beings covered in mushrooms; they didn't look anything like the creatures in Foundry, but there are far too many odd similarities to ignore.<end>
+
+=>q176_original
+::He speaks, but more to himself than you.:: I see; another adaptation; it makes sense. 
+
+And you, why are you so interested in this subject?<end>
+
+=>q176
+::He speaks, but more to himself than you.:: I see; another adaptation; it makes sense. 
+
+And you, why are you so interested in this subject?<end>
+
+=>a177_original
+Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
+
+=>a177
+Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
+
+=>q178_original
+So you want to find a way to kill it. Very well. I understand everything now. 
+
+I'll tell you what you need to know.<end>
+
+=>q178
+So you want to find a way to kill it. Very well. I understand everything now. 
+
+I'll tell you what you need to know.<end>
+
+=>q179_original
+The creature you brought me is actually the larval form of the rock creature you described. As strange as that may seem, yes - these are their larvae. I've encountered them in the past - in different forms, though. Regardless, I can help you find this adaptation's weakness, but for that you will have to bring me some part of the creature to analyze. Try to bring me a piece of its shell or back blades if you can; if not, then bring whatever you are able to acquire.<end>
+
+=>q179
+The creature you brought me is actually the larval form of the rock creature you described. As strange as that may seem, yes - these are their larvae. I've encountered them in the past - in different forms, though. Regardless, I can help you find this adaptation's weakness, but for that you will have to bring me some part of the creature to analyze. Try to bring me a piece of its shell or back blades if you can; if not, then bring whatever you are able to acquire.<end>
+
+=>a180_original
+Come on, man, enough with the questions, just speak to me. You know something, and I want to know what you know.<end>
+
+=>a180
+Come on, man, enough with the questions, just speak to me. You know something, and I want to know what you know.<end>
+
+=>q181_original
+I told you once already, if you want my help, you will answer my questions. Why are you so interested in this subject?<end>
+
+=>q181
+I told you once already, if you want my help, you will answer my questions. Why are you so interested in this subject?<end>
+
+=>q182_original
+If you want my help, you will answer my questions. Now, why are you so interested in this subject?<end>
+
+=>q182
+If you want my help, you will answer my questions. Now, why are you so interested in this subject?<end>
+
+=>a183_original
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know.<end>
+
+=>a183
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know.<end>
+
+=>a184_original
+In a mine in Foundry.<end>
+
+=>a184
+In a mine in Foundry.<end>
+
+=>a185_original
+What do you care? I should be the one asking questions, not you.<end>
+
+=>a185
+What do you care? I should be the one asking questions, not you.<end>
+
+=>q186_original
+If you need my help, you'll tell me where you found it.<end>
+
+=>q186
+If you need my help, you'll tell me where you found it.<end>
+
+=>a187_original
+Are you there?<end>
+
+=>a187
+Are you there?<end>
+
+=>a188_original
+About the rock creatures...<end>
+
+=>a188
+About the rock creatures...<end>
+
+=>q189_original
+::He nods.::<end>
+
+=>q189
+::He nods.::<end>
+
+=>a190_original
+Are you blind, Ezra?<end>
+
+=>a190
+Are you blind, Ezra?<end>
+
+=>q191_original
+::Ezra raises his hand slowly and extends it towards you. He holds two of his fingers in front of your face for a moment, each pointing at one of your eyes, before retracting the hand.::<end>
+
+=>q191
+::Ezra raises his hand slowly and extends it towards you. He holds two of his fingers in front of your face for a moment, each pointing at one of your eyes, before retracting the hand.::<end>
+
+=>a192_original
+What is it exactly that you do here?<end>
+
+=>a192
+What is it exactly that you do here?<end>
+
+=>q193_original
+Me specifically, the cyber department or the engineering sector?<end>
+
+=>q193
+Me specifically, the cyber department or the engineering sector?<end>
+
+=>a194_original
+I meant you.<end>
+
+=>a194
+I meant you.<end>
+
+=>q195_original
+I make sure that all parts of the station's internal network are communicating properly and securely and that all the scripts are running as they should.<end>
+
+=>q195
+I make sure that all parts of the station's internal network are communicating properly and securely and that all the scripts are running as they should.<end>
+
+=>q196_original
+I also oversee all operations of the engineering sector.<end>
+
+=>q196
+I also oversee all operations of the engineering sector.<end>
+
+=>q197_original
+<end>
+
+=>q197
+<end>
+
+=>a198_original
+And what do you do specifically?<end>
+
+=>a198
+And what do you do specifically?<end>
+
+=>a199_original
+How about the cyber department?<end>
+
+=>a199
+How about the cyber department?<end>
+
+=>q200_original
+We maintain and improve the station's internal network. We write programs for all automated systems in the station.<end>
+
+=>q200
+We maintain and improve the station's internal network. We write programs for all automated systems in the station.<end>
+
+=>a201_original
+What does the engineering sector do in general?<end>
+
+=>a201
+What does the engineering sector do in general?<end>
+
+=>q202_original
+We construct, deconstruct, research, upgrade. Listing all the specific things we do would take too much of my time. Go around and talk to people working here. They might be willing to let you know the details of their projects.<end>
+
+=>q202
+We construct, deconstruct, research, upgrade. Listing all the specific things we do would take too much of my time. Go around and talk to people working here. They might be willing to let you know the details of their projects.<end>
+
+=>a203_original
+Let's talk about something else.<end>
+
+=>a203
+Let's talk about something else.<end>
+
+=>q204_original
+Such as?<end>
+
+=>q204
+Such as?<end>
+
+=>a205_original
+The cyber department.<end>
+
+=>a205
+The cyber department.<end>
+
+=>a206_original
+The engineering sector.<end>
+
+=>a206
+The engineering sector.<end>
+
+=>a207_original
+I hear you are a powerful mind controller. Is this true?<end>
+
+=>a207
+I hear you are a powerful mind controller. Is this true?<end>
+
+=>q208_original
+::Ezra remains silent and just stares at you.::<end>
+
+=>q208
+::Ezra remains silent and just stares at you.::<end>
+
+=>a209_original
+If this is true I'd like to learn from you.<end>
+
+=>a209
+If this is true I'd like to learn from you.<end>
+
+=>q210_original
+::He just keeps staring at you.::<end>
+
+=>q210
+::He just keeps staring at you.::<end>
+
+=>a211_original
+::Stare back at him.::<end>
+
+=>a211
+::Stare back at him.::<end>
+
+=>q212_original
+::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
+
+=>q212
+::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
+
+=>q213_original
+::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
+
+=>q213
+::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
+
+=>a214_original
+::[Will] Try to wrestle back the control of your body.::<end>
+
+=>a214
+::[Will] Try to wrestle back the control of your body.::<end>
+
+=>q215_original
+::You feel Ezra's surprise as you fight back and for a moment you are able to break his grip on you.::<end>
+
+=>q215
+::You feel Ezra's surprise as you fight back and for a moment you are able to break his grip on you.::<end>
+
+=>a216_original
+::Continue focusing and attempt to take control of him.::<end>
+
+=>a216
+::Continue focusing and attempt to take control of him.::<end>
+
+=>q217_original
+::You attempt to reach out for him with your mind, but the element of surprise is gone. Ezra's will wraps around you and crushes your consciousness.::<end>
+
+=>q217
+::You attempt to reach out for him with your mind, but the element of surprise is gone. Ezra's will wraps around you and crushes your consciousness.::<end>
+
+=>a218_original
+::Continue::<end>
+
+=>a218
+::Continue::<end>
+
+=>a219_original
+::Break off eye contact and attempt to disengage.::<end>
+
+=>a219
+::Break off eye contact and attempt to disengage.::<end>
+
+=>q220_original
+Your will is stronger than I expected, $(context.player.Name). Consider this your first lesson.<end>
+
+=>q220
+Your will is stronger than I expected, $(context.player.Name). Consider this your first lesson.<end>
+
+=>a221_original
+::Quickly reach for your weapon and attack before he can take control again.::<end>
+
+=>a221
+::Quickly reach for your weapon and attack before he can take control again.::<end>
+
+=>q222_original
+::You try to fight the intrusion, but Ezra's will is too strong. ::<end>
+
+=>q222
+::You try to fight the intrusion, but Ezra's will is too strong. ::<end>
+
+=>q223_original
+::You stand there for a few moments, held like a prisoner in your own body, and then the world disappears.::<end>
+
+=>q223
+::You stand there for a few moments, held like a prisoner in your own body, and then the world disappears.::<end>
+
+=>a224_original
+::Continue::<end>
+
+=>a224
+::Continue::<end>
+
+=>a225_original
+::Give in and let Ezra take over.::<end>
+
+=>a225
+::Give in and let Ezra take over.::<end>
+
+=>a226_original
+This is pointless. ::Leave.::<end>
+
+=>a226
+This is pointless. ::Leave.::<end>
+
+=>a227_original
+Forget I asked.<end>
+
+=>a227
+Forget I asked.<end>
+
+=>a228_original
+What did you do to me? Where's my stuff?<end>
+
+=>a228
+What did you do to me? Where's my stuff?<end>
+
+=>q229_original
+Only what you wanted. Consider that first lesson free of charge.<end>
+
+=>q229
+Only what you wanted. Consider that first lesson free of charge.<end>
+
+=>q230_original
+
+
+Your belongings are in the footlocker next to my desk.<end>
+
+=>q230
+
+
+Your belongings are in the footlocker next to my desk.<end>
+
+=>a231_original
+What did you do to me?<end>
+
+=>a231
+What did you do to me?<end>
+
+=>a232_original
+I want to learn more psi abilities.<end>
+
+=>a232
+I want to learn more psi abilities.<end>
+
+=>q233_original
+I can teach you how to short-circuit the brains of others, instill fear in them or break their minds.<end>
+
+=>q233
+I can teach you how to short-circuit the brains of others, instill fear in them or break their minds.<end>
+
+=>q234_original
+<end>
+
+=>q234
+<end>
+
+=>a235_original
+I want to learn how to scare others. ::[Requires: Thought Control 30]::<end>
+
+=>a235
+I want to learn how to scare others. ::[Requires: Thought Control 30]::<end>
+
+=>q236_original
+Very well. This will cost you 100 credits.<end>
+
+=>q236
+Very well. This will cost you 100 credits.<end>
+
+=>a237_original
+Agreed. Here you go.<end>
+
+=>a237
+Agreed. Here you go.<end>
+
+=>q238_original
+Let us begin then...<end>
+
+=>q238
+Let us begin then...<end>
+
+=>a239_original
+::Continue::<end>
+
+=>a239
+::Continue::<end>
+
+=>a240_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a240
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a241_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a241
+On second thought, I'd rather spend my money on something else.<end>
+
+=>q242_original
+And what is that?<end>
+
+=>q242
+And what is that?<end>
+
+=>q243_original
+You are not ready for that yet.<end>
+
+=>q243
+You are not ready for that yet.<end>
+
+=>a244_original
+I want to learn how to break their minds. ::[Requires: Thought Control 45]::<end>
+
+=>a244
+I want to learn how to break their minds. ::[Requires: Thought Control 45]::<end>
+
+=>q245_original
+Very well. This will cost you 250 credits.<end>
+
+=>q245
+Very well. This will cost you 250 credits.<end>
+
+=>a246_original
+Agreed. Here you go.<end>
+
+=>a246
+Agreed. Here you go.<end>
+
+=>q247_original
+Let us begin then...<end>
+
+=>q247
+Let us begin then...<end>
+
+=>a248_original
+::Continue::<end>
+
+=>a248
+::Continue::<end>
+
+=>a249_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a249
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a250_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a250
+On second thought, I'd rather spend my money on something else.<end>
+
+=>q251_original
+You are not ready for that yet.<end>
+
+=>q251
+You are not ready for that yet.<end>
+
+=>a252_original
+Never mind. Let me ask you something else.<end>
+
+=>a252
+Never mind. Let me ask you something else.<end>
+
+=>q253_original
+Yes?<end>
+
+=>q253
+Yes?<end>
+
+=>a254_original
+Do you know what this is? ::Show him the damaged necklace.::<end>
+
+=>a254
+Do you know what this is? ::Show him the damaged necklace.::<end>
+
+=>q255_original
+::Ezra watches the necklace silently for a moment.:: It's a broken tracker-emitter necklace, one of a pair.<end>
+
+=>q255
+::Ezra watches the necklace silently for a moment.:: It's a broken tracker-emitter necklace, one of a pair.<end>
+
+=>q256_original
+Its cross shaped shield is made of medium carbon steel. The lower section houses the emitter while the horizontal segment holds the receiver. It's decorated with painted pieces for bone and chitinous carapace. The amulet is made of silver plated mild steel.<end>
+
+=>q256
+Its cross shaped shield is made of medium carbon steel. The lower section houses the emitter while the horizontal segment holds the receiver. It's decorated with painted pieces for bone and chitinous carapace. The amulet is made of silver plated mild steel.<end>
+
+=>q257_original
+<end>
+
+=>q257
+<end>
+
+=>a258_original
+You can tell all that just from looking at it?<end>
+
+=>a258
+You can tell all that just from looking at it?<end>
+
+=>q259_original
+No, I can tell all that because I made it.<end>
+
+=>q259
+No, I can tell all that because I made it.<end>
+
+=>q260_original
+I could even make a guess as to where you found it, but that is not my concern. If you want to know more about the necklace, you should speak with Arlene in the commons.<end>
+
+=>q260
+I could even make a guess as to where you found it, but that is not my concern. If you want to know more about the necklace, you should speak with Arlene in the commons.<end>
+
+=>a261_original
+Can you repair it?<end>
+
+=>a261
+Can you repair it?<end>
+
+=>q262_original
+No.<end>
+
+=>q262
+No.<end>
+
+=>a263_original
+You sure?<end>
+
+=>a263
+You sure?<end>
+
+=>q264_original
+Yes.<end>
+
+=>q264
+Yes.<end>
+
+=>a265_original
+Alright.<end>
+
+=>a265
+Alright.<end>
+
+=>a266_original
+I've got to get going.<end>
+
+=>a266
+I've got to get going.<end>
+
+=>a267_original
+About this necklace...<end>
+
+=>a267
+About this necklace...<end>
+
+=>q268_original
+What about it?<end>
+
+=>q268
+What about it?<end>
+
+=>a269_original
+About the Acorn...<end>
+
+=>a269
+About the Acorn...<end>
+
+=>q270_original
+::He nods.::<end>
+
+=>q270
+::He nods.::<end>
+
+=>a271_original
+Do you know a man called Wyatt Pear?<end>
+
+=>a271
+Do you know a man called Wyatt Pear?<end>
+
+=>q272_original
+::His eye stares at you, but reveals nothing.::
+
+No.<end>
+
+=>q272
+::His eye stares at you, but reveals nothing.::
+
+No.<end>
+
+=>a273_original
+Interesting. Cause he told me he was visited by two men many years ago in Old Junkyard - one of which looked very much like yourself, Ezra, based on his description. It was around the time of that mutagen disaster.<end>
+
+=>a273
+Interesting. Cause he told me he was visited by two men many years ago in Old Junkyard - one of which looked very much like yourself, Ezra, based on his description. It was around the time of that mutagen disaster.<end>
+
+=>q274_original
+You are speaking to the wrong man, $(context.player.Name). I suggest you seek that *doppelganger* of mine and continue this conversation with him, because I can't help you.<end>
+
+=>q274
+You are speaking to the wrong man, $(context.player.Name). I suggest you seek that *doppelganger* of mine and continue this conversation with him, because I can't help you.<end>
+
+=>q275_original
+Was that all you wanted to ask me?<end>
+
+=>q275
+Was that all you wanted to ask me?<end>
+
+=>a276_original
+He lives in Old Junkyard. I got the impression you two know each other from way back. He described you fairly accurately. You sure you don't know him? <end>
+
+=>a276
+He lives in Old Junkyard. I got the impression you two know each other from way back. He described you fairly accurately. You sure you don't know him? <end>
+
+=>q277_original
+I don't know him.<end>
+
+=>q277
+I don't know him.<end>
+
+=>a278_original
+Never mind, forget I said anything. I had other questions.<end>
+
+=>a278
+Never mind, forget I said anything. I had other questions.<end>
+
+=>q279_original
+::Ezra remains silent.::<end>
+
+=>q279
+::Ezra remains silent.::<end>
+
+=>a280_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a280
+What are your thoughts on the Faceless invasion?<end>
+
+=>q281_original
+It is hard to determine motivations of their kind. People will be getting hysterical in fear, thinking that the Faceless have come to conquer or destroy our civilization.<end>
+
+=>q281
+It is hard to determine motivations of their kind. People will be getting hysterical in fear, thinking that the Faceless have come to conquer or destroy our civilization.<end>
+
+=>q282_original
+While in truth, the nature of this conflict is probably much less serious. The Core poked their sticky fingers a bit too deep underground and is about to lose an arm for it.<end>
+
+=>q282
+While in truth, the nature of this conflict is probably much less serious. The Core poked their sticky fingers a bit too deep underground and is about to lose an arm for it.<end>
+
+=>a283_original
+See you later.<end>
+
+=>a283
+See you later.<end>
+
+=>a284_original
+You mentioned something about adaptation. What did you mean, precisely?<end>
+
+=>a284
+You mentioned something about adaptation. What did you mean, precisely?<end>
+
+=>q285_original
+You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
+
+=>q285
+You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
+
+=>a286_original
+Are they not, by any chance, called psimorphs?<end>
+
+=>a286
+Are they not, by any chance, called psimorphs?<end>
+
+=>q287_original
+::His answer is usually unemotional, despite the fact that naming the creatures should provoke some kind of reaction. But no, his response is as flat as an ironed shirt.:: Yes. <end>
+
+=>q287
+::His answer is usually unemotional, despite the fact that naming the creatures should provoke some kind of reaction. But no, his response is as flat as an ironed shirt.:: Yes. <end>
+
+=>q288_original
+Psi-enhanced polymorphic organisms, or psimorphs, for short.<end>
+
+=>q288
+Psi-enhanced polymorphic organisms, or psimorphs, for short.<end>
+
+=>a289_original
+Do you know what these creatures are called?<end>
+
+=>a289
+Do you know what these creatures are called?<end>
+
+=>a290_original
+I'll get going.<end>
+
+=>a290
+I'll get going.<end>
+
+=>q291_original
+::He nods and returns to his work.::<end>
+
+=>q291
+::He nods and returns to his work.::<end>
+
+=>a292_original
+Yes?<end>
+
+=>a292
+Yes?<end>
+
+=>q293_original
+Vera wants to see you urgently, $(context.player.Name). Talk to her first, then we'll talk later.<end>
+
+=>q293
+Vera wants to see you urgently, $(context.player.Name). Talk to her first, then we'll talk later.<end>
+
+=>q294_original
+::He returns with the gift he promised.::
+
+Here it is. Try your best not to disturb the larva within the device too much. You need it to be alive for the device to function properly.<end>
+
+=>q294
+::He returns with the gift he promised.::
+
+Here it is. Try your best not to disturb the larva within the device too much. You need it to be alive for the device to function properly.<end>
+
+=>q295_original
+::Ezra looks at you with his one good eye and speaks in his usual calm and even fashion.::
+
+Have you spoken to Vera?<end>
+
+=>q295
+::Ezra looks at you with his one good eye and speaks in his usual calm and even fashion.::
+
+Have you spoken to Vera?<end>
+
+=>a296_original
+Yes.<end>
+
+=>a296
+Yes.<end>
+
+=>q297_original
+::Ezra presents the keycard to Tanner's room.::
+
+Follow me.<end>
+
+=>q297
+::Ezra presents the keycard to Tanner's room.::
+
+Follow me.<end>
+
+=>a298_original
+::Follow Ezra.::<end>
+
+=>a298
+::Follow Ezra.::<end>
+
+=>a299_original
+That is why I'm here. I am ready to go to Tanner's room.<end>
+
+=>a299
+That is why I'm here. I am ready to go to Tanner's room.<end>
+
+=>q300_original
+::He observes you somewhat more purposefully than usual.::
+
+Yes?<end>
+
+=>q300
+::He observes you somewhat more purposefully than usual.::
+
+Yes?<end>
+
+=>q301_original
+I have some new equipment, if you are interested.<end>
+
+=>q301
+I have some new equipment, if you are interested.<end>
+
+=>q302_original
+Harold seems pleased with that battery data you gave him. ::He nods.:: Very good.<end>
+
+=>q302
+Harold seems pleased with that battery data you gave him. ::He nods.:: Very good.<end>
+
+=>q303_original
+$(context.player.Name).<end>
+
+=>q303
+$(context.player.Name).<end>
+
+=>q304_original
+::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
+
+=>q304
+::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
+
+=>q305_original
+::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
+
+=>q305
+::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
+

@@ -1,90 +1,90 @@
-=>q1_original
-::Subject Name: B-004
-
-Age: 6
-
-Gender: Male
-
-Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
-
-Vital Status: Deceased::<end>
-
-=>q1
-::Subject Name: B-004
-
-Age: 6
-
-Gender: Male
-
-Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
-
-Vital Status: Deceased::<end>
-
-=>a2_original
-::Exit::<end>
-
-=>a2
-::Exit::<end>
-
-=>q3_original
-::Subject Name: B-004
-
-Age: 6
-
-Gender: Male
-
-Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
-
-Vital Status: Severe::<end>
-
-=>q3
-::Subject Name: B-004
-
-Age: 6
-
-Gender: Male
-
-Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
-
-Vital Status: Severe::<end>
-
-=>a4_original
-::Disable life support::<end>
-
-=>a4
-::Disable life support::<end>
-
-=>q5_original
-::Are you sure you want to disable life support?::<end>
-
-=>q5
-::Are you sure you want to disable life support?::<end>
-
-=>a6_original
-::Yes::<end>
-
-=>a6
-::Yes::<end>
-
-=>q7_original
-::Life support disabled::<end>
-
-=>q7
-::Life support disabled::<end>
-
-=>q8_original
-::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
-
-Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
-
-=>q8
-::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
-
-Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
-
-=>a9_original
-::No::<end>
-
-=>a9
-::No::<end>
-
+=>q1_original
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Deceased::<end>
+
+=>q1
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Deceased::<end>
+
+=>a2_original
+::Exit::<end>
+
+=>a2
+::Exit::<end>
+
+=>q3_original
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Severe::<end>
+
+=>q3
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Severe::<end>
+
+=>a4_original
+::Disable life support::<end>
+
+=>a4
+::Disable life support::<end>
+
+=>q5_original
+::Are you sure you want to disable life support?::<end>
+
+=>q5
+::Are you sure you want to disable life support?::<end>
+
+=>a6_original
+::Yes::<end>
+
+=>a6
+::Yes::<end>
+
+=>q7_original
+::Life support disabled::<end>
+
+=>q7
+::Life support disabled::<end>
+
+=>q8_original
+::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
+
+Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
+
+=>q8
+::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
+
+Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
+
+=>a9_original
+::No::<end>
+
+=>a9
+::No::<end>
+

@@ -1,762 +1,762 @@
-=>q1_original
-::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
-
-=>q1
-::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
-
-=>a2_original
-Excuse me, um, are you a doctor?<end>
-
-=>a2
-Excuse me, um, are you a doctor?<end>
-
-=>q3_original
-::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
-
-=>q3
-::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>q5_original
-Rib fracture?<end>
-
-=>q5
-Rib fracture?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Could you take a look at my injuries?<end>
-
-=>a7
-Could you take a look at my injuries?<end>
-
-=>q8_original
-Let's see now. ::She inspects you carefully.:: I can treat you with an invasive and excruciatingly painful procedure which will cost you ten charons! And not a charon more! Not a charon more!<end>
-
-=>q8
-Let's see now. ::She inspects you carefully.:: I can treat you with an invasive and excruciatingly painful procedure which will cost you ten charons! And not a charon more! Not a charon more!<end>
-
-=>a9_original
-Here you go, doc. ::Give her 10 stygian coins.::<end>
-
-=>a9
-Here you go, doc. ::Give her 10 stygian coins.::<end>
-
-=>q10_original
-Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
-
-=>q10
-Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
-
-=>a11_original
-::Let her heal you.::<end>
-
-=>a11
-::Let her heal you.::<end>
-
-=>a12_original
-I'm suddenly feeling really good. As a matter of fact, I think I'm in the best shape of my life!<end>
-
-=>a12
-I'm suddenly feeling really good. As a matter of fact, I think I'm in the best shape of my life!<end>
-
-=>q13_original
-Ah yes, many people suddenly recover just as I'm about to perform my invasive and excruciatingly painful procedure. Strange...<end>
-
-=>q13
-Ah yes, many people suddenly recover just as I'm about to perform my invasive and excruciatingly painful procedure. Strange...<end>
-
-=>a14_original
-I don't have the coins right now.<end>
-
-=>a14
-I don't have the coins right now.<end>
-
-=>q15_original
-Then I can't help you by performing an invasive and excruciatingly painful procedure. No, I can't! I can't! ::She cackles.::<end>
-
-=>q15
-Then I can't help you by performing an invasive and excruciatingly painful procedure. No, I can't! I can't! ::She cackles.::<end>
-
-=>q16_original
-That'll cost you ten charons and a lot of tears.<end>
-
-=>q16
-That'll cost you ten charons and a lot of tears.<end>
-
-=>a17_original
-Do you have anything to trade? ::Barter.::<end>
-
-=>a17
-Do you have anything to trade? ::Barter.::<end>
-
-=>a18_original
-What happened to the man staying here for treatment?<end>
-
-=>a18
-What happened to the man staying here for treatment?<end>
-
-=>q19_original
-I'm not allowed to say anything about that criminal.<end>
-
-=>q19
-I'm not allowed to say anything about that criminal.<end>
-
-=>q20_original
-But when he recovers, he's going back to the slammer! ::She cackles.::<end>
-
-=>q20
-But when he recovers, he's going back to the slammer! ::She cackles.::<end>
-
-=>a21_original
-This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
-
-=>a21
-This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
-
-=>q22_original
-Surgery? ::She gestures a slash with her scalpel.::
-
-No...
-
-No, no, I don't remember.<end>
-
-=>q22
-Surgery? ::She gestures a slash with her scalpel.::
-
-No...
-
-No, no, I don't remember.<end>
-
-=>q23_original
-Memories are a fleeting thing, though...<end>
-
-=>q23
-Memories are a fleeting thing, though...<end>
-
-=>a24_original
-I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
-
-=>a24
-I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
-
-=>q25_original
-Spectres? Spectres? Hmmm... That sounds awfully familiar...<end>
-
-=>q25
-Spectres? Spectres? Hmmm... That sounds awfully familiar...<end>
-
-=>q26_original
-It's like I heard someone talk about that before. But no, I can't help you. No, I can't!<end>
-
-=>q26
-It's like I heard someone talk about that before. But no, I can't help you. No, I can't!<end>
-
-=>a27_original
-I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
-
-=>a27
-I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
-
-=>q28_original
-::She cackles.:: Never heard of him. Never!<end>
-
-=>q28
-::She cackles.:: Never heard of him. Never!<end>
-
-=>q29_original
-Maybe you should go straight to Praetorian Security and ask them.<end>
-
-=>q29
-Maybe you should go straight to Praetorian Security and ask them.<end>
-
-=>a30_original
-I'd like to have a certain substance tested.<end>
-
-=>a30
-I'd like to have a certain substance tested.<end>
-
-=>q31_original
-Oh, but I can't help you with that. No, I can't! I don't have any lab equipment here.<end>
-
-=>q31
-Oh, but I can't help you with that. No, I can't! I don't have any lab equipment here.<end>
-
-=>a32_original
-Well, do you know someone who has?<end>
-
-=>a32
-Well, do you know someone who has?<end>
-
-=>q33_original
-What is it you want to test, anyway?<end>
-
-=>q33
-What is it you want to test, anyway?<end>
-
-=>a34_original
-Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
-
-=>a34
-Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
-
-=>q35_original
-Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
-
-=>q35
-Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
-
-=>q36_original
-You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
-
-=>q36
-You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
-
-=>a37_original
-It's not important.<end>
-
-=>a37
-It's not important.<end>
-
-=>q38_original
-No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
-
-=>q38
-No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
-
-=>a39_original
-Sorry for the bother. See you around.<end>
-
-=>a39
-Sorry for the bother. See you around.<end>
-
-=>q40_original
-::She cackles.:: Bye!<end>
-
-=>q40
-::She cackles.:: Bye!<end>
-
-=>a41_original
-I'd like to ask you some questions about the city.<end>
-
-=>a41
-I'd like to ask you some questions about the city.<end>
-
-=>q42_original
-Ask away. Away! ::She cackles.::<end>
-
-=>q42
-Ask away. Away! ::She cackles.::<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-What can you tell me about Drop Zone?<end>
-
-=>a44
-What can you tell me about Drop Zone?<end>
-
-=>q45_original
-::She cackles.:: If you're really bent on going there, you better be careful. The zoners might seem poor, underfed and weak, and they mostly are. But one never knows what lurks in...<end>
-
-=>q45
-::She cackles.:: If you're really bent on going there, you better be careful. The zoners might seem poor, underfed and weak, and they mostly are. But one never knows what lurks in...<end>
-
-=>q46_original
-The Drop Zone! ::She cackles.::<end>
-
-=>q46
-The Drop Zone! ::She cackles.::<end>
-
-=>a47_original
-What can you tell me about the Arena?<end>
-
-=>a47
-What can you tell me about the Arena?<end>
-
-=>q48_original
-Oh, interested in the Arena, I see? No wonder, so many visitors come to Core City - only for the Arena! The thirst for blood feeds our economy, it does. Gladiators fight men and beasts for our entertainment and we throw money for more. For more!<end>
-
-=>q48
-Oh, interested in the Arena, I see? No wonder, so many visitors come to Core City - only for the Arena! The thirst for blood feeds our economy, it does. Gladiators fight men and beasts for our entertainment and we throw money for more. For more!<end>
-
-=>q49_original
-Well, I watch it for professional reasons: Gladiators find new ways to injure each other - to entertain the crowd, of course - and that rings true especially for psionics! Psionics! Oh, yes, yes, yes, they are capable of doing some horrible stuff to their less skilled and arguably less lucky adversaries. I study their techniques in an attempt to develop new ways to treat such injuries! Develop and apply!<end>
-
-=>q49
-Well, I watch it for professional reasons: Gladiators find new ways to injure each other - to entertain the crowd, of course - and that rings true especially for psionics! Psionics! Oh, yes, yes, yes, they are capable of doing some horrible stuff to their less skilled and arguably less lucky adversaries. I study their techniques in an attempt to develop new ways to treat such injuries! Develop and apply!<end>
-
-=>q50_original
-Now, now... I know what you might be saying: What's the point of learning how to treat such injuries when the losers don't survive the matches at all!? But remember, remember - psionics are not only present in the Arena. Lunatics - they are spreading like a plague, and their, dare I say, derailed minds can come up with unimaginable and awful ways to hurt their victims. Yes!
-
-That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
-
-=>q50
-Now, now... I know what you might be saying: What's the point of learning how to treat such injuries when the losers don't survive the matches at all!? But remember, remember - psionics are not only present in the Arena. Lunatics - they are spreading like a plague, and their, dare I say, derailed minds can come up with unimaginable and awful ways to hurt their victims. Yes!
-
-That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
-
-=>a51_original
-What can you tell me about the Gauntlet?<end>
-
-=>a51
-What can you tell me about the Gauntlet?<end>
-
-=>q52_original
-The Oligarchs came up with a new sport! A new sport! Runner... ::She cackles.:: Runners run through dangerous rooms for our entertainment. Sometimes they die, but do you see people cry? They don't cry! They laugh and cheer! ::She cackles.::<end>
-
-=>q52
-The Oligarchs came up with a new sport! A new sport! Runner... ::She cackles.:: Runners run through dangerous rooms for our entertainment. Sometimes they die, but do you see people cry? They don't cry! They laugh and cheer! ::She cackles.::<end>
-
-=>q53_original
-Only those that are very skilled can apply, to entertain the crowd before they die! ::She cackles.:: I also come up with rhymes when I operate on people! It's fun! It is fun!<end>
-
-=>q53
-Only those that are very skilled can apply, to entertain the crowd before they die! ::She cackles.:: I also come up with rhymes when I operate on people! It's fun! It is fun!<end>
-
-=>a54_original
-What can you tell me about the Oligarchy?<end>
-
-=>a54
-What can you tell me about the Oligarchy?<end>
-
-=>q55_original
-No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
-
-=>q55
-No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
-
-=>q56_original
-Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
-
-=>q56
-Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
-
-=>a57_original
-What can you tell me about Coretech?<end>
-
-=>a57
-What can you tell me about Coretech?<end>
-
-=>q58_original
-Moretech! Hey, I like that! ::She cackles.:: It describes them perfectly... but why haven't they named themselves like that? Why not? <end>
-
-=>q58
-Moretech! Hey, I like that! ::She cackles.:: It describes them perfectly... but why haven't they named themselves like that? Why not? <end>
-
-=>q59_original
-This needs to be investigated!<end>
-
-=>q59
-This needs to be investigated!<end>
-
-=>a60_original
-What can you tell me about JKK?<end>
-
-=>a60
-What can you tell me about JKK?<end>
-
-=>q61_original
-JKK was founded by Gunnar Edstrom. He is one of the Oligarchs - he knows everything. Everything! They broadcast the Arena throughout Underrail to quench the bloodthirst of those who can't see it in person. But there is more to JKK, there is more! ::She cackles.::<end>
-
-=>q61
-JKK was founded by Gunnar Edstrom. He is one of the Oligarchs - he knows everything. Everything! They broadcast the Arena throughout Underrail to quench the bloodthirst of those who can't see it in person. But there is more to JKK, there is more! ::She cackles.::<end>
-
-=>q62_original
-Think! Think! Think! Think!<end>
-
-=>q62
-Think! Think! Think! Think!<end>
-
-=>a63_original
-What can you tell me about Praetorian Security?<end>
-
-=>a63
-What can you tell me about Praetorian Security?<end>
-
-=>q64_original
-My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
-
-=>q64
-My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
-
-=>q65_original
-He... He was brave.<end>
-
-=>q65
-He... He was brave.<end>
-
-=>a66_original
-What can you tell me about Hardcore City Bar?<end>
-
-=>a66
-What can you tell me about Hardcore City Bar?<end>
-
-=>q67_original
-Ooh, that's a good question! A good one! Let's think about this together. Decompose the name. Hardcore? It is. It is! City? Well, it is in a city. Core City! Bar?<end>
-
-=>q67
-Ooh, that's a good question! A good one! Let's think about this together. Decompose the name. Hardcore? It is. It is! City? Well, it is in a city. Core City! Bar?<end>
-
-=>q68_original
-Bar! So, in conclusion, it is what it is! A hardcore city bar! ::She cackles.::<end>
-
-=>q68
-Bar! So, in conclusion, it is what it is! A hardcore city bar! ::She cackles.::<end>
-
-=>a69_original
-What can you tell me about Tchortists?<end>
-
-=>a69
-What can you tell me about Tchortists?<end>
-
-=>q70_original
-Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
-
-=>q70
-Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
-
-=>q71_original
-I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
-
-=>q71
-I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
-
-=>a72_original
-Let's discuss something else.<end>
-
-=>a72
-Let's discuss something else.<end>
-
-=>q73_original
-I say yes to that.<end>
-
-=>q73
-I say yes to that.<end>
-
-=>a74_original
-What can you tell me about the Talloski family?<end>
-
-=>a74
-What can you tell me about the Talloski family?<end>
-
-=>q75_original
-Talloski... Talloski... I know them, I know them well. ::She cackles.:: Rich people... successful traders. Good with business - bad with children. I once had to treat Maxim, the older child. Spoiled brat! He bragged how rich he was and how I should be privileged to treat him! *Privileged?*<end>
-
-=>q75
-Talloski... Talloski... I know them, I know them well. ::She cackles.:: Rich people... successful traders. Good with business - bad with children. I once had to treat Maxim, the older child. Spoiled brat! He bragged how rich he was and how I should be privileged to treat him! *Privileged?*<end>
-
-=>q76_original
-He suffered from hemorrhoids! ::She cackles.:: They probably popped due to the fact that he's thinking with his behind rather than his head!<end>
-
-=>q76
-He suffered from hemorrhoids! ::She cackles.:: They probably popped due to the fact that he's thinking with his behind rather than his head!<end>
-
-=>a77_original
-How do you feel now that the Faceless have retreated?<end>
-
-=>a77
-How do you feel now that the Faceless have retreated?<end>
-
-=>q78_original
-I knew this would happen. I wasn't worried at all. And the funny thing is, we've just replaced violence we don't like with violence we do like. We do like! ::She cackles.::<end>
-
-=>q78
-I knew this would happen. I wasn't worried at all. And the funny thing is, we've just replaced violence we don't like with violence we do like. We do like! ::She cackles.::<end>
-
-=>q79_original
-Stay tuned for more Arena matches. I know I will.<end>
-
-=>q79
-Stay tuned for more Arena matches. I know I will.<end>
-
-=>a80_original
-Why do you think the Faceless invaded Core City?<end>
-
-=>a80
-Why do you think the Faceless invaded Core City?<end>
-
-=>q81_original
-The Faceless are invading?<end>
-
-=>q81
-The Faceless are invading?<end>
-
-=>q82_original
-::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
-
-=>q82
-::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
-
-=>a83_original
-I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
-
-=>a83
-I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
-
-=>q84_original
-Don't know... Don't know...<end>
-
-=>q84
-Don't know... Don't know...<end>
-
-=>q85_original
-...anyone named like that! Like that! I'm sorry, but I really can't help you. Nope. No.<end>
-
-=>q85
-...anyone named like that! Like that! I'm sorry, but I really can't help you. Nope. No.<end>
-
-=>a86_original
-I'm looking for the Acid Hunters.<end>
-
-=>a86
-I'm looking for the Acid Hunters.<end>
-
-=>q87_original
-Who?<end>
-
-=>q87
-Who?<end>
-
-=>a88_original
-The Acid Hunters, a band of scavengers..<end>
-
-=>a88
-The Acid Hunters, a band of scavengers..<end>
-
-=>q89_original
-Who?<end>
-
-=>q89
-Who?<end>
-
-=>a90_original
-Forget about it.<end>
-
-=>a90
-Forget about it.<end>
-
-=>q91_original
-I've never heard of them. Never!<end>
-
-=>q91
-I've never heard of them. Never!<end>
-
-=>a92_original
-Do you know anything about a merchant named Daniel Arda?<end>
-
-=>a92
-Do you know anything about a merchant named Daniel Arda?<end>
-
-=>q93_original
-Let me think... Hmmmm... Hmmmmmm!<end>
-
-=>q93
-Let me think... Hmmmm... Hmmmmmm!<end>
-
-=>q94_original
-I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
-
-=>q94
-I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
-
-=>q95_original
-::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
-
-=>q95
-::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
-
-=>a96_original
-I'll be going now.<end>
-
-=>a96
-I'll be going now.<end>
-
-=>q97_original
-Perforated eardrum?<end>
-
-=>q97
-Perforated eardrum?<end>
-
-=>q98_original
-Cerebral hemorrhage?<end>
-
-=>q98
-Cerebral hemorrhage?<end>
-
-=>q99_original
-A rathound bit your toe off?<end>
-
-=>q99
-A rathound bit your toe off?<end>
-
-=>q100_original
-Periodic paralysis?<end>
-
-=>q100
-Periodic paralysis?<end>
-
-=>q101_original
-Phantom limb syndrome?<end>
-
-=>q101
-Phantom limb syndrome?<end>
-
-=>q102_original
-Pneumonoultramicroscopicsilicovolcanoconiosis?<end>
-
-=>q102
-Pneumonoultramicroscopicsilicovolcanoconiosis?<end>
-
-=>q103_original
-Gases?<end>
-
-=>q103
-Gases?<end>
-
-=>q104_original
-Narcolepsy?<end>
-
-=>q104
-Narcolepsy?<end>
-
-=>q105_original
-Hemophilia?<end>
-
-=>q105
-Hemophilia?<end>
-
-=>q106_original
-Cardiomyopathy?<end>
-
-=>q106
-Cardiomyopathy?<end>
-
-=>q107_original
-Someone stabbed you in the back?<end>
-
-=>q107
-Someone stabbed you in the back?<end>
-
-=>q108_original
-Throat cancer?<end>
-
-=>q108
-Throat cancer?<end>
-
-=>q109_original
-Unexplainable urge to commit suicide?<end>
-
-=>q109
-Unexplainable urge to commit suicide?<end>
-
-=>q110_original
-Ruptured spleen?<end>
-
-=>q110
-Ruptured spleen?<end>
-
-=>q111_original
-Claustrophobia?<end>
-
-=>q111
-Claustrophobia?<end>
-
-=>q112_original
-Valvular heart disease?<end>
-
-=>q112
-Valvular heart disease?<end>
-
-=>q113_original
-Cholera?<end>
-
-=>q113
-Cholera?<end>
-
-=>q114_original
-Spontaneous stupidity syndrome?<end>
-
-=>q114
-Spontaneous stupidity syndrome?<end>
-
-=>q115_original
-Stroke?<end>
-
-=>q115
-Stroke?<end>
-
-=>q116_original
-Vitamin D deficiency?<end>
-
-=>q116
-Vitamin D deficiency?<end>
-
-=>q117_original
-All your teeth were knocked out?<end>
-
-=>q117
-All your teeth were knocked out?<end>
-
-=>q118_original
-Feet calluses?<end>
-
-=>q118
-Feet calluses?<end>
-
-=>q119_original
-You got zoned out?<end>
-
-=>q119
-You got zoned out?<end>
-
-=>q120_original
-Nose bleed?<end>
-
-=>q120
-Nose bleed?<end>
-
-=>q121_original
-Crushed larynx?<end>
-
-=>q121
-Crushed larynx?<end>
-
-=>q122_original
-Tongue discoloration?<end>
-
-=>q122
-Tongue discoloration?<end>
-
-=>a123_original
-I'd like to talk to a doctor.<end>
-
-=>a123
-I'd like to talk to a doctor.<end>
-
-=>q124_original
-::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
-
-=>q124
-::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
-
-=>a125_original
-::Leave.::<end>
-
-=>a125
-::Leave.::<end>
-
+=>q1_original
+::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
+
+=>q1
+::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
+
+=>a2_original
+Excuse me, um, are you a doctor?<end>
+
+=>a2
+Excuse me, um, are you a doctor?<end>
+
+=>q3_original
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
+
+=>q3
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Rib fracture?<end>
+
+=>q5
+Rib fracture?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Could you take a look at my injuries?<end>
+
+=>a7
+Could you take a look at my injuries?<end>
+
+=>q8_original
+Let's see now. ::She inspects you carefully.:: I can treat you with an invasive and excruciatingly painful procedure which will cost you ten charons! And not a charon more! Not a charon more!<end>
+
+=>q8
+Let's see now. ::She inspects you carefully.:: I can treat you with an invasive and excruciatingly painful procedure which will cost you ten charons! And not a charon more! Not a charon more!<end>
+
+=>a9_original
+Here you go, doc. ::Give her 10 stygian coins.::<end>
+
+=>a9
+Here you go, doc. ::Give her 10 stygian coins.::<end>
+
+=>q10_original
+Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
+
+=>q10
+Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
+
+=>a11_original
+::Let her heal you.::<end>
+
+=>a11
+::Let her heal you.::<end>
+
+=>a12_original
+I'm suddenly feeling really good. As a matter of fact, I think I'm in the best shape of my life!<end>
+
+=>a12
+I'm suddenly feeling really good. As a matter of fact, I think I'm in the best shape of my life!<end>
+
+=>q13_original
+Ah yes, many people suddenly recover just as I'm about to perform my invasive and excruciatingly painful procedure. Strange...<end>
+
+=>q13
+Ah yes, many people suddenly recover just as I'm about to perform my invasive and excruciatingly painful procedure. Strange...<end>
+
+=>a14_original
+I don't have the coins right now.<end>
+
+=>a14
+I don't have the coins right now.<end>
+
+=>q15_original
+Then I can't help you by performing an invasive and excruciatingly painful procedure. No, I can't! I can't! ::She cackles.::<end>
+
+=>q15
+Then I can't help you by performing an invasive and excruciatingly painful procedure. No, I can't! I can't! ::She cackles.::<end>
+
+=>q16_original
+That'll cost you ten charons and a lot of tears.<end>
+
+=>q16
+That'll cost you ten charons and a lot of tears.<end>
+
+=>a17_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a17
+Do you have anything to trade? ::Barter.::<end>
+
+=>a18_original
+What happened to the man staying here for treatment?<end>
+
+=>a18
+What happened to the man staying here for treatment?<end>
+
+=>q19_original
+I'm not allowed to say anything about that criminal.<end>
+
+=>q19
+I'm not allowed to say anything about that criminal.<end>
+
+=>q20_original
+But when he recovers, he's going back to the slammer! ::She cackles.::<end>
+
+=>q20
+But when he recovers, he's going back to the slammer! ::She cackles.::<end>
+
+=>a21_original
+This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
+
+=>a21
+This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
+
+=>q22_original
+Surgery? ::She gestures a slash with her scalpel.::
+
+No...
+
+No, no, I don't remember.<end>
+
+=>q22
+Surgery? ::She gestures a slash with her scalpel.::
+
+No...
+
+No, no, I don't remember.<end>
+
+=>q23_original
+Memories are a fleeting thing, though...<end>
+
+=>q23
+Memories are a fleeting thing, though...<end>
+
+=>a24_original
+I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
+
+=>a24
+I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
+
+=>q25_original
+Spectres? Spectres? Hmmm... That sounds awfully familiar...<end>
+
+=>q25
+Spectres? Spectres? Hmmm... That sounds awfully familiar...<end>
+
+=>q26_original
+It's like I heard someone talk about that before. But no, I can't help you. No, I can't!<end>
+
+=>q26
+It's like I heard someone talk about that before. But no, I can't help you. No, I can't!<end>
+
+=>a27_original
+I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
+
+=>a27
+I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
+
+=>q28_original
+::She cackles.:: Never heard of him. Never!<end>
+
+=>q28
+::She cackles.:: Never heard of him. Never!<end>
+
+=>q29_original
+Maybe you should go straight to Praetorian Security and ask them.<end>
+
+=>q29
+Maybe you should go straight to Praetorian Security and ask them.<end>
+
+=>a30_original
+I'd like to have a certain substance tested.<end>
+
+=>a30
+I'd like to have a certain substance tested.<end>
+
+=>q31_original
+Oh, but I can't help you with that. No, I can't! I don't have any lab equipment here.<end>
+
+=>q31
+Oh, but I can't help you with that. No, I can't! I don't have any lab equipment here.<end>
+
+=>a32_original
+Well, do you know someone who has?<end>
+
+=>a32
+Well, do you know someone who has?<end>
+
+=>q33_original
+What is it you want to test, anyway?<end>
+
+=>q33
+What is it you want to test, anyway?<end>
+
+=>a34_original
+Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
+
+=>a34
+Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
+
+=>q35_original
+Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>q35
+Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>q36_original
+You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
+
+=>q36
+You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
+
+=>a37_original
+It's not important.<end>
+
+=>a37
+It's not important.<end>
+
+=>q38_original
+No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>q38
+No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>a39_original
+Sorry for the bother. See you around.<end>
+
+=>a39
+Sorry for the bother. See you around.<end>
+
+=>q40_original
+::She cackles.:: Bye!<end>
+
+=>q40
+::She cackles.:: Bye!<end>
+
+=>a41_original
+I'd like to ask you some questions about the city.<end>
+
+=>a41
+I'd like to ask you some questions about the city.<end>
+
+=>q42_original
+Ask away. Away! ::She cackles.::<end>
+
+=>q42
+Ask away. Away! ::She cackles.::<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+What can you tell me about Drop Zone?<end>
+
+=>a44
+What can you tell me about Drop Zone?<end>
+
+=>q45_original
+::She cackles.:: If you're really bent on going there, you better be careful. The zoners might seem poor, underfed and weak, and they mostly are. But one never knows what lurks in...<end>
+
+=>q45
+::She cackles.:: If you're really bent on going there, you better be careful. The zoners might seem poor, underfed and weak, and they mostly are. But one never knows what lurks in...<end>
+
+=>q46_original
+The Drop Zone! ::She cackles.::<end>
+
+=>q46
+The Drop Zone! ::She cackles.::<end>
+
+=>a47_original
+What can you tell me about the Arena?<end>
+
+=>a47
+What can you tell me about the Arena?<end>
+
+=>q48_original
+Oh, interested in the Arena, I see? No wonder, so many visitors come to Core City - only for the Arena! The thirst for blood feeds our economy, it does. Gladiators fight men and beasts for our entertainment and we throw money for more. For more!<end>
+
+=>q48
+Oh, interested in the Arena, I see? No wonder, so many visitors come to Core City - only for the Arena! The thirst for blood feeds our economy, it does. Gladiators fight men and beasts for our entertainment and we throw money for more. For more!<end>
+
+=>q49_original
+Well, I watch it for professional reasons: Gladiators find new ways to injure each other - to entertain the crowd, of course - and that rings true especially for psionics! Psionics! Oh, yes, yes, yes, they are capable of doing some horrible stuff to their less skilled and arguably less lucky adversaries. I study their techniques in an attempt to develop new ways to treat such injuries! Develop and apply!<end>
+
+=>q49
+Well, I watch it for professional reasons: Gladiators find new ways to injure each other - to entertain the crowd, of course - and that rings true especially for psionics! Psionics! Oh, yes, yes, yes, they are capable of doing some horrible stuff to their less skilled and arguably less lucky adversaries. I study their techniques in an attempt to develop new ways to treat such injuries! Develop and apply!<end>
+
+=>q50_original
+Now, now... I know what you might be saying: What's the point of learning how to treat such injuries when the losers don't survive the matches at all!? But remember, remember - psionics are not only present in the Arena. Lunatics - they are spreading like a plague, and their, dare I say, derailed minds can come up with unimaginable and awful ways to hurt their victims. Yes!
+
+That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
+
+=>q50
+Now, now... I know what you might be saying: What's the point of learning how to treat such injuries when the losers don't survive the matches at all!? But remember, remember - psionics are not only present in the Arena. Lunatics - they are spreading like a plague, and their, dare I say, derailed minds can come up with unimaginable and awful ways to hurt their victims. Yes!
+
+That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
+
+=>a51_original
+What can you tell me about the Gauntlet?<end>
+
+=>a51
+What can you tell me about the Gauntlet?<end>
+
+=>q52_original
+The Oligarchs came up with a new sport! A new sport! Runner... ::She cackles.:: Runners run through dangerous rooms for our entertainment. Sometimes they die, but do you see people cry? They don't cry! They laugh and cheer! ::She cackles.::<end>
+
+=>q52
+The Oligarchs came up with a new sport! A new sport! Runner... ::She cackles.:: Runners run through dangerous rooms for our entertainment. Sometimes they die, but do you see people cry? They don't cry! They laugh and cheer! ::She cackles.::<end>
+
+=>q53_original
+Only those that are very skilled can apply, to entertain the crowd before they die! ::She cackles.:: I also come up with rhymes when I operate on people! It's fun! It is fun!<end>
+
+=>q53
+Only those that are very skilled can apply, to entertain the crowd before they die! ::She cackles.:: I also come up with rhymes when I operate on people! It's fun! It is fun!<end>
+
+=>a54_original
+What can you tell me about the Oligarchy?<end>
+
+=>a54
+What can you tell me about the Oligarchy?<end>
+
+=>q55_original
+No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
+
+=>q55
+No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
+
+=>q56_original
+Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
+
+=>q56
+Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
+
+=>a57_original
+What can you tell me about Coretech?<end>
+
+=>a57
+What can you tell me about Coretech?<end>
+
+=>q58_original
+Moretech! Hey, I like that! ::She cackles.:: It describes them perfectly... but why haven't they named themselves like that? Why not? <end>
+
+=>q58
+Moretech! Hey, I like that! ::She cackles.:: It describes them perfectly... but why haven't they named themselves like that? Why not? <end>
+
+=>q59_original
+This needs to be investigated!<end>
+
+=>q59
+This needs to be investigated!<end>
+
+=>a60_original
+What can you tell me about JKK?<end>
+
+=>a60
+What can you tell me about JKK?<end>
+
+=>q61_original
+JKK was founded by Gunnar Edstrom. He is one of the Oligarchs - he knows everything. Everything! They broadcast the Arena throughout Underrail to quench the bloodthirst of those who can't see it in person. But there is more to JKK, there is more! ::She cackles.::<end>
+
+=>q61
+JKK was founded by Gunnar Edstrom. He is one of the Oligarchs - he knows everything. Everything! They broadcast the Arena throughout Underrail to quench the bloodthirst of those who can't see it in person. But there is more to JKK, there is more! ::She cackles.::<end>
+
+=>q62_original
+Think! Think! Think! Think!<end>
+
+=>q62
+Think! Think! Think! Think!<end>
+
+=>a63_original
+What can you tell me about Praetorian Security?<end>
+
+=>a63
+What can you tell me about Praetorian Security?<end>
+
+=>q64_original
+My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
+
+=>q64
+My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
+
+=>q65_original
+He... He was brave.<end>
+
+=>q65
+He... He was brave.<end>
+
+=>a66_original
+What can you tell me about Hardcore City Bar?<end>
+
+=>a66
+What can you tell me about Hardcore City Bar?<end>
+
+=>q67_original
+Ooh, that's a good question! A good one! Let's think about this together. Decompose the name. Hardcore? It is. It is! City? Well, it is in a city. Core City! Bar?<end>
+
+=>q67
+Ooh, that's a good question! A good one! Let's think about this together. Decompose the name. Hardcore? It is. It is! City? Well, it is in a city. Core City! Bar?<end>
+
+=>q68_original
+Bar! So, in conclusion, it is what it is! A hardcore city bar! ::She cackles.::<end>
+
+=>q68
+Bar! So, in conclusion, it is what it is! A hardcore city bar! ::She cackles.::<end>
+
+=>a69_original
+What can you tell me about Tchortists?<end>
+
+=>a69
+What can you tell me about Tchortists?<end>
+
+=>q70_original
+Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
+
+=>q70
+Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
+
+=>q71_original
+I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
+
+=>q71
+I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
+
+=>a72_original
+Let's discuss something else.<end>
+
+=>a72
+Let's discuss something else.<end>
+
+=>q73_original
+I say yes to that.<end>
+
+=>q73
+I say yes to that.<end>
+
+=>a74_original
+What can you tell me about the Talloski family?<end>
+
+=>a74
+What can you tell me about the Talloski family?<end>
+
+=>q75_original
+Talloski... Talloski... I know them, I know them well. ::She cackles.:: Rich people... successful traders. Good with business - bad with children. I once had to treat Maxim, the older child. Spoiled brat! He bragged how rich he was and how I should be privileged to treat him! *Privileged?*<end>
+
+=>q75
+Talloski... Talloski... I know them, I know them well. ::She cackles.:: Rich people... successful traders. Good with business - bad with children. I once had to treat Maxim, the older child. Spoiled brat! He bragged how rich he was and how I should be privileged to treat him! *Privileged?*<end>
+
+=>q76_original
+He suffered from hemorrhoids! ::She cackles.:: They probably popped due to the fact that he's thinking with his behind rather than his head!<end>
+
+=>q76
+He suffered from hemorrhoids! ::She cackles.:: They probably popped due to the fact that he's thinking with his behind rather than his head!<end>
+
+=>a77_original
+How do you feel now that the Faceless have retreated?<end>
+
+=>a77
+How do you feel now that the Faceless have retreated?<end>
+
+=>q78_original
+I knew this would happen. I wasn't worried at all. And the funny thing is, we've just replaced violence we don't like with violence we do like. We do like! ::She cackles.::<end>
+
+=>q78
+I knew this would happen. I wasn't worried at all. And the funny thing is, we've just replaced violence we don't like with violence we do like. We do like! ::She cackles.::<end>
+
+=>q79_original
+Stay tuned for more Arena matches. I know I will.<end>
+
+=>q79
+Stay tuned for more Arena matches. I know I will.<end>
+
+=>a80_original
+Why do you think the Faceless invaded Core City?<end>
+
+=>a80
+Why do you think the Faceless invaded Core City?<end>
+
+=>q81_original
+The Faceless are invading?<end>
+
+=>q81
+The Faceless are invading?<end>
+
+=>q82_original
+::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
+
+=>q82
+::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
+
+=>a83_original
+I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
+
+=>a83
+I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
+
+=>q84_original
+Don't know... Don't know...<end>
+
+=>q84
+Don't know... Don't know...<end>
+
+=>q85_original
+...anyone named like that! Like that! I'm sorry, but I really can't help you. Nope. No.<end>
+
+=>q85
+...anyone named like that! Like that! I'm sorry, but I really can't help you. Nope. No.<end>
+
+=>a86_original
+I'm looking for the Acid Hunters.<end>
+
+=>a86
+I'm looking for the Acid Hunters.<end>
+
+=>q87_original
+Who?<end>
+
+=>q87
+Who?<end>
+
+=>a88_original
+The Acid Hunters, a band of scavengers..<end>
+
+=>a88
+The Acid Hunters, a band of scavengers..<end>
+
+=>q89_original
+Who?<end>
+
+=>q89
+Who?<end>
+
+=>a90_original
+Forget about it.<end>
+
+=>a90
+Forget about it.<end>
+
+=>q91_original
+I've never heard of them. Never!<end>
+
+=>q91
+I've never heard of them. Never!<end>
+
+=>a92_original
+Do you know anything about a merchant named Daniel Arda?<end>
+
+=>a92
+Do you know anything about a merchant named Daniel Arda?<end>
+
+=>q93_original
+Let me think... Hmmmm... Hmmmmmm!<end>
+
+=>q93
+Let me think... Hmmmm... Hmmmmmm!<end>
+
+=>q94_original
+I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
+
+=>q94
+I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
+
+=>q95_original
+::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
+
+=>q95
+::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
+
+=>a96_original
+I'll be going now.<end>
+
+=>a96
+I'll be going now.<end>
+
+=>q97_original
+Perforated eardrum?<end>
+
+=>q97
+Perforated eardrum?<end>
+
+=>q98_original
+Cerebral hemorrhage?<end>
+
+=>q98
+Cerebral hemorrhage?<end>
+
+=>q99_original
+A rathound bit your toe off?<end>
+
+=>q99
+A rathound bit your toe off?<end>
+
+=>q100_original
+Periodic paralysis?<end>
+
+=>q100
+Periodic paralysis?<end>
+
+=>q101_original
+Phantom limb syndrome?<end>
+
+=>q101
+Phantom limb syndrome?<end>
+
+=>q102_original
+Pneumonoultramicroscopicsilicovolcanoconiosis?<end>
+
+=>q102
+Pneumonoultramicroscopicsilicovolcanoconiosis?<end>
+
+=>q103_original
+Gases?<end>
+
+=>q103
+Gases?<end>
+
+=>q104_original
+Narcolepsy?<end>
+
+=>q104
+Narcolepsy?<end>
+
+=>q105_original
+Hemophilia?<end>
+
+=>q105
+Hemophilia?<end>
+
+=>q106_original
+Cardiomyopathy?<end>
+
+=>q106
+Cardiomyopathy?<end>
+
+=>q107_original
+Someone stabbed you in the back?<end>
+
+=>q107
+Someone stabbed you in the back?<end>
+
+=>q108_original
+Throat cancer?<end>
+
+=>q108
+Throat cancer?<end>
+
+=>q109_original
+Unexplainable urge to commit suicide?<end>
+
+=>q109
+Unexplainable urge to commit suicide?<end>
+
+=>q110_original
+Ruptured spleen?<end>
+
+=>q110
+Ruptured spleen?<end>
+
+=>q111_original
+Claustrophobia?<end>
+
+=>q111
+Claustrophobia?<end>
+
+=>q112_original
+Valvular heart disease?<end>
+
+=>q112
+Valvular heart disease?<end>
+
+=>q113_original
+Cholera?<end>
+
+=>q113
+Cholera?<end>
+
+=>q114_original
+Spontaneous stupidity syndrome?<end>
+
+=>q114
+Spontaneous stupidity syndrome?<end>
+
+=>q115_original
+Stroke?<end>
+
+=>q115
+Stroke?<end>
+
+=>q116_original
+Vitamin D deficiency?<end>
+
+=>q116
+Vitamin D deficiency?<end>
+
+=>q117_original
+All your teeth were knocked out?<end>
+
+=>q117
+All your teeth were knocked out?<end>
+
+=>q118_original
+Feet calluses?<end>
+
+=>q118
+Feet calluses?<end>
+
+=>q119_original
+You got zoned out?<end>
+
+=>q119
+You got zoned out?<end>
+
+=>q120_original
+Nose bleed?<end>
+
+=>q120
+Nose bleed?<end>
+
+=>q121_original
+Crushed larynx?<end>
+
+=>q121
+Crushed larynx?<end>
+
+=>q122_original
+Tongue discoloration?<end>
+
+=>q122
+Tongue discoloration?<end>
+
+=>a123_original
+I'd like to talk to a doctor.<end>
+
+=>a123
+I'd like to talk to a doctor.<end>
+
+=>q124_original
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
+
+=>q124
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
+
+=>a125_original
+::Leave.::<end>
+
+=>a125
+::Leave.::<end>
+

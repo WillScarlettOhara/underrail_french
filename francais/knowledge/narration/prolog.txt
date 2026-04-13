@@ -1,4 +1,4 @@
-::forlornStationPowerSwitchSnapBack
-You pull the switch down, but it automatically snaps back.
-::forlornStationPowerRestored
-You've restored power to this station.
+::forlornStationPowerSwitchSnapBack
+You pull the switch down, but it automatically snaps back.
+::forlornStationPowerRestored
+You've restored power to this station.

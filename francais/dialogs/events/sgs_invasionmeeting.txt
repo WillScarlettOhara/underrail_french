@@ -1,190 +1,190 @@
-=>q1_original
-Don't you have somewhere to be?<end>
-
-=>q1
-Don't you have somewhere to be?<end>
-
-=>q2_original
-::Gorsky and Tanner seem to be in the middle of a conversation.:: ...So I'm heading there right now to see just what the hell is going on, and considering the severity of the situation, do not expect my return anytime soon.<end>
-
-=>q2
-::Gorsky and Tanner seem to be in the middle of a conversation.:: ...So I'm heading there right now to see just what the hell is going on, and considering the severity of the situation, do not expect my return anytime soon.<end>
-
-=>q3_original
-::He nods in agreement to what Gorsky said, before turning to you.:: We'll need your assistance with this as well.<end>
-
-=>q3
-::He nods in agreement to what Gorsky said, before turning to you.:: We'll need your assistance with this as well.<end>
-
-=>q4_original
-Some sort of an attack has been carried out against Core City up north a few hours ago. The reports are sketchy, but apparently the Faceless are involved somehow.<end>
-
-=>q4
-Some sort of an attack has been carried out against Core City up north a few hours ago. The reports are sketchy, but apparently the Faceless are involved somehow.<end>
-
-=>q5_original
-My contact tells me that the Faceless used their tunneling machines to circumvent the city's outermost defenses and deployed their forces just outside the city, cutting off the tunnel to the north. They haven't attempted to invade the city itself though. Not yet, anyway.<end>
-
-=>q5
-My contact tells me that the Faceless used their tunneling machines to circumvent the city's outermost defenses and deployed their forces just outside the city, cutting off the tunnel to the north. They haven't attempted to invade the city itself though. Not yet, anyway.<end>
-
-=>q6_original
-It is clear why they attacked in this particular spot. If any help was to arrive from the Protectorate up north, it would have to pass through the north tunnel. But since the tunnel is now controlled by the Faceless, it would be the easiest thing in the world for them to simply collapse it, delaying the Protectorate deployment indefinitely.<end>
-
-=>q6
-It is clear why they attacked in this particular spot. If any help was to arrive from the Protectorate up north, it would have to pass through the north tunnel. But since the tunnel is now controlled by the Faceless, it would be the easiest thing in the world for them to simply collapse it, delaying the Protectorate deployment indefinitely.<end>
-
-=>q7_original
-They obviously wouldn't need that tunnel themselves. They make their own.<end>
-
-=>q7
-They obviously wouldn't need that tunnel themselves. They make their own.<end>
-
-=>q8_original
-All this is very strange. Faceless don't usually attack unless provoked. We know that they don't like the Protectorate much and are known to skirmish with them on occasion, but as far as I can remember they've never waged war on any independent station.<end>
-
-=>q8
-All this is very strange. Faceless don't usually attack unless provoked. We know that they don't like the Protectorate much and are known to skirmish with them on occasion, but as far as I can remember they've never waged war on any independent station.<end>
-
-=>q9_original
-But that's not all I'm afraid.<end>
-
-=>q9
-But that's not all I'm afraid.<end>
-
-=>q10_original
-In addition to the reports from Core City, we've also received a distress signal from Rail Crossing.  They are having troubles of their own. We don't have any details regarding this, but apparently Faceless are involved there as well.<end>
-
-=>q10
-In addition to the reports from Core City, we've also received a distress signal from Rail Crossing.  They are having troubles of their own. We don't have any details regarding this, but apparently Faceless are involved there as well.<end>
-
-=>q11_original
-<end>
-
-=>q11
-<end>
-
-=>a12_original
-Who are the Faceless exactly?<end>
-
-=>a12
-Who are the Faceless exactly?<end>
-
-=>q13_original
-Thing is - no one really knows. They live somewhere, or maybe everywhere, in the tunnels far below. Lower than most humans could endure living. They wear masks, never showing their faces, hence the name.<end>
-
-=>q13
-Thing is - no one really knows. They live somewhere, or maybe everywhere, in the tunnels far below. Lower than most humans could endure living. They wear masks, never showing their faces, hence the name.<end>
-
-=>q14_original
-Many stories about them and their origins circulate the Underrail, but it's impossible to tell which ones are true. Ask around if you're curious.<end>
-
-=>q14
-Many stories about them and their origins circulate the Underrail, but it's impossible to tell which ones are true. Ask around if you're curious.<end>
-
-=>a15_original
-Can you tell me anything about Core City?<end>
-
-=>a15
-Can you tell me anything about Core City?<end>
-
-=>q16_original
-It's a city that lies on the border between the north Underrail, controlled mostly by the Protectorate and the United Stations, and the south Underrail which is where we are.<end>
-
-=>q16
-It's a city that lies on the border between the north Underrail, controlled mostly by the Protectorate and the United Stations, and the south Underrail which is where we are.<end>
-
-=>q17_original
-::Gorsky smirks.:: The land of the free.<end>
-
-=>q17
-::Gorsky smirks.:: The land of the free.<end>
-
-=>q18_original
-The Core City spans both Lower and Upper Underrail, but since the upper railroad connections have all collapsed, the city's Lower Underrail north tunnel is the only connection to the Protectorate territory.<end>
-
-=>q18
-The Core City spans both Lower and Upper Underrail, but since the upper railroad connections have all collapsed, the city's Lower Underrail north tunnel is the only connection to the Protectorate territory.<end>
-
-=>a19_original
-What sort of place is Rail Crossing?<end>
-
-=>a19
-What sort of place is Rail Crossing?<end>
-
-=>q20_original
-It's an independent station built inside an old train depot to the northwest. Relatively peaceful place. We do a good amount of trading with them.<end>
-
-=>q20
-It's an independent station built inside an old train depot to the northwest. Relatively peaceful place. We do a good amount of trading with them.<end>
-
-=>a21_original
-What do you want me to do?<end>
-
-=>a21
-What do you want me to do?<end>
-
-=>q22_original
-I want you to find out what's going on in Rail Crossing, assist them if you can and report back to me.<end>
-
-=>q22
-I want you to find out what's going on in Rail Crossing, assist them if you can and report back to me.<end>
-
-=>q23_original
-Avoid engaging the Faceless if possible. We don't want to draw any unwanted attention. If you can find out what is causing them to attack these places, that would be helpful.<end>
-
-=>q23
-Avoid engaging the Faceless if possible. We don't want to draw any unwanted attention. If you can find out what is causing them to attack these places, that would be helpful.<end>
-
-=>q24_original
-I'm heading out to Core City myself to check out the situation there. You should meet me there as soon as possible. Look for me in the Hardcore City Bar.<end>
-
-=>q24
-I'm heading out to Core City myself to check out the situation there. You should meet me there as soon as possible. Look for me in the Hardcore City Bar.<end>
-
-=>q25_original
-Vera has a job for you as well. Be sure to speak with her before you set out.<end>
-
-=>q25
-Vera has a job for you as well. Be sure to speak with her before you set out.<end>
-
-=>a26_original
-How do I get to Rail Crossing or the Core City?<end>
-
-=>a26
-How do I get to Rail Crossing or the Core City?<end>
-
-=>q27_original
-There are a couple ways to get to Rail Crossing. The easiest would be to take the train, since we cleared out the rocks. Alternatively, you could go through the side tunnels on foot, but some of them might still be collapsed, so make sure you bring some explosive charges to clear the way.
-
-As for Core City, both train and ferry are your options, with the ferry being probably a bit safer at the moment.<end>
-
-=>q27
-There are a couple ways to get to Rail Crossing. The easiest would be to take the train, since we cleared out the rocks. Alternatively, you could go through the side tunnels on foot, but some of them might still be collapsed, so make sure you bring some explosive charges to clear the way.
-
-As for Core City, both train and ferry are your options, with the ferry being probably a bit safer at the moment.<end>
-
-=>a28_original
-Alright, I'm off.<end>
-
-=>a28
-Alright, I'm off.<end>
-
-=>q29_original
-Good luck.<end>
-
-=>q29
-Good luck.<end>
-
-=>q30_original
-You're going to need it.<end>
-
-=>q30
-You're going to need it.<end>
-
-=>a31_original
-Alright. I'm off.<end>
-
-=>a31
-Alright. I'm off.<end>
-
+=>q1_original
+Don't you have somewhere to be?<end>
+
+=>q1
+Don't you have somewhere to be?<end>
+
+=>q2_original
+::Gorsky and Tanner seem to be in the middle of a conversation.:: ...So I'm heading there right now to see just what the hell is going on, and considering the severity of the situation, do not expect my return anytime soon.<end>
+
+=>q2
+::Gorsky and Tanner seem to be in the middle of a conversation.:: ...So I'm heading there right now to see just what the hell is going on, and considering the severity of the situation, do not expect my return anytime soon.<end>
+
+=>q3_original
+::He nods in agreement to what Gorsky said, before turning to you.:: We'll need your assistance with this as well.<end>
+
+=>q3
+::He nods in agreement to what Gorsky said, before turning to you.:: We'll need your assistance with this as well.<end>
+
+=>q4_original
+Some sort of an attack has been carried out against Core City up north a few hours ago. The reports are sketchy, but apparently the Faceless are involved somehow.<end>
+
+=>q4
+Some sort of an attack has been carried out against Core City up north a few hours ago. The reports are sketchy, but apparently the Faceless are involved somehow.<end>
+
+=>q5_original
+My contact tells me that the Faceless used their tunneling machines to circumvent the city's outermost defenses and deployed their forces just outside the city, cutting off the tunnel to the north. They haven't attempted to invade the city itself though. Not yet, anyway.<end>
+
+=>q5
+My contact tells me that the Faceless used their tunneling machines to circumvent the city's outermost defenses and deployed their forces just outside the city, cutting off the tunnel to the north. They haven't attempted to invade the city itself though. Not yet, anyway.<end>
+
+=>q6_original
+It is clear why they attacked in this particular spot. If any help was to arrive from the Protectorate up north, it would have to pass through the north tunnel. But since the tunnel is now controlled by the Faceless, it would be the easiest thing in the world for them to simply collapse it, delaying the Protectorate deployment indefinitely.<end>
+
+=>q6
+It is clear why they attacked in this particular spot. If any help was to arrive from the Protectorate up north, it would have to pass through the north tunnel. But since the tunnel is now controlled by the Faceless, it would be the easiest thing in the world for them to simply collapse it, delaying the Protectorate deployment indefinitely.<end>
+
+=>q7_original
+They obviously wouldn't need that tunnel themselves. They make their own.<end>
+
+=>q7
+They obviously wouldn't need that tunnel themselves. They make their own.<end>
+
+=>q8_original
+All this is very strange. Faceless don't usually attack unless provoked. We know that they don't like the Protectorate much and are known to skirmish with them on occasion, but as far as I can remember they've never waged war on any independent station.<end>
+
+=>q8
+All this is very strange. Faceless don't usually attack unless provoked. We know that they don't like the Protectorate much and are known to skirmish with them on occasion, but as far as I can remember they've never waged war on any independent station.<end>
+
+=>q9_original
+But that's not all I'm afraid.<end>
+
+=>q9
+But that's not all I'm afraid.<end>
+
+=>q10_original
+In addition to the reports from Core City, we've also received a distress signal from Rail Crossing.  They are having troubles of their own. We don't have any details regarding this, but apparently Faceless are involved there as well.<end>
+
+=>q10
+In addition to the reports from Core City, we've also received a distress signal from Rail Crossing.  They are having troubles of their own. We don't have any details regarding this, but apparently Faceless are involved there as well.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+Who are the Faceless exactly?<end>
+
+=>a12
+Who are the Faceless exactly?<end>
+
+=>q13_original
+Thing is - no one really knows. They live somewhere, or maybe everywhere, in the tunnels far below. Lower than most humans could endure living. They wear masks, never showing their faces, hence the name.<end>
+
+=>q13
+Thing is - no one really knows. They live somewhere, or maybe everywhere, in the tunnels far below. Lower than most humans could endure living. They wear masks, never showing their faces, hence the name.<end>
+
+=>q14_original
+Many stories about them and their origins circulate the Underrail, but it's impossible to tell which ones are true. Ask around if you're curious.<end>
+
+=>q14
+Many stories about them and their origins circulate the Underrail, but it's impossible to tell which ones are true. Ask around if you're curious.<end>
+
+=>a15_original
+Can you tell me anything about Core City?<end>
+
+=>a15
+Can you tell me anything about Core City?<end>
+
+=>q16_original
+It's a city that lies on the border between the north Underrail, controlled mostly by the Protectorate and the United Stations, and the south Underrail which is where we are.<end>
+
+=>q16
+It's a city that lies on the border between the north Underrail, controlled mostly by the Protectorate and the United Stations, and the south Underrail which is where we are.<end>
+
+=>q17_original
+::Gorsky smirks.:: The land of the free.<end>
+
+=>q17
+::Gorsky smirks.:: The land of the free.<end>
+
+=>q18_original
+The Core City spans both Lower and Upper Underrail, but since the upper railroad connections have all collapsed, the city's Lower Underrail north tunnel is the only connection to the Protectorate territory.<end>
+
+=>q18
+The Core City spans both Lower and Upper Underrail, but since the upper railroad connections have all collapsed, the city's Lower Underrail north tunnel is the only connection to the Protectorate territory.<end>
+
+=>a19_original
+What sort of place is Rail Crossing?<end>
+
+=>a19
+What sort of place is Rail Crossing?<end>
+
+=>q20_original
+It's an independent station built inside an old train depot to the northwest. Relatively peaceful place. We do a good amount of trading with them.<end>
+
+=>q20
+It's an independent station built inside an old train depot to the northwest. Relatively peaceful place. We do a good amount of trading with them.<end>
+
+=>a21_original
+What do you want me to do?<end>
+
+=>a21
+What do you want me to do?<end>
+
+=>q22_original
+I want you to find out what's going on in Rail Crossing, assist them if you can and report back to me.<end>
+
+=>q22
+I want you to find out what's going on in Rail Crossing, assist them if you can and report back to me.<end>
+
+=>q23_original
+Avoid engaging the Faceless if possible. We don't want to draw any unwanted attention. If you can find out what is causing them to attack these places, that would be helpful.<end>
+
+=>q23
+Avoid engaging the Faceless if possible. We don't want to draw any unwanted attention. If you can find out what is causing them to attack these places, that would be helpful.<end>
+
+=>q24_original
+I'm heading out to Core City myself to check out the situation there. You should meet me there as soon as possible. Look for me in the Hardcore City Bar.<end>
+
+=>q24
+I'm heading out to Core City myself to check out the situation there. You should meet me there as soon as possible. Look for me in the Hardcore City Bar.<end>
+
+=>q25_original
+Vera has a job for you as well. Be sure to speak with her before you set out.<end>
+
+=>q25
+Vera has a job for you as well. Be sure to speak with her before you set out.<end>
+
+=>a26_original
+How do I get to Rail Crossing or the Core City?<end>
+
+=>a26
+How do I get to Rail Crossing or the Core City?<end>
+
+=>q27_original
+There are a couple ways to get to Rail Crossing. The easiest would be to take the train, since we cleared out the rocks. Alternatively, you could go through the side tunnels on foot, but some of them might still be collapsed, so make sure you bring some explosive charges to clear the way.
+
+As for Core City, both train and ferry are your options, with the ferry being probably a bit safer at the moment.<end>
+
+=>q27
+There are a couple ways to get to Rail Crossing. The easiest would be to take the train, since we cleared out the rocks. Alternatively, you could go through the side tunnels on foot, but some of them might still be collapsed, so make sure you bring some explosive charges to clear the way.
+
+As for Core City, both train and ferry are your options, with the ferry being probably a bit safer at the moment.<end>
+
+=>a28_original
+Alright, I'm off.<end>
+
+=>a28
+Alright, I'm off.<end>
+
+=>q29_original
+Good luck.<end>
+
+=>q29
+Good luck.<end>
+
+=>q30_original
+You're going to need it.<end>
+
+=>q30
+You're going to need it.<end>
+
+=>a31_original
+Alright. I'm off.<end>
+
+=>a31
+Alright. I'm off.<end>
+

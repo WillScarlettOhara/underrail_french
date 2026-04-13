@@ -1,110 +1,110 @@
-=>q1_original
-::BCE-BFMC - Biocorp Core Electronics
-Firmware version: 1.17::
-
-::Blast Furnace Monitoring Console, Status: Overcharged::
-
-::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
-Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
-Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
-<end>
-
-=>q1
-::BCE-BFMC - Biocorp Core Electronics
-Firmware version: 1.17::
-
-::Blast Furnace Monitoring Console, Status: Overcharged::
-
-::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
-Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
-Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
-<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Manage ERCW disposal procedure (in process)::<end>
-
-=>a3
-::Manage ERCW disposal procedure (in process)::<end>
-
-=>a4_original
-::Manage TRW disposal procedure (in process)::<end>
-
-=>a4
-::Manage TRW disposal procedure (in process)::<end>
-
-=>a5_original
-::Manage IUW disposal procedure (completed)::<end>
-
-=>a5
-::Manage IUW disposal procedure (completed)::<end>
-
-=>q6_original
-::Successfully isolated highly valuable components. 
-
-Manage IUW disposal procedure (completed)::<end>
-
-=>q6
-::Successfully isolated highly valuable components. 
-
-Manage IUW disposal procedure (completed)::<end>
-
-=>a7_original
-::Unlock container 1.::<end>
-
-=>a7
-::Unlock container 1.::<end>
-
-=>q8_original
-::Container 1 unlocked.::<end>
-
-=>q8
-::Container 1 unlocked.::<end>
-
-=>a9_original
-::Unlock container 2.::<end>
-
-=>a9
-::Unlock container 2.::<end>
-
-=>q10_original
-::Container 2 unlocked.::<end>
-
-=>q10
-::Container 2 unlocked.::<end>
-
-=>a11_original
-::Engage waste filtration (container 1) ::<end>
-
-=>a11
-::Engage waste filtration (container 1) ::<end>
-
-=>a12_original
-::Engage waste filtration (container 2) ::<end>
-
-=>a12
-::Engage waste filtration (container 2) ::<end>
-
-=>a13_original
-::Back::<end>
-
-=>a13
-::Back::<end>
-
-=>a14_original
-::Run diagnostics::<end>
-
-=>a14
-::Run diagnostics::<end>
-
-=>a15_original
-::Leave.::<end>
-
-=>a15
-::Leave.::<end>
-
+=>q1_original
+::BCE-BFMC - Biocorp Core Electronics
+Firmware version: 1.17::
+
+::Blast Furnace Monitoring Console, Status: Overcharged::
+
+::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
+Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
+Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
+<end>
+
+=>q1
+::BCE-BFMC - Biocorp Core Electronics
+Firmware version: 1.17::
+
+::Blast Furnace Monitoring Console, Status: Overcharged::
+
+::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
+Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
+Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Manage ERCW disposal procedure (in process)::<end>
+
+=>a3
+::Manage ERCW disposal procedure (in process)::<end>
+
+=>a4_original
+::Manage TRW disposal procedure (in process)::<end>
+
+=>a4
+::Manage TRW disposal procedure (in process)::<end>
+
+=>a5_original
+::Manage IUW disposal procedure (completed)::<end>
+
+=>a5
+::Manage IUW disposal procedure (completed)::<end>
+
+=>q6_original
+::Successfully isolated highly valuable components. 
+
+Manage IUW disposal procedure (completed)::<end>
+
+=>q6
+::Successfully isolated highly valuable components. 
+
+Manage IUW disposal procedure (completed)::<end>
+
+=>a7_original
+::Unlock container 1.::<end>
+
+=>a7
+::Unlock container 1.::<end>
+
+=>q8_original
+::Container 1 unlocked.::<end>
+
+=>q8
+::Container 1 unlocked.::<end>
+
+=>a9_original
+::Unlock container 2.::<end>
+
+=>a9
+::Unlock container 2.::<end>
+
+=>q10_original
+::Container 2 unlocked.::<end>
+
+=>q10
+::Container 2 unlocked.::<end>
+
+=>a11_original
+::Engage waste filtration (container 1) ::<end>
+
+=>a11
+::Engage waste filtration (container 1) ::<end>
+
+=>a12_original
+::Engage waste filtration (container 2) ::<end>
+
+=>a12
+::Engage waste filtration (container 2) ::<end>
+
+=>a13_original
+::Back::<end>
+
+=>a13
+::Back::<end>
+
+=>a14_original
+::Run diagnostics::<end>
+
+=>a14
+::Run diagnostics::<end>
+
+=>a15_original
+::Leave.::<end>
+
+=>a15
+::Leave.::<end>
+

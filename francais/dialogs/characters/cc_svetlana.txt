@@ -1,136 +1,136 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Stop staring at me, bre.<end>
-
-=>q2
-Stop staring at me, bre.<end>
-
-=>q3_original
-Yes?<end>
-
-=>q3
-Yes?<end>
-
-=>q4_original
-What is it?<end>
-
-=>q4
-What is it?<end>
-
-=>q5_original
-::The woman aims her crossbow at you.::
-
-Stop, bre! Turn around and leave.<end>
-
-=>q5
-::The woman aims her crossbow at you.::
-
-Stop, bre! Turn around and leave.<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-I think you might have something I need.<end>
-
-=>a7
-I think you might have something I need.<end>
-
-=>q8_original
-Oh. And what might that be?<end>
-
-=>q8
-Oh. And what might that be?<end>
-
-=>a9_original
-A device. A very important device.<end>
-
-=>a9
-A device. A very important device.<end>
-
-=>q10_original
-Oh, we did relieve some poor wimp of his little toy. Is that whatcha taking about?<end>
-
-=>q10
-Oh, we did relieve some poor wimp of his little toy. Is that whatcha taking about?<end>
-
-=>q11_original
-::Her greed turns into a smile.:: Are you willing to pay for it?<end>
-
-=>q11
-::Her greed turns into a smile.:: Are you willing to pay for it?<end>
-
-=>a12_original
-Yes.<end>
-
-=>a12
-Yes.<end>
-
-=>q13_original
-Good $(#boy/girl)! Let's go talk to Duffie.<end>
-
-=>q13
-Good $(#boy/girl)! Let's go talk to Duffie.<end>
-
-=>a14_original
-::Follow her.::<end>
-
-=>a14
-::Follow her.::<end>
-
-=>a15_original
-Perhaps.<end>
-
-=>a15
-Perhaps.<end>
-
-=>a16_original
-Not really.<end>
-
-=>a16
-Not really.<end>
-
-=>q17_original
-No? Then you better turn around and beat it, bre, $(#boy/girl). We got nothing more to talk about.<end>
-
-=>q17
-No? Then you better turn around and beat it, bre, $(#boy/girl). We got nothing more to talk about.<end>
-
-=>a18_original
-Listen, I changed my mind. I *might* pay for the device.<end>
-
-=>a18
-Listen, I changed my mind. I *might* pay for the device.<end>
-
-=>a19_original
-Fine, I'll go.<end>
-
-=>a19
-Fine, I'll go.<end>
-
-=>a20_original
-An ICPD. You stole it from a man who came through here recently.<end>
-
-=>a20
-An ICPD. You stole it from a man who came through here recently.<end>
-
-=>q21_original
-IPDC?  You talking about the gizmo we *borrowed* from that wimp?<end>
-
-=>q21
-IPDC?  You talking about the gizmo we *borrowed* from that wimp?<end>
-
-=>a22_original
-::Leave without saying a word.::<end>
-
-=>a22
-::Leave without saying a word.::<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Stop staring at me, bre.<end>
+
+=>q2
+Stop staring at me, bre.<end>
+
+=>q3_original
+Yes?<end>
+
+=>q3
+Yes?<end>
+
+=>q4_original
+What is it?<end>
+
+=>q4
+What is it?<end>
+
+=>q5_original
+::The woman aims her crossbow at you.::
+
+Stop, bre! Turn around and leave.<end>
+
+=>q5
+::The woman aims her crossbow at you.::
+
+Stop, bre! Turn around and leave.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I think you might have something I need.<end>
+
+=>a7
+I think you might have something I need.<end>
+
+=>q8_original
+Oh. And what might that be?<end>
+
+=>q8
+Oh. And what might that be?<end>
+
+=>a9_original
+A device. A very important device.<end>
+
+=>a9
+A device. A very important device.<end>
+
+=>q10_original
+Oh, we did relieve some poor wimp of his little toy. Is that whatcha taking about?<end>
+
+=>q10
+Oh, we did relieve some poor wimp of his little toy. Is that whatcha taking about?<end>
+
+=>q11_original
+::Her greed turns into a smile.:: Are you willing to pay for it?<end>
+
+=>q11
+::Her greed turns into a smile.:: Are you willing to pay for it?<end>
+
+=>a12_original
+Yes.<end>
+
+=>a12
+Yes.<end>
+
+=>q13_original
+Good $(#boy/girl)! Let's go talk to Duffie.<end>
+
+=>q13
+Good $(#boy/girl)! Let's go talk to Duffie.<end>
+
+=>a14_original
+::Follow her.::<end>
+
+=>a14
+::Follow her.::<end>
+
+=>a15_original
+Perhaps.<end>
+
+=>a15
+Perhaps.<end>
+
+=>a16_original
+Not really.<end>
+
+=>a16
+Not really.<end>
+
+=>q17_original
+No? Then you better turn around and beat it, bre, $(#boy/girl). We got nothing more to talk about.<end>
+
+=>q17
+No? Then you better turn around and beat it, bre, $(#boy/girl). We got nothing more to talk about.<end>
+
+=>a18_original
+Listen, I changed my mind. I *might* pay for the device.<end>
+
+=>a18
+Listen, I changed my mind. I *might* pay for the device.<end>
+
+=>a19_original
+Fine, I'll go.<end>
+
+=>a19
+Fine, I'll go.<end>
+
+=>a20_original
+An ICPD. You stole it from a man who came through here recently.<end>
+
+=>a20
+An ICPD. You stole it from a man who came through here recently.<end>
+
+=>q21_original
+IPDC?  You talking about the gizmo we *borrowed* from that wimp?<end>
+
+=>q21
+IPDC?  You talking about the gizmo we *borrowed* from that wimp?<end>
+
+=>a22_original
+::Leave without saying a word.::<end>
+
+=>a22
+::Leave without saying a word.::<end>
+

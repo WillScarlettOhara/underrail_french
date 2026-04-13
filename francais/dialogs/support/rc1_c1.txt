@@ -1,78 +1,78 @@
-=>q1_original
-Everyone knows.<end>
-
-=>q1
-Everyone knows.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-Welcome to Rail Crossing, or what's left of it.<end>
-
-=>q3
-Welcome to Rail Crossing, or what's left of it.<end>
-
-=>q4_original
-I heard those Faceless talk to people through their minds.<end>
-
-=>q4
-I heard those Faceless talk to people through their minds.<end>
-
-=>q5_original
-Man, I hope they didn't kill Buzzer.<end>
-
-=>q5
-Man, I hope they didn't kill Buzzer.<end>
-
-=>q6_original
-Glad it's all over.<end>
-
-=>q6
-Glad it's all over.<end>
-
-=>q7_original
-I hope all this will be over soon.<end>
-
-=>q7
-I hope all this will be over soon.<end>
-
-=>q8_original
-I heard voices in my head when I fought them.<end>
-
-=>q8
-I heard voices in my head when I fought them.<end>
-
-=>q9_original
-Watch your head. You don't want to end up in a crossfire.<end>
-
-=>q9
-Watch your head. You don't want to end up in a crossfire.<end>
-
-=>q10_original
-If you see one of those bots transform, get away fast. Those plasma bolts can tear you in half.<end>
-
-=>q10
-If you see one of those bots transform, get away fast. Those plasma bolts can tear you in half.<end>
-
-=>q11_original
-We can't even get the dead out, the other half of the station is under occupation.<end>
-
-=>q11
-We can't even get the dead out, the other half of the station is under occupation.<end>
-
-=>q12_original
-So much death...<end>
-
-=>q12
-So much death...<end>
-
-=>q13_original
-We got the weapons now, but we still need more men.<end>
-
-=>q13
-We got the weapons now, but we still need more men.<end>
-
+=>q1_original
+Everyone knows.<end>
+
+=>q1
+Everyone knows.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Welcome to Rail Crossing, or what's left of it.<end>
+
+=>q3
+Welcome to Rail Crossing, or what's left of it.<end>
+
+=>q4_original
+I heard those Faceless talk to people through their minds.<end>
+
+=>q4
+I heard those Faceless talk to people through their minds.<end>
+
+=>q5_original
+Man, I hope they didn't kill Buzzer.<end>
+
+=>q5
+Man, I hope they didn't kill Buzzer.<end>
+
+=>q6_original
+Glad it's all over.<end>
+
+=>q6
+Glad it's all over.<end>
+
+=>q7_original
+I hope all this will be over soon.<end>
+
+=>q7
+I hope all this will be over soon.<end>
+
+=>q8_original
+I heard voices in my head when I fought them.<end>
+
+=>q8
+I heard voices in my head when I fought them.<end>
+
+=>q9_original
+Watch your head. You don't want to end up in a crossfire.<end>
+
+=>q9
+Watch your head. You don't want to end up in a crossfire.<end>
+
+=>q10_original
+If you see one of those bots transform, get away fast. Those plasma bolts can tear you in half.<end>
+
+=>q10
+If you see one of those bots transform, get away fast. Those plasma bolts can tear you in half.<end>
+
+=>q11_original
+We can't even get the dead out, the other half of the station is under occupation.<end>
+
+=>q11
+We can't even get the dead out, the other half of the station is under occupation.<end>
+
+=>q12_original
+So much death...<end>
+
+=>q12
+So much death...<end>
+
+=>q13_original
+We got the weapons now, but we still need more men.<end>
+
+=>q13
+We got the weapons now, but we still need more men.<end>
+

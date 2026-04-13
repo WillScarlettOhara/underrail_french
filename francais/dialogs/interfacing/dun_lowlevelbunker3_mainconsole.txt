@@ -1,372 +1,372 @@
-=>q1_original
-::AI Testing Facility - Main console
-Biocorp Core Electronics
-Firmware version - 2.05::<end>
-
-=>q1
-::AI Testing Facility - Main console
-Biocorp Core Electronics
-Firmware version - 2.05::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Recall current active formation::<end>
-
-=>a3
-::Recall current active formation::<end>
-
-=>q4_original
-::Unknown error.::<end>
-
-=>q4
-::Unknown error.::<end>
-
-=>a5_original
-::Initiate tests: formation *Rapid*::<end>
-
-=>a5
-::Initiate tests: formation *Rapid*::<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>q7_original
-::Success, formation unit *Rapid* activated.::<end>
-
-=>q7
-::Success, formation unit *Rapid* activated.::<end>
-
-=>q8_original
-<end>
-
-=>q8
-<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>q10_original
-<end>
-
-=>q10
-<end>
-
-=>a11_original
-::Back::<end>
-
-=>a11
-::Back::<end>
-
-=>q12_original
-::Testing formation *Rapid* currently active.::<end>
-
-=>q12
-::Testing formation *Rapid* currently active.::<end>
-
-=>a13_original
-::Recall active formation::<end>
-
-=>a13
-::Recall active formation::<end>
-
-=>q14_original
-::Unknown error.::<end>
-
-=>q14
-::Unknown error.::<end>
-
-=>a15_original
-::Back::
-<end>
-
-=>a15
-::Back::
-<end>
-
-=>a16_original
-::Initiate tests: formation *Steady*::<end>
-
-=>a16
-::Initiate tests: formation *Steady*::<end>
-
-=>q17_original
-<end>
-
-=>q17
-<end>
-
-=>q18_original
-::Success, formation unit *Steady* activated.::<end>
-
-=>q18
-::Success, formation unit *Steady* activated.::<end>
-
-=>q19_original
-<end>
-
-=>q19
-<end>
-
-=>q20_original
-<end>
-
-=>q20
-<end>
-
-=>q21_original
-<end>
-
-=>q21
-<end>
-
-=>a22_original
-::Back::
-<end>
-
-=>a22
-::Back::
-<end>
-
-=>q23_original
-::Testing formation *Steady* currently active.::<end>
-
-=>q23
-::Testing formation *Steady* currently active.::<end>
-
-=>a24_original
-::Recall active formation::<end>
-
-=>a24
-::Recall active formation::<end>
-
-=>q25_original
-::Unknown error.::<end>
-
-=>q25
-::Unknown error.::<end>
-
-=>a26_original
-::Back::<end>
-
-=>a26
-::Back::<end>
-
-=>a27_original
-::Initiate tests: formation *Flash*::<end>
-
-=>a27
-::Initiate tests: formation *Flash*::<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>q29_original
-::Success, formation unit *Flash* activated.::<end>
-
-=>q29
-::Success, formation unit *Flash* activated.::<end>
-
-=>q30_original
-<end>
-
-=>q30
-<end>
-
-=>q31_original
-<end>
-
-=>q31
-<end>
-
-=>q32_original
-<end>
-
-=>q32
-<end>
-
-=>a33_original
-::Back::<end>
-
-=>a33
-::Back::<end>
-
-=>q34_original
-::Testing formation *Flash* currently active.::<end>
-
-=>q34
-::Testing formation *Flash* currently active.::<end>
-
-=>a35_original
-::Recall active formation::<end>
-
-=>a35
-::Recall active formation::<end>
-
-=>q36_original
-::Unknown error::<end>
-
-=>q36
-::Unknown error::<end>
-
-=>a37_original
-::Back::<end>
-
-=>a37
-::Back::<end>
-
-=>a38_original
-::Initiate tests: formation *Blaze*::<end>
-
-=>a38
-::Initiate tests: formation *Blaze*::<end>
-
-=>q39_original
-<end>
-
-=>q39
-<end>
-
-=>q40_original
-::Success, formation unit *Blaze* activated.::<end>
-
-=>q40
-::Success, formation unit *Blaze* activated.::<end>
-
-=>q41_original
-<end>
-
-=>q41
-<end>
-
-=>q42_original
-<end>
-
-=>q42
-<end>
-
-=>q43_original
-<end>
-
-=>q43
-<end>
-
-=>a44_original
-::Back::<end>
-
-=>a44
-::Back::<end>
-
-=>q45_original
-::Testing formation *Blaze* currently active.::<end>
-
-=>q45
-::Testing formation *Blaze* currently active.::<end>
-
-=>a46_original
-::Recall active formation::<end>
-
-=>a46
-::Recall active formation::<end>
-
-=>q47_original
-::Unknown error::<end>
-
-=>q47
-::Unknown error::<end>
-
-=>a48_original
-::Back::<end>
-
-=>a48
-::Back::<end>
-
-=>a49_original
-::Toggle path blocker obstacle section: Southwest::<end>
-
-=>a49
-::Toggle path blocker obstacle section: Southwest::<end>
-
-=>a50_original
-::Toggle path blocker obstacle section: Northwest::<end>
-
-=>a50
-::Toggle path blocker obstacle section: Northwest::<end>
-
-=>a51_original
-::Toggle obstacle: gas::<end>
-
-=>a51
-::Toggle obstacle: gas::<end>
-
-=>q52_original
-Applying combined gas obstacles to the western sections.<end>
-
-=>q52
-Applying combined gas obstacles to the western sections.<end>
-
-=>a53_original
-::Toggle obstacle: gas.::<end>
-
-=>a53
-::Toggle obstacle: gas.::<end>
-
-=>q54_original
-Retracting gas into the dedicated ventilation system.<end>
-
-=>q54
-Retracting gas into the dedicated ventilation system.<end>
-
-=>a55_original
-::Toggle combat simulation with static defense::<end>
-
-=>a55
-::Toggle combat simulation with static defense::<end>
-
-=>q56_original
-::WARNING!
-
-Turrets activated.
-
-All personel stay out of the testing area.::
-<end>
-
-=>q56
-::WARNING!
-
-Turrets activated.
-
-All personel stay out of the testing area.::
-<end>
-
-=>q57_original
-::Unknown error.::<end>
-
-=>q57
-::Unknown error.::<end>
-
-=>a58_original
-::Back::<end>
-
-=>a58
-::Back::<end>
-
-=>a59_original
-::Exit::<end>
-
-=>a59
-::Exit::<end>
-
+=>q1_original
+::AI Testing Facility - Main console
+Biocorp Core Electronics
+Firmware version - 2.05::<end>
+
+=>q1
+::AI Testing Facility - Main console
+Biocorp Core Electronics
+Firmware version - 2.05::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Recall current active formation::<end>
+
+=>a3
+::Recall current active formation::<end>
+
+=>q4_original
+::Unknown error.::<end>
+
+=>q4
+::Unknown error.::<end>
+
+=>a5_original
+::Initiate tests: formation *Rapid*::<end>
+
+=>a5
+::Initiate tests: formation *Rapid*::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+::Success, formation unit *Rapid* activated.::<end>
+
+=>q7
+::Success, formation unit *Rapid* activated.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+::Back::<end>
+
+=>a11
+::Back::<end>
+
+=>q12_original
+::Testing formation *Rapid* currently active.::<end>
+
+=>q12
+::Testing formation *Rapid* currently active.::<end>
+
+=>a13_original
+::Recall active formation::<end>
+
+=>a13
+::Recall active formation::<end>
+
+=>q14_original
+::Unknown error.::<end>
+
+=>q14
+::Unknown error.::<end>
+
+=>a15_original
+::Back::
+<end>
+
+=>a15
+::Back::
+<end>
+
+=>a16_original
+::Initiate tests: formation *Steady*::<end>
+
+=>a16
+::Initiate tests: formation *Steady*::<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+::Success, formation unit *Steady* activated.::<end>
+
+=>q18
+::Success, formation unit *Steady* activated.::<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+::Back::
+<end>
+
+=>a22
+::Back::
+<end>
+
+=>q23_original
+::Testing formation *Steady* currently active.::<end>
+
+=>q23
+::Testing formation *Steady* currently active.::<end>
+
+=>a24_original
+::Recall active formation::<end>
+
+=>a24
+::Recall active formation::<end>
+
+=>q25_original
+::Unknown error.::<end>
+
+=>q25
+::Unknown error.::<end>
+
+=>a26_original
+::Back::<end>
+
+=>a26
+::Back::<end>
+
+=>a27_original
+::Initiate tests: formation *Flash*::<end>
+
+=>a27
+::Initiate tests: formation *Flash*::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+::Success, formation unit *Flash* activated.::<end>
+
+=>q29
+::Success, formation unit *Flash* activated.::<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>a33_original
+::Back::<end>
+
+=>a33
+::Back::<end>
+
+=>q34_original
+::Testing formation *Flash* currently active.::<end>
+
+=>q34
+::Testing formation *Flash* currently active.::<end>
+
+=>a35_original
+::Recall active formation::<end>
+
+=>a35
+::Recall active formation::<end>
+
+=>q36_original
+::Unknown error::<end>
+
+=>q36
+::Unknown error::<end>
+
+=>a37_original
+::Back::<end>
+
+=>a37
+::Back::<end>
+
+=>a38_original
+::Initiate tests: formation *Blaze*::<end>
+
+=>a38
+::Initiate tests: formation *Blaze*::<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>q40_original
+::Success, formation unit *Blaze* activated.::<end>
+
+=>q40
+::Success, formation unit *Blaze* activated.::<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+::Back::<end>
+
+=>a44
+::Back::<end>
+
+=>q45_original
+::Testing formation *Blaze* currently active.::<end>
+
+=>q45
+::Testing formation *Blaze* currently active.::<end>
+
+=>a46_original
+::Recall active formation::<end>
+
+=>a46
+::Recall active formation::<end>
+
+=>q47_original
+::Unknown error::<end>
+
+=>q47
+::Unknown error::<end>
+
+=>a48_original
+::Back::<end>
+
+=>a48
+::Back::<end>
+
+=>a49_original
+::Toggle path blocker obstacle section: Southwest::<end>
+
+=>a49
+::Toggle path blocker obstacle section: Southwest::<end>
+
+=>a50_original
+::Toggle path blocker obstacle section: Northwest::<end>
+
+=>a50
+::Toggle path blocker obstacle section: Northwest::<end>
+
+=>a51_original
+::Toggle obstacle: gas::<end>
+
+=>a51
+::Toggle obstacle: gas::<end>
+
+=>q52_original
+Applying combined gas obstacles to the western sections.<end>
+
+=>q52
+Applying combined gas obstacles to the western sections.<end>
+
+=>a53_original
+::Toggle obstacle: gas.::<end>
+
+=>a53
+::Toggle obstacle: gas.::<end>
+
+=>q54_original
+Retracting gas into the dedicated ventilation system.<end>
+
+=>q54
+Retracting gas into the dedicated ventilation system.<end>
+
+=>a55_original
+::Toggle combat simulation with static defense::<end>
+
+=>a55
+::Toggle combat simulation with static defense::<end>
+
+=>q56_original
+::WARNING!
+
+Turrets activated.
+
+All personel stay out of the testing area.::
+<end>
+
+=>q56
+::WARNING!
+
+Turrets activated.
+
+All personel stay out of the testing area.::
+<end>
+
+=>q57_original
+::Unknown error.::<end>
+
+=>q57
+::Unknown error.::<end>
+
+=>a58_original
+::Back::<end>
+
+=>a58
+::Back::<end>
+
+=>a59_original
+::Exit::<end>
+
+=>a59
+::Exit::<end>
+

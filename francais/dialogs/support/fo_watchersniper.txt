@@ -1,12 +1,12 @@
-=>q1_original
-::She completely ignores you.::<end>
-
-=>q1
-::She completely ignores you.::<end>
-
-=>q2_original
-::She silently observes you.::<end>
-
-=>q2
-::She silently observes you.::<end>
-
+=>q1_original
+::She completely ignores you.::<end>
+
+=>q1
+::She completely ignores you.::<end>
+
+=>q2_original
+::She silently observes you.::<end>
+
+=>q2
+::She silently observes you.::<end>
+

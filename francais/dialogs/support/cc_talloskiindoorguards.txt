@@ -1,54 +1,54 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-::Nods.::<end>
-
-=>q2
-::Nods.::<end>
-
-=>q3_original
-Enjoy your stay.<end>
-
-=>q3
-Enjoy your stay.<end>
-
-=>q4_original
-$(#Sir/Ma'am)?<end>
-
-=>q4
-$(#Sir/Ma'am)?<end>
-
-=>q5_original
-Mr. Talloski seems very pleased about his monitor.<end>
-
-=>q5
-Mr. Talloski seems very pleased about his monitor.<end>
-
-=>q6_original
-Hey, didn't I see you in Arena?<end>
-
-=>q6
-Hey, didn't I see you in Arena?<end>
-
-=>q7_original
-So it is you who gave Sophie that... worm thingy. Where did you find such monstrosity?<end>
-
-=>q7
-So it is you who gave Sophie that... worm thingy. Where did you find such monstrosity?<end>
-
-=>q8_original
-You must be here to see Maxim. Heh. Heh.<end>
-
-=>q8
-You must be here to see Maxim. Heh. Heh.<end>
-
-=>q9_original
-Praetorian Security headquarters is right next to the manor. Just so you know.<end>
-
-=>q9
-Praetorian Security headquarters is right next to the manor. Just so you know.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Nods.::<end>
+
+=>q2
+::Nods.::<end>
+
+=>q3_original
+Enjoy your stay.<end>
+
+=>q3
+Enjoy your stay.<end>
+
+=>q4_original
+$(#Sir/Ma'am)?<end>
+
+=>q4
+$(#Sir/Ma'am)?<end>
+
+=>q5_original
+Mr. Talloski seems very pleased about his monitor.<end>
+
+=>q5
+Mr. Talloski seems very pleased about his monitor.<end>
+
+=>q6_original
+Hey, didn't I see you in Arena?<end>
+
+=>q6
+Hey, didn't I see you in Arena?<end>
+
+=>q7_original
+So it is you who gave Sophie that... worm thingy. Where did you find such monstrosity?<end>
+
+=>q7
+So it is you who gave Sophie that... worm thingy. Where did you find such monstrosity?<end>
+
+=>q8_original
+You must be here to see Maxim. Heh. Heh.<end>
+
+=>q8
+You must be here to see Maxim. Heh. Heh.<end>
+
+=>q9_original
+Praetorian Security headquarters is right next to the manor. Just so you know.<end>
+
+=>q9
+Praetorian Security headquarters is right next to the manor. Just so you know.<end>
+

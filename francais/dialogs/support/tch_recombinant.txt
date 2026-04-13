@@ -1,90 +1,90 @@
-=>q1_original
-We will crush the invaders!<end>
-
-=>q1
-We will crush the invaders!<end>
-
-=>q2_original
-::He quietly watches you.::<end>
-
-=>q2
-::He quietly watches you.::<end>
-
-=>q3_original
-<end>
-
-=>q3
-<end>
-
-=>q4_original
-Do you too wish to be big and strong?<end>
-
-=>q4
-Do you too wish to be big and strong?<end>
-
-=>q5_original
-Tchort is evolution.<end>
-
-=>q5
-Tchort is evolution.<end>
-
-=>q6_original
-::Stares at you.:: What is this armor you're wearing?<end>
-
-=>q6
-::Stares at you.:: What is this armor you're wearing?<end>
-
-=>q7_original
-If the Faceless come bothering us here... we will squash them like bugs.<end>
-
-=>q7
-If the Faceless come bothering us here... we will squash them like bugs.<end>
-
-=>q8_original
-Efreitor Mateo will be remembered for his dedication to Tchortism.<end>
-
-=>q8
-Efreitor Mateo will be remembered for his dedication to Tchortism.<end>
-
-=>q9_original
-Tchort guide you, $(#brother/sister).<end>
-
-=>q9
-Tchort guide you, $(#brother/sister).<end>
-
-=>q10_original
-All Faceless should be culled.<end>
-
-=>q10
-All Faceless should be culled.<end>
-
-=>q11_original
-We have superior genetics. Proven.<end>
-
-=>q11
-We have superior genetics. Proven.<end>
-
-=>q12_original
-$(#Brother/Sister)?<end>
-
-=>q12
-$(#Brother/Sister)?<end>
-
-=>q13_original
-All recombinants are Y.<end>
-
-=>q13
-All recombinants are Y.<end>
-
-=>q14_original
-Apex performance in the utility station. Well done.<end>
-
-=>q14
-Apex performance in the utility station. Well done.<end>
-
-=>q15_original
-Nevil is of Evdok's kind - a traitor and a disgrace to Tchortism.<end>
-
-=>q15
-Nevil is of Evdok's kind - a traitor and a disgrace to Tchortism.<end>
-
+=>q1_original
+We will crush the invaders!<end>
+
+=>q1
+We will crush the invaders!<end>
+
+=>q2_original
+::He quietly watches you.::<end>
+
+=>q2
+::He quietly watches you.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Do you too wish to be big and strong?<end>
+
+=>q4
+Do you too wish to be big and strong?<end>
+
+=>q5_original
+Tchort is evolution.<end>
+
+=>q5
+Tchort is evolution.<end>
+
+=>q6_original
+::Stares at you.:: What is this armor you're wearing?<end>
+
+=>q6
+::Stares at you.:: What is this armor you're wearing?<end>
+
+=>q7_original
+If the Faceless come bothering us here... we will squash them like bugs.<end>
+
+=>q7
+If the Faceless come bothering us here... we will squash them like bugs.<end>
+
+=>q8_original
+Efreitor Mateo will be remembered for his dedication to Tchortism.<end>
+
+=>q8
+Efreitor Mateo will be remembered for his dedication to Tchortism.<end>
+
+=>q9_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q9
+Tchort guide you, $(#brother/sister).<end>
+
+=>q10_original
+All Faceless should be culled.<end>
+
+=>q10
+All Faceless should be culled.<end>
+
+=>q11_original
+We have superior genetics. Proven.<end>
+
+=>q11
+We have superior genetics. Proven.<end>
+
+=>q12_original
+$(#Brother/Sister)?<end>
+
+=>q12
+$(#Brother/Sister)?<end>
+
+=>q13_original
+All recombinants are Y.<end>
+
+=>q13
+All recombinants are Y.<end>
+
+=>q14_original
+Apex performance in the utility station. Well done.<end>
+
+=>q14
+Apex performance in the utility station. Well done.<end>
+
+=>q15_original
+Nevil is of Evdok's kind - a traitor and a disgrace to Tchortism.<end>
+
+=>q15
+Nevil is of Evdok's kind - a traitor and a disgrace to Tchortism.<end>
+

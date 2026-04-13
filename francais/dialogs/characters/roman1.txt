@@ -1,90 +1,90 @@
-=>q1_original
-That was one hell of a fight.<end>
-
-=>q1
-That was one hell of a fight.<end>
-
-=>q2_original
-This is not a good time for chat, soldier.<end>
-
-=>q2
-This is not a good time for chat, soldier.<end>
-
-=>q3_original
-Wish I had time to chat, but I'm quite busy right now.<end>
-
-=>q3
-Wish I had time to chat, but I'm quite busy right now.<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-Have you made any progress in clearing the tunnel?<end>
-
-=>a5
-Have you made any progress in clearing the tunnel?<end>
-
-=>q6_original
-Not much so far. We have to dig deep enough to safely plant the explosives, otherwise we risk damaging the tunnel even more.<end>
-
-=>q6
-Not much so far. We have to dig deep enough to safely plant the explosives, otherwise we risk damaging the tunnel even more.<end>
-
-=>a7_original
-How much damage did the earthquake do?<end>
-
-=>a7
-How much damage did the earthquake do?<end>
-
-=>q8_original
-We're not sure. It might be that the tunnel just caved in a couple of places. I've sent parties to the tunnel's side entrances to investigate. We'll know more when they return.<end>
-
-=>q8
-We're not sure. It might be that the tunnel just caved in a couple of places. I've sent parties to the tunnel's side entrances to investigate. We'll know more when they return.<end>
-
-=>a9_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a9
-What do you know about Patrick Pierce's death?<end>
-
-=>q10_original
-He died in his sleep. What else is there to know?<end>
-
-=>q10
-He died in his sleep. What else is there to know?<end>
-
-=>a11_original
-Can you tell me what was he like as a person?<end>
-
-=>a11
-Can you tell me what was he like as a person?<end>
-
-=>q12_original
-He was a nice fellow. We would chat sometimes at the bar, now I often see his brother there. Poor lad. A miserable sight watching him just sit there, staring into his glass.<end>
-
-=>q12
-He was a nice fellow. We would chat sometimes at the bar, now I often see his brother there. Poor lad. A miserable sight watching him just sit there, staring into his glass.<end>
-
-=>q13_original
-He feels there was something wrong with his brothers death, but hey, even if he finds out something snapped in his brain, for example, what's it gonna do in the end? It's not gonna return Pat, that's for sure.<end>
-
-=>q13
-He feels there was something wrong with his brothers death, but hey, even if he finds out something snapped in his brain, for example, what's it gonna do in the end? It's not gonna return Pat, that's for sure.<end>
-
-=>a14_original
-I'll leave you to your work.<end>
-
-=>a14
-I'll leave you to your work.<end>
-
-=>q15_original
-Hi, you must be $(context.player.Name). Name's Roman. I'm in charge of this barricade.<end>
-
-=>q15
-Hi, you must be $(context.player.Name). Name's Roman. I'm in charge of this barricade.<end>
-
+=>q1_original
+That was one hell of a fight.<end>
+
+=>q1
+That was one hell of a fight.<end>
+
+=>q2_original
+This is not a good time for chat, soldier.<end>
+
+=>q2
+This is not a good time for chat, soldier.<end>
+
+=>q3_original
+Wish I had time to chat, but I'm quite busy right now.<end>
+
+=>q3
+Wish I had time to chat, but I'm quite busy right now.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Have you made any progress in clearing the tunnel?<end>
+
+=>a5
+Have you made any progress in clearing the tunnel?<end>
+
+=>q6_original
+Not much so far. We have to dig deep enough to safely plant the explosives, otherwise we risk damaging the tunnel even more.<end>
+
+=>q6
+Not much so far. We have to dig deep enough to safely plant the explosives, otherwise we risk damaging the tunnel even more.<end>
+
+=>a7_original
+How much damage did the earthquake do?<end>
+
+=>a7
+How much damage did the earthquake do?<end>
+
+=>q8_original
+We're not sure. It might be that the tunnel just caved in a couple of places. I've sent parties to the tunnel's side entrances to investigate. We'll know more when they return.<end>
+
+=>q8
+We're not sure. It might be that the tunnel just caved in a couple of places. I've sent parties to the tunnel's side entrances to investigate. We'll know more when they return.<end>
+
+=>a9_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a9
+What do you know about Patrick Pierce's death?<end>
+
+=>q10_original
+He died in his sleep. What else is there to know?<end>
+
+=>q10
+He died in his sleep. What else is there to know?<end>
+
+=>a11_original
+Can you tell me what was he like as a person?<end>
+
+=>a11
+Can you tell me what was he like as a person?<end>
+
+=>q12_original
+He was a nice fellow. We would chat sometimes at the bar, now I often see his brother there. Poor lad. A miserable sight watching him just sit there, staring into his glass.<end>
+
+=>q12
+He was a nice fellow. We would chat sometimes at the bar, now I often see his brother there. Poor lad. A miserable sight watching him just sit there, staring into his glass.<end>
+
+=>q13_original
+He feels there was something wrong with his brothers death, but hey, even if he finds out something snapped in his brain, for example, what's it gonna do in the end? It's not gonna return Pat, that's for sure.<end>
+
+=>q13
+He feels there was something wrong with his brothers death, but hey, even if he finds out something snapped in his brain, for example, what's it gonna do in the end? It's not gonna return Pat, that's for sure.<end>
+
+=>a14_original
+I'll leave you to your work.<end>
+
+=>a14
+I'll leave you to your work.<end>
+
+=>q15_original
+Hi, you must be $(context.player.Name). Name's Roman. I'm in charge of this barricade.<end>
+
+=>q15
+Hi, you must be $(context.player.Name). Name's Roman. I'm in charge of this barricade.<end>
+

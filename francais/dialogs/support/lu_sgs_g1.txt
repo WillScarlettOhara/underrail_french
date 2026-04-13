@@ -1,78 +1,78 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-People killing each other in the station. Yeah, just what we needed right now.<end>
-
-=>q2
-People killing each other in the station. Yeah, just what we needed right now.<end>
-
-=>q3_original
-Where'd that minibot come from?<end>
-
-=>q3
-Where'd that minibot come from?<end>
-
-=>q4_original
-I heard you guys found burrowers in GMS.<end>
-
-=>q4
-I heard you guys found burrowers in GMS.<end>
-
-=>q5_original
-$(context.player.Name).<end>
-
-=>q5
-$(context.player.Name).<end>
-
-=>q6_original
-Hey, heard about that psionic at the bar that turned into a shriveled old geezer?<end>
-
-=>q6
-Hey, heard about that psionic at the bar that turned into a shriveled old geezer?<end>
-
-=>q7_original
-Rest in peace, Gorsky. I'm sure you went out with a bang.<end>
-
-=>q7
-Rest in peace, Gorsky. I'm sure you went out with a bang.<end>
-
-=>q8_original
-We're on the lookout for the Faceless.<end>
-
-=>q8
-We're on the lookout for the Faceless.<end>
-
-=>q9_original
-Avoid the under-passages.<end>
-
-=>q9
-Avoid the under-passages.<end>
-
-=>q10_original
-Some tunnels are poorly lit, so you better bring night vision goggles.<end>
-
-=>q10
-Some tunnels are poorly lit, so you better bring night vision goggles.<end>
-
-=>q11_original
-It's not safe to wander past the station perimeter.<end>
-
-=>q11
-It's not safe to wander past the station perimeter.<end>
-
-=>q12_original
-If you see any Lurkers, run.<end>
-
-=>q12
-If you see any Lurkers, run.<end>
-
-=>q13_original
-Once you leave the metro station, you're on your own.<end>
-
-=>q13
-Once you leave the metro station, you're on your own.<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+People killing each other in the station. Yeah, just what we needed right now.<end>
+
+=>q2
+People killing each other in the station. Yeah, just what we needed right now.<end>
+
+=>q3_original
+Where'd that minibot come from?<end>
+
+=>q3
+Where'd that minibot come from?<end>
+
+=>q4_original
+I heard you guys found burrowers in GMS.<end>
+
+=>q4
+I heard you guys found burrowers in GMS.<end>
+
+=>q5_original
+$(context.player.Name).<end>
+
+=>q5
+$(context.player.Name).<end>
+
+=>q6_original
+Hey, heard about that psionic at the bar that turned into a shriveled old geezer?<end>
+
+=>q6
+Hey, heard about that psionic at the bar that turned into a shriveled old geezer?<end>
+
+=>q7_original
+Rest in peace, Gorsky. I'm sure you went out with a bang.<end>
+
+=>q7
+Rest in peace, Gorsky. I'm sure you went out with a bang.<end>
+
+=>q8_original
+We're on the lookout for the Faceless.<end>
+
+=>q8
+We're on the lookout for the Faceless.<end>
+
+=>q9_original
+Avoid the under-passages.<end>
+
+=>q9
+Avoid the under-passages.<end>
+
+=>q10_original
+Some tunnels are poorly lit, so you better bring night vision goggles.<end>
+
+=>q10
+Some tunnels are poorly lit, so you better bring night vision goggles.<end>
+
+=>q11_original
+It's not safe to wander past the station perimeter.<end>
+
+=>q11
+It's not safe to wander past the station perimeter.<end>
+
+=>q12_original
+If you see any Lurkers, run.<end>
+
+=>q12
+If you see any Lurkers, run.<end>
+
+=>q13_original
+Once you leave the metro station, you're on your own.<end>
+
+=>q13
+Once you leave the metro station, you're on your own.<end>
+

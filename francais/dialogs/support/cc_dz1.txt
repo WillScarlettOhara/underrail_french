@@ -1,60 +1,60 @@
-=>q1_original
-<end>
-
-=>q1
-<end>
-
-=>q2_original
-Whatcha lookin' at?<end>
-
-=>q2
-Whatcha lookin' at?<end>
-
-=>q3_original
-Stop botherin' me, pipeworker!<end>
-
-=>q3
-Stop botherin' me, pipeworker!<end>
-
-=>q4_original
-Is there something interestin' on my face? Stop staring at me!<end>
-
-=>q4
-Is there something interestin' on my face? Stop staring at me!<end>
-
-=>q5_original
-There is no future in Drop Zone. Only misery.<end>
-
-=>q5
-There is no future in Drop Zone. Only misery.<end>
-
-=>q6_original
-Leave me be or I'll zone you out.<end>
-
-=>q6
-Leave me be or I'll zone you out.<end>
-
-=>q7_original
-You should go and fight in the Arena. Sorry, I meant go and *die* in the Arena.<end>
-
-=>q7
-You should go and fight in the Arena. Sorry, I meant go and *die* in the Arena.<end>
-
-=>q8_original
-Just zone out.<end>
-
-=>q8
-Just zone out.<end>
-
-=>q9_original
-Are you talkin' to me?<end>
-
-=>q9
-Are you talkin' to me?<end>
-
-=>q10_original
-::Sighs.:: What?<end>
-
-=>q10
-::Sighs.:: What?<end>
-
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Whatcha lookin' at?<end>
+
+=>q2
+Whatcha lookin' at?<end>
+
+=>q3_original
+Stop botherin' me, pipeworker!<end>
+
+=>q3
+Stop botherin' me, pipeworker!<end>
+
+=>q4_original
+Is there something interestin' on my face? Stop staring at me!<end>
+
+=>q4
+Is there something interestin' on my face? Stop staring at me!<end>
+
+=>q5_original
+There is no future in Drop Zone. Only misery.<end>
+
+=>q5
+There is no future in Drop Zone. Only misery.<end>
+
+=>q6_original
+Leave me be or I'll zone you out.<end>
+
+=>q6
+Leave me be or I'll zone you out.<end>
+
+=>q7_original
+You should go and fight in the Arena. Sorry, I meant go and *die* in the Arena.<end>
+
+=>q7
+You should go and fight in the Arena. Sorry, I meant go and *die* in the Arena.<end>
+
+=>q8_original
+Just zone out.<end>
+
+=>q8
+Just zone out.<end>
+
+=>q9_original
+Are you talkin' to me?<end>
+
+=>q9
+Are you talkin' to me?<end>
+
+=>q10_original
+::Sighs.:: What?<end>
+
+=>q10
+::Sighs.:: What?<end>
+

@@ -1,114 +1,114 @@
-=>q1_original
-::Session in progress.::
-
-::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
-::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
-::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
-::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
-
-=>q1
-::Session in progress.::
-
-::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
-::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
-::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
-::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
-
-=>a2_original
-::End session::<end>
-
-=>a2
-::End session::<end>
-
-=>q3_original
-::Session ended. Final statistics: ::
-
-::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
-::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
-::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
-::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
-
-=>q3
-::Session ended. Final statistics: ::
-
-::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
-::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
-::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
-::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
-
-=>q4_original
-<end>
-
-=>q4
-<end>
-
-=>a5_original
-::Continue session::<end>
-
-=>a5
-::Continue session::<end>
-
-=>q6_original
-::Welcome to the Shooting Range. 
-
-What do you wish to do?::<end>
-
-=>q6
-::Welcome to the Shooting Range. 
-
-What do you wish to do?::<end>
-
-=>a7_original
-::Configure target distance::<end>
-
-=>a7
-::Configure target distance::<end>
-
-=>q8_original
-::Choose target distance.::<end>
-
-=>q8
-::Choose target distance.::<end>
-
-=>a9_original
-::5 meters::<end>
-
-=>a9
-::5 meters::<end>
-
-=>a10_original
-::8 meters::<end>
-
-=>a10
-::8 meters::<end>
-
-=>a11_original
-::10 meters::<end>
-
-=>a11
-::10 meters::<end>
-
-=>a12_original
-::Leave it as it is::<end>
-
-=>a12
-::Leave it as it is::<end>
-
-=>a13_original
-::Start new session::<end>
-
-=>a13
-::Start new session::<end>
-
-=>q14_original
-Session started.<end>
-
-=>q14
-Session started.<end>
-
-=>a15_original
-::Leave::<end>
-
-=>a15
-::Leave::<end>
-
+=>q1_original
+::Session in progress.::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>q1
+::Session in progress.::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>a2_original
+::End session::<end>
+
+=>a2
+::End session::<end>
+
+=>q3_original
+::Session ended. Final statistics: ::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>q3
+::Session ended. Final statistics: ::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Continue session::<end>
+
+=>a5
+::Continue session::<end>
+
+=>q6_original
+::Welcome to the Shooting Range. 
+
+What do you wish to do?::<end>
+
+=>q6
+::Welcome to the Shooting Range. 
+
+What do you wish to do?::<end>
+
+=>a7_original
+::Configure target distance::<end>
+
+=>a7
+::Configure target distance::<end>
+
+=>q8_original
+::Choose target distance.::<end>
+
+=>q8
+::Choose target distance.::<end>
+
+=>a9_original
+::5 meters::<end>
+
+=>a9
+::5 meters::<end>
+
+=>a10_original
+::8 meters::<end>
+
+=>a10
+::8 meters::<end>
+
+=>a11_original
+::10 meters::<end>
+
+=>a11
+::10 meters::<end>
+
+=>a12_original
+::Leave it as it is::<end>
+
+=>a12
+::Leave it as it is::<end>
+
+=>a13_original
+::Start new session::<end>
+
+=>a13
+::Start new session::<end>
+
+=>q14_original
+Session started.<end>
+
+=>q14
+Session started.<end>
+
+=>a15_original
+::Leave::<end>
+
+=>a15
+::Leave::<end>
+

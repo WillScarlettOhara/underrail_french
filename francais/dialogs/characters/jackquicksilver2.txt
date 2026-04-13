@@ -1,108 +1,108 @@
-=>q1_original
-I was just about to leave. I honestly did not expect you should survive.<end>
-
-=>q1
-I was just about to leave. I honestly did not expect you should survive.<end>
-
-=>a2_original
-What is the meaning of this?<end>
-
-=>a2
-What is the meaning of this?<end>
-
-=>q3_original
-I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
-
-=>q3
-I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
-
-=>q4_original
-But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::<end>
-
-=>q4
-But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::<end>
-
-=>q5_original
-<end>
-
-=>q5
-<end>
-
-=>a6_original
-Yeah, show me what you have. ::Barter.::<end>
-
-=>a6
-Yeah, show me what you have. ::Barter.::<end>
-
-=>a7_original
-Why did you wait for me if you expected me to die?<end>
-
-=>a7
-Why did you wait for me if you expected me to die?<end>
-
-=>q8_original
-I'm a man of my word, $(context.player.Name), I always honor the deal.<end>
-
-=>q8
-I'm a man of my word, $(context.player.Name), I always honor the deal.<end>
-
-=>a9_original
-What will you do now?<end>
-
-=>a9
-What will you do now?<end>
-
-=>q10_original
-I'll move on to... some other place. The trains are out, but there are other ways to travel around, though, they are much slower, especially if you don't know all the shortcuts. ::He smiles.::<end>
-
-=>q10
-I'll move on to... some other place. The trains are out, but there are other ways to travel around, though, they are much slower, especially if you don't know all the shortcuts. ::He smiles.::<end>
-
-=>q11_original
-Let me know if there's something you'd like to trade before I leave.<end>
-
-=>q11
-Let me know if there's something you'd like to trade before I leave.<end>
-
-=>a12_original
-I'll be going now.<end>
-
-=>a12
-I'll be going now.<end>
-
-=>q13_original
-So will I. I have a feeling we will meet again, $(context.player.Name). I hope we do. Farewell.<end>
-
-=>q13
-So will I. I have a feeling we will meet again, $(context.player.Name). I hope we do. Farewell.<end>
-
-=>a14_original
-You used me as a decoy.<end>
-
-=>a14
-You used me as a decoy.<end>
-
-=>q15_original
-That I did. <end>
-
-=>q15
-That I did. <end>
-
-=>q16_original
-Was there something you wanted to buy before I leave?<end>
-
-=>q16
-Was there something you wanted to buy before I leave?<end>
-
-=>a17_original
-Yeah, show me what you have. ::Barter.::<end>
-
-=>a17
-Yeah, show me what you have. ::Barter.::<end>
-
-=>a18_original
-No, never mind.<end>
-
-=>a18
-No, never mind.<end>
-
+=>q1_original
+I was just about to leave. I honestly did not expect you should survive.<end>
+
+=>q1
+I was just about to leave. I honestly did not expect you should survive.<end>
+
+=>a2_original
+What is the meaning of this?<end>
+
+=>a2
+What is the meaning of this?<end>
+
+=>q3_original
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q3
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q4_original
+But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::<end>
+
+=>q4
+But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Yeah, show me what you have. ::Barter.::<end>
+
+=>a6
+Yeah, show me what you have. ::Barter.::<end>
+
+=>a7_original
+Why did you wait for me if you expected me to die?<end>
+
+=>a7
+Why did you wait for me if you expected me to die?<end>
+
+=>q8_original
+I'm a man of my word, $(context.player.Name), I always honor the deal.<end>
+
+=>q8
+I'm a man of my word, $(context.player.Name), I always honor the deal.<end>
+
+=>a9_original
+What will you do now?<end>
+
+=>a9
+What will you do now?<end>
+
+=>q10_original
+I'll move on to... some other place. The trains are out, but there are other ways to travel around, though, they are much slower, especially if you don't know all the shortcuts. ::He smiles.::<end>
+
+=>q10
+I'll move on to... some other place. The trains are out, but there are other ways to travel around, though, they are much slower, especially if you don't know all the shortcuts. ::He smiles.::<end>
+
+=>q11_original
+Let me know if there's something you'd like to trade before I leave.<end>
+
+=>q11
+Let me know if there's something you'd like to trade before I leave.<end>
+
+=>a12_original
+I'll be going now.<end>
+
+=>a12
+I'll be going now.<end>
+
+=>q13_original
+So will I. I have a feeling we will meet again, $(context.player.Name). I hope we do. Farewell.<end>
+
+=>q13
+So will I. I have a feeling we will meet again, $(context.player.Name). I hope we do. Farewell.<end>
+
+=>a14_original
+You used me as a decoy.<end>
+
+=>a14
+You used me as a decoy.<end>
+
+=>q15_original
+That I did. <end>
+
+=>q15
+That I did. <end>
+
+=>q16_original
+Was there something you wanted to buy before I leave?<end>
+
+=>q16
+Was there something you wanted to buy before I leave?<end>
+
+=>a17_original
+Yeah, show me what you have. ::Barter.::<end>
+
+=>a17
+Yeah, show me what you have. ::Barter.::<end>
+
+=>a18_original
+No, never mind.<end>
+
+=>a18
+No, never mind.<end>
+

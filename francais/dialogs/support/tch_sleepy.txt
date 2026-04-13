@@ -1,66 +1,66 @@
-=>q1_original
-Th-- the Faceless are here! RUN!<end>
-
-=>q1
-Th-- the Faceless are here! RUN!<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>q3_original
-::Yawns.::<end>
-
-=>q3
-::Yawns.::<end>
-
-=>q4_original
-Hey $(#brother/sister).<end>
-
-=>q4
-Hey $(#brother/sister).<end>
-
-=>q5_original
-I am so tired...<end>
-
-=>q5
-I am so tired...<end>
-
-=>q6_original
-I feel so sleepy...<end>
-
-=>q6
-I feel so sleepy...<end>
-
-=>q7_original
-I once fell asleep while walking from the refectory. That was fun.<end>
-
-=>q7
-I once fell asleep while walking from the refectory. That was fun.<end>
-
-=>q8_original
-Tchort is sleepy... I mean evolution.<end>
-
-=>q8
-Tchort is sleepy... I mean evolution.<end>
-
-=>q9_original
-Not even the Faceless invasion would be able to wake me up once I finally put my head on a pillow.<end>
-
-=>q9
-Not even the Faceless invasion would be able to wake me up once I finally put my head on a pillow.<end>
-
-=>q10_original
-Mmmmm...?<end>
-
-=>q10
-Mmmmm...?<end>
-
-=>q11_original
-All those lectures can really tire a Tchortist out.<end>
-
-=>q11
-All those lectures can really tire a Tchortist out.<end>
-
+=>q1_original
+Th-- the Faceless are here! RUN!<end>
+
+=>q1
+Th-- the Faceless are here! RUN!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Yawns.::<end>
+
+=>q3
+::Yawns.::<end>
+
+=>q4_original
+Hey $(#brother/sister).<end>
+
+=>q4
+Hey $(#brother/sister).<end>
+
+=>q5_original
+I am so tired...<end>
+
+=>q5
+I am so tired...<end>
+
+=>q6_original
+I feel so sleepy...<end>
+
+=>q6
+I feel so sleepy...<end>
+
+=>q7_original
+I once fell asleep while walking from the refectory. That was fun.<end>
+
+=>q7
+I once fell asleep while walking from the refectory. That was fun.<end>
+
+=>q8_original
+Tchort is sleepy... I mean evolution.<end>
+
+=>q8
+Tchort is sleepy... I mean evolution.<end>
+
+=>q9_original
+Not even the Faceless invasion would be able to wake me up once I finally put my head on a pillow.<end>
+
+=>q9
+Not even the Faceless invasion would be able to wake me up once I finally put my head on a pillow.<end>
+
+=>q10_original
+Mmmmm...?<end>
+
+=>q10
+Mmmmm...?<end>
+
+=>q11_original
+All those lectures can really tire a Tchortist out.<end>
+
+=>q11
+All those lectures can really tire a Tchortist out.<end>
+

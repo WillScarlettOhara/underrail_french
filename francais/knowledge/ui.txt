@@ -1457,4 +1457,4 @@ armement des pièges
 Bilocation
 
 ::CooldownCategory_DisplayText_PseudoSpatialProjection
-Projection pseudo-spatiale
+Projection pseudo-spatiale

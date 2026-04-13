@@ -1,600 +1,600 @@
-=>q1_original
-Go bother someone else, Judge $(context.player.Name).<end>
-
-=>q1
-Go bother someone else, Judge $(context.player.Name).<end>
-
-=>q2_original
-Get lost.<end>
-
-=>q2
-Get lost.<end>
-
-=>q3_original
-He's gone.<end>
-
-=>q3
-He's gone.<end>
-
-=>a4_original
-He sure is.<end>
-
-=>a4
-He sure is.<end>
-
-=>q5_original
-Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
-
-What did you need, $(context.player.Name)?<end>
-
-=>q5
-Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
-
-What did you need, $(context.player.Name)?<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-I've brought you some meat for the eels.<end>
-
-=>a7
-I've brought you some meat for the eels.<end>
-
-=>q8_original
-Good. Do you want to trade it?<end>
-
-=>q8
-Good. Do you want to trade it?<end>
-
-=>q9_original
-<end>
-
-=>q9
-<end>
-
-=>a10_original
-What can you offer?<end>
-
-=>a10
-What can you offer?<end>
-
-=>q11_original
-How about a health hypo?<end>
-
-=>q11
-How about a health hypo?<end>
-
-=>a12_original
-Sounds fair. I'll take it.<end>
-
-=>a12
-Sounds fair. I'll take it.<end>
-
-=>q13_original
-Good.<end>
-
-=>q13
-Good.<end>
-
-=>q14_original
-Now to catch some eels.<end>
-
-=>q14
-Now to catch some eels.<end>
-
-=>a15_original
-I had more questions, actually.<end>
-
-=>a15
-I had more questions, actually.<end>
-
-=>q16_original
-Ask.<end>
-
-=>q16
-Ask.<end>
-
-=>a17_original
-I'll leave you to it. Good luck.<end>
-
-=>a17
-I'll leave you to it. Good luck.<end>
-
-=>a18_original
-::[Mercantile]:: Make it two and you have a deal.<end>
-
-=>a18
-::[Mercantile]:: Make it two and you have a deal.<end>
-
-=>q19_original
-You drive a hard bargain, but very well.<end>
-
-=>q19
-You drive a hard bargain, but very well.<end>
-
-=>q20_original
-No, one hypo. Take it or leave it.<end>
-
-=>q20
-No, one hypo. Take it or leave it.<end>
-
-=>a21_original
-Alright, I'll take it.<end>
-
-=>a21
-Alright, I'll take it.<end>
-
-=>a22_original
-In that case I'll pass.<end>
-
-=>a22
-In that case I'll pass.<end>
-
-=>a23_original
-Actually, I decided not to trade.<end>
-
-=>a23
-Actually, I decided not to trade.<end>
-
-=>q24_original
-Stop wasting my time then.<end>
-
-=>q24
-Stop wasting my time then.<end>
-
-=>a25_original
-You can have it for free. It's no big deal.<end>
-
-=>a25
-You can have it for free. It's no big deal.<end>
-
-=>q26_original
-I *never* take charity. We must trade.<end>
-
-=>q26
-I *never* take charity. We must trade.<end>
-
-=>a27_original
-Sorry, but I need it as well.<end>
-
-=>a27
-Sorry, but I need it as well.<end>
-
-=>a28_original
-I know you killed Patrick Pierce.<end>
-
-=>a28
-I know you killed Patrick Pierce.<end>
-
-=>q29_original
-Killed? Patrick Pierce died in his sleep.<end>
-
-=>q29
-Killed? Patrick Pierce died in his sleep.<end>
-
-=>a30_original
-::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
-
-=>a30
-::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
-
-=>q31_original
-::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
-
-Yes. You got me. Tell Pat you got his murderer's confession.<end>
-
-=>q31
-::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
-
-Yes. You got me. Tell Pat you got his murderer's confession.<end>
-
-=>a32_original
-::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
-
-=>a32
-::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
-
-=>q33_original
-::Mordre stops. An answer follows shortly.::
-
-I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
-
-=>q33
-::Mordre stops. An answer follows shortly.::
-
-I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
-
-=>a34_original
-::Let him leave.::<end>
-
-=>a34
-::Let him leave.::<end>
-
-=>q35_original
-::Mordre completely ignores your suggestion.::<end>
-
-=>q35
-::Mordre completely ignores your suggestion.::<end>
-
-=>a36_original
-::Fight!::<end>
-
-=>a36
-::Fight!::<end>
-
-=>q37_original
-::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
-
-This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
-
-=>q37
-::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
-
-This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
-
-=>a38_original
-::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
-
-=>a38
-::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
-
-=>a39_original
-My mistake. Wrong man. Sorry.<end>
-
-=>a39
-My mistake. Wrong man. Sorry.<end>
-
-=>q40_original
-Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
-
-=>q40
-Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
-
-=>a41_original
-What do you know about Patrick Pierce's death?<end>
-
-=>a41
-What do you know about Patrick Pierce's death?<end>
-
-=>q42_original
-Died in his sleep. That's how I remember it, at least.<end>
-
-=>q42
-Died in his sleep. That's how I remember it, at least.<end>
-
-=>a43_original
-Can you tell me what was he like as a person?<end>
-
-=>a43
-Can you tell me what was he like as a person?<end>
-
-=>q44_original
-Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
-
-=>q44
-Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
-
-=>a45_original
-Tell me about deep eels.<end>
-
-=>a45
-Tell me about deep eels.<end>
-
-=>q46_original
-There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
-
-=>q46
-There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
-
-=>q47_original
-The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
-
-=>q47
-The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
-
-=>a48_original
-What is this place?<end>
-
-=>a48
-What is this place?<end>
-
-=>q49_original
-It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
-
-=>q49
-It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
-
-=>a50_original
-So how's the fishing going?<end>
-
-=>a50
-So how's the fishing going?<end>
-
-=>q51_original
-Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
-
-=>q51
-Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
-
-=>a52_original
-Tell me about deep eels.<end>
-
-=>a52
-Tell me about deep eels.<end>
-
-=>a53_original
-What kind of meat do you need?<end>
-
-=>a53
-What kind of meat do you need?<end>
-
-=>q54_original
-Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
-
-=>q54
-Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
-
-=>a55_original
-I'll get you some meat.<end>
-
-=>a55
-I'll get you some meat.<end>
-
-=>q56_original
-That would be great.<end>
-
-=>q56
-That would be great.<end>
-
-=>a57_original
-I've got some meat right here.<end>
-
-=>a57
-I've got some meat right here.<end>
-
-=>a58_original
-Better come prepared next time then.<end>
-
-=>a58
-Better come prepared next time then.<end>
-
-=>q59_original
-::He nods.:: Yeah.<end>
-
-=>q59
-::He nods.:: Yeah.<end>
-
-=>a60_original
-Too bad.<end>
-
-=>a60
-Too bad.<end>
-
-=>a61_original
-I didn't catch your name the first time.<end>
-
-=>a61
-I didn't catch your name the first time.<end>
-
-=>q62_original
-::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
-
-=>q62
-::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
-
-=>a63_original
-::[Intimidate]:: I'd like to see you try.<end>
-
-=>a63
-::[Intimidate]:: I'd like to see you try.<end>
-
-=>q64_original
-No, you wouldn't.<end>
-
-=>q64
-No, you wouldn't.<end>
-
-=>a65_original
-In that case, Mordre will do.<end>
-
-=>a65
-In that case, Mordre will do.<end>
-
-=>q66_original
-Good.<end>
-
-=>q66
-Good.<end>
-
-=>a67_original
-What are your thoughts on the Faceless invasion?<end>
-
-=>a67
-What are your thoughts on the Faceless invasion?<end>
-
-=>q68_original
-The Faceless spared them. There's nothing more to say.<end>
-
-=>q68
-The Faceless spared them. There's nothing more to say.<end>
-
-=>q69_original
-If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
-
-=>q69
-If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
-
-=>q70_original
-The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
-
-=>q70
-The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
-
-=>q71_original
-I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
-
-=>q71
-I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
-
-=>a72_original
-I have a feeling you don't have much love for the Core City.<end>
-
-=>a72
-I have a feeling you don't have much love for the Core City.<end>
-
-=>q73_original
-It is their police and their so called "Oligarchs" that I dislike.<end>
-
-=>q73
-It is their police and their so called "Oligarchs" that I dislike.<end>
-
-=>q74_original
-They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
-
-=>q74
-They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
-
-=>q75_original
-And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
-
-=>q75
-And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
-
-=>q76_original
-And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
-
-=>q76
-And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
-
-=>a77_original
-That's a nice cigar you have there.<end>
-
-=>a77
-That's a nice cigar you have there.<end>
-
-=>q78_original
-Thanks.<end>
-
-=>q78
-Thanks.<end>
-
-=>a79_original
-Where did you get them? It must've cost a lot.<end>
-
-=>a79
-Where did you get them? It must've cost a lot.<end>
-
-=>q80_original
-I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
-
-=>q80
-I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
-
-=>a81_original
-Got a spare cigar?<end>
-
-=>a81
-Got a spare cigar?<end>
-
-=>q82_original
-No.<end>
-
-=>q82
-No.<end>
-
-=>q83_original
-::He draws another smoke.::<end>
-
-=>q83
-::He draws another smoke.::<end>
-
-=>a84_original
-I suppose so.<end>
-
-=>a84
-I suppose so.<end>
-
-=>a85_original
-Nothing really. Was just stopping by.<end>
-
-=>a85
-Nothing really. Was just stopping by.<end>
-
-=>a86_original
-You talking about Tanner?<end>
-
-=>a86
-You talking about Tanner?<end>
-
-=>q87_original
-Of course. <end>
-
-=>q87
-Of course. <end>
-
-=>a88_original
-Who?<end>
-
-=>a88
-Who?<end>
-
-=>q89_original
-Tanner, of course. <end>
-
-=>q89
-Tanner, of course. <end>
-
-=>q90_original
-What do you want?<end>
-
-=>q90
-What do you want?<end>
-
-=>q91_original
-Something you need?<end>
-
-=>q91
-Something you need?<end>
-
-=>q92_original
-::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
-
-Don't stomp around. You're scaring the fish away.<end>
-
-=>q92
-::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
-
-Don't stomp around. You're scaring the fish away.<end>
-
-=>q93_original
-You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
-
-I guess you got admitted.<end>
-
-=>q93
-You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
-
-I guess you got admitted.<end>
-
-=>a94_original
-Yeah, and who're you?<end>
-
-=>a94
-Yeah, and who're you?<end>
-
-=>a95_original
-I'd love to stay and chat, but I got things to do.<end>
-
-=>a95
-I'd love to stay and chat, but I got things to do.<end>
-
-=>q96_original
-Off you go then, but do it *quietly.*<end>
-
-=>q96
-Off you go then, but do it *quietly.*<end>
-
+=>q1_original
+Go bother someone else, Judge $(context.player.Name).<end>
+
+=>q1
+Go bother someone else, Judge $(context.player.Name).<end>
+
+=>q2_original
+Get lost.<end>
+
+=>q2
+Get lost.<end>
+
+=>q3_original
+He's gone.<end>
+
+=>q3
+He's gone.<end>
+
+=>a4_original
+He sure is.<end>
+
+=>a4
+He sure is.<end>
+
+=>q5_original
+Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
+
+What did you need, $(context.player.Name)?<end>
+
+=>q5
+Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
+
+What did you need, $(context.player.Name)?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I've brought you some meat for the eels.<end>
+
+=>a7
+I've brought you some meat for the eels.<end>
+
+=>q8_original
+Good. Do you want to trade it?<end>
+
+=>q8
+Good. Do you want to trade it?<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+What can you offer?<end>
+
+=>a10
+What can you offer?<end>
+
+=>q11_original
+How about a health hypo?<end>
+
+=>q11
+How about a health hypo?<end>
+
+=>a12_original
+Sounds fair. I'll take it.<end>
+
+=>a12
+Sounds fair. I'll take it.<end>
+
+=>q13_original
+Good.<end>
+
+=>q13
+Good.<end>
+
+=>q14_original
+Now to catch some eels.<end>
+
+=>q14
+Now to catch some eels.<end>
+
+=>a15_original
+I had more questions, actually.<end>
+
+=>a15
+I had more questions, actually.<end>
+
+=>q16_original
+Ask.<end>
+
+=>q16
+Ask.<end>
+
+=>a17_original
+I'll leave you to it. Good luck.<end>
+
+=>a17
+I'll leave you to it. Good luck.<end>
+
+=>a18_original
+::[Mercantile]:: Make it two and you have a deal.<end>
+
+=>a18
+::[Mercantile]:: Make it two and you have a deal.<end>
+
+=>q19_original
+You drive a hard bargain, but very well.<end>
+
+=>q19
+You drive a hard bargain, but very well.<end>
+
+=>q20_original
+No, one hypo. Take it or leave it.<end>
+
+=>q20
+No, one hypo. Take it or leave it.<end>
+
+=>a21_original
+Alright, I'll take it.<end>
+
+=>a21
+Alright, I'll take it.<end>
+
+=>a22_original
+In that case I'll pass.<end>
+
+=>a22
+In that case I'll pass.<end>
+
+=>a23_original
+Actually, I decided not to trade.<end>
+
+=>a23
+Actually, I decided not to trade.<end>
+
+=>q24_original
+Stop wasting my time then.<end>
+
+=>q24
+Stop wasting my time then.<end>
+
+=>a25_original
+You can have it for free. It's no big deal.<end>
+
+=>a25
+You can have it for free. It's no big deal.<end>
+
+=>q26_original
+I *never* take charity. We must trade.<end>
+
+=>q26
+I *never* take charity. We must trade.<end>
+
+=>a27_original
+Sorry, but I need it as well.<end>
+
+=>a27
+Sorry, but I need it as well.<end>
+
+=>a28_original
+I know you killed Patrick Pierce.<end>
+
+=>a28
+I know you killed Patrick Pierce.<end>
+
+=>q29_original
+Killed? Patrick Pierce died in his sleep.<end>
+
+=>q29
+Killed? Patrick Pierce died in his sleep.<end>
+
+=>a30_original
+::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
+
+=>a30
+::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
+
+=>q31_original
+::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
+
+Yes. You got me. Tell Pat you got his murderer's confession.<end>
+
+=>q31
+::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
+
+Yes. You got me. Tell Pat you got his murderer's confession.<end>
+
+=>a32_original
+::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
+
+=>a32
+::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
+
+=>q33_original
+::Mordre stops. An answer follows shortly.::
+
+I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
+
+=>q33
+::Mordre stops. An answer follows shortly.::
+
+I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
+
+=>a34_original
+::Let him leave.::<end>
+
+=>a34
+::Let him leave.::<end>
+
+=>q35_original
+::Mordre completely ignores your suggestion.::<end>
+
+=>q35
+::Mordre completely ignores your suggestion.::<end>
+
+=>a36_original
+::Fight!::<end>
+
+=>a36
+::Fight!::<end>
+
+=>q37_original
+::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
+
+This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
+
+=>q37
+::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
+
+This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
+
+=>a38_original
+::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
+
+=>a38
+::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
+
+=>a39_original
+My mistake. Wrong man. Sorry.<end>
+
+=>a39
+My mistake. Wrong man. Sorry.<end>
+
+=>q40_original
+Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
+
+=>q40
+Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
+
+=>a41_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a41
+What do you know about Patrick Pierce's death?<end>
+
+=>q42_original
+Died in his sleep. That's how I remember it, at least.<end>
+
+=>q42
+Died in his sleep. That's how I remember it, at least.<end>
+
+=>a43_original
+Can you tell me what was he like as a person?<end>
+
+=>a43
+Can you tell me what was he like as a person?<end>
+
+=>q44_original
+Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
+
+=>q44
+Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
+
+=>a45_original
+Tell me about deep eels.<end>
+
+=>a45
+Tell me about deep eels.<end>
+
+=>q46_original
+There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
+
+=>q46
+There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
+
+=>q47_original
+The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
+
+=>q47
+The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
+
+=>a48_original
+What is this place?<end>
+
+=>a48
+What is this place?<end>
+
+=>q49_original
+It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
+
+=>q49
+It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
+
+=>a50_original
+So how's the fishing going?<end>
+
+=>a50
+So how's the fishing going?<end>
+
+=>q51_original
+Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
+
+=>q51
+Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
+
+=>a52_original
+Tell me about deep eels.<end>
+
+=>a52
+Tell me about deep eels.<end>
+
+=>a53_original
+What kind of meat do you need?<end>
+
+=>a53
+What kind of meat do you need?<end>
+
+=>q54_original
+Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
+
+=>q54
+Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
+
+=>a55_original
+I'll get you some meat.<end>
+
+=>a55
+I'll get you some meat.<end>
+
+=>q56_original
+That would be great.<end>
+
+=>q56
+That would be great.<end>
+
+=>a57_original
+I've got some meat right here.<end>
+
+=>a57
+I've got some meat right here.<end>
+
+=>a58_original
+Better come prepared next time then.<end>
+
+=>a58
+Better come prepared next time then.<end>
+
+=>q59_original
+::He nods.:: Yeah.<end>
+
+=>q59
+::He nods.:: Yeah.<end>
+
+=>a60_original
+Too bad.<end>
+
+=>a60
+Too bad.<end>
+
+=>a61_original
+I didn't catch your name the first time.<end>
+
+=>a61
+I didn't catch your name the first time.<end>
+
+=>q62_original
+::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
+
+=>q62
+::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
+
+=>a63_original
+::[Intimidate]:: I'd like to see you try.<end>
+
+=>a63
+::[Intimidate]:: I'd like to see you try.<end>
+
+=>q64_original
+No, you wouldn't.<end>
+
+=>q64
+No, you wouldn't.<end>
+
+=>a65_original
+In that case, Mordre will do.<end>
+
+=>a65
+In that case, Mordre will do.<end>
+
+=>q66_original
+Good.<end>
+
+=>q66
+Good.<end>
+
+=>a67_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a67
+What are your thoughts on the Faceless invasion?<end>
+
+=>q68_original
+The Faceless spared them. There's nothing more to say.<end>
+
+=>q68
+The Faceless spared them. There's nothing more to say.<end>
+
+=>q69_original
+If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
+
+=>q69
+If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
+
+=>q70_original
+The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
+
+=>q70
+The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
+
+=>q71_original
+I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
+
+=>q71
+I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
+
+=>a72_original
+I have a feeling you don't have much love for the Core City.<end>
+
+=>a72
+I have a feeling you don't have much love for the Core City.<end>
+
+=>q73_original
+It is their police and their so called "Oligarchs" that I dislike.<end>
+
+=>q73
+It is their police and their so called "Oligarchs" that I dislike.<end>
+
+=>q74_original
+They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
+
+=>q74
+They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
+
+=>q75_original
+And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
+
+=>q75
+And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
+
+=>q76_original
+And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
+
+=>q76
+And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
+
+=>a77_original
+That's a nice cigar you have there.<end>
+
+=>a77
+That's a nice cigar you have there.<end>
+
+=>q78_original
+Thanks.<end>
+
+=>q78
+Thanks.<end>
+
+=>a79_original
+Where did you get them? It must've cost a lot.<end>
+
+=>a79
+Where did you get them? It must've cost a lot.<end>
+
+=>q80_original
+I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
+
+=>q80
+I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
+
+=>a81_original
+Got a spare cigar?<end>
+
+=>a81
+Got a spare cigar?<end>
+
+=>q82_original
+No.<end>
+
+=>q82
+No.<end>
+
+=>q83_original
+::He draws another smoke.::<end>
+
+=>q83
+::He draws another smoke.::<end>
+
+=>a84_original
+I suppose so.<end>
+
+=>a84
+I suppose so.<end>
+
+=>a85_original
+Nothing really. Was just stopping by.<end>
+
+=>a85
+Nothing really. Was just stopping by.<end>
+
+=>a86_original
+You talking about Tanner?<end>
+
+=>a86
+You talking about Tanner?<end>
+
+=>q87_original
+Of course. <end>
+
+=>q87
+Of course. <end>
+
+=>a88_original
+Who?<end>
+
+=>a88
+Who?<end>
+
+=>q89_original
+Tanner, of course. <end>
+
+=>q89
+Tanner, of course. <end>
+
+=>q90_original
+What do you want?<end>
+
+=>q90
+What do you want?<end>
+
+=>q91_original
+Something you need?<end>
+
+=>q91
+Something you need?<end>
+
+=>q92_original
+::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
+
+Don't stomp around. You're scaring the fish away.<end>
+
+=>q92
+::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
+
+Don't stomp around. You're scaring the fish away.<end>
+
+=>q93_original
+You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
+
+I guess you got admitted.<end>
+
+=>q93
+You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
+
+I guess you got admitted.<end>
+
+=>a94_original
+Yeah, and who're you?<end>
+
+=>a94
+Yeah, and who're you?<end>
+
+=>a95_original
+I'd love to stay and chat, but I got things to do.<end>
+
+=>a95
+I'd love to stay and chat, but I got things to do.<end>
+
+=>q96_original
+Off you go then, but do it *quietly.*<end>
+
+=>q96
+Off you go then, but do it *quietly.*<end>
+

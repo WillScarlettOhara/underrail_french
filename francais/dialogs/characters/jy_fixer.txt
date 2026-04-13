@@ -1,514 +1,514 @@
-=>q1_original
-::This doctor's suit is covered with dried blood and other foul stains, its smell matching its appearance. As you come near, he slowly turns to you, inspecting your body for wounds with wild eyes which seem as if they're about to pop out of their sockets. Contrary to his stare, his voice is slow and steady.::
-
-Feelin' pain? I can fix you.<end>
-
-=>q1
-::This doctor's suit is covered with dried blood and other foul stains, its smell matching its appearance. As you come near, he slowly turns to you, inspecting your body for wounds with wild eyes which seem as if they're about to pop out of their sockets. Contrary to his stare, his voice is slow and steady.::
-
-Feelin' pain? I can fix you.<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-I just wanted to purchase some medical supplies. ::Barter.::<end>
-
-=>a3
-I just wanted to purchase some medical supplies. ::Barter.::<end>
-
-=>a4_original
-I'd like to buy the workbench.<end>
-
-=>a4
-I'd like to buy the workbench.<end>
-
-=>q5_original
-One and a half grand.<end>
-
-=>q5
-One and a half grand.<end>
-
-=>q6_original
-<end>
-
-=>q6
-<end>
-
-=>a7_original
-Here you go. ::Give him 1500 stygian coins.::<end>
-
-=>a7
-Here you go. ::Give him 1500 stygian coins.::<end>
-
-=>q8_original
-::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.<end>
-
-=>q8
-::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.<end>
-
-=>a9_original
-I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?<end>
-
-=>a9
-I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?<end>
-
-=>q10_original
-::His wild eyes nod for him.::<end>
-
-=>q10
-::His wild eyes nod for him.::<end>
-
-=>a11_original
-::[Mercantile]:: I'll give you one grand.<end>
-
-=>a11
-::[Mercantile]:: I'll give you one grand.<end>
-
-=>q12_original
-Acceptable.<end>
-
-=>q12
-Acceptable.<end>
-
-=>a13_original
-Here you go. ::Give him 1000 stygian coins.::<end>
-
-=>a13
-Here you go. ::Give him 1000 stygian coins.::<end>
-
-=>q14_original
-No.<end>
-
-=>q14
-No.<end>
-
-=>a15_original
-How about a discount for the Invictus, eh? You used to work at the Arena, so you definitely know what I'm talking about.<end>
-
-=>a15
-How about a discount for the Invictus, eh? You used to work at the Arena, so you definitely know what I'm talking about.<end>
-
-=>q16_original
-Invictus? ::He pauses.:: Yes... Thought you'd be taller. I've seen you battle Carnifex. It ain't as good watching on a small screen and with all the interference, but it was... gory.<end>
-
-=>q16
-Invictus? ::He pauses.:: Yes... Thought you'd be taller. I've seen you battle Carnifex. It ain't as good watching on a small screen and with all the interference, but it was... gory.<end>
-
-=>a17_original
-You did? Great. So, how about we lower that price to, say, one thousand two hundred?<end>
-
-=>a17
-You did? Great. So, how about we lower that price to, say, one thousand two hundred?<end>
-
-=>q18_original
-Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.<end>
-
-=>q18
-Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.<end>
-
-=>a19_original
-I won't complain.<end>
-
-=>a19
-I won't complain.<end>
-
-=>q20_original
-Gory... Do you have the coins?<end>
-
-=>q20
-Gory... Do you have the coins?<end>
-
-=>a21_original
-Isn't one and a half thousand a bit too expensive?<end>
-
-=>a21
-Isn't one and a half thousand a bit too expensive?<end>
-
-=>q22_original
-Look at it. Doesn't it look expensive?<end>
-
-=>q22
-Look at it. Doesn't it look expensive?<end>
-
-=>a23_original
-I still need to think about it.<end>
-
-=>a23
-I still need to think about it.<end>
-
-=>q24_original
-If you're havin' trouble thinkin', I can fix that too.<end>
-
-=>q24
-If you're havin' trouble thinkin', I can fix that too.<end>
-
-=>a25_original
-I'm really curious about that workbench you got there.<end>
-
-=>a25
-I'm really curious about that workbench you got there.<end>
-
-=>q26_original
-United Stations supplied that one. It has all the tools a doc would need. Ha... medication too. It also includes quality chemistry and biology sets, and... stuff. Woulda known better had I used it.<end>
-
-=>q26
-United Stations supplied that one. It has all the tools a doc would need. Ha... medication too. It also includes quality chemistry and biology sets, and... stuff. Woulda known better had I used it.<end>
-
-=>q27_original
-::He gives the bench a long, steady look.:: I don't need any of that. I like my own tools. ::His wild eye shifts toward a bent needle laying on the ground.:: Ha... Ha...<end>
-
-=>q27
-::He gives the bench a long, steady look.:: I don't need any of that. I like my own tools. ::His wild eye shifts toward a bent needle laying on the ground.:: Ha... Ha...<end>
-
-=>a28_original
-Would you sell it to me, then?<end>
-
-=>a28
-Would you sell it to me, then?<end>
-
-=>q29_original
-Yes.<end>
-
-=>q29
-Yes.<end>
-
-=>a30_original
-How much do you want?<end>
-
-=>a30
-How much do you want?<end>
-
-=>q31_original
-It looks expensive. One grand... No. One and a half grand. Coins... charons.<end>
-
-=>q31
-It looks expensive. One grand... No. One and a half grand. Coins... charons.<end>
-
-=>a32_original
-What's behind the fence?<end>
-
-=>a32
-What's behind the fence?<end>
-
-=>q33_original
-United Stations embassy.<end>
-
-=>q33
-United Stations embassy.<end>
-
-=>q34_original
-Hence all these folks in front of it.<end>
-
-=>q34
-Hence all these folks in front of it.<end>
-
-=>a35_original
-What's the deal with all the people outside the embassy?<end>
-
-=>a35
-What's the deal with all the people outside the embassy?<end>
-
-=>q36_original
-The United Stations were helpin' the Junkyarders before the Free Drone attack. They were giving out food and clothes. Food...<end>
-
-=>q36
-The United Stations were helpin' the Junkyarders before the Free Drone attack. They were giving out food and clothes. Food...<end>
-
-=>q37_original
-That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
-
-=>q37
-That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
-
-=>a38_original
-You don't like the United Stations?<end>
-
-=>a38
-You don't like the United Stations?<end>
-
-=>q39_original
-Never said that. I also benefited from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Well, not until this happened...<end>
-
-=>q39
-Never said that. I also benefited from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Well, not until this happened...<end>
-
-=>q40_original
-The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...<end>
-
-=>q40
-The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...<end>
-
-=>q41_original
-That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
-
-=>q41
-That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
-
-=>a42_original
-You don't like the United Stations?<end>
-
-=>a42
-You don't like the United Stations?<end>
-
-=>q43_original
-Never said that. I also benefit from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Ha...<end>
-
-=>q43
-Never said that. I also benefit from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Ha...<end>
-
-=>a44_original
-I'm hurting. Can you stitch me back up, doc?<end>
-
-=>a44
-I'm hurting. Can you stitch me back up, doc?<end>
-
-=>q45_original
-Three charons. Or five if you want the anesthetic.<end>
-
-=>q45
-Three charons. Or five if you want the anesthetic.<end>
-
-=>a46_original
-Anesthetics are for the weak. Bring on the pain, doc. ::Pay three stygian coins.::<end>
-
-=>a46
-Anesthetics are for the weak. Bring on the pain, doc. ::Pay three stygian coins.::<end>
-
-=>q47_original
-Ha... ha... HA-HA! That's the spirit! Here, bite on this!<end>
-
-=>q47
-Ha... ha... HA-HA! That's the spirit! Here, bite on this!<end>
-
-=>a48_original
-::Keep still for the agony.::<end>
-
-=>a48
-::Keep still for the agony.::<end>
-
-=>a49_original
-Here you go doc - and don't skimp on the drugs. ::Pay five stygian coins.::<end>
-
-=>a49
-Here you go doc - and don't skimp on the drugs. ::Pay five stygian coins.::<end>
-
-=>q50_original
-Lie still for the injection, you big baby.<end>
-
-=>q50
-Lie still for the injection, you big baby.<end>
-
-=>a51_original
-::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::<end>
-
-=>a51
-::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::<end>
-
-=>a52_original
-Actually, I'll pass. It's just a flesh wound anyway.<end>
-
-=>a52
-Actually, I'll pass. It's just a flesh wound anyway.<end>
-
-=>q53_original
-We got a quaker here. Just don't bleed on my boots; I just washed them.<end>
-
-=>q53
-We got a quaker here. Just don't bleed on my boots; I just washed them.<end>
-
-=>q54_original
-Just rub some dirt on it. Yea...<end>
-
-=>q54
-Just rub some dirt on it. Yea...<end>
-
-=>a55_original
-I'm looking for a man called Blaine. You got any idea where he might be?<end>
-
-=>a55
-I'm looking for a man called Blaine. You got any idea where he might be?<end>
-
-=>q56_original
-Dead. Probably. Haven't seen him around ever since Eddy sicced his goons on him.<end>
-
-=>q56
-Dead. Probably. Haven't seen him around ever since Eddy sicced his goons on him.<end>
-
-=>q57_original
-Maybe he got thrown in a scrap compactor... maybe he got impaled on a stalagmite. Both options are equally gory. Ha...<end>
-
-=>q57
-Maybe he got thrown in a scrap compactor... maybe he got impaled on a stalagmite. Both options are equally gory. Ha...<end>
-
-=>a58_original
-Aren't people afraid of being, ehem, fixed by you?<end>
-
-=>a58
-Aren't people afraid of being, ehem, fixed by you?<end>
-
-=>q59_original
-Why would they?<end>
-
-=>q59
-Why would they?<end>
-
-=>a60_original
-Isn't it obvious?<end>
-
-=>a60
-Isn't it obvious?<end>
-
-=>q61_original
-I'm the only doc around here. Everyone comes to me, like it or not. Some seem scared, true. Some say the procedures were too painful, even with anesthetics, but they never complain while I'm fixin' them.<end>
-
-=>q61
-I'm the only doc around here. Everyone comes to me, like it or not. Some seem scared, true. Some say the procedures were too painful, even with anesthetics, but they never complain while I'm fixin' them.<end>
-
-=>q62_original
-Although, I am really focused when I'm fixin'. Maybe I just don't notice it. Ha... Ha...<end>
-
-=>q62
-Although, I am really focused when I'm fixin'. Maybe I just don't notice it. Ha... Ha...<end>
-
-=>a63_original
-No offense, but you seem a bit odd.<end>
-
-=>a63
-No offense, but you seem a bit odd.<end>
-
-=>a64_original
-You're derailed.<end>
-
-=>a64
-You're derailed.<end>
-
-=>a65_original
-Can I ask you a few questions about Junkyard?<end>
-
-=>a65
-Can I ask you a few questions about Junkyard?<end>
-
-=>q66_original
-Ha... No.<end>
-
-=>q66
-Ha... No.<end>
-
-=>a67_original
-Why not?<end>
-
-=>a67
-Why not?<end>
-
-=>q68_original
-I know where it's headed...<end>
-
-=>q68
-I know where it's headed...<end>
-
-=>a69_original
-Okay. I'll ask something else then.<end>
-
-=>a69
-Okay. I'll ask something else then.<end>
-
-=>q70_original
-Yes...<end>
-
-=>q70
-Yes...<end>
-
-=>a71_original
-Who's Eddy?<end>
-
-=>a71
-Who's Eddy?<end>
-
-=>q72_original
-Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.<end>
-
-=>q72
-Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.<end>
-
-=>q73_original
-Eddy...<end>
-
-=>q73
-Eddy...<end>
-
-=>a74_original
-Why did Eddy want Blaine dead?<end>
-
-=>a74
-Why did Eddy want Blaine dead?<end>
-
-=>q75_original
-Don't know exactly. There was some dispute about an item Blaine found on a scavengin' run. It must've been somethin' important.<end>
-
-=>q75
-Don't know exactly. There was some dispute about an item Blaine found on a scavengin' run. It must've been somethin' important.<end>
-
-=>q76_original
-The details rarely leave the gang circles. What I've told you is based only on... speculation.<end>
-
-=>q76
-The details rarely leave the gang circles. What I've told you is based only on... speculation.<end>
-
-=>a77_original
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>a77
-Merchants here only accept stygian coins? How do I get some of those?<end>
-
-=>q78_original
-Coins... If you have other types of money you can exchange them for charons at the docks. Look for an Eel by the name of Colton.<end>
-
-=>q78
-Coins... If you have other types of money you can exchange them for charons at the docks. Look for an Eel by the name of Colton.<end>
-
-=>q79_original
-Colton...<end>
-
-=>q79
-Colton...<end>
-
-=>a80_original
-I heard you used to work in Core City's Arena.<end>
-
-=>a80
-I heard you used to work in Core City's Arena.<end>
-
-=>q81_original
-Ha... Ha... HA... Those were the times. Taking care of dead bodies, not much doctorin' to do around there. I was doin' my job for a short time, then some folks started yellin' at me and kicked me out of that place.<end>
-
-=>q81
-Ha... Ha... HA... Those were the times. Taking care of dead bodies, not much doctorin' to do around there. I was doin' my job for a short time, then some folks started yellin' at me and kicked me out of that place.<end>
-
-=>q82_original
-::His wild eyes turn away from you.:: It all happened a couple of years ago. To this day I have no idea what it was all about. Derailed folks them Core City people. Ha...<end>
-
-=>q82
-::His wild eyes turn away from you.:: It all happened a couple of years ago. To this day I have no idea what it was all about. Derailed folks them Core City people. Ha...<end>
-
-=>a83_original
-I feel better already. ::Back away slowly.::<end>
-
-=>a83
-I feel better already. ::Back away slowly.::<end>
-
-=>q84_original
-Come back soon.<end>
-
-=>q84
-Come back soon.<end>
-
-=>q85_original
-Show me where it leaks. Ha...<end>
-
-=>q85
-Show me where it leaks. Ha...<end>
-
+=>q1_original
+::This doctor's suit is covered with dried blood and other foul stains, its smell matching its appearance. As you come near, he slowly turns to you, inspecting your body for wounds with wild eyes which seem as if they're about to pop out of their sockets. Contrary to his stare, his voice is slow and steady.::
+
+Feelin' pain? I can fix you.<end>
+
+=>q1
+::This doctor's suit is covered with dried blood and other foul stains, its smell matching its appearance. As you come near, he slowly turns to you, inspecting your body for wounds with wild eyes which seem as if they're about to pop out of their sockets. Contrary to his stare, his voice is slow and steady.::
+
+Feelin' pain? I can fix you.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I just wanted to purchase some medical supplies. ::Barter.::<end>
+
+=>a3
+I just wanted to purchase some medical supplies. ::Barter.::<end>
+
+=>a4_original
+I'd like to buy the workbench.<end>
+
+=>a4
+I'd like to buy the workbench.<end>
+
+=>q5_original
+One and a half grand.<end>
+
+=>q5
+One and a half grand.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Here you go. ::Give him 1500 stygian coins.::<end>
+
+=>a7
+Here you go. ::Give him 1500 stygian coins.::<end>
+
+=>q8_original
+::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.<end>
+
+=>q8
+::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.<end>
+
+=>a9_original
+I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?<end>
+
+=>a9
+I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?<end>
+
+=>q10_original
+::His wild eyes nod for him.::<end>
+
+=>q10
+::His wild eyes nod for him.::<end>
+
+=>a11_original
+::[Mercantile]:: I'll give you one grand.<end>
+
+=>a11
+::[Mercantile]:: I'll give you one grand.<end>
+
+=>q12_original
+Acceptable.<end>
+
+=>q12
+Acceptable.<end>
+
+=>a13_original
+Here you go. ::Give him 1000 stygian coins.::<end>
+
+=>a13
+Here you go. ::Give him 1000 stygian coins.::<end>
+
+=>q14_original
+No.<end>
+
+=>q14
+No.<end>
+
+=>a15_original
+How about a discount for the Invictus, eh? You used to work at the Arena, so you definitely know what I'm talking about.<end>
+
+=>a15
+How about a discount for the Invictus, eh? You used to work at the Arena, so you definitely know what I'm talking about.<end>
+
+=>q16_original
+Invictus? ::He pauses.:: Yes... Thought you'd be taller. I've seen you battle Carnifex. It ain't as good watching on a small screen and with all the interference, but it was... gory.<end>
+
+=>q16
+Invictus? ::He pauses.:: Yes... Thought you'd be taller. I've seen you battle Carnifex. It ain't as good watching on a small screen and with all the interference, but it was... gory.<end>
+
+=>a17_original
+You did? Great. So, how about we lower that price to, say, one thousand two hundred?<end>
+
+=>a17
+You did? Great. So, how about we lower that price to, say, one thousand two hundred?<end>
+
+=>q18_original
+Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.<end>
+
+=>q18
+Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.<end>
+
+=>a19_original
+I won't complain.<end>
+
+=>a19
+I won't complain.<end>
+
+=>q20_original
+Gory... Do you have the coins?<end>
+
+=>q20
+Gory... Do you have the coins?<end>
+
+=>a21_original
+Isn't one and a half thousand a bit too expensive?<end>
+
+=>a21
+Isn't one and a half thousand a bit too expensive?<end>
+
+=>q22_original
+Look at it. Doesn't it look expensive?<end>
+
+=>q22
+Look at it. Doesn't it look expensive?<end>
+
+=>a23_original
+I still need to think about it.<end>
+
+=>a23
+I still need to think about it.<end>
+
+=>q24_original
+If you're havin' trouble thinkin', I can fix that too.<end>
+
+=>q24
+If you're havin' trouble thinkin', I can fix that too.<end>
+
+=>a25_original
+I'm really curious about that workbench you got there.<end>
+
+=>a25
+I'm really curious about that workbench you got there.<end>
+
+=>q26_original
+United Stations supplied that one. It has all the tools a doc would need. Ha... medication too. It also includes quality chemistry and biology sets, and... stuff. Woulda known better had I used it.<end>
+
+=>q26
+United Stations supplied that one. It has all the tools a doc would need. Ha... medication too. It also includes quality chemistry and biology sets, and... stuff. Woulda known better had I used it.<end>
+
+=>q27_original
+::He gives the bench a long, steady look.:: I don't need any of that. I like my own tools. ::His wild eye shifts toward a bent needle laying on the ground.:: Ha... Ha...<end>
+
+=>q27
+::He gives the bench a long, steady look.:: I don't need any of that. I like my own tools. ::His wild eye shifts toward a bent needle laying on the ground.:: Ha... Ha...<end>
+
+=>a28_original
+Would you sell it to me, then?<end>
+
+=>a28
+Would you sell it to me, then?<end>
+
+=>q29_original
+Yes.<end>
+
+=>q29
+Yes.<end>
+
+=>a30_original
+How much do you want?<end>
+
+=>a30
+How much do you want?<end>
+
+=>q31_original
+It looks expensive. One grand... No. One and a half grand. Coins... charons.<end>
+
+=>q31
+It looks expensive. One grand... No. One and a half grand. Coins... charons.<end>
+
+=>a32_original
+What's behind the fence?<end>
+
+=>a32
+What's behind the fence?<end>
+
+=>q33_original
+United Stations embassy.<end>
+
+=>q33
+United Stations embassy.<end>
+
+=>q34_original
+Hence all these folks in front of it.<end>
+
+=>q34
+Hence all these folks in front of it.<end>
+
+=>a35_original
+What's the deal with all the people outside the embassy?<end>
+
+=>a35
+What's the deal with all the people outside the embassy?<end>
+
+=>q36_original
+The United Stations were helpin' the Junkyarders before the Free Drone attack. They were giving out food and clothes. Food...<end>
+
+=>q36
+The United Stations were helpin' the Junkyarders before the Free Drone attack. They were giving out food and clothes. Food...<end>
+
+=>q37_original
+That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
+
+=>q37
+That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
+
+=>a38_original
+You don't like the United Stations?<end>
+
+=>a38
+You don't like the United Stations?<end>
+
+=>q39_original
+Never said that. I also benefited from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Well, not until this happened...<end>
+
+=>q39
+Never said that. I also benefited from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Well, not until this happened...<end>
+
+=>q40_original
+The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...<end>
+
+=>q40
+The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...<end>
+
+=>q41_original
+That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
+
+=>q41
+That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
+
+=>a42_original
+You don't like the United Stations?<end>
+
+=>a42
+You don't like the United Stations?<end>
+
+=>q43_original
+Never said that. I also benefit from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Ha...<end>
+
+=>q43
+Never said that. I also benefit from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Ha...<end>
+
+=>a44_original
+I'm hurting. Can you stitch me back up, doc?<end>
+
+=>a44
+I'm hurting. Can you stitch me back up, doc?<end>
+
+=>q45_original
+Three charons. Or five if you want the anesthetic.<end>
+
+=>q45
+Three charons. Or five if you want the anesthetic.<end>
+
+=>a46_original
+Anesthetics are for the weak. Bring on the pain, doc. ::Pay three stygian coins.::<end>
+
+=>a46
+Anesthetics are for the weak. Bring on the pain, doc. ::Pay three stygian coins.::<end>
+
+=>q47_original
+Ha... ha... HA-HA! That's the spirit! Here, bite on this!<end>
+
+=>q47
+Ha... ha... HA-HA! That's the spirit! Here, bite on this!<end>
+
+=>a48_original
+::Keep still for the agony.::<end>
+
+=>a48
+::Keep still for the agony.::<end>
+
+=>a49_original
+Here you go doc - and don't skimp on the drugs. ::Pay five stygian coins.::<end>
+
+=>a49
+Here you go doc - and don't skimp on the drugs. ::Pay five stygian coins.::<end>
+
+=>q50_original
+Lie still for the injection, you big baby.<end>
+
+=>q50
+Lie still for the injection, you big baby.<end>
+
+=>a51_original
+::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::<end>
+
+=>a51
+::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::<end>
+
+=>a52_original
+Actually, I'll pass. It's just a flesh wound anyway.<end>
+
+=>a52
+Actually, I'll pass. It's just a flesh wound anyway.<end>
+
+=>q53_original
+We got a quaker here. Just don't bleed on my boots; I just washed them.<end>
+
+=>q53
+We got a quaker here. Just don't bleed on my boots; I just washed them.<end>
+
+=>q54_original
+Just rub some dirt on it. Yea...<end>
+
+=>q54
+Just rub some dirt on it. Yea...<end>
+
+=>a55_original
+I'm looking for a man called Blaine. You got any idea where he might be?<end>
+
+=>a55
+I'm looking for a man called Blaine. You got any idea where he might be?<end>
+
+=>q56_original
+Dead. Probably. Haven't seen him around ever since Eddy sicced his goons on him.<end>
+
+=>q56
+Dead. Probably. Haven't seen him around ever since Eddy sicced his goons on him.<end>
+
+=>q57_original
+Maybe he got thrown in a scrap compactor... maybe he got impaled on a stalagmite. Both options are equally gory. Ha...<end>
+
+=>q57
+Maybe he got thrown in a scrap compactor... maybe he got impaled on a stalagmite. Both options are equally gory. Ha...<end>
+
+=>a58_original
+Aren't people afraid of being, ehem, fixed by you?<end>
+
+=>a58
+Aren't people afraid of being, ehem, fixed by you?<end>
+
+=>q59_original
+Why would they?<end>
+
+=>q59
+Why would they?<end>
+
+=>a60_original
+Isn't it obvious?<end>
+
+=>a60
+Isn't it obvious?<end>
+
+=>q61_original
+I'm the only doc around here. Everyone comes to me, like it or not. Some seem scared, true. Some say the procedures were too painful, even with anesthetics, but they never complain while I'm fixin' them.<end>
+
+=>q61
+I'm the only doc around here. Everyone comes to me, like it or not. Some seem scared, true. Some say the procedures were too painful, even with anesthetics, but they never complain while I'm fixin' them.<end>
+
+=>q62_original
+Although, I am really focused when I'm fixin'. Maybe I just don't notice it. Ha... Ha...<end>
+
+=>q62
+Although, I am really focused when I'm fixin'. Maybe I just don't notice it. Ha... Ha...<end>
+
+=>a63_original
+No offense, but you seem a bit odd.<end>
+
+=>a63
+No offense, but you seem a bit odd.<end>
+
+=>a64_original
+You're derailed.<end>
+
+=>a64
+You're derailed.<end>
+
+=>a65_original
+Can I ask you a few questions about Junkyard?<end>
+
+=>a65
+Can I ask you a few questions about Junkyard?<end>
+
+=>q66_original
+Ha... No.<end>
+
+=>q66
+Ha... No.<end>
+
+=>a67_original
+Why not?<end>
+
+=>a67
+Why not?<end>
+
+=>q68_original
+I know where it's headed...<end>
+
+=>q68
+I know where it's headed...<end>
+
+=>a69_original
+Okay. I'll ask something else then.<end>
+
+=>a69
+Okay. I'll ask something else then.<end>
+
+=>q70_original
+Yes...<end>
+
+=>q70
+Yes...<end>
+
+=>a71_original
+Who's Eddy?<end>
+
+=>a71
+Who's Eddy?<end>
+
+=>q72_original
+Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.<end>
+
+=>q72
+Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.<end>
+
+=>q73_original
+Eddy...<end>
+
+=>q73
+Eddy...<end>
+
+=>a74_original
+Why did Eddy want Blaine dead?<end>
+
+=>a74
+Why did Eddy want Blaine dead?<end>
+
+=>q75_original
+Don't know exactly. There was some dispute about an item Blaine found on a scavengin' run. It must've been somethin' important.<end>
+
+=>q75
+Don't know exactly. There was some dispute about an item Blaine found on a scavengin' run. It must've been somethin' important.<end>
+
+=>q76_original
+The details rarely leave the gang circles. What I've told you is based only on... speculation.<end>
+
+=>q76
+The details rarely leave the gang circles. What I've told you is based only on... speculation.<end>
+
+=>a77_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a77
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q78_original
+Coins... If you have other types of money you can exchange them for charons at the docks. Look for an Eel by the name of Colton.<end>
+
+=>q78
+Coins... If you have other types of money you can exchange them for charons at the docks. Look for an Eel by the name of Colton.<end>
+
+=>q79_original
+Colton...<end>
+
+=>q79
+Colton...<end>
+
+=>a80_original
+I heard you used to work in Core City's Arena.<end>
+
+=>a80
+I heard you used to work in Core City's Arena.<end>
+
+=>q81_original
+Ha... Ha... HA... Those were the times. Taking care of dead bodies, not much doctorin' to do around there. I was doin' my job for a short time, then some folks started yellin' at me and kicked me out of that place.<end>
+
+=>q81
+Ha... Ha... HA... Those were the times. Taking care of dead bodies, not much doctorin' to do around there. I was doin' my job for a short time, then some folks started yellin' at me and kicked me out of that place.<end>
+
+=>q82_original
+::His wild eyes turn away from you.:: It all happened a couple of years ago. To this day I have no idea what it was all about. Derailed folks them Core City people. Ha...<end>
+
+=>q82
+::His wild eyes turn away from you.:: It all happened a couple of years ago. To this day I have no idea what it was all about. Derailed folks them Core City people. Ha...<end>
+
+=>a83_original
+I feel better already. ::Back away slowly.::<end>
+
+=>a83
+I feel better already. ::Back away slowly.::<end>
+
+=>q84_original
+Come back soon.<end>
+
+=>q84
+Come back soon.<end>
+
+=>q85_original
+Show me where it leaks. Ha...<end>
+
+=>q85
+Show me where it leaks. Ha...<end>
+

@@ -1,36 +1,36 @@
-=>q1_original
-Welcome to "The Wormhole," $(#brother/sister).<end>
-
-=>q1
-Welcome to "The Wormhole," $(#brother/sister).<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-Where will this tunnel take me?<end>
-
-=>a3
-Where will this tunnel take me?<end>
-
-=>q4_original
-Destination: Hell, $(#brother/sister). Also known as "Depot A."<end>
-
-=>q4
-Destination: Hell, $(#brother/sister). Also known as "Depot A."<end>
-
-=>a5_original
-I'll be going now.<end>
-
-=>a5
-I'll be going now.<end>
-
-=>q6_original
-No loiterin'. Either move in or get out.<end>
-
-=>q6
-No loiterin'. Either move in or get out.<end>
-
+=>q1_original
+Welcome to "The Wormhole," $(#brother/sister).<end>
+
+=>q1
+Welcome to "The Wormhole," $(#brother/sister).<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Where will this tunnel take me?<end>
+
+=>a3
+Where will this tunnel take me?<end>
+
+=>q4_original
+Destination: Hell, $(#brother/sister). Also known as "Depot A."<end>
+
+=>q4
+Destination: Hell, $(#brother/sister). Also known as "Depot A."<end>
+
+=>a5_original
+I'll be going now.<end>
+
+=>a5
+I'll be going now.<end>
+
+=>q6_original
+No loiterin'. Either move in or get out.<end>
+
+=>q6
+No loiterin'. Either move in or get out.<end>
+

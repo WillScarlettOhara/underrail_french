@@ -1,102 +1,102 @@
-=>q1_original
-::The pillars are dormant.::<end>
-
-=>q1
-::The pillars are dormant.::<end>
-
-=>q2_original
-::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
-
-=>q2
-::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
-
-=>a3_original
-::Focus your mind on the pillars.::<end>
-
-=>a3
-::Focus your mind on the pillars.::<end>
-
-=>q4_original
-::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
-
-=>q4
-::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
-
-=>q5_original
-::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
-
-=>q5
-::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
-
-=>q6_original
-::You realize this could be dangerous.::<end>
-
-=>q6
-::You realize this could be dangerous.::<end>
-
-=>a7_original
-::Continue focusing.::<end>
-
-=>a7
-::Continue focusing.::<end>
-
-=>q8_original
-::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which mental images pour into you. You cannot tell if they are memories or just products of your imagination.::<end>
-
-=>q8
-::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which mental images pour into you. You cannot tell if they are memories or just products of your imagination.::<end>
-
-=>q9_original
-::You see a man sitting on a throne in a large sphere orbiting an invisible star. Millions of miles below, you hear wind sweeping across desolate landscapes carrying sand and dust. The sand scrapes across a naked man, tearing the skin away and revealing the robot body beneath. Great hydraulic pumps expand the universe until nothing can be seen.::<end>
-
-=>q9
-::You see a man sitting on a throne in a large sphere orbiting an invisible star. Millions of miles below, you hear wind sweeping across desolate landscapes carrying sand and dust. The sand scrapes across a naked man, tearing the skin away and revealing the robot body beneath. Great hydraulic pumps expand the universe until nothing can be seen.::<end>
-
-=>q10_original
-::The trance finally subsides. You cannot make any sense of the information that was poured into you and you're left with only fragments.::<end>
-
-=>q10
-::The trance finally subsides. You cannot make any sense of the information that was poured into you and you're left with only fragments.::<end>
-
-=>q11_original
-::The strange feeling that followed you across the island still lingers in the back of your head, though dormant.::<end>
-
-=>q11
-::The strange feeling that followed you across the island still lingers in the back of your head, though dormant.::<end>
-
-=>a12_original
-::End Dialog::<end>
-
-=>a12
-::End Dialog::<end>
-
-=>q13_original
-::You try to stay focused on the pillars but you are overwhelmed by a disturbing feeling that there are more people in the room standing close to you. Your concentration breaks.::<end>
-
-=>q13
-::You try to stay focused on the pillars but you are overwhelmed by a disturbing feeling that there are more people in the room standing close to you. Your concentration breaks.::<end>
-
-=>a14_original
-::End Dialog::<end>
-
-=>a14
-::End Dialog::<end>
-
-=>a15_original
-::Break the trance.::<end>
-
-=>a15
-::Break the trance.::<end>
-
-=>q16_original
-::You break away from the trance and the world slowly forms again around you. You are unsure how much time has passed, but your head hurts from staring at the symbols and your feet are sore.::<end>
-
-=>q16
-::You break away from the trance and the world slowly forms again around you. You are unsure how much time has passed, but your head hurts from staring at the symbols and your feet are sore.::<end>
-
-=>a17_original
-::Leave the pillars alone.::<end>
-
-=>a17
-::Leave the pillars alone.::<end>
-
+=>q1_original
+::The pillars are dormant.::<end>
+
+=>q1
+::The pillars are dormant.::<end>
+
+=>q2_original
+::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
+
+=>q2
+::Three strange pillars rise from the pool. They are decorated with glowing symbols that you are unfamiliar with and they seem to hum, though you are unsure whether they actually produce sound or if it's just all in your head.::<end>
+
+=>a3_original
+::Focus your mind on the pillars.::<end>
+
+=>a3
+::Focus your mind on the pillars.::<end>
+
+=>q4_original
+::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
+
+=>q4
+::You clear your mind of other thoughts and focus just on the sound of the pillars and the glowing symbols.::<end>
+
+=>q5_original
+::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
+
+=>q5
+::As time passes you lose the perception of the world around you. You can no longer hear the water dripping from the cave ceiling or the insects skittering amongst the mushrooms. Everything except the strange symbols is darkness and the only sound is the humming of the rock.::<end>
+
+=>q6_original
+::You realize this could be dangerous.::<end>
+
+=>q6
+::You realize this could be dangerous.::<end>
+
+=>a7_original
+::Continue focusing.::<end>
+
+=>a7
+::Continue focusing.::<end>
+
+=>q8_original
+::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which mental images pour into you. You cannot tell if they are memories or just products of your imagination.::<end>
+
+=>q8
+::As more time passes you can no longer distinguish the glare of the symbols from the humming. They merge into a single feed through which mental images pour into you. You cannot tell if they are memories or just products of your imagination.::<end>
+
+=>q9_original
+::You see a man sitting on a throne in a large sphere orbiting an invisible star. Millions of miles below, you hear wind sweeping across desolate landscapes carrying sand and dust. The sand scrapes across a naked man, tearing the skin away and revealing the robot body beneath. Great hydraulic pumps expand the universe until nothing can be seen.::<end>
+
+=>q9
+::You see a man sitting on a throne in a large sphere orbiting an invisible star. Millions of miles below, you hear wind sweeping across desolate landscapes carrying sand and dust. The sand scrapes across a naked man, tearing the skin away and revealing the robot body beneath. Great hydraulic pumps expand the universe until nothing can be seen.::<end>
+
+=>q10_original
+::The trance finally subsides. You cannot make any sense of the information that was poured into you and you're left with only fragments.::<end>
+
+=>q10
+::The trance finally subsides. You cannot make any sense of the information that was poured into you and you're left with only fragments.::<end>
+
+=>q11_original
+::The strange feeling that followed you across the island still lingers in the back of your head, though dormant.::<end>
+
+=>q11
+::The strange feeling that followed you across the island still lingers in the back of your head, though dormant.::<end>
+
+=>a12_original
+::End Dialog::<end>
+
+=>a12
+::End Dialog::<end>
+
+=>q13_original
+::You try to stay focused on the pillars but you are overwhelmed by a disturbing feeling that there are more people in the room standing close to you. Your concentration breaks.::<end>
+
+=>q13
+::You try to stay focused on the pillars but you are overwhelmed by a disturbing feeling that there are more people in the room standing close to you. Your concentration breaks.::<end>
+
+=>a14_original
+::End Dialog::<end>
+
+=>a14
+::End Dialog::<end>
+
+=>a15_original
+::Break the trance.::<end>
+
+=>a15
+::Break the trance.::<end>
+
+=>q16_original
+::You break away from the trance and the world slowly forms again around you. You are unsure how much time has passed, but your head hurts from staring at the symbols and your feet are sore.::<end>
+
+=>q16
+::You break away from the trance and the world slowly forms again around you. You are unsure how much time has passed, but your head hurts from staring at the symbols and your feet are sore.::<end>
+
+=>a17_original
+::Leave the pillars alone.::<end>
+
+=>a17
+::Leave the pillars alone.::<end>
+

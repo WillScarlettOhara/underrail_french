@@ -1,722 +1,722 @@
-=>q1_original
-Who the hell are you? SECURITY!<end>
-
-=>q1
-Who the hell are you? SECURITY!<end>
-
-=>q2_original
-There she is! A beauty, isn't she?<end>
-
-=>q2
-There she is! A beauty, isn't she?<end>
-
-=>a3_original
-*It* is a beauty.<end>
-
-=>a3
-*It* is a beauty.<end>
-
-=>q4_original
-Ah, I've seen so many people get mauled on this piece of hardware, $(#young man/young lady). Memories of good matches just spring to my mind whenever I come here...<end>
-
-=>q4
-Ah, I've seen so many people get mauled on this piece of hardware, $(#young man/young lady). Memories of good matches just spring to my mind whenever I come here...<end>
-
-=>a5_original
-I'd like to start working on it. Tell me all I need to know.<end>
-
-=>a5
-I'd like to start working on it. Tell me all I need to know.<end>
-
-=>q6_original
-It's simple: We were watching it one day, everything was normal, everything was well. The match ended, and I turned it off. Some time after, I tried turning it on. Nothing. Nothing! No lights were shining, no response, and obviously - no pipewo-- ehm, no picture on the screen.<end>
-
-=>q6
-It's simple: We were watching it one day, everything was normal, everything was well. The match ended, and I turned it off. Some time after, I tried turning it on. Nothing. Nothing! No lights were shining, no response, and obviously - no pipewo-- ehm, no picture on the screen.<end>
-
-=>a7_original
-I think I know what causes the problem. I'd like to start working on it.<end>
-
-=>a7
-I think I know what causes the problem. I'd like to start working on it.<end>
-
-=>q8_original
-I'll leave you to it, then. I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>q8
-I'll leave you to it, then. I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>a9_original
-Hmm, let's open it and see what caused it to malfunction.<end>
-
-=>a9
-Hmm, let's open it and see what caused it to malfunction.<end>
-
-=>a10_original
-It must be the anoding picture polarizer. I'd like to start working on it.<end>
-
-=>a10
-It must be the anoding picture polarizer. I'd like to start working on it.<end>
-
-=>q11_original
-I wouldn't know. I'm leaving you now, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>q11
-I wouldn't know. I'm leaving you now, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>a12_original
-Maybe its power unit is gone. Time to open this thing.<end>
-
-=>a12
-Maybe its power unit is gone. Time to open this thing.<end>
-
-=>a13_original
-Its tubular thrasher unit might have stopped thrashing. I'll check it out.<end>
-
-=>a13
-Its tubular thrasher unit might have stopped thrashing. I'll check it out.<end>
-
-=>q14_original
-::He seems confused.:: I'm sorry, but I really can't keep up with those technical terms. I'll leave you to it, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>q14
-::He seems confused.:: I'm sorry, but I really can't keep up with those technical terms. I'll leave you to it, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
-
-=>a15_original
-I've seen better.<end>
-
-=>a15
-I've seen better.<end>
-
-=>q16_original
-You are indeed lucky, but since you work with these things I am not surprised to hear that.<end>
-
-=>q16
-You are indeed lucky, but since you work with these things I am not surprised to hear that.<end>
-
-=>a17_original
-Wow! This thing is huge.<end>
-
-=>a17
-Wow! This thing is huge.<end>
-
-=>q18_original
-Once you repair it you'll see just how good it is. ::He laughs.:: I love it.<end>
-
-=>q18
-Once you repair it you'll see just how good it is. ::He laughs.:: I love it.<end>
-
-=>q19_original
-So, how are the repairs coming along?<end>
-
-=>q19
-So, how are the repairs coming along?<end>
-
-=>a20_original
-All done. I repaired it, and you may now enjoy watching ArenaNow.<end>
-
-=>a20
-All done. I repaired it, and you may now enjoy watching ArenaNow.<end>
-
-=>q21_original
-::A look of relief appears on his face.:: Thank you, thank you, $(#young man/young lady)! I must say, you came at the right time. I guess it was meant to be.<end>
-
-=>q21
-::A look of relief appears on his face.:: Thank you, thank you, $(#young man/young lady)! I must say, you came at the right time. I guess it was meant to be.<end>
-
-=>a22_original
-It is quite strange, but you never know what can happen in life.<end>
-
-=>a22
-It is quite strange, but you never know what can happen in life.<end>
-
-=>q23_original
-That, my friend, is the truth! And now comes the time where I pay you for your work. How much are you charging?<end>
-
-=>q23
-That, my friend, is the truth! And now comes the time where I pay you for your work. How much are you charging?<end>
-
-=>q24_original
-<end>
-
-=>q24
-<end>
-
-=>a25_original
-One hundred charons.<end>
-
-=>a25
-One hundred charons.<end>
-
-=>q26_original
-That's not expensive, not at all; I expected more. Here you go - I already had the money prepared. ::He gives you 100 charons.::<end>
-
-=>q26
-That's not expensive, not at all; I expected more. Here you go - I already had the money prepared. ::He gives you 100 charons.::<end>
-
-=>q27_original
-Again, thank you very much, $(#young man/young lady). You are always welcome to Talloski Manor.<end>
-
-=>q27
-Again, thank you very much, $(#young man/young lady). You are always welcome to Talloski Manor.<end>
-
-=>q28_original
-<end>
-
-=>q28
-<end>
-
-=>a29_original
-What do you do for a living?<end>
-
-=>a29
-What do you do for a living?<end>
-
-=>q30_original
-I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? Do you have another job other than being a gladiator?<end>
-
-=>q30
-I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? Do you have another job other than being a gladiator?<end>
-
-=>a31_original
-No, I only fight in the Arena and will do so as long as I'm alive.<end>
-
-=>a31
-No, I only fight in the Arena and will do so as long as I'm alive.<end>
-
-=>q32_original
-Be careful, that might not last long. ::Laughs.:: Well, when I think about it, it's not a laughing matter to you.<end>
-
-=>q32
-Be careful, that might not last long. ::Laughs.:: Well, when I think about it, it's not a laughing matter to you.<end>
-
-=>q33_original
-I suppose.<end>
-
-=>q33
-I suppose.<end>
-
-=>a34_original
-I also own a repair store. I specialize in monitors - big, small, I can fix them all.<end>
-
-=>a34
-I also own a repair store. I specialize in monitors - big, small, I can fix them all.<end>
-
-=>q35_original
-::His interest suddenly intensifies.:: Really? Well, isn't this fantastic? What a coincidence!<end>
-
-=>q35
-::His interest suddenly intensifies.:: Really? Well, isn't this fantastic? What a coincidence!<end>
-
-=>a36_original
-What do you mean?<end>
-
-=>a36
-What do you mean?<end>
-
-=>q37_original
-Think! ::He laughs.:: Let me help you - we have a room upstairs where we keep our four meter, 8460p monitor. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see just about every little--
-
-Anyway, the bloody thing stopped working and I need someone to fix it.<end>
-
-=>q37
-Think! ::He laughs.:: Let me help you - we have a room upstairs where we keep our four meter, 8460p monitor. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see just about every little--
-
-Anyway, the bloody thing stopped working and I need someone to fix it.<end>
-
-=>a38_original
-I can fix anything, don't worry.<end>
-
-=>a38
-I can fix anything, don't worry.<end>
-
-=>q39_original
-Thank you! Money is *not* the issue, I only care about my family and myself being able to watch the Arena again. Now, once you diagnose the problem and eventually fix the monitor, then we will sit down talk about your payment. 
-
-So, can you start working right now or...<end>
-
-=>q39
-Thank you! Money is *not* the issue, I only care about my family and myself being able to watch the Arena again. Now, once you diagnose the problem and eventually fix the monitor, then we will sit down talk about your payment. 
-
-So, can you start working right now or...<end>
-
-=>a40_original
-Lead the way.<end>
-
-=>a40
-Lead the way.<end>
-
-=>q41_original
-Excellent! It's upstairs, follow me.<end>
-
-=>q41
-Excellent! It's upstairs, follow me.<end>
-
-=>a42_original
-::Follow him.::<end>
-
-=>a42
-::Follow him.::<end>
-
-=>a43_original
-I have to get something first. I'll tell you when I'm ready.<end>
-
-=>a43
-I have to get something first. I'll tell you when I'm ready.<end>
-
-=>q44_original
-Good, good. I'll wait here. Just, remember that there is a monitor that needs fixing, and a family that needs entertainment.<end>
-
-=>q44
-Good, good. I'll wait here. Just, remember that there is a monitor that needs fixing, and a family that needs entertainment.<end>
-
-=>a45_original
-Hah, I've fixed so many of those you wouldn't believe me.<end>
-
-=>a45
-Hah, I've fixed so many of those you wouldn't believe me.<end>
-
-=>a46_original
-Don't tell me... You have a monitor that needs to be fixed?<end>
-
-=>a46
-Don't tell me... You have a monitor that needs to be fixed?<end>
-
-=>q47_original
-Exactly! Listen, we have a room upstairs with a big monitor, 8640p. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see every--
-
-Anyway, the bloody thing stopped working and I need someone to fix it.<end>
-
-=>q47
-Exactly! Listen, we have a room upstairs with a big monitor, 8640p. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see every--
-
-Anyway, the bloody thing stopped working and I need someone to fix it.<end>
-
-=>a48_original
-I also do a bit of this, and a bit of that - whatever earns charons.<end>
-
-=>a48
-I also do a bit of this, and a bit of that - whatever earns charons.<end>
-
-=>q49_original
-I respect that - I really do. Hard work pays off, $(#young man/young lady). Trust me. I created all this, *all* that you see in here with just a few charons and a lot of sweat and tears.<end>
-
-=>q49
-I respect that - I really do. Hard work pays off, $(#young man/young lady). Trust me. I created all this, *all* that you see in here with just a few charons and a lot of sweat and tears.<end>
-
-=>q50_original
-You have great potential - I can see it in you.<end>
-
-=>q50
-You have great potential - I can see it in you.<end>
-
-=>a51_original
-I originally did some minor work for South Gate Station before I came here.<end>
-
-=>a51
-I originally did some minor work for South Gate Station before I came here.<end>
-
-=>q52_original
-I am familiar with SGS; I did some trading with them in the past. They are a solid community, at least after their issues with the Omegas. 
-
-I respect the Southgaters, and remember I felt much safer there than say, when I was in Rail Crossing or Junkyard or other such places. <end>
-
-=>q52
-I am familiar with SGS; I did some trading with them in the past. They are a solid community, at least after their issues with the Omegas. 
-
-I respect the Southgaters, and remember I felt much safer there than say, when I was in Rail Crossing or Junkyard or other such places. <end>
-
-=>q53_original
-I'm sure you know it all already; Junkyard is close to your station.<end>
-
-=>q53
-I'm sure you know it all already; Junkyard is close to your station.<end>
-
-=>q54_original
-I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? What do you do for a living?<end>
-
-=>q54
-I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? What do you do for a living?<end>
-
-=>a55_original
-I own a repair store. I specialize in monitors, big, small, I can fix them all.<end>
-
-=>a55
-I own a repair store. I specialize in monitors, big, small, I can fix them all.<end>
-
-=>a56_original
-I don't do anything. I wait for the coin to find its way into my pocket.<end>
-
-=>a56
-I don't do anything. I wait for the coin to find its way into my pocket.<end>
-
-=>q57_original
-::He raises his eyebrows.:: Well... good luck with that.<end>
-
-=>q57
-::He raises his eyebrows.:: Well... good luck with that.<end>
-
-=>q58_original
-I'm sure it's working out great for you.<end>
-
-=>q58
-I'm sure it's working out great for you.<end>
-
-=>a59_original
-I do a bit of this, and a bit of that. Whatever earns charons.<end>
-
-=>a59
-I do a bit of this, and a bit of that. Whatever earns charons.<end>
-
-=>a60_original
-I do some work for South Gate Station. That's where I came from.<end>
-
-=>a60
-I do some work for South Gate Station. That's where I came from.<end>
-
-=>a61_original
-I've got all I need and I'm eager to do some fixin'.<end>
-
-=>a61
-I've got all I need and I'm eager to do some fixin'.<end>
-
-=>a62_original
-What can you tell me about the Talloski family?<end>
-
-=>a62
-What can you tell me about the Talloski family?<end>
-
-=>q63_original
-We are one big, happy family. You won't have a chance to meet my wife, Suzana, because she had to make a quick travel to North Underrail that, unfortunately, got prolonged. Ah, charming woman; fell in love with her the moment I saw her...<end>
-
-=>q63
-We are one big, happy family. You won't have a chance to meet my wife, Suzana, because she had to make a quick travel to North Underrail that, unfortunately, got prolonged. Ah, charming woman; fell in love with her the moment I saw her...<end>
-
-=>q64_original
-As for the kids, they are always around though. ::He makes a pause.:: Well, actually, now that I think about it, they do seem to be spending less and less time at home as of late.<end>
-
-=>q64
-As for the kids, they are always around though. ::He makes a pause.:: Well, actually, now that I think about it, they do seem to be spending less and less time at home as of late.<end>
-
-=>a65_original
-::Let him continue.::<end>
-
-=>a65
-::Let him continue.::<end>
-
-=>q66_original
-I... I raised those kids. I still see them as that - kids. Now, they don't need me, me and my wife, as much anymore. Except when they need money. ::He laughs.:: Although, Maxim earns his own money, but since he works for me, so, again, I'm the one giving him the coin.<end>
-
-=>q66
-I... I raised those kids. I still see them as that - kids. Now, they don't need me, me and my wife, as much anymore. Except when they need money. ::He laughs.:: Although, Maxim earns his own money, but since he works for me, so, again, I'm the one giving him the coin.<end>
-
-=>q67_original
-I simply miss them being kids. Bah, you're too young for this sort of talk, $(#young man/young lady). How about we change the subject?<end>
-
-=>q67
-I simply miss them being kids. Bah, you're too young for this sort of talk, $(#young man/young lady). How about we change the subject?<end>
-
-=>a68_original
-Well, that's natural. You might see them as your kids, but they've grown up. They're adults now.<end>
-
-=>a68
-Well, that's natural. You might see them as your kids, but they've grown up. They're adults now.<end>
-
-=>q69_original
-You're spot on, they are adults. You know, I think the thing I miss the most is them needing us, my wife and myself I mean. Now, they just don't need, or don't want help anymore. They're adults now and... they can take care for themselves.<end>
-
-=>q69
-You're spot on, they are adults. You know, I think the thing I miss the most is them needing us, my wife and myself I mean. Now, they just don't need, or don't want help anymore. They're adults now and... they can take care for themselves.<end>
-
-=>q70_original
-I miss them being kids. But, yeah, you seem to understand what's this all about. Anyway... what were we talking about?<end>
-
-=>q70
-I miss them being kids. But, yeah, you seem to understand what's this all about. Anyway... what were we talking about?<end>
-
-=>a71_original
-That's a good thing. You have more time for yourself.<end>
-
-=>a71
-That's a good thing. You have more time for yourself.<end>
-
-=>q72_original
-That is true, I do have more time for myself. But I got so used to raising my children, them needing me. I felt good - I felt proud. Now, they don't need me as much anymore, $(#young man/young lady).<end>
-
-=>q72
-That is true, I do have more time for myself. But I got so used to raising my children, them needing me. I felt good - I felt proud. Now, they don't need me as much anymore, $(#young man/young lady).<end>
-
-=>a73_original
-What can you tell me about your kids?<end>
-
-=>a73
-What can you tell me about your kids?<end>
-
-=>q74_original
-They are everything to me. Maxim is a true heir of the Talloski business... even though he has to show up for work more often, but he gets it; he understands how the trading business operates. Sophia, daddy's little girl, she's going through a rough time: Nothing seems to interest her. I buy her things and I spend time with her...<end>
-
-=>q74
-They are everything to me. Maxim is a true heir of the Talloski business... even though he has to show up for work more often, but he gets it; he understands how the trading business operates. Sophia, daddy's little girl, she's going through a rough time: Nothing seems to interest her. I buy her things and I spend time with her...<end>
-
-=>q75_original
-I think she's just going through a phase. Maybe I spoiled them both a little... I don't know, time will tell.<end>
-
-=>q75
-I think she's just going through a phase. Maybe I spoiled them both a little... I don't know, time will tell.<end>
-
-=>a76_original
-What can you tell me about Grandpa?<end>
-
-=>a76
-What can you tell me about Grandpa?<end>
-
-=>q77_original
-Oh, I see one of the kids mentioned him. He's my... hmmm, let's see... great-great-great-great grandfather I believe, on my grandmother's side. He was in the family since I was just a kid. He's very old, more than a hundred years. Impressive, I know. Sadly, his train was derailed a long time ago.<end>
-
-=>q77
-Oh, I see one of the kids mentioned him. He's my... hmmm, let's see... great-great-great-great grandfather I believe, on my grandmother's side. He was in the family since I was just a kid. He's very old, more than a hundred years. Impressive, I know. Sadly, his train was derailed a long time ago.<end>
-
-=>a78_original
-How come I haven't met him yet?<end>
-
-=>a78
-How come I haven't met him yet?<end>
-
-=>q79_original
-He mostly stays in his room, doing some work of his. Something sciency, I'm not entirely sure. As I mentioned just now, he's not entirely on this side of the tracks. But, he's family, and he doesn't cause much trouble. Once you get used to him, it's all good.<end>
-
-=>q79
-He mostly stays in his room, doing some work of his. Something sciency, I'm not entirely sure. As I mentioned just now, he's not entirely on this side of the tracks. But, he's family, and he doesn't cause much trouble. Once you get used to him, it's all good.<end>
-
-=>a80_original
-Where is he, actually?<end>
-
-=>a80
-Where is he, actually?<end>
-
-=>q81_original
-He's in his room, most of the time. He's got his thing going over there, doing some science stuff, or so he believes. *We* let him believe it, as he's our family after all. And we can afford to make his life as good as it can possibly get.<end>
-
-=>q81
-He's in his room, most of the time. He's got his thing going over there, doing some science stuff, or so he believes. *We* let him believe it, as he's our family after all. And we can afford to make his life as good as it can possibly get.<end>
-
-=>a82_original
-Goodbye.<end>
-
-=>a82
-Goodbye.<end>
-
-=>a83_original
-::[Mercantile]:: Two hundred charons.<end>
-
-=>a83
-::[Mercantile]:: Two hundred charons.<end>
-
-=>q84_original
-Good, that's acceptable. Here you go - I already had the money prepared. ::He gives you 200 charons.::<end>
-
-=>q84
-Good, that's acceptable. Here you go - I already had the money prepared. ::He gives you 200 charons.::<end>
-
-=>a85_original
-::[Mercantile]:: Three hundred charons. Big monitors like this one cost a lot to repair.<end>
-
-=>a85
-::[Mercantile]:: Three hundred charons. Big monitors like this one cost a lot to repair.<end>
-
-=>q86_original
-It's a bit more than I expected, hmmm... but I'm just glad my beauty is fixed. Here you go. ::He gives you 300 charons.::<end>
-
-=>q86
-It's a bit more than I expected, hmmm... but I'm just glad my beauty is fixed. Here you go. ::He gives you 300 charons.::<end>
-
-=>q87_original
-I think you are asking far too much. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
-
-=>q87
-I think you are asking far too much. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
-
-=>a88_original
-::[Mercantile]:: Four hundred charons. It was a pain to get this thing running again.<end>
-
-=>a88
-::[Mercantile]:: Four hundred charons. It was a pain to get this thing running again.<end>
-
-=>q89_original
-That is very expensive! I... ::He pauses.:: Ah, who cares - I can afford it. Here you go. ::He gives you 400 charons.::<end>
-
-=>q89
-That is very expensive! I... ::He pauses.:: Ah, who cares - I can afford it. Here you go. ::He gives you 400 charons.::<end>
-
-=>q90_original
-That is just too much! Sorry. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
-
-=>q90
-That is just too much! Sorry. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
-
-=>a91_original
-Yeah, yeah. About the money...<end>
-
-=>a91
-Yeah, yeah. About the money...<end>
-
-=>q92_original
-Of course. I was just getting to it. How much are you charging for your work?<end>
-
-=>q92
-Of course. I was just getting to it. How much are you charging for your work?<end>
-
-=>a93_original
-I think I'll be over quite soon.<end>
-
-=>a93
-I think I'll be over quite soon.<end>
-
-=>q94_original
-Excellent, can't wait. Well, I'll let you continue.<end>
-
-=>q94
-Excellent, can't wait. Well, I'll let you continue.<end>
-
-=>a95_original
-It will take some time, the problem seems to be a bit more serious than I thought.<end>
-
-=>a95
-It will take some time, the problem seems to be a bit more serious than I thought.<end>
-
-=>q96_original
-Oh, well, take your time. I'll be back later.<end>
-
-=>q96
-Oh, well, take your time. I'll be back later.<end>
-
-=>q97_original
-::You stand before a short middle-aged man. He has a focused, studious look and even with his unimpressive stature he projects a certain commanding presence. His voice, however, sounds relaxed and welcoming.::
-
-Welcome to our home, $(#mister/miss)...?<end>
-
-=>q97
-::You stand before a short middle-aged man. He has a focused, studious look and even with his unimpressive stature he projects a certain commanding presence. His voice, however, sounds relaxed and welcoming.::
-
-Welcome to our home, $(#mister/miss)...?<end>
-
-=>a98_original
-$(context.player.Name).<end>
-
-=>a98
-$(context.player.Name).<end>
-
-=>q99_original
-Ah, that's right. $(context.player.Name). Welcome to our home, I'm Vlatko Talloski, father of Maxim and Sophia. Please, let's have a seat.<end>
-
-=>q99
-Ah, that's right. $(context.player.Name). Welcome to our home, I'm Vlatko Talloski, father of Maxim and Sophia. Please, let's have a seat.<end>
-
-=>a100_original
-Thank you, but I prefer to stand.<end>
-
-=>a100
-Thank you, but I prefer to stand.<end>
-
-=>q101_original
-::Smiles.:: As you will, $(#young man/young lady).<end>
-
-=>q101
-::Smiles.:: As you will, $(#young man/young lady).<end>
-
-=>q102_original
-Tell me: What brings you to the Talloski Manor?<end>
-
-=>q102
-Tell me: What brings you to the Talloski Manor?<end>
-
-=>q103_original
-<end>
-
-=>q103
-<end>
-
-=>a104_original
-I was invited here by your daughter Sophie.<end>
-
-=>a104
-I was invited here by your daughter Sophie.<end>
-
-=>q105_original
-Ah, now I remember. Sophia got that... creature from you, right? She seems really fascinated by it, though I'm a bit worried. Is it dangerous? Where did you find it?<end>
-
-=>q105
-Ah, now I remember. Sophia got that... creature from you, right? She seems really fascinated by it, though I'm a bit worried. Is it dangerous? Where did you find it?<end>
-
-=>a106_original
-I can't reveal its origin. Business secret. But the creature is harmless, so you need not worry.<end>
-
-=>a106
-I can't reveal its origin. Business secret. But the creature is harmless, so you need not worry.<end>
-
-=>q107_original
-I understand. Believe me, I understand. I'll have to keep an eye on Sophia and the... creature, just in case.<end>
-
-=>q107
-I understand. Believe me, I understand. I'll have to keep an eye on Sophia and the... creature, just in case.<end>
-
-=>a108_original
-It's not dangerous at all. Trust me. I found it in Foundry.<end>
-
-=>a108
-It's not dangerous at all. Trust me. I found it in Foundry.<end>
-
-=>q109_original
-Fascinating! I've never seen anything like it, to be perfectly honest. Sophia seems very pleased; thank you, it is... very difficult to amuse her. Still, I'll have to keep an eye on the... creature, just in case.<end>
-
-=>q109
-Fascinating! I've never seen anything like it, to be perfectly honest. Sophia seems very pleased; thank you, it is... very difficult to amuse her. Still, I'll have to keep an eye on the... creature, just in case.<end>
-
-=>a110_original
-I was invited here by your son, Maxim.<end>
-
-=>a110
-I was invited here by your son, Maxim.<end>
-
-=>q111_original
-Ah, now I remember! Maxim told me you're a gladiator? I thought you looked familiar; I remember you now! Our family enjoys the Arena very much, I must confess. When you have some free time, I would like for the two us to sit down and perhaps chat a bit about it. I'm very, very interested in exciting gladiator stories, which I'm sure you have in abundance to tell.<end>
-
-=>q111
-Ah, now I remember! Maxim told me you're a gladiator? I thought you looked familiar; I remember you now! Our family enjoys the Arena very much, I must confess. When you have some free time, I would like for the two us to sit down and perhaps chat a bit about it. I'm very, very interested in exciting gladiator stories, which I'm sure you have in abundance to tell.<end>
-
-=>q112_original
-Yes, he mentioned you were coming. Didn't really say a lot about you I'm afraid.<end>
-
-=>q112
-Yes, he mentioned you were coming. Didn't really say a lot about you I'm afraid.<end>
-
-=>q113_original
-You can go talk to him if you want to. Unless you wanted to ask me something?<end>
-
-=>q113
-You can go talk to him if you want to. Unless you wanted to ask me something?<end>
-
-=>a114_original
-Pleasure to meet you, sir. I've heard a lot about your family.<end>
-
-=>a114
-Pleasure to meet you, sir. I've heard a lot about your family.<end>
-
-=>q115_original
-I hope you've heard only good things. ::He laughs.:: I like to believe that we're respected in this community; but, well, as you might know - fortune comes at a price. We are often scrutinized by the less fortunate public in hopes to discover what "dirty" business made us richer than they are; some people just don't believe you can succeed without doing something insidious, I suppose.<end>
-
-=>q115
-I hope you've heard only good things. ::He laughs.:: I like to believe that we're respected in this community; but, well, as you might know - fortune comes at a price. We are often scrutinized by the less fortunate public in hopes to discover what "dirty" business made us richer than they are; some people just don't believe you can succeed without doing something insidious, I suppose.<end>
-
-=>q116_original
-But no matter, $(#young man/young lady). Tell me: What brings you to Talloski Manor?<end>
-
-=>q116
-But no matter, $(#young man/young lady). Tell me: What brings you to Talloski Manor?<end>
-
-=>q117_original
-Yes?<end>
-
-=>q117
-Yes?<end>
-
+=>q1_original
+Who the hell are you? SECURITY!<end>
+
+=>q1
+Who the hell are you? SECURITY!<end>
+
+=>q2_original
+There she is! A beauty, isn't she?<end>
+
+=>q2
+There she is! A beauty, isn't she?<end>
+
+=>a3_original
+*It* is a beauty.<end>
+
+=>a3
+*It* is a beauty.<end>
+
+=>q4_original
+Ah, I've seen so many people get mauled on this piece of hardware, $(#young man/young lady). Memories of good matches just spring to my mind whenever I come here...<end>
+
+=>q4
+Ah, I've seen so many people get mauled on this piece of hardware, $(#young man/young lady). Memories of good matches just spring to my mind whenever I come here...<end>
+
+=>a5_original
+I'd like to start working on it. Tell me all I need to know.<end>
+
+=>a5
+I'd like to start working on it. Tell me all I need to know.<end>
+
+=>q6_original
+It's simple: We were watching it one day, everything was normal, everything was well. The match ended, and I turned it off. Some time after, I tried turning it on. Nothing. Nothing! No lights were shining, no response, and obviously - no pipewo-- ehm, no picture on the screen.<end>
+
+=>q6
+It's simple: We were watching it one day, everything was normal, everything was well. The match ended, and I turned it off. Some time after, I tried turning it on. Nothing. Nothing! No lights were shining, no response, and obviously - no pipewo-- ehm, no picture on the screen.<end>
+
+=>a7_original
+I think I know what causes the problem. I'd like to start working on it.<end>
+
+=>a7
+I think I know what causes the problem. I'd like to start working on it.<end>
+
+=>q8_original
+I'll leave you to it, then. I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>q8
+I'll leave you to it, then. I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>a9_original
+Hmm, let's open it and see what caused it to malfunction.<end>
+
+=>a9
+Hmm, let's open it and see what caused it to malfunction.<end>
+
+=>a10_original
+It must be the anoding picture polarizer. I'd like to start working on it.<end>
+
+=>a10
+It must be the anoding picture polarizer. I'd like to start working on it.<end>
+
+=>q11_original
+I wouldn't know. I'm leaving you now, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>q11
+I wouldn't know. I'm leaving you now, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>a12_original
+Maybe its power unit is gone. Time to open this thing.<end>
+
+=>a12
+Maybe its power unit is gone. Time to open this thing.<end>
+
+=>a13_original
+Its tubular thrasher unit might have stopped thrashing. I'll check it out.<end>
+
+=>a13
+Its tubular thrasher unit might have stopped thrashing. I'll check it out.<end>
+
+=>q14_original
+::He seems confused.:: I'm sorry, but I really can't keep up with those technical terms. I'll leave you to it, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>q14
+::He seems confused.:: I'm sorry, but I really can't keep up with those technical terms. I'll leave you to it, but I'll come back to check on you from time to time. Oh, I can't wait!<end>
+
+=>a15_original
+I've seen better.<end>
+
+=>a15
+I've seen better.<end>
+
+=>q16_original
+You are indeed lucky, but since you work with these things I am not surprised to hear that.<end>
+
+=>q16
+You are indeed lucky, but since you work with these things I am not surprised to hear that.<end>
+
+=>a17_original
+Wow! This thing is huge.<end>
+
+=>a17
+Wow! This thing is huge.<end>
+
+=>q18_original
+Once you repair it you'll see just how good it is. ::He laughs.:: I love it.<end>
+
+=>q18
+Once you repair it you'll see just how good it is. ::He laughs.:: I love it.<end>
+
+=>q19_original
+So, how are the repairs coming along?<end>
+
+=>q19
+So, how are the repairs coming along?<end>
+
+=>a20_original
+All done. I repaired it, and you may now enjoy watching ArenaNow.<end>
+
+=>a20
+All done. I repaired it, and you may now enjoy watching ArenaNow.<end>
+
+=>q21_original
+::A look of relief appears on his face.:: Thank you, thank you, $(#young man/young lady)! I must say, you came at the right time. I guess it was meant to be.<end>
+
+=>q21
+::A look of relief appears on his face.:: Thank you, thank you, $(#young man/young lady)! I must say, you came at the right time. I guess it was meant to be.<end>
+
+=>a22_original
+It is quite strange, but you never know what can happen in life.<end>
+
+=>a22
+It is quite strange, but you never know what can happen in life.<end>
+
+=>q23_original
+That, my friend, is the truth! And now comes the time where I pay you for your work. How much are you charging?<end>
+
+=>q23
+That, my friend, is the truth! And now comes the time where I pay you for your work. How much are you charging?<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+One hundred charons.<end>
+
+=>a25
+One hundred charons.<end>
+
+=>q26_original
+That's not expensive, not at all; I expected more. Here you go - I already had the money prepared. ::He gives you 100 charons.::<end>
+
+=>q26
+That's not expensive, not at all; I expected more. Here you go - I already had the money prepared. ::He gives you 100 charons.::<end>
+
+=>q27_original
+Again, thank you very much, $(#young man/young lady). You are always welcome to Talloski Manor.<end>
+
+=>q27
+Again, thank you very much, $(#young man/young lady). You are always welcome to Talloski Manor.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+What do you do for a living?<end>
+
+=>a29
+What do you do for a living?<end>
+
+=>q30_original
+I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? Do you have another job other than being a gladiator?<end>
+
+=>q30
+I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? Do you have another job other than being a gladiator?<end>
+
+=>a31_original
+No, I only fight in the Arena and will do so as long as I'm alive.<end>
+
+=>a31
+No, I only fight in the Arena and will do so as long as I'm alive.<end>
+
+=>q32_original
+Be careful, that might not last long. ::Laughs.:: Well, when I think about it, it's not a laughing matter to you.<end>
+
+=>q32
+Be careful, that might not last long. ::Laughs.:: Well, when I think about it, it's not a laughing matter to you.<end>
+
+=>q33_original
+I suppose.<end>
+
+=>q33
+I suppose.<end>
+
+=>a34_original
+I also own a repair store. I specialize in monitors - big, small, I can fix them all.<end>
+
+=>a34
+I also own a repair store. I specialize in monitors - big, small, I can fix them all.<end>
+
+=>q35_original
+::His interest suddenly intensifies.:: Really? Well, isn't this fantastic? What a coincidence!<end>
+
+=>q35
+::His interest suddenly intensifies.:: Really? Well, isn't this fantastic? What a coincidence!<end>
+
+=>a36_original
+What do you mean?<end>
+
+=>a36
+What do you mean?<end>
+
+=>q37_original
+Think! ::He laughs.:: Let me help you - we have a room upstairs where we keep our four meter, 8460p monitor. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see just about every little--
+
+Anyway, the bloody thing stopped working and I need someone to fix it.<end>
+
+=>q37
+Think! ::He laughs.:: Let me help you - we have a room upstairs where we keep our four meter, 8460p monitor. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see just about every little--
+
+Anyway, the bloody thing stopped working and I need someone to fix it.<end>
+
+=>a38_original
+I can fix anything, don't worry.<end>
+
+=>a38
+I can fix anything, don't worry.<end>
+
+=>q39_original
+Thank you! Money is *not* the issue, I only care about my family and myself being able to watch the Arena again. Now, once you diagnose the problem and eventually fix the monitor, then we will sit down talk about your payment. 
+
+So, can you start working right now or...<end>
+
+=>q39
+Thank you! Money is *not* the issue, I only care about my family and myself being able to watch the Arena again. Now, once you diagnose the problem and eventually fix the monitor, then we will sit down talk about your payment. 
+
+So, can you start working right now or...<end>
+
+=>a40_original
+Lead the way.<end>
+
+=>a40
+Lead the way.<end>
+
+=>q41_original
+Excellent! It's upstairs, follow me.<end>
+
+=>q41
+Excellent! It's upstairs, follow me.<end>
+
+=>a42_original
+::Follow him.::<end>
+
+=>a42
+::Follow him.::<end>
+
+=>a43_original
+I have to get something first. I'll tell you when I'm ready.<end>
+
+=>a43
+I have to get something first. I'll tell you when I'm ready.<end>
+
+=>q44_original
+Good, good. I'll wait here. Just, remember that there is a monitor that needs fixing, and a family that needs entertainment.<end>
+
+=>q44
+Good, good. I'll wait here. Just, remember that there is a monitor that needs fixing, and a family that needs entertainment.<end>
+
+=>a45_original
+Hah, I've fixed so many of those you wouldn't believe me.<end>
+
+=>a45
+Hah, I've fixed so many of those you wouldn't believe me.<end>
+
+=>a46_original
+Don't tell me... You have a monitor that needs to be fixed?<end>
+
+=>a46
+Don't tell me... You have a monitor that needs to be fixed?<end>
+
+=>q47_original
+Exactly! Listen, we have a room upstairs with a big monitor, 8640p. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see every--
+
+Anyway, the bloody thing stopped working and I need someone to fix it.<end>
+
+=>q47
+Exactly! Listen, we have a room upstairs with a big monitor, 8640p. That's high resolution, very rare. We watch ArenaNow on it, as well as the Gauntlet. It's just amazing! You can see every--
+
+Anyway, the bloody thing stopped working and I need someone to fix it.<end>
+
+=>a48_original
+I also do a bit of this, and a bit of that - whatever earns charons.<end>
+
+=>a48
+I also do a bit of this, and a bit of that - whatever earns charons.<end>
+
+=>q49_original
+I respect that - I really do. Hard work pays off, $(#young man/young lady). Trust me. I created all this, *all* that you see in here with just a few charons and a lot of sweat and tears.<end>
+
+=>q49
+I respect that - I really do. Hard work pays off, $(#young man/young lady). Trust me. I created all this, *all* that you see in here with just a few charons and a lot of sweat and tears.<end>
+
+=>q50_original
+You have great potential - I can see it in you.<end>
+
+=>q50
+You have great potential - I can see it in you.<end>
+
+=>a51_original
+I originally did some minor work for South Gate Station before I came here.<end>
+
+=>a51
+I originally did some minor work for South Gate Station before I came here.<end>
+
+=>q52_original
+I am familiar with SGS; I did some trading with them in the past. They are a solid community, at least after their issues with the Omegas. 
+
+I respect the Southgaters, and remember I felt much safer there than say, when I was in Rail Crossing or Junkyard or other such places. <end>
+
+=>q52
+I am familiar with SGS; I did some trading with them in the past. They are a solid community, at least after their issues with the Omegas. 
+
+I respect the Southgaters, and remember I felt much safer there than say, when I was in Rail Crossing or Junkyard or other such places. <end>
+
+=>q53_original
+I'm sure you know it all already; Junkyard is close to your station.<end>
+
+=>q53
+I'm sure you know it all already; Junkyard is close to your station.<end>
+
+=>q54_original
+I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? What do you do for a living?<end>
+
+=>q54
+I'm in the trading business, $(#young man/young lady). I was fortunate enough to succeed in making a bit of money and move into Core City with my family. How about you? What do you do for a living?<end>
+
+=>a55_original
+I own a repair store. I specialize in monitors, big, small, I can fix them all.<end>
+
+=>a55
+I own a repair store. I specialize in monitors, big, small, I can fix them all.<end>
+
+=>a56_original
+I don't do anything. I wait for the coin to find its way into my pocket.<end>
+
+=>a56
+I don't do anything. I wait for the coin to find its way into my pocket.<end>
+
+=>q57_original
+::He raises his eyebrows.:: Well... good luck with that.<end>
+
+=>q57
+::He raises his eyebrows.:: Well... good luck with that.<end>
+
+=>q58_original
+I'm sure it's working out great for you.<end>
+
+=>q58
+I'm sure it's working out great for you.<end>
+
+=>a59_original
+I do a bit of this, and a bit of that. Whatever earns charons.<end>
+
+=>a59
+I do a bit of this, and a bit of that. Whatever earns charons.<end>
+
+=>a60_original
+I do some work for South Gate Station. That's where I came from.<end>
+
+=>a60
+I do some work for South Gate Station. That's where I came from.<end>
+
+=>a61_original
+I've got all I need and I'm eager to do some fixin'.<end>
+
+=>a61
+I've got all I need and I'm eager to do some fixin'.<end>
+
+=>a62_original
+What can you tell me about the Talloski family?<end>
+
+=>a62
+What can you tell me about the Talloski family?<end>
+
+=>q63_original
+We are one big, happy family. You won't have a chance to meet my wife, Suzana, because she had to make a quick travel to North Underrail that, unfortunately, got prolonged. Ah, charming woman; fell in love with her the moment I saw her...<end>
+
+=>q63
+We are one big, happy family. You won't have a chance to meet my wife, Suzana, because she had to make a quick travel to North Underrail that, unfortunately, got prolonged. Ah, charming woman; fell in love with her the moment I saw her...<end>
+
+=>q64_original
+As for the kids, they are always around though. ::He makes a pause.:: Well, actually, now that I think about it, they do seem to be spending less and less time at home as of late.<end>
+
+=>q64
+As for the kids, they are always around though. ::He makes a pause.:: Well, actually, now that I think about it, they do seem to be spending less and less time at home as of late.<end>
+
+=>a65_original
+::Let him continue.::<end>
+
+=>a65
+::Let him continue.::<end>
+
+=>q66_original
+I... I raised those kids. I still see them as that - kids. Now, they don't need me, me and my wife, as much anymore. Except when they need money. ::He laughs.:: Although, Maxim earns his own money, but since he works for me, so, again, I'm the one giving him the coin.<end>
+
+=>q66
+I... I raised those kids. I still see them as that - kids. Now, they don't need me, me and my wife, as much anymore. Except when they need money. ::He laughs.:: Although, Maxim earns his own money, but since he works for me, so, again, I'm the one giving him the coin.<end>
+
+=>q67_original
+I simply miss them being kids. Bah, you're too young for this sort of talk, $(#young man/young lady). How about we change the subject?<end>
+
+=>q67
+I simply miss them being kids. Bah, you're too young for this sort of talk, $(#young man/young lady). How about we change the subject?<end>
+
+=>a68_original
+Well, that's natural. You might see them as your kids, but they've grown up. They're adults now.<end>
+
+=>a68
+Well, that's natural. You might see them as your kids, but they've grown up. They're adults now.<end>
+
+=>q69_original
+You're spot on, they are adults. You know, I think the thing I miss the most is them needing us, my wife and myself I mean. Now, they just don't need, or don't want help anymore. They're adults now and... they can take care for themselves.<end>
+
+=>q69
+You're spot on, they are adults. You know, I think the thing I miss the most is them needing us, my wife and myself I mean. Now, they just don't need, or don't want help anymore. They're adults now and... they can take care for themselves.<end>
+
+=>q70_original
+I miss them being kids. But, yeah, you seem to understand what's this all about. Anyway... what were we talking about?<end>
+
+=>q70
+I miss them being kids. But, yeah, you seem to understand what's this all about. Anyway... what were we talking about?<end>
+
+=>a71_original
+That's a good thing. You have more time for yourself.<end>
+
+=>a71
+That's a good thing. You have more time for yourself.<end>
+
+=>q72_original
+That is true, I do have more time for myself. But I got so used to raising my children, them needing me. I felt good - I felt proud. Now, they don't need me as much anymore, $(#young man/young lady).<end>
+
+=>q72
+That is true, I do have more time for myself. But I got so used to raising my children, them needing me. I felt good - I felt proud. Now, they don't need me as much anymore, $(#young man/young lady).<end>
+
+=>a73_original
+What can you tell me about your kids?<end>
+
+=>a73
+What can you tell me about your kids?<end>
+
+=>q74_original
+They are everything to me. Maxim is a true heir of the Talloski business... even though he has to show up for work more often, but he gets it; he understands how the trading business operates. Sophia, daddy's little girl, she's going through a rough time: Nothing seems to interest her. I buy her things and I spend time with her...<end>
+
+=>q74
+They are everything to me. Maxim is a true heir of the Talloski business... even though he has to show up for work more often, but he gets it; he understands how the trading business operates. Sophia, daddy's little girl, she's going through a rough time: Nothing seems to interest her. I buy her things and I spend time with her...<end>
+
+=>q75_original
+I think she's just going through a phase. Maybe I spoiled them both a little... I don't know, time will tell.<end>
+
+=>q75
+I think she's just going through a phase. Maybe I spoiled them both a little... I don't know, time will tell.<end>
+
+=>a76_original
+What can you tell me about Grandpa?<end>
+
+=>a76
+What can you tell me about Grandpa?<end>
+
+=>q77_original
+Oh, I see one of the kids mentioned him. He's my... hmmm, let's see... great-great-great-great grandfather I believe, on my grandmother's side. He was in the family since I was just a kid. He's very old, more than a hundred years. Impressive, I know. Sadly, his train was derailed a long time ago.<end>
+
+=>q77
+Oh, I see one of the kids mentioned him. He's my... hmmm, let's see... great-great-great-great grandfather I believe, on my grandmother's side. He was in the family since I was just a kid. He's very old, more than a hundred years. Impressive, I know. Sadly, his train was derailed a long time ago.<end>
+
+=>a78_original
+How come I haven't met him yet?<end>
+
+=>a78
+How come I haven't met him yet?<end>
+
+=>q79_original
+He mostly stays in his room, doing some work of his. Something sciency, I'm not entirely sure. As I mentioned just now, he's not entirely on this side of the tracks. But, he's family, and he doesn't cause much trouble. Once you get used to him, it's all good.<end>
+
+=>q79
+He mostly stays in his room, doing some work of his. Something sciency, I'm not entirely sure. As I mentioned just now, he's not entirely on this side of the tracks. But, he's family, and he doesn't cause much trouble. Once you get used to him, it's all good.<end>
+
+=>a80_original
+Where is he, actually?<end>
+
+=>a80
+Where is he, actually?<end>
+
+=>q81_original
+He's in his room, most of the time. He's got his thing going over there, doing some science stuff, or so he believes. *We* let him believe it, as he's our family after all. And we can afford to make his life as good as it can possibly get.<end>
+
+=>q81
+He's in his room, most of the time. He's got his thing going over there, doing some science stuff, or so he believes. *We* let him believe it, as he's our family after all. And we can afford to make his life as good as it can possibly get.<end>
+
+=>a82_original
+Goodbye.<end>
+
+=>a82
+Goodbye.<end>
+
+=>a83_original
+::[Mercantile]:: Two hundred charons.<end>
+
+=>a83
+::[Mercantile]:: Two hundred charons.<end>
+
+=>q84_original
+Good, that's acceptable. Here you go - I already had the money prepared. ::He gives you 200 charons.::<end>
+
+=>q84
+Good, that's acceptable. Here you go - I already had the money prepared. ::He gives you 200 charons.::<end>
+
+=>a85_original
+::[Mercantile]:: Three hundred charons. Big monitors like this one cost a lot to repair.<end>
+
+=>a85
+::[Mercantile]:: Three hundred charons. Big monitors like this one cost a lot to repair.<end>
+
+=>q86_original
+It's a bit more than I expected, hmmm... but I'm just glad my beauty is fixed. Here you go. ::He gives you 300 charons.::<end>
+
+=>q86
+It's a bit more than I expected, hmmm... but I'm just glad my beauty is fixed. Here you go. ::He gives you 300 charons.::<end>
+
+=>q87_original
+I think you are asking far too much. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
+
+=>q87
+I think you are asking far too much. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
+
+=>a88_original
+::[Mercantile]:: Four hundred charons. It was a pain to get this thing running again.<end>
+
+=>a88
+::[Mercantile]:: Four hundred charons. It was a pain to get this thing running again.<end>
+
+=>q89_original
+That is very expensive! I... ::He pauses.:: Ah, who cares - I can afford it. Here you go. ::He gives you 400 charons.::<end>
+
+=>q89
+That is very expensive! I... ::He pauses.:: Ah, who cares - I can afford it. Here you go. ::He gives you 400 charons.::<end>
+
+=>q90_original
+That is just too much! Sorry. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
+
+=>q90
+That is just too much! Sorry. I find it hard to believe that it can cost that much to repair a monitor, even of this size.<end>
+
+=>a91_original
+Yeah, yeah. About the money...<end>
+
+=>a91
+Yeah, yeah. About the money...<end>
+
+=>q92_original
+Of course. I was just getting to it. How much are you charging for your work?<end>
+
+=>q92
+Of course. I was just getting to it. How much are you charging for your work?<end>
+
+=>a93_original
+I think I'll be over quite soon.<end>
+
+=>a93
+I think I'll be over quite soon.<end>
+
+=>q94_original
+Excellent, can't wait. Well, I'll let you continue.<end>
+
+=>q94
+Excellent, can't wait. Well, I'll let you continue.<end>
+
+=>a95_original
+It will take some time, the problem seems to be a bit more serious than I thought.<end>
+
+=>a95
+It will take some time, the problem seems to be a bit more serious than I thought.<end>
+
+=>q96_original
+Oh, well, take your time. I'll be back later.<end>
+
+=>q96
+Oh, well, take your time. I'll be back later.<end>
+
+=>q97_original
+::You stand before a short middle-aged man. He has a focused, studious look and even with his unimpressive stature he projects a certain commanding presence. His voice, however, sounds relaxed and welcoming.::
+
+Welcome to our home, $(#mister/miss)...?<end>
+
+=>q97
+::You stand before a short middle-aged man. He has a focused, studious look and even with his unimpressive stature he projects a certain commanding presence. His voice, however, sounds relaxed and welcoming.::
+
+Welcome to our home, $(#mister/miss)...?<end>
+
+=>a98_original
+$(context.player.Name).<end>
+
+=>a98
+$(context.player.Name).<end>
+
+=>q99_original
+Ah, that's right. $(context.player.Name). Welcome to our home, I'm Vlatko Talloski, father of Maxim and Sophia. Please, let's have a seat.<end>
+
+=>q99
+Ah, that's right. $(context.player.Name). Welcome to our home, I'm Vlatko Talloski, father of Maxim and Sophia. Please, let's have a seat.<end>
+
+=>a100_original
+Thank you, but I prefer to stand.<end>
+
+=>a100
+Thank you, but I prefer to stand.<end>
+
+=>q101_original
+::Smiles.:: As you will, $(#young man/young lady).<end>
+
+=>q101
+::Smiles.:: As you will, $(#young man/young lady).<end>
+
+=>q102_original
+Tell me: What brings you to the Talloski Manor?<end>
+
+=>q102
+Tell me: What brings you to the Talloski Manor?<end>
+
+=>q103_original
+<end>
+
+=>q103
+<end>
+
+=>a104_original
+I was invited here by your daughter Sophie.<end>
+
+=>a104
+I was invited here by your daughter Sophie.<end>
+
+=>q105_original
+Ah, now I remember. Sophia got that... creature from you, right? She seems really fascinated by it, though I'm a bit worried. Is it dangerous? Where did you find it?<end>
+
+=>q105
+Ah, now I remember. Sophia got that... creature from you, right? She seems really fascinated by it, though I'm a bit worried. Is it dangerous? Where did you find it?<end>
+
+=>a106_original
+I can't reveal its origin. Business secret. But the creature is harmless, so you need not worry.<end>
+
+=>a106
+I can't reveal its origin. Business secret. But the creature is harmless, so you need not worry.<end>
+
+=>q107_original
+I understand. Believe me, I understand. I'll have to keep an eye on Sophia and the... creature, just in case.<end>
+
+=>q107
+I understand. Believe me, I understand. I'll have to keep an eye on Sophia and the... creature, just in case.<end>
+
+=>a108_original
+It's not dangerous at all. Trust me. I found it in Foundry.<end>
+
+=>a108
+It's not dangerous at all. Trust me. I found it in Foundry.<end>
+
+=>q109_original
+Fascinating! I've never seen anything like it, to be perfectly honest. Sophia seems very pleased; thank you, it is... very difficult to amuse her. Still, I'll have to keep an eye on the... creature, just in case.<end>
+
+=>q109
+Fascinating! I've never seen anything like it, to be perfectly honest. Sophia seems very pleased; thank you, it is... very difficult to amuse her. Still, I'll have to keep an eye on the... creature, just in case.<end>
+
+=>a110_original
+I was invited here by your son, Maxim.<end>
+
+=>a110
+I was invited here by your son, Maxim.<end>
+
+=>q111_original
+Ah, now I remember! Maxim told me you're a gladiator? I thought you looked familiar; I remember you now! Our family enjoys the Arena very much, I must confess. When you have some free time, I would like for the two us to sit down and perhaps chat a bit about it. I'm very, very interested in exciting gladiator stories, which I'm sure you have in abundance to tell.<end>
+
+=>q111
+Ah, now I remember! Maxim told me you're a gladiator? I thought you looked familiar; I remember you now! Our family enjoys the Arena very much, I must confess. When you have some free time, I would like for the two us to sit down and perhaps chat a bit about it. I'm very, very interested in exciting gladiator stories, which I'm sure you have in abundance to tell.<end>
+
+=>q112_original
+Yes, he mentioned you were coming. Didn't really say a lot about you I'm afraid.<end>
+
+=>q112
+Yes, he mentioned you were coming. Didn't really say a lot about you I'm afraid.<end>
+
+=>q113_original
+You can go talk to him if you want to. Unless you wanted to ask me something?<end>
+
+=>q113
+You can go talk to him if you want to. Unless you wanted to ask me something?<end>
+
+=>a114_original
+Pleasure to meet you, sir. I've heard a lot about your family.<end>
+
+=>a114
+Pleasure to meet you, sir. I've heard a lot about your family.<end>
+
+=>q115_original
+I hope you've heard only good things. ::He laughs.:: I like to believe that we're respected in this community; but, well, as you might know - fortune comes at a price. We are often scrutinized by the less fortunate public in hopes to discover what "dirty" business made us richer than they are; some people just don't believe you can succeed without doing something insidious, I suppose.<end>
+
+=>q115
+I hope you've heard only good things. ::He laughs.:: I like to believe that we're respected in this community; but, well, as you might know - fortune comes at a price. We are often scrutinized by the less fortunate public in hopes to discover what "dirty" business made us richer than they are; some people just don't believe you can succeed without doing something insidious, I suppose.<end>
+
+=>q116_original
+But no matter, $(#young man/young lady). Tell me: What brings you to Talloski Manor?<end>
+
+=>q116
+But no matter, $(#young man/young lady). Tell me: What brings you to Talloski Manor?<end>
+
+=>q117_original
+Yes?<end>
+
+=>q117
+Yes?<end>
+

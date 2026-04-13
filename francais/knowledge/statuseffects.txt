@@ -1,879 +1,879 @@
-::Sprint
-Movement points increased by {0} when not in stealth.
-
-::Charging
-Movement points increased by {0}. This character will deal {1}% bonus damage if their charge attack lands.
-
-::ChargingWithStun
-Movement points increased by {0}. This character will deal {1}% bonus damage and stun the target if their charge attack lands.
-
-::Sprint-RT
-Movement speed increased by {0}% when not in stealth.
-
-::Frozen
-Frozen solid. Cannot perform any action, but any direct damage will cancel the effect.
-
-::Chilled
-Movement points reduced by {0}.
-
-::Chilled-SlowImmune
-This character is immune to slow.
-
-::Chilled-RT
-Movement speed decreased by {0}%
-
-::AcidicEntanglement
-Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn.
-
-::CorrosiveAcidicEntanglement
-Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of corrosion.
-
-::RustingAcidicEntanglement
-Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of rusting.
-
-::StealthMode
-The character is currently in stealth mode which allows them to hide from others, but reduces their movement speed by {0}%.
-
-While in combat their movement points are reduced to {1} and they can receive no extra movement points from any source.
-
-::ShadowTricks
-{1}% displacement.
-
-::PsiBoost
-Restores {0} psi each turn.
-
-::PsiBoost-Old
-Psi regeneration increased by {0}% plus {1}.
-
-::Adrenaline
-Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.
-
-::Adrenaline-Old
-Movement speed increased by {0}%, time between attacks decreased by {1}%, and dodge and evasion increased by {2}%.
-
-::VitalitySurge
-Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.
-
-::VitalityDrain
-Loses {0} health per turn.
-
-::Fatigue
-Action points decreased by {0}.
-
-::Fatigue-Old
-Movement speed decreased by {0}% and time between attacks increased by {1}%.
-
-::PsionicWithdrawal
-Drains {0} psi every turn. Intelligence, Will and Perception are decreased by {1}.
-
-::PsionicWithdrawal-Old
-All bonuses to psi regeneration are nullified and psi regeneration is decreased by {0}%. Intelligence, Wisdom and Will are decreased by {1}.
-
-::Stunned
-Cannot move or perform any actions.
-
-::Incapacitated
-Cannot move or perform any actions, but any damage taken will remove the effect.
-
-::CerebralTrauma-Old
-Intelligence decreased by {0} and psi regeneration rate decreased by {1}%.
-
-::CerebralTrauma-OldAsWell
-Intelligence decreased by {0}.
-
-::CerebralTrauma
-All psi point gains reduced by {0}%.
-
-::MentalSubversion
-Resolve reduced by {0}%.
-
-::KneeWound1
-The character suffers {0} bleeding damage every turn and gains no movement points.
-
-::KneeWound2
-This character gains no movement points.
-
-::KneeWound1-SlowImmune
-The character suffers {0} bleeding damage every turn.
-
-::KneeWound2-SlowImmune
-This character is immune to slow.
-
-::KneeWound1-Old
-The character suffers {0} bleeding damage every second and movement speed is reduced by {1}%.
-
-::KneeWound2-Old
-Movement speed reduced by {0}%.
-
-::Hypothermia
-Constitution decreased by {0}.
-
-::NetEntanglement
-Cannot move.
-
-::StoneBolasEntanglement
-Cannot move.
-
-::Webbed
-Cannot move.
-
-::thermodynamicity_heat-Old
-Cost of the next heat based psi ability reduced by {0}%.
-
-::thermodynamicity_cold-Old
-Cost of the next cold based psi ability reduced by {0}%.
-
-::thermodynamicity_heat
-Action point cost of the next heat based psi ability reduced by {0}%.
-
-::thermodynamicity_cold
-Action point cost of the next cold based psi ability reduced by {0}%.
-
-::PackHunting-Old
-This creature is a pack hunter. Its damage is increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}%.
-
-::PackHunting
-This creature is a pack hunter. Its damage and attack skill are increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}% and attack skill is increased by {1}.
-
-::BleedingWound
-Bleeding for {0} damage every turn.
-
-::ContaminatedWound
-Suffers {0} bio damage every turn.
-
-::Fear
-Overwhelming fear prevents this character from acting rationally.
-
-::Rage
-This character is raging and may attack anyone.
-
-::Aphobia
-Short term immunity to all fear effects.
-
-::SecondWind
-Short term immunity to stun effects.
-
-::SafeMode
-Short term immunity to all disabling effects.
-
-::Burning
-This character is burning for {0} damage each turn.
-
-::BurningWithFear
-This character is burning for {0} damage each turn, while running around in panic.
-
-::Poison
-This character is afflicted by {0}, suffering {1} bio damage every turn.
-
-::CaveEarPoison
-This character is afflicted by cave ear poison. All biological damage received increased by {0}% and perception reduced by {1}.
-
-::CrawlerPoison
-This character is afflicted by crawler poison, suffering {0} bio damage every turn. If the poison is not removed before it expires it will stun the victim for up to {1}.
-
-::SpiritPoison
-This character is afflicted by spirit poison, suffering {0} bio damage every turn and having its resolve reduced by {1}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's human.
-
-::ShortCircuited
-This machine is temporarily disabled and cannot perform any functions.
-
-::PersonalCloaking
-Stealth increased by {0} and evasion increased by {1}.
-
-::Nightvision
-You can see in the dark.
-
-::LocusOfControl
-Immune to stun, fear, incapacitation, and mind control.
-
-Next thought control psi ability the character invokes will have an area of effect, but will end the effect.
-
-::Premeditation
-Character's next psi ability will cost {0}% less psi points, {1}% less action points and will have its range increased by {2}.
-
-::PsionicMania
-Character's next offensive psi ability will be an automatic critical hit.
-
-::psionicSynergy
-Proximity of other psionically active Azuridae beetles increases this creature's psi skill levels by {0} and also allows it to invoke more powerful psi abilities.
-
-::SpecialTactics
-Character's next special bolt attack will cost no action points.
-
-::Food_rathoundBarbeque
-Strength increased by 1.
-
-::Food_burrowerBurger
-Constitution increased by 1.
-
-::Food_caveHopperSteak
-Agility increased by 1.
-
-::Food_eelSandwich
-Dexterity increased by 1.
-
-::Food_mushroomBrew
-Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.
-
-::Food_coffee
-Movement points increased by 5 and psi cost of all psi abilities reduced by 10%, but psi regeneration also reduced by 3.
-
-::Food_baconCheeseSandwich
-Maximum health increased by 20.
-
-::Food_cannedFish
-Cold damage taken reduced by 15%.
-
-::Food_cannedMeat
-Mechanical damage taken reduced by 5%.
-
-::Food_cannedMushrooms
-Bio damage taken reduced by 15%.
-
-::Food_cannedStew
-Heat damage taken reduced by 8%.
-
-::Food_cookedBurrowerEgg
-Poison damage taken reduced by 35%.
-
-::Food_coreChips
-Weapon critical hit chance increased by 2%.
-
-::Food_hardcoreChips
-Weapon critical hit chance increased by 5%, but chance to get critically hit by weapons increased by 2%.
-
-::Food_friedSiphonerTongue
-Healing effectiveness increased by 15%.
-
-::Food_mushroomSalad
-Perception increased by 1.
-
-::Food_pentapusBarbecue
-Carry capacity increased by 25.
-
-::Food_pickledMindshrooms
-Psionic critical damage bonus increased by 40%.
-
-::Food_psiBeetleBrainSoup
-Psi ability psi cost decreased by 15%.
-
-::Food_rootSoda
-Initiative increased by 5.
-
-::Food_stuffedBat
-Detection increased by 15%.
-
-::Food_underPie
-All skills increased by 3.
-
-::Food_cannedCzernina
-Heat damage taken reduced by 15%.
-
-::Food_crabSandwich
-Global mechanical threshold increased by 15%.
-
-::Food_kzozel
-Dodge increased by 50 and all mechanical damage taken reduced by 10%. Perception reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.
-
-::Food_kzozelYantar
-Dodge increased by 70 and all mechanical damage taken reduced by 15%. Perception reduced by 3. All psionic skills reduced by 40 and psi regeneration reduced by 30.
-
-::Food_mutieStew
-Acid damage taken reduced by 35%, but health reduced by 20 and healing effectiveness decreased by 35%.
-
-::Food_SeaSerpentFillet
-Poison damage taken reduced by 20% and evasion increased by 30.
-
-::Food_butterySteamedClams
-Maximum health points increased by 40.
-
-::Food_bisonMilk
-Strength increased by 1 and critical damage bonus of melee weapons and unarmed attacks increased by 25%.
-
-::Food_mysteryCandy
-Critical chance with weapon, unarmed, and psi attacks increased by 5%, but will reduced by 1 and resolve reduced by 100.
-
-::Food_iceOfSpades
-Metathermics increased by 20 but movement points reduced by 10.
-
-::Food_allIn
-All base abilities increased by 3. Chance to get critically hit with weapons, unarmed attacks and psi abilities increased by 100% (additively).
-
-::Food_boolean
-All base abilities decreased by 3. All psionic skills reduced by 20 and psi regeneration reduced by 30.
-
-::Food_stalagDrop
-Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 1. All psionic skills reduced by 10 and psi regeneration reduced by 15.
-
-::Food_caveTear
-Strength increased by 2 and all mechanical damage taken reduced by 20%. Perception and dexterity reduced by 3. All psionic skills reduced by 30 and psi regeneration reduced by 40.
-
-::Food_cleanDeal
-Thought control increased by 20, but perception reduced by 1 and resolve reduced by 30.
-
-::Food_sleightOfTheNight
-Pickpocketing increased by 15.
-
-::Food_slampipe
-Strength increased by 1 and character does 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks. Agility reduced by 1. 
-
-::Food_outwork
-Carry capacity increased by 30.
-
-::Food_jetdrag
-Stability on jet skis increased by 10%, but action points reduced by 5.
-
-::Food_laylow
-Evasion increased by 15% and stealth increased by 20. Also all bio damage received reduced by 10%.
-
-::Food_mindshroomMartini
-Maximum psi points increased by 10.
-
-::Food_whiteDude
-Agility increased by 3, persuasion increased by 15, but dexterity and perception reduced by 2 and psi point regeneration reduced by 30.
-
-::Food_slackjaw
-Strength and constitution increased by 1 and intimidation increased by 15, but intelligence reduced by 3 and will reduced by 1.
-
-::Food_absence
-Detection increased by 23.3%, chance to get crit with weapons, unarmed attacks and psi abilities reduced by 16.6%. To balance the transcendental scales this character has 16.6% increased critical chance with psi abilities and 33.3% increased psi cost. They can also fInAl1y PerC3ive the rE4lity as It TRUEly isŝş...
-
-::Food_bloodyOligarch
-Health increased by 30, but reslove reduced by the same amount. Its disgusting taste will linger in your mouth for hours.
-
-::Food_scrapperac
-This character does 15% bonus damage with melee weapons and unarmed attacks and also has a small chance to daze the target, themselves, or both on each such attack.
-
-::Food_jonSpecial
-All skills increased by 5.
-
-::StrangeFeeling
-You feel the darkness clasp around you and an ominous presence in the back of your mind.
-
-::PsionicApparition
-Immune to all physical attacks.
-
-::OffBalance
-Dodge and evasion reduced to zero.
-
-::IceRemnant
-Cold apparition. Immune to all damage.
-
-::Intimidated
-All offensive skills reduced by {0}.
-
-::CreepingDread
-You feel a deep primordial fear creeping in the back of your head. All offensive, defensive and psionic skills reduced by {0}%.
-
-::SporeInfection
-You're getting dizzy. Health reduced by {0}%.
-
-::EyeOfTchort
-The eye of Tchort is upon you, nearly paralyzing you with fear. All offensive, defensive and psionic skills reduced by {0}%.
-
-::Crippled
-Strength decreased by {0}.
-
-::Tackled
-Movement points decreased by {0}, action points decreased by {1} and chance to hit with all ranged weapons decreased by {2}%.
-
-::MorphineHypo
-All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.
-
-::Nervosomnifer
-All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.
-
-::Anticoagulation
-Prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}%. Also, all healing effects are reduced by {1}%.
-
-::AnticoagulationItemEffect_Cap
-Applies anticoagulant to a suitable melee weapon that prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}% for {2}. Also, all healing effects are reduced by {1}%. Stacks {3} times.
-
-::AnticoagulationItemEffect_Applied
-If the attack penetrates the armor, anticoagulant is applied that prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}% for {2}. Also, all healing effects are reduced by {1}%. Stacks {3} times.
-
-::BrokenRib
-The character takes additional {0}% mechanical damage from all sources.
-
-::UncannyDodge-Old
-This character will dodge the next regular or special melee attack.
-
-::UncannyDodge
-This character will dodge a regular or special melee attack for each stack of this effect.
-
-::UncannyEvasion
-This character will evade a regular or special ranged weapon attack for each stack of this effect.
-
-::EvasiveManeuvers
-Evasion increased by {0}.
-
-::MentalBreakdown
-This character is incapacitated and suffering {0}% reduced resolve. If a detrimental thought control psi ability is invoked against them it will have double the effect, but will end the mental breakdown.
-
-::Trapped
-This character is rooted in place by a trap.
-
-::Compass
-This character can tell which way north is.
-
-::Infusion_Reflexes
-Dodge and evasion increased by {0}.
-
-::Infusion_Strength
-Strength increased by {0}.
-
-::Infusion_Speed
-Movement points increased by {0}.
-
-::Infusion_Focus
-All psionic skills increased by {0}
-
-::InfectedWound
-All damage taken increased by {0}%. Healing effectiveness reduced by {1}%.
-
-::ExposedWeakness
-Mechanical damage resistance and threshold reduced by {0}%.
-
-::BlastedArmor
-Mechanical and heat damage resistance and threshold reduced by {0}%.
-
-::Suppressed
-Ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2}.
-
-::QuickTinkering
-This character will arm the next trap instantly, even in combat in which case it will cost {0} action points.
-
-::TasteForBlood
-Melee damage increased by {0}%.
-
-::TasteForBlood2-Old
-Melee damage increased by {0}% and action point cost for using melee weapons reduced by {1}.
-
-::Combo
-If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and stun the target for {1}.
-
-::LastStand
-After this effect exipres the character's health will be reduced to 1.
-
-::ThermodynamicDestabilization
-If this target is destroyed it will explode, dealing {0} and {1} damage to the surrounding characters.
-
-::Irongut
-All biological damage taken reduced by {0}%.
-
-::PsionicTrance
-Critical damage bonus of psi abilities increased by {0}%, but psi cost increased by {1}% as well.
-
-::PainSuppression
-All damage taken reduced by {0}%.
-
-::FocusBoost
-Critical chance with weapons, unarmed combat and psionics increased by {0}%.
-
-::AgilityBoost
-Dodge and evasion increased by {0}%. Movement points increased by {1} while not in stealth.
-
-::HerculeanMight
-Strength, dexterity, agility, and constitution increased by {0}.
-
-::HerculeanWithdrawal
-You feel ill. Strength, dexterity, agility, and constitution decreased by {0}. Action points reduced by {0}. Movement points reduced by {2} and movement speed reduced by {3}%. Taking {1} damage every turn.
-
-::ZombieMutating
-This character is undergoing horrific mutations.
-
-::DreadnoughtPiloting
-You are piloting a dreadnought.
-
-::JetskiPiloting
-You are piloting a jet ski.
-
-::Dazed
-Action points reduced by {0} and movement points reduced by {1}.
-
-::Inhibited
-Cannot invoke psi abilities or regenerate psi points naturally.
-
-::ConcentratedFire
-Receives {0}% extra damage from burst attacks.
-
-::GunRush
-Your next assault rifle or SMG burst attack will cost no action points.
-
-::Immobilized
-Cannot move.
-
-::Charged
-Next electrical psionic attack will deal additional {0} electrical damage.
-
-::Contaminated
-All damage taken increased by {0}%.
-
-::WorkbenchSkillBonus
-{0} increased by {1}%.
-
-::PseudoSpatialProjection
-Unarmed and weapon attacks have a chance to miss this character, instead removing one of the psionic projections.
-
-::BlurredVision
-Perception reduced by {0} and detection by {1}%.
-
-::NeurovisualDisruption
-Cannot detect stealthed characters.
-
-::DisruptiveField
-Chance to hit with ranged and thrown weapon reduced by {0}%.
-
-::ExothermicAura
-You are immune to heat damage and generate flames around you and in your wake (except on the last turn).
-
-::CryoShield
-Each time the character suffers a melee attack, there's a {0}% chance that one of the shards will block {1} of mechanical damage and be destroyed in the process.
-
-::Bullhead
-Immune to stun, daze, and incapacitation.
-
-::Regeneration
-Regenerates {0} health each turn.
-
-::PsiRegeneration
-Regenerates {0} psi each turn.
-
-::SupersoldierDrug
-Strength, dexterity, agility, constitution, and perception increased by {0}. All combat skills increased by {1}%.
-
-::ShieldRecharging
-Regains {0} shield each turn.
-
-::Corroded
-All damage resistances and thresholds reduced by {0}%.
-
-::BlackDragonPoison
-Affected by poison which prevents psi ability invocation and psi points regeneration.
-
-::PsychostaticElectricity
-Chance to get critically hit from weapon and unarmed attacks and psi abilities increased by {0}%.
-
-::SecondSight
-Perception increased by {0} and the character is granted the gift of second sight.
-
-::Hemopsychosis
-Your psi abilities cost health instead of psi points.
-
-::HemopsychosisReduced
-Your psi abilities cost health instead of psi points, but their cost is reduced by {0}%.
-
-::Blindsiding
-Unarmed and weapon damage increased by {0}%.
-
-::TemporalDistorsion
-When this effect expires, it will deal {0} and {1} damage to the target. This damage ignores shield and {2}% of damage resistance and threshold.
-
-::EntropicRecurrence
-The character suffers {0} damage every turn. This damage ignores shields and resistances.
-
-::PsychotemporalDilation
-Action points reduced by {0} and movement points reduced by {1}.
-
-::PsychotemporalContraction
-Action points increased by {0} and movement points increased by {1}. After the effect ends, there's a {2}% chance of it reversing into a psychotemporal dilation of varying power.
-
-::TemporaryRewind
-After this effect ends, the character will take {0} damage. This damage ignores shields and resistances.
-
-::Precognition
-Chance to dodge and evade attacks increased by {0}% (additively). Drains {1} psi points every turn.
-
-::Stasis
-Immune to all damage and most disabling effects, but cannot act. The character's status effects do not progress, but the cooldowns do.
-
-Stasis will break if it absorbs {0} more damage, otherwise it will expire at the beginning of the last turn of duration instead of at the end.
-
-::BlindingPoison
-This character is afflicted by blinding poison, suffering {0} bio damage every turn. Their perception is also decreased by {1}.
-
-::PsionicAcceleration
-Psi regeneration increased by {0}%.
-
-::BlackOilSlow
-Movement speed reduced by {0}%.
-
-::WebSlow
-Movement speed reduced by {0}%.
-
-::HeavyIntoxication
-This is what happens when you get wasted with Dude. All your base attributes have been reduced by {0}. Cheers!
-
-::SoreHands
-Your hands are sore. Your dexterity has been reduced by {0}.
-
-::IntelligenceBoost
-Intelligence increased by {0}.
-
-::InitiativeBoost
-Initiative increased by {0}.
-
-::ThirdEye
-Detection increased by {0}%. Perception increased by {1} for the purpose of detecting hidden passages and other secrets.
-
-::SpearGuard
-Has a {0}% chance to block up to {1} mechanical damage when holding a spear.
-
-::ShatteredWill
-Your drive to continue on is rapidly deteriorating. All base abilities reduced by {0}, all skills reduced by {1}, movement and action points reduced by {2}.
-
-::CarvedUp
-Action points reduced by {0} and the chance to get critically hit by weapon and unarmed attacks increased by {1}%.
-
-::ChemicalDestabilization
-The character takes additional {0}% {1} damage from all sources.
-
-::ChemicalDestabilizationProvider
-Your successful chemical pistol attacks increase the amount of damage taken from the pistol's damage type by {0}% from all sources for {1}. Stacks {2} times.
-
-::LeperPoison
-This character is afflicted by leper poison, suffering {0} bio damage every turn and receiving {1}% more mechanical damage from all sources.
-
-::Submerged
-This character is submerged in water. Evasion is increased by {0}, dodge increased by {1} and all damage resistances are increased by {2}%.
-
-::HeartbreakPoison
-This character is afflicted by heartbreak poison, suffering {0} bio damage every turn. If the poison is not removed, it will deal additional {1} bio damage on expiration.
-
-::Rusting
-Reduces durability of all mechanical items in your posession by {0} each turn.
-
-::VehicleTurbo
-Vehicle movement speed and movement points increased by {0}%, but energy consumption increased by {1}%. The bonuses only work if vehicle is not overencumbered.
-
-::Flurry
-Reduces action point cost of Flurry by {0}.
-
-::Onslaught
-Increases damage done by swords by {0}%. Will be removed if an attack misses or does no damage.
-
-::Riposte
-This character can perform a free sword attack.
-
-::PositiveVoidAffliction
-Positively affected by the outcome of the previous battle. 
-
-::NegativeVoidAffliction
-Negatively affected by the outcome of the previous battle.
-
-::PlayerVoidApparition
-Your mind is detached from your body, and out here it's also your only tool available.
-
-::PelletMayhem
-Your next shotgun attack will have the critical hit chance increased by {0}%.
-
-::ElectroshockAura
-Drains {0} energy from the armor and hits adjacent characters for {1} damage at the end of every turn at the cost of {2} energy per character.
-
-Additionally, whenever this character is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost.
-
-Whenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}.
-
-::MetallineEnergization
-Drains {0} energy from the armor, but reduces the character's overall armor penalty by {1}%.
-
-::EnergyShieldEmpowerment
-Draing {0} energy from the armor, but increases all energy shielding values by {1}%.
-
-::WirelessChargingAura
-Transfers up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them.
-
-::RestlessSpirits
-Dexterity and perception reduced by {0}.
-
-::DarkPresence
-There is something unwholesome lingering in the back of your mind. Will reduced by {0} and resolve reduced by {1}%.
-
-::StriderParasiticInfestation_Base
-This character has been infested!
-
-::StriderParasiticInfestation_Phase1
-They take {4} bio damage per turn.
-
-::StriderParasiticInfestation_Phase2
-Healing reduced by {0}%.
-
-::StriderParasiticInfestation_Phase3
-Psi regeneration reduced by {1}.
-
-::StriderParasiticInfestation_Phase4
-Movement points reduced by {2}.
-
-::StriderParasiticInfestation_Phase5
-Action points reduced by {3}. The infested wound hurts abominably.
-
-::SwampTrance
-This character has perception increased by {0} and regenerates {1} health points each turn. Also makes the character glow.
-
-::Polarized
-Energy damage resistance and threshold reduced by {0}% and electrical ones reduced by {1}%. Chance to get critically hit by weapons increased by {2}%.
-
-::Hyperallergenic
-Consuming any type of medicine will inflict {0} unavoidable bio damage to this character and daze them for {1}.
-
-::HyperallergenicItemEffect_Cap
-Applies hyperallergenic to a suitable melee weapon that will inflict up to {0} unavoidable bio damage to the victim and daze them for {1} if they consume any type of medicine while under its effect. Lasts {2}.
-
-::HyperallergenicItemEffect_Applied
-If the attack penetrates the armor, hyperallergenic is applied and it will inflict up to {0} unavoidable bio damage to the victim and daze them for {1} if they consume any type of medicine while under its effect. Lasts {2}.
-
-::BattleTrance
-All offensive and psionic skills increased by {0}%.
-
-::Smoking
-Increases psi regeneration by {0}, but reduces constitution by {1}.
-
-::CerebralAcidization
-This creature suffers {0} acid damage every turn.
-
-::VoidRot
-This character suffers {0} energy damage every turn.
-
-::ImprovedSprint
-Movement points increased by {0} and action points increased by {1} when not in stealth.
-
-::EmpoweredInvocation
-{0} skill increased by {1}%. When this effect expires, the character will lose all psi points.
-
-::BoardedUp
-Increases the amount blocked by a riot shield by {0}%.
-
-::ShellCount
-Next shotgun shot will deal {0}% bonus damage.
-
-::ScrambledCortex
-This machine is confused and may attack anyone or retreat at random.
-
-::Chemhaze
-Chance to hit with ranged weapons reduced by {0}% and chance to hit with melee weapons and unarmed attacks reduced by {1}%.
-
-::HelmetLanternAura
-Drains {0} energy every turn and provides light up to {1} tiles in front of the wearer
-
-::ElectricTorchAura
-Drains {0} energy every turn and provides light in radius of {1}.
-
-::IndustrialExoskeletonAura
-Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement.
-
-::CombatExoskeletonAura
-Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement.
-
-::ShootingSpree
-Your next sniper rifle attack will refund 100% of the action point cost if it kills the target.
-
-::PlayerMutantFireClaw
-Flames engulf your left claw, causing it to deal additional 10-15 heat damage with each melee attack.
-
-::PlayerMutantFrostClaw
-Dipping your right claw into a liquid nitrogen freezer has encased it in solid ice, causing it do deal additional 20-35 cold damage with each melee attack, chilling the target in process.
-
-::PlayerMutantRustingAcidInfusion
-Consuming a mysterious concoction has altered your acidic glands, causing your Acid Spray to inflict rusting acid upon use.
-
-::BulletTime
-Reduces action point cost of firing firearm pistols by {0}%. Cannot reduce the action point cost below the hard minimum.
-
-::CutsceneDamageResistance
-You shouldn't be seeing this. Look at something else.
-
-::Campfire
-The fire warms you up and relaxes you. Movement points are increased by {0}, movement speed by {1}%.
-
-::FrigidEnvironment
-It's freezing in here. Your cold resistance and threshold is reduced by {0}%, and all cold damage taken is increased by {1}%.
-
-::PsychokineticChainLink
-This character is linked into a psychokinetic chain so {0}% of all direct mechanical and electrical damage taken will be transferred to the next link in the chain, up to maximum of {1} damage per single transfer.
-
-::TelekineticGrounding
-This character is immobilized for now by telekinetic force, but may manage to break free.
-
-::PsychosomaticPredator
-This character is on the hunt for a specific prey, dealing bonus damage to them with weapon and unarmed attacks. The same damage is reduced by overall {0}% against other targets.
-
-::PsychosomaticPrey
-This character is being hunted and will receive {0}% bonus damage from its hunter's weapon and unarmed attacks. This damage is doubled if the attack is melee, and again doubled while this character is frightened.
-
-::PsionicTransceiver
-Psionic skills increased by {0} due to presence of other psionics.
-
-::FreezingMemories
-Will increased by {2}. All cold damage taken reduced by {0}% and all mechanical damage taken reduced by {1}%. The character is immune to any further chilling or freezing effects.
-
-::Motion
-This cat is in motion, which means that intelligence and perception are reduced by {0}, while maximum psi points are increased by {1} and psi regeneration is increased by {2}. Also, resolve is reduced by {3}%.
-
-::MotionWithdrawal
-This cat is suffering from severe motion deficiency, which means that intelligence and perception are reduced by {0}, maximum psi points are reduced by {1} and psi regeneration is reduced by {2}. Also, resolve is reduced by {3}%.
-
-::MindFog
-Intelligence reduced by {0} and psi cost increased by {1}%.
-
-::ToxicGasHealingForEnergyMicrofeat
-Restores {0}-{1} health each turn while standing inside a toxic gas cloud at the cost of up to {2} energy. The healing amount depends on the thickness of the cloud and the energy cost depends on the healing amount. Cannot heal above {3}% of the maximum health. Does not work while frozen or chilled.
-
-::HeadTrap
-Suffering {0} damage every turn. Perception reduced by {1}.
-
-::ScanCallOverload
-Scan time increased by {0}%, which makes the camera slower to find and report intruders.
-
-::SweepingMomentum
-Sweep attack deals {0}% bonus damage.
-
-::BurstWindUp
-Burst attack with this weapon will fire {0} extra round{1} while costing {2} less action point{3}.
-
-::BulletTrance
-This character does {0}% bonus damage when using heavy guns.
-
-::DemolitionRage
-This character does {0}% bonus damage when using grenade and rocket launchers.
-
-::GunnersHigh
-Heals {0} health per turn, but cannot heal above {1}% of maximum health.
-
-::JumpstarterBoost
-Grants {0} extra burst rounds to {1}.
-
-::ColdLaserInterception
-This tactical support bot is equipped with an active area protection system that intercepts and rapidly cools grenades, effectively neutralizing them.
-
-::DesignatorLaser
-This tactical support bot is equipped with a computerized laser designator that feeds its allies targetting information, thereby improving their precision and effectiveness.
-
-::LaserDesignatedTarget
-Chance to get critically hit with weapons increased by {0}.
-
-::SensorimotorTransference
-Combatant's performance is influenced by external sources. All offensive skills increased by {0}, action point cost of all weapon attacks reduced by {1} and all damage taken reduced by {2}.
-
-::SensorimotorTransferenceDisruption
-Reduces the number of Sensorimotor Command stacks by {0}.
-
-::SensorimotorAmplifier
-Reinforces and contributes to received sensorimotor information.
-
-::WildPsionicInnervation
-Skill level increased by {0}, critical chance increased by {1} and critical damage by {2}, while psi point cost is reduced by {3} for {4} psi abilities. All other non-boosted psi school have their psi point cost increased by {5}.
-
-::ParafibroticRegeneration
-Heals {0} health per turn and mechanical and heat damage taken reduced by {1}.
-
-::Demoralized
-Offensive skills reduced by {0}.
-
-::ShellShocked
-Offensive and defensive skills reduced by {0}.
-
-::MutationSickness
-You feel nauseated, and your entire body aches. Your health has been temporarily reduced by {0}%.
-
-::MutationVigor
-You feel strangely revitalized. Your health has been temporarily increased by {0}%.
+::Sprint
+Movement points increased by {0} when not in stealth.
+
+::Charging
+Movement points increased by {0}. This character will deal {1}% bonus damage if their charge attack lands.
+
+::ChargingWithStun
+Movement points increased by {0}. This character will deal {1}% bonus damage and stun the target if their charge attack lands.
+
+::Sprint-RT
+Movement speed increased by {0}% when not in stealth.
+
+::Frozen
+Frozen solid. Cannot perform any action, but any direct damage will cancel the effect.
+
+::Chilled
+Movement points reduced by {0}.
+
+::Chilled-SlowImmune
+This character is immune to slow.
+
+::Chilled-RT
+Movement speed decreased by {0}%
+
+::AcidicEntanglement
+Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn.
+
+::CorrosiveAcidicEntanglement
+Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of corrosion.
+
+::RustingAcidicEntanglement
+Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of rusting.
+
+::StealthMode
+The character is currently in stealth mode which allows them to hide from others, but reduces their movement speed by {0}%.
+
+While in combat their movement points are reduced to {1} and they can receive no extra movement points from any source.
+
+::ShadowTricks
+{1}% displacement.
+
+::PsiBoost
+Restores {0} psi each turn.
+
+::PsiBoost-Old
+Psi regeneration increased by {0}% plus {1}.
+
+::Adrenaline
+Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.
+
+::Adrenaline-Old
+Movement speed increased by {0}%, time between attacks decreased by {1}%, and dodge and evasion increased by {2}%.
+
+::VitalitySurge
+Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}.
+
+::VitalityDrain
+Loses {0} health per turn.
+
+::Fatigue
+Action points decreased by {0}.
+
+::Fatigue-Old
+Movement speed decreased by {0}% and time between attacks increased by {1}%.
+
+::PsionicWithdrawal
+Drains {0} psi every turn. Intelligence, Will and Perception are decreased by {1}.
+
+::PsionicWithdrawal-Old
+All bonuses to psi regeneration are nullified and psi regeneration is decreased by {0}%. Intelligence, Wisdom and Will are decreased by {1}.
+
+::Stunned
+Cannot move or perform any actions.
+
+::Incapacitated
+Cannot move or perform any actions, but any damage taken will remove the effect.
+
+::CerebralTrauma-Old
+Intelligence decreased by {0} and psi regeneration rate decreased by {1}%.
+
+::CerebralTrauma-OldAsWell
+Intelligence decreased by {0}.
+
+::CerebralTrauma
+All psi point gains reduced by {0}%.
+
+::MentalSubversion
+Resolve reduced by {0}%.
+
+::KneeWound1
+The character suffers {0} bleeding damage every turn and gains no movement points.
+
+::KneeWound2
+This character gains no movement points.
+
+::KneeWound1-SlowImmune
+The character suffers {0} bleeding damage every turn.
+
+::KneeWound2-SlowImmune
+This character is immune to slow.
+
+::KneeWound1-Old
+The character suffers {0} bleeding damage every second and movement speed is reduced by {1}%.
+
+::KneeWound2-Old
+Movement speed reduced by {0}%.
+
+::Hypothermia
+Constitution decreased by {0}.
+
+::NetEntanglement
+Cannot move.
+
+::StoneBolasEntanglement
+Cannot move.
+
+::Webbed
+Cannot move.
+
+::thermodynamicity_heat-Old
+Cost of the next heat based psi ability reduced by {0}%.
+
+::thermodynamicity_cold-Old
+Cost of the next cold based psi ability reduced by {0}%.
+
+::thermodynamicity_heat
+Action point cost of the next heat based psi ability reduced by {0}%.
+
+::thermodynamicity_cold
+Action point cost of the next cold based psi ability reduced by {0}%.
+
+::PackHunting-Old
+This creature is a pack hunter. Its damage is increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}%.
+
+::PackHunting
+This creature is a pack hunter. Its damage and attack skill are increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}% and attack skill is increased by {1}.
+
+::BleedingWound
+Bleeding for {0} damage every turn.
+
+::ContaminatedWound
+Suffers {0} bio damage every turn.
+
+::Fear
+Overwhelming fear prevents this character from acting rationally.
+
+::Rage
+This character is raging and may attack anyone.
+
+::Aphobia
+Short term immunity to all fear effects.
+
+::SecondWind
+Short term immunity to stun effects.
+
+::SafeMode
+Short term immunity to all disabling effects.
+
+::Burning
+This character is burning for {0} damage each turn.
+
+::BurningWithFear
+This character is burning for {0} damage each turn, while running around in panic.
+
+::Poison
+This character is afflicted by {0}, suffering {1} bio damage every turn.
+
+::CaveEarPoison
+This character is afflicted by cave ear poison. All biological damage received increased by {0}% and perception reduced by {1}.
+
+::CrawlerPoison
+This character is afflicted by crawler poison, suffering {0} bio damage every turn. If the poison is not removed before it expires it will stun the victim for up to {1}.
+
+::SpiritPoison
+This character is afflicted by spirit poison, suffering {0} bio damage every turn and having its resolve reduced by {1}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's human.
+
+::ShortCircuited
+This machine is temporarily disabled and cannot perform any functions.
+
+::PersonalCloaking
+Stealth increased by {0} and evasion increased by {1}.
+
+::Nightvision
+You can see in the dark.
+
+::LocusOfControl
+Immune to stun, fear, incapacitation, and mind control.
+
+Next thought control psi ability the character invokes will have an area of effect, but will end the effect.
+
+::Premeditation
+Character's next psi ability will cost {0}% less psi points, {1}% less action points and will have its range increased by {2}.
+
+::PsionicMania
+Character's next offensive psi ability will be an automatic critical hit.
+
+::psionicSynergy
+Proximity of other psionically active Azuridae beetles increases this creature's psi skill levels by {0} and also allows it to invoke more powerful psi abilities.
+
+::SpecialTactics
+Character's next special bolt attack will cost no action points.
+
+::Food_rathoundBarbeque
+Strength increased by 1.
+
+::Food_burrowerBurger
+Constitution increased by 1.
+
+::Food_caveHopperSteak
+Agility increased by 1.
+
+::Food_eelSandwich
+Dexterity increased by 1.
+
+::Food_mushroomBrew
+Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.
+
+::Food_coffee
+Movement points increased by 5 and psi cost of all psi abilities reduced by 10%, but psi regeneration also reduced by 3.
+
+::Food_baconCheeseSandwich
+Maximum health increased by 20.
+
+::Food_cannedFish
+Cold damage taken reduced by 15%.
+
+::Food_cannedMeat
+Mechanical damage taken reduced by 5%.
+
+::Food_cannedMushrooms
+Bio damage taken reduced by 15%.
+
+::Food_cannedStew
+Heat damage taken reduced by 8%.
+
+::Food_cookedBurrowerEgg
+Poison damage taken reduced by 35%.
+
+::Food_coreChips
+Weapon critical hit chance increased by 2%.
+
+::Food_hardcoreChips
+Weapon critical hit chance increased by 5%, but chance to get critically hit by weapons increased by 2%.
+
+::Food_friedSiphonerTongue
+Healing effectiveness increased by 15%.
+
+::Food_mushroomSalad
+Perception increased by 1.
+
+::Food_pentapusBarbecue
+Carry capacity increased by 25.
+
+::Food_pickledMindshrooms
+Psionic critical damage bonus increased by 40%.
+
+::Food_psiBeetleBrainSoup
+Psi ability psi cost decreased by 15%.
+
+::Food_rootSoda
+Initiative increased by 5.
+
+::Food_stuffedBat
+Detection increased by 15%.
+
+::Food_underPie
+All skills increased by 3.
+
+::Food_cannedCzernina
+Heat damage taken reduced by 15%.
+
+::Food_crabSandwich
+Global mechanical threshold increased by 15%.
+
+::Food_kzozel
+Dodge increased by 50 and all mechanical damage taken reduced by 10%. Perception reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30.
+
+::Food_kzozelYantar
+Dodge increased by 70 and all mechanical damage taken reduced by 15%. Perception reduced by 3. All psionic skills reduced by 40 and psi regeneration reduced by 30.
+
+::Food_mutieStew
+Acid damage taken reduced by 35%, but health reduced by 20 and healing effectiveness decreased by 35%.
+
+::Food_SeaSerpentFillet
+Poison damage taken reduced by 20% and evasion increased by 30.
+
+::Food_butterySteamedClams
+Maximum health points increased by 40.
+
+::Food_bisonMilk
+Strength increased by 1 and critical damage bonus of melee weapons and unarmed attacks increased by 25%.
+
+::Food_mysteryCandy
+Critical chance with weapon, unarmed, and psi attacks increased by 5%, but will reduced by 1 and resolve reduced by 100.
+
+::Food_iceOfSpades
+Metathermics increased by 20 but movement points reduced by 10.
+
+::Food_allIn
+All base abilities increased by 3. Chance to get critically hit with weapons, unarmed attacks and psi abilities increased by 100% (additively).
+
+::Food_boolean
+All base abilities decreased by 3. All psionic skills reduced by 20 and psi regeneration reduced by 30.
+
+::Food_stalagDrop
+Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 1. All psionic skills reduced by 10 and psi regeneration reduced by 15.
+
+::Food_caveTear
+Strength increased by 2 and all mechanical damage taken reduced by 20%. Perception and dexterity reduced by 3. All psionic skills reduced by 30 and psi regeneration reduced by 40.
+
+::Food_cleanDeal
+Thought control increased by 20, but perception reduced by 1 and resolve reduced by 30.
+
+::Food_sleightOfTheNight
+Pickpocketing increased by 15.
+
+::Food_slampipe
+Strength increased by 1 and character does 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks. Agility reduced by 1. 
+
+::Food_outwork
+Carry capacity increased by 30.
+
+::Food_jetdrag
+Stability on jet skis increased by 10%, but action points reduced by 5.
+
+::Food_laylow
+Evasion increased by 15% and stealth increased by 20. Also all bio damage received reduced by 10%.
+
+::Food_mindshroomMartini
+Maximum psi points increased by 10.
+
+::Food_whiteDude
+Agility increased by 3, persuasion increased by 15, but dexterity and perception reduced by 2 and psi point regeneration reduced by 30.
+
+::Food_slackjaw
+Strength and constitution increased by 1 and intimidation increased by 15, but intelligence reduced by 3 and will reduced by 1.
+
+::Food_absence
+Detection increased by 23.3%, chance to get crit with weapons, unarmed attacks and psi abilities reduced by 16.6%. To balance the transcendental scales this character has 16.6% increased critical chance with psi abilities and 33.3% increased psi cost. They can also fInAl1y PerC3ive the rE4lity as It TRUEly isŝş...
+
+::Food_bloodyOligarch
+Health increased by 30, but reslove reduced by the same amount. Its disgusting taste will linger in your mouth for hours.
+
+::Food_scrapperac
+This character does 15% bonus damage with melee weapons and unarmed attacks and also has a small chance to daze the target, themselves, or both on each such attack.
+
+::Food_jonSpecial
+All skills increased by 5.
+
+::StrangeFeeling
+You feel the darkness clasp around you and an ominous presence in the back of your mind.
+
+::PsionicApparition
+Immune to all physical attacks.
+
+::OffBalance
+Dodge and evasion reduced to zero.
+
+::IceRemnant
+Cold apparition. Immune to all damage.
+
+::Intimidated
+All offensive skills reduced by {0}.
+
+::CreepingDread
+You feel a deep primordial fear creeping in the back of your head. All offensive, defensive and psionic skills reduced by {0}%.
+
+::SporeInfection
+You're getting dizzy. Health reduced by {0}%.
+
+::EyeOfTchort
+The eye of Tchort is upon you, nearly paralyzing you with fear. All offensive, defensive and psionic skills reduced by {0}%.
+
+::Crippled
+Strength decreased by {0}.
+
+::Tackled
+Movement points decreased by {0}, action points decreased by {1} and chance to hit with all ranged weapons decreased by {2}%.
+
+::MorphineHypo
+All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.
+
+::Nervosomnifer
+All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health.
+
+::Anticoagulation
+Prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}%. Also, all healing effects are reduced by {1}%.
+
+::AnticoagulationItemEffect_Cap
+Applies anticoagulant to a suitable melee weapon that prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}% for {2}. Also, all healing effects are reduced by {1}%. Stacks {3} times.
+
+::AnticoagulationItemEffect_Applied
+If the attack penetrates the armor, anticoagulant is applied that prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}% for {2}. Also, all healing effects are reduced by {1}%. Stacks {3} times.
+
+::BrokenRib
+The character takes additional {0}% mechanical damage from all sources.
+
+::UncannyDodge-Old
+This character will dodge the next regular or special melee attack.
+
+::UncannyDodge
+This character will dodge a regular or special melee attack for each stack of this effect.
+
+::UncannyEvasion
+This character will evade a regular or special ranged weapon attack for each stack of this effect.
+
+::EvasiveManeuvers
+Evasion increased by {0}.
+
+::MentalBreakdown
+This character is incapacitated and suffering {0}% reduced resolve. If a detrimental thought control psi ability is invoked against them it will have double the effect, but will end the mental breakdown.
+
+::Trapped
+This character is rooted in place by a trap.
+
+::Compass
+This character can tell which way north is.
+
+::Infusion_Reflexes
+Dodge and evasion increased by {0}.
+
+::Infusion_Strength
+Strength increased by {0}.
+
+::Infusion_Speed
+Movement points increased by {0}.
+
+::Infusion_Focus
+All psionic skills increased by {0}
+
+::InfectedWound
+All damage taken increased by {0}%. Healing effectiveness reduced by {1}%.
+
+::ExposedWeakness
+Mechanical damage resistance and threshold reduced by {0}%.
+
+::BlastedArmor
+Mechanical and heat damage resistance and threshold reduced by {0}%.
+
+::Suppressed
+Ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2}.
+
+::QuickTinkering
+This character will arm the next trap instantly, even in combat in which case it will cost {0} action points.
+
+::TasteForBlood
+Melee damage increased by {0}%.
+
+::TasteForBlood2-Old
+Melee damage increased by {0}% and action point cost for using melee weapons reduced by {1}.
+
+::Combo
+If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and stun the target for {1}.
+
+::LastStand
+After this effect exipres the character's health will be reduced to 1.
+
+::ThermodynamicDestabilization
+If this target is destroyed it will explode, dealing {0} and {1} damage to the surrounding characters.
+
+::Irongut
+All biological damage taken reduced by {0}%.
+
+::PsionicTrance
+Critical damage bonus of psi abilities increased by {0}%, but psi cost increased by {1}% as well.
+
+::PainSuppression
+All damage taken reduced by {0}%.
+
+::FocusBoost
+Critical chance with weapons, unarmed combat and psionics increased by {0}%.
+
+::AgilityBoost
+Dodge and evasion increased by {0}%. Movement points increased by {1} while not in stealth.
+
+::HerculeanMight
+Strength, dexterity, agility, and constitution increased by {0}.
+
+::HerculeanWithdrawal
+You feel ill. Strength, dexterity, agility, and constitution decreased by {0}. Action points reduced by {0}. Movement points reduced by {2} and movement speed reduced by {3}%. Taking {1} damage every turn.
+
+::ZombieMutating
+This character is undergoing horrific mutations.
+
+::DreadnoughtPiloting
+You are piloting a dreadnought.
+
+::JetskiPiloting
+You are piloting a jet ski.
+
+::Dazed
+Action points reduced by {0} and movement points reduced by {1}.
+
+::Inhibited
+Cannot invoke psi abilities or regenerate psi points naturally.
+
+::ConcentratedFire
+Receives {0}% extra damage from burst attacks.
+
+::GunRush
+Your next assault rifle or SMG burst attack will cost no action points.
+
+::Immobilized
+Cannot move.
+
+::Charged
+Next electrical psionic attack will deal additional {0} electrical damage.
+
+::Contaminated
+All damage taken increased by {0}%.
+
+::WorkbenchSkillBonus
+{0} increased by {1}%.
+
+::PseudoSpatialProjection
+Unarmed and weapon attacks have a chance to miss this character, instead removing one of the psionic projections.
+
+::BlurredVision
+Perception reduced by {0} and detection by {1}%.
+
+::NeurovisualDisruption
+Cannot detect stealthed characters.
+
+::DisruptiveField
+Chance to hit with ranged and thrown weapon reduced by {0}%.
+
+::ExothermicAura
+You are immune to heat damage and generate flames around you and in your wake (except on the last turn).
+
+::CryoShield
+Each time the character suffers a melee attack, there's a {0}% chance that one of the shards will block {1} of mechanical damage and be destroyed in the process.
+
+::Bullhead
+Immune to stun, daze, and incapacitation.
+
+::Regeneration
+Regenerates {0} health each turn.
+
+::PsiRegeneration
+Regenerates {0} psi each turn.
+
+::SupersoldierDrug
+Strength, dexterity, agility, constitution, and perception increased by {0}. All combat skills increased by {1}%.
+
+::ShieldRecharging
+Regains {0} shield each turn.
+
+::Corroded
+All damage resistances and thresholds reduced by {0}%.
+
+::BlackDragonPoison
+Affected by poison which prevents psi ability invocation and psi points regeneration.
+
+::PsychostaticElectricity
+Chance to get critically hit from weapon and unarmed attacks and psi abilities increased by {0}%.
+
+::SecondSight
+Perception increased by {0} and the character is granted the gift of second sight.
+
+::Hemopsychosis
+Your psi abilities cost health instead of psi points.
+
+::HemopsychosisReduced
+Your psi abilities cost health instead of psi points, but their cost is reduced by {0}%.
+
+::Blindsiding
+Unarmed and weapon damage increased by {0}%.
+
+::TemporalDistorsion
+When this effect expires, it will deal {0} and {1} damage to the target. This damage ignores shield and {2}% of damage resistance and threshold.
+
+::EntropicRecurrence
+The character suffers {0} damage every turn. This damage ignores shields and resistances.
+
+::PsychotemporalDilation
+Action points reduced by {0} and movement points reduced by {1}.
+
+::PsychotemporalContraction
+Action points increased by {0} and movement points increased by {1}. After the effect ends, there's a {2}% chance of it reversing into a psychotemporal dilation of varying power.
+
+::TemporaryRewind
+After this effect ends, the character will take {0} damage. This damage ignores shields and resistances.
+
+::Precognition
+Chance to dodge and evade attacks increased by {0}% (additively). Drains {1} psi points every turn.
+
+::Stasis
+Immune to all damage and most disabling effects, but cannot act. The character's status effects do not progress, but the cooldowns do.
+
+Stasis will break if it absorbs {0} more damage, otherwise it will expire at the beginning of the last turn of duration instead of at the end.
+
+::BlindingPoison
+This character is afflicted by blinding poison, suffering {0} bio damage every turn. Their perception is also decreased by {1}.
+
+::PsionicAcceleration
+Psi regeneration increased by {0}%.
+
+::BlackOilSlow
+Movement speed reduced by {0}%.
+
+::WebSlow
+Movement speed reduced by {0}%.
+
+::HeavyIntoxication
+This is what happens when you get wasted with Dude. All your base attributes have been reduced by {0}. Cheers!
+
+::SoreHands
+Your hands are sore. Your dexterity has been reduced by {0}.
+
+::IntelligenceBoost
+Intelligence increased by {0}.
+
+::InitiativeBoost
+Initiative increased by {0}.
+
+::ThirdEye
+Detection increased by {0}%. Perception increased by {1} for the purpose of detecting hidden passages and other secrets.
+
+::SpearGuard
+Has a {0}% chance to block up to {1} mechanical damage when holding a spear.
+
+::ShatteredWill
+Your drive to continue on is rapidly deteriorating. All base abilities reduced by {0}, all skills reduced by {1}, movement and action points reduced by {2}.
+
+::CarvedUp
+Action points reduced by {0} and the chance to get critically hit by weapon and unarmed attacks increased by {1}%.
+
+::ChemicalDestabilization
+The character takes additional {0}% {1} damage from all sources.
+
+::ChemicalDestabilizationProvider
+Your successful chemical pistol attacks increase the amount of damage taken from the pistol's damage type by {0}% from all sources for {1}. Stacks {2} times.
+
+::LeperPoison
+This character is afflicted by leper poison, suffering {0} bio damage every turn and receiving {1}% more mechanical damage from all sources.
+
+::Submerged
+This character is submerged in water. Evasion is increased by {0}, dodge increased by {1} and all damage resistances are increased by {2}%.
+
+::HeartbreakPoison
+This character is afflicted by heartbreak poison, suffering {0} bio damage every turn. If the poison is not removed, it will deal additional {1} bio damage on expiration.
+
+::Rusting
+Reduces durability of all mechanical items in your posession by {0} each turn.
+
+::VehicleTurbo
+Vehicle movement speed and movement points increased by {0}%, but energy consumption increased by {1}%. The bonuses only work if vehicle is not overencumbered.
+
+::Flurry
+Reduces action point cost of Flurry by {0}.
+
+::Onslaught
+Increases damage done by swords by {0}%. Will be removed if an attack misses or does no damage.
+
+::Riposte
+This character can perform a free sword attack.
+
+::PositiveVoidAffliction
+Positively affected by the outcome of the previous battle. 
+
+::NegativeVoidAffliction
+Negatively affected by the outcome of the previous battle.
+
+::PlayerVoidApparition
+Your mind is detached from your body, and out here it's also your only tool available.
+
+::PelletMayhem
+Your next shotgun attack will have the critical hit chance increased by {0}%.
+
+::ElectroshockAura
+Drains {0} energy from the armor and hits adjacent characters for {1} damage at the end of every turn at the cost of {2} energy per character.
+
+Additionally, whenever this character is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost.
+
+Whenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}.
+
+::MetallineEnergization
+Drains {0} energy from the armor, but reduces the character's overall armor penalty by {1}%.
+
+::EnergyShieldEmpowerment
+Draing {0} energy from the armor, but increases all energy shielding values by {1}%.
+
+::WirelessChargingAura
+Transfers up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them.
+
+::RestlessSpirits
+Dexterity and perception reduced by {0}.
+
+::DarkPresence
+There is something unwholesome lingering in the back of your mind. Will reduced by {0} and resolve reduced by {1}%.
+
+::StriderParasiticInfestation_Base
+This character has been infested!
+
+::StriderParasiticInfestation_Phase1
+They take {4} bio damage per turn.
+
+::StriderParasiticInfestation_Phase2
+Healing reduced by {0}%.
+
+::StriderParasiticInfestation_Phase3
+Psi regeneration reduced by {1}.
+
+::StriderParasiticInfestation_Phase4
+Movement points reduced by {2}.
+
+::StriderParasiticInfestation_Phase5
+Action points reduced by {3}. The infested wound hurts abominably.
+
+::SwampTrance
+This character has perception increased by {0} and regenerates {1} health points each turn. Also makes the character glow.
+
+::Polarized
+Energy damage resistance and threshold reduced by {0}% and electrical ones reduced by {1}%. Chance to get critically hit by weapons increased by {2}%.
+
+::Hyperallergenic
+Consuming any type of medicine will inflict {0} unavoidable bio damage to this character and daze them for {1}.
+
+::HyperallergenicItemEffect_Cap
+Applies hyperallergenic to a suitable melee weapon that will inflict up to {0} unavoidable bio damage to the victim and daze them for {1} if they consume any type of medicine while under its effect. Lasts {2}.
+
+::HyperallergenicItemEffect_Applied
+If the attack penetrates the armor, hyperallergenic is applied and it will inflict up to {0} unavoidable bio damage to the victim and daze them for {1} if they consume any type of medicine while under its effect. Lasts {2}.
+
+::BattleTrance
+All offensive and psionic skills increased by {0}%.
+
+::Smoking
+Increases psi regeneration by {0}, but reduces constitution by {1}.
+
+::CerebralAcidization
+This creature suffers {0} acid damage every turn.
+
+::VoidRot
+This character suffers {0} energy damage every turn.
+
+::ImprovedSprint
+Movement points increased by {0} and action points increased by {1} when not in stealth.
+
+::EmpoweredInvocation
+{0} skill increased by {1}%. When this effect expires, the character will lose all psi points.
+
+::BoardedUp
+Increases the amount blocked by a riot shield by {0}%.
+
+::ShellCount
+Next shotgun shot will deal {0}% bonus damage.
+
+::ScrambledCortex
+This machine is confused and may attack anyone or retreat at random.
+
+::Chemhaze
+Chance to hit with ranged weapons reduced by {0}% and chance to hit with melee weapons and unarmed attacks reduced by {1}%.
+
+::HelmetLanternAura
+Drains {0} energy every turn and provides light up to {1} tiles in front of the wearer
+
+::ElectricTorchAura
+Drains {0} energy every turn and provides light in radius of {1}.
+
+::IndustrialExoskeletonAura
+Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement.
+
+::CombatExoskeletonAura
+Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement.
+
+::ShootingSpree
+Your next sniper rifle attack will refund 100% of the action point cost if it kills the target.
+
+::PlayerMutantFireClaw
+Flames engulf your left claw, causing it to deal additional 10-15 heat damage with each melee attack.
+
+::PlayerMutantFrostClaw
+Dipping your right claw into a liquid nitrogen freezer has encased it in solid ice, causing it do deal additional 20-35 cold damage with each melee attack, chilling the target in process.
+
+::PlayerMutantRustingAcidInfusion
+Consuming a mysterious concoction has altered your acidic glands, causing your Acid Spray to inflict rusting acid upon use.
+
+::BulletTime
+Reduces action point cost of firing firearm pistols by {0}%. Cannot reduce the action point cost below the hard minimum.
+
+::CutsceneDamageResistance
+You shouldn't be seeing this. Look at something else.
+
+::Campfire
+The fire warms you up and relaxes you. Movement points are increased by {0}, movement speed by {1}%.
+
+::FrigidEnvironment
+It's freezing in here. Your cold resistance and threshold is reduced by {0}%, and all cold damage taken is increased by {1}%.
+
+::PsychokineticChainLink
+This character is linked into a psychokinetic chain so {0}% of all direct mechanical and electrical damage taken will be transferred to the next link in the chain, up to maximum of {1} damage per single transfer.
+
+::TelekineticGrounding
+This character is immobilized for now by telekinetic force, but may manage to break free.
+
+::PsychosomaticPredator
+This character is on the hunt for a specific prey, dealing bonus damage to them with weapon and unarmed attacks. The same damage is reduced by overall {0}% against other targets.
+
+::PsychosomaticPrey
+This character is being hunted and will receive {0}% bonus damage from its hunter's weapon and unarmed attacks. This damage is doubled if the attack is melee, and again doubled while this character is frightened.
+
+::PsionicTransceiver
+Psionic skills increased by {0} due to presence of other psionics.
+
+::FreezingMemories
+Will increased by {2}. All cold damage taken reduced by {0}% and all mechanical damage taken reduced by {1}%. The character is immune to any further chilling or freezing effects.
+
+::Motion
+This cat is in motion, which means that intelligence and perception are reduced by {0}, while maximum psi points are increased by {1} and psi regeneration is increased by {2}. Also, resolve is reduced by {3}%.
+
+::MotionWithdrawal
+This cat is suffering from severe motion deficiency, which means that intelligence and perception are reduced by {0}, maximum psi points are reduced by {1} and psi regeneration is reduced by {2}. Also, resolve is reduced by {3}%.
+
+::MindFog
+Intelligence reduced by {0} and psi cost increased by {1}%.
+
+::ToxicGasHealingForEnergyMicrofeat
+Restores {0}-{1} health each turn while standing inside a toxic gas cloud at the cost of up to {2} energy. The healing amount depends on the thickness of the cloud and the energy cost depends on the healing amount. Cannot heal above {3}% of the maximum health. Does not work while frozen or chilled.
+
+::HeadTrap
+Suffering {0} damage every turn. Perception reduced by {1}.
+
+::ScanCallOverload
+Scan time increased by {0}%, which makes the camera slower to find and report intruders.
+
+::SweepingMomentum
+Sweep attack deals {0}% bonus damage.
+
+::BurstWindUp
+Burst attack with this weapon will fire {0} extra round{1} while costing {2} less action point{3}.
+
+::BulletTrance
+This character does {0}% bonus damage when using heavy guns.
+
+::DemolitionRage
+This character does {0}% bonus damage when using grenade and rocket launchers.
+
+::GunnersHigh
+Heals {0} health per turn, but cannot heal above {1}% of maximum health.
+
+::JumpstarterBoost
+Grants {0} extra burst rounds to {1}.
+
+::ColdLaserInterception
+This tactical support bot is equipped with an active area protection system that intercepts and rapidly cools grenades, effectively neutralizing them.
+
+::DesignatorLaser
+This tactical support bot is equipped with a computerized laser designator that feeds its allies targetting information, thereby improving their precision and effectiveness.
+
+::LaserDesignatedTarget
+Chance to get critically hit with weapons increased by {0}.
+
+::SensorimotorTransference
+Combatant's performance is influenced by external sources. All offensive skills increased by {0}, action point cost of all weapon attacks reduced by {1} and all damage taken reduced by {2}.
+
+::SensorimotorTransferenceDisruption
+Reduces the number of Sensorimotor Command stacks by {0}.
+
+::SensorimotorAmplifier
+Reinforces and contributes to received sensorimotor information.
+
+::WildPsionicInnervation
+Skill level increased by {0}, critical chance increased by {1} and critical damage by {2}, while psi point cost is reduced by {3} for {4} psi abilities. All other non-boosted psi school have their psi point cost increased by {5}.
+
+::ParafibroticRegeneration
+Heals {0} health per turn and mechanical and heat damage taken reduced by {1}.
+
+::Demoralized
+Offensive skills reduced by {0}.
+
+::ShellShocked
+Offensive and defensive skills reduced by {0}.
+
+::MutationSickness
+You feel nauseated, and your entire body aches. Your health has been temporarily reduced by {0}%.
+
+::MutationVigor
+You feel strangely revitalized. Your health has been temporarily increased by {0}%.

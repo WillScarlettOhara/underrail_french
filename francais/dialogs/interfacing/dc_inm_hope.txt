@@ -1,166 +1,166 @@
-=>q1_original
-::Welcome, Maria Hope
-
-Main::<end>
-
-=>q1
-::Welcome, Maria Hope
-
-Main::<end>
-
-=>q2_original
-<end>
-
-=>q2
-<end>
-
-=>a3_original
-::Access INM::<end>
-
-=>a3
-::Access INM::<end>
-
-=>q4_original
-::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
-If the problem persists, contact one of the network administrators.
-
-Number of contacts: 45
-Contacts online: 0::<end>
-
-=>q4
-::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
-If the problem persists, contact one of the network administrators.
-
-Number of contacts: 45
-Contacts online: 0::<end>
-
-=>a5_original
-::Archive::<end>
-
-=>a5
-::Archive::<end>
-
-=>q6_original
-::Archive::<end>
-
-=>q6
-::Archive::<end>
-
-=>q7_original
-<end>
-
-=>q7
-<end>
-
-=>a8_original
-::Log: 100360 - F. Austein::<end>
-
-=>a8
-::Log: 100360 - F. Austein::<end>
-
-=>q9_original
-::F. Austein: I talked to Colonel Salik. More AF troops are already on their way to Mutagen Tanks B.
-M. Hope: Have you talked to Matveev or Gavrilyuk about this yet?
-F. Austein: No. We have everything under control. A minor incident is nothing to worry about.
-M. Hope: You said that the first time. And the second time.
-F. Austein: You worry too much, Maria. We are making future here; the Crucible is where we are creating new, intelligent species. There is bound to be a bump or two along that road. They are living beings, and they don't like where they are, but we will fix that soon enough.
-F. Austein: Like we ever needed our subjects' consent.::<end>
-
-=>q9
-::F. Austein: I talked to Colonel Salik. More AF troops are already on their way to Mutagen Tanks B.
-M. Hope: Have you talked to Matveev or Gavrilyuk about this yet?
-F. Austein: No. We have everything under control. A minor incident is nothing to worry about.
-M. Hope: You said that the first time. And the second time.
-F. Austein: You worry too much, Maria. We are making future here; the Crucible is where we are creating new, intelligent species. There is bound to be a bump or two along that road. They are living beings, and they don't like where they are, but we will fix that soon enough.
-F. Austein: Like we ever needed our subjects' consent.::<end>
-
-=>q10_original
-::M. Hope: Things have changed. Especially after you allowed your adopted mutant to shove its nose into everything we do.
-F. Austein: Watch your words, Maria. Let me tell you one thing, my dear - you are not in a position to make me angry, so watch it!
-F. Austein: I don't care for how many years we've worked together, Otis will be wherever the hell I want him to be. If he's in the lab, it's because I demand so. If he's cleaning my toilet, it's because I demand so.
-F. Austein: He is mine. He is the best I've ever made. He is what I want the rest to be like.
-M. Hope: He is involved in the incidents, Frederik, listen to me. Get rid of him. You trust him too much.
-F. Austein: Same old story, Maria, same old story. You'd tear all our work to shreds because of a few issues. 
-F. Austein: Otis will remain as my right-hand man and that is final, whether you like it or not.::<end>
-
-=>q10
-::M. Hope: Things have changed. Especially after you allowed your adopted mutant to shove its nose into everything we do.
-F. Austein: Watch your words, Maria. Let me tell you one thing, my dear - you are not in a position to make me angry, so watch it!
-F. Austein: I don't care for how many years we've worked together, Otis will be wherever the hell I want him to be. If he's in the lab, it's because I demand so. If he's cleaning my toilet, it's because I demand so.
-F. Austein: He is mine. He is the best I've ever made. He is what I want the rest to be like.
-M. Hope: He is involved in the incidents, Frederik, listen to me. Get rid of him. You trust him too much.
-F. Austein: Same old story, Maria, same old story. You'd tear all our work to shreds because of a few issues. 
-F. Austein: Otis will remain as my right-hand man and that is final, whether you like it or not.::<end>
-
-=>a11_original
-::Back to Archive.::<end>
-
-=>a11
-::Back to Archive.::<end>
-
-=>a12_original
-::Log: 100368 - G. Dyoglash::<end>
-
-=>a12
-::Log: 100368 - G. Dyoglash::<end>
-
-=>q13_original
-::G. Dyoglash: The new group is ready for another exposure at the Crucible. Humans.
-G. Dyoglash: Our team has prepared the compounds you requested, but I've been informed that our supply of reagents is running low. At this rate, we have about a month of testing unless we receive a new supply.
-M. Hope: Thanks for informing me, Dr. Dyoglash. I will talk to Austein about the reagent supply.
-G. Dyoglash: One more thing I wanted to tell you is that Otis was at the control room today again.
-M. Hope: I will talk to Austein about that as well. Thank you for the information.
-G. Dyoglash: Should I do anything about it?
-M. Hope: No. Do not do anything.
-M. Hope: I will be there in an hour or two.
-G. Dyoglash: Yes, ma'am.::<end>
-
-=>q13
-::G. Dyoglash: The new group is ready for another exposure at the Crucible. Humans.
-G. Dyoglash: Our team has prepared the compounds you requested, but I've been informed that our supply of reagents is running low. At this rate, we have about a month of testing unless we receive a new supply.
-M. Hope: Thanks for informing me, Dr. Dyoglash. I will talk to Austein about the reagent supply.
-G. Dyoglash: One more thing I wanted to tell you is that Otis was at the control room today again.
-M. Hope: I will talk to Austein about that as well. Thank you for the information.
-G. Dyoglash: Should I do anything about it?
-M. Hope: No. Do not do anything.
-M. Hope: I will be there in an hour or two.
-G. Dyoglash: Yes, ma'am.::<end>
-
-=>a14_original
-::Log: 100372 - F. Austein::<end>
-
-=>a14
-::Log: 100372 - F. Austein::<end>
-
-=>q15_original
-::M. Hope: I was just informed that Otis was sent to Tartarus. But not as a prisoner.
-F. Austein: What he is doing there is none of your concern, Maria.
-F. Austein: Frankly, I grew tired of your nagging. Otis is none of your concern.
-M. Hope: That is that, then.
-M. Hope: Whatever happens next, it's all on you.::<end>
-
-=>q15
-::M. Hope: I was just informed that Otis was sent to Tartarus. But not as a prisoner.
-F. Austein: What he is doing there is none of your concern, Maria.
-F. Austein: Frankly, I grew tired of your nagging. Otis is none of your concern.
-M. Hope: That is that, then.
-M. Hope: Whatever happens next, it's all on you.::<end>
-
-=>a16_original
-::Back::<end>
-
-=>a16
-::Back::<end>
-
-=>a17_original
-::Back to main::<end>
-
-=>a17
-::Back to main::<end>
-
-=>a18_original
-::Exit::<end>
-
-=>a18
-::Exit::<end>
-
+=>q1_original
+::Welcome, Maria Hope
+
+Main::<end>
+
+=>q1
+::Welcome, Maria Hope
+
+Main::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Access INM::<end>
+
+=>a3
+::Access INM::<end>
+
+=>q4_original
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 45
+Contacts online: 0::<end>
+
+=>q4
+::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 45
+Contacts online: 0::<end>
+
+=>a5_original
+::Archive::<end>
+
+=>a5
+::Archive::<end>
+
+=>q6_original
+::Archive::<end>
+
+=>q6
+::Archive::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::Log: 100360 - F. Austein::<end>
+
+=>a8
+::Log: 100360 - F. Austein::<end>
+
+=>q9_original
+::F. Austein: I talked to Colonel Salik. More AF troops are already on their way to Mutagen Tanks B.
+M. Hope: Have you talked to Matveev or Gavrilyuk about this yet?
+F. Austein: No. We have everything under control. A minor incident is nothing to worry about.
+M. Hope: You said that the first time. And the second time.
+F. Austein: You worry too much, Maria. We are making future here; the Crucible is where we are creating new, intelligent species. There is bound to be a bump or two along that road. They are living beings, and they don't like where they are, but we will fix that soon enough.
+F. Austein: Like we ever needed our subjects' consent.::<end>
+
+=>q9
+::F. Austein: I talked to Colonel Salik. More AF troops are already on their way to Mutagen Tanks B.
+M. Hope: Have you talked to Matveev or Gavrilyuk about this yet?
+F. Austein: No. We have everything under control. A minor incident is nothing to worry about.
+M. Hope: You said that the first time. And the second time.
+F. Austein: You worry too much, Maria. We are making future here; the Crucible is where we are creating new, intelligent species. There is bound to be a bump or two along that road. They are living beings, and they don't like where they are, but we will fix that soon enough.
+F. Austein: Like we ever needed our subjects' consent.::<end>
+
+=>q10_original
+::M. Hope: Things have changed. Especially after you allowed your adopted mutant to shove its nose into everything we do.
+F. Austein: Watch your words, Maria. Let me tell you one thing, my dear - you are not in a position to make me angry, so watch it!
+F. Austein: I don't care for how many years we've worked together, Otis will be wherever the hell I want him to be. If he's in the lab, it's because I demand so. If he's cleaning my toilet, it's because I demand so.
+F. Austein: He is mine. He is the best I've ever made. He is what I want the rest to be like.
+M. Hope: He is involved in the incidents, Frederik, listen to me. Get rid of him. You trust him too much.
+F. Austein: Same old story, Maria, same old story. You'd tear all our work to shreds because of a few issues. 
+F. Austein: Otis will remain as my right-hand man and that is final, whether you like it or not.::<end>
+
+=>q10
+::M. Hope: Things have changed. Especially after you allowed your adopted mutant to shove its nose into everything we do.
+F. Austein: Watch your words, Maria. Let me tell you one thing, my dear - you are not in a position to make me angry, so watch it!
+F. Austein: I don't care for how many years we've worked together, Otis will be wherever the hell I want him to be. If he's in the lab, it's because I demand so. If he's cleaning my toilet, it's because I demand so.
+F. Austein: He is mine. He is the best I've ever made. He is what I want the rest to be like.
+M. Hope: He is involved in the incidents, Frederik, listen to me. Get rid of him. You trust him too much.
+F. Austein: Same old story, Maria, same old story. You'd tear all our work to shreds because of a few issues. 
+F. Austein: Otis will remain as my right-hand man and that is final, whether you like it or not.::<end>
+
+=>a11_original
+::Back to Archive.::<end>
+
+=>a11
+::Back to Archive.::<end>
+
+=>a12_original
+::Log: 100368 - G. Dyoglash::<end>
+
+=>a12
+::Log: 100368 - G. Dyoglash::<end>
+
+=>q13_original
+::G. Dyoglash: The new group is ready for another exposure at the Crucible. Humans.
+G. Dyoglash: Our team has prepared the compounds you requested, but I've been informed that our supply of reagents is running low. At this rate, we have about a month of testing unless we receive a new supply.
+M. Hope: Thanks for informing me, Dr. Dyoglash. I will talk to Austein about the reagent supply.
+G. Dyoglash: One more thing I wanted to tell you is that Otis was at the control room today again.
+M. Hope: I will talk to Austein about that as well. Thank you for the information.
+G. Dyoglash: Should I do anything about it?
+M. Hope: No. Do not do anything.
+M. Hope: I will be there in an hour or two.
+G. Dyoglash: Yes, ma'am.::<end>
+
+=>q13
+::G. Dyoglash: The new group is ready for another exposure at the Crucible. Humans.
+G. Dyoglash: Our team has prepared the compounds you requested, but I've been informed that our supply of reagents is running low. At this rate, we have about a month of testing unless we receive a new supply.
+M. Hope: Thanks for informing me, Dr. Dyoglash. I will talk to Austein about the reagent supply.
+G. Dyoglash: One more thing I wanted to tell you is that Otis was at the control room today again.
+M. Hope: I will talk to Austein about that as well. Thank you for the information.
+G. Dyoglash: Should I do anything about it?
+M. Hope: No. Do not do anything.
+M. Hope: I will be there in an hour or two.
+G. Dyoglash: Yes, ma'am.::<end>
+
+=>a14_original
+::Log: 100372 - F. Austein::<end>
+
+=>a14
+::Log: 100372 - F. Austein::<end>
+
+=>q15_original
+::M. Hope: I was just informed that Otis was sent to Tartarus. But not as a prisoner.
+F. Austein: What he is doing there is none of your concern, Maria.
+F. Austein: Frankly, I grew tired of your nagging. Otis is none of your concern.
+M. Hope: That is that, then.
+M. Hope: Whatever happens next, it's all on you.::<end>
+
+=>q15
+::M. Hope: I was just informed that Otis was sent to Tartarus. But not as a prisoner.
+F. Austein: What he is doing there is none of your concern, Maria.
+F. Austein: Frankly, I grew tired of your nagging. Otis is none of your concern.
+M. Hope: That is that, then.
+M. Hope: Whatever happens next, it's all on you.::<end>
+
+=>a16_original
+::Back::<end>
+
+=>a16
+::Back::<end>
+
+=>a17_original
+::Back to main::<end>
+
+=>a17
+::Back to main::<end>
+
+=>a18_original
+::Exit::<end>
+
+=>a18
+::Exit::<end>
+

@@ -1,11 +1,11 @@
-::Pistol_Sonic
-Ignores mechanical damage threshold and half the mechanical damage resistance. Attempts to deal 35% of the original non-critical damage to the targets it passes through.
-
-::Glove_Boxing
-Half of the damage bonus of Improved and Expert Unarmed Combat applies to this weapon.
-
-::blackArrow
-Deals normal weapon damage to the targets it passes through.
-
-::blackArrow_rf
-Deals normal weapon damage to the targets it passes through.
+::Pistol_Sonic
+Ignores mechanical damage threshold and half the mechanical damage resistance. Attempts to deal 35% of the original non-critical damage to the targets it passes through.
+
+::Glove_Boxing
+Half of the damage bonus of Improved and Expert Unarmed Combat applies to this weapon.
+
+::blackArrow
+Deals normal weapon damage to the targets it passes through.
+
+::blackArrow_rf
+Deals normal weapon damage to the targets it passes through.

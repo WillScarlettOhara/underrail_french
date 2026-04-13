@@ -1,245 +1,245 @@
-::nightVision
-Night Vision
-
-::immunity
-Immune to {0}.
-
-::ModifyActionPoints_Positive
-Action points increased by {0}{1}
-
-::ModifyActionPoints_Negative
-Action points reduced by {0}{1}
-
-::ModifyActionPoints_whenNotInStealth
-when not in stealth
-
-::ModifyAggregateWeaponSubtypeAttackSpeed_Positive
-Action point cost of {0} attacks increased by {1}.
-
-::ModifyAggregateWeaponSubtypeAttackSpeed_Negative
-Action point cost of {0} attacks reduced by {1}.
-
-::ModifyAggregateWeaponSubtypeBonusDamage_Positive
-Grants {1}% bonus damage to {0} attacks.
-
-::ModifyAggregateWeaponSubtypeBonusDamage_Negative
-Reduces bonus damage of {0} attacks by {1}%.
-
-::ModifyAggregateWeaponSubtypeCriticalHitChance_Positive
-Critical hit chance of {0} attacks increased by {1}%.
-
-::ModifyAggregateWeaponSubtypeCriticalHitChance_Negative
-Critical hit chance of {0} attacks reduced by {1}%.
-
-::ModifyArmorPenalty_Increased
-Armor penalty increased by {0}%
-
-::ModifyArmorPenalty_Decreased
-Armor penalty decreased by {0}%
-
-::ModifyBaseAbilityFlat_Increased
-{0} increased by {1}
-
-::ModifyBaseAbilityFlat_Decreased
-{0} decreased by {1}
-
-::ModifyBaseAbilityPercentage
-{0} increased by {1}%
-
-::ModifyBulletReloadingSpeed_Increased
-Bullet-based firearm reloading AP cost increased by {0}%
-
-::ModifyBulletReloadingSpeed_Decreased
-Bullet-based firearm reloading AP cost reduced by {0}%
-
-::ModifyCapabilityDamagePercentage_Increased
-{0} damage increased by {1}%
-
-::ModifyCapabilityDamagePercentage_Decreased
-{0} damage decreased by {1}%
-
-::ModifyCarryCapacity_Increased
-Carry capacity increased by {0}
-
-::ModifyCarryCapacity_Decreased
-Carry capacity decreased by {0}
-
-::ModifyChanceToAvoidImmobilization_Increased
-Grants {0}% chance to avoid getting immobilized from most effects
-
-::ModifyChanceToAvoidImmobilization_Decreased
-Reduces chance to avoid getting immobilized from most effects by {0}%
-
-::ModifyCooldownFlat_Increased
-Cooldown of {0} increased by {1}
-
-::ModifyCooldownFlat_Decreased
-Cooldown of {0} decreased by {1}
-
-::ModifyCooldownPercentage_Increased
-Cooldown of {0} increased by {1}%
-
-::ModifyCooldownPercentage_Decreased
-Cooldown of {0} decreased by {1}%
-
-::ModifyDamageResistance_Increased
-{0} damage resistance increased by {1}%
-
-::ModifyDamageResistance_Decreased
-{0} damage resistance reduced by {1}%
-
-::ModifyDamageResistance_Threshold_Increased
-and damage threshold increased by {0}
-
-::ModifyDamageResistance_Threshold_Decreased
-and damage threshold reduced by {0}
-
-::ModifyDamageTakenModifier_Increased
-All {0} damage taken increased by {1}%
-
-::ModifyDamageTakenModifier_Decreased
-All {0} damage taken reduced by {1}%
-
-::ModifyDamageThreshold_Increased
-{0} damage threshold increased by {1}
-
-::ModifyDamageThreshold_Decreased
-{0} damage threshold reduced by {1}
-
-::ModifyDetectionFlat_Increased
-Detection increased by {0}
-
-::ModifyDetectionFlat_Decreased
-Detection decreased by {0}
-
-::ModifyDetectionPercentage_Increased
-Detection increased by {0}%
-
-::ModifyDetectionPercentage_Decreased
-Detection decreased by {0}%
-
-::ModifyDodgeFlat_Increased
-Dodge increased by {0}
-
-::ModifyDodgeFlat_Decreased
-Dodge decreased by {0}
-
-::ModifyDodgePercentage_Increased
-Dodge increased by {0}%
-
-::ModifyDodgePercentage_Decreased
-Dodge decreased by {0}%
-
-::ModifyEvasionFlat_Increased
-Evasion increased by {0}
-
-::ModifyEvasionFlat_Decreased
-Evasion decreased by {0}
-
-::ModifyEvasionPercentage_Increased
-Evasion increased by {0}%
-
-::ModifyEvasionPercentage_Decreased
-Evasion decreased by {0}%
-
-::ModifyExplosionDamageTaken_Increased
-Damage taken from explosions increased by {0}%
-
-::ModifyExplosionDamageTaken_Decreased
-Damage taken from explosions reduced by {0}%
-
-::ModifyFirearmPistolsAttackSpeed_Increased
-Action point cost of firearm pistol attacks increased by {0}
-
-::ModifyFirearmPistolsAttackSpeed_Decreased
-Action point cost of firearm pistol attacks reduced by {0}
-
-::ModifyFirearmReloadingSpeed_Increased
-Firearm reloading AP cost increased by {0}%
-
-::ModifyFirearmReloadingSpeed_Decreased
-Firearm reloading AP cost reduced by {0}%
-
-::ModifyFortitudeFlat_Increased
-Fortitude increased by {0}
-
-::ModifyFortitudeFlat_Decreased
-Fortitude decreased by {0}
-
-::ModifyGrenadeLauncherReloadingSpeed_Increased
-Grenade launcher reloading AP cost increased by {0}%
-
-::ModifyGrenadeLauncherReloadingSpeed_Decreased
-Grenade launcher reloading AP cost reduced by {0}%
-
-::ModifyHealingEffectiveness_Increased
-All healing effects increased by {0}%
-
-::ModifyHealingEffectiveness_Decreased
-All healing effects reduced by {0}%
-
-::ModifyHealthFlat_Increased
-Health increased by {0}
-
-::ModifyHealthFlat_Decreased
-Health decreased by {0}
-
-::ModifyHealthPercentage_Increased
-Total health increased by {0}%
-
-::ModifyHealthPercentage_Decreased
-Total health decreased by {0}%
-
-::ModifyInitiativeFlat_Increased
-Initiative increased by {0}
-
-::ModifyInitiativeFlat_Decreased
-Initiative decreased by {0}
-
-::ModifyMedicineUsageCost_Increased
-Medicine consumption AP cost increased by {0}%
-
-::ModifyMedicineUsageCost_Decreased
-Medicine consumption AP cost reduced by {0}%
-
-::ModifyMeleeWeaponAttackHitChance_Increased
-Chance to hit with melee weapons and unarmed attacks increased by {0}%
-
-::ModifyMeleeWeaponAttackHitChance_Decreased
-Chance to hit with melee weapons and unarmed attacks decreased by {0}%
-
-::ModifyMovementPoints_Increased
-Movement points increased by {0}{1}
-
-::ModifyMovementPoints_Decreased
-Movement points reduced by {0}{1}
-
-::ModifyMovementPoints_whenNotInStealth
-when not in stealth
-
-::ModifyMovementSpeedCombined_noSpeedChanges
-No speed changes
-
-::ModifyMovementSpeedCombined_Speed_Increased
-Movement speed increased by {0}
-
-::ModifyMovementSpeedCombined_Speed_Decreased
-Movement speed reduced by {0}
-
-::ModifyMovementSpeedCombined_andMovementPoints
- and movement points by {0}
- 
-::ModifyMovementSpeedCombined_ButMovementPoints_Increased
-, but movement points increased by {0}
-
-::ModifyMovementSpeedCombined_ButMovementPoints_Decreased
-, but movement points reduced by {0}
-
-::ModifyMovementSpeedCombined_MovementPoints_Increased
-Movement points increased by {0}
-
-::ModifyMovementSpeedCombined_MovementPoints_Decreased
-Movement points reduced by {0}
-
-::ModifyMovementSpeedCombined_whenNotInStealth
- while not in stealth
+::nightVision
+Night Vision
+
+::immunity
+Immune to {0}.
+
+::ModifyActionPoints_Positive
+Action points increased by {0}{1}
+
+::ModifyActionPoints_Negative
+Action points reduced by {0}{1}
+
+::ModifyActionPoints_whenNotInStealth
+when not in stealth
+
+::ModifyAggregateWeaponSubtypeAttackSpeed_Positive
+Action point cost of {0} attacks increased by {1}.
+
+::ModifyAggregateWeaponSubtypeAttackSpeed_Negative
+Action point cost of {0} attacks reduced by {1}.
+
+::ModifyAggregateWeaponSubtypeBonusDamage_Positive
+Grants {1}% bonus damage to {0} attacks.
+
+::ModifyAggregateWeaponSubtypeBonusDamage_Negative
+Reduces bonus damage of {0} attacks by {1}%.
+
+::ModifyAggregateWeaponSubtypeCriticalHitChance_Positive
+Critical hit chance of {0} attacks increased by {1}%.
+
+::ModifyAggregateWeaponSubtypeCriticalHitChance_Negative
+Critical hit chance of {0} attacks reduced by {1}%.
+
+::ModifyArmorPenalty_Increased
+Armor penalty increased by {0}%
+
+::ModifyArmorPenalty_Decreased
+Armor penalty decreased by {0}%
+
+::ModifyBaseAbilityFlat_Increased
+{0} increased by {1}
+
+::ModifyBaseAbilityFlat_Decreased
+{0} decreased by {1}
+
+::ModifyBaseAbilityPercentage
+{0} increased by {1}%
+
+::ModifyBulletReloadingSpeed_Increased
+Bullet-based firearm reloading AP cost increased by {0}%
+
+::ModifyBulletReloadingSpeed_Decreased
+Bullet-based firearm reloading AP cost reduced by {0}%
+
+::ModifyCapabilityDamagePercentage_Increased
+{0} damage increased by {1}%
+
+::ModifyCapabilityDamagePercentage_Decreased
+{0} damage decreased by {1}%
+
+::ModifyCarryCapacity_Increased
+Carry capacity increased by {0}
+
+::ModifyCarryCapacity_Decreased
+Carry capacity decreased by {0}
+
+::ModifyChanceToAvoidImmobilization_Increased
+Grants {0}% chance to avoid getting immobilized from most effects
+
+::ModifyChanceToAvoidImmobilization_Decreased
+Reduces chance to avoid getting immobilized from most effects by {0}%
+
+::ModifyCooldownFlat_Increased
+Cooldown of {0} increased by {1}
+
+::ModifyCooldownFlat_Decreased
+Cooldown of {0} decreased by {1}
+
+::ModifyCooldownPercentage_Increased
+Cooldown of {0} increased by {1}%
+
+::ModifyCooldownPercentage_Decreased
+Cooldown of {0} decreased by {1}%
+
+::ModifyDamageResistance_Increased
+{0} damage resistance increased by {1}%
+
+::ModifyDamageResistance_Decreased
+{0} damage resistance reduced by {1}%
+
+::ModifyDamageResistance_Threshold_Increased
+and damage threshold increased by {0}
+
+::ModifyDamageResistance_Threshold_Decreased
+and damage threshold reduced by {0}
+
+::ModifyDamageTakenModifier_Increased
+All {0} damage taken increased by {1}%
+
+::ModifyDamageTakenModifier_Decreased
+All {0} damage taken reduced by {1}%
+
+::ModifyDamageThreshold_Increased
+{0} damage threshold increased by {1}
+
+::ModifyDamageThreshold_Decreased
+{0} damage threshold reduced by {1}
+
+::ModifyDetectionFlat_Increased
+Detection increased by {0}
+
+::ModifyDetectionFlat_Decreased
+Detection decreased by {0}
+
+::ModifyDetectionPercentage_Increased
+Detection increased by {0}%
+
+::ModifyDetectionPercentage_Decreased
+Detection decreased by {0}%
+
+::ModifyDodgeFlat_Increased
+Dodge increased by {0}
+
+::ModifyDodgeFlat_Decreased
+Dodge decreased by {0}
+
+::ModifyDodgePercentage_Increased
+Dodge increased by {0}%
+
+::ModifyDodgePercentage_Decreased
+Dodge decreased by {0}%
+
+::ModifyEvasionFlat_Increased
+Evasion increased by {0}
+
+::ModifyEvasionFlat_Decreased
+Evasion decreased by {0}
+
+::ModifyEvasionPercentage_Increased
+Evasion increased by {0}%
+
+::ModifyEvasionPercentage_Decreased
+Evasion decreased by {0}%
+
+::ModifyExplosionDamageTaken_Increased
+Damage taken from explosions increased by {0}%
+
+::ModifyExplosionDamageTaken_Decreased
+Damage taken from explosions reduced by {0}%
+
+::ModifyFirearmPistolsAttackSpeed_Increased
+Action point cost of firearm pistol attacks increased by {0}
+
+::ModifyFirearmPistolsAttackSpeed_Decreased
+Action point cost of firearm pistol attacks reduced by {0}
+
+::ModifyFirearmReloadingSpeed_Increased
+Firearm reloading AP cost increased by {0}%
+
+::ModifyFirearmReloadingSpeed_Decreased
+Firearm reloading AP cost reduced by {0}%
+
+::ModifyFortitudeFlat_Increased
+Fortitude increased by {0}
+
+::ModifyFortitudeFlat_Decreased
+Fortitude decreased by {0}
+
+::ModifyGrenadeLauncherReloadingSpeed_Increased
+Grenade launcher reloading AP cost increased by {0}%
+
+::ModifyGrenadeLauncherReloadingSpeed_Decreased
+Grenade launcher reloading AP cost reduced by {0}%
+
+::ModifyHealingEffectiveness_Increased
+All healing effects increased by {0}%
+
+::ModifyHealingEffectiveness_Decreased
+All healing effects reduced by {0}%
+
+::ModifyHealthFlat_Increased
+Health increased by {0}
+
+::ModifyHealthFlat_Decreased
+Health decreased by {0}
+
+::ModifyHealthPercentage_Increased
+Total health increased by {0}%
+
+::ModifyHealthPercentage_Decreased
+Total health decreased by {0}%
+
+::ModifyInitiativeFlat_Increased
+Initiative increased by {0}
+
+::ModifyInitiativeFlat_Decreased
+Initiative decreased by {0}
+
+::ModifyMedicineUsageCost_Increased
+Medicine consumption AP cost increased by {0}%
+
+::ModifyMedicineUsageCost_Decreased
+Medicine consumption AP cost reduced by {0}%
+
+::ModifyMeleeWeaponAttackHitChance_Increased
+Chance to hit with melee weapons and unarmed attacks increased by {0}%
+
+::ModifyMeleeWeaponAttackHitChance_Decreased
+Chance to hit with melee weapons and unarmed attacks decreased by {0}%
+
+::ModifyMovementPoints_Increased
+Movement points increased by {0}{1}
+
+::ModifyMovementPoints_Decreased
+Movement points reduced by {0}{1}
+
+::ModifyMovementPoints_whenNotInStealth
+when not in stealth
+
+::ModifyMovementSpeedCombined_noSpeedChanges
+No speed changes
+
+::ModifyMovementSpeedCombined_Speed_Increased
+Movement speed increased by {0}
+
+::ModifyMovementSpeedCombined_Speed_Decreased
+Movement speed reduced by {0}
+
+::ModifyMovementSpeedCombined_andMovementPoints
+ and movement points by {0}
+ 
+::ModifyMovementSpeedCombined_ButMovementPoints_Increased
+, but movement points increased by {0}
+
+::ModifyMovementSpeedCombined_ButMovementPoints_Decreased
+, but movement points reduced by {0}
+
+::ModifyMovementSpeedCombined_MovementPoints_Increased
+Movement points increased by {0}
+
+::ModifyMovementSpeedCombined_MovementPoints_Decreased
+Movement points reduced by {0}
+
+::ModifyMovementSpeedCombined_whenNotInStealth
+ while not in stealth
