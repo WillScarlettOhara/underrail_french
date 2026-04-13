@@ -1,0 +1,54 @@
+=>q1_original
+We must resist the Faceless!<end>
+
+=>q1
+We must resist the Faceless!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Tchort is evolution.<end>
+
+=>q3
+Tchort is evolution.<end>
+
+=>q4_original
+Refectory is a place to sit down and relax... and enjoy your meal.<end>
+
+=>q4
+Refectory is a place to sit down and relax... and enjoy your meal.<end>
+
+=>q5_original
+There is something special about the clanking of cutlery in this place. I've really grown fond of it.<end>
+
+=>q5
+There is something special about the clanking of cutlery in this place. I've really grown fond of it.<end>
+
+=>q6_original
+Doing fine, $(context.player.Name)?<end>
+
+=>q6
+Doing fine, $(context.player.Name)?<end>
+
+=>q7_original
+Did you know that Monsignor Gustav was sitting at that same table over there when he choked to death. Tragic...<end>
+
+=>q7
+Did you know that Monsignor Gustav was sitting at that same table over there when he choked to death. Tragic...<end>
+
+=>q8_original
+Tchort guide the chef!<end>
+
+=>q8
+Tchort guide the chef!<end>
+
+=>q9_original
+Ugh... I might have ate a bit too much...<end>
+
+=>q9
+Ugh... I might have ate a bit too much...<end>
+

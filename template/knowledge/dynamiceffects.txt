@@ -1,0 +1,11 @@
+::RegenerativeVest
+The wearer regenerates {0} health for the cost of {1} energy every turn when below {2}% health.
+
+::Regenerate
+Regenerates {0} health each turn.
+
+::RegenerateLimited
+Regenerates {0} health each turn, but no higher than {1}% of the maximum.
+
+::RegenerateShield
+Regains {0} shield each turn.

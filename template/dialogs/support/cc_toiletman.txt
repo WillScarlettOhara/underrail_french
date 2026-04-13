@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I can't talk right now, I'm in pain.<end>
+
+=>q2
+I can't talk right now, I'm in pain.<end>
+
+=>q3_original
+I think a have a bladder infection or something.<end>
+
+=>q3
+I think a have a bladder infection or something.<end>
+
+=>q4_original
+The pain. Oh boy, the pain!<end>
+
+=>q4
+The pain. Oh boy, the pain!<end>
+
+=>q5_original
+::The man grabs his lower abdomen and grunts in pain.::<end>
+
+=>q5
+::The man grabs his lower abdomen and grunts in pain.::<end>
+
+=>q6_original
+Why won't it stop? It's been a whole week already! Uh...<end>
+
+=>q6
+Why won't it stop? It's been a whole week already! Uh...<end>
+
+=>q7_original
+Get lost, you $(#moron/dumb woman)! I can't check the pipes with you looking at me.<end>
+
+=>q7
+Get lost, you $(#moron/dumb woman)! I can't check the pipes with you looking at me.<end>
+
+=>q8_original
+What is wrong with you? Let me do my business!<end>
+
+=>q8
+What is wrong with you? Let me do my business!<end>
+
+=>q9_original
+Ow! Ow! It hurts, damn it!<end>
+
+=>q9
+Ow! Ow! It hurts, damn it!<end>
+

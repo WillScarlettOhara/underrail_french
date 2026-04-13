@@ -1,0 +1,48 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Be careful. Sometimes a 'nade or a mine comes in with the junk.<end>
+
+=>q2
+Be careful. Sometimes a 'nade or a mine comes in with the junk.<end>
+
+=>q3_original
+Junk's okay. It's cleanin' after 'em dogs that I hate.<end>
+
+=>q3
+Junk's okay. It's cleanin' after 'em dogs that I hate.<end>
+
+=>q4_original
+Junk keeps this place runnin'.<end>
+
+=>q4
+Junk keeps this place runnin'.<end>
+
+=>q5_original
+I once found a brain in a jar in the junk. Go figure.<end>
+
+=>q5
+I once found a brain in a jar in the junk. Go figure.<end>
+
+=>q6_original
+I ain't goin' south on foot until all the weird crap passes. Caves are dangerous enough already<end>
+
+=>q6
+I ain't goin' south on foot until all the weird crap passes. Caves are dangerous enough already<end>
+
+=>q7_original
+ without psionics derailin' people.<end>
+
+=>q7
+ without psionics derailin' people.<end>
+
+=>q8_original
+.<end>
+
+=>q8
+.<end>
+

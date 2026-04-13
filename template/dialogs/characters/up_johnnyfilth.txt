@@ -1,0 +1,608 @@
+=>q1_original
+::You knew someone was coming because of the awful, nauseating stench that preceded the three-man party. One of these three men - all equally filthy at first glance - takes a step forward and glares at you. He is as well-built as he is ugly: Muscular arms ending with enormous shovel-like hands carry his massive sledgehammer with ease, while his face looks as if it once met the aforementioned in a high-speed collision. He spits on the floor, then once more before wiping his mouth.::
+
+Well, kick my jaw and tell me I'm hardcore, look who we've caught... Tell us, $(#buddy/kitty), whatcha doin' here? This is the home of the Zone Boyz. Ya can't be comin' in here without our permission, ya know.<end>
+
+=>q1
+::You knew someone was coming because of the awful, nauseating stench that preceded the three-man party. One of these three men - all equally filthy at first glance - takes a step forward and glares at you. He is as well-built as he is ugly: Muscular arms ending with enormous shovel-like hands carry his massive sledgehammer with ease, while his face looks as if it once met the aforementioned in a high-speed collision. He spits on the floor, then once more before wiping his mouth.::
+
+Well, kick my jaw and tell me I'm hardcore, look who we've caught... Tell us, $(#buddy/kitty), whatcha doin' here? This is the home of the Zone Boyz. Ya can't be comin' in here without our permission, ya know.<end>
+
+=>q2_original
+'E 'one 't summ slack hardcore-core summ 'ide outta sleepz!<end>
+
+=>q2
+'E 'one 't summ slack hardcore-core summ 'ide outta sleepz!<end>
+
+=>q3_original
+Hold up, Drek. Let's let the rathound squeak first, then we'll see who's dominatin' the bar.<end>
+
+=>q3
+Hold up, Drek. Let's let the rathound squeak first, then we'll see who's dominatin' the bar.<end>
+
+=>q4_original
+Squeak, little rathound! Whatcha doin' here?<end>
+
+=>q4
+Squeak, little rathound! Whatcha doin' here?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I'm not giving you scumbags a single charon!<end>
+
+=>a6
+I'm not giving you scumbags a single charon!<end>
+
+=>q7_original
+Fine... Then we will take it from ya - and some more!<end>
+
+=>q7
+Fine... Then we will take it from ya - and some more!<end>
+
+=>a8_original
+::Fight!::<end>
+
+=>a8
+::Fight!::<end>
+
+=>a9_original
+I don't have any money, I swear!<end>
+
+=>a9
+I don't have any money, I swear!<end>
+
+=>q10_original
+LIAR! Yer not gonna lie to the Zone Boyz, little $(#buddy/kitty)! We are gonna to search ya and really see if yer as broke as ya claim to be!<end>
+
+=>q10
+LIAR! Yer not gonna lie to the Zone Boyz, little $(#buddy/kitty)! We are gonna to search ya and really see if yer as broke as ya claim to be!<end>
+
+=>a11_original
+Fine, just take the money and let me go. ::Give Johnny 500 stygian coins.::<end>
+
+=>a11
+Fine, just take the money and let me go. ::Give Johnny 500 stygian coins.::<end>
+
+=>q12_original
+Look at the shinies! I'll take that, thank you!<end>
+
+=>q12
+Look at the shinies! I'll take that, thank you!<end>
+
+=>q13_original
+Yer free to go, little $(#buddy/kitty). In the name of us all, thank ya for yer little "donation" to the Zone Boyz. Have a hardcore day!<end>
+
+=>q13
+Yer free to go, little $(#buddy/kitty). In the name of us all, thank ya for yer little "donation" to the Zone Boyz. Have a hardcore day!<end>
+
+=>a14_original
+I'll remember this. Goodbye.<end>
+
+=>a14
+I'll remember this. Goodbye.<end>
+
+=>a15_original
+Filthy bastards!<end>
+
+=>a15
+Filthy bastards!<end>
+
+=>a16_original
+Yeah, so long...<end>
+
+=>a16
+Yeah, so long...<end>
+
+=>a17_original
+Just get outta my way!<end>
+
+=>a17
+Just get outta my way!<end>
+
+=>a18_original
+Wow, I'm such a wimp.<end>
+
+=>a18
+Wow, I'm such a wimp.<end>
+
+=>a19_original
+I guess I don't have a choice. Take it. ::Give Johnny 1000 stygian coins.::<end>
+
+=>a19
+I guess I don't have a choice. Take it. ::Give Johnny 1000 stygian coins.::<end>
+
+=>a20_original
+::[Mercantile]:: I don't have that much money. I can only give you five hundred charons. That's all I've got.<end>
+
+=>a20
+::[Mercantile]:: I don't have that much money. I can only give you five hundred charons. That's all I've got.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+::He makes a brief pause that ends with him taking the stygian coins from your hand.:: That is fair. ::He grins.:: Look at the shinies.<end>
+
+=>q22
+::He makes a brief pause that ends with him taking the stygian coins from your hand.:: That is fair. ::He grins.:: Look at the shinies.<end>
+
+=>q23_original
+Oh, I think ya do, $(#buddy/kitty). Stop wastin' our time and give us the shinies!<end>
+
+=>q23
+Oh, I think ya do, $(#buddy/kitty). Stop wastin' our time and give us the shinies!<end>
+
+=>q24_original
+Yea! 'nies!<end>
+
+=>q24
+Yea! 'nies!<end>
+
+=>a25_original
+::[Mercantile]:: I don't have that much money. I can only give you two hundred charons. That's all I've got.<end>
+
+=>a25
+::[Mercantile]:: I don't have that much money. I can only give you two hundred charons. That's all I've got.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+Some very important scientific work I am performing for the Institute of Tchort brought me to this place.<end>
+
+=>a27
+Some very important scientific work I am performing for the Institute of Tchort brought me to this place.<end>
+
+=>q28_original
+Well, kick my jaw and tell me I'm hardcore... scientifilic work ya say? Hardcore... just hardcore. So, yer doing experiments in our place and expect us to be a-okay with it?<end>
+
+=>q28
+Well, kick my jaw and tell me I'm hardcore... scientifilic work ya say? Hardcore... just hardcore. So, yer doing experiments in our place and expect us to be a-okay with it?<end>
+
+=>q29_original
+Y' 'oin drop hardcore-core no'. Summ-a-sum!<end>
+
+=>q29
+Y' 'oin drop hardcore-core no'. Summ-a-sum!<end>
+
+=>q30_original
+Drek boy, yer readin' my mind!<end>
+
+=>q30
+Drek boy, yer readin' my mind!<end>
+
+=>q31_original
+I'm afraid my friend is right, $(#buddy/kitty), ya gotta pay the penalty for trespassin'. Ya give us... hmmm, five hundred charons...<end>
+
+=>q31
+I'm afraid my friend is right, $(#buddy/kitty), ya gotta pay the penalty for trespassin'. Ya give us... hmmm, five hundred charons...<end>
+
+=>q32_original
+Ever seen those Coretech fat rats? Scientists have money! We want one thousand charons!<end>
+
+=>q32
+Ever seen those Coretech fat rats? Scientists have money! We want one thousand charons!<end>
+
+=>q33_original
+Good thinkin' Mullock, good thinkin'. One thousand charons. It's for the, ehm, permission to do scientific work and all that hardcore stuff. We know ya have it. Just spit it out!<end>
+
+=>q33
+Good thinkin' Mullock, good thinkin'. One thousand charons. It's for the, ehm, permission to do scientific work and all that hardcore stuff. We know ya have it. Just spit it out!<end>
+
+=>q34_original
+Yeah! Give us the money! MONEY!<end>
+
+=>q34
+Yeah! Give us the money! MONEY!<end>
+
+=>q35_original
+Ya heard the man. Five hundred charons and we gonna let ya leave. Everybody is happy. Come now, we know ya have the coin.<end>
+
+=>q35
+Ya heard the man. Five hundred charons and we gonna let ya leave. Everybody is happy. Come now, we know ya have the coin.<end>
+
+=>a36_original
+Why I'm here is irrelevant. I will leave if I'm not wanted here and we can forget about the whole thing.<end>
+
+=>a36
+Why I'm here is irrelevant. I will leave if I'm not wanted here and we can forget about the whole thing.<end>
+
+=>q37_original
+Irrelevant? Well, now, $(#buddy/kitty), I don't agree with ya. Ya think ya can just come to our place and do... whatever ya want!? No... that's not how things work around here...<end>
+
+=>q37
+Irrelevant? Well, now, $(#buddy/kitty), I don't agree with ya. Ya think ya can just come to our place and do... whatever ya want!? No... that's not how things work around here...<end>
+
+=>a38_original
+What I'm doing here is none of your damn business, filthy zoners.<end>
+
+=>a38
+What I'm doing here is none of your damn business, filthy zoners.<end>
+
+=>q39_original
+Ooooooooooooooooh! Filthy Zoners? That was so hardcore it almost zoned me out! ::They all laugh at you.:: What you said ain't nice, $(#buddy/kitty). First ya trespass, then ya insult...<end>
+
+=>q39
+Ooooooooooooooooh! Filthy Zoners? That was so hardcore it almost zoned me out! ::They all laugh at you.:: What you said ain't nice, $(#buddy/kitty). First ya trespass, then ya insult...<end>
+
+=>a40_original
+Look, I thought this was just an empty room. Sorry for the disturbance, I'll be going now.<end>
+
+=>a40
+Look, I thought this was just an empty room. Sorry for the disturbance, I'll be going now.<end>
+
+=>q41_original
+Hold up, $(#buddy/kitty)! Ya ain't goin' nowhere till ya explain what you were doin' here. ::He grips the sledgehammer handle tighter and his eyes light up.::<end>
+
+=>q41
+Hold up, $(#buddy/kitty)! Ya ain't goin' nowhere till ya explain what you were doin' here. ::He grips the sledgehammer handle tighter and his eyes light up.::<end>
+
+=>q42_original
+We killin', Johhny?<end>
+
+=>q42
+We killin', Johhny?<end>
+
+=>q43_original
+Not yet, Mullock, not yet...<end>
+
+=>q43
+Not yet, Mullock, not yet...<end>
+
+=>a44_original
+Let me pass and I won't hurt you.<end>
+
+=>a44
+Let me pass and I won't hurt you.<end>
+
+=>q45_original
+Hurt... US? ::They all laugh.:: We're the Zone Boyz, $(#buddy/kitty), no one ain't gonna hurt us. We're just too hardcore. Right, boyz?<end>
+
+=>q45
+Hurt... US? ::They all laugh.:: We're the Zone Boyz, $(#buddy/kitty), no one ain't gonna hurt us. We're just too hardcore. Right, boyz?<end>
+
+=>q46_original
+YEEEEEAA!<end>
+
+=>q46
+YEEEEEAA!<end>
+
+=>q47_original
+Zone Boyz dominate!<end>
+
+=>q47
+Zone Boyz dominate!<end>
+
+=>a48_original
+Who are you people?<end>
+
+=>a48
+Who are you people?<end>
+
+=>q49_original
+Us? We're the Zone Boyz, $(#buddy/kitty). We're the most hardcore, dominating, zone-outting crew in Core City.<end>
+
+=>q49
+Us? We're the Zone Boyz, $(#buddy/kitty). We're the most hardcore, dominating, zone-outting crew in Core City.<end>
+
+=>q50_original
+'N' 'yond!<end>
+
+=>q50
+'N' 'yond!<end>
+
+=>q51_original
+Yes... and beyond. And this is the place where we return to after being hardcore for twenty-five hours STRAIGHT! And we see who when we get back? ::He points his finger at you.::<end>
+
+=>q51
+Yes... and beyond. And this is the place where we return to after being hardcore for twenty-five hours STRAIGHT! And we see who when we get back? ::He points his finger at you.::<end>
+
+=>q52_original
+YOU! We find you, you drop off!<end>
+
+=>q52
+YOU! We find you, you drop off!<end>
+
+=>a53_original
+Zone Boyz? That's the dumbest name I have ever heard in my life!<end>
+
+=>a53
+Zone Boyz? That's the dumbest name I have ever heard in my life!<end>
+
+=>q54_original
+Ooooooooooooooh!<end>
+
+=>q54
+Ooooooooooooooh!<end>
+
+=>q55_original
+Ooooooooooooo'!<end>
+
+=>q55
+Ooooooooooooo'!<end>
+
+=>q56_original
+Ooooooooooooooooh!<end>
+
+=>q56
+Ooooooooooooooooh!<end>
+
+=>q57_original
+Little $(#rat/kitty)'s got a big mouth it seems. We ain't messin' with ya anymore. Tell us what yer doin' here or else yer gonna get dominated.<end>
+
+=>q57
+Little $(#rat/kitty)'s got a big mouth it seems. We ain't messin' with ya anymore. Tell us what yer doin' here or else yer gonna get dominated.<end>
+
+=>a58_original
+::[Intimidate]:: You have two options here: Either you get out of my way - I leave, you live - or you could continue with this charade and find yourselves splattered all over this room. Your choice.<end>
+
+=>a58
+::[Intimidate]:: You have two options here: Either you get out of my way - I leave, you live - or you could continue with this charade and find yourselves splattered all over this room. Your choice.<end>
+
+=>q59_original
+That... um... sounded pretty hardcore... yeah. I guess ya ain't so bad, $(#buddy/kitty), ya ain't so bad. I suppose I'm in a pretty good mood today, so I'm gonna let ya go. Live hardcore and dominate whenever you can.<end>
+
+=>q59
+That... um... sounded pretty hardcore... yeah. I guess ya ain't so bad, $(#buddy/kitty), ya ain't so bad. I suppose I'm in a pretty good mood today, so I'm gonna let ya go. Live hardcore and dominate whenever you can.<end>
+
+=>q60_original
+Y' hardcore-core z' summ... um... yea!<end>
+
+=>q60
+Y' hardcore-core z' summ... um... yea!<end>
+
+=>q61_original
+Yeah... you're free to go. But don't you be foolin' around with the Zone Boyz again. Got it?<end>
+
+=>q61
+Yeah... you're free to go. But don't you be foolin' around with the Zone Boyz again. Got it?<end>
+
+=>a62_original
+Goodbye, Zone Boyz.<end>
+
+=>a62
+Goodbye, Zone Boyz.<end>
+
+=>a63_original
+Don't worry, I'm living hardcore and dominating whenever I WANT. So long, Boyz.<end>
+
+=>a63
+Don't worry, I'm living hardcore and dominating whenever I WANT. So long, Boyz.<end>
+
+=>a64_original
+Just get out of my way!<end>
+
+=>a64
+Just get out of my way!<end>
+
+=>q65_original
+Ya threaten us, little $(#rathound/kitty)? Ya dare threaten the ZONE BOYZ!?<end>
+
+=>q65
+Ya threaten us, little $(#rathound/kitty)? Ya dare threaten the ZONE BOYZ!?<end>
+
+=>q66_original
+YEA!<end>
+
+=>q66
+YEA!<end>
+
+=>q67_original
+You just dug your own grave!<end>
+
+=>q67
+You just dug your own grave!<end>
+
+=>q68_original
+Let's take care of this little impostor. Zone Boyz dominate!<end>
+
+=>q68
+Let's take care of this little impostor. Zone Boyz dominate!<end>
+
+=>a69_original
+::Fight!::<end>
+
+=>a69
+::Fight!::<end>
+
+=>a70_original
+::[Persuade]:: I am a JKK operative on a very important mission. So unless you "boyz" want trouble I suggest you calm down and forget anything happened here and I'll be on my way.<end>
+
+=>a70
+::[Persuade]:: I am a JKK operative on a very important mission. So unless you "boyz" want trouble I suggest you calm down and forget anything happened here and I'll be on my way.<end>
+
+=>q71_original
+Is that so...? Hmmmm... ::The three men exchange several worried looks.::<end>
+
+=>q71
+Is that so...? Hmmmm... ::The three men exchange several worried looks.::<end>
+
+=>q72_original
+Yeah, we don't want trouble with the... um... "authorities." Yer free to go. We are tired and we want to take some rest, ya know.<end>
+
+=>q72
+Yeah, we don't want trouble with the... um... "authorities." Yer free to go. We are tired and we want to take some rest, ya know.<end>
+
+=>q73_original
+I's hardcore-core sleepzin' feelin' 't 'nate!<end>
+
+=>q73
+I's hardcore-core sleepzin' feelin' 't 'nate!<end>
+
+=>q74_original
+Khm... Are ya leaving, $(#sir/ma'am)?<end>
+
+=>q74
+Khm... Are ya leaving, $(#sir/ma'am)?<end>
+
+=>a75_original
+I'll be back. Remember that.<end>
+
+=>a75
+I'll be back. Remember that.<end>
+
+=>a76_original
+::Leave without saying a word.::<end>
+
+=>a76
+::Leave without saying a word.::<end>
+
+=>q77_original
+We ain't falling for that trick, $(#buddy/kitty). Now stop avoidin' the question and give me an answer. Whatcha doin' here?<end>
+
+=>q77
+We ain't falling for that trick, $(#buddy/kitty). Now stop avoidin' the question and give me an answer. Whatcha doin' here?<end>
+
+=>q78_original
+Come on alredy! Answer!<end>
+
+=>q78
+Come on alredy! Answer!<end>
+
+=>a79_original
+::[Persuade]:: You dare threaten a Praetorian enforcer - a SENIOR enforcer?<end>
+
+=>a79
+::[Persuade]:: You dare threaten a Praetorian enforcer - a SENIOR enforcer?<end>
+
+=>a80_original
+::[Persuade]:: Allow me to introduce myself: Agent $(context.player.Name) of Coretech. Let me repeat that: CORE-TECH. Now, what was that you were saying?<end>
+
+=>a80
+::[Persuade]:: Allow me to introduce myself: Agent $(context.player.Name) of Coretech. Let me repeat that: CORE-TECH. Now, what was that you were saying?<end>
+
+=>a81_original
+The Invictus won't stand for such ill-treatment!<end>
+
+=>a81
+The Invictus won't stand for such ill-treatment!<end>
+
+=>q82_original
+::Johnny seems puzzled.:: What does the Invictus have to do with anything?<end>
+
+=>q82
+::Johnny seems puzzled.:: What does the Invictus have to do with anything?<end>
+
+=>a83_original
+But... I am the Invictus. Don't you recognize me?<end>
+
+=>a83
+But... I am the Invictus. Don't you recognize me?<end>
+
+=>q84_original
+::Your statement prompts three pairs of eyes to take a closer look at you.::
+
+No.<end>
+
+=>q84
+::Your statement prompts three pairs of eyes to take a closer look at you.::
+
+No.<end>
+
+=>q85_original
+Nah.<end>
+
+=>q85
+Nah.<end>
+
+=>q86_original
+::Silence.::<end>
+
+=>q86
+::Silence.::<end>
+
+=>q87_original
+What are ya starin' at for so long, Mullock?<end>
+
+=>q87
+What are ya starin' at for so long, Mullock?<end>
+
+=>q88_original
+Well... there is some resemblance. I mean, the *real* Invictus is much taller but... hmmmm...<end>
+
+=>q88
+Well... there is some resemblance. I mean, the *real* Invictus is much taller but... hmmmm...<end>
+
+=>q89_original
+Motion got to yer brain, Mullock, it really did. But enough of this!<end>
+
+=>q89
+Motion got to yer brain, Mullock, it really did. But enough of this!<end>
+
+=>q90_original
+Squeal, little rathound! I want answers!<end>
+
+=>q90
+Squeal, little rathound! I want answers!<end>
+
+=>a91_original
+Erm... nothing I guess... Forget I said anything.<end>
+
+=>a91
+Erm... nothing I guess... Forget I said anything.<end>
+
+=>q92_original
+This $(#guy/girl)'s derailed!<end>
+
+=>q92
+This $(#guy/girl)'s derailed!<end>
+
+=>a93_original
+I'm not wasting my time on you morons. ::Attack!::<end>
+
+=>a93
+I'm not wasting my time on you morons. ::Attack!::<end>
+
+=>q94_original
+<end>
+
+=>q94
+<end>
+
+=>q95_original
+Ain't ya leavin'?<end>
+
+=>q95
+Ain't ya leavin'?<end>
+
+=>q96_original
+I think we're done here.<end>
+
+=>q96
+I think we're done here.<end>
+
+=>q97_original
+::He waves you away.::<end>
+
+=>q97
+::He waves you away.::<end>
+
+=>q98_original
+I need rest - and yer still here!<end>
+
+=>q98
+I need rest - and yer still here!<end>
+
+=>q99_original
+::Sighs.:: Out. Zone Boyz need some well-earned rest.<end>
+
+=>q99
+::Sighs.:: Out. Zone Boyz need some well-earned rest.<end>
+
+=>q100_original
+::Yawns.::<end>
+
+=>q100
+::Yawns.::<end>
+

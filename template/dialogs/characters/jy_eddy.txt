@@ -1,0 +1,558 @@
+=>q1_original
+Ok, here's what you got to do. Go to the slums, past the camping area into a back alley to the north. There's a gambling house back there.<end>
+
+=>q1
+Ok, here's what you got to do. Go to the slums, past the camping area into a back alley to the north. There's a gambling house back there.<end>
+
+=>q2_original
+Look for a guy named Elwood and get his keycard off him. I have no idea how you'd do it, though. Avoid fighting him if you can, and if you absolutely must kill him for it, make sure no one sees you.<end>
+
+=>q2
+Look for a guy named Elwood and get his keycard off him. I have no idea how you'd do it, though. Avoid fighting him if you can, and if you absolutely must kill him for it, make sure no one sees you.<end>
+
+=>q3_original
+If other Scrappers see you attacking him, the whole deal is off and I'll have nothing to do with you, understand?<end>
+
+=>q3
+If other Scrappers see you attacking him, the whole deal is off and I'll have nothing to do with you, understand?<end>
+
+=>a4_original
+Alright, I'll do it.<end>
+
+=>a4
+Alright, I'll do it.<end>
+
+=>q5_original
+That's the spirit. Let me know when you got the keycard.<end>
+
+=>q5
+That's the spirit. Let me know when you got the keycard.<end>
+
+=>a6_original
+This sounds way too risky. Count me out.<end>
+
+=>a6
+This sounds way too risky. Count me out.<end>
+
+=>q7_original
+Suit yourself. But if you change your mind, let me know.<end>
+
+=>q7
+Suit yourself. But if you change your mind, let me know.<end>
+
+=>q8_original
+::You see a short jittery man with messy hair and stained goggles, both of which he occasionally adjusts only to find a second later that he's not happy with the new arrangement.::
+
+What do you want? Can't you see I'm busy? ::He says and puts down his copper mug.::<end>
+
+=>q8
+::You see a short jittery man with messy hair and stained goggles, both of which he occasionally adjusts only to find a second later that he's not happy with the new arrangement.::
+
+What do you want? Can't you see I'm busy? ::He says and puts down his copper mug.::<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+I've decided to look for that back entrance after all.<end>
+
+=>a10
+I've decided to look for that back entrance after all.<end>
+
+=>q11_original
+Great. Let me know if you find out anything.<end>
+
+=>q11
+Great. Let me know if you find out anything.<end>
+
+=>a12_original
+You mentioned you had more work for me.<end>
+
+=>a12
+You mentioned you had more work for me.<end>
+
+=>q13_original
+Yeah, I wanted you to look for that secret entrance to Old Junkyard, but you've already taken care of that.<end>
+
+=>q13
+Yeah, I wanted you to look for that secret entrance to Old Junkyard, but you've already taken care of that.<end>
+
+=>q14_original
+Yeah, since you're heading into the Old Junkyard anyway, there's something you could help me with.<end>
+
+=>q14
+Yeah, since you're heading into the Old Junkyard anyway, there's something you could help me with.<end>
+
+=>q15_original
+A while back it came to my attention that, without my permission, the Eels have been slithering their way into the Old Junkyard.<end>
+
+=>q15
+A while back it came to my attention that, without my permission, the Eels have been slithering their way into the Old Junkyard.<end>
+
+=>q16_original
+I want you to find out how they are doing this. There's probably a back entrance somewhere we don't know of. I'll pay you two hundred charons if you find it.
+
+You up for this?<end>
+
+=>q16
+I want you to find out how they are doing this. There's probably a back entrance somewhere we don't know of. I'll pay you two hundred charons if you find it.
+
+You up for this?<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Sure, I'll get to the bottom of this.<end>
+
+=>a18
+Sure, I'll get to the bottom of this.<end>
+
+=>a19_original
+Perhaps later.<end>
+
+=>a19
+Perhaps later.<end>
+
+=>q20_original
+The offer's there if you change your mind.<end>
+
+=>q20
+The offer's there if you change your mind.<end>
+
+=>a21_original
+I found the secret entrance into the Old Junkyard. It goes from the lower levels, through the caves and into the slums. Black Eels were guarding it.<end>
+
+=>a21
+I found the secret entrance into the Old Junkyard. It goes from the lower levels, through the caves and into the slums. Black Eels were guarding it.<end>
+
+=>q22_original
+Cheeky bastards! Well, time to shut down that operation. I'll send guys to collapse that tunnel immediately.<end>
+
+=>q22
+Cheeky bastards! Well, time to shut down that operation. I'll send guys to collapse that tunnel immediately.<end>
+
+=>q23_original
+Oh, yeah, here's your money.<end>
+
+=>q23
+Oh, yeah, here's your money.<end>
+
+=>q24_original
+You did well to come to me with this info. Nothing expresses gratitude like money, if you ask me. Here, take this.<end>
+
+=>q24
+You did well to come to me with this info. Nothing expresses gratitude like money, if you ask me. Here, take this.<end>
+
+=>a25_original
+The Black Eels are going to try to take you guys down. They've got a secret entrance that goes from the lower levels, through the caves and into the slums.<end>
+
+=>a25
+The Black Eels are going to try to take you guys down. They've got a secret entrance that goes from the lower levels, through the caves and into the slums.<end>
+
+=>a26_original
+I need to get into the Old Junkyard.<end>
+
+=>a26
+I need to get into the Old Junkyard.<end>
+
+=>q27_original
+No dice. It's Scrappers only zone, $(#jack/sister).<end>
+
+=>q27
+No dice. It's Scrappers only zone, $(#jack/sister).<end>
+
+=>q28_original
+What you're looking for there anyway?<end>
+
+=>q28
+What you're looking for there anyway?<end>
+
+=>a29_original
+Some drill parts.<end>
+
+=>a29
+Some drill parts.<end>
+
+=>q30_original
+Hmm... We don't usually allow outsiders in there, but I guess I might be able to let you slip by. That is, if you're willing to do me a favor first.<end>
+
+=>q30
+Hmm... We don't usually allow outsiders in there, but I guess I might be able to let you slip by. That is, if you're willing to do me a favor first.<end>
+
+=>a31_original
+What kind of a favor?<end>
+
+=>a31
+What kind of a favor?<end>
+
+=>q32_original
+I need to retrieve something from... an associate of mine.<end>
+
+=>q32
+I need to retrieve something from... an associate of mine.<end>
+
+=>a33_original
+Alright, that sounds simple enough. I'm listening.<end>
+
+=>a33
+Alright, that sounds simple enough. I'm listening.<end>
+
+=>q34_original
+Let's discuss this somewhere more private.<end>
+
+=>q34
+Let's discuss this somewhere more private.<end>
+
+=>a35_original
+::Follow him.::<end>
+
+=>a35
+::Follow him.::<end>
+
+=>a36_original
+Forget it. I'm no thief.<end>
+
+=>a36
+Forget it. I'm no thief.<end>
+
+=>q37_original
+Then you can forget about getting into Depot A.<end>
+
+=>q37
+Then you can forget about getting into Depot A.<end>
+
+=>a38_original
+Forget it. I don't have time for this.<end>
+
+=>a38
+Forget it. I don't have time for this.<end>
+
+=>a39_original
+That's none of your business.<end>
+
+=>a39
+That's none of your business.<end>
+
+=>q40_original
+Now there you are wrong. It damn sure is my business. Both depots belong to the Scrappers and all that's in them.<end>
+
+=>q40
+Now there you are wrong. It damn sure is my business. Both depots belong to the Scrappers and all that's in them.<end>
+
+=>a41_original
+Alright, I'm looking for some rare drill parts.<end>
+
+=>a41
+Alright, I'm looking for some rare drill parts.<end>
+
+=>a42_original
+Just forget it.<end>
+
+=>a42
+Just forget it.<end>
+
+=>a43_original
+Alright, tell me about that favor you'd want from me.<end>
+
+=>a43
+Alright, tell me about that favor you'd want from me.<end>
+
+=>a44_original
+Tell me more about that favor you need done.<end>
+
+=>a44
+Tell me more about that favor you need done.<end>
+
+=>a45_original
+I decided to help you out with that keycard after all.<end>
+
+=>a45
+I decided to help you out with that keycard after all.<end>
+
+=>a46_original
+I got Elwood's key card. ::Give him the keycard.::<end>
+
+=>a46
+I got Elwood's key card. ::Give him the keycard.::<end>
+
+=>q47_original
+Very good. And what about Elwood?<end>
+
+=>q47
+Very good. And what about Elwood?<end>
+
+=>a48_original
+Had to ice him, I'm afraid.<end>
+
+=>a48
+Had to ice him, I'm afraid.<end>
+
+=>q49_original
+Too bad. Was hoping to do that myself at some point. But never mind.<end>
+
+=>q49
+Too bad. Was hoping to do that myself at some point. But never mind.<end>
+
+=>q50_original
+Ok, here's what you do next. Go to the back alley north of the tavern and find Elwood's house. It won't be hard to spot. It's the only one with decent walls and an electronic lock.<end>
+
+=>q50
+Ok, here's what you do next. Go to the back alley north of the tavern and find Elwood's house. It won't be hard to spot. It's the only one with decent walls and an electronic lock.<end>
+
+=>q51_original
+I need you to retrieve something from there.<end>
+
+=>q51
+I need you to retrieve something from there.<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>a53_original
+Wait a minute... you didn't say anything about breaking into his house.<end>
+
+=>a53
+Wait a minute... you didn't say anything about breaking into his house.<end>
+
+=>q54_original
+What'd you think I needed the key for, genius? Now listen...<end>
+
+=>q54
+What'd you think I needed the key for, genius? Now listen...<end>
+
+=>q55_original
+I need you to find something that resembles a disk. It's dark green and rough on the surface, and it's made of something that's not quite stone and not quite metal.<end>
+
+=>q55
+I need you to find something that resembles a disk. It's dark green and rough on the surface, and it's made of something that's not quite stone and not quite metal.<end>
+
+=>q56_original
+It's kinda hard to describe, but you'll know when you find it, trust me.<end>
+
+=>q56
+It's kinda hard to describe, but you'll know when you find it, trust me.<end>
+
+=>q57_original
+<end>
+
+=>q57
+<end>
+
+=>a58_original
+This disk? ::Give him the mysterious disk.::<end>
+
+=>a58
+This disk? ::Give him the mysterious disk.::<end>
+
+=>q59_original
+::He stares at you in surprise.:: Already? <end>
+
+=>q59
+::He stares at you in surprise.:: Already? <end>
+
+=>q60_original
+Ha-ha, I knew you could pull it off! Good job. I'll let the guards know you're allowed to pass into the ol' Depot A.
+
+Just go through the back door over there in the HQ and turn right.<end>
+
+=>q60
+Ha-ha, I knew you could pull it off! Good job. I'll let the guards know you're allowed to pass into the ol' Depot A.
+
+Just go through the back door over there in the HQ and turn right.<end>
+
+=>q61_original
+I could use someone like you for another job. If you're up for it, come and see me later.<end>
+
+=>q61
+I could use someone like you for another job. If you're up for it, come and see me later.<end>
+
+=>a62_original
+Alright. I'll find you your disk.<end>
+
+=>a62
+Alright. I'll find you your disk.<end>
+
+=>q63_original
+I'll be waiting. <end>
+
+=>q63
+I'll be waiting. <end>
+
+=>q64_original
+Good hunting.<end>
+
+=>q64
+Good hunting.<end>
+
+=>q65_original
+Oh, and just one more thing. From what I've gathered Elwood used to be pretty good with mines, so watch your step in there.<end>
+
+=>q65
+Oh, and just one more thing. From what I've gathered Elwood used to be pretty good with mines, so watch your step in there.<end>
+
+=>q66_original
+Oh, and just one more thing. From what I've gathered Elwood is pretty good with mines, so watch your step in there.<end>
+
+=>q66
+Oh, and just one more thing. From what I've gathered Elwood is pretty good with mines, so watch your step in there.<end>
+
+=>a67_original
+Fine, but after this I get access to the Depot A, right?<end>
+
+=>a67
+Fine, but after this I get access to the Depot A, right?<end>
+
+=>q68_original
+You have my word. <end>
+
+=>q68
+You have my word. <end>
+
+=>a69_original
+Forget it. I'm not doing any more thieveries for you.<end>
+
+=>a69
+Forget it. I'm not doing any more thieveries for you.<end>
+
+=>q70_original
+You can forget about getting into Depot A then.<end>
+
+=>q70
+You can forget about getting into Depot A then.<end>
+
+=>a71_original
+And what's that?<end>
+
+=>a71
+And what's that?<end>
+
+=>a72_original
+He's safe and sound.<end>
+
+=>a72
+He's safe and sound.<end>
+
+=>q73_original
+Good, good.<end>
+
+=>q73
+Good, good.<end>
+
+=>a74_original
+Alright, I'll go and find your disk.<end>
+
+=>a74
+Alright, I'll go and find your disk.<end>
+
+=>q75_original
+I'm glad you changed your mind. Remember, Elwood's house is in an alley north of the tavern.<end>
+
+=>q75
+I'm glad you changed your mind. Remember, Elwood's house is in an alley north of the tavern.<end>
+
+=>a76_original
+I found the disk. Here you go. ::Give him the mysterious disk.::<end>
+
+=>a76
+I found the disk. Here you go. ::Give him the mysterious disk.::<end>
+
+=>a77_original
+I heard you're looking for one called Blaine.<end>
+
+=>a77
+I heard you're looking for one called Blaine.<end>
+
+=>q78_original
+That's right. You know where he is?<end>
+
+=>q78
+That's right. You know where he is?<end>
+
+=>a79_original
+Yeah, he's right here in my backpack. ::Give him Blaine's head.::<end>
+
+=>a79
+Yeah, he's right here in my backpack. ::Give him Blaine's head.::<end>
+
+=>q80_original
+Ha! This was unexpected, but welcome. The bounty money is yours, my friend.<end>
+
+=>q80
+Ha! This was unexpected, but welcome. The bounty money is yours, my friend.<end>
+
+=>q81_original
+He was one ugly bugger, wasn't he?<end>
+
+=>q81
+He was one ugly bugger, wasn't he?<end>
+
+=>a82_original
+Yeah, he has a shop in the Lower Underrail near SGS.<end>
+
+=>a82
+Yeah, he has a shop in the Lower Underrail near SGS.<end>
+
+=>q83_original
+What the hell is he doing up there? Never mind that. If you get his head for me, I'll pay you 1000 charons.<end>
+
+=>q83
+What the hell is he doing up there? Never mind that. If you get his head for me, I'll pay you 1000 charons.<end>
+
+=>a84_original
+Nope.<end>
+
+=>a84
+Nope.<end>
+
+=>q85_original
+Well if you do find him get his head for me, will you? I'll pay you one thousand charons.<end>
+
+=>q85
+Well if you do find him get his head for me, will you? I'll pay you one thousand charons.<end>
+
+=>a86_original
+I've brought you little something. ::Give him Blaine's head.::<end>
+
+=>a86
+I've brought you little something. ::Give him Blaine's head.::<end>
+
+=>a87_original
+Tell me about Scrappers.<end>
+
+=>a87
+Tell me about Scrappers.<end>
+
+=>q88_original
+That's my gang. We extract the valuable stuff from the Old Junkyard and sell it all over the South. The Foundry and Core City are our biggest customers.<end>
+
+=>q88
+That's my gang. We extract the valuable stuff from the Old Junkyard and sell it all over the South. The Foundry and Core City are our biggest customers.<end>
+
+=>q89_original
+We are also in the business of killing people who try to muscle in on our turf, so don't even think about it.<end>
+
+=>q89
+We are also in the business of killing people who try to muscle in on our turf, so don't even think about it.<end>
+
+=>a90_original
+I'll be going now.<end>
+
+=>a90
+I'll be going now.<end>
+
+=>q91_original
+Yeah?<end>
+
+=>q91
+Yeah?<end>
+

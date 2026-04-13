@@ -1,0 +1,29 @@
+::gms_DisplayName
+GMS (Auxiliary)
+
+::gms_slot_aux1
+AUX 1
+
+::gms_slot_aux2
+AUX 2
+
+::gms_slot_aux3
+AUX 3
+
+::gms_slot_aux4
+AUX 4
+
+::gms_client_auxLight
+Aux Lights
+
+::gms_client_commons
+Commons
+
+::gms_client_turrets
+Turret Defense System
+
+::gms_client_elevator
+Elevator
+
+::gms_client_surv
+Surveillance System

@@ -1,0 +1,484 @@
+=>q1_original
+::Welcome, Evelyn Ingram. 
+
+Please enter your password: ::<end>
+
+=>q1
+::Welcome, Evelyn Ingram. 
+
+Please enter your password: ::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::evelynin76543::<end>
+
+=>a3
+::evelynin76543::<end>
+
+=>q4_original
+::The password is correct. Please select one of the following options: ::<end>
+
+=>q4
+::The password is correct. Please select one of the following options: ::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Documents::<end>
+
+=>a6
+::Documents::<end>
+
+=>q7_original
+::Documents::<end>
+
+=>q7
+::Documents::<end>
+
+=>a8_original
+::Diary - Entry 1 - 27.03::<end>
+
+=>a8
+::Diary - Entry 1 - 27.03::<end>
+
+=>q9_original
+::Entry 1 - 27.03
+
+Dear Diary,
+
+This is so silly, I don't even know why I'm writing this. I suppose with Michael spending all his free time working on his damn bunker, I too need something to do to pass the time. Better than wasting it with my boring neighbors - DUH! I don't know what to write, so I'll call it a day for now.
+
+Evelyn :D
+::<end>
+
+=>q9
+::Entry 1 - 27.03
+
+Dear Diary,
+
+This is so silly, I don't even know why I'm writing this. I suppose with Michael spending all his free time working on his damn bunker, I too need something to do to pass the time. Better than wasting it with my boring neighbors - DUH! I don't know what to write, so I'll call it a day for now.
+
+Evelyn :D
+::<end>
+
+=>a10_original
+::Next::<end>
+
+=>a10
+::Next::<end>
+
+=>q11_original
+::Entry 3 - 02.04
+
+Dear Diary,
+
+Yup, he's down there again. He made me swear I won't tell anyone about it. Who does he think I am, some blabbermouth? I don't even socialize that much, duh, so he doesn't have to worry. At all! But I understand him, I mean, you know, he's been worried about this Cahort, Tchord, Tchort thing, whatever it 's called, and he just wants what's best for the two of us. Oh, gotta go, he's back. This diary thing isn't so bad after all, now that I think about it. :)
+
+Evelyn::<end>
+
+=>q11
+::Entry 3 - 02.04
+
+Dear Diary,
+
+Yup, he's down there again. He made me swear I won't tell anyone about it. Who does he think I am, some blabbermouth? I don't even socialize that much, duh, so he doesn't have to worry. At all! But I understand him, I mean, you know, he's been worried about this Cahort, Tchord, Tchort thing, whatever it 's called, and he just wants what's best for the two of us. Oh, gotta go, he's back. This diary thing isn't so bad after all, now that I think about it. :)
+
+Evelyn::<end>
+
+=>a12_original
+::Next::<end>
+
+=>a12
+::Next::<end>
+
+=>q13_original
+::Entry 46 - 11.07
+
+Ugh! Why!? WHY!? Why is he doing this to me!? I had another argument with him. I told him I'm tired of not ever seeing him and that I'm bored to death. If I go down there, I'm disturbing him. "Oh, Evelyn sweetie, this is important - blah blah blah, Tchort!". Go to hell, Michael, you're the only one in Foundry who's obsessed with that. It's not going to happen - please spend some time with me! I simply don't fit in with the rest of Foundry. The Parkers are boring, the Stevensons are depressing, the Greenwalds... no comment on the Greenwalds. I'm just sad here. Maybe I should've listened to my mother and stayed in Dis. I better go lie down.
+
+Evelyn. :(::<end>
+
+=>q13
+::Entry 46 - 11.07
+
+Ugh! Why!? WHY!? Why is he doing this to me!? I had another argument with him. I told him I'm tired of not ever seeing him and that I'm bored to death. If I go down there, I'm disturbing him. "Oh, Evelyn sweetie, this is important - blah blah blah, Tchort!". Go to hell, Michael, you're the only one in Foundry who's obsessed with that. It's not going to happen - please spend some time with me! I simply don't fit in with the rest of Foundry. The Parkers are boring, the Stevensons are depressing, the Greenwalds... no comment on the Greenwalds. I'm just sad here. Maybe I should've listened to my mother and stayed in Dis. I better go lie down.
+
+Evelyn. :(::<end>
+
+=>a14_original
+::Next::<end>
+
+=>a14
+::Next::<end>
+
+=>q15_original
+::Entry 48 - 15.09
+
+Dear Diary,
+
+It's me again. I have decided to continue writing after his death. It's strange, but this diary thing seems so foreign to me, even though it's been what? A month and a half? It's all upside down in my head. I read my previous entries and what I wrote about Michael. If someone else was reading it, he or she would've thought I hated that man. But, a black hole in my heart says otherwise. I just wanted some attention. He was busy working on this bunker all the time, worried about that stupid Tchort. Funny, even now I don't fully understand what it was all about. I simply trusted him and his judgment.:: <end>
+
+=>q15
+::Entry 48 - 15.09
+
+Dear Diary,
+
+It's me again. I have decided to continue writing after his death. It's strange, but this diary thing seems so foreign to me, even though it's been what? A month and a half? It's all upside down in my head. I read my previous entries and what I wrote about Michael. If someone else was reading it, he or she would've thought I hated that man. But, a black hole in my heart says otherwise. I just wanted some attention. He was busy working on this bunker all the time, worried about that stupid Tchort. Funny, even now I don't fully understand what it was all about. I simply trusted him and his judgment.:: <end>
+
+=>q16_original
+::The bunker is beautiful though. Now I spend even more time here than upstairs. Especially because the ventilation system keeps the air so clean and fresh! Going back up causes me to cough instantly. I'm still barely talking to people. The whole Foundry was there on funeral day, and I swear, nearly everyone said at one point or the other: "If you need anything, Evelyn, we're here for you." Tomorrow, not a single soul in sight. Typical. Well, that's all for now. I better find something to do. Bye.
+
+Evelyn::<end>
+
+=>q16
+::The bunker is beautiful though. Now I spend even more time here than upstairs. Especially because the ventilation system keeps the air so clean and fresh! Going back up causes me to cough instantly. I'm still barely talking to people. The whole Foundry was there on funeral day, and I swear, nearly everyone said at one point or the other: "If you need anything, Evelyn, we're here for you." Tomorrow, not a single soul in sight. Typical. Well, that's all for now. I better find something to do. Bye.
+
+Evelyn::<end>
+
+=>a17_original
+::Next::<end>
+
+=>a17
+::Next::<end>
+
+=>q18_original
+::Entry 55 - 29.09
+
+Dear Diary,
+
+Life has become living hell. Being alone is not working out for me, go figure. I simply can't take it anymore! I'm too young and can't be stuck in this block of concrete for the rest of my life. I need company. I really need someone to hug me again.
+
+Michael, I hope you forgive me. I love you.
+
+Evelyn::<end>
+
+=>q18
+::Entry 55 - 29.09
+
+Dear Diary,
+
+Life has become living hell. Being alone is not working out for me, go figure. I simply can't take it anymore! I'm too young and can't be stuck in this block of concrete for the rest of my life. I need company. I really need someone to hug me again.
+
+Michael, I hope you forgive me. I love you.
+
+Evelyn::<end>
+
+=>a19_original
+::Next::<end>
+
+=>a19
+::Next::<end>
+
+=>q20_original
+::Entry 68 - 20.11
+
+Dear Diary,
+
+Jeremy left me today. When I first met him, I felt something I hadn't felt in a long time. A long, long time... He made me laugh, he made me happy - he made me forget. I thought he was the right one to pull me out. But, today he told me we're breaking up. To tell you the truth, he said something about me being a recluse, depressive or whatever. At some point I just stopped listening. I had to. I felt betrayed, infuriated, I felt like I was about to explode! And I felt the urge to grab a knife, and so I did. I'm going to lie down now. I feel tired.
+
+Evelyn::<end>
+
+=>q20
+::Entry 68 - 20.11
+
+Dear Diary,
+
+Jeremy left me today. When I first met him, I felt something I hadn't felt in a long time. A long, long time... He made me laugh, he made me happy - he made me forget. I thought he was the right one to pull me out. But, today he told me we're breaking up. To tell you the truth, he said something about me being a recluse, depressive or whatever. At some point I just stopped listening. I had to. I felt betrayed, infuriated, I felt like I was about to explode! And I felt the urge to grab a knife, and so I did. I'm going to lie down now. I feel tired.
+
+Evelyn::<end>
+
+=>a21_original
+::Next::<end>
+
+=>a21
+::Next::<end>
+
+=>q22_original
+::Entry 97 - 03.02
+
+Dear Diary,
+
+It's Evelyn again, just came to tell you I got another one. Men, they're all the same, haha. They always fall for a sad, lonely widow that needs a new man in her life. Awww. I told him what he wanted to hear and puppeteered him into my bedroom. I got him naked -his eyes were like fires - tied the naive bastard to the bed - and then I pulled out a knife and stabbed him! Right through his right eye! Fire extinguished! He wasn't expecting that, hahaha! He was squirming as I pushed the knife through his eye and into his brain, finally ending his miserable life. So much fun! A little messy, but I'll just dump his body with the rest. With all the fuss about the rockies killing people, no one will suspect me - a poor lonely widow. :D
+
+Evelyn
+
+P.S. I think his name was Jimmy or something. ::<end>
+
+=>q22
+::Entry 97 - 03.02
+
+Dear Diary,
+
+It's Evelyn again, just came to tell you I got another one. Men, they're all the same, haha. They always fall for a sad, lonely widow that needs a new man in her life. Awww. I told him what he wanted to hear and puppeteered him into my bedroom. I got him naked -his eyes were like fires - tied the naive bastard to the bed - and then I pulled out a knife and stabbed him! Right through his right eye! Fire extinguished! He wasn't expecting that, hahaha! He was squirming as I pushed the knife through his eye and into his brain, finally ending his miserable life. So much fun! A little messy, but I'll just dump his body with the rest. With all the fuss about the rockies killing people, no one will suspect me - a poor lonely widow. :D
+
+Evelyn
+
+P.S. I think his name was Jimmy or something. ::<end>
+
+=>a23_original
+::Next::<end>
+
+=>a23
+::Next::<end>
+
+=>q24_original
+::Entry 103 - 15.02
+
+Dear Diary,
+
+Tommy, what a sweet young man. Really handsome, and I do mean *handsome.* He was just passing through Foundry, like most of them. Oh... we had so much fun today. Well, at least I had, he was the one screaming most of the time. That is, while he still had his lower jaw attached, DUH! I still remember the terrified look in his eyes when I showed him my trusty meat cleaver. Then I started cutting! Slash! Slash! Just like Messer butchers his pigs! Made a terrible mess, though, as I got carried away a bit. Whoopsie! There was blood and body parts all over the place, and the stench was... strong. Oh well, it's all clean now and ready for my next toy, haha. I should take some rest. Killing men is pretty darn tiring, hahaha. 
+
+Until next time... Dear Diary.
+
+Evelyn :D
+::<end>
+
+=>q24
+::Entry 103 - 15.02
+
+Dear Diary,
+
+Tommy, what a sweet young man. Really handsome, and I do mean *handsome.* He was just passing through Foundry, like most of them. Oh... we had so much fun today. Well, at least I had, he was the one screaming most of the time. That is, while he still had his lower jaw attached, DUH! I still remember the terrified look in his eyes when I showed him my trusty meat cleaver. Then I started cutting! Slash! Slash! Just like Messer butchers his pigs! Made a terrible mess, though, as I got carried away a bit. Whoopsie! There was blood and body parts all over the place, and the stench was... strong. Oh well, it's all clean now and ready for my next toy, haha. I should take some rest. Killing men is pretty darn tiring, hahaha. 
+
+Until next time... Dear Diary.
+
+Evelyn :D
+::<end>
+
+=>a25_original
+::Previous::<end>
+
+=>a25
+::Previous::<end>
+
+=>a26_original
+::Download to flash drive.::<end>
+
+=>a26
+::Download to flash drive.::<end>
+
+=>a27_original
+::Back to Documents::<end>
+
+=>a27
+::Back to Documents::<end>
+
+=>a28_original
+::Previous::<end>
+
+=>a28
+::Previous::<end>
+
+=>a29_original
+::Previous::<end>
+
+=>a29
+::Previous::<end>
+
+=>a30_original
+::Previous::<end>
+
+=>a30
+::Previous::<end>
+
+=>a31_original
+::Previous::<end>
+
+=>a31
+::Previous::<end>
+
+=>a32_original
+::Previous::<end>
+
+=>a32
+::Previous::<end>
+
+=>a33_original
+::Previous::<end>
+
+=>a33
+::Previous::<end>
+
+=>a34_original
+::Diary - Entry 3 - 02.04::<end>
+
+=>a34
+::Diary - Entry 3 - 02.04::<end>
+
+=>a35_original
+::Diary - Entry 46 - 11.07::<end>
+
+=>a35
+::Diary - Entry 46 - 11.07::<end>
+
+=>a36_original
+::Diary - Entry 48 - 15.09::<end>
+
+=>a36
+::Diary - Entry 48 - 15.09::<end>
+
+=>a37_original
+::Diary - Entry 55 - 29.09::<end>
+
+=>a37
+::Diary - Entry 55 - 29.09::<end>
+
+=>a38_original
+::Diary - Entry 68 - 20.11::<end>
+
+=>a38
+::Diary - Entry 68 - 20.11::<end>
+
+=>a39_original
+::Diary - Entry 97 - 03.02::<end>
+
+=>a39
+::Diary - Entry 97 - 03.02::<end>
+
+=>a40_original
+::Diary - Entry 103 - 15.02::<end>
+
+=>a40
+::Diary - Entry 103 - 15.02::<end>
+
+=>a41_original
+::Back to Main::<end>
+
+=>a41
+::Back to Main::<end>
+
+=>q42_original
+::Welcome, Evelyn Ingram. Please select one of the following options: ::<end>
+
+=>q42
+::Welcome, Evelyn Ingram. Please select one of the following options: ::<end>
+
+=>a43_original
+::Games::<end>
+
+=>a43
+::Games::<end>
+
+=>q44_original
+::Games::<end>
+
+=>q44
+::Games::<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>a46_original
+::Play Underrail: Heavy Duty::<end>
+
+=>a46
+::Play Underrail: Heavy Duty::<end>
+
+=>a47_original
+::Back::<end>
+
+=>a47
+::Back::<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>a49_original
+::Play Underrail::<end>
+
+=>a49
+::Play Underrail::<end>
+
+=>a50_original
+::Exit::<end>
+
+=>a50
+::Exit::<end>
+
+=>a51_original
+::[Hacking] Gain access to the laptop.::<end>
+
+=>a51
+::[Hacking] Gain access to the laptop.::<end>
+
+=>q52_original
+::Access Granted::<end>
+
+=>q52
+::Access Granted::<end>
+
+=>q53_original
+::Access Denied!::<end>
+
+=>q53
+::Access Denied!::<end>
+
+=>a54_original
+::$(context.player.Name)Rocks::<end>
+
+=>a54
+::$(context.player.Name)Rocks::<end>
+
+=>q55_original
+::The password you typed is incorrect. Please, try again: ::<end>
+
+=>q55
+::The password you typed is incorrect. Please, try again: ::<end>
+
+=>a56_original
+::12345::<end>
+
+=>a56
+::12345::<end>
+
+=>a57_original
+::your password::<end>
+
+=>a57
+::your password::<end>
+
+=>a58_original
+::IloveMyMom::<end>
+
+=>a58
+::IloveMyMom::<end>
+
+=>a59_original
+::PapyrusContainingTheIncantationsToPreserveItsBlackSeedsOfVengeanceAgainstHereticsFromSebekWhoIsInTheUnderworld::<end>
+
+=>a59
+::PapyrusContainingTheIncantationsToPreserveItsBlackSeedsOfVengeanceAgainstHereticsFromSebekWhoIsInTheUnderworld::<end>
+
+=>a60_original
+::letmeinyoustupidpieceoftrash::<end>
+
+=>a60
+::letmeinyoustupidpieceoftrash::<end>
+
+=>a61_original
+::Type something random.::<end>
+
+=>a61
+::Type something random.::<end>
+
+=>a62_original
+::Exit::<end>
+
+=>a62
+::Exit::<end>
+

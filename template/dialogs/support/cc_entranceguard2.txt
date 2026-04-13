@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+The Faceless could attack at any moment!<end>
+
+=>q2
+The Faceless could attack at any moment!<end>
+
+=>q3_original
+Please move. This area is not safe!<end>
+
+=>q3
+Please move. This area is not safe!<end>
+
+=>q4_original
+If you have a death wish, that's fine, just stop distracting me!<end>
+
+=>q4
+If you have a death wish, that's fine, just stop distracting me!<end>
+
+=>q5_original
+Those freaks are gonna taste our lead.<end>
+
+=>q5
+Those freaks are gonna taste our lead.<end>
+
+=>q6_original
+We're holding the line here.<end>
+
+=>q6
+We're holding the line here.<end>
+
+=>q7_original
+You derailed zoner...<end>
+
+=>q7
+You derailed zoner...<end>
+

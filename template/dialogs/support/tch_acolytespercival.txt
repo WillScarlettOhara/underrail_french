@@ -1,0 +1,66 @@
+=>q1_original
+No, the Faceless are going to cull us all!<end>
+
+=>q1
+No, the Faceless are going to cull us all!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+He should've been here by now.<end>
+
+=>q3
+He should've been here by now.<end>
+
+=>q4_original
+Novitiate.<end>
+
+=>q4
+Novitiate.<end>
+
+=>q5_original
+Have you seen Minister Percival recently, $(#brother/sister)?<end>
+
+=>q5
+Have you seen Minister Percival recently, $(#brother/sister)?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+Not now, $(#brother/sister), can't you see I'm busy.<end>
+
+=>q7
+Not now, $(#brother/sister), can't you see I'm busy.<end>
+
+=>q8_original
+Come on, novitiate, let me talk to the minister.<end>
+
+=>q8
+Come on, novitiate, let me talk to the minister.<end>
+
+=>q9_original
+Stop bothering me.<end>
+
+=>q9
+Stop bothering me.<end>
+
+=>q10_original
+We are trying to talk to Minister Percival, $(#brother/sister).<end>
+
+=>q10
+We are trying to talk to Minister Percival, $(#brother/sister).<end>
+
+=>q11_original
+Yes, yes... we know all about the Reaching Man. Apex. Now leave us.<end>
+
+=>q11
+Yes, yes... we know all about the Reaching Man. Apex. Now leave us.<end>
+

@@ -1,0 +1,202 @@
+=>q1_original
+::As before, you topple the bot on its back and take a look at its insides.::<end>
+
+=>q1
+::As before, you topple the bot on its back and take a look at its insides.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Examine the hardware.::<end>
+
+=>a3
+::Examine the hardware.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+::[Mechanics] Since the bot did go around you when you stood in its path, you suspect that its sensors are working at least somewhat well, so you turn your attention to the servo-pneumatic system which controls the bot's motion. After spending some time inspecting various components, you find that a few of the pneumatic valves aren't working as they should, thus causing the servomotors to run asynchronously and hinder the bot's movement.::<end>
+
+=>q5
+::[Mechanics] Since the bot did go around you when you stood in its path, you suspect that its sensors are working at least somewhat well, so you turn your attention to the servo-pneumatic system which controls the bot's motion. After spending some time inspecting various components, you find that a few of the pneumatic valves aren't working as they should, thus causing the servomotors to run asynchronously and hinder the bot's movement.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+::[Electronics] Meanwhile, you spot what appears to be a high-frequency energy shield emitter. This emitter itself is specifically built for the bot's body shape, size, power source as well as specific means of control, so it cannot be simply removed and used as a normal shield would without some heavy modifications. However, you might be able to remove the quality high-frequency modulator, which can be reused later for a different energy shield emitter.::<end>
+
+=>q7
+::[Electronics] Meanwhile, you spot what appears to be a high-frequency energy shield emitter. This emitter itself is specifically built for the bot's body shape, size, power source as well as specific means of control, so it cannot be simply removed and used as a normal shield would without some heavy modifications. However, you might be able to remove the quality high-frequency modulator, which can be reused later for a different energy shield emitter.::<end>
+
+=>q8_original
+::You take a look around the interior in hopes you will spot something else of interest, but you find nothing.::<end>
+
+=>q8
+::You take a look around the interior in hopes you will spot something else of interest, but you find nothing.::<end>
+
+=>q9_original
+::You stare at the complex machinery, mostly focusing on what appears to be some kind of servomechanism, but since you know so little about it you aren't able to find a cause for this bot's strange walking pattern.::<end>
+
+=>q9
+::You stare at the complex machinery, mostly focusing on what appears to be some kind of servomechanism, but since you know so little about it you aren't able to find a cause for this bot's strange walking pattern.::<end>
+
+=>a10_original
+::[Mechanics] Repair the faulty pneumatic valves.::<end>
+
+=>a10
+::[Mechanics] Repair the faulty pneumatic valves.::<end>
+
+=>q11_original
+::Fortunately, you do not need to completely replace the faulty valves, as you are able to repair them on the spot. Already you notice how the bots legs - still flailing about - now seem to be flailing a lot more synchronously. Hopefully it will now be able to walk in a straight line.::<end>
+
+=>q11
+::Fortunately, you do not need to completely replace the faulty valves, as you are able to repair them on the spot. Already you notice how the bots legs - still flailing about - now seem to be flailing a lot more synchronously. Hopefully it will now be able to walk in a straight line.::<end>
+
+=>q12_original
+::While the valves seemed like a relatively simple fix, now that you look at it you realize that you will not be able to repair them on the spot. Rather, you will need to acquire the replacement valves for this particular servopneumatic system, and that is something you don't remember ever seeing available anywhere.::<end>
+
+=>q12
+::While the valves seemed like a relatively simple fix, now that you look at it you realize that you will not be able to repair them on the spot. Rather, you will need to acquire the replacement valves for this particular servopneumatic system, and that is something you don't remember ever seeing available anywhere.::<end>
+
+=>a13_original
+::[Electronics] Remove the high frequency shield modulator.::<end>
+
+=>a13
+::[Electronics] Remove the high frequency shield modulator.::<end>
+
+=>q14_original
+::You carefully disconnect the bot's shield emitter from its power supply and successfully remove the modulator.::<end>
+
+=>q14
+::You carefully disconnect the bot's shield emitter from its power supply and successfully remove the modulator.::<end>
+
+=>q15_original
+::Fortunately, the bot does not react to you fiddling with its shield emitter.::<end>
+
+=>q15
+::Fortunately, the bot does not react to you fiddling with its shield emitter.::<end>
+
+=>q16_original
+::As you try to remove the modulator a spark and a puff of smoke appear before your eyes. The matching smell reaches your nose quickly, and you lift your head up and observe the now-useless modulator. You thought removing all the cables would be enough to safely remove the component, but the result conclusively disproved your hastily-conceived hypothesis, it seems.::<end>
+
+=>q16
+::As you try to remove the modulator a spark and a puff of smoke appear before your eyes. The matching smell reaches your nose quickly, and you lift your head up and observe the now-useless modulator. You thought removing all the cables would be enough to safely remove the component, but the result conclusively disproved your hastily-conceived hypothesis, it seems.::<end>
+
+=>a17_original
+::Close the panel and let the bot go.::<end>
+
+=>a17
+::Close the panel and let the bot go.::<end>
+
+=>q18_original
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and walks away from you in a straight line as if nothing ever happened.::<end>
+
+=>q18
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and walks away from you in a straight line as if nothing ever happened.::<end>
+
+=>q19_original
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and returns to its circular motion.::<end>
+
+=>q19
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and returns to its circular motion.::<end>
+
+=>q20_original
+::You see a lone plasma sentry walking in circles. It does not appear to be hostile.::<end>
+
+=>q20
+::You see a lone plasma sentry walking in circles. It does not appear to be hostile.::<end>
+
+=>a21_original
+::Approach and examine it.::<end>
+
+=>a21
+::Approach and examine it.::<end>
+
+=>q22_original
+::However, that appears to be more difficult than you thought initially. 
+
+You stand in front of the bot: It circumvents you but still manages to step on your foot.
+
+You grab it from behind by its two laser cannons: It drags you along with it. Slowly.
+
+You grab it by its two hind legs: The same as previously, with the added benefit of you looking more idiotic in this position.::<end>
+
+=>q22
+::However, that appears to be more difficult than you thought initially. 
+
+You stand in front of the bot: It circumvents you but still manages to step on your foot.
+
+You grab it from behind by its two laser cannons: It drags you along with it. Slowly.
+
+You grab it by its two hind legs: The same as previously, with the added benefit of you looking more idiotic in this position.::<end>
+
+=>q23_original
+::Mildly frustrated, you release your hold and grab the bot's upper half from behind and topple it toward you. On its back it lies now, its legs aimed forward and walking on nothing but air, and this is the position which is most suitable for you to examine its cybernetic insides.::<end>
+
+=>q23
+::Mildly frustrated, you release your hold and grab the bot's upper half from behind and topple it toward you. On its back it lies now, its legs aimed forward and walking on nothing but air, and this is the position which is most suitable for you to examine its cybernetic insides.::<end>
+
+=>q24_original
+::You sit on the bot so it doesn't spring back onto its pointy feet, situating your rear somewhat uncomfortably between the two laser guns and onto a flat metal plate. From here, you are staring at a panel that seems secured by a few rusty screws; being this close you also notice how the exterior has been eaten away by corrosion so much that you could probably make all the screws fall out with one well-aimed kick.::<end>
+
+=>q24
+::You sit on the bot so it doesn't spring back onto its pointy feet, situating your rear somewhat uncomfortably between the two laser guns and onto a flat metal plate. From here, you are staring at a panel that seems secured by a few rusty screws; being this close you also notice how the exterior has been eaten away by corrosion so much that you could probably make all the screws fall out with one well-aimed kick.::<end>
+
+=>a25_original
+::Open the panel.::<end>
+
+=>a25
+::Open the panel.::<end>
+
+=>q26_original
+::Some yanking is all it took for you to separate the panel from the body. The screws either break or pop out, and as soon as you move the panel, warm, stuffy air begins exuding from inside. Dust, cobwebs and some thick grimy matter cover the interior, but that should by no means impede your tinkering.::<end>
+
+=>q26
+::Some yanking is all it took for you to separate the panel from the body. The screws either break or pop out, and as soon as you move the panel, warm, stuffy air begins exuding from inside. Dust, cobwebs and some thick grimy matter cover the interior, but that should by no means impede your tinkering.::<end>
+
+=>a27_original
+::Kick the bot.::<end>
+
+=>a27
+::Kick the bot.::<end>
+
+=>q28_original
+::From your sitting position you slam the bot with your mighty boot and - only a few of the screws pop out of their holes. However, the bot doesn't seem to enjoy what you did. One hot plasma ball leaves the large cannon - fortunately pointed away from your flesh; simultaneously, a light show erupts all around you, and the rapidly heating barrels by your sides force you to disengage. As you step off, the bot gets back onto its legs with rather surprising nimbleness. 
+
+Then, it acquires its target.::<end>
+
+=>q28
+::From your sitting position you slam the bot with your mighty boot and - only a few of the screws pop out of their holes. However, the bot doesn't seem to enjoy what you did. One hot plasma ball leaves the large cannon - fortunately pointed away from your flesh; simultaneously, a light show erupts all around you, and the rapidly heating barrels by your sides force you to disengage. As you step off, the bot gets back onto its legs with rather surprising nimbleness. 
+
+Then, it acquires its target.::<end>
+
+=>a29_original
+::Fight!::<end>
+
+=>a29
+::Fight!::<end>
+
+=>a30_original
+::Leave it.::<end>
+
+=>a30
+::Leave it.::<end>
+
+=>q31_original
+::The bot is still walking in circles.::<end>
+
+=>q31
+::The bot is still walking in circles.::<end>
+

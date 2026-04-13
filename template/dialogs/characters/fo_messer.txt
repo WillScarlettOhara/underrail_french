@@ -1,0 +1,194 @@
+=>q1_original
+::You see a stout middle-aged man butchering a pig. You observe the motions he makes with each cut and notice how every single one is performed with great ease and accuracy, reflecting years and years of experience. After a few moments, the man puts his knife aside and wipes his hands clean. After that, he turns to you with a slight smile, then begins speaking in a baritone voice of unusual warmth with just a hint of huskiness in it.::
+
+Why, hello there. I haven't seen you around here before. I'm Kirk Messer, the local butcher, as you can probably see. ::He laughs.:: What do you need?<end>
+
+=>q1
+::You see a stout middle-aged man butchering a pig. You observe the motions he makes with each cut and notice how every single one is performed with great ease and accuracy, reflecting years and years of experience. After a few moments, the man puts his knife aside and wipes his hands clean. After that, he turns to you with a slight smile, then begins speaking in a baritone voice of unusual warmth with just a hint of huskiness in it.::
+
+Why, hello there. I haven't seen you around here before. I'm Kirk Messer, the local butcher, as you can probably see. ::He laughs.:: What do you need?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Let me see what you have to offer. ::Barter.::<end>
+
+=>a3
+Let me see what you have to offer. ::Barter.::<end>
+
+=>a4_original
+What can you tell me about Foundry?<end>
+
+=>a4
+What can you tell me about Foundry?<end>
+
+=>q5_original
+Hmmm, I'm guessing I don't need to say anything about the pollution, 'cause you can experience that for yourself. Yeah. A piece of advice: Be careful what you eat, drink and remember to wear your respirator so the foul air doesn't slowly kill you. It's like smoking - your throat is the first thing to go after a while, and then, depending on your luck, your health slowly leaves down the same tunnel.<end>
+
+=>q5
+Hmmm, I'm guessing I don't need to say anything about the pollution, 'cause you can experience that for yourself. Yeah. A piece of advice: Be careful what you eat, drink and remember to wear your respirator so the foul air doesn't slowly kill you. It's like smoking - your throat is the first thing to go after a while, and then, depending on your luck, your health slowly leaves down the same tunnel.<end>
+
+=>a6_original
+Yet, so many people live here despite all that.<end>
+
+=>a6
+Yet, so many people live here despite all that.<end>
+
+=>q7_original
+Well, you lose on one front but win on several others: The iron mine brings in a lot of money to Foundry, and people like money. ::He laughs.:: Yeah. Also, the Foundry Guard keeps us safe from the Ironheads, and we've never had any of the raider jackasses penetrate the outer perimeter. Since I moved here, I literally forgot what it's like to live in fear of raiders.<end>
+
+=>q7
+Well, you lose on one front but win on several others: The iron mine brings in a lot of money to Foundry, and people like money. ::He laughs.:: Yeah. Also, the Foundry Guard keeps us safe from the Ironheads, and we've never had any of the raider jackasses penetrate the outer perimeter. Since I moved here, I literally forgot what it's like to live in fear of raiders.<end>
+
+=>q8_original
+And despite the fact that the crime rate has gone up in the last few months, I still feel perfectly safe.<end>
+
+=>q8
+And despite the fact that the crime rate has gone up in the last few months, I still feel perfectly safe.<end>
+
+=>a9_original
+I'll keep that in mind. Let me ask you something else.<end>
+
+=>a9
+I'll keep that in mind. Let me ask you something else.<end>
+
+=>q10_original
+Yeah?<end>
+
+=>q10
+Yeah?<end>
+
+=>a11_original
+What's the quality of the meat you offer here?<end>
+
+=>a11
+What's the quality of the meat you offer here?<end>
+
+=>q12_original
+Let's put it this way... ::He cuts a piece of meat on the cutting table and shows it to you.:: Just look at the color of this one. Smell it. I don't sell muck, this is fresh and quality meat! If you're worried about Foundry's pollution problems affecting the meat quality, don't be. ::Messer eats the raw piece of meat he just showed you.::<end>
+
+=>q12
+Let's put it this way... ::He cuts a piece of meat on the cutting table and shows it to you.:: Just look at the color of this one. Smell it. I don't sell muck, this is fresh and quality meat! If you're worried about Foundry's pollution problems affecting the meat quality, don't be. ::Messer eats the raw piece of meat he just showed you.::<end>
+
+=>q13_original
+Mhm, good stuff! See? I'm eating it raw - that's how confident I am in its quality. So, yeah, I think that should be enough proof. Purchase your meat here and you're golden!<end>
+
+=>q13
+Mhm, good stuff! See? I'm eating it raw - that's how confident I am in its quality. So, yeah, I think that should be enough proof. Purchase your meat here and you're golden!<end>
+
+=>a14_original
+How do you feel now that the mine is reopened?<end>
+
+=>a14
+How do you feel now that the mine is reopened?<end>
+
+=>q15_original
+Very glad, how else would I feel? The mine is back in business and those filthy, filthy creatures will bother us no more! Yeah. And they taste awful!<end>
+
+=>q15
+Very glad, how else would I feel? The mine is back in business and those filthy, filthy creatures will bother us no more! Yeah. And they taste awful!<end>
+
+=>q16_original
+I could even taste the mineral saturation. Disgusting! Even dogs won't eat that.<end>
+
+=>q16
+I could even taste the mineral saturation. Disgusting! Even dogs won't eat that.<end>
+
+=>a17_original
+Do those bums from the slums cause you any problems?<end>
+
+=>a17
+Do those bums from the slums cause you any problems?<end>
+
+=>q18_original
+Yeah... I'd not talk about it. ::He continues cutting the meat on the table.::<end>
+
+=>q18
+Yeah... I'd not talk about it. ::He continues cutting the meat on the table.::<end>
+
+=>q19_original
+Let's talk about something else.<end>
+
+=>q19
+Let's talk about something else.<end>
+
+=>a20_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a20
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>q21_original
+Strange items? Hmmm... No, not as far as I can remember. People come here to buy meat; no one brings anything strange in here. Now, doing strange things is a completely different story! A couple days ago a man came in here - Sonny, one of the miners - claiming that he'd been seeing strange shadows moving across the Foundry ceiling. Yeah. Like ghosts or something. I told him to get himself and his derailed ideas out of here. ::He laughs.::<end>
+
+=>q21
+Strange items? Hmmm... No, not as far as I can remember. People come here to buy meat; no one brings anything strange in here. Now, doing strange things is a completely different story! A couple days ago a man came in here - Sonny, one of the miners - claiming that he'd been seeing strange shadows moving across the Foundry ceiling. Yeah. Like ghosts or something. I told him to get himself and his derailed ideas out of here. ::He laughs.::<end>
+
+=>a22_original
+That doesn't help me much.<end>
+
+=>a22
+That doesn't help me much.<end>
+
+=>q23_original
+::He shrugs.:: That's all I've got for you, $(#man/honey).<end>
+
+=>q23
+::He shrugs.:: That's all I've got for you, $(#man/honey).<end>
+
+=>a24_original
+How do you feel about those mine creatures that have been troubling Foundry lately?<end>
+
+=>a24
+How do you feel about those mine creatures that have been troubling Foundry lately?<end>
+
+=>q25_original
+Well, I don't like 'em, I think that should be obvious. Yeah. They've killed miners and Foundry guardsmen and are responsible for the - temporary - closing of the mine... But, if we put all that aside for a moment, I often wonder what they taste like. You know, uh, if their meat is edible... and tastes at least somewhat good... I could become the only one who can offer that unique meat - in whole South Underrail! Get your rocky steaks at Messer's. Yeah.<end>
+
+=>q25
+Well, I don't like 'em, I think that should be obvious. Yeah. They've killed miners and Foundry guardsmen and are responsible for the - temporary - closing of the mine... But, if we put all that aside for a moment, I often wonder what they taste like. You know, uh, if their meat is edible... and tastes at least somewhat good... I could become the only one who can offer that unique meat - in whole South Underrail! Get your rocky steaks at Messer's. Yeah.<end>
+
+=>q26_original
+::Messer drifts off for a moment, obviously thinking about his hypothetical future. He becomes aware of what he is doing, though, and looks at you again.::
+
+Anyway, what can I do for you?<end>
+
+=>q26
+::Messer drifts off for a moment, obviously thinking about his hypothetical future. He becomes aware of what he is doing, though, and looks at you again.::
+
+Anyway, what can I do for you?<end>
+
+=>a27_original
+See you later.<end>
+
+=>a27
+See you later.<end>
+
+=>q28_original
+I sincerely hope so. See you around.<end>
+
+=>q28
+I sincerely hope so. See you around.<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>q30_original
+Long time no see, friend. Could you just make it quick? I *just* got a fresh shipment of hopper meat from Camp Hathor.<end>
+
+=>q30
+Long time no see, friend. Could you just make it quick? I *just* got a fresh shipment of hopper meat from Camp Hathor.<end>
+
+=>q31_original
+Hey, glad to see you again. Tell me, what can I do for you?<end>
+
+=>q31
+Hey, glad to see you again. Tell me, what can I do for you?<end>
+

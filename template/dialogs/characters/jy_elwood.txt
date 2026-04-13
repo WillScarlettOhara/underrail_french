@@ -1,0 +1,178 @@
+=>q1_original
+I ain't talkin' to you no more. Lyin' bastard.<end>
+
+=>q1
+I ain't talkin' to you no more. Lyin' bastard.<end>
+
+=>q2_original
+Not now.<end>
+
+=>q2
+Not now.<end>
+
+=>q3_original
+::The man gives you a puzzled look.::
+
+What do *you* want?<end>
+
+=>q3
+::The man gives you a puzzled look.::
+
+What do *you* want?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Who are you?<end>
+
+=>a5
+Who are you?<end>
+
+=>q6_original
+Mr. Get Lost.<end>
+
+=>q6
+Mr. Get Lost.<end>
+
+=>a7_original
+How are the dice treating you today?<end>
+
+=>a7
+How are the dice treating you today?<end>
+
+=>q8_original
+Mind your own damn business.<end>
+
+=>q8
+Mind your own damn business.<end>
+
+=>a9_original
+::[Persuade]:: Hey, are you Elwood? Someone wants to see you outside.<end>
+
+=>a9
+::[Persuade]:: Hey, are you Elwood? Someone wants to see you outside.<end>
+
+=>q10_original
+Tell 'im I'm busy.<end>
+
+=>q10
+Tell 'im I'm busy.<end>
+
+=>a11_original
+*She* says it's really important and that you should see her straight away. She's waiting by that green gas tank, near the side entrance.<end>
+
+=>a11
+*She* says it's really important and that you should see her straight away. She's waiting by that green gas tank, near the side entrance.<end>
+
+=>q12_original
+She? But who is this woman? What does she look like?<end>
+
+=>q12
+She? But who is this woman? What does she look like?<end>
+
+=>a13_original
+Didn't say her name. But boy does she have a nice round belly.<end>
+
+=>a13
+Didn't say her name. But boy does she have a nice round belly.<end>
+
+=>q14_original
+What the...? Belly? ::He grabs his head.:: Alright, alright, I'm comin' out.<end>
+
+=>q14
+What the...? Belly? ::He grabs his head.:: Alright, alright, I'm comin' out.<end>
+
+=>q15_original
+Hey! Leave me alone, will ya? I'm busy here.<end>
+
+=>q15
+Hey! Leave me alone, will ya? I'm busy here.<end>
+
+=>a16_original
+Fine. I'll leave you to it then.<end>
+
+=>a16
+Fine. I'll leave you to it then.<end>
+
+=>q17_original
+::He gives you a thumbs up and returns to what he was doing.::<end>
+
+=>q17
+::He gives you a thumbs up and returns to what he was doing.::<end>
+
+=>a18_original
+I need the key card to your place.<end>
+
+=>a18
+I need the key card to your place.<end>
+
+=>q19_original
+Not right now, baby, I got to win me some cash first. But stick around, perhaps, eh... we can *party* later.<end>
+
+=>q19
+Not right now, baby, I got to win me some cash first. But stick around, perhaps, eh... we can *party* later.<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+::[Intimidate]:: I wasn't asking. Give me the damn key card right now or I'll blow your brains out.<end>
+
+=>a21
+::[Intimidate]:: I wasn't asking. Give me the damn key card right now or I'll blow your brains out.<end>
+
+=>q22_original
+::Visibly intimidated by your threats, the man takes a step back and reaches for his gun, all the while keeping you in focus with his wide-open, fearful eyes.::<end>
+
+=>q22
+::Visibly intimidated by your threats, the man takes a step back and reaches for his gun, all the while keeping you in focus with his wide-open, fearful eyes.::<end>
+
+=>a23_original
+Fight!<end>
+
+=>a23
+Fight!<end>
+
+=>q24_original
+You're messin' with the wrong Scrapper, $(#jack/baby)! ::He reaches for his gun.::<end>
+
+=>q24
+You're messin' with the wrong Scrapper, $(#jack/baby)! ::He reaches for his gun.::<end>
+
+=>a25_original
+Your loss.<end>
+
+=>a25
+Your loss.<end>
+
+=>a26_original
+::Leave.::<end>
+
+=>a26
+::Leave.::<end>
+
+=>q27_original
+Sorry, jack, I don't swing that way.<end>
+
+=>q27
+Sorry, jack, I don't swing that way.<end>
+
+=>a28_original
+Never mind.<end>
+
+=>a28
+Never mind.<end>
+
+=>q29_original
+You again. What do you want? Can'tcha see I'm busy?<end>
+
+=>q29
+You again. What do you want? Can'tcha see I'm busy?<end>
+

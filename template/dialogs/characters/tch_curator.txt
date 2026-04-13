@@ -1,0 +1,244 @@
+=>q1_original
+Eidein's Library will not fall into their hands!<end>
+
+=>q1
+Eidein's Library will not fall into their hands!<end>
+
+=>q2_original
+::The woman, upon noticing you approach, puts her hand on her chest and salutes you. Her voice is quiet, almost a whisper, yet it sounds perfectly clear and understandable thanks to the almost unreal silence within the library.::
+
+Tchort is evolution. Welcome to Eidein's Library, $(#brother/sister). I am Curator Nenna. Can I help you with anything?<end>
+
+=>q2
+::The woman, upon noticing you approach, puts her hand on her chest and salutes you. Her voice is quiet, almost a whisper, yet it sounds perfectly clear and understandable thanks to the almost unreal silence within the library.::
+
+Tchort is evolution. Welcome to Eidein's Library, $(#brother/sister). I am Curator Nenna. Can I help you with anything?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::[Persuade]:: If I could be trusted with the Reaching Man, which allowed me to become a Tchortist despite the Institute not accepting new members, then how can I not be trusted to download a few investigative papers to study in private?<end>
+
+=>a4
+::[Persuade]:: If I could be trusted with the Reaching Man, which allowed me to become a Tchortist despite the Institute not accepting new members, then how can I not be trusted to download a few investigative papers to study in private?<end>
+
+=>q5_original
+The Reaching Man is... While you truly are well-evolved, novitiate... Don't misunderstand me, please, but the propagator rights are a completely, completely different matter...<end>
+
+=>q5
+The Reaching Man is... While you truly are well-evolved, novitiate... Don't misunderstand me, please, but the propagator rights are a completely, completely different matter...<end>
+
+=>q6_original
+::She stops. The library is too silent to make the wait comfortable.::
+
+I'll grant you propagator rights. After giving it a thought, I'd rather not retard your progress.<end>
+
+=>q6
+::She stops. The library is too silent to make the wait comfortable.::
+
+I'll grant you propagator rights. After giving it a thought, I'd rather not retard your progress.<end>
+
+=>q7_original
+Do be discreet, please. ::She hands you a library propagator card.::
+
+And don't share copies with anyone outside the Institute unless instructed otherwise.<end>
+
+=>q7
+Do be discreet, please. ::She hands you a library propagator card.::
+
+And don't share copies with anyone outside the Institute unless instructed otherwise.<end>
+
+=>q8_original
+You truly are well-evolved, novitiate - don't misunderstand me, please - but propagator rights are a completely separate matter.<end>
+
+=>q8
+You truly are well-evolved, novitiate - don't misunderstand me, please - but propagator rights are a completely separate matter.<end>
+
+=>q9_original
+My answer is still going to be no.<end>
+
+=>q9
+My answer is still going to be no.<end>
+
+=>a10_original
+Certain files require curator or propagator rights so that they can be transferred to a memory stick. Any way for me to obtain such rights?<end>
+
+=>a10
+Certain files require curator or propagator rights so that they can be transferred to a memory stick. Any way for me to obtain such rights?<end>
+
+=>q11_original
+Only curators can have curator rights, and only notability and certain members of Propagation can have the privilege of having a propagator card entrusted to them.<end>
+
+=>q11
+Only curators can have curator rights, and only notability and certain members of Propagation can have the privilege of having a propagator card entrusted to them.<end>
+
+=>a12_original
+Why Propagation?<end>
+
+=>a12
+Why Propagation?<end>
+
+=>q13_original
+Most members don't need to download files - they can read everything here, in the library; it minimizes risks of valuable information falling into undesirable hands as well. But they, the propagators, they are the ones who propagate Tchortism to the world - they require physical media to do so.<end>
+
+=>q13
+Most members don't need to download files - they can read everything here, in the library; it minimizes risks of valuable information falling into undesirable hands as well. But they, the propagators, they are the ones who propagate Tchortism to the world - they require physical media to do so.<end>
+
+=>a14_original
+Is there any way for me to gain this privilege, sister?<end>
+
+=>a14
+Is there any way for me to gain this privilege, sister?<end>
+
+=>q15_original
+I'm afraid not, $(#brother/sister). It takes a long time even for members of Propagation to obtain their propagator cards.
+
+How can I just hand one over to you?<end>
+
+=>q15
+I'm afraid not, $(#brother/sister). It takes a long time even for members of Propagation to obtain their propagator cards.
+
+How can I just hand one over to you?<end>
+
+=>a16_original
+What can you tell me about Eidein's Library?<end>
+
+=>a16
+What can you tell me about Eidein's Library?<end>
+
+=>q17_original
+Eidein's Library is the major repository of information for the Institute of Tchort. The library's database offers over six million pages of textual content ranging from both contemporary and historical works in different scientific fields, as well as of preserved works of literary arts, journals, documents and other. Most of it is in digital form, accessible to all members at any time, but there is also a significant number of physical copies which, due to their rarity as well as the fragility of the medium, require special permissions.<end>
+
+=>q17
+Eidein's Library is the major repository of information for the Institute of Tchort. The library's database offers over six million pages of textual content ranging from both contemporary and historical works in different scientific fields, as well as of preserved works of literary arts, journals, documents and other. Most of it is in digital form, accessible to all members at any time, but there is also a significant number of physical copies which, due to their rarity as well as the fragility of the medium, require special permissions.<end>
+
+=>q18_original
+It goes without saying that Eidein's Library contains the single most important, most monumental document in the history of Tchortism - the Original Report, written by none other than Eidein himself. Being a novitiate, you are advised to start with the Original Report before moving on to more current Tchort-related works.<end>
+
+=>q18
+It goes without saying that Eidein's Library contains the single most important, most monumental document in the history of Tchortism - the Original Report, written by none other than Eidein himself. Being a novitiate, you are advised to start with the Original Report before moving on to more current Tchort-related works.<end>
+
+=>a19_original
+What exactly is the Original Report?<end>
+
+=>a19
+What exactly is the Original Report?<end>
+
+=>q20_original
+Ah, the Original Report was written a hundred years ago, when Eidein first discovered Tchort in the dark depths of the Deep Caverns. This short text describes the event itself, Eiden's original discoveries and thoughts. Essentially, it narrates the genesis of Tchortism.<end>
+
+=>q20
+Ah, the Original Report was written a hundred years ago, when Eidein first discovered Tchort in the dark depths of the Deep Caverns. This short text describes the event itself, Eiden's original discoveries and thoughts. Essentially, it narrates the genesis of Tchortism.<end>
+
+=>q21_original
+If you haven't read it still, $(#brother/sister), do so as soon as possible. I - and I am being completely honest here - have read it an uncountable amount of times, and I am most certainly not the only one to have done so.<end>
+
+=>q21
+If you haven't read it still, $(#brother/sister), do so as soon as possible. I - and I am being completely honest here - have read it an uncountable amount of times, and I am most certainly not the only one to have done so.<end>
+
+=>a22_original
+Thank you, I had other questions.<end>
+
+=>a22
+Thank you, I had other questions.<end>
+
+=>q23_original
+::She nods.::<end>
+
+=>q23
+::She nods.::<end>
+
+=>a24_original
+Can you tell me something about the library's history?<end>
+
+=>a24
+Can you tell me something about the library's history?<end>
+
+=>q25_original
+I can give you some brief information, yes. This room we are currently in was a library from the very day the building was constructed. While it was much smaller... I should say humbler with respect to available information, it was nonetheless just as integral to the Institute of Tchort as it is today, embracing all those who seek knowledge with wide open arms.<end>
+
+=>q25
+I can give you some brief information, yes. This room we are currently in was a library from the very day the building was constructed. While it was much smaller... I should say humbler with respect to available information, it was nonetheless just as integral to the Institute of Tchort as it is today, embracing all those who seek knowledge with wide open arms.<end>
+
+=>q26_original
+Sadly, the Great Earthquake turned it - as well as the whole West Wing - into rubble back in year twenty-four. Most physical copies the library contained were destroyed, with only a few salvaged copies retrieved from the rubble. What a waste. Of course, Eidein knew that the library *had* to be restored to its previous glory, so according to his will the library was rebuilt within a relatively short period of time. Institute members named the library in his honor, and it remained so until this day.<end>
+
+=>q26
+Sadly, the Great Earthquake turned it - as well as the whole West Wing - into rubble back in year twenty-four. Most physical copies the library contained were destroyed, with only a few salvaged copies retrieved from the rubble. What a waste. Of course, Eidein knew that the library *had* to be restored to its previous glory, so according to his will the library was rebuilt within a relatively short period of time. Institute members named the library in his honor, and it remained so until this day.<end>
+
+=>q27_original
+I hope that is the answer you sought. Was there anything else you wished to ask me?<end>
+
+=>q27
+I hope that is the answer you sought. Was there anything else you wished to ask me?<end>
+
+=>a28_original
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>a28
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>q29_original
+No, I'm afraid not. He hasn't been here since... hmmm, nearly a month, frankly.<end>
+
+=>q29
+No, I'm afraid not. He hasn't been here since... hmmm, nearly a month, frankly.<end>
+
+=>q30_original
+Yes, I believe it was a month. Sure of it. By the way, what do you mean by "looking for him"? What happened, $(#brother/sister)?<end>
+
+=>q30
+Yes, I believe it was a month. Sure of it. By the way, what do you mean by "looking for him"? What happened, $(#brother/sister)?<end>
+
+=>a31_original
+He disappeared.<end>
+
+=>a31
+He disappeared.<end>
+
+=>q32_original
+Oh... I'm sorry I couldn't be of more help. I hope everything turns out well, $(#brother/sister). Best of luck.<end>
+
+=>q32
+Oh... I'm sorry I couldn't be of more help. I hope everything turns out well, $(#brother/sister). Best of luck.<end>
+
+=>a33_original
+Never mind, that is all I needed to know. Goodbye.<end>
+
+=>a33
+Never mind, that is all I needed to know. Goodbye.<end>
+
+=>q34_original
+Tchort guide you, $(#brother/sister). Read well.<end>
+
+=>q34
+Tchort guide you, $(#brother/sister). Read well.<end>
+
+=>a35_original
+Tchort guide you, Nenna.<end>
+
+=>a35
+Tchort guide you, Nenna.<end>
+
+=>q36_original
+And you too, $(#brother/sister). Read well.<end>
+
+=>q36
+And you too, $(#brother/sister). Read well.<end>
+
+=>a37_original
+Goodbye, Nenna.<end>
+
+=>a37
+Goodbye, Nenna.<end>
+
+=>q38_original
+Need a recommendation, $(#brother/sister)?<end>
+
+=>q38
+Need a recommendation, $(#brother/sister)?<end>
+

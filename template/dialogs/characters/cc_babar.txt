@@ -1,0 +1,116 @@
+=>q1_original
+Good day, Invictus. Go right in.<end>
+
+=>q1
+Good day, Invictus. Go right in.<end>
+
+=>q2_original
+$(context.playerArenaTitle)?<end>
+
+=>q2
+$(context.playerArenaTitle)?<end>
+
+=>q3_original
+Hey, $(context.player.Name), how's it going?<end>
+
+=>q3
+Hey, $(context.player.Name), how's it going?<end>
+
+=>q4_original
+If you'd excuse me, I have some important work to do.<end>
+
+=>q4
+If you'd excuse me, I have some important work to do.<end>
+
+=>q5_original
+::The man separates his stare from the papers on the desk and looks up. Immediately, he points his crooked index finger at you.:: 
+
+Listen, $(#man/woman), I've already told you your son never ca--! Oh... oh - good day, $(#sir/ma'am), good day. I apologize for raising my voice, but I thought you were someone else. Some stupid $(#codger/hag) has been bugging me all day about... well, never mind.
+
+Ehm, so, how may I help you?<end>
+
+=>q5
+::The man separates his stare from the papers on the desk and looks up. Immediately, he points his crooked index finger at you.:: 
+
+Listen, $(#man/woman), I've already told you your son never ca--! Oh... oh - good day, $(#sir/ma'am), good day. I apologize for raising my voice, but I thought you were someone else. Some stupid $(#codger/hag) has been bugging me all day about... well, never mind.
+
+Ehm, so, how may I help you?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Hi there. What can you tell me about this place?<end>
+
+=>a7
+Hi there. What can you tell me about this place?<end>
+
+=>q8_original
+This is the Core City Arena - a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator. <end>
+
+=>q8
+This is the Core City Arena - a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator. <end>
+
+=>q9_original
+Interested in applying, $(#sir/ma'am)?<end>
+
+=>q9
+Interested in applying, $(#sir/ma'am)?<end>
+
+=>a10_original
+Sounds tempting. Where do I apply?<end>
+
+=>a10
+Sounds tempting. Where do I apply?<end>
+
+=>q11_original
+Excellent. There is courage within you after all, $(#sir/ma'am). ::He points to the door next to him.:: Take this door, go *all* the way down and speak to a man called Lanista. Big guy wearing metal armor. He'll tell you everything you need to know.<end>
+
+=>q11
+Excellent. There is courage within you after all, $(#sir/ma'am). ::He points to the door next to him.:: Take this door, go *all* the way down and speak to a man called Lanista. Big guy wearing metal armor. He'll tell you everything you need to know.<end>
+
+=>a12_original
+Will do.<end>
+
+=>a12
+Will do.<end>
+
+=>a13_original
+Sounds really dangerous. I'll think about it.<end>
+
+=>a13
+Sounds really dangerous. I'll think about it.<end>
+
+=>q14_original
+No problem at all, $(#sir/ma'am). There is no shame in quaking before violent death. ::He smiles.:: You think about all that. I'll be here if you decide to apply for the Arena.<end>
+
+=>q14
+No problem at all, $(#sir/ma'am). There is no shame in quaking before violent death. ::He smiles.:: You think about all that. I'll be here if you decide to apply for the Arena.<end>
+
+=>a15_original
+What can you tell me about the Arena?<end>
+
+=>a15
+What can you tell me about the Arena?<end>
+
+=>q16_original
+The answer is simple: The Arena is a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator.<end>
+
+=>q16
+The answer is simple: The Arena is a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator.<end>
+
+=>a17_original
+I changed my mind about the Arena. Where can I apply?<end>
+
+=>a17
+I changed my mind about the Arena. Where can I apply?<end>
+
+=>a18_original
+So long.<end>
+
+=>a18
+So long.<end>
+

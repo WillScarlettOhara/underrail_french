@@ -1,0 +1,66 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Corporal?<end>
+
+=>q2
+Corporal?<end>
+
+=>q3_original
+SRO is secured, $(#sir/ma'am).<end>
+
+=>q3
+SRO is secured, $(#sir/ma'am).<end>
+
+=>q4_original
+Yes?<end>
+
+=>q4
+Yes?<end>
+
+=>q5_original
+Hoorah!<end>
+
+=>q5
+Hoorah!<end>
+
+=>q6_original
+I wish we got a couple Dreads here, $(#sir/ma'am). Just as an added deterrent.<end>
+
+=>q6
+I wish we got a couple Dreads here, $(#sir/ma'am). Just as an added deterrent.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Keep walking.<end>
+
+=>q8
+Keep walking.<end>
+
+=>q9_original
+I've got my eyes on you.<end>
+
+=>q9
+I've got my eyes on you.<end>
+
+=>q10_original
+Stop distracting me, please.<end>
+
+=>q10
+Stop distracting me, please.<end>
+
+=>q11_original
+The blasted itch is killing me.<end>
+
+=>q11
+The blasted itch is killing me.<end>
+

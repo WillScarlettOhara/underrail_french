@@ -1,0 +1,490 @@
+=>q1_original
+::You come up to an average-height blond man holding a real book in his hand, reading it quietly. He is dressed in a stylish, high-cost suit while wearing equally fashionable shoes, all free of even a speck of dust. Meanwhile, his physique is as unimpressive as his gelled hair, seeing that an average South Underrailer can break him in two without breaking a sweat.
+
+He closes the book, takes a brief look at you and begins the conversation with an entirely unique greeting.::
+
+Can ho, approacher!<end>
+
+=>q1
+::You come up to an average-height blond man holding a real book in his hand, reading it quietly. He is dressed in a stylish, high-cost suit while wearing equally fashionable shoes, all free of even a speck of dust. Meanwhile, his physique is as unimpressive as his gelled hair, seeing that an average South Underrailer can break him in two without breaking a sweat.
+
+He closes the book, takes a brief look at you and begins the conversation with an entirely unique greeting.::
+
+Can ho, approacher!<end>
+
+=>a2_original
+What?<end>
+
+=>a2
+What?<end>
+
+=>q3_original
+Gah, I see you are one of the uneducated ones, which doesn't flummox me one bit, considering our current location. This is Core City after all. No matter, since you're already here I might as well educate you, if only a bit. Hear me...<end>
+
+=>q3
+Gah, I see you are one of the uneducated ones, which doesn't flummox me one bit, considering our current location. This is Core City after all. No matter, since you're already here I might as well educate you, if only a bit. Hear me...<end>
+
+=>q4_original
+The language you witnessed me using is called Advatongue, and it is a contemporary, modernized and improved version of the language most of us use - Commontongue, as I will refer to it from now on. For, you see, I was feeling indisposed and exhausted of all the inconsistencies and, how do I express myself... unnaturalness of Commontongue. Thus I, Professor Norman Hack of the University of Dis, one day made a conscious decision to liberate some of my time, sit down and do my best to ameliorate this stale mess into one endearing, beautiful language. Muchpretty tongue!<end>
+
+=>q4
+The language you witnessed me using is called Advatongue, and it is a contemporary, modernized and improved version of the language most of us use - Commontongue, as I will refer to it from now on. For, you see, I was feeling indisposed and exhausted of all the inconsistencies and, how do I express myself... unnaturalness of Commontongue. Thus I, Professor Norman Hack of the University of Dis, one day made a conscious decision to liberate some of my time, sit down and do my best to ameliorate this stale mess into one endearing, beautiful language. Muchpretty tongue!<end>
+
+=>q5_original
+It resembles the Commontongue, true, but only to a minuscule degree. For instance, Commontongue was a language dominated by exceptions to rules, relying on memorizing phonic patterns in order to maintain proper pronounciation, strict sentence structure... I could go on and on. All this has been evicted in Advatongue, for the whole language has been standardized and tuned toward absolute consistency in every aspect imaginable, creating a clearer, more natural lingual experience free of ambiguity. Muchpretty!<end>
+
+=>q5
+It resembles the Commontongue, true, but only to a minuscule degree. For instance, Commontongue was a language dominated by exceptions to rules, relying on memorizing phonic patterns in order to maintain proper pronounciation, strict sentence structure... I could go on and on. All this has been evicted in Advatongue, for the whole language has been standardized and tuned toward absolute consistency in every aspect imaginable, creating a clearer, more natural lingual experience free of ambiguity. Muchpretty!<end>
+
+=>q6_original
+There is so much more to speak of it, but first I'd like for you to tell me why you're here and what do you want from me?<end>
+
+=>q6
+There is so much more to speak of it, but first I'd like for you to tell me why you're here and what do you want from me?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+I noticed the guy outside also speaks Advatongue.<end>
+
+=>a8
+I noticed the guy outside also speaks Advatongue.<end>
+
+=>q9_original
+Ah, yay. Rick-gentleman. He's my student, and a bright young man, I must say. I started teaching him shortly after I had arrived to Core City. I rented this... how to refer to it without making it seem better than it actually is... *space* here, and I put up an Advatongue course ad. Rick-gentleman was the first one to respond to the ad; he was the only one to respond to the ad.<end>
+
+=>q9
+Ah, yay. Rick-gentleman. He's my student, and a bright young man, I must say. I started teaching him shortly after I had arrived to Core City. I rented this... how to refer to it without making it seem better than it actually is... *space* here, and I put up an Advatongue course ad. Rick-gentleman was the first one to respond to the ad; he was the only one to respond to the ad.<end>
+
+=>q10_original
+He clearly realized the importance of Advatongue, unlike other denizens of this linguistic cesspit. I mean, even despite my disproval of Commontongue, the things I've heard here made my ears bleed and my mind wail in agony. Being hammered in the head with "hardcore" and "dominating" every two seconds is only the beginning of the story. Pipeworker!? Atrocity!<end>
+
+=>q10
+He clearly realized the importance of Advatongue, unlike other denizens of this linguistic cesspit. I mean, even despite my disproval of Commontongue, the things I've heard here made my ears bleed and my mind wail in agony. Being hammered in the head with "hardcore" and "dominating" every two seconds is only the beginning of the story. Pipeworker!? Atrocity!<end>
+
+=>q11_original
+Advatongue as an official language of... well, even a station, let alone a region will have to wait; however, I hope that goal will be achieved one day. If that means teaching one student at a time, then I better persevere.<end>
+
+=>q11
+Advatongue as an official language of... well, even a station, let alone a region will have to wait; however, I hope that goal will be achieved one day. If that means teaching one student at a time, then I better persevere.<end>
+
+=>a12_original
+Can you teach me a few Advatongue phrases?<end>
+
+=>a12
+Can you teach me a few Advatongue phrases?<end>
+
+=>q13_original
+You wish to learn a few phrases? Wonderful! It is my aim to proliferate the number of Advatongue speakers, as you may have already deduced.
+
+What phrases are you interested in?<end>
+
+=>q13
+You wish to learn a few phrases? Wonderful! It is my aim to proliferate the number of Advatongue speakers, as you may have already deduced.
+
+What phrases are you interested in?<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+Hello.<end>
+
+=>a15
+Hello.<end>
+
+=>q16_original
+That is an easy one. It's "Can ho."<end>
+
+=>q16
+That is an easy one. It's "Can ho."<end>
+
+=>q17_original
+You already heard me say that one when we met. Be careful: "A" in "can" is pronounced like "a" in "cargo."<end>
+
+=>q17
+You already heard me say that one when we met. Be careful: "A" in "can" is pronounced like "a" in "cargo."<end>
+
+=>a18_original
+Goodbye.<end>
+
+=>a18
+Goodbye.<end>
+
+=>q19_original
+Gah, it's a very simple word. "Gone ho." It is quite similar to "can ho."<end>
+
+=>q19
+Gah, it's a very simple word. "Gone ho." It is quite similar to "can ho."<end>
+
+=>q20_original
+Naturally, you could also use a more complicated phrase like "observant u soclos," which is most similar to "see you around." Or, you could even say "gahgone," which is unique to Advatongue. It's a word that expresses a happy goodbye.<end>
+
+=>q20
+Naturally, you could also use a more complicated phrase like "observant u soclos," which is most similar to "see you around." Or, you could even say "gahgone," which is unique to Advatongue. It's a word that expresses a happy goodbye.<end>
+
+=>a21_original
+You look very nice today.<end>
+
+=>a21
+You look very nice today.<end>
+
+=>q22_original
+Oh, yay, that one is "u appar muchpretty au."<end>
+
+=>q22
+Oh, yay, that one is "u appar muchpretty au."<end>
+
+=>q23_original
+It is a beautiful language, isn't it? Courtesy, or "meengoood," is the foundation of Advatongue; should you decide to learn more about the language, you would realize that it contains countless words which do not exist in Commontongue, words which allow you to convey gentility and refinement in many beautiful ways. Afterwards, once you finally look back at the language you had used before, it will seem like you had been outright *cursing* with pretty much every word you uttered. ::He sighs.::
+
+It will make you feel like a "peasanut."<end>
+
+=>q23
+It is a beautiful language, isn't it? Courtesy, or "meengoood," is the foundation of Advatongue; should you decide to learn more about the language, you would realize that it contains countless words which do not exist in Commontongue, words which allow you to convey gentility and refinement in many beautiful ways. Afterwards, once you finally look back at the language you had used before, it will seem like you had been outright *cursing* with pretty much every word you uttered. ::He sighs.::
+
+It will make you feel like a "peasanut."<end>
+
+=>a24_original
+You ugly bastard.<end>
+
+=>a24
+You ugly bastard.<end>
+
+=>q25_original
+Nay, nay, nay! Why use such harsh language? Advatongue is meant to be beautiful and amiable.<end>
+
+=>q25
+Nay, nay, nay! Why use such harsh language? Advatongue is meant to be beautiful and amiable.<end>
+
+=>q26_original
+::He sighs.:: Well, technically you could say "U unatractiv shlomor." But please, do avoid unpleasantries.<end>
+
+=>q26
+::He sighs.:: Well, technically you could say "U unatractiv shlomor." But please, do avoid unpleasantries.<end>
+
+=>a27_original
+You should die in a fire.<end>
+
+=>a27
+You should die in a fire.<end>
+
+=>q28_original
+Whatan? Of all the innumerable phrases I could teach you in Advatongue, you chose this?<end>
+
+=>q28
+Whatan? Of all the innumerable phrases I could teach you in Advatongue, you chose this?<end>
+
+=>q29_original
+::He sighs.:: It's "U hothot hrnk."<end>
+
+=>q29
+::He sighs.:: It's "U hothot hrnk."<end>
+
+=>a30_original
+Good job.<end>
+
+=>a30
+Good job.<end>
+
+=>q31_original
+You mean with Advatongue? Oh, thank you. It's true, I rarely get the recognition! Truthis, truthis... 
+
+Oh, you mean you want me to...?<end>
+
+=>q31
+You mean with Advatongue? Oh, thank you. It's true, I rarely get the recognition! Truthis, truthis... 
+
+Oh, you mean you want me to...?<end>
+
+=>q32_original
+Gah, sorry. Good job is "goood workan."<end>
+
+=>q32
+Gah, sorry. Good job is "goood workan."<end>
+
+=>a33_original
+Rathound.<end>
+
+=>a33
+Rathound.<end>
+
+=>q34_original
+Skwiksamuch.<end>
+
+=>q34
+Skwiksamuch.<end>
+
+=>q35_original
+Disgusting animals. Unatractiv, yay.<end>
+
+=>q35
+Disgusting animals. Unatractiv, yay.<end>
+
+=>a36_original
+I'm going to pulverize your bones and smash your skull to tiny bits!<end>
+
+=>a36
+I'm going to pulverize your bones and smash your skull to tiny bits!<end>
+
+=>q37_original
+Please don-- I mean, hmm, why such hateful language? I don't think I even have a word for "pulverize," but I'll give it my best to appease your hunger for violent language.<end>
+
+=>q37
+Please don-- I mean, hmm, why such hateful language? I don't think I even have a word for "pulverize," but I'll give it my best to appease your hunger for violent language.<end>
+
+=>q38_original
+I iswill muchbroke ur waaitstik and boom ur mindkanta toso hardrecept totos. 
+
+So violent, jaazuz!<end>
+
+=>q38
+I iswill muchbroke ur waaitstik and boom ur mindkanta toso hardrecept totos. 
+
+So violent, jaazuz!<end>
+
+=>a39_original
+I've had enough of this, let's talk about something else.<end>
+
+=>a39
+I've had enough of this, let's talk about something else.<end>
+
+=>q40_original
+Yay?<end>
+
+=>q40
+Yay?<end>
+
+=>q41_original
+Certainly. What phrase would you like to learn in Advatongue?<end>
+
+=>q41
+Certainly. What phrase would you like to learn in Advatongue?<end>
+
+=>a42_original
+What can you tell me about Core City?<end>
+
+=>a42
+What can you tell me about Core City?<end>
+
+=>q43_original
+It's just like most South Underrail stations. Linguistically perverted to the point of creating an impression that commoners who live here are struggling with their very own language. And I thought Commontongue in its untainted form was abhorrent enough. I just dread that one day the way commoners converse here won't slither into my own speech in some perfidious way.<end>
+
+=>q43
+It's just like most South Underrail stations. Linguistically perverted to the point of creating an impression that commoners who live here are struggling with their very own language. And I thought Commontongue in its untainted form was abhorrent enough. I just dread that one day the way commoners converse here won't slither into my own speech in some perfidious way.<end>
+
+=>q44_original
+Indeed, coming here was a muchmindclonking experience. If it wasn't for my student, I would've gone insane listening to those JKK workers discussing their "trims" and other menial things.<end>
+
+=>q44
+Indeed, coming here was a muchmindclonking experience. If it wasn't for my student, I would've gone insane listening to those JKK workers discussing their "trims" and other menial things.<end>
+
+=>a45_original
+What can you tell me about the Arena?<end>
+
+=>a45
+What can you tell me about the Arena?<end>
+
+=>q46_original
+Gah, that buffoonery!? Bafoonsohard! Please, I don't wish to speak about it.<end>
+
+=>q46
+Gah, that buffoonery!? Bafoonsohard! Please, I don't wish to speak about it.<end>
+
+=>q47_original
+The Arena is the sort of thing that appeals to only the most primitive southerners. Which is the majority...<end>
+
+=>q47
+The Arena is the sort of thing that appeals to only the most primitive southerners. Which is the majority...<end>
+
+=>a48_original
+What can you tell me about JKK?<end>
+
+=>a48
+What can you tell me about JKK?<end>
+
+=>q49_original
+JKK. As soon as I open my doors I am greeted by the sight of their headquarters. They broadcast that perfectly dreadful Arena, feeding it to the unwashed masses. On top of it, they organize betting to further relieve the poor creatures' already barren pockets; their heads are already desolate, so why not their pockets too.<end>
+
+=>q49
+JKK. As soon as I open my doors I am greeted by the sight of their headquarters. They broadcast that perfectly dreadful Arena, feeding it to the unwashed masses. On top of it, they organize betting to further relieve the poor creatures' already barren pockets; their heads are already desolate, so why not their pockets too.<end>
+
+=>q50_original
+I'd rather not have anything to do with JKK, donotdo. And I have no better opinion of Coretech or Praetorian Security, for that matter. Primitive lot.<end>
+
+=>q50
+I'd rather not have anything to do with JKK, donotdo. And I have no better opinion of Coretech or Praetorian Security, for that matter. Primitive lot.<end>
+
+=>a51_original
+What can you tell me about the Oligarchy?<end>
+
+=>a51
+What can you tell me about the Oligarchy?<end>
+
+=>q52_original
+I haven't personally met the fewthatanrul. The Oligarchs, that is. My information on them is limited, I'm afraid, but my personal experience - mostly from observation, but also from other, unfortunate incidents - dictates that I can only draw a single conclusion, which is that they are managing this city in a selfish, incompetent, and rather oppressive manner.<end>
+
+=>q52
+I haven't personally met the fewthatanrul. The Oligarchs, that is. My information on them is limited, I'm afraid, but my personal experience - mostly from observation, but also from other, unfortunate incidents - dictates that I can only draw a single conclusion, which is that they are managing this city in a selfish, incompetent, and rather oppressive manner.<end>
+
+=>q53_original
+Gah, at least no one disturbs me anymore. If we ignore the environment itself, that is.<end>
+
+=>q53
+Gah, at least no one disturbs me anymore. If we ignore the environment itself, that is.<end>
+
+=>a54_original
+See you around, Norman.<end>
+
+=>a54
+See you around, Norman.<end>
+
+=>q55_original
+In Advatongue it's: "Observant u soclos, Norman-gentleman." Remember that, please.<end>
+
+=>q55
+In Advatongue it's: "Observant u soclos, Norman-gentleman." Remember that, please.<end>
+
+=>a56_original
+Observant u soclos, Norman-gentleman.<end>
+
+=>a56
+Observant u soclos, Norman-gentleman.<end>
+
+=>q57_original
+Goood, ur learningmuch.<end>
+
+=>q57
+Goood, ur learningmuch.<end>
+
+=>a58_original
+You talk funny.<end>
+
+=>a58
+You talk funny.<end>
+
+=>a59_original
+Can ho!<end>
+
+=>a59
+Can ho!<end>
+
+=>q60_original
+::A joyful smile materializes on his face.:: Ah, finally someone who is not an uncultured swine. You speak Advatongue, yes? U speakish Advatongue, yay?<end>
+
+=>q60
+::A joyful smile materializes on his face.:: Ah, finally someone who is not an uncultured swine. You speak Advatongue, yes? U speakish Advatongue, yay?<end>
+
+=>a61_original
+Yay.<end>
+
+=>a61
+Yay.<end>
+
+=>q62_original
+Keh, final aperson that speakish Advatongue inCore City. Allbody here isusing commtongue, soyay attime bevery mindclonking tolistenin dem speakish primitiv.<end>
+
+=>q62
+Keh, final aperson that speakish Advatongue inCore City. Allbody here isusing commtongue, soyay attime bevery mindclonking tolistenin dem speakish primitiv.<end>
+
+=>a63_original
+Yay?<end>
+
+=>a63
+Yay?<end>
+
+=>q64_original
+Gah, truthis, truthis! Realization, whatan ur titlegiven?<end>
+
+=>q64
+Gah, truthis, truthis! Realization, whatan ur titlegiven?<end>
+
+=>a65_original
+Yay?<end>
+
+=>a65
+Yay?<end>
+
+=>q66_original
+::A dull expression overcomes his so-far joyful face, and you manage to spot a barely noticeable twitch on the side of his lips.:: 
+
+You have no idea what I'm talking about, right?<end>
+
+=>q66
+::A dull expression overcomes his so-far joyful face, and you manage to spot a barely noticeable twitch on the side of his lips.:: 
+
+You have no idea what I'm talking about, right?<end>
+
+=>a67_original
+Yay?<end>
+
+=>a67
+Yay?<end>
+
+=>q68_original
+Stop fooling around, you... you uneducated $(#man/woman)! Uneducatid, jaazuz! I find your behavior increasingly inappropriate, yet, I must say, I am still willing to educate you on this - in your mind - convoluted situation. Hear now...<end>
+
+=>q68
+Stop fooling around, you... you uneducated $(#man/woman)! Uneducatid, jaazuz! I find your behavior increasingly inappropriate, yet, I must say, I am still willing to educate you on this - in your mind - convoluted situation. Hear now...<end>
+
+=>a69_original
+I understand some of it, but not everything.<end>
+
+=>a69
+I understand some of it, but not everything.<end>
+
+=>q70_original
+I don't think you understand me at all. <end>
+
+=>q70
+I don't think you understand me at all. <end>
+
+=>q71_original
+Khm, and for an instant I thought I found someone who comprehends me. No matter, since you're already here I might as well educate you, if only a bit. Hear now...<end>
+
+=>q71
+Khm, and for an instant I thought I found someone who comprehends me. No matter, since you're already here I might as well educate you, if only a bit. Hear now...<end>
+
+=>a72_original
+No, not a word.<end>
+
+=>a72
+No, not a word.<end>
+
+=>a73_original
+I don't think I understand you fully.<end>
+
+=>a73
+I don't think I understand you fully.<end>
+
+=>a74_original
+Sorry, I didn't understand anything.<end>
+
+=>a74
+Sorry, I didn't understand anything.<end>
+
+=>a75_original
+I lost you. I don't have a clue what you're talking about.<end>
+
+=>a75
+I lost you. I don't have a clue what you're talking about.<end>
+
+=>a76_original
+Nah, I just repeated what you said.<end>
+
+=>a76
+Nah, I just repeated what you said.<end>
+
+=>q77_original
+Can ho, whatan could I doo for u?<end>
+
+=>q77
+Can ho, whatan could I doo for u?<end>
+

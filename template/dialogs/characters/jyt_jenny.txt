@@ -1,0 +1,22 @@
+=>q1_original
+::This woman appears to be delirious from blood loss and more importantly - poison. If she doesn't receive an antidote soon, she will surely die.:: 
+
+Cliff... is that you? Ahh...<end>
+
+=>q1
+::This woman appears to be delirious from blood loss and more importantly - poison. If she doesn't receive an antidote soon, she will surely die.:: 
+
+Cliff... is that you? Ahh...<end>
+
+=>a2_original
+::Administer the antidote and help her outside.::<end>
+
+=>a2
+::Administer the antidote and help her outside.::<end>
+
+=>a3_original
+::Leave her be.::<end>
+
+=>a3
+::Leave her be.::<end>
+

@@ -1,0 +1,268 @@
+=>q1_original
+::You get no response.::<end>
+
+=>q1
+::You get no response.::<end>
+
+=>q2_original
+::Something tells you it is not wise to touch this intercom right now.::<end>
+
+=>q2
+::Something tells you it is not wise to touch this intercom right now.::<end>
+
+=>q3_original
+::A slow, unhurried male voice is heard from the intercom.::
+
+Tchort is evolution, $(#brother/sister). What do you need?<end>
+
+=>q3
+::A slow, unhurried male voice is heard from the intercom.::
+
+Tchort is evolution, $(#brother/sister). What do you need?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Can you open the gate for me?<end>
+
+=>a5
+Can you open the gate for me?<end>
+
+=>q6_original
+Opening the gate now, $(#brother/sister). Tchort guide you.<end>
+
+=>q6
+Opening the gate now, $(#brother/sister). Tchort guide you.<end>
+
+=>a7_original
+Tchort guide you too, brother.<end>
+
+=>a7
+Tchort guide you too, brother.<end>
+
+=>a8_original
+Bye bye.<end>
+
+=>a8
+Bye bye.<end>
+
+=>a9_original
+I need to leave the Institute building.<end>
+
+=>a9
+I need to leave the Institute building.<end>
+
+=>q10_original
+What is the reason for your egress, $(#brother/sister)?<end>
+
+=>q10
+What is the reason for your egress, $(#brother/sister)?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I'm on official Institute business.<end>
+
+=>a12
+I'm on official Institute business.<end>
+
+=>q13_original
+Official business? On whose authority?<end>
+
+=>q13
+Official business? On whose authority?<end>
+
+=>a14_original
+Principal Investigator Rista.<end>
+
+=>a14
+Principal Investigator Rista.<end>
+
+=>q15_original
+Yes, I have been informed of that, $(#brother/sister).<end>
+
+=>q15
+Yes, I have been informed of that, $(#brother/sister).<end>
+
+=>a16_original
+Oh, and I might need to take several trips back and forth.<end>
+
+=>a16
+Oh, and I might need to take several trips back and forth.<end>
+
+=>q17_original
+I will note that. <end>
+
+=>q17
+I will note that. <end>
+
+=>a18_original
+Principal Investigator Georgis.<end>
+
+=>a18
+Principal Investigator Georgis.<end>
+
+=>a19_original
+Principal Investigator Schteff.<end>
+
+=>a19
+Principal Investigator Schteff.<end>
+
+=>a20_original
+Uh...<end>
+
+=>a20
+Uh...<end>
+
+=>q21_original
+I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
+
+=>q21
+I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
+
+=>a22_original
+It's a private matter.<end>
+
+=>a22
+It's a private matter.<end>
+
+=>q23_original
+What kind of private matter?<end>
+
+=>q23
+What kind of private matter?<end>
+
+=>a24_original
+It's very personal.<end>
+
+=>a24
+It's very personal.<end>
+
+=>q25_original
+How long will you be out?<end>
+
+=>q25
+How long will you be out?<end>
+
+=>a26_original
+I'll be back quickly.<end>
+
+=>a26
+I'll be back quickly.<end>
+
+=>q27_original
+Everything you said has been noted. <end>
+
+=>q27
+Everything you said has been noted. <end>
+
+=>a28_original
+Not soon, that's for sure.<end>
+
+=>a28
+Not soon, that's for sure.<end>
+
+=>a29_original
+I have no idea.<end>
+
+=>a29
+I have no idea.<end>
+
+=>a30_original
+I need to meet someone.<end>
+
+=>a30
+I need to meet someone.<end>
+
+=>a31_original
+To roam South Underrail.<end>
+
+=>a31
+To roam South Underrail.<end>
+
+=>a32_original
+I need to visit my settlement.<end>
+
+=>a32
+I need to visit my settlement.<end>
+
+=>a33_original
+Nothing important, I'm just going to the courtyard.<end>
+
+=>a33
+Nothing important, I'm just going to the courtyard.<end>
+
+=>q34_original
+What for?<end>
+
+=>q34
+What for?<end>
+
+=>a35_original
+Just to stretch my legs.<end>
+
+=>a35
+Just to stretch my legs.<end>
+
+=>a36_original
+To talk to some of the people out front.<end>
+
+=>a36
+To talk to some of the people out front.<end>
+
+=>a37_original
+Could you just let me go without all these questions?<end>
+
+=>a37
+Could you just let me go without all these questions?<end>
+
+=>q38_original
+Please answer my question, $(#brother/sister); I'm just following the rules.<end>
+
+=>q38
+Please answer my question, $(#brother/sister); I'm just following the rules.<end>
+
+=>a39_original
+I would like to ask you a few questions.<end>
+
+=>a39
+I would like to ask you a few questions.<end>
+
+=>q40_original
+Come into my office then, $(#brother/sister).<end>
+
+=>q40
+Come into my office then, $(#brother/sister).<end>
+
+=>a41_original
+On my way, brother.<end>
+
+=>a41
+On my way, brother.<end>
+
+=>a42_original
+Okay.<end>
+
+=>a42
+Okay.<end>
+
+=>a43_original
+I changed my mind, I don't need anything.<end>
+
+=>a43
+I changed my mind, I don't need anything.<end>
+
+=>q44_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q44
+Tchort guide you, $(#brother/sister).<end>
+

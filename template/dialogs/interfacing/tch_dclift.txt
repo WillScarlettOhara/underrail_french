@@ -1,0 +1,30 @@
+=>q1_original
+::The tunnel beyond leads back to the Deep Caverns.::<end>
+
+=>q1
+::The tunnel beyond leads back to the Deep Caverns.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Crawl through to the other side.::<end>
+
+=>a3
+::Crawl through to the other side.::<end>
+
+=>a4_original
+::Do nothing.::<end>
+
+=>a4
+::Do nothing.::<end>
+
+=>q5_original
+::Luckily the elevator got sabotaged while close to an auxiliary tunnel. There's no telling into what sort of danger it might lead you. You've been descending for quite a while now and you're sure you're close to Deep Caverns.::<end>
+
+=>q5
+::Luckily the elevator got sabotaged while close to an auxiliary tunnel. There's no telling into what sort of danger it might lead you. You've been descending for quite a while now and you're sure you're close to Deep Caverns.::<end>
+

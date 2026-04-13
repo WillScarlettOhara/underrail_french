@@ -1,0 +1,30 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+This is private property. Please leave.<end>
+
+=>q2
+This is private property. Please leave.<end>
+
+=>q3_original
+Excuse me, but what are you doing here?<end>
+
+=>q3
+Excuse me, but what are you doing here?<end>
+
+=>q4_original
+If you're here to trade, go speak with my husband downstairs.<end>
+
+=>q4
+If you're here to trade, go speak with my husband downstairs.<end>
+
+=>q5_original
+Who let you in here?<end>
+
+=>q5
+Who let you in here?<end>
+

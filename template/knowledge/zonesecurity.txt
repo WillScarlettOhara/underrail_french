@@ -1,0 +1,21 @@
+::Uncontrolled
+- Setting traps or planting explosives near other characters might provoke them
+- Setting traps or planting explosives out of sight cannot be traced to you
+
+::PartiallyControlled
+- Setting traps or planting explosives near other characters might provoke them
+- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile
+
+::Controlled
+- Setting traps or planting explosives near other characters might provoke them
+- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile
+- If members of certain factions discover traps or explosives planted by you they will automatically track it back to you and will turn hostile
+
+::CameraFootage
+If you are spotted by the cameras in this zone, you might later trigger hostilities from certain factions if the footage is not promptly erased.
+
+::LeaveNoWitnesses
+If you trigger hostilities with characters in this zone and leave the zone before disposing of the witnesses, the hostilities may propagate to the entire faction and even allied factions.
+
+::SavingDisabled
+You cannot save the game while in this zone.

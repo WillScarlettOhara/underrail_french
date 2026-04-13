@@ -1,0 +1,458 @@
+::MainMenuTheme.Default
+Default
+
+::MainMenuTheme.Original
+Original
+
+::MainMenuTheme.Expedition
+Expedition
+
+::MainMenuTheme.HeavyDuty
+Heavy Duty
+
+::UiSize.Auto
+Auto
+
+::UiSize.Classic
+Classic
+
+::UiSize.Small
+Small
+
+::UiSize.Large
+Large
+
+::UiSize.Huge
+Huge
+
+::InterfaceElementSize2.Auto
+Auto
+
+::InterfaceElementSize2.Small
+Small
+
+::InterfaceElementSize2.Large
+Large
+
+::InterfaceElementSize2.ExtraLarge
+Extra Large
+
+::InterfaceElementSize2.Huge
+Huge
+
+::AutoSelectOption.Never
+Never
+
+::AutoSelectOption.NoneSelected
+None Selected
+
+::AutoSelectOption.Always
+Always
+
+::OutlinesOption.Never
+Never
+
+::OutlinesOption.HighlightsOnly
+Highlights Only
+
+::OutlinesOption.AlwaysInCombat
+Always In Combat
+
+::ScrollingCombatTextOptions.Mandatory
+Mandatory
+
+::ScrollingCombatTextOptions.Damage
+Damage
+
+::ScrollingCombatTextOptions.PeriodicDamage
+Periodic Damage
+
+::ScrollingCombatTextOptions.Healing
+Healing
+
+::ScrollingCombatTextOptions.ShieldGain
+Shield Gain
+
+::ScrollingCombatTextOptions.ShieldLoss
+Shield Loss
+
+::ScrollingCombatTextOptions.PsiGain
+Psi Gain
+
+::ScrollingCombatTextOptions.PsiLoss
+Psi Loss
+
+::ScrollingCombatTextOptions.Buffs
+Buffs
+
+::ScrollingCombatTextOptions.Debuffs
+Debuffs
+
+::ScrollingCombatTextOptions.ResistsSImmunities
+Resists/Immunities
+
+::ScrollingCombatTextOptions.ApCarryover
+Ap Carryover
+
+::ScrollingCombatTextOptions.SpecialActions
+Special Actions
+
+::ScrollingCombatTextOptions.Initiative
+Initiative
+
+::ScrollingCombatTextOptions.All
+All
+
+::Hotkey.HelpScreen
+Help Screen
+
+::Hotkey.QuickSave
+Quick Save
+
+::Hotkey.QuickLoad
+Quick Load
+
+::Hotkey.ToggleHUD
+Toggle HUD
+
+::Hotkey.ActionButton1
+Action Button 1
+
+::Hotkey.ActionButton2
+Action Button 2
+
+::Hotkey.ActionButton3
+Action Button 3
+
+::Hotkey.ActionButton4
+Action Button 4
+
+::Hotkey.ActionButton5
+Action Button 5
+
+::Hotkey.ActionButton6
+Action Button 6
+
+::Hotkey.ActionButton7
+Action Button 7
+
+::Hotkey.ActionButton8
+Action Button 8
+
+::Hotkey.ActionButton9
+Action Button 9
+
+::Hotkey.QuickButton1
+Quick Button 1
+
+::Hotkey.QuickButton2
+Quick Button 2
+
+::Hotkey.QuickButton3
+Quick Button 3
+
+::Hotkey.QuickButton4
+Quick Button 4
+
+::Hotkey.QuickButton5
+Quick Button 5
+
+::Hotkey.QuickButton6
+Quick Button 6
+
+::Hotkey.SwapWeapon
+Swap Weapon
+
+::Hotkey.ReloadCurrentWeapon
+Reload Current Weapon
+
+::Hotkey.ToggleShield
+Toggle Shield
+
+::Hotkey.RechargeShield
+Recharge Shield
+
+::Hotkey.EndTurn
+End Turn
+
+::Hotkey.EndCombat
+End Combat
+
+::Hotkey.SpeedUp
+Speed Up
+
+::Hotkey.SlowDown
+Slow Down
+
+::Hotkey.Highlight
+Highlight
+
+::Hotkey.ReverseHighlight
+Reverse Highlight
+
+::Hotkey.ToggleFollowPlayer
+Toggle Follow Player
+
+::Hotkey.QuickInvoker
+Quick Invoker
+
+::Hotkey.CombatStatsOverview
+Combat Stats Overview
+
+::Hotkey.CharacterSheet
+Character Sheet
+
+::Hotkey.CraftingWindow
+Crafting Window
+
+::Hotkey.Inventory
+Inventory
+
+::Hotkey.Notes
+Notes
+
+::Hotkey.OdditiesWindow
+Oddities Window
+
+::Hotkey.VehicleWindow
+Vehicle Window
+
+::Hotkey.GlobalMapWindow
+Global Map Window
+
+::Hotkey.Psi
+Psi
+
+::Hotkey.TakeAll
+Take All
+
+::Hotkey.ScrollUp
+Scroll Up
+
+::Hotkey.ScrollDown
+Scroll Down
+
+::Hotkey.ScrollLeft
+Scroll Left
+
+::Hotkey.ScrollRight
+Scroll Right
+
+::BaseAbilityEnum.Strength
+Strength
+
+::BaseAbilityEnum.Dexterity
+Dexterity
+
+::BaseAbilityEnum.Agility
+Agility
+
+::BaseAbilityEnum.Constitution
+Constitution
+
+::BaseAbilityEnum.Perception
+Perception
+
+::BaseAbilityEnum.Will
+Will
+
+::BaseAbilityEnum.Intelligence
+Intelligence
+
+::SkillEnum.Guns
+Guns
+
+::SkillEnum.Throwing
+Throwing
+
+::SkillEnum.Crossbows
+Crossbows
+
+::SkillEnum.Melee
+Melee
+
+::SkillEnum.HeavyGuns
+HeavyGuns
+
+::SkillEnum.Heavy Guns
+Heavy Guns
+
+::SkillEnum.Dodge
+Dodge
+
+::SkillEnum.Evasion
+Evasion
+
+::SkillEnum.Stealth
+Stealth
+
+::SkillEnum.Hacking
+Hacking
+
+::SkillEnum.Lockpicking
+Lockpicking
+
+::SkillEnum.Pickpocketing
+Pickpocketing
+
+::SkillEnum.Traps
+Traps
+
+::SkillEnum.Mechanics
+Mechanics
+
+::SkillEnum.Electronics
+Electronics
+
+::SkillEnum.Chemistry
+Chemistry
+
+::SkillEnum.Biology
+Biology
+
+::SkillEnum.Tailoring
+Tailoring
+
+::SkillEnum.ThoughtControl
+Thought Control
+
+::SkillEnum.Thought Control
+Thought Control
+
+::SkillEnum.Psychokinesis
+Psychokinesis
+
+::SkillEnum.Metathermics
+Metathermics
+
+::SkillEnum.TemporalManipulation
+Temporal Manipulation
+
+::SkillEnum.Temporal Manipulation
+Temporal Manipulation
+
+::SkillEnum.Persuasion
+Persuasion
+
+::SkillEnum.Intimidation
+Intimidation
+
+::SkillEnum.Mercantile
+Mercantile
+
+::SkillCategory.Offense
+Offense
+
+::SkillCategory.Defense
+Defense
+
+::SkillCategory.Subterfuge
+Subterfuge
+
+::SkillCategory.Technology
+Technology
+
+::SkillCategory.Psi
+Psi
+
+::SkillCategory.Social
+Social
+
+::TimelapseShader.Legacy
+Legacy
+
+::TimelapseShader.Advanced
+Advanced
+
+::OuroborosDisplayMode.Windowed
+Windowed
+
+::OuroborosDisplayMode.BorderlessWindowed
+Borderless Windowed
+
+::OuroborosDisplayMode.Fullscreen
+Fullscreen
+
+::GameDifficulty.Easy
+Beginner
+
+::GameDifficulty.Normal
+Veteran
+
+::GameDifficulty.Hard
+Expert
+
+::GameDifficulty.Dominating
+Dominating
+
+::GameDifficulty.Custom
+Custom
+
+::DamageType.Mechanical
+Mechanical
+
+::DamageType.Heat
+Heat
+
+::DamageType.Cold
+Cold
+
+::DamageType.Electricity
+Electricity
+
+::DamageType.Acid
+Acid
+
+::DamageType.Energy
+Energy
+
+::DamageType.Bio
+Bio
+
+::ImpactSpeed.VeryLow
+Very Low
+
+::ImpactSpeed.Low
+Low
+
+::ImpactSpeed.Medium
+Medium
+
+::ImpactSpeed.High
+High
+
+::ImpactSpeed.VeryHigh
+Very High
+
+::PsiSchool.PsiAbility
+Psi ability
+
+::PsiSchool.Psionic
+Psionic
+
+::PsiSchool.ThoughtControl
+Thought Control
+
+::PsiSchool.Thought Control
+Thought Control
+
+::PsiSchool.Psychokinesis
+Psychokinesis
+
+::PsiSchool.Metathermics
+Metathermics
+
+::PsiSchool.TemporalManipulation
+Temporal Manipulation
+
+::PsiSchool.Temporal Manipulation
+Temporal Manipulation
+
+::ItemRepairCategory.Mechanical
+Mechanical
+
+::ItemRepairCategory.Fabric
+Fabric
+
+::ItemRepairCategory.Electronic
+Electronic

@@ -1,0 +1,92 @@
+=>q1_original
+::Frightened but determined the man confronts you.::
+
+Damn you, $(#man/woman)! You... you killed all my friends! I never wanted to do this, but it's the only way now... I can't let the Protectorate win! The Free Drones will fight on!<end>
+
+=>q1
+::Frightened but determined the man confronts you.::
+
+Damn you, $(#man/woman)! You... you killed all my friends! I never wanted to do this, but it's the only way now... I can't let the Protectorate win! The Free Drones will fight on!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Why are you doing this? Are you this willing to blow yourself up only to deprive the Protectorate of some supplies?<end>
+
+=>a3
+Why are you doing this? Are you this willing to blow yourself up only to deprive the Protectorate of some supplies?<end>
+
+=>q4_original
+I'm a Free Drone, that's who I am! And I am eager to give my life to make *sure* those Protectorate cans are driven out of this world. They have a powerful army, they have their mighty Dreadnoughts, but we have the courage and the will to resist them... and their devious manipulations.<end>
+
+=>q4
+I'm a Free Drone, that's who I am! And I am eager to give my life to make *sure* those Protectorate cans are driven out of this world. They have a powerful army, they have their mighty Dreadnoughts, but we have the courage and the will to resist them... and their devious manipulations.<end>
+
+=>q5_original
+Something I see you couldn't.<end>
+
+=>q5
+Something I see you couldn't.<end>
+
+=>a6_original
+::[Intimidate]:: You are not dying today. Either defuse the bomb and walk a free man, or I'll make sure I drag you far away from the blast and into the hands of men who will gladly make the rest of your life nothing but pure, unadulterated agony.<end>
+
+=>a6
+::[Intimidate]:: You are not dying today. Either defuse the bomb and walk a free man, or I'll make sure I drag you far away from the blast and into the hands of men who will gladly make the rest of your life nothing but pure, unadulterated agony.<end>
+
+=>q7_original
+::Your message seems to him as clear as his previous determination to die in a blaze of glory, forcing him to reconsider it. He kneels next to the bomb and defuses it within a few seconds. The ticking stops, but not the beating of his heart.:: <end>
+
+=>q7
+::Your message seems to him as clear as his previous determination to die in a blaze of glory, forcing him to reconsider it. He kneels next to the bomb and defuses it within a few seconds. The ticking stops, but not the beating of his heart.:: <end>
+
+=>q8_original
+::As he faces you once again, he points to the now-useless object.::
+
+There. You won!<end>
+
+=>q8
+::As he faces you once again, he points to the now-useless object.::
+
+There. You won!<end>
+
+=>a9_original
+And you get to fight another day. Scram, or you'll end up like the rest of your friends.<end>
+
+=>a9
+And you get to fight another day. Scram, or you'll end up like the rest of your friends.<end>
+
+=>a10_original
+And you have lost. ::Attack!::<end>
+
+=>a10
+And you have lost. ::Attack!::<end>
+
+=>q11_original
+Then so be it! I will endure everything the Protectorate can throw at me.<end>
+
+=>q11
+Then so be it! I will endure everything the Protectorate can throw at me.<end>
+
+=>a12_original
+Stop wasting my time. Move aside!<end>
+
+=>a12
+Stop wasting my time. Move aside!<end>
+
+=>q13_original
+Make me! Death to Protectorate!<end>
+
+=>q13
+Make me! Death to Protectorate!<end>
+
+=>a14_original
+::Fight!::<end>
+
+=>a14
+::Fight!::<end>
+

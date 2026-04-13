@@ -1,0 +1,456 @@
+=>q1_original
+::As you approach Constantine you hear an unfamiliar cracking sound coming from outside, lasting but an instant. While certainly not deafening, it is loud enough to startle you. One moment later, another sound is heard - that of a dead body tumbling down the outside wall, after which everything becomes quiet again. Constantine simply laughs at the whole event.::
+
+Take that!<end>
+
+=>q1
+::As you approach Constantine you hear an unfamiliar cracking sound coming from outside, lasting but an instant. While certainly not deafening, it is loud enough to startle you. One moment later, another sound is heard - that of a dead body tumbling down the outside wall, after which everything becomes quiet again. Constantine simply laughs at the whole event.::
+
+Take that!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have in store. ::Barter::<end>
+
+=>a3
+Show me what you have in store. ::Barter::<end>
+
+=>a4_original
+::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
+
+=>a4
+::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
+
+=>q5_original
+What makes you think I have the "good stuff"?<end>
+
+=>q5
+What makes you think I have the "good stuff"?<end>
+
+=>a6_original
+Being observant is a requirement here if I'm not mistaken.<end>
+
+=>a6
+Being observant is a requirement here if I'm not mistaken.<end>
+
+=>q7_original
+Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
+
+=>q7
+Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
+
+=>a8_original
+::Barter.::<end>
+
+=>a8
+::Barter.::<end>
+
+=>q9_original
+No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
+
+=>q9
+No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
+
+=>a10_original
+How and why did you join Oculus?<end>
+
+=>a10
+How and why did you join Oculus?<end>
+
+=>q11_original
+Well, we all go through a similar phase. You do small jobs, then, if they like you, they give you bigger jobs, those that require more of your skills. You've been through it all, you know it.<end>
+
+=>q11
+Well, we all go through a similar phase. You do small jobs, then, if they like you, they give you bigger jobs, those that require more of your skills. You've been through it all, you know it.<end>
+
+=>q12_original
+As to *why* I joined...
+
+::He raises his voice.:: So that I could stand around all day in this cramped bloody, freaking bloody pyramid bottom 2x2 platform... Arrrgh!<end>
+
+=>q12
+As to *why* I joined...
+
+::He raises his voice.:: So that I could stand around all day in this cramped bloody, freaking bloody pyramid bottom 2x2 platform... Arrrgh!<end>
+
+=>q13_original
+::Clears throat.:: I apologize. Um... It was a pursuit of... work. Work brings money, money can be used to buy food and equipment. So, now I'm here. Selling... equipment...
+
+For money!<end>
+
+=>q13
+::Clears throat.:: I apologize. Um... It was a pursuit of... work. Work brings money, money can be used to buy food and equipment. So, now I'm here. Selling... equipment...
+
+For money!<end>
+
+=>a14_original
+So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cramped in here?<end>
+
+=>a14
+So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cramped in here?<end>
+
+=>q15_original
+Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
+
+=>q15
+Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
+
+=>q16_original
+::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
+
+=>q16
+::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
+
+=>a17_original
+What things?<end>
+
+=>a17
+What things?<end>
+
+=>q18_original
+Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q18
+Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q19_original
+But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
+
+=>q19
+But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
+
+=>a20_original
+If you hear strange things, then maybe it's time to lay off the brew.<end>
+
+=>a20
+If you hear strange things, then maybe it's time to lay off the brew.<end>
+
+=>q21_original
+::The moment he hears you uttering those words, his jaw clenches and the face slowly turns red. His piercing stare feels like you've been exposed to high-frequency radiation that's tearing through your tissue. He quickly calms down, slowly exhales and regains his natural color.::
+
+Khm, I hope you were joking... I don't drink.<end>
+
+=>q21
+::The moment he hears you uttering those words, his jaw clenches and the face slowly turns red. His piercing stare feels like you've been exposed to high-frequency radiation that's tearing through your tissue. He quickly calms down, slowly exhales and regains his natural color.::
+
+Khm, I hope you were joking... I don't drink.<end>
+
+=>q22_original
+I was talking about crawlers, not something I imagined, as you... *jokingly* implied. I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q22
+I was talking about crawlers, not something I imagined, as you... *jokingly* implied. I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>a23_original
+What is EDS?<end>
+
+=>a23
+What is EDS?<end>
+
+=>q24_original
+Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
+
+=>q24
+Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
+
+=>q25_original
+I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
+
+=>q25
+I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
+
+=>q26_original
+'Cause I hate those bastards!<end>
+
+=>q26
+'Cause I hate those bastards!<end>
+
+=>a27_original
+You mentioned Lunatics, who are they?<end>
+
+=>a27
+You mentioned Lunatics, who are they?<end>
+
+=>q28_original
+You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
+
+=>q28
+You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
+
+=>a29_original
+Do they bother you often?<end>
+
+=>a29
+Do they bother you often?<end>
+
+=>q30_original
+Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
+
+=>q30
+Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
+
+=>q31_original
+"WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
+
+They just... have to give it another go! And another, and another...<end>
+
+=>q31
+"WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
+
+They just... have to give it another go! And another, and another...<end>
+
+=>q32_original
+Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
+
+=>q32
+Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
+
+=>a33_original
+You still didn't tell me who these Lunatics actually are.<end>
+
+=>a33
+You still didn't tell me who these Lunatics actually are.<end>
+
+=>q34_original
+Lunatics are... hmmm, think of Ironheads and Lurkers. A bandit gang that is similar in size, but composing mostly of psionics. Powerful psionics, while we're at it, but the trade-off is that they are insane and unpredictable.<end>
+
+=>q34
+Lunatics are... hmmm, think of Ironheads and Lurkers. A bandit gang that is similar in size, but composing mostly of psionics. Powerful psionics, while we're at it, but the trade-off is that they are insane and unpredictable.<end>
+
+=>q35_original
+That is why the morons try to jump all over the bloody Oculus and disturb us! What a bunch of thick-headed cretins! Arrrgh!<end>
+
+=>q35
+That is why the morons try to jump all over the bloody Oculus and disturb us! What a bunch of thick-headed cretins! Arrrgh!<end>
+
+=>a36_original
+Let's discuss something else.<end>
+
+=>a36
+Let's discuss something else.<end>
+
+=>q37_original
+Sure, but discuss what?<end>
+
+=>q37
+Sure, but discuss what?<end>
+
+=>a38_original
+Did they ever make it in?<end>
+
+=>a38
+Did they ever make it in?<end>
+
+=>q39_original
+Never. The EDS is there to prevent any unwanted entity from entering the Oculus. Lunatics are unwanted, therefore, they end up as ashes scattered all over the cave floor.<end>
+
+=>q39
+Never. The EDS is there to prevent any unwanted entity from entering the Oculus. Lunatics are unwanted, therefore, they end up as ashes scattered all over the cave floor.<end>
+
+=>q40_original
+Personally, I've grown sick of those bloody idiots. It warms my heart to hear them die.<end>
+
+=>q40
+Personally, I've grown sick of those bloody idiots. It warms my heart to hear them die.<end>
+
+=>a41_original
+What can you tell me about Oculus?<end>
+
+=>a41
+What can you tell me about Oculus?<end>
+
+=>q42_original
+Oculus? You came down here to ask me that? You expect me... ME to answer your stupid questions!? "What can you tell me about Oculus?" Go ask Azif, he brought you here anyway...<end>
+
+=>q42
+Oculus? You came down here to ask me that? You expect me... ME to answer your stupid questions!? "What can you tell me about Oculus?" Go ask Azif, he brought you here anyway...<end>
+
+=>q43_original
+::He takes a deep breath.:: I'm sorry, I guess I am a bit nervous.<end>
+
+=>q43
+::He takes a deep breath.:: I'm sorry, I guess I am a bit nervous.<end>
+
+=>a44_original
+Who is that six-fingered cyborg?<end>
+
+=>a44
+Who is that six-fingered cyborg?<end>
+
+=>q45_original
+Six? That's what we call him. Six. Because of his fingers. Six. That's how many there are. Um, yes...<end>
+
+=>q45
+Six? That's what we call him. Six. Because of his fingers. Six. That's how many there are. Um, yes...<end>
+
+=>q46_original
+In any case, the cyborg is not the most... approachable type, so to say, so keep that in mind if you see him around here again. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q46
+In any case, the cyborg is not the most... approachable type, so to say, so keep that in mind if you see him around here again. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q47_original
+Still, you might try asking Azif about him, but I wouldn't put my charons on getting an answer.<end>
+
+=>q47
+Still, you might try asking Azif about him, but I wouldn't put my charons on getting an answer.<end>
+
+=>q48_original
+In any case, I suggest you do not bother the cyborg, no matter how intriguing he might appear. He's not the most... approachable type, so to say. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q48
+In any case, I suggest you do not bother the cyborg, no matter how intriguing he might appear. He's not the most... approachable type, so to say. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>a49_original
+Can I ask you something about the people in the Oculus?<end>
+
+=>a49
+Can I ask you something about the people in the Oculus?<end>
+
+=>q50_original
+Whom do you want to know about, $(context.player.Name)?<end>
+
+=>q50
+Whom do you want to know about, $(context.player.Name)?<end>
+
+=>a51_original
+Abram.<end>
+
+=>a51
+Abram.<end>
+
+=>q52_original
+Why him? Why did you ask about him first? It could've been any-bloody-else but you had to ask about him! What the hell is wrong with you!? Huh?<end>
+
+=>q52
+Why him? Why did you ask about him first? It could've been any-bloody-else but you had to ask about him! What the hell is wrong with you!? Huh?<end>
+
+=>q53_original
+This is so damn tiring, always him! It's always bloody him!<end>
+
+=>q53
+This is so damn tiring, always him! It's always bloody him!<end>
+
+=>q54_original
+::He calms down.:: I apologize for this. I really do. Um... can we not discuss other people in the future? Thank you, um, thank you.<end>
+
+=>q54
+::He calms down.:: I apologize for this. I really do. Um... can we not discuss other people in the future? Thank you, um, thank you.<end>
+
+=>a55_original
+Jack Quicksilver.<end>
+
+=>a55
+Jack Quicksilver.<end>
+
+=>a56_original
+Azif.<end>
+
+=>a56
+Azif.<end>
+
+=>a57_original
+Twitch.<end>
+
+=>a57
+Twitch.<end>
+
+=>a58_original
+Phyllis.<end>
+
+=>a58
+Phyllis.<end>
+
+=>q59_original
+Why her? Why did you ask about her first? It could've been any-bloody-else but you had to ask about her! What the hell is wrong with you!? Huh?<end>
+
+=>q59
+Why her? Why did you ask about her first? It could've been any-bloody-else but you had to ask about her! What the hell is wrong with you!? Huh?<end>
+
+=>q60_original
+This is so damn tiring, always her! It's always bloody her!<end>
+
+=>q60
+This is so damn tiring, always her! It's always bloody her!<end>
+
+=>a61_original
+Actually, no one. I had other questions.<end>
+
+=>a61
+Actually, no one. I had other questions.<end>
+
+=>q62_original
+Not a problem. I'm not going anywhere.<end>
+
+=>q62
+Not a problem. I'm not going anywhere.<end>
+
+=>a63_original
+What can you tell me about those robed oculites? <end>
+
+=>a63
+What can you tell me about those robed oculites? <end>
+
+=>q64_original
+We call them Whisperers. They are quite an interesting breed, I must say. They all belong to a single clan of psi-warriors, who call themselves Khazum Morakht. A very rough sounding word, I know. But believe me, it fits them well.<end>
+
+=>q64
+We call them Whisperers. They are quite an interesting breed, I must say. They all belong to a single clan of psi-warriors, who call themselves Khazum Morakht. A very rough sounding word, I know. But believe me, it fits them well.<end>
+
+=>q65_original
+They were here long before I arrived. I think they are all from North Underrail. You will find them throughtout Oculus, standing still, observing what happens around them, assessing everyone and everything. You can't initiate a conversation with them, trust me, I've tried... Especially with that one in the corner of this platform. ::Mutters something to himself.::<end>
+
+=>q65
+They were here long before I arrived. I think they are all from North Underrail. You will find them throughtout Oculus, standing still, observing what happens around them, assessing everyone and everything. You can't initiate a conversation with them, trust me, I've tried... Especially with that one in the corner of this platform. ::Mutters something to himself.::<end>
+
+=>a66_original
+Catch you later.<end>
+
+=>a66
+Catch you later.<end>
+
+=>q67_original
+::You come up to a tall man with a mildly irritated look on his face. Despite that, his tone of voice is generally welcoming and doesn't imply that your presence bothers him.::
+
+And who do my eyes see? A newcomer. Welcome, $(context.player.Name), to a place that doesn't exist... to most people. I'm Constantine, the Oculus quartermaster.<end>
+
+=>q67
+::You come up to a tall man with a mildly irritated look on his face. Despite that, his tone of voice is generally welcoming and doesn't imply that your presence bothers him.::
+
+And who do my eyes see? A newcomer. Welcome, $(context.player.Name), to a place that doesn't exist... to most people. I'm Constantine, the Oculus quartermaster.<end>
+
+=>q68_original
+Hey, I've got some new gear for you.<end>
+
+=>q68
+Hey, I've got some new gear for you.<end>
+
+=>a69_original
+Show it to me. ::Barter.::<end>
+
+=>a69
+Show it to me. ::Barter.::<end>
+
+=>a70_original
+Good. But let me ask you something first.<end>
+
+=>a70
+Good. But let me ask you something first.<end>
+
+=>q71_original
+I'm listening.<end>
+
+=>q71
+I'm listening.<end>
+
+=>q72_original
+What do you need, $(context.player.Name)?<end>
+
+=>q72
+What do you need, $(context.player.Name)?<end>
+

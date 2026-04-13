@@ -1,0 +1,258 @@
+=>q1_original
+::All boots come to a halt at the same time, and the room becomes uncomfortably silent. Both the colonel and the consul exhibit surprise and disbelief at this unexpected visit.
+
+The party stands still for a moment, at attention. The middle of the three, a man of average height and above-average constitution takes one step forward and salutes. The slender, petite female soldier as well as the towering boulder remain motionless. Their sinister masks reveal nothing to the eye, only to the imagination.::<end>
+
+=>q1
+::All boots come to a halt at the same time, and the room becomes uncomfortably silent. Both the colonel and the consul exhibit surprise and disbelief at this unexpected visit.
+
+The party stands still for a moment, at attention. The middle of the three, a man of average height and above-average constitution takes one step forward and salutes. The slender, petite female soldier as well as the towering boulder remain motionless. Their sinister masks reveal nothing to the eye, only to the imagination.::<end>
+
+=>q2_original
+::Colonel Cathcart's expression turns serious as he salutes back; meanwhile, Consul Oliver maintains his silence, seeming as if he wishes he could somehow become fully transparent in an attempt to evade the trio's gaze.
+
+At last, the silence is broken by the one you presume is the leader of the group.::<end>
+
+=>q2
+::Colonel Cathcart's expression turns serious as he salutes back; meanwhile, Consul Oliver maintains his silence, seeming as if he wishes he could somehow become fully transparent in an attempt to evade the trio's gaze.
+
+At last, the silence is broken by the one you presume is the leader of the group.::<end>
+
+=>q3_original
+Colonel, my old friend. Long time no see. 
+
+::He speaks in a comfortable and relaxed manner, almost playful in character, but with a hint of biting arrogance.::<end>
+
+=>q3
+Colonel, my old friend. Long time no see. 
+
+::He speaks in a comfortable and relaxed manner, almost playful in character, but with a hint of biting arrogance.::<end>
+
+=>q4_original
+Captain Mareth, I see you still maintain your tradition of stomping through hallways and barging in uninvited, carelessly as always. Would you explain what is the meaning of this?<end>
+
+=>q4
+Captain Mareth, I see you still maintain your tradition of stomping through hallways and barging in uninvited, carelessly as always. Would you explain what is the meaning of this?<end>
+
+=>q5_original
+::While the mask obviously conceals his lips, a change in his voice's timbre reveals that he is, in fact, smiling.::
+
+I'm sorry if I've offended you, Colonel. Old habits are hard to break. Evidently, I see you too haven't changed, and neither has Kerry. You bark, yet never bite... while Kerry, he doesn't even squeal.<end>
+
+=>q5
+::While the mask obviously conceals his lips, a change in his voice's timbre reveals that he is, in fact, smiling.::
+
+I'm sorry if I've offended you, Colonel. Old habits are hard to break. Evidently, I see you too haven't changed, and neither has Kerry. You bark, yet never bite... while Kerry, he doesn't even squeal.<end>
+
+=>q6_original
+Consul Oliver for you, Captain! Just so you know, I find your behavior appalling and a clear--<end>
+
+=>q6
+Consul Oliver for you, Captain! Just so you know, I find your behavior appalling and a clear--<end>
+
+=>q7_original
+Yes, Kerry, we are all aware you were blessed with a lovely voice. But, please, use it only when you have something meaningful to say. I've already heard your... rants before, and they've gotten tiring.<end>
+
+=>q7
+Yes, Kerry, we are all aware you were blessed with a lovely voice. But, please, use it only when you have something meaningful to say. I've already heard your... rants before, and they've gotten tiring.<end>
+
+=>q8_original
+Kerry! ::She giggles.::
+
+::The woman hisses the consul's name. An irritating giggle which follows feels awfully similar to a pair of fangs piercing through your eardrums.::<end>
+
+=>q8
+Kerry! ::She giggles.::
+
+::The woman hisses the consul's name. An irritating giggle which follows feels awfully similar to a pair of fangs piercing through your eardrums.::<end>
+
+=>q9_original
+Enough of this.
+
+What is CAU doing here, Captain!? And how did you get past the Faceless?<end>
+
+=>q9
+Enough of this.
+
+What is CAU doing here, Captain!? And how did you get past the Faceless?<end>
+
+=>q10_original
+We have our ways, Colonel. The CAU is more than capable of avoiding those cybernetic mutts, or any other ratter the south has to offer. They were easy to avoid on our way here. Too easy, even. As for why we're here...<end>
+
+=>q10
+We have our ways, Colonel. The CAU is more than capable of avoiding those cybernetic mutts, or any other ratter the south has to offer. They were easy to avoid on our way here. Too easy, even. As for why we're here...<end>
+
+=>q11_original
+The Protectorate has been bitten, bitten hard by the Free Drones. Who allowed it? You allowed it, Colonel. You failed.
+
+That's why the High Command sent us to clean up *your* mess.<end>
+
+=>q11
+The Protectorate has been bitten, bitten hard by the Free Drones. Who allowed it? You allowed it, Colonel. You failed.
+
+That's why the High Command sent us to clean up *your* mess.<end>
+
+=>q12_original
+Have you forgotten who you're talking to, Captain? You're walking the tracks, now. As for Epione Lab, the attack--<end>
+
+=>q12
+Have you forgotten who you're talking to, Captain? You're walking the tracks, now. As for Epione Lab, the attack--<end>
+
+=>q13_original
+::Mareth interrupts him.:: I know what happened, Colonel, spare me. You relied too heavily on your little snitch to warn you, yet he proved completely unreliable. Maybe he's dead, maybe he just betrayed you, it matters not. I am disappointed, Colonel. A man of your caliber... I never thought you'd ever make such a rookie mistake. You should have flushed the Free Drones out of their lair as soon as you confirmed its location.
+
+Thankfully, the Chemical Assault Unit is here to end this charade - to end all Free Drones presence in South Underrail.<end>
+
+=>q13
+::Mareth interrupts him.:: I know what happened, Colonel, spare me. You relied too heavily on your little snitch to warn you, yet he proved completely unreliable. Maybe he's dead, maybe he just betrayed you, it matters not. I am disappointed, Colonel. A man of your caliber... I never thought you'd ever make such a rookie mistake. You should have flushed the Free Drones out of their lair as soon as you confirmed its location.
+
+Thankfully, the Chemical Assault Unit is here to end this charade - to end all Free Drones presence in South Underrail.<end>
+
+=>q14_original
+::Colonel Cathcart exchanges a glance with the consul; just a glance, no spoken word. Then he turns back to Captain Mareth.::
+
+No. I will not tolerate this. Fort Apogee is under my command, not yours. I will not allow you... ::He looks across the three of them.:: psychopaths to use *my* base as staging area for your operations. Yes, the Free Drones struck a horrible blow to the Protectorate, and I accept my mistake. And it is I who will rectify it, not you; your methods, they are not acceptable. Not to me.
+
+I will no longer stand for you trying to undermine my authority, Captain. Am I clear?<end>
+
+=>q14
+::Colonel Cathcart exchanges a glance with the consul; just a glance, no spoken word. Then he turns back to Captain Mareth.::
+
+No. I will not tolerate this. Fort Apogee is under my command, not yours. I will not allow you... ::He looks across the three of them.:: psychopaths to use *my* base as staging area for your operations. Yes, the Free Drones struck a horrible blow to the Protectorate, and I accept my mistake. And it is I who will rectify it, not you; your methods, they are not acceptable. Not to me.
+
+I will no longer stand for you trying to undermine my authority, Captain. Am I clear?<end>
+
+=>q15_original
+::Captain Mareth's voice drops in pitch and gains in intensity.::
+
+You have no authority anymore, Colonel. 
+
+If the HC and Lieutenant General... *Korn* ::He pauses.:: 
+
+...say CAU is in charge of this operation, then you better be quiet and stay out of our way. Sir.<end>
+
+=>q15
+::Captain Mareth's voice drops in pitch and gains in intensity.::
+
+You have no authority anymore, Colonel. 
+
+If the HC and Lieutenant General... *Korn* ::He pauses.:: 
+
+...say CAU is in charge of this operation, then you better be quiet and stay out of our way. Sir.<end>
+
+=>q16_original
+We have already devised a plan on how to proceed with the eradication of the Free Drones, Colonel; we already know the location of their lair - at least that snitch of yours wasn't completely useless - and we simply need to take care of a few more details before biting into and tearing apart the flesh of our enemy.
+
+::He looks around.::
+
+Why, I really like Kerry's office. We'll set up here.
+
+::Subsequently, he turns toward the female soldier.::
+
+Don't you agree?<end>
+
+=>q16
+We have already devised a plan on how to proceed with the eradication of the Free Drones, Colonel; we already know the location of their lair - at least that snitch of yours wasn't completely useless - and we simply need to take care of a few more details before biting into and tearing apart the flesh of our enemy.
+
+::He looks around.::
+
+Why, I really like Kerry's office. We'll set up here.
+
+::Subsequently, he turns toward the female soldier.::
+
+Don't you agree?<end>
+
+=>q17_original
+It's beautiful. ::She giggles.::<end>
+
+=>q17
+It's beautiful. ::She giggles.::<end>
+
+=>q18_original
+::You've been ignored during the entirety of this conversation. However, as soon as the exchange of pleasantries end, the spotlight turns to you.::
+
+Who are you?<end>
+
+=>q18
+::You've been ignored during the entirety of this conversation. However, as soon as the exchange of pleasantries end, the spotlight turns to you.::
+
+Who are you?<end>
+
+=>a19_original
+Corporal $(context.player.Name), sir.<end>
+
+=>a19
+Corporal $(context.player.Name), sir.<end>
+
+=>q20_original
+Ah, Corporal $(context.player.Name). Very nice. I've heard about you... You're local, southerner, right?<end>
+
+=>q20
+Ah, Corporal $(context.player.Name). Very nice. I've heard about you... You're local, southerner, right?<end>
+
+=>a21_original
+That is correct.<end>
+
+=>a21
+That is correct.<end>
+
+=>q22_original
+Colonel, I'll take this one. $(#He/She) seems to be the capable one here. I need someone who knows the region well; I haven't been to South Underrail in a few years, and as you know, Colonel, my busy schedule doesn't allow much free time for tourism.<end>
+
+=>q22
+Colonel, I'll take this one. $(#He/She) seems to be the capable one here. I need someone who knows the region well; I haven't been to South Underrail in a few years, and as you know, Colonel, my busy schedule doesn't allow much free time for tourism.<end>
+
+=>q23_original
+::The colonel is silent. On the inside he must be melting, but nothing of it shows on the outside. He knows his hands are tied now. After a delay, Captain Mareth continues.::
+
+You'll be under my command while CAU is in Fort Apogee, Corporal. With that said, I already have a task for you. See me when you're ready.<end>
+
+=>q23
+::The colonel is silent. On the inside he must be melting, but nothing of it shows on the outside. He knows his hands are tied now. After a delay, Captain Mareth continues.::
+
+You'll be under my command while CAU is in Fort Apogee, Corporal. With that said, I already have a task for you. See me when you're ready.<end>
+
+=>a24_original
+::End Dialog.::<end>
+
+=>a24
+::End Dialog.::<end>
+
+=>a25_original
+Straight from South Gate Station, sir.<end>
+
+=>a25
+Straight from South Gate Station, sir.<end>
+
+=>a26_original
+$(context.player.Name).<end>
+
+=>a26
+$(context.player.Name).<end>
+
+=>a27_original
+::Say nothing.::<end>
+
+=>a27
+::Say nothing.::<end>
+
+=>q28_original
+::He observes you briefly before continuing.:: Ah, you must be the colonel's errand $(#boy/girl). What was it...
+
+Corporal $(context.player.Name)! Very nice. I've heard about you... You're local, southerner, right?<end>
+
+=>q28
+::He observes you briefly before continuing.:: Ah, you must be the colonel's errand $(#boy/girl). What was it...
+
+Corporal $(context.player.Name)! Very nice. I've heard about you... You're local, southerner, right?<end>
+
+=>q29_original
+Enough of this.
+
+What is CAU doing here, Captain!?<end>
+
+=>q29
+Enough of this.
+
+What is CAU doing here, Captain!?<end>
+

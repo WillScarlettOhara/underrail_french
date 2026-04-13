@@ -1,0 +1,476 @@
+=>q1_original
+::You see a thin man soldering some components onto a copper-colored circuit board. He doesn't immediately notice you, which gives you a few moments to observe him: His dark hair is streaked with aluminum-gray strands, his wrinkles form ravines in his face and his hands are only steady when the soldering iron meets the board. Yet, some strange and subtle signs give you a feeling that this man is somehow younger than he appears, but you are unable to pinpoint exactly why.
+
+Your thoughts are interrupted when he notices you.::
+
+Oh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::<end>
+
+=>q1
+::You see a thin man soldering some components onto a copper-colored circuit board. He doesn't immediately notice you, which gives you a few moments to observe him: His dark hair is streaked with aluminum-gray strands, his wrinkles form ravines in his face and his hands are only steady when the soldering iron meets the board. Yet, some strange and subtle signs give you a feeling that this man is somehow younger than he appears, but you are unable to pinpoint exactly why.
+
+Your thoughts are interrupted when he notices you.::
+
+Oh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What've you got? ::Barter.::<end>
+
+=>a3
+What've you got? ::Barter.::<end>
+
+=>a4_original
+I need help fixing an electric arc furnace.<end>
+
+=>a4
+I need help fixing an electric arc furnace.<end>
+
+=>q5_original
+If it's an electrical problem then yes, I can help you. Where do you need me, exactly? ::He coughs.::<end>
+
+=>q5
+If it's an electrical problem then yes, I can help you. Where do you need me, exactly? ::He coughs.::<end>
+
+=>a6_original
+It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
+
+=>a6
+It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
+
+=>q7_original
+Hmm.<end>
+
+=>q7
+Hmm.<end>
+
+=>a8_original
+Hmm?<end>
+
+=>a8
+Hmm?<end>
+
+=>q9_original
+Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.<end>
+
+=>q9
+Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.<end>
+
+=>a10_original
+Bernard mentioned he thinks the problem lies with the electrode power regulation system.<end>
+
+=>a10
+Bernard mentioned he thinks the problem lies with the electrode power regulation system.<end>
+
+=>q11_original
+Mmmm... that is not going to be a simple fix, but if that is the issue, then yes, I can take care of it.<end>
+
+=>q11
+Mmmm... that is not going to be a simple fix, but if that is the issue, then yes, I can take care of it.<end>
+
+=>a12_original
+How much are you charging?<end>
+
+=>a12
+How much are you charging?<end>
+
+=>q13_original
+Well, I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>q13
+Well, I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+It's a deal. Here's five hundred. ::Give him 500 stygian coins.::<end>
+
+=>a15
+It's a deal. Here's five hundred. ::Give him 500 stygian coins.::<end>
+
+=>q16_original
+Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.<end>
+
+=>q16
+Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.<end>
+
+=>a17_original
+Right, catch you later.<end>
+
+=>a17
+Right, catch you later.<end>
+
+=>a18_original
+::[Mercantile]:: I can only give you four hundred charons. I know you said you won't go for less but... that's all I've got.<end>
+
+=>a18
+::[Mercantile]:: I can only give you four hundred charons. I know you said you won't go for less but... that's all I've got.<end>
+
+=>q19_original
+::His facial muscles begin dancing, mirroring his thought process by forming appropriate expressions. The one which finally settles is not the one of deprecation.::
+
+I must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.<end>
+
+=>q19
+::His facial muscles begin dancing, mirroring his thought process by forming appropriate expressions. The one which finally settles is not the one of deprecation.::
+
+I must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.<end>
+
+=>a20_original
+::Give him 400 stygian coins.::<end>
+
+=>a20
+::Give him 400 stygian coins.::<end>
+
+=>q21_original
+I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.<end>
+
+=>q21
+I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.<end>
+
+=>a22_original
+I need to think about it.<end>
+
+=>a22
+I need to think about it.<end>
+
+=>q23_original
+I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::<end>
+
+=>q23
+I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::<end>
+
+=>a24_original
+Money is not the issue, as long as you get the job done.<end>
+
+=>a24
+Money is not the issue, as long as you get the job done.<end>
+
+=>q25_original
+That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>q25
+That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>a26_original
+Is there a problem?<end>
+
+=>a26
+Is there a problem?<end>
+
+=>a27_original
+About that furnace...<end>
+
+=>a27
+About that furnace...<end>
+
+=>q28_original
+Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::<end>
+
+=>q28
+Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::<end>
+
+=>a29_original
+About that workbench...<end>
+
+=>a29
+About that workbench...<end>
+
+=>q30_original
+Yes?<end>
+
+=>q30
+Yes?<end>
+
+=>a31_original
+I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
+
+=>a31
+I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
+
+=>q32_original
+::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
+
+=>q32
+::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
+
+=>a33_original
+I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a33
+I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>q34_original
+::He nods.::<end>
+
+=>q34
+::He nods.::<end>
+
+=>a35_original
+::[Mercantile]:: That workbench seems like it has seen some heavy use in the past. I'll give you eight hundred for it. Deal?<end>
+
+=>a35
+::[Mercantile]:: That workbench seems like it has seen some heavy use in the past. I'll give you eight hundred for it. Deal?<end>
+
+=>q36_original
+::He pauses, but soon replies.:: Deal, friend. Eight hundred.<end>
+
+=>q36
+::He pauses, but soon replies.:: Deal, friend. Eight hundred.<end>
+
+=>a37_original
+Here you go. ::Give him 800 stygian coins.::<end>
+
+=>a37
+Here you go. ::Give him 800 stygian coins.::<end>
+
+=>q38_original
+::He shakes his head.:: No.<end>
+
+=>q38
+::He shakes his head.:: No.<end>
+
+=>a39_original
+Nothing. I had other questions.<end>
+
+=>a39
+Nothing. I had other questions.<end>
+
+=>a40_original
+I'm interested in buying that electronic workbench with all the integrated equipment.<end>
+
+=>a40
+I'm interested in buying that electronic workbench with all the integrated equipment.<end>
+
+=>q41_original
+This one? I'm using that... ::He coughs.:: I need it.<end>
+
+=>q41
+This one? I'm using that... ::He coughs.:: I need it.<end>
+
+=>a42_original
+Everything can be bought, you just have to name the price.<end>
+
+=>a42
+Everything can be bought, you just have to name the price.<end>
+
+=>q43_original
+::His stare becomes glued to the workbench as he considers your words. With each passing second, you become more and more sure that he is indeed going to name a price.::
+
+There are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.<end>
+
+=>q43
+::His stare becomes glued to the workbench as he considers your words. With each passing second, you become more and more sure that he is indeed going to name a price.::
+
+There are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.<end>
+
+=>a44_original
+Do you know where I can find one like that?<end>
+
+=>a44
+Do you know where I can find one like that?<end>
+
+=>q45_original
+I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
+
+=>q45
+I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
+
+=>a46_original
+Never mind then. I'll look for another one.<end>
+
+=>a46
+Never mind then. I'll look for another one.<end>
+
+=>q47_original
+Good luck with that, friend.<end>
+
+=>q47
+Good luck with that, friend.<end>
+
+=>a48_original
+What can you tell me about this place?<end>
+
+=>a48
+What can you tell me about this place?<end>
+
+=>q49_original
+::It takes him a few moments to produce an answer.:: I don't know. Foundry is a large station with a rich mine. We're pretty well known as the station with the best defenses in South Underrail. The Foundry Guard makes sure of it.<end>
+
+=>q49
+::It takes him a few moments to produce an answer.:: I don't know. Foundry is a large station with a rich mine. We're pretty well known as the station with the best defenses in South Underrail. The Foundry Guard makes sure of it.<end>
+
+=>a50_original
+Okay. Now give me the other side of the truth.<end>
+
+=>a50
+Okay. Now give me the other side of the truth.<end>
+
+=>q51_original
+::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
+
+=>q51
+::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
+
+=>q52_original
+But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
+
+Any more questions, friend?<end>
+
+=>q52
+But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
+
+Any more questions, friend?<end>
+
+=>a53_original
+Good enough for me. I'd like to ask you something else.<end>
+
+=>a53
+Good enough for me. I'd like to ask you something else.<end>
+
+=>a54_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a54
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>q55_original
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact. You're not really a stranger to us anymore, so I suppose I can tell you what happened.<end>
+
+=>q55
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact. You're not really a stranger to us anymore, so I suppose I can tell you what happened.<end>
+
+=>q56_original
+::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.<end>
+
+=>q56
+::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.<end>
+
+=>a57_original
+What was in the box?<end>
+
+=>a57
+What was in the box?<end>
+
+=>q58_original
+It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
+
+=>q58
+It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
+
+=>q59_original
+First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>
+
+=>q59
+First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>
+
+=>a60_original
+Do you know who they were and where they are now?<end>
+
+=>a60
+Do you know who they were and where they are now?<end>
+
+=>q61_original
+No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.<end>
+
+=>q61
+No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.<end>
+
+=>q62_original
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?<end>
+
+=>q62
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?<end>
+
+=>a63_original
+::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.<end>
+
+=>a63
+::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.<end>
+
+=>q64_original
+I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.<end>
+
+=>q64
+I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.<end>
+
+=>q65_original
+I don't think so. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>q65
+I don't think so. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>a66_original
+I just need to know. Could you please tell me?<end>
+
+=>a66
+I just need to know. Could you please tell me?<end>
+
+=>q67_original
+Sorry, I don't think I should. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>q67
+Sorry, I don't think I should. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>a68_original
+What do you know about the mine creatures?<end>
+
+=>a68
+What do you know about the mine creatures?<end>
+
+=>q69_original
+Nothing, it doesn't concern me. Every problem we've had so far in Foundry was quickly handled by the Foundry Guard. I dislike this place for many reasons... ::He coughs.:: - this pollution being one of them - but I can't deny that security here is top notch. Everyone's blabbering about these "monsters" and how they are sneaking into residential and killing people.<end>
+
+=>q69
+Nothing, it doesn't concern me. Every problem we've had so far in Foundry was quickly handled by the Foundry Guard. I dislike this place for many reasons... ::He coughs.:: - this pollution being one of them - but I can't deny that security here is top notch. Everyone's blabbering about these "monsters" and how they are sneaking into residential and killing people.<end>
+
+=>q70_original
+As long as there isn't one in my store, I don't care. But that's just my opinion, friend.<end>
+
+=>q70
+As long as there isn't one in my store, I don't care. But that's just my opinion, friend.<end>
+
+=>a71_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a71
+How do you feel now that the mine has been reopened?<end>
+
+=>q72_original
+Pretty much the same as before. I knew all this was just a minor setback and that the Foundry Guard would deal with it eventually. People around here make a fuss out of everything.<end>
+
+=>q72
+Pretty much the same as before. I knew all this was just a minor setback and that the Foundry Guard would deal with it eventually. People around here make a fuss out of everything.<end>
+
+=>q73_original
+I just don't care. I'm more concerned with the foul air than mine "monsters." ::He coughs.::<end>
+
+=>q73
+I just don't care. I'm more concerned with the foul air than mine "monsters." ::He coughs.::<end>
+
+=>a74_original
+Goodbye.<end>
+
+=>a74
+Goodbye.<end>
+
+=>q75_original
+Goodbye, friend.<end>
+
+=>q75
+Goodbye, friend.<end>
+
+=>q76_original
+Welcome back, friend.<end>
+
+=>q76
+Welcome back, friend.<end>
+

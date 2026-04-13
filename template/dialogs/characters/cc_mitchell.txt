@@ -1,0 +1,78 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Howdy, he-he-he.<end>
+
+=>q2
+Howdy, he-he-he.<end>
+
+=>q3_original
+I once tried to eat a burrower burger. Never again.<end>
+
+=>q3
+I once tried to eat a burrower burger. Never again.<end>
+
+=>q4_original
+Hi there, $(#Peter/Olga), what's up? Or was it $(#Branislav/Manjula)? Meh, it all sounds the same anyway, he-he-he.<end>
+
+=>q4
+Hi there, $(#Peter/Olga), what's up? Or was it $(#Branislav/Manjula)? Meh, it all sounds the same anyway, he-he-he.<end>
+
+=>q5_original
+I once tried to use a crossbow. Never again.<end>
+
+=>q5
+I once tried to use a crossbow. Never again.<end>
+
+=>q6_original
+He-he-he. Fart! Funny word. He-he-he!<end>
+
+=>q6
+He-he-he. Fart! Funny word. He-he-he!<end>
+
+=>q7_original
+I once tried reading an old book called Slow Rain. Never again! I don't even know what the word "rain" means.<end>
+
+=>q7
+I once tried reading an old book called Slow Rain. Never again! I don't even know what the word "rain" means.<end>
+
+=>q8_original
+Yesh?<end>
+
+=>q8
+Yesh?<end>
+
+=>q9_original
+I once tried getting myself into Motion. Never again!<end>
+
+=>q9
+I once tried getting myself into Motion. Never again!<end>
+
+=>q10_original
+A pretty woman talked to me several weeks ago. She was *fine*!<end>
+
+=>q10
+A pretty woman talked to me several weeks ago. She was *fine*!<end>
+
+=>q11_original
+Never again!<end>
+
+=>q11
+Never again!<end>
+
+=>q12_original
+Heard about Osmond Knight... or was it Angbond... Whatever his name, he is dead, just so you know. He-he-he.<end>
+
+=>q12
+Heard about Osmond Knight... or was it Angbond... Whatever his name, he is dead, just so you know. He-he-he.<end>
+
+=>q13_original
+I once tried a Junkyard surprise. Never again.<end>
+
+=>q13
+I once tried a Junkyard surprise. Never again.<end>
+

@@ -1,0 +1,224 @@
+=>q1_original
+::A well-knit man steps in front of you, crossing his arms and spreading his legs slightly apart. Simultaneously, he addresses you with a light, raspy voice.::
+
+Hold't right thar, $(#jack/sister). This alley 'ere is belong to us. You wanna pass through, you gotta pay a one-time fee. Mhm.<end>
+
+=>q1
+::A well-knit man steps in front of you, crossing his arms and spreading his legs slightly apart. Simultaneously, he addresses you with a light, raspy voice.::
+
+Hold't right thar, $(#jack/sister). This alley 'ere is belong to us. You wanna pass through, you gotta pay a one-time fee. Mhm.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I'll pay you double if you can land a single punch on my face. Otherwise, you let me pass for free. Deal?<end>
+
+=>a3
+I'll pay you double if you can land a single punch on my face. Otherwise, you let me pass for free. Deal?<end>
+
+=>q4_original
+Doub-- Wait! Wait a sec'nd...<end>
+
+=>q4
+Doub-- Wait! Wait a sec'nd...<end>
+
+=>q5_original
+How do you--? I-- ::He begins to sweat.::<end>
+
+=>q5
+How do you--? I-- ::He begins to sweat.::<end>
+
+=>q6_original
+Hey, why did you not say you is *His* friend, huh? Psionic boy's. Go on through, yeah - go on through.<end>
+
+=>q6
+Hey, why did you not say you is *His* friend, huh? Psionic boy's. Go on through, yeah - go on through.<end>
+
+=>a7_original
+Alright, I'll pay. ::Pay 5 stygian coins.::<end>
+
+=>a7
+Alright, I'll pay. ::Pay 5 stygian coins.::<end>
+
+=>q8_original
+Good decision. You can pass now.<end>
+
+=>q8
+Good decision. You can pass now.<end>
+
+=>a9_original
+So what's the fee?<end>
+
+=>a9
+So what's the fee?<end>
+
+=>q10_original
+For a pretty girl like you... ::It takes a few seconds before his stare travels all over your body.:: make it five charons. Mhm.<end>
+
+=>q10
+For a pretty girl like you... ::It takes a few seconds before his stare travels all over your body.:: make it five charons. Mhm.<end>
+
+=>q11_original
+It's five charons.<end>
+
+=>q11
+It's five charons.<end>
+
+=>a12_original
+::[Persuade]:: I already paid your fee.<end>
+
+=>a12
+::[Persuade]:: I already paid your fee.<end>
+
+=>q13_original
+Yeah, right you did. Then how come you didn't know what the fee were, eh? Don't play no games with me, punk.<end>
+
+=>q13
+Yeah, right you did. Then how come you didn't know what the fee were, eh? Don't play no games with me, punk.<end>
+
+=>q14_original
+I don't think so. I would've remembered your mug.<end>
+
+=>q14
+I don't think so. I would've remembered your mug.<end>
+
+=>a15_original
+I was wearing a breathing mask then. I paid your three charons.<end>
+
+=>a15
+I was wearing a breathing mask then. I paid your three charons.<end>
+
+=>q16_original
+Ha, nice try, but that ain't the fee. No, no. It's five charons. Now get your ass outta 'ere and come back with some shinies.<end>
+
+=>q16
+Ha, nice try, but that ain't the fee. No, no. It's five charons. Now get your ass outta 'ere and come back with some shinies.<end>
+
+=>a17_original
+Well you have bad memory then, because I paid your five charons already.<end>
+
+=>a17
+Well you have bad memory then, because I paid your five charons already.<end>
+
+=>q18_original
+Hmm, yeah, I think I is rememberin' you, now that I thinks about it. Yeah. Pass.<end>
+
+=>q18
+Hmm, yeah, I think I is rememberin' you, now that I thinks about it. Yeah. Pass.<end>
+
+=>a19_original
+Come on, I already paid your ten charons yesterday! I was just wearing different clothes back then.<end>
+
+=>a19
+Come on, I already paid your ten charons yesterday! I was just wearing different clothes back then.<end>
+
+=>a20_original
+Fine.<end>
+
+=>a20
+Fine.<end>
+
+=>q21_original
+Come back when you got some shinies. Mhm.<end>
+
+=>q21
+Come back when you got some shinies. Mhm.<end>
+
+=>q22_original
+I ain't fallin' for that one.<end>
+
+=>q22
+I ain't fallin' for that one.<end>
+
+=>a23_original
+I'm on official business from South Gate Station. I don't need to pay any fees.<end>
+
+=>a23
+I'm on official business from South Gate Station. I don't need to pay any fees.<end>
+
+=>q24_original
+You is gonna pay like everyone else, southgater. Besides, what's a couple shinies for you SGS folk?<end>
+
+=>q24
+You is gonna pay like everyone else, southgater. Besides, what's a couple shinies for you SGS folk?<end>
+
+=>a25_original
+::[Intimidate]:: I'm not paying you anything, you mangy street rat. Now step aside before I turn your brain into graffiti.<end>
+
+=>a25
+::[Intimidate]:: I'm not paying you anything, you mangy street rat. Now step aside before I turn your brain into graffiti.<end>
+
+=>q26_original
+You either very brave or very stupid, $(#jack/sister), threatening me on my home turf.<end>
+
+=>q26
+You either very brave or very stupid, $(#jack/sister), threatening me on my home turf.<end>
+
+=>a27_original
+::[Intimidate]:: I don't need to be brave. I've got enough firepower to blow you and your little cardboard city to Upper Underrail. I'll be passing through here now unless you want a demonstration?<end>
+
+=>a27
+::[Intimidate]:: I don't need to be brave. I've got enough firepower to blow you and your little cardboard city to Upper Underrail. I'll be passing through here now unless you want a demonstration?<end>
+
+=>q28_original
+::His stare is nothing but anger, but after exchanging it with his comrades, he motions you to pass.:: 
+
+You good to pass.<end>
+
+=>q28
+::His stare is nothing but anger, but after exchanging it with his comrades, he motions you to pass.:: 
+
+You good to pass.<end>
+
+=>q29_original
+That was a terrible bluff. Put $(#him/her) outta $(#his/her) misery, boys.<end>
+
+=>q29
+That was a terrible bluff. Put $(#him/her) outta $(#his/her) misery, boys.<end>
+
+=>a30_original
+It won't be your turf for long. ::Attack!::<end>
+
+=>a30
+It won't be your turf for long. ::Attack!::<end>
+
+=>q31_original
+You ain't even gonna have time to regret what you just said. Get this idiot!<end>
+
+=>q31
+You ain't even gonna have time to regret what you just said. Get this idiot!<end>
+
+=>a32_original
+Forget it. I'll take another way around.<end>
+
+=>a32
+Forget it. I'll take another way around.<end>
+
+=>q33_original
+Ain't no other way around. You'll be back. Mhm.<end>
+
+=>q33
+Ain't no other way around. You'll be back. Mhm.<end>
+
+=>a34_original
+Oops, I think I got lost. I'll be going now.<end>
+
+=>a34
+Oops, I think I got lost. I'll be going now.<end>
+
+=>q35_original
+We got no more business to do. Move along, $(#jack/sister).<end>
+
+=>q35
+We got no more business to do. Move along, $(#jack/sister).<end>
+
+=>q36_original
+Shinies - got 'em?<end>
+
+=>q36
+Shinies - got 'em?<end>
+

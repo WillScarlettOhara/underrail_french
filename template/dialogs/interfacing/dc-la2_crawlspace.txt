@@ -1,0 +1,36 @@
+=>q1_original
+::This opening is large enough for you to crawl through.::<end>
+
+=>q1
+::This opening is large enough for you to crawl through.::<end>
+
+=>a2_original
+::Crawl through.::<end>
+
+=>a2
+::Crawl through.::<end>
+
+=>q3_original
+::You made it to the other side.::<end>
+
+=>q3
+::You made it to the other side.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Leave.::<end>
+
+=>a6
+::Leave.::<end>
+

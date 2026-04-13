@@ -1,0 +1,182 @@
+=>q1_original
+I though you said you didn't want this "stupid" job? Get lost.<end>
+
+=>q1
+I though you said you didn't want this "stupid" job? Get lost.<end>
+
+=>q2_original
+::The man stops typing and looks at you.::
+
+Welcome to JKK headquarters, $(#Mister/Miss)...?<end>
+
+=>q2
+::The man stops typing and looks at you.::
+
+Welcome to JKK headquarters, $(#Mister/Miss)...?<end>
+
+=>a3_original
+$(context.player.Name).<end>
+
+=>a3
+$(context.player.Name).<end>
+
+=>q4_original
+$(#Mister/Miss) $(context.player.Name), nice to meet you. My name is Van. How can I help you?<end>
+
+=>q4
+$(#Mister/Miss) $(context.player.Name), nice to meet you. My name is Van. How can I help you?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I'm looking for some work.<end>
+
+=>a6
+I'm looking for some work.<end>
+
+=>q7_original
+Very good. And what kind of work are you looking for?<end>
+
+=>q7
+Very good. And what kind of work are you looking for?<end>
+
+=>a8_original
+Something fun that pays good.<end>
+
+=>a8
+Something fun that pays good.<end>
+
+=>q9_original
+::He laughs.:: Aren't we all! Well, if you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q9
+::He laughs.:: Aren't we all! Well, if you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q10_original
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times. The man remains almost expressionless, yet you somehow catch that there's something wrong. After several minutes, the conversation ends.::<end>
+
+=>q10
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times. The man remains almost expressionless, yet you somehow catch that there's something wrong. After several minutes, the conversation ends.::<end>
+
+=>q11_original
+$(#Mister/Miss) $(context.player.Name), I'm very sorry, but we can't offer you a working position here at JKK at the moment. The reason for this is, if I've been told correctly, that you are already working for a different organization. I apologize again, and wish you a dominating day.<end>
+
+=>q11
+$(#Mister/Miss) $(context.player.Name), I'm very sorry, but we can't offer you a working position here at JKK at the moment. The reason for this is, if I've been told correctly, that you are already working for a different organization. I apologize again, and wish you a dominating day.<end>
+
+=>a12_original
+Thank you for your time. Goodbye.<end>
+
+=>a12
+Thank you for your time. Goodbye.<end>
+
+=>a13_original
+Well, I didn't even want this stupid job. So long.<end>
+
+=>a13
+Well, I didn't even want this stupid job. So long.<end>
+
+=>q14_original
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times, and also notice that the man nods his head several times, as if he's agreeing with something that's been said. After several minutes, the conversation ends.::<end>
+
+=>q14
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times, and also notice that the man nods his head several times, as if he's agreeing with something that's been said. After several minutes, the conversation ends.::<end>
+
+=>q15_original
+Sorry to keep you waiting, but in return, I have some good news: It might seem like a coincidence, but we are in need of a capable individual, and *you* just might be the one. If you're still interested, I'll let you through to Miss Vivian Young. You'll find her right near the entrance, just beyond this door.
+
+And before I forget: You can only move about the first floor of the building. Access to other areas is forbidden to visitors. Just to be clear.<end>
+
+=>q15
+Sorry to keep you waiting, but in return, I have some good news: It might seem like a coincidence, but we are in need of a capable individual, and *you* just might be the one. If you're still interested, I'll let you through to Miss Vivian Young. You'll find her right near the entrance, just beyond this door.
+
+And before I forget: You can only move about the first floor of the building. Access to other areas is forbidden to visitors. Just to be clear.<end>
+
+=>a16_original
+Thank you. I will go see Miss Young now.<end>
+
+=>a16
+Thank you. I will go see Miss Young now.<end>
+
+=>a17_original
+Got it. See ya.<end>
+
+=>a17
+Got it. See ya.<end>
+
+=>a18_original
+I don't know, what do you have available?<end>
+
+=>a18
+I don't know, what do you have available?<end>
+
+=>q19_original
+We might have something... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q19
+We might have something... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>a20_original
+I have no idea. Literally.<end>
+
+=>a20
+I have no idea. Literally.<end>
+
+=>q21_original
+Perhaps there is something for you... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q21
+Perhaps there is something for you... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>a22_original
+On the other hand, I need to ask you something else.<end>
+
+=>a22
+On the other hand, I need to ask you something else.<end>
+
+=>q23_original
+Definitely. Ask me anything.<end>
+
+=>q23
+Definitely. Ask me anything.<end>
+
+=>a24_original
+What can you tell me about JKK?<end>
+
+=>a24
+What can you tell me about JKK?<end>
+
+=>q25_original
+JKK is *the* major broadcasting organization in Core City. We make sure every Arena match is brought to the people of both South and North Underrail. Even the poorest zoners get the chance to experience the brutality of the Arena. <end>
+
+=>q25
+JKK is *the* major broadcasting organization in Core City. We make sure every Arena match is brought to the people of both South and North Underrail. Even the poorest zoners get the chance to experience the brutality of the Arena. <end>
+
+=>q26_original
+Moreover, for those interested in betting on the Arena matches, JKK is the organization responsible for it, and much more. Without JKK, Core City would not be what it is today.<end>
+
+=>q26
+Moreover, for those interested in betting on the Arena matches, JKK is the organization responsible for it, and much more. Without JKK, Core City would not be what it is today.<end>
+
+=>a27_original
+So long.<end>
+
+=>a27
+So long.<end>
+
+=>q28_original
+What's up, $(context.player.Name)?<end>
+
+=>q28
+What's up, $(context.player.Name)?<end>
+
+=>q29_original
+Good day, $(#Mister/Miss) $(context.player.Name). How can I help you?<end>
+
+=>q29
+Good day, $(#Mister/Miss) $(context.player.Name). How can I help you?<end>
+

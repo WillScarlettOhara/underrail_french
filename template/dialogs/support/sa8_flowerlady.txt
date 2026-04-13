@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Can't talk right now.<end>
+
+=>q2
+Can't talk right now.<end>
+
+=>q3_original
+I think Vera's probably the greatest flower admirer in SGS.<end>
+
+=>q3
+I think Vera's probably the greatest flower admirer in SGS.<end>
+
+=>q4_original
+I also take care of the mushrooms in the room over there. That is off-limits, by the way.<end>
+
+=>q4
+I also take care of the mushrooms in the room over there. That is off-limits, by the way.<end>
+
+=>q5_original
+Growing flowers is a delicate procedure.<end>
+
+=>q5
+Growing flowers is a delicate procedure.<end>
+
+=>q6_original
+There's nothing quite as colorful out in the caves.<end>
+
+=>q6
+There's nothing quite as colorful out in the caves.<end>
+
+=>q7_original
+Hey, $(#man/girl).<end>
+
+=>q7
+Hey, $(#man/girl).<end>
+
+=>q8_original
+Did Lora wake up? I picked out a few lovely flowers for her.<end>
+
+=>q8
+Did Lora wake up? I picked out a few lovely flowers for her.<end>
+
+=>q9_original
+These smell amazing, $(#man/girl). Also helps cover up the smell of that burrower...<end>
+
+=>q9
+These smell amazing, $(#man/girl). Also helps cover up the smell of that burrower...<end>
+
+=>q10_original
+How could've this happened? Where were the guards to protect Bret?<end>
+
+=>q10
+How could've this happened? Where were the guards to protect Bret?<end>
+

@@ -1,0 +1,1862 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+This is a disaster. Bate died before we could find out anything about how long he's been leaking information and how much the Cans actually know about our current affairs.<end>
+
+=>q2
+This is a disaster. Bate died before we could find out anything about how long he's been leaking information and how much the Cans actually know about our current affairs.<end>
+
+=>q3_original
+And... we lost Marcella for good.<end>
+
+=>q3
+And... we lost Marcella for good.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+The Protectorate found out about the hideout. They ambushed me there, but I made it out alive.<end>
+
+=>a5
+The Protectorate found out about the hideout. They ambushed me there, but I made it out alive.<end>
+
+=>q6_original
+What? What happened to Hutch, Sarah and the rest?<end>
+
+=>q6
+What? What happened to Hutch, Sarah and the rest?<end>
+
+=>a7_original
+They are gone. I'm sorry.<end>
+
+=>a7
+They are gone. I'm sorry.<end>
+
+=>q8_original
+::Trenton bites his lip, and his stare shifts toward the ceiling. As he lowers his head back, he speaks.:: How did those pigs find out?<end>
+
+=>q8
+::Trenton bites his lip, and his stare shifts toward the ceiling. As he lowers his head back, he speaks.:: How did those pigs find out?<end>
+
+=>q9_original
+There's nothing we could've done. We're blind and deaf in Junkyard now.<end>
+
+=>q9
+There's nothing we could've done. We're blind and deaf in Junkyard now.<end>
+
+=>q10_original
+Oh, we are, but the Cans are not. They knew $(context.player.Name) was coming and ambushed $(#him/her).<end>
+
+=>q10
+Oh, we are, but the Cans are not. They knew $(context.player.Name) was coming and ambushed $(#him/her).<end>
+
+=>q11_original
+That's what you just said, right?<end>
+
+=>q11
+That's what you just said, right?<end>
+
+=>a12_original
+That is correct.<end>
+
+=>a12
+That is correct.<end>
+
+=>q13_original
+Then this is the final proof: There is a spy in our ranks. This is not the first time this had happened, $(context.player.Name). We've already had several suspicious Protectorate-somehow-knew-we-were-there situations.<end>
+
+=>q13
+Then this is the final proof: There is a spy in our ranks. This is not the first time this had happened, $(context.player.Name). We've already had several suspicious Protectorate-somehow-knew-we-were-there situations.<end>
+
+=>q14_original
+::He sighs.:: You're right, I'm afraid... We have a serious problem.<end>
+
+=>q14
+::He sighs.:: You're right, I'm afraid... We have a serious problem.<end>
+
+=>q15_original
+If the Cans really have a spy here, then they know about the whole plan. We have to move fast, Alvin. Or else, we risk everything we've worked so hard for.<end>
+
+=>q15
+If the Cans really have a spy here, then they know about the whole plan. We have to move fast, Alvin. Or else, we risk everything we've worked so hard for.<end>
+
+=>a16_original
+Well, "ambushed." No one can really ambush me! But they tried.<end>
+
+=>a16
+Well, "ambushed." No one can really ambush me! But they tried.<end>
+
+=>q17_original
+The whole hideout has been wiped and you're bragging?<end>
+
+=>q17
+The whole hideout has been wiped and you're bragging?<end>
+
+=>q18_original
+Give kiddo a break, $(#he/she) barely made it out alive.<end>
+
+=>q18
+Give kiddo a break, $(#he/she) barely made it out alive.<end>
+
+=>q19_original
+Then this is the final proof: There is a spy in our ranks. This is not the first time this happened, $(context.player.Name). We've already had several suspicious Protectorate-somehow-knew-we-were-there situations.<end>
+
+=>q19
+Then this is the final proof: There is a spy in our ranks. This is not the first time this happened, $(context.player.Name). We've already had several suspicious Protectorate-somehow-knew-we-were-there situations.<end>
+
+=>a20_original
+They didn't stand a chance.<end>
+
+=>a20
+They didn't stand a chance.<end>
+
+=>a21_original
+What is this "plan" you had mentioned?<end>
+
+=>a21
+What is this "plan" you had mentioned?<end>
+
+=>q22_original
+Exactly six months ago, the three of us, Alvin, Marcella and I have devised a plan which would completely paralyze the Protectorate machinery in South Underrail.
+
+Since you came here, we've lost a critical hideout in Junkyard; we've lost many good men and women, and foremost - friends; we are also absolutely positive that there is a traitor within our ranks. Ever since you came here...<end>
+
+=>q22
+Exactly six months ago, the three of us, Alvin, Marcella and I have devised a plan which would completely paralyze the Protectorate machinery in South Underrail.
+
+Since you came here, we've lost a critical hideout in Junkyard; we've lost many good men and women, and foremost - friends; we are also absolutely positive that there is a traitor within our ranks. Ever since you came here...<end>
+
+=>q23_original
+But don't worry, I have full faith in your loyalty. You couldn't have possibly known about all these things, about our plans, and after all, we've had our own doubts for some time before your arrival. Because of all this, the less people know about what we're about to do - the better.
+
+First, allow me to explain the situation...<end>
+
+=>q23
+But don't worry, I have full faith in your loyalty. You couldn't have possibly known about all these things, about our plans, and after all, we've had our own doubts for some time before your arrival. Because of all this, the less people know about what we're about to do - the better.
+
+First, allow me to explain the situation...<end>
+
+=>a24_original
+::Say nothing and let him continue.::<end>
+
+=>a24
+::Say nothing and let him continue.::<end>
+
+=>q25_original
+As you know, South Underrail is divided into Lower Underrail, where we are now, and Upper Underrail, which is above us, naturally. The Protectorate's largest base in the region, Fort Apogee, is located in Upper Underrail, and it is virtually untouchable. It is their main base in South Underrail, and as such is heavily defended and out of our reach at the moment. 
+
+Meanwhile, in Lower Underrail, South Railroad Outpost and the Junkyard embassy below it are not, and that makes them much more viable targets.<end>
+
+=>q25
+As you know, South Underrail is divided into Lower Underrail, where we are now, and Upper Underrail, which is above us, naturally. The Protectorate's largest base in the region, Fort Apogee, is located in Upper Underrail, and it is virtually untouchable. It is their main base in South Underrail, and as such is heavily defended and out of our reach at the moment. 
+
+Meanwhile, in Lower Underrail, South Railroad Outpost and the Junkyard embassy below it are not, and that makes them much more viable targets.<end>
+
+=>q26_original
+Now, you might ask, can't the Protectorate send troops to reinforce these locations? Well, yes and no. If we exclude small transition points, Lower and Upper Underrail are connected only by Core City, and due to the political situation there, as well as the logistical problems of transporting personnel and equipment through such an inconvenient location makes it very difficult to reinforce something as remote as SRO effectively. <end>
+
+=>q26
+Now, you might ask, can't the Protectorate send troops to reinforce these locations? Well, yes and no. If we exclude small transition points, Lower and Upper Underrail are connected only by Core City, and due to the political situation there, as well as the logistical problems of transporting personnel and equipment through such an inconvenient location makes it very difficult to reinforce something as remote as SRO effectively. <end>
+
+=>q27_original
+Because of this, the Cans are trying to establish a large troop elevator that is to connect Upper and Lower Underrail. With it, they'll be capable of reinforcing SRO with relative ease and further ease their expansion into the South. This cannot be allowed to happen. Fortunately, the elevator is not fully operational yet, but we expect its completion fairly soon.
+
+Based on all this, the plan is as follows...<end>
+
+=>q27
+Because of this, the Cans are trying to establish a large troop elevator that is to connect Upper and Lower Underrail. With it, they'll be capable of reinforcing SRO with relative ease and further ease their expansion into the South. This cannot be allowed to happen. Fortunately, the elevator is not fully operational yet, but we expect its completion fairly soon.
+
+Based on all this, the plan is as follows...<end>
+
+=>q28_original
+Our main target is South Railroad Outpost. Cut off, the Junkyard embassy will be easy pickings, and the Protectorate influence in Junkyard will be gone. But in order to do that, it is necessary to sabotage the elevator first. With it taken care of, the only way to get down here is through Core City, and, as I've said before, that will take too much time. Sure, they might be able to pull some troops to defend SRO, but nothing really significant, we hope.
+
+After the elevator is sabotaged, we take out SRO and, with the exclusion of small garrisons, we basically control Lower Underrail.<end>
+
+=>q28
+Our main target is South Railroad Outpost. Cut off, the Junkyard embassy will be easy pickings, and the Protectorate influence in Junkyard will be gone. But in order to do that, it is necessary to sabotage the elevator first. With it taken care of, the only way to get down here is through Core City, and, as I've said before, that will take too much time. Sure, they might be able to pull some troops to defend SRO, but nothing really significant, we hope.
+
+After the elevator is sabotaged, we take out SRO and, with the exclusion of small garrisons, we basically control Lower Underrail.<end>
+
+=>q29_original
+That's it. It seems simple, but it will be difficult to pull off, especially due to the fact that our hideout in Junkyard is gone and that we have a traitor within our ranks. That's why we must move quickly, we weren't planning on executing the operation yet, but now we're under serious pressure.<end>
+
+=>q29
+That's it. It seems simple, but it will be difficult to pull off, especially due to the fact that our hideout in Junkyard is gone and that we have a traitor within our ranks. That's why we must move quickly, we weren't planning on executing the operation yet, but now we're under serious pressure.<end>
+
+=>q30_original
+I want you to take out this elevator as soon as possible. Once you are ready, come and see me.<end>
+
+=>q30
+I want you to take out this elevator as soon as possible. Once you are ready, come and see me.<end>
+
+=>a31_original
+Can you just jump straight to the plan?<end>
+
+=>a31
+Can you just jump straight to the plan?<end>
+
+=>q32_original
+I can... We need to take out a large Protectorate troop elevator that is near completion and can soon be used to send reinforcements from Fort Apogee, located in Upper Underrail, to Lower Underrail. After that, we can take over South Railroad Outpost that sits right above Junkyard embassy and not worry about reinforcements, because it'll take them far too long to get through Core City effectively. <end>
+
+=>q32
+I can... We need to take out a large Protectorate troop elevator that is near completion and can soon be used to send reinforcements from Fort Apogee, located in Upper Underrail, to Lower Underrail. After that, we can take over South Railroad Outpost that sits right above Junkyard embassy and not worry about reinforcements, because it'll take them far too long to get through Core City effectively. <end>
+
+=>a33_original
+I'm ready to take out the Protectorate elevator.<end>
+
+=>a33
+I'm ready to take out the Protectorate elevator.<end>
+
+=>q34_original
+Alvin, I'll brief $(context.player.Name), if you don't mind.<end>
+
+=>q34
+Alvin, I'll brief $(context.player.Name), if you don't mind.<end>
+
+=>q35_original
+Not at all. Let the briefing begin.<end>
+
+=>q35
+Not at all. Let the briefing begin.<end>
+
+=>q36_original
+Good. $(context.player.Name), I must remind you again that this mission and everything after it is really important for the future of South Underrail. You will go on this mission completely alone, it is important to keep everything low profile until we finally strike.<end>
+
+=>q36
+Good. $(context.player.Name), I must remind you again that this mission and everything after it is really important for the future of South Underrail. You will go on this mission completely alone, it is important to keep everything low profile until we finally strike.<end>
+
+=>a37_original
+How do I reach the elevator, exactly?<end>
+
+=>a37
+How do I reach the elevator, exactly?<end>
+
+=>q38_original
+The elevator lies within Epione Lab, a facility located in Upper Underrail, between Core City's top level, and Protectorate main base - Fort Apogee. The easiest way to find it is to follow the blue metro line. You'll know it when you see it.<end>
+
+=>q38
+The elevator lies within Epione Lab, a facility located in Upper Underrail, between Core City's top level, and Protectorate main base - Fort Apogee. The easiest way to find it is to follow the blue metro line. You'll know it when you see it.<end>
+
+=>q39_original
+It is safe to assume that the facility is well defended, so you must find a clever way to get in. Based on some old plans we managed to obtain, the facility has a weak spot - its load-bearing pillars. If you can destroy these pillars, the whole construction will collapse, we hope.<end>
+
+=>q39
+It is safe to assume that the facility is well defended, so you must find a clever way to get in. Based on some old plans we managed to obtain, the facility has a weak spot - its load-bearing pillars. If you can destroy these pillars, the whole construction will collapse, we hope.<end>
+
+=>a40_original
+"We hope"?<end>
+
+=>a40
+"We hope"?<end>
+
+=>q41_original
+Things can go awry, nothing is one hundred percent certain. However, I believe that the mission will be a complete success.<end>
+
+=>q41
+Things can go awry, nothing is one hundred percent certain. However, I believe that the mission will be a complete success.<end>
+
+=>a42_original
+I guess I should see Becket about the explosives?<end>
+
+=>a42
+I guess I should see Becket about the explosives?<end>
+
+=>q43_original
+That is correct. He will give you five C4 charges and a detonator. Once you have placed all the explosives, get to a safe distance and detonate. Protectorate will be in chaos after this, leaving us with enough room to assault South Railroad Outpost.<end>
+
+=>q43
+That is correct. He will give you five C4 charges and a detonator. Once you have placed all the explosives, get to a safe distance and detonate. Protectorate will be in chaos after this, leaving us with enough room to assault South Railroad Outpost.<end>
+
+=>q44_original
+I wish you all the best, $(context.player.Name). Don't forget to talk to Becket.<end>
+
+=>q44
+I wish you all the best, $(context.player.Name). Don't forget to talk to Becket.<end>
+
+=>q45_original
+Take care, kiddo. Make them pay for all the lives they took.<end>
+
+=>q45
+Take care, kiddo. Make them pay for all the lives they took.<end>
+
+=>a46_original
+Thank you, I will go to him now.<end>
+
+=>a46
+Thank you, I will go to him now.<end>
+
+=>a47_original
+Protectorate bastards, here I come!<end>
+
+=>a47
+Protectorate bastards, here I come!<end>
+
+=>q48_original
+I wish you all the best, $(context.player.Name). Don't forget to talk to Becket.<end>
+
+=>q48
+I wish you all the best, $(context.player.Name). Don't forget to talk to Becket.<end>
+
+=>a49_original
+Tell me where it is and I'll turn it into a pile of rubble.<end>
+
+=>a49
+Tell me where it is and I'll turn it into a pile of rubble.<end>
+
+=>q50_original
+I'm liking your enthusiasm. Anyway, the elevator lies within Epione Lab, a facility located in Upper Underrail, between Core City's top level, and Protectorate main base - Fort Apogee. The easiest way to find it is to follow the blue metro line, you'll know it when you see it.<end>
+
+=>q50
+I'm liking your enthusiasm. Anyway, the elevator lies within Epione Lab, a facility located in Upper Underrail, between Core City's top level, and Protectorate main base - Fort Apogee. The easiest way to find it is to follow the blue metro line, you'll know it when you see it.<end>
+
+=>q51_original
+Good. I must remind you again that this mission and everything after it is of crucial importance to the future of South Underrail. You will go on this mission completely alone; it is important to keep everything low profile until we finally strike.<end>
+
+=>q51
+Good. I must remind you again that this mission and everything after it is of crucial importance to the future of South Underrail. You will go on this mission completely alone; it is important to keep everything low profile until we finally strike.<end>
+
+=>a52_original
+The elevator has been taken out.<end>
+
+=>a52
+The elevator has been taken out.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>q54_original
+Excellent. Just excellent. While the Cans are in chaos, we can safely commence the attack on South Railroad Outpost. I've assembled a fireteam of selected fighters who will be under your command during the attack.<end>
+
+=>q54
+Excellent. Just excellent. While the Cans are in chaos, we can safely commence the attack on South Railroad Outpost. I've assembled a fireteam of selected fighters who will be under your command during the attack.<end>
+
+=>a55_original
+There is no time for introductions, just tell me where I'm supposed to meet them.<end>
+
+=>a55
+There is no time for introductions, just tell me where I'm supposed to meet them.<end>
+
+=>q56_original
+In that case, the plan is quite simple: The team, led by Jazz, <end>
+
+=>q56
+In that case, the plan is quite simple: The team, led by Jazz, <end>
+
+=>q57_original
+will meet you in the area just south of GMS. You will then storm the base: Your mission is to eliminate all opposition and secure the elevator leading down to the embassy, which will effectively cut off all Protectorate troops stationed in Junkyard from Lower Underrail.<end>
+
+=>q57
+will meet you in the area just south of GMS. You will then storm the base: Your mission is to eliminate all opposition and secure the elevator leading down to the embassy, which will effectively cut off all Protectorate troops stationed in Junkyard from Lower Underrail.<end>
+
+=>q58_original
+We have to make the operation as quick as possible in order to minimize the risk of Protectorate reinforcements. Don't worry, I will have our fighters cover all potential reinforcement routes so that you don't get flanked or attacked from behind, but there is only so much pressure a group of armed men and women can do to hold off a prolonged assault from a much better equipped force; act as fast as you can, but also act smart.<end>
+
+=>q58
+We have to make the operation as quick as possible in order to minimize the risk of Protectorate reinforcements. Don't worry, I will have our fighters cover all potential reinforcement routes so that you don't get flanked or attacked from behind, but there is only so much pressure a group of armed men and women can do to hold off a prolonged assault from a much better equipped force; act as fast as you can, but also act smart.<end>
+
+=>q59_original
+That's it, $(context.player.Name). Good luck, and death to Protectorate!<end>
+
+=>q59
+That's it, $(context.player.Name). Good luck, and death to Protectorate!<end>
+
+=>a60_original
+How do I get to South Railroad Outpost?<end>
+
+=>a60
+How do I get to South Railroad Outpost?<end>
+
+=>q61_original
+The faster route is to take under-passage exit near Rail Crossing and simply follow the railway south then east. Do be careful near SRO itself, though, as that particular stretch of the railway will put you on low ground; in case of contact with the Cans, they will most likely be engaging from the platforms above you, which is a much more favorable position.<end>
+
+=>q61
+The faster route is to take under-passage exit near Rail Crossing and simply follow the railway south then east. Do be careful near SRO itself, though, as that particular stretch of the railway will put you on low ground; in case of contact with the Cans, they will most likely be engaging from the platforms above you, which is a much more favorable position.<end>
+
+=>q62_original
+The other option is to go south-east from here. The fireteam will be waiting for you just south of GMS.<end>
+
+=>q62
+The other option is to go south-east from here. The fireteam will be waiting for you just south of GMS.<end>
+
+=>a63_original
+I'm ready to go.<end>
+
+=>a63
+I'm ready to go.<end>
+
+=>q64_original
+Make us proud, $(context.player.Name).<end>
+
+=>q64
+Make us proud, $(context.player.Name).<end>
+
+=>q65_original
+This is going to be a difficult task. But we have faith in you, kiddo. Death to Protectorate. Down with the United Stations!<end>
+
+=>q65
+This is going to be a difficult task. But we have faith in you, kiddo. Death to Protectorate. Down with the United Stations!<end>
+
+=>q66_original
+Make us proud, $(context.player.Name).<end>
+
+=>q66
+Make us proud, $(context.player.Name).<end>
+
+=>a67_original
+Who are they?<end>
+
+=>a67
+Who are they?<end>
+
+=>q68_original
+Jazz, Shred, Rocksteady and Kokoschka. They will be leaving the base immediately and <end>
+
+=>q68
+Jazz, Shred, Rocksteady and Kokoschka. They will be leaving the base immediately and <end>
+
+=>a69_original
+South Railroad Outpost has been conquered.<end>
+
+=>a69
+South Railroad Outpost has been conquered.<end>
+
+=>q70_original
+::Trenton raises his clenched fist.:: Excellent work! Excellent work, $(context.player.Name). Now our fighters can move in and fortify the outpost. We've finally managed to rid Lower Underrail of the Protectorate cans.<end>
+
+=>q70
+::Trenton raises his clenched fist.:: Excellent work! Excellent work, $(context.player.Name). Now our fighters can move in and fortify the outpost. We've finally managed to rid Lower Underrail of the Protectorate cans.<end>
+
+=>q71_original
+<end>
+
+=>q71
+<end>
+
+=>a72_original
+They were expecting us. Bate must've tipped them off before we found him out. Yet we've still managed to pull through without casualties; simply put - we're that badass.<end>
+
+=>a72
+They were expecting us. Bate must've tipped them off before we found him out. Yet we've still managed to pull through without casualties; simply put - we're that badass.<end>
+
+=>q73_original
+Despite our best efforts the information regarding the attack was leaked to the Protectorate. In spite of that, in the end - we are victorious. I have to say, I'm more than pleased by your fighting spirit and abilities, $(context.player.Name); you have proven to be a ferocious fighter. Thank you for helping us trying to create a better world, one that will hopefully be free of tyrannical rule.<end>
+
+=>q73
+Despite our best efforts the information regarding the attack was leaked to the Protectorate. In spite of that, in the end - we are victorious. I have to say, I'm more than pleased by your fighting spirit and abilities, $(context.player.Name); you have proven to be a ferocious fighter. Thank you for helping us trying to create a better world, one that will hopefully be free of tyrannical rule.<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>a75_original
+We're not done yet: Next stop - Fort Apogee!<end>
+
+=>a75
+We're not done yet: Next stop - Fort Apogee!<end>
+
+=>q76_original
+I'm afraid not yet. We need to fortify SRO first and, in due time, take over the embassy. We are streched thin at the moment: We've suffered great casualties recently and we need to bolster our ranks before we are able to make any bold moves. We are also getting low on ammo and equipment.<end>
+
+=>q76
+I'm afraid not yet. We need to fortify SRO first and, in due time, take over the embassy. We are streched thin at the moment: We've suffered great casualties recently and we need to bolster our ranks before we are able to make any bold moves. We are also getting low on ammo and equipment.<end>
+
+=>q77_original
+But all in all, we are in a good position. We can now exert greater influence on the people of Junkyard - which should have a positive effect on our manpower - whereas SRO and embassy supplies will most certainly help us upgrade our firepower.<end>
+
+=>q77
+But all in all, we are in a good position. We can now exert greater influence on the people of Junkyard - which should have a positive effect on our manpower - whereas SRO and embassy supplies will most certainly help us upgrade our firepower.<end>
+
+=>q78_original
+We'll be laying low for a while, $(context.player.Name), but rest assured: We will drive the Cans out of South Underrail; it's only a matter of time. Mark my words.<end>
+
+=>q78
+We'll be laying low for a while, $(context.player.Name), but rest assured: We will drive the Cans out of South Underrail; it's only a matter of time. Mark my words.<end>
+
+=>q79_original
+::He nods.:: Never a dull moment...<end>
+
+=>q79
+::He nods.:: Never a dull moment...<end>
+
+=>q80_original
+We'll show the people of Junkyard the truth about Protectorate. Hopefully, more of them will decide to join our cause.<end>
+
+=>q80
+We'll show the people of Junkyard the truth about Protectorate. Hopefully, more of them will decide to join our cause.<end>
+
+=>q81_original
+Correct. <end>
+
+=>q81
+Correct. <end>
+
+=>a82_original
+What happens next? I'm itching for some more action.<end>
+
+=>a82
+What happens next? I'm itching for some more action.<end>
+
+=>q83_original
+We reinforce and fortify our positions. We're in the open now and are streched thin at the moment. We've suffered many casualties recently so we need to freshen up our ranks before we proceed. We are also getting short on equipment...<end>
+
+=>q83
+We reinforce and fortify our positions. We're in the open now and are streched thin at the moment. We've suffered many casualties recently so we need to freshen up our ranks before we proceed. We are also getting short on equipment...<end>
+
+=>a84_original
+Now what?<end>
+
+=>a84
+Now what?<end>
+
+=>a85_original
+They were expecting us. They must've been tipped off. Yet we suffered no casualties, because we are, simply put - that badass.<end>
+
+=>a85
+They were expecting us. They must've been tipped off. Yet we suffered no casualties, because we are, simply put - that badass.<end>
+
+=>q86_original
+Damn it, this could have ended badly. We've had no luck in exposing that, that traitor! But luckily... luckily, we've good $(#men/men and women) in our ranks.<end>
+
+=>q86
+Damn it, this could have ended badly. We've had no luck in exposing that, that traitor! But luckily... luckily, we've good $(#men/men and women) in our ranks.<end>
+
+=>q87_original
+You are correct, Alvin. <end>
+
+=>q87
+You are correct, Alvin. <end>
+
+=>a88_original
+They were expecting us. Bate must've tipped them off before we found him out. And for that, sadly, we've suffered some casualties.<end>
+
+=>a88
+They were expecting us. Bate must've tipped them off before we found him out. And for that, sadly, we've suffered some casualties.<end>
+
+=>q89_original
+I am aware of that. ::He bows his head slightly.:: <end>
+
+=>q89
+I am aware of that. ::He bows his head slightly.:: <end>
+
+=>a90_original
+They were expecting us. They must've been tipped off. And for that, sadly, we've suffered some casualties.<end>
+
+=>a90
+They were expecting us. They must've been tipped off. And for that, sadly, we've suffered some casualties.<end>
+
+=>q91_original
+Damn it! I knew it. If only we had discovered that bloody traitor, more lives would've been saved. Come on...<end>
+
+=>q91
+Damn it! I knew it. If only we had discovered that bloody traitor, more lives would've been saved. Come on...<end>
+
+=>q92_original
+<end>
+
+=>q92
+<end>
+
+=>a93_original
+They never expected us, and we suffered no casualties. Exposing Bate in time has paid off.<end>
+
+=>a93
+They never expected us, and we suffered no casualties. Exposing Bate in time has paid off.<end>
+
+=>q94_original
+It certainly did. This turned out to be an almost flawless operation. <end>
+
+=>q94
+It certainly did. This turned out to be an almost flawless operation. <end>
+
+=>q95_original
+I suppose the combination of Epione's destruction and Bate not warning them in time was enough for us to catch them off guard. They did, however, dispatch some reinforcements, but our fighters had been waiting for them and have managed to halt their advance. Even if the Cans had managed to reach SRO, it would've been far too late.<end>
+
+=>q95
+I suppose the combination of Epione's destruction and Bate not warning them in time was enough for us to catch them off guard. They did, however, dispatch some reinforcements, but our fighters had been waiting for them and have managed to halt their advance. Even if the Cans had managed to reach SRO, it would've been far too late.<end>
+
+=>a96_original
+We're not done yet! Next stop, Fort Apogee!<end>
+
+=>a96
+We're not done yet! Next stop, Fort Apogee!<end>
+
+=>q97_original
+I'm afraid not yet. We need to secure SRO first and later the embassy, in due time. We are streched thin at the moment, we've suffered many casualties recently so we need to freshen up our ranks before we proceed. We are also getting short on equipment...<end>
+
+=>q97
+I'm afraid not yet. We need to secure SRO first and later the embassy, in due time. We are streched thin at the moment, we've suffered many casualties recently so we need to freshen up our ranks before we proceed. We are also getting short on equipment...<end>
+
+=>q98_original
+Hmmm, now that Junkyard is free of Protectorate influence, we could present them the truth about those tyrants. Hopefully, some will decide to help our cause.<end>
+
+=>q98
+Hmmm, now that Junkyard is free of Protectorate influence, we could present them the truth about those tyrants. Hopefully, some will decide to help our cause.<end>
+
+=>q99_original
+And all that takes time, $(context.player.Name). But rest assured, we will be driving those pigs out of South Underrail eventually, mark my words!<end>
+
+=>q99
+And all that takes time, $(context.player.Name). But rest assured, we will be driving those pigs out of South Underrail eventually, mark my words!<end>
+
+=>a100_original
+What happens next?<end>
+
+=>a100
+What happens next?<end>
+
+=>q101_original
+We reinforce and fortify our positions. We're in the open now and are streched thin at the moment. We've suffered many casualties recently so we need to freshen up our ranks before we proceed. And we are also getting short on equipment...<end>
+
+=>q101
+We reinforce and fortify our positions. We're in the open now and are streched thin at the moment. We've suffered many casualties recently so we need to freshen up our ranks before we proceed. And we are also getting short on equipment...<end>
+
+=>a102_original
+They never expected us. Still, I'm afraid we have suffered casualties.<end>
+
+=>a102
+They never expected us. Still, I'm afraid we have suffered casualties.<end>
+
+=>q103_original
+I am aware of that. ::He bows his head slightly.:: It such a great shame, but no lives have been lost in vain today.
+
+In any case, <end>
+
+=>q103
+I am aware of that. ::He bows his head slightly.:: It such a great shame, but no lives have been lost in vain today.
+
+In any case, <end>
+
+=>a104_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a104
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q105_original
+Acorn? Hmmm, never heard of such a thing. <end>
+
+=>q105
+Acorn? Hmmm, never heard of such a thing. <end>
+
+=>q106_original
+<end>
+
+=>q106
+<end>
+
+=>q107_original
+::He slowly shakes his head.:: No, no, doesn't ring a bell either.<end>
+
+=>q107
+::He slowly shakes his head.:: No, no, doesn't ring a bell either.<end>
+
+=>q108_original
+What is it? Something to do with the Protectorate?<end>
+
+=>q108
+What is it? Something to do with the Protectorate?<end>
+
+=>q109_original
+<end>
+
+=>q109
+<end>
+
+=>a110_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>a110
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>q111_original
+::The two men look at each other.:: <end>
+
+=>q111
+::The two men look at each other.:: <end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>q113_original
+Incredible. Simply incredible... <end>
+
+=>q113
+Incredible. Simply incredible... <end>
+
+=>q114_original
+You know where this thing is, kiddo? This... Acorn, right?<end>
+
+=>q114
+You know where this thing is, kiddo? This... Acorn, right?<end>
+
+=>a115_original
+Got it right here. ::Show him the Acorn.::<end>
+
+=>a115
+Got it right here. ::Show him the Acorn.::<end>
+
+=>q116_original
+::He stares at it for a while:: <end>
+
+=>q116
+::He stares at it for a while:: <end>
+
+=>q117_original
+::, clearly puzzled by its appearance.:: That's it? That's the Acorn?<end>
+
+=>q117
+::, clearly puzzled by its appearance.:: That's it? That's the Acorn?<end>
+
+=>a118_original
+Yup.<end>
+
+=>a118
+Yup.<end>
+
+=>q119_original
+Doesn't look like much. <end>
+
+=>q119
+Doesn't look like much. <end>
+
+=>q120_original
+But if what you said is true... ::You can see his mind awakening to all the possibilities.:: <end>
+
+=>q120
+But if what you said is true... ::You can see his mind awakening to all the possibilities.:: <end>
+
+=>q121_original
+Can you open it?<end>
+
+=>q121
+Can you open it?<end>
+
+=>a122_original
+No. It's locked.<end>
+
+=>a122
+No. It's locked.<end>
+
+=>q123_original
+Then how can you be sure that what's inside is the Acorn and not something else?<end>
+
+=>q123
+Then how can you be sure that what's inside is the Acorn and not something else?<end>
+
+=>a124_original
+Trust me. I'm sure.<end>
+
+=>a124
+Trust me. I'm sure.<end>
+
+=>q125_original
+Hm, yes. ::He sighs and continues.:: Can I have it?<end>
+
+=>q125
+Hm, yes. ::He sighs and continues.:: Can I have it?<end>
+
+=>a126_original
+::Give him the Acorn.::<end>
+
+=>a126
+::Give him the Acorn.::<end>
+
+=>q127_original
+::He takes the Acorn.:: It's lighter than I thought. Hm.<end>
+
+=>q127
+::He takes the Acorn.:: It's lighter than I thought. Hm.<end>
+
+=>a128_original
+What happens now?<end>
+
+=>a128
+What happens now?<end>
+
+=>q129_original
+::He calls one of his fighters, mentioning to him the sum you and him had agreed to. After the said fighter leaves, Trenton answers your question.:: <end>
+
+=>q129
+::He calls one of his fighters, mentioning to him the sum you and him had agreed to. After the said fighter leaves, Trenton answers your question.:: <end>
+
+=>q130_original
+We'll send it North as soon as we can; we got some tech experts there who can take a look at it. It's all in their hands now.<end>
+
+=>q130
+We'll send it North as soon as we can; we got some tech experts there who can take a look at it. It's all in their hands now.<end>
+
+=>q131_original
+::The fighter returns with a bag of money and hands it to you. Hefty.:: <end>
+
+=>q131
+::The fighter returns with a bag of money and hands it to you. Hefty.:: <end>
+
+=>q132_original
+<end>
+
+=>q132
+<end>
+
+=>q133_original
+The things you told me about the Acorn... they can't but not spark my imagination: Could this be the ace up our sleeve we've been waiting for, an ace that would diminish the advantages the Cans have over us? If we could stand up to them as a well-equipped, well-armed fighting force...<end>
+
+=>q133
+The things you told me about the Acorn... they can't but not spark my imagination: Could this be the ace up our sleeve we've been waiting for, an ace that would diminish the advantages the Cans have over us? If we could stand up to them as a well-equipped, well-armed fighting force...<end>
+
+=>q134_original
+We'd crush them.<end>
+
+=>q134
+We'd crush them.<end>
+
+=>q135_original
+But let's not get ahead of ourselves...<end>
+
+=>q135
+But let's not get ahead of ourselves...<end>
+
+=>q136_original
+Thank you for this, $(context.player.Name), from me and all of your comrades. I have no doubt in my mind you went through a lot to get the Acorn. Excellent work.
+
+Now all that's left is for us to wait and see what comes out of this.<end>
+
+=>q136
+Thank you for this, $(context.player.Name), from me and all of your comrades. I have no doubt in my mind you went through a lot to get the Acorn. Excellent work.
+
+Now all that's left is for us to wait and see what comes out of this.<end>
+
+=>a137_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a137
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>q138_original
+We can arrange something. How much are you asking for?<end>
+
+=>q138
+We can arrange something. How much are you asking for?<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>a140_original
+::[Mercantile]:: Six thousand charons.<end>
+
+=>a140
+::[Mercantile]:: Six thousand charons.<end>
+
+=>q141_original
+<end>
+
+=>q141
+<end>
+
+=>q142_original
+::He pauses, nodding slowly.:: I need to check this with the North. One moment.<end>
+
+=>q142
+::He pauses, nodding slowly.:: I need to check this with the North. One moment.<end>
+
+=>q143_original
+
+
+Alvin, you keep $(context.player.Name) company.<end>
+
+=>q143
+
+
+Alvin, you keep $(context.player.Name) company.<end>
+
+=>q144_original
+::He takes one of the chairs and sits at his desk. His head is low as he's lost in deep thought - and then he begins typing. After finishing a lengthy message, he leans back and waits, his stare aimed up, at the moldy ceiling. He gives you but a few nervous glances in the meantime, and then, after a long wait a new line appears on his screen...::<end>
+
+=>q144
+::He takes one of the chairs and sits at his desk. His head is low as he's lost in deep thought - and then he begins typing. After finishing a lengthy message, he leans back and waits, his stare aimed up, at the moldy ceiling. He gives you but a few nervous glances in the meantime, and then, after a long wait a new line appears on his screen...::<end>
+
+=>q145_original
+Green light, $(context.player.Name). We got a deal.<end>
+
+=>q145
+Green light, $(context.player.Name). We got a deal.<end>
+
+=>a146_original
+Then here. ::Give him the Acorn.::<end>
+
+=>a146
+Then here. ::Give him the Acorn.::<end>
+
+=>q147_original
+<end>
+
+=>q147
+<end>
+
+=>q148_original
+That is simply too much, $(context.player.Name). I can't justify giving that kind of money for something we both know so little about. We don't even know if this really is the Acorn.<end>
+
+=>q148
+That is simply too much, $(context.player.Name). I can't justify giving that kind of money for something we both know so little about. We don't even know if this really is the Acorn.<end>
+
+=>a149_original
+::[Mercantile]:: Five thousand charons.<end>
+
+=>a149
+::[Mercantile]:: Five thousand charons.<end>
+
+=>q150_original
+<end>
+
+=>q150
+<end>
+
+=>a151_original
+::[Mercantile]:: Four thousand charons.<end>
+
+=>a151
+::[Mercantile]:: Four thousand charons.<end>
+
+=>q152_original
+<end>
+
+=>q152
+<end>
+
+=>a153_original
+::[Mercantile]:: Three thousand charons.<end>
+
+=>a153
+::[Mercantile]:: Three thousand charons.<end>
+
+=>q154_original
+<end>
+
+=>q154
+<end>
+
+=>a155_original
+Two thousand.<end>
+
+=>a155
+Two thousand.<end>
+
+=>a156_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a156
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a157_original
+I'm not. But considering where I found it and through how much trouble I had to go through to get it, it had better be the real deal.<end>
+
+=>a157
+I'm not. But considering where I found it and through how much trouble I had to go through to get it, it had better be the real deal.<end>
+
+=>a158_original
+::Shrug.::<end>
+
+=>a158
+::Shrug.::<end>
+
+=>a159_original
+::Shake your head.:: Don't know how.<end>
+
+=>a159
+::Shake your head.:: Don't know how.<end>
+
+=>q160_original
+<end>
+
+=>q160
+<end>
+
+=>a161_original
+Says so on it. ACoNR - Acorn.<end>
+
+=>a161
+Says so on it. ACoNR - Acorn.<end>
+
+=>a162_original
+::Nod.::<end>
+
+=>a162
+::Nod.::<end>
+
+=>a163_original
+Got it right here. ::Show him the Acorn.::<end>
+
+=>a163
+Got it right here. ::Show him the Acorn.::<end>
+
+=>q164_original
+::They stare at it for a while::<end>
+
+=>q164
+::They stare at it for a while::<end>
+
+=>a165_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a165
+Not yet, but I'm working on obtaining it.<end>
+
+=>q166_original
+Then good luck finding it, $(context.player.Name). In the meantime, I'll contact the Northern cells and see if anyone there knows anything about it.<end>
+
+=>q166
+Then good luck finding it, $(context.player.Name). In the meantime, I'll contact the Northern cells and see if anyone there knows anything about it.<end>
+
+=>a167_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a167
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>q168_original
+::He shakes his head.:: No. We've never heard of such a thing. <end>
+
+=>q168
+::He shakes his head.:: No. We've never heard of such a thing. <end>
+
+=>q169_original
+ Meanwhile, if you find the Acorn, bring it here as soon as possible; we don't want the Cans getting a hold of it.<end>
+
+=>q169
+ Meanwhile, if you find the Acorn, bring it here as soon as possible; we don't want the Cans getting a hold of it.<end>
+
+=>q170_original
+So, do you know where this Acorn is?<end>
+
+=>q170
+So, do you know where this Acorn is?<end>
+
+=>q171_original
+We'll take anything that can give us the edge over the Cans. <end>
+
+=>q171
+We'll take anything that can give us the edge over the Cans. <end>
+
+=>q172_original
+::He pauses in thought.:: <end>
+
+=>q172
+::He pauses in thought.:: <end>
+
+=>a173_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>a173
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>a174_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>a174
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>q175_original
+::The two men look at each other, both broad-eyed.:: <end>
+
+=>q175
+::The two men look at each other, both broad-eyed.:: <end>
+
+=>q176_original
+Weapons?<end>
+
+=>q176
+Weapons?<end>
+
+=>a177_original
+Better. Think warbots that would make Dreadnoughts look like toys, wartrains - you name it.<end>
+
+=>a177
+Better. Think warbots that would make Dreadnoughts look like toys, wartrains - you name it.<end>
+
+=>q178_original
+<end>
+
+=>q178
+<end>
+
+=>a179_original
+You betcha.<end>
+
+=>a179
+You betcha.<end>
+
+=>a180_original
+Maybe.<end>
+
+=>a180
+Maybe.<end>
+
+=>a181_original
+I don't know, but it's possible.<end>
+
+=>a181
+I don't know, but it's possible.<end>
+
+=>a182_original
+::Shrug your shoulders.::<end>
+
+=>a182
+::Shrug your shoulders.::<end>
+
+=>q183_original
+::He stares at you wide-eyed.:: <end>
+
+=>q183
+::He stares at you wide-eyed.:: <end>
+
+=>a184_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a184
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a185_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a185
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a186_original
+Nothing to do with the Cans. Actually never mind. There are more pressing matters right now than that.<end>
+
+=>a186
+Nothing to do with the Cans. Actually never mind. There are more pressing matters right now than that.<end>
+
+=>q187_original
+That I can agree with.<end>
+
+=>q187
+That I can agree with.<end>
+
+=>a188_original
+About the Acorn again...<end>
+
+=>a188
+About the Acorn again...<end>
+
+=>a189_original
+I found the Acorn. ::Show him the Acorn.::<end>
+
+=>a189
+I found the Acorn. ::Show him the Acorn.::<end>
+
+=>a190_original
+What can you tell me about the Free Drones?<end>
+
+=>a190
+What can you tell me about the Free Drones?<end>
+
+=>q191_original
+The Free Drones are an anarchist movement founded by Wallace "Steel" Cholokashvilli some twelve years ago. The term anarchy is often misinterpreted, because it is commonly associated with chaos and senseless violence. In truth, anarchist philosophy simply advocates that the people should be governed only by themselves and not by a different, usually corrupt and oppressive entity.<end>
+
+=>q191
+The Free Drones are an anarchist movement founded by Wallace "Steel" Cholokashvilli some twelve years ago. The term anarchy is often misinterpreted, because it is commonly associated with chaos and senseless violence. In truth, anarchist philosophy simply advocates that the people should be governed only by themselves and not by a different, usually corrupt and oppressive entity.<end>
+
+=>q192_original
+Of course, because of the tyrannical and brutal nature of the Underrail Protectorate, violence is necessary if we want to remain free. That's how propaganda against us actually works, especially here in the South: The Cans claim that we are just another group of bandits comparable to the likes of Ironheads, and fabricate and spread our supposed acts of terror and chaos.<end>
+
+=>q192
+Of course, because of the tyrannical and brutal nature of the Underrail Protectorate, violence is necessary if we want to remain free. That's how propaganda against us actually works, especially here in the South: The Cans claim that we are just another group of bandits comparable to the likes of Ironheads, and fabricate and spread our supposed acts of terror and chaos.<end>
+
+=>q193_original
+It's pure propaganda, $(context.player.Name), but the real truth is on our side.<end>
+
+=>q193
+It's pure propaganda, $(context.player.Name), but the real truth is on our side.<end>
+
+=>a194_original
+What can you tell me about the Protectorate?<end>
+
+=>a194
+What can you tell me about the Protectorate?<end>
+
+=>q195_original
+The atrocities commited by the filthy militaristic Underrail Protectorate are simply too numerous, but I believe the most effective example would be the one that shaped Underrail the most...<end>
+
+=>q195
+The atrocities commited by the filthy militaristic Underrail Protectorate are simply too numerous, but I believe the most effective example would be the one that shaped Underrail the most...<end>
+
+=>q196_original
+The demise of Biocorp. Some fifteen years ago the supercorporation had already been weakened from the inside and was no match for the growing power of the Protectorate. Biocorp ceased to exist, being swallowed by the Protectorate, leaving no one to compete for power over North Underrail.<end>
+
+=>q196
+The demise of Biocorp. Some fifteen years ago the supercorporation had already been weakened from the inside and was no match for the growing power of the Protectorate. Biocorp ceased to exist, being swallowed by the Protectorate, leaving no one to compete for power over North Underrail.<end>
+
+=>q197_original
+General Melek, the founder of Protectorate, disbanded the Great Council, and when I say disbanded - I mean bribed, threatened and assassinated its members. A small group of remaining Biocorp loyalists attempted a coup but were quickly apprehended and executed together with another bunch of influential people who *could* have been potentially dangerous.<end>
+
+=>q197
+General Melek, the founder of Protectorate, disbanded the Great Council, and when I say disbanded - I mean bribed, threatened and assassinated its members. A small group of remaining Biocorp loyalists attempted a coup but were quickly apprehended and executed together with another bunch of influential people who *could* have been potentially dangerous.<end>
+
+=>q198_original
+No one dared stand in Melek's way after that, but to further brainwash the citizens and hide the apparent autocracy, he formed the United Stations, led by the council of five. Melek is in charge, of course, but this way it gives off a democratic feel, which is all bogus, naturally.<end>
+
+=>q198
+No one dared stand in Melek's way after that, but to further brainwash the citizens and hide the apparent autocracy, he formed the United Stations, led by the council of five. Melek is in charge, of course, but this way it gives off a democratic feel, which is all bogus, naturally.<end>
+
+=>q199_original
+Of course, not everyone is dumb to the core, so the Free Drones materialized into existence soon after that. Still, our fight is far from over, for the fabrications perpetuated by the Cans have great influence to this day. Flashy lies attract human herds the most.<end>
+
+=>q199
+Of course, not everyone is dumb to the core, so the Free Drones materialized into existence soon after that. Still, our fight is far from over, for the fabrications perpetuated by the Cans have great influence to this day. Flashy lies attract human herds the most.<end>
+
+=>a200_original
+What can you tell me about Bate?<end>
+
+=>a200
+What can you tell me about Bate?<end>
+
+=>q201_original
+I have no desire to talk about that traitor.<end>
+
+=>q201
+I have no desire to talk about that traitor.<end>
+
+=>q202_original
+Please, let's change the subject.<end>
+
+=>q202
+Please, let's change the subject.<end>
+
+=>q203_original
+Alvin is a good leader, and while we run the cell together, at the moment, I believe that even if something was to happen to me, he'd be able to command the base on his own without problems. He's one intelligent and capable man.<end>
+
+=>q203
+Alvin is a good leader, and while we run the cell together, at the moment, I believe that even if something was to happen to me, he'd be able to command the base on his own without problems. He's one intelligent and capable man.<end>
+
+=>q204_original
+At the same time, while he has a strong sense of humor and knows how to approach and socialize with people, he can forget himself at times. It's just... he "overdoes" it from time to time, for the lack of a better term.<end>
+
+=>q204
+At the same time, while he has a strong sense of humor and knows how to approach and socialize with people, he can forget himself at times. It's just... he "overdoes" it from time to time, for the lack of a better term.<end>
+
+=>a205_original
+You mentioned Marcella. Who is she?<end>
+
+=>a205
+You mentioned Marcella. Who is she?<end>
+
+=>q206_original
+Marcella Green was one of this cell's leaders, alongside Alvin and myself. I must admit that she was the... the charismatic one. She knew how to motivate people, how to make them believe they can overcome anything Protectorate throws at them and end up victorious. It's something I really admired, and truthfully... I envied her for it. It's something I'll never be able to do.<end>
+
+=>q206
+Marcella Green was one of this cell's leaders, alongside Alvin and myself. I must admit that she was the... the charismatic one. She knew how to motivate people, how to make them believe they can overcome anything Protectorate throws at them and end up victorious. It's something I really admired, and truthfully... I envied her for it. It's something I'll never be able to do.<end>
+
+=>q207_original
+She disappeared without a trace about two months ago. She left the base for an unspecified reason and never returned. We searched for her, but as you can see, we haven't found her.<end>
+
+=>q207
+She disappeared without a trace about two months ago. She left the base for an unspecified reason and never returned. We searched for her, but as you can see, we haven't found her.<end>
+
+=>a208_original
+What if she's the spy?<end>
+
+=>a208
+What if she's the spy?<end>
+
+=>q209_original
+It is quite possible, even though I hope she's not. I mean, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other concealed equipment, but found nothing.<end>
+
+=>q209
+It is quite possible, even though I hope she's not. I mean, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other concealed equipment, but found nothing.<end>
+
+=>q210_original
+I hope she hasn't betrayed us. Traitors are punished by death, and if we ever find her, we're going to have a long talk...<end>
+
+=>q210
+I hope she hasn't betrayed us. Traitors are punished by death, and if we ever find her, we're going to have a long talk...<end>
+
+=>a211_original
+Maybe she ran away?<end>
+
+=>a211
+Maybe she ran away?<end>
+
+=>q212_original
+She is not a coward, that I can be certain of. Either something happened to her, or she's not on our side anymore. Yes, perhaps *she* is the spy. It would be logical. On the other hand, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other hidden equipment, but found nothing.<end>
+
+=>q212
+She is not a coward, that I can be certain of. Either something happened to her, or she's not on our side anymore. Yes, perhaps *she* is the spy. It would be logical. On the other hand, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other hidden equipment, but found nothing.<end>
+
+=>a213_original
+I'd like to ask you another question.<end>
+
+=>a213
+I'd like to ask you another question.<end>
+
+=>q214_original
+Alright. Speak...<end>
+
+=>q214
+Alright. Speak...<end>
+
+=>a215_original
+How's Kaya doing?<end>
+
+=>a215
+How's Kaya doing?<end>
+
+=>q216_original
+Kaya? The Izumi lookalike?<end>
+
+=>q216
+Kaya? The Izumi lookalike?<end>
+
+=>q217_original
+Yes... the one.
+
+<end>
+
+=>q217
+Yes... the one.
+
+<end>
+
+=>q218_original
+She's doing well so far. Her relationship with the Black Eels makes her quite a valuable asset, and she herself appears to be quite a capable woman. She just needs some time to get used to her new life here, as we all once did, naturally.<end>
+
+=>q218
+She's doing well so far. Her relationship with the Black Eels makes her quite a valuable asset, and she herself appears to be quite a capable woman. She just needs some time to get used to her new life here, as we all once did, naturally.<end>
+
+=>q219_original
+Don't worry, she's in good hands. Darling's taking good care of her.<end>
+
+=>q219
+Don't worry, she's in good hands. Darling's taking good care of her.<end>
+
+=>q220_original
+Yes, Kaya, your friend. <end>
+
+=>q220
+Yes, Kaya, your friend. <end>
+
+=>a221_original
+What happens to Marcella now?<end>
+
+=>a221
+What happens to Marcella now?<end>
+
+=>q222_original
+We'll talk about this later.<end>
+
+=>q222
+We'll talk about this later.<end>
+
+=>q223_original
+::He looks at Marcella.::
+
+Later.<end>
+
+=>q223
+::He looks at Marcella.::
+
+Later.<end>
+
+=>q224_original
+Well, $(context.player.Name), Marcella had been missing for two months. She clearly has memory issues; that is a major problem that needs to be evaluated medically, and we have no one here who can do that. Also, there are some *other* issues with her absence as well: Even though I believe her regarding everything that had happened, with Bate and all, I do not know for sure. Regardless of my feelings for the whole situation, certain procedures still have to be followed.<end>
+
+=>q224
+Well, $(context.player.Name), Marcella had been missing for two months. She clearly has memory issues; that is a major problem that needs to be evaluated medically, and we have no one here who can do that. Also, there are some *other* issues with her absence as well: Even though I believe her regarding everything that had happened, with Bate and all, I do not know for sure. Regardless of my feelings for the whole situation, certain procedures still have to be followed.<end>
+
+=>a225_original
+What do you exactly mean by that?<end>
+
+=>a225
+What do you exactly mean by that?<end>
+
+=>q226_original
+By that I mean we <end>
+
+=>q226
+By that I mean we <end>
+
+=>q227_original
+are sending her to a place where she will be questioned about her whereabouts during that time period. We have people that can ascertain whether she's telling the truth or not. After that, she is safe to return and resume her duties, if she is capable of doing so.<end>
+
+=>q227
+are sending her to a place where she will be questioned about her whereabouts during that time period. We have people that can ascertain whether she's telling the truth or not. After that, she is safe to return and resume her duties, if she is capable of doing so.<end>
+
+=>q228_original
+Listen... There are plenty of grim stories circulating throughout South Underrail regarding some of our methods: No torture of any kind will be involved. Trust me. You've gotten to know us by now, $(context.player.Name). We are not like that - we are not Protectorate. 
+
+But Bate was a trusted man, and look what he turned out to be. We have to be sure.<end>
+
+=>q228
+Listen... There are plenty of grim stories circulating throughout South Underrail regarding some of our methods: No torture of any kind will be involved. Trust me. You've gotten to know us by now, $(context.player.Name). We are not like that - we are not Protectorate. 
+
+But Bate was a trusted man, and look what he turned out to be. We have to be sure.<end>
+
+=>a229_original
+She went through so much already. Can't you make an exception?<end>
+
+=>a229
+She went through so much already. Can't you make an exception?<end>
+
+=>q230_original
+I would love to, I really would. But my faith in the people I've worked with has been... shaken up a bit. Trust me on this one, it is for the best.
+
+Stay free, $(context.player.Name).<end>
+
+=>q230
+I would love to, I really would. But my faith in the people I've worked with has been... shaken up a bit. Trust me on this one, it is for the best.
+
+Stay free, $(context.player.Name).<end>
+
+=>a231_original
+Stay free.<end>
+
+=>a231
+Stay free.<end>
+
+=>a232_original
+Yeah, goodbye.<end>
+
+=>a232
+Yeah, goodbye.<end>
+
+=>a233_original
+I understand.<end>
+
+=>a233
+I understand.<end>
+
+=>q234_original
+I'm glad you do.
+
+Stay free, $(context.player.Name).<end>
+
+=>q234
+I'm glad you do.
+
+Stay free, $(context.player.Name).<end>
+
+=>a235_original
+What did you do to her?<end>
+
+=>a235
+What did you do to her?<end>
+
+=>q236_original
+We <end>
+
+=>q236
+We <end>
+
+=>a237_original
+You didn't... kill her?<end>
+
+=>a237
+You didn't... kill her?<end>
+
+=>q238_original
+Of course not. But, she can't exactly just step back in. We <end>
+
+=>q238
+Of course not. But, she can't exactly just step back in. We <end>
+
+=>a239_original
+Aren't you worried that Protectorate might try to retake South Railroad Outpost?<end>
+
+=>a239
+Aren't you worried that Protectorate might try to retake South Railroad Outpost?<end>
+
+=>q240_original
+Of course, but take this into consideration: Protectorate completely lost control in Lower Underrail; if they plan on attacking us, they will have to go through Core City, there is just no other way. This means that we will always know when they're coming and be prepared.<end>
+
+=>q240
+Of course, but take this into consideration: Protectorate completely lost control in Lower Underrail; if they plan on attacking us, they will have to go through Core City, there is just no other way. This means that we will always know when they're coming and be prepared.<end>
+
+=>q241_original
+And now, there is no indication that they will make any attempts at reconquering SRO. We won, for now. But don't think we're not keeping our eyes open, ever, $(context.player.Name).<end>
+
+=>q241
+And now, there is no indication that they will make any attempts at reconquering SRO. We won, for now. But don't think we're not keeping our eyes open, ever, $(context.player.Name).<end>
+
+=>a242_original
+So long and stay free.<end>
+
+=>a242
+So long and stay free.<end>
+
+=>q243_original
+Unbelievable; I still find it difficult to grasp. If Alvin was the spy, then the Cans must know some of the most sensitive information about us and our current affairs.<end>
+
+=>q243
+Unbelievable; I still find it difficult to grasp. If Alvin was the spy, then the Cans must know some of the most sensitive information about us and our current affairs.<end>
+
+=>q244_original
+We were lucky we even managed to capture South Railroad Outpost.<end>
+
+=>q244
+We were lucky we even managed to capture South Railroad Outpost.<end>
+
+=>q245_original
+We need to take out SRO fast, $(context.player.Name). There is no time to waste.<end>
+
+=>q245
+We need to take out SRO fast, $(context.player.Name). There is no time to waste.<end>
+
+=>q246_original
+Despite this, we must stick with our plans. If we work fast, perhaps we can still stay one step ahead of the Protectorate.<end>
+
+=>q246
+Despite this, we must stick with our plans. If we work fast, perhaps we can still stay one step ahead of the Protectorate.<end>
+
+=>q247_original
+<end>
+
+=>q247
+<end>
+
+=>q248_original
+$(context.player.Name), I've just had some missing fighters return to base. They informed me they were captured by the Lurkers, but you managed to rescue them all.
+
+Outstanding work! Bate was in charge of asking for volunteers, but who needs those when we have you.<end>
+
+=>q248
+$(context.player.Name), I've just had some missing fighters return to base. They informed me they were captured by the Lurkers, but you managed to rescue them all.
+
+Outstanding work! Bate was in charge of asking for volunteers, but who needs those when we have you.<end>
+
+=>q249_original
+I've arranged with Becket to give you a reward, go see him, he has it ready.<end>
+
+=>q249
+I've arranged with Becket to give you a reward, go see him, he has it ready.<end>
+
+=>q250_original
+$(context.player.Name), I've just had some missing fighters return to base. They informed me they were captured by the Lurkers, but you managed to rescue two of them...
+
+While losing one fighter is still a great loss, you did great work! Bate was in charge of asking for volunteers, but who needs those when we have you.<end>
+
+=>q250
+$(context.player.Name), I've just had some missing fighters return to base. They informed me they were captured by the Lurkers, but you managed to rescue two of them...
+
+While losing one fighter is still a great loss, you did great work! Bate was in charge of asking for volunteers, but who needs those when we have you.<end>
+
+=>q251_original
+$(context.player.Name), I've just had a missing fighter return to base. He informed me he was captured by the Lurkers, but you managed to rescue him...
+
+He also told me there were two more who couldn't make it. I know you feel bad, but sometimes we just can't save everyone...<end>
+
+=>q251
+$(context.player.Name), I've just had a missing fighter return to base. He informed me he was captured by the Lurkers, but you managed to rescue him...
+
+He also told me there were two more who couldn't make it. I know you feel bad, but sometimes we just can't save everyone...<end>
+
+=>q252_original
+::You see two men standing next to a table full of differently colored maps, some printed, some drawn by hand. A true strategic collage. One of the two men notices you enter and addresses you.::
+
+Hello, $(context.player.Name) and welcome to the base. My name is Corben Trenton and the gentleman next to me is Alvin Bate. We are currently in charge of the South Underrail Free Drones cell. We don't have much to offer in terms of comfort, as you can see for yourself; but don't worry, once we win this bloody war, we will not be hiding in under-passages anymore.<end>
+
+=>q252
+::You see two men standing next to a table full of differently colored maps, some printed, some drawn by hand. A true strategic collage. One of the two men notices you enter and addresses you.::
+
+Hello, $(context.player.Name) and welcome to the base. My name is Corben Trenton and the gentleman next to me is Alvin Bate. We are currently in charge of the South Underrail Free Drones cell. We don't have much to offer in terms of comfort, as you can see for yourself; but don't worry, once we win this bloody war, we will not be hiding in under-passages anymore.<end>
+
+=>a253_original
+It's a pleasure to meet you two.<end>
+
+=>a253
+It's a pleasure to meet you two.<end>
+
+=>q254_original
+Likewise.<end>
+
+=>q254
+Likewise.<end>
+
+=>q255_original
+Always nice to see young blood here, kiddo. We need all the help we can get.<end>
+
+=>q255
+Always nice to see young blood here, kiddo. We need all the help we can get.<end>
+
+=>q256_original
+Before I forget, you should see Becket, our supplier, and tell him I sent you. All newcomers get to choose their gear when they first arrive. You'll do that on your way out, because we've got a little errand for you.
+
+Alvin, you or me?<end>
+
+=>q256
+Before I forget, you should see Becket, our supplier, and tell him I sent you. All newcomers get to choose their gear when they first arrive. You'll do that on your way out, because we've got a little errand for you.
+
+Alvin, you or me?<end>
+
+=>q257_original
+Hmmm... I'll do it.
+
+Alright, kiddo, it's story time.<end>
+
+=>q257
+Hmmm... I'll do it.
+
+Alright, kiddo, it's story time.<end>
+
+=>q258_original
+A long time ago, in Junkyard...<end>
+
+=>q258
+A long time ago, in Junkyard...<end>
+
+=>q259_original
+Alvin, please...<end>
+
+=>q259
+Alvin, please...<end>
+
+=>q260_original
+Okay, okay... ::He clears throat.:: Ever since Protectorate came to Junkyard and established the United Stations embassy, we had to form a small group of capable agents who will:
+
+a. Keep an eye out on whatever the Cans are doing.
+b. Try to counter the Protectorate brainwashing as much as possible, and various other tasks.<end>
+
+=>q260
+Okay, okay... ::He clears throat.:: Ever since Protectorate came to Junkyard and established the United Stations embassy, we had to form a small group of capable agents who will:
+
+a. Keep an eye out on whatever the Cans are doing.
+b. Try to counter the Protectorate brainwashing as much as possible, and various other tasks.<end>
+
+=>q261_original
+They, the agents, are dug in a small hideout in the poor... poorer section of Junkyard and have operated without a hitch for quite some time.
+
+Your mission is simple, go to Junkyard, find the hideout - I'll explain how to get there in a moment - and then talk to Sarah. You've met her before, she is the woman who sent you here and is in charge of the whole Junkyard operation. She'll give you some surveillance equipment they "recovered" which needs to be brought here.<end>
+
+=>q261
+They, the agents, are dug in a small hideout in the poor... poorer section of Junkyard and have operated without a hitch for quite some time.
+
+Your mission is simple, go to Junkyard, find the hideout - I'll explain how to get there in a moment - and then talk to Sarah. You've met her before, she is the woman who sent you here and is in charge of the whole Junkyard operation. She'll give you some surveillance equipment they "recovered" which needs to be brought here.<end>
+
+=>q262_original
+Hutch is already on his way there, you might need a helping hand with carrying all that stuff. You'll draw less attention if you go one by one.<end>
+
+=>q262
+Hutch is already on his way there, you might need a helping hand with carrying all that stuff. You'll draw less attention if you go one by one.<end>
+
+=>q263_original
+<end>
+
+=>q263
+<end>
+
+=>a264_original
+What sort of equipment are we talking about?<end>
+
+=>a264
+What sort of equipment are we talking about?<end>
+
+=>q265_original
+Unstable explosives...<end>
+
+=>q265
+Unstable explosives...<end>
+
+=>q266_original
+Just joking, kiddo! It's some high tech communications equipment that will come in handy to us. Protectorate approved. ::He laughs.::<end>
+
+=>q266
+Just joking, kiddo! It's some high tech communications equipment that will come in handy to us. Protectorate approved. ::He laughs.::<end>
+
+=>a267_original
+Who's Hutch?<end>
+
+=>a267
+Who's Hutch?<end>
+
+=>q268_original
+The man you passed when you entered the base. Don't you remember?<end>
+
+=>q268
+The man you passed when you entered the base. Don't you remember?<end>
+
+=>q269_original
+Come on Corben, $(#he/she) just got here. Too many names and faces to remember. By the way, Hutch volunteered to go to Junkyard. He wants to see Sarah. ::Laughs.:: Bless 'em.<end>
+
+=>q269
+Come on Corben, $(#he/she) just got here. Too many names and faces to remember. By the way, Hutch volunteered to go to Junkyard. He wants to see Sarah. ::Laughs.:: Bless 'em.<end>
+
+=>a270_original
+I'm ready to go, just tell me how to get there.<end>
+
+=>a270
+I'm ready to go, just tell me how to get there.<end>
+
+=>q271_original
+You've already met with Sarah in Junkyard, so you know how to reach it. Once you're in Junkyard, find Kareem's Bar. There's a small alley just north of it, and once there, take the first door on the left. Knock four times, slowly, and they'll let you in.<end>
+
+=>q271
+You've already met with Sarah in Junkyard, so you know how to reach it. Once you're in Junkyard, find Kareem's Bar. There's a small alley just north of it, and once there, take the first door on the left. Knock four times, slowly, and they'll let you in.<end>
+
+=>a272_original
+Wow, you people really like to make things complicated.<end>
+
+=>a272
+Wow, you people really like to make things complicated.<end>
+
+=>q273_original
+It was necessary. Take the equipment straight to Becket once you get back.<end>
+
+=>q273
+It was necessary. Take the equipment straight to Becket once you get back.<end>
+
+=>q274_original
+It might seem like a dull thing to do, haul equipment that is, but someone's gotta do it. Usually this is done by Maura, but she's been captured by the Cans so... you understand. Take care and stay free.<end>
+
+=>q274
+It might seem like a dull thing to do, haul equipment that is, but someone's gotta do it. Usually this is done by Maura, but she's been captured by the Cans so... you understand. Take care and stay free.<end>
+
+=>q275_original
+<end>
+
+=>q275
+<end>
+
+=>q276_original
+Wait... I nearly forgot: there is one thing we would like to thank you for.<end>
+
+=>q276
+Wait... I nearly forgot: there is one thing we would like to thank you for.<end>
+
+=>q277_original
+Oh, yes...<end>
+
+=>q277
+Oh, yes...<end>
+
+=>a278_original
+What are you talking about?<end>
+
+=>a278
+What are you talking about?<end>
+
+=>q279_original
+We've just had some missing fighters return to base. They informed us they were captured by the Lurkers, but you managed to rescue them.
+
+Outstanding work!<end>
+
+=>q279
+We've just had some missing fighters return to base. They informed us they were captured by the Lurkers, but you managed to rescue them.
+
+Outstanding work!<end>
+
+=>q280_original
+We've arranged with Becket to give you a reward for that too, kiddo, so definitely talk to him on your way out.
+
+Take care and stay free.<end>
+
+=>q280
+We've arranged with Becket to give you a reward for that too, kiddo, so definitely talk to him on your way out.
+
+Take care and stay free.<end>
+
+=>q281_original
+We've just had one missing fighter return to base. He informed us about being captured by the Lurkers, but you managed to rescue him.
+
+Two more were captured, but I'm afraid they didn't make it... Still, thank you for saving even one.<end>
+
+=>q281
+We've just had one missing fighter return to base. He informed us about being captured by the Lurkers, but you managed to rescue him.
+
+Two more were captured, but I'm afraid they didn't make it... Still, thank you for saving even one.<end>
+
+=>a282_original
+I don't follow you.<end>
+
+=>a282
+I don't follow you.<end>
+
+=>q283_original
+::Trenton nods.::<end>
+
+=>q283
+::Trenton nods.::<end>
+
+=>a284_original
+Bye.<end>
+
+=>a284
+Bye.<end>
+
+=>q285_original
+It might seem like a dull thing to do, haul equipment that is, but someone's gotta do it. Usually this is done by Maura, but she can't show her face in Junkyard anymore unless she wants to end up behind bars again... you understand. Take care and stay free.<end>
+
+=>q285
+It might seem like a dull thing to do, haul equipment that is, but someone's gotta do it. Usually this is done by Maura, but she can't show her face in Junkyard anymore unless she wants to end up behind bars again... you understand. Take care and stay free.<end>
+
+=>a286_original
+I'm on my way.<end>
+
+=>a286
+I'm on my way.<end>
+
+=>q287_original
+Good. Take the equipment to Becket once you are back.<end>
+
+=>q287
+Good. Take the equipment to Becket once you are back.<end>
+
+=>a288_original
+You mean, there's more Free Drones out there?<end>
+
+=>a288
+You mean, there's more Free Drones out there?<end>
+
+=>q289_original
+Indeed. What you see here is just a small part of a much bigger picture. We are not as strong in South Underrail as we are in the North, but we're working on it.<end>
+
+=>q289
+Indeed. What you see here is just a small part of a much bigger picture. We are not as strong in South Underrail as we are in the North, but we're working on it.<end>
+
+=>q290_original
+That's where young people like you come in, kiddo. We need all the help we can get if we're gonna confront the Protectorate.<end>
+
+=>q290
+That's where young people like you come in, kiddo. We need all the help we can get if we're gonna confront the Protectorate.<end>
+
+=>a291_original
+Yeah, this place sucks. How could anyone live here?<end>
+
+=>a291
+Yeah, this place sucks. How could anyone live here?<end>
+
+=>q292_original
+Some sacrifices had to be made. The Protectorate is not likely to disturb us here, we'd be in a much more vulnerable position elsewhere. Lurkers create a decent buffer zone and the passages themselves are not simple to navigate.<end>
+
+=>q292
+Some sacrifices had to be made. The Protectorate is not likely to disturb us here, we'd be in a much more vulnerable position elsewhere. Lurkers create a decent buffer zone and the passages themselves are not simple to navigate.<end>
+
+=>q293_original
+Protectorate is not to be taken lightly, kiddo. As Corben said, we are pretty well hidden from the Protectorate and their agents. Even if they find us somehow, they would lose the numerical advantage in these narrow tunnels.<end>
+
+=>q293
+Protectorate is not to be taken lightly, kiddo. As Corben said, we are pretty well hidden from the Protectorate and their agents. Even if they find us somehow, they would lose the numerical advantage in these narrow tunnels.<end>
+
+=>q294_original
+Speak.<end>
+
+=>q294
+Speak.<end>
+

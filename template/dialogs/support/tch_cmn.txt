@@ -1,0 +1,72 @@
+=>q1_original
+NO!<end>
+
+=>q1
+NO!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Apex wear, $(#brother/sister)!<end>
+
+=>q3
+Apex wear, $(#brother/sister)!<end>
+
+=>q4_original
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q4
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q5_original
+"We can and we must," said Eidein!<end>
+
+=>q5
+"We can and we must," said Eidein!<end>
+
+=>q6_original
+What can I do for you, $(#brother/sister)?<end>
+
+=>q6
+What can I do for you, $(#brother/sister)?<end>
+
+=>q7_original
+Hey, you're that novitiate... um, what was it... Yes - $(context.player.Name)!<end>
+
+=>q7
+Hey, you're that novitiate... um, what was it... Yes - $(context.player.Name)!<end>
+
+=>q8_original
+We haven't encountered the Faceless in years! What made them attack Core City?<end>
+
+=>q8
+We haven't encountered the Faceless in years! What made them attack Core City?<end>
+
+=>q9_original
+I don't think there is a library in South Underrail that can match ours.<end>
+
+=>q9
+I don't think there is a library in South Underrail that can match ours.<end>
+
+=>q10_original
+Tchort guide you, wherever you may be.<end>
+
+=>q10
+Tchort guide you, wherever you may be.<end>
+
+=>q11_original
+If you're hungry, the refectory is just west of the man hall.<end>
+
+=>q11
+If you're hungry, the refectory is just west of the man hall.<end>
+
+=>q12_original
+The West Wing has been opened a few days ago - do not go there!<end>
+
+=>q12
+The West Wing has been opened a few days ago - do not go there!<end>
+

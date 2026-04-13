@@ -1,0 +1,308 @@
+=>q1_original
+Get lost!<end>
+
+=>q1
+Get lost!<end>
+
+=>q2_original
+Do you have the money?<end>
+
+=>q2
+Do you have the money?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I have one thousand charons. Will you let him go if I give them to you? ::Give him 1000 stygian coins.::<end>
+
+=>a4
+I have one thousand charons. Will you let him go if I give them to you? ::Give him 1000 stygian coins.::<end>
+
+=>q5_original
+::He takes the money with a metallic grin on his face.:: Oh, we are golden! Oh, yeah. This is the real deal. I must say, hell, my friends aren't nearly as charitable as Hugo's. ::He laughs.:: But, I can't complain. I can't complain.
+
+Now get lost, both of you. Come on, you heard me - move it!<end>
+
+=>q5
+::He takes the money with a metallic grin on his face.:: Oh, we are golden! Oh, yeah. This is the real deal. I must say, hell, my friends aren't nearly as charitable as Hugo's. ::He laughs.:: But, I can't complain. I can't complain.
+
+Now get lost, both of you. Come on, you heard me - move it!<end>
+
+=>a6_original
+::Leave camp.::<end>
+
+=>a6
+::Leave camp.::<end>
+
+=>a7_original
+I don't have that much money on me, but I can get it for you.<end>
+
+=>a7
+I don't have that much money on me, but I can get it for you.<end>
+
+=>q8_original
+::The man strokes his beard, thinking about what you've said. He soon responds.:: Deal. But be quick or Hugo get's it. And don't attempt any funky business, you got that? Now move it.<end>
+
+=>q8
+::The man strokes his beard, thinking about what you've said. He soon responds.:: Deal. But be quick or Hugo get's it. And don't attempt any funky business, you got that? Now move it.<end>
+
+=>a9_original
+You'll get your money.<end>
+
+=>a9
+You'll get your money.<end>
+
+=>a10_original
+I'm gone.<end>
+
+=>a10
+I'm gone.<end>
+
+=>a11_original
+::Leave.::<end>
+
+=>a11
+::Leave.::<end>
+
+=>a12_original
+How about I give you half of what Hugo owes you? Deal?<end>
+
+=>a12
+How about I give you half of what Hugo owes you? Deal?<end>
+
+=>q13_original
+Let me explain how things work in the real world, contrary to your "How about I give you half of that?" fantasy land. This man owes me one thousand charons. I'm not letting him go until I have what? One. Thousand. Charons. You got that?<end>
+
+=>q13
+Let me explain how things work in the real world, contrary to your "How about I give you half of that?" fantasy land. This man owes me one thousand charons. I'm not letting him go until I have what? One. Thousand. Charons. You got that?<end>
+
+=>q14_original
+Do you dig what I'm saying? I hope you do.<end>
+
+=>q14
+Do you dig what I'm saying? I hope you do.<end>
+
+=>a15_original
+Where did you get so much money to loan to Hugo?<end>
+
+=>a15
+Where did you get so much money to loan to Hugo?<end>
+
+=>q16_original
+That's none of your business.<end>
+
+=>q16
+That's none of your business.<end>
+
+=>q17_original
+Look, I don't think you realize what you've gotten yourself into, so stop asking stupid questions and pay attention. I have a short fuse and you and your friend are lighting it right now.<end>
+
+=>q17
+Look, I don't think you realize what you've gotten yourself into, so stop asking stupid questions and pay attention. I have a short fuse and you and your friend are lighting it right now.<end>
+
+=>a18_original
+I'm looking for an unusual item and was wondering if you perhaps had it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.<end>
+
+=>a18
+I'm looking for an unusual item and was wondering if you perhaps had it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.<end>
+
+=>q19_original
+What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.<end>
+
+=>q19
+What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.<end>
+
+=>q20_original
+"It's something really striking," $(#he/she) says. Unbelievable.<end>
+
+=>q20
+"It's something really striking," $(#he/she) says. Unbelievable.<end>
+
+=>a21_original
+Not yet, but I'll get it.<end>
+
+=>a21
+Not yet, but I'll get it.<end>
+
+=>q22_original
+You better.<end>
+
+=>q22
+You better.<end>
+
+=>a23_original
+I'm getting really tired of you, prepare to die! ::Attack!::<end>
+
+=>a23
+I'm getting really tired of you, prepare to die! ::Attack!::<end>
+
+=>q24_original
+::A man whose jaw looks strong enough for him to chew through metal bars as if they were candy turns toward you with a stern look on his face. Somewhat surprised by your presence, he grasps his weapon tightly, while looking in the direction of the man who let you through to him. After that, his eyes fall on you, inspecting you for a split second before he decides to speak with an impatient, heavy voice, revealing almost all of his upper teeth to be made of some silver-colored metal, drawing your thoughts back to the first impression you got when you met him.::
+
+Who the *hell* are you and what are you doing here?<end>
+
+=>q24
+::A man whose jaw looks strong enough for him to chew through metal bars as if they were candy turns toward you with a stern look on his face. Somewhat surprised by your presence, he grasps his weapon tightly, while looking in the direction of the man who let you through to him. After that, his eyes fall on you, inspecting you for a split second before he decides to speak with an impatient, heavy voice, revealing almost all of his upper teeth to be made of some silver-colored metal, drawing your thoughts back to the first impression you got when you met him.::
+
+Who the *hell* are you and what are you doing here?<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+I'm $(context.player.Name) and I'd like to talk with Hugo.<end>
+
+=>a26
+I'm $(context.player.Name) and I'd like to talk with Hugo.<end>
+
+=>q27_original
+No can do. Hugo and I have some important things to... "discuss."<end>
+
+=>q27
+No can do. Hugo and I have some important things to... "discuss."<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I am aware that Hugo is in debt.<end>
+
+=>a29
+I am aware that Hugo is in debt.<end>
+
+=>q30_original
+Oh, you are? That's interesting. And do you know how much this worm owes me?<end>
+
+=>q30
+Oh, you are? That's interesting. And do you know how much this worm owes me?<end>
+
+=>q31_original
+One freakin' thousand freakin' charons!<end>
+
+=>q31
+One freakin' thousand freakin' charons!<end>
+
+=>a32_original
+::[Persuade]:: How about you simply let him go and be on your way?<end>
+
+=>a32
+::[Persuade]:: How about you simply let him go and be on your way?<end>
+
+=>q33_original
+Let me think about it real careful...<end>
+
+=>q33
+Let me think about it real careful...<end>
+
+=>q34_original
+No.<end>
+
+=>q34
+No.<end>
+
+=>a35_original
+Why do you keep him here?<end>
+
+=>a35
+Why do you keep him here?<end>
+
+=>q36_original
+Your friend here owes me a lot of money. I've waited for him to return it, and I've waited, and waited, and WAITED! Hugo let me wait for too long, and now the worm's gonna have to cough up the money somehow, right here, right now!<end>
+
+=>q36
+Your friend here owes me a lot of money. I've waited for him to return it, and I've waited, and waited, and WAITED! Hugo let me wait for too long, and now the worm's gonna have to cough up the money somehow, right here, right now!<end>
+
+=>q37_original
+He's gonna have real trouble coughing up one thousand charons, that's for sure, but I don't freakin' care. I. Want. My. Money!<end>
+
+=>q37
+He's gonna have real trouble coughing up one thousand charons, that's for sure, but I don't freakin' care. I. Want. My. Money!<end>
+
+=>a38_original
+I'm looking for an unusual item and was wondering if you perhaps possessed it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.<end>
+
+=>a38
+I'm looking for an unusual item and was wondering if you perhaps possessed it at some point? I cannot describe it, but it is something really striking, unlikely for anyone to forget.<end>
+
+=>q39_original
+What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.<end>
+
+=>q39
+What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.<end>
+
+=>q40_original
+"It's something really striking," $(#he/she) says. Unbelievable.<end>
+
+=>q40
+"It's something really striking," $(#he/she) says. Unbelievable.<end>
+
+=>a41_original
+I'm going to leave.<end>
+
+=>a41
+I'm going to leave.<end>
+
+=>q42_original
+The *hell* you are! You're my prisoner now until I figure out what exactly is going on here. Attempt to leave and you'll get yourself shot.<end>
+
+=>q42
+The *hell* you are! You're my prisoner now until I figure out what exactly is going on here. Attempt to leave and you'll get yourself shot.<end>
+
+=>a43_original
+Fine, let's talk.<end>
+
+=>a43
+Fine, let's talk.<end>
+
+=>q44_original
+::Jacek grins.::<end>
+
+=>q44
+::Jacek grins.::<end>
+
+=>a45_original
+::Walk away.::<end>
+
+=>a45
+::Walk away.::<end>
+
+=>a46_original
+None of your business, pal. Just let me talk with Hugo.<end>
+
+=>a46
+None of your business, pal. Just let me talk with Hugo.<end>
+
+=>q47_original
+You think you can come here and give me orders like I'm a nipper or something!? Are you freaking'stupid? Tell me who you are and why you're here?<end>
+
+=>q47
+You think you can come here and give me orders like I'm a nipper or something!? Are you freaking'stupid? Tell me who you are and why you're here?<end>
+
+=>a48_original
+You know what? I better leave you to your business. Bye.<end>
+
+=>a48
+You know what? I better leave you to your business. Bye.<end>
+
+=>q49_original
+Just who do you think you are? You can't just stroll around my camp like it belongs to you. Tell me who you are and why you're here? Spill it.<end>
+
+=>q49
+Just who do you think you are? You can't just stroll around my camp like it belongs to you. Tell me who you are and why you're here? Spill it.<end>
+
+=>a50_original
+I'm not even going to bother talking. ::Attack!::<end>
+
+=>a50
+I'm not even going to bother talking. ::Attack!::<end>
+

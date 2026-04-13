@@ -1,0 +1,48 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Don't lose this one, Rathound Slayer, my charons are on you!<end>
+
+=>q2
+Don't lose this one, Rathound Slayer, my charons are on you!<end>
+
+=>q3_original
+Don't you think about cutting the line, pipeworker!<end>
+
+=>q3
+Don't you think about cutting the line, pipeworker!<end>
+
+=>q4_original
+Come on, $(#man/woman), zone out!<end>
+
+=>q4
+Come on, $(#man/woman), zone out!<end>
+
+=>q5_original
+I just wanna buy my ticket.<end>
+
+=>q5
+I just wanna buy my ticket.<end>
+
+=>q6_original
+Damn, Rathound Slayer is totally hardcore!<end>
+
+=>q6
+Damn, Rathound Slayer is totally hardcore!<end>
+
+=>q7_original
+Can't I buy my ticket in peace?<end>
+
+=>q7
+Can't I buy my ticket in peace?<end>
+
+=>q8_original
+Maybe I should bet on this $(context.playerArenaTitle) $(#guy/gal)...<end>
+
+=>q8
+Maybe I should bet on this $(context.playerArenaTitle) $(#guy/gal)...<end>
+

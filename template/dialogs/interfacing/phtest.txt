@@ -1,0 +1,750 @@
+=>q1_original
+::Player House.::<end>
+
+=>q1
+::Player House.::<end>
+
+=>a2_original
+::General::<end>
+
+=>a2
+::General::<end>
+
+=>q3_original
+::General::<end>
+
+=>q3
+::General::<end>
+
+=>a4_original
+::Clear main floor::<end>
+
+=>a4
+::Clear main floor::<end>
+
+=>a5_original
+::Clear upper floor::<end>
+
+=>a5
+::Clear upper floor::<end>
+
+=>a6_original
+::Clear lower floor::<end>
+
+=>a6
+::Clear lower floor::<end>
+
+=>a7_original
+::Fix main power::<end>
+
+=>a7
+::Fix main power::<end>
+
+=>a8_original
+::Fix main floor lights::<end>
+
+=>a8
+::Fix main floor lights::<end>
+
+=>a9_original
+::Fix upper floor lights::<end>
+
+=>a9
+::Fix upper floor lights::<end>
+
+=>a10_original
+::Fix lower floor lights::<end>
+
+=>a10
+::Fix lower floor lights::<end>
+
+=>a11_original
+::Install security cameras::<end>
+
+=>a11
+::Install security cameras::<end>
+
+=>a12_original
+::Back::<end>
+
+=>a12
+::Back::<end>
+
+=>a13_original
+::Entrance::<end>
+
+=>a13
+::Entrance::<end>
+
+=>q14_original
+::Entrance::<end>
+
+=>q14
+::Entrance::<end>
+
+=>a15_original
+::Install Regular Turrets::<end>
+
+=>a15
+::Install Regular Turrets::<end>
+
+=>a16_original
+::Install Plasma Turrets::<end>
+
+=>a16
+::Install Plasma Turrets::<end>
+
+=>a17_original
+::Back::<end>
+
+=>a17
+::Back::<end>
+
+=>a18_original
+::Main floor hallway::<end>
+
+=>a18
+::Main floor hallway::<end>
+
+=>q19_original
+::Main floor hallway::<end>
+
+=>q19
+::Main floor hallway::<end>
+
+=>a20_original
+::Add regular shelves::<end>
+
+=>a20
+::Add regular shelves::<end>
+
+=>a21_original
+::Add electro shelves::<end>
+
+=>a21
+::Add electro shelves::<end>
+
+=>a22_original
+::Add green drapery::<end>
+
+=>a22
+::Add green drapery::<end>
+
+=>a23_original
+::Add blue drapery::<end>
+
+=>a23
+::Add blue drapery::<end>
+
+=>a24_original
+::Add beige drapery::<end>
+
+=>a24
+::Add beige drapery::<end>
+
+=>a25_original
+::Add lockers::<end>
+
+=>a25
+::Add lockers::<end>
+
+=>a26_original
+::Add painting::<end>
+
+=>a26
+::Add painting::<end>
+
+=>a27_original
+::Add wheeled bot patrol::<end>
+
+=>a27
+::Add wheeled bot patrol::<end>
+
+=>a28_original
+::Add plasma sentry patrol::<end>
+
+=>a28
+::Add plasma sentry patrol::<end>
+
+=>a29_original
+::Back::<end>
+
+=>a29
+::Back::<end>
+
+=>a30_original
+::Broom closet::<end>
+
+=>a30
+::Broom closet::<end>
+
+=>q31_original
+::Broom closet::<end>
+
+=>q31
+::Broom closet::<end>
+
+=>a32_original
+::Add shelves::<end>
+
+=>a32
+::Add shelves::<end>
+
+=>a33_original
+::Back::<end>
+
+=>a33
+::Back::<end>
+
+=>a34_original
+::Living room::<end>
+
+=>a34
+::Living room::<end>
+
+=>q35_original
+::Living room::<end>
+
+=>q35
+::Living room::<end>
+
+=>a36_original
+::Add brown rug::<end>
+
+=>a36
+::Add brown rug::<end>
+
+=>a37_original
+::Add blue rug::<end>
+
+=>a37
+::Add blue rug::<end>
+
+=>a38_original
+::Add fancy rug::<end>
+
+=>a38
+::Add fancy rug::<end>
+
+=>a39_original
+::Add TV::<end>
+
+=>a39
+::Add TV::<end>
+
+=>a40_original
+::Add painting::<end>
+
+=>a40
+::Add painting::<end>
+
+=>a41_original
+::Add lockers::<end>
+
+=>a41
+::Add lockers::<end>
+
+=>a42_original
+::Add shabby furniture set::<end>
+
+=>a42
+::Add shabby furniture set::<end>
+
+=>a43_original
+::Add black furniture set::<end>
+
+=>a43
+::Add black furniture set::<end>
+
+=>a44_original
+::Add slick furniture set::<end>
+
+=>a44
+::Add slick furniture set::<end>
+
+=>a45_original
+::Aded classic armoire::<end>
+
+=>a45
+::Aded classic armoire::<end>
+
+=>a46_original
+::Aded black armoire::<end>
+
+=>a46
+::Aded black armoire::<end>
+
+=>a47_original
+::Back::<end>
+
+=>a47
+::Back::<end>
+
+=>a48_original
+::Kitchen::<end>
+
+=>a48
+::Kitchen::<end>
+
+=>q49_original
+::Kitchen::<end>
+
+=>q49
+::Kitchen::<end>
+
+=>a50_original
+::Add kitchen table::<end>
+
+=>a50
+::Add kitchen table::<end>
+
+=>a51_original
+::Add drinks shelf::<end>
+
+=>a51
+::Add drinks shelf::<end>
+
+=>a52_original
+::Add freezer::<end>
+
+=>a52
+::Add freezer::<end>
+
+=>a53_original
+::Add kitchen elements::<end>
+
+=>a53
+::Add kitchen elements::<end>
+
+=>a54_original
+::Add refrigerator::<end>
+
+=>a54
+::Add refrigerator::<end>
+
+=>a55_original
+::Add bar stools::<end>
+
+=>a55
+::Add bar stools::<end>
+
+=>a56_original
+::Back::<end>
+
+=>a56
+::Back::<end>
+
+=>a57_original
+::Upper floor hallway::<end>
+
+=>a57
+::Upper floor hallway::<end>
+
+=>q58_original
+::Upper floor hallway::<end>
+
+=>q58
+::Upper floor hallway::<end>
+
+=>a59_original
+::Add wheeled bot patrol::<end>
+
+=>a59
+::Add wheeled bot patrol::<end>
+
+=>a60_original
+::Add plasma sentry patrol::<end>
+
+=>a60
+::Add plasma sentry patrol::<end>
+
+=>a61_original
+::Add green drapery::<end>
+
+=>a61
+::Add green drapery::<end>
+
+=>a62_original
+::Add blue drapery::<end>
+
+=>a62
+::Add blue drapery::<end>
+
+=>a63_original
+::Add beige drapery::<end>
+
+=>a63
+::Add beige drapery::<end>
+
+=>a64_original
+::Add regular shelves::<end>
+
+=>a64
+::Add regular shelves::<end>
+
+=>a65_original
+::Add electro shelves::<end>
+
+=>a65
+::Add electro shelves::<end>
+
+=>a66_original
+::Add lockers::<end>
+
+=>a66
+::Add lockers::<end>
+
+=>a67_original
+::Fix toilet::<end>
+
+=>a67
+::Fix toilet::<end>
+
+=>a68_original
+::Back::<end>
+
+=>a68
+::Back::<end>
+
+=>a69_original
+::Armory::<end>
+
+=>a69
+::Armory::<end>
+
+=>q70_original
+::Armory::<end>
+
+=>q70
+::Armory::<end>
+
+=>a71_original
+::Add weapon shelves::<end>
+
+=>a71
+::Add weapon shelves::<end>
+
+=>a72_original
+::Add table::<end>
+
+=>a72
+::Add table::<end>
+
+=>a73_original
+::Gym::<end>
+
+=>a73
+::Gym::<end>
+
+=>q74_original
+::Gym::<end>
+
+=>q74
+::Gym::<end>
+
+=>a75_original
+::Add brown rug::<end>
+
+=>a75
+::Add brown rug::<end>
+
+=>a76_original
+::Add blue rug::<end>
+
+=>a76
+::Add blue rug::<end>
+
+=>a77_original
+::Add fancy rug::<end>
+
+=>a77
+::Add fancy rug::<end>
+
+=>a78_original
+::Add punching bag::<end>
+
+=>a78
+::Add punching bag::<end>
+
+=>a79_original
+::Add bench::<end>
+
+=>a79
+::Add bench::<end>
+
+=>a80_original
+::Add weights::<end>
+
+=>a80
+::Add weights::<end>
+
+=>a81_original
+::Balcony::<end>
+
+=>a81
+::Balcony::<end>
+
+=>q82_original
+::Balcony::<end>
+
+=>q82
+::Balcony::<end>
+
+=>a83_original
+::Add benches::<end>
+
+=>a83
+::Add benches::<end>
+
+=>a84_original
+::Install Regular Turrets::<end>
+
+=>a84
+::Install Regular Turrets::<end>
+
+=>a85_original
+::Install Plasma Turrets::<end>
+
+=>a85
+::Install Plasma Turrets::<end>
+
+=>a86_original
+::Study::<end>
+
+=>a86
+::Study::<end>
+
+=>q87_original
+::Study::<end>
+
+=>q87
+::Study::<end>
+
+=>a88_original
+::Add regular desk::<end>
+
+=>a88
+::Add regular desk::<end>
+
+=>a89_original
+::Add robust L desk::<end>
+
+=>a89
+::Add robust L desk::<end>
+
+=>a90_original
+::Add slick desk::<end>
+
+=>a90
+::Add slick desk::<end>
+
+=>a91_original
+::Add file cabinet::<end>
+
+=>a91
+::Add file cabinet::<end>
+
+=>a92_original
+::Add printer::<end>
+
+=>a92
+::Add printer::<end>
+
+=>a93_original
+::Back::<end>
+
+=>a93
+::Back::<end>
+
+=>a94_original
+::Bedroom::<end>
+
+=>a94
+::Bedroom::<end>
+
+=>q95_original
+::Bedroom::<end>
+
+=>q95
+::Bedroom::<end>
+
+=>a96_original
+::Add brown rug::<end>
+
+=>a96
+::Add brown rug::<end>
+
+=>a97_original
+::Add blue rug::<end>
+
+=>a97
+::Add blue rug::<end>
+
+=>a98_original
+::Add fancy rug::<end>
+
+=>a98
+::Add fancy rug::<end>
+
+=>a99_original
+::Add green drapery::<end>
+
+=>a99
+::Add green drapery::<end>
+
+=>a100_original
+::Add blue drapery::<end>
+
+=>a100
+::Add blue drapery::<end>
+
+=>a101_original
+::Add beige drapery::<end>
+
+=>a101
+::Add beige drapery::<end>
+
+=>a102_original
+::Add black nightstand::<end>
+
+=>a102
+::Add black nightstand::<end>
+
+=>a103_original
+::Add regular bed::<end>
+
+=>a103
+::Add regular bed::<end>
+
+=>a104_original
+::Add black bed::<end>
+
+=>a104
+::Add black bed::<end>
+
+=>a105_original
+::Add classic armoire::<end>
+
+=>a105
+::Add classic armoire::<end>
+
+=>a106_original
+::Add black armoire::<end>
+
+=>a106
+::Add black armoire::<end>
+
+=>a107_original
+::Workshop::<end>
+
+=>a107
+::Workshop::<end>
+
+=>q108_original
+::Workshop::<end>
+
+=>q108
+::Workshop::<end>
+
+=>a109_original
+::Add electronic shelves::<end>
+
+=>a109
+::Add electronic shelves::<end>
+
+=>a110_original
+::Add shelves::<end>
+
+=>a110
+::Add shelves::<end>
+
+=>a111_original
+::Add cabinet::<end>
+
+=>a111
+::Add cabinet::<end>
+
+=>a112_original
+::Add electronic equipment::<end>
+
+=>a112
+::Add electronic equipment::<end>
+
+=>a113_original
+::Add mechanic equipment::<end>
+
+=>a113
+::Add mechanic equipment::<end>
+
+=>a114_original
+::Lab::<end>
+
+=>a114
+::Lab::<end>
+
+=>q115_original
+::Lab::<end>
+
+=>q115
+::Lab::<end>
+
+=>a116_original
+::Add lockers::<end>
+
+=>a116
+::Add lockers::<end>
+
+=>a117_original
+::Add shelves::<end>
+
+=>a117
+::Add shelves::<end>
+
+=>a118_original
+::Add operating table::<end>
+
+=>a118
+::Add operating table::<end>
+
+=>a119_original
+::Add chemical equipment::<end>
+
+=>a119
+::Add chemical equipment::<end>
+
+=>a120_original
+::Add medical bed::<end>
+
+=>a120
+::Add medical bed::<end>
+
+=>a121_original
+::Leatherworks::<end>
+
+=>a121
+::Leatherworks::<end>
+
+=>q122_original
+::Leatherworks::<end>
+
+=>q122
+::Leatherworks::<end>
+
+=>a123_original
+::Add tailoring equipment::<end>
+
+=>a123
+::Add tailoring equipment::<end>
+
+=>a124_original
+::Add shelves::<end>
+
+=>a124
+::Add shelves::<end>
+
+=>a125_original
+::Exit::<end>
+
+=>a125
+::Exit::<end>
+

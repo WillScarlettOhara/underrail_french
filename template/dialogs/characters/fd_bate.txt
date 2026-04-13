@@ -1,0 +1,298 @@
+=>q1_original
+::He seems to be deeply focused on some papers laid out in front of him..::<end>
+
+=>q1
+::He seems to be deeply focused on some papers laid out in front of him..::<end>
+
+=>q2_original
+Listen, kiddo, I know you're busy and all that... but I've got something I'd like to talk to you about. It's pretty important.<end>
+
+=>q2
+Listen, kiddo, I know you're busy and all that... but I've got something I'd like to talk to you about. It's pretty important.<end>
+
+=>a3_original
+Let's hear it.<end>
+
+=>a3
+Let's hear it.<end>
+
+=>q4_original
+I think you should know this kiddo, you are a part of the family now. One of our patrols was, well, ambushed by the Lurkers. Only one man managed to escape, and he told us that the rest were taken east, probably deep into Lurker territory.<end>
+
+=>q4
+I think you should know this kiddo, you are a part of the family now. One of our patrols was, well, ambushed by the Lurkers. Only one man managed to escape, and he told us that the rest were taken east, probably deep into Lurker territory.<end>
+
+=>a5_original
+I already found them. They're all dead.<end>
+
+=>a5
+I already found them. They're all dead.<end>
+
+=>q6_original
+What? Oh no... Damn it! Damn it!<end>
+
+=>q6
+What? Oh no... Damn it! Damn it!<end>
+
+=>q7_original
+I was hoping for... ::He sighs.:: Well, forget about it now. Thank you for telling me this, kiddo, I'll inform the rest of the gang of this. Anyway, what did you want to talk about in the first place?<end>
+
+=>q7
+I was hoping for... ::He sighs.:: Well, forget about it now. Thank you for telling me this, kiddo, I'll inform the rest of the gang of this. Anyway, what did you want to talk about in the first place?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+I found the fighters captured by the Lurkers. They are dead.<end>
+
+=>a9
+I found the fighters captured by the Lurkers. They are dead.<end>
+
+=>a10_original
+I released the prisoners beneath the Lurker encampment.<end>
+
+=>a10
+I released the prisoners beneath the Lurker encampment.<end>
+
+=>q11_original
+Yes, they made it here. All three of them are back, safe and sound, and a little shaken up! It's all thanks to you kiddo!<end>
+
+=>q11
+Yes, they made it here. All three of them are back, safe and sound, and a little shaken up! It's all thanks to you kiddo!<end>
+
+=>q12_original
+You did good, and therefore, we've got something for you, as a token of gratitude. Go and talk to Becket about it.<end>
+
+=>q12
+You did good, and therefore, we've got something for you, as a token of gratitude. Go and talk to Becket about it.<end>
+
+=>q13_original
+Unfortunately, only two made it back. They are shaken up a bit but... they're alive. You did good, $(context.player.Name).<end>
+
+=>q13
+Unfortunately, only two made it back. They are shaken up a bit but... they're alive. You did good, $(context.player.Name).<end>
+
+=>q14_original
+Unfortunately, there is only one survivor. Shaken up a bit but alive. I wish more could be saved, but you did good, $(context.player.Name).<end>
+
+=>q14
+Unfortunately, there is only one survivor. Shaken up a bit but alive. I wish more could be saved, but you did good, $(context.player.Name).<end>
+
+=>a15_original
+What can you tell me about the Free Drones?<end>
+
+=>a15
+What can you tell me about the Free Drones?<end>
+
+=>q16_original
+That's us! ::He laughs.:: I think I'll start from the beginning. After Biocorp was taken over by Protectorate, there was no one to compete with them over North Underrail. Over the course of several years, the Cans solidified their rule and demonstrated how brutal they can be. For instance, the great riot against an invasive privacy law led to five hundred and forty six civilian casualties.<end>
+
+=>q16
+That's us! ::He laughs.:: I think I'll start from the beginning. After Biocorp was taken over by Protectorate, there was no one to compete with them over North Underrail. Over the course of several years, the Cans solidified their rule and demonstrated how brutal they can be. For instance, the great riot against an invasive privacy law led to five hundred and forty six civilian casualties.<end>
+
+=>q17_original
+Come on, kiddo, those people didn't kill themselves - the Cans did! But even despite that, many are still supporting the Protectorate! Fools...
+
+Anyway, some eleven-twelve years ago, a young anarchist named Wallace Steel founded a movement that will fight the tyrants. Thus, the Free Drones were born. A small group of rebels at first, they spread the truth about Protectorate. Wallace was soon imprisoned and executed, but the movement grew.<end>
+
+=>q17
+Come on, kiddo, those people didn't kill themselves - the Cans did! But even despite that, many are still supporting the Protectorate! Fools...
+
+Anyway, some eleven-twelve years ago, a young anarchist named Wallace Steel founded a movement that will fight the tyrants. Thus, the Free Drones were born. A small group of rebels at first, they spread the truth about Protectorate. Wallace was soon imprisoned and executed, but the movement grew.<end>
+
+=>q18_original
+Now, we are powerful in the North, not so much in the South. Here, the Protectorate hasn't had the time to reveal its true face, and because of the constant problems with raiders and the like, many fall for the story of protection and unification.
+
+I could go on and on, but this should be enough for now, kiddo.<end>
+
+=>q18
+Now, we are powerful in the North, not so much in the South. Here, the Protectorate hasn't had the time to reveal its true face, and because of the constant problems with raiders and the like, many fall for the story of protection and unification.
+
+I could go on and on, but this should be enough for now, kiddo.<end>
+
+=>a19_original
+What can you tell me about the Protectorate?<end>
+
+=>a19
+What can you tell me about the Protectorate?<end>
+
+=>q20_original
+What can be said about the oppressors? Well...
+
+a. They are lead by a ruthless and power-hungry tyrant who wants to control the whole Underrail,
+b. They kill or brainwash, or better - enslave everyone who's against them or against the "integration,"
+c. They hide behind the idea of unification and claim they want to protect everyone, but everyone and his pet rat knows that's a filthy lie.<end>
+
+=>q20
+What can be said about the oppressors? Well...
+
+a. They are lead by a ruthless and power-hungry tyrant who wants to control the whole Underrail,
+b. They kill or brainwash, or better - enslave everyone who's against them or against the "integration,"
+c. They hide behind the idea of unification and claim they want to protect everyone, but everyone and his pet rat knows that's a filthy lie.<end>
+
+=>q21_original
+I don't know about you, kiddo, but come on! They "protect" people by killing them? Sure, they take over some stations peacefully, but others, those who object to their lies, they are subjugated by brutal force. Besides, even if the integration was one hundred percent peaceful, the dictatorship would soon become apparent. Surface, if you will.<end>
+
+=>q21
+I don't know about you, kiddo, but come on! They "protect" people by killing them? Sure, they take over some stations peacefully, but others, those who object to their lies, they are subjugated by brutal force. Besides, even if the integration was one hundred percent peaceful, the dictatorship would soon become apparent. Surface, if you will.<end>
+
+=>a22_original
+What can you tell me about Trenton?<end>
+
+=>a22
+What can you tell me about Trenton?<end>
+
+=>q23_original
+Corben and I have known each other for... years, kiddo. You have to spend some time with him to truly understand him. He seems... hmmm, very stiff and formal, and at first glance he's often mistaken for being cold-blooded and emotionless, something that is more fitting of a Protectorate scumbag than a Free Drone.<end>
+
+=>q23
+Corben and I have known each other for... years, kiddo. You have to spend some time with him to truly understand him. He seems... hmmm, very stiff and formal, and at first glance he's often mistaken for being cold-blooded and emotionless, something that is more fitting of a Protectorate scumbag than a Free Drone.<end>
+
+=>q24_original
+The truth is quite the opposite, however. He really cares about the Free Drones ideology, but keeps all his troubles and worries to himself. Also, he's a brilliant strategist, just brilliant, unmatched by even the best the arrogant Cans have to offer.<end>
+
+=>q24
+The truth is quite the opposite, however. He really cares about the Free Drones ideology, but keeps all his troubles and worries to himself. Also, he's a brilliant strategist, just brilliant, unmatched by even the best the arrogant Cans have to offer.<end>
+
+=>a25_original
+What can you tell me about Marcella?<end>
+
+=>a25
+What can you tell me about Marcella?<end>
+
+=>q26_original
+::His stare turns sorrowful.:: Please kiddo, I'd rather not talk about it. Marcella and I... we, we had something special.<end>
+
+=>q26
+::His stare turns sorrowful.:: Please kiddo, I'd rather not talk about it. Marcella and I... we, we had something special.<end>
+
+=>q27_original
+Look, I just can't talk about it right now. She disappeared two months ago and... and it would be too painful for me if we found out she's been dealing with the Protectorate. Bloody Cans.<end>
+
+=>q27
+Look, I just can't talk about it right now. She disappeared two months ago and... and it would be too painful for me if we found out she's been dealing with the Protectorate. Bloody Cans.<end>
+
+=>a28_original
+Bye.<end>
+
+=>a28
+Bye.<end>
+
+=>a29_original
+What do you want me to do?<end>
+
+=>a29
+What do you want me to do?<end>
+
+=>q30_original
+Well, I'd like to send an army to raze the Lurkers and rescue our fighters, but we are short on people, as always. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q30
+Well, I'd like to send an army to raze the Lurkers and rescue our fighters, but we are short on people, as always. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q31_original
+I'm not cold hearted. I know our men and women, despite being really brave, are very uncomfortable when it comes to fighting Lurkers. I understand it, Lurkers are monsters. So I reckon, I'll ask for volunteers first, instead of just picking at random who should go and look for Free Drones that could already be dead. So, what's your take on this?<end>
+
+=>q31
+I'm not cold hearted. I know our men and women, despite being really brave, are very uncomfortable when it comes to fighting Lurkers. I understand it, Lurkers are monsters. So I reckon, I'll ask for volunteers first, instead of just picking at random who should go and look for Free Drones that could already be dead. So, what's your take on this?<end>
+
+=>a32_original
+I'm up for it. If there's even a slight chance that our brothers and sisters are alive, I say we should go for it.<end>
+
+=>a32
+I'm up for it. If there's even a slight chance that our brothers and sisters are alive, I say we should go for it.<end>
+
+=>q33_original
+Excellent. Lurkers have a large encampment east of our base, I'm thinking that's the most probable place to take the captives to, but nothing is certain.<end>
+
+=>q33
+Excellent. Lurkers have a large encampment east of our base, I'm thinking that's the most probable place to take the captives to, but nothing is certain.<end>
+
+=>a34_original
+Lurkers, here I come.<end>
+
+=>a34
+Lurkers, here I come.<end>
+
+=>q35_original
+That's the spirit, kiddo! I admire your courage!<end>
+
+=>q35
+That's the spirit, kiddo! I admire your courage!<end>
+
+=>q36_original
+<end>
+
+=>q36
+<end>
+
+=>a37_original
+Are there more volunteers or am I the only one?<end>
+
+=>a37
+Are there more volunteers or am I the only one?<end>
+
+=>q38_original
+Frankly, it's been a mess here since it happened and I'm not sure how we're standing. I'll let you know when I find out more, kiddo.<end>
+
+=>q38
+Frankly, it's been a mess here since it happened and I'm not sure how we're standing. I'll let you know when I find out more, kiddo.<end>
+
+=>a39_original
+I'll pass. I'm not willing to risk my life for something so uncertain.<end>
+
+=>a39
+I'll pass. I'm not willing to risk my life for something so uncertain.<end>
+
+=>q40_original
+I understand. I was just asking. Well, kiddo, what was it you wanted to talk to me in the first place?<end>
+
+=>q40
+I understand. I was just asking. Well, kiddo, what was it you wanted to talk to me in the first place?<end>
+
+=>a41_original
+I heard Lurkers are not the friendliest people. The patrolmen must be dead already.<end>
+
+=>a41
+I heard Lurkers are not the friendliest people. The patrolmen must be dead already.<end>
+
+=>q42_original
+Maybe they are, but I just can't let it go. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q42
+Maybe they are, but I just can't let it go. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>a43_original
+Let me guess... You want me to rescue them.<end>
+
+=>a43
+Let me guess... You want me to rescue them.<end>
+
+=>q44_original
+Actually, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q44
+Actually, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>a45_original
+Yay, more work! This is going to be good.<end>
+
+=>a45
+Yay, more work! This is going to be good.<end>
+
+=>q46_original
+Come on, there's no need to be sarcastic. This is important so listen up.<end>
+
+=>q46
+Come on, there's no need to be sarcastic. This is important so listen up.<end>
+
+=>q47_original
+Hey, kiddo.<end>
+
+=>q47
+Hey, kiddo.<end>
+

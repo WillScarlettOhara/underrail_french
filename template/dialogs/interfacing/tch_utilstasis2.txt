@@ -1,0 +1,28 @@
+=>q1_original
+::Tissue Type: Muscle, smooth, single-unit
+
+Origin: Engineered
+
+Age: 4 days
+
+Notes: Muscular hydrostat; project code: U-78#
+
+Vital Status: Good::<end>
+
+=>q1
+::Tissue Type: Muscle, smooth, single-unit
+
+Origin: Engineered
+
+Age: 4 days
+
+Notes: Muscular hydrostat; project code: U-78#
+
+Vital Status: Good::<end>
+
+=>a2_original
+::Exit::<end>
+
+=>a2
+::Exit::<end>
+

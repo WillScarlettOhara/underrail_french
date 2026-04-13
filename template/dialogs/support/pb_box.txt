@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'll smash your face!<end>
+
+=>q2
+I'll smash your face!<end>
+
+=>q3_original
+Take this!<end>
+
+=>q3
+Take this!<end>
+
+=>q4_original
+You fight like a wimp!<end>
+
+=>q4
+You fight like a wimp!<end>
+
+=>q5_original
+::Pants.:: Give... up... while you still... have... the chance!<end>
+
+=>q5
+::Pants.:: Give... up... while you still... have... the chance!<end>
+
+=>q6_original
+Hoorah!<end>
+
+=>q6
+Hoorah!<end>
+
+=>q7_original
+BAM!<end>
+
+=>q7
+BAM!<end>
+
+=>q8_original
+I must break you!<end>
+
+=>q8
+I must break you!<end>
+
+=>q9_original
+Do you feel that? Do you feel... PAIN?<end>
+
+=>q9
+Do you feel that? Do you feel... PAIN?<end>
+
+=>q10_original
+You're good... but not good enough!<end>
+
+=>q10
+You're good... but not good enough!<end>
+

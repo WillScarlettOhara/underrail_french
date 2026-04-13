@@ -1,0 +1,60 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Some of these eggs might have fully-developed spawns in 'em, so we gotta be careful.<end>
+
+=>q2
+Some of these eggs might have fully-developed spawns in 'em, so we gotta be careful.<end>
+
+=>q3_original
+The slime...<end>
+
+=>q3
+The slime...<end>
+
+=>q4_original
+The way they glow is quite eerie.<end>
+
+=>q4
+The way they glow is quite eerie.<end>
+
+=>q5_original
+I've handled more disgustin' things than this.<end>
+
+=>q5
+I've handled more disgustin' things than this.<end>
+
+=>q6_original
+We shoulda just burned everythin'.<end>
+
+=>q6
+We shoulda just burned everythin'.<end>
+
+=>q7_original
+Hope these bugs are gone for good.<end>
+
+=>q7
+Hope these bugs are gone for good.<end>
+
+=>q8_original
+Some'll pay good coin for burrower eggs. It's a delicacy in some parts of Underrail.<end>
+
+=>q8
+Some'll pay good coin for burrower eggs. It's a delicacy in some parts of Underrail.<end>
+
+=>q9_original
+You here to help me clean this crap?<end>
+
+=>q9
+You here to help me clean this crap?<end>
+
+=>q10_original
+::Sniffs his clothes.:: Damn...<end>
+
+=>q10
+::Sniffs his clothes.:: Damn...<end>
+

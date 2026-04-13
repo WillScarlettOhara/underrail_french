@@ -1,0 +1,36 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Back off.<end>
+
+=>q2
+Back off.<end>
+
+=>q3_original
+Keep moving. Nothing to see here.<end>
+
+=>q3
+Keep moving. Nothing to see here.<end>
+
+=>q4_original
+Stand back.<end>
+
+=>q4
+Stand back.<end>
+
+=>q5_original
+You are advised to mind your own business.<end>
+
+=>q5
+You are advised to mind your own business.<end>
+
+=>q6_original
+Hey - keep your distance.<end>
+
+=>q6
+Hey - keep your distance.<end>
+

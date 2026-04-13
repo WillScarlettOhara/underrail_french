@@ -1,0 +1,88 @@
+=>q1_original
+::It's a huge drilling machine. ::<end>
+
+=>q1
+::It's a huge drilling machine. ::<end>
+
+=>q2_original
+::Looking at it evokes a feeling of familiarity, but it fades away as fast as it came.::<end>
+
+=>q2
+::Looking at it evokes a feeling of familiarity, but it fades away as fast as it came.::<end>
+
+=>a3_original
+::Leave it alone.::<end>
+
+=>a3
+::Leave it alone.::<end>
+
+=>q4_original
+::Looks far too complicated for you to use.::<end>
+
+=>q4
+::Looks far too complicated for you to use.::<end>
+
+=>q5_original
+::The tunneler seems to be in surprisingly good condition and good to go. Thanks to Mykola's masterful work, you now feel more confident that riding in this thing won't feel like riding in a loud metal coffin.::<end>
+
+=>q5
+::The tunneler seems to be in surprisingly good condition and good to go. Thanks to Mykola's masterful work, you now feel more confident that riding in this thing won't feel like riding in a loud metal coffin.::<end>
+
+=>q6_original
+::Mykola is still working on it.::<end>
+
+=>q6
+::Mykola is still working on it.::<end>
+
+=>q7_original
+::The tunneler seems functional. Not in the best condition of its lifetime, but it should do its job without falling apart.::<end>
+
+=>q7
+::The tunneler seems functional. Not in the best condition of its lifetime, but it should do its job without falling apart.::<end>
+
+=>q8_original
+::Mykola is currently assessing the damage on the tunneler.::<end>
+
+=>q8
+::Mykola is currently assessing the damage on the tunneler.::<end>
+
+=>q9_original
+::This tunneler seems to have drilled out of the wall several meters too high and smashed into the ground, stopping a hair's breadth short of continuing into the chasm. You take a look inside to see a blood smeared troop hold, but no bodies in sight; moreover, there is nothing noticeable for you to scavenge as the inside appears to have been picked clean by those who found it before you. 
+
+The machine doesn't appear to be functional anymore, and from visual inspection alone you reckon it would need serious repairs in order to make it run again.::<end>
+
+=>q9
+::This tunneler seems to have drilled out of the wall several meters too high and smashed into the ground, stopping a hair's breadth short of continuing into the chasm. You take a look inside to see a blood smeared troop hold, but no bodies in sight; moreover, there is nothing noticeable for you to scavenge as the inside appears to have been picked clean by those who found it before you. 
+
+The machine doesn't appear to be functional anymore, and from visual inspection alone you reckon it would need serious repairs in order to make it run again.::<end>
+
+=>a10_original
+::[Mechanics] Attempt to repair it.::<end>
+
+=>a10
+::[Mechanics] Attempt to repair it.::<end>
+
+=>q11_original
+::You spend a lot of time working on the tunneler and, luckily for you, no one bothers you during the repairs. Eventually, you discover that this machine is not that much different from those you've seen in the past. Sure, it took some time and effort to figure out all the inner workings of it, but thanks to your expertise you encountered no insurmountable obstacles during the course of your work.::<end>
+
+=>q11
+::You spend a lot of time working on the tunneler and, luckily for you, no one bothers you during the repairs. Eventually, you discover that this machine is not that much different from those you've seen in the past. Sure, it took some time and effort to figure out all the inner workings of it, but thanks to your expertise you encountered no insurmountable obstacles during the course of your work.::<end>
+
+=>q12_original
+::Finally, the work is done. As soon as you turn it on, the mechanical beast draws its loud first breath. However, what pleases you the most is that you were able to complete the repairs without needing any spare parts. You turn off the engine and leave the machine be for now.::<end>
+
+=>q12
+::Finally, the work is done. As soon as you turn it on, the mechanical beast draws its loud first breath. However, what pleases you the most is that you were able to complete the repairs without needing any spare parts. You turn off the engine and leave the machine be for now.::<end>
+
+=>q13_original
+::You attempt to repair the machine but quickly give up, seeing that the damage is far too extensive for you to repair, at least not without any spare parts.::<end>
+
+=>q13
+::You attempt to repair the machine but quickly give up, seeing that the damage is far too extensive for you to repair, at least not without any spare parts.::<end>
+
+=>q14_original
+::You're going to need the help of a professional if you want the tunneler up and running again.::<end>
+
+=>q14
+::You're going to need the help of a professional if you want the tunneler up and running again.::<end>
+

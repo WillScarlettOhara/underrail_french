@@ -1,0 +1,48 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I despise these filthy rats.<end>
+
+=>q2
+I despise these filthy rats.<end>
+
+=>q3_original
+Look at these biceps.<end>
+
+=>q3
+Look at these biceps.<end>
+
+=>q4_original
+Let's kill something!<end>
+
+=>q4
+Let's kill something!<end>
+
+=>q5_original
+Rathound King never knew what hit him.<end>
+
+=>q5
+Rathound King never knew what hit him.<end>
+
+=>q6_original
+Whatcha looking at?<end>
+
+=>q6
+Whatcha looking at?<end>
+
+=>q7_original
+Ugh, these rathounds reek, man!<end>
+
+=>q7
+Ugh, these rathounds reek, man!<end>
+
+=>q8_original
+You know what they say about rathounds: If it's brown - it's going down! ::Laughs.::<end>
+
+=>q8
+You know what they say about rathounds: If it's brown - it's going down! ::Laughs.::<end>
+

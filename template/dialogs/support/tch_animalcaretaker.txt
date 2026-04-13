@@ -1,0 +1,78 @@
+=>q1_original
+I will stand my ground!<end>
+
+=>q1
+I will stand my ground!<end>
+
+=>q2_original
+Psycho is the most dangerous one of them all!<end>
+
+=>q2
+Psycho is the most dangerous one of them all!<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q4
+Tchort is evolution, $(#brother/sister).<end>
+
+=>q5_original
+Don't be scared, the burrowers and coil spiders have been pacified. They can't hurt you.<end>
+
+=>q5
+Don't be scared, the burrowers and coil spiders have been pacified. They can't hurt you.<end>
+
+=>q6_original
+PI Rista doesn't like people interrupting him, so only enter his office if you must.<end>
+
+=>q6
+PI Rista doesn't like people interrupting him, so only enter his office if you must.<end>
+
+=>q7_original
+Don't go downstairs.<end>
+
+=>q7
+Don't go downstairs.<end>
+
+=>q8_original
+Time to feed the animals!<end>
+
+=>q8
+Time to feed the animals!<end>
+
+=>q9_original
+The pacification procedures turned out to be a complete success.<end>
+
+=>q9
+The pacification procedures turned out to be a complete success.<end>
+
+=>q10_original
+Working with animals can be a smelly experience. ::Laughs.::<end>
+
+=>q10
+Working with animals can be a smelly experience. ::Laughs.::<end>
+
+=>q11_original
+How can I help you $(#brother/sister)?<end>
+
+=>q11
+How can I help you $(#brother/sister)?<end>
+
+=>q12_original
+I've got a delicious batch of swill ready for our friends. Tasty!<end>
+
+=>q12
+I've got a delicious batch of swill ready for our friends. Tasty!<end>
+
+=>q13_original
+Tchort guide you.<end>
+
+=>q13
+Tchort guide you.<end>
+

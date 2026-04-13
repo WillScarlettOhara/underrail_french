@@ -1,0 +1,48 @@
+=>q1_original
+::This seems to be the controls for the cryo-storage. The temperature controls are unresponsive and it seems all you can do is turn it on/off. It's currently off.::<end>
+
+=>q1
+::This seems to be the controls for the cryo-storage. The temperature controls are unresponsive and it seems all you can do is turn it on/off. It's currently off.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Turn the cooling on.::<end>
+
+=>a3
+::Turn the cooling on.::<end>
+
+=>q4_original
+::You turn the cooling on.::<end>
+
+=>q4
+::You turn the cooling on.::<end>
+
+=>a5_original
+::Turn the cooling off.::<end>
+
+=>a5
+::Turn the cooling off.::<end>
+
+=>q6_original
+::You turn the cooling off.::<end>
+
+=>q6
+::You turn the cooling off.::<end>
+
+=>a7_original
+::Leave it be.::<end>
+
+=>a7
+::Leave it be.::<end>
+
+=>q8_original
+::This seems to be the controls for the cryo-storage. The temperature controls are unresponsive and it seems all you can do is turn it on/off. It's currently on.::<end>
+
+=>q8
+::This seems to be the controls for the cryo-storage. The temperature controls are unresponsive and it seems all you can do is turn it on/off. It's currently on.::<end>
+

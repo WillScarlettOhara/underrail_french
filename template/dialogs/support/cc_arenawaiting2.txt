@@ -1,0 +1,42 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Fight! Fight! Fight! Fight!<end>
+
+=>q2
+Fight! Fight! Fight! Fight!<end>
+
+=>q3_original
+Oh, come on! I can't wait anymore!<end>
+
+=>q3
+Oh, come on! I can't wait anymore!<end>
+
+=>q4_original
+Will you let us in already!?<end>
+
+=>q4
+Will you let us in already!?<end>
+
+=>q5_original
+I've been in this line for hours now.<end>
+
+=>q5
+I've been in this line for hours now.<end>
+
+=>q6_original
+So freakin' bored...<end>
+
+=>q6
+So freakin' bored...<end>
+
+=>q7_original
+I'm standing here like a damn dropper.<end>
+
+=>q7
+I'm standing here like a damn dropper.<end>
+

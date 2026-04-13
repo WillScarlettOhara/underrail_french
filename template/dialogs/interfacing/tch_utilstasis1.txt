@@ -1,0 +1,28 @@
+=>q1_original
+::Subject Name: None
+
+Age: None
+
+Gender: None
+
+Notes: None
+
+Vital Status: None::<end>
+
+=>q1
+::Subject Name: None
+
+Age: None
+
+Gender: None
+
+Notes: None
+
+Vital Status: None::<end>
+
+=>a2_original
+::Exit::<end>
+
+=>a2
+::Exit::<end>
+

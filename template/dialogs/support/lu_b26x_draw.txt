@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'm the fastest.<end>
+
+=>q2
+I'm the fastest.<end>
+
+=>q3_original
+Don't be flinging any coins in the air. Reflexes.<end>
+
+=>q3
+Don't be flinging any coins in the air. Reflexes.<end>
+
+=>q4_original
+I can shoot a fly off a rathound's snout... without killing the fly.<end>
+
+=>q4
+I can shoot a fly off a rathound's snout... without killing the fly.<end>
+
+=>q5_original
+My bullets bear no names.<end>
+
+=>q5
+My bullets bear no names.<end>
+
+=>q6_original
+When others draw... they die.<end>
+
+=>q6
+When others draw... they die.<end>
+
+=>q7_original
+::Spins his gun.::<end>
+
+=>q7
+::Spins his gun.::<end>
+
+=>q8_original
+I got more than one gun, baby...<end>
+
+=>q8
+I got more than one gun, baby...<end>
+
+=>q9_original
+You can't do anything stupid... you can only try.<end>
+
+=>q9
+You can't do anything stupid... you can only try.<end>
+

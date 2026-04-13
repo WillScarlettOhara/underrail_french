@@ -1,0 +1,49 @@
+::BaseAbilityScores
+Base Ability Scores
+
+::HeavyWeapons_Full
+sniper and assault rifles, grenade launchers, LMGs, miniguns, rocket launchers, sledgehammers and spears
+
+::HeavyWeapons_HeavyDuty
+sniper and assault rifles, grenade launchers, LMGs, miniguns, rocket launchers, and sledgehammers
+
+::HeavyWeapons_Expedition
+sniper and assault rifles, sledgehammers and spears
+
+::HeavyWeapons_Base
+sniper and assault rifles and sledgehammers
+
+::GeneralInfo
+Base ability scores represent character's core potential. These scores are set at the creation time, but can be evolved later to a certain degree. They affect many things in the game, such as skill levels, and are often found as requirements for feats, studies and psi abilities.
+
+::Strength
+Strength measures character's muscle power. It affects melee damage and carry capacity. It's also important for characters who intend to use heavier weapons (such as {0}).
+
+::Dexterity
+Dexterity measures character's reflexes, hand-eye coordination and finger nimbleness. It affects many things, such as operating locks, thievery, throwing and initiative.
+
+It increases critical strike chance of melee attacks. High dexterity also reduces action point cost of unarmed and light weapons (pistols, SMGs, knives, throwing knives and fist weapons).
+
+::Agility
+Agility represents character's reflexes, fleet-footedness, as well as affinity towards other athletic and acrobatic activities. Among other things it affects dodge, evasion, initiative and movement points. It also allows the character to move more quietly, increasing the stealth performance.
+
+::Constitution
+Constitution represents the health and general stamina of your character. It is important for all types of characters, but especially for those who plan on making the armor suit their main defense. It also helps prevent or lessen the effects of poisons and diseases.
+
+::Perception
+Perception represents character's ability to discern objects from far away as well as to notice hidden things in their vicinity. It helps the character to use ranged weapons more effectively, as well as detect hidden objects, passages and creatures.
+
+::Will
+Will measures character's mental determination to see to his actions regardless of various mental difficulties, such as pain, suggestion and overwhelming odds, as well as to force his will onto others and the environment.
+
+It heavily affects all psi disciplines as well as psi point regeneration.
+
+::Will2
+Will measures character's mental determination to see to his actions regardless of various mental difficulties, such as pain, suggestion and overwhelming odds, as well as to force his will onto others and the environment.
+
+It heavily affects the potency of all psi disciplines, as well as psi point regeneration.
+
+::Intelligence
+Intelligence determines how well the character learns and reasons. Characters with higher intelligence gain levels more quickly. It is an especially important stat for a character that focuses on science as all disciplines are dependent on it.
+
+It also determines the number of different psi abilities that can be invoked during combat and affects psi point regeneration.

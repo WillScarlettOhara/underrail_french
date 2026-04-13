@@ -1,0 +1,122 @@
+=>q1_original
+::Mutagen Sequence Database Access Terminal::<end>
+
+=>q1
+::Mutagen Sequence Database Access Terminal::<end>
+
+=>a2_original
+::Atomic Sequence Database::<end>
+
+=>a2
+::Atomic Sequence Database::<end>
+
+=>q3_original
+::Connecting to HECDB...::<end>
+
+=>q3
+::Connecting to HECDB...::<end>
+
+=>q4_original
+::Error 010 - Connection failed!::<end>
+
+=>q4
+::Error 010 - Connection failed!::<end>
+
+=>a5_original
+::Access local database::<end>
+
+=>a5
+::Access local database::<end>
+
+=>q6_original
+::#&HF030W3rwnRFv#NVR#R)&TV#NR)#TVYN)RV#R0303ur8fjsvndnfrv3wfw33rt49nw3yn7nnnssdf#)@_)#R)Ja___)R#RJ#M*@!R(#HE:SLDPS_@L@_KODGJ<^&^@#?@!_*%(#FDkS"L{KGHqRJG#::<end>
+
+=>q6
+::#&HF030W3rwnRFv#NVR#R)&TV#NR)#TVYN)RV#R0303ur8fjsvndnfrv3wfw33rt49nw3yn7nnnssdf#)@_)#R)Ja___)R#RJ#M*@!R(#HE:SLDPS_@L@_KODGJ<^&^@#?@!_*%(#FDkS"L{KGHqRJG#::<end>
+
+=>q7_original
+::The screen flashes a few times, after which the console shuts down.::<end>
+
+=>q7
+::The screen flashes a few times, after which the console shuts down.::<end>
+
+=>a8_original
+::Back to main::<end>
+
+=>a8
+::Back to main::<end>
+
+=>a9_original
+::Exit::<end>
+
+=>a9
+::Exit::<end>
+
+=>a10_original
+::Notes::<end>
+
+=>a10
+::Notes::<end>
+
+=>q11_original
+::Notes::<end>
+
+=>q11
+::Notes::<end>
+
+=>a12_original
+::Using the mutagen scanner::<end>
+
+=>a12
+::Using the mutagen scanner::<end>
+
+=>q13_original
+::Mutagen scanning is performed in three steps:
+
+Place the mutagen container into the scanning chamber, making sure that the chamber lid is firmly closed.
+On the mutagen scanner console, select scan and wait for the process to complete.
+After the mutagen has been scanned, its atomic sequence will be displayed on the screen. You should remove the mutagen container after each scanning.::<end>
+
+=>q13
+::Mutagen scanning is performed in three steps:
+
+Place the mutagen container into the scanning chamber, making sure that the chamber lid is firmly closed.
+On the mutagen scanner console, select scan and wait for the process to complete.
+After the mutagen has been scanned, its atomic sequence will be displayed on the screen. You should remove the mutagen container after each scanning.::<end>
+
+=>q14_original
+::Points of precaution:
+
+The mutagen chamber will only accept mutagens which come firmly sealed in standard HZH or HXH containers. Do not pour mutagen directly into the chamber. Do not place any other foreign objects into the chamber.
+
+Make sure that the scanning chamber lid is firmly closed before initiating the scanning process. If the lid is not firmly closed, or opens due to malfunction during the scanning process, evacuate the room immediately. Biohazard sanitation personnel will be dispatched automatically in such instances.
+::<end>
+
+=>q14
+::Points of precaution:
+
+The mutagen chamber will only accept mutagens which come firmly sealed in standard HZH or HXH containers. Do not pour mutagen directly into the chamber. Do not place any other foreign objects into the chamber.
+
+Make sure that the scanning chamber lid is firmly closed before initiating the scanning process. If the lid is not firmly closed, or opens due to malfunction during the scanning process, evacuate the room immediately. Biohazard sanitation personnel will be dispatched automatically in such instances.
+::<end>
+
+=>q15_original
+::Do not shake or in any way move the scanning chamber while the scanning process is taking place.
+
+By default, all scanned sequences, as well as time and date stamps, will be automatically added to both the local and centralized database. The database can be accessed from this terminal. Make sure that the terminal is properly connected to IN or else the atomic sequences will not be added into the database.
+
+After the scanning process is complete, make sure not to accidentally leave the container inside the scanning chamber.::<end>
+
+=>q15
+::Do not shake or in any way move the scanning chamber while the scanning process is taking place.
+
+By default, all scanned sequences, as well as time and date stamps, will be automatically added to both the local and centralized database. The database can be accessed from this terminal. Make sure that the terminal is properly connected to IN or else the atomic sequences will not be added into the database.
+
+After the scanning process is complete, make sure not to accidentally leave the container inside the scanning chamber.::<end>
+
+=>a16_original
+::Notes::<end>
+
+=>a16
+::Notes::<end>
+

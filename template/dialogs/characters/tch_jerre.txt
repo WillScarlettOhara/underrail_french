@@ -1,0 +1,254 @@
+=>q1_original
+The Faceless are here! Save yourself, $(#brother/sister)!<end>
+
+=>q1
+The Faceless are here! Save yourself, $(#brother/sister)!<end>
+
+=>q2_original
+::An unexpectedly tiny and shy voice comes out of this lofty man. While he is loud enough for you to hear him, you can't shake off the feeling that the sound of a humble fly gliding into the room would overpower his voice. Fortunately, nothing similar happens during his introduction.::
+
+Tchort is evolution. My name is Jerre Franz and I am an Investigator of Medicine and the Institute's protophysician. You must be $(context.player.Name). Usually our fellow Tchortists refer to me as IM, to which I have no objection. Now, how may I help you?<end>
+
+=>q2
+::An unexpectedly tiny and shy voice comes out of this lofty man. While he is loud enough for you to hear him, you can't shake off the feeling that the sound of a humble fly gliding into the room would overpower his voice. Fortunately, nothing similar happens during his introduction.::
+
+Tchort is evolution. My name is Jerre Franz and I am an Investigator of Medicine and the Institute's protophysician. You must be $(context.player.Name). Usually our fellow Tchortists refer to me as IM, to which I have no objection. Now, how may I help you?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Where can I purchase some medication?<end>
+
+=>a4
+Where can I purchase some medication?<end>
+
+=>q5_original
+I can help you with that, $(#brother/sister). I'll show you what I have...<end>
+
+=>q5
+I can help you with that, $(#brother/sister). I'll show you what I have...<end>
+
+=>a6_original
+::Barter.::<end>
+
+=>a6
+::Barter.::<end>
+
+=>a7_original
+I would like to purchase medication.<end>
+
+=>a7
+I would like to purchase medication.<end>
+
+=>q8_original
+Right away. This is what I have at the moment...<end>
+
+=>q8
+Right away. This is what I have at the moment...<end>
+
+=>a9_original
+Can you check my wounds?<end>
+
+=>a9
+Can you check my wounds?<end>
+
+=>q10_original
+Of course, that is the reason I'm here. Medical examination and treatment costs twenty charons.<end>
+
+=>q10
+Of course, that is the reason I'm here. Medical examination and treatment costs twenty charons.<end>
+
+=>a11_original
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>a11
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>q12_original
+Alright, $(#brother/sister), let me see what is causing you pain...<end>
+
+=>q12
+Alright, $(#brother/sister), let me see what is causing you pain...<end>
+
+=>a13_original
+::Let him treat you.::<end>
+
+=>a13
+::Let him treat you.::<end>
+
+=>a14_original
+Erm, I suddenly feel a lot better.<end>
+
+=>a14
+Erm, I suddenly feel a lot better.<end>
+
+=>q15_original
+That is good news, $(#brother/sister). Was there anything else you needed of me?<end>
+
+=>q15
+That is good news, $(#brother/sister). Was there anything else you needed of me?<end>
+
+=>q16_original
+Of course. That would be twenty charons.<end>
+
+=>q16
+Of course. That would be twenty charons.<end>
+
+=>a17_original
+What do you think of the Faceless?<end>
+
+=>a17
+What do you think of the Faceless?<end>
+
+=>q18_original
+Foul, corrupted beings. Ugh, I sympathize with Core City residents who have to endure being close to such disgusting creatures. Tchort help them.<end>
+
+=>q18
+Foul, corrupted beings. Ugh, I sympathize with Core City residents who have to endure being close to such disgusting creatures. Tchort help them.<end>
+
+=>q19_original
+In the end, the augmented monstrosities will die out eventually, while all completely natural beings, like us, will live on - for it is the superior design. Proven.<end>
+
+=>q19
+In the end, the augmented monstrosities will die out eventually, while all completely natural beings, like us, will live on - for it is the superior design. Proven.<end>
+
+=>a20_original
+How and why did you join Institute of Tchort?<end>
+
+=>a20
+How and why did you join Institute of Tchort?<end>
+
+=>q21_original
+Ah, it is a long story...<end>
+
+=>q21
+Ah, it is a long story...<end>
+
+=>a22_original
+Go on, I have the time.<end>
+
+=>a22
+Go on, I have the time.<end>
+
+=>q23_original
+I become a Tchortist about seven years ago - either in year ninety-two or ninety-three, one of the two - and it was all due to a single fortunate event of me meeting with a former colleague of mine who had just returned from South Underrail where he was on some, well, private business of his. Oh yes, I forgot to mention that I am from the North Underrail, and the meeting also took place there. In Dis, to be precise. <end>
+
+=>q23
+I become a Tchortist about seven years ago - either in year ninety-two or ninety-three, one of the two - and it was all due to a single fortunate event of me meeting with a former colleague of mine who had just returned from South Underrail where he was on some, well, private business of his. Oh yes, I forgot to mention that I am from the North Underrail, and the meeting also took place there. In Dis, to be precise. <end>
+
+=>q24_original
+Thomas Harding, the man I spoke with, informed me how dreadful the living conditions were in the south; of persistent and ever growing bandit menace, poverty, as well as the rise of violent sports in Core City. Naturally, the bottom line is that the south is a place of decadence and should be avoided at all costs.<end>
+
+=>q24
+Thomas Harding, the man I spoke with, informed me how dreadful the living conditions were in the south; of persistent and ever growing bandit menace, poverty, as well as the rise of violent sports in Core City. Naturally, the bottom line is that the south is a place of decadence and should be avoided at all costs.<end>
+
+=>q25_original
+Except... there was one thing he mentioned in a positive light - the Institute of Tchort. He had the, in his words, pleasure to speak to several Tchortists during his stay here, in Upper Underrail - and in fact, one of those Tchortists was none other than Minister Percival himself! Well, Assistant Minister back then.
+
+Tom was impressed by what he learned, about the body of knowledge the Tchortists possess and their intentions of changing - evolving the human future. He also told me about the duality of Tchort: one side is the physical side, the being itself; the other is knowledge obtained through scientific methods. The only way possible, really...<end>
+
+=>q25
+Except... there was one thing he mentioned in a positive light - the Institute of Tchort. He had the, in his words, pleasure to speak to several Tchortists during his stay here, in Upper Underrail - and in fact, one of those Tchortists was none other than Minister Percival himself! Well, Assistant Minister back then.
+
+Tom was impressed by what he learned, about the body of knowledge the Tchortists possess and their intentions of changing - evolving the human future. He also told me about the duality of Tchort: one side is the physical side, the being itself; the other is knowledge obtained through scientific methods. The only way possible, really...<end>
+
+=>q26_original
+Ah, I still remember Tom's words, explanations and praises of the Institute of Tchort; the first time he told me about Tchort itself and, especially due to his fantastic way with words, it floored me. Magnificent Tchort, I was astonished!<end>
+
+=>q26
+Ah, I still remember Tom's words, explanations and praises of the Institute of Tchort; the first time he told me about Tchort itself and, especially due to his fantastic way with words, it floored me. Magnificent Tchort, I was astonished!<end>
+
+=>q27_original
+Of course, all that sparked my imagination and I decided I *had* to come to South Underrail. So I did. I still remember seeing the rassophores at the entrance; all glorious in their beautiful robes... Sure, it was unusual but once you understand the purpose of such appearance it all makes sense, perfect sense.<end>
+
+=>q27
+Of course, all that sparked my imagination and I decided I *had* to come to South Underrail. So I did. I still remember seeing the rassophores at the entrance; all glorious in their beautiful robes... Sure, it was unusual but once you understand the purpose of such appearance it all makes sense, perfect sense.<end>
+
+=>q28_original
+You know what happened next, $(#brother/sister). I became a proud Tchortist, and still am - to this day. Tchort is evolution.<end>
+
+=>q28
+You know what happened next, $(#brother/sister). I became a proud Tchortist, and still am - to this day. Tchort is evolution.<end>
+
+=>a29_original
+Thomas seemed very impressed with Tchortism. Where is he now? Did he also join the Institute?<end>
+
+=>a29
+Thomas seemed very impressed with Tchortism. Where is he now? Did he also join the Institute?<end>
+
+=>q30_original
+::Jerre Franz's face turns sour.:: Tom was unfortunately mortally wounded soon after we spoke. Free Drones bombing attack. Many were killed by those corrupted, inbred, dystrophic... ugh...<end>
+
+=>q30
+::Jerre Franz's face turns sour.:: Tom was unfortunately mortally wounded soon after we spoke. Free Drones bombing attack. Many were killed by those corrupted, inbred, dystrophic... ugh...<end>
+
+=>q31_original
+::He sighs.:: Had he lived a bit longer, I'm sure he would have joined me here. I'm positive.<end>
+
+=>q31
+::He sighs.:: Had he lived a bit longer, I'm sure he would have joined me here. I'm positive.<end>
+
+=>a32_original
+Interesting story... Let me ask you something else.<end>
+
+=>a32
+Interesting story... Let me ask you something else.<end>
+
+=>q33_original
+$(#Brother/Sister)?<end>
+
+=>q33
+$(#Brother/Sister)?<end>
+
+=>a34_original
+Then perhaps you better tell it some other time. I had other questions anyway.<end>
+
+=>a34
+Then perhaps you better tell it some other time. I had other questions anyway.<end>
+
+=>q35_original
+Feel free to ask.<end>
+
+=>q35
+Feel free to ask.<end>
+
+=>a36_original
+Tchort guide you, Jerre Franz.<end>
+
+=>a36
+Tchort guide you, Jerre Franz.<end>
+
+=>q37_original
+Tchort guide you too, $(#brother/sister).<end>
+
+=>q37
+Tchort guide you too, $(#brother/sister).<end>
+
+=>a38_original
+I have to leave now. Goodbye.<end>
+
+=>a38
+I have to leave now. Goodbye.<end>
+
+=>q39_original
+Tchort guide you.<end>
+
+=>q39
+Tchort guide you.<end>
+
+=>q40_original
+Magnificent Tchort, what's with all this shaking?<end>
+
+=>q40
+Magnificent Tchort, what's with all this shaking?<end>
+
+=>q41_original
+Need assistance, $(#brother/sister)?<end>
+
+=>q41
+Need assistance, $(#brother/sister)?<end>
+

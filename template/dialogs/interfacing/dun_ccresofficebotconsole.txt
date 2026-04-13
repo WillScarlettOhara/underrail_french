@@ -1,0 +1,100 @@
+=>q1_original
+::Before you is a quite unusual console. Its display only shows a field for current sequence and for the inputs. The console consists of only four buttons labeled: L, S, submit sequence and clear. ::
+
+<end>
+
+=>q1
+::Before you is a quite unusual console. Its display only shows a field for current sequence and for the inputs. The console consists of only four buttons labeled: L, S, submit sequence and clear. ::
+
+<end>
+
+=>q2_original
+::You assume that L would stand for something long or large, and S would stand for short or small.::
+
+<end>
+
+=>q2
+::You assume that L would stand for something long or large, and S would stand for short or small.::
+
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Current sequence: $(context.loc_dun_ccResOffice_currentSequence)::<end>
+
+=>q4
+::Current sequence: $(context.loc_dun_ccResOffice_currentSequence)::<end>
+
+=>a5_original
+::Press L button.::<end>
+
+=>a5
+::Press L button.::<end>
+
+=>a6_original
+::Press S button.::<end>
+
+=>a6
+::Press S button.::<end>
+
+=>a7_original
+::Submit sequence.::<end>
+
+=>a7
+::Submit sequence.::<end>
+
+=>q8_original
+::Mismatched sequence, please try again.::<end>
+
+=>q8
+::Mismatched sequence, please try again.::<end>
+
+=>q9_original
+::Letters L and S, may stand you for something that is long or large, and short or small, respectively.::
+
+<end>
+
+=>q9
+::Letters L and S, may stand you for something that is long or large, and short or small, respectively.::
+
+<end>
+
+=>q10_original
+::Sequence matched, granting access to main storage room.::
+
+<end>
+
+=>q10
+::Sequence matched, granting access to main storage room.::
+
+<end>
+
+=>q11_original
+::Come back in two weeks and/or contact the console administrator for further use.::<end>
+
+=>q11
+::Come back in two weeks and/or contact the console administrator for further use.::<end>
+
+=>a12_original
+::Leave.::<end>
+
+=>a12
+::Leave.::<end>
+
+=>a13_original
+::Clear.::<end>
+
+=>a13
+::Clear.::<end>
+
+=>a14_original
+::Leave.::<end>
+
+=>a14
+::Leave.::<end>
+

@@ -1,0 +1,36 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+No vacancies at the fishin' hole. Sorry, $(#jack/lass).<end>
+
+=>q2
+No vacancies at the fishin' hole. Sorry, $(#jack/lass).<end>
+
+=>q3_original
+This sure beats huntin'.<end>
+
+=>q3
+This sure beats huntin'.<end>
+
+=>q4_original
+I'd rather lose a finger to an eel than a leg to a rathound.<end>
+
+=>q4
+I'd rather lose a finger to an eel than a leg to a rathound.<end>
+
+=>q5_original
+Woohoo! I don't have to pay the toll to them Scrappers no more.<end>
+
+=>q5
+Woohoo! I don't have to pay the toll to them Scrappers no more.<end>
+
+=>q6_original
+I 'eard Protectorate got ran out of the station above. That's bad news, $(#jack/sis).<end>
+
+=>q6
+I 'eard Protectorate got ran out of the station above. That's bad news, $(#jack/sis).<end>
+

@@ -1,0 +1,218 @@
+::SGS
+You broke the station's most basic rules of conduct - so the station broke you.
+
+::CrossroadCaves
+The caves surrounding South Gate Station are quite dangerous - especially for unprepared spelunkers.
+
+::ForlornStations
+You've become a fitting addition to this forlorn scenery.
+
+::Caves
+At least your remains will feed the local fungi and fauna.
+
+::GMSCompound
+Seems like you've joined the dead denizens of this place.
+
+::CampHathor
+Looks like you ended up being the hunted one.
+
+::HathorMine
+The mine will remain closed.
+
+::RathoundKingLair
+These royal rathounds will surely enjoy gnawing on your bones.
+
+::BatteryRecyclingPlant
+Only batteries are recycled here. You're single-use.
+
+::MushroomCove
+The Mushroom Cove - a peaceful place for peaceful sleep.
+
+::Junkyard
+In Junkyard, danger lurks behind every corner.
+
+::OldJunkyard
+These caustic grounds have claimed yet another victim.
+
+::CoreCity
+Looks like you weren't hardcore enough.
+
+::Foundry
+Days without (occupational) fatalities: 0.
+
+::FoundryMine
+Another one bites the dust.
+
+::UpperUnderrail
+You've reached your final destination.
+
+::InstituteofTchort
+Tchort guides you... to death.
+
+::EmporionShoppingMall
+The last thing you heard were cries and laughter of utter lunacy.
+
+::GenericFacility
+Exploring forsaken places comes with great risks...
+
+::FortApogee
+Hostile neutralized.
+
+::LowerUnderrail
+You've reached your final destination.
+
+::SouthRailroadOutpost
+Hostile neutralized.
+
+::HijackedTrainLocation
+You've found the train and your death.
+
+::RailCrossing
+Welcome to Rail Crossing. Population: diminishing.
+
+::WarehouseBlockBeta
+The Ironheads have a no-mercy policy for trespassers.
+
+::HecateResearchOutpost
+Lights out. Forever.
+
+::LowerPassages
+The under-passages are some of the most dangerous sections of South Underrail. Your demise was just a matter of time.
+
+::Oculus
+The all-seeing eye is watching you die.
+
+::HephaestusResearch
+Your corpse will provide a nice, cozy place for the burrowers to lay their eggs in.
+
+::HangingRat
+Unless your body gets dumped in the abyss it just might end up turning into this place's mascot.
+
+::Tchort
+The God will have his meal, even if it is a mangy railrat.
+
+::MutagenTanks
+Your biomass will not go to waste.
+
+::HollowEarth
+The city of the dead just got another resident.
+
+::TithonusLab
+At least you won't be haunting these hallways like them. Not in the same sense anyway.
+
+::StrangeShack
+Get out!
+
+::ArkePowerStation
+Intruder has been terminated.
+
+::DeepCaverns-WarehouseBlock2
+Cleanup on isle six.
+
+::TalosOutpost
+Are you truly dead, or will you wake up as one of the Faceless?
+
+::CaerusResidential
+There is not a living human soul in these apartments. Your presence changes nothing.
+
+::Labyrinth
+No way out of the labyrinth.
+
+::MushroomForest
+Your corpse will enrich the soil of this grand fungal forest.
+
+::DeepCaverns
+Abandon hope, all ye who enter the Deep Caverns.
+
+::FreeDronesBase
+Only death is free.
+
+::BlackSea
+Your existence ends here - in the Hell's Gut.
+
+::SørmirbærenVillage
+Your body, or what's left of it, will surely be put on display as a warning to anyone foolish enough to repeat your mistake.
+
+::SørmirbærenTemple
+You've desecrated this holy temple and its hallowed waters with your mere presence. You had to pay for your sins.
+
+::MutieRefuge
+It's a refuge for muties, not for you.
+
+::BlackSeaRapids
+Few can survive these rapids. Looks like you're not one of them.
+
+::BlackSeaExpeditionCamp
+Expedition is over.
+
+::CrimsonMeadowHorticultureCenter
+A fresh batch of fertilizer has just been delivered.
+
+::Boneyard
+Fresh bones for the boneyard.
+
+::SørmirbærenGraveyard
+Those who disturb the dead might just join them.
+
+::PortCeto-Destroyer
+You won't be walking the plank, if nothing else.
+
+::Pirates
+Your corpse will not go unplundered.
+
+::LEMCO
+You perished in a graveyard of open, empty crates - coffins for the newly deceased.
+
+::BasaltCave
+Your remains will be slowly swallowed by the abrasive sands... and the creatures underneath.
+
+::FetidMarsh
+You shouldn't have come here.
+
+::NexusofTechnology
+Now entering: Nexus of the Dead.
+
+::BlisteringShores
+Maybe the thick mud might preserve your body for some future explorer to discover.
+
+::BlisteringShoresResearchFacility
+The literal corner of the Black Sea, your resting place.
+
+::GiantCreeperLair
+Many years from now there's a chance that someone might discover your skull in one of these giant cobwebs.
+
+::JointSecurityHeadquarters
+Security breached: Please remain still as to simplify the disposal procedure.
+
+::OldIb'sHomestead
+No trespassing.
+
+::TheRig
+The Rig's reputation is such for a good reason. It takes a bullet to the head for many to realize that, and only during that final split second.
+
+::Waterways
+You're fish food now.
+
+::Chancer'sBay
+No second chance for you.
+
+::AbandonedWaterwayFacility
+Looks like this was a one-way trip after all.
+
+::Hopperdrome
+The race is over for you.
+
+::UtilityTowerIcy
+Your remains will be well-preserved in this lofty, frigid coffin.
+
+::GrayArmyBase
+Sagledaschnlk utepan.
+
+::Submarine
+Rigged for the final dive.
+
+::AbyssalStationZero
+Beneath the deep you'll remain, never to be seen again.
+
+::Exobase
+They may not rest, but you sure must.

@@ -1,0 +1,258 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+The architects were afraid of their creations... deep in the genome... look... the latent self-destructive code...<end>
+
+=>q2
+The architects were afraid of their creations... deep in the genome... look... the latent self-destructive code...<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Are you Wit Nosek?<end>
+
+=>a4
+Are you Wit Nosek?<end>
+
+=>q5_original
+::The name rings a bell for him and for a while he seems to focus on your words more intently.:: Thallo... thallo... of nature and order... and of long strands of madness...<end>
+
+=>q5
+::The name rings a bell for him and for a while he seems to focus on your words more intently.:: Thallo... thallo... of nature and order... and of long strands of madness...<end>
+
+=>a6_original
+I need to know what you discovered working on *The Ark*.<end>
+
+=>a6
+I need to know what you discovered working on *The Ark*.<end>
+
+=>q7_original
+We do not need... to know anything... madness is in the long strands...<end>
+
+=>q7
+We do not need... to know anything... madness is in the long strands...<end>
+
+=>q8_original
+Who is the $(#man/woman) asking me to travel down the spirals?<end>
+
+=>q8
+Who is the $(#man/woman) asking me to travel down the spirals?<end>
+
+=>a9_original
+My name is $(context.player.Name).<end>
+
+=>a9
+My name is $(context.player.Name).<end>
+
+=>q10_original
+::His mind seems to drift away again...::<end>
+
+=>q10
+::His mind seems to drift away again...::<end>
+
+=>a11_original
+Name's $(context.player.Name). Azif sent me.<end>
+
+=>a11
+Name's $(context.player.Name). Azif sent me.<end>
+
+=>a12_original
+I am $(context.player.Name), of the South Gate Station.<end>
+
+=>a12
+I am $(context.player.Name), of the South Gate Station.<end>
+
+=>a13_original
+It's me, your assistant.<end>
+
+=>a13
+It's me, your assistant.<end>
+
+=>q14_original
+No, no... you will not trick me again...<end>
+
+=>q14
+No, no... you will not trick me again...<end>
+
+=>q15_original
+::With voice filled with hate, he spits the words out through his teeth. His eyes are lowered to the ground and this hatred doesn't seem to be directed at you, but rather some invisible enemy.:: Murderous dogs... I don't owe you anything... The secrets for the long strands are not for the selfish cannibalistic... bloody... rathounds!<end>
+
+=>q15
+::With voice filled with hate, he spits the words out through his teeth. His eyes are lowered to the ground and this hatred doesn't seem to be directed at you, but rather some invisible enemy.:: Murderous dogs... I don't owe you anything... The secrets for the long strands are not for the selfish cannibalistic... bloody... rathounds!<end>
+
+=>q16_original
+::He calms down as his thoughts stray away again.:: <end>
+
+=>q16
+::He calms down as his thoughts stray away again.:: <end>
+
+=>a17_original
+It's me - Al. Your assistant.<end>
+
+=>a17
+It's me - Al. Your assistant.<end>
+
+=>q18_original
+::His eyes light up at the sound of that name.:: Al...<end>
+
+=>q18
+::His eyes light up at the sound of that name.:: Al...<end>
+
+=>q19_original
+::He places his hands on the sides of your head, clasping it while inspecting you intensely. For some reason, probably madness, he recognizes you as his former assistant.:: Al, there's so many things... I have to tell you...<end>
+
+=>q19
+::He places his hands on the sides of your head, clasping it while inspecting you intensely. For some reason, probably madness, he recognizes you as his former assistant.:: Al, there's so many things... I have to tell you...<end>
+
+=>q20_original
+::He releases your head and grabs you by the shoulders instead, shaking you occasionally as he explains.:: Not enough time, though... not enough time. They keep coming and questioning me. Probing me for answers to the questions they should not dare ask.<end>
+
+=>q20
+::He releases your head and grabs you by the shoulders instead, shaking you occasionally as he explains.:: Not enough time, though... not enough time. They keep coming and questioning me. Probing me for answers to the questions they should not dare ask.<end>
+
+=>q21_original
+The answer is in the long branches. Deep within.... it's hidden. And it's doubly encoded - first in the DNA structure and then in the ribosomal RNA spread.<end>
+
+=>q21
+The answer is in the long branches. Deep within.... it's hidden. And it's doubly encoded - first in the DNA structure and then in the ribosomal RNA spread.<end>
+
+=>q22_original
+But here's the clever part, Al. ::He chuckles.:: You're going to love this. The second decoding mechanism is not inside the organism.<end>
+
+=>q22
+But here's the clever part, Al. ::He chuckles.:: You're going to love this. The second decoding mechanism is not inside the organism.<end>
+
+=>q23_original
+It's in the symbionts. ::With his mouth gaped, his face freezes up with a look of exhilaration as if he just conveyed you the meaning of life itself.::<end>
+
+=>q23
+It's in the symbionts. ::With his mouth gaped, his face freezes up with a look of exhilaration as if he just conveyed you the meaning of life itself.::<end>
+
+=>a24_original
+::[Biology]:: Are you talking about the human genome? What genes should I look at? What are these symbionts?<end>
+
+=>a24
+::[Biology]:: Are you talking about the human genome? What genes should I look at? What are these symbionts?<end>
+
+=>q25_original
+::His face and the rest of his body is still frozen in the same position.::<end>
+
+=>q25
+::His face and the rest of his body is still frozen in the same position.::<end>
+
+=>a26_original
+Wit?<end>
+
+=>a26
+Wit?<end>
+
+=>q27_original
+::As you try to bring him to his senses, his grip on you loosens and he falls flat on the floor. He's dead.::<end>
+
+=>q27
+::As you try to bring him to his senses, his grip on you loosens and he falls flat on the floor. He's dead.::<end>
+
+=>a28_original
+::End Dialog::<end>
+
+=>a28
+::End Dialog::<end>
+
+=>a29_original
+I don't know what that means, Wit...<end>
+
+=>a29
+I don't know what that means, Wit...<end>
+
+=>a30_original
+Do you have your research documents on you?<end>
+
+=>a30
+Do you have your research documents on you?<end>
+
+=>a31_original
+That's nice, can you let go of me now?<end>
+
+=>a31
+That's nice, can you let go of me now?<end>
+
+=>a32_original
+It's your boss. Biocorp is still waiting for the results.<end>
+
+=>a32
+It's your boss. Biocorp is still waiting for the results.<end>
+
+=>a33_original
+They call me Adahn.<end>
+
+=>a33
+They call me Adahn.<end>
+
+=>q34_original
+There never was Adam.<end>
+
+=>q34
+There never was Adam.<end>
+
+=>a35_original
+What?<end>
+
+=>a35
+What?<end>
+
+=>a36_original
+I said 'Adahn'.<end>
+
+=>a36
+I said 'Adahn'.<end>
+
+=>a37_original
+Never mind.<end>
+
+=>a37
+Never mind.<end>
+
+=>q38_original
+If only I could...<end>
+
+=>q38
+If only I could...<end>
+
+=>a39_original
+::Leave him be.::<end>
+
+=>a39
+::Leave him be.::<end>
+
+=>q40_original
+The stones... they tell of things... they will come...<end>
+
+=>q40
+The stones... they tell of things... they will come...<end>
+
+=>q41_original
+The rampant DNA fraying... it is not accidental... it was not a mistake... secrets hidden in these long branches...<end>
+
+=>q41
+The rampant DNA fraying... it is not accidental... it was not a mistake... secrets hidden in these long branches...<end>
+
+=>q42_original
+What terrible secrets... what glorious history... in those long spirals...<end>
+
+=>q42
+What terrible secrets... what glorious history... in those long spirals...<end>
+
+=>q43_original
+::The senile old man shuffles across the room, muttering and going about his business as if you're not here.::<end>
+
+=>q43
+::The senile old man shuffles across the room, muttering and going about his business as if you're not here.::<end>
+

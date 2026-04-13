@@ -1,0 +1,78 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Drop Zone is hell. I'm going to the Arena. At least I have some chance there.<end>
+
+=>q2
+Drop Zone is hell. I'm going to the Arena. At least I have some chance there.<end>
+
+=>q3_original
+Survival is difficult here.<end>
+
+=>q3
+Survival is difficult here.<end>
+
+=>q4_original
+I came to Core City to find a better life. What was I thinking?<end>
+
+=>q4
+I came to Core City to find a better life. What was I thinking?<end>
+
+=>q5_original
+No! Not Zap! It's a conspiracy against us zoners!<end>
+
+=>q5
+No! Not Zap! It's a conspiracy against us zoners!<end>
+
+=>q6_original
+Leave the drop zone, there ain't nothing good here.<end>
+
+=>q6
+Leave the drop zone, there ain't nothing good here.<end>
+
+=>q7_original
+The Arena is the only thing that keeps me going.<end>
+
+=>q7
+The Arena is the only thing that keeps me going.<end>
+
+=>q8_original
+Careful around these parts.<end>
+
+=>q8
+Careful around these parts.<end>
+
+=>q9_original
+Some guy told me the Acid Hunters had something to do with Knight's son's death.<end>
+
+=>q9
+Some guy told me the Acid Hunters had something to do with Knight's son's death.<end>
+
+=>q10_original
+No one will help you here if you get in trouble. Keep that in mind.<end>
+
+=>q10
+No one will help you here if you get in trouble. Keep that in mind.<end>
+
+=>q11_original
+What are those bozos doing here?<end>
+
+=>q11
+What are those bozos doing here?<end>
+
+=>q12_original
+Invictus! I can't-- Oh, my bad. You really look like $(#him/her), though.<end>
+
+=>q12
+Invictus! I can't-- Oh, my bad. You really look like $(#him/her), though.<end>
+
+=>q13_original
+My dad used to tell me how the Tunnelers kidnap folks and do experiments on them!<end>
+
+=>q13
+My dad used to tell me how the Tunnelers kidnap folks and do experiments on them!<end>
+

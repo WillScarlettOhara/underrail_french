@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Howdy.<end>
+
+=>q2
+Howdy.<end>
+
+=>q3_original
+I'm so bummed out about Vivian. She was always super nice and friendly.<end>
+
+=>q3
+I'm so bummed out about Vivian. She was always super nice and friendly.<end>
+
+=>q4_original
+Hello, $(context.player.Name).<end>
+
+=>q4
+Hello, $(context.player.Name).<end>
+
+=>q5_original
+Pulverizer dominated in the Arena last time I was watching him. Too bad he's a jerk.<end>
+
+=>q5
+Pulverizer dominated in the Arena last time I was watching him. Too bad he's a jerk.<end>
+
+=>q6_original
+Those damn zoners keep breaking our trims. They get into fights over their favourite gladiators and... ::Sighs.::<end>
+
+=>q6
+Those damn zoners keep breaking our trims. They get into fights over their favourite gladiators and... ::Sighs.::<end>
+
+=>q7_original
+I don't mind fixing stuff in the hq, but when they send us to Drop Zone... Damn...<end>
+
+=>q7
+I don't mind fixing stuff in the hq, but when they send us to Drop Zone... Damn...<end>
+
+=>q8_original
+Where did I leave my tools?<end>
+
+=>q8
+Where did I leave my tools?<end>
+
+=>q9_original
+Mr. Edstrom is a good man. Treats us all well.<end>
+
+=>q9
+Mr. Edstrom is a good man. Treats us all well.<end>
+

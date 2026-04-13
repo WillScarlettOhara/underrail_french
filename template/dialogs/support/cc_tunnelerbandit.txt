@@ -1,0 +1,188 @@
+=>q1_original
+::An armed, ripped man performs a reverse nod the moment he sees you, after which he lets out a disgusting gargling sound before spitting something yellowish-brown on the ground. An instant later - he spits again, hitting the exact same spot before uttering his words with a loud voice that is as rough as his manners.::
+
+Yo pipeworker, this here ain't a place for the likes of *you*! Drop off out of here - or you is gonna end up in barrel soup!<end>
+
+=>q1
+::An armed, ripped man performs a reverse nod the moment he sees you, after which he lets out a disgusting gargling sound before spitting something yellowish-brown on the ground. An instant later - he spits again, hitting the exact same spot before uttering his words with a loud voice that is as rough as his manners.::
+
+Yo pipeworker, this here ain't a place for the likes of *you*! Drop off out of here - or you is gonna end up in barrel soup!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I'm interested in that tunneler over there, and you're in the way.<end>
+
+=>a3
+I'm interested in that tunneler over there, and you're in the way.<end>
+
+=>q4_original
+Be interested all you want, this here tunna belong to us. Drop off now, pipeworker.<end>
+
+=>q4
+Be interested all you want, this here tunna belong to us. Drop off now, pipeworker.<end>
+
+=>q5_original
+You still here?<end>
+
+=>q5
+You still here?<end>
+
+=>a6_original
+Will some charons persuade you to leave this place?<end>
+
+=>a6
+Will some charons persuade you to leave this place?<end>
+
+=>q7_original
+Yo, you really want this junk? Hardcore, just give me *five* hundred and we is all gone.<end>
+
+=>q7
+Yo, you really want this junk? Hardcore, just give me *five* hundred and we is all gone.<end>
+
+=>a8_original
+Here you go. ::Give him 500 charons.::<end>
+
+=>a8
+Here you go. ::Give him 500 charons.::<end>
+
+=>q9_original
+Done! Sweet shinies! ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him. We is gonna go to Moe's and get some real food! Yeah!
+
+Thanks, $(#fat rat/sugar)!<end>
+
+=>q9
+Done! Sweet shinies! ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him. We is gonna go to Moe's and get some real food! Yeah!
+
+Thanks, $(#fat rat/sugar)!<end>
+
+=>a10_original
+::End Dialog.::<end>
+
+=>a10
+::End Dialog.::<end>
+
+=>a11_original
+::[Mercantile]:: You must be insane? How about half of that?<end>
+
+=>a11
+::[Mercantile]:: You must be insane? How about half of that?<end>
+
+=>q12_original
+Yeah, whatever! Sweet shinies! ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! We is gonna go to Moe's and get some real food! Yeah!
+
+Thanks, $(#fat rat/sugar).<end>
+
+=>q12
+Yeah, whatever! Sweet shinies! ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! We is gonna go to Moe's and get some real food! Yeah!
+
+Thanks, $(#fat rat/sugar).<end>
+
+=>q13_original
+You is stupid. Drop off!<end>
+
+=>q13
+You is stupid. Drop off!<end>
+
+=>q14_original
+I sad drop off already.<end>
+
+=>q14
+I sad drop off already.<end>
+
+=>a15_original
+I don't have that much.<end>
+
+=>a15
+I don't have that much.<end>
+
+=>q16_original
+Then drop off.<end>
+
+=>q16
+Then drop off.<end>
+
+=>a17_original
+::[Persuade]:: You know, if the Faceless decide to come and get this thing back, you're going to be in big trouble.<end>
+
+=>a17
+::[Persuade]:: You know, if the Faceless decide to come and get this thing back, you're going to be in big trouble.<end>
+
+=>q18_original
+Facemen is gone, pipeworker. They ain't comin' back.<end>
+
+=>q18
+Facemen is gone, pipeworker. They ain't comin' back.<end>
+
+=>q19_original
+And I ain't scared of them even if they isn't leave.<end>
+
+=>q19
+And I ain't scared of them even if they isn't leave.<end>
+
+=>q20_original
+Really? Hmm... on a second thought, them Facemen *is* damn freaks. ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him.
+
+Make way!<end>
+
+=>q20
+Really? Hmm... on a second thought, them Facemen *is* damn freaks. ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him.
+
+Make way!<end>
+
+=>q21_original
+Well we can take them on, yeah! Them Facemen ain't got nothin' on us.<end>
+
+=>q21
+Well we can take them on, yeah! Them Facemen ain't got nothin' on us.<end>
+
+=>q22_original
+Is I right?<end>
+
+=>q22
+Is I right?<end>
+
+=>a23_original
+::[Intimidate]:: I am not a patient $(#man/woman). You all want to keep all your organs intact, you get lost. Now!<end>
+
+=>a23
+::[Intimidate]:: I am not a patient $(#man/woman). You all want to keep all your organs intact, you get lost. Now!<end>
+
+=>q24_original
+Yo, take it easy, friend! You want this tunna so bad - you take it. ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him.
+
+Make way!<end>
+
+=>q24
+Yo, take it easy, friend! You want this tunna so bad - you take it. ::He turns to his men and yells..:: Yo, Mud, Trashman, Gravel and you Little Garbage, we is movin' out! Leave that freak hangin', who cares about him.
+
+Make way!<end>
+
+=>q25_original
+You stupid pipeworker - drop off! You almost make me laugh, but my face were hurt by bullet so I can't laugh.<end>
+
+=>q25
+You stupid pipeworker - drop off! You almost make me laugh, but my face were hurt by bullet so I can't laugh.<end>
+
+=>q26_original
+You is stupid! I can laugh! ::He laughs.:: You fell for it!<end>
+
+=>q26
+You is stupid! I can laugh! ::He laughs.:: You fell for it!<end>
+
+=>a27_original
+I'm going.<end>
+
+=>a27
+I'm going.<end>
+
+=>q28_original
+Yo, you again. I thought I is told you to drop off.<end>
+
+=>q28
+Yo, you again. I thought I is told you to drop off.<end>
+

@@ -1,0 +1,1028 @@
+::Feats
+Feats
+
+::GeneralInfo
+Feats are special traits or tricks of the trade your character has learned over time.
+
+::S2
+You can activate the Sprint ability which grants you {0} additional movement points for {1}. Only effective while not in stealth.
+
+Cooldown: {2}.
+
+::AS
+You can perform an aimed shot with any single-target ranged weapon for a guaranteed critical hit.
+
+Cooldown: {0}.
+
+::S-old
+Grants you a special attack with a crossbow or sniper rifle that deals additional damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.
+
+Cooldown: {0}.
+
+::S
+Grants you a special attack with a crossbow or sniper rifle that deals {0}% weapon damage plus additional {1}% damage per stealth skill point. Can only be used in stealth. This attack cannot critically hit.
+
+Cooldown: {2}.
+
+::CookedShot
+Grants you a special attack with chemical blob pistols that launches a big blob at the targeted location, dealing normal weapon damage to everything in a small radius. This attack costs {0}% of regular attack action points.
+
+Cooldown: {1}.
+
+::A
+If your snipe attack deals over {0}% of the target's remaining health it will be instantly killed. Target must be unaware of your presence prior to the attack.
+
+Only works on biological targets.
+
+::KCS-Old
+An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {2} plus additional {1}% for every point in perception and removes all movement points from the target for {2} (target can still move using action points).
+
+Only works on living targets (that have knees). Cooldown: {3}.
+
+::KCS
+An attack with a pistol, crossbow or SMG that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.
+
+Only works on living targets (that have knees).
+
+Cooldown: {2}.
+
+::KCS-XPBL
+An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.
+
+Only works on living targets (that have knees).
+
+Cooldown: {2}.
+
+::SS-Old
+Increases your weapon critical bonuses when fully focused:
+
+Pistols +{0}%
+Crossbows +{1}%
+Sniper Rifles +{2}%
+
+::SS
+Increases your critical damage bonus with pistols, crossbows and sniper rifles when fully focused by {0}%. Firearm pistols receive this bonus at all times, regardless of focus.
+
+::O
+Increases damage against immobilized, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons, unarmed attacks and throwing knives.
+
+Only works on living targets.
+
+::O-XPHW
+Increases damage against immobilized, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons (except area of effect weapons), unarmed attacks and throwing knives.
+
+Only works on living targets.
+
+::G
+Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms.
+
+::QR
+Increases attack speed with crossbows by 20%.
+
+::PE
+Allows the character to learn and invoke psi abilities, but their base health is reduced by {0}%.
+
+::CI
+Increases the duration of all cold effects of your psi abilities by {0} and allows you to shatter targets caught in your cryostasis if the attack deals over {1}% of target's remaining health (only mechanical and cold damage dealt is considered).
+
+Also increases the health of cryogenic barrier by {2}%.
+
+::IM
+Grants you a special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets. Does not work with pistols that deal their primary damage to multiple targets. Costs 5 action points more than a regular attack.
+
+Cooldown: {1}.
+
+::H
+Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.
+
+Can be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia.
+
+::I
+Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed.
+
+::ST
+If you spend more than {0} seconds in stealth, you will gain {1}% displacement. This effect will persist for the duration of the stealth mode and {2} seconds afterwards.
+
+::CT-Old
+Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times.
+
+::CT
+Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces target's psi point reserves by {1}% of their maximum psi points.
+
+::MS
+Each offensive mind affecting psi ability you land on the target reduces its resolve by a small percentage, but can ultimately stack up to {0}%.
+
+::CO
+Reduces all mechanical, heat and cold damage taken by {0}% plus {1}% for every point in constitution above {2}.
+
+::DS-old
+Increases precision with the crossbow when firing special bolts and removes additional action point cost.
+
+::DS
+Removes additional action point cost when firing special bolts.
+
+::TD-Old
+After invoking heat based psi ability you gain thermodynamicity which reduces the psi cost of your next cold based psi ability by {0}% and vice versa.
+
+If unused, the bonus expires after {1}.
+
+::TD
+After invoking heat based psi ability you gain thermodynamicity which reduces the action point cost of your next cold based psi ability by {0}% and vice versa.
+
+If unused, the bonus expires after {1}.
+
+::PM-Old
+Whenever you deal damage with your fire based psi abilities you have a {0}% chance to set the target on fire, dealing {1}% of that damage again over {2} turns.
+
+Setting living targets on fire will put them in state of extreme panic.
+
+::PM
+Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.
+
+Setting living targets on fire will put them in state of extreme panic.
+
+::FullAuto
+You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback.
+
+::FullAuto-XPBL
+You can fire two extra rounds during your assault rifle and SMG burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback.
+
+::FullAuto-XPHW
+You can fire two extra rounds during your assault rifle, SMG, LMG, and minigun burst if you are strong enough to take the kickback.
+
+::FullAuto-XPBLXPHW
+You can fire two extra rounds during your assault rifle, SMG, LMG, and minigun burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback.
+
+::MagDump
+Further increases number of extra rounds for LMG burst by {0}, and increases the amount of extra rounds you get for each wind up stack when bursting with a minigun by {1}.
+
+::Ambush
+When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point.
+
+::ForceUser
+Telekinesis is strong with you.
+
+Damage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point.
+
+::LocusOfControl
+You are the master of your own fate.
+
+Activate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.
+
+While this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.
+
+Cooldown: {1}.
+
+::Tranquility-Old
+Reduces the psi point cost of all psi abilities by {0}%, but increases the action point cost by the same percentage.
+
+::Tranquility
+Reduces the action point cost of all psi abilities by {0} while at full health.
+
+::Psychosis
+Increases critical chance of all psi abilities by {0}%, but also increases their psi point cost by {1}%.
+
+::Premeditation-Old
+When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.
+
+Cooldown: {1}.
+
+::Premeditation
+When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.
+
+Cooldown: {3}.
+
+::Cutthroat
+You can perform a powerful knife stealth attack from behind the target that bypasses all resistances and shields, applies a bleeding wound that deals extra {0}% damage over {1} and stuns the target for the same duration.
+
+You must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.
+
+Action point cost: {2}. Cooldown: {3}.
+
+::Sap
+Grants {2}% damage bonus when attacking with crowbars and allows you to perform a special crowbar attack from behind the target that bypasses all resistances and shields and incapacitates the target for up to {0}.
+
+You must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.
+
+Cooldown: {1}.
+
+::Doctor
+You can heal any wound with bandages. You also gain {0}% more health from health restoring medications.
+
+::PowerManagement
+Electronic devices you craft have {0}% greater energy capacity.
+
+::LightningPunches-Old
+Reduces the action point cost of your unarmed attack by {0} while your armor penalty is below {1}%.
+
+::LightningPunches
+Reduces the action point cost of your unarmed and fist weapon attacks by {0} while your armor penalty is below {1}%.
+
+::Deflection
+While unarmed or wielding fist weapons, your dodge is increased by {0}% of your melee skill.
+
+::--ChuckAttack
+You can perform a powerful roundhouse kick that deals {0}% unarmed weapon damage and has a chance of breaking target's ribs (humans only), reducing their action points by {1} for {2}.
+
+You also gain a small amount of fame and infamy first time you perform this attack.
+
+Cooldown: {3}.
+
+::Burglar
+Reduces the time it takes to pick and hack locks by {0}%. Also grants you +{1} bonus to stealth skill when in controlled areas.
+
+::NinjaLooter
+Reduces pickpocketing time by {0}%. Also reduces suspicion raised when pickpocketing by {1}% when hidden from the target.
+
+::QuickPockets
+Provides you with an extra utility slot and reduces the action point cost of equipping items during combat by {0}%.
+
+::Snooping
+Increases perception by {0} for the purpose of detecting hidden passages and other secrets.
+
+::Recklessness
+Increases your chance to critically hit with weapons and unarmed attacks by {0}%, but also increases your chance to get critically hit by weapon and unarmed attacks and psi abilities by {1}%.
+
+::Nimble
+Reduces armor penalty by {0}% and grants {1}% bonus to dodge and evasion if your armor penalty is at zero.
+
+::SpecialTactics
+Grants you an ability that when activated will remove the action point cost of your next special bolt attack. This ability can only be activated while out of combat.
+
+Cooldown: {0} seconds.
+
+::Pummel
+You can perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands and costs only {2} action points.
+
+Off-balanced characters have their dodge and evasion reduced to zero.
+
+Cooldown: {3}
+
+::Shroomhead-Old
+You regenerate psi points in presence of mindshrooms when below {0}% of your psi point capacity.
+
+::Shroomhead
+Your subconscious is tuned into the fungal surroundings so well that you recover {0} psi points when picking up mindshrooms.
+
+::Yell
+You can issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth . All affected enemies will have their offensive skills reduced by an amount equal to {0}% of your intimidation skill for {1}.
+
+Cooldown: {2}.
+
+::HitAndRun
+Every time you kill an enemy with your melee or ranged weapon your movement points are reset to {0} (cannot exceed your maximum) if they were below that number.
+
+This can happen multiple times in the same turn, but each consecutive time the effect gets halved.
+
+::DirtyKick-Old
+You can perform a special unarmed attack that deals normal damage and stuns living targets for {0}. If the target is human male, it's stunned for {1} instead.
+
+Cooldown: {2}.
+
+::DirtyKick
+You can perform a special melee attack for {3} action points that deals increased unarmed damage and stuns living targets for {0}. If the target is humanoid male, it's stunned for {1} instead.
+
+This attack can be performed regardless of the currently equipped weapon. The damage scales up with your unarmed attack damage.
+
+Cooldown: {2}.
+
+::HeavyPunch
+You can perform an unconditional unarmed or fist weapon attack that deals {0}% damage at {1}% action point cost.
+
+Cooldown: {2}.
+
+::CripplingStrike
+An unarmed, fist weapon or knife attack that deals {0}% damage and reduces the target's strength by {1} if it penetrates armor. Lasts {2}. Stacks {3} times.
+
+Only works on living targets.
+
+Cooldown: {4}.
+
+::BoneBreaker
+Critical hits from your blunt melee attacks break ribs if they deal at least {0}% of target's maximal health through mechanical damage. Targets with broken ribs receive additional {1}% mechanical damage from all sources. 
+
+This effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.
+
+::BoneBreaker_Cleave
+If the attack deals at least {0}% of target's maximal health through mechanical damage, it will break their ribs. Targets with broken ribs receive additional {1}% mechanical damage from all sources. 
+
+This effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs.
+
+::CheapShots
+Increases critical damage bonus of your melee attacks by {0}% and gives your melee attacks {1}% chance to incapacitate the target for {2}.
+
+::Paranoia
+Everyone is out to get you and you know it. Detection increased by {0}%, initiative by {1} and chance to get critically hit by weapon and unarmed attacks reduced by {2}%. Also your weapon and unarmed damage is increased by {3}% against stealthed targets.
+
+::UncannyDodge
+Grants you an ability that when activated will cause you to dodge the next {0} regular or special melee attacks targeted against you, plus an additional attack for each {1} points in dodge.
+
+Cooldown: {2}.
+
+::EvasiveManeuvers
+Grants you an ability that when activated converts all remaining movement points into thrice the evasion for {0}.
+
+Cooldown: {1}.
+
+::Grenadier
+Reduces the cooldown of fragmentation, high explosive, and incendiary grenades by {0} and special grenades by {1}.
+
+::TrapExpert
+Reduces time required to arm and disarm traps by {0}% and increases the detection difficulty of the traps you set by {1}%.
+
+::ThreePointer-Old
+Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each point in dexterity above {2}.
+
+::ThreePointer
+Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each 10 points in throwing skill above {2}.
+
+::VileWeaponry
+Whenever you cause a bleeding wound with a cold weapon, armor enhancement or trap you also apply infected wound which increases the damage taken from all sources by {0}% and reduces healing effects by {1}%. Stacks {2} times.
+
+::ExposeWeakness
+You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}%, plus additional {1}% for each point of intelligence, for {2} if it lands. The effect is halved for non-living targets.
+
+Cooldown: {3}.
+
+::SteadfastAim
+Increases critical hit chance with a pistol by {0}% for each base action point required to fire it above {1}.
+
+::SpecOps
+Reduces action point cost modifier for burst attack from {0}% to {1}% when using SMGs. Also reduces cooldown of flashbangs and similar tactical grenades by {2}.
+
+::SuppressiveFire
+Enemies caught in your firearm burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.
+
+::SuppressiveFire-OLD
+Enemies caught in your assault rifle or SMG burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.
+
+::SuppressiveFire-XPBL
+Enemies caught in your assault rifle, SMG or shotgun burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}.
+
+::QuickTinkering-OLD
+Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost no action points.
+
+Cooldown: {0}.
+
+::QuickTinkering
+Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.
+
+Cooldown: {1}.
+
+::FancyFootwork
+When you land a melee attack you gain up to {0} movement points, depending on your armor penalty. This can be triggered multiple times per turn, but each time the effect is reduced by 1 action point.
+
+This cannot raise your movement points beyond twice your normal maximum.
+
+::TasteForBlood-Old
+Whenever you attack a bleeding target with a melee weapon or an unarmed attack, you increase your melee damage by {0}% and reduce action point cost of melee weapons by {1} for each bleeding wound the target has. This can stack up to {2} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.
+
+Expires after {3} if not refreshed.
+
+::TasteForBlood
+Whenever you attack a bleeding target with a melee weapon, you increase your melee damage by {0}% for each bleeding wound the target has. This can stack up to {1} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.
+
+Expires after {2} if not refreshed.
+
+::Eviscerate
+Grants you a special knife attack that removes all bleeding wounds from the target and deals {0}% bonus damage for each bleeding wound removed. 
+
+Cooldown: {1}.
+
+::Hypertoxicity
+Increases damage done by poisons you apply by {0}%.
+
+::Hunter
+Increases damage dealt to critters with crossbows and knives by {0}%.
+
+::Hunter-XPBL
+Increases damage dealt to critters with crossbows, knives and spears by {0}%.
+
+::Wrestling
+When you strike a living target with fist weapon or unarmed attack you have {0}% chance to reduce target's movement points by {1}, action points by {2} and chance to hit with all ranged weapons by {3}%. Stacks {4} times.
+
+::Combo
+If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and have {1}% chance to stun the target for {2}.
+
+::Packrathound
+Increases carry capacity by {0}.
+
+::BeastOfBurden
+Increases carry capacity by {0}.
+
+::LastStand-Old
+Grants you an ability that when activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.
+
+Cooldown: {3}.
+
+::LastStand
+Grants you an ability that when activated will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.
+
+Cooldown: {1}.
+
+::Salesman
+Increases the amount of goods merchants will buy from you by {0}% per mercantile skill.
+
+::Disassemble
+Grants you a blueprint that enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed. The retrieved components have {0}% of the original quality.
+
+::ThickSkull
+Whenever you should be stunned, you're dazed instead which reduces your action points by {0} and movement points by {1} but still allows you to act.
+
+::ConcentratedFire
+Each hit from assault rifle burst attack increases the damage from further burst hits by {0}%. Stacks {1} times and lasts until the end of the turn.
+
+::ConcentratedFire-XPHW
+Each hit from assault rifle, LMG and minigun burst attack increases the damage from further burst hits by {0}%. Stacks {1} times and lasts until the end of the turn.
+
+::Commando
+Killing an opponent using assault rifle or SMG burst attack will grant you an extra free burst attack that can be performed in the same turn. This can only happen once every turn.
+
+::Pinning
+Your throwing knives have {0}% chance to pin living targets to the ground for one turn.
+
+::FatalThrow
+Throwing knives always critically hit against targets below {0}% health. Killing a target with a knife throw will refund {1} action points (this can only happen once per turn).
+
+::SplitSpare
+When throwing knives you throw an extra one at a nearby target that's within the attack cone.
+
+::Ripper
+Critical hit damage with knives and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.
+
+::Ripper-XPBL
+Critical hit damage with knives, swords and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus.
+
+::CriticalPower
+For each {0}% of weapon or unarmed attack critical damage bonus above {1}%, you gain an additional {2}% critical damage bonus.
+
+::Expertise
+Your non-critical crossbow, melee, and bullet-based firearm attacks deal additional mechanical damage equal to your level, up to maximum {0} bonus damage.
+
+::Blitz
+Grants you an ability that when invoked will instantly convert all your movement points to action points, granting you 1 action point for each {0} movement points, up to maximum of {1} action points.
+
+Cooldown: {2}.
+
+::PointShot
+Grants you the ability to perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.
+
+Cooldown: {1}.
+
+::SurvivalInstincts
+Increases the chance to critically hit with weapons, unarmed attacks and psi abilities by {0}% while under {1}% health.
+
+::Stoicism
+You receive {0}% less damage from all sources for each {1}% health missing.
+
+::Juggernaut
+Total health increased by {0}% while wearing armor suit with (unmodified) armor penalty of {1}% or higher.
+
+::FastMetabolism
+All healing increased by {0}% and psi boosters restore extra {1} psi.
+
+::EscapeArtist
+Grants you the ability to remove all immobilization effects.
+
+Cooldown: {0}.
+
+::RapidFire
+Grants you the ability to rapidly fire {0} bullets from firearm pistols, SMGs, and assault rifles at reduced precision for {1}% action point cost of a regular attack.
+
+Cooldown: {2}.
+
+::Heavyweight
+You add your total armor penalty to the critical damage bonus of sledgehammer, fist weapon and unarmed attacks.
+
+::SureStep
+You can safely navigate caltrops and puddles of acid.
+
+::SuperSlam
+Grants you a special attack with the sledgehammer that does normal damage plus {0}% of attacker's maximum health as additional mechanical damage.
+
+Cooldown: {1}.
+
+::Guard
+You have {0}% chance to block melee mechanical damage equal to twice your strength. Does not work if stunned or otherwise fully disabled.
+
+::DeadlySnares
+Your crossbow attacks always critically hit against the targets caught in bear traps and acidic entanglements.
+
+::GunNut
+Increases the upper damage range of all firearms you craft by {0}%.
+
+::MasterGunsmith
+All firearm blueprints allow for an extra enhancement.
+
+::Skinner
+The quality of leathers counts as if {0}% higher in all your crafts.
+
+::ArmorSloping
+Reduces the armor penalty originating from metal plates when crafting armor by {0}% (multiplicative).
+
+::Clothier
+The quality of fabrics counts as if {0}% higher in all your crafts.
+
+::MadChemist
+On-hit effects of chemical pistols you craft are twice as strong.
+
+::Weaponsmith
+Non-fist melee weapons that you craft have {0}% higher critical hit chance.
+
+::PracticalPhysicist
+Critical damage bonus of energy weapons you craft is increased by {0}% (additive).
+
+::Ballistics
+Carrier vests give additional {0} mechanical damage threshold when used in crafting.
+
+::Neurology
+Psi headbands you craft also provide additional {0} maximum psi points.
+
+::ElementalBolts
+Increases electrical, acid and heat damage of all special bolts by {0}%.
+
+::ElementalBolts-XPBL
+Increases electrical, acid, heat and energy damage of all special bolts by {0}%.
+
+::ConcussiveShots
+When you deal mechanical damage with your crossbow bolts you have {0}% chance to daze living targets, reducing their action points by {1} and movement points by {2} for {3}.
+
+::Meditation
+Maximum psi points increased by {0}.
+
+::NeuralOverclocking
+Critical damage bonus of all psi abilities increased by {0}%.
+
+::PsionicMania
+Grants you an ability that when activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.
+
+Cooldown: {1}.
+
+::TelekineticUndulation
+When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}.
+
+::CorporealProjection
+All telekinetic damage increased by {0}% for each point of strength above {1}.
+
+::PsychostaticElectricity
+When you damage a target with your electrical psionics you apply a debuff that increases the chance for the target to be critically hit by weapon and unarmed attacks and psi abilities by {0}% for {1}. Stacks {2} times.
+
+::EchoingSoliloquy
+Slows down the rate at which the unspeakable things penetrate your mind.
+
+::Fisherman
+You never fail to reel the catch in.
+
+::TemperedHeat
+Reduces all heat damage taken by {0}%.
+
+::TemperedCold
+Reduces all cold damage taken by {0}%.
+
+::TemperedAcid
+Reduces all acid damage taken by {0}%.
+
+::TemperedElectricity
+Reduces all electrical damage taken by {0}%.
+
+::AdvancedPsiEmpathy
+Base health reduced by additional {0}% (additive to the original penalty) and psi cost of invoking psionic abilities reduced by {1}% (multiplicative).
+
+::Bodybuilding
+Health increased by {0}.
+
+::ImprovedDodging
+Increases the chance you'll dodge a melee attack by {0}% (additive).
+
+::ImprovedEvasion
+Increases the chance you'll evade a ranged attack by {0}% (additive).
+
+::ImprovedThrowing
+Increases throwing precision by {0}% (additive).
+
+::SerialKiller
+Unarmed and weapon damage increased by {0}% against humanoids.
+
+::MonsterSlayer
+Unarmed and weapon damage increased by {0}% against creatures.
+
+::Decommissioner
+Unarmed and weapon damage increased by {0}% against machines.
+
+::FightResponse
+When starting a turn below {0}% of maximum health, your action points are increased by {1}.
+
+::FlightResponse
+When starting a turn below {0}% of maximum health, your movement points are increased by up to {1} (depending on your armor penalty).
+
+::Stuntman
+Reduces the damage taken from area of effect attacks by 20% (additive to regular evasion).
+
+::BodyWeightTraining
+Reduces armor penalty by {0}%.
+
+::MajorSupplier
+Increases the amount of money the merchants are willing to use when trading with you by {0}% per mercantile skill.
+
+::Mantra
+Increases psi regeneration by {0}.
+
+::ShootingSpree
+Grants you an ability that when activated will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.
+
+Cooldown: {1}.
+
+Also, killing a target with a sniper rifle reduces the cooldown of Shooting Spree and Aimed Shot by {0}.
+
+::ShootingSpree-Old
+Killing a target with a sniper rifle reduces the cooldown of Aimed Shot by {0}.
+
+::Strafe
+Reduces move and shoot penalty by {0}%.
+
+::Bowyer
+Crossbows that you craft have their critical damage bonus increased by {0}% (additive).
+
+::Brutality
+When you kill a target with a melee attack, there's a {0}% chance to instill fear in each nearby enemy for {1}.
+
+::ShieldArm
+Increases the chance to block with shields by {0}% (additive) and the amount blocked by {1}%.
+
+::TriggerHappy
+Initiative increased by {0}.
+
+::Hemopsychosis
+Grants you an ability that when activated will make all your psi abilities cost health instead of psi until the end of the turn.
+
+Cooldown: {0}.
+
+::Blindsiding
+Increases unarmed and weapon attack damage by {0}% while in stealth and one turn after exiting stealth.
+
+::ContinuumRipple
+When your temporal distortion triggers, it has {0}% chance to be applied to each nearby enemy. Distortions that came about in this way can now themselves trigger further distortions.
+
+::PsychotemporalAcceleration
+Increases action point modification of all psycho-temporal effects by {0} and increases their duration by {1}.
+
+::FutureOrientation
+Reduces cooldowns of all temporal manipulation psi abilities that have cooldown by {0}, and increases action point cost for those psi abilities by {1}, providing they have action point cost.
+
+::Fend
+Grants you an ability to immediately gain Spear Guard that can block {0}% more damage than normal for {1}% of the action point cost of a regular attack.
+
+Cooldown: {2}.
+
+::SpearGuardian
+Increases the block chance of Spear Guard by {0}%.
+
+::Impale
+Grants you a special attack with the spear that automatically critically hits if it lands.
+
+Cooldown: {0}.
+
+::Flurry
+Grants you an ability to launch {0} consecutive attacks with a sword. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. 
+
+If any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.
+
+::Flurry-Old
+Grants you an ability to launch {0} consecutive attacks with a sword with reduced precision. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. 
+
+If any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed.
+
+::SpearThrow
+Grants you the ability to throw a spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill. Costs {2} action points.
+
+Cooldown: {3}.
+
+You will usually be able to retrieve the thrown spear afterwards, as it lands nearby the target, at no action point cost.
+
+::Onslaught
+Your successful sword attacks increase the damage of further sword attacks by {0}% for {1}. Stacks {2} times. This bonus will be removed if a sword attack misses or does no damage.
+
+::Decapitate
+Grants you a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).
+
+Cooldown: {2}.
+
+::Riposte
+When you block any damage while holding a sword, you can perform a special sword attack with increased chance to hit that deals normal weapon damage at no action point cost.
+
+::LeadingShot
+Your shotgun attacks ignore {0}% of target's evasion as long as there are no enemies in melee range to disrupt you.
+
+::BarrelStare
+Increases the damage done by your shotgun attacks to targets at close (near-melee) range by {0}%.
+
+::PerfectScattering
+Each shotgun pellet you fire does additional {0} to {1} points of mechanical damage.
+
+::FragmentedChaos
+Increases critical damage bonus of your shotgun attacks by {0}% divided by number of pellets fired.
+
+::PelletMayhem
+Your shotgun attacks grant you additional {0}% critical chance for each target you hit for the next shotgun shot.
+
+::Philosophy1
+Dipping your feet into philosophy has given you a fresh outlook on life.
+
+Increases resolve by {0} and maximum psi points by {1}.
+
+::Philosophy2
+You might not be a fully trained philosopher, but you have a good grasp of the essentials.
+
+Increases resolve by {0} and maximum psi points by {1}.
+
+::Philosophy3
+You are starting to put the pieces together... There might yet be some meaning behind this wretched existence.
+
+Increases resolve by {0} and maximum psi points by {1}.
+
+::HighTechnicalities
+Increases damage done by energy weapons and attachments (those that deal electrical and energy damage) by {0}% for each intelligence point above {1}.
+
+::Parry
+While holding a sword or a knife, the character has {0}% plus {1}% per point of dexterity above {2} chance to block a melee attack. The amount blocked is equal to the average base mechanical damage of the current weapon in case of swords and twice that for knives.
+
+::NavalCombat
+Increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.
+
+::ImprovedNavalCombat
+Further increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Further reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns.
+
+::JetAndJab
+Removes the additional {0}% precision penalty with knife, fist weapon and unarmed attacks when riding jet skis.
+
+::NavalJousting
+Increases damage with spears when riding jet skis by 30%
+
+::SeaDog
+Increases unarmed and weapon damage by {0}% and effective stability and maneuverability by {1}% when attacking from a jet ski.
+
+::Versatility
+Your effective Guns, Crossbows and Melee skill value is brought up to {0}% of the effective value of the highest of those skills.
+
+::Versatility-XPHW
+Your effective Guns, Heavy Guns, Crossbows and Melee skill value is brought up to {0}% of the effective value of the highest of those skills.
+
+::Scrutinous
+Increases critical chance of unarmed and weapon attacks by {0}%.
+
+::ExpertSprint
+Sprint now also grants you {0} action points.
+
+::IncreasedBaseAbility
+{0} increased by {1}. This feat increases the base value of {2} and will count towards other feat requirements.
+
+::Strider
+Increase unstealthed movement points by {0} and out of combat unstealthed movement speed by {1}%.
+
+::IronWill
+Increases resolve by {0}%.
+
+::ImprovedUnarmedCombat
+Increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to daze the target for {2}.
+
+::ExpertUnarmedCombat
+Further increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to stun the organic target for {2}.
+
+::EmpoweredInvocation
+Grants you the empowered invocation ability that increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.
+
+Cooldown: {2}.
+
+::ShieldBash
+Grants you a melee attack that deals mechanical damage equal to {0}%-{1}% of the amount blocked by the carried riot shield and dazes the target for {2}.
+
+Cooldown: {3}.
+
+::BoardingUp
+Landing a melee attack while wearing a riot shield increases the amount blocked by the riot shield by {0}% for {1}. Stacks up to {2} times.
+
+::Sweep
+Grants you a special spear attack with deals {0}% of normal weapon damage to all enemies adjacent to you and puts living targets off balance for {1} if they are hit.
+
+Off-balanced characters have their dodge and evasion reduced to zero.
+
+Cooldown: {2}.
+
+::BodyHorror
+After what you have seen, you'll never look at the fleshly form the same again.
+
+Critical hit chance with weapons and unarmed attacks against humanoids and non-insectoid critters increased by {0}%. Resolve reduced by {1}%.
+
+::OuterVisions
+You've seen the wonderous possibilities of the Outer Expanses, both the beautiful and the abominable, and you're now less inclined to believe in the necessity of the limits of this particular physical world.
+
+Range of all psi abilities increased by {0}.
+
+::IronGrip
+Allows you to wield spears in one hand when wearing a suit of armor with a riot shield, but at {0}% penalty to weapon damage.
+
+::SixthShell
+Each shotgun shot will grant {0}% bonus damage to shotgun attacks. When stacked up to 5, this damage bonus will change to {1}% and after the sixth attack the bonus will reset.
+
+::ForcefullInnervation
+You conditioned your mind for psionic powers the raw way and it left its mark on you. You use your Will base ability instead of Intelligence to determine the number of psi slots, but your max psi points are reduced by {0}.
+
+You obtained the rare golden pill that might undo this, but you are not sure if you should use it.
+
+::PsychoNeuralOptimization
+While having only one psi school innervated, the psi cost of all abilities is reduced by {0}%.
+
+::PsychoNeuralFlexibility
+One psi school is ignored when determining the multi-school innervation psi cost penalty.
+
+::ExpandedPsiCapacitance
+Psi reserves increased by {0}% and psi regeneration increased by amount equal to {1}% of psi reserves maximum.
+
+::TattooProtectorate
+At ease, Corporal.
+
+Increases health by {0}%.
+
+::TattooJKK
+You are one tactful operative.
+
+Increases persuasion skill by {0}.
+
+::TattooAnarchy
+You bow to no authority.
+
+Increases chance to critically hit with weapon and unarmed attacks by {0}%.
+
+::TattooCoretech
+State-of-the-art equipment amounts to a state-of-the-art agent.
+
+Increases mechanics and electronics skills by {0}.
+
+::TattooPraetorianSecurity
+Order through strength.
+
+Decreases chance to get critically hit by weapon and unarmed attacks by {0}%.
+
+::TattooAegisIncorporated
+You will go anywhere, provided it be forward.
+
+Increases all offensive skills by {0}.
+
+::TattooMagnarGhost
+The king is dead, long live the king!
+
+Increases dodge and evasion by {0}.
+
+::TattooShadowlith
+The monoliths malicious influence has been removed, but not from your skin.
+
+Increases psi regeneration by {0}.
+
+::TattooTheBeast
+To be Man is to fight monsters.
+
+Unarmed and weapon damage increased by {0}% against creatures.
+
+::TattooTchort
+Whether it was a monster or a god, it's dead now.
+
+Increases resolve by {0}%, but reduces detection by {1}%.
+
+::TattooTchortInstitute
+Tchort is evolution. Evolution is Tchort.
+
+Increases biology and chemistry skills by {0}.
+
+::TattooBalorsEye
+The only thing this electric eye couldn't see is Balor's untimely demise.
+
+Increases detection by {0}%.
+
+::TattooSGS
+There's no station like home station.
+
+Increases all skills by {0}.
+
+::TattooPirate
+Sometimes you just have to hoist the black flag and start slitting throats.
+
+Increases all offensive and defensive skills by {0}% while riding a jet ski.
+
+::TattooDrifter
+You can't seem to settle anywhere. Just as soon as you get involved with a faction or a place, something urges you to move on.
+
+Increases movement speed by {0}% and movement points by {1} when not in stealth.
+
+::TattooJetEater
+The caustic stench of the vile fluid is ever with you and your skin tingles with memories of pain.
+
+Increases acid damage threshold by {0}.
+
+::TattooFatso
+Eat and drink your fill. Gorge yourself on the cave's bounty. Become large.
+
+Duration of food items increased by {0} minutes.
+
+::TattooBlackCrawler
+You can still make out its large red eyes if you stare into the darkest corners of Underrail long enough.
+
+Stealth increased by {0}% of base value.
+
+::TattooAbomination
+Life force - primordial, lasting, potent - twisted into a gruesome form.
+
+Changes the health percentage above which you receive natural regeneration to {0}%.
+
+::TattooSkulljacked
+Spiralling grooves, a threaded tunnel, from machine to man.
+
+Increases critical chance of psionic abilities by {0} while wearing armor suit with (unmodified) armor penalty of {1} or higher.
+
+::TattooVoidBattle
+You are a veteran of astral warfare!
+
+Resolve increased by {0}.
+
+::MonstrousYell
+Your Yell makes such a disturbing sound that it also has {0}% chance to to instill fear for {1}.
+
+::CohesiveMucusGlands
+Allows you to spit acid blobs that damage and entangle your targets.
+
+::GunFu
+When attacking with firearm pistols in melee range, your effective attack skill is increased by {0}% of your unmodified melee skill for all purposes, including the damage done.
+
+::BulletTime
+When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn. 
+
+Cannot reduce the action point cost below the hard minimum.
+
+Cooldown: {1}.
+
+::RemoteSurgeon
+Increases the unresisted damage modifier of throwing knives by additional {0}%.
+
+::PsychokineticElasticity
+Increases the range of your telekinetic psi abilities, and also the number of links in psychokinetic chains you produce, by one.
+
+::BeyondCold
+You've experienced that terrible feeling that lies on the other side of extreme cold, at the threshold of complete stillness, where the living body is drained of all energy.
+
+When chilled or frozen, you will gain a buff that will increase your will by {4}, reduce all the cold damage taken by {0}% and all the mechanical damage taken by {1}%, and make you immune to further chilling or freezing for {2}. This can occur only once every {3}.
+
+::Motioner
+You abused this dangerous substance one too many times and now your brain has suffered long-term damage.
+
+Your intelligence is reduced by {0} and you occasionally suffer worse acute effects.
+
+::Shoemaker
+The quality of leather counts as if {0}% higher when crafting leather boots.
+
+::FineTuned
+You're starting to develop an ear for the subtle differences in sound. In a world comprised largely of dark caves and metro tunnels, this is no small a boon.
+
+Detection increased by {0}%.
+
+::HeavyMetal
+Reduces mechanical damage taken by 1% for each point of current weapon's strength requirement, and grants bonus percentage damage equal to {0}% (half of that for rocket launchers) of the total armor penalty when attacking with heavy guns. Only works when heavy guns or sledgehammers are equipped in both weapon slots and total armor penalty is {1}% or higher.
+
+::BruteAim
+Your Perception base ability is counted as being {0} points higher for the purpose of modifying the Heavy Guns skill.
+
+::BulletTrance
+Grants {0}% bonus damage to LMG and minigun attacks each time you kill an enemy with one of these weapons. Last {1} and stacks {2} times.
+
+::PracticedParabola
+Increases precision with grenade launchers by {0}% and reduces the maximum grenade miss distance by 1.
+
+::TrickyTrajectory
+Area of effect weapons deal {0}% bonus damage and ignore {1}% of target's evasion. This works with all non-thrown area of effect weapons.
+
+::TrickyTrajectory-XPBL
+Area of effect weapons deal {0}% bonus damage and ignore {1}% of target's evasion. This works with all non-thrown area of effect weapons, including those mounted on vehicles.
+
+::DemolitionMan
+Getting hit by area of effect heat damage will grant {0}% bonus damage to your grenade and rocket launcher attacks for {1}. Stacks {2} times.
+
+::GunnersHigh
+Whenever you deal damage to an enemy with a machine gun or minigun attack you gain an effect that heals you for one health each turn for {0} turns, but cannot heal above {1}% of your maximum health. Stacks {2} times.
+
+::ShellShock
+All humanoids caught in the blast radius of your grenade or rocket launcher's projectile have their offensive and defensive skills reduced by {0} for {1}. This stacks {2} times.
+
+::Firebranded
+To your deepest shame, your buttocks are marked with an ugly image of a billy goat. 
+
+Max hit chance with weapons and unarmed attacks reduced by {0}.
+
+::Specialist
+Grants one additional specialization point per level.
+
+::Polymath
+Immediately grants {0} skill points and an additional {1} skill points at every subsequent level.
+
+::NoOtherEmpoweredInvocationFeatsRequirement
+Restricted feats: all other Empowered Invocation feats
+
+::NoOtherIncreasedBaseAbilityFeatsRequirement
+Restricted feats: all other Increased Base Ability feats

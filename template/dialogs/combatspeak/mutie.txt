@@ -1,0 +1,312 @@
+=>q1_original
+Arrgh!<end>
+
+=>q1
+Arrgh!<end>
+
+=>q2_original
+Ugh!<end>
+
+=>q2
+Ugh!<end>
+
+=>q3_original
+Ngh...<end>
+
+=>q3
+Ngh...<end>
+
+=>q4_original
+AAARGH!<end>
+
+=>q4
+AAARGH!<end>
+
+=>q5_original
+::Pukes blood.:: Ngh...<end>
+
+=>q5
+::Pukes blood.:: Ngh...<end>
+
+=>q6_original
+Ugh!<end>
+
+=>q6
+Ugh!<end>
+
+=>q7_original
+Arrrgh... t-the pain...<end>
+
+=>q7
+Arrrgh... t-the pain...<end>
+
+=>q8_original
+::Gasps for air and wheezes.::<end>
+
+=>q8
+::Gasps for air and wheezes.::<end>
+
+=>q9_original
+Ugh... <end>
+
+=>q9
+Ugh... <end>
+
+=>q10_original
+Argh... blood...<end>
+
+=>q10
+Argh... blood...<end>
+
+=>q11_original
+AAAAAAH!<end>
+
+=>q11
+AAAAAAH!<end>
+
+=>q12_original
+Ow, ow, ow, ow!<end>
+
+=>q12
+Ow, ow, ow, ow!<end>
+
+=>q13_original
+AAARGH!<end>
+
+=>q13
+AAARGH!<end>
+
+=>q14_original
+Brrr...<end>
+
+=>q14
+Brrr...<end>
+
+=>q15_original
+Hnnnn...<end>
+
+=>q15
+Hnnnn...<end>
+
+=>q16_original
+::Muffled voice.::<end>
+
+=>q16
+::Muffled voice.::<end>
+
+=>q17_original
+Aaaarghhh!<end>
+
+=>q17
+Aaaarghhh!<end>
+
+=>q18_original
+Arrgh!<end>
+
+=>q18
+Arrgh!<end>
+
+=>q19_original
+::Grabs head.:: AAAARRGH!<end>
+
+=>q19
+::Grabs head.:: AAAARRGH!<end>
+
+=>q20_original
+Ouch!<end>
+
+=>q20
+Ouch!<end>
+
+=>q21_original
+AAAAAARRGH!<end>
+
+=>q21
+AAAAAARRGH!<end>
+
+=>q22_original
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q22
+Ugh! Ugh! My leg... Aaah!<end>
+
+=>q23_original
+No! Ow... Argh...<end>
+
+=>q23
+No! Ow... Argh...<end>
+
+=>q24_original
+::Coughs.::<end>
+
+=>q24
+::Coughs.::<end>
+
+=>q25_original
+::Gasps for air.::<end>
+
+=>q25
+::Gasps for air.::<end>
+
+=>q26_original
+AAAAAARRGH!<end>
+
+=>q26
+AAAAAARRGH!<end>
+
+=>q27_original
+Brrrrr... So cold...<end>
+
+=>q27
+Brrrrr... So cold...<end>
+
+=>q28_original
+::Shivers.::<end>
+
+=>q28
+::Shivers.::<end>
+
+=>q29_original
+::Struggles to move.::<end>
+
+=>q29
+::Struggles to move.::<end>
+
+=>q30_original
+Please... ::wheezes:: no...<end>
+
+=>q30
+Please... ::wheezes:: no...<end>
+
+=>q31_original
+Just... ::wheeze:: leave me alone...<end>
+
+=>q31
+Just... ::wheeze:: leave me alone...<end>
+
+=>q32_original
+No...<end>
+
+=>q32
+No...<end>
+
+=>q33_original
+::Grabs chest.::<end>
+
+=>q33
+::Grabs chest.::<end>
+
+=>q34_original
+Ahhhh...<end>
+
+=>q34
+Ahhhh...<end>
+
+=>q35_original
+Nghh... ahh...<end>
+
+=>q35
+Nghh... ahh...<end>
+
+=>q36_original
+Mmmm...<end>
+
+=>q36
+Mmmm...<end>
+
+=>q37_original
+Ahhh...<end>
+
+=>q37
+Ahhh...<end>
+
+=>q38_original
+Ugh!<end>
+
+=>q38
+Ugh!<end>
+
+=>q39_original
+Aaargh!<end>
+
+=>q39
+Aaargh!<end>
+
+=>q40_original
+N-- No...<end>
+
+=>q40
+N-- No...<end>
+
+=>q41_original
+Aaaaah!<end>
+
+=>q41
+Aaaaah!<end>
+
+=>q42_original
+I... I...<end>
+
+=>q42
+I... I...<end>
+
+=>q43_original
+Hnnnn... Ugh...<end>
+
+=>q43
+Hnnnn... Ugh...<end>
+
+=>q44_original
+Aaaaaaaah!<end>
+
+=>q44
+Aaaaaaaah!<end>
+
+=>q45_original
+Eeeeeeeyaaaaah!<end>
+
+=>q45
+Eeeeeeeyaaaaah!<end>
+
+=>q46_original
+We got company... ::wheeze:: get the rest!<end>
+
+=>q46
+We got company... ::wheeze:: get the rest!<end>
+
+=>q47_original
+I need... ::wheeze:: assistance!<end>
+
+=>q47
+I need... ::wheeze:: assistance!<end>
+
+=>q48_original
+::Coughs:: We got company... ::wheeze:: boys.<end>
+
+=>q48
+::Coughs:: We got company... ::wheeze:: boys.<end>
+
+=>q49_original
+Help!<end>
+
+=>q49
+Help!<end>
+
+=>q50_original
+Hmm...<end>
+
+=>q50
+Hmm...<end>
+
+=>q51_original
+Someone's here... ::wheeze:: alert the others!<end>
+
+=>q51
+Someone's here... ::wheeze:: alert the others!<end>
+
+=>q52_original
+Call the others, now!<end>
+
+=>q52
+Call the others, now!<end>
+

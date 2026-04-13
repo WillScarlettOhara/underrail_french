@@ -1,0 +1,366 @@
+=>q1_original
+I'm busy.<end>
+
+=>q1
+I'm busy.<end>
+
+=>q2_original
+::Upon entering what appears to be a repair shop of some kind, a variety of odors meet your sense of smell. You recognize rubber, oil, burnt fusion cells - and mushroom stew. More precisely, you identify it to be stew made from the so-called swineshrooms, named appropriately since they smell much like pork when cooked. The man behind the counter sits leaned into his flimsy chair, voraciously scooping what's left of the stuff from his bowl, his feet resting on the counter. After finishing, he sets the bowl aside, wipes his mouth with his sleeve, gets up from his chair and leans against the counter.::
+
+Howdy. I am Travis, the mechanic. ::His tongue passes over his teeth to clean residue food.:: Whatcha need?<end>
+
+=>q2
+::Upon entering what appears to be a repair shop of some kind, a variety of odors meet your sense of smell. You recognize rubber, oil, burnt fusion cells - and mushroom stew. More precisely, you identify it to be stew made from the so-called swineshrooms, named appropriately since they smell much like pork when cooked. The man behind the counter sits leaned into his flimsy chair, voraciously scooping what's left of the stuff from his bowl, his feet resting on the counter. After finishing, he sets the bowl aside, wipes his mouth with his sleeve, gets up from his chair and leans against the counter.::
+
+Howdy. I am Travis, the mechanic. ::His tongue passes over his teeth to clean residue food.:: Whatcha need?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you have for trade. ::Barter.::<end>
+
+=>a4
+Show me what you have for trade. ::Barter.::<end>
+
+=>a5_original
+I'd like to buy that mechanics workbench.<end>
+
+=>a5
+I'd like to buy that mechanics workbench.<end>
+
+=>q6_original
+One kent-- One thousand three hundred 'n' it's all yours.<end>
+
+=>q6
+One kent-- One thousand three hundred 'n' it's all yours.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Here's the money. ::Give him 1300 stygian coins.::<end>
+
+=>a8
+Here's the money. ::Give him 1300 stygian coins.::<end>
+
+=>q9_original
+The bench is yours, $(#man/girl). You taking it now or...?<end>
+
+=>q9
+The bench is yours, $(#man/girl). You taking it now or...?<end>
+
+=>a10_original
+No. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a10
+No. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>q11_original
+Okay.<end>
+
+=>q11
+Okay.<end>
+
+=>a12_original
+::[Intelligence][Persuade]:: If that mechanic's name was Mykola, then I seriously doubt that bench is brand new. Who knows what might break or fall off. How about lowering the price to, say, eight wrenches?<end>
+
+=>a12
+::[Intelligence][Persuade]:: If that mechanic's name was Mykola, then I seriously doubt that bench is brand new. Who knows what might break or fall off. How about lowering the price to, say, eight wrenches?<end>
+
+=>q13_original
+::A frown creeps up on his face, but disappears after an instant.:: Mykola... yeah. Okay, you got me there. Eight wrenches it is.<end>
+
+=>q13
+::A frown creeps up on his face, but disappears after an instant.:: Mykola... yeah. Okay, you got me there. Eight wrenches it is.<end>
+
+=>a14_original
+That's the stuff. Here. ::Give him eight wrenches.::<end>
+
+=>a14
+That's the stuff. Here. ::Give him eight wrenches.::<end>
+
+=>q15_original
+I don't know whatcha talking about.<end>
+
+=>q15
+I don't know whatcha talking about.<end>
+
+=>a16_original
+I'll think about it.<end>
+
+=>a16
+I'll think about it.<end>
+
+=>q17_original
+You do that.<end>
+
+=>q17
+You do that.<end>
+
+=>a18_original
+You seem pretty relaxed considering what is happening right now.<end>
+
+=>a18
+You seem pretty relaxed considering what is happening right now.<end>
+
+=>q19_original
+I am aware of what's going on out there, and that anything can happen, but there ain't nothing I can do about it.<end>
+
+=>q19
+I am aware of what's going on out there, and that anything can happen, but there ain't nothing I can do about it.<end>
+
+=>q20_original
+Panic ain't gonna do us any good.<end>
+
+=>q20
+Panic ain't gonna do us any good.<end>
+
+=>a21_original
+My name is $(context.player.Name).<end>
+
+=>a21
+My name is $(context.player.Name).<end>
+
+=>q22_original
+Good for you.<end>
+
+=>q22
+Good for you.<end>
+
+=>a23_original
+What's with all these broken quads?<end>
+
+=>a23
+What's with all these broken quads?<end>
+
+=>q24_original
+Them? It's just some old junk I've been keeping around forever. None of them are functional, but there are still working parts that can be scrapped from them.<end>
+
+=>q24
+Them? It's just some old junk I've been keeping around forever. None of them are functional, but there are still working parts that can be scrapped from them.<end>
+
+=>q25_original
+Now, I had an S-750 sitting outside the shop up until a month ago. That was a sight to behold.<end>
+
+=>q25
+Now, I had an S-750 sitting outside the shop up until a month ago. That was a sight to behold.<end>
+
+=>a26_original
+What is an S-750?<end>
+
+=>a26
+What is an S-750?<end>
+
+=>q27_original
+S-750k to be exact. Hot as hell. With two hundred kilowatts of unadulterated power under your ass that beautiful beast can take you anywhere. Well, not that particular one, since one of its cells had caught fire 'n' burned everthing under the hood.<end>
+
+=>q27
+S-750k to be exact. Hot as hell. With two hundred kilowatts of unadulterated power under your ass that beautiful beast can take you anywhere. Well, not that particular one, since one of its cells had caught fire 'n' burned everthing under the hood.<end>
+
+=>a28_original
+Couldn't you repair it?<end>
+
+=>a28
+Couldn't you repair it?<end>
+
+=>q29_original
+Nope. Way outta my league. I just held on to it so I could admire it. 'N' I salvaged some stuff before I sold it to scrap. Junkyard's where it's at now.<end>
+
+=>q29
+Nope. Way outta my league. I just held on to it so I could admire it. 'N' I salvaged some stuff before I sold it to scrap. Junkyard's where it's at now.<end>
+
+=>a30_original
+Yeah, yeah. I wanted to ask you something else.<end>
+
+=>a30
+Yeah, yeah. I wanted to ask you something else.<end>
+
+=>q31_original
+Sure thing, $(#man/girl).<end>
+
+=>q31
+Sure thing, $(#man/girl).<end>
+
+=>a32_original
+How much are you asking for that mechanics workbench?<end>
+
+=>a32
+How much are you asking for that mechanics workbench?<end>
+
+=>q33_original
+::He slowly looks at the workbench.:: I got it from a mechanic in Core City. It's brand new. ::Short pause.:: One kent three wrenches.<end>
+
+=>q33
+::He slowly looks at the workbench.:: I got it from a mechanic in Core City. It's brand new. ::Short pause.:: One kent three wrenches.<end>
+
+=>a34_original
+::[Intelligence]:: One thousand three hundred?<end>
+
+=>a34
+::[Intelligence]:: One thousand three hundred?<end>
+
+=>q35_original
+Yup.<end>
+
+=>q35
+Yup.<end>
+
+=>a36_original
+One kent three wrenches?<end>
+
+=>a36
+One kent three wrenches?<end>
+
+=>q37_original
+Oh, right, you ain't from around these parts. That's one thousand three hundred charons.<end>
+
+=>q37
+Oh, right, you ain't from around these parts. That's one thousand three hundred charons.<end>
+
+=>a38_original
+What are you talking about, man?<end>
+
+=>a38
+What are you talking about, man?<end>
+
+=>a39_original
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>a39
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>q40_original
+::He slowly shakes his head.:: Nope.<end>
+
+=>q40
+::He slowly shakes his head.:: Nope.<end>
+
+=>q41_original
+Technically, I've seen so many unusual people that it's become pretty usual to see unusual people visiting Buzzer's shop. So, again, nope.<end>
+
+=>q41
+Technically, I've seen so many unusual people that it's become pretty usual to see unusual people visiting Buzzer's shop. So, again, nope.<end>
+
+=>a42_original
+Got any more of that stew? Man, that thing smelled like heaven.<end>
+
+=>a42
+Got any more of that stew? Man, that thing smelled like heaven.<end>
+
+=>q43_original
+::He stares at you for a moment.:: Yup, I got some more in the back.<end>
+
+=>q43
+::He stares at you for a moment.:: Yup, I got some more in the back.<end>
+
+=>q44_original
+::Then he grins.:: But I ain't sharing.<end>
+
+=>q44
+::Then he grins.:: But I ain't sharing.<end>
+
+=>a45_original
+What can you tell me about Rail Crossing?<end>
+
+=>a45
+What can you tell me about Rail Crossing?<end>
+
+=>q46_original
+We're a small station. Not too small to be completely defenseless from the bandits 'n' stuff, but not big enough to always sleep easily. I don't know, $(#man/girl,) we got the basic stuff: a bar, my shop, doc's office, Myles' store; Buzzer's shop is probably what folks from other stations know us best.<end>
+
+=>q46
+We're a small station. Not too small to be completely defenseless from the bandits 'n' stuff, but not big enough to always sleep easily. I don't know, $(#man/girl,) we got the basic stuff: a bar, my shop, doc's office, Myles' store; Buzzer's shop is probably what folks from other stations know us best.<end>
+
+=>q47_original
+Which could change if the Faceless mess him up.<end>
+
+=>q47
+Which could change if the Faceless mess him up.<end>
+
+=>q48_original
+Although, after Buzzer's death, that might not be the case no more.<end>
+
+=>q48
+Although, after Buzzer's death, that might not be the case no more.<end>
+
+=>q49_original
+Glad the old geezer made it. He's a wiry guy.<end>
+
+=>q49
+Glad the old geezer made it. He's a wiry guy.<end>
+
+=>a50_original
+Do you know why the Faceless attacked Rail Crossing?<end>
+
+=>a50
+Do you know why the Faceless attacked Rail Crossing?<end>
+
+=>q51_original
+Nope. They seem to want something from Buzzer, or just something from his shop.<end>
+
+=>q51
+Nope. They seem to want something from Buzzer, or just something from his shop.<end>
+
+=>q52_original
+Creepy-looking bastards. I hope we get rid of them soon.<end>
+
+=>q52
+Creepy-looking bastards. I hope we get rid of them soon.<end>
+
+=>q53_original
+Creepy-looking bastards. Glad we got rid of them.<end>
+
+=>q53
+Creepy-looking bastards. Glad we got rid of them.<end>
+
+=>a54_original
+Do you know anything about the Free Drones?<end>
+
+=>a54
+Do you know anything about the Free Drones?<end>
+
+=>q55_original
+Not much. I heard they're some sort of anarchists that are fighting the Underrail Protectorate. Funny you should ask me that, $(#man/girl), I overheard some people talking about them just a few days ago. Right here, in Rail Crossing.
+<end>
+
+=>q55
+Not much. I heard they're some sort of anarchists that are fighting the Underrail Protectorate. Funny you should ask me that, $(#man/girl), I overheard some people talking about them just a few days ago. Right here, in Rail Crossing.
+<end>
+
+=>q56_original
+Am I missing something here?<end>
+
+=>q56
+Am I missing something here?<end>
+
+=>a57_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a57
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>q58_original
+Nope. I haven't seen those guys in weeks, maybe even months.<end>
+
+=>q58
+Nope. I haven't seen those guys in weeks, maybe even months.<end>
+
+=>a59_original
+I need to go.<end>
+
+=>a59
+I need to go.<end>
+
+=>q60_original
+Yeah?<end>
+
+=>q60
+Yeah?<end>
+

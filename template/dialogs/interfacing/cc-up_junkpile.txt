@@ -1,0 +1,48 @@
+=>q1_original
+::It's a smelly pile of junk. Nothing edible in it.::<end>
+
+=>q1
+::It's a smelly pile of junk. Nothing edible in it.::<end>
+
+=>a2_original
+::Leave.::<end>
+
+=>a2
+::Leave.::<end>
+
+=>q3_original
+::You could try hiding the T-ray emitter in this pile of junk; it is big enough to completely conceal the device.::<end>
+
+=>q3
+::You could try hiding the T-ray emitter in this pile of junk; it is big enough to completely conceal the device.::<end>
+
+=>a4_original
+::Hide the T-ray emitter in the junk pile.::<end>
+
+=>a4
+::Hide the T-ray emitter in the junk pile.::<end>
+
+=>q5_original
+::You plant the T-ray emitter right in the junk pile, making sure that the device is well hidden. As you finish camouflaging it its operational hum becomes muffled to the point where it cannot be heard anymore.::<end>
+
+=>q5
+::You plant the T-ray emitter right in the junk pile, making sure that the device is well hidden. As you finish camouflaging it its operational hum becomes muffled to the point where it cannot be heard anymore.::<end>
+
+=>a6_original
+::Step away from it.::<end>
+
+=>a6
+::Step away from it.::<end>
+
+=>q7_original
+::The device appears to well hidden beneath the junk pile, which also muffles the hum of the device during operation.::<end>
+
+=>q7
+::The device appears to well hidden beneath the junk pile, which also muffles the hum of the device during operation.::<end>
+
+=>q8_original
+::This pile of junk offers nothing other than an awful reek. The flies, on the other hand, must think otherwise.::<end>
+
+=>q8
+::This pile of junk offers nothing other than an awful reek. The flies, on the other hand, must think otherwise.::<end>
+

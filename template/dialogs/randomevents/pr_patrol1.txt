@@ -1,0 +1,102 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Corporal. ::Salutes.::<end>
+
+=>q2
+Corporal. ::Salutes.::<end>
+
+=>q3_original
+Area secured, $(#sir/ma'am).<end>
+
+=>q3
+Area secured, $(#sir/ma'am).<end>
+
+=>q4_original
+We won't let another Epione happen, $(#sir/ma'am).<end>
+
+=>q4
+We won't let another Epione happen, $(#sir/ma'am).<end>
+
+=>q5_original
+Any new orders from Fort Apogee, Corporal?<end>
+
+=>q5
+Any new orders from Fort Apogee, Corporal?<end>
+
+=>q6_original
+We're on patrol, $(#sir/ma'am).<end>
+
+=>q6
+We're on patrol, $(#sir/ma'am).<end>
+
+=>q7_original
+Even though the Drones have suffered a strong blow, we must remain vigilant.<end>
+
+=>q7
+Even though the Drones have suffered a strong blow, we must remain vigilant.<end>
+
+=>q8_original
+No Faceless activity detected nearby.<end>
+
+=>q8
+No Faceless activity detected nearby.<end>
+
+=>q9_original
+No Faceless activity reported since their withdrawal from Core City.<end>
+
+=>q9
+No Faceless activity reported since their withdrawal from Core City.<end>
+
+=>q10_original
+Yes?<end>
+
+=>q10
+Yes?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+Citizen.<end>
+
+=>q12
+Citizen.<end>
+
+=>q13_original
+I've got my eyes on you.<end>
+
+=>q13
+I've got my eyes on you.<end>
+
+=>q14_original
+Do not interfere with Protectorate business, citizen.<end>
+
+=>q14
+Do not interfere with Protectorate business, citizen.<end>
+
+=>q15_original
+Is there a problem?<end>
+
+=>q15
+Is there a problem?<end>
+
+=>q16_original
+Have you noticed anything out of the ordinary nearby?<end>
+
+=>q16
+Have you noticed anything out of the ordinary nearby?<end>
+
+=>q17_original
+If you have any information on the Free Drones, let us know.<end>
+
+=>q17
+If you have any information on the Free Drones, let us know.<end>
+

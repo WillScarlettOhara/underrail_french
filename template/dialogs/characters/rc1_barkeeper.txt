@@ -1,0 +1,744 @@
+=>q1_original
+Didn't you hear me? You're banned.<end>
+
+=>q1
+Didn't you hear me? You're banned.<end>
+
+=>q2_original
+Your debt has been paid.<end>
+
+=>q2
+Your debt has been paid.<end>
+
+=>q3_original
+Now get outta my bar. You're banned, and tell Dude he is as well. Bastards.<end>
+
+=>q3
+Now get outta my bar. You're banned, and tell Dude he is as well. Bastards.<end>
+
+=>q4_original
+We're good, you and I. But tell Dude I'll pour him some rat poison the next time he does something like this. Dig?
+
+Well... ::He half-smiles.:: Is there anything you want? You're paying for everything on the spot though!<end>
+
+=>q4
+We're good, you and I. But tell Dude I'll pour him some rat poison the next time he does something like this. Dig?
+
+Well... ::He half-smiles.:: Is there anything you want? You're paying for everything on the spot though!<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Let me see what you have. ::Barter.::<end>
+
+=>a6
+Let me see what you have. ::Barter.::<end>
+
+=>a7_original
+Do you know anything about the Free Drones?<end>
+
+=>a7
+Do you know anything about the Free Drones?<end>
+
+=>q8_original
+Yes, they are an anarchist group from North Underrail. I don't know how aware you are of what's been going on up north in the past decade, but these folks see the Protectorate as an evil and oppressive entity, and basically seek to destroy it any way they can. And recently they came here, not too long after the Protectorate.<end>
+
+=>q8
+Yes, they are an anarchist group from North Underrail. I don't know how aware you are of what's been going on up north in the past decade, but these folks see the Protectorate as an evil and oppressive entity, and basically seek to destroy it any way they can. And recently they came here, not too long after the Protectorate.<end>
+
+=>q9_original
+You know... To tell you the truth, most of us Southerners ain't all that crazy about the Protectorate in general, but... You've seen the supplies at the station? They kept their word. It's not pure altruism, sure, but, you know...
+
+Anyway, the anarchists are openly going against them, and that's a bit... suicidal, if you ask me. <end>
+
+=>q9
+You know... To tell you the truth, most of us Southerners ain't all that crazy about the Protectorate in general, but... You've seen the supplies at the station? They kept their word. It's not pure altruism, sure, but, you know...
+
+Anyway, the anarchists are openly going against them, and that's a bit... suicidal, if you ask me. <end>
+
+=>q10_original
+There's going to be a lot of blood, friend. But it doesn't take a genius to predict that, eh?<end>
+
+=>q10
+There's going to be a lot of blood, friend. But it doesn't take a genius to predict that, eh?<end>
+
+=>q11_original
+You know... To tell you the truth, most of us Southerners ain't all that crazy about the Protectorate in general, but openly going against them, like the anarchists are doing, is a bit... suicidal, if you ask me. <end>
+
+=>q11
+You know... To tell you the truth, most of us Southerners ain't all that crazy about the Protectorate in general, but openly going against them, like the anarchists are doing, is a bit... suicidal, if you ask me. <end>
+
+=>a12_original
+Heard any rumors lately?<end>
+
+=>a12
+Heard any rumors lately?<end>
+
+=>q13_original
+Not really. Haven't had much in the way of visitors since the Faceless showed their... butts. Ugly butts, to be exact.<end>
+
+=>q13
+Not really. Haven't had much in the way of visitors since the Faceless showed their... butts. Ugly butts, to be exact.<end>
+
+=>q14_original
+The most recent rumor I've got is the one about Ginger cheating on his wife. He was found castrated in a stream north of the Rail Crossing train station. You know, near the Hanging Rat. He wasn't a bad guy, no, but boy did he have trouble keeping his pants on.<end>
+
+=>q14
+The most recent rumor I've got is the one about Ginger cheating on his wife. He was found castrated in a stream north of the Rail Crossing train station. You know, near the Hanging Rat. He wasn't a bad guy, no, but boy did he have trouble keeping his pants on.<end>
+
+=>a15_original
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>a15
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>q16_original
+All kinds of people visit Buzzer's shop. And this bar. That's the South for ya, friend. ::He leans on the counter and points his eyes in your direction, but he is not actually looking at you - his mind is elsewhere.:: Hmmm... ::He tilts his head back slightly, redirecting his vacant stare toward the ceiling. Then, he returns to you.::
+
+I remember...<end>
+
+=>q16
+All kinds of people visit Buzzer's shop. And this bar. That's the South for ya, friend. ::He leans on the counter and points his eyes in your direction, but he is not actually looking at you - his mind is elsewhere.:: Hmmm... ::He tilts his head back slightly, redirecting his vacant stare toward the ceiling. Then, he returns to you.::
+
+I remember...<end>
+
+=>q17_original
+There was this group of people, scavenger type, who came to the bar. I saw them enter Buzzer's shop before that, just by pure chance. Can't... remember exactly when all this happened, but it was before the Faceless attack. Anyways, they were arguing about something, loudly, which kinda drew my attention, and I remember I overheard Buzzer's name being mentioned a few times. Wait, wait... even Myles was mentioned once, I think, but it was met with some kind of head-shaking, from what I recall.<end>
+
+=>q17
+There was this group of people, scavenger type, who came to the bar. I saw them enter Buzzer's shop before that, just by pure chance. Can't... remember exactly when all this happened, but it was before the Faceless attack. Anyways, they were arguing about something, loudly, which kinda drew my attention, and I remember I overheard Buzzer's name being mentioned a few times. Wait, wait... even Myles was mentioned once, I think, but it was met with some kind of head-shaking, from what I recall.<end>
+
+=>a18_original
+That sounds interesting. Anything else you know? What did they look like? Where did they go afterwards?<end>
+
+=>a18
+That sounds interesting. Anything else you know? What did they look like? Where did they go afterwards?<end>
+
+=>q19_original
+Can't tell you anything specific about their appearance. They looked like scavengers to me. They had some stuff with them, some heavy-looking bags, but other than that I haven't noticed anything. I think there were three of them... or four. Maybe there was a woman with them. Maybe.
+
+I... think one of them had a green mohawk. Yeah.<end>
+
+=>q19
+Can't tell you anything specific about their appearance. They looked like scavengers to me. They had some stuff with them, some heavy-looking bags, but other than that I haven't noticed anything. I think there were three of them... or four. Maybe there was a woman with them. Maybe.
+
+I... think one of them had a green mohawk. Yeah.<end>
+
+=>q20_original
+They paid me after they were done with their drinks, and I heard one of them talk about going to Foundry, just as they were leaving the bar. Said they knew someone there. And that's all I remember about them.<end>
+
+=>q20
+They paid me after they were done with their drinks, and I heard one of them talk about going to Foundry, just as they were leaving the bar. Said they knew someone there. And that's all I remember about them.<end>
+
+=>a21_original
+I see... Appreciate the info. I'd like to ask you something else now.<end>
+
+=>a21
+I see... Appreciate the info. I'd like to ask you something else now.<end>
+
+=>q22_original
+::He nods.::<end>
+
+=>q22
+::He nods.::<end>
+
+=>a23_original
+Foundry, you say... Very well, thank you for the information. See you later.<end>
+
+=>a23
+Foundry, you say... Very well, thank you for the information. See you later.<end>
+
+=>a24_original
+Can you give me some directions?<end>
+
+=>a24
+Can you give me some directions?<end>
+
+=>q25_original
+There ain't much to Rail Crossing, friend. You got a couple of merchants. Travis' repair shop you passed on the way in, Myles has an electronics store just past the bar, and doc's got her office next to it. And yeah, Buzzer's south of here, and his electronics store is what Rail Crossing is probably most known for.<end>
+
+=>q25
+There ain't much to Rail Crossing, friend. You got a couple of merchants. Travis' repair shop you passed on the way in, Myles has an electronics store just past the bar, and doc's got her office next to it. And yeah, Buzzer's south of here, and his electronics store is what Rail Crossing is probably most known for.<end>
+
+=>q26_original
+Captain Herve's office can be found by the tracks, straight from the metro entrance. He runs the station. That's all the important stuff you got here, friend, unless there's something hidden around here that I haven't noticed in the twenty years I've spent here. ::He laughs.::<end>
+
+=>q26
+Captain Herve's office can be found by the tracks, straight from the metro entrance. He runs the station. That's all the important stuff you got here, friend, unless there's something hidden around here that I haven't noticed in the twenty years I've spent here. ::He laughs.::<end>
+
+=>a27_original
+Why do you think the Faceless attacked Rail Crossing?<end>
+
+=>a27
+Why do you think the Faceless attacked Rail Crossing?<end>
+
+=>q28_original
+To turn us into them, friend. Haven't you heard... the stories?<end>
+
+=>q28
+To turn us into them, friend. Haven't you heard... the stories?<end>
+
+=>a29_original
+Of course. But tell me anyway.<end>
+
+=>a29
+Of course. But tell me anyway.<end>
+
+=>q30_original
+You know what they say about the Faceless, that they kidnap people and take them down to Deep Caverns. There, they mutilate them, remove their eyes and facial skin, and install these, like, masks and other prosthetic body parts.<end>
+
+=>q30
+You know what they say about the Faceless, that they kidnap people and take them down to Deep Caverns. There, they mutilate them, remove their eyes and facial skin, and install these, like, masks and other prosthetic body parts.<end>
+
+=>a31_original
+But why attack so openly now?<end>
+
+=>a31
+But why attack so openly now?<end>
+
+=>q32_original
+They have the numbers, and the time has come for us all to be converted. And yeah, the reason they went for Buzzer's store first is 'cause he's got a mechanical arm himself. Maybe they wanna turn his store into one of these, eh, cybernization-conversion facilities or whatever you wanna call it.<end>
+
+=>q32
+They have the numbers, and the time has come for us all to be converted. And yeah, the reason they went for Buzzer's store first is 'cause he's got a mechanical arm himself. Maybe they wanna turn his store into one of these, eh, cybernization-conversion facilities or whatever you wanna call it.<end>
+
+=>q33_original
+Or... maybe it's about something else. I don't know, friend, I really don't. This whole world has become derailed.<end>
+
+=>q33
+Or... maybe it's about something else. I don't know, friend, I really don't. This whole world has become derailed.<end>
+
+=>a34_original
+Yeah. How about we change the subject?<end>
+
+=>a34
+Yeah. How about we change the subject?<end>
+
+=>q35_original
+I hear ya, friend. Hey, wanna drink while you're at it?<end>
+
+=>q35
+I hear ya, friend. Hey, wanna drink while you're at it?<end>
+
+=>a36_original
+Nope.<end>
+
+=>a36
+Nope.<end>
+
+=>a37_original
+See you later.<end>
+
+=>a37
+See you later.<end>
+
+=>q38_original
+It's you. Came back to pay your debt... or to work it off?<end>
+
+=>q38
+It's you. Came back to pay your debt... or to work it off?<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+Here you go. ::Give him 260 stygian coins.::<end>
+
+=>a40
+Here you go. ::Give him 260 stygian coins.::<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>q42_original
+::He counts the money and looks back at you after confirming that the amount is correct.:: It's good. <end>
+
+=>q42
+::He counts the money and looks back at you after confirming that the amount is correct.:: It's good. <end>
+
+=>a43_original
+Here you go. ::Give him 170 stygian coins.::<end>
+
+=>a43
+Here you go. ::Give him 170 stygian coins.::<end>
+
+=>q44_original
+<end>
+
+=>q44
+<end>
+
+=>a45_original
+I'll... do the dishes.<end>
+
+=>a45
+I'll... do the dishes.<end>
+
+=>q46_original
+::He nods.:: Right then. Gloves, detergent and sponge, everything's in the cupboard below the sink. Wire scrubber's in there too. Now get to work.<end>
+
+=>q46
+::He nods.:: Right then. Gloves, detergent and sponge, everything's in the cupboard below the sink. Wire scrubber's in there too. Now get to work.<end>
+
+=>a47_original
+::Start washing the dishes...::<end>
+
+=>a47
+::Start washing the dishes...::<end>
+
+=>a48_original
+You do know I am an SGS citizen? You don't want the relations between our two stations to deteriorate by having the militia arrest me, do you?<end>
+
+=>a48
+You do know I am an SGS citizen? You don't want the relations between our two stations to deteriorate by having the militia arrest me, do you?<end>
+
+=>q49_original
+::His eyes pierce you for a couple of seconds, but then he grabs himself a shot glass and fills it with something strong. His response comes after the sound of an empty glass hitting the counter.::
+
+Maybe what you say is true. I wouldn't want to be the one who causes a scandal like that, yeah. But I'm not letting this slide. No one in this station will want to have anything to do with you until you pay me - until you pay me, ya dig! And I'll make sure of it.<end>
+
+=>q49
+::His eyes pierce you for a couple of seconds, but then he grabs himself a shot glass and fills it with something strong. His response comes after the sound of an empty glass hitting the counter.::
+
+Maybe what you say is true. I wouldn't want to be the one who causes a scandal like that, yeah. But I'm not letting this slide. No one in this station will want to have anything to do with you until you pay me - until you pay me, ya dig! And I'll make sure of it.<end>
+
+=>q50_original
+Yeah, you can take it up with Captain Herve if you want. Or just, you know, just pay the damn bill. Or do the dishes.<end>
+
+=>q50
+Yeah, you can take it up with Captain Herve if you want. Or just, you know, just pay the damn bill. Or do the dishes.<end>
+
+=>a51_original
+Guess I'll be seeing Captain Herve then.<end>
+
+=>a51
+Guess I'll be seeing Captain Herve then.<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>q53_original
+So that's the kind of game you want to play... <end>
+
+=>q53
+So that's the kind of game you want to play... <end>
+
+=>q54_original
+Hm.<end>
+
+=>q54
+Hm.<end>
+
+=>a55_original
+I'll be going now.<end>
+
+=>a55
+I'll be going now.<end>
+
+=>a56_original
+::Leave.::<end>
+
+=>a56
+::Leave.::<end>
+
+=>a57_original
+I've had enough of this - enough of you! ::Attack!::<end>
+
+=>a57
+I've had enough of this - enough of you! ::Attack!::<end>
+
+=>q58_original
+That's enough. You've worked it off.<end>
+
+=>q58
+That's enough. You've worked it off.<end>
+
+=>a59_original
+My hands are going to fall off. What do you put in that damn stew of yours?<end>
+
+=>a59
+My hands are going to fall off. What do you put in that damn stew of yours?<end>
+
+=>q60_original
+If people knew they'd nev-- Um, it's a secret.<end>
+
+=>q60
+If people knew they'd nev-- Um, it's a secret.<end>
+
+=>q61_original
+Good. <end>
+
+=>q61
+Good. <end>
+
+=>q62_original
+Ay - You!<end>
+
+=>q62
+Ay - You!<end>
+
+=>a63_original
+Me?<end>
+
+=>a63
+Me?<end>
+
+=>q64_original
+You! <end>
+
+=>q64
+You! <end>
+
+=>q65_original
+You owe me money. ::He pulls out a notebook, flips a page and starts reading.:: You and Dude had <end>
+
+=>q65
+You owe me money. ::He pulls out a notebook, flips a page and starts reading.:: You and Dude had <end>
+
+=>q66_original
+twenty bottles of brew plus six bags of hardcore chips - and paid for none of it! <end>
+
+=>q66
+twenty bottles of brew plus six bags of hardcore chips - and paid for none of it! <end>
+
+=>q67_original
+::Your eyes veer toward the stained menu on the counter: mushroom brew - ten charons; core chips - seven charons; hardcore chips - ten charons.::<end>
+
+=>q67
+::Your eyes veer toward the stained menu on the counter: mushroom brew - ten charons; core chips - seven charons; hardcore chips - ten charons.::<end>
+
+=>q68_original
+That's two hundred sixty charons you owe me. <end>
+
+=>q68
+That's two hundred sixty charons you owe me. <end>
+
+=>q69_original
+You two snuck out when I wasn't looking, but now... now's the time to pay up. ::He closes the notebook and leans on the counter.::<end>
+
+=>q69
+You two snuck out when I wasn't looking, but now... now's the time to pay up. ::He closes the notebook and leans on the counter.::<end>
+
+=>q70_original
+<end>
+
+=>q70
+<end>
+
+=>a71_original
+::[Persuade]:: But I did pay you, don't you remember? I placed the money on the counter and told you, "Yo, here are your coins." And I even tipped you, man.<end>
+
+=>a71
+::[Persuade]:: But I did pay you, don't you remember? I placed the money on the counter and told you, "Yo, here are your coins." And I even tipped you, man.<end>
+
+=>q72_original
+Make up your mind, you filthy liar. First you said Dude was supposed to pay and now you say that it was *you* who paid the bill. Lying bastard.<end>
+
+=>q72
+Make up your mind, you filthy liar. First you said Dude was supposed to pay and now you say that it was *you* who paid the bill. Lying bastard.<end>
+
+=>q73_original
+Liar! Unless I'm going derailed, there was no money on this counter. You bastards snuck out while I was, I was... I don't know, washing the dishes or something like that. That's what happened. Turned my back for a moment and you're gone.<end>
+
+=>q73
+Liar! Unless I'm going derailed, there was no money on this counter. You bastards snuck out while I was, I was... I don't know, washing the dishes or something like that. That's what happened. Turned my back for a moment and you're gone.<end>
+
+=>a74_original
+Then someone took it while you weren't looking. It's not our fault some retard installed your sink like that so you can't see what's happening in this place.<end>
+
+=>a74
+Then someone took it while you weren't looking. It's not our fault some retard installed your sink like that so you can't see what's happening in this place.<end>
+
+=>q75_original
+Look, the freaking plumbi-- But... but I'd have heard you if you actually called me, dammit.<end>
+
+=>q75
+Look, the freaking plumbi-- But... but I'd have heard you if you actually called me, dammit.<end>
+
+=>a76_original
+Maybe you didn't hear me because the tap was running. I don't know, and it's not my problem. All I know is that I had placed the money on the counter and told you it was there before we left.<end>
+
+=>a76
+Maybe you didn't hear me because the tap was running. I don't know, and it's not my problem. All I know is that I had placed the money on the counter and told you it was there before we left.<end>
+
+=>q77_original
+You... You... ::He pauses, eyeing you suspiciously.::<end>
+
+=>q77
+You... You... ::He pauses, eyeing you suspiciously.::<end>
+
+=>q78_original
+Dammit, maybe someone did take it. But... ::He pauses again, his argument cut short by his own conflicting thoughts. After a few pensive moments he shakes his head.:: Alright. *Alright*. Guess I'm gonna have to let you off the hook. But anything you order from now on - you're paying straight away, you dig? On the spot.<end>
+
+=>q78
+Dammit, maybe someone did take it. But... ::He pauses again, his argument cut short by his own conflicting thoughts. After a few pensive moments he shakes his head.:: Alright. *Alright*. Guess I'm gonna have to let you off the hook. But anything you order from now on - you're paying straight away, you dig? On the spot.<end>
+
+=>q79_original
+::He stares at you for a while longer before calming down.:: So what's it gonna be then?<end>
+
+=>q79
+::He stares at you for a while longer before calming down.:: So what's it gonna be then?<end>
+
+=>q80_original
+You liar. You filthy liar! I ain't falling for that crap of yours. ::He leans forward.:: You're starting to get on my nerves, punk, so you better pay the hell up, or else...<end>
+
+=>q80
+You liar. You filthy liar! I ain't falling for that crap of yours. ::He leans forward.:: You're starting to get on my nerves, punk, so you better pay the hell up, or else...<end>
+
+=>a81_original
+But we drank our own brew.<end>
+
+=>a81
+But we drank our own brew.<end>
+
+=>q82_original
+Which is against the rules, by the way, but I let that slide only because Dude is... well, can be considered a pretty regular patron. And, you know, he promised he'd order more booze after you were done with what you had. That is exactly what happened, only you didn't pay your damn bill!<end>
+
+=>q82
+Which is against the rules, by the way, but I let that slide only because Dude is... well, can be considered a pretty regular patron. And, you know, he promised he'd order more booze after you were done with what you had. That is exactly what happened, only you didn't pay your damn bill!<end>
+
+=>a83_original
+Dude was supposed to pay for it... I think.<end>
+
+=>a83
+Dude was supposed to pay for it... I think.<end>
+
+=>q84_original
+Oh, but you already paid for it, you lying bastard! ::He slams his fist on the counter.:: But, no, now *Dude* was supposed to pay for it? <end>
+
+=>q84
+Oh, but you already paid for it, you lying bastard! ::He slams his fist on the counter.:: But, no, now *Dude* was supposed to pay for it? <end>
+
+=>q85_original
+Dude asked you if you were okay with paying and you confirmed it. I saw it with my own two eyes.<end>
+
+=>q85
+Dude asked you if you were okay with paying and you confirmed it. I saw it with my own two eyes.<end>
+
+=>a86_original
+Oh... I thought he was asking whether *I* was okay, not whether I was okay with paying. I though he'd pay.<end>
+
+=>a86
+Oh... I thought he was asking whether *I* was okay, not whether I was okay with paying. I though he'd pay.<end>
+
+=>q87_original
+Well, he didn't. But you are here now and I ain't gonna let you get away again, you dig?<end>
+
+=>q87
+Well, he didn't. But you are here now and I ain't gonna let you get away again, you dig?<end>
+
+=>a88_original
+Can you put it on Dude's tab or something? You said he's a regular.<end>
+
+=>a88
+Can you put it on Dude's tab or something? You said he's a regular.<end>
+
+=>q89_original
+He's a very *infrequent* regular. He's a regular when he's around. His tendency to disappear and forget about his tab is the reason he no longer has one.<end>
+
+=>q89
+He's a very *infrequent* regular. He's a regular when he's around. His tendency to disappear and forget about his tab is the reason he no longer has one.<end>
+
+=>a90_original
+So that is how you repay me for helping your station?<end>
+
+=>a90
+So that is how you repay me for helping your station?<end>
+
+=>q91_original
+Hey, this ain't fair. I know what you've done, but if you eat and drink in my bar, you pay for it whether you are a dumpster-diving drifter or Captain Herve himself.<end>
+
+=>q91
+Hey, this ain't fair. I know what you've done, but if you eat and drink in my bar, you pay for it whether you are a dumpster-diving drifter or Captain Herve himself.<end>
+
+=>q92_original
+Dig?<end>
+
+=>q92
+Dig?<end>
+
+=>a93_original
+I don't have any money.<end>
+
+=>a93
+I don't have any money.<end>
+
+=>q94_original
+I don't think you understood what I said.<end>
+
+=>q94
+I don't think you understood what I said.<end>
+
+=>a95_original
+I'm not paying.<end>
+
+=>a95
+I'm not paying.<end>
+
+=>a96_original
+I've got no money, man.<end>
+
+=>a96
+I've got no money, man.<end>
+
+=>q97_original
+Then you're going to work off your debt by washing the dishes. Or else... or else I'm gonna get the militia in here!<end>
+
+=>q97
+Then you're going to work off your debt by washing the dishes. Or else... or else I'm gonna get the militia in here!<end>
+
+=>a98_original
+I'm. Not. Paying.<end>
+
+=>a98
+I'm. Not. Paying.<end>
+
+=>a99_original
+I'll pay you some other time, okay? Yeah...<end>
+
+=>a99
+I'll pay you some other time, okay? Yeah...<end>
+
+=>a100_original
+And what if I don't pay?<end>
+
+=>a100
+And what if I don't pay?<end>
+
+=>q101_original
+That's one hundred seventy charons you owe me. <end>
+
+=>q101
+That's one hundred seventy charons you owe me. <end>
+
+=>q102_original
+thirteen bottles of brew plus four bags of hardcore chips and paid for none of it! <end>
+
+=>q102
+thirteen bottles of brew plus four bags of hardcore chips and paid for none of it! <end>
+
+=>a103_original
+What's the matter?<end>
+
+=>a103
+What's the matter?<end>
+
+=>q104_original
+I'll tell you what's the matter: <end>
+
+=>q104
+I'll tell you what's the matter: <end>
+
+=>a105_original
+Is this something about Dude and my drinking session?<end>
+
+=>a105
+Is this something about Dude and my drinking session?<end>
+
+=>q106_original
+You betcha it is! <end>
+
+=>q106
+You betcha it is! <end>
+
+=>a107_original
+::Turn around and leave.::<end>
+
+=>a107
+::Turn around and leave.::<end>
+
+=>q108_original
+Hey - HEY! Hold it right there! <end>
+
+=>q108
+Hey - HEY! Hold it right there! <end>
+
+=>q109_original
+Back again?<end>
+
+=>q109
+Back again?<end>
+
+=>q110_original
+::A squint-eyed man greets you.::
+
+Ay, welcome to Rail Crossing's finest - and only - bar.<end>
+
+=>q110
+::A squint-eyed man greets you.::
+
+Ay, welcome to Rail Crossing's finest - and only - bar.<end>
+
+=>q111_original
+If you fancy a drink, I've got some tasty mushroom brew.<end>
+
+=>q111
+If you fancy a drink, I've got some tasty mushroom brew.<end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>a113_original
+How can I say no? ::Barter.::<end>
+
+=>a113
+How can I say no? ::Barter.::<end>
+
+=>a114_original
+Is that dude having it? Because he doesn't look so good...<end>
+
+=>a114
+Is that dude having it? Because he doesn't look so good...<end>
+
+=>q115_original
+Ah, he just drank a bit too much. He'll be fine... probably.<end>
+
+=>q115
+Ah, he just drank a bit too much. He'll be fine... probably.<end>
+
+=>a116_original
+I didn't come here to drink. I have a few questions.<end>
+
+=>a116
+I didn't come here to drink. I have a few questions.<end>
+
+=>q117_original
+Like...?<end>
+
+=>q117
+Like...?<end>
+
+=>a118_original
+I'll pass for now.<end>
+
+=>a118
+I'll pass for now.<end>
+
+=>q119_original
+Anything else I can get you?<end>
+
+=>q119
+Anything else I can get you?<end>
+
+=>q120_original
+Back again for some of that tasty mushroom brew, friend?<end>
+
+=>q120
+Back again for some of that tasty mushroom brew, friend?<end>
+

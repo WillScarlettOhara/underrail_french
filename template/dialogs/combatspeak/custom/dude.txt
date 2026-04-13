@@ -1,0 +1,312 @@
+=>q1_original
+Weak, man.<end>
+
+=>q1
+Weak, man.<end>
+
+=>q2_original
+Wow, you're lame.<end>
+
+=>q2
+Wow, you're lame.<end>
+
+=>q3_original
+Stop it, man!<end>
+
+=>q3
+Stop it, man!<end>
+
+=>q4_original
+Ow!<end>
+
+=>q4
+Ow!<end>
+
+=>q5_original
+Ah!<end>
+
+=>q5
+Ah!<end>
+
+=>q6_original
+You shot my brew!<end>
+
+=>q6
+You shot my brew!<end>
+
+=>q7_original
+I'm in pain...<end>
+
+=>q7
+I'm in pain...<end>
+
+=>q8_original
+That burns!<end>
+
+=>q8
+That burns!<end>
+
+=>q9_original
+That's... brrrrr!<end>
+
+=>q9
+That's... brrrrr!<end>
+
+=>q10_original
+::Taps on the ice.::<end>
+
+=>q10
+::Taps on the ice.::<end>
+
+=>q11_original
+I'm... gonna... pass out...<end>
+
+=>q11
+I'm... gonna... pass out...<end>
+
+=>q12_original
+Die... with a brew... in your hand...<end>
+
+=>q12
+Die... with a brew... in your hand...<end>
+
+=>q13_original
+I'm totally burning! Aaaaaaaaa!<end>
+
+=>q13
+I'm totally burning! Aaaaaaaaa!<end>
+
+=>q14_original
+I'm... freezing...<end>
+
+=>q14
+I'm... freezing...<end>
+
+=>q15_original
+::Struggles.:: This sucks!<end>
+
+=>q15
+::Struggles.:: This sucks!<end>
+
+=>q16_original
+There's no reason for violence, man!<end>
+
+=>q16
+There's no reason for violence, man!<end>
+
+=>q17_original
+Maybe we can, like, work this out, man?<end>
+
+=>q17
+Maybe we can, like, work this out, man?<end>
+
+=>q18_original
+Wanna... stop fighting?<end>
+
+=>q18
+Wanna... stop fighting?<end>
+
+=>q19_original
+How about we forget about all this and go grab a brew together?<end>
+
+=>q19
+How about we forget about all this and go grab a brew together?<end>
+
+=>q20_original
+That'll teach you not to mess with the Dude.<end>
+
+=>q20
+That'll teach you not to mess with the Dude.<end>
+
+=>q21_original
+Bye, man.<end>
+
+=>q21
+Bye, man.<end>
+
+=>q22_original
+Hey, I'm kicking someone's ass!<end>
+
+=>q22
+Hey, I'm kicking someone's ass!<end>
+
+=>q23_original
+Cold?<end>
+
+=>q23
+Cold?<end>
+
+=>q24_original
+You're, like, on fire.<end>
+
+=>q24
+You're, like, on fire.<end>
+
+=>q25_original
+You should put that out, man.<end>
+
+=>q25
+You should put that out, man.<end>
+
+=>q26_original
+And stay there!<end>
+
+=>q26
+And stay there!<end>
+
+=>q27_original
+Stop spinning. You're making *me* dizzy!<end>
+
+=>q27
+Stop spinning. You're making *me* dizzy!<end>
+
+=>q28_original
+Bad brew makes you dizzy. Or blind.<end>
+
+=>q28
+Bad brew makes you dizzy. Or blind.<end>
+
+=>q29_original
+You're leaking, man.<end>
+
+=>q29
+You're leaking, man.<end>
+
+=>q30_original
+Not my knee... again!<end>
+
+=>q30
+Not my knee... again!<end>
+
+=>q31_original
+Bleeding's not good for you. ::Shakes head.::<end>
+
+=>q31
+Bleeding's not good for you. ::Shakes head.::<end>
+
+=>q32_original
+That was close!<end>
+
+=>q32
+That was close!<end>
+
+=>q33_original
+Careful, man, there's a beverage here!<end>
+
+=>q33
+Careful, man, there's a beverage here!<end>
+
+=>q34_original
+Well, crap...<end>
+
+=>q34
+Well, crap...<end>
+
+=>q35_original
+Hi-yah!<end>
+
+=>q35
+Hi-yah!<end>
+
+=>q36_original
+Swoosh!<end>
+
+=>q36
+Swoosh!<end>
+
+=>q37_original
+Check this out, man!<end>
+
+=>q37
+Check this out, man!<end>
+
+=>q38_original
+WHOOOOOOA!<end>
+
+=>q38
+WHOOOOOOA!<end>
+
+=>q39_original
+Take this!<end>
+
+=>q39
+Take this!<end>
+
+=>q40_original
+Take that!<end>
+
+=>q40
+Take that!<end>
+
+=>q41_original
+Leave me alone, man!<end>
+
+=>q41
+Leave me alone, man!<end>
+
+=>q42_original
+I'm not looking for trouble, man!<end>
+
+=>q42
+I'm not looking for trouble, man!<end>
+
+=>q43_original
+Um, like...<end>
+
+=>q43
+Um, like...<end>
+
+=>q44_original
+Whoa.<end>
+
+=>q44
+Whoa.<end>
+
+=>q45_original
+I'd offer you a brew of peace... but that wouldn't work, would it?<end>
+
+=>q45
+I'd offer you a brew of peace... but that wouldn't work, would it?<end>
+
+=>q46_original
+Don't eat me, man.<end>
+
+=>q46
+Don't eat me, man.<end>
+
+=>q47_original
+My eyes! They've popped!<end>
+
+=>q47
+My eyes! They've popped!<end>
+
+=>q48_original
+Yeah, man...<end>
+
+=>q48
+Yeah, man...<end>
+
+=>q49_original
+Detox!<end>
+
+=>q49
+Detox!<end>
+
+=>q50_original
+Better blood than brew.<end>
+
+=>q50
+Better blood than brew.<end>
+
+=>q51_original
+Damn! I think my rib's, like, busted.<end>
+
+=>q51
+Damn! I think my rib's, like, busted.<end>
+
+=>q52_original
+::Holds breath.::<end>
+
+=>q52
+::Holds breath.::<end>
+

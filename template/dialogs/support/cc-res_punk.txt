@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+This place sucks.<end>
+
+=>q2
+This place sucks.<end>
+
+=>q3_original
+Hey, you. 'Sup?<end>
+
+=>q3
+Hey, you. 'Sup?<end>
+
+=>q4_original
+The drinks here taste like Pipeworks. And the food's no better either.<end>
+
+=>q4
+The drinks here taste like Pipeworks. And the food's no better either.<end>
+
+=>q5_original
+I can't even watch the damn Arena in here.<end>
+
+=>q5
+I can't even watch the damn Arena in here.<end>
+
+=>q6_original
+This place doesn't even have a toilet. How am I supposed to check the pipes when I need to, huh?<end>
+
+=>q6
+This place doesn't even have a toilet. How am I supposed to check the pipes when I need to, huh?<end>
+
+=>q7_original
+At least it's quiet in here.<end>
+
+=>q7
+At least it's quiet in here.<end>
+
+=>q8_original
+Why did I even come to this place...<end>
+
+=>q8
+Why did I even come to this place...<end>
+
+=>q9_original
+Dominating Bar - as if!<end>
+
+=>q9
+Dominating Bar - as if!<end>
+

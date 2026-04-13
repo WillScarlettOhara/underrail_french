@@ -1,0 +1,406 @@
+=>q1_original
+::The woman turns toward you, slowly and calmly. She looks at you with emotionless eyes, greets you with an impassive expression, and speaks to you in a toneless voice.::
+
+$(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
+
+=>q1
+::The woman turns toward you, slowly and calmly. She looks at you with emotionless eyes, greets you with an impassive expression, and speaks to you in a toneless voice.::
+
+$(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
+
+=>a2_original
+Nice to meet you, Phyllis.<end>
+
+=>a2
+Nice to meet you, Phyllis.<end>
+
+=>q3_original
+The pleasure is mine. If you get damaged, do not hesitate to see me. During my time here, not a single one of my patients expired.<end>
+
+=>q3
+The pleasure is mine. If you get damaged, do not hesitate to see me. During my time here, not a single one of my patients expired.<end>
+
+=>a4_original
+Expired?<end>
+
+=>a4
+Expired?<end>
+
+=>q5_original
+Dead, deceased, departed... One that has ceased to be.<end>
+
+=>q5
+Dead, deceased, departed... One that has ceased to be.<end>
+
+=>a6_original
+I have no wish to expire. I'll see you if I need help.<end>
+
+=>a6
+I have no wish to expire. I'll see you if I need help.<end>
+
+=>q7_original
+Please do. All treatment will be free of charge.<end>
+
+=>q7
+Please do. All treatment will be free of charge.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Show me what you have for sale. ::Barter.::<end>
+
+=>a9
+Show me what you have for sale. ::Barter.::<end>
+
+=>a10_original
+Could you take a look at my injuries?<end>
+
+=>a10
+Could you take a look at my injuries?<end>
+
+=>q11_original
+You are severely damaged, $(context.player.Name). I will fix you up.<end>
+
+=>q11
+You are severely damaged, $(context.player.Name). I will fix you up.<end>
+
+=>a12_original
+::Let her treat you.::<end>
+
+=>a12
+::Let her treat you.::<end>
+
+=>q13_original
+You are lightly damaged. The repairs will not take too long.<end>
+
+=>q13
+You are lightly damaged. The repairs will not take too long.<end>
+
+=>a14_original
+You mentioned "repairing" Oculites...<end>
+
+=>a14
+You mentioned "repairing" Oculites...<end>
+
+=>q15_original
+Yes, that is what I said. Why? Is that term bothering you in that particular context?<end>
+
+=>q15
+Yes, that is what I said. Why? Is that term bothering you in that particular context?<end>
+
+=>a16_original
+It does, actually. How can you say that you "repair" human beings? Unless there's something I'm missing here...<end>
+
+=>a16
+It does, actually. How can you say that you "repair" human beings? Unless there's something I'm missing here...<end>
+
+=>q17_original
+You are not the first person to tell me that. Let me explain to you why I use such terminology.<end>
+
+=>q17
+You are not the first person to tell me that. Let me explain to you why I use such terminology.<end>
+
+=>q18_original
+I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
+
+=>q18
+I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
+
+=>q19_original
+From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
+
+=>q19
+From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
+
+=>q20_original
+It is all these... mechanisms, chemical reactions, electrical signals... within our bodies that make it function. And it is all these smaller living beings that make up a whole, larger being that falsely considers itself a unique entity - one of a kind. It is made of flesh, true, but in essence, it is nothing but a complex machinery, and those I repair. 
+
+And only if I see it as such - a living machine - will I be able to reach a new level, reach new frontiers of medicine... and perhaps one day "repair" something that we dared not touch, for we were observing it from the wrong angle, our perception impeded by false presumptions.
+<end>
+
+=>q20
+It is all these... mechanisms, chemical reactions, electrical signals... within our bodies that make it function. And it is all these smaller living beings that make up a whole, larger being that falsely considers itself a unique entity - one of a kind. It is made of flesh, true, but in essence, it is nothing but a complex machinery, and those I repair. 
+
+And only if I see it as such - a living machine - will I be able to reach a new level, reach new frontiers of medicine... and perhaps one day "repair" something that we dared not touch, for we were observing it from the wrong angle, our perception impeded by false presumptions.
+<end>
+
+=>q21_original
+There you are. And one more thing that I like to point out whenever this discussion gets brought up: All living things, including us human beings, are mainly made from some of the most common chemical elements: hydrogen, oxygen, carbon and nitrogen. If we were somehow special... somehow unique or, yes, even *created* by something or someone greater - in case you believe something like that - then why aren't we made from, say, polonium? Or bismuth, yes... That would make us *very* unique, don't you think?<end>
+
+=>q21
+There you are. And one more thing that I like to point out whenever this discussion gets brought up: All living things, including us human beings, are mainly made from some of the most common chemical elements: hydrogen, oxygen, carbon and nitrogen. If we were somehow special... somehow unique or, yes, even *created* by something or someone greater - in case you believe something like that - then why aren't we made from, say, polonium? Or bismuth, yes... That would make us *very* unique, don't you think?<end>
+
+=>q22_original
+Think about it. I have not told you anything untrue.<end>
+
+=>q22
+Think about it. I have not told you anything untrue.<end>
+
+=>a23_original
+I just find the choice of words strange. That is all.<end>
+
+=>a23
+I just find the choice of words strange. That is all.<end>
+
+=>q24_original
+In that case, I will give you an explanation, $(context.player.Name).<end>
+
+=>q24
+In that case, I will give you an explanation, $(context.player.Name).<end>
+
+=>a25_original
+It doesn't bother me, not at all. I just suspect that there is a reason for using that specific word in that context, and I'd like to hear it.<end>
+
+=>a25
+It doesn't bother me, not at all. I just suspect that there is a reason for using that specific word in that context, and I'd like to hear it.<end>
+
+=>a26_original
+What can you tell me about Oculus?<end>
+
+=>a26
+What can you tell me about Oculus?<end>
+
+=>q27_original
+As far as I am aware, unknown beings, dubbed Godmen by Azif, built Oculus for purposes... unknown. I have inquired about this subject on numerous occasions, but most of the answers can be summed up with, "We're not sure, but we think..."<end>
+
+=>q27
+As far as I am aware, unknown beings, dubbed Godmen by Azif, built Oculus for purposes... unknown. I have inquired about this subject on numerous occasions, but most of the answers can be summed up with, "We're not sure, but we think..."<end>
+
+=>q28_original
+Living in a place you know little about can be both fascinating and frightening. And yes, I have emotions, despite what *you* may think of me; I noticed your stare. Now, fascinating, I think it is obvious why. Oculus is so much more advanced than anything what you will find outside of it. Also, every new discovery we make opens new possibilities and knowledge. Frightening, I think it's also obvious why...<end>
+
+=>q28
+Living in a place you know little about can be both fascinating and frightening. And yes, I have emotions, despite what *you* may think of me; I noticed your stare. Now, fascinating, I think it is obvious why. Oculus is so much more advanced than anything what you will find outside of it. Also, every new discovery we make opens new possibilities and knowledge. Frightening, I think it's also obvious why...<end>
+
+=>q29_original
+Ignoring the deadly drop - if you trip and fall into the darkness - which, granted, never destroyed any oculites so far - who knows what else we will find here. Maybe one day, our curiosity will lead us to our destruction. No one can tell for certain.<end>
+
+=>q29
+Ignoring the deadly drop - if you trip and fall into the darkness - which, granted, never destroyed any oculites so far - who knows what else we will find here. Maybe one day, our curiosity will lead us to our destruction. No one can tell for certain.<end>
+
+=>a30_original
+Are you a machine?<end>
+
+=>a30
+Are you a machine?<end>
+
+=>q31_original
+::She stares at you blankly.::<end>
+
+=>q31
+::She stares at you blankly.::<end>
+
+=>q32_original
+I may seem like one, due to my views and behavior, but I am not.<end>
+
+=>q32
+I may seem like one, due to my views and behavior, but I am not.<end>
+
+=>q33_original
+::A genuine smile shatters her bland expression.::
+
+Does that make you feel better?<end>
+
+=>q33
+::A genuine smile shatters her bland expression.::
+
+Does that make you feel better?<end>
+
+=>a34_original
+How and why did you join Oculus?<end>
+
+=>a34
+How and why did you join Oculus?<end>
+
+=>q35_original
+Everyone in Oculus was carefully evaluated for a prolonged time before finally being approached with the offer to join Oculus. Such was my case, yet, unlike most oculites here, I did not seek Oculus... Oculus sought me.<end>
+
+=>q35
+Everyone in Oculus was carefully evaluated for a prolonged time before finally being approached with the offer to join Oculus. Such was my case, yet, unlike most oculites here, I did not seek Oculus... Oculus sought me.<end>
+
+=>a36_original
+Can you explain?<end>
+
+=>a36
+Can you explain?<end>
+
+=>q37_original
+Certainly. Most oculites started out by performing smaller, simpler jobs. Then, naturally, as they progressed and displayed the ability to perform more difficult tasks, they were given more difficult tasks, and if they could perform even more difficult, they were give those, and so on and so forth.<end>
+
+=>q37
+Certainly. Most oculites started out by performing smaller, simpler jobs. Then, naturally, as they progressed and displayed the ability to perform more difficult tasks, they were given more difficult tasks, and if they could perform even more difficult, they were give those, and so on and so forth.<end>
+
+=>q38_original
+I will take this opportunity, $(context.player.Name), to say a few words about the progression of an oculite: In Oculus, there are no ranks, levels or titles to attain; we are all the same, and we are not. You will always be an oculite, but some oculites are better than others, and it is the level of your own skills and abilities that determines your duties - hence your place in Oculus - not hierarchical gradation.
+
+In any case, let us get back to the subject at hand.<end>
+
+=>q38
+I will take this opportunity, $(context.player.Name), to say a few words about the progression of an oculite: In Oculus, there are no ranks, levels or titles to attain; we are all the same, and we are not. You will always be an oculite, but some oculites are better than others, and it is the level of your own skills and abilities that determines your duties - hence your place in Oculus - not hierarchical gradation.
+
+In any case, let us get back to the subject at hand.<end>
+
+=>q39_original
+I was selected based on my performance as a physician and my will to perfect my skills to the absolute maximum. I was approached and offered advanced medical knowledge, beyond what I had available at the time, in exchange for becoming a part of Oculus. I could not refuse.<end>
+
+=>q39
+I was selected based on my performance as a physician and my will to perfect my skills to the absolute maximum. I was approached and offered advanced medical knowledge, beyond what I had available at the time, in exchange for becoming a part of Oculus. I could not refuse.<end>
+
+=>q40_original
+I do not regret my decision. Not even a bit.<end>
+
+=>q40
+I do not regret my decision. Not even a bit.<end>
+
+=>a41_original
+Who is that six-fingered cyborg?<end>
+
+=>a41
+Who is that six-fingered cyborg?<end>
+
+=>q42_original
+A fascinating creature, unlike any I have ever seen, and I am sure I am not speaking only for myself. He does not seem very concerned with any one of us and performs his own tasks within Oculus as if he were alone.<end>
+
+=>q42
+A fascinating creature, unlike any I have ever seen, and I am sure I am not speaking only for myself. He does not seem very concerned with any one of us and performs his own tasks within Oculus as if he were alone.<end>
+
+=>a43_original
+What does he do around here, exactly?<end>
+
+=>a43
+What does he do around here, exactly?<end>
+
+=>q44_original
+He is one of the clients. Azif informed us that he is allowed to move freely around Oculus, and that he is not to be disturbed. I have not seen him in some time, though, but he might return at any moment.<end>
+
+=>q44
+He is one of the clients. Azif informed us that he is allowed to move freely around Oculus, and that he is not to be disturbed. I have not seen him in some time, though, but he might return at any moment.<end>
+
+=>q45_original
+He is one of the clients. Azif told us that he can move freely around Oculus, and that he is not to be disturbed. That is all I can tell you about him.<end>
+
+=>q45
+He is one of the clients. Azif told us that he can move freely around Oculus, and that he is not to be disturbed. That is all I can tell you about him.<end>
+
+=>a46_original
+Interesting, but I have other questions.<end>
+
+=>a46
+Interesting, but I have other questions.<end>
+
+=>q47_original
+I am sure you do.<end>
+
+=>q47
+I am sure you do.<end>
+
+=>a48_original
+What can you tell me about those robed oculites? <end>
+
+=>a48
+What can you tell me about those robed oculites? <end>
+
+=>q49_original
+Khazum Morakht? We call them Whisperers, but that is the proper name of the clan they belong to. They came from North Underrail, as far as I understood. I could be wrong, though. You will find them throughout Oculus, standing in silence and almost completely motionless.<end>
+
+=>q49
+Khazum Morakht? We call them Whisperers, but that is the proper name of the clan they belong to. They came from North Underrail, as far as I understood. I could be wrong, though. You will find them throughout Oculus, standing in silence and almost completely motionless.<end>
+
+=>q50_original
+Their task is to guard Oculus, but frankly, they have not seen much action, and you can presume why. At least not since I arrived here.
+
+You will get used to their presence soon.<end>
+
+=>q50
+Their task is to guard Oculus, but frankly, they have not seen much action, and you can presume why. At least not since I arrived here.
+
+You will get used to their presence soon.<end>
+
+=>a51_original
+I'd like to ask you about some of the people here.<end>
+
+=>a51
+I'd like to ask you about some of the people here.<end>
+
+=>q52_original
+If you want to know more about other oculites, ask them yourself.<end>
+
+=>q52
+If you want to know more about other oculites, ask them yourself.<end>
+
+=>q53_original
+That is my recommendation.<end>
+
+=>q53
+That is my recommendation.<end>
+
+=>a54_original
+Goodbye, Phyllis.<end>
+
+=>a54
+Goodbye, Phyllis.<end>
+
+=>a55_original
+It's a pleasure, Doctor.<end>
+
+=>a55
+It's a pleasure, Doctor.<end>
+
+=>a56_original
+Hey there, how's it going?<end>
+
+=>a56
+Hey there, how's it going?<end>
+
+=>q57_original
+It... is going well. Thank you for asking.<end>
+
+=>q57
+It... is going well. Thank you for asking.<end>
+
+=>a58_original
+::Remain silent.::<end>
+
+=>a58
+::Remain silent.::<end>
+
+=>q59_original
+::She also remains silent, probably waiting for you to say something.::<end>
+
+=>q59
+::She also remains silent, probably waiting for you to say something.::<end>
+
+=>a60_original
+::Remain silent.::<end>
+
+=>a60
+::Remain silent.::<end>
+
+=>q61_original
+Did you want to talk to me about something?<end>
+
+=>q61
+Did you want to talk to me about something?<end>
+
+=>a62_original
+So, I had some questions I wanted to ask you.<end>
+
+=>a62
+So, I had some questions I wanted to ask you.<end>
+
+=>q63_original
+Go ahead, I am listening.<end>
+
+=>q63
+Go ahead, I am listening.<end>
+
+=>q64_original
+Yes?<end>
+
+=>q64
+Yes?<end>
+

@@ -1,0 +1,120 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Heard about the Hardcore City Bar incident?<end>
+
+=>q2
+Heard about the Hardcore City Bar incident?<end>
+
+=>q3_original
+Greetings.<end>
+
+=>q3
+Greetings.<end>
+
+=>q4_original
+So, Knight's spoiled son got killed, eh. I heard some gangsters got him.<end>
+
+=>q4
+So, Knight's spoiled son got killed, eh. I heard some gangsters got him.<end>
+
+=>q5_original
+It's an honor to be working for Coretech.<end>
+
+=>q5
+It's an honor to be working for Coretech.<end>
+
+=>q6_original
+Praetorian Security might have the numbers, but we have the tech.<end>
+
+=>q6
+Praetorian Security might have the numbers, but we have the tech.<end>
+
+=>q7_original
+Warehouse secured, Agent.<end>
+
+=>q7
+Warehouse secured, Agent.<end>
+
+=>q8_original
+Tchortists! I knew there was something despicable about them.<end>
+
+=>q8
+Tchortists! I knew there was something despicable about them.<end>
+
+=>q9_original
+Is it true Raul was killed by cannibals? What the hell lives in those sewers?<end>
+
+=>q9
+Is it true Raul was killed by cannibals? What the hell lives in those sewers?<end>
+
+=>q10_original
+All in order?<end>
+
+=>q10
+All in order?<end>
+
+=>q11_original
+Why are the Faceless here? What do the bastards want?<end>
+
+=>q11
+Why are the Faceless here? What do the bastards want?<end>
+
+=>q12_original
+I like going to the Arena after work. Watch some beautiful carnage, relax... Aaahhh...<end>
+
+=>q12
+I like going to the Arena after work. Watch some beautiful carnage, relax... Aaahhh...<end>
+
+=>q13_original
+If the Drones really managed to dominate Protectorate forces in Junkyard... we gotta keep our eyes open.<end>
+
+=>q13
+If the Drones really managed to dominate Protectorate forces in Junkyard... we gotta keep our eyes open.<end>
+
+=>q14_original
+Greetings, Agent.<end>
+
+=>q14
+Greetings, Agent.<end>
+
+=>q15_original
+I'm just glad we are rarely - if ever - sent to Drop Zone. I'd really hate going there!<end>
+
+=>q15
+I'm just glad we are rarely - if ever - sent to Drop Zone. I'd really hate going there!<end>
+
+=>q16_original
+So Luben was a traitor. What a moron; no one turns against Coretech and gets away with it!<end>
+
+=>q16
+So Luben was a traitor. What a moron; no one turns against Coretech and gets away with it!<end>
+
+=>q17_original
+Does anyone know who was actually behind that warehouse attack?<end>
+
+=>q17
+Does anyone know who was actually behind that warehouse attack?<end>
+
+=>q18_original
+Combat drugs? ::Laughs.::<end>
+
+=>q18
+Combat drugs? ::Laughs.::<end>
+
+=>q19_original
+No one has seen Agent Holst for more than a month; he just left his post on the Upper Underrail station and never came back.<end>
+
+=>q19
+No one has seen Agent Holst for more than a month; he just left his post on the Upper Underrail station and never came back.<end>
+
+=>q20_original
+No more Faceless. Hardcore.<end>
+
+=>q20
+No more Faceless. Hardcore.<end>
+

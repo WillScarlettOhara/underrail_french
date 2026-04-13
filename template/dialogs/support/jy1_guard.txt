@@ -1,0 +1,72 @@
+=>q1_original
+What do you want?<end>
+
+=>q1
+What do you want?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What is this place?<end>
+
+=>a3
+What is this place?<end>
+
+=>q4_original
+What? You lost or something? It's the Junkyard.<end>
+
+=>q4
+What? You lost or something? It's the Junkyard.<end>
+
+=>a5_original
+What can you tell me about the Junkyard?<end>
+
+=>a5
+What can you tell me about the Junkyard?<end>
+
+=>q6_original
+A lot, but I'm not going to, so get lost.<end>
+
+=>q6
+A lot, but I'm not going to, so get lost.<end>
+
+=>a7_original
+Can I just go in?<end>
+
+=>a7
+Can I just go in?<end>
+
+=>q8_original
+I'm not gonna stop you.<end>
+
+=>q8
+I'm not gonna stop you.<end>
+
+=>a9_original
+Are you a part of some sort of organization?<end>
+
+=>a9
+Are you a part of some sort of organization?<end>
+
+=>q10_original
+Yeah, I'm a Scrapper. We run the Depot so if you're looking for some stuff go check out the store there.<end>
+
+=>q10
+Yeah, I'm a Scrapper. We run the Depot so if you're looking for some stuff go check out the store there.<end>
+
+=>a11_original
+Gotta go.<end>
+
+=>a11
+Gotta go.<end>
+
+=>q12_original
+Yeah, move along.<end>
+
+=>q12
+Yeah, move along.<end>
+

@@ -1,0 +1,30 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'm not looking forward to riding in that thing.<end>
+
+=>q2
+I'm not looking forward to riding in that thing.<end>
+
+=>q3_original
+Time to kill soon.<end>
+
+=>q3
+Time to kill soon.<end>
+
+=>q4_original
+Who's driving? I don't want to end up like the last crew.<end>
+
+=>q4
+Who's driving? I don't want to end up like the last crew.<end>
+
+=>q5_original
+Zone Rats yo.<end>
+
+=>q5
+Zone Rats yo.<end>
+

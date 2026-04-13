@@ -1,0 +1,144 @@
+=>q1_original
+Imbecile!<end>
+
+=>q1
+Imbecile!<end>
+
+=>q2_original
+::You see a serious looking man in an almost blindingly white lab coat. He seems somewhat aggravated - walking in circles, sighing constantly, as if he is expecting something to happen, yet it never does. Once you approach him, he gives you a condescending look before talking.::
+
+What is it now?  Why do the unimportant ones always insist on troubling me. Oh... ::He rubs his forehead.:: Look, I don't have much time to waste on you, you... random... person... so you better be quick about it.<end>
+
+=>q2
+::You see a serious looking man in an almost blindingly white lab coat. He seems somewhat aggravated - walking in circles, sighing constantly, as if he is expecting something to happen, yet it never does. Once you approach him, he gives you a condescending look before talking.::
+
+What is it now?  Why do the unimportant ones always insist on troubling me. Oh... ::He rubs his forehead.:: Look, I don't have much time to waste on you, you... random... person... so you better be quick about it.<end>
+
+=>a3_original
+I had some questions I wanted to ask you, if you have the time.<end>
+
+=>a3
+I had some questions I wanted to ask you, if you have the time.<end>
+
+=>q4_original
+If you must... ::He sighs.::
+
+Come on, hurry it up.<end>
+
+=>q4
+If you must... ::He sighs.::
+
+Come on, hurry it up.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Who are you?<end>
+
+=>a6
+Who are you?<end>
+
+=>a7_original
+Why are you here and what do you know about this place?<end>
+
+=>a7
+Why are you here and what do you know about this place?<end>
+
+=>a8_original
+What do you know about Tchortists?<end>
+
+=>a8
+What do you know about Tchortists?<end>
+
+=>a9_original
+So long.<end>
+
+=>a9
+So long.<end>
+
+=>a10_original
+I wanted to politely ask you some questions, but seeing that you are such a jerk I might just change my mind.<end>
+
+=>a10
+I wanted to politely ask you some questions, but seeing that you are such a jerk I might just change my mind.<end>
+
+=>q11_original
+::He raises his voice.:: I beg your pardon!?<end>
+
+=>q11
+::He raises his voice.:: I beg your pardon!?<end>
+
+=>a12_original
+Oh, you know what I'm talking about, you condenscending dirtbag<end>
+
+=>a12
+Oh, you know what I'm talking about, you condenscending dirtbag<end>
+
+=>q13_original
+Ah, I see now who I'm dealing with. An imbecile! I'm a condenscening bastard? Why? Is it because I'm not willing to babble about unimportant subjects with you! I...
+
+Actually, there is no purpose in this. I'll just say goodbye...<end>
+
+=>q13
+Ah, I see now who I'm dealing with. An imbecile! I'm a condenscening bastard? Why? Is it because I'm not willing to babble about unimportant subjects with you! I...
+
+Actually, there is no purpose in this. I'll just say goodbye...<end>
+
+=>q14_original
+Goodbye!<end>
+
+=>q14
+Goodbye!<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+Well, you think I'm wasting your time. That's not a nice thing to say to someone.<end>
+
+=>a16
+Well, you think I'm wasting your time. That's not a nice thing to say to someone.<end>
+
+=>q17_original
+I don't care if you think it's nice or not. I don't owe you anything you imbecile! It's the people like you that disturb me constantly in the most inappropriate moments, which causes me to behave the way I behave! What did you expect to hear? "Welcome stranger! Ask me anything! I have all the time in the world to answer your exasperating questions."<end>
+
+=>q17
+I don't care if you think it's nice or not. I don't owe you anything you imbecile! It's the people like you that disturb me constantly in the most inappropriate moments, which causes me to behave the way I behave! What did you expect to hear? "Welcome stranger! Ask me anything! I have all the time in the world to answer your exasperating questions."<end>
+
+=>q18_original
+::He makes a brief pause.:: Actually, just get lost. I'm not wasting my time arguing with you...<end>
+
+=>q18
+::He makes a brief pause.:: Actually, just get lost. I'm not wasting my time arguing with you...<end>
+
+=>a19_original
+::Turn around and leave.::<end>
+
+=>a19
+::Turn around and leave.::<end>
+
+=>q20_original
+Yes, run away now after you've spoken your childish insult. Get lost! I don't care, you imbecile!<end>
+
+=>q20
+Yes, run away now after you've spoken your childish insult. Get lost! I don't care, you imbecile!<end>
+
+=>a21_original
+I'll come back later.<end>
+
+=>a21
+I'll come back later.<end>
+
+=>q22_original
+You again...<end>
+
+=>q22
+You again...<end>
+

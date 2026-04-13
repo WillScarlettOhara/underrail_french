@@ -1,0 +1,60 @@
+=>q1_original
+Hey $(#buddy/doll), I'm busy. Go bug someone else.<end>
+
+=>q1
+Hey $(#buddy/doll), I'm busy. Go bug someone else.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+There's a lot of work to do in Fort Apogee, trust me.<end>
+
+=>q3
+There's a lot of work to do in Fort Apogee, trust me.<end>
+
+=>q4_original
+Hello, $(#sir/ma'am), may I help you?<end>
+
+=>q4
+Hello, $(#sir/ma'am), may I help you?<end>
+
+=>q5_original
+Wow, that Drones attack was really unexpected!<end>
+
+=>q5
+Wow, that Drones attack was really unexpected!<end>
+
+=>q6_original
+Once, a guy tried to enter the mess hall with a Dreadnought. It ended badly!<end>
+
+=>q6
+Once, a guy tried to enter the mess hall with a Dreadnought. It ended badly!<end>
+
+=>q7_original
+Fort Apogee is the safest place I've ever worked in.<end>
+
+=>q7
+Fort Apogee is the safest place I've ever worked in.<end>
+
+=>q8_original
+You need blues to buy stuff here. That's dollars, in case you don't know.<end>
+
+=>q8
+You need blues to buy stuff here. That's dollars, in case you don't know.<end>
+
+=>q9_original
+Who were those scary-looking people?<end>
+
+=>q9
+Who were those scary-looking people?<end>
+
+=>q10_original
+Heard the Drones got toasted. Doesn't help me with my work, though.<end>
+
+=>q10
+Heard the Drones got toasted. Doesn't help me with my work, though.<end>
+

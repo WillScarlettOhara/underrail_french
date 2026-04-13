@@ -1,0 +1,416 @@
+=>q1_original
+::It doesn't take too long for you to finally meet the sergeant. He stands before you proud and solid as a rock, displaying a stern face only slightly diluted by worry and uncertainty. A salute appears almost instantly, and his spoken words aren't far behind.::
+
+Sergeant First Class Timothy Holloway.<end>
+
+=>q1
+::It doesn't take too long for you to finally meet the sergeant. He stands before you proud and solid as a rock, displaying a stern face only slightly diluted by worry and uncertainty. A salute appears almost instantly, and his spoken words aren't far behind.::
+
+Sergeant First Class Timothy Holloway.<end>
+
+=>a2_original
+::Salute.:: Corporal $(context.player.Name), sir.<end>
+
+=>a2
+::Salute.:: Corporal $(context.player.Name), sir.<end>
+
+=>q3_original
+So, they've finally sent someone. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q3
+So, they've finally sent someone. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q4_original
+But enough about that. Let's talk, Corporal.<end>
+
+=>q4
+But enough about that. Let's talk, Corporal.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Why did you leave Fort Apogee? What caused you to abandon your duty?<end>
+
+=>a6
+Why did you leave Fort Apogee? What caused you to abandon your duty?<end>
+
+=>q7_original
+::He seems hesitant to speak. From the look in his eyes you draw a conclusion that there is an internal conflict within him; as if one side of him wants to give you an answer, while the other demands he does not.::<end>
+
+=>q7
+::He seems hesitant to speak. From the look in his eyes you draw a conclusion that there is an internal conflict within him; as if one side of him wants to give you an answer, while the other demands he does not.::<end>
+
+=>a8_original
+I'm here to help you save your skin, Holloway. As well as your men's. And I can only do that if you tell me what happened.<end>
+
+=>a8
+I'm here to help you save your skin, Holloway. As well as your men's. And I can only do that if you tell me what happened.<end>
+
+=>q9_original
+::Holloway's eyes light up. Your words struck a chord with him, and you see he's about to open up.::
+
+It's a long story... It's not one specific thing which happened that made me lead my men here. It's an ongoing problem I have had with the Protectorate. I am disappointed, and I'm furious at the same time. At both the Protectorate and myself.<end>
+
+=>q9
+::Holloway's eyes light up. Your words struck a chord with him, and you see he's about to open up.::
+
+It's a long story... It's not one specific thing which happened that made me lead my men here. It's an ongoing problem I have had with the Protectorate. I am disappointed, and I'm furious at the same time. At both the Protectorate and myself.<end>
+
+=>a10_original
+Go on, I'm all ears.<end>
+
+=>a10
+Go on, I'm all ears.<end>
+
+=>q11_original
+::Holloway takes a deep breath.::
+
+Listen to me carefully, Corporal. I've been a proud member of Underrail Protectorate forces for years. I've fought and killed many, more than I'd like to admit, in order to save others, to protect others, to allow others to live better lives. But lately, that is not what I have been doing.<end>
+
+=>q11
+::Holloway takes a deep breath.::
+
+Listen to me carefully, Corporal. I've been a proud member of Underrail Protectorate forces for years. I've fought and killed many, more than I'd like to admit, in order to save others, to protect others, to allow others to live better lives. But lately, that is not what I have been doing.<end>
+
+=>q12_original
+Lately... I have been killing innocent people... and I have ordered my men to do the same.<end>
+
+=>q12
+Lately... I have been killing innocent people... and I have ordered my men to do the same.<end>
+
+=>a13_original
+But... why?<end>
+
+=>a13
+But... why?<end>
+
+=>q14_original
+Because *I* was ordered the same thing, Corporal. I didn't know who I was killing at the time. 
+
+Raiders? Bad intel, but they're dead anyway - good job, Holloway! Good job, Sarge. Free Drones? Bad intel, those weren't the Free Drones, but they might have helped them at one point. Intel "suggested" so. Good job, Sarge! Good job!<end>
+
+=>q14
+Because *I* was ordered the same thing, Corporal. I didn't know who I was killing at the time. 
+
+Raiders? Bad intel, but they're dead anyway - good job, Holloway! Good job, Sarge. Free Drones? Bad intel, those weren't the Free Drones, but they might have helped them at one point. Intel "suggested" so. Good job, Sarge! Good job!<end>
+
+=>q15_original
+Like they didn't care. Some of my superiors didn't even blink when I confronted them about it. "Who cares, they are all ratters!" - one lieutenant even said.
+
+I felt like I'm crazy, derailed. It made me sick, that's not what I signed for, damn it!<end>
+
+=>q15
+Like they didn't care. Some of my superiors didn't even blink when I confronted them about it. "Who cares, they are all ratters!" - one lieutenant even said.
+
+I felt like I'm crazy, derailed. It made me sick, that's not what I signed for, damn it!<end>
+
+=>q16_original
+I am not the only one who thinks that way, Corporal. See all these men? They felt betrayed too. Protectorate, now it seems to me, is not about protecting anyone but... about something I don't understand anymore. Maybe the people in charge changed, or maybe I was blind all along.
+
+I tried to get to the colonel, but I was shot down long before I could even reach him. Officers, those bigots and sadists I confronted, started backstabbing me - spreading the word I'd gone mad! They knew what I was going to do and so they made their moves quicker than the blink of an eye.<end>
+
+=>q16
+I am not the only one who thinks that way, Corporal. See all these men? They felt betrayed too. Protectorate, now it seems to me, is not about protecting anyone but... about something I don't understand anymore. Maybe the people in charge changed, or maybe I was blind all along.
+
+I tried to get to the colonel, but I was shot down long before I could even reach him. Officers, those bigots and sadists I confronted, started backstabbing me - spreading the word I'd gone mad! They knew what I was going to do and so they made their moves quicker than the blink of an eye.<end>
+
+=>q17_original
+I couldn't fight it! It felt like one of those dreams where you try to outrun something but you just cannot. You feel slow and sluggish as you run - like your legs are made of pure lead. And you try and you try... but you're too slow... My foes were always ahead of me, spreading their lies...
+
+Eventually I realized it probably wouldn't do a damn thing even if I did manage to speak to the colonel. So I made a conscious decision to leave Fort Apogee with my men, who felt the same way I did.<end>
+
+=>q17
+I couldn't fight it! It felt like one of those dreams where you try to outrun something but you just cannot. You feel slow and sluggish as you run - like your legs are made of pure lead. And you try and you try... but you're too slow... My foes were always ahead of me, spreading their lies...
+
+Eventually I realized it probably wouldn't do a damn thing even if I did manage to speak to the colonel. So I made a conscious decision to leave Fort Apogee with my men, who felt the same way I did.<end>
+
+=>q18_original
+::He sighs.:: That is all there is to it, Corporal. Those were my reasons for leaving Fort Apogee with my men.<end>
+
+=>q18
+::He sighs.:: That is all there is to it, Corporal. Those were my reasons for leaving Fort Apogee with my men.<end>
+
+=>a19_original
+No one is completely innocent.<end>
+
+=>a19
+No one is completely innocent.<end>
+
+=>q20_original
+Hogwash, Corporal! I don't know what the hell you're thinking, but an increasing number of people I was ordered to kill... we were ordered to kill weren't neither bandits, nor raiders, nor Free Drones. They were regular people. Some poor bastards get bullets between their eyes, and the excuse is always "bad intel." Bad intel, but good job, Sergeant Holloway. Good job! You did your duty.<end>
+
+=>q20
+Hogwash, Corporal! I don't know what the hell you're thinking, but an increasing number of people I was ordered to kill... we were ordered to kill weren't neither bandits, nor raiders, nor Free Drones. They were regular people. Some poor bastards get bullets between their eyes, and the excuse is always "bad intel." Bad intel, but good job, Sergeant Holloway. Good job! You did your duty.<end>
+
+=>a21_original
+I don't see what could possibly make you abandon your duty, Holloway.<end>
+
+=>a21
+I don't see what could possibly make you abandon your duty, Holloway.<end>
+
+=>a22_original
+I see you don't want to tell me that, fine. Let's ask a different question.<end>
+
+=>a22
+I see you don't want to tell me that, fine. Let's ask a different question.<end>
+
+=>q23_original
+::Holloway says nothing.::<end>
+
+=>q23
+::Holloway says nothing.::<end>
+
+=>a24_original
+Your story changes everything. Maybe I can talk to the colonel and explain everything to him and convince him not to be too hard on you.<end>
+
+=>a24
+Your story changes everything. Maybe I can talk to the colonel and explain everything to him and convince him not to be too hard on you.<end>
+
+=>q25_original
+Corporal... the only thing we want is to be left alone. I think that is impossible, but if you're willing to give it a shot, then I have no objections.<end>
+
+=>q25
+Corporal... the only thing we want is to be left alone. I think that is impossible, but if you're willing to give it a shot, then I have no objections.<end>
+
+=>a26_original
+I'll be back once I've talked to the colonel.<end>
+
+=>a26
+I'll be back once I've talked to the colonel.<end>
+
+=>q27_original
+::He nods.:: My men will lead you out.
+
+Thank you... Corporal.<end>
+
+=>q27
+::He nods.:: My men will lead you out.
+
+Thank you... Corporal.<end>
+
+=>a28_original
+::Leave.::<end>
+
+=>a28
+::Leave.::<end>
+
+=>a29_original
+You are not hiding very well. The Protectorate knows you're here, as you can see.<end>
+
+=>a29
+You are not hiding very well. The Protectorate knows you're here, as you can see.<end>
+
+=>q30_original
+I never had any illusion that we'd escape the all-seeing eye of the Protectorate. We could have tried making a run for Core City but... we'd bite the dust long before we reached it.<end>
+
+=>q30
+I never had any illusion that we'd escape the all-seeing eye of the Protectorate. We could have tried making a run for Core City but... we'd bite the dust long before we reached it.<end>
+
+=>q31_original
+Here, at least, we can stand proud, for now. We'll see what's going to happen.<end>
+
+=>q31
+Here, at least, we can stand proud, for now. We'll see what's going to happen.<end>
+
+=>a32_original
+I'm here to convince you to return to Fort Apogee and surrender.<end>
+
+=>a32
+I'm here to convince you to return to Fort Apogee and surrender.<end>
+
+=>q33_original
+You sound determined. So, you want me to return and what... be executed for desertion? I know you think I'm not the one who should talk of honor, but I don't see any honor in being shot like a pig.<end>
+
+=>q33
+You sound determined. So, you want me to return and what... be executed for desertion? I know you think I'm not the one who should talk of honor, but I don't see any honor in being shot like a pig.<end>
+
+=>a34_original
+You think you can evade the Protectorate forever?<end>
+
+=>a34
+You think you can evade the Protectorate forever?<end>
+
+=>q35_original
+::He pauses.:: No... No I don't.<end>
+
+=>q35
+::He pauses.:: No... No I don't.<end>
+
+=>q36_original
+I mean, a whole platoon could be waiting in a dark tunnel to attack, for all I know. Maybe this is the end.<end>
+
+=>q36
+I mean, a whole platoon could be waiting in a dark tunnel to attack, for all I know. Maybe this is the end.<end>
+
+=>a37_original
+::[Persuade]:: You can't escape court-martial, but, if you surrender peacefully, you might get off easier. It's still better than getting shot.<end>
+
+=>a37
+::[Persuade]:: You can't escape court-martial, but, if you surrender peacefully, you might get off easier. It's still better than getting shot.<end>
+
+=>q38_original
+::All eyes seem to be on Holloway. His men are standing still, waiting for his response. They know what he says next is going to be very crucial. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::<end>
+
+=>q38
+::All eyes seem to be on Holloway. His men are standing still, waiting for his response. They know what he says next is going to be very crucial. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::<end>
+
+=>q39_original
+You convinced me, Corporal. We will surrender peacefully. <end>
+
+=>q39
+You convinced me, Corporal. We will surrender peacefully. <end>
+
+=>a40_original
+Glad you were reasonable, Holloway. Time to move.<end>
+
+=>a40
+Glad you were reasonable, Holloway. Time to move.<end>
+
+=>q41_original
+::He turns to his men.:: We're moving out, soldiers. ASAP! Get your stuff and move out.
+
+We're returning to Fort Apogee.<end>
+
+=>q41
+::He turns to his men.:: We're moving out, soldiers. ASAP! Get your stuff and move out.
+
+We're returning to Fort Apogee.<end>
+
+=>a42_original
+::Watch them as they leave.::<end>
+
+=>a42
+::Watch them as they leave.::<end>
+
+=>q43_original
+So I'll rot like a pig for the rest of my life? That's not an option I'm interested in.<end>
+
+=>q43
+So I'll rot like a pig for the rest of my life? That's not an option I'm interested in.<end>
+
+=>a44_original
+::[Intimidate]:: If you don't surrender now, you will be shot like a pig anyway. Not just you, all men you've basically led to death.<end>
+
+=>a44
+::[Intimidate]:: If you don't surrender now, you will be shot like a pig anyway. Not just you, all men you've basically led to death.<end>
+
+=>q45_original
+::All eyes are on Holloway. His men are waiting for his crucial response. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::
+<end>
+
+=>q45
+::All eyes are on Holloway. His men are waiting for his crucial response. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::
+<end>
+
+=>q46_original
+They followed me willingly, Corporal. And if we're destined to be shot... like pigs if it must be so, then we'll do it as free men.<end>
+
+=>q46
+They followed me willingly, Corporal. And if we're destined to be shot... like pigs if it must be so, then we'll do it as free men.<end>
+
+=>a47_original
+I have other questions.<end>
+
+=>a47
+I have other questions.<end>
+
+=>q48_original
+Of course, Corporal.<end>
+
+=>q48
+Of course, Corporal.<end>
+
+=>a49_original
+I convinced the colonel to reduce your punishment. He will also start an investigation that is to determine if what you told me is true.<end>
+
+=>a49
+I convinced the colonel to reduce your punishment. He will also start an investigation that is to determine if what you told me is true.<end>
+
+=>q50_original
+::Holloway seems relieved.::
+
+Well... it's better than I expected, it most certainly is...<end>
+
+=>q50
+::Holloway seems relieved.::
+
+Well... it's better than I expected, it most certainly is...<end>
+
+=>a51_original
+You do have to return to Fort Apogee and turn in all your equipment. You will still face court-martial, but I doubt the punishment will be as severe.<end>
+
+=>a51
+You do have to return to Fort Apogee and turn in all your equipment. You will still face court-martial, but I doubt the punishment will be as severe.<end>
+
+=>q52_original
+That is something I'm willing to accept. Corporal, I must thank you for this. You've helped us so much.
+
+We will head to Fort Apogee at once. ::He salutes you, then turns to his men.::
+
+Alright, soldiers, let's move out.<end>
+
+=>q52
+That is something I'm willing to accept. Corporal, I must thank you for this. You've helped us so much.
+
+We will head to Fort Apogee at once. ::He salutes you, then turns to his men.::
+
+Alright, soldiers, let's move out.<end>
+
+=>a53_original
+I need to leave, but I'll return again.<end>
+
+=>a53
+I need to leave, but I'll return again.<end>
+
+=>a54_original
+I think we're done here, Holloway. You'll get the Protectorate answer shortly.<end>
+
+=>a54
+I think we're done here, Holloway. You'll get the Protectorate answer shortly.<end>
+
+=>q55_original
+I'll be waiting for it. Goodbye, Corporal. Have a good life.<end>
+
+=>q55
+I'll be waiting for it. Goodbye, Corporal. Have a good life.<end>
+
+=>a56_original
+::Leave.::<end>
+
+=>a56
+::Leave.::<end>
+
+=>a57_original
+I'm going to kill you all, you honorless bastards! ::Attack!::<end>
+
+=>a57
+I'm going to kill you all, you honorless bastards! ::Attack!::<end>
+
+=>a58_original
+You gave away your rank when you abandoned your duty, Holloway. I'm Corporal $(context.player.Name).<end>
+
+=>a58
+You gave away your rank when you abandoned your duty, Holloway. I'm Corporal $(context.player.Name).<end>
+
+=>q59_original
+Perhaps, Corporal, perhaps... I know what I did - what we all did. But to these few men, I'm still Sarge. And in all honesty, that's what matters more to me.<end>
+
+=>q59
+Perhaps, Corporal, perhaps... I know what I did - what we all did. But to these few men, I'm still Sarge. And in all honesty, that's what matters more to me.<end>
+
+=>q60_original
+So, Corporal, here you are. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I had left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q60
+So, Corporal, here you are. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I had left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q61_original
+We meet again, Corporal.<end>
+
+=>q61
+We meet again, Corporal.<end>
+

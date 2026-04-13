@@ -1,0 +1,120 @@
+=>q1_original
+Hey, $(#caveman/cavewoman), ya can't go downstairs.<end>
+
+=>q1
+Hey, $(#caveman/cavewoman), ya can't go downstairs.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What's down there?<end>
+
+=>a3
+What's down there?<end>
+
+=>q4_original
+Pain if ya don't stay away.<end>
+
+=>q4
+Pain if ya don't stay away.<end>
+
+=>a5_original
+You can't stop me, woman. I go where I please.<end>
+
+=>a5
+You can't stop me, woman. I go where I please.<end>
+
+=>q6_original
+Oh, I can. Take one step down those stairs and I'll turn ya into a pancake. Dig?<end>
+
+=>q6
+Oh, I can. Take one step down those stairs and I'll turn ya into a pancake. Dig?<end>
+
+=>a7_original
+Dig.<end>
+
+=>a7
+Dig.<end>
+
+=>q8_original
+Good...<end>
+
+=>q8
+Good...<end>
+
+=>a9_original
+I. Go. Where. I. Please. ::Attack!::<end>
+
+=>a9
+I. Go. Where. I. Please. ::Attack!::<end>
+
+=>a10_original
+Okay, I'll remember that.<end>
+
+=>a10
+Okay, I'll remember that.<end>
+
+=>a11_original
+Don't worry, I wasn't planning on going down there anyway.<end>
+
+=>a11
+Don't worry, I wasn't planning on going down there anyway.<end>
+
+=>a12_original
+::Ignore her.::<end>
+
+=>a12
+::Ignore her.::<end>
+
+=>q13_original
+Don't do nothin' stupid, $(#caveman/cavewoman).<end>
+
+=>q13
+Don't do nothin' stupid, $(#caveman/cavewoman).<end>
+
+=>a14_original
+We'll see about that. ::Attack!::<end>
+
+=>a14
+We'll see about that. ::Attack!::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+I've got my eyes on ya.<end>
+
+=>q16
+I've got my eyes on ya.<end>
+
+=>q17_original
+Whatcha want, $(#caveman/cavewoman)?<end>
+
+=>q17
+Whatcha want, $(#caveman/cavewoman)?<end>
+
+=>q18_original
+Don't test my patience.<end>
+
+=>q18
+Don't test my patience.<end>
+
+=>q19_original
+Ya lookin' for Marty? He's in the shop. Can't miss it.<end>
+
+=>q19
+Ya lookin' for Marty? He's in the shop. Can't miss it.<end>
+
+=>q20_original
+Watch it, $(#caveman/cavewoman).<end>
+
+=>q20
+Watch it, $(#caveman/cavewoman).<end>
+

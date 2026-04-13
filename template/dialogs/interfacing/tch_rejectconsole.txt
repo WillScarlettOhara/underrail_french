@@ -1,0 +1,66 @@
+=>q1_original
+::This console seems to control the holding cells nearby.::<end>
+
+=>q1
+::This console seems to control the holding cells nearby.::<end>
+
+=>q2_original
+:: The controls are locked out and require a keycard to unlock.::<end>
+
+=>q2
+:: The controls are locked out and require a keycard to unlock.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Insert the key card.::<end>
+
+=>a4
+::Insert the key card.::<end>
+
+=>q5_original
+::You manage to gain access to the controls by using the key card.::<end>
+
+=>q5
+::You manage to gain access to the controls by using the key card.::<end>
+
+=>a6_original
+::[Hacking] Attempt to hack the console.::<end>
+
+=>a6
+::[Hacking] Attempt to hack the console.::<end>
+
+=>q7_original
+::You manage to hack the controls.::<end>
+
+=>q7
+::You manage to hack the controls.::<end>
+
+=>q8_original
+::You fail to hack the controls.::<end>
+
+=>q8
+::You fail to hack the controls.::<end>
+
+=>a9_original
+::Lock all holding cells.::<end>
+
+=>a9
+::Lock all holding cells.::<end>
+
+=>a10_original
+::Unlock all holding cells.::<end>
+
+=>a10
+::Unlock all holding cells.::<end>
+
+=>a11_original
+::Leave.::<end>
+
+=>a11
+::Leave.::<end>
+

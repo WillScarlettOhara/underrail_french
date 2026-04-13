@@ -1,0 +1,418 @@
+=>q1_original
+::The man greets you with a warm smile.::
+
+Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?<end>
+
+=>q1
+::The man greets you with a warm smile.::
+
+Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Know anything about that scavenger from Mushroom Cove?<end>
+
+=>a3
+Know anything about that scavenger from Mushroom Cove?<end>
+
+=>q4_original
+Well, one of the guards found <end>
+
+=>q4
+Well, one of the guards found <end>
+
+=>q5_original
+him <end>
+
+=>q5
+him <end>
+
+=>q6_original
+there, dying, just as I was starting my shift some hours ago. <end>
+
+=>q6
+there, dying, just as I was starting my shift some hours ago. <end>
+
+=>q7_original
+$(tempContext.wasteWaterPronounCap) <end>
+
+=>q7
+$(tempContext.wasteWaterPronounCap) <end>
+
+=>q8_original
+was horribly mutated, covered in green tumors and all. <end>
+
+=>q8
+was horribly mutated, covered in green tumors and all. <end>
+
+=>q9_original
+Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.<end>
+
+=>q9
+Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.<end>
+
+=>a10_original
+Did he manage to say who did this to him?<end>
+
+=>a10
+Did he manage to say who did this to him?<end>
+
+=>q11_original
+No. Mushroom Cove's full of psi beetles<end>
+
+=>q11
+No. Mushroom Cove's full of psi beetles<end>
+
+=>q12_original
+. Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different from anything I've seen the beetles do.<end>
+
+=>q12
+. Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different from anything I've seen the beetles do.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+How do I get to Mushroom Cove?<end>
+
+=>a14
+How do I get to Mushroom Cove?<end>
+
+=>q15_original
+It's a wet cave a bit south from here. <end>
+
+=>q15
+It's a wet cave a bit south from here. <end>
+
+=>q16_original
+But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
+
+=>q16
+But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
+
+=>q17_original
+But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...<end>
+
+=>q17
+But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...<end>
+
+=>a18_original
+That's everything I needed to know.<end>
+
+=>a18
+That's everything I needed to know.<end>
+
+=>q19_original
+::He nods.:: Heading out?<end>
+
+=>q19
+::He nods.:: Heading out?<end>
+
+=>a20_original
+That's everything I needed to know. I need to get out into the caves.<end>
+
+=>a20
+That's everything I needed to know. I need to get out into the caves.<end>
+
+=>q21_original
+You didn't get your access card yet, right? Yes. Should be around here somewhere... 
+
+::He starts looking through the drawers.::<end>
+
+=>q21
+You didn't get your access card yet, right? Yes. Should be around here somewhere... 
+
+::He starts looking through the drawers.::<end>
+
+=>q22_original
+There it is. ::He produces a red access card and passes it to you.::
+
+Now listen here, this is the procedure...<end>
+
+=>q22
+There it is. ::He produces a red access card and passes it to you.::
+
+Now listen here, this is the procedure...<end>
+
+=>q23_original
+When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.<end>
+
+=>q23
+When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.<end>
+
+=>q24_original
+Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.<end>
+
+=>q24
+Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.<end>
+
+=>q25_original
+Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.<end>
+
+=>q25
+Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.<end>
+
+=>a26_original
+What if I *do* contract a disease?<end>
+
+=>a26
+What if I *do* contract a disease?<end>
+
+=>q27_original
+Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.<end>
+
+=>q27
+Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.<end>
+
+=>q28_original
+::He chuckles.:: Just kidding... or am I.<end>
+
+=>q28
+::He chuckles.:: Just kidding... or am I.<end>
+
+=>a29_original
+Understood.<end>
+
+=>a29
+Understood.<end>
+
+=>q30_original
+So, you going or what?<end>
+
+=>q30
+So, you going or what?<end>
+
+=>q31_original
+ but this doesn't look like a product of their psionics. <end>
+
+=>q31
+ but this doesn't look like a product of their psionics. <end>
+
+=>a32_original
+Did she manage to say who did this to her?<end>
+
+=>a32
+Did she manage to say who did this to her?<end>
+
+=>q33_original
+was severely burnt, smelled horribly. <end>
+
+=>q33
+was severely burnt, smelled horribly. <end>
+
+=>q34_original
+had so many gunshot wounds it was impossible to count them all. <end>
+
+=>q34
+had so many gunshot wounds it was impossible to count them all. <end>
+
+=>q35_original
+was badly electrocuted, smelled horribly. <end>
+
+=>q35
+was badly electrocuted, smelled horribly. <end>
+
+=>q36_original
+was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. <end>
+
+=>q36
+was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. <end>
+
+=>q37_original
+was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. <end>
+
+=>q37
+was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. <end>
+
+=>q38_original
+her <end>
+
+=>q38
+her <end>
+
+=>a39_original
+I need to get out into the caves.<end>
+
+=>a39
+I need to get out into the caves.<end>
+
+=>a40_original
+Open the gate, please. I'm off to the caves.<end>
+
+=>a40
+Open the gate, please. I'm off to the caves.<end>
+
+=>a41_original
+Open the gate, please. I'm off to the caves.<end>
+
+=>a41
+Open the gate, please. I'm off to the caves.<end>
+
+=>q42_original
+::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.<end>
+
+=>q42
+::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.<end>
+
+=>a43_original
+Thanks, I'll keep that in mind.<end>
+
+=>a43
+Thanks, I'll keep that in mind.<end>
+
+=>q44_original
+You're good to go.<end>
+
+=>q44
+You're good to go.<end>
+
+=>a45_original
+Everyone knows that.<end>
+
+=>a45
+Everyone knows that.<end>
+
+=>q46_original
+Just trying to help you out. <end>
+
+=>q46
+Just trying to help you out. <end>
+
+=>a47_original
+I want to stomp them out, not scare them away.<end>
+
+=>a47
+I want to stomp them out, not scare them away.<end>
+
+=>q48_original
+Well then... try not to lose a foot. <end>
+
+=>q48
+Well then... try not to lose a foot. <end>
+
+=>a49_original
+Not right now.<end>
+
+=>a49
+Not right now.<end>
+
+=>q50_original
+$(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
+
+=>q50
+$(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
+
+=>a51_original
+What for?<end>
+
+=>a51
+What for?<end>
+
+=>q52_original
+Don't know, but something's going on, $(context.player.Name). I've never seen her like this. 
+
+Just go to her.<end>
+
+=>q52
+Don't know, but something's going on, $(context.player.Name). I've never seen her like this. 
+
+Just go to her.<end>
+
+=>a53_original
+I will. See you later.<end>
+
+=>a53
+I will. See you later.<end>
+
+=>q54_original
+You aren't planning on disappearing like Tanner did, right? ::He chuckles.:: Ignore that.<end>
+
+=>q54
+You aren't planning on disappearing like Tanner did, right? ::He chuckles.:: Ignore that.<end>
+
+=>q55_original
+You be careful out there. No one's safe from now 'cause of the Faceless.<end>
+
+=>q55
+You be careful out there. No one's safe from now 'cause of the Faceless.<end>
+
+=>q56_original
+You know, I saw that dead scavenger as <end>
+
+=>q56
+You know, I saw that dead scavenger as <end>
+
+=>q57_original
+he <end>
+
+=>q57
+he <end>
+
+=>q58_original
+was being carried to medical. ::He shakes his head.::<end>
+
+=>q58
+was being carried to medical. ::He shakes his head.::<end>
+
+=>a59_original
+I've seen the body myself. What do you know about it?<end>
+
+=>a59
+I've seen the body myself. What do you know about it?<end>
+
+=>q60_original
+Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
+
+=>q60
+Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
+
+=>a61_original
+I heard about that. What happened?<end>
+
+=>a61
+I heard about that. What happened?<end>
+
+=>a62_original
+Tell me more.<end>
+
+=>a62
+Tell me more.<end>
+
+=>a63_original
+I'd rather not discuss that.<end>
+
+=>a63
+I'd rather not discuss that.<end>
+
+=>q64_original
+Fair enough. <end>
+
+=>q64
+Fair enough. <end>
+
+=>q65_original
+Going somewhere?<end>
+
+=>q65
+Going somewhere?<end>
+
+=>a66_original
+Don't know, don't wanna know.<end>
+
+=>a66
+Don't know, don't wanna know.<end>
+
+=>q67_original
+she <end>
+
+=>q67
+she <end>
+

@@ -1,0 +1,78 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Stay vicious, $(context.player.Name).<end>
+
+=>q2
+Stay vicious, $(context.player.Name).<end>
+
+=>q3_original
+Death to Protectorate!<end>
+
+=>q3
+Death to Protectorate!<end>
+
+=>q4_original
+For Freedom.<end>
+
+=>q4
+For Freedom.<end>
+
+=>q5_original
+SRO is ours. ::Raises fist in the air.::<end>
+
+=>q5
+SRO is ours. ::Raises fist in the air.::<end>
+
+=>q6_original
+No Cans in sight... for now.<end>
+
+=>q6
+No Cans in sight... for now.<end>
+
+=>q7_original
+We'll make the bastards pay for killing Shred!<end>
+
+=>q7
+We'll make the bastards pay for killing Shred!<end>
+
+=>q8_original
+He died for the Free Drones - Kokoschka, a true warrior!<end>
+
+=>q8
+He died for the Free Drones - Kokoschka, a true warrior!<end>
+
+=>q9_original
+Victory sure feels good.<end>
+
+=>q9
+Victory sure feels good.<end>
+
+=>q10_original
+Thanks for freeing our boys, $(#man/sister).<end>
+
+=>q10
+Thanks for freeing our boys, $(#man/sister).<end>
+
+=>q11_original
+We sure smashed those Cans, right?<end>
+
+=>q11
+We sure smashed those Cans, right?<end>
+
+=>q12_original
+Anarchy!<end>
+
+=>q12
+Anarchy!<end>
+
+=>q13_original
+One day, Fort Apogee will burn!<end>
+
+=>q13
+One day, Fort Apogee will burn!<end>
+

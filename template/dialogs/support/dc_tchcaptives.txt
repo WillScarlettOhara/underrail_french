@@ -1,0 +1,182 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::Nods, but remains silent.::<end>
+
+=>q2
+::Nods, but remains silent.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Thank you for helping us, $(#brother/sister). We will forever be in your debt.<end>
+
+=>q4
+Thank you for helping us, $(#brother/sister). We will forever be in your debt.<end>
+
+=>q5_original
+Tchort is Evolution, $(#brother/sister).<end>
+
+=>q5
+Tchort is Evolution, $(#brother/sister).<end>
+
+=>q6_original
+The Faceless are not invulnerable. We can and will prevail.<end>
+
+=>q6
+The Faceless are not invulnerable. We can and will prevail.<end>
+
+=>q7_original
+We're getting out of here!<end>
+
+=>q7
+We're getting out of here!<end>
+
+=>q8_original
+::Silently observes you.::<end>
+
+=>q8
+::Silently observes you.::<end>
+
+=>q9_original
+::When looking at the rassophore trio behind bars it is difficult not to notice the undignified state they are in; the torn robes covered with filth and dried blood, the awful smell of staleness, sweat and gunpowder mixed together, the masks twisted from all the damage that they've absorbed all together paint one truly miserable image.
+
+They take a glance at you before one of them decides to speak first.:: <end>
+
+=>q9
+::When looking at the rassophore trio behind bars it is difficult not to notice the undignified state they are in; the torn robes covered with filth and dried blood, the awful smell of staleness, sweat and gunpowder mixed together, the masks twisted from all the damage that they've absorbed all together paint one truly miserable image.
+
+They take a glance at you before one of them decides to speak first.:: <end>
+
+=>q10_original
+Are my eyes deceiving me? Your Notability... you are here to liberate us?<end>
+
+=>q10
+Are my eyes deceiving me? Your Notability... you are here to liberate us?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+Yes, brothers and sister. Now is your time to get out of here. GO!<end>
+
+=>a12
+Yes, brothers and sister. Now is your time to get out of here. GO!<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+Thank you, thank you very much for this, $(#brother/sister). We will be heading straight to Cytosine Outpost and will meet you there! Tchort guide you!<end>
+
+=>q14
+Thank you, thank you very much for this, $(#brother/sister). We will be heading straight to Cytosine Outpost and will meet you there! Tchort guide you!<end>
+
+=>a15_original
+::Let them leave.::<end>
+
+=>a15
+::Let them leave.::<end>
+
+=>q16_original
+Thank you, thank you very much for this! We will be heading west towards our base, the cavern beyond the main Hollow Earth cavern. We hope some of us, Tchortists, are still there, but if so, then it should be a safe... safer place from the devolved Faceless!
+
+Tchort guide you!<end>
+
+=>q16
+Thank you, thank you very much for this! We will be heading west towards our base, the cavern beyond the main Hollow Earth cavern. We hope some of us, Tchortists, are still there, but if so, then it should be a safe... safer place from the devolved Faceless!
+
+Tchort guide you!<end>
+
+=>a17_original
+Yes, but the area has not yet been secured. I will return to you once it's safe to escape.<end>
+
+=>a17
+Yes, but the area has not yet been secured. I will return to you once it's safe to escape.<end>
+
+=>q18_original
+Tchort guide you. We will be waiting for your return.<end>
+
+=>q18
+Tchort guide you. We will be waiting for your return.<end>
+
+=>q19_original
+Tchort guide you, whoever you are. We will be waiting for your return.<end>
+
+=>q19
+Tchort guide you, whoever you are. We will be waiting for your return.<end>
+
+=>a20_original
+Nah... I'm here to kill you! ::Attack!::<end>
+
+=>a20
+Nah... I'm here to kill you! ::Attack!::<end>
+
+=>q21_original
+Are my eyes deceiving me? $(#Brother/Sister)... you are here to liberate us?<end>
+
+=>q21
+Are my eyes deceiving me? $(#Brother/Sister)... you are here to liberate us?<end>
+
+=>q22_original
+Are my eyes deceiving me? Who are you...? Are you here to help us?<end>
+
+=>q22
+Are my eyes deceiving me? Who are you...? Are you here to help us?<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+Yes, and your path to freedom is clear. Better hurry up!<end>
+
+=>a24
+Yes, and your path to freedom is clear. Better hurry up!<end>
+
+=>a25_original
+You are free to leave this place. Move it!<end>
+
+=>a25
+You are free to leave this place. Move it!<end>
+
+=>q26_original
+Is the area secured?<end>
+
+=>q26
+Is the area secured?<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+Yes. Now is your time to get out of here. GO!<end>
+
+=>a28
+Yes. Now is your time to get out of here. GO!<end>
+
+=>a29_original
+Not yet, but I'm working on it.<end>
+
+=>a29
+Not yet, but I'm working on it.<end>
+

@@ -1,0 +1,180 @@
+=>q1_original
+::You spot a robed figure doing something to an electronic lock. He had just turned his head away from the direction you came from and was checking out the opposite one, giving you a bit of extra time during which you will not be observed observing him.::<end>
+
+=>q1
+::You spot a robed figure doing something to an electronic lock. He had just turned his head away from the direction you came from and was checking out the opposite one, giving you a bit of extra time during which you will not be observed observing him.::<end>
+
+=>q2_original
+::There's a haxxor in his hands, its screen casting light inside his hood, illuminating his confusion or maybe irritation - or most likely a bit of both.
+
+But he then senses your presence: He calmly conceals his hacking device, and walks away as if nothing unusual is happening.::<end>
+
+=>q2
+::There's a haxxor in his hands, its screen casting light inside his hood, illuminating his confusion or maybe irritation - or most likely a bit of both.
+
+But he then senses your presence: He calmly conceals his hacking device, and walks away as if nothing unusual is happening.::<end>
+
+=>a3_original
+One moment, sir. I'm a Praetorian Enforcer. What were you doing just now with that electronic lock?<end>
+
+=>a3
+One moment, sir. I'm a Praetorian Enforcer. What were you doing just now with that electronic lock?<end>
+
+=>q4_original
+::He smiles affably.::
+
+I was merely looking around. I never got the impression that I'm not supposed to be here.<end>
+
+=>q4
+::He smiles affably.::
+
+I was merely looking around. I never got the impression that I'm not supposed to be here.<end>
+
+=>a5_original
+What about that haxxor you're hiding? Is that for looking around?<end>
+
+=>a5
+What about that haxxor you're hiding? Is that for looking around?<end>
+
+=>q6_original
+Look, efreit-- ::His smile grows even wider.:: Eh, enforcer. I come from *the* Institute of Tchort. I'm here on an important mission, one of great diplomatic and educational importance. If you were to take any, mmm, injudicious actions now, you'll only get yourself in trouble with your superiors, I'm sure.
+
+I hope we understand each other.<end>
+
+=>q6
+Look, efreit-- ::His smile grows even wider.:: Eh, enforcer. I come from *the* Institute of Tchort. I'm here on an important mission, one of great diplomatic and educational importance. If you were to take any, mmm, injudicious actions now, you'll only get yourself in trouble with your superiors, I'm sure.
+
+I hope we understand each other.<end>
+
+=>a7_original
+I'm still going to need to take you to the HQ. Standard protocol. Would you kindly follow me, sir?<end>
+
+=>a7
+I'm still going to need to take you to the HQ. Standard protocol. Would you kindly follow me, sir?<end>
+
+=>q8_original
+::He wastes no time and makes the first move...::<end>
+
+=>q8
+::He wastes no time and makes the first move...::<end>
+
+=>a9_original
+::Fight!::<end>
+
+=>a9
+::Fight!::<end>
+
+=>a10_original
+Tell that to the judge, crook. You're coming with me.<end>
+
+=>a10
+Tell that to the judge, crook. You're coming with me.<end>
+
+=>a11_original
+You're free to go, sir. Enjoy your time in Core City.<end>
+
+=>a11
+You're free to go, sir. Enjoy your time in Core City.<end>
+
+=>q12_original
+Thank you. ::He bows politely and walks away.::<end>
+
+=>q12
+Thank you. ::He bows politely and walks away.::<end>
+
+=>a13_original
+We do: I'll leave the superiors out of this. ::Attack!::<end>
+
+=>a13
+We do: I'll leave the superiors out of this. ::Attack!::<end>
+
+=>a14_original
+You were definitely doing something, and I want to know what.<end>
+
+=>a14
+You were definitely doing something, and I want to know what.<end>
+
+=>a15_original
+I don't like your face.<end>
+
+=>a15
+I don't like your face.<end>
+
+=>a16_original
+This part of the city is very dangerous, sir, but that doesn't necessarily mean you're not allowed to be here. Well, carry on then.<end>
+
+=>a16
+This part of the city is very dangerous, sir, but that doesn't necessarily mean you're not allowed to be here. Well, carry on then.<end>
+
+=>a17_original
+One moment, sir. I'm a Praetorian Senior Enforcer. What were you doing just now with that electronic lock?<end>
+
+=>a17
+One moment, sir. I'm a Praetorian Senior Enforcer. What were you doing just now with that electronic lock?<end>
+
+=>a18_original
+Hey, what were you doing there?<end>
+
+=>a18
+Hey, what were you doing there?<end>
+
+=>q19_original
+::He ignores you and walks away.::<end>
+
+=>q19
+::He ignores you and walks away.::<end>
+
+=>a20_original
+What's behind the door?<end>
+
+=>a20
+What's behind the door?<end>
+
+=>a21_original
+::Do nothing.::<end>
+
+=>a21
+::Do nothing.::<end>
+
+=>q22_original
+::He walks away.::<end>
+
+=>q22
+::He walks away.::<end>
+
+=>a23_original
+Not so fast! ::Attack!::<end>
+
+=>a23
+Not so fast! ::Attack!::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+Stay away, inbred!<end>
+
+=>q25
+Stay away, inbred!<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+::Shakes head and averts his eyes.::<end>
+
+=>q27
+::Shakes head and averts his eyes.::<end>
+
+=>q28_original
+::Ignores you.::<end>
+
+=>q28
+::Ignores you.::<end>
+

@@ -1,0 +1,1122 @@
+=>q1_original
+Zero penetration.<end>
+
+=>q1
+Zero penetration.<end>
+
+=>q2_original
+Ineffective.<end>
+
+=>q2
+Ineffective.<end>
+
+=>q3_original
+Inadequate.<end>
+
+=>q3
+Inadequate.<end>
+
+=>q4_original
+Shield stable.<end>
+
+=>q4
+Shield stable.<end>
+
+=>q5_original
+Shield up.<end>
+
+=>q5
+Shield up.<end>
+
+=>q6_original
+Shield emitter still active.<end>
+
+=>q6
+Shield emitter still active.<end>
+
+=>q7_original
+You should've trained harder.<end>
+
+=>q7
+You should've trained harder.<end>
+
+=>q8_original
+Denied.<end>
+
+=>q8
+Denied.<end>
+
+=>q9_original
+That is not going to work.<end>
+
+=>q9
+That is not going to work.<end>
+
+=>q10_original
+I'm hit!<end>
+
+=>q10
+I'm hit!<end>
+
+=>q11_original
+I've been hit!<end>
+
+=>q11
+I've been hit!<end>
+
+=>q12_original
+Hhhhh...<end>
+
+=>q12
+Hhhhh...<end>
+
+=>q13_original
+Hnnn...<end>
+
+=>q13
+Hnnn...<end>
+
+=>q14_original
+Phhhh...<end>
+
+=>q14
+Phhhh...<end>
+
+=>q15_original
+Ahhh...<end>
+
+=>q15
+Ahhh...<end>
+
+=>q16_original
+Medic!<end>
+
+=>q16
+Medic!<end>
+
+=>q17_original
+Taking a lot of heat here!<end>
+
+=>q17
+Taking a lot of heat here!<end>
+
+=>q18_original
+::Pukes blood.::<end>
+
+=>q18
+::Pukes blood.::<end>
+
+=>q19_original
+Need a medic over here! ASAP!<end>
+
+=>q19
+Need a medic over here! ASAP!<end>
+
+=>q20_original
+Ooof!<end>
+
+=>q20
+Ooof!<end>
+
+=>q21_original
+You got lucky.<end>
+
+=>q21
+You got lucky.<end>
+
+=>q22_original
+Ooogh...<end>
+
+=>q22
+Ooogh...<end>
+
+=>q23_original
+Ah--<end>
+
+=>q23
+Ah--<end>
+
+=>q24_original
+Arr--<end>
+
+=>q24
+Arr--<end>
+
+=>q25_original
+Taking fire!<end>
+
+=>q25
+Taking fire!<end>
+
+=>q26_original
+It burns!<end>
+
+=>q26
+It burns!<end>
+
+=>q27_original
+The... burning...<end>
+
+=>q27
+The... burning...<end>
+
+=>q28_original
+C-c-c...<end>
+
+=>q28
+C-c-c...<end>
+
+=>q29_original
+Brrr...<end>
+
+=>q29
+Brrr...<end>
+
+=>q30_original
+The c-c-cold...<end>
+
+=>q30
+The c-c-cold...<end>
+
+=>q31_original
+I'm... Hnnnn...<end>
+
+=>q31
+I'm... Hnnnn...<end>
+
+=>q32_original
+Mmm... hmhmh...<end>
+
+=>q32
+Mmm... hmhmh...<end>
+
+=>q33_original
+It's freez-z-z-z...<end>
+
+=>q33
+It's freez-z-z-z...<end>
+
+=>q34_original
+Can't... aim...<end>
+
+=>q34
+Can't... aim...<end>
+
+=>q35_original
+Unable... to... focus...<end>
+
+=>q35
+Unable... to... focus...<end>
+
+=>q36_original
+Flashed!<end>
+
+=>q36
+Flashed!<end>
+
+=>q37_original
+Can't see anything!<end>
+
+=>q37
+Can't see anything!<end>
+
+=>q38_original
+My... head...<end>
+
+=>q38
+My... head...<end>
+
+=>q39_original
+The pressure...<end>
+
+=>q39
+The pressure...<end>
+
+=>q40_original
+::Grabs head.:: Hnnn...<end>
+
+=>q40
+::Grabs head.:: Hnnn...<end>
+
+=>q41_original
+Took... one to the knee!<end>
+
+=>q41
+Took... one to the knee!<end>
+
+=>q42_original
+My knee... Medic!<end>
+
+=>q42
+My knee... Medic!<end>
+
+=>q43_original
+It went through my boot!<end>
+
+=>q43
+It went through my boot!<end>
+
+=>q44_original
+Caltrops!<end>
+
+=>q44
+Caltrops!<end>
+
+=>q45_original
+Watch the ground!<end>
+
+=>q45
+Watch the ground!<end>
+
+=>q46_original
+It got my leg!<end>
+
+=>q46
+It got my leg!<end>
+
+=>q47_original
+We got snappers!<end>
+
+=>q47
+We got snappers!<end>
+
+=>q48_original
+::Coughs.::<end>
+
+=>q48
+::Coughs.::<end>
+
+=>q49_original
+Gas! G-g... ::Coughs.::<end>
+
+=>q49
+Gas! G-g... ::Coughs.::<end>
+
+=>q50_original
+Can't... breathe...<end>
+
+=>q50
+Can't... breathe...<end>
+
+=>q51_original
+Masks!<end>
+
+=>q51
+Masks!<end>
+
+=>q52_original
+M-medic...<end>
+
+=>q52
+M-medic...<end>
+
+=>q53_original
+Condition... critical...<end>
+
+=>q53
+Condition... critical...<end>
+
+=>q54_original
+We're... being... overrun...<end>
+
+=>q54
+We're... being... overrun...<end>
+
+=>q55_original
+Requesting... med... m-m-m...<end>
+
+=>q55
+Requesting... med... m-m-m...<end>
+
+=>q56_original
+I am on fire!<end>
+
+=>q56
+I am on fire!<end>
+
+=>q57_original
+It burns!<end>
+
+=>q57
+It burns!<end>
+
+=>q58_original
+::Frantically tries to pat the fire out.::<end>
+
+=>q58
+::Frantically tries to pat the fire out.::<end>
+
+=>q59_original
+Mobility... hindered...<end>
+
+=>q59
+Mobility... hindered...<end>
+
+=>q60_original
+Cold...<end>
+
+=>q60
+Cold...<end>
+
+=>q61_original
+::Shivers.::<end>
+
+=>q61
+::Shivers.::<end>
+
+=>q62_original
+I've been immobilized!<end>
+
+=>q62
+I've been immobilized!<end>
+
+=>q63_original
+Unable to move! Requesting assistance!<end>
+
+=>q63
+Unable to move! Requesting assistance!<end>
+
+=>q64_original
+::Struggles to move.::<end>
+
+=>q64
+::Struggles to move.::<end>
+
+=>q65_original
+I'm surrounded! Tangos attacking from all directions!<end>
+
+=>q65
+I'm surrounded! Tangos attacking from all directions!<end>
+
+=>q66_original
+Free-fire zone!<end>
+
+=>q66
+Free-fire zone!<end>
+
+=>q67_original
+Unable... to... aim... properly...<end>
+
+=>q67
+Unable... to... aim... properly...<end>
+
+=>q68_original
+Everything... is... spinning...<end>
+
+=>q68
+Everything... is... spinning...<end>
+
+=>q69_original
+Squad, retreat!<end>
+
+=>q69
+Squad, retreat!<end>
+
+=>q70_original
+Fall back!<end>
+
+=>q70
+Fall back!<end>
+
+=>q71_original
+Hnnn... My chest!<end>
+
+=>q71
+Hnnn... My chest!<end>
+
+=>q72_original
+::Grabs chest.:: My ribs...<end>
+
+=>q72
+::Grabs chest.:: My ribs...<end>
+
+=>q73_original
+No! NO! I feel it in my head!<end>
+
+=>q73
+No! NO! I feel it in my head!<end>
+
+=>q74_original
+Intruders... in... my... aghhhh...<end>
+
+=>q74
+Intruders... in... my... aghhhh...<end>
+
+=>q75_original
+Medic! Need bandaging!<end>
+
+=>q75
+Medic! Need bandaging!<end>
+
+=>q76_original
+I'm bleeding!<end>
+
+=>q76
+I'm bleeding!<end>
+
+=>q77_original
+I'm hemorrhaging. Medic!<end>
+
+=>q77
+I'm hemorrhaging. Medic!<end>
+
+=>q78_original
+Squad, form up!<end>
+
+=>q78
+Squad, form up!<end>
+
+=>q79_original
+Hostiles, my sector.<end>
+
+=>q79
+Hostiles, my sector.<end>
+
+=>q80_original
+Clear the area!<end>
+
+=>q80
+Clear the area!<end>
+
+=>q81_original
+Got my eyes on the enemy.<end>
+
+=>q81
+Got my eyes on the enemy.<end>
+
+=>q82_original
+Hostiles in sight.<end>
+
+=>q82
+Hostiles in sight.<end>
+
+=>q83_original
+Flank 'em!<end>
+
+=>q83
+Flank 'em!<end>
+
+=>q84_original
+In position.<end>
+
+=>q84
+In position.<end>
+
+=>q85_original
+Stay alert, squad!<end>
+
+=>q85
+Stay alert, squad!<end>
+
+=>q86_original
+Orders received.<end>
+
+=>q86
+Orders received.<end>
+
+=>q87_original
+You're done for.<end>
+
+=>q87
+You're done for.<end>
+
+=>q88_original
+It's permanent rack time for you.<end>
+
+=>q88
+It's permanent rack time for you.<end>
+
+=>q89_original
+You had nothing on us.<end>
+
+=>q89
+You had nothing on us.<end>
+
+=>q90_original
+Surrender... to death.<end>
+
+=>q90
+Surrender... to death.<end>
+
+=>q91_original
+Chill.<end>
+
+=>q91
+Chill.<end>
+
+=>q92_original
+Freezing the enemy.<end>
+
+=>q92
+Freezing the enemy.<end>
+
+=>q93_original
+Incinerating the enemy.<end>
+
+=>q93
+Incinerating the enemy.<end>
+
+=>q94_original
+Burn!<end>
+
+=>q94
+Burn!<end>
+
+=>q95_original
+Stand by for cremation.<end>
+
+=>q95
+Stand by for cremation.<end>
+
+=>q96_original
+Enemy engulfed in flames.<end>
+
+=>q96
+Enemy engulfed in flames.<end>
+
+=>q97_original
+Burn.<end>
+
+=>q97
+Burn.<end>
+
+=>q98_original
+Target immobilized.<end>
+
+=>q98
+Target immobilized.<end>
+
+=>q99_original
+No retreat for you.<end>
+
+=>q99
+No retreat for you.<end>
+
+=>q100_original
+Enemy incapacitated.<end>
+
+=>q100
+Enemy incapacitated.<end>
+
+=>q101_original
+Target's out. Move in!<end>
+
+=>q101
+Target's out. Move in!<end>
+
+=>q102_original
+Target is reacting to the toxin.<end>
+
+=>q102
+Target is reacting to the toxin.<end>
+
+=>q103_original
+Target's hemorrhaging profusely.<end>
+
+=>q103
+Target's hemorrhaging profusely.<end>
+
+=>q104_original
+Bleed.<end>
+
+=>q104
+Bleed.<end>
+
+=>q105_original
+Incompetent.<end>
+
+=>q105
+Incompetent.<end>
+
+=>q106_original
+Missed.<end>
+
+=>q106
+Missed.<end>
+
+=>q107_original
+Unsat.<end>
+
+=>q107
+Unsat.<end>
+
+=>q108_original
+You got nothing.<end>
+
+=>q108
+You got nothing.<end>
+
+=>q109_original
+That's the stuff.<end>
+
+=>q109
+That's the stuff.<end>
+
+=>q110_original
+Back in action.<end>
+
+=>q110
+Back in action.<end>
+
+=>q111_original
+Administering painkillers...<end>
+
+=>q111
+Administering painkillers...<end>
+
+=>q112_original
+Outstanding.<end>
+
+=>q112
+Outstanding.<end>
+
+=>q113_original
+That's more like it.<end>
+
+=>q113
+That's more like it.<end>
+
+=>q114_original
+Administering psi stimulants...<end>
+
+=>q114
+Administering psi stimulants...<end>
+
+=>q115_original
+Yeah, that's it.<end>
+
+=>q115
+Yeah, that's it.<end>
+
+=>q116_original
+Ugh!<end>
+
+=>q116
+Ugh!<end>
+
+=>q117_original
+Need eva--<end>
+
+=>q117
+Need eva--<end>
+
+=>q118_original
+Man d--<end>
+
+=>q118
+Man d--<end>
+
+=>q119_original
+Aaaaah!<end>
+
+=>q119
+Aaaaah!<end>
+
+=>q120_original
+Hnnnn... Ugh...<end>
+
+=>q120
+Hnnnn... Ugh...<end>
+
+=>q121_original
+Takin--<end>
+
+=>q121
+Takin--<end>
+
+=>q122_original
+We're dy--<end>
+
+=>q122
+We're dy--<end>
+
+=>q123_original
+Engaging enemy!<end>
+
+=>q123
+Engaging enemy!<end>
+
+=>q124_original
+Move, move, move!<end>
+
+=>q124
+Move, move, move!<end>
+
+=>q125_original
+Neutralizing target!<end>
+
+=>q125
+Neutralizing target!<end>
+
+=>q126_original
+Engaging...<end>
+
+=>q126
+Engaging...<end>
+
+=>q127_original
+Get some!<end>
+
+=>q127
+Get some!<end>
+
+=>q128_original
+Drop 'em!<end>
+
+=>q128
+Drop 'em!<end>
+
+=>q129_original
+No quarter given.<end>
+
+=>q129
+No quarter given.<end>
+
+=>q130_original
+Engaging in CQC.<end>
+
+=>q130
+Engaging in CQC.<end>
+
+=>q131_original
+You're going down.<end>
+
+=>q131
+You're going down.<end>
+
+=>q132_original
+Eat dirt!<end>
+
+=>q132
+Eat dirt!<end>
+
+=>q133_original
+Dodge this.<end>
+
+=>q133
+Dodge this.<end>
+
+=>q134_original
+Mauling enemy.<end>
+
+=>q134
+Mauling enemy.<end>
+
+=>q135_original
+Have some of this!<end>
+
+=>q135
+Have some of this!<end>
+
+=>q136_original
+You're getting sliced.<end>
+
+=>q136
+You're getting sliced.<end>
+
+=>q137_original
+Engaging in knife combat.<end>
+
+=>q137
+Engaging in knife combat.<end>
+
+=>q138_original
+Have a taste of my blade.<end>
+
+=>q138
+Have a taste of my blade.<end>
+
+=>q139_original
+Retreat!<end>
+
+=>q139
+Retreat!<end>
+
+=>q140_original
+This one's just for you.<end>
+
+=>q140
+This one's just for you.<end>
+
+=>q141_original
+Eat lead.<end>
+
+=>q141
+Eat lead.<end>
+
+=>q142_original
+Fire!<end>
+
+=>q142
+Fire!<end>
+
+=>q143_original
+Tag 'em and bag 'em.<end>
+
+=>q143
+Tag 'em and bag 'em.<end>
+
+=>q144_original
+Rock and roll!<end>
+
+=>q144
+Rock and roll!<end>
+
+=>q145_original
+Delivering heat!<end>
+
+=>q145
+Delivering heat!<end>
+
+=>q146_original
+Establishing kill zone.<end>
+
+=>q146
+Establishing kill zone.<end>
+
+=>q147_original
+Wait for the flash.<end>
+
+=>q147
+Wait for the flash.<end>
+
+=>q148_original
+Embrace the glow.<end>
+
+=>q148
+Embrace the glow.<end>
+
+=>q149_original
+Tagged for annihilation.<end>
+
+=>q149
+Tagged for annihilation.<end>
+
+=>q150_original
+Disintegrating enemy combatant.<end>
+
+=>q150
+Disintegrating enemy combatant.<end>
+
+=>q151_original
+Breaking down enemy resistance.<end>
+
+=>q151
+Breaking down enemy resistance.<end>
+
+=>q152_original
+We'll need a cleanup crew after this.<end>
+
+=>q152
+We'll need a cleanup crew after this.<end>
+
+=>q153_original
+Liquefying enemy.<end>
+
+=>q153
+Liquefying enemy.<end>
+
+=>q154_original
+Elements rule the battlefield.<end>
+
+=>q154
+Elements rule the battlefield.<end>
+
+=>q155_original
+Fully equipped for chemical warfare.<end>
+
+=>q155
+Fully equipped for chemical warfare.<end>
+
+=>q156_original
+Catch!<end>
+
+=>q156
+Catch!<end>
+
+=>q157_original
+Target immobilized.<end>
+
+=>q157
+Target immobilized.<end>
+
+=>q158_original
+Fire in the hole!<end>
+
+=>q158
+Fire in the hole!<end>
+
+=>q159_original
+Grenade out!<end>
+
+=>q159
+Grenade out!<end>
+
+=>q160_original
+Grenade!<end>
+
+=>q160
+Grenade!<end>
+
+=>q161_original
+Fire in the hole!<end>
+
+=>q161
+Fire in the hole!<end>
+
+=>q162_original
+Napalm!<end>
+
+=>q162
+Napalm!<end>
+
+=>q163_original
+Incendiary out!<end>
+
+=>q163
+Incendiary out!<end>
+
+=>q164_original
+Depowering!<end>
+
+=>q164
+Depowering!<end>
+
+=>q165_original
+EMP!<end>
+
+=>q165
+EMP!<end>
+
+=>q166_original
+Engaging hostiles!<end>
+
+=>q166
+Engaging hostiles!<end>
+
+=>q167_original
+Fire in the hole!<end>
+
+=>q167
+Fire in the hole!<end>
+
+=>q168_original
+Visors down!<end>
+
+=>q168
+Visors down!<end>
+
+=>q169_original
+Flash out!<end>
+
+=>q169
+Flash out!<end>
+
+=>q170_original
+Target designated for recycling.<end>
+
+=>q170
+Target designated for recycling.<end>
+
+=>q171_original
+You're in for field disassembly.<end>
+
+=>q171
+You're in for field disassembly.<end>
+
+=>q172_original
+You're scrap.<end>
+
+=>q172
+You're scrap.<end>
+
+=>q173_original
+Engaging hostile bot.<end>
+
+=>q173
+Engaging hostile bot.<end>
+
+=>q174_original
+Targeting hostile creature.<end>
+
+=>q174
+Targeting hostile creature.<end>
+
+=>q175_original
+Engaging feral.<end>
+
+=>q175
+Engaging feral.<end>
+
+=>q176_original
+Engaging enemy combatant. Requesting reinforcements.<end>
+
+=>q176
+Engaging enemy combatant. Requesting reinforcements.<end>
+
+=>q177_original
+Hostiles detected. Need backup.<end>
+
+=>q177
+Hostiles detected. Need backup.<end>
+
+=>q178_original
+Tangos in sight. Send backup.<end>
+
+=>q178
+Tangos in sight. Send backup.<end>
+
+=>q179_original
+Need backup!<end>
+
+=>q179
+Need backup!<end>
+
+=>q180_original
+Contact!<end>
+
+=>q180
+Contact!<end>
+
+=>q181_original
+I need some backup over here!<end>
+
+=>q181
+I need some backup over here!<end>
+
+=>q182_original
+Hmm...<end>
+
+=>q182
+Hmm...<end>
+
+=>q183_original
+I hear something.<end>
+
+=>q183
+I hear something.<end>
+
+=>q184_original
+What was that?<end>
+
+=>q184
+What was that?<end>
+
+=>q185_original
+Smile for the shotty.<end>
+
+=>q185
+Smile for the shotty.<end>
+
+=>q186_original
+Distributing flak.<end>
+
+=>q186
+Distributing flak.<end>
+
+=>q187_original
+Shell shock!<end>
+
+=>q187
+Shell shock!<end>
+

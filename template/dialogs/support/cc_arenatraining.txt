@@ -1,0 +1,66 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I'm getting ready to dominate!<end>
+
+=>q2
+I'm getting ready to dominate!<end>
+
+=>q3_original
+One day, I'm gonna defeat Dread Lord and become the Invictus!<end>
+
+=>q3
+One day, I'm gonna defeat Dread Lord and become the Invictus!<end>
+
+=>q4_original
+Arena's my life, my necessity. Pipes and barrels, $(#brother/sweetheart), pipes and barrels!<end>
+
+=>q4
+Arena's my life, my necessity. Pipes and barrels, $(#brother/sweetheart), pipes and barrels!<end>
+
+=>q5_original
+My next match is gonna be hardcore!<end>
+
+=>q5
+My next match is gonna be hardcore!<end>
+
+=>q6_original
+One day, I'm gonna defeat *you* and become the Invictus!<end>
+
+=>q6
+One day, I'm gonna defeat *you* and become the Invictus!<end>
+
+=>q7_original
+Can't wait for the next match!<end>
+
+=>q7
+Can't wait for the next match!<end>
+
+=>q8_original
+Let's get ready for some domination!<end>
+
+=>q8
+Let's get ready for some domination!<end>
+
+=>q9_original
+I'm gonna zone out the next guy that challenges me! Yeah!<end>
+
+=>q9
+I'm gonna zone out the next guy that challenges me! Yeah!<end>
+
+=>q10_original
+You're good... but are you good enough?<end>
+
+=>q10
+You're good... but are you good enough?<end>
+
+=>q11_original
+Invictus. How's it going?<end>
+
+=>q11
+Invictus. How's it going?<end>
+

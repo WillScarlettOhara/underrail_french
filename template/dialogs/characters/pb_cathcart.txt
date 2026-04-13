@@ -1,0 +1,2072 @@
+=>q1_original
+Goodbye, $(context.player.Name).<end>
+
+=>q1
+Goodbye, $(context.player.Name).<end>
+
+=>q2_original
+Corporal, I was informed by Captain Mareth that the mission was a complete success; I'm glad you're alive, soldier. That's what I like to see - a survivor. Also, the CAU will be leaving soon, if they haven't gone already. ::He leans closer.:: Good riddance!
+
+As for you, you deserve some R&R. Payment for both missions done under Captain Mareth's command is waiting for you, plus a... small bonus. You know where to collect it, Corporal.<end>
+
+=>q2
+Corporal, I was informed by Captain Mareth that the mission was a complete success; I'm glad you're alive, soldier. That's what I like to see - a survivor. Also, the CAU will be leaving soon, if they haven't gone already. ::He leans closer.:: Good riddance!
+
+As for you, you deserve some R&R. Payment for both missions done under Captain Mareth's command is waiting for you, plus a... small bonus. You know where to collect it, Corporal.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I've returned from Hephaestus Research, sir.<end>
+
+=>a4
+I've returned from Hephaestus Research, sir.<end>
+
+=>q5_original
+I can see that, Corporal, and I see you've done excellent work. The missing crew just preceded you, or at least what is left of it, sadly. They are now being examined by our medical staff and will most certainly need a lot of rest to recuperate from the hell they've gone through.<end>
+
+=>q5
+I can see that, Corporal, and I see you've done excellent work. The missing crew just preceded you, or at least what is left of it, sadly. They are now being examined by our medical staff and will most certainly need a lot of rest to recuperate from the hell they've gone through.<end>
+
+=>q6_original
+Mission accomplished, Corporal. The staff sergeant will have your payment.<end>
+
+=>q6
+Mission accomplished, Corporal. The staff sergeant will have your payment.<end>
+
+=>q7_original
+That is all for now, Corporal. There are certain matters I need to discuss with Consul Oliver.<end>
+
+=>q7
+That is all for now, Corporal. There are certain matters I need to discuss with Consul Oliver.<end>
+
+=>q8_original
+Colonel, I don't see why the corporal shouldn't be present in our conversation. $(#He'll/She'll) learn of the issue at hand very soon anyway.<end>
+
+=>q8
+Colonel, I don't see why the corporal shouldn't be present in our conversation. $(#He'll/She'll) learn of the issue at hand very soon anyway.<end>
+
+=>q9_original
+::Colonel Cathcart delays his answer, merely glancing at you at first. However, you don't wait long for his response.::
+
+I don't see why not. Corporal, listen up: A major issue has come up while you were in Hephaestus Research.<end>
+
+=>q9
+::Colonel Cathcart delays his answer, merely glancing at you at first. However, you don't wait long for his response.::
+
+I don't see why not. Corporal, listen up: A major issue has come up while you were in Hephaestus Research.<end>
+
+=>a10_original
+What happened, sir?<end>
+
+=>a10
+What happened, sir?<end>
+
+=>q11_original
+We lost Epione Lab to the Free Drones.<end>
+
+=>q11
+We lost Epione Lab to the Free Drones.<end>
+
+=>q12_original
+A group of Drone saboteurs were able to destroy the support pillars of the facility, making the construction unstable and... it collapsed, killing everyone in it. Even the saboteurs themselves.<end>
+
+=>q12
+A group of Drone saboteurs were able to destroy the support pillars of the facility, making the construction unstable and... it collapsed, killing everyone in it. Even the saboteurs themselves.<end>
+
+=>q13_original
+Our loss is so great, I can't even begin to explain it to you, Corporal.<end>
+
+=>q13
+Our loss is so great, I can't even begin to explain it to you, Corporal.<end>
+
+=>q14_original
+Maybe it's the right time to explain the purpose of Epione Lab to the corporal. Don't you agree?<end>
+
+=>q14
+Maybe it's the right time to explain the purpose of Epione Lab to the corporal. Don't you agree?<end>
+
+=>q15_original
+::You notice Colonel is not pleased by Consul Oliver's words. It's apparent that the tension rises between the two.:: Please, Consul, I don't need you to tell me if and when I should discuss *confidential* military subjects with *my* subordinates. <end>
+
+=>q15
+::You notice Colonel is not pleased by Consul Oliver's words. It's apparent that the tension rises between the two.:: Please, Consul, I don't need you to tell me if and when I should discuss *confidential* military subjects with *my* subordinates. <end>
+
+=>q16_original
+::The Consul remains silent.::<end>
+
+=>q16
+::The Consul remains silent.::<end>
+
+=>q17_original
+Yes... ::He turns to you.:: Well, Corporal, listen up. Epione Lab was to be used as a way to quickly move Protectorate forces from Upper to Lower Underrail. Allow me to elaborate:
+
+You've seen the facility itself, when you were reporting to the late Captain Blackwall. What you've seen is only the top level of the facility. There are several more levels, floors, going down all the way to Lower Underrail.
+<end>
+
+=>q17
+Yes... ::He turns to you.:: Well, Corporal, listen up. Epione Lab was to be used as a way to quickly move Protectorate forces from Upper to Lower Underrail. Allow me to elaborate:
+
+You've seen the facility itself, when you were reporting to the late Captain Blackwall. What you've seen is only the top level of the facility. There are several more levels, floors, going down all the way to Lower Underrail.
+<end>
+
+=>q18_original
+So, since the Underrail Protectorate became tired of being at the mercy of Core City, we decided to repair and expand the facility's elevator shaft to take us straight down. We would have had our own way to Lower Underrail, Corporal. Reinforcing SRO would've been much more effective, and we would have had the opportunity to make some more progress in Lower Underrail.<end>
+
+=>q18
+So, since the Underrail Protectorate became tired of being at the mercy of Core City, we decided to repair and expand the facility's elevator shaft to take us straight down. We would have had our own way to Lower Underrail, Corporal. Reinforcing SRO would've been much more effective, and we would have had the opportunity to make some more progress in Lower Underrail.<end>
+
+=>q19_original
+Our diplomatic missions would also be a lot easier, let's not forget. But, alas, Corporal, all is lost now.
+
+::He turns to Colonel Cathcart.::
+
+The Drones outplayed us all. Yet, I'm surprised Red Snake didn't warn us about this.<end>
+
+=>q19
+Our diplomatic missions would also be a lot easier, let's not forget. But, alas, Corporal, all is lost now.
+
+::He turns to Colonel Cathcart.::
+
+The Drones outplayed us all. Yet, I'm surprised Red Snake didn't warn us about this.<end>
+
+=>a20_original
+Red Snake?<end>
+
+=>a20
+Red Snake?<end>
+
+=>q21_original
+Red Snake is the pseudonym for our informant, Corporal. He's one of the Free Drones who had so far leaked important information concerning their activities, and was considered reliable. Although, he's been silent for some time. He could've been compromised; we are still unsure.<end>
+
+=>q21
+Red Snake is the pseudonym for our informant, Corporal. He's one of the Free Drones who had so far leaked important information concerning their activities, and was considered reliable. Although, he's been silent for some time. He could've been compromised; we are still unsure.<end>
+
+=>a22_original
+So, you had an informant all along?<end>
+
+=>a22
+So, you had an informant all along?<end>
+
+=>q23_original
+That is correct, we even know where those bandits are holed up, Corporal. We--<end>
+
+=>q23
+That is correct, we even know where those bandits are holed up, Corporal. We--<end>
+
+=>q24_original
+::The Colonel's speech gets interrupted by the sound of echoing footsteps, coming from the hallway leading to the office. At first it seems like one person is stomping towards you, but then your ear discerns several pairs of boots which are walking in unison, further amplifying the sound. The ominous marching grows louder and louder, closer and closer...::<end>
+
+=>q24
+::The Colonel's speech gets interrupted by the sound of echoing footsteps, coming from the hallway leading to the office. At first it seems like one person is stomping towards you, but then your ear discerns several pairs of boots which are walking in unison, further amplifying the sound. The ominous marching grows louder and louder, closer and closer...::<end>
+
+=>a25_original
+::Turn around and see who is coming.::<end>
+
+=>a25
+::Turn around and see who is coming.::<end>
+
+=>a26_original
+Who are we talking about?<end>
+
+=>a26
+Who are we talking about?<end>
+
+=>a27_original
+Did the Faceless attack, sir?<end>
+
+=>a27
+Did the Faceless attack, sir?<end>
+
+=>q28_original
+No, Corporal. We detected no Faceless activity in Upper Underrail. ::He pauses.:: We lost Epione Lab to Free Drones.<end>
+
+=>q28
+No, Corporal. We detected no Faceless activity in Upper Underrail. ::He pauses.:: We lost Epione Lab to Free Drones.<end>
+
+=>a29_original
+Did the Free Drones attack, sir?<end>
+
+=>a29
+Did the Free Drones attack, sir?<end>
+
+=>q30_original
+I'm afraid so, and not just attack, Corporal - they managed to completely destroy Epione Lab.<end>
+
+=>q30
+I'm afraid so, and not just attack, Corporal - they managed to completely destroy Epione Lab.<end>
+
+=>q31_original
+I see you have, Corporal. Did you find the missing crew?<end>
+
+=>q31
+I see you have, Corporal. Did you find the missing crew?<end>
+
+=>a32_original
+I found no one alive, sir.<end>
+
+=>a32
+I found no one alive, sir.<end>
+
+=>q33_original
+Then the operation was a complete and utter failure. In every possible sense of the word.<end>
+
+=>q33
+Then the operation was a complete and utter failure. In every possible sense of the word.<end>
+
+=>a34_original
+I'm sorry, sir.<end>
+
+=>a34
+I'm sorry, sir.<end>
+
+=>q35_original
+It's not your fault, Corporal. You did what was asked of you, that's what's important. Let me worry about the rest.<end>
+
+=>q35
+It's not your fault, Corporal. You did what was asked of you, that's what's important. Let me worry about the rest.<end>
+
+=>q36_original
+The staff sergeant will have your payment.<end>
+
+=>q36
+The staff sergeant will have your payment.<end>
+
+=>a37_original
+That is not my fault, sir!<end>
+
+=>a37
+That is not my fault, sir!<end>
+
+=>q38_original
+Of course it isn't, Corporal, I don't see why you feel the need to defend yourself. You did what was asked of you, that's what's important. Let me worry about the rest.<end>
+
+=>q38
+Of course it isn't, Corporal, I don't see why you feel the need to defend yourself. You did what was asked of you, that's what's important. Let me worry about the rest.<end>
+
+=>a39_original
+They were killed by burrowers, sir, I'm afraid.<end>
+
+=>a39
+They were killed by burrowers, sir, I'm afraid.<end>
+
+=>a40_original
+I finished the task Captain Blackwall gave me, sir.<end>
+
+=>a40
+I finished the task Captain Blackwall gave me, sir.<end>
+
+=>q41_original
+That's what I like to hear, Corporal. Captain Blackwall contacted me already, so I know all about the current situation. I was worried the Faceless were sneaking up on us, but Free Drones, they are a bit easier to deal with. You did good, Corporal, very good.
+
+Your first pay is waiting for you. See Staff Sergeant Fraser about that.<end>
+
+=>q41
+That's what I like to hear, Corporal. Captain Blackwall contacted me already, so I know all about the current situation. I was worried the Faceless were sneaking up on us, but Free Drones, they are a bit easier to deal with. You did good, Corporal, very good.
+
+Your first pay is waiting for you. See Staff Sergeant Fraser about that.<end>
+
+=>a42_original
+What happens now, sir? The Free Drones were obviously spying on Epione Lab.<end>
+
+=>a42
+What happens now, sir? The Free Drones were obviously spying on Epione Lab.<end>
+
+=>q43_original
+Let me worry about that, Corporal. We will call a meeting and discuss the Free Drones situation.<end>
+
+=>q43
+Let me worry about that, Corporal. We will call a meeting and discuss the Free Drones situation.<end>
+
+=>q44_original
+Anyway, I have another mission for you.<end>
+
+=>q44
+Anyway, I have another mission for you.<end>
+
+=>a45_original
+Thank you, sir.<end>
+
+=>a45
+Thank you, sir.<end>
+
+=>q46_original
+You're welcome, Corporal. Spend the money well.<end>
+
+=>q46
+You're welcome, Corporal. Spend the money well.<end>
+
+=>a47_original
+I'm ready to start my first briefing, sir.<end>
+
+=>a47
+I'm ready to start my first briefing, sir.<end>
+
+=>q48_original
+::He smiles.:: That's what I like to hear, Corporal. Listen up...<end>
+
+=>q48
+::He smiles.:: That's what I like to hear, Corporal. Listen up...<end>
+
+=>q49_original
+For your first mission, I'm sending you to Epione Lab, currently under Protectorate control. It's here in Upper Underrail, to the west of Fort Apogee.<end>
+
+=>q49
+For your first mission, I'm sending you to Epione Lab, currently under Protectorate control. It's here in Upper Underrail, to the west of Fort Apogee.<end>
+
+=>a50_original
+Epione Lab?<end>
+
+=>a50
+Epione Lab?<end>
+
+=>q51_original
+A relic from the times of Biocorp, Corporal, abandoned a long time ago. What you need to know is that it's now under Protectorate control, and is a strategic location of extreme importance.<end>
+
+=>q51
+A relic from the times of Biocorp, Corporal, abandoned a long time ago. What you need to know is that it's now under Protectorate control, and is a strategic location of extreme importance.<end>
+
+=>q52_original
+So, I was contacted by Captain Blackwall, the commanding officer there, and he informed me his patrols reported several strange sightings in the vicinity of Epione Lab.<end>
+
+=>q52
+So, I was contacted by Captain Blackwall, the commanding officer there, and he informed me his patrols reported several strange sightings in the vicinity of Epione Lab.<end>
+
+=>q53_original
+You are to report to the captain and assist him with this little problem. Once you are finished with him, report back to me.
+
+Am I clear so far?<end>
+
+=>q53
+You are to report to the captain and assist him with this little problem. Once you are finished with him, report back to me.
+
+Am I clear so far?<end>
+
+=>a54_original
+Yes, sir. Loud and clear, sir.<end>
+
+=>a54
+Yes, sir. Loud and clear, sir.<end>
+
+=>q55_original
+Good... That's what I like to hear. Anything else you want to know before you head there?<end>
+
+=>q55
+Good... That's what I like to hear. Anything else you want to know before you head there?<end>
+
+=>a56_original
+Just tell me what needs to be done.<end>
+
+=>a56
+Just tell me what needs to be done.<end>
+
+=>q57_original
+That's what I like to hear, straight to the point! Listen up. Captain Blackwall, the commanding officer of Epione Lab requested assistance with a minor problem he was having. His patrols reported several strange sightings near the defensive perimeter.<end>
+
+=>q57
+That's what I like to hear, straight to the point! Listen up. Captain Blackwall, the commanding officer of Epione Lab requested assistance with a minor problem he was having. His patrols reported several strange sightings near the defensive perimeter.<end>
+
+=>a58_original
+I'm ready to start my second mission, sir.<end>
+
+=>a58
+I'm ready to start my second mission, sir.<end>
+
+=>q59_original
+Excellent, Corporal. Quite excellent.
+
+Before we begin, there's something I feel I need to tell you.<end>
+
+=>q59
+Excellent, Corporal. Quite excellent.
+
+Before we begin, there's something I feel I need to tell you.<end>
+
+=>a60_original
+Sir?<end>
+
+=>a60
+Sir?<end>
+
+=>q61_original
+You see, Corporal, when you first came here, I was overwhelmed, bombarded by both the ambassador and the consul. They told me of this Southgater - $(context.player.Name).<end>
+
+=>q61
+You see, Corporal, when you first came here, I was overwhelmed, bombarded by both the ambassador and the consul. They told me of this Southgater - $(context.player.Name).<end>
+
+=>a62_original
+What was so important about that Southgater?<end>
+
+=>a62
+What was so important about that Southgater?<end>
+
+=>q63_original
+Well, Corporal, I was told this Southgater could prove to be an excellent ally. $(#He/She) has shown interest *and* dedication, and an acceptance of our agenda. That's what I've been told, at least. 
+
+I was told of your bravery, everything about that missing train; it all sounded too good to be true.<end>
+
+=>q63
+Well, Corporal, I was told this Southgater could prove to be an excellent ally. $(#He/She) has shown interest *and* dedication, and an acceptance of our agenda. That's what I've been told, at least. 
+
+I was told of your bravery, everything about that missing train; it all sounded too good to be true.<end>
+
+=>q64_original
+It all sounded like hogwash to me, Corporal. I thought I was, in reality, gonna get a diplomatic pansy. Some "talker" from SGS whose only job would be to "play nice" all the time so that the ambassador and the consul can be happy. "Everything can be done diplomatically," they'd say.
+
+I don't need any more of that here, Corporal... I've got enough of it already. If it was all up to them, we'd be overrun by bandits by now.<end>
+
+=>q64
+It all sounded like hogwash to me, Corporal. I thought I was, in reality, gonna get a diplomatic pansy. Some "talker" from SGS whose only job would be to "play nice" all the time so that the ambassador and the consul can be happy. "Everything can be done diplomatically," they'd say.
+
+I don't need any more of that here, Corporal... I've got enough of it already. If it was all up to them, we'd be overrun by bandits by now.<end>
+
+=>q65_original
+But... I may have misjudged you. You are a soldier, and that's the only thing I want from you. We live in a world, Corporal, where when you have a bullet flying towards you at a thousand meters per second, you want someone to dodge it and fire back, not talk to it while it's mid-air.<end>
+
+=>q65
+But... I may have misjudged you. You are a soldier, and that's the only thing I want from you. We live in a world, Corporal, where when you have a bullet flying towards you at a thousand meters per second, you want someone to dodge it and fire back, not talk to it while it's mid-air.<end>
+
+=>q66_original
+::He clears throat.:: Now, let's get back to the problem at hand. Listen up. 
+
+I need you to go to Lower Underrail for this one, Corporal. We lost contact with an expedition that was dispatched to Hephaestus Research Facility.<end>
+
+=>q66
+::He clears throat.:: Now, let's get back to the problem at hand. Listen up. 
+
+I need you to go to Lower Underrail for this one, Corporal. We lost contact with an expedition that was dispatched to Hephaestus Research Facility.<end>
+
+=>a67_original
+I've never heard of such place, sir.<end>
+
+=>a67
+I've never heard of such place, sir.<end>
+
+=>q68_original
+I can forgive you for not knowing about all these abandoned Biocorp facilites; I know very little, too, to be honest. Biocorp has been around for a few hundred years, and they've left us with innumerable abandoned sites. This one, though, when I was told about it, and what was done there, I realized it was worth checking, Corporal.<end>
+
+=>q68
+I can forgive you for not knowing about all these abandoned Biocorp facilites; I know very little, too, to be honest. Biocorp has been around for a few hundred years, and they've left us with innumerable abandoned sites. This one, though, when I was told about it, and what was done there, I realized it was worth checking, Corporal.<end>
+
+=>a69_original
+Care to elaborate, sir?<end>
+
+=>a69
+Care to elaborate, sir?<end>
+
+=>q70_original
+Hephaestus Research was a large and advanced research center dedicated purely to robotics. To elaborate, as you say - they developed robots intended for different roles. Military, industrial, medical... I was told significant progress was made there, but it was all forgotten when Biocorp fell apart. If we could get some of that tech, Corporal, it could prove to become a significant advantage. Maybe we could stand toe to toe with the Faceless. Imagine that.<end>
+
+=>q70
+Hephaestus Research was a large and advanced research center dedicated purely to robotics. To elaborate, as you say - they developed robots intended for different roles. Military, industrial, medical... I was told significant progress was made there, but it was all forgotten when Biocorp fell apart. If we could get some of that tech, Corporal, it could prove to become a significant advantage. Maybe we could stand toe to toe with the Faceless. Imagine that.<end>
+
+=>q71_original
+So I decided to send an expedition to locate this facility and see if they could dig out something useful. A group of ten men, and one Dreadnought to clear the path and serve as protection. The earthquake happened and - we lost contact. It was to be expected, and there was no need to immediately intervene, since they had supplies to last them some time. 
+
+The time is up, and we still haven't received any word from them.<end>
+
+=>q71
+So I decided to send an expedition to locate this facility and see if they could dig out something useful. A group of ten men, and one Dreadnought to clear the path and serve as protection. The earthquake happened and - we lost contact. It was to be expected, and there was no need to immediately intervene, since they had supplies to last them some time. 
+
+The time is up, and we still haven't received any word from them.<end>
+
+=>q72_original
+Your mission is to go there and locate the missing crew.<end>
+
+=>q72
+Your mission is to go there and locate the missing crew.<end>
+
+=>a73_original
+Just tell me how to get there, sir, and I'm on my way.<end>
+
+=>a73
+Just tell me how to get there, sir, and I'm on my way.<end>
+
+=>q74_original
+It is a bit difficult to explain, Corporal, but I'll do my best: According to the last few messages we received from the expedition, they entered the cave system north of the now abandoned GMS. They dug a path south and found the entrance to the facility after just a day or two of digging. Therefore, it must've been close to the cave entrance.
+
+That is all the usable information regarding its location I can give you.<end>
+
+=>q74
+It is a bit difficult to explain, Corporal, but I'll do my best: According to the last few messages we received from the expedition, they entered the cave system north of the now abandoned GMS. They dug a path south and found the entrance to the facility after just a day or two of digging. Therefore, it must've been close to the cave entrance.
+
+That is all the usable information regarding its location I can give you.<end>
+
+=>q75_original
+If everything is clear, I wish you good luck, Corporal. I sincerely hope those men are still alive down there.<end>
+
+=>q75
+If everything is clear, I wish you good luck, Corporal. I sincerely hope those men are still alive down there.<end>
+
+=>a76_original
+If they are, I promise I'll return them safe and sound, sir. ::Salute and leave.::<end>
+
+=>a76
+If they are, I promise I'll return them safe and sound, sir. ::Salute and leave.::<end>
+
+=>q77_original
+::He salutes back.:: Good luck, Corporal.<end>
+
+=>q77
+::He salutes back.:: Good luck, Corporal.<end>
+
+=>a78_original
+All is clear, sir! ::Salute and leave.::<end>
+
+=>a78
+All is clear, sir! ::Salute and leave.::<end>
+
+=>a79_original
+Hephaestus Research?<end>
+
+=>a79
+Hephaestus Research?<end>
+
+=>a80_original
+Wait, that's me!<end>
+
+=>a80
+Wait, that's me!<end>
+
+=>q81_original
+::Colonel watches you for a brief moment before continuing.:: Judging by the name, I'd say it is you, Corporal. ::He chuckles.::<end>
+
+=>q81
+::Colonel watches you for a brief moment before continuing.:: Judging by the name, I'd say it is you, Corporal. ::He chuckles.::<end>
+
+=>a82_original
+You're promoting me, sir?<end>
+
+=>a82
+You're promoting me, sir?<end>
+
+=>q83_original
+Not yet, Corporal, not yet. Getting a promotion is not that easy. 
+
+No, that's not what I wanted to say.<end>
+
+=>q83
+Not yet, Corporal, not yet. Getting a promotion is not that easy. 
+
+No, that's not what I wanted to say.<end>
+
+=>a84_original
+I get to pilot one of those Dreadnoughts, sir?<end>
+
+=>a84
+I get to pilot one of those Dreadnoughts, sir?<end>
+
+=>q85_original
+Don't get your hopes up, Corporal. Only trained pilots can use Dreads effectively.
+
+No, that's not what I wanted to say.<end>
+
+=>q85
+Don't get your hopes up, Corporal. Only trained pilots can use Dreads effectively.
+
+No, that's not what I wanted to say.<end>
+
+=>a86_original
+Sir, have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a86
+Sir, have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>q87_original
+No, Corporal, I do not.<end>
+
+=>q87
+No, Corporal, I do not.<end>
+
+=>q88_original
+<end>
+
+=>q88
+<end>
+
+=>a89_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>a89
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>q90_original
+What are you implying? Is this some kind of military technology we could use?<end>
+
+=>q90
+What are you implying? Is this some kind of military technology we could use?<end>
+
+=>a91_original
+Could be, sir.<end>
+
+=>a91
+Could be, sir.<end>
+
+=>q92_original
+Mhm. That is definitely an important matter. I need to check this.
+
+Wait.<end>
+
+=>q92
+Mhm. That is definitely an important matter. I need to check this.
+
+Wait.<end>
+
+=>q93_original
+::He picks up the phone. He looks at you but speaks to someone else.::
+
+Travis? Yes, I'll wait...
+
+::A minute later.::
+
+Travis? Yes, I need information on Acorn - A-C-o-N-R. Alfa-Charlie-Oscar-November-Romeo. It's urgent, yes. Send everything you can find to my computer. Corporal $(context.player.Name) knows more about it than me and I don't like that. 
+
+Mhm. ::He puts the phone down.::<end>
+
+=>q93
+::He picks up the phone. He looks at you but speaks to someone else.::
+
+Travis? Yes, I'll wait...
+
+::A minute later.::
+
+Travis? Yes, I need information on Acorn - A-C-o-N-R. Alfa-Charlie-Oscar-November-Romeo. It's urgent, yes. Send everything you can find to my computer. Corporal $(context.player.Name) knows more about it than me and I don't like that. 
+
+Mhm. ::He puts the phone down.::<end>
+
+=>q94_original
+Now, while we wait: What's the status of this technology? Is it something we can acquire? Do you know where it is?<end>
+
+=>q94
+Now, while we wait: What's the status of this technology? Is it something we can acquire? Do you know where it is?<end>
+
+=>a95_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a95
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>q96_original
+::He takes a curious look at the container, lingering on its unusual symbol. ::<end>
+
+=>q96
+::He takes a curious look at the container, lingering on its unusual symbol. ::<end>
+
+=>q97_original
+<end>
+
+=>q97
+<end>
+
+=>q98_original
+
+
+It's just like in the picture.<end>
+
+=>q98
+
+
+It's just like in the picture.<end>
+
+=>a99_original
+I reckon the captain has produced the information you needed, sir?<end>
+
+=>a99
+I reckon the captain has produced the information you needed, sir?<end>
+
+=>q100_original
+::He answers you, still squinting at the screen.::
+
+Yes, yes... This is it alright.  
+
+Apparently this file is from the time of Biocorp; must've come from the Central Archive.<end>
+
+=>q100
+::He answers you, still squinting at the screen.::
+
+Yes, yes... This is it alright.  
+
+Apparently this file is from the time of Biocorp; must've come from the Central Archive.<end>
+
+=>q101_original
+It says that both the technology and ACoNR units were produced by the New Frontier Technology supercorporation, time period unspecified. No information on how the technology itself, but the few sentences there are in this file imply that it is an integral part in the realization of *high-technology megaprojects* of various kinds. 
+
+Quote: "Each ACoNR unit is thus of immeasurable value and must be kept under highest security. The coded signal needed for its activation is available only to a small number of select people." 
+
+The rest is irrelevant. <end>
+
+=>q101
+It says that both the technology and ACoNR units were produced by the New Frontier Technology supercorporation, time period unspecified. No information on how the technology itself, but the few sentences there are in this file imply that it is an integral part in the realization of *high-technology megaprojects* of various kinds. 
+
+Quote: "Each ACoNR unit is thus of immeasurable value and must be kept under highest security. The coded signal needed for its activation is available only to a small number of select people." 
+
+The rest is irrelevant. <end>
+
+=>q102_original
+<end>
+
+=>q102
+<end>
+
+=>q103_original
+<end>
+
+=>q103
+<end>
+
+=>q104_original
+There is a picture here. ::He rotates the monitor toward you: It indeed displays a picture of the Acorn, shot through reinforced glass of a technology vault of some kind.::<end>
+
+=>q104
+There is a picture here. ::He rotates the monitor toward you: It indeed displays a picture of the Acorn, shot through reinforced glass of a technology vault of some kind.::<end>
+
+=>q105_original
+This is all classified information, Corporal, but there you have it: It seems you aren't chasing an elusive hopper after all.
+
+I have to admit, my interest in this thing is growing the more I hear and read about it, but we mustn't let ourselves get carried away. Focus on your duties - and keep me informed as soon as you obtain any new information on the Acorn.<end>
+
+=>q105
+This is all classified information, Corporal, but there you have it: It seems you aren't chasing an elusive hopper after all.
+
+I have to admit, my interest in this thing is growing the more I hear and read about it, but we mustn't let ourselves get carried away. Focus on your duties - and keep me informed as soon as you obtain any new information on the Acorn.<end>
+
+=>q106_original
+Well done, Corporal, well done. Now to have it put in a safe place. ::He reaches for his phone.::<end>
+
+=>q106
+Well done, Corporal, well done. Now to have it put in a safe place. ::He reaches for his phone.::<end>
+
+=>a107_original
+Here you go, sir. ::Give him the Acorn.::<end>
+
+=>a107
+Here you go, sir. ::Give him the Acorn.::<end>
+
+=>q108_original
+Yes, yes, put it here. ::He points next to his desk.::
+
+::You hear a voice on the other end.:: Lieutenant? I need to speak to Captain Cassidy.
+
+Alright, I'll wait...<end>
+
+=>q108
+Yes, yes, put it here. ::He points next to his desk.::
+
+::You hear a voice on the other end.:: Lieutenant? I need to speak to Captain Cassidy.
+
+Alright, I'll wait...<end>
+
+=>q109_original
+::He lowers the phone and looks at you.::
+
+Hm. <end>
+
+=>q109
+::He lowers the phone and looks at you.::
+
+Hm. <end>
+
+=>q110_original
+Haven't changed your mind about mushroom tea, Corporal? Want a cup?<end>
+
+=>q110
+Haven't changed your mind about mushroom tea, Corporal? Want a cup?<end>
+
+=>a111_original
+What the hell. I'll take one, sir.<end>
+
+=>a111
+What the hell. I'll take one, sir.<end>
+
+=>q112_original
+::He presses a button on his phone.::
+
+Miss Trey, two cups of tea, please.<end>
+
+=>q112
+::He presses a button on his phone.::
+
+Miss Trey, two cups of tea, please.<end>
+
+=>q113_original
+::After taking a sip of hot mushroom tea, the colonel continues.:: <end>
+
+=>q113
+::After taking a sip of hot mushroom tea, the colonel continues.:: <end>
+
+=>q114_original
+Very good, very good. Before we proceed, let's take care of something first. 
+
+<end>
+
+=>q114
+Very good, very good. Before we proceed, let's take care of something first. 
+
+<end>
+
+=>q115_original
+::He picks up the phone.:: Staff Sergeant? Yes, this is Colonel Cathcart. Send a sum of <end>
+
+=>q115
+::He picks up the phone.:: Staff Sergeant? Yes, this is Colonel Cathcart. Send a sum of <end>
+
+=>q116_original
+thirty-six hundred dollars <end>
+
+=>q116
+thirty-six hundred dollars <end>
+
+=>q117_original
+to my office. Yes, you heard me correctly. Yes. I'm waiting. ::He puts the phone down.::
+
+There. That's been taken care of.<end>
+
+=>q117
+to my office. Yes, you heard me correctly. Yes. I'm waiting. ::He puts the phone down.::
+
+There. That's been taken care of.<end>
+
+=>q118_original
+Now that the blockade has been cleared, the Acorn is going North with the first wartrains. <end>
+
+=>q118
+Now that the blockade has been cleared, the Acorn is going North with the first wartrains. <end>
+
+=>q119_original
+In the meantime, I'll have this locked away and under guard.<end>
+
+=>q119
+In the meantime, I'll have this locked away and under guard.<end>
+
+=>q120_original
+::A soldier arrives with your money. The colonel points to you, and the soldier hands it over, salutes and leaves.::
+
+You know, Corporal, since we've touched on the supercorporations of old, I remembered a conversation I've had with General Korn a few years ago at a cocktail. We had a conversation about Security Agency, another supercorporation that was dedicated to developing and manufacturing military technology and equipment. Apparently their warbots were the best out there and would make the Protectorate look like common metro bandits.<end>
+
+=>q120
+::A soldier arrives with your money. The colonel points to you, and the soldier hands it over, salutes and leaves.::
+
+You know, Corporal, since we've touched on the supercorporations of old, I remembered a conversation I've had with General Korn a few years ago at a cocktail. We had a conversation about Security Agency, another supercorporation that was dedicated to developing and manufacturing military technology and equipment. Apparently their warbots were the best out there and would make the Protectorate look like common metro bandits.<end>
+
+=>q121_original
+They deployed humanoid warbots, multi-legged all-terrain walkers, aircraft ranging from miniature recon drones to massive structure carriers, as well as vessels of inconceivable size and armament... And all of it was completely autonomic - an army of emotionless warbots obeying every command - and self-replicating, according to the general's words.
+
+::He looks at the Acorn, then at you again, then chuckles.:: Seems unreal, doesn't it?<end>
+
+=>q121
+They deployed humanoid warbots, multi-legged all-terrain walkers, aircraft ranging from miniature recon drones to massive structure carriers, as well as vessels of inconceivable size and armament... And all of it was completely autonomic - an army of emotionless warbots obeying every command - and self-replicating, according to the general's words.
+
+::He looks at the Acorn, then at you again, then chuckles.:: Seems unreal, doesn't it?<end>
+
+=>q122_original
+::He finishes his tea and puts the cup away.::
+
+That's enough chit-chat, Corporal. Return to your duties. But if all goes well - you can expect a promotion.<end>
+
+=>q122
+::He finishes his tea and puts the cup away.::
+
+That's enough chit-chat, Corporal. Return to your duties. But if all goes well - you can expect a promotion.<end>
+
+=>q123_original
+As soon the blockade is cleared I'm going to request a wartrain to carry this to North Underrail. <end>
+
+=>q123
+As soon the blockade is cleared I'm going to request a wartrain to carry this to North Underrail. <end>
+
+=>q124_original
+three thousand dollars <end>
+
+=>q124
+three thousand dollars <end>
+
+=>q125_original
+twenty-four hundred <end>
+
+=>q125
+twenty-four hundred <end>
+
+=>q126_original
+eighteen hundred <end>
+
+=>q126
+eighteen hundred <end>
+
+=>q127_original
+twelve hundred <end>
+
+=>q127
+twelve hundred <end>
+
+=>q128_original
+Your efforts wouldn't have gone unrewarded in any case, Corporal. Besides, you obtained the Acorn without relying on Protectorate resources. You must've had some expenses.<end>
+
+=>q128
+Your efforts wouldn't have gone unrewarded in any case, Corporal. Besides, you obtained the Acorn without relying on Protectorate resources. You must've had some expenses.<end>
+
+=>q129_original
+<end>
+
+=>q129
+<end>
+
+=>a130_original
+::[Mercantile]:: Thirty-six hundred dollars should cover it.<end>
+
+=>a130
+::[Mercantile]:: Thirty-six hundred dollars should cover it.<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>q132_original
+::He sips some tea, then nods.:: Let's take care of it straight away then, shall we. 
+
+<end>
+
+=>q132
+::He sips some tea, then nods.:: Let's take care of it straight away then, shall we. 
+
+<end>
+
+=>q133_original
+::He shakes his head.:: It's too much, Corporal, too much.<end>
+
+=>q133
+::He shakes his head.:: It's too much, Corporal, too much.<end>
+
+=>a134_original
+::[Mercantile]:: Three thousand dollars should cover it.<end>
+
+=>a134
+::[Mercantile]:: Three thousand dollars should cover it.<end>
+
+=>q135_original
+<end>
+
+=>q135
+<end>
+
+=>a136_original
+::[Mercantile]:: Twenty-four hundred dollars should cover it.<end>
+
+=>a136
+::[Mercantile]:: Twenty-four hundred dollars should cover it.<end>
+
+=>q137_original
+<end>
+
+=>q137
+<end>
+
+=>a138_original
+::[Mercantile]:: Eighteen hundred dollars should cover it.<end>
+
+=>a138
+::[Mercantile]:: Eighteen hundred dollars should cover it.<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>a140_original
+A humble sum of twelve hundred dollars should cover everything, sir.<end>
+
+=>a140
+A humble sum of twelve hundred dollars should cover everything, sir.<end>
+
+=>a141_original
+You understand, sir. In that case, I won't try to influence my payment. ::Give him the Acorn.::<end>
+
+=>a141
+You understand, sir. In that case, I won't try to influence my payment. ::Give him the Acorn.::<end>
+
+=>a142_original
+I'll have one, sir.<end>
+
+=>a142
+I'll have one, sir.<end>
+
+=>a143_original
+No, I haven't, sir. I'll pass.<end>
+
+=>a143
+No, I haven't, sir. I'll pass.<end>
+
+=>q144_original
+::He presses a button on his phone.::
+
+Miss Trey, one cup of tea, please.<end>
+
+=>q144
+::He presses a button on his phone.::
+
+Miss Trey, one cup of tea, please.<end>
+
+=>a145_original
+Still not a fan, sir.<end>
+
+=>a145
+Still not a fan, sir.<end>
+
+=>q146_original
+Would you like some mushroom tea, Corporal?<end>
+
+=>q146
+Would you like some mushroom tea, Corporal?<end>
+
+=>a147_original
+Yes, Colonel, thank you.<end>
+
+=>a147
+Yes, Colonel, thank you.<end>
+
+=>a148_original
+I'll gladly have another one, sir.<end>
+
+=>a148
+I'll gladly have another one, sir.<end>
+
+=>a149_original
+I refused the last time... Okay.<end>
+
+=>a149
+I refused the last time... Okay.<end>
+
+=>a150_original
+No, sir.<end>
+
+=>a150
+No, sir.<end>
+
+=>a151_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a151
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>q152_original
+::He looks at the Acorn.:: Well done, Corporal, well done.<end>
+
+=>q152
+::He looks at the Acorn.:: Well done, Corporal, well done.<end>
+
+=>a153_original
+There you have it, sir.<end>
+
+=>a153
+There you have it, sir.<end>
+
+=>q154_original
+::At the same time something catches the colonel's eye, and he squints at his monitor.::
+
+Wait a moment. It's from the captain.<end>
+
+=>q154
+::At the same time something catches the colonel's eye, and he squints at his monitor.::
+
+Wait a moment. It's from the captain.<end>
+
+=>q155_original
+::He clicks a few times, and his eyes start moving back and forth between the screen and the Acorn.::<end>
+
+=>q155
+::He clicks a few times, and his eyes start moving back and forth between the screen and the Acorn.::<end>
+
+=>a156_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a156
+Not yet, but I'm working on obtaining it.<end>
+
+=>q157_original
+Don't let it detract you from your other duties, Corporal. In the meantime, <end>
+
+=>q157
+Don't let it detract you from your other duties, Corporal. In the meantime, <end>
+
+=>q158_original
+I'll wait for some verified information from Captain Travis. Then we'll discuss this further.
+
+If you do learn anything new, report to me.<end>
+
+=>q158
+I'll wait for some verified information from Captain Travis. Then we'll discuss this further.
+
+If you do learn anything new, report to me.<end>
+
+=>a159_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a159
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a160_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>a160
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>q161_original
+::He pauses, staring at you.:: How confident are you in the accuracy of this information?<end>
+
+=>q161
+::He pauses, staring at you.:: How confident are you in the accuracy of this information?<end>
+
+=>a162_original
+I have no reasons to doubt what I just told you, sir.<end>
+
+=>a162
+I have no reasons to doubt what I just told you, sir.<end>
+
+=>a163_original
+Plenty. I have good sources.<end>
+
+=>a163
+Plenty. I have good sources.<end>
+
+=>a164_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>a164
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>a165_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a165
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a166_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a166
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a167_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a167
+Never mind. There was something else I wanted to ask you.<end>
+
+=>q168_original
+Speed it up, Corporal. I haven't got the time.<end>
+
+=>q168
+Speed it up, Corporal. I haven't got the time.<end>
+
+=>a169_original
+About the Acorn again...<end>
+
+=>a169
+About the Acorn again...<end>
+
+=>q170_original
+Spill it already, Corporal.<end>
+
+=>q170
+Spill it already, Corporal.<end>
+
+=>a171_original
+Any information on the Acorn, sir?<end>
+
+=>a171
+Any information on the Acorn, sir?<end>
+
+=>q172_original
+Yes, Corporal. Captain Travis has sent me a single file on the Acorn. It's from the time of Biocorp; must've come from the Central Archive.<end>
+
+=>q172
+Yes, Corporal. Captain Travis has sent me a single file on the Acorn. It's from the time of Biocorp; must've come from the Central Archive.<end>
+
+=>a173_original
+I have the Acorn, sir. ::Show him the Acorn.::<end>
+
+=>a173
+I have the Acorn, sir. ::Show him the Acorn.::<end>
+
+=>a174_original
+How do I get to Epione Lab?<end>
+
+=>a174
+How do I get to Epione Lab?<end>
+
+=>q175_original
+There are two ways to get there, starting from Fort Apogee. If you head north, turn south at the first intersection; if you head south, turn north at the first intersection.<end>
+
+=>q175
+There are two ways to get there, starting from Fort Apogee. If you head north, turn south at the first intersection; if you head south, turn north at the first intersection.<end>
+
+=>q176_original
+You know you're on the right track if you follow the blue metro line. It will lead you to the train station that takes you to Epione Lab.<end>
+
+=>q176
+You know you're on the right track if you follow the blue metro line. It will lead you to the train station that takes you to Epione Lab.<end>
+
+=>a177_original
+About the renegade soldiers, sir...<end>
+
+=>a177
+About the renegade soldiers, sir...<end>
+
+=>q178_original
+So, the consul told you about those deserters. They are a disgrace, Corporal, a true disgrace to everything we stand for.
+
+What is it you wanted to ask?<end>
+
+=>q178
+So, the consul told you about those deserters. They are a disgrace, Corporal, a true disgrace to everything we stand for.
+
+What is it you wanted to ask?<end>
+
+=>q179_original
+<end>
+
+=>q179
+<end>
+
+=>a180_original
+Do you know why they deserted, sir?<end>
+
+=>a180
+Do you know why they deserted, sir?<end>
+
+=>q181_original
+I don't know the exact reason, Corporal. Although, I was told by some of the officers that Holloway started acting strangely. That he was becoming more unstable; he even threatened one of them, as I was told once.<end>
+
+=>q181
+I don't know the exact reason, Corporal. Although, I was told by some of the officers that Holloway started acting strangely. That he was becoming more unstable; he even threatened one of them, as I was told once.<end>
+
+=>a182_original
+Did they come back from a mission before they left Fort Apogee, or did something happen in the base, perhaps?<end>
+
+=>a182
+Did they come back from a mission before they left Fort Apogee, or did something happen in the base, perhaps?<end>
+
+=>q183_original
+::The Colonel hesitates for a second.:: All the mission details that the sergeant's squad was a part of are classified; therefore I can't comment on them.
+
+Next question.<end>
+
+=>q183
+::The Colonel hesitates for a second.:: All the mission details that the sergeant's squad was a part of are classified; therefore I can't comment on them.
+
+Next question.<end>
+
+=>a184_original
+Let me ask you something else.<end>
+
+=>a184
+Let me ask you something else.<end>
+
+=>q185_original
+I'm listening, Corporal.<end>
+
+=>q185
+I'm listening, Corporal.<end>
+
+=>a186_original
+Why didn't you send troops to apprehend them, sir?<end>
+
+=>a186
+Why didn't you send troops to apprehend them, sir?<end>
+
+=>q187_original
+Corporal, the penalty for desertion is death. Has been, and always will be, hopefully. If this were anything else, I'd have sent troops to apprehend the deserters without delay and court-martial them. If they couldn't be apprehended, well, they would be executed. Pure and simple.<end>
+
+=>q187
+Corporal, the penalty for desertion is death. Has been, and always will be, hopefully. If this were anything else, I'd have sent troops to apprehend the deserters without delay and court-martial them. If they couldn't be apprehended, well, they would be executed. Pure and simple.<end>
+
+=>q188_original
+But... Tim Holloway is a decorated veteran who has served his duty with excellent dedication and results, so I'm willing to be... ::He struggles to find the right word.:: a bit more tolerant. *If,* and only if they surrender immediately!
+
+If they refuse, Corporal, it will be interpreted as a sign of aggression and they will have to be dealt accordingly.<end>
+
+=>q188
+But... Tim Holloway is a decorated veteran who has served his duty with excellent dedication and results, so I'm willing to be... ::He struggles to find the right word.:: a bit more tolerant. *If,* and only if they surrender immediately!
+
+If they refuse, Corporal, it will be interpreted as a sign of aggression and they will have to be dealt accordingly.<end>
+
+=>a189_original
+What can you tell me about SFC Holloway?<end>
+
+=>a189
+What can you tell me about SFC Holloway?<end>
+
+=>q190_original
+Tim is a decorated veteran. He and his men are some of the best in the force. They've been through a lot of dangerous missions, some pure hell, and have shown dedication, bravery and honor. 
+
+Yet, they deserted the Protectorate, and did so in a critical period.<end>
+
+=>q190
+Tim is a decorated veteran. He and his men are some of the best in the force. They've been through a lot of dangerous missions, some pure hell, and have shown dedication, bravery and honor. 
+
+Yet, they deserted the Protectorate, and did so in a critical period.<end>
+
+=>q191_original
+Some officers told me he was starting to lose it, but... I don't know. The only reason we're trying to negotiate this is because of his squad's previous record, nothing else.
+
+Punishment awaits them, that is certain, but if they show reason, it might mitigate their sentence. <end>
+
+=>q191
+Some officers told me he was starting to lose it, but... I don't know. The only reason we're trying to negotiate this is because of his squad's previous record, nothing else.
+
+Punishment awaits them, that is certain, but if they show reason, it might mitigate their sentence. <end>
+
+=>a192_original
+What should I do if the negotiations fail?<end>
+
+=>a192
+What should I do if the negotiations fail?<end>
+
+=>q193_original
+If you find yourself in a difficult situation, Corporal, then by all means you're allowed to defend yourself.<end>
+
+=>q193
+If you find yourself in a difficult situation, Corporal, then by all means you're allowed to defend yourself.<end>
+
+=>q194_original
+Otherwise... just report back to Consul. We'll do the rest.<end>
+
+=>q194
+Otherwise... just report back to Consul. We'll do the rest.<end>
+
+=>a195_original
+What would happen to the rest of the squad if SFC Holloway was somehow removed?<end>
+
+=>a195
+What would happen to the rest of the squad if SFC Holloway was somehow removed?<end>
+
+=>q196_original
+Removed? Well, Corporal, I don't know what would happen. Those men are loyal to him, but I think they could perhaps be easier to convince to surrender in that case.<end>
+
+=>q196
+Removed? Well, Corporal, I don't know what would happen. Those men are loyal to him, but I think they could perhaps be easier to convince to surrender in that case.<end>
+
+=>q197_original
+Or, they could decide to go out in a blaze of glory. One can never be sure.<end>
+
+=>q197
+Or, they could decide to go out in a blaze of glory. One can never be sure.<end>
+
+=>a198_original
+I have other questions about the renegade soldiers, sir.<end>
+
+=>a198
+I have other questions about the renegade soldiers, sir.<end>
+
+=>q199_original
+Yes?<end>
+
+=>q199
+Yes?<end>
+
+=>a200_original
+I talked to Holloway, and he explained to me why they left.<end>
+
+=>a200
+I talked to Holloway, and he explained to me why they left.<end>
+
+=>q201_original
+You did? What did he say?<end>
+
+=>q201
+You did? What did he say?<end>
+
+=>a202_original
+::Tell Holloway's story.::<end>
+
+=>a202
+::Tell Holloway's story.::<end>
+
+=>q203_original
+::Colonel carefully listens to you as you slowly tell him verbatim what Holloway had told you. After you finish, you see that the colonel is silently pondering the situation, but his face tells you nothing more than that. Then, he speaks.::
+
+So, that's his story. I must admit I was surprised at some of the things you just told me, Corporal. I don't remember ordering any innocent civilians to be killed.<end>
+
+=>q203
+::Colonel carefully listens to you as you slowly tell him verbatim what Holloway had told you. After you finish, you see that the colonel is silently pondering the situation, but his face tells you nothing more than that. Then, he speaks.::
+
+So, that's his story. I must admit I was surprised at some of the things you just told me, Corporal. I don't remember ordering any innocent civilians to be killed.<end>
+
+=>q204_original
+Yet, horrible things happen in combat. It's hell out there, and perhaps there is some merit to what he says. But, don't forget that he is a deserter, Corporal. A cornered one. Can he really be trusted?<end>
+
+=>q204
+Yet, horrible things happen in combat. It's hell out there, and perhaps there is some merit to what he says. But, don't forget that he is a deserter, Corporal. A cornered one. Can he really be trusted?<end>
+
+=>a205_original
+::[Persuade]:: All Holloway and his men want is to be left alone. He never wanted to betray Protectorate, yet Protectorate betrayed him; he couldn't fight the system any more.<end>
+
+=>a205
+::[Persuade]:: All Holloway and his men want is to be left alone. He never wanted to betray Protectorate, yet Protectorate betrayed him; he couldn't fight the system any more.<end>
+
+=>q206_original
+::Colonel wanted to interrupt you at a certain point but decided against it. He listens to what you have to say and, after some thinking, he responds.:: 
+
+Listen up, Corporal. ::He sighs.:: Tell Tim and his men to surrender, give up their weapons and equipment and return to Fort Apogee. I will look into all the things he told you, and we will perform a thorough investigation. They have my word.<end>
+
+=>q206
+::Colonel wanted to interrupt you at a certain point but decided against it. He listens to what you have to say and, after some thinking, he responds.:: 
+
+Listen up, Corporal. ::He sighs.:: Tell Tim and his men to surrender, give up their weapons and equipment and return to Fort Apogee. I will look into all the things he told you, and we will perform a thorough investigation. They have my word.<end>
+
+=>q207_original
+This won't save them from court-martial, though, but if what he said is true, then we will take that into consideration.
+
+That's the best I can give you, Corporal. Now go.<end>
+
+=>q207
+This won't save them from court-martial, though, but if what he said is true, then we will take that into consideration.
+
+That's the best I can give you, Corporal. Now go.<end>
+
+=>a208_original
+Sir. ::Salute and leave.::<end>
+
+=>a208
+Sir. ::Salute and leave.::<end>
+
+=>q209_original
+So he deserted? You tell him to surrender, or else...!<end>
+
+=>q209
+So he deserted? You tell him to surrender, or else...!<end>
+
+=>q210_original
+Get moving, Corporal: My patience is at an end.<end>
+
+=>q210
+Get moving, Corporal: My patience is at an end.<end>
+
+=>a211_original
+I've no more questions, sir.<end>
+
+=>a211
+I've no more questions, sir.<end>
+
+=>q212_original
+Good... good. Then you are on your way to meet the deserters, Corporal.
+
+Good luck.<end>
+
+=>q212
+Good... good. Then you are on your way to meet the deserters, Corporal.
+
+Good luck.<end>
+
+=>a213_original
+What can you tell me about Fort Apogee?<end>
+
+=>a213
+What can you tell me about Fort Apogee?<end>
+
+=>q214_original
+Corporal, as you can witness for yourself, Fort Apogee is the main Protectorate base in South Underrail. It's been five years since Protectorate first arrived to the South, and we plan to stay here until law and order is brought to this... hell. It is hell, Corporal, you know it yourself. There were many obstacles in our way; some are still present, but Fort Apogee still stands.<end>
+
+=>q214
+Corporal, as you can witness for yourself, Fort Apogee is the main Protectorate base in South Underrail. It's been five years since Protectorate first arrived to the South, and we plan to stay here until law and order is brought to this... hell. It is hell, Corporal, you know it yourself. There were many obstacles in our way; some are still present, but Fort Apogee still stands.<end>
+
+=>q215_original
+True, we are being resisted by anarchists, bandits and the like, but those are easy to deal with most of the time, due to our military superiority. Logistics... that is a bigger issue, but the bad public opinion of the Protectorate is perhaps the largest obstacle we have to overcome, unfortunately.
+
+Fort Apogee should be the symbol of law, order, protection - not tyranny and oppression, as anarchists constantly claim. And it is something we are working hard on, Corporal.<end>
+
+=>q215
+True, we are being resisted by anarchists, bandits and the like, but those are easy to deal with most of the time, due to our military superiority. Logistics... that is a bigger issue, but the bad public opinion of the Protectorate is perhaps the largest obstacle we have to overcome, unfortunately.
+
+Fort Apogee should be the symbol of law, order, protection - not tyranny and oppression, as anarchists constantly claim. And it is something we are working hard on, Corporal.<end>
+
+=>q216_original
+You are a part of the Protectorate now, Corporal. Never forget why we're here and what we fight for.<end>
+
+=>q216
+You are a part of the Protectorate now, Corporal. Never forget why we're here and what we fight for.<end>
+
+=>a217_original
+What can you tell me about Consul Oliver?<end>
+
+=>a217
+What can you tell me about Consul Oliver?<end>
+
+=>q218_original
+Consul Oliver is a man of diplomacy, which is desirable, considering he *is* the consul. ::He chuckles.:: I have great respect for him and can rely on him. I must add that I am not someone who firmly believes that all issues can be resolved through superior firepower.<end>
+
+=>q218
+Consul Oliver is a man of diplomacy, which is desirable, considering he *is* the consul. ::He chuckles.:: I have great respect for him and can rely on him. I must add that I am not someone who firmly believes that all issues can be resolved through superior firepower.<end>
+
+=>q219_original
+But, there are many occasions where exactly that is the case, and that is the reason Protectorate exists in the first place. When all hell breaks loose, it is our duty to deal with it and enforce order. Consul Oliver, unfortunately, often fails to realize that and comes to my office, proposing certain "diplomatic" alternatives, ones I know can't be applied in that particular case. Impossible, Corporal, sometimes it's just impossible.<end>
+
+=>q219
+But, there are many occasions where exactly that is the case, and that is the reason Protectorate exists in the first place. When all hell breaks loose, it is our duty to deal with it and enforce order. Consul Oliver, unfortunately, often fails to realize that and comes to my office, proposing certain "diplomatic" alternatives, ones I know can't be applied in that particular case. Impossible, Corporal, sometimes it's just impossible.<end>
+
+=>q220_original
+Luckily, in those situations, I make the final decisions, no matter how difficult they sometimes are.<end>
+
+=>q220
+Luckily, in those situations, I make the final decisions, no matter how difficult they sometimes are.<end>
+
+=>a221_original
+What can you tell me about CAU?<end>
+
+=>a221
+What can you tell me about CAU?<end>
+
+=>q222_original
+::He frowns before replying.:: The Chemical Assault Unit is a special task force that is usually dispatched on difficult missions. While they mostly operate in the North... they were dispatched here after the attack on Epione Lab, as you can see for yourself. To tell you the truth, Corporal, the existence of such a unit is... ::He makes a long pause.:: Let's say we could do without them, Corporal.<end>
+
+=>q222
+::He frowns before replying.:: The Chemical Assault Unit is a special task force that is usually dispatched on difficult missions. While they mostly operate in the North... they were dispatched here after the attack on Epione Lab, as you can see for yourself. To tell you the truth, Corporal, the existence of such a unit is... ::He makes a long pause.:: Let's say we could do without them, Corporal.<end>
+
+=>q223_original
+While their efficiency was never in question, for they are indeed highly trained individuals... it's their methods that are extreme. Too extreme, as far as I'm concerned, and give the Protectorate a bad name. 
+
+But, often we have to deal with certain things whether we like it or not, so CAU is here to stay.<end>
+
+=>q223
+While their efficiency was never in question, for they are indeed highly trained individuals... it's their methods that are extreme. Too extreme, as far as I'm concerned, and give the Protectorate a bad name. 
+
+But, often we have to deal with certain things whether we like it or not, so CAU is here to stay.<end>
+
+=>q224_original
+That is all I have to say, Corporal.<end>
+
+=>q224
+That is all I have to say, Corporal.<end>
+
+=>a225_original
+Who is this Red Snake you mentioned?<end>
+
+=>a225
+Who is this Red Snake you mentioned?<end>
+
+=>q226_original
+Red Snake is a Free Drone who had decided to aid the Protectorate in our fight against the anarchists. I suspect he saw their real face and decided to double-cross them and become a Protectorate spy. His information were always incredibly accurate and reliable, and proved crucial in exposing multiple Free Drones hideouts. He warned us about their operations so that we could act in time, and generally leaked information regarding important figures within the anarchist movement.<end>
+
+=>q226
+Red Snake is a Free Drone who had decided to aid the Protectorate in our fight against the anarchists. I suspect he saw their real face and decided to double-cross them and become a Protectorate spy. His information were always incredibly accurate and reliable, and proved crucial in exposing multiple Free Drones hideouts. He warned us about their operations so that we could act in time, and generally leaked information regarding important figures within the anarchist movement.<end>
+
+=>a227_original
+::[Persuade]:: Pardon me, sir, but I somehow doubt that he simply "realized" he had been working for the bad guys and decided to switch sides. I think I've earned enough respect by now to know more about the matter.<end>
+
+=>a227
+::[Persuade]:: Pardon me, sir, but I somehow doubt that he simply "realized" he had been working for the bad guys and decided to switch sides. I think I've earned enough respect by now to know more about the matter.<end>
+
+=>q228_original
+::Colonel Cathcart pauses for a few moments before replying.:: You are absolutely right, Corporal, I haven't told you everything. I suppose I could, though... but it would be best if this were to stay between you and me.<end>
+
+=>q228
+::Colonel Cathcart pauses for a few moments before replying.:: You are absolutely right, Corporal, I haven't told you everything. I suppose I could, though... but it would be best if this were to stay between you and me.<end>
+
+=>q229_original
+Red Snake is not just some common anarchist - he is one of the high-ranking members of the Free Drones, and shares command over the South Underrail "cell," as they refer to it. You understand that bringing a man like that to the other side is no simple feat, but some "persuasion" had proven enough for him to betray his comrades.<end>
+
+=>q229
+Red Snake is not just some common anarchist - he is one of the high-ranking members of the Free Drones, and shares command over the South Underrail "cell," as they refer to it. You understand that bringing a man like that to the other side is no simple feat, but some "persuasion" had proven enough for him to betray his comrades.<end>
+
+=>a230_original
+Persuasion?<end>
+
+=>a230
+Persuasion?<end>
+
+=>q231_original
+::After a second of hesitation, he continues.:: Free Drones are a kind of people who either completely sever ties to their families when they become anarchists, or they bring their whole families with them. Red Snake, real name Alvin Bate, did neither. Our intelligence agency learned of a teenage girl who was suspected of being contacted by one of the Free Drones. It turned out she was Bate's daughter, and he soon fell into a trap we had set up for him.<end>
+
+=>q231
+::After a second of hesitation, he continues.:: Free Drones are a kind of people who either completely sever ties to their families when they become anarchists, or they bring their whole families with them. Red Snake, real name Alvin Bate, did neither. Our intelligence agency learned of a teenage girl who was suspected of being contacted by one of the Free Drones. It turned out she was Bate's daughter, and he soon fell into a trap we had set up for him.<end>
+
+=>a232_original
+So you gave him an ultimatum.<end>
+
+=>a232
+So you gave him an ultimatum.<end>
+
+=>q233_original
+Yes. <end>
+
+=>q233
+Yes. <end>
+
+=>q234_original
+You have to understand that these things have to be done from time to time. But, the girl is completely safe; we are simply using the Free Drones' twisted perception of the Protectorate to our advantage: They consider us to be tyrannical and inhumane, so we play that role by placing a knife under that girl's throat and make our demands. But the knife is dull, Corporal. It is dull. 
+
+We are not who they think we are.<end>
+
+=>q234
+You have to understand that these things have to be done from time to time. But, the girl is completely safe; we are simply using the Free Drones' twisted perception of the Protectorate to our advantage: They consider us to be tyrannical and inhumane, so we play that role by placing a knife under that girl's throat and make our demands. But the knife is dull, Corporal. It is dull. 
+
+We are not who they think we are.<end>
+
+=>q235_original
+But, it is all irrelevant now, Corporal. All irrelevant.<end>
+
+=>q235
+But, it is all irrelevant now, Corporal. All irrelevant.<end>
+
+=>a236_original
+Why did he stop sending information, sir?<end>
+
+=>a236
+Why did he stop sending information, sir?<end>
+
+=>q237_original
+We... are not sure. We received no warning that Epione Lab would come under attack, let alone that the results would be so disastrous for us. I suspect that he had been compromised somehow and possibly executed by the anarchists.<end>
+
+=>q237
+We... are not sure. We received no warning that Epione Lab would come under attack, let alone that the results would be so disastrous for us. I suspect that he had been compromised somehow and possibly executed by the anarchists.<end>
+
+=>q238_original
+Whatever the reason, it doesn't really matter anymore.<end>
+
+=>q238
+Whatever the reason, it doesn't really matter anymore.<end>
+
+=>a239_original
+I had other questions for you.<end>
+
+=>a239
+I had other questions for you.<end>
+
+=>q240_original
+Feel free, Corporal.<end>
+
+=>q240
+Feel free, Corporal.<end>
+
+=>a241_original
+Excellent! That is some fine work by them; gathering such information must've been extremely difficult.<end>
+
+=>a241
+Excellent! That is some fine work by them; gathering such information must've been extremely difficult.<end>
+
+=>q242_original
+I can only imagine myself. <end>
+
+=>q242
+I can only imagine myself. <end>
+
+=>q243_original
+You will know what I decide you should know, Corporal. Now stop asking me about Red Snake's motives.<end>
+
+=>q243
+You will know what I decide you should know, Corporal. Now stop asking me about Red Snake's motives.<end>
+
+=>a244_original
+Interesting, sir. But I have other questions I'd like to ask.<end>
+
+=>a244
+Interesting, sir. But I have other questions I'd like to ask.<end>
+
+=>q245_original
+Yes?
+
+::Says the man behind the table with a heavy, booming voice. He is an older gentleman of high rank, as his general appearance suggests. You notice him squinting at you, and you observe his eyes working hard to keep you in focus and the image clear. His eyesight must not be as precise as it once probably was. Still, other than that, he seems to be in good shape for a man of his age.::<end>
+
+=>q245
+Yes?
+
+::Says the man behind the table with a heavy, booming voice. He is an older gentleman of high rank, as his general appearance suggests. You notice him squinting at you, and you observe his eyes working hard to keep you in focus and the image clear. His eyesight must not be as precise as it once probably was. Still, other than that, he seems to be in good shape for a man of his age.::<end>
+
+=>q246_original
+<end>
+
+=>q246
+<end>
+
+=>a247_original
+I'm looking for Consul Oliver.<end>
+
+=>a247
+I'm looking for Consul Oliver.<end>
+
+=>q248_original
+Then you entered the wrong office... without even knocking. Consul Oliver's office is the one next to mine.<end>
+
+=>q248
+Then you entered the wrong office... without even knocking. Consul Oliver's office is the one next to mine.<end>
+
+=>a249_original
+I'll knock next time, I promise.<end>
+
+=>a249
+I'll knock next time, I promise.<end>
+
+=>q250_original
+I have no doubt you will. <end>
+
+=>q250
+I have no doubt you will. <end>
+
+=>q251_original
+After you're finished with the consul - come see me. I'll be in the office.<end>
+
+=>q251
+After you're finished with the consul - come see me. I'll be in the office.<end>
+
+=>a252_original
+Thank you, and sorry for disturbing you.<end>
+
+=>a252
+Thank you, and sorry for disturbing you.<end>
+
+=>a253_original
+I talked to Consul Oliver and he told me to see you.<end>
+
+=>a253
+I talked to Consul Oliver and he told me to see you.<end>
+
+=>q254_original
+So, that part is done. Good, very good. And now, allow me to properly introduce myself: I am Colonel Frederick Cathcart, base commander of Fort Apogee, the headquarters of Underrail Protectorate military operations in South Underrail. Your name is known to me already, $(context.player.Name). I have heard a lot about you so far, and I've yet to confirm if all that is indeed true.
+
+Hmmm... care for a cup of mushroom tea?<end>
+
+=>q254
+So, that part is done. Good, very good. And now, allow me to properly introduce myself: I am Colonel Frederick Cathcart, base commander of Fort Apogee, the headquarters of Underrail Protectorate military operations in South Underrail. Your name is known to me already, $(context.player.Name). I have heard a lot about you so far, and I've yet to confirm if all that is indeed true.
+
+Hmmm... care for a cup of mushroom tea?<end>
+
+=>a255_original
+Yes, I would like a cup of tea. Thank you.<end>
+
+=>a255
+Yes, I would like a cup of tea. Thank you.<end>
+
+=>q256_original
+That's what I like to hear. $(context.player.Name). ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order two cups of mushroom tea for me and my guest? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>q256
+That's what I like to hear. $(context.player.Name). ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order two cups of mushroom tea for me and my guest? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>q257_original
+::He leans back into his chair.:: Aaah, now we wait. Where were we? Yes...
+
+From what I understand, you want to join the Protectorate forces? Why is that, $(context.player.Name)? What is your take on this hell we live in? Out of all these... different organizations you could choose from... why Underrail Protectorate?<end>
+
+=>q257
+::He leans back into his chair.:: Aaah, now we wait. Where were we? Yes...
+
+From what I understand, you want to join the Protectorate forces? Why is that, $(context.player.Name)? What is your take on this hell we live in? Out of all these... different organizations you could choose from... why Underrail Protectorate?<end>
+
+=>a258_original
+I see the Protectorate as the future of Underrail. I believe unifying the stations under a single rule is the proper way to make Underrail safe and prosperous.<end>
+
+=>a258
+I see the Protectorate as the future of Underrail. I believe unifying the stations under a single rule is the proper way to make Underrail safe and prosperous.<end>
+
+=>q259_original
+Correct. What you said is true, $(context.player.Name). Just, let me tell you one thing, because I have a feeling that there could be some misunderstanding.
+
+It is true, we want the world to be unified, safe and... as you put it, prosperous. But, if you have any dreams of it being done in a completely diplomatic way, you are wrong. The reason Protectorate exists is so that those who can not be reasoned with can be stopped from undoing what we're building here. Like those Free Drones. They are anarchists. Do you know what anarchism is?<end>
+
+=>q259
+Correct. What you said is true, $(context.player.Name). Just, let me tell you one thing, because I have a feeling that there could be some misunderstanding.
+
+It is true, we want the world to be unified, safe and... as you put it, prosperous. But, if you have any dreams of it being done in a completely diplomatic way, you are wrong. The reason Protectorate exists is so that those who can not be reasoned with can be stopped from undoing what we're building here. Like those Free Drones. They are anarchists. Do you know what anarchism is?<end>
+
+=>q260_original
+Chaos, complete chaos. You can't negotiate with that. So, in that very extreme case, we need to act appropriately.
+
+We are not savages, we don't abuse our power. But when diplomacy can't be applied, force must be.<end>
+
+=>q260
+Chaos, complete chaos. You can't negotiate with that. So, in that very extreme case, we need to act appropriately.
+
+We are not savages, we don't abuse our power. But when diplomacy can't be applied, force must be.<end>
+
+=>q261_original
+::The woman you saw out front enters the office.::<end>
+
+=>q261
+::The woman you saw out front enters the office.::<end>
+
+=>q262_original
+::Colonel smiles.:: Miss Trey, how lovely. One is for $(#Mister/Miss) $(context.player.Name) and one for me. Thank you.
+
+::She puts the cups down and leaves the office.::<end>
+
+=>q262
+::Colonel smiles.:: Miss Trey, how lovely. One is for $(#Mister/Miss) $(context.player.Name) and one for me. Thank you.
+
+::She puts the cups down and leaves the office.::<end>
+
+=>q263_original
+Well, now that the tea is here, how about I explain to you your duties here and all the other necessities. ::He takes a sip.:: Ooh, good, good. Nice and hot.
+
+So, listen up...<end>
+
+=>q263
+Well, now that the tea is here, how about I explain to you your duties here and all the other necessities. ::He takes a sip.:: Ooh, good, good. Nice and hot.
+
+So, listen up...<end>
+
+=>q264_original
+$(context.player.Name), you will, should you chose so, become a member of the Underrail Protectorate. You will not be a part of any existing force. Your role will be a bit more specialized. I will be your commanding officer, and you will answer directly to me and me only. My word is the law here, remember that.
+
+So, does that sound acceptable to you? Will you join the Protectorate?<end>
+
+=>q264
+$(context.player.Name), you will, should you chose so, become a member of the Underrail Protectorate. You will not be a part of any existing force. Your role will be a bit more specialized. I will be your commanding officer, and you will answer directly to me and me only. My word is the law here, remember that.
+
+So, does that sound acceptable to you? Will you join the Protectorate?<end>
+
+=>a265_original
+It is acceptable. I'm ready to join the Protectorate.<end>
+
+=>a265
+It is acceptable. I'm ready to join the Protectorate.<end>
+
+=>q266_original
+Very good, very good!
+
+You will refer to me as "sir," and, according to proper military etiquette, a junior officer always salutes $(#his/her) superior first. I suggest you familiarize yourself with proper military etiquette, because from now on, I will accept no excuses.
+
+Am I clear so far?<end>
+
+=>q266
+Very good, very good!
+
+You will refer to me as "sir," and, according to proper military etiquette, a junior officer always salutes $(#his/her) superior first. I suggest you familiarize yourself with proper military etiquette, because from now on, I will accept no excuses.
+
+Am I clear so far?<end>
+
+=>a267_original
+Yes, sir.<end>
+
+=>a267
+Yes, sir.<end>
+
+=>q268_original
+That's what I like to hear. For your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>q268
+That's what I like to hear. For your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>q269_original
+And with that, you are allowed nearly full access to Fort Apogee, its food service, armory, mechanical shop, sleeping and training quarters and so forth. While we're at it, you are advised to see Staff Sergeant Fraser when you have the time. He is in charge of your payment, and you can purchase equipment from him at any time.
+
+Do note that you will need United Stations dollars to purchase anything in Fort Apogee. Staff Sergeant can also help you with that.<end>
+
+=>q269
+And with that, you are allowed nearly full access to Fort Apogee, its food service, armory, mechanical shop, sleeping and training quarters and so forth. While we're at it, you are advised to see Staff Sergeant Fraser when you have the time. He is in charge of your payment, and you can purchase equipment from him at any time.
+
+Do note that you will need United Stations dollars to purchase anything in Fort Apogee. Staff Sergeant can also help you with that.<end>
+
+=>a270_original
+Thank you, sir. Is that all, sir?<end>
+
+=>a270
+Thank you, sir. Is that all, sir?<end>
+
+=>q271_original
+Thank me by showing your dedication to Protectorate and the United Stations. We're far from over, Corporal.
+
+It just so happens that I have a mission for you. Let's see what you're made of, Corporal.<end>
+
+=>q271
+Thank me by showing your dedication to Protectorate and the United Stations. We're far from over, Corporal.
+
+It just so happens that I have a mission for you. Let's see what you're made of, Corporal.<end>
+
+=>a272_original
+Yes.<end>
+
+=>a272
+Yes.<end>
+
+=>q273_original
+Sir. Yes, sir. Remember what I told you. I will not repeat it again.
+
+Anyway, for your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>q273
+Sir. Yes, sir. Remember what I told you. I will not repeat it again.
+
+Anyway, for your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>a274_original
+Kind of...<end>
+
+=>a274
+Kind of...<end>
+
+=>q275_original
+Sir. Kind of, sir. Remember what I told you. I will not repeat it again.
+
+Anyway, for your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>q275
+Sir. Kind of, sir. Remember what I told you. I will not repeat it again.
+
+Anyway, for your assistance in the recovery of the captured train, and for dedication to Protectorate, you are promoted to the rank of corporal.<end>
+
+=>a276_original
+Hell yeah! It sounds perfect!<end>
+
+=>a276
+Hell yeah! It sounds perfect!<end>
+
+=>a277_original
+Sorry Colonel, but this isn't how I imagined all this. I'm going to have to decline.<end>
+
+=>a277
+Sorry Colonel, but this isn't how I imagined all this. I'm going to have to decline.<end>
+
+=>q278_original
+That's fair enough. Well then, you've made your choice, $(context.player.Name). I guess you came all the way here for nothing. I believe we are done then. Goodbye, $(context.player.Name).<end>
+
+=>q278
+That's fair enough. Well then, you've made your choice, $(context.player.Name). I guess you came all the way here for nothing. I believe we are done then. Goodbye, $(context.player.Name).<end>
+
+=>q279_original
+One thing - once you leave Fort Apogee, you will not be allowed to return here, remember that.<end>
+
+=>q279
+One thing - once you leave Fort Apogee, you will not be allowed to return here, remember that.<end>
+
+=>a280_original
+Goodbye, Colonel.<end>
+
+=>a280
+Goodbye, Colonel.<end>
+
+=>a281_original
+I'll keep that in mind.<end>
+
+=>a281
+I'll keep that in mind.<end>
+
+=>q282_original
+::Colonel smiles.:: Miss Trey, how lovely. The cup of tea is for me. Thank you.
+
+::She puts the cups down and leaves the office.::<end>
+
+=>q282
+::Colonel smiles.:: Miss Trey, how lovely. The cup of tea is for me. Thank you.
+
+::She puts the cups down and leaves the office.::<end>
+
+=>a283_original
+I wanted to help South Underrail by fighting raiders, bandits... and of course, those filthy Free Drones.<end>
+
+=>a283
+I wanted to help South Underrail by fighting raiders, bandits... and of course, those filthy Free Drones.<end>
+
+=>q284_original
+::The Colonel raises his left eyebrow.::
+
+In that case, you won't be bored here. Very good. Straight to the point, that's what I like to hear. While our beloved ambassador, consul as well, believe that we can sort everything out by diplomacy, you know that that's not true. How do you negotiate with raiders... or, Free Drones? Faceless? Perhaps even they can be reasoned with, but Free Drones? They are anarchists. Do you know what anarchism is?<end>
+
+=>q284
+::The Colonel raises his left eyebrow.::
+
+In that case, you won't be bored here. Very good. Straight to the point, that's what I like to hear. While our beloved ambassador, consul as well, believe that we can sort everything out by diplomacy, you know that that's not true. How do you negotiate with raiders... or, Free Drones? Faceless? Perhaps even they can be reasoned with, but Free Drones? They are anarchists. Do you know what anarchism is?<end>
+
+=>a285_original
+Protectorate is the largest and most powerful faction in Underrail. It can offer me safety, a steady job and respect.<end>
+
+=>a285
+Protectorate is the largest and most powerful faction in Underrail. It can offer me safety, a steady job and respect.<end>
+
+=>q286_original
+I like your response. Honest, straightforward. You could have easily been more "diplomatic" and told me how, say, you wanted to see the stations united, help us create a better future, protect the people, any of that. <end>
+
+=>q286
+I like your response. Honest, straightforward. You could have easily been more "diplomatic" and told me how, say, you wanted to see the stations united, help us create a better future, protect the people, any of that. <end>
+
+=>q287_original
+I have no illusions that most Southerners join our ranks for economic reason, personal and family security and other benefits, but as long as they're willing to accept discipline, integration and above all - duty, then they are all welcome.<end>
+
+=>q287
+I have no illusions that most Southerners join our ranks for economic reason, personal and family security and other benefits, but as long as they're willing to accept discipline, integration and above all - duty, then they are all welcome.<end>
+
+=>a288_original
+As long as the coin's good, I'm up for anything. And the Protectorate seems to be one of the wealthiest factions around.<end>
+
+=>a288
+As long as the coin's good, I'm up for anything. And the Protectorate seems to be one of the wealthiest factions around.<end>
+
+=>q289_original
+Honest and straightforward, I have to say. You could have told me anything at all, any one of the stock responses regarding creating a better future and all of that. Yet you chose that very response. <end>
+
+=>q289
+Honest and straightforward, I have to say. You could have told me anything at all, any one of the stock responses regarding creating a better future and all of that. Yet you chose that very response. <end>
+
+=>a290_original
+I had no other place to go to.<end>
+
+=>a290
+I had no other place to go to.<end>
+
+=>q291_original
+::The colonel raises his left eyebrow.::
+
+The only way I can interpret that is... well, that things in SGS aren't the best. At least not for you. Still, I value your honesty, but the way you expressed it... it signals weakness. Like you're running away from something. Here in Underrail Protectorate, we face anything that gets tossed our way, and it's more than just Free Drones and common banditry.<end>
+
+=>q291
+::The colonel raises his left eyebrow.::
+
+The only way I can interpret that is... well, that things in SGS aren't the best. At least not for you. Still, I value your honesty, but the way you expressed it... it signals weakness. Like you're running away from something. Here in Underrail Protectorate, we face anything that gets tossed our way, and it's more than just Free Drones and common banditry.<end>
+
+=>q292_original
+But, I was assured by both the ambassador and the consul, even Major Clifton, that you have no lack of courage, that you show great potential. We'll see. We will see.<end>
+
+=>q292
+But, I was assured by both the ambassador and the consul, even Major Clifton, that you have no lack of courage, that you show great potential. We'll see. We will see.<end>
+
+=>a293_original
+No, sir.<end>
+
+=>a293
+No, sir.<end>
+
+=>q294_original
+As you will. I'll have one. ::He lifts the phone from the base and presses a single button.:: Miss Trey, would you be so kind to order one cup of mushroom tea for me? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>q294
+As you will. I'll have one. ::He lifts the phone from the base and presses a single button.:: Miss Trey, would you be so kind to order one cup of mushroom tea for me? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>a295_original
+::Make a disgusted face.::<end>
+
+=>a295
+::Make a disgusted face.::<end>
+
+=>q296_original
+Not a fan, I see. What do you drink if not mushroom tea? 
+
+Well, I'll have a cup. ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order one cup of mushroom tea for me? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>q296
+Not a fan, I see. What do you drink if not mushroom tea? 
+
+Well, I'll have a cup. ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order one cup of mushroom tea for me? Excellent... in my office, right. Good. ::He hangs up.::<end>
+
+=>a297_original
+Sorry, wrong office.<end>
+
+=>a297
+Sorry, wrong office.<end>
+
+=>q298_original
+Yes?<end>
+
+=>q298
+Yes?<end>
+
+=>q299_original
+At ease, Corporal.<end>
+
+=>q299
+At ease, Corporal.<end>
+

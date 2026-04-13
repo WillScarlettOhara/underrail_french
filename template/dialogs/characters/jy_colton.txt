@@ -1,0 +1,486 @@
+=>q1_original
+Ya did it. ::He pauses, almost nodding.:: Ya really did it. 
+
+Depot B is now ours!<end>
+
+=>q1
+Ya did it. ::He pauses, almost nodding.:: Ya really did it. 
+
+Depot B is now ours!<end>
+
+=>q2_original
+Now, well, guess I'll be takin' over for the time bein', now that we ain't got a dockmaster. Shame it had to be this way, though. We'll see what happens next.<end>
+
+=>q2
+Now, well, guess I'll be takin' over for the time bein', now that we ain't got a dockmaster. Shame it had to be this way, though. We'll see what happens next.<end>
+
+=>q3_original
+Now, about *you*... ::He hands you 700 stygian coins.:: Here. Yer share of the loot.
+
+Ya did us a massive favor, $(#jack/lady). Wouldn't have done it without ya. Consider yerself our ally, and know we got yer back when yer out there on the streets of Junkyard.<end>
+
+=>q3
+Now, about *you*... ::He hands you 700 stygian coins.:: Here. Yer share of the loot.
+
+Ya did us a massive favor, $(#jack/lady). Wouldn't have done it without ya. Consider yerself our ally, and know we got yer back when yer out there on the streets of Junkyard.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Show me what you have. ::Barter.::<end>
+
+=>a5
+Show me what you have. ::Barter.::<end>
+
+=>a6_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a6
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q7_original
+Glad ya asked. I can change them into charons at a decent rate. Just show me what ya got and I'll make ya a deal.<end>
+
+=>q7
+Glad ya asked. I can change them into charons at a decent rate. Just show me what ya got and I'll make ya a deal.<end>
+
+=>a8_original
+I want to buy some stygian coins.<end>
+
+=>a8
+I want to buy some stygian coins.<end>
+
+=>q9_original
+Whatcha got?<end>
+
+=>q9
+Whatcha got?<end>
+
+=>a10_original
+I've got some South Gate Station Credits.<end>
+
+=>a10
+I've got some South Gate Station Credits.<end>
+
+=>q11_original
+I'll give ya one charon for four SGS credits. Sounds good? <end>
+
+=>q11
+I'll give ya one charon for four SGS credits. Sounds good? <end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+::Trade 4 SGS credits for 1 stygian coin.::<end>
+
+=>a13
+::Trade 4 SGS credits for 1 stygian coin.::<end>
+
+=>q14_original
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>q14
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>a15_original
+::Trade 40 SGS credits for 10 stygian coins.::<end>
+
+=>a15
+::Trade 40 SGS credits for 10 stygian coins.::<end>
+
+=>a16_original
+::Trade 400 SGS credits for 100 stygian coins.::<end>
+
+=>a16
+::Trade 400 SGS credits for 100 stygian coins.::<end>
+
+=>a17_original
+::Trade 4000 SGS credits for 1000 stygian coins.::<end>
+
+=>a17
+::Trade 4000 SGS credits for 1000 stygian coins.::<end>
+
+=>a18_original
+Maybe later.<end>
+
+=>a18
+Maybe later.<end>
+
+=>q19_original
+Alright.<end>
+
+=>q19
+Alright.<end>
+
+=>q20_original
+I'll give ya one charon for five SGS credits. Sounds good? <end>
+
+=>q20
+I'll give ya one charon for five SGS credits. Sounds good? <end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+::Trade 5 SGS credits for 1 stygian coin.::<end>
+
+=>a22
+::Trade 5 SGS credits for 1 stygian coin.::<end>
+
+=>q23_original
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>q23
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>a24_original
+::Trade 50 SGS credits for 10 stygian coins.::<end>
+
+=>a24
+::Trade 50 SGS credits for 10 stygian coins.::<end>
+
+=>a25_original
+::Trade 500 SGS credits for 100 stygian coins.::<end>
+
+=>a25
+::Trade 500 SGS credits for 100 stygian coins.::<end>
+
+=>a26_original
+::Trade 5000 SGS credits for 1000 stygian coins.::<end>
+
+=>a26
+::Trade 5000 SGS credits for 1000 stygian coins.::<end>
+
+=>a27_original
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to the Scrappers?<end>
+
+=>a27
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to the Scrappers?<end>
+
+=>q28_original
+Alright, alright. Tell you what. <end>
+
+=>q28
+Alright, alright. Tell you what. <end>
+
+=>q29_original
+Go right ahead. I doubt they'll give you a better deal.<end>
+
+=>q29
+Go right ahead. I doubt they'll give you a better deal.<end>
+
+=>a30_original
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to someone else?<end>
+
+=>a30
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to someone else?<end>
+
+=>q31_original
+Go right ahead. I doubt anyone'll give you a better deal.<end>
+
+=>q31
+Go right ahead. I doubt anyone'll give you a better deal.<end>
+
+=>a32_original
+No way, that's not even close to a fair deal.<end>
+
+=>a32
+No way, that's not even close to a fair deal.<end>
+
+=>q33_original
+Sorry, can't go any lower than that.<end>
+
+=>q33
+Sorry, can't go any lower than that.<end>
+
+=>a34_original
+Maybe later.<end>
+
+=>a34
+Maybe later.<end>
+
+=>a35_original
+Oops, I think I left my wallet in my other armor suit.<end>
+
+=>a35
+Oops, I think I left my wallet in my other armor suit.<end>
+
+=>q36_original
+Happens all the time.<end>
+
+=>q36
+Happens all the time.<end>
+
+=>a37_original
+Would you happen to, by any chance, have an Armadillo class drill rotor circuit board?<end>
+
+=>a37
+Would you happen to, by any chance, have an Armadillo class drill rotor circuit board?<end>
+
+=>q38_original
+No. I've got lots of junk, but I ain't got any Armadillo parts. Doubt any merchant here got those either.<end>
+
+=>q38
+No. I've got lots of junk, but I ain't got any Armadillo parts. Doubt any merchant here got those either.<end>
+
+=>q39_original
+Maybe ya can find those at the Old Junkyard, can't be sure.<end>
+
+=>q39
+Maybe ya can find those at the Old Junkyard, can't be sure.<end>
+
+=>a40_original
+Heard of a guy named Chester Royce?<end>
+
+=>a40
+Heard of a guy named Chester Royce?<end>
+
+=>q41_original
+Royce, Royce... Doesn't ring a bell. Why?<end>
+
+=>q41
+Royce, Royce... Doesn't ring a bell. Why?<end>
+
+=>a42_original
+Will a few charons help it ring?<end>
+
+=>a42
+Will a few charons help it ring?<end>
+
+=>q43_original
+Wish they could, but not in this case, $(#jack/lady).<end>
+
+=>q43
+Wish they could, but not in this case, $(#jack/lady).<end>
+
+=>q44_original
+Go to Kareem's Bar. He might know somethin'.<end>
+
+=>q44
+Go to Kareem's Bar. He might know somethin'.<end>
+
+=>a45_original
+I'm looking for him. Know anyone who can help me?<end>
+
+=>a45
+I'm looking for him. Know anyone who can help me?<end>
+
+=>a46_original
+I need to talk to him about his dead brother. Know anyone who can help me?<end>
+
+=>a46
+I need to talk to him about his dead brother. Know anyone who can help me?<end>
+
+=>a47_original
+I need to talk to him about his dead sister. Know anyone who can help me?<end>
+
+=>a47
+I need to talk to him about his dead sister. Know anyone who can help me?<end>
+
+=>a48_original
+That's not important. Know anyone who can help me?<end>
+
+=>a48
+That's not important. Know anyone who can help me?<end>
+
+=>a49_original
+I thought a guy like you meets a lot of people.<end>
+
+=>a49
+I thought a guy like you meets a lot of people.<end>
+
+=>q50_original
+I do. ::He chuckles.:: But I can't know everyone, $(#jack/lady). Maybe... this Chester of yours prefers dealin' with the Scappers and doesn't come over.<end>
+
+=>q50
+I do. ::He chuckles.:: But I can't know everyone, $(#jack/lady). Maybe... this Chester of yours prefers dealin' with the Scappers and doesn't come over.<end>
+
+=>a51_original
+Tell me about Old Junkyard.<end>
+
+=>a51
+Tell me about Old Junkyard.<end>
+
+=>q52_original
+"Old Junkyard", "Depot A". It's the original junkyard this town was built next to from the scrap our predecessors found there. It's a restricted area now, though, on account of some accident with a mutagen tank that happened a long time ago.<end>
+
+=>q52
+"Old Junkyard", "Depot A". It's the original junkyard this town was built next to from the scrap our predecessors found there. It's a restricted area now, though, on account of some accident with a mutagen tank that happened a long time ago.<end>
+
+=>q53_original
+It's a crazy zone now: rabid dogs, mutants, flipped-out auto-turrets...<end>
+
+=>q53
+It's a crazy zone now: rabid dogs, mutants, flipped-out auto-turrets...<end>
+
+=>q54_original
+There's still lots of valuable junk there, though, <end>
+
+=>q54
+There's still lots of valuable junk there, though, <end>
+
+=>q55_original
+and thanks to yer help, the gates leadin' to it are now under our control.<end>
+
+=>q55
+and thanks to yer help, the gates leadin' to it are now under our control.<end>
+
+=>q56_original
+and ya got Scrappers still doin' raids there. And they ain't lettin' many other folks get in. 
+
+That's the problem, ya see - those bastards control the gate. It's in their freakin' base.<end>
+
+=>q56
+and ya got Scrappers still doin' raids there. And they ain't lettin' many other folks get in. 
+
+That's the problem, ya see - those bastards control the gate. It's in their freakin' base.<end>
+
+=>a57_original
+I'm sure there's another way in.<end>
+
+=>a57
+I'm sure there's another way in.<end>
+
+=>q58_original
+::He lowers his voice as he looks about.:: <end>
+
+=>q58
+::He lowers his voice as he looks about.:: <end>
+
+=>q59_original
+Now, I didn't say that. <end>
+
+=>q59
+Now, I didn't say that. <end>
+
+=>q60_original
+Ya know what they say - where there's will there's a way.<end>
+
+=>q60
+Ya know what they say - where there's will there's a way.<end>
+
+=>q61_original
+If ya wanna learn more, the Black Eels might be able to help ya.<end>
+
+=>q61
+If ya wanna learn more, the Black Eels might be able to help ya.<end>
+
+=>a62_original
+How so?<end>
+
+=>a62
+How so?<end>
+
+=>q63_original
+Talk to Silas, the dockmaster. Tell him Colton sent ya and that yer interested in the "wormhole." He'll tell ya more about it.<end>
+
+=>q63
+Talk to Silas, the dockmaster. Tell him Colton sent ya and that yer interested in the "wormhole." He'll tell ya more about it.<end>
+
+=>a64_original
+I'll keep that in mind.<end>
+
+=>a64
+I'll keep that in mind.<end>
+
+=>q65_original
+::He nods.::<end>
+
+=>q65
+::He nods.::<end>
+
+=>q66_original
+If ya absolutely need that Armadillo part, the Black Eels might be able to help ya.<end>
+
+=>q66
+If ya absolutely need that Armadillo part, the Black Eels might be able to help ya.<end>
+
+=>a67_original
+So there's no other way in?<end>
+
+=>a67
+So there's no other way in?<end>
+
+=>a68_original
+Bummer.<end>
+
+=>a68
+Bummer.<end>
+
+=>q69_original
+Yeah.<end>
+
+=>q69
+Yeah.<end>
+
+=>a70_original
+So how can you help me get into Depot A?<end>
+
+=>a70
+So how can you help me get into Depot A?<end>
+
+=>a71_original
+Silas told me you've got the explosives ready.<end>
+
+=>a71
+Silas told me you've got the explosives ready.<end>
+
+=>q72_original
+Yep, here ya go. Don't blow yerself up.<end>
+
+=>q72
+Yep, here ya go. Don't blow yerself up.<end>
+
+=>a73_original
+I won't.<end>
+
+=>a73
+I won't.<end>
+
+=>a74_original
+Who do you take me for? I'm off.<end>
+
+=>a74
+Who do you take me for? I'm off.<end>
+
+=>a75_original
+::Nod and leave.::<end>
+
+=>a75
+::Nod and leave.::<end>
+
+=>a76_original
+Do you buy United Station Dollars?<end>
+
+=>a76
+Do you buy United Station Dollars?<end>
+
+=>q77_original
+Nope.<end>
+
+=>q77
+Nope.<end>
+
+=>a78_original
+I'll be going now.<end>
+
+=>a78
+I'll be going now.<end>
+
+=>q79_original
+Here to do some tradin', $(#jack/lady)?<end>
+
+=>q79
+Here to do some tradin', $(#jack/lady)?<end>
+

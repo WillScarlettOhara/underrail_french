@@ -1,0 +1,42 @@
+=>q1_original
+::The dog tilts its head inquisitively and stares at you.::<end>
+
+=>q1
+::The dog tilts its head inquisitively and stares at you.::<end>
+
+=>a2_original
+Woof?<end>
+
+=>a2
+Woof?<end>
+
+=>q3_original
+::It begins to growl.::<end>
+
+=>q3
+::It begins to growl.::<end>
+
+=>a4_original
+::Back away slowly.::<end>
+
+=>a4
+::Back away slowly.::<end>
+
+=>a5_original
+Sit, boy.<end>
+
+=>a5
+Sit, boy.<end>
+
+=>a6_original
+Play dead.<end>
+
+=>a6
+Play dead.<end>
+
+=>a7_original
+::Leave.::<end>
+
+=>a7
+::Leave.::<end>
+

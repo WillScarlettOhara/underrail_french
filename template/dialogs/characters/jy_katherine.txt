@@ -1,0 +1,428 @@
+=>q1_original
+Alright, I fixed the necklace as best as I could. Receiver should still work, but you'll only be able to pinpoint the location at short distances.<end>
+
+=>q1
+Alright, I fixed the necklace as best as I could. Receiver should still work, but you'll only be able to pinpoint the location at short distances.<end>
+
+=>q2_original
+No luck with the emitter component, but perhaps that's for the best. You don't know who might be, heh, holdin' the other receiver, if you dig.<end>
+
+=>q2
+No luck with the emitter component, but perhaps that's for the best. You don't know who might be, heh, holdin' the other receiver, if you dig.<end>
+
+=>q3_original
+::A young, slender, tall redhead stands before you. She addresses you with a rather thick accent.::
+
+I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this little shop. You here lookin' for some electronics, maybe?<end>
+
+=>q3
+::A young, slender, tall redhead stands before you. She addresses you with a rather thick accent.::
+
+I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this little shop. You here lookin' for some electronics, maybe?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Show me what you have. ::Barter.::<end>
+
+=>a5
+Show me what you have. ::Barter.::<end>
+
+=>a6_original
+Hey, Katherine, do you know what this is? ::Show her the damaged necklace.::<end>
+
+=>a6
+Hey, Katherine, do you know what this is? ::Show her the damaged necklace.::<end>
+
+=>q7_original
+Lemme see. ::She inspects the necklace.::<end>
+
+=>q7
+Lemme see. ::She inspects the necklace.::<end>
+
+=>q8_original
+Hmmmm... I've... yeah, I've seen these before. It's one of them tracker-emitter necklaces. Folks that wanted to make sure not to lose each other in Underrail - like scavengers, for example - used to make these.<end>
+
+=>q8
+Hmmmm... I've... yeah, I've seen these before. It's one of them tracker-emitter necklaces. Folks that wanted to make sure not to lose each other in Underrail - like scavengers, for example - used to make these.<end>
+
+=>q9_original
+This one seems to be one part of a pair. It's basically both a receiver and an emitter so either necklace of the pair can be used to track the other one.<end>
+
+=>q9
+This one seems to be one part of a pair. It's basically both a receiver and an emitter so either necklace of the pair can be used to track the other one.<end>
+
+=>q10_original
+::She pauses, taking a look at the necklace again.:: Not any more, obviously, since the thing is broken.<end>
+
+=>q10
+::She pauses, taking a look at the necklace again.:: Not any more, obviously, since the thing is broken.<end>
+
+=>a11_original
+Can you repair it?<end>
+
+=>a11
+Can you repair it?<end>
+
+=>q12_original
+The receiver... possibly. But I doubt it's gonna be workin' as well as it used to. I mean... that's the way things are. Emitter is way beyond repair, though. All in all, the fixin' would cost you fifteen charons. Interested?<end>
+
+=>q12
+The receiver... possibly. But I doubt it's gonna be workin' as well as it used to. I mean... that's the way things are. Emitter is way beyond repair, though. All in all, the fixin' would cost you fifteen charons. Interested?<end>
+
+=>a13_original
+Sure, here's fifteen. ::Give her 15 stygian coins::<end>
+
+=>a13
+Sure, here's fifteen. ::Give her 15 stygian coins::<end>
+
+=>q14_original
+Alright, lemme see what I can do.<end>
+
+=>q14
+Alright, lemme see what I can do.<end>
+
+=>a15_original
+::End Dialog::<end>
+
+=>a15
+::End Dialog::<end>
+
+=>a16_original
+Perhaps later.<end>
+
+=>a16
+Perhaps later.<end>
+
+=>q17_original
+Fine with me. I'm gonna be here if you change your mind.<end>
+
+=>q17
+Fine with me. I'm gonna be here if you change your mind.<end>
+
+=>a18_original
+Alright, thanks for the info.<end>
+
+=>a18
+Alright, thanks for the info.<end>
+
+=>a19_original
+So, can you repair this damaged necklace?<end>
+
+=>a19
+So, can you repair this damaged necklace?<end>
+
+=>a20_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a20
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>q21_original
+Yeah, look for a Black Eel by the name of Colton. Colton. He can set you up for some charons if you provide him other currencies.<end>
+
+=>q21
+Yeah, look for a Black Eel by the name of Colton. Colton. He can set you up for some charons if you provide him other currencies.<end>
+
+=>a22_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a22
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>q23_original
+No drill parts, sorry. Ain't got anythin' of the kind.<end>
+
+=>q23
+No drill parts, sorry. Ain't got anythin' of the kind.<end>
+
+=>q24_original
+Good luck findin' it, though. That junk's *old*. 
+
+I've only ever seen one... yeah, one Armadillo, and that thing was stripped down to the bone. All the way to the bone, $(#slick/sis).<end>
+
+=>q24
+Good luck findin' it, though. That junk's *old*. 
+
+I've only ever seen one... yeah, one Armadillo, and that thing was stripped down to the bone. All the way to the bone, $(#slick/sis).<end>
+
+=>a25_original
+Any hints as to where I should look?<end>
+
+=>a25
+Any hints as to where I should look?<end>
+
+=>q26_original
+Well, uh, I mean, you can try the bigger junk merchants at the docks and the Depot B. If that fails, there might be one somewhere in Depot A, but it ain't worth riskin' your neck.<end>
+
+=>q26
+Well, uh, I mean, you can try the bigger junk merchants at the docks and the Depot B. If that fails, there might be one somewhere in Depot A, but it ain't worth riskin' your neck.<end>
+
+=>a27_original
+What's so bad about Depot A?<end>
+
+=>a27
+What's so bad about Depot A?<end>
+
+=>q28_original
+Rabid mutated dogs for starters, that much I know myself. Granted, I've never been too far in, but those who *have* and returned in one piece claim there are also rogue turrets, mine fields and even mutated folks in there. All sorts of freakin' dangerous stuff.<end>
+
+=>q28
+Rabid mutated dogs for starters, that much I know myself. Granted, I've never been too far in, but those who *have* and returned in one piece claim there are also rogue turrets, mine fields and even mutated folks in there. All sorts of freakin' dangerous stuff.<end>
+
+=>q29_original
+If you really want to check it out for yourself, you gonna have to convince Scrappers to let you in, 'cause the entrance to Depot A is, well, it is from within their base.<end>
+
+=>q29
+If you really want to check it out for yourself, you gonna have to convince Scrappers to let you in, 'cause the entrance to Depot A is, well, it is from within their base.<end>
+
+=>a30_original
+Before I leave, there was something else I wanted to ask you.<end>
+
+=>a30
+Before I leave, there was something else I wanted to ask you.<end>
+
+=>q31_original
+Shoot.<end>
+
+=>q31
+Shoot.<end>
+
+=>a32_original
+I see. Appreciate the info. I'll be on my way now.<end>
+
+=>a32
+I see. Appreciate the info. I'll be on my way now.<end>
+
+=>a33_original
+Thanks for the tips. Gotta run now.<end>
+
+=>a33
+Thanks for the tips. Gotta run now.<end>
+
+=>a34_original
+Thanks. I feel I'm going to need it.<end>
+
+=>a34
+Thanks. I feel I'm going to need it.<end>
+
+=>a35_original
+How come your store is here in the slums?<end>
+
+=>a35
+How come your store is here in the slums?<end>
+
+=>q36_original
+This the only buildin' I could get my hands on.<end>
+
+=>q36
+This the only buildin' I could get my hands on.<end>
+
+=>q37_original
+And it ain't that bad, $(#slick/sis), seriously. There ain't any really comfortable place to live in Junkyard unless you one of the wealthier merchants with a place in the residential district, or a high rankin' gangster.<end>
+
+=>q37
+And it ain't that bad, $(#slick/sis), seriously. There ain't any really comfortable place to live in Junkyard unless you one of the wealthier merchants with a place in the residential district, or a high rankin' gangster.<end>
+
+=>a38_original
+So how's life in the slums?<end>
+
+=>a38
+So how's life in the slums?<end>
+
+=>q39_original
+For me, it's alright. I make enough coin from tradin' with the local customers and folks from the outside. Yeah, it's alright.<end>
+
+=>q39
+For me, it's alright. I make enough coin from tradin' with the local customers and folks from the outside. Yeah, it's alright.<end>
+
+=>q40_original
+But for those poor saps out there it must be terrible. They're surrounded by heavily armed men from all sides. They can do little to protect themselves. <end>
+
+=>q40
+But for those poor saps out there it must be terrible. They're surrounded by heavily armed men from all sides. They can do little to protect themselves. <end>
+
+=>q41_original
+I mean, it's bad enough they gotta keep an eye out for their neighbors that might knife them in their sleep for a piece of cave hopper meat or an eel, or some petty coin - or just 'cause they derailed, but gangsters and thugs also sweep in from time to time to take whatever they fancy.<end>
+
+=>q41
+I mean, it's bad enough they gotta keep an eye out for their neighbors that might knife them in their sleep for a piece of cave hopper meat or an eel, or some petty coin - or just 'cause they derailed, but gangsters and thugs also sweep in from time to time to take whatever they fancy.<end>
+
+=>q42_original
+The Protectorate promises to bring the Union laws and protection, but so far nothin' has changed. Nothin'. Lotsa hobos just take to the caves instead, spelunkin' around, and maybe they right in doing so. Heck, they might not find more safety, but at least there's more food to be found out there.<end>
+
+=>q42
+The Protectorate promises to bring the Union laws and protection, but so far nothin' has changed. Nothin'. Lotsa hobos just take to the caves instead, spelunkin' around, and maybe they right in doing so. Heck, they might not find more safety, but at least there's more food to be found out there.<end>
+
+=>a43_original
+I'm looking for a guy named Blaine. Seen him around?<end>
+
+=>a43
+I'm looking for a guy named Blaine. Seen him around?<end>
+
+=>q44_original
+Mmm... maybe, *maybe*. What's it worth to you?<end>
+
+=>q44
+Mmm... maybe, *maybe*. What's it worth to you?<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>a46_original
+::[Persuade]:: Let's say I'll owe you a favor if you point me in the right direction.<end>
+
+=>a46
+::[Persuade]:: Let's say I'll owe you a favor if you point me in the right direction.<end>
+
+=>q47_original
+Hmm... alright. That might come in handy.<end>
+
+=>q47
+Hmm... alright. That might come in handy.<end>
+
+=>q48_original
+Look for him in the Lower Underrail near SGS. He has his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>q48
+Look for him in the Lower Underrail near SGS. He has his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>a49_original
+I dig. Thanks, sis.<end>
+
+=>a49
+I dig. Thanks, sis.<end>
+
+=>a50_original
+I understand. I'll see you around, Katherine.<end>
+
+=>a50
+I understand. I'll see you around, Katherine.<end>
+
+=>q51_original
+No deal, $(#slick/sis). You gonna have to do better than that.<end>
+
+=>q51
+No deal, $(#slick/sis). You gonna have to do better than that.<end>
+
+=>a52_original
+Got some charons here I'm looking to spend. What's you price?<end>
+
+=>a52
+Got some charons here I'm looking to spend. What's you price?<end>
+
+=>q53_original
+Gimme a hundred of those and I'll tell you where to find him.<end>
+
+=>q53
+Gimme a hundred of those and I'll tell you where to find him.<end>
+
+=>a54_original
+Fine, here you go. ::Give her 100 stygian coins.::<end>
+
+=>a54
+Fine, here you go. ::Give her 100 stygian coins.::<end>
+
+=>q55_original
+Look for him in the Lower Underrail, near SGS. He got his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>q55
+Look for him in the Lower Underrail, near SGS. He got his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>a56_original
+::[Mercantile]:: I'll give you fifty and a big smile.<end>
+
+=>a56
+::[Mercantile]:: I'll give you fifty and a big smile.<end>
+
+=>q57_original
+Seventy-five, keep the smile.<end>
+
+=>q57
+Seventy-five, keep the smile.<end>
+
+=>a58_original
+Deal! ::Give her 75 stygain coins.::<end>
+
+=>a58
+Deal! ::Give her 75 stygain coins.::<end>
+
+=>a59_original
+Forget it.<end>
+
+=>a59
+Forget it.<end>
+
+=>q60_original
+No way. One hundred or forget it.<end>
+
+=>q60
+No way. One hundred or forget it.<end>
+
+=>a61_original
+Alright, here you go. ::Give her 100 stygian coins.::<end>
+
+=>a61
+Alright, here you go. ::Give her 100 stygian coins.::<end>
+
+=>a62_original
+I'll pass.<end>
+
+=>a62
+I'll pass.<end>
+
+=>a63_original
+That's a bit too steep for me.<end>
+
+=>a63
+That's a bit too steep for me.<end>
+
+=>q64_original
+Oh, yeah? Well too bad. Come back when you richer, you hear?<end>
+
+=>q64
+Oh, yeah? Well too bad. Come back when you richer, you hear?<end>
+
+=>a65_original
+Not much really.<end>
+
+=>a65
+Not much really.<end>
+
+=>q66_original
+Then we don't have much to talk about, do we?<end>
+
+=>q66
+Then we don't have much to talk about, do we?<end>
+
+=>a67_original
+About Blaine...<end>
+
+=>a67
+About Blaine...<end>
+
+=>q68_original
+Got an offer for me?<end>
+
+=>q68
+Got an offer for me?<end>
+
+=>a69_original
+I have to go.<end>
+
+=>a69
+I have to go.<end>
+
+=>q70_original
+How you doin'? Back for some shoppin'?<end>
+
+=>q70
+How you doin'? Back for some shoppin'?<end>
+

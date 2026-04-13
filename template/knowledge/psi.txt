@@ -1,0 +1,176 @@
+::Cryokinesis
+Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement points by {4} for {5} turns. Stacks {6} times.
+
+::Cryokinesis-RT
+Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement speed by 10% for {4} seconds. Stacks {5} times.
+
+::Cryostasis
+Suspends the target in cryostasis for {0} turns plus an additional turn per Chill effect currently on the target. Any damage will undo cryostasis.
+
+The effect can be lessened or mitigated through cold resistance.
+
+::Cryostasis-RT
+Suspends the target in cryostasis for {0} seconds plus additional {1} seconds per Chill effect currently on the target. Any damage will undo cryostasis.
+
+The effect can be lessened or mitigated through cold resistance.
+
+::TelekineticPunch
+Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} unless it passes a fortitude check. The stun only affects organic targets.
+
+::TelekineticPunch-RT
+Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} seconds unless it passes resolve check. The stun affects only organic targets.
+
+::Pyrokinesis
+Creates a ball of superheated gas and hurls it to the designated area. Everyone caught in the blast take {0}-{1} heat damage.
+
+::PyrokinesisPyromaniac
+There's a {0}% chance for each target to catch on fire, suffering {1}% of the original damage dealt again over {2}.
+
+::NeuralOverload
+Short circuits the central nervous system of a living target dealing {0}-{1} electrical damage. Damage is increased by {2}% for every target's point of intelligence above {3}.
+
+This damage cannot be shielded and bypasses standard electrical resistance, but can be lowered by the target's resolve.
+
+::NeuralOverloadIntimidation
+Also intimidates the target, reducing their offensive skills by {0} for {1}.
+
+::NeuralOverloadCerebralAcidization
+Deals another {0}% of the original damage over {1} as unresistable acid damage.
+
+::Forcefield-Old
+Places an impenetrable force field on the designated unoccupied location for {0} turns.
+
+::Forcefield
+Places a force field on the designated unoccupied location and all unoccupied tiles adjecent to it that has {0} health. It has 100% resistance to bio and cold, {1} to mechanical, and {2} to everything else. Lasts until destroyed or up to {3} turns.
+
+Destroying one segment of the force field will break all of it.
+
+::Frighten
+Projects terrifying images into the target's mind in an attempt to cause it to panic for up to {0} turns.
+
+::ForceEmission-Old
+While this ability is active, your unarmed attacks deal additional {0} damage and have the range of {1}, but at the cost of {2} psi points per attack.
+
+::ForceEmission
+While this ability is active, your unarmed and fist weapon attacks deal additional {0} damage, but at the cost of {1} psi points per attack.
+
+::PyrokineticStream
+Creates a stream of fire towards the targeted location, damaging everything in its path for {0}-{1} heat damage every tick. The stream hits the targets {2} times plus an additional time for every {3} spare action points and {4} spare psi points remaining after the initial invocation.
+
+::PyrokineticStreamPyromaniac
+Every time a target is damaged there's a {0}% chance it will catch on fire, suffering {1}% of the original damage dealt again over {2}.
+
+::Electrokinesis
+Projects an electrical bolt that deals {0}-{1} electrical damage to the primary target and stuns it for {2} before jumping to a nearby target (unless fully resisted). It can jump up to {3} times, but the damage decreases by {4}% of the original amount with each jump. It can strike the same target multiple times, but it needs at least two targets to jump between. Only the primary target is stunned.
+
+::MentalBreakdown
+Incapacitates the target for up to {0} and reduces its resolve by {1}%. If a detrimental thought control psi ability is invoked against the target during this period it will have double the effect, but will end the mental breakdown.
+
+::Bilocation
+Creates a doppelganger of a human target bent on their destruction. The doppelganger is immune to all physical attacks and deals {0}-{1} mental damage that bypasses all shields and resistances. Lasts for {2}.
+
+::TelekineticProxy
+Moves the telekinetic proxy from its current location to the specified location, dealing {0} damage to everything in its path. If the proxy is not present, is too far away, or doesn't have a clear straight line path to the destination, a new one will be spawned.
+
+Telekinetic proxy will mimic your damaging telekinetic psi abilities and effects if the target is within its radius. The proxy lasts {1}, but the timer refreshes with each move or mimic.
+
+::ThermodynamicDestabilization
+Afflicts the target with thermodynamical destabilization for {0}. If the target is destroyed during this period it explodes, dealing heat and mechanical damage to surrounding characters that (in total) equals {1}% of the target's health at the point in which it was afflicted.
+
+::ThermodynamicDestabilizationPyromaniac
+For each target caught in the explosion there's a {0}% chance to catch on fire, suffering {1}% of the original damage dealt again over {2}.
+
+::Enrage
+Enrages a living target for up to {0} which causes it to turn hostile to everything.
+
+::PsiCognitiveInterruption
+Burns up {0}-{1} of target's psi points, dealing damage equal to {2}% of psi burned. This damage cannot be shielded and bypasses standard resistance, but can be lowered by the target's resolve.
+
+It also applies psionic inhibition to the target for up to {3}, preventing it from invoking psi abilities or regenerating psi points.
+
+::PseudoSpatialProjection
+In the minds of your enemies you project {0} additional copies of yourself in your immediate vicinity that last up to {1}. Each time you are attacked by a weapon or unarmed attack, there's a chance (depending on attacker's resolve) that the attack will hit a copy instead, removing it from play. 
+
+Machines and true-sighted attackers are not affected.
+
+::NeurovisualDisruption
+You disappear from the sight of the target, removing its ability to detect for {0} and immediately entering stealth. Target also has its perception reduced by {1} and detection by {2}% for {3}.
+
+Invoking this ability immediately drains all your remaining action and movement points. Does not work on machines or true-sighted creatures. Can only be invoked in combat.
+
+::ElectrokineticImprint
+Generates an electrokinetic imprint at the target location that deals {0} damage to the first character that steps on it and stuns it for {1}. If you try to place the imprint on top of a trap, it will backfire. You can only have one imprint active at a time.
+
+::Implosion
+Deals mechanical damage equal to {0}% of target's current health. This attack bypasses damage thresholds and shields, but cannot critically hit.
+
+::DisruptiveField
+Creates a disruptive field around the target that reduces their chance to hit with ranged and thrown weapons by {0}% for {1}.
+
+::CryokineticOrb
+You launch a large frozen orb which shatters on impact, sending ice shards flying in all directions. Each shard deals {0} and {1} damage and chills the target. 
+
+Chilled characters have their movement points decreased by {2} for {3}. This effect stacks {4} times.
+
+Due to shards fanning out, targets closer to the place of impact may be hit by multiple shards, while those farther away might not be hit at all.
+
+Each shard has {5}% chance to inflict a bleeding wound that does additional {6}% of the original mechanical damage done over {7}.
+
+::ExothermicAura
+Makes you immune to heat damage and generates flames around you and in your wake. Lasts {0}, but the flames won't be generated on the last turn.
+
+Creatures standing in the fire suffer heat damage equal to {1}%-{2}% of their maximal health (up to maximum of {3}-{4}), plus additional {5}-{6}, depending on the intensity of fire at that spot, while creatures moving through the fire suffer one third of that damage per tile.
+
+::CryoShield
+Creates {0} frozen shards around the invoker. Each time the character suffers a melee attack, there's a {1}% chance that one of the shards will block {2} of mechanical damage and be destroyed in the process. Lasts {3} or until all shards are destroyed.
+
+::TemporalDistorsion-old
+Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its duration will be increased by {3} and damage by {4}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {5}% of damage resistance and threshold. This ability cannot critically hit.
+
+::TemporalDistorsion
+Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its damage will be increased by {3}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {4}% of damage resistance and threshold. This ability cannot critically hit.
+
+::EntropicRecurrence
+Repeats {0}% of the last unit of damage taken by the target over {1}. This damage ignores shields and resistances. In cases when the original damage was very slight, the recurrence may actually empower it.
+
+::PsychotemporalDilation
+Reduces target's action points by {0} and movement points by {1}. Lasts {2}.
+
+::PsychotemporalContraction
+Increases target's action points by {0} and movement points by {1}. Lasts {2}. After the effect ends, there's a {3}% chance of it reversing into a psychotemporal dilation of varying power.
+
+::LimitedTemporalIncrement
+Reduces all remaining cooldowns by {0}.
+
+::TemporaryRewind
+Reverses the last damage done to the target, up to maximum of {0} health points. After three turns this health is lost and this may cause the target to die.
+
+::Precognition
+While this ability is active, your chance to dodge and evade attacks is increased by {0}% (additively). Drains {1} psi points every turn.
+
+::Stasis
+Places the target in stasis for {0}, making it immune to all damage and most disabling effects, but also preventing it from acting. While in stasis, the target's status effects will not progress (except the stasis one), but the cooldowns will. Stasis will collapse after absorbing {1} damage.
+
+::PsychokineticChain
+Links up to {0} enemies into psychokinetic chain which transfers {1}% of all direct mechanical and electrical damage down the chain to the next link as mechanical damage that bypasses energy shields. Maximum total damage transferred from link to link is {2}. The chain lasts {3} or until broken.
+
+::TelekineticGrounding
+Immobilizes the target for up to {0}. This ability cannot be resisted, but the victim has a chance to free itself at the end of every turn. This chance starts out small but increases steadily as the telekinetic chains weaken over time. Also, the higher your strength, the easier it is to free yourself.
+
+::PlasmaBeam
+Projects a beam of superheated plasma that intensifies towards its maximum range. It reaches maximum power 2/3 of the way there, where it can deal {0} and {1} damage to anyone in its trajectory.
+
+::PsychosomaticPredation
+Creates a predatory focus in the invoker against a living enemy, granting {0}% bonus damage to the predator's weapon and unarmed attacks, but reduces the damage of these attacks against everyone else by {1}%. The damage bonus is double if the attack is melee, and again doubled if performed against a frightened enemy. Lasts up to {2}, as long as the predator and prey stay relatively near each other.
+
+If the predator kills the target with a direct attack, they will regain {3} psi and reset the cooldown.
+
+::MotorCognitiveTransference
+Reduces each of the target's offensive skills base values by up to {0}% (capped at {1}) and then transfers half of this amount to invoker's base skill value or changes the invoker's base skill value to up to {2}% of that of the target (capped at {3}), whichever will yield the higher effective skill. Lasts up to {4}. Only works on humanoids.
+
+::CryogenicBarrier
+Causes shards of ice to be formed from the water taken from the primary target tile that deal {0} and {1} damage to all characters on those tiles. If the tile is traversable and empty, an ice barrier will be left behind that has {2} health and lasts {3} or until destroyed. 
+
+The barrier has 100% resistance to bio, cold and electrical damage, and {7} to mechanical damage.
+
+Targets that suffer cold damage will also become chilled. Chilled characters have their movement points decreased by {4} for {5}. This effect stacks {6} times.

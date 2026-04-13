@@ -1,0 +1,186 @@
+=>q1_original
+::The man recoils back as soon you open the door, staring at you with his heavily narcotized eyes. His expression swirls into that of amazement and disbelief, and his alternately dilating and constricting eyes quickly reflect the same. Finally, he raises his scarred, calloused  hands, grabs his head and speaks his words with excitement.::
+
+Whoa! Like... whoa. WHOA! How did you do that, $(#buddy/girl)? That was... whoa... that was incredible!<end>
+
+=>q1
+::The man recoils back as soon you open the door, staring at you with his heavily narcotized eyes. His expression swirls into that of amazement and disbelief, and his alternately dilating and constricting eyes quickly reflect the same. Finally, he raises his scarred, calloused  hands, grabs his head and speaks his words with excitement.::
+
+Whoa! Like... whoa. WHOA! How did you do that, $(#buddy/girl)? That was... whoa... that was incredible!<end>
+
+=>a2_original
+I don't understand. What do you mean?<end>
+
+=>a2
+I don't understand. What do you mean?<end>
+
+=>q3_original
+The door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>q3
+The door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>q4_original
+Whoa!<end>
+
+=>q4
+Whoa!<end>
+
+=>a5_original
+Was there something wrong with the door?<end>
+
+=>a5
+Was there something wrong with the door?<end>
+
+=>q6_original
+Wow, weren't you listening? The door system is broken, $(#buddy/girl)! I couldn't open the door! I just, like, whoa, and then I whoa! The door remained closed. Stupid broken door! But you - YOU fixed it. Life is good now... 
+
+::He continues after a short pause.:: Are you a...?<end>
+
+=>q6
+Wow, weren't you listening? The door system is broken, $(#buddy/girl)! I couldn't open the door! I just, like, whoa, and then I whoa! The door remained closed. Stupid broken door! But you - YOU fixed it. Life is good now... 
+
+::He continues after a short pause.:: Are you a...?<end>
+
+=>a7_original
+What?<end>
+
+=>a7
+What?<end>
+
+=>q8_original
+A hero?<end>
+
+=>q8
+A hero?<end>
+
+=>a9_original
+Yes, I am. Goodbye.<end>
+
+=>a9
+Yes, I am. Goodbye.<end>
+
+=>q10_original
+::A single tear appears in his eye and rolls down his pockmarked face. He swiftly wipes it off and waves at you.::
+
+Stay safe... hero...<end>
+
+=>q10
+::A single tear appears in his eye and rolls down his pockmarked face. He swiftly wipes it off and waves at you.::
+
+Stay safe... hero...<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I need to go. Goodbye.<end>
+
+=>a12
+I need to go. Goodbye.<end>
+
+=>a13_original
+I simply opened the door like I would any other. I didn't notice anything odd about it..<end>
+
+=>a13
+I simply opened the door like I would any other. I didn't notice anything odd about it..<end>
+
+=>q14_original
+Wow! Whoa...<end>
+
+=>q14
+Wow! Whoa...<end>
+
+=>a15_original
+What's so incredible about that?<end>
+
+=>a15
+What's so incredible about that?<end>
+
+=>a16_original
+What is wrong with you? Are you on drugs, man?<end>
+
+=>a16
+What is wrong with you? Are you on drugs, man?<end>
+
+=>q17_original
+Look, just because I got in Motion doesn't mean there's anything wrong with me. I'm talking about the door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>q17
+Look, just because I got in Motion doesn't mean there's anything wrong with me. I'm talking about the door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>a18_original
+Ah, you must be talking about to my achievements in the Arena! Well, not everyone can be as awesome or hardcore as me.<end>
+
+=>a18
+Ah, you must be talking about to my achievements in the Arena! Well, not everyone can be as awesome or hardcore as me.<end>
+
+=>q19_original
+The hell you are! $(#He/She)'s, like, taller than you. But who cares about that. The door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>q19
+The hell you are! $(#He/She)'s, like, taller than you. But who cares about that. The door! You opened the door! I've spent years... maybe not YEARS but definitely a lot of time trying to figure out the door system. Whoa, like, whoa! And you just came in here and... did magic or like...<end>
+
+=>a20_original
+Look, I'm in a hurry. Goodbye.<end>
+
+=>a20
+Look, I'm in a hurry. Goodbye.<end>
+
+=>q21_original
+Whoa...<end>
+
+=>q21
+Whoa...<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+The door system... you fixed it!<end>
+
+=>q23
+The door system... you fixed it!<end>
+
+=>q24_original
+Stay safe on your journeys... hero.<end>
+
+=>q24
+Stay safe on your journeys... hero.<end>
+
+=>q25_original
+I'll spread the word of your, like, powers!<end>
+
+=>q25
+I'll spread the word of your, like, powers!<end>
+
+=>q26_original
+A great $(#man/woman) stands, like, in front of me...<end>
+
+=>q26
+A great $(#man/woman) stands, like, in front of me...<end>
+
+=>q27_original
+The door system is not broken anymore!<end>
+
+=>q27
+The door system is not broken anymore!<end>
+
+=>q28_original
+You will not be forgotten, hero!<end>
+
+=>q28
+You will not be forgotten, hero!<end>
+
+=>q29_original
+Whoa, like, whoa...<end>
+
+=>q29
+Whoa, like, whoa...<end>
+

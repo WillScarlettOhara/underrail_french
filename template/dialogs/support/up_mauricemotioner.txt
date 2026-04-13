@@ -1,0 +1,66 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Hey, $(#dude/dudette), have you seen my friend Kyle? Black, bald, has a long, spiked tail? No? Damn it...<end>
+
+=>q2
+Hey, $(#dude/dudette), have you seen my friend Kyle? Black, bald, has a long, spiked tail? No? Damn it...<end>
+
+=>q3_original
+This corner is so fabulous... Check it!<end>
+
+=>q3
+This corner is so fabulous... Check it!<end>
+
+=>q4_original
+Bleach is mostly water and we're mostly water. Therefore - we are bleach!<end>
+
+=>q4
+Bleach is mostly water and we're mostly water. Therefore - we are bleach!<end>
+
+=>q5_original
+Some people call me Maurice. Some call me Hey You Idiot!<end>
+
+=>q5
+Some people call me Maurice. Some call me Hey You Idiot!<end>
+
+=>q6_original
+Did you say something, $(#dude/dudette)? I thought you said something... No? Alright...<end>
+
+=>q6
+Did you say something, $(#dude/dudette)? I thought you said something... No? Alright...<end>
+
+=>q7_original
+Never put hot mushroom sauce on your eyeballs. Never!<end>
+
+=>q7
+Never put hot mushroom sauce on your eyeballs. Never!<end>
+
+=>q8_original
+How can bullets be real if guns aren't real?<end>
+
+=>q8
+How can bullets be real if guns aren't real?<end>
+
+=>q9_original
+Need to get in Motion... again!<end>
+
+=>q9
+Need to get in Motion... again!<end>
+
+=>q10_original
+Some say there is life beyond the ceiling. I disagree, $(#dude/dudette). I disagree...<end>
+
+=>q10
+Some say there is life beyond the ceiling. I disagree, $(#dude/dudette). I disagree...<end>
+
+=>q11_original
+My feet are *so* gnarly I've successfully used them to make people vomit! Check it!<end>
+
+=>q11
+My feet are *so* gnarly I've successfully used them to make people vomit! Check it!<end>
+

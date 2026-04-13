@@ -1,0 +1,990 @@
+=>q1_original
+Ah, $(context.player.Name), glad you're here. There's something I need to discuss with you. Got a moment?<end>
+
+=>q1
+Ah, $(context.player.Name), glad you're here. There's something I need to discuss with you. Got a moment?<end>
+
+=>a2_original
+Of course Harold, what's this all about?<end>
+
+=>a2
+Of course Harold, what's this all about?<end>
+
+=>q3_original
+I wanted to talk to you about something that is luckily not *as* urgent at this moment, but important none the less. You see, after the earthquake we experienced a major power outage; whole station went black. Usually when things like that happen, our backup generators switch on to provide power until we get our main power back.<end>
+
+=>q3
+I wanted to talk to you about something that is luckily not *as* urgent at this moment, but important none the less. You see, after the earthquake we experienced a major power outage; whole station went black. Usually when things like that happen, our backup generators switch on to provide power until we get our main power back.<end>
+
+=>a4_original
+Keep talking, I'm interested.<end>
+
+=>a4
+Keep talking, I'm interested.<end>
+
+=>q5_original
+Will do. The thing is, there is a delay before the backup generators kick in. It's usually just several seconds, but that means we have an interruption in power, and for many reasons that is unacceptable. Just imagine you're in the med bay, being operated on, and suddenly there's no power anymore. That's just one example; I won't go into mentioning all the systems in SGS that require constant power supply.<end>
+
+=>q5
+Will do. The thing is, there is a delay before the backup generators kick in. It's usually just several seconds, but that means we have an interruption in power, and for many reasons that is unacceptable. Just imagine you're in the med bay, being operated on, and suddenly there's no power anymore. That's just one example; I won't go into mentioning all the systems in SGS that require constant power supply.<end>
+
+=>q6_original
+Now, this time, during the earthquake, we've had such a large number of batteries die all at once it's insane. Yes, most of them were *pretty* old optoelectric nuclear batteries; don't mistake them for common nickel-palladium fusion batteries, though. These are very rare.<end>
+
+=>q6
+Now, this time, during the earthquake, we've had such a large number of batteries die all at once it's insane. Yes, most of them were *pretty* old optoelectric nuclear batteries; don't mistake them for common nickel-palladium fusion batteries, though. These are very rare.<end>
+
+=>a7_original
+Interesting, but what do you need me for?<end>
+
+=>a7
+Interesting, but what do you need me for?<end>
+
+=>q8_original
+Currently, we have a few optoelectric batteries to spare, but if they keep dying, we're gonna be in big trouble. So, I want you to go to an old battery recycling plant not too far away from here; it's to the east, past the Crossroad Caves. It's been out of commission for years, but maybe you can find something there that we can use. Spare optoelectric cells, related equipment or blueprints... you find any of that, make sure you bring it to me.
+
+There's no other place we know of that might have anything similar.<end>
+
+=>q8
+Currently, we have a few optoelectric batteries to spare, but if they keep dying, we're gonna be in big trouble. So, I want you to go to an old battery recycling plant not too far away from here; it's to the east, past the Crossroad Caves. It's been out of commission for years, but maybe you can find something there that we can use. Spare optoelectric cells, related equipment or blueprints... you find any of that, make sure you bring it to me.
+
+There's no other place we know of that might have anything similar.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+Something like this?<end>
+
+=>a10
+Something like this?<end>
+
+=>q11_original
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, yes, that looks useful. Lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>q11
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, yes, that looks useful. Lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>a12_original
+Glad you're happy.<end>
+
+=>a12
+Glad you're happy.<end>
+
+=>q13_original
+I am, this is really going to solve our problems. Now, as far as a reward go. I'm willing to offer you three hundred credits for this find.<end>
+
+=>q13
+I am, this is really going to solve our problems. Now, as far as a reward go. I'm willing to offer you three hundred credits for this find.<end>
+
+=>a14_original
+That's fine with me.<end>
+
+=>a14
+That's fine with me.<end>
+
+=>q15_original
+Right then. Here's your reward. ::Gives you 300 credits.:: <end>
+
+=>q15
+Right then. Here's your reward. ::Gives you 300 credits.:: <end>
+
+=>q16_original
+See you around, $(context.player.Name).<end>
+
+=>q16
+See you around, $(context.player.Name).<end>
+
+=>a17_original
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>a17
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>q18_original
+Okay, you have a point, five hundred credits it is. But not a single credit more. ::He gives you 500 credits:: <end>
+
+=>q18
+Okay, you have a point, five hundred credits it is. But not a single credit more. ::He gives you 500 credits:: <end>
+
+=>q19_original
+Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
+
+=>q19
+Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
+
+=>a20_original
+It'll do.<end>
+
+=>a20
+It'll do.<end>
+
+=>a21_original
+Any rewards?<end>
+
+=>a21
+Any rewards?<end>
+
+=>q22_original
+Definitely, three hundred credits for this thing.<end>
+
+=>q22
+Definitely, three hundred credits for this thing.<end>
+
+=>a23_original
+Deal, I'm on the job.<end>
+
+=>a23
+Deal, I'm on the job.<end>
+
+=>q24_original
+Excellent. Now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there. If you can bring me something good, I'll pay you three hundred credits.<end>
+
+=>q24
+Excellent. Now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there. If you can bring me something good, I'll pay you three hundred credits.<end>
+
+=>q25_original
+Good luck, $(context.player.Name). See you later.<end>
+
+=>q25
+Good luck, $(context.player.Name). See you later.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+Before I leave...<end>
+
+=>a27
+Before I leave...<end>
+
+=>q28_original
+Yes?<end>
+
+=>q28
+Yes?<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+Do you have any stuff to trade?<end>
+
+=>a30
+Do you have any stuff to trade?<end>
+
+=>q31_original
+I've got plenty. Take a look.<end>
+
+=>q31
+I've got plenty. Take a look.<end>
+
+=>a32_original
+::Barter.::<end>
+
+=>a32
+::Barter.::<end>
+
+=>a33_original
+Show me what you got. ::Barter.::<end>
+
+=>a33
+Show me what you got. ::Barter.::<end>
+
+=>a34_original
+Tanner tells me you know of a way to restore power to the outposts to the north.<end>
+
+=>a34
+Tanner tells me you know of a way to restore power to the outposts to the north.<end>
+
+=>q35_original
+::He nods.:: Right. I remember taking a look at the power generator there a while back. I couldn't do anything about it back then because I didn't have this. ::He rummages through the boxes that are on the table before producing something resembling an energy core.::<end>
+
+=>q35
+::He nods.:: Right. I remember taking a look at the power generator there a while back. I couldn't do anything about it back then because I didn't have this. ::He rummages through the boxes that are on the table before producing something resembling an energy core.::<end>
+
+=>q36_original
+Here. It's a flux controller. If you insert it into the slot at the front of the power generator, it *should* get it running again. <end>
+
+=>q36
+Here. It's a flux controller. If you insert it into the slot at the front of the power generator, it *should* get it running again. <end>
+
+=>q37_original
+After that you ought to be able to reactivate all the outposts. I'm afraid you'll have to do that manually, though. You see, each of them has a switch that cuts off the power in case of a hazard.<end>
+
+=>q37
+After that you ought to be able to reactivate all the outposts. I'm afraid you'll have to do that manually, though. You see, each of them has a switch that cuts off the power in case of a hazard.<end>
+
+=>a38_original
+Got it, thanks. I'll give it a try.<end>
+
+=>a38
+Got it, thanks. I'll give it a try.<end>
+
+=>a39_original
+Is the minibot ready yet?<end>
+
+=>a39
+Is the minibot ready yet?<end>
+
+=>q40_original
+Hey, I'm working as fast as I can here.<end>
+
+=>q40
+Hey, I'm working as fast as I can here.<end>
+
+=>q41_original
+I'll let you know when I'm done, don't worry. Just be patient, okay?<end>
+
+=>q41
+I'll let you know when I'm done, don't worry. Just be patient, okay?<end>
+
+=>a42_original
+Harland needs a bot.<end>
+
+=>a42
+Harland needs a bot.<end>
+
+=>q43_original
+Harland? What kind of bot?<end>
+
+=>q43
+Harland? What kind of bot?<end>
+
+=>a44_original
+A bot that can explore this pitch-black cave I found in the under-passages. He needs it to be remote-controlled, and to have a camera.<end>
+
+=>a44
+A bot that can explore this pitch-black cave I found in the under-passages. He needs it to be remote-controlled, and to have a camera.<end>
+
+=>q45_original
+Right, right... So an RC bot that can navigate difficult terrain... ::He starts looking around the shop.:: ...has to have a camera, and has to have some kind of illumination. ::And then his eyes fall upon a dismantled bot underneath one of the tables.::
+
+A minibot... a minibot explorer.<end>
+
+=>q45
+Right, right... So an RC bot that can navigate difficult terrain... ::He starts looking around the shop.:: ...has to have a camera, and has to have some kind of illumination. ::And then his eyes fall upon a dismantled bot underneath one of the tables.::
+
+A minibot... a minibot explorer.<end>
+
+=>q46_original
+You know, you're in luck: Gorsky's team brought back some bot power cores from GMS, and I think there's just the right one for this bot among them. If I can then mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q46
+You know, you're in luck: Gorsky's team brought back some bot power cores from GMS, and I think there's just the right one for this bot among them. If I can then mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q47_original
+Yes, I can do what you ask.<end>
+
+=>q47
+Yes, I can do what you ask.<end>
+
+=>a48_original
+When is it going to be ready?<end>
+
+=>a48
+When is it going to be ready?<end>
+
+=>q49_original
+I'll start working on it straight away. It won't take long; I have all the necessary components right here.<end>
+
+=>q49
+I'll start working on it straight away. It won't take long; I have all the necessary components right here.<end>
+
+=>q50_original
+You can return to Harland; I'll have someone bring the explorer up when it's ready.<end>
+
+=>q50
+You can return to Harland; I'll have someone bring the explorer up when it's ready.<end>
+
+=>q51_original
+
+
+Tell him he owes me a mushroom brew for this.<end>
+
+=>q51
+
+
+Tell him he owes me a mushroom brew for this.<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>a53_original
+There was something else I needed from you.<end>
+
+=>a53
+There was something else I needed from you.<end>
+
+=>q54_original
+Right.<end>
+
+=>q54
+Right.<end>
+
+=>a55_original
+I'm off then.<end>
+
+=>a55
+I'm off then.<end>
+
+=>a56_original
+::Nod and leave.::<end>
+
+=>a56
+::Nod and leave.::<end>
+
+=>a57_original
+Great.<end>
+
+=>a57
+Great.<end>
+
+=>a58_original
+Hope it gets the job done.<end>
+
+=>a58
+Hope it gets the job done.<end>
+
+=>q59_original
+Perhaps I could use that little fella over there... Mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q59
+Perhaps I could use that little fella over there... Mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q60_original
+I'm missing some power cores; these minibots use rather specific ones - don't ask.
+
+I'll put something together, but it might take a while.<end>
+
+=>q60
+I'm missing some power cores; these minibots use rather specific ones - don't ask.
+
+I'll put something together, but it might take a while.<end>
+
+=>a61_original
+When is it going to be ready?<end>
+
+=>a61
+When is it going to be ready?<end>
+
+=>q62_original
+Can't tell exactly. <end>
+
+=>q62
+Can't tell exactly. <end>
+
+=>q63_original
+You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
+
+=>q63
+You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
+
+=>a64_original
+I knew I could count on you.<end>
+
+=>a64
+I knew I could count on you.<end>
+
+=>a65_original
+Hope it gets the job done.<end>
+
+=>a65
+Hope it gets the job done.<end>
+
+=>a66_original
+So, you wanted to talk to me about something?<end>
+
+=>a66
+So, you wanted to talk to me about something?<end>
+
+=>q67_original
+Oh yes. <end>
+
+=>q67
+Oh yes. <end>
+
+=>a68_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a68
+What do you know about Patrick Pierce's death?<end>
+
+=>q69_original
+Ah, yes. I knew Pat well, he was a man one could truly rely on. An honest man. I felt... really sad when I heard about his death, you know. And seeing his brother in tears when he first came here after he found out. Man, it's been like two months and he still comes back here.<end>
+
+=>q69
+Ah, yes. I knew Pat well, he was a man one could truly rely on. An honest man. I felt... really sad when I heard about his death, you know. And seeing his brother in tears when he first came here after he found out. Man, it's been like two months and he still comes back here.<end>
+
+=>q70_original
+I just don't get why Pasquale doesn't do the full autopsy and put this thing to rest. But, it's his business.<end>
+
+=>q70
+I just don't get why Pasquale doesn't do the full autopsy and put this thing to rest. But, it's his business.<end>
+
+=>a71_original
+Can you tell me what he was like as a person?<end>
+
+=>a71
+Can you tell me what he was like as a person?<end>
+
+=>q72_original
+A hardworking man, fun to hang out with. You would be hard pressed to find someone who disliked him. Well, maybe Big Bret, as the two of them had several heated arguments over the way Pat installed some of the hopper pen heaters. Bret can be impulsive at times, he... he takes his job seriously, and it is a serious job, I agree, but he can take it too far sometimes.<end>
+
+=>q72
+A hardworking man, fun to hang out with. You would be hard pressed to find someone who disliked him. Well, maybe Big Bret, as the two of them had several heated arguments over the way Pat installed some of the hopper pen heaters. Bret can be impulsive at times, he... he takes his job seriously, and it is a serious job, I agree, but he can take it too far sometimes.<end>
+
+=>a73_original
+I've changed my mind about that battery recycling plant...<end>
+
+=>a73
+I've changed my mind about that battery recycling plant...<end>
+
+=>q74_original
+Ah, yes. Will you go there and check it out?<end>
+
+=>q74
+Ah, yes. Will you go there and check it out?<end>
+
+=>a75_original
+About the battery recycling plant...<end>
+
+=>a75
+About the battery recycling plant...<end>
+
+=>q76_original
+Ah, yes?<end>
+
+=>q76
+Ah, yes?<end>
+
+=>a77_original
+Yes, you'll love this. Here's a blueprint that contains something about optoelectric nuclear batteries. I think you'll find it useful.<end>
+
+=>a77
+Yes, you'll love this. Here's a blueprint that contains something about optoelectric nuclear batteries. I think you'll find it useful.<end>
+
+=>q78_original
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, what a lucky find. Great, lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>q78
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, what a lucky find. Great, lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>a79_original
+Great, glad you're happy.<end>
+
+=>a79
+Great, glad you're happy.<end>
+
+=>q80_original
+As I promised, here's your reward. ::He gives you 500 SGS credits.:: <end>
+
+=>q80
+As I promised, here's your reward. ::He gives you 500 SGS credits.:: <end>
+
+=>q81_original
+As I promised, here's your reward. ::He gives you 300 SGS credits.:: <end>
+
+=>q81
+As I promised, here's your reward. ::He gives you 300 SGS credits.:: <end>
+
+=>a82_original
+I just want my credits.<end>
+
+=>a82
+I just want my credits.<end>
+
+=>q83_original
+Fine, fine. You're so impatient. <end>
+
+=>q83
+Fine, fine. You're so impatient. <end>
+
+=>a84_original
+I've been to the plant, but there's nothing but junk, junk, and some more junk. I'm not going back there, if you want to search it again, find someone else.<end>
+
+=>a84
+I've been to the plant, but there's nothing but junk, junk, and some more junk. I'm not going back there, if you want to search it again, find someone else.<end>
+
+=>q85_original
+Darn it. I was hoping for at least something useful. Right, at least we've tried. Maybe we could check it out later again if we have the manpower.<end>
+
+=>q85
+Darn it. I was hoping for at least something useful. Right, at least we've tried. Maybe we could check it out later again if we have the manpower.<end>
+
+=>a86_original
+What about my reward?<end>
+
+=>a86
+What about my reward?<end>
+
+=>q87_original
+What reward? The deal was I give you the credits if you bring something useful from the plant. You brought nothing. Simple.<end>
+
+=>q87
+What reward? The deal was I give you the credits if you bring something useful from the plant. You brought nothing. Simple.<end>
+
+=>a88_original
+Now that I think about it... I believe I've missed a spot while searching. I'll go check it out again.<end>
+
+=>a88
+Now that I think about it... I believe I've missed a spot while searching. I'll go check it out again.<end>
+
+=>q89_original
+Right, go along then.<end>
+
+=>q89
+Right, go along then.<end>
+
+=>a90_original
+Oh yeah, forgot about that. Oh well, whatcha gonna do. I'm still not going back.<end>
+
+=>a90
+Oh yeah, forgot about that. Oh well, whatcha gonna do. I'm still not going back.<end>
+
+=>q91_original
+Yeah, yeah. See you around.<end>
+
+=>q91
+Yeah, yeah. See you around.<end>
+
+=>a92_original
+Whatever, I'm gone.<end>
+
+=>a92
+Whatever, I'm gone.<end>
+
+=>a93_original
+I'll be back later.<end>
+
+=>a93
+I'll be back later.<end>
+
+=>q94_original
+Right. See ya around.<end>
+
+=>q94
+Right. See ya around.<end>
+
+=>a95_original
+What are your thoughts on the Faceless retreat?<end>
+
+=>a95
+What are your thoughts on the Faceless retreat?<end>
+
+=>q96_original
+Well, first of all, from the seismic analysis I did, it appears that the Faceless invasion and the recent earthquake are *not* connected in any way. That's first. As for your question, I feel that the Oligarchs are not responsible for the invasion, at least not directly. I've talked to people around here, and all of them are yapping about the Oligarchs. Oligarchs this, Oligarchs that... Nah.<end>
+
+=>q96
+Well, first of all, from the seismic analysis I did, it appears that the Faceless invasion and the recent earthquake are *not* connected in any way. That's first. As for your question, I feel that the Oligarchs are not responsible for the invasion, at least not directly. I've talked to people around here, and all of them are yapping about the Oligarchs. Oligarchs this, Oligarchs that... Nah.<end>
+
+=>q97_original
+It's the location. The Faceless needed to block the road to the North, and the best place to do so is Core City. Must be that. That's why they didn't take the city itself, you see. And... and they were seen all over South Underrail, so apparently not all their forces were focused on the blockade.<end>
+
+=>q97
+It's the location. The Faceless needed to block the road to the North, and the best place to do so is Core City. Must be that. That's why they didn't take the city itself, you see. And... and they were seen all over South Underrail, so apparently not all their forces were focused on the blockade.<end>
+
+=>q98_original
+Right. Now why did all of this happen? ::He shrugs.:: It's too early to know. I don't know.<end>
+
+=>q98
+Right. Now why did all of this happen? ::He shrugs.:: It's too early to know. I don't know.<end>
+
+=>a99_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a99
+What are your thoughts on the Faceless invasion?<end>
+
+=>q100_original
+What I'm curious about is its timing. Is it related to the recent earthquake? I'm going to study the seismic recordings to try to discover the source of the disturbance.<end>
+
+=>q100
+What I'm curious about is its timing. Is it related to the recent earthquake? I'm going to study the seismic recordings to try to discover the source of the disturbance.<end>
+
+=>a101_original
+Let me know if you find something out.<end>
+
+=>a101
+Let me know if you find something out.<end>
+
+=>q102_original
+Will do.<end>
+
+=>q102
+Will do.<end>
+
+=>a103_original
+What's your opinion on Tanner's disappearance?<end>
+
+=>a103
+What's your opinion on Tanner's disappearance?<end>
+
+=>q104_original
+I don't know who he was or *why* this is all happening, but I do know I've noticed a drastic increase in power levels since his disappearance. Clear as a mindshroom in the black, I tell you. He had something in his room drawing a lot of power, and I think that's the reason Ezra wanted me to go to Tanner's room with him.<end>
+
+=>q104
+I don't know who he was or *why* this is all happening, but I do know I've noticed a drastic increase in power levels since his disappearance. Clear as a mindshroom in the black, I tell you. He had something in his room drawing a lot of power, and I think that's the reason Ezra wanted me to go to Tanner's room with him.<end>
+
+=>q105_original
+Once we go to check it out, I'll have more answers. I hope.<end>
+
+=>q105
+Once we go to check it out, I'll have more answers. I hope.<end>
+
+=>a106_original
+I was just looking around. See you later.<end>
+
+=>a106
+I was just looking around. See you later.<end>
+
+=>a107_original
+See ya.<end>
+
+=>a107
+See ya.<end>
+
+=>a108_original
+::Nod and leave.::<end>
+
+=>a108
+::Nod and leave.::<end>
+
+=>a109_original
+That's a lot of work. I expect a compensation.<end>
+
+=>a109
+That's a lot of work. I expect a compensation.<end>
+
+=>q110_original
+Don't worry about that. If you can find something good, you'll receive three hundred credits. Also, now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there.<end>
+
+=>q110
+Don't worry about that. If you can find something good, you'll receive three hundred credits. Also, now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there.<end>
+
+=>a111_original
+Deal.<end>
+
+=>a111
+Deal.<end>
+
+=>q112_original
+Right, that's what I like to hear. <end>
+
+=>q112
+Right, that's what I like to hear. <end>
+
+=>a113_original
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>a113
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>q114_original
+Okay, you have a point. Five hundred credits it is. But not a single credit more. Is it a deal now?<end>
+
+=>q114
+Okay, you have a point. Five hundred credits it is. But not a single credit more. Is it a deal now?<end>
+
+=>a115_original
+Yeah, that's more like it.<end>
+
+=>a115
+Yeah, that's more like it.<end>
+
+=>q116_original
+Right, that should be all. <end>
+
+=>q116
+Right, that should be all. <end>
+
+=>q117_original
+Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
+
+=>q117
+Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
+
+=>a118_original
+I'll think about it.<end>
+
+=>a118
+I'll think about it.<end>
+
+=>q119_original
+Fine, you do that and let me know later.<end>
+
+=>q119
+Fine, you do that and let me know later.<end>
+
+=>a120_original
+In the meantime...<end>
+
+=>a120
+In the meantime...<end>
+
+=>a121_original
+Why can't you use different batteries?<end>
+
+=>a121
+Why can't you use different batteries?<end>
+
+=>q122_original
+Well, the thing is simple. SGS was originally built by the Biocorp's military, long before anyone of us even came here, so obviously they had some advanced tech at their disposal. Optoelectric nuclear batteries were already in use, and even though theoretically you could use fusion batteries, or any other type, we've had no luck with that. It's like the system refuses to work with anything else.<end>
+
+=>q122
+Well, the thing is simple. SGS was originally built by the Biocorp's military, long before anyone of us even came here, so obviously they had some advanced tech at their disposal. Optoelectric nuclear batteries were already in use, and even though theoretically you could use fusion batteries, or any other type, we've had no luck with that. It's like the system refuses to work with anything else.<end>
+
+=>a123_original
+::[Electronics]:: I see. By the way, how do these optoelectric batteries work? I'm really interested.<end>
+
+=>a123
+::[Electronics]:: I see. By the way, how do these optoelectric batteries work? I'm really interested.<end>
+
+=>q124_original
+It's complicated... You sure you can understand it?<end>
+
+=>q124
+It's complicated... You sure you can understand it?<end>
+
+=>a125_original
+Fusion cells have their cathodes made from nickel-oxide, and their anodes from palladium. Palladium is used because it can absorb up to nine hundred times its own volume of hydrogen, although, the details of this process are still poorly understood. And through electrolysis within the cell hydrogen nuclei are combined, thus forming a new nucleus and releasing energy.<end>
+
+=>a125
+Fusion cells have their cathodes made from nickel-oxide, and their anodes from palladium. Palladium is used because it can absorb up to nine hundred times its own volume of hydrogen, although, the details of this process are still poorly understood. And through electrolysis within the cell hydrogen nuclei are combined, thus forming a new nucleus and releasing energy.<end>
+
+=>q126_original
+::Harold nods in approval.:: Oooh! Well done. I really had no idea you knew so much about fusion batteries. Your impressive knowledge could really be useful around the station, you know that? Anyway, you should easily understand how optoelectric batteries work.<end>
+
+=>q126
+::Harold nods in approval.:: Oooh! Well done. I really had no idea you knew so much about fusion batteries. Your impressive knowledge could really be useful around the station, you know that? Anyway, you should easily understand how optoelectric batteries work.<end>
+
+=>q127_original
+You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
+
+=>q127
+You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
+
+=>a128_original
+Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
+
+=>a128
+Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
+
+=>q129_original
+I agree, it's rather fascinating. That's why I do these things - cause science is awesome. ::He laughs.:: It's a pleasure to be discussing something like this with you, $(context.player.Name). But now's the time to get back to business. Will you go to the recycling plant for us?<end>
+
+=>q129
+I agree, it's rather fascinating. That's why I do these things - cause science is awesome. ::He laughs.:: It's a pleasure to be discussing something like this with you, $(context.player.Name). But now's the time to get back to business. Will you go to the recycling plant for us?<end>
+
+=>a130_original
+I know how lithium-ion batteries work. The cathode attracts lithium-ions, therefore making it more positively charged than the anode, which  in turn attracts negatively charged electrons. They also have a very high energy density, compared to most other batteries.<end>
+
+=>a130
+I know how lithium-ion batteries work. The cathode attracts lithium-ions, therefore making it more positively charged than the anode, which  in turn attracts negatively charged electrons. They also have a very high energy density, compared to most other batteries.<end>
+
+=>q131_original
+Well done, I see you have some advanced knowledge on how batteries work. But still, I think optoelectric batteries are just a tiny bit too advanced for you. Anyhow, will you go to the battery recycling plant for us?<end>
+
+=>q131
+Well done, I see you have some advanced knowledge on how batteries work. But still, I think optoelectric batteries are just a tiny bit too advanced for you. Anyhow, will you go to the battery recycling plant for us?<end>
+
+=>a132_original
+Well, I know most batteries have some sort of an electrolyte, and positively and negatively charged electrodes. The electrons flow through the circuit from one electrode to the other, generating an electric current.<end>
+
+=>a132
+Well, I know most batteries have some sort of an electrolyte, and positively and negatively charged electrodes. The electrons flow through the circuit from one electrode to the other, generating an electric current.<end>
+
+=>q133_original
+That is true, but still, optoelectric batteries are a bit more advanced than that. Anyhow, back to business. Will you go to the recycling plant for us?<end>
+
+=>q133
+That is true, but still, optoelectric batteries are a bit more advanced than that. Anyhow, back to business. Will you go to the recycling plant for us?<end>
+
+=>a134_original
+Fusion battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge.<end>
+
+=>a134
+Fusion battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge.<end>
+
+=>q135_original
+I see you've read the label, but I'm sorry, optoelectric batteries seem really advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>q135
+I see you've read the label, but I'm sorry, optoelectric batteries seem really advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>a136_original
+I know that when you press a switch, the lights turn on.<end>
+
+=>a136
+I know that when you press a switch, the lights turn on.<end>
+
+=>q137_original
+I'm sure you do. Sorry, optoelectric batteries are way too advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>q137
+I'm sure you do. Sorry, optoelectric batteries are way too advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>a138_original
+I can't. Maybe I shouldn't have asked.<end>
+
+=>a138
+I can't. Maybe I shouldn't have asked.<end>
+
+=>q139_original
+Right, now, back to business. Will you go to the recycling plant for us?<end>
+
+=>q139
+Right, now, back to business. Will you go to the recycling plant for us?<end>
+
+=>a140_original
+I see... Now, about searching that recycling plant.<end>
+
+=>a140
+I see... Now, about searching that recycling plant.<end>
+
+=>q141_original
+Right, will you do it?<end>
+
+=>q141
+Right, will you do it?<end>
+
+=>a142_original
+Too much work, I'll think about it...<end>
+
+=>a142
+Too much work, I'll think about it...<end>
+
+=>a143_original
+Yawn, can you just skip to the chase?<end>
+
+=>a143
+Yawn, can you just skip to the chase?<end>
+
+=>q144_original
+Sorry, I can get carried away sometimes. I'll keep it short. <end>
+
+=>q144
+Sorry, I can get carried away sometimes. I'll keep it short. <end>
+
+=>a145_original
+Could you skip the tech stuff? Just tell me what to do.<end>
+
+=>a145
+Could you skip the tech stuff? Just tell me what to do.<end>
+
+=>q146_original
+I could. A lot of our optoelectric nuclear batteries used to maintain uninterrupted power during a power outage died  when we used them after the earthquake. These are very rare, don't mistake them for regular nickel-palladium fusion cells that can be found everywhere.<end>
+
+=>q146
+I could. A lot of our optoelectric nuclear batteries used to maintain uninterrupted power during a power outage died  when we used them after the earthquake. These are very rare, don't mistake them for regular nickel-palladium fusion cells that can be found everywhere.<end>
+
+=>a147_original
+I'm sorry, I'm in a hurry. We'll talk later.<end>
+
+=>a147
+I'm sorry, I'm in a hurry. We'll talk later.<end>
+
+=>q148_original
+Okay, but when you have the time, please see me.<end>
+
+=>q148
+Okay, but when you have the time, please see me.<end>
+
+=>q149_original
+Howdy, howdy. Hey, I've already sent the explorer to Harland. Installed everything you $(#guys/two) asked for. Just remind him to charge it properly; yeah, don't want it running out of energy at the worst possible time.<end>
+
+=>q149
+Howdy, howdy. Hey, I've already sent the explorer to Harland. Installed everything you $(#guys/two) asked for. Just remind him to charge it properly; yeah, don't want it running out of energy at the worst possible time.<end>
+
+=>q150_original
+We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
+
+=>q150
+We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
+
+=>q151_original
+The whole station's buzzing about what happened at the bar. <end>
+
+=>q151
+The whole station's buzzing about what happened at the bar. <end>
+
+=>q152_original
+Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly.<end>
+
+=>q152
+Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly.<end>
+
+=>q153_original
+
+
+Anyway, what do you need?<end>
+
+=>q153
+
+
+Anyway, what do you need?<end>
+
+=>q154_original
+::He shakes his head.:: Just when you think you've seen every psionic trick in the database, something new surprises you. Right, eh?<end>
+
+=>q154
+::He shakes his head.:: Just when you think you've seen every psionic trick in the database, something new surprises you. Right, eh?<end>
+
+=>q155_original
+Howdy, $(context.player.Name). I got some new stuff available if you wanna take a look.<end>
+
+=>q155
+Howdy, $(context.player.Name). I got some new stuff available if you wanna take a look.<end>
+
+=>q156_original
+Howdy. Heard you went to GMS. Did you find anything interesting?<end>
+
+=>q156
+Howdy. Heard you went to GMS. Did you find anything interesting?<end>
+
+=>q157_original
+What's up?<end>
+
+=>q157
+What's up?<end>
+
+=>q158_original
+Howdy. You must be the new $(#guy/girl). Name's Harold.
+
+I'm in charge of this little workshop here.<end>
+
+=>q158
+Howdy. You must be the new $(#guy/girl). Name's Harold.
+
+I'm in charge of this little workshop here.<end>
+
+=>a159_original
+Nice to meet you, Harold. I'm $(context.player.Name).<end>
+
+=>a159
+Nice to meet you, Harold. I'm $(context.player.Name).<end>
+
+=>q160_original
+So... you looking for something specific or just looking around?<end>
+
+=>q160
+So... you looking for something specific or just looking around?<end>
+
+=>a161_original
+Name's $(context.player.Name).<end>
+
+=>a161
+Name's $(context.player.Name).<end>
+

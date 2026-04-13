@@ -1,0 +1,30 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Can't you see I'm busy? Go away.<end>
+
+=>q2
+Can't you see I'm busy? Go away.<end>
+
+=>q3_original
+::Hums.:: Chopping up rats...<end>
+
+=>q3
+::Hums.:: Chopping up rats...<end>
+
+=>q4_original
+Hey! Get the hell outta my kitchen!<end>
+
+=>q4
+Hey! Get the hell outta my kitchen!<end>
+
+=>q5_original
+What is it?<end>
+
+=>q5
+What is it?<end>
+

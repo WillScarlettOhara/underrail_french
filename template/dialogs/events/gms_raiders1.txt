@@ -1,0 +1,356 @@
+=>q1_original
+Get about your business, $(#jack/sister).<end>
+
+=>q1
+Get about your business, $(#jack/sister).<end>
+
+=>q2_original
+It took you long enou-- Hey!<end>
+
+=>q2
+It took you long enou-- Hey!<end>
+
+=>q3_original
+::She levels her crossbow at the old man.:: I thought you said we've got *everyone*, gramps.<end>
+
+=>q3
+::She levels her crossbow at the old man.:: I thought you said we've got *everyone*, gramps.<end>
+
+=>q4_original
+You do! You do! $(#He/She) ain't with us, I swear!<end>
+
+=>q4
+You do! You do! $(#He/She) ain't with us, I swear!<end>
+
+=>q5_original
+Don't move a muscle, $(#jack/sister)! Who the hell are you?<end>
+
+=>q5
+Don't move a muscle, $(#jack/sister)! Who the hell are you?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I was just passing through, I'll be going now.<end>
+
+=>a7
+I was just passing through, I'll be going now.<end>
+
+=>q8_original
+::She readies her crossbow at you.:: I don't think so. Now answer the question.<end>
+
+=>q8
+::She readies her crossbow at you.:: I don't think so. Now answer the question.<end>
+
+=>q9_original
+I'm gonna ask you one last time: Who are you?<end>
+
+=>q9
+I'm gonna ask you one last time: Who are you?<end>
+
+=>a10_original
+They call me Adahn.<end>
+
+=>a10
+They call me Adahn.<end>
+
+=>q11_original
+And what are you doing here?<end>
+
+=>q11
+And what are you doing here?<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+I was just scavenging. Didn't know this place was taken.<end>
+
+=>a13
+I was just scavenging. Didn't know this place was taken.<end>
+
+=>q14_original
+And how did you get down here? You can only open the hatch with the key...<end>
+
+=>q14
+And how did you get down here? You can only open the hatch with the key...<end>
+
+=>q15_original
+Where's Max!? How'd you get the key from him?<end>
+
+=>q15
+Where's Max!? How'd you get the key from him?<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+::[Intimidate]:: I'm afraid Max is dead, sis. I shot him between the eyes. What's it to you?<end>
+
+=>a17
+::[Intimidate]:: I'm afraid Max is dead, sis. I shot him between the eyes. What's it to you?<end>
+
+=>q18_original
+Bastard! I'm gonna rip your guts out!<end>
+
+=>q18
+Bastard! I'm gonna rip your guts out!<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+Sorry, had to put Max down. Hope you guys weren't too attached to him.<end>
+
+=>a20
+Sorry, had to put Max down. Hope you guys weren't too attached to him.<end>
+
+=>q21_original
+I'll put *you* down, you bastard!<end>
+
+=>q21
+I'll put *you* down, you bastard!<end>
+
+=>a22_original
+I don't know who that is. I picked the lock on the hatch.<end>
+
+=>a22
+I don't know who that is. I picked the lock on the hatch.<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>q24_original
+You think we're stupid? You killed him, didn't you?!<end>
+
+=>q24
+You think we're stupid? You killed him, didn't you?!<end>
+
+=>a25_original
+A little bit, yeah. But you can have his stuff back if you want. Almost no blood on it.<end>
+
+=>a25
+A little bit, yeah. But you can have his stuff back if you want. Almost no blood on it.<end>
+
+=>q26_original
+Bastard! I'm gonna have your stuff too.<end>
+
+=>q26
+Bastard! I'm gonna have your stuff too.<end>
+
+=>a27_original
+Okay, he's dead. But I didn't kill him. The sentry bots got him first.<end>
+
+=>a27
+Okay, he's dead. But I didn't kill him. The sentry bots got him first.<end>
+
+=>q28_original
+Liar! <end>
+
+=>q28
+Liar! <end>
+
+=>q29_original
+Even if you're telling the truth, tell me why we shouldn't kill you right here, right now?<end>
+
+=>q29
+Even if you're telling the truth, tell me why we shouldn't kill you right here, right now?<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+::[Persuade]:: Look, I just need to find a way to open this door on the first level and I'll be on my way.<end>
+
+=>a31
+::[Persuade]:: Look, I just need to find a way to open this door on the first level and I'll be on my way.<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+Alright, tell you what: I'll take you to the boss and he'll decide what to do with you.<end>
+
+=>q33
+Alright, tell you what: I'll take you to the boss and he'll decide what to do with you.<end>
+
+=>a34_original
+Yes, take me to your leader.<end>
+
+=>a34
+Yes, take me to your leader.<end>
+
+=>a35_original
+Not on your life. ::Attack!::<end>
+
+=>a35
+Not on your life. ::Attack!::<end>
+
+=>q36_original
+Ain't good enough, $(#jack/sister)...<end>
+
+=>q36
+Ain't good enough, $(#jack/sister)...<end>
+
+=>a37_original
+::[Intimidate]:: Because you know I'd kill you both.<end>
+
+=>a37
+::[Intimidate]:: Because you know I'd kill you both.<end>
+
+=>q38_original
+::He glances at his comrade with the crossbow.:: <end>
+
+=>q38
+::He glances at his comrade with the crossbow.:: <end>
+
+=>q39_original
+We'll just see about that...
+<end>
+
+=>q39
+We'll just see about that...
+<end>
+
+=>a40_original
+::[Intimidate/Intelligence]:: Because if I don't report back to my friends from SGS upstairs soon, they'll come looking for me and you'll need more than a knife and a crossbow to stop them.<end>
+
+=>a40
+::[Intimidate/Intelligence]:: Because if I don't report back to my friends from SGS upstairs soon, they'll come looking for me and you'll need more than a knife and a crossbow to stop them.<end>
+
+=>q41_original
+Nice try, but we'll be long gone before then.<end>
+
+=>q41
+Nice try, but we'll be long gone before then.<end>
+
+=>a42_original
+Just let me climb back up and we can avoid any bloodshed.<end>
+
+=>a42
+Just let me climb back up and we can avoid any bloodshed.<end>
+
+=>a43_original
+Well, let me put it like this... ::Attack!::<end>
+
+=>a43
+Well, let me put it like this... ::Attack!::<end>
+
+=>a44_original
+I didn't kill him. The sentry bots got him.<end>
+
+=>a44
+I didn't kill him. The sentry bots got him.<end>
+
+=>a45_original
+::[Persuade]:: I don't know who that is. I picked the lock on the hatch.<end>
+
+=>a45
+::[Persuade]:: I don't know who that is. I picked the lock on the hatch.<end>
+
+=>q46_original
+<end>
+
+=>q46
+<end>
+
+=>a47_original
+Sorry to be the bearer of bad news, but Max is dead. He got shot by a sentry bot.<end>
+
+=>a47
+Sorry to be the bearer of bad news, but Max is dead. He got shot by a sentry bot.<end>
+
+=>a48_original
+Why are you holding this man hostage?<end>
+
+=>a48
+Why are you holding this man hostage?<end>
+
+=>q49_original
+I'll be asking the questions here. Why are you here?<end>
+
+=>q49
+I'll be asking the questions here. Why are you here?<end>
+
+=>a50_original
+Actually I'm from the South Gate Station and I'm looking for something.<end>
+
+=>a50
+Actually I'm from the South Gate Station and I'm looking for something.<end>
+
+=>q51_original
+::[Intelligence/Intimidation] They both seem to be taken aback a bit when you mentioned where you are coming from.:: <end>
+
+=>q51
+::[Intelligence/Intimidation] They both seem to be taken aback a bit when you mentioned where you are coming from.:: <end>
+
+=>q52_original
+What's SGS want with this place? It ain't got nothing you people don't have already.<end>
+
+=>q52
+What's SGS want with this place? It ain't got nothing you people don't have already.<end>
+
+=>a53_original
+Shooting people down, taking their stuff. You know - the usual.<end>
+
+=>a53
+Shooting people down, taking their stuff. You know - the usual.<end>
+
+=>q54_original
+Oh yeah? <end>
+
+=>q54
+Oh yeah? <end>
+
+=>a55_original
+Tell you what I'm not doing - answering any more questions for you ugly punks. ::Attack!::<end>
+
+=>a55
+Tell you what I'm not doing - answering any more questions for you ugly punks. ::Attack!::<end>
+
+=>a56_original
+My name is $(context.player.Name).<end>
+
+=>a56
+My name is $(context.player.Name).<end>
+
+=>a57_original
+Name's $(context.player.Name), and I'm from South Gate Station.<end>
+
+=>a57
+Name's $(context.player.Name), and I'm from South Gate Station.<end>
+
+=>a58_original
+Your medieval antics don't scare me. Eat lead, sister!<end>
+
+=>a58
+Your medieval antics don't scare me. Eat lead, sister!<end>
+
+=>a59_original
+I'm your worst nightmare. ::Attack.::<end>
+
+=>a59
+I'm your worst nightmare. ::Attack.::<end>
+

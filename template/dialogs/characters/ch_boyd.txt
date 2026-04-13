@@ -1,0 +1,294 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+::In front of you is a lean young man. He removes his respirator for a moment to reveal a cleanly shaved, handsome face. His exposed arms, on the other hand, are almost entirely enveloped by a collage of chaotic tattoos, except for a few spots where a hot branding iron was used to defile the skin instead. In fact, every single tattoo acts like a brand, and represents a different gang. The man is perfectly aware of what your eyes are focused at, but he simply ignores it. Instead, he politely speaks to you.::
+
+My name is Boyd, Edgard's deputy. We haven't had the chance to talk before.<end>
+
+=>q2
+::In front of you is a lean young man. He removes his respirator for a moment to reveal a cleanly shaved, handsome face. His exposed arms, on the other hand, are almost entirely enveloped by a collage of chaotic tattoos, except for a few spots where a hot branding iron was used to defile the skin instead. In fact, every single tattoo acts like a brand, and represents a different gang. The man is perfectly aware of what your eyes are focused at, but he simply ignores it. Instead, he politely speaks to you.::
+
+My name is Boyd, Edgard's deputy. We haven't had the chance to talk before.<end>
+
+=>q3_original
+I'd like to speak to you about the... um, recent events, $(context.player.Name). Edgar has been killed, as you already know, so it is now up to me to tell you a few things I feel should be said. You've proven that you have, in your mind, in your heart, the things we value the most - courage and strength. You're a part of Camp Hathor now as much as I am, and Edgar unfortunately was. So, when you have some free time, talk to me. I have something to teach you.<end>
+
+=>q3
+I'd like to speak to you about the... um, recent events, $(context.player.Name). Edgar has been killed, as you already know, so it is now up to me to tell you a few things I feel should be said. You've proven that you have, in your mind, in your heart, the things we value the most - courage and strength. You're a part of Camp Hathor now as much as I am, and Edgar unfortunately was. So, when you have some free time, talk to me. I have something to teach you.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+You said you wanted to teach me something?<end>
+
+=>a5
+You said you wanted to teach me something?<end>
+
+=>q6_original
+Yeah. I wanted to teach you some... hm, hunting methods and techniques developed by hunters from Camp Hathor. I was taught these things when I came here and thought it'd be fair to teach them to you now. You've done so much for us and I'm sure Edgar would've done the same thing I'm doing right now. Yeah.
+
+So you know, this might... take a while.<end>
+
+=>q6
+Yeah. I wanted to teach you some... hm, hunting methods and techniques developed by hunters from Camp Hathor. I was taught these things when I came here and thought it'd be fair to teach them to you now. You've done so much for us and I'm sure Edgar would've done the same thing I'm doing right now. Yeah.
+
+So you know, this might... take a while.<end>
+
+=>a7_original
+Time is not a issue, Boyd. I'm ready to learn.<end>
+
+=>a7
+Time is not a issue, Boyd. I'm ready to learn.<end>
+
+=>q8_original
+Dominating! Let's get started... <end>
+
+=>q8
+Dominating! Let's get started... <end>
+
+=>a9_original
+::Let him teach you.::<end>
+
+=>a9
+::Let him teach you.::<end>
+
+=>a10_original
+You don't seem like you're from around here.<end>
+
+=>a10
+You don't seem like you're from around here.<end>
+
+=>q11_original
+Hmmm. What gave it away?<end>
+
+=>q11
+Hmmm. What gave it away?<end>
+
+=>a12_original
+Tattoos and scars.<end>
+
+=>a12
+Tattoos and scars.<end>
+
+=>q13_original
+I see. Yeah, I am not from around here. I came from Core City. I like it here more. Life is simpler.<end>
+
+=>q13
+I see. Yeah, I am not from around here. I came from Core City. I like it here more. Life is simpler.<end>
+
+=>a14_original
+Can you tell me more about yourself?<end>
+
+=>a14
+Can you tell me more about yourself?<end>
+
+=>q15_original
+Maybe some other time. Yeah. Def some other time.<end>
+
+=>q15
+Maybe some other time. Yeah. Def some other time.<end>
+
+=>a16_original
+The way you talk. The words you use.<end>
+
+=>a16
+The way you talk. The words you use.<end>
+
+=>a17_original
+I can't pinpoint it exactly.<end>
+
+=>a17
+I can't pinpoint it exactly.<end>
+
+=>a18_original
+What can you tell me about Camp Hathor?<end>
+
+=>a18
+What can you tell me about Camp Hathor?<end>
+
+=>q19_original
+There's not much to say. We're a small but proud hunting community; basically, miners turned hunters after the Hathor mine was closed, if you will. Not much happens here, 'cept for the earthquake and 'cept for that recent burrower problem, but you would know how they got zoned out in the end. ::He laughs.:: That's pretty much it.<end>
+
+=>q19
+There's not much to say. We're a small but proud hunting community; basically, miners turned hunters after the Hathor mine was closed, if you will. Not much happens here, 'cept for the earthquake and 'cept for that recent burrower problem, but you would know how they got zoned out in the end. ::He laughs.:: That's pretty much it.<end>
+
+=>q20_original
+And now that we are free of the Rathound King, things are even more mundane around here.<end>
+
+=>q20
+And now that we are free of the Rathound King, things are even more mundane around here.<end>
+
+=>a21_original
+I had other questions.<end>
+
+=>a21
+I had other questions.<end>
+
+=>q22_original
+Yes?<end>
+
+=>q22
+Yes?<end>
+
+=>q23_original
+That is, if you ignore a small-scale war with a pipeworker who calls himself the Rathound King.<end>
+
+=>q23
+That is, if you ignore a small-scale war with a pipeworker who calls himself the Rathound King.<end>
+
+=>a24_original
+What's your opinion on this whole situation with the Rathound King?<end>
+
+=>a24
+What's your opinion on this whole situation with the Rathound King?<end>
+
+=>q25_original
+I could hardly believe it when I heard it. We made truce with that pipeworker? The man who killed so many of us? Even children from what I've heard in the past. I think of the guy less than I think of the mud on my boots, and I think he's got some cheap trick up his sleeve. But if Edgar says otherwise...<end>
+
+=>q25
+I could hardly believe it when I heard it. We made truce with that pipeworker? The man who killed so many of us? Even children from what I've heard in the past. I think of the guy less than I think of the mud on my boots, and I think he's got some cheap trick up his sleeve. But if Edgar says otherwise...<end>
+
+=>q26_original
+I don't know. It is what it is. We'll see.<end>
+
+=>q26
+I don't know. It is what it is. We'll see.<end>
+
+=>q27_original
+It's a bittersweet victory. The Rathound King has been zoned out, sure, but he took Edgar with him too. I, as his deputy, I am in charge of this place from now on, at least until we choose a new leader. So if you need anything important, talk directly to me. These are troubling times now, with Edgar's death and everything, but we'll manage somehow.<end>
+
+=>q27
+It's a bittersweet victory. The Rathound King has been zoned out, sure, but he took Edgar with him too. I, as his deputy, I am in charge of this place from now on, at least until we choose a new leader. So if you need anything important, talk directly to me. These are troubling times now, with Edgar's death and everything, but we'll manage somehow.<end>
+
+=>q28_original
+Edgar was a not only a good leader, but an exceptional man as well. He meant a lot to us all, and especially to me. He welcomed me here despite who I was before and... I found home here. I'll miss him, dammit.<end>
+
+=>q28
+Edgar was a not only a good leader, but an exceptional man as well. He meant a lot to us all, and especially to me. He welcomed me here despite who I was before and... I found home here. I'll miss him, dammit.<end>
+
+=>q29_original
+That pipeworker has been zoned out at last! And that is a big relief. Hunting will be much safer from now on and, generally speaking, you can step outside the camp without seeing lotsa pairs of yellow eyes stalking you. So, yeah, everyone's feelin' hardcore.<end>
+
+=>q29
+That pipeworker has been zoned out at last! And that is a big relief. Hunting will be much safer from now on and, generally speaking, you can step outside the camp without seeing lotsa pairs of yellow eyes stalking you. So, yeah, everyone's feelin' hardcore.<end>
+
+=>q30_original
+'Cept for the Rathound King himself, of course. ::He laughs.::<end>
+
+=>q30
+'Cept for the Rathound King himself, of course. ::He laughs.::<end>
+
+=>a31_original
+How does it feel like being Edgar's deputy?<end>
+
+=>a31
+How does it feel like being Edgar's deputy?<end>
+
+=>q32_original
+Dominating, I'd say. Edgar's a great leader and an even greater man, and helping someone like that run this community is a hard but very, very fulfilling job. I'm not saying this just because he's standing in the same room and can probably hear us, I really mean it. ::He laughs.:: I like it here.<end>
+
+=>q32
+Dominating, I'd say. Edgar's a great leader and an even greater man, and helping someone like that run this community is a hard but very, very fulfilling job. I'm not saying this just because he's standing in the same room and can probably hear us, I really mean it. ::He laughs.:: I like it here.<end>
+
+=>q33_original
+I haven't found a reason to complain... yet! :: He laughs.::<end>
+
+=>q33
+I haven't found a reason to complain... yet! :: He laughs.::<end>
+
+=>a34_original
+What can you tell me about the Rathound King?<end>
+
+=>a34
+What can you tell me about the Rathound King?<end>
+
+=>q35_original
+Nothing good. He's a menace to our community, and a hardcore pipeworker. In short, he's a savage who's got an army of rathounds attacking us at his command. I've never seen any man being able to do that but him, at least not with more than one or two tamed rats. No one knows how he does it. What's even worse, we don't even know where the bastard is hiding.<end>
+
+=>q35
+Nothing good. He's a menace to our community, and a hardcore pipeworker. In short, he's a savage who's got an army of rathounds attacking us at his command. I've never seen any man being able to do that but him, at least not with more than one or two tamed rats. No one knows how he does it. What's even worse, we don't even know where the bastard is hiding.<end>
+
+=>a36_original
+Why are you guys fighting?<end>
+
+=>a36
+Why are you guys fighting?<end>
+
+=>q37_original
+It all started a couple of years ago. Camp Hathor had a different leader back then, and he opposed Rathound King's attempts at claiming *our* lands for himself. I don't know the details as I moved to Camp Hathor just a year ago, but that's what I was told when I got here.<end>
+
+=>q37
+It all started a couple of years ago. Camp Hathor had a different leader back then, and he opposed Rathound King's attempts at claiming *our* lands for himself. I don't know the details as I moved to Camp Hathor just a year ago, but that's what I was told when I got here.<end>
+
+=>q38_original
+Be careful if you run into him. He's an animal who often sets traps for our hunters or outright attacks them. He's smart, a smart savage, I give him that, and he's not someone you can afford to underestimate. Unless you wanna get zoned out.<end>
+
+=>q38
+Be careful if you run into him. He's an animal who often sets traps for our hunters or outright attacks them. He's smart, a smart savage, I give him that, and he's not someone you can afford to underestimate. Unless you wanna get zoned out.<end>
+
+=>a39_original
+You don't know where he's hiding? You need to work on your tracking skills...<end>
+
+=>a39
+You don't know where he's hiding? You need to work on your tracking skills...<end>
+
+=>q40_original
+I'm sad to admit this, but he's that good. And we've had quite some time to find him. <end>
+
+=>q40
+I'm sad to admit this, but he's that good. And we've had quite some time to find him. <end>
+
+=>a41_original
+I wanted to ask you something else...<end>
+
+=>a41
+I wanted to ask you something else...<end>
+
+=>q42_original
+Go ahead.<end>
+
+=>q42
+Go ahead.<end>
+
+=>a43_original
+Bye Boyd, got to go.<end>
+
+=>a43
+Bye Boyd, got to go.<end>
+
+=>q44_original
+I'm quite busy, so please, if you need something, talk to Edgar. Thank you.<end>
+
+=>q44
+I'm quite busy, so please, if you need something, talk to Edgar. Thank you.<end>
+
+=>q45_original
+Sorry, I'm busy.<end>
+
+=>q45
+Sorry, I'm busy.<end>
+
+=>q46_original
+::In front of you is a lean young man. He removes his respirator for a moment to reveal a cleanly shaved, handsome face. His exposed arms, on the other hand, are almost entirely enveloped by a collage of chaotic tattoos, except for a few spots where hot branding iron was used to defile the skin instead. In fact, every single tattoo acts like a brand, and represents a different gang. The man is perfectly aware of what your eyes are focused at, but he simply ignores it. Instead, he politely speaks to you.::
+
+Hello, $(context.player.Name). I'm Boyd, Edgar's deputy. I gotta thank you for dealing with those burrowers. Dominating work for which we owe you big time. Now, tell me what do you need?<end>
+
+=>q46
+::In front of you is a lean young man. He removes his respirator for a moment to reveal a cleanly shaved, handsome face. His exposed arms, on the other hand, are almost entirely enveloped by a collage of chaotic tattoos, except for a few spots where hot branding iron was used to defile the skin instead. In fact, every single tattoo acts like a brand, and represents a different gang. The man is perfectly aware of what your eyes are focused at, but he simply ignores it. Instead, he politely speaks to you.::
+
+Hello, $(context.player.Name). I'm Boyd, Edgar's deputy. I gotta thank you for dealing with those burrowers. Dominating work for which we owe you big time. Now, tell me what do you need?<end>
+
+=>q47_original
+Yeah?<end>
+
+=>q47
+Yeah?<end>
+

@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Do I know you?<end>
+
+=>q2
+Do I know you?<end>
+
+=>q3_original
+The air! It's so darn thick!<end>
+
+=>q3
+The air! It's so darn thick!<end>
+
+=>q4_original
+Hey.<end>
+
+=>q4
+Hey.<end>
+
+=>q5_original
+I can't help you, I'm not from around these parts.<end>
+
+=>q5
+I can't help you, I'm not from around these parts.<end>
+
+=>q6_original
+I couldn't live in a place such as this. It's so damn contaminated!<end>
+
+=>q6
+I couldn't live in a place such as this. It's so damn contaminated!<end>
+
+=>q7_original
+I heard there is some trouble in the mine. Hope nothing that will affect us.<end>
+
+=>q7
+I heard there is some trouble in the mine. Hope nothing that will affect us.<end>
+
+=>q8_original
+There was trouble in the mine recently, as far as I heard.<end>
+
+=>q8
+There was trouble in the mine recently, as far as I heard.<end>
+
+=>q9_original
+I was told about some derailed woman who killed a bunch of guys. This place is getting too spooky for my taste.<end>
+
+=>q9
+I was told about some derailed woman who killed a bunch of guys. This place is getting too spooky for my taste.<end>
+

@@ -1,0 +1,18 @@
+=>q1_original
+::What would you like to do?::<end>
+
+=>q1
+::What would you like to do?::<end>
+
+=>a2_original
+::Exit the Gauntlet.::<end>
+
+=>a2
+::Exit the Gauntlet.::<end>
+
+=>a3_original
+::Nothing.::<end>
+
+=>a3
+::Nothing.::<end>
+

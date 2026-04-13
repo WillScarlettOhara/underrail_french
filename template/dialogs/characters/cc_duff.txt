@@ -1,0 +1,1140 @@
+=>q1_original
+They're watching, aren't they?<end>
+
+=>q1
+They're watching, aren't they?<end>
+
+=>q2_original
+::He ignores you completely.::<end>
+
+=>q2
+::He ignores you completely.::<end>
+
+=>q3_original
+::A figure with a familiarly pierced face waves at you.::
+
+Yo, hey, you! $(#Dude/Sister), yo! Recognize me?
+
+::Now even further accessorized, Duff strikes a pose and presents his new look to you: He is sporting brand new sneakers, seemingly very light an comfortable; quality hopper leather pants and suit - perhaps too tight in certain places; leather belt with a simple yet stylish metal buckle; a pitch-black shirt; and finally, what appears to be a super steel chain link necklace. And he even got his mohawk neatly trimmed.::
+
+You like this? It's hardcore, huh? Yeah, it is! You know it, $(#man/sister).<end>
+
+=>q3
+::A figure with a familiarly pierced face waves at you.::
+
+Yo, hey, you! $(#Dude/Sister), yo! Recognize me?
+
+::Now even further accessorized, Duff strikes a pose and presents his new look to you: He is sporting brand new sneakers, seemingly very light an comfortable; quality hopper leather pants and suit - perhaps too tight in certain places; leather belt with a simple yet stylish metal buckle; a pitch-black shirt; and finally, what appears to be a super steel chain link necklace. And he even got his mohawk neatly trimmed.::
+
+You like this? It's hardcore, huh? Yeah, it is! You know it, $(#man/sister).<end>
+
+=>a4_original
+Hell yeah it's hardcore, man!<end>
+
+=>a4
+Hell yeah it's hardcore, man!<end>
+
+=>q5_original
+Yeah, I know! It's hardcore.<end>
+
+=>q5
+Yeah, I know! It's hardcore.<end>
+
+=>q6_original
+While we're here, I wanna... well, I wanted to thank you. I've thought about what happened and... uh... Some important folks wanted that device, huh? Fat rats with lotsa money who could've had us zoned out like nothing. But you didn't do that. You didn't call in the hit squad or whatever. Instead you bought it off us, gave us a *lot* of money and left us alone. I respect that. I know I would've done the opposite, but I... ::He cuts the sentence short with a shrug.::
+
+Now, who thought that robbing some squeezer would have such a happy ending, huh? ::He laughs.:: So, thanks again... eh, um, what's your name?<end>
+
+=>q6
+While we're here, I wanna... well, I wanted to thank you. I've thought about what happened and... uh... Some important folks wanted that device, huh? Fat rats with lotsa money who could've had us zoned out like nothing. But you didn't do that. You didn't call in the hit squad or whatever. Instead you bought it off us, gave us a *lot* of money and left us alone. I respect that. I know I would've done the opposite, but I... ::He cuts the sentence short with a shrug.::
+
+Now, who thought that robbing some squeezer would have such a happy ending, huh? ::He laughs.:: So, thanks again... eh, um, what's your name?<end>
+
+=>a7_original
+$(context.player.Name).<end>
+
+=>a7
+$(context.player.Name).<end>
+
+=>q8_original
+Thank you, $(context.player.Name). You're hardcore.<end>
+
+=>q8
+Thank you, $(context.player.Name). You're hardcore.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+So, what have you been doing besides shopping for clothes? And where are the ladies?<end>
+
+=>a10
+So, what have you been doing besides shopping for clothes? And where are the ladies?<end>
+
+=>q11_original
+They're resting. I dominated them. Yeah, I did. I took them to the Arena, then the Hardcore City Bar, then we did some hardcore shopping. Them girls are tired. ::He laughs.:: Meanwhile, I went out to grab us some food. We rented a place over at the upper level. It's small, but hardcore enough for us.
+
+Oh, and watching a *live* Arena match again after all this time - domination! Much better than watching it on a trim. To smell the blood, to have the gore splatter all around you. And all them bloodthirsty maniacs yelling and screaming together... Hardcore. I missed that. Worth every charon.<end>
+
+=>q11
+They're resting. I dominated them. Yeah, I did. I took them to the Arena, then the Hardcore City Bar, then we did some hardcore shopping. Them girls are tired. ::He laughs.:: Meanwhile, I went out to grab us some food. We rented a place over at the upper level. It's small, but hardcore enough for us.
+
+Oh, and watching a *live* Arena match again after all this time - domination! Much better than watching it on a trim. To smell the blood, to have the gore splatter all around you. And all them bloodthirsty maniacs yelling and screaming together... Hardcore. I missed that. Worth every charon.<end>
+
+=>a12_original
+I've also got a house there. It's the large house just northwest of the Core City Housing Corporation office.<end>
+
+=>a12
+I've also got a house there. It's the large house just northwest of the Core City Housing Corporation office.<end>
+
+=>q13_original
+Damn, you're loaded. Good for you. We might stop by and hang out some time. That alright, huh?<end>
+
+=>q13
+Damn, you're loaded. Good for you. We might stop by and hang out some time. That alright, huh?<end>
+
+=>a14_original
+Sure. Drop by whenever you like.<end>
+
+=>a14
+Sure. Drop by whenever you like.<end>
+
+=>q15_original
+Hardcore. I'll talk with the girls. Damn... we got neighbors that ain't scared we're gonna zone them out. How awesome is that, huh?<end>
+
+=>q15
+Hardcore. I'll talk with the girls. Damn... we got neighbors that ain't scared we're gonna zone them out. How awesome is that, huh?<end>
+
+=>a16_original
+So you left the Zone for good?<end>
+
+=>a16
+So you left the Zone for good?<end>
+
+=>q17_original
+::He nods.:: I feel like a proper citizen now. I got tired of all the scavenging, robbing and zoning out. Gotta think of the girls too. They're hardcore in their own right, but they're still women. Maybe I'll get a job or something. <end>
+
+=>q17
+::He nods.:: I feel like a proper citizen now. I got tired of all the scavenging, robbing and zoning out. Gotta think of the girls too. They're hardcore in their own right, but they're still women. Maybe I'll get a job or something. <end>
+
+=>q18_original
+Now that the Tunnelers are gone, maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>q18
+Now that the Tunnelers are gone, maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+By the way, where'd you get that super steel necklace?<end>
+
+=>a20
+By the way, where'd you get that super steel necklace?<end>
+
+=>q21_original
+::He smiles and lifts the necklace with his hand, gazing at it with extreme pride and delight; it seems that its presence satisfies both his love of money and of jewelry at the same time, for it is both of those at the same time.::
+
+I got this done in Foundry. I said, "Yo, I want this coins melted into a necklace," and they did it. Did a few more trinkets for the girls too. They loved it. A man's gotta know how to treat his girls properly, right?<end>
+
+=>q21
+::He smiles and lifts the necklace with his hand, gazing at it with extreme pride and delight; it seems that its presence satisfies both his love of money and of jewelry at the same time, for it is both of those at the same time.::
+
+I got this done in Foundry. I said, "Yo, I want this coins melted into a necklace," and they did it. Did a few more trinkets for the girls too. They loved it. A man's gotta know how to treat his girls properly, right?<end>
+
+=>q22_original
+I'm even gonna do super steel piercings one day. ::He laughs.:: No, really, I will.<end>
+
+=>q22
+I'm even gonna do super steel piercings one day. ::He laughs.:: No, really, I will.<end>
+
+=>a23_original
+It's been fun chatting with you, but I gotta go. Say hi to the ladies from me and good luck to you all.<end>
+
+=>a23
+It's been fun chatting with you, but I gotta go. Say hi to the ladies from me and good luck to you all.<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+Hold on one more second. ::He pauses, looks you straight in the eye and speaks.:: Uh, if you're interested... maybe you could join me and the girls, you know. There's enough Duff for one more woman. ::He smiles.:: Oh, oh, and don't worry a thing - the rest of the girls ain't gonna be jealous. Well... maybe Priscilla will at first, but if she could accept Svetlana, she's gonna accept you too. 
+
+So what do you say, girl, huh? You like the idea?<end>
+
+=>q25
+Hold on one more second. ::He pauses, looks you straight in the eye and speaks.:: Uh, if you're interested... maybe you could join me and the girls, you know. There's enough Duff for one more woman. ::He smiles.:: Oh, oh, and don't worry a thing - the rest of the girls ain't gonna be jealous. Well... maybe Priscilla will at first, but if she could accept Svetlana, she's gonna accept you too. 
+
+So what do you say, girl, huh? You like the idea?<end>
+
+=>a26_original
+You are not my type.<end>
+
+=>a26
+You are not my type.<end>
+
+=>q27_original
+Can't zone out a man for trying, huh? ::He laughs.:: Duff doesn't mind. Yeah.<end>
+
+=>q27
+Can't zone out a man for trying, huh? ::He laughs.:: Duff doesn't mind. Yeah.<end>
+
+=>q28_original
+Well, see ya. Stay hardcore. <end>
+
+=>q28
+Well, see ya. Stay hardcore. <end>
+
+=>q29_original
+::He then turns toward the crispy, moist meat as it rotates so tantalizingly right before his eyes.:: That's the stuff. No more stinking barrel soup for ol' Duffie.<end>
+
+=>q29
+::He then turns toward the crispy, moist meat as it rotates so tantalizingly right before his eyes.:: That's the stuff. No more stinking barrel soup for ol' Duffie.<end>
+
+=>a30_original
+I'll think about it.<end>
+
+=>a30
+I'll think about it.<end>
+
+=>q31_original
+Alright. Hardcore. Yeah. ::He nods.:: You do that. Duff'll be waiting. ::Then he winks.::<end>
+
+=>q31
+Alright. Hardcore. Yeah. ::He nods.:: You do that. Duff'll be waiting. ::Then he winks.::<end>
+
+=>a32_original
+No.<end>
+
+=>a32
+No.<end>
+
+=>q33_original
+See ya! Stay hardcore. <end>
+
+=>q33
+See ya! Stay hardcore. <end>
+
+=>a34_original
+Gotta go now. See you around, Duff.<end>
+
+=>a34
+Gotta go now. See you around, Duff.<end>
+
+=>q35_original
+The Tunnelers could still wipe us out, but hell, you ain't getting nowhere if you think like that. Maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>q35
+The Tunnelers could still wipe us out, but hell, you ain't getting nowhere if you think like that. Maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>a36_original
+I rarely go there, actually. But I do have a very good security system.<end>
+
+=>a36
+I rarely go there, actually. But I do have a very good security system.<end>
+
+=>q37_original
+Oh. That's a shame. Whenever you have some time then. <end>
+
+=>q37
+Oh. That's a shame. Whenever you have some time then. <end>
+
+=>q38_original
+Or you could stop by our place, um... What was the number again...? Well, pipeworks. I'll let you know once I check it again. It's the third from the, uh... I'll let you know.<end>
+
+=>q38
+Or you could stop by our place, um... What was the number again...? Well, pipeworks. I'll let you know once I check it again. It's the third from the, uh... I'll let you know.<end>
+
+=>a39_original
+I'm going to be busy in the following months.<end>
+
+=>a39
+I'm going to be busy in the following months.<end>
+
+=>a40_original
+I gotta rush. Good luck, Duff.<end>
+
+=>a40
+I gotta rush. Good luck, Duff.<end>
+
+=>a41_original
+I can't reveal my name, I'm afraid.<end>
+
+=>a41
+I can't reveal my name, I'm afraid.<end>
+
+=>q42_original
+Oh, I see. Secrecy and all that. I get it, I get it. 
+
+Well, thank you, you. You're hardcore.<end>
+
+=>q42
+Oh, I see. Secrecy and all that. I get it, I get it. 
+
+Well, thank you, you. You're hardcore.<end>
+
+=>a43_original
+You look quite dandy, Duff.<end>
+
+=>a43
+You look quite dandy, Duff.<end>
+
+=>a44_original
+I like how everything is matching the color of your mohawk.<end>
+
+=>a44
+I like how everything is matching the color of your mohawk.<end>
+
+=>q45_original
+Yeah, I know! That's the whole idea. Style. Taste.<end>
+
+=>q45
+Yeah, I know! That's the whole idea. Style. Taste.<end>
+
+=>a46_original
+Who paid you to wear that?<end>
+
+=>a46
+Who paid you to wear that?<end>
+
+=>q47_original
+::He scratches his mohawk.:: Huh? ::He stares at you some more, then replies.:: Oh, I dig. You did, $(#man/sister)! It's hardcore, right?<end>
+
+=>q47
+::He scratches his mohawk.:: Huh? ::He stares at you some more, then replies.:: Oh, I dig. You did, $(#man/sister)! It's hardcore, right?<end>
+
+=>a48_original
+Where are your ladies? Did they leave you because of the horrible outfit?<end>
+
+=>a48
+Where are your ladies? Did they leave you because of the horrible outfit?<end>
+
+=>q49_original
+What!? No, they're waiting for me to grab some food. I mean... I just wanted to say hi, and what do you do? You insult me. If this here was the Zone I'd... ::He takes a glimpse around him before continuing.:: But no, I owe you, so how about you just drop off, huh? Alright? Hardcore. ::He turns his back to you.::<end>
+
+=>q49
+What!? No, they're waiting for me to grab some food. I mean... I just wanted to say hi, and what do you do? You insult me. If this here was the Zone I'd... ::He takes a glimpse around him before continuing.:: But no, I owe you, so how about you just drop off, huh? Alright? Hardcore. ::He turns his back to you.::<end>
+
+=>a50_original
+Did you just tell me to drop off? You want me to take all those fine coins back, punk?<end>
+
+=>a50
+Did you just tell me to drop off? You want me to take all those fine coins back, punk?<end>
+
+=>q51_original
+Drop off. Leave me alone. I got rights now, meathead. Drop off.<end>
+
+=>q51
+Drop off. Leave me alone. I got rights now, meathead. Drop off.<end>
+
+=>a52_original
+::Leave.::<end>
+
+=>a52
+::Leave.::<end>
+
+=>a53_original
+Sorry, I think you got the wrong person?<end>
+
+=>a53
+Sorry, I think you got the wrong person?<end>
+
+=>q54_original
+::He stares at you for a few moments.::
+
+What do you mean? But we... ::He points up and east.:: You know?<end>
+
+=>q54
+::He stares at you for a few moments.::
+
+What do you mean? But we... ::He points up and east.:: You know?<end>
+
+=>a55_original
+I'm just messing with you. You're looking good, man.<end>
+
+=>a55
+I'm just messing with you. You're looking good, man.<end>
+
+=>q56_original
+Oh, you scared me for a moment. I though you were gonna blow me off. ::He laughs.:: But yeah, I'm looking hardcore now!<end>
+
+=>q56
+Oh, you scared me for a moment. I though you were gonna blow me off. ::He laughs.:: But yeah, I'm looking hardcore now!<end>
+
+=>a57_original
+You mistook me for someone else. Goodbye.<end>
+
+=>a57
+You mistook me for someone else. Goodbye.<end>
+
+=>q58_original
+Ooooooh. I see. Yeah, I get it, I get it. ::He looks around, then quickly whispers at you before turning his back toward you.:: Thank you, uh, stranger. Bye.<end>
+
+=>q58
+Ooooooh. I see. Yeah, I get it, I get it. ::He looks around, then quickly whispers at you before turning his back toward you.:: Thank you, uh, stranger. Bye.<end>
+
+=>a59_original
+I don't know you.<end>
+
+=>a59
+I don't know you.<end>
+
+=>q60_original
+<end>
+
+=>q60
+<end>
+
+=>q61_original
+Damn, I'm hungry.<end>
+
+=>q61
+Damn, I'm hungry.<end>
+
+=>q62_original
+Tina nearly uttered her first words when she saw me in this fancy suit.<end>
+
+=>q62
+Tina nearly uttered her first words when she saw me in this fancy suit.<end>
+
+=>q63_original
+No more barrel soup for Duff and the girls.<end>
+
+=>q63
+No more barrel soup for Duff and the girls.<end>
+
+=>q64_original
+I saw this old, filthy zoner dumpster diving near our new place. Vermin.<end>
+
+=>q64
+I saw this old, filthy zoner dumpster diving near our new place. Vermin.<end>
+
+=>q65_original
+I can now take the train the normal way. No more hanging from the side.<end>
+
+=>q65
+I can now take the train the normal way. No more hanging from the side.<end>
+
+=>q66_original
+If you change your mind, let me know, girl.<end>
+
+=>q66
+If you change your mind, let me know, girl.<end>
+
+=>q67_original
+What do you mean, "I wasn't paying attention"? Huh? I don't get it...<end>
+
+=>q67
+What do you mean, "I wasn't paying attention"? Huh? I don't get it...<end>
+
+=>q68_original
+I swear I don't have it anymore!<end>
+
+=>q68
+I swear I don't have it anymore!<end>
+
+=>q69_original
+Come on, what-- what more do you want from me, huh? Let me watch the match in peace.<end>
+
+=>q69
+Come on, what-- what more do you want from me, huh? Let me watch the match in peace.<end>
+
+=>q70_original
+You sure know how to throw punches...<end>
+
+=>q70
+You sure know how to throw punches...<end>
+
+=>q71_original
+Did you hear what I said? Huh? Get lost!<end>
+
+=>q71
+Did you hear what I said? Huh? Get lost!<end>
+
+=>q72_original
+::All three women are quietly watching you with such intensity you suspect they might leap at you at any given moment. Meanwhile, Duff wipes the blood from his face as much as he can and almost inaudibly swears something. After catching his breath, he looks at you.::<end>
+
+=>q72
+::All three women are quietly watching you with such intensity you suspect they might leap at you at any given moment. Meanwhile, Duff wipes the blood from his face as much as he can and almost inaudibly swears something. After catching his breath, he looks at you.::<end>
+
+=>q73_original
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, tak-- ::He reaches for the device, but it isn't there anymore. His expression is that of panic, and the drops of sweat rolling down his face, clinging occasionaly on some of his numerous piercings, weren't the product of physical strain during the previous fight, but the product of fear.:: Where is that thing!? I had it right here!<end>
+
+=>q73
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, tak-- ::He reaches for the device, but it isn't there anymore. His expression is that of panic, and the drops of sweat rolling down his face, clinging occasionaly on some of his numerous piercings, weren't the product of physical strain during the previous fight, but the product of fear.:: Where is that thing!? I had it right here!<end>
+
+=>q74_original
+::He searches for it for a while longer, but in the end he gives up.:: Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>q74
+::He searches for it for a while longer, but in the end he gives up.:: Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>a75_original
+You're lying! I'm tired of all this nonsense. I'll take the device from your corpse if I have to. ::Attack!::<end>
+
+=>a75
+You're lying! I'm tired of all this nonsense. I'll take the device from your corpse if I have to. ::Attack!::<end>
+
+=>a76_original
+You didn't drop it, you just weren't paying attention. Goodbye.<end>
+
+=>a76
+You didn't drop it, you just weren't paying attention. Goodbye.<end>
+
+=>a77_original
+::Leave.::<end>
+
+=>a77
+::Leave.::<end>
+
+=>q78_original
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, take it. ::He gives you the ICPD.::
+
+Let $(#him/her) go, girls. Ow... I think I'm gonna need some rest.<end>
+
+=>q78
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, take it. ::He gives you the ICPD.::
+
+Let $(#him/her) go, girls. Ow... I think I'm gonna need some rest.<end>
+
+=>q79_original
+Hey, I'd like to watch the match now, thank you.<end>
+
+=>q79
+Hey, I'd like to watch the match now, thank you.<end>
+
+=>q80_original
+::You are led before a hefty man. As he turns toward you, you notice him to have numerous and shiny piercings on his face, all of which reflect the violent pictures from the screen beside him. He takes one last glance at the monitor before focusing on you, not doing well at hiding his irritation.::
+
+What do you want, huh? Why are you interrupting me while I'm watching the Arena? Deathhammer just killed forty-five burrowers and he's about to kill some more, yet Duff's gotta talk to this jackass here. Come on, speak already.<end>
+
+=>q80
+::You are led before a hefty man. As he turns toward you, you notice him to have numerous and shiny piercings on his face, all of which reflect the violent pictures from the screen beside him. He takes one last glance at the monitor before focusing on you, not doing well at hiding his irritation.::
+
+What do you want, huh? Why are you interrupting me while I'm watching the Arena? Deathhammer just killed forty-five burrowers and he's about to kill some more, yet Duff's gotta talk to this jackass here. Come on, speak already.<end>
+
+=>a81_original
+I heard you recently acquired an ICPD. I'm here to collect it.<end>
+
+=>a81
+I heard you recently acquired an ICPD. I'm here to collect it.<end>
+
+=>q82_original
+What is $(#he/she) talking about, huh? IPDC? <end>
+
+=>q82
+What is $(#he/she) talking about, huh? IPDC? <end>
+
+=>q83_original
+Duffie, $(#he/she)'s gotta be talkin' about that whatever-it's-called ya took from that scrawny fella.<end>
+
+=>q83
+Duffie, $(#he/she)'s gotta be talkin' about that whatever-it's-called ya took from that scrawny fella.<end>
+
+=>q84_original
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He produces a peculiar, high-tech device.::<end>
+
+=>q84
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He produces a peculiar, high-tech device.::<end>
+
+=>a85_original
+Yeah, that appears to be it.<end>
+
+=>a85
+Yeah, that appears to be it.<end>
+
+=>q86_original
+Not so fast, meathead. This thing ain't cheap. How much do you offer for this thing?<end>
+
+=>q86
+Not so fast, meathead. This thing ain't cheap. How much do you offer for this thing?<end>
+
+=>q87_original
+<end>
+
+=>q87
+<end>
+
+=>a88_original
+Ten charons.<end>
+
+=>a88
+Ten charons.<end>
+
+=>q89_original
+You meathead! I think you can do a lot better than that. Pfft, ten charons.<end>
+
+=>q89
+You meathead! I think you can do a lot better than that. Pfft, ten charons.<end>
+
+=>q90_original
+Ya tell $(#him/her) Duffie. Yeah!<end>
+
+=>q90
+Ya tell $(#him/her) Duffie. Yeah!<end>
+
+=>a91_original
+One hundred charons.<end>
+
+=>a91
+One hundred charons.<end>
+
+=>q92_original
+Weak. Where's the money, huh?<end>
+
+=>q92
+Weak. Where's the money, huh?<end>
+
+=>q93_original
+Hmm, show us the money, $(#boy/girl). ::She laughs.::<end>
+
+=>q93
+Hmm, show us the money, $(#boy/girl). ::She laughs.::<end>
+
+=>a94_original
+Two hundred charons<end>
+
+=>a94
+Two hundred charons<end>
+
+=>q95_original
+Hmm, not bad. But I think this should cost... more. More.<end>
+
+=>q95
+Hmm, not bad. But I think this should cost... more. More.<end>
+
+=>q96_original
+::Tina shows several hand signals to Duff. You have no idea what they represent, but the way she glances at you makes it highly unlikely that they mean anything nice..::<end>
+
+=>q96
+::Tina shows several hand signals to Duff. You have no idea what they represent, but the way she glances at you makes it highly unlikely that they mean anything nice..::<end>
+
+=>q97_original
+::He laughs.:: Yeah, Tina, $(#he/she) sure is!<end>
+
+=>q97
+::He laughs.:: Yeah, Tina, $(#he/she) sure is!<end>
+
+=>a98_original
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>a98
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>q99_original
+Huh? Well... Hmmm...<end>
+
+=>q99
+Huh? Well... Hmmm...<end>
+
+=>q100_original
+Duffie?<end>
+
+=>q100
+Duffie?<end>
+
+=>q101_original
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>q101
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>a102_original
+Here you go. ::Give him 200 stygian coins.::<end>
+
+=>a102
+Here you go. ::Give him 200 stygian coins.::<end>
+
+=>q103_original
+Good, good! Here, take this thing. ::He gives you the ICPD.::<end>
+
+=>q103
+Good, good! Here, take this thing. ::He gives you the ICPD.::<end>
+
+=>q104_original
+It's been nice knowing you. Now, I'd like to get back to the Arena. 
+
+So long.<end>
+
+=>q104
+It's been nice knowing you. Now, I'd like to get back to the Arena. 
+
+So long.<end>
+
+=>q105_original
+I'm sure I'll find someone. Try harder.<end>
+
+=>q105
+I'm sure I'll find someone. Try harder.<end>
+
+=>a106_original
+Okay, I'll offer a different amount.<end>
+
+=>a106
+Okay, I'll offer a different amount.<end>
+
+=>q107_original
+Let's hear it.<end>
+
+=>q107
+Let's hear it.<end>
+
+=>q108_original
+<end>
+
+=>q108
+<end>
+
+=>a109_original
+I'd like to buy the device.<end>
+
+=>a109
+I'd like to buy the device.<end>
+
+=>q110_original
+::He searches for the device, but he cannot seem to find it.:: 
+
+Where is that thing? I had it right here!<end>
+
+=>q110
+::He searches for the device, but he cannot seem to find it.:: 
+
+Where is that thing? I had it right here!<end>
+
+=>q111_original
+::He tries to find it for several more minutes, but gives up in the end.:: Ah! I lost it!<end>
+
+=>q111
+::He tries to find it for several more minutes, but gives up in the end.:: Ah! I lost it!<end>
+
+=>q112_original
+How could ya lost it?<end>
+
+=>q112
+How could ya lost it?<end>
+
+=>q113_original
+I don't know, woman! What, are you gonna nag about it now? Huh?<end>
+
+=>q113
+I don't know, woman! What, are you gonna nag about it now? Huh?<end>
+
+=>q114_original
+Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>q114
+Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>a115_original
+FIRE!<end>
+
+=>a115
+FIRE!<end>
+
+=>q116_original
+::After the magic word had been spoken you become the only one left standing. Dispersed and hugging the ground, the group slowly comes to the realization that they are all still alive. One by one, they raise their heads, listening to the blissful silence - silence by Drop Zone standards - and cautiously survey their surroundings. Nothing. Not even a hint of anything stranger than usual.::<end>
+
+=>q116
+::After the magic word had been spoken you become the only one left standing. Dispersed and hugging the ground, the group slowly comes to the realization that they are all still alive. One by one, they raise their heads, listening to the blissful silence - silence by Drop Zone standards - and cautiously survey their surroundings. Nothing. Not even a hint of anything stranger than usual.::<end>
+
+=>q117_original
+::Duff is the first to get back on his feet, and you can see scalding rage in his eyes, that he so desires to punish you for this humiliation. However, he does not. He hesitates - he lets you walk away.::<end>
+
+=>q117
+::Duff is the first to get back on his feet, and you can see scalding rage in his eyes, that he so desires to punish you for this humiliation. However, he does not. He hesitates - he lets you walk away.::<end>
+
+=>a118_original
+See you around, Duffie. Take care.<end>
+
+=>a118
+See you around, Duffie. Take care.<end>
+
+=>a119_original
+I guess you just weren't paying enough attention. Goodbye.<end>
+
+=>a119
+I guess you just weren't paying enough attention. Goodbye.<end>
+
+=>a120_original
+::Leave.::<end>
+
+=>a120
+::Leave.::<end>
+
+=>q121_original
+And you, get lost! Nothing for you here. Actually, I want you all to leave me alone. I just wanna watch the stinking match in peace.<end>
+
+=>q121
+And you, get lost! Nothing for you here. Actually, I want you all to leave me alone. I just wanna watch the stinking match in peace.<end>
+
+=>q122_original
+How much do you offer?<end>
+
+=>q122
+How much do you offer?<end>
+
+=>a123_original
+::[Intimidate]:: You are going to give me that device right now.<end>
+
+=>a123
+::[Intimidate]:: You are going to give me that device right now.<end>
+
+=>q124_original
+And what if I don't?<end>
+
+=>q124
+And what if I don't?<end>
+
+=>a125_original
+::Press your finger against your ear.:: You ready? Prepare to fire on my mark.<end>
+
+=>a125
+::Press your finger against your ear.:: You ready? Prepare to fire on my mark.<end>
+
+=>q126_original
+Huh, what? Who... Are you talking to me, huh, meathead?<end>
+
+=>q126
+Huh, what? Who... Are you talking to me, huh, meathead?<end>
+
+=>a127_original
+::Stare at him in silence.::<end>
+
+=>a127
+::Stare at him in silence.::<end>
+
+=>q128_original
+::As the tension becomes unbearable, the women begin to nervously look around, their gazes scanning the shabby scenery for any signs of the mysterious plus-one. Duff and you, meanwhile, your stares are locked together tightly, without a sign of either one relenting.::<end>
+
+=>q128
+::As the tension becomes unbearable, the women begin to nervously look around, their gazes scanning the shabby scenery for any signs of the mysterious plus-one. Duff and you, meanwhile, your stares are locked together tightly, without a sign of either one relenting.::<end>
+
+=>q129_original
+::But that very sign, a roll of sweat slaloming down his face and between his numerous piercings, marks the beginning of the end of the struggle.::
+
+Alright! Alright! I don't wanna, uh, get zoned out by a, by a sniper or... whatever. ::He raises his stare as if to aid his women in the search for the threat.:: Here, take this crap.<end>
+
+=>q129
+::But that very sign, a roll of sweat slaloming down his face and between his numerous piercings, marks the beginning of the end of the struggle.::
+
+Alright! Alright! I don't wanna, uh, get zoned out by a, by a sniper or... whatever. ::He raises his stare as if to aid his women in the search for the threat.:: Here, take this crap.<end>
+
+=>q130_original
+::He hands you the device.:: We're good, huh? ::All four pairs of eyes are now focused at you.:: Huh?<end>
+
+=>q130
+::He hands you the device.:: We're good, huh? ::All four pairs of eyes are now focused at you.:: Huh?<end>
+
+=>a131_original
+We're good, Duffie. So long.<end>
+
+=>a131
+We're good, Duffie. So long.<end>
+
+=>q132_original
+::But the sign you expected is never shown; instead, the grin of victory flashes under the veil of piercings.::
+
+$(#He/She)'s bluffing, girls, calm yourselves down. We ain't got nothing to worry about. You thought you could fool us, huh? Meathead. 
+
+Now stop this hardcore nonsense and let's talk business.<end>
+
+=>q132
+::But the sign you expected is never shown; instead, the grin of victory flashes under the veil of piercings.::
+
+$(#He/She)'s bluffing, girls, calm yourselves down. We ain't got nothing to worry about. You thought you could fool us, huh? Meathead. 
+
+Now stop this hardcore nonsense and let's talk business.<end>
+
+=>a133_original
+You know what? I bet I can kick your ass in a fist fight, chum.<end>
+
+=>a133
+You know what? I bet I can kick your ass in a fist fight, chum.<end>
+
+=>q134_original
+Chum? Oooooh, is that a challenge, huh? Hey, hey, listen to this meathead, girls. ::He laughs.::<end>
+
+=>q134
+Chum? Oooooh, is that a challenge, huh? Hey, hey, listen to this meathead, girls. ::He laughs.::<end>
+
+=>q135_original
+Ya can dominate $(#his/her) butt, Duffie! Yer the best! <end>
+
+=>q135
+Ya can dominate $(#his/her) butt, Duffie! Yer the best! <end>
+
+=>q136_original
+::She laughs.:: Yeah, dominate this pipeworker!<end>
+
+=>q136
+::She laughs.:: Yeah, dominate this pipeworker!<end>
+
+=>q137_original
+Girls, calm down - calm down. You! ::He points his finger at you.:: Why would you want to fight me?<end>
+
+=>q137
+Girls, calm down - calm down. You! ::He points his finger at you.:: Why would you want to fight me?<end>
+
+=>a138_original
+If I can defeat you, you give me that device. It's as simple as that.<end>
+
+=>a138
+If I can defeat you, you give me that device. It's as simple as that.<end>
+
+=>q139_original
+Oh, it's on now, meathead! You have yourself a deal. Let's do this.<end>
+
+=>q139
+Oh, it's on now, meathead! You have yourself a deal. Let's do this.<end>
+
+=>q140_original
+And don't try to cheat your way out of this by using guns or something funny, or else my girls'll blow your head clean off.<end>
+
+=>q140
+And don't try to cheat your way out of this by using guns or something funny, or else my girls'll blow your head clean off.<end>
+
+=>a141_original
+::Get ready to fight.::<end>
+
+=>a141
+::Get ready to fight.::<end>
+
+=>a142_original
+I don't, um, you misheard it. I was talking about something else.<end>
+
+=>a142
+I don't, um, you misheard it. I was talking about something else.<end>
+
+=>q143_original
+::He laughs.:: Alright. If you say so... *meathead*.<end>
+
+=>q143
+::He laughs.:: Alright. If you say so... *meathead*.<end>
+
+=>a144_original
+I'll be back later.<end>
+
+=>a144
+I'll be back later.<end>
+
+=>a145_original
+Five hundred charons<end>
+
+=>a145
+Five hundred charons<end>
+
+=>q146_original
+Hmm, I don't know... That sounds like some decent coin, actually.<end>
+
+=>q146
+Hmm, I don't know... That sounds like some decent coin, actually.<end>
+
+=>q147_original
+Duffie, look at $(#him/her). Ya can get more coins than that! Ya deserve it.<end>
+
+=>q147
+Duffie, look at $(#him/her). Ya can get more coins than that! Ya deserve it.<end>
+
+=>a148_original
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>a148
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>q149_original
+::He nods.:: Okay...<end>
+
+=>q149
+::He nods.:: Okay...<end>
+
+=>q150_original
+Duffie?<end>
+
+=>q150
+Duffie?<end>
+
+=>q151_original
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>q151
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>a152_original
+Here you go. ::Give him 500 charons.::<end>
+
+=>a152
+Here you go. ::Give him 500 charons.::<end>
+
+=>a153_original
+One thousand charons.<end>
+
+=>a153
+One thousand charons.<end>
+
+=>q154_original
+::Duff nods in agreement.:: That seems like a deal to me! This little thing's worth that much, huh? Hardcore. We sure hit gold with this, girls.<end>
+
+=>q154
+::Duff nods in agreement.:: That seems like a deal to me! This little thing's worth that much, huh? Hardcore. We sure hit gold with this, girls.<end>
+
+=>q155_original
+Sure did, Duffie. ::Svetlana then turns to you.:: As soon as $(#he/she) pays up!<end>
+
+=>q155
+Sure did, Duffie. ::Svetlana then turns to you.:: As soon as $(#he/she) pays up!<end>
+
+=>a156_original
+Here you go. ::Give him 1000 stygian coins.::<end>
+
+=>a156
+Here you go. ::Give him 1000 stygian coins.::<end>
+
+=>a157_original
+Two thousand charons.<end>
+
+=>a157
+Two thousand charons.<end>
+
+=>q158_original
+::Duff seems surprised by your offer at first, but an instant later he begins nodding.:: Yeah, yeah. That's good. Deal! We have a deal!<end>
+
+=>q158
+::Duff seems surprised by your offer at first, but an instant later he begins nodding.:: Yeah, yeah. That's good. Deal! We have a deal!<end>
+
+=>q159_original
+::Tina smiles and shows several hand signals to Duff.::<end>
+
+=>q159
+::Tina smiles and shows several hand signals to Duff.::<end>
+
+=>q160_original
+You're right Tina, with that much coin, we could get ourselves all sorts of different stuff.<end>
+
+=>q160
+You're right Tina, with that much coin, we could get ourselves all sorts of different stuff.<end>
+
+=>q161_original
+May I, um, see the coins?<end>
+
+=>q161
+May I, um, see the coins?<end>
+
+=>a162_original
+Here you go. ::Give him 2000 charons.::<end>
+
+=>a162
+Here you go. ::Give him 2000 charons.::<end>
+
+=>a163_original
+Five thousand charons.<end>
+
+=>a163
+Five thousand charons.<end>
+
+=>q164_original
+::Duff's eyes turn large and become nearly as round as the piercings which decorate his face. His jaw slacks, and his voice grows in richness.:: Whoa! Yeah, sure, it's a deal! We have a deal! ::An uncontrollable laughter escapes him.:: This little thing... is worth *five* *freakin'* *thousand*? Hardcore!<end>
+
+=>q164
+::Duff's eyes turn large and become nearly as round as the piercings which decorate his face. His jaw slacks, and his voice grows in richness.:: Whoa! Yeah, sure, it's a deal! We have a deal! ::An uncontrollable laughter escapes him.:: This little thing... is worth *five* *freakin'* *thousand*? Hardcore!<end>
+
+=>q165_original
+Duffie, ya the man! No more barrel soup for us - we're gonna eat real food! We're gonna be mighty rich! Rich!<end>
+
+=>q165
+Duffie, ya the man! No more barrel soup for us - we're gonna eat real food! We're gonna be mighty rich! Rich!<end>
+
+=>a166_original
+Here's five thousand for the device. ::Give him 5000 stygian coins.::<end>
+
+=>a166
+Here's five thousand for the device. ::Give him 5000 stygian coins.::<end>
+
+=>q167_original
+You are derailed to carry that much coin with you, but I ain't complaining! Girls, we are gonna live like those fat rats up there on the upper level! ::He laughs.::<end>
+
+=>q167
+You are derailed to carry that much coin with you, but I ain't complaining! Girls, we are gonna live like those fat rats up there on the upper level! ::He laughs.::<end>
+
+=>q168_original
+Here you go, take this thing with you. ::He gives you the ICPD.::<end>
+
+=>q168
+Here you go, take this thing with you. ::He gives you the ICPD.::<end>
+
+=>q169_original
+::He laughs.:: I still can't believe this. Can't believe this... This is hardcore! ::He continues laughing.::
+
+I'd... I'd like to get back to watching the Arena. I gotta calm myself a bit. Whoo...
+
+So long.<end>
+
+=>q169
+::He laughs.:: I still can't believe this. Can't believe this... This is hardcore! ::He continues laughing.::
+
+I'd... I'd like to get back to watching the Arena. I gotta calm myself a bit. Whoo...
+
+So long.<end>
+
+=>a170_original
+How much do you want for it?<end>
+
+=>a170
+How much do you want for it?<end>
+
+=>q171_original
+No, no, no. I asked *you* first. How important is this thing to you? Huh?<end>
+
+=>q171
+No, no, no. I asked *you* first. How important is this thing to you? Huh?<end>
+
+=>q172_original
+Come on. Speak.<end>
+
+=>q172
+Come on. Speak.<end>
+
+=>a173_original
+Let's find another way to settle this.<end>
+
+=>a173
+Let's find another way to settle this.<end>
+
+=>q174_original
+Just get on with it, will you? I'm gonna miss the freakin' match.<end>
+
+=>q174
+Just get on with it, will you? I'm gonna miss the freakin' match.<end>
+
+=>q175_original
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He searches for the device, but he can't seem to find it.:: Where is that thing? I had it right here!<end>
+
+=>q175
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He searches for the device, but he can't seem to find it.:: Where is that thing? I had it right here!<end>
+
+=>a176_original
+I need that device you stole from Luben.<end>
+
+=>a176
+I need that device you stole from Luben.<end>
+
+=>q177_original
+Stole what from who, huh?<end>
+
+=>q177
+Stole what from who, huh?<end>
+
+=>q178_original
+Huh? The match is on, talk fast.<end>
+
+=>q178
+Huh? The match is on, talk fast.<end>
+

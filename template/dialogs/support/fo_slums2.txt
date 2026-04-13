@@ -1,0 +1,54 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+I need to sharpen my knife. ::Coughs.::<end>
+
+=>q2
+I need to sharpen my knife. ::Coughs.::<end>
+
+=>q3_original
+I haven't eaten in days. ::Stomach growls.::<end>
+
+=>q3
+I haven't eaten in days. ::Stomach growls.::<end>
+
+=>q4_original
+Please come closer. Let me see you better. ::Coughs.::<end>
+
+=>q4
+Please come closer. Let me see you better. ::Coughs.::<end>
+
+=>q5_original
+You look well fed. Good...<end>
+
+=>q5
+You look well fed. Good...<end>
+
+=>q6_original
+::Extends arm and tries to touch you but changes mind in the last second.::<end>
+
+=>q6
+::Extends arm and tries to touch you but changes mind in the last second.::<end>
+
+=>q7_original
+BOO! ::Laughs out loud.:: Gotcha!<end>
+
+=>q7
+BOO! ::Laughs out loud.:: Gotcha!<end>
+
+=>q8_original
+I'm so hungry!<end>
+
+=>q8
+I'm so hungry!<end>
+
+=>q9_original
+I feel so friable. ::Coughs.::<end>
+
+=>q9
+I feel so friable. ::Coughs.::<end>
+

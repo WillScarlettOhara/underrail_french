@@ -1,0 +1,254 @@
+=>q1_original
+::WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q1
+::WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q3
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q4_original
+
+::Compound formed.::<end>
+
+=>q4
+
+::Compound formed.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Modify sequence::<end>
+
+=>a6
+::Modify sequence::<end>
+
+=>q7_original
+::ERROR: Cannot modify sequence in compound state.::<end>
+
+=>q7
+::ERROR: Cannot modify sequence in compound state.::<end>
+
+=>q8_original
+::$(context.loc_dc_mutagenCombinatorMessage)::<end>
+
+=>q8
+::$(context.loc_dc_mutagenCombinatorMessage)::<end>
+
+=>q9_original
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q9
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+::Insert mutagen: Ovid-1::<end>
+
+=>a11
+::Insert mutagen: Ovid-1::<end>
+
+=>a12_original
+::Insert mutagen: Ovid-2::<end>
+
+=>a12
+::Insert mutagen: Ovid-2::<end>
+
+=>a13_original
+::Insert mutagen: Ovid-3::<end>
+
+=>a13
+::Insert mutagen: Ovid-3::<end>
+
+=>a14_original
+::Insert mutagen: Solis-1::<end>
+
+=>a14
+::Insert mutagen: Solis-1::<end>
+
+=>a15_original
+::Insert mutagen: Solis-2::<end>
+
+=>a15
+::Insert mutagen: Solis-2::<end>
+
+=>a16_original
+::Insert mutagen: Echo-1::<end>
+
+=>a16
+::Insert mutagen: Echo-1::<end>
+
+=>a17_original
+::Insert mutagen: Echo-2::<end>
+
+=>a17
+::Insert mutagen: Echo-2::<end>
+
+=>a18_original
+::Insert mutagen: Echo-3::<end>
+
+=>a18
+::Insert mutagen: Echo-3::<end>
+
+=>a19_original
+::Insert mutagen: Echo-4::<end>
+
+=>a19
+::Insert mutagen: Echo-4::<end>
+
+=>a20_original
+::Insert mutagen: Io-1::<end>
+
+=>a20
+::Insert mutagen: Io-1::<end>
+
+=>a21_original
+::Insert mutagen: Io-2::<end>
+
+=>a21
+::Insert mutagen: Io-2::<end>
+
+=>a22_original
+::Insert mutagen: Io-3::<end>
+
+=>a22
+::Insert mutagen: Io-3::<end>
+
+=>a23_original
+::Insert mutagen: Helicon-1::<end>
+
+=>a23
+::Insert mutagen: Helicon-1::<end>
+
+=>a24_original
+::Insert mutagen: Helicon-2::<end>
+
+=>a24
+::Insert mutagen: Helicon-2::<end>
+
+=>a25_original
+::Insert mutagen: Helicon-3::<end>
+
+=>a25
+::Insert mutagen: Helicon-3::<end>
+
+=>a26_original
+::Insert mutagen: Exitus-1::<end>
+
+=>a26
+::Insert mutagen: Exitus-1::<end>
+
+=>q27_original
+::ERROR: Prohibited compound detected::<end>
+
+=>q27
+::ERROR: Prohibited compound detected::<end>
+
+=>a28_original
+::Back::<end>
+
+=>a28
+::Back::<end>
+
+=>a29_original
+::Clear sequence.::<end>
+
+=>a29
+::Clear sequence.::<end>
+
+=>q30_original
+::Sequence cleared::<end>
+
+=>q30
+::Sequence cleared::<end>
+
+=>a31_original
+::Create compound from sequence::<end>
+
+=>a31
+::Create compound from sequence::<end>
+
+=>q32_original
+::Compound formed.::<end>
+
+=>q32
+::Compound formed.::<end>
+
+=>q33_original
+::ERROR: Empty sequence::<end>
+
+=>q33
+::ERROR: Empty sequence::<end>
+
+=>a34_original
+::Inject compound::<end>
+
+=>a34
+::Inject compound::<end>
+
+=>q35_original
+::Manufacturing agent from sequence...::<end>
+
+=>q35
+::Manufacturing agent from sequence...::<end>
+
+=>q36_original
+::Injecting agent...::<end>
+
+=>q36
+::Injecting agent...::<end>
+
+=>q37_original
+::Success.
+WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q37
+::Success.
+WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q38_original
+::Success.
+ System stable.::<end>
+
+=>q38
+::Success.
+ System stable.::<end>
+
+=>q39_original
+::ERROR: No compound::<end>
+
+=>q39
+::ERROR: No compound::<end>
+
+=>a40_original
+::Leave::<end>
+
+=>a40
+::Leave::<end>
+

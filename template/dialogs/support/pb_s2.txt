@@ -1,0 +1,102 @@
+=>q1_original
+Welcome to Fort Apogee, citizen.<end>
+
+=>q1
+Welcome to Fort Apogee, citizen.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Salutes::<end>
+
+=>q3
+::Salutes::<end>
+
+=>q4_original
+It is our duty to protect all those who cannot protect themselves.<end>
+
+=>q4
+It is our duty to protect all those who cannot protect themselves.<end>
+
+=>q5_original
+I serve Underrail Protectorate proudly, $(#sir/ma'am).<end>
+
+=>q5
+I serve Underrail Protectorate proudly, $(#sir/ma'am).<end>
+
+=>q6_original
+If you need medical assistance, Doctor Anastasia Merrick can be found in the eastern part of Fort Apogee.<end>
+
+=>q6
+If you need medical assistance, Doctor Anastasia Merrick can be found in the eastern part of Fort Apogee.<end>
+
+=>q7_original
+I was told Foundry Guard had a prison riot recently. Hm.<end>
+
+=>q7
+I was told Foundry Guard had a prison riot recently. Hm.<end>
+
+=>q8_original
+Do you think the Faceless might attack Fort Apogee, $(#sir/ma'am)?<end>
+
+=>q8
+Do you think the Faceless might attack Fort Apogee, $(#sir/ma'am)?<end>
+
+=>q9_original
+If every one of us had his own Dreadnought, combat would be so much easier, $(#sir/ma'am).<end>
+
+=>q9
+If every one of us had his own Dreadnought, combat would be so much easier, $(#sir/ma'am).<end>
+
+=>q10_original
+Any info on what happened in the Tchortist institute?<end>
+
+=>q10
+Any info on what happened in the Tchortist institute?<end>
+
+=>q11_original
+I don't understand the Free Drones: Why won't they accept we're here to help, not to conquer?<end>
+
+=>q11
+I don't understand the Free Drones: Why won't they accept we're here to help, not to conquer?<end>
+
+=>q12_original
+Despite our decisive victory, I fear more Free Drones will come from the North, $(#sir/ ma'am).<end>
+
+=>q12
+Despite our decisive victory, I fear more Free Drones will come from the North, $(#sir/ ma'am).<end>
+
+=>q13_original
+I had good friends in Epione Lab...<end>
+
+=>q13
+I had good friends in Epione Lab...<end>
+
+=>q14_original
+I really don't like the Chems, $(#sir/ma'am). I've heard horrible things about them.<end>
+
+=>q14
+I really don't like the Chems, $(#sir/ma'am). I've heard horrible things about them.<end>
+
+=>q15_original
+Luka sells some quality stuff, if you've got the blues.<end>
+
+=>q15
+Luka sells some quality stuff, if you've got the blues.<end>
+
+=>q16_original
+I'm glad SFC Holloway finally came to his senses.<end>
+
+=>q16
+I'm glad SFC Holloway finally came to his senses.<end>
+
+=>q17_original
+Good to hear the situation in Core City has stabilized.<end>
+
+=>q17
+Good to hear the situation in Core City has stabilized.<end>
+

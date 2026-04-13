@@ -1,0 +1,484 @@
+=>q1_original
+Right behind you.<end>
+
+=>q1
+Right behind you.<end>
+
+=>q2_original
+You... you stopped it. You stopped the alarm...<end>
+
+=>q2
+You... you stopped it. You stopped the alarm...<end>
+
+=>a3_original
+Thank you, thank you - and you're welcome.<end>
+
+=>a3
+Thank you, thank you - and you're welcome.<end>
+
+=>q4_original
+::It doesn't take him too long to aim his weapon at you once more. His voice sounds less panicked than earlier, but no less wary.::
+
+Now what happens?<end>
+
+=>q4
+::It doesn't take him too long to aim his weapon at you once more. His voice sounds less panicked than earlier, but no less wary.::
+
+Now what happens?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Now you tell me what made you run away from the Institute of Tchort.<end>
+
+=>a6
+Now you tell me what made you run away from the Institute of Tchort.<end>
+
+=>q7_original
+And then what do you do? What happens if I *do* tell you?<end>
+
+=>q7
+And then what do you do? What happens if I *do* tell you?<end>
+
+=>a8_original
+Then you will be free to go.<end>
+
+=>a8
+Then you will be free to go.<end>
+
+=>q9_original
+::He ponders while still keeping you in his crosshairs. His response is quick.::
+
+Alright, I'll tell you...<end>
+
+=>q9
+::He ponders while still keeping you in his crosshairs. His response is quick.::
+
+Alright, I'll tell you...<end>
+
+=>q10_original
+::He sighs.:: Several days ago I received an order to report for guard duty in the utility section beneath the Institute building. I've never been there before since most of us weren't allowed there, so I was confused at first; from what I knew at the time it contained nothing but gas lines, the power section and other... "utility" related stuff. But, who was I to question orders.<end>
+
+=>q10
+::He sighs.:: Several days ago I received an order to report for guard duty in the utility section beneath the Institute building. I've never been there before since most of us weren't allowed there, so I was confused at first; from what I knew at the time it contained nothing but gas lines, the power section and other... "utility" related stuff. But, who was I to question orders.<end>
+
+=>q11_original
+Well, only after I had gone down there was I to learn that it was all an error - I was sent to that section by mistake, and I was definitely not meant to see... to see... ::He pauses abruptly.::<end>
+
+=>q11
+Well, only after I had gone down there was I to learn that it was all an error - I was sent to that section by mistake, and I was definitely not meant to see... to see... ::He pauses abruptly.::<end>
+
+=>a12_original
+I know what you saw. I've been there and saw the creatures with my own eyes.<end>
+
+=>a12
+I know what you saw. I've been there and saw the creatures with my own eyes.<end>
+
+=>q13_original
+You... did? Then you understand my reasons, yet I'm not sure I understand yours now. I couldn't be a part of something that was doing such... horrible things. I don't understand why or what's happening there, but it's not right. You saw the same things, and you sound as if you disapprove of it to, yet you came here... after me. 
+
+I don't understand.<end>
+
+=>q13
+You... did? Then you understand my reasons, yet I'm not sure I understand yours now. I couldn't be a part of something that was doing such... horrible things. I don't understand why or what's happening there, but it's not right. You saw the same things, and you sound as if you disapprove of it to, yet you came here... after me. 
+
+I don't understand.<end>
+
+=>a14_original
+I do disapprove of it. That's why I'm going to set those creatures free - and you're going to help me.<end>
+
+=>a14
+I do disapprove of it. That's why I'm going to set those creatures free - and you're going to help me.<end>
+
+=>q15_original
+W--what? I'm not going back there!<end>
+
+=>q15
+W--what? I'm not going back there!<end>
+
+=>a16_original
+I have access to the Institute. I'll figure out a way to set them free. Meanwhile, I'm going to need you to help them out once they're outside.<end>
+
+=>a16
+I have access to the Institute. I'll figure out a way to set them free. Meanwhile, I'm going to need you to help them out once they're outside.<end>
+
+=>q17_original
+::He bows his head, his mask concealing his emotions.::
+
+::And his pause stretches to an uncomfortable length.::<end>
+
+=>q17
+::He bows his head, his mask concealing his emotions.::
+
+::And his pause stretches to an uncomfortable length.::<end>
+
+=>q18_original
+I don't know if I could trust you or anyone else... but if your intentions are true...
+
+By the... This is all so dystrophic!<end>
+
+=>q18
+I don't know if I could trust you or anyone else... but if your intentions are true...
+
+By the... This is all so dystrophic!<end>
+
+=>q19_original
+::After a further pause he proceeds with newfound conviction.::
+
+Look, if I can be certain in anything right now, it's that there's a vast ventilation network underneath the Institute. If you could lead them into the vents and show them a way out, I'll wait for them outside.<end>
+
+=>q19
+::After a further pause he proceeds with newfound conviction.::
+
+Look, if I can be certain in anything right now, it's that there's a vast ventilation network underneath the Institute. If you could lead them into the vents and show them a way out, I'll wait for them outside.<end>
+
+=>a20_original
+I think I found a suitable ventilation shaft for them to go through. I don't know exactly where it'll take them, though.<end>
+
+=>a20
+I think I found a suitable ventilation shaft for them to go through. I don't know exactly where it'll take them, though.<end>
+
+=>q21_original
+Then <end>
+
+=>q21
+Then <end>
+
+=>q22_original
+I'll wait for them in Upper Underrail. <end>
+
+=>q22
+I'll wait for them in Upper Underrail. <end>
+
+=>q23_original
+I've done many patrols across the rails. I've got a few ideas where they might emerge from.<end>
+
+=>q23
+I've done many patrols across the rails. I've got a few ideas where they might emerge from.<end>
+
+=>a24_original
+We got ourselves a deal then, brother.<end>
+
+=>a24
+We got ourselves a deal then, brother.<end>
+
+=>q25_original
+I'll be right behind you... $(#*brother*/*sister*). I just need a few minutes... to compose myself.<end>
+
+=>q25
+I'll be right behind you... $(#*brother*/*sister*). I just need a few minutes... to compose myself.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+As you wish.<end>
+
+=>a27
+As you wish.<end>
+
+=>a28_original
+::Nod and leave.::<end>
+
+=>a28
+::Nod and leave.::<end>
+
+=>a29_original
+::Nod.:: You know what to do then.<end>
+
+=>a29
+::Nod.:: You know what to do then.<end>
+
+=>a30_original
+I think I found a suitable ventilation shaft for them to go through. It'll take them through the West Wing and then outside.<end>
+
+=>a30
+I think I found a suitable ventilation shaft for them to go through. It'll take them through the West Wing and then outside.<end>
+
+=>q31_original
+Then I'll head there. <end>
+
+=>q31
+Then I'll head there. <end>
+
+=>a32_original
+I'll do my best to lead them right here, but that might not be possible.<end>
+
+=>a32
+I'll do my best to lead them right here, but that might not be possible.<end>
+
+=>q33_original
+This place is far too dangerous anyway. <end>
+
+=>q33
+This place is far too dangerous anyway. <end>
+
+=>a34_original
+It's highly unlikely that I'll be able to smuggle them through the vents we went through.<end>
+
+=>a34
+It's highly unlikely that I'll be able to smuggle them through the vents we went through.<end>
+
+=>a35_original
+I was ordered by Mediant Samuel to find you. But things have changed now that I've spoken to you, so I've decided to let you leave. You are free to go.<end>
+
+=>a35
+I was ordered by Mediant Samuel to find you. But things have changed now that I've spoken to you, so I've decided to let you leave. You are free to go.<end>
+
+=>q36_original
+::He nods, but his body language reveals that he does not trust you completely.:: I'll go after you. I don't know if any *surprises* lie between me and my new life. Still... thank you.<end>
+
+=>q36
+::He nods, but his body language reveals that he does not trust you completely.:: I'll go after you. I don't know if any *surprises* lie between me and my new life. Still... thank you.<end>
+
+=>a37_original
+I came after you to find you and cull you, and I think now is the right time to do so. Orders are orders, *brother.* ::Attack!::<end>
+
+=>a37
+I came after you to find you and cull you, and I think now is the right time to do so. Orders are orders, *brother.* ::Attack!::<end>
+
+=>a38_original
+To see what?<end>
+
+=>a38
+To see what?<end>
+
+=>q39_original
+::He seems to be unable to find the right words to express what he saw.:: I saw beings - abortive, rejected creatures, malformed and miserable. I was shocked. Thankfully, no one noticed I wasn't supposed to be there, much less that my face was twisted from horror; blame it on the masks we are obligated to wear while on duty.
+
+But those things... they looked human! Like humans that had been crossed with... something.<end>
+
+=>q39
+::He seems to be unable to find the right words to express what he saw.:: I saw beings - abortive, rejected creatures, malformed and miserable. I was shocked. Thankfully, no one noticed I wasn't supposed to be there, much less that my face was twisted from horror; blame it on the masks we are obligated to wear while on duty.
+
+But those things... they looked human! Like humans that had been crossed with... something.<end>
+
+=>a40_original
+Go on...<end>
+
+=>a40
+Go on...<end>
+
+=>q41_original
+I don't exactly know what was going on down there, what those creatures were, and... why they looked like that, but it just wasn't right. And that was only the start of what I was about to see there; it makes me sick to even talk about it. After my shift was over I began thinking about it heavily, non-stop; re-evaluated my life, purpose and what I *thought* I knew about the Institute of Tchort... and if I should still be a part of it.
+
+::He takes a deep breath.:: What happened next... you already know.<end>
+
+=>q41
+I don't exactly know what was going on down there, what those creatures were, and... why they looked like that, but it just wasn't right. And that was only the start of what I was about to see there; it makes me sick to even talk about it. After my shift was over I began thinking about it heavily, non-stop; re-evaluated my life, purpose and what I *thought* I knew about the Institute of Tchort... and if I should still be a part of it.
+
+::He takes a deep breath.:: What happened next... you already know.<end>
+
+=>q42_original
+That is the whole story. I don't care whether you believe me or not, agree with me or not - but it is what I witnessed. Now... ::He raises his weapon again.::
+
+What is it going to be?<end>
+
+=>q42
+That is the whole story. I don't care whether you believe me or not, agree with me or not - but it is what I witnessed. Now... ::He raises his weapon again.::
+
+What is it going to be?<end>
+
+=>a43_original
+You and I are going to help those creatures, brother, that's what's going to be.<end>
+
+=>a43
+You and I are going to help those creatures, brother, that's what's going to be.<end>
+
+=>a44_original
+I believe you, Nevil. You are free to go.<end>
+
+=>a44
+I believe you, Nevil. You are free to go.<end>
+
+=>a45_original
+Just get out of here. Killing you is meaningless at this point.<end>
+
+=>a45
+Just get out of here. Killing you is meaningless at this point.<end>
+
+=>a46_original
+You liar! I shouldn't have allowed you to open your foul mouth! And for that - you die! ::Attack!::<end>
+
+=>a46
+You liar! I shouldn't have allowed you to open your foul mouth! And for that - you die! ::Attack!::<end>
+
+=>a47_original
+What are they hiding down there?<end>
+
+=>a47
+What are they hiding down there?<end>
+
+=>a48_original
+Then we'll see... you don't have many options here, Nevil.<end>
+
+=>a48
+Then we'll see... you don't have many options here, Nevil.<end>
+
+=>a49_original
+Now you come back with me to the Institute of Tchort.<end>
+
+=>a49
+Now you come back with me to the Institute of Tchort.<end>
+
+=>q50_original
+That is not going to happen. I'm not going back there alive!<end>
+
+=>q50
+That is not going to happen. I'm not going back there alive!<end>
+
+=>a51_original
+Okay... you stand your ground. But tell me: What made you run away from the Institute in the first place?<end>
+
+=>a51
+Okay... you stand your ground. But tell me: What made you run away from the Institute in the first place?<end>
+
+=>a52_original
+How about dead!? ::Attack!::<end>
+
+=>a52
+How about dead!? ::Attack!::<end>
+
+=>a53_original
+Now you die. ::Attack!::<end>
+
+=>a53
+Now you die. ::Attack!::<end>
+
+=>a54_original
+Please, it was easier than making rathound barbecue.<end>
+
+=>a54
+Please, it was easier than making rathound barbecue.<end>
+
+=>a55_original
+I just pressed random buttons and it ended up working.<end>
+
+=>a55
+I just pressed random buttons and it ended up working.<end>
+
+=>a56_original
+Shut up, traitor! Now that I no longer need you I'm going to punish you for your betrayal! ::Attack!::<end>
+
+=>a56
+Shut up, traitor! Now that I no longer need you I'm going to punish you for your betrayal! ::Attack!::<end>
+
+=>q57_original
+I can't believe it... we survived! ::He laughs uncontrollably.:: We survived!<end>
+
+=>q57
+I can't believe it... we survived! ::He laughs uncontrollably.:: We survived!<end>
+
+=>a58_original
+Those oversized toasters were no match for us.<end>
+
+=>a58
+Those oversized toasters were no match for us.<end>
+
+=>a59_original
+You fought good, Nevil. Without you we'd have been toasted.<end>
+
+=>a59
+You fought good, Nevil. Without you we'd have been toasted.<end>
+
+=>q60_original
+::The pulsating red light illuminates the robed figure that is frantically typing something on the console in front of him, and despite the loudness of the alarm you can clearly hear him gasping for breath through his thick mask. He promptly realizes someone is near and recoils back, simultaneously raising his weapon and pointing it at you. You don't even blink; you have stared down so many gun barrels in the past that you instinctively know, as in this case, when a raised weapon is just a prelude to the spoken word of its wielder.::
+
+Wh--who are you!? Did you follow me here!? S--speak!<end>
+
+=>q60
+::The pulsating red light illuminates the robed figure that is frantically typing something on the console in front of him, and despite the loudness of the alarm you can clearly hear him gasping for breath through his thick mask. He promptly realizes someone is near and recoils back, simultaneously raising his weapon and pointing it at you. You don't even blink; you have stared down so many gun barrels in the past that you instinctively know, as in this case, when a raised weapon is just a prelude to the spoken word of its wielder.::
+
+Wh--who are you!? Did you follow me here!? S--speak!<end>
+
+=>a61_original
+Take it easy, brother. I was sent by Mediant Samuel to find you.<end>
+
+=>a61
+Take it easy, brother. I was sent by Mediant Samuel to find you.<end>
+
+=>q62_original
+Mediant!? You listen to me now: I--<end>
+
+=>q62
+Mediant!? You listen to me now: I--<end>
+
+=>q63_original
+::A roaring sound of large metal gates opening in the distance interrupts him. His heavy breathing becomes even more pronounced, and it takes him a moment to continue.::
+
+They are coming...<end>
+
+=>q63
+::A roaring sound of large metal gates opening in the distance interrupts him. His heavy breathing becomes even more pronounced, and it takes him a moment to continue.::
+
+They are coming...<end>
+
+=>a64_original
+Who is coming?<end>
+
+=>a64
+Who is coming?<end>
+
+=>q65_original
+I triggered an alarm when I... uh, when I fell through the ventilation shaft. The voice... the voice said that security bots will, will be dispatched here to neutralize the intruder... 
+
+There is a console here but I can't do anything with the abortive thing...<end>
+
+=>q65
+I triggered an alarm when I... uh, when I fell through the ventilation shaft. The voice... the voice said that security bots will, will be dispatched here to neutralize the intruder... 
+
+There is a console here but I can't do anything with the abortive thing...<end>
+
+=>q66_original
+::Another loud gate opens.::
+
+They are getting closer... closer...<end>
+
+=>q66
+::Another loud gate opens.::
+
+They are getting closer... closer...<end>
+
+=>a67_original
+::Get ready!::<end>
+
+=>a67
+::Get ready!::<end>
+
+=>a68_original
+What is coming?<end>
+
+=>a68
+What is coming?<end>
+
+=>a69_original
+I didn't follow you, I swear!<end>
+
+=>a69
+I didn't follow you, I swear!<end>
+
+=>q70_original
+Don't lie to me! You're from the Institute! I--<end>
+
+=>q70
+Don't lie to me! You're from the Institute! I--<end>
+
+=>a71_original
+Consider this a dismissal from Preservation Forces. ::Attack!::<end>
+
+=>a71
+Consider this a dismissal from Preservation Forces. ::Attack!::<end>
+
+=>q72_original
+Brace yourself! They are coming!<end>
+
+=>q72
+Brace yourself! They are coming!<end>
+
